@@ -1961,6 +1961,11 @@ If this is correct, choose Next. If not, choose the data type that best describe
         <source>Clear local backup cache</source>
         <translation></translation>
     </message>
+	<message>
+		<source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
+		<translation></translation>
+	</message>
 </context>
 <context>
     <name>KxPivotDateFilterDlg</name>
