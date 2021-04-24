@@ -19736,7 +19736,7 @@ Screen</source>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Öneri</translation>
     </message>
     <message>
         <source>Recommend Template From Docer</source>
@@ -45500,7 +45500,7 @@ Count</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"/>
+        <translation>Denklem</translation>
     </message>
     <message>
         <source>Dark Mode</source>
@@ -45526,7 +45526,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>I don&apos;t like the Student Tools, because...</source>
