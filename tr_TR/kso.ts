@@ -2897,7 +2897,7 @@ Please save the file and create share link</source>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Düzenle</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -13743,15 +13743,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Düzenle</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished"/>
+        <translation>Düz Nokta</translation>
     </message>
     <message>
         <source>Insert Control</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Ekle</translation>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -13791,7 +13791,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Rotate Object</source>
-        <translation type="unfinished"/>
+        <translation>Nesneyi Döndür</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -13803,7 +13803,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished"/>
+        <translation>Düz Bölüt</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -13917,7 +13917,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff</source>
-        <translation type="unfinished"/>
+        <translation>*.aif;*.aifc;*.aiff</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -13957,7 +13957,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>*.*</source>
-        <translation type="unfinished"/>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -14046,7 +14046,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>New Document.doc</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Belge.doc</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -36691,14 +36691,14 @@ Please check your network your firewall configuration</source>
     <name>KxFormatOption_Shape</name>
     <message>
         <source>SHAPE OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>ŞEKİL SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
     <name>KxFormatOption_Chart</name>
     <message>
         <source>CHART OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>GRAFİK SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
@@ -37851,7 +37851,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Düzenle</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
