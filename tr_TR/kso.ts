@@ -26908,7 +26908,7 @@ Possible reasons:
     </message>
     <message>
         <source>feedback</source>
-        <translation>geri bildirim</translation>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
