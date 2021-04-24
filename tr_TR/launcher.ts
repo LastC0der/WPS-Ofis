@@ -25,9 +25,5 @@
         <source>KLauncherWidget</source>
         <translation>KLauncherWidget</translation>
     </message>
-    <message>
-        <source>KLauncherWidget11111111</source>
-        <translation type="unfinished"/>
-    </message>    
 </context>
 </TS>
