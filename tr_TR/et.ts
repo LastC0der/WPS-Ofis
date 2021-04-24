@@ -4724,7 +4724,7 @@ To highlight all changes, uncheck the When, Who, and Where options.</source>
     </message>
     <message>
         <source>The number format you entered is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiğiniz sayı biçimi geçersiz.</translation>
     </message>
     <message>
         <source>Content in cell is too long.</source>
@@ -4917,7 +4917,7 @@ WPS Elektronik Tablolar&apos;ın aynı örneğinde düzenleyip yeniden yerleşti
     </message>
     <message>
         <source>Dialog Title</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu Başlığı</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.
@@ -4927,7 +4927,7 @@ Devam etmek ve sığacak kadar veriyi içe aktarmak için Tamam&apos;ı tıklay�
     </message>
     <message>
         <source>Final Value</source>
-        <translation type="unfinished"/>
+        <translation>Son Değer</translation>
     </message>
     <message>
         <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
