@@ -1569,7 +1569,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>feedback</source>
-        <translation>geri bildirim</translation>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>pageSr：</source>
@@ -7294,7 +7294,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>accout info</source>
@@ -7758,7 +7758,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -11675,11 +11675,11 @@ Navigation</source>
     </message>
     <message>
         <source>FeedBack</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
@@ -11698,11 +11698,11 @@ Navigation</source>
     </message>
     <message>
         <source>FeedBack</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
@@ -11725,11 +11725,11 @@ Navigation</source>
     </message>
     <message>
         <source>FeedBack</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
@@ -11748,11 +11748,11 @@ Navigation</source>
     </message>
     <message>
         <source>FeedBack</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
