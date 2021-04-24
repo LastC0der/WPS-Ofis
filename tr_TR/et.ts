@@ -11307,7 +11307,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
     <message>
         <source>The comment of </source>
@@ -28455,7 +28455,7 @@ Window</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -44954,7 +44954,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -45099,7 +45099,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
     <message>
         <source>Worksheet Options</source>
@@ -50031,11 +50031,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Split By Day</source>
-        <translation type="unfinished"/>
+        <translation>Güne Böl</translation>
     </message>
     <message>
         <source>Split By Year</source>
-        <translation type="unfinished"/>
+        <translation>Yıla Böl</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -50071,7 +50071,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Split By Month</source>
-        <translation type="unfinished"/>
+        <translation>Aya Böl</translation>
     </message>
     <message>
         <source>Have no Filter Datas to split</source>
@@ -50283,11 +50283,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>ODBC data sources:</source>
-        <translation type="unfinished"/>
+        <translation>ODBC veri kaynakları:</translation>
     </message>
     <message>
         <source>Data Connection Wizard</source>
-        <translation type="unfinished"/>
+        <translation>Veri Bağlantı Sihirbazı</translation>
     </message>
 </context>
 <context>
@@ -50587,11 +50587,11 @@ Değer: </translation>
     </message>
     <message>
         <source>Split By Day</source>
-        <translation type="unfinished"/>
+        <translation>Güne Böl</translation>
     </message>
     <message>
         <source>Split By Year</source>
-        <translation type="unfinished"/>
+        <translation>Yıla Böl</translation>
     </message>
     <message>
         <source>Preview: (Only show part of data)</source>
@@ -50603,7 +50603,7 @@ Değer: </translation>
     </message>
     <message>
         <source>Split By Month</source>
-        <translation type="unfinished"/>
+        <translation>Aya Böl</translation>
     </message>
     <message>
         <source>Have no Filter Datas to split</source>
@@ -50715,7 +50715,8 @@ Design Mode</source>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic
+Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -50806,7 +50807,7 @@ Editor</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
     <message>
         <source>Design Mode</source>
