@@ -1603,7 +1603,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>*.*</source>
-        <translation type="unfinished"/>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -2760,7 +2760,7 @@ Check</source>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Düzenle</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
@@ -2943,7 +2943,7 @@ Check</source>
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff</source>
-        <translation type="unfinished"/>
+        <translation>*.aif;*.aifc;*.aiff</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -12559,7 +12559,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Düzenle</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -14906,11 +14906,11 @@ Master</source>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Düzenle</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished"/>
+        <translation>Düz Nokta</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -14995,7 +14995,7 @@ Master</source>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished"/>
+        <translation>Düz Bölüt</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -32630,14 +32630,14 @@ Master</source>
     <name>KxWppFormatOption_Shape</name>
     <message>
         <source>SHAPE OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>ŞEKİL SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatOption_Chart</name>
     <message>
         <source>CHART OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>GRAFİK SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
