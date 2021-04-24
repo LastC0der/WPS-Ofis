@@ -16367,11 +16367,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Düzenle</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished"/>
+        <translation>Düz Nokta</translation>
     </message>
     <message>
         <source>Primary Horizontal</source>
@@ -16443,7 +16443,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished"/>
+        <translation>Düz Bölüt</translation>
     </message>
     <message>
         <source>Form Field Options</source>
@@ -23212,7 +23212,7 @@ Protection</source>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Düzenle</translation>
     </message>
     <message>
         <source>Edit Borders</source>
@@ -50373,14 +50373,14 @@ Try one or more of the following:
     <name>KxWpsFormatOption_Shape</name>
     <message>
         <source>SHAPE OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>ŞEKİL SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFormatOption_Chart</name>
     <message>
         <source>CHART OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>GRAFİK SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
