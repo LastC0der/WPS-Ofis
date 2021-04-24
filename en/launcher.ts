@@ -2,7 +2,7 @@
 <!DOCTYPE TS>
 <TS version="2.1">
 <context>
-    <name>KLauncherWidgetClass</name>
+    <name>KLauncherWidgetClass123456</name>
     <message>
         <source>WPS Presentation</source>
         <translation></translation>
