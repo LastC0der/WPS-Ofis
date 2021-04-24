@@ -2731,7 +2731,7 @@ Check</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -16492,7 +16492,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
     <message>
         <source>Keep Source Formattin</source>
@@ -17451,7 +17451,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -26406,7 +26406,7 @@ Window</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -29246,7 +29246,8 @@ Eklentileri</translation>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic
+Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -29663,7 +29664,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
     <message>
         <source>Design Mode</source>
