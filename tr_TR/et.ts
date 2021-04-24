@@ -13497,7 +13497,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Öneri</translation>
     </message>
     <message>
         <source>Style Name Not Valid</source>
@@ -17322,7 +17322,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
@@ -28447,7 +28447,7 @@ Window</source>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Öneri</translation>
     </message>
     <message>
         <source>Recommend Template From Docer</source>
@@ -55442,7 +55442,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Öneri</translation>
     </message>
     <message>
         <source>Undefined.</source>
@@ -57727,7 +57727,7 @@ Düzenle</translation>
     <name>feedback::KxFeedbackLabel</name>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
