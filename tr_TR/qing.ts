@@ -7293,7 +7293,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Öneri</translation>
     </message>
     <message>
         <source>Yesterday </source>
@@ -7301,7 +7301,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>last modify time : </source>
@@ -10449,14 +10449,14 @@ Time for upgrade: %1</source>
     <name>KSyncFolderWidget</name>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
     <name>KSyncReassociationWidget</name>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
