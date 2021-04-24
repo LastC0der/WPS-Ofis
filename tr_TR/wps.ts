@@ -19744,7 +19744,7 @@ Screen</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -23130,7 +23130,7 @@ Protection</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -29242,7 +29242,8 @@ Design Mode</source>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic
+Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -29386,7 +29387,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -35147,7 +35148,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -35304,7 +35305,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
     <message>
         <source>Show Document Map</source>
