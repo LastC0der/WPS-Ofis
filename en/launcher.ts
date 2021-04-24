@@ -27,9 +27,5 @@
         <source>KLauncherWidget</source>
         <translation></translation>
     </message>
-    <message>
-        <source>KLauncherWidget11111111</source>
-        <translation></translation>
-    </message>    
 </context>
 </TS>
