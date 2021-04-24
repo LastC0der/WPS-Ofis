@@ -22,8 +22,12 @@
         <translation>WPS Ofis&apos;e hoş geldiniz</translation>
     </message>
     <message>
+        <source>KLauncherWidget</source>
+        <translation>KLauncherWidget</translation>
+    </message>
+    <message>
         <source>KLauncherWidget11111111</source>
         <translation type="unfinished"/>
-    </message>
+    </message>    
 </context>
 </TS>
