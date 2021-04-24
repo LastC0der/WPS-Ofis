@@ -16484,7 +16484,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Öneri</translation>
     </message>
     <message>
         <source>Recommend Template From Docer</source>
@@ -29531,7 +29531,7 @@ Sorter</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Master View</source>
