@@ -19852,11 +19852,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Düzenle</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="unfinished"/>
+        <translation>Düz Nokta</translation>
     </message>
     <message>
         <source>Primary Horizontal</source>
@@ -19880,7 +19880,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Align VTop</source>
-        <translation type="unfinished"/>
+        <translation>Üste Hizala</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -19920,7 +19920,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="unfinished"/>
+        <translation>Düz Bölüt</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -55591,7 +55591,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation>Köprüyü Düzenle</translation>
+        <translation>Köprü Düzenle</translation>
     </message>
 </context>
 <context>
@@ -55656,7 +55656,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     <name>KxEtFormatOption_Shape</name>
     <message>
         <source>SHAPE OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>ŞEKİL SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
