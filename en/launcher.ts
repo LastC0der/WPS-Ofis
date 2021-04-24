@@ -24,7 +24,7 @@
         <translation></translation>
     </message>
     <message>
-        <source>KLauncherWidget</source>
+        <source>KLauncherWidget11111111</source>
         <translation></translation>
     </message>
 </context>
