@@ -29597,7 +29597,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>&amp;Option ...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçenek...</translation>
     </message>
     <message>
         <source>地址(&amp;D):</source>
@@ -29850,7 +29850,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>C&amp;opy subtotal to new sheet</source>
-        <translation type="unfinished"/>
+        <translation>Ara toplamı yeni sayfaya &amp;kopyala</translation>
     </message>
     <message>
         <source>&amp;Summary below data</source>
