@@ -22583,7 +22583,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>GAMMAINV(probability,alpha,beta)</source>
-        <translation type="unfinished"/>
+        <translation>GAMATERS(olasılık,alfa,beta)</translation>
     </message>
     <message>
         <source>Returns the number of columns in an array or reference.</source>
@@ -22603,7 +22603,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>GAMMALN(x)</source>
-        <translation type="unfinished"/>
+        <translation>GAMMALN(x)</translation>
     </message>
     <message>
         <source>Returns the sum of the numbers in the column of a list or database that matches the conditions you specify.</source>
@@ -22723,7 +22723,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>GAMMADIST(x,alpha,beta,cumulative)</source>
-        <translation type="unfinished"/>
+        <translation>GAMADAĞ(x,alfa,beta,kümülatif)</translation>
     </message>
     <message>
         <source>Returns TRUE if any of the arguments are TRUE; returns FALSE only if all arguments are FALSE.</source>
@@ -22823,7 +22823,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>RATE(nper,pmt,pv,fv,type,guess)</source>
-        <translation type="unfinished"/>
+        <translation>FAİZ_ORANI(dönem_sayısı,devresel_ödeme,bd,gd,tür,tahmin)</translation>
     </message>
     <message>
         <source>INFO(type_text)</source>
@@ -22899,7 +22899,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the slope of the linear regression line through data points in known_y&apos;s and known_x&apos;s.</source>
-        <translation type="unfinished"/>
+        <translation>Bilinen_y&apos;ler ve bilinen_x&apos;lerdeki veri noktaları aracılığıyla, doğrusal regresyon çizgisinin eğimini verir.</translation>
     </message>
     <message>
         <source>IMPRODUCT(inumber1,inumber2,...)</source>
@@ -23544,7 +23544,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>GAMMALN(x)</source>
         <comment>GAMMALN_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>GAMMALN(x)</translation>
     </message>
     <message>
         <source>Returns the sine of a given angle.</source>
@@ -23920,7 +23920,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SLOPE(known_y&apos;s,known_x&apos;s)</source>
-        <translation type="unfinished"/>
+        <translation>EĞİM(bilinen_y&apos;ler, bilinen_x&apos;ler)</translation>
     </message>
     <message>
         <source>Returns the error function whose integral is between lower_limit and upper_limit.</source>
@@ -24157,7 +24157,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>FV(rate,nper,pmt,pv,type)</source>
-        <translation type="unfinished"/>
+        <translation>GD(oran,taksit_sayısı,devresel_ödeme,gd,tür)</translation>
     </message>
     <message>
         <source>LOGINV(probability,mean,standard_dev)</source>
@@ -24482,7 +24482,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>FTEST(array1,array2)</source>
-        <translation type="unfinished"/>
+        <translation>FTEST(dizi1,dizi2)</translation>
     </message>
     <message>
         <source>Evaluates an expression against a list of values and returns the result corresponding to the first matching value. If there is no match, an optional default value is returned.</source>
@@ -25056,7 +25056,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
-        <translation type="unfinished"/>
+        <translation>ÖDEME(düzenleme, vade, oran, pr, teminat, sıklık, [temel])</translation>
     </message>
     <message>
         <source>SET.NAME(name_text, value)</source>
@@ -25613,7 +25613,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>GEOMEAN(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>GEOORT(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>EXPONDIST(x,lambda,cumulative)</source>
@@ -25621,7 +25621,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>T(value)</source>
-        <translation type="unfinished"/>
+        <translation>S(değer)</translation>
     </message>
     <message>
         <source>N(value)</source>
