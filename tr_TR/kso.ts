@@ -4679,7 +4679,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi</translation>
     </message>
     <message>
         <source>Gear</source>
@@ -6579,7 +6579,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Paper1</source>
@@ -15387,11 +15387,11 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Font &amp;color:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazı tipi rengi:</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>&amp;Kerning for fonts:</source>
@@ -28701,15 +28701,15 @@ Possible reasons:
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Boyut</translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation type="unfinished"/>
+        <translation>Örnek</translation>
     </message>
     <message>
         <source>Font st&amp;yle</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;azı tipi stili</translation>
     </message>
     <message>
         <source>Wr&amp;iting System</source>
