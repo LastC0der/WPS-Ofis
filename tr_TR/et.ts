@@ -26819,11 +26819,11 @@ Başvuru</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>regular</source>
-        <translation type="unfinished"/>
+        <translation>normal</translation>
     </message>
     <message>
         <source>Check Cell</source>
@@ -26841,7 +26841,7 @@ Başvuru</translation>
     <message>
         <source>Regular</source>
         <comment>TX_FontName_Regular2</comment>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>CExplanatory Text</source>
@@ -40101,7 +40101,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
@@ -40152,7 +40152,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
@@ -40211,7 +40211,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
@@ -45258,7 +45258,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Symbol</source>
