@@ -24803,7 +24803,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>TREND(known_y&apos;s,known_x&apos;s,new_x&apos;s,const)</source>
-        <translation>EĞİLİM(known_y&apos;lar,known_x&apos;lar,new_x&apos;ler,const)</translation>
+        <translation>EĞİLİM(bilinen_y&apos;ler,bilinen_x&apos;ler,yeni_x&apos;ler,sabit)</translation>
     </message>
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
