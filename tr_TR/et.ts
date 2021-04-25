@@ -22871,7 +22871,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>POWER(number,power)</source>
-        <translation type="unfinished"/>
+        <translation>KUVVET(sayı,kuvvet)</translation>
     </message>
     <message>
         <source>STDEVA(number1,number2,...)</source>
@@ -22923,7 +22923,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>OFFSET(reference,rows,cols,height,width)</source>
-        <translation type="unfinished"/>
+        <translation>KAYDIR(başv,satırlar,sütunlar,yükseklik,genişlik)</translation>
     </message>
     <message>
         <source>Extracts a single value in the column of a list or database that matches the conditions you specify.</source>
@@ -23111,7 +23111,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MATCH(lookup_value,lookup_array,match_type)</source>
-        <translation type="unfinished"/>
+        <translation>KAÇINCI(aranan_değer,aranan_dizi,eşleştir_tür)</translation>
     </message>
     <message>
         <source>Converts a binary number to hexadecimal.</source>
@@ -23152,7 +23152,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
-        <translation type="unfinished"/>
+        <translation>HİPERGEOMDAĞ(başarı_örnekleme,sayı_örnek,b_popülasyon,sayı_pop)</translation>
     </message>
     <message>
         <source>Returns the net present value for a schedule of crash flows.</source>
@@ -23196,7 +23196,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SQRTPI(number)</source>
-        <translation type="unfinished"/>
+        <translation>KAREKÖKPİ(sayı)</translation>
     </message>
     <message>
         <source>ASINH(number)</source>
@@ -23292,7 +23292,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMPOWER(inumber,number)</source>
-        <translation type="unfinished"/>
+        <translation>SANKUVVET(karmsayı,sayı)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is not text (blank cells are not text) and FALSE otherwise.</source>
@@ -23425,7 +23425,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>TRIMMEAN(array,percent)</source>
-        <translation type="unfinished"/>
+        <translation>KIRPORTALAMA(dizi,yüzde)</translation>
     </message>
     <message>
         <source>FREAD(file_num, num_chars)</source>
@@ -24422,7 +24422,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MROUND(number,multiple)</source>
-        <translation type="unfinished"/>
+        <translation>KYUVARLA(sayı,katsayı)</translation>
     </message>
     <message>
         <source>RETURN(value)</source>
@@ -25036,7 +25036,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>INTERCEPT(known_y&apos;s,known_x&apos;s)</source>
-        <translation type="unfinished"/>
+        <translation>KESMENOKTASI(bilinen_y&apos;ler,bilinen_x&apos;ler)</translation>
     </message>
     <message>
         <source>CHISQ.INV(probability,degrees_freedom)</source>
@@ -25682,7 +25682,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>TRIM(text)</source>
-        <translation type="unfinished"/>
+        <translation>KIRP(metin)</translation>
     </message>
 </context>
 <context>
