@@ -23580,7 +23580,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>WEEKNUM(serial_num,return_type)</source>
-        <translation type="unfinished"/>
+        <translation>HAFTASAY(seri_no,döndür_tür)</translation>
     </message>
     <message>
         <source>RAND()</source>
@@ -23984,7 +23984,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>WEEKDAY(serial_number,return_type)</source>
-        <translation type="unfinished"/>
+        <translation>HAFTANINGÜNÜ(seri_no,döndür_tür)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population (ignores logical values and text).</source>
@@ -24434,7 +24434,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>HEX2BIN(number,places)</source>
-        <translation type="unfinished"/>
+        <translation>HEX2BIN(sayı,basamak)</translation>
     </message>
     <message>
         <source>DEC2BIN(number,places)</source>
@@ -24956,7 +24956,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>HEX2OCT(number,places)</source>
-        <translation type="unfinished"/>
+        <translation>HEX2OCT(sayı,basamak)</translation>
     </message>
     <message>
         <source>FORECAST(x,known_y&apos;s,known_x&apos;s)</source>
@@ -25453,7 +25453,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>HEX2DEC(number)</source>
-        <translation type="unfinished"/>
+        <translation>HEX2DEC(sayı)</translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
@@ -25609,7 +25609,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>HARMEAN(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>HARORT(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>GEOMEAN(number1,number2,...)</source>
