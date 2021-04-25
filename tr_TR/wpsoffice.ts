@@ -4964,15 +4964,15 @@ If this error occurs repeatedly, please send us an error report.</source>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Boyut</translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation type="unfinished"/>
+        <translation>Örnek</translation>
     </message>
     <message>
         <source>Font st&amp;yle</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;azı tipi stili</translation>
     </message>
     <message>
         <source>Wr&amp;iting System</source>
