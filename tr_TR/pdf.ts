@@ -5781,7 +5781,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FontSize</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Fit Width</source>
@@ -5793,11 +5793,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>BookMark</source>
-        <translation type="unfinished"/>
+        <translation>Yer İşareti</translation>
     </message>
     <message>
         <source>Delete Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigranı Sil</translation>
     </message>
     <message>
         <source>Options</source>
