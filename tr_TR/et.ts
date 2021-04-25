@@ -23055,7 +23055,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Predicts the linear increasing amount based on the current data.</source>
-        <translation type="unfinished"/>
+        <translation>Bilinen değerlere en küçük kareler yöntemini uygulayarak değerleri bir doğruya uydurur ve bir doğrusal eğilim boyunca verir.</translation>
     </message>
     <message>
         <source>Logical</source>
