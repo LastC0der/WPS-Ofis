@@ -5053,7 +5053,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>Documents                  %s</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler                  %s</translation>
     </message>
     <message>
         <source>Home Fax</source>
@@ -5077,7 +5077,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Find</source>
@@ -5086,7 +5086,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
@@ -7040,7 +7040,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>SAMPLE</source>
-        <translation type="unfinished"/>
+        <translation>ÖRNEK</translation>
     </message>
     <message>
         <source>TOP SECRET</source>
@@ -8607,7 +8607,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot</translation>
     </message>
     <message>
         <source>&amp;Footnote</source>
@@ -9677,15 +9677,15 @@ Kaydır</translation>
     <name>KxPageSetupDlg</name>
     <message>
         <source>cm</source>
-        <translation type="unfinished"/>
+        <translation>cm</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished"/>
+        <translation>in</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"/>
+        <translation>mm</translation>
     </message>
     <message>
         <source>pt</source>
@@ -14905,7 +14905,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sayfa</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -15234,11 +15234,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Font Size:</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Boyutu:</translation>
     </message>
     <message>
         <source>Go to Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Son nota git</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -15246,7 +15246,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -18844,7 +18844,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Toolbars</source>
@@ -20097,7 +20097,7 @@ Changes</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Formats - Compatibility Mode</source>
@@ -22147,11 +22147,11 @@ Check</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot</translation>
     </message>
     <message>
         <source>Mail Merge Previous Record</source>
@@ -25176,7 +25176,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sayfa</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -31021,7 +31021,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Sort by:</source>
@@ -31550,7 +31550,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Font &amp;color:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazı tipi rengi:</translation>
     </message>
     <message>
         <source>&amp;Default...</source>
@@ -35491,7 +35491,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
@@ -36584,7 +36584,7 @@ Pages</source>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sayfa</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -36612,7 +36612,7 @@ Pages</source>
     </message>
     <message>
         <source>Page X</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa X</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -36620,7 +36620,7 @@ Pages</source>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -36628,7 +36628,7 @@ Pages</source>
     </message>
     <message>
         <source>Page X of Y</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa X / Y</translation>
     </message>
     <message>
         <source>From File</source>
@@ -36640,7 +36640,7 @@ Pages</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -36960,7 +36960,7 @@ Break</source>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sayfa</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -36992,7 +36992,7 @@ Break</source>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -37000,7 +37000,7 @@ Break</source>
     </message>
     <message>
         <source>Page X of Y</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa X / Y</translation>
     </message>
     <message>
         <source>From File</source>
@@ -37012,7 +37012,7 @@ Break</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -37286,7 +37286,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sayfa</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -37334,7 +37334,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -37559,7 +37559,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sayfa</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -37607,7 +37607,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -39559,11 +39559,11 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot</translation>
     </message>
     <message>
         <source>Enter + and - to move relative to the current location. 
@@ -44628,7 +44628,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol</translation>
     </message>
     <message>
         <source>From File</source>
@@ -44640,7 +44640,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -45088,7 +45088,7 @@ Number</source>
     </message>
     <message>
         <source>Page X</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa X</translation>
     </message>
     <message>
         <source>Insert AutoText</source>
@@ -45096,7 +45096,7 @@ Number</source>
     </message>
     <message>
         <source>Page X of Y</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa X / Y</translation>
     </message>
     <message>
         <source>Insert Number of Pages</source>
@@ -45590,7 +45590,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Fields</source>
-        <translation type="unfinished"/>
+        <translation>Alanlar</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -45610,11 +45610,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Page X</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa X</translation>
     </message>
     <message>
         <source>Page X of Y</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa X / Y</translation>
     </message>
     <message>
         <source>From File</source>
@@ -47735,7 +47735,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>Show Level</source>
@@ -48035,7 +48035,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işareti</translation>
     </message>
     <message>
         <source>The referenced content is empty.</source>
@@ -49129,7 +49129,7 @@ Try one or more of the following:
     <name>KxWpsWaterMarkGalleryModelItem</name>
     <message>
         <source>Edit Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigranı Düzenle</translation>
     </message>
     <message>
         <source>Apply to Whole Document</source>
@@ -49137,7 +49137,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Delete Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigranı Sil</translation>
     </message>
     <message>
         <source>Apply to This Section</source>
@@ -49692,39 +49692,39 @@ Try one or more of the following:
     </message>
     <message>
         <source>Level 1</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 1</translation>
     </message>
     <message>
         <source>Level 2</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 2</translation>
     </message>
     <message>
         <source>Level 3</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 3</translation>
     </message>
     <message>
         <source>Level 4</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 4</translation>
     </message>
     <message>
         <source>Level 5</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 5</translation>
     </message>
     <message>
         <source>Level 6</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 6</translation>
     </message>
     <message>
         <source>Level 7</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 7</translation>
     </message>
     <message>
         <source>Level 8</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 8</translation>
     </message>
     <message>
         <source>Level 9</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 9</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -49740,7 +49740,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
@@ -50095,7 +50095,7 @@ Try one or more of the following:
     <name>KxWpsCustomPageNumStyleHelp</name>
     <message>
         <source>Page 2 of X</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa 2 / X</translation>
     </message>
     <message>
         <source>Page 1 of x</source>
@@ -50111,15 +50111,15 @@ Try one or more of the following:
     </message>
     <message>
         <source>Page X</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa X</translation>
     </message>
     <message>
         <source>Page X of y</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa X / y</translation>
     </message>
     <message>
         <source>Page X of Y</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa X / Y</translation>
     </message>
 </context>
 <context>
