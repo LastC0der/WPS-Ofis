@@ -22955,7 +22955,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IFERROR(value,value_if_error)</source>
-        <translation type="unfinished"/>
+        <translation>EĞERHATA(değer,eğer_hataysa_değer)</translation>
     </message>
     <message>
         <source>Returns statistics that describe a linear trend matching known data points, by fitting a straight line using the least squares method.</source>
@@ -24803,7 +24803,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>TREND(known_y&apos;s,known_x&apos;s,new_x&apos;s,const)</source>
-        <translation type="unfinished"/>
+        <translation>EĞİLİM(known_y&apos;lar,known_x&apos;lar,new_x&apos;ler,const)</translation>
     </message>
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
