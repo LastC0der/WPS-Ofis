@@ -501,7 +501,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Default Font</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Yazı Tipi</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
@@ -614,7 +614,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KSwitchButton</name>
     <message>
         <source>Default Font</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Yazı Tipi</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
