@@ -22651,7 +22651,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
-        <translation>BİRLEŞTİR (metin1,metin2,...)</translation>
+        <translation>BİRLEŞTİR(metin1,metin2,...)</translation>
     </message>
     <message>
         <source>PROPER(text)</source>
