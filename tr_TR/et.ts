@@ -22579,7 +22579,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ISTEXT(value)</source>
-        <translation>EMETİNSE(value)</translation>
+        <translation>EMETİNSE(değer)</translation>
     </message>
     <message>
         <source>GAMMAINV(probability,alpha,beta)</source>
@@ -23123,7 +23123,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a given number rounded to a special multiple.</source>
-        <translation type="unfinished"/>
+        <translation>İstenen katsayıya yuvarlanmış bir sayı döndürür.</translation>
     </message>
     <message>
         <source>Returns the minimum value among cells specified by a given set of conditions or criteria.</source>
