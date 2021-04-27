@@ -25621,7 +25621,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>T(value)</source>
-        <translation>S(değer)</translation>
+        <translation>M(değer)</translation>
     </message>
     <message>
         <source>N(value)</source>
