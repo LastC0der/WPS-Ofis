@@ -23864,7 +23864,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>HYPERLINK(link_location, friendly_name)</source>
-        <translation type="unfinished"/>
+        <translation>KÖPRÜ(bağ_konumu, yakın_ad)</translation>
     </message>
     <message>
         <source>CORREL(array1,array2)</source>
@@ -24338,7 +24338,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SMALL(array,k)</source>
-        <translation type="unfinished"/>
+        <translation>KÜÇÜK(dizi,k)</translation>
     </message>
     <message>
         <source>Returns the complex conjugate of a complex number in x + yi or x + yj text format.</source>
