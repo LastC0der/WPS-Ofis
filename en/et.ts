@@ -25468,6 +25468,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>AGGREGATE(function_num,options,ref1,[ref2],...)</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
         <translation></translation>
     </message>
