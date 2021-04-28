@@ -31002,11 +31002,11 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Change or add a location that treated as tructed sources, make sure that the new location is secure.</source>
-        <translation type="unfinished"/>
+        <translation>Alınan kaynaklar olarak değerlendirilen bir konum ekleyin veya değiştirin, yeni konumun güvenli olduğundan emin olun.</translation>
     </message>
     <message>
         <source>Trusted Locations</source>
-        <translation type="unfinished"/>
+        <translation>Güvenilen Konumlar</translation>
     </message>
     <message>
         <source>&amp;Add new location...</source>
@@ -31014,7 +31014,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>User Locations:</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Konumları:</translation>
     </message>
     <message>
         <source>Disable Trusted &amp;Documents and Objects</source>
