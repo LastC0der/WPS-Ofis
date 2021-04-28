@@ -11280,7 +11280,7 @@ Navigation</source>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF To Word</translation>
     </message>
     <message>
         <source>Translate selected text2</source>
