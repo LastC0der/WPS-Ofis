@@ -321,7 +321,7 @@
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Bass Boost</source>
@@ -2299,7 +2299,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Update</source>
@@ -5256,7 +5256,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Update</source>
@@ -5293,14 +5293,14 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
 </context>
 <context>
     <name>KQingMsgBubbleBase</name>
     <message>
         <source>view</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm</translation>
     </message>
 </context>
 <context>
