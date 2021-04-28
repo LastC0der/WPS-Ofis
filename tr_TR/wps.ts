@@ -15688,7 +15688,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Yeni Özellikler</translation>
     </message>
     <message>
         <source>Draw Table</source>
