@@ -10410,7 +10410,8 @@ Efektler</translation>
     </message>
     <message>
         <source>Student Tools</source>
-        <translation type="unfinished"/>
+        <translation>Öğrenci 
+Araçları</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -27455,7 +27456,7 @@ Aktar</translation>
     </message>
     <message>
         <source>My WPS</source>
-        <translation type="unfinished"/>
+        <translation>Benim WPS</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -29187,7 +29188,7 @@ Properties</source>
     </message>
     <message>
         <source>Command Button</source>
-        <translation type="unfinished"/>
+        <translation>Komut Düğmesi</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -29672,7 +29673,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"/>
+        <translation>İki Durumlu Düğme</translation>
     </message>
 </context>
 <context>
