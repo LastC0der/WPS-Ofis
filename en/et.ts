@@ -15050,6 +15050,10 @@ file,click OK.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Duplicate styles</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>All Shapes</source>
         <translation></translation>
     </message>
@@ -22201,6 +22205,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>DISC(settlement, maturity, pr, redemption, [basis])</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>TANH(number)</source>
         <translation></translation>
     </message>
@@ -22463,6 +22471,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>NORM.INV(probability,mean,standard_dev)</source>
         <translation></translation>
     </message>
     <message>
@@ -22882,6 +22894,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>DOLLARFR(decimal_dollar, fraction)</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
         <translation></translation>
     </message>
@@ -23067,6 +23083,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>DOLLARDE(fractional_dollar, fraction)</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>ON.WINDOW(window_text, macro_text)</source>
         <translation></translation>
     </message>
@@ -23193,6 +23213,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Converts degrees to radians.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>NORM.S.INV(probability)</source>
         <translation></translation>
     </message>
     <message>
@@ -23330,6 +23354,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Returns the lognormal cumulative distribution of x, where ln(x) is normally distributed with parameters Mean and Standard_dev.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
         <translation></translation>
     </message>
     <message>
@@ -23647,6 +23675,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>MDURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Returns the exponential distribution.</source>
         <translation></translation>
     </message>
@@ -23759,6 +23791,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>DURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Returns a random integer between the two numbers you specified.</source>
         <translation></translation>
     </message>
@@ -23788,6 +23824,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>COUPDAYS(settlement, maturity, frequency, [basis])</source>
         <translation></translation>
     </message>
     <message>
@@ -24113,7 +24153,19 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>VAR.S(number1,number2,...)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>VAR.P(number1,number2,...)</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>NORM.DIST(x,mean,standard_dev,cumulative)</source>
         <translation></translation>
     </message>
     <message>
@@ -24401,6 +24453,14 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>COUPPCD(settlement, maturity, frequency, [basis])</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>ADD.BAR(bar_num)</source>
         <translation></translation>
     </message>
@@ -24468,6 +24528,9 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source>Returns the number of days between the two dates.</source>
         <translation></translation>
     </message>
+    <message>
+        <source>WORKDAY.INTL(start_date,days,weekend,holidays)</source>
+        <translation></translation>
     <message>
         <source>WINDOW.TITLE(text)</source>
         <translation></translation>
@@ -24550,6 +24613,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Rounds a number up, away from zero.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ISFORMULA(reference)</source>
         <translation></translation>
     </message>
     <message>
@@ -24819,7 +24886,15 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>COVARIANCE.S(array1,array2)</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>CELL(info_type, reference)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>COVARIANCE.P(array1,array2)</source>
         <translation></translation>
     </message>
     <message>
@@ -24852,6 +24927,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>ISNUMBER(value)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>NORM.S.DIST(z,cumulative)</source>
         <translation></translation>
     </message>
     <message>
@@ -25072,6 +25151,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Returns information about the formatting, location, or contents of the first cell, according to the sheet&apos;s reading order, in a reference.</source>
         <translation></translation>
     </message>
@@ -25137,6 +25220,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction.</source>
         <translation></translation>
     </message>
     <message>
@@ -25316,11 +25403,19 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the discount rate for a security.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>HEX2DEC(number)</source>
         <translation></translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
         <translation></translation>
     </message>
     <message>
@@ -37050,6 +37145,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
         <translation></translation>
     </message>
     <message>
+        <source>Compress
+Pictures</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Compress Pictures</source>
         <translation></translation>
     </message>
@@ -37209,11 +37309,6 @@ Size</source>
     </message>
     <message>
         <source>Align Top</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Compress
-Pictures</source>
         <translation></translation>
     </message>
     <message>
@@ -51379,6 +51474,11 @@ Document</source>
         <translation></translation>
     </message>
     <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Refresh Data</source>
         <translation></translation>
     </message>
@@ -51392,11 +51492,6 @@ Document</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
         <translation></translation>
     </message>
 </context>
@@ -52414,6 +52509,11 @@ prior to sharing the workbook.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Export Filter 
+Result</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>AutoFilter View</source>
         <translation></translation>
     </message>
@@ -52443,11 +52543,6 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Export Filter 
-Result</source>
         <translation></translation>
     </message>
 </context>
@@ -53250,6 +53345,11 @@ Item Labels</source>
         <translation></translation>
     </message>
     <message>
+        <source>Export Filter 
+Result</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Filter Analysis</source>
         <translation></translation>
     </message>
@@ -53267,11 +53367,6 @@ Item Labels</source>
     </message>
     <message>
         <source>Lock Title</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Export Filter 
-Result</source>
         <translation></translation>
     </message>
 </context>
