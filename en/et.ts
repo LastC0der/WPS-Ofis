@@ -24531,6 +24531,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>WORKDAY.INTL(start_date,days,weekend,holidays)</source>
         <translation></translation>
+    </message>
     <message>
         <source>WINDOW.TITLE(text)</source>
         <translation></translation>
