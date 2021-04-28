@@ -15222,6 +15222,10 @@ tıklayın.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Duplicate styles</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Shapes</source>
         <translation>Tüm Şekiller</translation>
     </message>
@@ -22405,6 +22409,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>TOPKARE(sayı1,sayı2, ...)</translation>
     </message>
     <message>
+        <source>DISC(settlement, maturity, pr, redemption, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>TANH(number)</source>
         <translation>TANH(sayı)</translation>
     </message>
@@ -22668,6 +22676,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
         <translation>BİRLEŞTİR(metin1,metin2,...)</translation>
+    </message>
+    <message>
+        <source>NORM.INV(probability,mean,standard_dev)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PROPER(text)</source>
@@ -23086,6 +23098,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>Bir sayının radyan cinsinden -Pi2 ile Pi/2 aralığındaki arksinüsünü verir.</translation>
     </message>
     <message>
+        <source>DOLLARFR(decimal_dollar, fraction)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
         <translation type="unfinished"/>
     </message>
@@ -23271,6 +23287,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>DOLLARDE(fractional_dollar, fraction)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ON.WINDOW(window_text, macro_text)</source>
         <translation type="unfinished"/>
     </message>
@@ -23398,6 +23418,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Converts degrees to radians.</source>
         <translation>Dereceyi radyana dönüştürür.</translation>
+    </message>
+    <message>
+        <source>NORM.S.INV(probability)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
@@ -23534,6 +23558,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the lognormal cumulative distribution of x, where ln(x) is normally distributed with parameters Mean and Standard_dev.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -23851,6 +23879,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>SANLOG10(karmsayı)</translation>
     </message>
     <message>
+        <source>MDURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns the exponential distribution.</source>
         <translation type="unfinished"/>
     </message>
@@ -23963,6 +23995,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>DURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns a random integer between the two numbers you specified.</source>
         <translation type="unfinished"/>
     </message>
@@ -23993,6 +24029,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
         <translation>Dönemsel sabit ödemeli ve sabit faizli bir yatırım için yapılacak anapara ödemesi tutarını verir.</translation>
+    </message>
+    <message>
+        <source>COUPDAYS(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
@@ -24317,8 +24357,20 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>ORTALAMA(sayı1,sayı2,...)</translation>
     </message>
     <message>
+        <source>VAR.S(number1,number2,...)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VAR.P(number1,number2,...)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
         <translation>1 (Ocak) ile 12 (Aralık) arasındaki bir sayı ile ifade edilen ayı döndürür. </translation>
+    </message>
+    <message>
+        <source>NORM.DIST(x,mean,standard_dev,cumulative)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
@@ -24605,6 +24657,14 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>COUPPCD(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ADD.BAR(bar_num)</source>
         <translation type="unfinished"/>
     </message>
@@ -24671,6 +24731,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Returns the number of days between the two dates.</source>
         <translation>İki tarih arasındaki gün sayısını döndürür.</translation>
+    </message>
+    <message>
+        <source>WORKDAY.INTL(start_date,days,weekend,holidays)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WINDOW.TITLE(text)</source>
@@ -24754,6 +24818,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Rounds a number up, away from zero.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ISFORMULA(reference)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -25023,8 +25091,16 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>TAHMİN(x,bilinen_y&apos;ler,bilinen_x&apos;ler)</translation>
     </message>
     <message>
+        <source>COVARIANCE.S(array1,array2)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>CELL(info_type, reference)</source>
         <translation>HÜCRE(bilgi_türü,başvuru)</translation>
+    </message>
+    <message>
+        <source>COVARIANCE.P(array1,array2)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns a matrix determinant of an array.</source>
@@ -25057,6 +25133,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>ISNUMBER(value)</source>
         <translation>ESAYIYSA(değer)</translation>
+    </message>
+    <message>
+        <source>NORM.S.DIST(z,cumulative)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SUMMARY.INFO(title, subject, author, keywords, comments)</source>
@@ -25276,6 +25356,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns information about the formatting, location, or contents of the first cell, according to the sheet&apos;s reading order, in a reference.</source>
         <translation>Bir başvurudaki, sayfanın okuma sırasına göre ilk hücrenin biçim, konum ve içeriği hakkında bilgi verir.</translation>
     </message>
@@ -25341,6 +25425,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -25520,12 +25608,20 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>SERİTARİH(başlangıç_tarihi,ay_sayısı)</translation>
     </message>
     <message>
+        <source>Returns the discount rate for a security.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>HEX2DEC(number)</source>
         <translation>HEX2DEC(sayı)</translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
         <translation>Arama ve Başvuru</translation>
+    </message>
+    <message>
+        <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date and Time</source>
@@ -37321,6 +37417,12 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
         <translation>Resmim</translation>
     </message>
     <message>
+        <source>Compress
+Pictures</source>
+        <translation>Resimleri
+Sıkıştır</translation>
+    </message>
+    <message>
         <source>Compress Pictures</source>
         <translation>Resimleri Sıkıştır</translation>
     </message>
@@ -37482,12 +37584,6 @@ Boyutu</translation>
     <message>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
-    </message>
-    <message>
-        <source>Compress
-Pictures</source>
-        <translation>Resimleri
-Sıkıştır</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -51733,6 +51829,11 @@ Document</source>
         <translation>Şeritli Satırlar</translation>
     </message>
     <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Refresh Data</source>
         <translation>Verileri Yenile</translation>
     </message>
@@ -51747,11 +51848,6 @@ Document</source>
     <message>
         <source>Remove Duplicates</source>
         <translation>Yinelenenleri Kaldır</translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52770,6 +52866,11 @@ prior to sharing the workbook.</source>
         <translation>Kitaba Aktar</translation>
     </message>
     <message>
+        <source>Export Filter 
+Result</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>AutoFilter View</source>
         <translation>Otomatik Filtre Görünümü</translation>
     </message>
@@ -52799,11 +52900,6 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export Filter 
-Result</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -53606,6 +53702,11 @@ Item Labels</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Export Filter 
+Result</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Filter Analysis</source>
         <translation>Filtre Analizi</translation>
     </message>
@@ -53623,11 +53724,6 @@ Item Labels</source>
     </message>
     <message>
         <source>Lock Title</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export Filter 
-Result</source>
         <translation type="unfinished"/>
     </message>
 </context>
