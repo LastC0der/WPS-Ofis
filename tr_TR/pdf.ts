@@ -1294,7 +1294,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Sıfırla</translation>
     </message>
     <message>
         <source>Scale</source>
