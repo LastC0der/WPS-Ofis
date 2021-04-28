@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Bass Boost</source>
@@ -1605,7 +1605,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Update</source>
@@ -3796,7 +3796,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Update</source>
