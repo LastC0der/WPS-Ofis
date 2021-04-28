@@ -18175,7 +18175,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Format UnitLabel</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü Birimini Biçimlendir</translation>
     </message>
     <message>
         <source>% of Parent Total</source>
@@ -26316,7 +26316,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation type="unfinished"/>
+        <translation>Resim veya Doku</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
@@ -26734,7 +26734,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation type="unfinished"/>
+        <translation>Resim veya Doku</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
@@ -33169,7 +33169,7 @@ n</translation>
     </message>
     <message>
         <source>PrimaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Dikey Eksen</translation>
     </message>
     <message>
         <source>Above</source>
@@ -33373,23 +33373,23 @@ Seç</translation>
     </message>
     <message>
         <source>AboveChart</source>
-        <translation type="unfinished"/>
+        <translation>Grafiğin Üstünde</translation>
     </message>
     <message>
         <source>PrimaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Yatay Eksen</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
-        <translation type="unfinished"/>
+        <translation>Gösterge Anahtarları ile</translation>
     </message>
     <message>
         <source>SecondaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Küçük Yatay</translation>
     </message>
     <message>
         <source>SecondaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Dikey Eksen</translation>
     </message>
     <message>
         <source>changeColor</source>
@@ -33397,7 +33397,7 @@ Seç</translation>
     </message>
     <message>
         <source>AddDataTable</source>
-        <translation type="unfinished"/>
+        <translation>Veri Tablosu</translation>
     </message>
     <message>
         <source>Moving Average</source>
@@ -33405,11 +33405,11 @@ Seç</translation>
     </message>
     <message>
         <source>AddChartTitle</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Başlığı</translation>
     </message>
     <message>
         <source>AddChartLines</source>
-        <translation type="unfinished"/>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Current Selection</source>
@@ -35045,7 +35045,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -35158,7 +35158,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -41239,7 +41239,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Increase Level</source>
-        <translation type="unfinished"/>
+        <translation>Yükselt</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -41247,7 +41247,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>RightToLeft Layout</source>
-        <translation type="unfinished"/>
+        <translation>Sağdan Sola</translation>
     </message>
     <message>
         <source>Insert assist</source>
@@ -44200,7 +44200,7 @@ Center</source>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlar</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
@@ -44597,7 +44597,7 @@ Center</source>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF To Word</translation>
     </message>
     <message>
         <source>DocerTableStyle</source>
@@ -44637,7 +44637,7 @@ Center</source>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Resmi Dönüştür</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -46427,7 +46427,7 @@ Paylaş</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="unfinished"/>
+        <translation>Dönüştürme</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -48369,7 +48369,7 @@ Temizle</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin</translation>
     </message>
     <message>
         <source>Center</source>
@@ -48397,7 +48397,7 @@ Temizle</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama</translation>
     </message>
     <message>
         <source>Transform</source>
