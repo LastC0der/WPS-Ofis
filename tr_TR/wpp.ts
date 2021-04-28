@@ -28259,7 +28259,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sıfırla</translation>
     </message>
     <message>
         <source>S&amp;ize:</source>
