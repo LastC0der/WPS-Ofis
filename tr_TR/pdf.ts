@@ -361,7 +361,7 @@
     </message>
     <message>
         <source>Right(Tall)</source>
-        <translation type="unfinished"/>
+        <translation>Sağ (Uzun)</translation>
     </message>
     <message>
         <source>Pages to Print</source>
@@ -381,7 +381,7 @@
     </message>
     <message>
         <source>Left(Tall)</source>
-        <translation type="unfinished"/>
+        <translation>Sol (Uzun)</translation>
     </message>
     <message>
         <source>Choose paper source by PDF page size</source>
