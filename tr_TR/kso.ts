@@ -22183,11 +22183,11 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sıfırla</translation>
     </message>
     <message>
         <source>Customize the Ri&amp;bbon:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Şeridi Özelleştir</translation>
     </message>
     <message>
         <source>Ne&amp;w Tab</source>
@@ -22231,7 +22231,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Cutomize the Ribbon</source>
-        <translation type="unfinished"/>
+        <translation>Şeridi Özelleştir</translation>
     </message>
     <message>
         <source>Reset only selected Ribbon tab</source>
@@ -22645,7 +22645,7 @@ This file may be renamed, deleted or moved.</source>
     <name>KxDlgInsertSymbol</name>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Araç Çubuğunu &amp;Sıfırla</translation>
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
@@ -24646,7 +24646,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sıfırla</translation>
     </message>
     <message>
         <source>Customize the Quick Access Toolbar</source>
@@ -33782,7 +33782,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sıfırla</translation>
     </message>
     <message>
         <source>Reset Quick Access:</source>
@@ -35614,7 +35614,7 @@ Password protection and document permissions will become invalid.</source>
     </message>
     <message>
         <source>R&amp;eset All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü &amp;Sıfırla</translation>
     </message>
     <message>
         <source>Command</source>
