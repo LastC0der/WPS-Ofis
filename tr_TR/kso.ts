@@ -3414,7 +3414,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Bass Boost</source>
@@ -12520,7 +12520,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Update</source>
@@ -26776,7 +26776,7 @@ Possible reasons:
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Update</source>
@@ -26787,7 +26787,7 @@ Possible reasons:
     <name>KxTextDelegate</name>
     <message>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm</translation>
     </message>
 </context>
 <context>
