@@ -837,7 +837,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>View &amp;local backup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yerel yedeklemeyi görüntüle</translation>
     </message>
     <message>
         <source>Apply when typing</source>
