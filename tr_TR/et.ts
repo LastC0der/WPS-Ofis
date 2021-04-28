@@ -24678,7 +24678,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns an aggregate in a list or database.</source>
-        <translation type="unfinished"/>
+        <translation>Bir liste veya veritabanından bir toplam verir.</translation>
     </message>
     <message>
         <source>KURT(number1,number2,...)</source>
@@ -49449,7 +49449,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Help about this Function</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bu İşlev hakkında yardım</translation>
     </message>
     <message>
         <source>Formula List:</source>
