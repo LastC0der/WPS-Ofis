@@ -11086,7 +11086,7 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>Function_num</source>
-        <translation type="unfinished"/>
+        <translation>İşlev_sayısı</translation>
     </message>
     <message>
         <source> Calculate the plural of its index value</source>
@@ -22342,11 +22342,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>NA()</source>
-        <translation type="unfinished"/>
+        <translation>YOKSAY()</translation>
     </message>
     <message>
         <source>PI()</source>
-        <translation type="unfinished"/>
+        <translation>Pİ()</translation>
     </message>
     <message>
         <source>Text</source>
@@ -22499,11 +22499,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SINH(number)</source>
-        <translation type="unfinished"/>
+        <translation>SİNH(sayı)</translation>
     </message>
     <message>
         <source>SIGN(number)</source>
-        <translation type="unfinished"/>
+        <translation>İŞARET(sayı)</translation>
     </message>
     <message>
         <source>DOCUMENTS(type_num, match_text)</source>
@@ -22515,7 +22515,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)</source>
-        <translation type="unfinished"/>
+        <translation>ÇOKETOPLA(toplam_aralığı, ölçüt_aralığı1, ölçüt1, [ölçüt_aralığı2, ölçüt2], ...)</translation>
     </message>
     <message>
         <source>NOT(logical)</source>
@@ -22527,7 +22527,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>LEN(text)</source>
-        <translation type="unfinished"/>
+        <translation>UZUNLUK(metin)</translation>
     </message>
     <message>
         <source>Returns the square root of a complex number in x + yi or x + yj text format.</source>
@@ -22563,7 +22563,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>NPER(rate, pmt, pv, fv, type)</source>
-        <translation type="unfinished"/>
+        <translation>TAKSİT_SAYISI(oran,devresel_ödeme,bd,gd,tür)</translation>
     </message>
     <message>
         <source>Returns a bitwise &apos;OR&apos; of two numbers.</source>
@@ -22591,7 +22591,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>RIGHT(text,num_chars)</source>
-        <translation type="unfinished"/>
+        <translation>SAĞDAN(metin,sayı_karakterler)</translation>
     </message>
     <message>
         <source>Returns the tangent of a given angle.</source>
@@ -22599,7 +22599,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>NETWORKDAYS(start_date,end_date,holidays)</source>
-        <translation type="unfinished"/>
+        <translation>TAMİŞGÜNÜ(başlangıç_tarihi,bitiş_tarihi,tatiller)</translation>
     </message>
     <message>
         <source>GAMMALN(x)</source>
@@ -22615,7 +22615,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>LEFTB(text,num_bytes)</source>
-        <translation type="unfinished"/>
+        <translation>SOLB(metin,sayı_bayt’lar)</translation>
     </message>
     <message>
         <source>Returns the reference specified by a text string.</source>
@@ -22623,11 +22623,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MOD(number,divisor)</source>
-        <translation type="unfinished"/>
+        <translation>MOD(sayı,bölen)</translation>
     </message>
     <message>
         <source>SECOND(serial_number)</source>
-        <translation type="unfinished"/>
+        <translation>SANİYE(seri_numarası)</translation>
     </message>
     <message>
         <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
@@ -22635,7 +22635,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>STANDARDIZE(x,mean,standard_dev)</source>
-        <translation type="unfinished"/>
+        <translation>STANDARTLAŞTIRMA(x,ortalama,standart_sapma)</translation>
     </message>
     <message>
         <source>Returns the second, a number from 0 to 59.</source>
@@ -22655,7 +22655,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PROPER(text)</source>
-        <translation type="unfinished"/>
+        <translation>YAZIM.DÜZENİ(metin)</translation>
     </message>
     <message>
         <source>GET.TOOLBAR(type_num, bar_id)</source>
@@ -22779,7 +22779,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>HLOOKUP(lookup_value,table_array,row_index_num,range_lookup)</source>
-        <translation type="unfinished"/>
+        <translation>YATAYARA(aranan_değer,tablo_dizisi,satır_indis_sayısı,aralık_bak)</translation>
     </message>
     <message>
         <source>FIND(find_text,within_text,start_num)</source>
@@ -22811,7 +22811,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>NORMDIST(x,mean,standard_dev,cumulative)</source>
-        <translation type="unfinished"/>
+        <translation>NORMDAĞ(x,ortalama,standart_sapma,kümülatif)</translation>
     </message>
     <message>
         <source>Returns TRUE if one string is exactly equal to another string (EXACTLY means case-sensitive); returns FALSE otherwise.</source>
@@ -22863,7 +22863,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>RSQ(known_y&apos;s,known_x&apos;s)</source>
-        <translation type="unfinished"/>
+        <translation>RKARE(bilinen_y&apos;ler,bilinen_x&apos;ler)</translation>
     </message>
     <message>
         <source>RELREF(reference, rel_to_ref)</source>
@@ -22875,11 +22875,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>STDEVA(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>STDSAPMAA(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>STDEVP(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>STDSAPMAS(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>FISHERINV(y)</source>
@@ -22903,7 +22903,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMPRODUCT(inumber1,inumber2,...)</source>
-        <translation type="unfinished"/>
+        <translation>SANÇARP(karmsayı1,karmsayı2,...)</translation>
     </message>
     <message>
         <source>STDEV(number1,number2,...)</source>
@@ -22975,7 +22975,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>OCT2DEC(number)</source>
-        <translation type="unfinished"/>
+        <translation>OCT2DEC(sayı)</translation>
     </message>
     <message>
         <source>CHISQ.DIST(x,deg_freedom,cumulative)</source>
@@ -22991,7 +22991,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MEDIAN(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>ORTANCA(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the median of the given numbers.</source>
@@ -22999,11 +22999,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
-        <translation type="unfinished"/>
+        <translation>PERMÜTASYON(sayı,sayı_seçilen)</translation>
     </message>
     <message>
         <source>TRUNC(number,num_digits)</source>
-        <translation type="unfinished"/>
+        <translation>NSAT(sayı,sayı_rakamlar)</translation>
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest even integer.</source>
@@ -23031,7 +23031,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMREAL(inumber)</source>
-        <translation type="unfinished"/>
+        <translation>SANGERÇEK(karmsayı)</translation>
     </message>
     <message>
         <source>FORMULATEXT(reference)</source>
@@ -23039,7 +23039,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMAGINARY(inumber)</source>
-        <translation type="unfinished"/>
+        <translation>SANAL(karmsayı)</translation>
     </message>
     <message>
         <source>ATAN (number)</source>
@@ -23063,7 +23063,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMSUM(inumber1,inumber2,...)</source>
-        <translation type="unfinished"/>
+        <translation>SANÇIKAR(karmsayı1,karmsayı2,...)</translation>
     </message>
     <message>
         <source>Returns the arcsine of a number within radians from -Pi/2 to Pi/2.</source>
@@ -23075,11 +23075,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>LEFT(text,num_chars)</source>
-        <translation type="unfinished"/>
+        <translation>SOLDAN(metin,sayı_karakterler)</translation>
     </message>
     <message>
         <source>ZTEST(array,μ0,sigma)</source>
-        <translation type="unfinished"/>
+        <translation>ZTEST(dizi,x,sigma)</translation>
     </message>
     <message>
         <source>ADDRESS(row_num,column_num,abs_num,a1,sheet_text)</source>
@@ -23172,7 +23172,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>INDEX(array,row_num,column_num)</source>
-        <translation type="unfinished"/>
+        <translation>İNDİS(dizi,satır_sayısı,sütun_sayısı)</translation>
     </message>
     <message>
         <source>SUMIF(range,criteria,sum_range)</source>
@@ -23184,7 +23184,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ROUND(number,num_digits)</source>
-        <translation type="unfinished"/>
+        <translation>YUVARLA(sayı,sayı_basamaklar)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
@@ -23268,7 +23268,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>VARA(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>VARA(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>CHOOSE(index_num,value1,value2,...)</source>
@@ -23280,7 +23280,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>VARP(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>VARP(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the left-tailed probability of the chi-squared distribution.</source>
@@ -23353,7 +23353,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMLOG2(inumber)</source>
-        <translation type="unfinished"/>
+        <translation>SANLOG2(karmsayı)</translation>
     </message>
     <message>
         <source>LOG10(number)</source>
@@ -23361,7 +23361,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>STDEVPA(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>STDSAPMASA(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>UPPER(text)</source>
@@ -23389,11 +23389,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>LOWER(text)</source>
-        <translation type="unfinished"/>
+        <translation>KÜÇÜKHARF(metin)</translation>
     </message>
     <message>
         <source>RANK(number,ref,order)</source>
-        <translation type="unfinished"/>
+        <translation>RANK(sayı,başv,sıra)</translation>
     </message>
     <message>
         <source>Returns a value that has been converted to a number.</source>
@@ -23409,7 +23409,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>YEAR(serial_number)</source>
-        <translation type="unfinished"/>
+        <translation>YIL(seri_numarası)</translation>
     </message>
     <message>
         <source>APP.TITLE(text)</source>
@@ -23478,7 +23478,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>LENB(text)</source>
-        <translation type="unfinished"/>
+        <translation>UZUNLUKB(dize)</translation>
     </message>
     <message>
         <source>XNPV(rate, values, dates)</source>
@@ -23498,7 +23498,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PERCENTILE(array,k)</source>
-        <translation type="unfinished"/>
+        <translation>YÜZDEBİRLİK(dizi,k)</translation>
     </message>
     <message>
         <source>NORMINV(probability,mean,standard_dev)</source>
@@ -23506,7 +23506,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>TEXT(value,format_text)</source>
-        <translation type="unfinished"/>
+        <translation>METNEÇEVİR(değer,biçim_metni)</translation>
     </message>
     <message>
         <source>Returns the sum of all the numbers in a range of cells.</source>
@@ -23612,11 +23612,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SUMX2PY2(array_x,array_y)</source>
-        <translation type="unfinished"/>
+        <translation>TOPX2AY2(dizi_x,dizi_y)</translation>
     </message>
     <message>
         <source>SUMX2MY2(array_x,array_y)</source>
-        <translation type="unfinished"/>
+        <translation>TOPX2EY2(dizi_x,dizi_y)</translation>
     </message>
     <message>
         <source>FOPEN(file_text, access_num)</source>
@@ -23680,7 +23680,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>OR(logical1,logical2,...)</source>
-        <translation type="unfinished"/>
+        <translation>YADA(mantıksal1,mantıksal2,…)</translation>
     </message>
     <message>
         <source>BESSELY(x,n)</source>
@@ -23716,11 +23716,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>LOGEST(known_y&apos;s,known_x&apos;s,const,stats)</source>
-        <translation type="unfinished"/>
+        <translation>LOT(bilinen_y&apos;ler,bilinen_x&apos;ler,sabit,istatistikler)</translation>
     </message>
     <message>
         <source>ODD(number)</source>
-        <translation type="unfinished"/>
+        <translation>TEK(sayı)</translation>
     </message>
     <message>
         <source>SEND.KEYS(key_text, wait_logical)</source>
@@ -23772,7 +23772,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>INT(number)</source>
-        <translation type="unfinished"/>
+        <translation>TAMSAYI(sayı)</translation>
     </message>
     <message>
         <source>SELECT(selection, active_cell)</source>
@@ -23820,7 +23820,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMLOG10(inumber)</source>
-        <translation type="unfinished"/>
+        <translation>SANLOG10(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the exponential distribution.</source>
@@ -23888,7 +23888,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PEARSON(array1,array2)</source>
-        <translation type="unfinished"/>
+        <translation>PEARSON(dizi1,dizi2)</translation>
     </message>
     <message>
         <source>Returns the number of rows in a reference or array.</source>
@@ -23896,7 +23896,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>GCD(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>OBEB(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>DATEVALUE(date_text)</source>
@@ -23940,7 +23940,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>FREQUENCY(data_array,bins_array)</source>
-        <translation type="unfinished"/>
+        <translation>SIKLIK(veri_dizisi,ara_dizi)</translation>
     </message>
     <message>
         <source>FCLOSE(file_num)</source>
@@ -24004,7 +24004,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SUMPRODUCT(array1,array2,array3, ...)</source>
-        <translation type="unfinished"/>
+        <translation>TOPLA.ÇARPIM(dizi1,dizi2,dizi3,...)</translation>
     </message>
     <message>
         <source>Returns the result of a number raised to a power.</source>
@@ -24048,7 +24048,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>RIGHTB(text,num_bytes)</source>
-        <translation type="unfinished"/>
+        <translation>SAĞB(metin,sayı_bayt’lar)</translation>
     </message>
     <message>
         <source>FILES(directory_text)</source>
@@ -24093,7 +24093,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>VALUE(text)</source>
-        <translation type="unfinished"/>
+        <translation>SAYIYAÇEVİR(metin)</translation>
     </message>
     <message>
         <source>BETAINV(probability,alpha,beta,A,B)</source>
@@ -24109,7 +24109,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PRODUCT(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>ÇARPIM(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>BIG_NUMBERSTR</source>
@@ -24161,7 +24161,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>LOGINV(probability,mean,standard_dev)</source>
-        <translation type="unfinished"/>
+        <translation>LOGTERS(olasılık,ortalama,standart_sapma)</translation>
     </message>
     <message>
         <source>Returns a bitwise &apos;AND&apos; of two numbers.</source>
@@ -24169,7 +24169,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMSIN(inumber)</source>
-        <translation type="unfinished"/>
+        <translation>SANSIN(karmsayı)</translation>
     </message>
     <message>
         <source>GET.OBJECT(type_num, object_id_text, start_num, count_num, item_index)</source>
@@ -24202,7 +24202,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SYD(cost,salvage,life,per)</source>
-        <translation type="unfinished"/>
+        <translation>YAT(maliyet,hurda,ömür,dönem)</translation>
     </message>
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
@@ -24222,7 +24222,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ROW(reference)</source>
-        <translation type="unfinished"/>
+        <translation>SATIR(başvuru)</translation>
     </message>
     <message>
         <source>Returns the number of cells containing numbers and of numbers in the list of arguments.</source>
@@ -24254,11 +24254,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>LOGNORMDIST(x,mean,standard_dev)</source>
-        <translation type="unfinished"/>
+        <translation>LOGNORMDAĞ(x,ortalama,standart_sapma)</translation>
     </message>
     <message>
         <source>VARPA(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>VARSA(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Returns the percentage of the year represented by the number of whole days between two dates (the start_date and end_date). Use YEARFRAC function to identify the proportion of a whole year&apos;s benefits or obligations under some specified condition.</source>
@@ -24326,7 +24326,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SUMXMY2(array_x,array_y)</source>
-        <translation type="unfinished"/>
+        <translation>TOPXEY2(dizi_x,dizi_y)</translation>
     </message>
     <message>
         <source>FDIST(x,degrees_freedom1,degrees_freedom2)</source>
@@ -24374,7 +24374,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ROMAN(number,form)</source>
-        <translation type="unfinished"/>
+        <translation>ROMEN(sayı,form)</translation>
     </message>
     <message>
         <source>Returns the correlation coefficient between two data sets.</source>
@@ -24442,7 +24442,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>OCT2BIN(number,places)</source>
-        <translation type="unfinished"/>
+        <translation>OCT2BIN(sayı,basamak)</translation>
     </message>
     <message>
         <source>PRICE(settlement,maturity,rate,yld,redemption,frequency,[basis])</source>
@@ -24470,7 +24470,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>TDIST(x,degrees_freedom,tails)</source>
-        <translation type="unfinished"/>
+        <translation>TDAĞ(x,serbestlik_der,yazı_say)</translation>
     </message>
     <message>
         <source>TEXTREF(text, a1)</source>
@@ -24506,7 +24506,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>OCT2HEX(number,places)</source>
-        <translation type="unfinished"/>
+        <translation>OCT2HEX(sayı,basamak)</translation>
     </message>
     <message>
         <source>DEC2HEX(number,places)</source>
@@ -24538,7 +24538,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ROUNDUP(number,num_digits)</source>
-        <translation type="unfinished"/>
+        <translation>YUKARIYUVARLA(sayı,sayı_rakamlar)</translation>
     </message>
     <message>
         <source>REFTEXT(reference, a1)</source>
@@ -24582,7 +24582,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SUM(number1,number2, ...)</source>
-        <translation type="unfinished"/>
+        <translation>TOPLA(sayı1,sayı2, ...)</translation>
     </message>
     <message>
         <source>Returns a formula as a string.</source>
@@ -24723,11 +24723,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>LCM(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>OKEK(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>ISODD(value)</source>
-        <translation type="unfinished"/>
+        <translation>TEKMİ(sayı)</translation>
     </message>
     <message>
         <source>ISREF(value)</source>
@@ -24735,7 +24735,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MIN(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>MİN(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>NETWORKDAYS.INTL(start_date,end_date,weekend,holidays)</source>
@@ -24747,7 +24747,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MAX(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>MAK(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>WORKBOOKINSERT(type_num)</source>
@@ -24755,7 +24755,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MIDB(text,start_num,num_bytes)</source>
-        <translation type="unfinished"/>
+        <translation>ORTAB(metin,başlangıç_sayısı,sayı_bayt&apos;lar)</translation>
     </message>
     <message>
         <source>Macro Control</source>
@@ -24832,7 +24832,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>VAR(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>VAR(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>FOR(counter_text, start_num, end_num, step_num)</source>
@@ -24860,7 +24860,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMLN(inumber)</source>
-        <translation type="unfinished"/>
+        <translation>SANLN(karmsayı)</translation>
     </message>
     <message>
         <source>WORKBOOKHIDE()</source>
@@ -24932,7 +24932,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>RADIANS(angle)</source>
-        <translation type="unfinished"/>
+        <translation>RADYAN(açı)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic sine of a number.</source>
@@ -25000,7 +25000,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>LOG(number,base)</source>
-        <translation type="unfinished"/>
+        <translation>LOG(sayı,temel)</translation>
     </message>
     <message>
         <source>Returns the probability of a trial result using a binomial distribution.</source>
@@ -25105,7 +25105,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>REPT(text,number_times)</source>
-        <translation type="unfinished"/>
+        <translation>YİNELE(metin,sayı_kere)</translation>
     </message>
     <message>
         <source>WHILE(logical_test)</source>
@@ -25117,7 +25117,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PROB(x_range,prob_range,lower_limit,upper_limit)</source>
-        <translation type="unfinished"/>
+        <translation>OLASILIK(X_aralığı,olasılık_aralığı,alt_sınır,üst_sınır)</translation>
     </message>
     <message>
         <source>Returns the accrued interest for a security that pays periodic interest.</source>
@@ -25125,7 +25125,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>TIME(hour,minute,second)</source>
-        <translation type="unfinished"/>
+        <translation>ZAMAN(saat,dakika,saniye)</translation>
     </message>
     <message>
         <source>TRANSPOSE(array)</source>
@@ -25153,7 +25153,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>WORKDAY(start_date,days,holidays)</source>
-        <translation type="unfinished"/>
+        <translation>İŞGÜNÜ(başlangıç_tarihi,günler,tatiller)</translation>
     </message>
     <message>
         <source>MINVERSE(array)</source>
@@ -25257,7 +25257,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>NORMSDIST(z)</source>
-        <translation type="unfinished"/>
+        <translation>NORMSDAĞ(z)</translation>
     </message>
     <message>
         <source>Multiplies the corresponding data in the given arrays and then returns the sum of the products.</source>
@@ -25265,7 +25265,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMSQRT(inumber)</source>
-        <translation type="unfinished"/>
+        <translation>SANKAREKÖK(karmsayı)</translation>
     </message>
     <message>
         <source>DATESTRING()</source>
@@ -25293,7 +25293,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>RSQ(Returns the square of the Pearson product moment correlation coefficient through data points in known_y&apos;s and known_x&apos;s.)</source>
-        <translation type="unfinished"/>
+        <translation>Verilen veri noktaları boyunca Pearson çarpım moment korelasyon katsayısının karesini verir.</translation>
     </message>
     <message>
         <source>Calls a procedure in a dynamic link library or code resource.</source>
@@ -25305,7 +25305,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>TIMEVALUE(time_text)</source>
-        <translation type="unfinished"/>
+        <translation>ZAMANDEĞERİ(saat_metni)</translation>
     </message>
     <message>
         <source>Returns a date that represents a date that is the indicated number of working days before or after a date (the starting date). The weekend and the dates specified as holidays are not included in working days. Use WORKDAY function to exclude weekend or holidays when you calculate invoice due dates, expected delivery date or the number of days you worked.</source>
@@ -25317,7 +25317,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MULTINOMIAL(number1,number2, ...)</source>
-        <translation type="unfinished"/>
+        <translation>ÇOKTERİMLİ(sayı1,sayı2, ...)</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to octal.</source>
@@ -25341,7 +25341,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMSUB(inumber1,inumber2)</source>
-        <translation type="unfinished"/>
+        <translation>SANTOPLA(karmsayı1,karmsayı2)</translation>
     </message>
     <message>
         <source>Returns the percentage rank of a value in a data set.</source>
@@ -25365,11 +25365,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
-        <translation type="unfinished"/>
+        <translation>PARÇAAL(metin,başlangıç_sayısı,sayı_karakterler)</translation>
     </message>
     <message>
         <source>WEIBULL(x,alpha,beta,cumulative)</source>
-        <translation type="unfinished"/>
+        <translation>WEIBULL(x,alfa,beta,kümülatif)</translation>
     </message>
     <message>
         <source>Returns the k-th largest value in a data set. For example, it indicates the fourth largest number if k equals 4.</source>
@@ -25413,7 +25413,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IRR(values,guess)</source>
-        <translation type="unfinished"/>
+        <translation>İÇ_VERİM_ORANI(değerler,tahmin)</translation>
     </message>
     <message>
         <source>AND(logical1,logical2, ...)</source>
@@ -25445,7 +25445,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ROWS(array)</source>
-        <translation type="unfinished"/>
+        <translation>SATIRSAY(dizi)</translation>
     </message>
     <message>
         <source>EDATE(start_date,months)</source>
@@ -25517,7 +25517,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SUBSTITUTE(text,old_text,new_text,instance_num)</source>
-        <translation type="unfinished"/>
+        <translation>YERİNEKOY(metin,eski_metin,yeni_metin,yineleme_sayısı)</translation>
     </message>
     <message>
         <source>Converts a number to text(baht).</source>
@@ -25537,7 +25537,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MAXA(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>MAKA(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Returns the integer portion of a division. When using this function, you can discard the remainder of a division.</source>
@@ -25549,7 +25549,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IMCONJUGATE(inumber)</source>
-        <translation type="unfinished"/>
+        <translation>SANEŞLENEK(karmsayı)</translation>
     </message>
     <message>
         <source>User Defined</source>
@@ -25581,11 +25581,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>TYPE(value)</source>
-        <translation type="unfinished"/>
+        <translation>TÜR(değer)</translation>
     </message>
     <message>
         <source>STEYX(known_y&apos;s,known_x&apos;s)</source>
-        <translation type="unfinished"/>
+        <translation>STHYX(bilinen_y‘ler,bilinen_x&apos;ler)</translation>
     </message>
     <message>
         <source>SWITCH(expression,value1,result1,[default_or_value2,result2],...)</source>
@@ -25625,16 +25625,16 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>N(value)</source>
-        <translation type="unfinished"/>
+        <translation>S(değer)</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
         <comment>PERMUT_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>PERMÜTASYON(sayı,sayı_seçilen)</translation>
     </message>
     <message>
         <source>MINA(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>MİNA(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on the entire population(ignores logical values and text in the population).</source>
@@ -25678,7 +25678,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>POISSON(x,mean,cumulative)</source>
-        <translation type="unfinished"/>
+        <translation>POISSON(x,ortalama,kümülatif)</translation>
     </message>
     <message>
         <source>TRIM(text)</source>
