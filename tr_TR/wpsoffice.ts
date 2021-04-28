@@ -586,7 +586,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Folio (210 x 330 mm)</source>
-        <translation type="unfinished"/>
+        <translation>Folio (210 x 330 mm)</translation>
     </message>
     <message>
         <source>Ledger</source>
@@ -634,7 +634,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Ledger (432 x 279 mm)</source>
-        <translation type="unfinished"/>
+        <translation>Ledger (432 x 279 mm)</translation>
     </message>
     <message>
         <source>Aliases: %1</source>
