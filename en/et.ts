@@ -19052,6 +19052,10 @@ merged into one worksheet</source>
         <translation></translation>
     </message>
     <message>
+        <source>Centered as group</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Subtotals</source>
         <translation></translation>
     </message>
@@ -19153,6 +19157,10 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Format Legend</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Smart Split Columns</source>
         <translation></translation>
     </message>
     <message>
@@ -22221,6 +22229,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the next coupon date after settlement date.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
         <translation></translation>
     </message>
@@ -22415,6 +22427,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Returns the reference specified by a text string.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns a URL-encoded string.</source>
         <translation></translation>
     </message>
     <message>
@@ -22967,6 +22983,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>INDEX(array,row_num,column_num)</source>
         <translation></translation>
     </message>
@@ -23431,6 +23451,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the number of days in the coupon period that contains the settlement date.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
         <translation></translation>
     </message>
@@ -23472,6 +23496,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Values</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>XOR(logical1,logical2,...)</source>
         <translation></translation>
     </message>
     <message>
@@ -23900,6 +23928,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Estimates variance based on a sample(ignores logical values and text in the sample).</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Returns the double factorial of a number.</source>
         <translation></translation>
     </message>
@@ -24129,6 +24161,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns total covariance, the average of the products of deviations for each data point pair.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>SELECTION()</source>
         <translation></translation>
     </message>
@@ -24201,6 +24237,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>TODAY()</source>
         <translation></translation>
     </message>
@@ -24210,6 +24250,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>DIALOGBOX(dialog_ref)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns simple covariance, the average of the products of deviations for each data point pair.</source>
         <translation></translation>
     </message>
     <message>
@@ -24297,6 +24341,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the annual duration of a security with periodic interest payments.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
         <translation></translation>
     </message>
@@ -24326,6 +24374,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>ON.KEY(key_text, macro_text)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns the previous coupon date before the settlement date.</source>
         <translation></translation>
     </message>
     <message>
@@ -24421,6 +24473,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns an aggregate in a list or database.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>KURT(number1,number2,...)</source>
         <translation></translation>
     </message>
@@ -24474,6 +24530,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>PERCENTRANK(array,x,significance)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns a logical &apos;Exclusive Or&apos; of all arguments.</source>
         <translation></translation>
     </message>
     <message>
@@ -24783,6 +24843,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Calculates variance  based on the entire population(ignores logical values and text in the population).</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</source>
         <translation></translation>
     </message>
@@ -24957,6 +25021,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>COUPDAYBS(settlement, maturity, frequency, [basis])</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns the Macauley modified duration for a security with an assumed par value of $100.</source>
         <translation></translation>
     </message>
     <message>
@@ -25629,7 +25697,7 @@ Time</source>
         <source>Show Dependents</source>
         <translation></translation>
     </message>
-        <message>
+	<message>
         <source>Lookup and
 Reference</source>
         <translation></translation>
@@ -26017,7 +26085,7 @@ Workbook</source>
         <source>Calculate Sheet</source>
         <translation></translation>
     </message>
-        <message>
+	<message>
         <source>Name
 Manager</source>
         <translation></translation>
@@ -26026,11 +26094,11 @@ Manager</source>
         <source>Edit Links</source>
         <translation></translation>
     </message>
-      <message>
+	<message>
         <source>Error Checking</source>
         <translation></translation>
     </message>
-       <message>
+	<message>
         <source>Math and
 Trig</source>
         <translation></translation>
@@ -30585,6 +30653,10 @@ On/Off</source>
     </message>
     <message>
         <source>Launch Online Metting</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equation Tool</source>
         <translation></translation>
     </message>
     <message>
@@ -38921,7 +38993,7 @@ with same name in workbooks</source>
         <translation></translation>
     </message>
     <message>
-    <source>Refresh 
+		<source>Refresh 
 All</source>
         <translation></translation>
     </message>
@@ -49031,6 +49103,10 @@ p, li { white-space: pre-wrap; }
         <translation></translation>
     </message>
     <message>
+        <source>&amp;Help about this Function</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Formula List:</source>
         <translation></translation>
     </message>
@@ -50951,6 +51027,10 @@ Document</source>
     </message>
     <message>
         <source>Do not display the alert and update lin&amp;ks</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Update:</source>
         <translation></translation>
     </message>
     <message>
@@ -53078,6 +53158,41 @@ Item Labels</source>
     </message>
     <message>
         <source>&amp;Help about this Function</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtChartTypeGalleryCommand</name>
+    <message>
+        <source>opening price, high price, low price, closing price. </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>volume traded, high price, low price, closing price. </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>To create a combination chart, select at least two series of data.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>volume traded, opening price, high price, low price, closing price. </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>high price, low price, closing price. </source>
         <translation></translation>
     </message>
 </context>
@@ -55635,6 +55750,10 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Matrix</source>
+        <translation></translation>
+    </message>
+       <message>
+        <source>Operator</source>
         <translation></translation>
     </message>
     <message>
