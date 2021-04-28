@@ -22843,7 +22843,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Rounds a number down, towards zero.</source>
-        <translation>Sayıyı sıfır yönünde aşağı yuvarlar.</translation>
+        <translation>Bir sayıyı sıfıra yakınsayarak yuvarlar. </translation>
     </message>
     <message>
         <source>Returns the cumulative beta probability density function.</source>
@@ -23067,7 +23067,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the arcsine of a number within radians from -Pi/2 to Pi/2.</source>
-        <translation type="unfinished"/>
+        <translation>Bir sayının radyan cinsinden -Pi2 ile Pi/2 aralığındaki arksinüsünü verir.</translation>
     </message>
     <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
@@ -23808,7 +23808,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is the value whose hyperbolic sine is number, so ASINH(SINH(number)) equals number.</source>
-        <translation>Bir sayının ters hiperbolik sinüsünü döndürür. Ters hiperbolik sinüs, hiperbolik sinüsü sayı olan değerdir, dolayısıyla ASİNH (SİNH(sayı)) sayıya eşittir.</translation>
+        <translation>Bir sayının ters hiperbolik sinüsünü verir. Ters hiperbolik sinüs, hiperbolik sinüsü sayı olan değerdir, dolayısıyla ASİNH (SİNH(sayı)) sayıya eşittir.</translation>
     </message>
     <message>
         <source>Calculates the standard deviation of a population based on an entire population by using the numbers in the column of a list or database that matches the conditions you specify.</source>
@@ -24060,7 +24060,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). The inverse hyperbolic tangent is the value whose hyperbolic tangent is number, so ATANH(TANH(number)) equals number.</source>
-        <translation type="unfinished"/>
+        <translation>Bir sayının ters hiperbolik tanjantını verir. Sayı -1 ile 1 arasında olmalıdır (-1 ve 1 hariç). Ters hiperbolik tanjant, hiperbolik tanjant sayı olan değerdir, bu nedenle ATANH(TANH(sayı)) sayıya eşittir.</translation>
     </message>
     <message>
         <source>Convert a number to a chinese string</source>
@@ -24286,7 +24286,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
-        <translation type="unfinished"/>
+        <translation>1 (Ocak) ile 12 (Aralık) arasındaki bir sayı ile ifade edilen ayı döndürür. </translation>
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
@@ -24674,7 +24674,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the arctangent of the specified x- and y- coordinates, in radians between -Pi and Pi, excluding -Pi.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen x- ve y- koordinatlarının radyan cinsinden -Pi (-Pi hariç) ile Pi arasındaki arktanjantını verir.</translation>
     </message>
     <message>
         <source>PERCENTRANK(array,x,significance)</source>
