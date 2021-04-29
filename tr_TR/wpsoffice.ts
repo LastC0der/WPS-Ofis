@@ -1551,7 +1551,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>commend</source>
-        <translation type="unfinished"/>
+        <translation>Öneri</translation>
     </message>
     <message>
         <source>Import backup files immediately</source>
