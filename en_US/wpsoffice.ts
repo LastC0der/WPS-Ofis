@@ -3074,7 +3074,7 @@ Please verify the correct file name was given.</source>
     <name>QLineEdit</name>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Cu&amp;t</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -3555,11 +3555,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"/>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 TB</source>
-        <translation type="unfinished"/>
+        <translation>%1 TB</translation>
     </message>
     <message>
         <source>&lt;b&gt;The name &quot;%1&quot; can not be used.&lt;/b&gt;&lt;p&gt;Try using another name, with fewer characters or no punctuations marks.</source>
