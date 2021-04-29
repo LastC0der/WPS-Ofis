@@ -2586,11 +2586,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>foot</source>
-        <translation type="unfinished"/>
+        <translation>ft</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"/>
+        <translation>inç</translation>
     </message>
     <message>
         <source>pica</source>
@@ -2598,7 +2598,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>yard</source>
-        <translation type="unfinished"/>
+        <translation>yd</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -2606,7 +2606,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>meter</source>
-        <translation type="unfinished"/>
+        <translation>m</translation>
     </message>
     <message>
         <source>pound</source>
@@ -2614,11 +2614,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>millimeter</source>
-        <translation type="unfinished"/>
+        <translation>mm</translation>
     </message>
     <message>
         <source>kilometre</source>
-        <translation type="unfinished"/>
+        <translation>km</translation>
     </message>
     <message>
         <source>Input error</source>
@@ -2630,7 +2630,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>centimeter</source>
-        <translation type="unfinished"/>
+        <translation>cm</translation>
     </message>
 </context>
 <context>
@@ -2779,7 +2779,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>page</source>
-        <translation>sayfa</translation>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>text</source>
@@ -2802,7 +2802,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>top</source>
-        <translation>üst</translation>
+        <translation>Üst</translation>
     </message>
     <message>
         <source>INCH</source>
