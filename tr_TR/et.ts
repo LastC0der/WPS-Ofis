@@ -22999,7 +22999,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>CONCAT (text1,text2,...)</source>
-        <translation type="unfinished"/>
+        <translation>ARALIKBİRLEŞTİR(metin1,metin2,...)</translation>
     </message>
     <message>
         <source>OCT2DEC(number)</source>
@@ -23139,7 +23139,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a subtotal in list or database.</source>
-        <translation>Listede veya veritabanında bir alt toplam verir.</translation>
+        <translation>Bir liste veya veritabanından bir alt toplam verir.</translation>
     </message>
     <message>
         <source>MATCH(lookup_value,lookup_array,match_type)</source>
@@ -23188,7 +23188,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the net present value for a schedule of crash flows.</source>
-        <translation>Para akışı planı için şu anki net değeri döndürür.</translation>
+        <translation>Nakit akışı planı için bugünkü net değeri döndürür.</translation>
     </message>
     <message>
         <source>Returns a number shifted right by the specified number of bits.</source>
@@ -24020,7 +24020,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Combines the text from multiple ranges and/or strings.</source>
-        <translation type="unfinished"/>
+        <translation>Metin dizelerinden oluşan listeyi veya aralığı birleştirir.</translation>
     </message>
     <message>
         <source>DCOUNTA(database,field,criteria)</source>
@@ -24458,7 +24458,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the depreciation for each settlement period.</source>
-        <translation>Bir malın her hesap dönemi için amortismanı değerini döndürür.</translation>
+        <translation>Bir malın her hesap dönemi için doğrusal amortisman eşdağılımını döndürür.</translation>
     </message>
     <message>
         <source>ROMAN(number,form)</source>
@@ -25004,7 +25004,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the internal rate of return for a schedule of crash flows.</source>
-        <translation>Para akışı planı için iç dönüş oranını döndürür.</translation>
+        <translation>Nakit akışı planı için iç verim oranını döndürür.</translation>
     </message>
     <message>
         <source>Returns the inverse of the Fisher transformation. If y = FISHER(x), then FISHRINV(y) = x.</source>
