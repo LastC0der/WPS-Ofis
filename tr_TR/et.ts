@@ -15365,7 +15365,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Please login</source>
-        <translation>Lütfen oturum açın</translation>
+        <translation>Lütfen oturum açın.</translation>
     </message>
     <message>
         <source>Error: Undefined or non-rectangular name</source>
