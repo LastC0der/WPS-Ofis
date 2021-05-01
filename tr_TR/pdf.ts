@@ -8054,7 +8054,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kapat</translation>
     </message>
     <message>
         <source>Period</source>
@@ -9348,7 +9348,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -9359,7 +9359,7 @@ upgrade to WPS VIP?</source>
     <name>KxPdfPromptLoginDialogUi</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Text</source>
@@ -9383,7 +9383,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Login WPS</source>
@@ -9398,7 +9398,7 @@ upgrade to WPS VIP?</source>
     <name>KxPdfReplacePageDialog</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>InvalidePageRegion</source>
@@ -9481,7 +9481,7 @@ upgrade to WPS VIP?</source>
     <name>KxPdfScanFileSelectDialog</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <source>ConvertToword</source>
@@ -9500,7 +9500,7 @@ upgrade to WPS VIP?</source>
     <name>KxPdfTurnoffLabelHintsWidget</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
     <message>
         <source>Close all tabs</source>
@@ -9523,11 +9523,11 @@ upgrade to WPS VIP?</source>
     <name>KxPdfYesOrNoDialogWidget</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>No(N)</source>
-        <translation>Hayır(N)</translation>
+        <translation>&amp;Hayır</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9535,7 +9535,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Yes(Y)</source>
-        <translation>Evet(Y)</translation>
+        <translation>&amp;Evet</translation>
     </message>
     <message>
         <source>Save changes to &apos;XXXX&apos; before closing?</source>
@@ -9554,11 +9554,11 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>X:%1% %2cm</source>
-        <translation type="unfinished"/>
+        <translation>X:%1% %2cm</translation>
     </message>
     <message>
         <source>Y:%1% %2cm</source>
-        <translation type="unfinished"/>
+        <translation>Y:%1% %2cm</translation>
     </message>
     <message>
         <source>eraser is VIP function, save modify need upgrade VIP</source>
@@ -9598,7 +9598,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Add image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü ekleme Premium&apos;a özel bir ayrıcalıktır.</translation>
     </message>
 </context>
 <context>
@@ -9633,11 +9633,11 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>HorizontalPageMode</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Sayfa</translation>
     </message>
     <message>
         <source>TOP SECRET</source>
@@ -11338,7 +11338,7 @@ Navigation</source>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation type="unfinished"/>
+        <translation>Onay kutusu</translation>
     </message>
 </context>
 <context>
@@ -12144,7 +12144,7 @@ Please batches operations</source>
     <name>KxPdfImageCopyCommand</name>
     <message>
         <source>Edit image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü düzenleme Premium&apos;a özel bir ayrıcalıktır.</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -12155,7 +12155,7 @@ Please batches operations</source>
     <name>KxPdfImageSaveAsCommand</name>
     <message>
         <source>Edit image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü düzenleme Premium&apos;a özel bir ayrıcalıktır.</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -13675,7 +13675,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <source>Copy number over limit</source>
@@ -13687,11 +13687,11 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation type="unfinished"/>
+        <translation>Onay kutusu</translation>
     </message>
 </context>
 <context>
@@ -13702,7 +13702,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <source>hint</source>
@@ -13794,44 +13794,44 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     <name>KxPdfImageEnterEditCommand</name>
     <message>
         <source>Edit image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü düzenleme Premium&apos;a özel bir ayrıcalıktır.</translation>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
     <name>KxPdfImageFloatLayerCommand</name>
     <message>
         <source>Edit image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü düzenleme Premium&apos;a özel bir ayrıcalıktır.</translation>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
     <name>KxPdfImageSinkLayerCommand</name>
     <message>
         <source>Edit image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü düzenleme Premium&apos;a özel bir ayrıcalıktır.</translation>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
     <name>KxPdfImageDeleteCommand</name>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Delete image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü silme Premium&apos;a özel bir ayrıcalıktır.</translation>
     </message>
 </context>
 <context>
