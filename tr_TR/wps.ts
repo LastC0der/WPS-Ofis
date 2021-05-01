@@ -4742,7 +4742,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"/>
+        <translation>Klasör Seç:</translation>
     </message>
     <message>
         <source>Selected text</source>
@@ -35355,7 +35355,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"/>
+        <translation>Klasör Seç:</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
@@ -48981,7 +48981,7 @@ Try one or more of the following:
     <name>KxTpLocalFileSearchWidget</name>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"/>
+        <translation>Klasör Seç:</translation>
     </message>
 </context>
 <context>
