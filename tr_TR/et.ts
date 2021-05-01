@@ -18087,7 +18087,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation>Baskı Düzeni</translation>
+        <translation>Yazdırma Düzeni</translation>
     </message>
     <message>
         <source>FilterColumn</source>
@@ -28002,7 +28002,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -31033,7 +31033,7 @@ Ortala</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -44164,7 +44164,7 @@ Center</source>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -44277,11 +44277,11 @@ Center</source>
     </message>
     <message>
         <source>File Collect</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Topla</translation>
     </message>
     <message>
         <source>Scan to Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonuna Tara</translation>
     </message>
     <message>
         <source>XiuTang</source>
@@ -44497,7 +44497,7 @@ Center</source>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>My Picture</source>
@@ -44597,7 +44597,7 @@ Center</source>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation>PDF To Word</translation>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>DocerTableStyle</source>
@@ -44685,7 +44685,7 @@ Center</source>
     </message>
     <message>
         <source>Scan to Mobile</source>
-        <translation>Mobile Tarama</translation>
+        <translation>Cep Telefonuna Tara</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -45709,7 +45709,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
@@ -53478,7 +53478,7 @@ Item Labels</source>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
 </context>
 <context>
