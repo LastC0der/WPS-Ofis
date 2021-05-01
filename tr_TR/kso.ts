@@ -11309,7 +11309,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Yoksay</translation>
     </message>
     <message>
         <source>Close without Saving</source>
@@ -12001,7 +12001,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Yoksay</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
@@ -19453,7 +19453,7 @@ Check path and filename.</source>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Yoksay</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -19465,7 +19465,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Yoksay</translation>
     </message>
     <message>
         <source>Italic</source>
