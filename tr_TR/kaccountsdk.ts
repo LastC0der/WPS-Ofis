@@ -1731,7 +1731,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation type="unfinished"/>
+        <translation>Onay kutusu</translation>
     </message>
 </context>
 <context>
@@ -1923,7 +1923,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation type="unfinished"/>
+        <translation>Onay kutusu</translation>
     </message>
     <message>
         <source>TextLabel</source>
