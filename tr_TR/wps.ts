@@ -3606,7 +3606,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Navigation &amp;Pane:</source>
-        <translation type="unfinished"/>
+        <translation>Gezinti &amp;Bölmesi:</translation>
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
@@ -6178,7 +6178,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Multiple pages:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Birden fazla sayfa:</translation>
     </message>
     <message>
         <source>&amp;First page:</source>
@@ -9790,7 +9790,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Narrow</source>
-        <translation type="unfinished"/>
+        <translation>Dar</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -9905,7 +9905,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Narrow Margins</source>
-        <translation type="unfinished"/>
+        <translation>Dar Kenar Boşlukları</translation>
     </message>
     <message>
         <source>Vertical from Left to Right</source>
@@ -12725,7 +12725,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation type="unfinished"/>
+        <translation>Stili Temizle</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Marks</source>
@@ -14508,7 +14508,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation>Baskı Düzeni</translation>
+        <translation>Yazdırma Düzeni</translation>
     </message>
     <message>
         <source>Sagittate Bullet </source>
@@ -15948,7 +15948,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"/>
+        <translation>Gezinti Bölmesi</translation>
     </message>
     <message>
         <source>Through</source>
@@ -16656,7 +16656,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
@@ -17393,7 +17393,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation type="unfinished"/>
+        <translation>Stili Temizle</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Marks</source>
@@ -18303,7 +18303,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Reading View</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Görünümü</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -18315,7 +18315,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Quit Reading View</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Görünümünden Çık</translation>
     </message>
     <message>
         <source>Auto Pages</source>
@@ -18383,7 +18383,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation>Baskı Düzeni</translation>
+        <translation>Yazdırma Düzeni</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -18584,7 +18584,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"/>
+        <translation>Tek Sayfa</translation>
     </message>
     <message>
         <source>Endnotes Field Context Menu</source>
@@ -18712,7 +18712,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation type="unfinished"/>
+        <translation>Web Düzeni</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -18892,7 +18892,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Comment Hyperlink Context Menu</source>
@@ -19298,7 +19298,8 @@ Yazdır</translation>
     <message>
         <source>Print 
 Layout</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma 
+Düzeni</translation>
     </message>
     <message>
         <source>Default</source>
@@ -19536,7 +19537,7 @@ Screen</source>
     </message>
     <message>
         <source>NavigationPane DocMapView Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Açılır Menü</translation>
     </message>
     <message>
         <source>Lock Field</source>
@@ -20284,7 +20285,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"/>
+        <translation>Gezinti Bölmesi</translation>
     </message>
     <message>
         <source>Delete Hover Section</source>
@@ -20296,7 +20297,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -21867,7 +21868,8 @@ Changes</source>
     <message>
         <source>Spell 
 Check</source>
-        <translation type="unfinished"/>
+        <translation>Yazım
+Denetimi</translation>
     </message>
     <message>
         <source>Font Substitution</source>
@@ -26830,7 +26832,8 @@ Kenarlıkları</translation>
     <message>
         <source>SectionNavigation
 Pane</source>
-        <translation type="unfinished"/>
+        <translation>Bölüm Gezinti
+Bölmesi</translation>
     </message>
     <message>
         <source>Insert Table Of Contents</source>
@@ -26909,7 +26912,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"/>
+        <translation>Gezinti Bölmesi</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
@@ -27423,7 +27426,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"/>
+        <translation>Gezinti Bölmesi</translation>
     </message>
     <message>
         <source>Restart Page Number</source>
@@ -35000,7 +35003,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Reading View</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Görünümü</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -35024,7 +35027,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"/>
+        <translation>Tek Sayfa</translation>
     </message>
     <message>
         <source>Arrange
@@ -35034,7 +35037,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation type="unfinished"/>
+        <translation>Web Düzeni</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -35086,7 +35089,8 @@ Görüntüle</translation>
     <message>
         <source>Navigation
 Pane</source>
-        <translation type="unfinished"/>
+        <translation>Gezinti
+Bölmesi</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -35099,7 +35103,8 @@ Pane</source>
     <message>
         <source>Print 
 Layout</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma 
+Düzeni</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -35203,7 +35208,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation>Baskı Düzeni</translation>
+        <translation>Yazdırma Düzeni</translation>
     </message>
     <message>
         <source>Place on Left</source>
@@ -35219,7 +35224,7 @@ Kapat</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"/>
+        <translation>Tek Sayfa</translation>
     </message>
     <message>
         <source>Arrange All</source>
@@ -35227,7 +35232,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation type="unfinished"/>
+        <translation>Web Düzeni</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -35275,7 +35280,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"/>
+        <translation>Gezinti Bölmesi</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -35283,7 +35288,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Multiple Pages</source>
-        <translation type="unfinished"/>
+        <translation>Birden Çok Sayfa</translation>
     </message>
     <message>
         <source>Security</source>
@@ -35620,7 +35625,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation type="unfinished"/>
+        <translation>Stili Temizle</translation>
     </message>
     <message>
         <source>Align Text Center</source>
@@ -38137,11 +38142,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>File Collect</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Topla</translation>
     </message>
     <message>
         <source>Scan to Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonuna Tara</translation>
     </message>
     <message>
         <source>XiuTang</source>
@@ -38421,7 +38426,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>My Picture</source>
@@ -38549,7 +38554,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>DocerTableStyle</source>
@@ -38649,7 +38654,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Scan to Mobile</source>
-        <translation>Mobile Tarama</translation>
+        <translation>Cep Telefonuna Tara</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -38919,7 +38924,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"/>
+        <translation>Gezinti Bölmesi</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -38987,7 +38992,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
@@ -39778,7 +39783,7 @@ Changes</source>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"/>
+        <translation>Tek Sayfa</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -39921,7 +39926,8 @@ Sayısı</translation>
     <message>
         <source>Navigation
 Pane</source>
-        <translation type="unfinished"/>
+        <translation>Gezinti
+Bölmesi</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -41656,7 +41662,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"/>
+        <translation>Tek Sayfa</translation>
     </message>
     <message>
         <source>Copies</source>
@@ -41688,7 +41694,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Multiple Pages</source>
-        <translation type="unfinished"/>
+        <translation>Birden Çok Sayfa</translation>
     </message>
     <message>
         <source>Paper Size</source>
@@ -41735,7 +41741,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"/>
+        <translation>Tek Sayfa</translation>
     </message>
     <message>
         <source>Copies</source>
@@ -41763,7 +41769,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Multiple Pages</source>
-        <translation type="unfinished"/>
+        <translation>Birden Çok Sayfa</translation>
     </message>
     <message>
         <source>Duplex Print:</source>
@@ -42284,7 +42290,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"/>
+        <translation>Tek Sayfa</translation>
     </message>
     <message>
         <source>View Ruler</source>
@@ -42292,7 +42298,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Multiple Pages</source>
-        <translation type="unfinished"/>
+        <translation>Birden Çok Sayfa</translation>
     </message>
     <message>
         <source>Close Preview</source>
@@ -43157,7 +43163,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
@@ -45555,11 +45561,12 @@ Açıklama</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"/>
+        <translation>Yazım 
+Denetimi</translation>
     </message>
     <message>
         <source>File Collect</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Topla</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -45893,7 +45900,7 @@ to Email</source>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation type="unfinished"/>
+        <translation>Stili Temizle</translation>
     </message>
     <message>
         <source>TOC Level</source>
@@ -47666,7 +47673,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
@@ -47686,7 +47693,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
