@@ -4950,7 +4950,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yoksay</translation>
     </message>
     <message>
         <source>Do you want to reset this gallery position to the default setting? </source>
@@ -28233,7 +28233,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yoksay</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
