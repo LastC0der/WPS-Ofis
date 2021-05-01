@@ -47899,7 +47899,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Yoksay</translation>
     </message>
     <message>
         <source>General(&amp;G)</source>
@@ -56660,7 +56660,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtView</name>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Yoksay</translation>
     </message>
     <message>
         <source>The split position of frozen panes is outside of the visible area, which disable the scrolling.
