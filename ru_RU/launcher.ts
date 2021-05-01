@@ -19,7 +19,7 @@
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Добро пожаловать в WPS Office</translation>
+        <translation>Добро пожаловать в WPS Office.</translation>
     </message>
     <message>
         <source>KLauncherWidget</source>
