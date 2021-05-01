@@ -24358,11 +24358,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>VAR.S(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>VAR.S(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>VAR.P(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>VAR.P(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
@@ -24370,7 +24370,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>NORM.DIST(x,mean,standard_dev,cumulative)</source>
-        <translation type="unfinished"/>
+        <translation>NORM.DAĞ(x,ortalama,standart_sapma,kümülatif)</translation>
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
@@ -24658,11 +24658,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
+        <translation>KUPONGÜNSKT(düzenleme,vade,sıklık,[temel])</translation>
     </message>
     <message>
         <source>COUPPCD(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
+        <translation>KUPONGÜNÖKT(düzenleme,vade,sıklık,[temel])</translation>
     </message>
     <message>
         <source>ADD.BAR(bar_num)</source>
@@ -24734,7 +24734,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>WORKDAY.INTL(start_date,days,weekend,holidays)</source>
-        <translation type="unfinished"/>
+        <translation>İŞGÜNÜ.ULUSL(başlangıç_tarihi,gün_sayısı,hafta_sonu,tatiller)</translation>
     </message>
     <message>
         <source>WINDOW.TITLE(text)</source>
@@ -24822,7 +24822,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ISFORMULA(reference)</source>
-        <translation type="unfinished"/>
+        <translation>EFORMÜLSE(başvuru)</translation>
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
