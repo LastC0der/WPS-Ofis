@@ -5385,7 +5385,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ReadingMode_View</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm</translation>
     </message>
     <message>
         <source>HeadAnnotate</source>
@@ -5589,7 +5589,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDFToWord_L</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>TestNewPage</source>
@@ -5821,7 +5821,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>EditPicExit</source>
@@ -6257,7 +6257,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Navigation Pane</source>
-        <translation type="unfinished"/>
+        <translation>Gezinti Bölmesi</translation>
     </message>
     <message>
         <source>TestDelPage</source>
@@ -6305,7 +6305,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDFToWord</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -6937,7 +6937,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -6993,7 +6993,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDFToWord</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
@@ -7290,7 +7290,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDFToWord</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>feedback</source>
@@ -7382,7 +7382,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>PDF Export as Photo</source>
@@ -7394,7 +7394,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
@@ -8812,7 +8812,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -9944,7 +9944,8 @@ Görüntüle</translation>
     <message>
         <source>Print 
 Layout</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma 
+Düzeni</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -10142,7 +10143,7 @@ Navigation</source>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>ImageExtract</source>
@@ -10360,7 +10361,7 @@ Navigation</source>
     </message>
     <message>
         <source>PDFToWord</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
@@ -11260,7 +11261,7 @@ Navigation</source>
     </message>
     <message>
         <source>Scan to Mobile</source>
-        <translation>Mobile Tarama</translation>
+        <translation>Cep Telefonuna Tara</translation>
     </message>
     <message>
         <source>AddPageNumber</source>
@@ -11276,11 +11277,11 @@ Navigation</source>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation>PDF To Word</translation>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Translate selected text2</source>
@@ -11863,7 +11864,7 @@ Navigation</source>
     </message>
     <message>
         <source>PDFToWord_L</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Compress</source>
@@ -11871,7 +11872,7 @@ Navigation</source>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -11907,11 +11908,11 @@ Navigation</source>
     </message>
     <message>
         <source>File Collect</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Topla</translation>
     </message>
     <message>
         <source>Scan to Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonuna Tara</translation>
     </message>
 </context>
 <context>
@@ -12665,11 +12666,11 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>PDFToWord_L</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -13287,11 +13288,11 @@ Deleted pages can not be recovered</source>
     <name>KxPdfNavigationBarStateCommand</name>
     <message>
         <source>Display the left navigation pane</source>
-        <translation type="unfinished"/>
+        <translation>Sol gezinti bölmesini göster</translation>
     </message>
     <message>
         <source>Hide the left navigation pane</source>
-        <translation type="unfinished"/>
+        <translation>Sol gezinti bölmesini gizle</translation>
     </message>
 </context>
 <context>
@@ -13388,7 +13389,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfFloatToolBarNavigationCommandItem</name>
     <message>
         <source>Hide the left navigation pane</source>
-        <translation type="unfinished"/>
+        <translation>Sol gezinti bölmesini gizle</translation>
     </message>
 </context>
 <context>
@@ -13622,7 +13623,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     <name>KxPdfMainWinGuideWidget</name>
     <message>
         <source>PDFToWord</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
