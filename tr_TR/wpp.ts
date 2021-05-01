@@ -22948,7 +22948,7 @@ Settings</source>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"/>
+        <translation>Klasör Seç:</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
