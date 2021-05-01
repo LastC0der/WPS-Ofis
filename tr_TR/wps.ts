@@ -2786,7 +2786,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Yoksay</translation>
     </message>
     <message>
         <source>Inches</source>
@@ -14945,7 +14945,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Yoksay</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -43886,7 +43886,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yoksay</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
