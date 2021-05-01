@@ -46427,7 +46427,7 @@ Paylaş</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Dönüştürme</translation>
+        <translation>Çince Çeviri</translation>
     </message>
     <message>
         <source>Previous</source>
