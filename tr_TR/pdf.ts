@@ -4780,7 +4780,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ResetDefaults</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılanı Sıfırla</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4788,7 +4788,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>No (&amp;N)</source>
-        <translation>Hayır (&amp;N)</translation>
+        <translation>&amp;Hayır</translation>
     </message>
     <message>
         <source>No To All</source>
@@ -4800,7 +4800,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Ignore (&amp;I)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yoksay</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -10845,7 +10845,7 @@ Navigation</source>
     <name>KxPdfDocumentCloseTipsDialog</name>
     <message>
         <source>No(N)</source>
-        <translation>Hayır(N)</translation>
+        <translation>&amp;Hayır</translation>
     </message>
     <message>
         <source>filename:</source>
