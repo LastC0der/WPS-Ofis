@@ -5982,7 +5982,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Select another file</source>
-        <translation type="unfinished"/>
+        <translation>Başka bir dosya seç</translation>
     </message>
     <message>
         <source>&quot;File slimming&quot; finished! Successfully reduced</source>
@@ -33754,7 +33754,7 @@ Taşı</translation>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation type="unfinished"/>
+        <translation>Onay kutusu</translation>
     </message>
     <message>
         <source>simplified mode</source>
