@@ -8780,7 +8780,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük Sayısı</translation>
     </message>
     <message>
         <source>Set State</source>
