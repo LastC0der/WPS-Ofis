@@ -870,7 +870,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Account information has timed out</source>
-        <translation type="unfinished"/>
+        <translation>Hesap bilgileri zaman aşımına uğradı</translation>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
