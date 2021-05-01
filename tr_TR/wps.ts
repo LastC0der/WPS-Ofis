@@ -2562,7 +2562,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Show &amp;spelling errors ignored in this document</source>
-        <translation type="unfinished"/>
+        <translation>Bu belgede yok sayılan &amp;yazım hatalarını göster</translation>
     </message>
     <message>
         <source>Automatically download and update language packages</source>
@@ -2570,7 +2570,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Check s&amp;pelling as you type</source>
-        <translation type="unfinished"/>
+        <translation>Yazarken yazımı dene&amp;tle</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -2694,7 +2694,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Ignore Internet and &amp;network paths</source>
-        <translation type="unfinished"/>
+        <translation>İnternet ve &amp;ağ yollarını yok say</translation>
     </message>
     <message>
         <source>minutes</source>
@@ -3014,7 +3014,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Custom &amp;Dictionaries...</source>
-        <translation type="unfinished"/>
+        <translation>Özel Sözlü&amp;kler...</translation>
     </message>
     <message>
         <source>Show pas&amp;te options buttons</source>
@@ -15202,7 +15202,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük Sayısı</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -15387,7 +15387,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Check Spelling As You Type</source>
-        <translation type="unfinished"/>
+        <translation>Yazarken Yazımı Denetle</translation>
     </message>
     <message>
         <source>Insert shape on below</source>
@@ -18828,7 +18828,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük Sayısı</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -19124,7 +19124,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük sayısı. &quot;Sözcük Sayısı&quot; iletişim kutusunu açmak için tıklayın.</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
@@ -19783,7 +19783,7 @@ Screen</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük Sayısı</translation>
     </message>
     <message>
         <source>Characters (no spaces)</source>
@@ -19945,7 +19945,8 @@ Boyacısı</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri
+İzle</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -21261,7 +21262,8 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>Track 
 Changes</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri
+İzle</translation>
     </message>
     <message>
         <source>Combo Box Selection</source>
@@ -22241,7 +22243,7 @@ Check</source>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
         <comment>_TxTcscConvert</comment>
-        <translation type="unfinished"/>
+        <translation>Basitleştirilmiş/Geleneksel Çince Çeviri</translation>
     </message>
     <message>
         <source>Table Web 1</source>
@@ -22561,7 +22563,7 @@ Protection</source>
     </message>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
-        <translation type="unfinished"/>
+        <translation>Basitleştirilmiş/Geleneksel Çince Çeviri</translation>
     </message>
     <message>
         <source>New Style</source>
@@ -25164,7 +25166,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Convert to Traditional Chinese</translation>
+        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -39768,7 +39770,7 @@ Changes</source>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -39809,7 +39811,8 @@ Changes</source>
     <message>
         <source>Word
 Count</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük
+Sayısı</translation>
     </message>
     <message>
         <source>Show Formatting</source>
@@ -39897,7 +39900,7 @@ Count</source>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Dönüştürme</translation>
+        <translation>Çince Çeviri</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -40064,7 +40067,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -40104,7 +40107,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük Sayısı</translation>
     </message>
     <message>
         <source>Accept Format Changes in Document</source>
@@ -45451,7 +45454,8 @@ Numarası</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri
+İzle</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -45460,7 +45464,8 @@ Changes</source>
     <message>
         <source>Word
 Count</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük
+Sayısı</translation>
     </message>
     <message>
         <source>Review</source>
