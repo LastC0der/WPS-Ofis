@@ -713,7 +713,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Account or password does not exist</source>
-        <translation type="unfinished"/>
+        <translation>Hesap veya şifre mevcut değil</translation>
     </message>
     <message>
         <source>Unknown error!</source>
@@ -1405,7 +1405,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Account or password does not exist</source>
-        <translation type="unfinished"/>
+        <translation>Hesap veya şifre mevcut değil</translation>
     </message>
     <message>
         <source>Wechat Binding</source>
@@ -1600,7 +1600,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Account or password does not exist</source>
-        <translation type="unfinished"/>
+        <translation>Hesap veya şifre mevcut değil</translation>
     </message>
     <message>
         <source>Wechat Binding</source>
