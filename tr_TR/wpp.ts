@@ -13286,7 +13286,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Reading View</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Görünümü</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -15823,7 +15823,7 @@ Slide</source>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>New File Menu</source>
@@ -18087,7 +18087,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>display play button</source>
@@ -18361,7 +18361,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Scan to Mobile</source>
-        <translation>Mobile Tarama</translation>
+        <translation>Cep Telefonuna Tara</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -20884,7 +20884,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -23308,7 +23308,7 @@ Cells</source>
     </message>
     <message>
         <source>Narrow</source>
-        <translation type="unfinished"/>
+        <translation>Dar</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -24919,7 +24919,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
@@ -24977,11 +24977,11 @@ Kaydet</translation>
     </message>
     <message>
         <source>File Collect</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Topla</translation>
     </message>
     <message>
         <source>Scan to Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonuna Tara</translation>
     </message>
     <message>
         <source>XiuTang</source>
@@ -25501,7 +25501,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Narrow</source>
-        <translation type="unfinished"/>
+        <translation>Dar</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -25612,7 +25612,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Reading View</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Görünümü</translation>
     </message>
     <message>
         <source>Slide Show from Current(Shift+F5)</source>
@@ -26319,7 +26319,7 @@ Order</source>
     </message>
     <message>
         <source>Reading View</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Görünümü</translation>
     </message>
     <message>
         <source>Grid and
@@ -27953,7 +27953,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
@@ -29569,7 +29569,7 @@ Comment</source>
     </message>
     <message>
         <source>File Collect</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Topla</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -31528,7 +31528,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
