@@ -9919,7 +9919,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>B5 (176 x 250 mm, 6.93 x 9.84 inches)</source>
-        <translation type="unfinished"/>
+        <translation>B5 (176 x 250 mm, 6.93 x 9.84 inç)</translation>
     </message>
     <message>
         <source>Print range</source>
@@ -9971,7 +9971,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>A4 (210 x 297 mm, 8.26 x 11.7 inches)</source>
-        <translation type="unfinished"/>
+        <translation>A4 (210 x 297 mm, 8.26 x 11.7 inç)</translation>
     </message>
     <message>
         <source>Executive</source>
