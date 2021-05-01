@@ -725,7 +725,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Custom &amp;Dictionaries...</source>
-        <translation type="unfinished"/>
+        <translation>Özel Sözlü&amp;kler...</translation>
     </message>
     <message>
         <source>Backup files cache:</source>
@@ -2451,7 +2451,7 @@ Check</source>
     </message>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
-        <translation type="unfinished"/>
+        <translation>Basitleştirilmiş/Geleneksel Çince Çeviri</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -25767,7 +25767,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -25868,7 +25868,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -27308,7 +27308,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Convert to Traditional Chinese</translation>
+        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Online Templates</source>
