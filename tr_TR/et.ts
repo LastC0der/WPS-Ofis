@@ -15215,7 +15215,7 @@ tıklayın.</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"/>
+        <translation>Klasör Seç:</translation>
     </message>
     <message>
         <source>Slimming...</source>
@@ -39811,7 +39811,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"/>
+        <translation>Klasör Seç:</translation>
     </message>
     <message>
         <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart WPS Spreadsheets.</source>
