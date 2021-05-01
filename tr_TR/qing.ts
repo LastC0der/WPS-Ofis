@@ -826,7 +826,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>B5 (176 x 250 mm, 6.93 x 9.84 inches)</source>
-        <translation type="unfinished"/>
+        <translation>B5 (176 x 250 mm, 6.93 x 9.84 inç)</translation>
     </message>
     <message>
         <source>Print range</source>
@@ -878,7 +878,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>A4 (210 x 297 mm, 8.26 x 11.7 inches)</source>
-        <translation type="unfinished"/>
+        <translation>A4 (210 x 297 mm, 8.26 x 11.7 inç)</translation>
     </message>
     <message>
         <source>Executive</source>
@@ -1012,7 +1012,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
 </context>
 <context>
@@ -1270,7 +1270,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Dosyası</translation>
     </message>
     <message>
         <source>Cancel upload</source>
@@ -1640,7 +1640,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>has new version in service.</source>
@@ -7685,7 +7685,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Dosyası</translation>
     </message>
     <message>
         <source>upgrade super vip for upload %1 exceeding file</source>
@@ -7720,7 +7720,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Dosyası</translation>
     </message>
 </context>
 <context>
@@ -8392,7 +8392,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Dosyası</translation>
     </message>
     <message>
         <source>Cancel upload</source>
@@ -10018,7 +10018,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Dosyası</translation>
     </message>
     <message>
         <source>Intelligent update</source>
