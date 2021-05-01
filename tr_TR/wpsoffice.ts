@@ -3347,7 +3347,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Buy Now</source>
@@ -8068,7 +8068,7 @@ Exit login panel will lead to exiting WPS 2019.</source>
     </message>
     <message>
         <source>Account Information</source>
-        <translation type="unfinished"/>
+        <translation>Hesap Bilgileri</translation>
     </message>
     <message>
         <source>Use redeem code</source>
