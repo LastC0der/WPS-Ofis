@@ -3,322 +3,323 @@
     <name>KAppLoadWindow</name>
     <message>
         <source>OK</source>
-        <translation>Tamam</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"/>
+        <translation>Background</translation>
     </message>
     <message>
         <source>Load failed</source>
-        <translation type="unfinished"/>
+        <translation>Read failed</translation>
     </message>
     <message>
         <source>Loading %1, please wait</source>
-        <translation type="unfinished"/>
+        <translation>Loading %1. Please wait.</translation>
     </message>
 </context>
 <context>
     <name>KLiteMessageContentDlg</name>
     <message>
         <source>OK</source>
-        <translation>Tamam</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Kapat</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
     <name>KNotFoundFileDlgBase</name>
     <message>
         <source>OK</source>
-        <translation>Tamam</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>View Backup</source>
-        <translation type="unfinished"/>
+        <translation>View Backup</translation>
     </message>
     <message>
         <source>%1open file path%2</source>
-        <translation type="unfinished"/>
+        <translation>%1open file path%2</translation>
     </message>
     <message>
         <source>Recover File</source>
-        <translation type="unfinished"/>
+        <translation>Recover File</translation>
     </message>
 </context>
 <context>
     <name>KLiteConfirmDlg</name>
     <message>
         <source>No</source>
-        <translation>Hayır</translation>
+        <translation>No</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Evet</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation>Onayla</translation>
+        <translation>Confirm</translation>
     </message>
 </context>
 <context>
     <name>UpdateFullPacketMsgBox</name>
     <message>
         <source>Ok</source>
-        <translation>Tamam</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>The feature you want to use is being downloaded and installed, please be patient and wait for the installation to complete.</source>
-        <translation type="unfinished"/>
+        <translation>The feature you want to use is being downloaded and installed, please be patient and wait for the installation to complete.</translation>
     </message>
     <message>
         <source>This feature has been installed, but has not been enabled.
 Save the data and restart the WPS software to enable this feature.</source>
-        <translation type="unfinished"/>
+        <translation>This feature has been installed, but has not been enabled.
+Save the data and restart the WPS software to enable this feature.</translation>
     </message>
 </context>
 <context>
     <name>KRecentvisitContainter</name>
     <message>
         <source>et</source>
-        <translation type="unfinished"/>
+        <translation>XLS</translation>
     </message>
     <message>
         <source>all</source>
-        <translation type="unfinished"/>
+        <translation>ALL</translation>
     </message>
     <message>
         <source>pdf</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>wpp</source>
-        <translation type="unfinished"/>
+        <translation>PPT</translation>
     </message>
     <message>
         <source>wps</source>
-        <translation type="unfinished"/>
+        <translation>DOC</translation>
     </message>
     <message>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <source>path</source>
-        <translation type="unfinished"/>
+        <translation>Path</translation>
     </message>
     <message>
         <source>size</source>
-        <translation type="unfinished"/>
+        <translation>Size</translation>
     </message>
     <message>
         <source>modifytime</source>
-        <translation type="unfinished"/>
+        <translation>Modify time</translation>
     </message>
 </context>
 <context>
     <name>KFileDialogEx</name>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"/>
+        <translation>Ico&amp;n</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Aç</translation>
+        <translation>&amp;Open</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Kaydet</translation>
+        <translation>&amp;Save</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tile</translation>
     </message>
     <message>
         <source>My Documents</source>
-        <translation type="unfinished"/>
+        <translation>Documents</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Kapat</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Private Space</source>
-        <translation type="unfinished"/>
+        <translation>Personal Space</translation>
     </message>
     <message>
         <source>Middle Icon</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Medium Icons</translation>
     </message>
     <message>
         <source>%1 Path is not exist.Please check that the path is valid</source>
-        <translation type="unfinished"/>
+        <translation>%1\n Path is not exist.\n Please check the path and retry.</translation>
     </message>
     <message>
         <source>Forward Folder</source>
-        <translation type="unfinished"/>
+        <translation>Folder Last Visited</translation>
     </message>
     <message>
         <source>Title Save</source>
-        <translation type="unfinished"/>
+        <translation>Save As</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"/>
+        <translation>Document Name</translation>
     </message>
     <message>
         <source>File Type</source>
-        <translation type="unfinished"/>
+        <translation>File Type</translation>
     </message>
     <message>
         <source>Small Icon</source>
-        <translation type="unfinished"/>
+        <translation>Small Ico&amp;ns</translation>
     </message>
     <message>
         <source>Original file path</source>
-        <translation type="unfinished"/>
+        <translation>Original file path</translation>
     </message>
     <message>
         <source>Mobile Picture</source>
-        <translation type="unfinished"/>
+        <translation>Insert picture from mobile</translation>
     </message>
     <message>
         <source>Maximum</source>
-        <translation type="unfinished"/>
+        <translation>Maximize</translation>
     </message>
     <message>
         <source>Recent Visit</source>
-        <translation type="unfinished"/>
+        <translation>Recent Folder</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Last open path</source>
-        <translation type="unfinished"/>
+        <translation>Last saved path</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Yeni Klasör</translation>
+        <translation>New Folder</translation>
     </message>
     <message>
         <source>The file already exists. Is it replaced?</source>
-        <translation type="unfinished"/>
+        <translation>%1 The file already exists.\n Is it replaced?</translation>
     </message>
     <message>
         <source>Save encrypted document</source>
-        <translation type="unfinished"/>
+        <translation>Save encrypted document</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Notice</source>
-        <translation>Bildirim</translation>
+        <translation>Notice</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"/>
+        <translation>Recent</translation>
     </message>
     <message>
         <source>Computer</source>
-        <translation type="unfinished"/>
+        <translation>Computer</translation>
     </message>
     <message>
         <source>There is an extension of the data in the document</source>
-        <translation type="unfinished"/>
+        <translation>Extended data exists in the file. It is recommended to save the file as %1, otherwise changing the extended data again will not be supported.</translation>
     </message>
     <message>
         <source>Custom Control Max Count Tip</source>
-        <translation type="unfinished"/>
+        <translation>You can add %1 locations at most.</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Restore</translation>
     </message>
     <message>
         <source>Folder Select</source>
-        <translation type="unfinished"/>
+        <translation>Look In</translation>
     </message>
     <message>
         <source>Report View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;List</translation>
     </message>
     <message>
         <source>Save At</source>
-        <translation type="unfinished"/>
+        <translation>Save to</translation>
     </message>
     <message>
         <source>Folder is not exist</source>
-        <translation type="unfinished"/>
+        <translation>Folder is not exist</translation>
     </message>
     <message>
         <source>My Company</source>
-        <translation type="unfinished"/>
+        <translation>My Company</translation>
     </message>
     <message>
         <source>Syn doc to cloud then everywhere to continue accessing</source>
-        <translation type="unfinished"/>
+        <translation>Files backed up to the Cloud can be accessed after login on the phone or computer.</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation>Belgeler</translation>
+        <translation>Documents</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>Masaüstü</translation>
+        <translation>Desktop</translation>
     </message>
     <message>
         <source>Cloud Sync</source>
-        <translation type="unfinished"/>
+        <translation>Back Up Doc to Cloud</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation type="unfinished"/>
+        <translation>Invalid file name. Please enter a correct file name.</translation>
     </message>
     <message>
         <source>can&apos;t find the file</source>
-        <translation type="unfinished"/>
+        <translation>%1\n Unable to find the file.\n Please check the filename and retry.</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"/>
+        <translation>Open File</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;humbnail</translation>
     </message>
     <message>
         <source>Super Icon</source>
-        <translation type="unfinished"/>
+        <translation>E&amp;xtra Large Icons</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Şifrele</translation>
+        <translation>&amp;Encrypt...</translation>
     </message>
     <message>
         <source>Save File</source>
-        <translation type="unfinished"/>
+        <translation>Save File</translation>
     </message>
     <message>
         <source>View Menu</source>
-        <translation type="unfinished"/>
+        <translation>View Menu</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -326,69 +327,69 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
-        <translation type="unfinished"/>
+        <translation>WPS Encrypted Document Format</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Öne</translation>
+        <translation>Up One Folder</translation>
     </message>
     <message>
         <source>Big Icon</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Big Icons</translation>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>View &amp;Details</translation>
     </message>
     <message>
         <source>Search Title</source>
-        <translation type="unfinished"/>
+        <translation>Search Results in &quot;Computer&quot;</translation>
     </message>
 </context>
 <context>
     <name>KSearchEngine</name>
     <message>
         <source>Name</source>
-        <translation>Ad</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"/>
+        <translation>Path</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Boyut</translation>
+        <translation>Size</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tür</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Search Fail Text</source>
-        <translation type="unfinished"/>
+        <translation>Search tools initialization failed</translation>
     </message>
     <message>
         <source>Search Waiting Text</source>
-        <translation type="unfinished"/>
+        <translation>Searching...</translation>
     </message>
     <message>
         <source>Last Modify Time</source>
-        <translation type="unfinished"/>
+        <translation>Last Modify Time</translation>
     </message>
 </context>
 <context>
     <name>KDrawBrowserWnd</name>
     <message>
         <source>Browse for folder</source>
-        <translation type="unfinished"/>
+        <translation>Browse for folder</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Kapat</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -399,53 +400,53 @@ Save the data and restart the WPS software to enable this feature.</source>
     <name>KSearchCtrl</name>
     <message>
         <source>Clear</source>
-        <translation>Temizle</translation>
+        <translation>Clear</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Ara</translation>
+        <translation>&amp;Search</translation>
     </message>
 </context>
 <context>
     <name>KCefLoadingProgressDlgBase</name>
     <message>
         <source>Please wait a few minutes for us to complete the loading of the core support library.</source>
-        <translation type="unfinished"/>
+        <translation>Please wait a few minutes until the loading is complete.</translation>
     </message>
     <message>
         <source>Loading core support library......</source>
-        <translation type="unfinished"/>
+        <translation>Loading the core support library...</translation>
     </message>
     <message>
         <source>Error occurred on core support library download, it is recommended to detect the network after reloading</source>
-        <translation type="unfinished"/>
+        <translation>Failed to download the core support library. Please check the network connectivity and load the library again.</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Reload</translation>
     </message>
     <message>
         <source>Core support library failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Failed to load the core support library.</translation>
     </message>
     <message>
         <source>This feature requires core support library,</source>
-        <translation type="unfinished"/>
+        <translation>This feature requires the core support library.</translation>
     </message>
 </context>
 <context>
     <name>KDrawMsgBox</name>
     <message>
         <source>Instant Recovery</source>
-        <translation type="unfinished"/>
+        <translation>Instant Recovery</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -456,26 +457,26 @@ Save the data and restart the WPS software to enable this feature.</source>
     <name>KAppLoadingWidget</name>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Loading %1, please wait</source>
-        <translation type="unfinished"/>
+        <translation>Loading %1. Please wait.</translation>
     </message>
     <message>
         <source>Backgroundg</source>
-        <translation type="unfinished"/>
+        <translation>Backgroundg</translation>
     </message>
 </context>
 <context>
     <name>KImagePlayDlg</name>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -486,27 +487,28 @@ Save the data and restart the WPS software to enable this feature.</source>
     <name>KLoadingTipsLiteUI</name>
     <message>
         <source>Network Error,Load Failed!</source>
-        <translation type="unfinished"/>
+        <translation>Network Error,failed to downLoad!</translation>
     </message>
     <message>
         <source>Loading the Data Recovery Master.Please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Loading Data Recovery Master.Please wait...</translation>
     </message>
 </context>
 <context>
     <name>KDrawRecentListCtrl</name>
     <message>
         <source>WPS Office</source>
-        <translation>WPS Ofis</translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file has not been uploaded to Cloud.Please upload it in mobile phone.</source>
-        <translation type="unfinished"/>
+        <translation>Unable to open &quot;%1&quot;.
+This file is not on the Cloud. Please upload it to the Cloud from your phone.</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -517,15 +519,15 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KCustomCtrl</name>
     <message>
         <source>Rename</source>
-        <translation>Yeniden Adlandır</translation>
+        <translation>Rename</translation>
     </message>
     <message>
         <source>Delete Control</source>
-        <translation type="unfinished"/>
+        <translation>Delete Control</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -536,11 +538,11 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KDrawSearchListCtrl</name>
     <message>
         <source>UAC Fail Message</source>
-        <translation type="unfinished"/>
+        <translation>Search failed. You have denied permission of search tools initiation. \r\n Click Yes to finish the search when prompt dialog appears during your next search.</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -548,18 +550,18 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Can&apos;t open this file</source>
-        <translation type="unfinished"/>
+        <translation>Cannot open this file.</translation>
     </message>
     <message>
         <source>No Result Message</source>
-        <translation type="unfinished"/>
+        <translation>Sorry, the search has found no matches of &quot;%s&quot;. \r\nPlease try other keywords.</translation>
     </message>
 </context>
 <context>
     <name>KDrawButton</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -570,7 +572,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KDrawCheckBox</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -581,7 +583,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KDrawComboBox</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -592,7 +594,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KDrawMenu</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -603,7 +605,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KDrawTreeCtrl</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -614,7 +616,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KSwitchButton</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -625,11 +627,11 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KTooltipCtrl</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Recommended save as specify format</source>
-        <translation type="unfinished"/>
+        <translation>Recommended saving as %1 format</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -640,14 +642,14 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KLiteTrialReminderDlg</name>
     <message>
         <source>confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirm</translation>
     </message>
 </context>
 <context>
     <name>KPromeIconThemeMgr</name>
     <message>
         <source>2019default</source>
-        <translation type="unfinished"/>
+        <translation>2019 Beauty</translation>
     </message>
 </context>
 <context>
