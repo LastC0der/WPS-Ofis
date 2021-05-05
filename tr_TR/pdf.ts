@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Review History</source>
-        <translation type="unfinished"/>
+        <translation>Geçmişi Gözden Geçir</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -189,7 +189,7 @@
     </message>
     <message>
         <source>CM</source>
-        <translation>CM</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>100</source>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>row</source>
-        <translation>satır</translation>
+        <translation>Satır</translation>
     </message>
     <message>
         <source> to </source>
@@ -668,19 +668,19 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>CM</source>
-        <translation>CM</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>MM</source>
-        <translation>MM</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>列</source>
-        <translation type="unfinished"/>
+        <translation>Sütun</translation>
     </message>
     <message>
         <source>行</source>
-        <translation type="unfinished"/>
+        <translation>Satır</translation>
     </message>
     <message>
         <source>1000</source>
@@ -696,7 +696,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>打印机：</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcı:</translation>
     </message>
     <message>
         <source>more function</source>
@@ -784,7 +784,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>颜色:</source>
-        <translation type="unfinished"/>
+        <translation>Renk:</translation>
     </message>
     <message>
         <source>OnlyFront</source>
@@ -1266,7 +1266,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>row</source>
-        <translation>satır</translation>
+        <translation>Satır</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -1852,7 +1852,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Kes</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -7726,7 +7726,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>I have a suggestion</source>
-        <translation type="unfinished"/>
+        <translation>Bir önerim var</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
@@ -9709,7 +9709,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Review history</source>
-        <translation type="unfinished"/>
+        <translation>Geçmişi gözden geçir</translation>
     </message>
     <message>
         <source>Completed</source>
@@ -11660,7 +11660,7 @@ Navigation</source>
     <name>ongmani.ct_newannotation</name>
     <message>
         <source>I have a suggestion</source>
-        <translation type="unfinished"/>
+        <translation>Bir önerim var</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
@@ -11687,7 +11687,7 @@ Navigation</source>
     <name>ongmani.ct_newcreate</name>
     <message>
         <source>I have a suggestion</source>
-        <translation type="unfinished"/>
+        <translation>Bir önerim var</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
@@ -11710,7 +11710,7 @@ Navigation</source>
     <name>ongmani.ct_newexport</name>
     <message>
         <source>I have a suggestion</source>
-        <translation type="unfinished"/>
+        <translation>Bir önerim var</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
@@ -11737,7 +11737,7 @@ Navigation</source>
     <name>ongmani.ct_newfillsign</name>
     <message>
         <source>I have a suggestion</source>
-        <translation type="unfinished"/>
+        <translation>Bir önerim var</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
