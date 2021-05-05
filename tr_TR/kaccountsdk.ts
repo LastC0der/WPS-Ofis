@@ -3,53 +3,53 @@
     <name>KAccountMessageContentDlg</name>
     <message>
         <source>OK</source>
-        <translation>Tamam</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Kapat</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
     <name>KNetworkErrWidget</name>
     <message>
         <source>OK</source>
-        <translation>Tamam</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Kapat</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>CheckNetwork</source>
-        <translation type="unfinished"/>
+        <translation>CheckNetwork</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation>Ağ hatası, ağınızı kontrol edin ve yeniden deneyin</translation>
+        <translation>Network error,check you network and retry</translation>
     </message>
     <message>
         <source>Widget</source>
-        <translation type="unfinished"/>
+        <translation>Widget</translation>
     </message>
     <message>
         <source>Login tip</source>
-        <translation type="unfinished"/>
+        <translation>Sign in Notice</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Text Label</translation>
     </message>
 </context>
 <context>
     <name>KProxySettingDlg</name>
     <message>
         <source>OK</source>
-        <translation>Tamam</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Test</source>
@@ -57,436 +57,440 @@
     </message>
     <message>
         <source>Port:</source>
-        <translation>Bağlantı noktası:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Tür:</translation>
+        <translation>Type:</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation type="unfinished"/>
+        <translation>Do not use proxy</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
-        <translation type="unfinished"/>
+        <translation>HTTP proxy</translation>
     </message>
     <message>
         <source>Internet Explorer Proxy</source>
-        <translation type="unfinished"/>
+        <translation>Internet Explorer Proxy</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation>Kullanıcı adı:</translation>
+        <translation>User name:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy settings</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
-        <translation type="unfinished"/>
+        <translation>Connected to proxy server correctly</translation>
     </message>
     <message>
         <source>Failed to connect to proxy server</source>
-        <translation type="unfinished"/>
+        <translation>Failed to connect to proxy server</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Parola:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Adres:</translation>
+        <translation>Address:</translation>
     </message>
 </context>
 <context>
     <name>KUserAgreeMentDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>We care about your data and user privacy, here is</source>
-        <translation type="unfinished"/>
+        <translation>We care about your data and user privacy. Here is</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>WPS Office Cloud Services User Agreement.</source>
-        <translation type="unfinished"/>
+        <translation>the WPS Office Cloud Services User Agreement.</translation>
     </message>
     <message>
         <source>Please read and continue.</source>
-        <translation type="unfinished"/>
+        <translation>Please read before you continue.</translation>
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Terms of Service</translation>
     </message>
 </context>
 <context>
     <name>account_sdk::KProxySettingDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"/>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Type:</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation type="unfinished"/>
+        <translation>Do not use proxy</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
-        <translation type="unfinished"/>
+        <translation>HTTP proxy</translation>
     </message>
     <message>
         <source>Internet Explorer Proxy</source>
-        <translation type="unfinished"/>
+        <translation>Internet Explorer Proxy</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation type="unfinished"/>
+        <translation>User name:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy settings</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
-        <translation type="unfinished"/>
+        <translation>Connected to proxy server correctly</translation>
     </message>
     <message>
         <source>Failed to connect to proxy server</source>
-        <translation type="unfinished"/>
+        <translation>Failed to connect to proxy server</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"/>
+        <translation>Address:</translation>
     </message>
 </context>
 <context>
     <name>interface_setmenu</name>
     <message>
         <source>Add</source>
-        <translation>Ekle</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Kes</translation>
+        <translation>Cut</translation>
     </message>
     <message>
         <source>Sync</source>
-        <translation type="unfinished"/>
+        <translation>Sync</translation>
     </message>
     <message>
         <source>MenuCount:</source>
-        <translation type="unfinished"/>
+        <translation>MenuCount:</translation>
     </message>
 </context>
 <context>
     <name>MenuItemView</name>
     <message>
         <source>Id:</source>
-        <translation type="unfinished"/>
+        <translation>Id:</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation>Metin:</translation>
+        <translation>Text:</translation>
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation type="unfinished"/>
+        <translation>Shortcut:</translation>
     </message>
 </context>
 <context>
     <name>demo_ts</name>
     <message>
         <source>Exec</source>
-        <translation type="unfinished"/>
+        <translation>Exec</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Çıkış</translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Dosya</translation>
+        <translation>File</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Yardım</translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Aç</translation>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Kaydet</translation>
+        <translation>Save</translation>
     </message>
     <message>
         <source>Userid : %1 login...</source>
-        <translation type="unfinished"/>
+        <translation>UserID : %1 login...</translation>
     </message>
     <message>
         <source>_initUI...</source>
-        <translation type="unfinished"/>
+        <translation>_initUI...</translation>
     </message>
     <message>
         <source>sdk Changed......%1</source>
-        <translation type="unfinished"/>
+        <translation>SDK Changed...%1</translation>
     </message>
     <message>
         <source>save config file : </source>
-        <translation type="unfinished"/>
+        <translation>Save config file : </translation>
     </message>
     <message>
         <source>SyncType : %1
   BeforeUserID : %2
   AfterUserID : %3</source>
-        <translation type="unfinished"/>
+        <translation>SyncType : %1
+  BeforeUserID : %2
+  AfterUserID : %3</translation>
     </message>
     <message>
         <source>no menu item</source>
-        <translation type="unfinished"/>
+        <translation>No menu item</translation>
     </message>
     <message>
         <source>SetMenu return  RESULT : %1</source>
-        <translation type="unfinished"/>
+        <translation>SetMenu return  RESULT : %1</translation>
     </message>
     <message>
         <source>GetMenu return  RESULT : %1</source>
-        <translation type="unfinished"/>
+        <translation>GetMenu return  RESULT : %1</translation>
     </message>
     <message>
         <source>Error : load failed...
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Error : load failed...
+%1</translation>
     </message>
     <message>
         <source>Unknown SyncEvent</source>
-        <translation type="unfinished"/>
+        <translation>Unknown SyncEvent</translation>
     </message>
     <message>
         <source>View encrypted file</source>
-        <translation type="unfinished"/>
+        <translation>View encrypted file</translation>
     </message>
     <message>
         <source>SyncMenu...start...</source>
-        <translation type="unfinished"/>
+        <translation>Sync Menu...start...</translation>
     </message>
     <message>
         <source>SyncLogin</source>
-        <translation type="unfinished"/>
+        <translation>SyncLogin</translation>
     </message>
     <message>
         <source>Logout return  ActionId : %1</source>
-        <translation type="unfinished"/>
+        <translation>Logout return  ActionId : %1</translation>
     </message>
     <message>
         <source>save succeed...</source>
-        <translation type="unfinished"/>
+        <translation>Save succeed...</translation>
     </message>
     <message>
         <source>Logout...start...</source>
-        <translation type="unfinished"/>
+        <translation>Logout...start...</translation>
     </message>
     <message>
         <source>KQingAccountSDK</source>
-        <translation type="unfinished"/>
+        <translation>KQingAccountSDK</translation>
     </message>
     <message>
         <source>GetVersion...start...</source>
-        <translation type="unfinished"/>
+        <translation>Get Version...start...</translation>
     </message>
     <message>
         <source>SetEnv return  RESULT : %1</source>
-        <translation type="unfinished"/>
+        <translation>SetEnv return  RESULT : %1</translation>
     </message>
     <message>
         <source>SyncLogout</source>
-        <translation type="unfinished"/>
+        <translation>Sync Logout</translation>
     </message>
     <message>
         <source>Error : dll not exists...
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Error : dll not exists...
+%1</translation>
     </message>
     <message>
         <source>Userid : %1 not login</source>
-        <translation type="unfinished"/>
+        <translation>UserID : %1 not login</translation>
     </message>
     <message>
         <source>SyncRemove</source>
-        <translation type="unfinished"/>
+        <translation>Sync Remove</translation>
     </message>
     <message>
         <source>KWpsAccountSDk</source>
-        <translation type="unfinished"/>
+        <translation>KWpsAccountSDk</translation>
     </message>
     <message>
         <source>save failed...</source>
-        <translation type="unfinished"/>
+        <translation>Save failed...</translation>
     </message>
     <message>
         <source>UnInit return  RESULT : %1</source>
-        <translation type="unfinished"/>
+        <translation>UnInit return  RESULT : %1</translation>
     </message>
     <message>
         <source>Receive A Message: KAcResultType=%1</source>
-        <translation type="unfinished"/>
+        <translation>Receive A Message: KAcResultType=%1</translation>
     </message>
     <message>
         <source>SetMenu...start...</source>
-        <translation type="unfinished"/>
+        <translation>Set Menu...start...</translation>
     </message>
     <message>
         <source>Login...start...</source>
-        <translation type="unfinished"/>
+        <translation>Login...start...</translation>
     </message>
     <message>
         <source>UnInit...start...</source>
-        <translation type="unfinished"/>
+        <translation>UnInit...start...</translation>
     </message>
     <message>
         <source>Init...start...</source>
-        <translation type="unfinished"/>
+        <translation>Init...start...</translation>
     </message>
     <message>
         <source>ProxySettingParamType Message</source>
-        <translation type="unfinished"/>
+        <translation>ProxySettingParamType Message</translation>
     </message>
     <message>
         <source>Exception : MessageType is %1</source>
-        <translation type="unfinished"/>
+        <translation>Exception : MessageType is %1</translation>
     </message>
     <message>
         <source>GetMenu...start...</source>
-        <translation type="unfinished"/>
+        <translation>Get Menu...start...</translation>
     </message>
     <message>
         <source>load failed...</source>
-        <translation type="unfinished"/>
+        <translation>Load failed...</translation>
     </message>
     <message>
         <source>load Config file : </source>
-        <translation type="unfinished"/>
+        <translation>Load config file : </translation>
     </message>
     <message>
         <source>SetProxy...start...</source>
-        <translation type="unfinished"/>
+        <translation>Set Proxy...start...</translation>
     </message>
     <message>
         <source>K3rdAccountSDK</source>
-        <translation type="unfinished"/>
+        <translation>K3rdAccountSDK</translation>
     </message>
     <message>
         <source>SetProxy return  RESULT : %1</source>
-        <translation type="unfinished"/>
+        <translation>SetProxy return  RESULT : %1</translation>
     </message>
     <message>
         <source>The DLL Version: %1</source>
-        <translation type="unfinished"/>
+        <translation>DLL Version: %1</translation>
     </message>
     <message>
         <source>Login return  ActionId : %1</source>
-        <translation type="unfinished"/>
+        <translation>Login return  ActionId : %1</translation>
     </message>
     <message>
         <source>user cancel...</source>
-        <translation type="unfinished"/>
+        <translation>User cancel...</translation>
     </message>
     <message>
         <source>ShowUpgradeVip...start...</source>
-        <translation type="unfinished"/>
+        <translation>ShowUpgradeVip...start...</translation>
     </message>
     <message>
         <source>MenuItem Clicked: ID=%1</source>
-        <translation type="unfinished"/>
+        <translation>MenuItem Clicked: ID=%1</translation>
     </message>
     <message>
         <source>Userid : %1 has been log off...</source>
-        <translation type="unfinished"/>
+        <translation>UserID : %1 has been log off...</translation>
     </message>
     <message>
         <source>load succeed...</source>
-        <translation type="unfinished"/>
+        <translation>Load succeed...</translation>
     </message>
     <message>
         <source>Init return  RESULT : %1</source>
-        <translation type="unfinished"/>
+        <translation>Init return  RESULT : %1</translation>
     </message>
     <message>
         <source>SetEnv...start...</source>
-        <translation type="unfinished"/>
+        <translation>SetEnv...start...</translation>
     </message>
 </context>
 <context>
     <name>KMessageboxWidget</name>
     <message>
         <source>Exit</source>
-        <translation>Çıkış</translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>Go login</source>
-        <translation type="unfinished"/>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>Widget</source>
-        <translation type="unfinished"/>
+        <translation>Widget</translation>
     </message>
 </context>
 <context>
     <name>accountdemoClass</name>
     <message>
         <source>Exit</source>
-        <translation>Çıkış</translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Aç</translation>
+        <translation>Open</translation>
     </message>
     <message>
         <source>SDK:</source>
-        <translation type="unfinished"/>
+        <translation>SDK:</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Temizle</translation>
+        <translation>Clear</translation>
     </message>
     <message>
         <source>checkWpsSid</source>
-        <translation type="unfinished"/>
+        <translation>checkWpsSid</translation>
     </message>
     <message>
         <source>View encrypted file</source>
-        <translation type="unfinished"/>
+        <translation>View encrypted file</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -494,19 +498,23 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>LogView:</source>
-        <translation type="unfinished"/>
+        <translation>LogView:</translation>
     </message>
     <message>
         <source>appid:</source>
-        <translation type="unfinished"/>
+        <translation>AppID:</translation>
     </message>
     <message>
         <source>checkToken</source>
-        <translation type="unfinished"/>
+        <translation>checkToken</translation>
     </message>
     <message>
         <source>437442496</source>
@@ -514,15 +522,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Status:</source>
-        <translation>Durum:</translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>accountdemo</source>
-        <translation type="unfinished"/>
+        <translation>accountdemo</translation>
     </message>
     <message>
         <source>InterfaceList:</source>
-        <translation type="unfinished"/>
+        <translation>InterfaceList:</translation>
     </message>
     <message>
         <source>439256738</source>
@@ -537,267 +545,268 @@ p, li { white-space: pre-wrap; }
     <name>KStartupGuidePane</name>
     <message>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Free</translation>
     </message>
     <message>
         <source>icon</source>
-        <translation>simge</translation>
+        <translation>icon</translation>
     </message>
     <message>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>text</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>personal logo</source>
-        <translation type="unfinished"/>
+        <translation>personal logo</translation>
     </message>
     <message>
         <source>There maybe a little ad, you can close it if you don&apos;t like it</source>
-        <translation type="unfinished"/>
+        <translation>A little advertisement</translation>
     </message>
     <message>
         <source>personal tip</source>
-        <translation type="unfinished"/>
+        <translation>personal tip</translation>
     </message>
     <message>
         <source>Many value-added services</source>
-        <translation type="unfinished"/>
+        <translation>Plenty of features：PDF to Word、OCR, etc.</translation>
     </message>
     <message>
         <source>How to buy enterprise edition?</source>
-        <translation type="unfinished"/>
+        <translation>How to buy enterprise edition?</translation>
     </message>
     <message>
         <source>High quality of VIP services</source>
-        <translation type="unfinished"/>
+        <translation>High quality of Cloud services</translation>
     </message>
     <message>
         <source>Enjoy the Office Privilege</source>
-        <translation type="unfinished"/>
+        <translation>Enjoy Now</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>I am personal user</source>
-        <translation type="unfinished"/>
+        <translation>Login user</translation>
     </message>
     <message>
         <source>vipTip</source>
-        <translation type="unfinished"/>
+        <translation>Premium Tip</translation>
     </message>
     <message>
         <source>Large mount of templates, fonts, pictures resource for choice,
 makes documents beautiful</source>
-        <translation type="unfinished"/>
+        <translation>Massive templates make amazing documents</translation>
     </message>
     <message>
         <source>Sign In</source>
-        <translation type="unfinished"/>
+        <translation>Sign In</translation>
     </message>
     <message>
         <source>Legal Commercial License.</source>
-        <translation type="unfinished"/>
+        <translation>Get all benefits of service on both PC and phone</translation>
     </message>
     <message>
         <source>How to become paid member?</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium?</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
-        <translation type="unfinished"/>
+        <translation>Free 7-day trial</translation>
     </message>
     <message>
         <source>I am vip/commercial user</source>
-        <translation type="unfinished"/>
+        <translation>Premium</translation>
     </message>
     <message>
         <source>Use redeem code</source>
-        <translation type="unfinished"/>
+        <translation>Use redeem code</translation>
     </message>
     <message>
         <source>Use WPS</source>
-        <translation type="unfinished"/>
+        <translation>Go for Free</translation>
     </message>
     <message>
         <source>Thanks for your trust and support to WPS,
 we will make continuous improvements</source>
-        <translation type="unfinished"/>
+        <translation>Thanks for your support,
+we will make continuous improvements</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Text Label</translation>
     </message>
     <message>
         <source>Login and use, synchronize data between computer and mobile,
 Easy mobile office.</source>
-        <translation type="unfinished"/>
+        <translation>Sign in to sync data between PC and phone</translation>
     </message>
 </context>
 <context>
     <name>KPayStateWidget</name>
     <message>
         <source>Help</source>
-        <translation>Yardım</translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Please wait a few minutes</source>
-        <translation type="unfinished"/>
+        <translation>Please wait a few minutes</translation>
     </message>
     <message>
         <source>Widget</source>
-        <translation type="unfinished"/>
+        <translation>Widget</translation>
     </message>
     <message>
         <source>Checking payment...</source>
-        <translation type="unfinished"/>
+        <translation>Checking payment...</translation>
     </message>
 </context>
 <context>
     <name>HomepageMoreOptionsWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
     <message>
         <source>Company login</source>
-        <translation type="unfinished"/>
+        <translation>Company login</translation>
     </message>
     <message>
         <source>Auto login</source>
-        <translation type="unfinished"/>
+        <translation>Auto login</translation>
     </message>
 </context>
 <context>
     <name>KLoginMainWindow_New</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
     <message>
         <source>Invalid argument</source>
-        <translation type="unfinished"/>
+        <translation>Invalid argument</translation>
     </message>
     <message>
         <source>Please use the enterprise administrator account login</source>
-        <translation type="unfinished"/>
+        <translation>Please use the enterprise administrator account login</translation>
     </message>
     <message>
         <source>QR code login</source>
-        <translation type="unfinished"/>
+        <translation>QR code login</translation>
     </message>
     <message>
         <source>Auto login</source>
-        <translation type="unfinished"/>
+        <translation>Auto login</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation type="unfinished"/>
+        <translation>Wrong password</translation>
     </message>
     <message>
         <source>Server error</source>
-        <translation type="unfinished"/>
+        <translation>Server error</translation>
     </message>
     <message>
         <source>Account login</source>
-        <translation type="unfinished"/>
+        <translation>Account login</translation>
     </message>
     <message>
         <source>QQ login</source>
-        <translation type="unfinished"/>
+        <translation>QQ login</translation>
     </message>
     <message>
         <source>Account or password does not exist</source>
-        <translation>Hesap veya şifre mevcut değil</translation>
+        <translation>Account or password does not exist</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation>Bilinmeyen hata!</translation>
+        <translation>Unknown error!</translation>
     </message>
     <message>
         <source>Your operation is too fast. Please try again later</source>
-        <translation type="unfinished"/>
+        <translation>Your operation is too fast. Please try again later</translation>
     </message>
     <message>
         <source>Account suspected of irregularities, has been disabled</source>
-        <translation type="unfinished"/>
+        <translation>Account suspected of irregularities, has been disabled</translation>
     </message>
     <message>
         <source>Account has been limited</source>
-        <translation type="unfinished"/>
+        <translation>Account has been limited</translation>
     </message>
     <message>
         <source>Account has been frozen, unseal, please contact customer service</source>
-        <translation type="unfinished"/>
+        <translation>Account has been frozen, unseal, please contact customer service</translation>
     </message>
     <message>
         <source>Loading webpage...</source>
-        <translation type="unfinished"/>
+        <translation>Loading webpage...</translation>
     </message>
     <message>
         <source>Please login to launch WPS</source>
-        <translation type="unfinished"/>
+        <translation>Please login to launch WPS</translation>
     </message>
     <message>
         <source>Unknow error happened!</source>
-        <translation type="unfinished"/>
+        <translation>Unknow error happened!</translation>
     </message>
     <message>
         <source>User not active</source>
-        <translation type="unfinished"/>
+        <translation>User not active</translation>
     </message>
     <message>
         <source>Invalid role</source>
-        <translation type="unfinished"/>
+        <translation>Invalid role</translation>
     </message>
     <message>
         <source>User not exists</source>
-        <translation type="unfinished"/>
+        <translation>User not exists</translation>
     </message>
     <message>
         <source>Invalid account</source>
-        <translation type="unfinished"/>
+        <translation>Invalid account</translation>
     </message>
     <message>
         <source>Select the account to login</source>
-        <translation type="unfinished"/>
+        <translation>Select the account to login</translation>
     </message>
     <message>
         <source>Clear account record</source>
-        <translation type="unfinished"/>
+        <translation>Clear account record</translation>
     </message>
     <message>
         <source>Account has been deleted</source>
-        <translation type="unfinished"/>
+        <translation>Account has been deleted</translation>
     </message>
     <message>
         <source>Account is not activated</source>
-        <translation type="unfinished"/>
+        <translation>Account is not activated</translation>
     </message>
     <message>
         <source>This feature was not developed for enterprise users</source>
-        <translation type="unfinished"/>
+        <translation>This feature was not developed for enterprise users</translation>
     </message>
     <message>
         <source>User is limited</source>
-        <translation type="unfinished"/>
+        <translation>User is limited</translation>
     </message>
     <message>
         <source>User suspend</source>
-        <translation type="unfinished"/>
+        <translation>User suspend</translation>
     </message>
     <message>
         <source>User is banned</source>
-        <translation type="unfinished"/>
+        <translation>User is banned</translation>
     </message>
     <message>
         <source>Invalid callback address</source>
-        <translation type="unfinished"/>
+        <translation>Invalid callback address</translation>
     </message>
 </context>
 <context>
@@ -808,246 +817,246 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Bağlantı noktası:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Tür:</translation>
+        <translation>Type:</translation>
     </message>
     <message>
         <source>User Name:</source>
-        <translation>Kullanıcı Adı:</translation>
+        <translation>User Name:</translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy settings</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Parola:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Adres:</translation>
+        <translation>Address:</translation>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation type="unfinished"/>
+        <translation>Proxy Setting</translation>
     </message>
 </context>
 <context>
     <name>KWaitMaskWidget</name>
     <message>
         <source>Tray</source>
-        <translation type="unfinished"/>
+        <translation>Tray</translation>
     </message>
     <message>
         <source>loading...</source>
-        <translation type="unfinished"/>
+        <translation>Loading...</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Metni Etiketi</translation>
+        <translation>Text Label</translation>
     </message>
 </context>
 <context>
     <name>KNetworkErrDlg</name>
     <message>
         <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Page load timeout,check you network and retry</translation>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Network error,check you network and retry</translation>
     </message>
     <message>
         <source>Account information has timed out</source>
-        <translation>Hesap bilgileri zaman aşımına uğradı</translation>
+        <translation>Account information has timed out</translation>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>An error occurred,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>An error occurred,check you network and retry</translation>
     </message>
     <message>
         <source>&lt;p&gt;Page load timeout!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Page load timeout!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Page load failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Page load failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;An error occurred!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;An error occurred!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;An error occurred,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;An error occurred,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Sync login info failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Sync login info failed,check you network and retry</translation>
     </message>
     <message>
         <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Can&apos;t access WPS Account server,check you network and retry</translation>
     </message>
     <message>
         <source>Second verify fail</source>
-        <translation type="unfinished"/>
+        <translation>Second verify fail</translation>
     </message>
     <message>
         <source>&lt;p&gt;Network error,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Network error,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Page load failed,check you network and retry</translation>
     </message>
 </context>
 <context>
     <name>LoginReplyContext</name>
     <message>
         <source>AuthenticationRequiredError</source>
-        <translation type="unfinished"/>
+        <translation>AuthenticationRequiredError</translation>
     </message>
     <message>
         <source>ContentOperationNotPermittedError</source>
-        <translation type="unfinished"/>
+        <translation>ContentOperationNotPermittedError</translation>
     </message>
     <message>
         <source>HostNotFoundError</source>
-        <translation type="unfinished"/>
+        <translation>HostNotFoundError</translation>
     </message>
     <message>
         <source>SslHandshakeFailedError</source>
-        <translation type="unfinished"/>
+        <translation>SslHandshakeFailedError</translation>
     </message>
     <message>
         <source>ProxyTimeoutError</source>
-        <translation type="unfinished"/>
+        <translation>ProxyTimeoutError</translation>
     </message>
     <message>
         <source>TemporaryNetworkFailureError</source>
-        <translation type="unfinished"/>
+        <translation>TemporaryNetworkFailureError</translation>
     </message>
     <message>
         <source>NoError</source>
-        <translation type="unfinished"/>
+        <translation>NoError</translation>
     </message>
     <message>
         <source>RemoteHostClosedError</source>
-        <translation type="unfinished"/>
+        <translation>RemoteHostClosedError</translation>
     </message>
     <message>
         <source>ContentReSendError</source>
-        <translation type="unfinished"/>
+        <translation>ContentReSendError</translation>
     </message>
     <message>
         <source>ContentAccessDenied</source>
-        <translation type="unfinished"/>
+        <translation>ContentAccessDenied</translation>
     </message>
     <message>
         <source>ProxyNotFoundError</source>
-        <translation type="unfinished"/>
+        <translation>ProxyNotFoundError</translation>
     </message>
     <message>
         <source>ProtocolUnknownError</source>
-        <translation type="unfinished"/>
+        <translation>ProtocolUnknownError</translation>
     </message>
     <message>
         <source>ProxyConnectionClosedError</source>
-        <translation type="unfinished"/>
+        <translation>ProxyConnectionClosedError</translation>
     </message>
     <message>
         <source>ContentNotFoundError</source>
-        <translation type="unfinished"/>
+        <translation>ContentNotFoundError</translation>
     </message>
     <message>
         <source>UnknownNetworkError</source>
-        <translation type="unfinished"/>
+        <translation>UnknownNetworkError</translation>
     </message>
     <message>
         <source>TimeoutError</source>
-        <translation type="unfinished"/>
+        <translation>TimeoutError</translation>
     </message>
     <message>
         <source>UnknownProxyError</source>
-        <translation type="unfinished"/>
+        <translation>UnknownProxyError</translation>
     </message>
     <message>
         <source>ProxyAuthenticationRequiredError</source>
-        <translation type="unfinished"/>
+        <translation>ProxyAuthenticationRequiredError</translation>
     </message>
     <message>
         <source>OperationCanceledError</source>
-        <translation type="unfinished"/>
+        <translation>OperationCanceledError</translation>
     </message>
     <message>
         <source>ProxyConnectionRefusedError</source>
-        <translation type="unfinished"/>
+        <translation>ProxyConnectionRefusedError</translation>
     </message>
     <message>
         <source>ProtocolFailure</source>
-        <translation type="unfinished"/>
+        <translation>ProtocolFailure</translation>
     </message>
     <message>
         <source>UnknownContentError</source>
-        <translation type="unfinished"/>
+        <translation>UnknownContentError</translation>
     </message>
     <message>
         <source>ProtocolInvalidOperationError</source>
-        <translation type="unfinished"/>
+        <translation>ProtocolInvalidOperationError</translation>
     </message>
     <message>
         <source>Login time out</source>
-        <translation type="unfinished"/>
+        <translation>Login time out</translation>
     </message>
     <message>
         <source>ConnectionRefusedError</source>
-        <translation type="unfinished"/>
+        <translation>ConnectionRefusedError</translation>
     </message>
 </context>
 <context>
     <name>LoginTitleHeadBar</name>
     <message>
         <source>LoginTitle</source>
-        <translation type="unfinished"/>
+        <translation>Login Title</translation>
     </message>
 </context>
 <context>
     <name>KLoginMainWindow</name>
     <message>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>Email</translation>
     </message>
     <message>
         <source>Forget password</source>
@@ -1055,275 +1064,275 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Invalid argument</source>
-        <translation type="unfinished"/>
+        <translation>Invalid argument</translation>
     </message>
     <message>
         <source>Lots resources</source>
-        <translation type="unfinished"/>
+        <translation>Lots resources</translation>
     </message>
     <message>
         <source>Docs security</source>
-        <translation type="unfinished"/>
+        <translation>Docs security</translation>
     </message>
     <message>
         <source>QR Code Login</source>
-        <translation type="unfinished"/>
+        <translation>QR Code Login</translation>
     </message>
     <message>
         <source>Online pictures, templates, shapes</source>
-        <translation type="unfinished"/>
+        <translation>Online pictures, templates, shapes</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation type="unfinished"/>
+        <translation>Wrong password</translation>
     </message>
     <message>
         <source>Sign in with Email</source>
-        <translation type="unfinished"/>
+        <translation>Sign in with Email</translation>
     </message>
     <message>
         <source>Account Login</source>
-        <translation type="unfinished"/>
+        <translation>Login</translation>
     </message>
     <message>
         <source>Server error</source>
-        <translation type="unfinished"/>
+        <translation>Server error</translation>
     </message>
     <message>
         <source>Clear record</source>
-        <translation type="unfinished"/>
+        <translation>Clear record</translation>
     </message>
     <message>
         <source>Wechat qrcode loading...</source>
-        <translation>Wechat karekod yükleniyor...</translation>
+        <translation>Wechat qrcode loading...</translation>
     </message>
     <message>
         <source>Sign in with Facebook</source>
-        <translation type="unfinished"/>
+        <translation>Sign in with Facebook</translation>
     </message>
     <message>
         <source>Sign in with Twitter</source>
-        <translation type="unfinished"/>
+        <translation>Sign in with Twitter</translation>
     </message>
     <message>
         <source>Remember Me</source>
-        <translation type="unfinished"/>
+        <translation>Remember Me</translation>
     </message>
     <message>
         <source>Sign in with Dropbox</source>
-        <translation type="unfinished"/>
+        <translation>Sign in with Dropbox</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation>Bilinmeyen hata!</translation>
+        <translation>Unknown error!</translation>
     </message>
     <message>
         <source>Sign up with Email</source>
-        <translation type="unfinished"/>
+        <translation>Sign up with Email</translation>
     </message>
     <message>
         <source>User name can&apos;t be pure whitespace</source>
-        <translation type="unfinished"/>
+        <translation>User name can&apos;t be pure whitespace</translation>
     </message>
     <message>
         <source>Sign in with other accounts</source>
-        <translation type="unfinished"/>
+        <translation>Sign in with other accounts</translation>
     </message>
     <message>
         <source>Check docs on phone and iPad</source>
-        <translation type="unfinished"/>
+        <translation>Check docs on phone and iPad</translation>
     </message>
     <message>
         <source>Password can&apos;t be pure whitespace</source>
-        <translation type="unfinished"/>
+        <translation>Password can&apos;t be pure whitespace</translation>
     </message>
     <message>
         <source>Share docs</source>
-        <translation type="unfinished"/>
+        <translation>Share docs</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"/>
+        <translation>Password</translation>
     </message>
     <message>
         <source>No password</source>
-        <translation type="unfinished"/>
+        <translation>No password</translation>
     </message>
     <message>
         <source>Unknow error happened!</source>
-        <translation type="unfinished"/>
+        <translation>Unknow error happened!</translation>
     </message>
     <message>
         <source>Synchronize docs</source>
-        <translation type="unfinished"/>
+        <translation>Synchronize docs</translation>
     </message>
     <message>
         <source>No username</source>
-        <translation type="unfinished"/>
+        <translation>No username</translation>
     </message>
     <message>
         <source>No account?</source>
-        <translation type="unfinished"/>
+        <translation>No account?</translation>
     </message>
     <message>
         <source>More safety with an account</source>
-        <translation type="unfinished"/>
+        <translation>More safety with an account</translation>
     </message>
     <message>
         <source>Sign Up</source>
-        <translation type="unfinished"/>
+        <translation>Sign Up</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Oturum aç</translation>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>User not active</source>
-        <translation type="unfinished"/>
+        <translation>User not active</translation>
     </message>
     <message>
         <source>User not exists</source>
-        <translation type="unfinished"/>
+        <translation>User not exists</translation>
     </message>
     <message>
         <source>Invalid account</source>
-        <translation type="unfinished"/>
+        <translation>Invalid account</translation>
     </message>
     <message>
         <source>Share docs with others</source>
-        <translation type="unfinished"/>
+        <translation>Share docs with others</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
-        <translation type="unfinished"/>
+        <translation>Sign in with Google</translation>
     </message>
     <message>
         <source>Forgot?</source>
-        <translation type="unfinished"/>
+        <translation>Forgot?</translation>
     </message>
     <message>
         <source>User is limited</source>
-        <translation type="unfinished"/>
+        <translation>User is limited</translation>
     </message>
     <message>
         <source>User suspend</source>
-        <translation type="unfinished"/>
+        <translation>User suspend</translation>
     </message>
     <message>
         <source>User is banned</source>
-        <translation type="unfinished"/>
+        <translation>User is banned</translation>
     </message>
     <message>
         <source>Register now</source>
-        <translation type="unfinished"/>
+        <translation>Register now</translation>
     </message>
     <message>
         <source>Login too frequently, please retry after %1 seconds</source>
-        <translation type="unfinished"/>
+        <translation>Login too frequently, please retry after %1 seconds</translation>
     </message>
     <message>
         <source>Login with third account</source>
-        <translation type="unfinished"/>
+        <translation>Login with third account</translation>
     </message>
 </context>
 <context>
     <name>StackedWidget</name>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>Forget password</source>
-        <translation type="unfinished"/>
+        <translation>Forget password</translation>
     </message>
     <message>
         <source>Login WPS, you can</source>
-        <translation type="unfinished"/>
+        <translation>Login WPS, you can</translation>
     </message>
     <message>
         <source>Auto login</source>
-        <translation type="unfinished"/>
+        <translation>Auto login</translation>
     </message>
     <message>
         <source>StackedWidget</source>
-        <translation type="unfinished"/>
+        <translation>StackedWidget</translation>
     </message>
     <message>
         <source>Wechat login</source>
-        <translation type="unfinished"/>
+        <translation>Wechat login</translation>
     </message>
     <message>
         <source>Other login</source>
-        <translation type="unfinished"/>
+        <translation>Other login</translation>
     </message>
     <message>
         <source>WPS account login(mail/phone number)</source>
-        <translation type="unfinished"/>
+        <translation>WPS account login(mail/phone number)</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"/>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Have no account?</source>
-        <translation type="unfinished"/>
+        <translation>Have no account?</translation>
     </message>
     <message>
         <source>Register now</source>
-        <translation type="unfinished"/>
+        <translation>Register now</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Text Label</translation>
     </message>
 </context>
 <context>
     <name>interface_setproxy</name>
     <message>
         <source>Port:</source>
-        <translation>Bağlantı noktası:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Parola:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Adres:</translation>
+        <translation>Address:</translation>
     </message>
     <message>
         <source>UserName:</source>
-        <translation type="unfinished"/>
+        <translation>Username:</translation>
     </message>
     <message>
         <source>ProxyType:</source>
-        <translation type="unfinished"/>
+        <translation>ProxyType:</translation>
     </message>
 </context>
 <context>
     <name>KOtherLoginBtnHoverPane</name>
     <message>
         <source>Third</source>
-        <translation type="unfinished"/>
+        <translation>第三处</translation>
     </message>
     <message>
         <source>School</source>
-        <translation type="unfinished"/>
+        <translation>School</translation>
     </message>
 </context>
 <context>
     <name>KBindingAccountDialog</name>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation type="unfinished"/>
+        <translation>Proxy &amp;Setting</translation>
     </message>
     <message>
         <source>Bind Account</source>
-        <translation type="unfinished"/>
+        <translation>Bind Account</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation>&amp;Yenile</translation>
+        <translation>&amp;Refresh</translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
@@ -1334,15 +1343,15 @@ Easy mobile office.</source>
     <name>KWebViewControl</name>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation type="unfinished"/>
+        <translation>Proxy &amp;Setting</translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"/>
+        <translation>User Login</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation>&amp;Yenile</translation>
+        <translation>&amp;Refresh</translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
@@ -1353,592 +1362,592 @@ Easy mobile office.</source>
     <name>KLoginWin_New</name>
     <message>
         <source>Invalid argument</source>
-        <translation type="unfinished"/>
+        <translation>Invalid argument</translation>
     </message>
     <message>
         <source>Network Diagnosis</source>
-        <translation type="unfinished"/>
+        <translation>Network Detection</translation>
     </message>
     <message>
         <source>Please use the enterprise administrator account login</source>
-        <translation type="unfinished"/>
+        <translation>Please use the enterprise administrator account login</translation>
     </message>
     <message>
         <source>Weibo login</source>
-        <translation type="unfinished"/>
+        <translation>Weibo login</translation>
     </message>
     <message>
         <source>Wps account login</source>
-        <translation type="unfinished"/>
+        <translation>Wps account login</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation type="unfinished"/>
+        <translation>Wrong password</translation>
     </message>
     <message>
         <source>Account Login</source>
-        <translation type="unfinished"/>
+        <translation>Login</translation>
     </message>
     <message>
         <source>Server error</source>
-        <translation type="unfinished"/>
+        <translation>Server error</translation>
     </message>
     <message>
         <source>Login Failed</source>
-        <translation type="unfinished"/>
+        <translation>Login Failed</translation>
     </message>
     <message>
         <source>Error code: </source>
-        <translation type="unfinished"/>
+        <translation>Error code: </translation>
     </message>
     <message>
         <source>QrCode login</source>
-        <translation type="unfinished"/>
+        <translation>Scan to login</translation>
     </message>
     <message>
         <source>Login via QQ</source>
-        <translation type="unfinished"/>
+        <translation>Login via QQ</translation>
     </message>
     <message>
         <source>QQ login</source>
-        <translation type="unfinished"/>
+        <translation>QQ login</translation>
     </message>
     <message>
         <source>Account or password does not exist</source>
-        <translation>Hesap veya şifre mevcut değil</translation>
+        <translation>Account or password does not exist</translation>
     </message>
     <message>
         <source>Wechat Binding</source>
-        <translation type="unfinished"/>
+        <translation>Login via Wechat</translation>
     </message>
     <message>
         <source>Wechat login</source>
-        <translation type="unfinished"/>
+        <translation>Wechat login</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation>Bilinmeyen hata!</translation>
+        <translation>Unknown error!</translation>
     </message>
     <message>
         <source>Other Login Type</source>
-        <translation type="unfinished"/>
+        <translation>Other Login Type</translation>
     </message>
     <message>
         <source>Login Account</source>
-        <translation type="unfinished"/>
+        <translation>Login Account</translation>
     </message>
     <message>
         <source>Your operation is too fast. Please try again later</source>
-        <translation type="unfinished"/>
+        <translation>Your operation is too fast. Please try again later</translation>
     </message>
     <message>
         <source>Account suspected of irregularities, has been disabled</source>
-        <translation type="unfinished"/>
+        <translation>Account suspected of irregularities, has been disabled</translation>
     </message>
     <message>
         <source>Account has been limited</source>
-        <translation type="unfinished"/>
+        <translation>Account has been limited</translation>
     </message>
     <message>
         <source>Company account login</source>
-        <translation type="unfinished"/>
+        <translation>Company account login</translation>
     </message>
     <message>
         <source>Login via Xiaomi</source>
-        <translation type="unfinished"/>
+        <translation>Login via Xiaomi</translation>
     </message>
     <message>
         <source>Welcome Back</source>
-        <translation type="unfinished"/>
+        <translation>Welcome Back</translation>
     </message>
     <message>
         <source>Login Account...</source>
-        <translation type="unfinished"/>
+        <translation>Login Account...</translation>
     </message>
     <message>
         <source>Account has been frozen, unseal, please contact customer service</source>
-        <translation type="unfinished"/>
+        <translation>Account has been frozen, unseal, please contact customer service</translation>
     </message>
     <message>
         <source>Loading webpage...</source>
-        <translation type="unfinished"/>
+        <translation>Loading webpage...</translation>
     </message>
     <message>
         <source>Login WPS to Enjoy Privilege</source>
-        <translation type="unfinished"/>
+        <translation>Sign in to Enjoy WPS Premium</translation>
     </message>
     <message>
         <source>Don&apos;t have Account? </source>
-        <translation type="unfinished"/>
+        <translation>Do not have Account? </translation>
     </message>
     <message>
         <source>Login via School Mail</source>
-        <translation type="unfinished"/>
+        <translation>Login via School Mail</translation>
     </message>
     <message>
         <source>Dingding login</source>
-        <translation type="unfinished"/>
+        <translation>Login via Dingding</translation>
     </message>
     <message>
         <source>Unknow error happened!</source>
-        <translation type="unfinished"/>
+        <translation>Unknow error happened!</translation>
     </message>
     <message>
         <source>User not active</source>
-        <translation type="unfinished"/>
+        <translation>User not active</translation>
     </message>
     <message>
         <source>Invalid role</source>
-        <translation type="unfinished"/>
+        <translation>Invalid role</translation>
     </message>
     <message>
         <source>User not exists</source>
-        <translation type="unfinished"/>
+        <translation>User not exists</translation>
     </message>
     <message>
         <source>Invalid account</source>
-        <translation type="unfinished"/>
+        <translation>Invalid account</translation>
     </message>
     <message>
         <source>Retry Login</source>
-        <translation type="unfinished"/>
+        <translation>Login again</translation>
     </message>
     <message>
         <source>School mail login</source>
-        <translation type="unfinished"/>
+        <translation>School mail login</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished"/>
+        <translation>Sign up</translation>
     </message>
     <message>
         <source>Second Verify</source>
-        <translation type="unfinished"/>
+        <translation>Second Verify</translation>
     </message>
     <message>
         <source>Scan Code to Login</source>
-        <translation type="unfinished"/>
+        <translation>Scan to Login</translation>
     </message>
     <message>
         <source>Account has been deleted</source>
-        <translation type="unfinished"/>
+        <translation>Account has been deleted</translation>
     </message>
     <message>
         <source>Account is not activated</source>
-        <translation type="unfinished"/>
+        <translation>Account is not activated</translation>
     </message>
     <message>
         <source>Login via Weibo</source>
-        <translation type="unfinished"/>
+        <translation>Login via Weibo</translation>
     </message>
     <message>
         <source>Xiaomi login</source>
-        <translation type="unfinished"/>
+        <translation>Xiaomi login</translation>
     </message>
     <message>
         <source>This feature was not developed for enterprise users</source>
-        <translation type="unfinished"/>
+        <translation>This feature was not developed for enterprise users</translation>
     </message>
     <message>
         <source>Login via Dingding</source>
-        <translation type="unfinished"/>
+        <translation>Login via Dingding</translation>
     </message>
     <message>
         <source>User is limited</source>
-        <translation type="unfinished"/>
+        <translation>User is limited</translation>
     </message>
     <message>
         <source>User suspend</source>
-        <translation type="unfinished"/>
+        <translation>User suspend</translation>
     </message>
     <message>
         <source>User is banned</source>
-        <translation type="unfinished"/>
+        <translation>User is banned</translation>
     </message>
     <message>
         <source>Invalid callback address</source>
-        <translation type="unfinished"/>
+        <translation>Invalid callback address</translation>
     </message>
     <message>
         <source>Error Message</source>
-        <translation type="unfinished"/>
+        <translation>Error Message</translation>
     </message>
 </context>
 <context>
     <name>KNewLoginWin</name>
     <message>
         <source>Invalid argument</source>
-        <translation type="unfinished"/>
+        <translation>Invalid argument</translation>
     </message>
     <message>
         <source>Network Diagnosis</source>
-        <translation type="unfinished"/>
+        <translation>Network Detection</translation>
     </message>
     <message>
         <source>Please use the enterprise administrator account login</source>
-        <translation type="unfinished"/>
+        <translation>Please use the enterprise administrator account login</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation type="unfinished"/>
+        <translation>Wrong password</translation>
     </message>
     <message>
         <source>Server error</source>
-        <translation type="unfinished"/>
+        <translation>Server error</translation>
     </message>
     <message>
         <source>Login Failed</source>
-        <translation type="unfinished"/>
+        <translation>Login Failed</translation>
     </message>
     <message>
         <source>Error code: </source>
-        <translation type="unfinished"/>
+        <translation>Error code: </translation>
     </message>
     <message>
         <source>Login via QQ</source>
-        <translation type="unfinished"/>
+        <translation>Login via QQ</translation>
     </message>
     <message>
         <source>Account or password does not exist</source>
-        <translation>Hesap veya şifre mevcut değil</translation>
+        <translation>Account or password does not exist</translation>
     </message>
     <message>
         <source>Wechat Binding</source>
-        <translation type="unfinished"/>
+        <translation>Login via Wechat</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation>Bilinmeyen hata!</translation>
+        <translation>Unknown error!</translation>
     </message>
     <message>
         <source>Your operation is too fast. Please try again later</source>
-        <translation type="unfinished"/>
+        <translation>Your operation is too fast. Please try again later</translation>
     </message>
     <message>
         <source>Account suspected of irregularities, has been disabled</source>
-        <translation type="unfinished"/>
+        <translation>Account suspected of irregularities, has been disabled</translation>
     </message>
     <message>
         <source>Account has been limited</source>
-        <translation type="unfinished"/>
+        <translation>Account has been limited</translation>
     </message>
     <message>
         <source>Login via Xiaomi</source>
-        <translation type="unfinished"/>
+        <translation>Login via Xiaomi</translation>
     </message>
     <message>
         <source>Login Account...</source>
-        <translation type="unfinished"/>
+        <translation>Login Account...</translation>
     </message>
     <message>
         <source>Account has been frozen, unseal, please contact customer service</source>
-        <translation type="unfinished"/>
+        <translation>Account has been frozen, unseal, please contact customer service</translation>
     </message>
     <message>
         <source>Login via School Mail</source>
-        <translation type="unfinished"/>
+        <translation>Login via School Mail</translation>
     </message>
     <message>
         <source>Unknow error happened!</source>
-        <translation type="unfinished"/>
+        <translation>Unknow error happened!</translation>
     </message>
     <message>
         <source>User not active</source>
-        <translation type="unfinished"/>
+        <translation>User not active</translation>
     </message>
     <message>
         <source>Invalid role</source>
-        <translation type="unfinished"/>
+        <translation>Invalid role</translation>
     </message>
     <message>
         <source>User not exists</source>
-        <translation type="unfinished"/>
+        <translation>User not exists</translation>
     </message>
     <message>
         <source>Invalid account</source>
-        <translation type="unfinished"/>
+        <translation>Invalid account</translation>
     </message>
     <message>
         <source>Retry Login</source>
-        <translation type="unfinished"/>
+        <translation>Login again</translation>
     </message>
     <message>
         <source>Second Verify</source>
-        <translation type="unfinished"/>
+        <translation>Second Verify</translation>
     </message>
     <message>
         <source>Account has been deleted</source>
-        <translation type="unfinished"/>
+        <translation>Account has been deleted</translation>
     </message>
     <message>
         <source>Account is not activated</source>
-        <translation type="unfinished"/>
+        <translation>Account is not activated</translation>
     </message>
     <message>
         <source>Login via Weibo</source>
-        <translation type="unfinished"/>
+        <translation>Login via Weibo</translation>
     </message>
     <message>
         <source>This feature was not developed for enterprise users</source>
-        <translation type="unfinished"/>
+        <translation>This feature was not developed for enterprise users</translation>
     </message>
     <message>
         <source>Login via Dingding</source>
-        <translation type="unfinished"/>
+        <translation>Login via Dingding</translation>
     </message>
     <message>
         <source>User is limited</source>
-        <translation type="unfinished"/>
+        <translation>User is limited</translation>
     </message>
     <message>
         <source>User suspend</source>
-        <translation type="unfinished"/>
+        <translation>User suspend</translation>
     </message>
     <message>
         <source>User is banned</source>
-        <translation type="unfinished"/>
+        <translation>User is banned</translation>
     </message>
     <message>
         <source>Invalid callback address</source>
-        <translation type="unfinished"/>
+        <translation>Invalid callback address</translation>
     </message>
     <message>
         <source>Error Message</source>
-        <translation type="unfinished"/>
+        <translation>Error Message</translation>
     </message>
 </context>
 <context>
     <name>interface_init</name>
     <message>
         <source>bHasCallBackFunc:</source>
-        <translation type="unfinished"/>
+        <translation>bHasCallBackFunc:</translation>
     </message>
     <message>
         <source>AppId:</source>
-        <translation type="unfinished"/>
+        <translation>AppID:</translation>
     </message>
     <message>
         <source>AppName:</source>
-        <translation type="unfinished"/>
+        <translation>AppName:</translation>
     </message>
     <message>
         <source>AppKey:</source>
-        <translation type="unfinished"/>
+        <translation>AppKey:</translation>
     </message>
     <message>
         <source>InitFlags:</source>
-        <translation type="unfinished"/>
+        <translation>InitFlags:</translation>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation>Onay kutusu</translation>
+        <translation>Checkbox</translation>
     </message>
 </context>
 <context>
     <name>KAutoRetryLoginMgr</name>
     <message>
         <source>Get users failed</source>
-        <translation type="unfinished"/>
+        <translation>Get users failed</translation>
     </message>
     <message>
         <source>Select user failed</source>
-        <translation type="unfinished"/>
+        <translation>Select user failed</translation>
     </message>
     <message>
         <source>verify failed</source>
-        <translation type="unfinished"/>
+        <translation>verify failed</translation>
     </message>
 </context>
 <context>
     <name>LoginBtnWidget</name>
     <message>
         <source>Weibo login</source>
-        <translation type="unfinished"/>
+        <translation>Weibo login</translation>
     </message>
     <message>
         <source>Wps account login</source>
-        <translation type="unfinished"/>
+        <translation>Wps account login</translation>
     </message>
     <message>
         <source>QQ login</source>
-        <translation type="unfinished"/>
+        <translation>QQ login</translation>
     </message>
     <message>
         <source>Wechat login</source>
-        <translation type="unfinished"/>
+        <translation>Wechat login</translation>
     </message>
     <message>
         <source>Other login</source>
-        <translation type="unfinished"/>
+        <translation>Other login</translation>
     </message>
     <message>
         <source>Company account login</source>
-        <translation type="unfinished"/>
+        <translation>Company account login</translation>
     </message>
     <message>
         <source>Start login</source>
-        <translation type="unfinished"/>
+        <translation>Start login</translation>
     </message>
     <message>
         <source>School mail login</source>
-        <translation type="unfinished"/>
+        <translation>School mail login</translation>
     </message>
     <message>
         <source>Xiaomi login</source>
-        <translation type="unfinished"/>
+        <translation>Xiaomi login</translation>
     </message>
 </context>
 <context>
     <name>NewLoginTypeWidget</name>
     <message>
         <source>Weibo login</source>
-        <translation type="unfinished"/>
+        <translation>Weibo login</translation>
     </message>
     <message>
         <source>Wps account login</source>
-        <translation type="unfinished"/>
+        <translation>Wps account login</translation>
     </message>
     <message>
         <source>QQ login</source>
-        <translation type="unfinished"/>
+        <translation>QQ login</translation>
     </message>
     <message>
         <source>Wechat login</source>
-        <translation type="unfinished"/>
+        <translation>Wechat login</translation>
     </message>
     <message>
         <source>Company account login</source>
-        <translation type="unfinished"/>
+        <translation>Company account login</translation>
     </message>
     <message>
         <source>Dingding login</source>
-        <translation type="unfinished"/>
+        <translation>Dingding login</translation>
     </message>
     <message>
         <source>School mail login</source>
-        <translation type="unfinished"/>
+        <translation>School mail login</translation>
     </message>
     <message>
         <source>Xiaomi login</source>
-        <translation type="unfinished"/>
+        <translation>Xiaomi login</translation>
     </message>
 </context>
 <context>
     <name>KUpgradeVipAssistDialog</name>
     <message>
         <source>Upgrade to VIP</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
 </context>
 <context>
     <name>KTitleMenuBar</name>
     <message>
         <source>WPS2019 Beta</source>
-        <translation type="unfinished"/>
+        <translation>WPS 2019 Beta</translation>
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Return</translation>
     </message>
     <message>
         <source>Welcome to use WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>Welcome to WPS Office</translation>
     </message>
 </context>
 <context>
     <name>HomepageBottomRightWidget</name>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Skip Login</translation>
     </message>
     <message>
         <source>Exit process</source>
-        <translation type="unfinished"/>
+        <translation>Exit process</translation>
     </message>
     <message>
         <source>Input activation code</source>
-        <translation type="unfinished"/>
+        <translation>Input Activation Code</translation>
     </message>
 </context>
 <context>
     <name>KBottomWidget</name>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Skip Login</translation>
     </message>
     <message>
         <source>Input activation code</source>
-        <translation type="unfinished"/>
+        <translation>Input Activation Code</translation>
     </message>
 </context>
 <context>
     <name>KLoginMainWinBottomWidget</name>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Skip Login</translation>
     </message>
     <message>
         <source>Input activation code</source>
-        <translation type="unfinished"/>
+        <translation>Input Activation Code</translation>
     </message>
 </context>
 <context>
     <name>interface_login</name>
     <message>
         <source>LoginFlags:</source>
-        <translation type="unfinished"/>
+        <translation>Login Flags:</translation>
     </message>
 </context>
 <context>
     <name>encryptfiledialog</name>
     <message>
         <source>AccountSyncInfo:</source>
-        <translation type="unfinished"/>
+        <translation>AccountSyncInfo:</translation>
     </message>
     <message>
         <source>TokenTable:</source>
-        <translation type="unfinished"/>
+        <translation>TokenTable:</translation>
     </message>
     <message>
         <source>ViewEncrptFile</source>
-        <translation type="unfinished"/>
+        <translation>ViewEncrptFile</translation>
     </message>
     <message>
         <source>AccountTable:</source>
-        <translation type="unfinished"/>
+        <translation>AccountTable:</translation>
     </message>
 </context>
 <context>
     <name>LoginMainStackedWidget</name>
     <message>
         <source>StackedWidget</source>
-        <translation type="unfinished"/>
+        <translation>StackedWidget</translation>
     </message>
 </context>
 <context>
     <name>LoginStackedWidget</name>
     <message>
         <source>StackedWidget</source>
-        <translation type="unfinished"/>
+        <translation>StackedWidget</translation>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation>Onay kutusu</translation>
+        <translation>Checkbox</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Text Label</translation>
     </message>
 </context>
 <context>
     <name>KMemberTransformationDialog</name>
     <message>
         <source>User Login Guide</source>
-        <translation type="unfinished"/>
+        <translation>User Login Guide</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation>&amp;Yenile</translation>
+        <translation>&amp;Refresh</translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
@@ -1949,120 +1958,120 @@ Easy mobile office.</source>
     <name>KNewGuideDialog</name>
     <message>
         <source>User Guide</source>
-        <translation type="unfinished"/>
+        <translation>User Guide</translation>
     </message>
 </context>
 <context>
     <name>HomepageLeftWidget</name>
     <message>
         <source>Document cloud sync</source>
-        <translation type="unfinished"/>
+        <translation>Document cloud sync</translation>
     </message>
     <message>
         <source>Massive material resources</source>
-        <translation type="unfinished"/>
+        <translation>Massive material resources</translation>
     </message>
     <message>
         <source>Document security backup</source>
-        <translation type="unfinished"/>
+        <translation>Document security backup</translation>
     </message>
 </context>
 <context>
     <name>KDialogMenuBar</name>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Back</translation>
     </message>
     <message>
         <source>Welcome to use WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>Welcome to WPS Office</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>WPS Ofis&apos;e hoş geldiniz</translation>
+        <translation>Welcome to WPS Office</translation>
     </message>
 </context>
 <context>
     <name>KNewGuideJsApi</name>
     <message>
         <source>Switch window manage mode</source>
-        <translation>Pencere yönetimi modunu değiştir</translation>
+        <translation>Switch window manage mode</translation>
     </message>
 </context>
 <context>
     <name>KAccountDemoMainWindow</name>
     <message>
         <source>Configure File(*.xml)</source>
-        <translation type="unfinished"/>
+        <translation>Configure File(*.xml)</translation>
     </message>
 </context>
 <context>
     <name>interface_SetEnv</name>
     <message>
         <source>StyleFlags:</source>
-        <translation type="unfinished"/>
+        <translation>StyleFlags:</translation>
     </message>
     <message>
         <source>EnvFlags:</source>
-        <translation type="unfinished"/>
+        <translation>EnvFlags:</translation>
     </message>
     <message>
         <source>CustomUrl:</source>
-        <translation type="unfinished"/>
+        <translation>Custom URL:</translation>
     </message>
     <message>
         <source>CustomUi</source>
-        <translation type="unfinished"/>
+        <translation>CustomUi</translation>
     </message>
 </context>
 <context>
     <name>KWaitMask</name>
     <message>
         <source>syncing login info...</source>
-        <translation type="unfinished"/>
+        <translation>Syncing sign in info...</translation>
     </message>
     <message>
         <source>loading...</source>
-        <translation type="unfinished"/>
+        <translation>Loading...</translation>
     </message>
 </context>
 <context>
     <name>account_sdk::KWaitMask</name>
     <message>
         <source>syncing login info...</source>
-        <translation type="unfinished"/>
+        <translation>Syncing sign in info...</translation>
     </message>
     <message>
         <source>loading...</source>
-        <translation type="unfinished"/>
+        <translation>Loading...</translation>
     </message>
 </context>
 <context>
     <name>KAccountLoginHelpFixTimeDlg</name>
     <message>
         <source>Confirm</source>
-        <translation>Onayla</translation>
+        <translation>Confirm</translation>
     </message>
 </context>
 <context>
     <name>interface_logout</name>
     <message>
         <source>UserId:</source>
-        <translation type="unfinished"/>
+        <translation>UserID:</translation>
     </message>
 </context>
 <context>
     <name>PreditionAvatar</name>
     <message>
         <source>Clear account record</source>
-        <translation type="unfinished"/>
+        <translation>Clear account record</translation>
     </message>
 </context>
 <context>
     <name>SelectAccountPane</name>
     <message>
         <source>Select other account</source>
-        <translation type="unfinished"/>
+        <translation>Select other account</translation>
     </message>
 </context>
 </TS>
