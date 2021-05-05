@@ -641,7 +641,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"/>
+        <translation>Noktalar</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -905,7 +905,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>PowerPoint Presentation 97-2003</source>
-        <translation type="unfinished"/>
+        <translation>PowerPoint Sunusu 97-2003</translation>
     </message>
     <message>
         <source>Password to &amp;modify:</source>
@@ -1036,7 +1036,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation type="unfinished"/>
+        <translation>Tay Numarası</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -13498,7 +13498,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Change DataLabel Geometry</source>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketi Şeklini Değiştir</translation>
     </message>
     <message>
         <source>File Package</source>
@@ -16271,7 +16271,7 @@ Slide</source>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Ayıkla</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -16299,7 +16299,7 @@ Slide</source>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Ayıklama</translation>
     </message>
     <message>
         <source>New 
@@ -16329,7 +16329,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>ProcessOnEntry</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Süreç</translation>
     </message>
     <message>
         <source>Set Background</source>
@@ -18284,7 +18284,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Ayıkla</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -18304,7 +18304,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>3DPresentation</source>
-        <translation type="unfinished"/>
+        <translation>3D Sunum</translation>
     </message>
     <message>
         <source>Backup Center</source>
@@ -18316,7 +18316,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Ayıklama</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
@@ -18332,11 +18332,11 @@ Kaydet</translation>
     </message>
     <message>
         <source>ProcessOnEntry</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Süreç</translation>
     </message>
     <message>
         <source>Keep Source Formattin</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Temasını Koru</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
@@ -18349,7 +18349,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>insert partialzoom</source>
-        <translation type="unfinished"/>
+        <translation>Büyüteç</translation>
     </message>
     <message>
         <source>Model Essay</source>
@@ -26780,7 +26780,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>insert partialzoom</source>
-        <translation type="unfinished"/>
+        <translation>Büyüteç</translation>
     </message>
     <message>
         <source>Header and 
@@ -27009,7 +27009,7 @@ Number</source>
     </message>
     <message>
         <source>insert partialzoom</source>
-        <translation type="unfinished"/>
+        <translation>Büyüteç</translation>
     </message>
     <message>
         <source>Header and 
@@ -29520,7 +29520,7 @@ Sorter</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme</translation>
     </message>
     <message>
         <source>Local Text Box</source>
@@ -29548,7 +29548,7 @@ Sorter</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -30510,7 +30510,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"/>
+        <translation>Noktalar</translation>
     </message>
     <message>
         <source>&amp;Before paragraph</source>
@@ -31520,7 +31520,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>insert partialzoom</source>
-        <translation type="unfinished"/>
+        <translation>Büyüteç</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -31613,7 +31613,7 @@ Transition</source>
     </message>
     <message>
         <source>Double-Screen Extended Mode Wizard</source>
-        <translation type="unfinished"/>
+        <translation>Çift Ekran Genişletilmiş Mod Sihirbazı</translation>
     </message>
 </context>
 <context>
