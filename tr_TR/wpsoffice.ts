@@ -62,7 +62,7 @@
     </message>
     <message>
         <source>Ctrl</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Down</source>
