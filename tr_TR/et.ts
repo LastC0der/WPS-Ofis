@@ -8759,7 +8759,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"/>
+        <translation>Noktalar</translation>
     </message>
     <message>
         <source>Hide All Field Buttons On Chart</source>
@@ -12321,7 +12321,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"/>
+        <translation>Noktalar</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
@@ -12329,7 +12329,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Page &amp;P</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa &amp;P</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -16885,7 +16885,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>I have a suggestion</source>
-        <translation type="unfinished"/>
+        <translation>Bir önerim var</translation>
     </message>
     <message>
         <source>Color Scales</source>
@@ -16905,7 +16905,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>Merge workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma kitaplarını birleştir</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -17762,7 +17762,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Split Book</source>
-        <translation type="unfinished"/>
+        <translation>Kitabı Böl</translation>
     </message>
     <message>
         <source>Match Brackets to Argument Height</source>
@@ -18123,7 +18123,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Change DataLabel Geometry</source>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketi Şeklini Değiştir</translation>
     </message>
     <message>
         <source>Align VCenter</source>
@@ -27454,7 +27454,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Split Book</source>
-        <translation type="unfinished"/>
+        <translation>Kitabı Böl</translation>
     </message>
     <message>
         <source>Insert Pictures From Phone</source>
@@ -28404,7 +28404,7 @@ Ekran</translation>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Ayıkla</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -28444,7 +28444,7 @@ Ekran</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Ayıklama</translation>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -33750,7 +33750,7 @@ Taşı</translation>
     </message>
     <message>
         <source>The current html file is large, and direct opening may fail. </source>
-        <translation type="unfinished"/>
+        <translation>HTML dosyası büyük olduğu için doğrudan açılamayabilir.</translation>
     </message>
     <message>
         <source>CheckBox</source>
@@ -34366,7 +34366,7 @@ Use * represent any number of character</source>
     <name>KxDlgRemoveDuplicates</name>
     <message>
         <source>row</source>
-        <translation>satır</translation>
+        <translation>Sütunlar</translation>
     </message>
     <message>
         <source>%1 duplicates are found;
@@ -39216,7 +39216,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Split Book</source>
-        <translation type="unfinished"/>
+        <translation>Kitabı Böl</translation>
     </message>
     <message>
         <source>Summary Direction</source>
@@ -39240,7 +39240,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Merge workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma kitaplarını birleştir</translation>
     </message>
     <message>
         <source>Highlight duplicates</source>
@@ -39348,7 +39348,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Get External Data</source>
-        <translation type="unfinished"/>
+        <translation>Dış Veri Al</translation>
     </message>
     <message>
         <source>Fetch duplicates</source>
@@ -41489,7 +41489,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>For&amp;mat...</source>
-        <translation type="unfinished"/>
+        <translation>Biçi&amp;m...</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas</source>
@@ -44017,7 +44017,7 @@ Center</source>
     </message>
     <message>
         <source>Get External Data</source>
-        <translation type="unfinished"/>
+        <translation>Dış Veri Al</translation>
     </message>
     <message>
         <source>InsertDropDownList</source>
@@ -44629,7 +44629,7 @@ Center</source>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Ayıkla</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -44653,7 +44653,7 @@ Center</source>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Ayıklama</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
