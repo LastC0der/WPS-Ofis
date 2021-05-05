@@ -1623,7 +1623,7 @@ cycle</source>
     </message>
     <message>
         <source>Single Closing Quote</source>
-        <translation type="unfinished"/>
+        <translation>Tek Tırnak (Kapanış)</translation>
     </message>
     <message>
         <source>Verifying the serial number, please wait...</source>
@@ -1635,7 +1635,7 @@ cycle</source>
     </message>
     <message>
         <source>Ellipsis</source>
-        <translation type="unfinished"/>
+        <translation>Üç nokta</translation>
     </message>
     <message>
         <source>Radial Diagram
@@ -2455,7 +2455,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Double Opening Quote</source>
-        <translation type="unfinished"/>
+        <translation>Çift Tırnak (Açılış)</translation>
     </message>
     <message>
         <source>Turquoise</source>
@@ -2496,15 +2496,15 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Shingle</source>
-        <translation type="unfinished"/>
+        <translation>Kiremit</translation>
     </message>
     <message>
         <source>Double Closing Quote</source>
-        <translation type="unfinished"/>
+        <translation>Çift Tırnak (Kapanış)</translation>
     </message>
     <message>
         <source>Outlined diamond</source>
-        <translation type="unfinished"/>
+        <translation>Anahatlı elmas</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -2710,7 +2710,7 @@ Download the XML expansion pack?</source>
     </message>
     <message>
         <source>Viewer Mode</source>
-        <translation type="unfinished"/>
+        <translation>Görüntüleyen Modu</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
@@ -3046,7 +3046,7 @@ Please save the file and create share link</source>
     </message>
     <message>
         <source>Single Opening Quote</source>
-        <translation type="unfinished"/>
+        <translation>Tek Tırnak (Açılış)</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. 
@@ -3238,7 +3238,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Down</source>
@@ -18240,7 +18240,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Shift</source>
@@ -20522,7 +20522,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Pro&amp;perty:</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;zellik:</translation>
     </message>
     <message>
         <source>Forward to</source>
@@ -25866,7 +25866,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"/>
+        <translation>Şirket</translation>
     </message>
 </context>
 <context>
@@ -29532,11 +29532,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Shingle</source>
-        <translation type="unfinished"/>
+        <translation>Kiremit</translation>
     </message>
     <message>
         <source>Outlined diamond</source>
-        <translation type="unfinished"/>
+        <translation>Anahatlı elmas</translation>
     </message>
     <message>
         <source>Dark upward diagonal</source>
@@ -31178,11 +31178,11 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Single Closing Quote</source>
-        <translation type="unfinished"/>
+        <translation>Tek Tırnak (Kapanış)</translation>
     </message>
     <message>
         <source>Ellipsis</source>
-        <translation type="unfinished"/>
+        <translation>Üç nokta</translation>
     </message>
     <message>
         <source>Trademark</source>
@@ -31198,7 +31198,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Double Opening Quote</source>
-        <translation type="unfinished"/>
+        <translation>Çift Tırnak (Açılış)</translation>
     </message>
     <message>
         <source>Section</source>
@@ -31206,7 +31206,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Double Closing Quote</source>
-        <translation type="unfinished"/>
+        <translation>Çift Tırnak (Kapanış)</translation>
     </message>
     <message>
         <source>Em Dash</source>
@@ -31222,7 +31222,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Single Opening Quote</source>
-        <translation type="unfinished"/>
+        <translation>Tek Tırnak (Açılış)</translation>
     </message>
 </context>
 <context>
