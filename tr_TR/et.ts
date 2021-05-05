@@ -8169,7 +8169,7 @@ Aktar</translation>
     </message>
     <message>
         <source>The name entered already exists. Enter a unique name.</source>
-        <translation type="unfinished"/>
+        <translation>Girilen ad zaten var. Benzersiz bir ad girin.</translation>
     </message>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
@@ -23039,7 +23039,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Counts the number of cells that are not empty.</source>
-        <translation type="unfinished"/>
+        <translation>Aralıktaki boş olmayan hücrelerin kaç tane olduğunu sayar. </translation>
     </message>
     <message>
         <source>Returns TRUE if the number is even and FALSE otherwise.</source>
@@ -23196,7 +23196,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>GESTEP(number,step)</source>
-        <translation>BESINIR(sayı,adım)</translation>
+        <translation>BESINIR(sayı,sınır_değer)</translation>
     </message>
     <message>
         <source>PAUSE(no_tool)</source>
@@ -24298,7 +24298,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the number of cells containing numbers and of numbers in the list of arguments.</source>
-        <translation type="unfinished"/>
+        <translation>Aralıktaki sayı içeren hücrelerin kaç tane olduğunu sayar.</translation>
     </message>
     <message>
         <source>Estimates the variance of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
@@ -24434,7 +24434,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the present value of an investment, calculating from a series of future payments.</source>
-        <translation type="unfinished"/>
+        <translation>Bir yatırımın bugünkü değerini verir: gelecekte yapılacak bir dizi ödemenin bugünkü toplam değeri.</translation>
     </message>
     <message>
         <source>BITXOR(number1,number2)</source>
@@ -25032,7 +25032,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel functions evaluated for purely imaginary arguments.</source>
-        <translation type="unfinished"/>
+        <translation>Tamamen sanal bağımsız değişkenler için değerlendirilen Bessel işlevinin eşdeğeri olan, değiştirilmiş Bessel işlevini verir.</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is a number and FALSE otherwise.</source>
@@ -25673,7 +25673,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns 1 if number ≥ step and 0 (zero) otherwise. </source>
-        <translation type="unfinished"/>
+        <translation>Sayı ≥ sınır_değer ise 1&apos;i, aksi halde 0&apos;ı verir.</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to binary.</source>
@@ -25773,7 +25773,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
-        <translation type="unfinished"/>
+        <translation>Tamamen sanal bağımsız değişkenler için değerlendirilen Bessel işlevinin eşdeğeri olan, değiştirilmiş Bessel işlevini verir.</translation>
     </message>
     <message>
         <source>HARMEAN(number1,number2,...)</source>
@@ -25826,7 +25826,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the Bessel function.</source>
-        <translation type="unfinished"/>
+        <translation>Bessel işlevini döndürür.</translation>
     </message>
     <message>
         <source>Returns the Fisher transformation.</source>
@@ -50526,7 +50526,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Mark unique data</source>
-        <translation type="unfinished"/>
+        <translation>Benzersiz verileri işaretle</translation>
     </message>
     <message>
         <source>Compare the row data of the selected area, delete the duplicate rows, and extract to the new worksheet.</source>
@@ -50546,7 +50546,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Mark unique data in two areas</source>
-        <translation type="unfinished"/>
+        <translation>İki alanda benzersiz verileri işaretle</translation>
     </message>
     <message>
         <source>Extract duplicate rows in a worksheet</source>
@@ -55886,7 +55886,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     <name>KxNewNameDlg</name>
     <message>
         <source>The name entered already exists. Enter a unique name.</source>
-        <translation type="unfinished"/>
+        <translation>Girilen ad zaten var. Benzersiz bir ad girin.</translation>
     </message>
     <message>
         <source> - Reference location:</source>
