@@ -1862,7 +1862,7 @@
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"/>
+        <translation>Şirket</translation>
     </message>
     <message>
         <source>Odd page</source>
@@ -3811,7 +3811,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>yyyy-MM-dd</source>
-        <translation type="unfinished"/>
+        <translation>yyyy-AA-gg</translation>
     </message>
 </context>
 <context>
@@ -3853,7 +3853,7 @@ Do you want to replace it?</source>
     <name>KxFieldDlg</name>
     <message>
         <source>/</source>
-        <translation type="unfinished"/>
+        <translation>/</translation>
     </message>
     <message>
         <source>TC</source>
@@ -4165,7 +4165,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Formula</source>
-        <translation type="unfinished"/>
+        <translation>Formül</translation>
     </message>
     <message>
         <source>Presume the ask of this document is ASK ask. Field code: ASK ask</source>
@@ -4386,11 +4386,11 @@ Do you want to replace it?</source>
     <name>KxWpsPageNumSomeFormatInitHelp</name>
     <message>
         <source>1</source>
-        <translation type="unfinished"/>
+        <translation>1</translation>
     </message>
     <message>
         <source>0;57</source>
-        <translation type="unfinished"/>
+        <translation>0;57</translation>
     </message>
     <message>
         <source>0;57;1</source>
@@ -4398,7 +4398,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>53;54;55</source>
-        <translation type="unfinished"/>
+        <translation>53;54;55</translation>
     </message>
     <message>
         <source>14;28;37;38;2;3;4;30;31;10;20;21;5;6;7</source>
@@ -5474,7 +5474,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"/>
+        <translation>Şirket</translation>
     </message>
     <message>
         <source>Last Name</source>
@@ -6620,7 +6620,7 @@ Hayır:	Şablona kaydetme;
     <name>KxDlgEquationOptions</name>
     <message>
         <source>--</source>
-        <translation type="unfinished"/>
+        <translation>--</translation>
     </message>
     <message>
         <source>OK</source>
@@ -6660,7 +6660,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Genel</translation>
     </message>
 </context>
 <context>
@@ -14556,7 +14556,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Change DataLabel Geometry</source>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketi Şeklini Değiştir</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -19473,7 +19473,7 @@ Screen</source>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Ayıkla</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -19521,7 +19521,7 @@ Screen</source>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Ayıklama</translation>
     </message>
     <message>
         <source>Footnotes Hyperlink Context Menu</source>
@@ -19561,7 +19561,7 @@ Screen</source>
     </message>
     <message>
         <source>ProcessOnEntry</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Süreç</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -36079,7 +36079,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"/>
+        <translation>Şirket</translation>
     </message>
     <message>
         <source>Last name</source>
@@ -36206,7 +36206,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"/>
+        <translation>Şirket</translation>
     </message>
     <message>
         <source>Last name</source>
@@ -38590,7 +38590,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Ayıkla</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -38618,7 +38618,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Ayıklama</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -38630,7 +38630,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>ProcessOnEntry</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Süreç</translation>
     </message>
     <message>
         <source>Add or view comments in your document.</source>
@@ -40938,7 +40938,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation type="unfinished"/>
+        <translation>Tay Numarası</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -40985,7 +40985,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation type="unfinished"/>
+        <translation>Thai Number</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -41032,7 +41032,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation type="unfinished"/>
+        <translation>Thai Number</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -41079,7 +41079,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation type="unfinished"/>
+        <translation>Thai Number</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -41126,7 +41126,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation type="unfinished"/>
+        <translation>Thai Number</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -41169,7 +41169,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation type="unfinished"/>
+        <translation>Thai Number</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -41216,7 +41216,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation type="unfinished"/>
+        <translation>Thai Number</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -50862,7 +50862,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>preview</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme</translation>
     </message>
 </context>
 <context>
@@ -50876,23 +50876,23 @@ Try one or more of the following:
     <name>KxPTab</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama Sekmesi</translation>
     </message>
     <message>
         <source>PTabDot</source>
-        <translation type="unfinished"/>
+        <translation>&amp;2 .......</translation>
     </message>
     <message>
         <source>PTabCenter</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ortala</translation>
     </message>
     <message>
         <source>PTabUnderscore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;4 _______</translation>
     </message>
     <message>
         <source>pTabIndent</source>
-        <translation type="unfinished"/>
+        <translation>Girinti</translation>
     </message>
     <message>
         <source>PTabLeader</source>
