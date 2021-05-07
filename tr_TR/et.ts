@@ -22555,7 +22555,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
-        <translation type="unfinished"/>
+        <translation>Kümülatif binom dağılımının ölçüt değerinden küçük veya ona eşit olduğu en küçük değeri verir.</translation>
     </message>
     <message>
         <source>Returns the most common number (most frequently occurring) in an array or range of data.</source>
@@ -22587,7 +22587,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a bitwise &apos;OR&apos; of two numbers.</source>
-        <translation type="unfinished"/>
+        <translation>İki sayının bit tabanlı bir &apos;Veya&apos; değerini verir.</translation>
     </message>
     <message>
         <source>CALL(module_text, procedure, type_text, argument1, ...)</source>
@@ -22767,7 +22767,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a bitwise &apos;XOR&apos; of two numbers.</source>
-        <translation type="unfinished"/>
+        <translation>İki sayının bit tabanlı bir &apos;Özel Veya&apos; değerini verir.</translation>
     </message>
     <message>
         <source>ACOS(number)</source>
@@ -22875,7 +22875,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the cumulative beta probability density function.</source>
-        <translation type="unfinished"/>
+        <translation>Kümülatif beta olasılık yoğunluk işlevini verir.</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
@@ -22979,7 +22979,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the inverse of the cumulative beta probability density function (BETADIST).</source>
-        <translation>Birikimli beta olasılık yoğunluk işlevinin tersini döndürür (BETADAĞ).</translation>
+        <translation>Kümülatif beta olasılık yoğunluk işlevinin (BETADAĞ) tersini verir.</translation>
     </message>
     <message>
         <source>IFERROR(value,value_if_error)</source>
@@ -23055,7 +23055,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Predicts the exponential growth by using existing data.</source>
-        <translation type="unfinished"/>
+        <translation>Bilinen veri noktalarıyla eşleşen üstel büyüme trendi içindeki sayıları döndürür.</translation>
     </message>
     <message>
         <source>IMREAL(inumber)</source>
@@ -23192,7 +23192,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a number shifted right by the specified number of bits.</source>
-        <translation type="unfinished"/>
+        <translation>kaydırma_miktarı kadar bit sağa kaydırılan bir sayıyı verir.</translation>
     </message>
     <message>
         <source>GESTEP(number,step)</source>
@@ -23244,7 +23244,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Joins several text strings into one text string.</source>
-        <translation type="unfinished"/>
+        <translation>Birden fazla metin dizesini bir metin dizesi halinde birleştirir.</translation>
     </message>
     <message>
         <source>Calculates the product of complex numbers in x + yi or x + yj text format.</source>
@@ -23341,7 +23341,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
         <comment>BINOMINV_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Kümülatif binom dağılımının ölçüt değerinden küçük veya ona eşit olduğu en küçük değeri verir.</translation>
     </message>
     <message>
         <source>CUMIPMT(rate, nper, pv, start_period, end_period, type)</source>
@@ -23357,7 +23357,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>BINOM.DIST.RANGE(trials,probability_s,number_s,[number_s2])</source>
-        <translation type="unfinished"/>
+        <translation>BİNOM.DAĞ.ARALIK (denemeler,başarı_olasılığı,başarı_sayısı,başarı_sayısı2)</translation>
     </message>
     <message>
         <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contain numbers.</source>
@@ -23578,7 +23578,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the upper-case version of a text string.</source>
-        <translation type="unfinished"/>
+        <translation>Bir metni büyük harfe dönüştürür.</translation>
     </message>
     <message>
         <source>DSTDEV(database,field,criteria)</source>
@@ -24080,7 +24080,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the individual term binomial distribution probability.</source>
-        <translation type="unfinished"/>
+        <translation>Tek terimli binom dağılımı olasılığını verir.</translation>
     </message>
     <message>
         <source>DOLLAR(number,decimals)</source>
@@ -24197,7 +24197,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the starting position of one text string within another(case-sensitive and wildcard characters are not allowed).</source>
-        <translation type="unfinished"/>
+        <translation>Bir metin dizesini diğer bir metin dizesi içinde bulur ve bulunan dizenin başlama konumu numarasını verir (büyük küçük harf duyarlı).</translation>
     </message>
     <message>
         <source>DEGREES(angle)</source>
@@ -24237,7 +24237,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a bitwise &apos;AND&apos; of two numbers.</source>
-        <translation type="unfinished"/>
+        <translation>İki sayının bit tabanlı bir &apos;Ve&apos; değerini verir.</translation>
     </message>
     <message>
         <source>IMSIN(inumber)</source>
@@ -24722,7 +24722,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a number shifted left by the specified number of bits.</source>
-        <translation type="unfinished"/>
+        <translation>kaydırma_miktarı kadar bit sola kaydırılan bir sayıyı verir.</translation>
     </message>
     <message>
         <source>Rounds a number down, toward zero, to the nearest multiple of significance.</source>
@@ -24956,7 +24956,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Counts the number of empty cells in a specified range of cells.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen hücre aralığındaki boş hücreleri sayar.</translation>
     </message>
     <message>
         <source>VAR(number1,number2,...)</source>
@@ -25148,7 +25148,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the probability of a trial result using a binomial distribution.</source>
-        <translation type="unfinished"/>
+        <translation>Binom dağılımını kullanarak bir deneme sonucunun başarı olasılığını döndürür.</translation>
     </message>
     <message>
         <source>ISLOGICAL(value)</source>
@@ -25176,7 +25176,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the current date formatted as a date.</source>
-        <translation type="unfinished"/>
+        <translation>Bugünkü tarihi, tarih biçiminde verir.</translation>
     </message>
     <message>
         <source>INTERCEPT(known_y&apos;s,known_x&apos;s)</source>
@@ -25325,7 +25325,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns information about the current operating environment</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli işletim ortamı hakkında bilgi verir.</translation>
     </message>
     <message>
         <source>REPLACE(old_text,start_num,num_chars,new_text)</source>
@@ -25369,7 +25369,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>BINOM.INV(trials,probability_s,alpha)</source>
-        <translation type="unfinished"/>
+        <translation>BİNOM.TERS(denemeler,başarı_olasılığı,alfa) </translation>
     </message>
     <message>
         <source>Returns the one-tailed probability of the chi-squared distribution. The c2 distribution is associated with a c2 test. Use the c2 test to compare observed and expected values. </source>
@@ -28054,7 +28054,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>EditSingleData</source>
-        <translation type="unfinished"/>
+        <translation>Tek Mini Grafik Verilerini Düzenle</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -48611,7 +48611,7 @@ Temizle</translation>
     </message>
     <message>
         <source>其他导入设置</source>
-        <translation type="unfinished"/>
+        <translation>Diğer İçeri Aktarma ayarları</translation>
     </message>
     <message>
         <source>将&lt;PRE&gt;块导至列中(&amp;I)</source>
@@ -52407,7 +52407,7 @@ Do you want to proceed with changes to the connection in this workbook?</source>
     </message>
     <message>
         <source>Repeat Value (&amp;M):</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tekrarlanan Değerler:</translation>
     </message>
     <message>
         <source>Please select a column to compare by row!</source>
@@ -55491,7 +55491,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>Please specify sheets to be marked</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen karşılaştırılacak çalışma sayfalarını belirtin.</translation>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
@@ -56196,7 +56196,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>ongmani.ct_equationtools</name>
     <message>
         <source>Accent</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu</translation>
     </message>
     <message>
         <source>Linear</source>
