@@ -8688,7 +8688,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Center</source>
@@ -8852,7 +8852,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -9168,7 +9168,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -9328,7 +9328,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -9602,7 +9602,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Center</source>
@@ -9726,7 +9726,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -10068,7 +10068,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -10347,7 +10347,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -10768,7 +10768,7 @@ Yönü</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -11222,7 +11222,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -11583,7 +11583,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -11812,7 +11812,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -12309,7 +12309,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
@@ -12357,7 +12357,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Eyedropper</source>
@@ -13611,7 +13611,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Action Buttons</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmeleri</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -13623,7 +13623,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Seç</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -13923,7 +13923,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Böl</translation>
     </message>
     <message>
         <source>Chart Title</source>
@@ -13931,7 +13931,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>First Slide</source>
-        <translation type="unfinished"/>
+        <translation>İlk Slayt</translation>
     </message>
     <message>
         <source>Smart Align</source>
@@ -15105,7 +15105,7 @@ Master</source>
     <message>
         <source>Right</source>
         <comment>OMath</comment>
-        <translation type="unfinished"/>
+        <translation>Sağ</translation>
     </message>
     <message>
         <source>Delete Object</source>
@@ -15312,7 +15312,7 @@ Master</source>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -20988,7 +20988,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation>Metin Araçları</translation>
+        <translation>Metin Aracı</translation>
     </message>
     <message>
         <source>Sign Out</source>
@@ -23259,7 +23259,7 @@ Master</source>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Seç</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -23275,7 +23275,7 @@ Master</source>
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -23410,7 +23410,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -23422,7 +23422,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation type="unfinished"/>
+        <translation>Satır Seç</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -23438,7 +23438,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Select Column</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Seç</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -25341,7 +25341,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation>Metin Araçları</translation>
+        <translation>Metin Aracı</translation>
     </message>
     <message>
         <source>Sign Out</source>
@@ -25469,7 +25469,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Seç</translation>
     </message>
     <message>
         <source>Vertical direction</source>
@@ -25481,7 +25481,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -25513,7 +25513,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Böl</translation>
     </message>
     <message>
         <source>Delete Columns</source>
@@ -25557,11 +25557,11 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation type="unfinished"/>
+        <translation>Satır Seç</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -25573,7 +25573,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Select Column</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Seç</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -27680,7 +27680,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Seç</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -27696,7 +27696,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Line Weight</source>
@@ -27704,7 +27704,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Böl</translation>
     </message>
     <message>
         <source>Delete Columns</source>
@@ -27740,7 +27740,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Eyedropper</source>
@@ -27748,7 +27748,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation type="unfinished"/>
+        <translation>Satır Seç</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -27756,7 +27756,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Select Column</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Seç</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -28918,11 +28918,11 @@ Effects</source>
     <name>EditLinksDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Tür:</translation>
     </message>
     <message>
         <source>Edit Links</source>
@@ -32246,7 +32246,7 @@ Master</source>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Böl</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
