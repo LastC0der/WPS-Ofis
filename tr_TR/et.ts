@@ -23007,7 +23007,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>CHISQ.DIST(x,deg_freedom,cumulative)</source>
-        <translation type="unfinished"/>
+        <translation>KİKARE.DAĞ(x,serb_derecesi,kümülatif)</translation>
     </message>
     <message>
         <source>Returns the square root of a number.</source>
@@ -23324,7 +23324,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the left-tailed probability of the chi-squared distribution.</source>
-        <translation type="unfinished"/>
+        <translation>Kikare dağılımının sol kuyruklu olasılığını verir.</translation>
     </message>
     <message>
         <source>Returns the real coefficient of a complex number in x + yi or x + yj text format.</source>
@@ -23684,7 +23684,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the number of days in the coupon period that contains the settlement date.</source>
-        <translation type="unfinished"/>
+        <translation>Mutabakat tarihini içeren kupon dönemindeki gün sayısını döndürür.</translation>
     </message>
     <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
@@ -24032,7 +24032,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>COUPDAYS(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
+        <translation>KUPONGÜN(düzenleme, vade, sıklık, [temel])</translation>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
@@ -24060,7 +24060,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the inverse of the left-tailed probability of the chi-squared distribution.</source>
-        <translation type="unfinished"/>
+        <translation>Kikare dağılımının sol kuyruklu olasılığının tersini verir.</translation>
     </message>
     <message>
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
@@ -24282,7 +24282,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the hyperbolic cosine of a number.</source>
-        <translation type="unfinished"/>
+        <translation>Bir sayının hiperbolik kosinüsünü verir.</translation>
     </message>
     <message>
         <source>Replaces part of the old text with new text in a string.</source>
@@ -24466,7 +24466,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the correlation coefficient between two data sets.</source>
-        <translation type="unfinished"/>
+        <translation>İki veri kümesi arasındaki korelasyon katsayısını verir.</translation>
     </message>
     <message>
         <source>Returns the logarithm of a number to the base you specify.</source>
@@ -25184,7 +25184,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>CHISQ.INV(probability,degrees_freedom)</source>
-        <translation type="unfinished"/>
+        <translation>KİKARE.TERS(olasılık,serb_derecesi)</translation>
     </message>
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
