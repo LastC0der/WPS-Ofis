@@ -746,7 +746,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Web Query File</source>
