@@ -1766,7 +1766,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Find content that includes the wildcards</source>
-        <translation>Joker karakterleri içeren içeriği bulun</translation>
+        <translation>Dizeleri içeren içeriği arayın</translation>
     </message>
     <message>
         <source>&amp;Disable all Data Connections</source>
@@ -12632,7 +12632,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Failed to open the dictionary file you selected, make sure it is a valid dictionary file.</source>
@@ -13733,7 +13733,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Delete(&amp;D)</source>
@@ -17863,7 +17863,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Number Format</source>
@@ -19707,7 +19707,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Delete Row</source>
@@ -21171,7 +21171,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>&amp;Wrap text in shape</source>
@@ -21239,7 +21239,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>&amp;Overflow</source>
@@ -21636,7 +21636,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Solver requires more memory to solve this problem than is available on the machine.</source>
@@ -21964,7 +21964,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Drag items of the %1 field to display them in any order</source>
@@ -26083,7 +26083,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -26263,7 +26263,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -26550,7 +26550,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Font Outline</source>
@@ -26694,7 +26694,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -36612,7 +36612,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -36860,7 +36860,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38206,7 +38206,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -38446,7 +38446,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -40030,7 +40030,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>ReadingOrder</source>
@@ -40210,7 +40210,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>TextFont</source>
@@ -44959,7 +44959,7 @@ Modu</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -45091,7 +45091,7 @@ Görünümler</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Freeze First Column</source>
@@ -45161,7 +45161,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -45267,7 +45267,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey5</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -45341,7 +45341,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -45518,7 +45518,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -47950,7 +47950,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -48059,7 +48059,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -48512,11 +48512,11 @@ Temizle</translation>
     </message>
     <message>
         <source>Greater Than</source>
-        <translation>Büyük</translation>
+        <translation>Büyüktür</translation>
     </message>
     <message>
         <source>Equal To</source>
-        <translation>Eşit</translation>
+        <translation>Eşittir</translation>
     </message>
     <message>
         <source>Between</source>
@@ -48591,7 +48591,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Web 查询选项</source>
-        <translation type="unfinished"/>
+        <translation>Web sorgu seçenekleri</translation>
     </message>
     <message>
         <source>连续分隔符号视为单个处理(&amp;T)</source>
