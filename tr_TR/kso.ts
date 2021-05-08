@@ -30570,7 +30570,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Customize Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişim Araç Çubuğunu Özelleştir</translation>
     </message>
 </context>
 <context>
@@ -33802,7 +33802,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Cust&amp;omize Quick Access:</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişim Araç Çubuğunu &amp;Özelleştir</translation>
     </message>
 </context>
 <context>
@@ -36684,7 +36684,7 @@ Please check your network your firewall configuration</source>
     <name>KRbQatCustomButton</name>
     <message>
         <source>custom quick access toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişim Araç Çubuğunu Özelleştir</translation>
     </message>
 </context>
 <context>
