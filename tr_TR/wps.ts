@@ -6636,7 +6636,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağ</translation>
     </message>
     <message>
         <source>Before</source>
@@ -8146,7 +8146,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağ</translation>
     </message>
     <message>
         <source>Position: </source>
@@ -13192,7 +13192,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Vertical direction</source>
-        <translation type="unfinished"/>
+        <translation>Dikey</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -13200,7 +13200,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Align Text Center</source>
@@ -13352,7 +13352,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -14710,7 +14710,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Seç</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -15174,7 +15174,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Split Table</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Böl</translation>
     </message>
     <message>
         <source>Zoom Slider</source>
@@ -15182,7 +15182,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Böl</translation>
     </message>
     <message>
         <source>Chart Title</source>
@@ -16015,7 +16015,7 @@ Diagonal Line in Cell</source>
     <message>
         <source>Right</source>
         <comment>OMathMat</comment>
-        <translation type="unfinished"/>
+        <translation>Sağ</translation>
     </message>
     <message>
         <source>Format Data Point</source>
@@ -18155,7 +18155,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -22014,7 +22014,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Split Table</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Böl</translation>
     </message>
     <message>
         <source>Collated(Print copy by copy)</source>
@@ -22022,7 +22022,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Böl</translation>
     </message>
     <message>
         <source>&quot;Two Pages&quot;,-4</source>
@@ -25347,11 +25347,11 @@ Efektler</translation>
     </message>
     <message>
         <source>Split Table</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Böl</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Böl</translation>
     </message>
     <message>
         <source>Delete Columns</source>
@@ -25458,7 +25458,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir</translation>
     </message>
     <message>
         <source>Table</source>
@@ -25490,7 +25490,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Seç</translation>
     </message>
     <message>
         <source>Delete Cells</source>
@@ -25563,11 +25563,11 @@ Cells</source>
     </message>
     <message>
         <source>Split Table</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Böl</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Böl</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -25655,7 +25655,7 @@ Cells</source>
     </message>
     <message>
         <source>Select Row</source>
-        <translation type="unfinished"/>
+        <translation>Satır Seç</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
@@ -25679,7 +25679,7 @@ Cells</source>
     </message>
     <message>
         <source>Select Column</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Seç</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -25762,7 +25762,7 @@ Cells</source>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir</translation>
     </message>
     <message>
         <source>Table</source>
@@ -25786,7 +25786,7 @@ Cells</source>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Seç</translation>
     </message>
     <message>
         <source>Align Center Right</source>
@@ -25818,11 +25818,11 @@ Cells</source>
     </message>
     <message>
         <source>Split Table</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Böl</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Böl</translation>
     </message>
     <message>
         <source>Split Table by Row</source>
@@ -25878,7 +25878,7 @@ Cells</source>
     </message>
     <message>
         <source>Select Row</source>
-        <translation type="unfinished"/>
+        <translation>Satır Seç</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
@@ -25898,7 +25898,7 @@ Cells</source>
     </message>
     <message>
         <source>Select Column</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Seç</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -38948,7 +38948,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Göster/Gizle</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -38968,7 +38968,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"/>
+        <translation>Biçimler</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -46290,7 +46290,7 @@ If unnecessary, please click Cancel.</source>
     <name>ongmani.ct_official_print</name>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir</translation>
     </message>
     <message>
         <source>Print</source>
@@ -47095,7 +47095,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Seç</translation>
     </message>
     <message>
         <source>button</source>
@@ -49658,7 +49658,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Böl</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
