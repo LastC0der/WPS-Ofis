@@ -108,7 +108,7 @@
     <name>KUserAgreeMentDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>We care about your data and user privacy, here is</source>
@@ -135,7 +135,7 @@
     <name>account_sdk::KProxySettingDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Test</source>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Tür:</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
