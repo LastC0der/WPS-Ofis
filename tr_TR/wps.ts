@@ -4521,7 +4521,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"/>
+        <translation>Hücre</translation>
     </message>
     <message>
         <source>City</source>
@@ -6533,7 +6533,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeler</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1538, 1</source>
@@ -12637,7 +12637,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeler</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -14018,7 +14018,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"/>
+        <translation>Hücre</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -14062,11 +14062,11 @@ Değiştir</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeler</translation>
     </message>
     <message>
         <source>Unit</source>
-        <translation type="unfinished"/>
+        <translation>Birim</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -15884,7 +15884,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz başvuru</translation>
     </message>
     <message>
         <source>Format Drop Lines</source>
@@ -16191,7 +16191,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>OnlineDiagram</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -16219,7 +16219,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reference</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru</translation>
     </message>
     <message>
         <source>Hanging Indent</source>
@@ -19100,7 +19100,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"/>
+        <translation>Denklem</translation>
     </message>
     <message>
         <source>Document Translate</source>
@@ -19489,11 +19489,11 @@ Screen</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>OnlineDiagram</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması</translation>
     </message>
     <message>
         <source>Restrict</source>
@@ -22232,7 +22232,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Insert Cross Reference</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz Başvuru Ekle</translation>
     </message>
     <message>
         <source>Table Theme</source>
@@ -28071,7 +28071,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Body text</source>
-        <translation type="unfinished"/>
+        <translation>Gövde metni</translation>
     </message>
     <message>
         <source>Multiple</source>
@@ -28087,39 +28087,39 @@ Kaydır</translation>
     </message>
     <message>
         <source>Level 1 </source>
-        <translation type="unfinished"/>
+        <translation>Düzey 1 </translation>
     </message>
     <message>
         <source>Level 4 </source>
-        <translation type="unfinished"/>
+        <translation>Düzey 4 </translation>
     </message>
     <message>
         <source>Level 5 </source>
-        <translation type="unfinished"/>
+        <translation>Düzey 5 </translation>
     </message>
     <message>
         <source>Level 2 </source>
-        <translation type="unfinished"/>
+        <translation>Düzey 2 </translation>
     </message>
     <message>
         <source>Level 3 </source>
-        <translation type="unfinished"/>
+        <translation>Düzey 3 </translation>
     </message>
     <message>
         <source>Level 8 </source>
-        <translation type="unfinished"/>
+        <translation>Düzey 8 </translation>
     </message>
     <message>
         <source>Level 9 </source>
-        <translation type="unfinished"/>
+        <translation>Düzey 9 </translation>
     </message>
     <message>
         <source>Level 6 </source>
-        <translation type="unfinished"/>
+        <translation>Düzey 6 </translation>
     </message>
     <message>
         <source>Level 7 </source>
-        <translation type="unfinished"/>
+        <translation>Düzey 7 </translation>
     </message>
     <message>
         <source>Exactly</source>
@@ -36719,7 +36719,7 @@ Pages</source>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz başvuru</translation>
     </message>
     <message>
         <source>Materials</source>
@@ -36735,7 +36735,7 @@ Pages</source>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Şekil</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
@@ -36751,11 +36751,11 @@ Pages</source>
     </message>
     <message>
         <source>OnlineDiagram</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -37091,7 +37091,7 @@ Break</source>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz başvuru</translation>
     </message>
     <message>
         <source>Materials</source>
@@ -37107,7 +37107,7 @@ Break</source>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Şekil</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
@@ -37119,7 +37119,7 @@ Break</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -37211,7 +37211,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
 </context>
 <context>
@@ -37413,7 +37413,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz başvuru</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -37425,11 +37425,11 @@ Ekle</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Şekil</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
@@ -37686,7 +37686,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz başvuru</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -37698,11 +37698,11 @@ Sonu</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Şekil</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
@@ -38602,7 +38602,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>OnlineDiagram</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -43580,7 +43580,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Son Not</translation>
     </message>
     <message>
         <source>Previous Find/Goto</source>
@@ -44681,7 +44681,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"/>
+        <translation>Denklem</translation>
     </message>
     <message>
         <source>Illustrations</source>
@@ -44701,11 +44701,11 @@ Sonu</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"/>
+        <translation>Özet</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigran</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -44713,11 +44713,11 @@ Sonu</translation>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Şekil</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigranı Kaldır</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
@@ -44725,11 +44725,11 @@ Sonu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -44741,7 +44741,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu</translation>
     </message>
     <message>
         <source>From Scanner</source>
@@ -45533,7 +45533,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Şekil</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -45545,11 +45545,11 @@ Açıklama</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu</translation>
     </message>
     <message>
         <source>Reviewers</source>
@@ -45995,7 +45995,7 @@ to Email</source>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz başvuru</translation>
     </message>
     <message>
         <source>Insert as &amp;hyperlink</source>
@@ -46003,7 +46003,7 @@ to Email</source>
     </message>
     <message>
         <source>Reference &amp;type:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başvuru türü:</translation>
     </message>
 </context>
 <context>
@@ -46196,7 +46196,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Son Not</translation>
     </message>
     <message>
         <source>Insert Table of Figures</source>
@@ -46208,7 +46208,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>Footnotes and Endnotes</source>
@@ -46220,11 +46220,11 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz başvuru</translation>
     </message>
     <message>
         <source>Body Text</source>
-        <translation type="unfinished"/>
+        <translation>Gövde Metni</translation>
     </message>
     <message>
         <source>Insert TOC</source>
@@ -46232,7 +46232,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Mark Entry</source>
@@ -49756,7 +49756,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Son Not</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -49768,7 +49768,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
@@ -49776,7 +49776,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Cross-reference</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz başvuru</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
@@ -49784,7 +49784,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Body Text</source>
-        <translation type="unfinished"/>
+        <translation>Gövde Metni</translation>
     </message>
     <message>
         <source>Insert TOC</source>
@@ -51030,14 +51030,14 @@ Try one or more of the following:
     <name>KxWpsLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Yok</translation>
     </message>
 </context>
 <context>
     <name>KxWpsShowHeaderLineModel</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Yok</translation>
     </message>
     <message>
         <source>Delete Line</source>
@@ -51094,15 +51094,15 @@ Try one or more of the following:
     </message>
     <message>
         <source>Fraction</source>
-        <translation type="unfinished"/>
+        <translation>Kesir</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"/>
+        <translation>Denklem</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <source>Function</source>
@@ -51110,7 +51110,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Professional</source>
@@ -52156,7 +52156,7 @@ check the maintain compatibility checkbox.</source>
     <name>KxWpsStatusColumnInfoCommand</name>
     <message>
         <source>Column: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sütun: %1</translation>
     </message>
 </context>
 <context>
@@ -52177,7 +52177,7 @@ check the maintain compatibility checkbox.</source>
     <name>KSearchFileItemResultDelegate</name>
     <message>
         <source>Reference</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru</translation>
     </message>
 </context>
 <context>
