@@ -2116,7 +2116,7 @@ elements</source>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"/>
+        <translation>Köprü olarak yapıştırırken kaynak dosyaya bir kısayol oluşturulacaktır. Kaynak dosyadaki değişiklikler belgenize yansıtılacaktır.</translation>
     </message>
     <message>
         <source>Select Texture</source>
@@ -15194,7 +15194,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Custom...</source>
@@ -15292,7 +15292,7 @@ you can manage,delete,reshare the link</source>
     <name>PinKeyVerifyDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -22771,7 +22771,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"/>
+        <translation>Köprü olarak yapıştırıldığında kaynak dosyaya bir kısayol oluşturulacaktır. Kaynak dosyadaki değişiklikler belgenize yansıtılacaktır.</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
@@ -28246,7 +28246,7 @@ Possible reasons:
     <message>
         <source>WPS Office Graphic Object</source>
         <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Grafik Nesnesi</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Enhanced Metafile.</source>
@@ -28303,7 +28303,7 @@ Possible reasons:
     </message>
     <message>
         <source>MS Office Drawing Object</source>
-        <translation type="unfinished"/>
+        <translation>MS Ofis Çizim Nesnesi</translation>
     </message>
     <message>
         <source>Data of WPS Mail</source>
@@ -28347,7 +28347,7 @@ Possible reasons:
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
-        <translation>Pano içeriği HTML biçimi olarak eklenecektir.</translation>
+        <translation>Pano içeriği HTML biçimi olarak eklenecektir. </translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
@@ -28372,7 +28372,7 @@ Possible reasons:
     </message>
     <message>
         <source>WPS Office Graphic Object</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Grafik Nesnesi</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Device Independent Bitmap picture.</source>
@@ -28419,7 +28419,7 @@ Possible reasons:
     </message>
     <message>
         <source>other Controls</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Denetimler</translation>
     </message>
     <message>
         <source>ActiveX Control(*.ocx;*.dll)</source>
@@ -31937,7 +31937,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>(unknown)</source>
-        <translation type="unfinished"/>
+        <translation>(Bilinmeyen)</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support removing files or directories</source>
@@ -35656,7 +35656,7 @@ Password protection and document permissions will become invalid.</source>
     <name>KxPasteSpecialDlg</name>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"/>
+        <translation>Köprü olarak yapıştırıldığında kaynak dosyaya bir kısayol oluşturulacaktır. Kaynak dosyadaki değişiklikler belgenize yansıtılacaktır.</translation>
     </message>
     <message>
         <source>Unknown object</source>
