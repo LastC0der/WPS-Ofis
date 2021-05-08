@@ -1832,7 +1832,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Yok</translation>
     </message>
     <message>
         <source>Loading %s failed. Application will terminate. Please check and try again.</source>
@@ -3649,7 +3649,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Şekil</translation>
     </message>
     <message>
         <source>Select Target</source>
@@ -4602,7 +4602,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Can</source>
-        <translation type="unfinished"/>
+        <translation>Kutu</translation>
     </message>
     <message>
         <source>Ink</source>
@@ -4622,7 +4622,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Sun</source>
-        <translation type="unfinished"/>
+        <translation>Güneş</translation>
     </message>
     <message>
         <source>Flowchart: Predefined Process</source>
@@ -7982,7 +7982,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Scanner</source>
-        <translation type="unfinished"/>
+        <translation>Tarayıcı</translation>
     </message>
     <message>
         <source>DarkHorizontal</source>
@@ -8232,7 +8232,7 @@ Line-type: %3</source>
     <message>
         <source>Can</source>
         <comment>DRAWING2_TOOLTIP_CAN</comment>
-        <translation type="unfinished"/>
+        <translation>Kutu</translation>
     </message>
     <message>
         <source>Crimson</source>
@@ -8259,7 +8259,7 @@ Line-type: %3</source>
     <message>
         <source>Sun</source>
         <comment>DRAWING2_TOOLTIP_SUN</comment>
-        <translation type="unfinished"/>
+        <translation>Güneş</translation>
     </message>
     <message>
         <source>Arc</source>
@@ -8304,7 +8304,7 @@ Line-type: %3</source>
     <message>
         <source>Can</source>
         <comment>DRAWING2STR_CAN</comment>
-        <translation type="unfinished"/>
+        <translation>Kutu</translation>
     </message>
     <message>
         <source>Flowchart: Summing Junction</source>
@@ -8486,7 +8486,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>multi color</source>
-        <translation type="unfinished"/>
+        <translation>Çok renkli</translation>
     </message>
     <message>
         <source>Action Button: Return</source>
@@ -8504,12 +8504,12 @@ Line-type: %3</source>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Şekil</translation>
     </message>
     <message>
         <source>Scanner</source>
         <comment>DRAWINGSTR_SCANNER2</comment>
-        <translation type="unfinished"/>
+        <translation>Tarayıcı</translation>
     </message>
     <message>
         <source>Lightning Bolt</source>
@@ -8546,7 +8546,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>DownArc</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı Yay</translation>
     </message>
     <message>
         <source>Right Triangle</source>
@@ -8570,7 +8570,7 @@ Line-type: %3</source>
     <message>
         <source>Sun</source>
         <comment>DRAWING2STR_SUN</comment>
-        <translation type="unfinished"/>
+        <translation>Güneş</translation>
     </message>
     <message>
         <source>Flowchart: Sequential Access Storage</source>
@@ -10056,7 +10056,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Scanner</source>
-        <translation type="unfinished"/>
+        <translation>Tarayıcı</translation>
     </message>
     <message>
         <source>Searching...</source>
@@ -12461,7 +12461,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Reference</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru</translation>
     </message>
     <message>
         <source>Work Group</source>
@@ -15079,7 +15079,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeler</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -19222,7 +19222,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Fraction</source>
-        <translation type="unfinished"/>
+        <translation>Kesir</translation>
     </message>
     <message>
         <source>Greater Than</source>
@@ -28624,7 +28624,7 @@ Possible reasons:
     </message>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Yok</translation>
     </message>
     <message>
         <source>&amp;Curved</source>
@@ -37323,7 +37323,7 @@ p, li { white-space: pre-wrap; }
     <name>KShapeLineGalleryItem</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Yok</translation>
     </message>
     <message>
         <source>Preset Line</source>
@@ -38791,7 +38791,7 @@ Properties</source>
     <name>KxRnSettingsProxyCommand</name>
     <message>
         <source>settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
 </context>
 <context>
