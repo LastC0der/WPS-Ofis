@@ -425,7 +425,7 @@
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Pano</translation>
     </message>
     <message>
         <source>&amp;Vary colors by point</source>
@@ -441,7 +441,7 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>&amp;Picture or texture fill</source>
@@ -609,7 +609,7 @@
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>&amp;Hide background graphics</source>
@@ -5362,7 +5362,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Oval Callout</source>
@@ -15142,7 +15142,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>&amp;Wrap text in shape</source>
@@ -15214,7 +15214,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>&amp;Shrink text on overflow</source>
@@ -19226,11 +19226,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Greater Than</source>
-        <translation type="unfinished"/>
+        <translation>Büyüktür</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"/>
+        <translation>Arasında</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -21033,7 +21033,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.Please try recreating it.</source>
@@ -21449,7 +21449,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Character Style</source>
@@ -25900,7 +25900,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"/>
+        <translation>Değer</translation>
     </message>
 </context>
 <context>
