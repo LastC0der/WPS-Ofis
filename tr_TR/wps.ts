@@ -6479,7 +6479,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>ch</source>
-        <translation type="unfinished"/>
+        <translation>kr</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -6511,7 +6511,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Level %1</source>
-        <translation type="unfinished"/>
+        <translation>Düzey %1</translation>
     </message>
 </context>
 <context>
@@ -6996,7 +6996,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Please change a watermark name!</source>
@@ -9481,7 +9481,7 @@ Kaydır</translation>
     <name>KxAdjustNumberingIndentDlg</name>
     <message>
         <source>ch</source>
-        <translation type="unfinished"/>
+        <translation>kr</translation>
     </message>
     <message>
         <source>Bulleted position(&amp;P):</source>
@@ -9492,11 +9492,11 @@ Kaydır</translation>
     <name>KxDropCapDlg</name>
     <message>
         <source>ch</source>
-        <translation type="unfinished"/>
+        <translation>kr</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"/>
+        <translation>cm</translation>
     </message>
     <message>
         <source>in</source>
@@ -9504,7 +9504,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"/>
+        <translation>mm</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9837,7 +9837,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>&amp;Wrap text in shape</source>
@@ -11081,7 +11081,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -11480,7 +11480,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -14300,7 +14300,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Footnote/Endnote</source>
@@ -16183,7 +16183,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Delete Row</source>
@@ -16779,7 +16779,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -17162,7 +17162,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -18291,7 +18291,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
@@ -27848,7 +27848,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>&amp;Remove Frame</source>
@@ -28278,7 +28278,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Table Positioning</source>
@@ -28472,7 +28472,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Ali&amp;gnment</source>
@@ -33485,7 +33485,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -34999,7 +34999,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Reading View</source>
@@ -35125,7 +35125,7 @@ Screen</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -35186,7 +35186,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -36530,7 +36530,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -36747,7 +36747,7 @@ Pages</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>OnlineDiagram</source>
@@ -36915,7 +36915,7 @@ Break</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -44589,7 +44589,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -45443,7 +45443,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -46618,7 +46618,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey</translation>
     </message>
 </context>
 <context>
@@ -47755,7 +47755,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Level %1</source>
-        <translation type="unfinished"/>
+        <translation>Düzey %1</translation>
     </message>
 </context>
 <context>
@@ -48141,7 +48141,7 @@ Try one or more of the following:
     <name>KxWpsTextOrientationModel</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Rotate Asian Character 270°</source>
@@ -48168,66 +48168,66 @@ Try one or more of the following:
     <name>popupmenu.InsertBlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.InsertTextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert.BlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert.TextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert_vml.BlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert_vml.TextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
 </context>
 <context>
