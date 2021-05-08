@@ -2790,7 +2790,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>right</source>
-        <translation type="unfinished"/>
+        <translation>Sağ</translation>
     </message>
 </context>
 <context>
@@ -6238,14 +6238,14 @@ yazılamadı</translation>
     <name>KDocerFakeBtnTabMenu</name>
     <message>
         <source>close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
     <name>KPromeTabMenu</name>
     <message>
         <source>close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>close other tabs</source>
@@ -6268,7 +6268,7 @@ yazılamadı</translation>
     <name>KTempleteShopFakeBtnTabMenu</name>
     <message>
         <source>close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
@@ -6294,7 +6294,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>(unknown)</source>
-        <translation type="unfinished"/>
+        <translation>(Bilinmeyen)</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support removing files or directories</source>
