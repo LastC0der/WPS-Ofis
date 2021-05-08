@@ -15977,7 +15977,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"/>
+        <translation>Denklem</translation>
     </message>
     <message>
         <source>Document Translate</source>
@@ -26748,7 +26748,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -26984,7 +26984,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <source>Package into Compressed File</source>
@@ -29552,7 +29552,7 @@ Sorter</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu</translation>
     </message>
     <message>
         <source>New 
@@ -33089,7 +33089,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Yok</translation>
     </message>
 </context>
 <context>
@@ -33119,15 +33119,15 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Fraction</source>
-        <translation type="unfinished"/>
+        <translation>Kesir</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"/>
+        <translation>Denklem</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <source>Function</source>
@@ -33135,7 +33135,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Professional</source>
