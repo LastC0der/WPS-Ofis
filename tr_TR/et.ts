@@ -20086,7 +20086,7 @@ OLE DB Query</source>
     <message>
         <source>Right</source>
         <comment>OMath</comment>
-        <translation type="unfinished"/>
+        <translation>Sağ</translation>
     </message>
     <message>
         <source>Delete Object</source>
@@ -21215,7 +21215,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Stacked</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış</translation>
     </message>
     <message>
         <source>Custom...</source>
@@ -27398,7 +27398,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir</translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -46316,7 +46316,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Seç</translation>
     </message>
     <message>
         <source>This data source contains no visible tables.</source>
@@ -55916,7 +55916,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     <name>SelectTableFromDbUI</name>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Seç</translation>
     </message>
 </context>
 <context>
