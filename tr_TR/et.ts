@@ -6976,7 +6976,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Date_purchased</source>
-        <translation type="unfinished"/>
+        <translation>Alış_Tarihi</translation>
     </message>
     <message>
         <source>Degrees_freedom 1</source>
@@ -8835,7 +8835,7 @@ Aktar</translation>
     </message>
     <message>
         <source>From_reference</source>
-        <translation type="unfinished"/>
+        <translation>Başvurudan</translation>
     </message>
     <message>
         <source>You cannot modify the read-only cells on protected worksheet.</source>
@@ -9302,7 +9302,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>Row_num</source>
         <comment>TX_ParaInfo_062</comment>
-        <translation type="unfinished"/>
+        <translation>Satır_sayısı</translation>
     </message>
     <message>
         <source>Const</source>
@@ -9829,7 +9829,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Fraction</source>
-        <translation type="unfinished"/>
+        <translation>Kesir</translation>
     </message>
     <message>
         <source>The selected data cannot be applied to the default chart type.</source>
@@ -10151,7 +10151,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Row_num</source>
-        <translation type="unfinished"/>
+        <translation>Satır_sayısı</translation>
     </message>
     <message>
         <source>is the range of cells you want evaluated for the particular condition.</source>
@@ -10172,7 +10172,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>To_reference</source>
-        <translation type="unfinished"/>
+        <translation>Başvuruya</translation>
     </message>
     <message>
         <source>Return_type</source>
@@ -10188,7 +10188,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Salvage</source>
-        <translation type="unfinished"/>
+        <translation>Hurda</translation>
     </message>
     <message>
         <source>is a range or array of x-values you already know in the relationship y=mx + b.</source>
@@ -10984,7 +10984,7 @@ Sil</translation>
     </message>
     <message>
         <source>Column_num</source>
-        <translation type="unfinished"/>
+        <translation>Sütun_sayısı</translation>
     </message>
     <message>
         <source>End_num</source>
@@ -11124,7 +11124,7 @@ The values which can be typed here is restricted by other users.</source>
     <message>
         <source>Serial_number</source>
         <comment>TX_ParaInfo_066</comment>
-        <translation type="unfinished"/>
+        <translation>Seri_numarası</translation>
     </message>
     <message>
         <source>Width</source>
@@ -11142,19 +11142,19 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>Level_num</source>
-        <translation type="unfinished"/>
+        <translation>Düzey_sayısı</translation>
     </message>
     <message>
         <source>reference</source>
-        <translation type="unfinished"/>
+        <translation>başvuru</translation>
     </message>
     <message>
         <source>Reference</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru</translation>
     </message>
     <message>
         <source>Refers_to</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru_alır</translation>
     </message>
     <message>
         <source>is a reference to a cell containing a phonetic string.</source>
@@ -11170,7 +11170,7 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>New_text</source>
-        <translation type="unfinished"/>
+        <translation>Yeni_metin</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
@@ -11205,7 +11205,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>Active_cell</source>
-        <translation type="unfinished"/>
+        <translation>Etkin_hücre</translation>
     </message>
     <message>
         <source>is the criterion value, a number between 0 and 1.</source>
@@ -11229,7 +11229,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>Key_text</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar_metin</translation>
     </message>
     <message>
         <source>is the text containing the text you want to find.</source>
@@ -11295,11 +11295,11 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>Argument_text</source>
-        <translation type="unfinished"/>
+        <translation>Bağımsız_değişken_metin</translation>
     </message>
     <message>
         <source>Argument_help</source>
-        <translation type="unfinished"/>
+        <translation>Bağımsız_değişken_yardım</translation>
     </message>
     <message>
         <source>is the positive real number for which you want the logarithm.</source>
@@ -11355,7 +11355,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>Actions Options</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Seçenekleri</translation>
     </message>
     <message>
         <source>Protect 
@@ -11373,7 +11373,7 @@ Koru</translation>
     </message>
     <message>
         <source>Finance_rate</source>
-        <translation type="unfinished"/>
+        <translation>Finansman_faiz_oranı</translation>
     </message>
     <message>
         <source>Sheet Background</source>
@@ -11381,7 +11381,7 @@ Koru</translation>
     </message>
     <message>
         <source>Serial_number</source>
-        <translation type="unfinished"/>
+        <translation>Seri_numarası</translation>
     </message>
     <message>
         <source>Font size must be between 1 and 409 points.</source>
@@ -22454,7 +22454,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>AMORDEGRC(cost, date_purchased, first_period, salvage, period, rate, [basis])</source>
-        <translation>AMORDEGRC(maliyet, satın_alma_tarihi, ilk_dönem, kurtarılan, dönem, oran, [temel])</translation>
+        <translation>AMORDEGRC(maliyet, alış_tarihi, ilk_dönem, hurda, dönem, oran, [temel])</translation>
     </message>
     <message>
         <source>AVERAGEIF(range,criteria,average_range)</source>
@@ -23115,7 +23115,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ADDRESS(row_num,column_num,abs_num,a1,sheet_text)</source>
-        <translation>ADRES(satır_num,sütun_num,mutlak_sayı,a1,sayfa_metni)</translation>
+        <translation>ADRES(satır_sayısı,sütun_sayısı,mutlak_sayı,a1,sayfa_metni)</translation>
     </message>
     <message>
         <source>Returns a random number greater than or equal to 0 and less than 1, evenly distributed (changes on recalculation).</source>
@@ -23176,7 +23176,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>AMORLINC(cost, date_purchased, first_period, salvage, period, rate, [basis])</source>
-        <translation>AMORLINC(maliyet, satın_alma_tarihi, ilk_dönem, kurtarılan, dönem, oran, [temel])</translation>
+        <translation>AMORLINC(maliyet, alış_tarihi, ilk_dönem, hurda, dönem, oran, [temel])</translation>
     </message>
     <message>
         <source>YEARFRAC(start_date,end_date,basis)</source>
@@ -23562,7 +23562,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
+        <translation>KUPONSAYI(düzenleme, vade, sıklık, [temel])</translation>
     </message>
     <message>
         <source>NEXT()</source>
@@ -23570,7 +23570,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Searches another text string&apos;s starting location in one text string. FINDB is case-sensitive and doesn&apos;t allow to use wildcard. Use with double-byte characters(DBCS).</source>
-        <translation type="unfinished"/>
+        <translation>Bir metin dizgisinde başka bir metin dizesinin başlangıç ​​konumunu arar. BULB büyük / küçük harf duyarlıdır ve joker karakter kullanımına izin vermez. Çift baytlık karakterlerle (DBCS) kullanın.</translation>
     </message>
     <message>
         <source>FONT.PROPERTIES(font, font_style, size, strikethrough, superscript, subscript, outline, shadow, underline, color, normal, background, start_char, char_count)</source>
@@ -24494,7 +24494,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
-        <translation type="unfinished"/>
+        <translation>Mutabakat ve vade tarihleri arasındaki ödenebilir kupon sayısını döndürür.</translation>
     </message>
     <message>
         <source>TODAY()</source>
@@ -25990,11 +25990,11 @@ Toplam</translation>
     </message>
     <message>
         <source>New Name</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Ad</translation>
     </message>
     <message>
         <source>Defined Names</source>
-        <translation type="unfinished"/>
+        <translation>Tanımlı Adlar</translation>
     </message>
     <message>
         <source>Date and
@@ -26455,11 +26455,11 @@ Trig</translation>
     </message>
     <message>
         <source>New Name</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Ad</translation>
     </message>
     <message>
         <source>Defined Names</source>
-        <translation type="unfinished"/>
+        <translation>Tanımlı Adlar</translation>
     </message>
     <message>
         <source>Date and
@@ -41192,11 +41192,11 @@ Birleştir</translation>
     <name>KxWatchWindowModel</name>
     <message>
         <source>Book</source>
-        <translation type="unfinished"/>
+        <translation>Kitap</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"/>
+        <translation>Hücre</translation>
     </message>
     <message>
         <source>Name</source>
@@ -41298,7 +41298,7 @@ Birleştir</translation>
     <name>KxCirculareReferencesDlg</name>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"/>
+        <translation>Hücre</translation>
     </message>
     <message>
         <source>Sheet</source>
@@ -41306,14 +41306,14 @@ Birleştir</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Kitabı</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFindReplace</name>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"/>
+        <translation>Hücre</translation>
     </message>
     <message>
         <source>Find</source>
@@ -41421,7 +41421,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -45522,7 +45522,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -46215,15 +46215,15 @@ OLE DB Query</source>
     </message>
     <message>
         <source>&amp;Table Names</source>
-        <translation type="unfinished"/>
+        <translation>Tabl&amp;o Adları</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Defined &amp;Names</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tanımlı Adlar</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -48051,7 +48051,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -51567,11 +51567,11 @@ Document</source>
     </message>
     <message>
         <source>C&amp;omment:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Açıklama:</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Kitabı</translation>
     </message>
     <message>
         <source>&amp;Command</source>
@@ -53001,7 +53001,7 @@ Result</source>
     </message>
     <message>
         <source>&amp;Reference:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başvuru:</translation>
     </message>
     <message>
         <source>E&amp;valuation:</source>
@@ -53489,7 +53489,7 @@ Item Labels</source>
     </message>
     <message>
         <source>Defined Names</source>
-        <translation type="unfinished"/>
+        <translation>Tanımlı Adlar</translation>
     </message>
     <message>
         <source>&lt;&lt;Selection in document&gt;&gt;</source>
@@ -55942,7 +55942,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     </message>
     <message>
         <source>Circular Reference</source>
-        <translation type="unfinished"/>
+        <translation>Döngüsel Başvuru</translation>
     </message>
 </context>
 <context>
@@ -56224,7 +56224,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Fraction</source>
-        <translation type="unfinished"/>
+        <translation>Kesir</translation>
     </message>
     <message>
         <source>Radical</source>
@@ -56232,7 +56232,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"/>
+        <translation>Denklem</translation>
     </message>
     <message>
         <source>Bracket</source>
@@ -56240,7 +56240,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <source>Function</source>
@@ -56709,7 +56709,7 @@ Please unfreeze pane.</source>
     <name>KxEtLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Yok</translation>
     </message>
 </context>
 <context>
@@ -56728,7 +56728,7 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Kitabı</translation>
     </message>
     <message>
         <source>The name is invalid or the formula contains an error.</source>
