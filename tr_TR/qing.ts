@@ -7791,7 +7791,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>(unknown)</source>
-        <translation type="unfinished"/>
+        <translation>(Bilinmeyen)</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support removing files or directories</source>
