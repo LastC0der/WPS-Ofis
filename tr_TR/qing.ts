@@ -4925,7 +4925,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"/>
+        <translation>Değer</translation>
     </message>
 </context>
 <context>
