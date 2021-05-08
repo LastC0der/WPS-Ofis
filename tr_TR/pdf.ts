@@ -621,7 +621,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>waterMark</source>
-        <translation type="unfinished"/>
+        <translation>Filigran</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -8534,7 +8534,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Unit</source>
-        <translation type="unfinished"/>
+        <translation>Birim</translation>
     </message>
     <message>
         <source>Zoom</source>
