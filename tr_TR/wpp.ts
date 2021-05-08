@@ -401,7 +401,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>ch</source>
-        <translation type="unfinished"/>
+        <translation>kr</translation>
     </message>
     <message>
         <source>...</source>
@@ -28570,7 +28570,7 @@ Effects</source>
     </message>
     <message>
         <source>Charts</source>
-        <translation type="unfinished"/>
+        <translation>Grafikler</translation>
     </message>
     <message>
         <source>Others</source>
@@ -29455,7 +29455,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -33632,14 +33632,14 @@ Sure to close?</source>
     <name>ongmani.ct_printpreview.PrevPrintHorizontal</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_printpreview.PrevPrintVertical</name>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey</translation>
     </message>
 </context>
 </TS>
