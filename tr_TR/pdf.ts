@@ -8566,7 +8566,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Pano</translation>
     </message>
     <message>
         <source>EditImage</source>
@@ -8578,7 +8578,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -9028,7 +9028,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9870,7 +9870,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Yatay</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -9963,7 +9963,7 @@ Ekran</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Dikey</translation>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Cancel Splitting</source>
