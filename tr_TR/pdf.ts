@@ -2790,11 +2790,11 @@ Please batches operations</source>
     <name>KxPdfPageMarginDialog</name>
     <message>
         <source>CM</source>
-        <translation>CM</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>MM</source>
-        <translation>MM</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2806,11 +2806,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>INCH</source>
-        <translation type="unfinished"/>
+        <translation>inç</translation>
     </message>
     <message>
         <source>left</source>
-        <translation>sol</translation>
+        <translation>Sol</translation>
     </message>
     <message>
         <source>Restore Default</source>
@@ -2818,11 +2818,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>PIXEL</source>
-        <translation type="unfinished"/>
+        <translation>piksel</translation>
     </message>
     <message>
         <source>right</source>
-        <translation>sağ</translation>
+        <translation>Sağ</translation>
     </message>
     <message>
         <source>Delete Pages</source>
@@ -2830,7 +2830,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>bottom</source>
-        <translation>alt</translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>should not be smaller than</source>
@@ -5241,11 +5241,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>VerificationSignature</source>
-        <translation type="unfinished"/>
+        <translation>İmzayı Doğrula</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir</translation>
     </message>
     <message>
         <source>Paste</source>
