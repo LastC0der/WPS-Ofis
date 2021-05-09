@@ -5773,7 +5773,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Delete Column</source>
-        <translation type="unfinished"/>
+        <translation>Sütunu Sil</translation>
     </message>
     <message>
         <source>Column Insert</source>
@@ -6759,11 +6759,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Fv</source>
-        <translation type="unfinished"/>
+        <translation>Gd</translation>
     </message>
     <message>
         <source>Pv</source>
-        <translation type="unfinished"/>
+        <translation>Bd</translation>
     </message>
     <message>
         <source>To</source>
@@ -6787,7 +6787,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Per</source>
-        <translation type="unfinished"/>
+        <translation>Dönem</translation>
     </message>
     <message>
         <source>Pmt</source>
@@ -6795,7 +6795,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Ref</source>
-        <translation type="unfinished"/>
+        <translation>Başv</translation>
     </message>
     <message>
         <source>Top</source>
@@ -6807,7 +6807,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>any</source>
-        <translation type="unfinished"/>
+        <translation>herhangi</translation>
     </message>
     <message>
         <source>μ0</source>
@@ -6835,7 +6835,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Cost</source>
-        <translation type="unfinished"/>
+        <translation>Maliyet</translation>
     </message>
     <message>
         <source>Days</source>
@@ -6875,11 +6875,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Nper</source>
-        <translation type="unfinished"/>
+        <translation>Dönem_sayısı</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Oran</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -7001,7 +7001,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Basis</source>
-        <translation type="unfinished"/>
+        <translation>Temel</translation>
     </message>
     <message>
         <source>Array</source>
@@ -7037,7 +7037,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Guess</source>
-        <translation type="unfinished"/>
+        <translation>Tahmin</translation>
     </message>
     <message>
         <source>I_num</source>
@@ -7131,7 +7131,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>X_num</source>
-        <translation type="unfinished"/>
+        <translation>X_sayısı</translation>
     </message>
     <message>
         <source>Number_chosen</source>
@@ -7139,7 +7139,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Y_num</source>
-        <translation type="unfinished"/>
+        <translation>Y_sayısı</translation>
     </message>
     <message>
         <source>binary number</source>
@@ -7340,7 +7340,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>Start_period</source>
         <comment>TX_ParaInfo_212</comment>
-        <translation type="unfinished"/>
+        <translation>Başlangıç_dönemi</translation>
     </message>
     <message>
         <source>is the total number of payment periods for the loan or investment.</source>
@@ -7402,7 +7402,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the tangent of the angle you want.</source>
-        <translation type="unfinished"/>
+        <translation>istediğiniz açının tanjantı.</translation>
     </message>
     <message>
         <source>Active document is not a worksheet or in unprotected state.</source>
@@ -7448,11 +7448,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the initial cost of the asset.</source>
-        <translation type="unfinished"/>
+        <translation>malın değeri.</translation>
     </message>
     <message>
         <source>Lookup_value</source>
-        <translation type="unfinished"/>
+        <translation>Aranan_değer</translation>
     </message>
     <message>
         <source>No Value</source>
@@ -7492,7 +7492,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
-        <translation type="unfinished"/>
+        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 30 arasındaki metin dizesidir ve metin dizeleri, sayı veya bir hücre aralığı olabilir.</translation>
     </message>
     <message>
         <source>probability density function</source>
@@ -7516,7 +7516,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>Transaction Date</source>
-        <translation type="unfinished"/>
+        <translation>Mutabakat</translation>
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
@@ -7645,7 +7645,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>logical values</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal</translation>
     </message>
     <message>
         <source>is a number format in text form from the Category box on the Number tab in the Format Cells dialog box (not General).</source>
@@ -7721,7 +7721,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the number 1 to 11 that specifies the summary function for the subtotal.</source>
-        <translation type="unfinished"/>
+        <translation>alt toplamı hesaplamak için kullanılan özet işlevini belirten 1-11 arasındaki sayı.</translation>
     </message>
     <message>
         <source>0 indicates showing clipped image
@@ -7741,7 +7741,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the sine of the angle you want and must be from -1 to 1.</source>
-        <translation type="unfinished"/>
+        <translation>istediğiniz açının sinüs değeri, -1 ile 1 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>is the present value: the total amount that a series of future payments is worth now.</source>
@@ -7860,7 +7860,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>First_period</source>
-        <translation type="unfinished"/>
+        <translation>İlk_dönem</translation>
     </message>
     <message>
         <source>is a number, a formula that evaluates to a numeric value, or a reference to a cell containing a numeric value.</source>
@@ -8100,7 +8100,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Dialog_Ref</source>
-        <translation type="unfinished"/>
+        <translation>Dlg_başv</translation>
     </message>
     <message>
         <source>is the existing text you want to replace. If the case of Old_text does not match the case of text, SUBSTITUTE not replace the text.</source>
@@ -8153,7 +8153,7 @@ Aktar</translation>
     <message>
         <source>Sheet_text</source>
         <comment>TX_ParaInfo_289</comment>
-        <translation type="unfinished"/>
+        <translation>Sayfa_metni</translation>
     </message>
     <message>
         <source>Average_range</source>
@@ -8174,7 +8174,7 @@ Aktar</translation>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
         <comment>TX_ParaDesc_567</comment>
-        <translation type="unfinished"/>
+        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 30 arasındaki metin dizesidir ve metin dizeleri, sayı veya bir hücre aralığı olabilir.</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -8280,7 +8280,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is a series of cash flows that correspond to a schedule of payments in dates.</source>
-        <translation type="unfinished"/>
+        <translation>tarihlerdeki ödeme planına karşılık gelen nakit akışı serisi.</translation>
     </message>
     <message>
         <source>Bytes number</source>
@@ -8391,7 +8391,7 @@ Aktar</translation>
     <message>
         <source>End_period</source>
         <comment>TX_ParaInfo_213</comment>
-        <translation type="unfinished"/>
+        <translation>Bitiş_dönemi</translation>
     </message>
     <message>
         <source>Right section </source>
@@ -8681,12 +8681,12 @@ Aktar</translation>
     <message>
         <source>Ref</source>
         <comment>TX_ParaInfo_056</comment>
-        <translation type="unfinished"/>
+        <translation>Başv</translation>
     </message>
     <message>
         <source>Ref</source>
         <comment>TX_ParaInfo_057</comment>
-        <translation type="unfinished"/>
+        <translation>Başv</translation>
     </message>
     <message>
         <source>is a number value = 0; lst quartile = 1; median value = 2; 3rd quartile = 3; maximum value = 4.</source>
@@ -8827,7 +8827,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Num_digits</source>
-        <translation type="unfinished"/>
+        <translation>Sayı_rakamlar</translation>
     </message>
     <message>
         <source>Suffix</source>
@@ -8847,7 +8847,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Lookup_vector</source>
-        <translation type="unfinished"/>
+        <translation>Aranan_vektör</translation>
     </message>
     <message>
         <source>is the multiple to which you want to round number.</source>
@@ -9056,7 +9056,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>End_period</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş_dönemi</translation>
     </message>
     <message>
         <source>Help_topic</source>
@@ -9069,7 +9069,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the text you want to convert to single-byte, or reference to text cell.</source>
-        <translation type="unfinished"/>
+        <translation>değiştirmek istediğiniz metin veya değiştirmek istediğiniz metnin bulunduğu hücreye başvurudur.</translation>
     </message>
     <message>
         <source>is the second data set.</source>
@@ -9302,7 +9302,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>Row_num</source>
         <comment>TX_ParaInfo_062</comment>
-        <translation>Satır_sayısı</translation>
+        <translation>Satır_num</translation>
     </message>
     <message>
         <source>Const</source>
@@ -9486,7 +9486,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
-        <translation type="unfinished"/>
+        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 30 arasındaki metin dizesidir ve metin dizeleri, sayı veya tek hücreli başvurular olabilir.</translation>
     </message>
     <message>
         <source>is the text you want to convert to lowercase. Characters in Text that are not letters are not changed.</source>
@@ -9498,7 +9498,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>Abs_num</source>
-        <translation type="unfinished"/>
+        <translation>Mutlak_num</translation>
     </message>
     <message>
         <source>is the security&apos;s annual coupon rate.</source>
@@ -9618,7 +9618,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is any real number that you want rounded down.</source>
-        <translation type="unfinished"/>
+        <translation>aşağı yuvarlamak istediğiniz herhangi bir gerçek sayı.</translation>
     </message>
     <message>
         <source>specifies how many characters to return from Text.</source>
@@ -9672,7 +9672,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>is the row number to use in the cell reference: Row_number =1 for row</source>
-        <translation type="unfinished"/>
+        <translation>hücre başvurusunda kullanılacak satır numarası: satır 1 için, Satır_num = 1 . </translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
@@ -9701,12 +9701,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Rate</source>
         <comment>TX_ParaInfo_101</comment>
-        <translation type="unfinished"/>
+        <translation>Oran</translation>
     </message>
     <message>
         <source>Rate</source>
         <comment>TX_ParaInfo_201</comment>
-        <translation type="unfinished"/>
+        <translation>Oran</translation>
     </message>
     <message>
         <source>The real coefficient of plural</source>
@@ -9718,7 +9718,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Maturity date</source>
-        <translation type="unfinished"/>
+        <translation>Vade</translation>
     </message>
     <message>
         <source>The selection is invalid.
@@ -9821,7 +9821,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%/4 for quarterly payments at 6% APR.</source>
-        <translation type="unfinished"/>
+        <translation>dönem başına düşen faiz oranı. Örneğin, %6 yıllık faiz oranına karşılık üç aylık ödeme için %6/4 kullanın. </translation>
     </message>
     <message>
         <source>is a logical value that specifies the type of reference in Ref_text: R1C1-style = FALSE; A1-style = TRUE or omitted.</source>
@@ -9881,7 +9881,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is any real number equal to or greater than 1</source>
-        <translation type="unfinished"/>
+        <translation>1&apos;e eşit veya 1&apos;den büyük herhangi bir gerçek sayı.</translation>
     </message>
     <message>
         <source>is a number from 0 to 59 representing the second.</source>
@@ -10118,7 +10118,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Bins_array</source>
-        <translation type="unfinished"/>
+        <translation>Bölme_dizisi</translation>
     </message>
     <message>
         <source>is the value for which you want the distribution.</source>
@@ -10151,7 +10151,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Row_num</source>
-        <translation>Satır_sayısı</translation>
+        <translation>Satır_num</translation>
     </message>
     <message>
         <source>is the range of cells you want evaluated for the particular condition.</source>
@@ -10318,7 +10318,7 @@ Please check the login account. If the account is correct, please ask the docume
     </message>
     <message>
         <source>is any real number equal to or greater than 1.</source>
-        <translation type="unfinished"/>
+        <translation>1&apos;e eşit veya 1&apos;den büyük herhangi bir gerçek sayı.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
@@ -10395,7 +10395,7 @@ Please check the login account. If the account is correct, please ask the docume
     </message>
     <message>
         <source>is the security&apos;s settlement date, expressed as a serial date number.</source>
-        <translation type="unfinished"/>
+        <translation>menkul kıymetin mutabakat tarihi, tarih seri numarası cinsinden.</translation>
     </message>
     <message>
         <source>Collate</source>
@@ -10431,7 +10431,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is any real number between -1 and 1 excluding -1 and 1.</source>
-        <translation type="unfinished"/>
+        <translation>-1 ve 1 arasında (-1 ve 1 hariç) herhangi bir gerçek sayı.</translation>
     </message>
     <message>
         <source>Text</source>
@@ -10464,7 +10464,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>Macro_ref</source>
-        <translation type="unfinished"/>
+        <translation>Makro_başv</translation>
     </message>
     <message>
         <source>is the salvage value at the end of the life of the asset.</source>
@@ -10539,7 +10539,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is the cosine of the angle you want and must be from -1 to 1.</source>
-        <translation type="unfinished"/>
+        <translation>istediğiniz açının kosinüs değeri, -1 ile 1 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>is the number of degrees of freedom, a number between 1 and 10^10, excluding 10^10.</source>
@@ -10695,7 +10695,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>Number of paying interest annually</source>
-        <translation type="unfinished"/>
+        <translation>Sıklık</translation>
     </message>
     <message>
         <source>is the number of independent trials.</source>
@@ -10816,11 +10816,11 @@ Ekle</translation>
     </message>
     <message>
         <source>Ref_name</source>
-        <translation type="unfinished"/>
+        <translation>Başv_adı</translation>
     </message>
     <message>
         <source>Ref_text</source>
-        <translation type="unfinished"/>
+        <translation>Başv_metni</translation>
     </message>
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a reference to a cell, formula, or value.</source>
@@ -11042,7 +11042,7 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>Menu_ref</source>
-        <translation type="unfinished"/>
+        <translation>Menü_başv</translation>
     </message>
     <message>
         <source>Inserting cell picture will overwrite the original content in it. Continue?</source>
@@ -11094,7 +11094,7 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>Sheet_text</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa_metni</translation>
     </message>
     <message>
         <source>selects a range in Reference from which to return a value. The first area selected or entered is area 1, the second area is area 2, and so on.</source>
@@ -11213,7 +11213,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>is a reference to a cell or range of cells and can refer to multiple areas.</source>
-        <translation type="unfinished"/>
+        <translation>bir hücreye veya hücreler aralığına başvurudur ve birden fazla alana işaret edebilir.</translation>
     </message>
     <message>
         <source>Number From 1(Thur) To 7(Wed)</source>
@@ -11511,7 +11511,7 @@ Koru</translation>
     </message>
     <message>
         <source>Result_vector</source>
-        <translation type="unfinished"/>
+        <translation>Sonuç_vektör</translation>
     </message>
     <message>
         <source>Center section </source>
@@ -11724,7 +11724,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the discount rate to apply to the cash flows.</source>
-        <translation type="unfinished"/>
+        <translation>nakit akışına uygulanacak indirim oranı.</translation>
     </message>
     <message>
         <source>is the value to round.</source>
@@ -11761,7 +11761,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the x-coordinate of the point.</source>
-        <translation type="unfinished"/>
+        <translation>noktanın x-koordinatı.</translation>
     </message>
     <message>
         <source>decimal number</source>
@@ -12572,7 +12572,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Failed to delete dictionary files from disk, please delete the files manually.</source>
-        <translation type="unfinished"/>
+        <translation>Sözlük dosyaları diskten silinemedi, lütfen dosyaları el ile silin.</translation>
     </message>
     <message>
         <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
@@ -16324,7 +16324,8 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Recent Font Color</source>
@@ -17979,7 +17980,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resim Ekle</translation>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>Edit in Formula Bar</source>
@@ -19952,7 +19953,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Delete Column</source>
-        <translation type="unfinished"/>
+        <translation>Sütunu Sil</translation>
     </message>
     <message>
         <source>Delete Dialog</source>
@@ -22442,7 +22443,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the next coupon date after settlement date.</source>
-        <translation type="unfinished"/>
+        <translation>Mutabakat tarihinden sonraki kupon tarihini döndürür.</translation>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
@@ -22779,7 +22780,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ROUNDDOWN(number,num_digits)</source>
-        <translation>AŞAĞIYUVARLA(sayı,sayı_basamaklar)</translation>
+        <translation>AŞAĞIYUVARLA(sayı,sayı_rakamlar)</translation>
     </message>
     <message>
         <source>Returns the sum of the sum squares of corresponding values in two arrays.</source>
@@ -23047,7 +23048,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ISPMT(rate,per,nper,pv)</source>
-        <translation>ISPMT(oran,dönem,taksit_sayısı,bd)</translation>
+        <translation>ISPMT(oran,dönem,dönem_sayısı,bd)</translation>
     </message>
     <message>
         <source>NPV(rate,value1,value2, ...)</source>
@@ -23115,7 +23116,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ADDRESS(row_num,column_num,abs_num,a1,sheet_text)</source>
-        <translation>ADRES(satır_sayısı,sütun_sayısı,mutlak_sayı,a1,sayfa_metni)</translation>
+        <translation>ADRES(satır_num,sütun_num,mutlak_num,a1,sayfa_metni)</translation>
     </message>
     <message>
         <source>Returns a random number greater than or equal to 0 and less than 1, evenly distributed (changes on recalculation).</source>
@@ -23208,7 +23209,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>INDEX(array,row_num,column_num)</source>
-        <translation>İNDİS(dizi,satır_sayısı,sütun_sayısı)</translation>
+        <translation>İNDİS(dizi,satır_num,sütun_num)</translation>
     </message>
     <message>
         <source>SUMIF(range,criteria,sum_range)</source>
@@ -23220,7 +23221,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ROUND(number,num_digits)</source>
-        <translation>YUVARLA(sayı,sayı_basamaklar)</translation>
+        <translation>YUVARLA(sayı,sayı_rakamlar)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
@@ -23562,7 +23563,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
-        <translation>KUPONSAYI(düzenleme, vade, sıklık, [temel])</translation>
+        <translation>KUPONSAYI(mutabakat, vade, sıklık, [temel])</translation>
     </message>
     <message>
         <source>NEXT()</source>
@@ -23640,7 +23641,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PMT(rate,nper,pv,fv,type)</source>
-        <translation>DEVRESEL_ÖDEME(oran,taksit_sayısı,bd,gd,tür)</translation>
+        <translation>DEVRESEL_ÖDEME(oran,dönem_sayısı,bd,gd,tür)</translation>
     </message>
     <message>
         <source>SPELLING.CHECK(word_text, custom_dic, ignore_uppercase)</source>
@@ -23880,7 +23881,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MDURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
-        <translation type="unfinished"/>
+        <translation>MSÜRE(mutabakat,vade,kupon,getiri,sıklık,[temel])</translation>
     </message>
     <message>
         <source>Returns the exponential distribution.</source>
@@ -24032,7 +24033,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>COUPDAYS(settlement, maturity, frequency, [basis])</source>
-        <translation>KUPONGÜN(düzenleme, vade, sıklık, [temel])</translation>
+        <translation>KUPONGÜN(mutabakat, vade, sıklık, [temel])</translation>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
@@ -24100,7 +24101,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>COUPDAYSNC(settlement, maturity, frequency, [basis])</source>
-        <translation>KUPONGÜNDSK(düzenleme, vade, sıklık, [temel])</translation>
+        <translation>KUPONGÜNDSK(mutabakat, vade, sıklık, [temel])</translation>
     </message>
     <message>
         <source>Returns the F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity.</source>
@@ -24229,7 +24230,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>FV(rate,nper,pmt,pv,type)</source>
-        <translation>GD(oran,taksit_sayısı,devresel_ödeme,gd,tür)</translation>
+        <translation>GD(oran,dönem_sayısı,devresel_ödeme,gd,tür)</translation>
     </message>
     <message>
         <source>LOGINV(probability,mean,standard_dev)</source>
@@ -24322,7 +24323,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ATAN2(x_num,y_num)</source>
-        <translation>ATAN2(x_sayı,y_sayı)</translation>
+        <translation>ATAN2(x_sayısı,y_sayısı)</translation>
     </message>
     <message>
         <source>LOGNORMDIST(x,mean,standard_dev)</source>
@@ -24542,7 +24543,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PRICE(settlement,maturity,rate,yld,redemption,frequency,[basis])</source>
-        <translation>DEĞER(düzenleme,vade,oran, etiri,teminat,sıklık,[temel])</translation>
+        <translation>DEĞER(mutabakat,vade,oran, etiri,teminat,sıklık,[temel])</translation>
     </message>
     <message>
         <source>ABSREF(ref_text, reference)</source>
@@ -24618,7 +24619,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PV(rate,nper,pmt,fv,type)</source>
-        <translation>BD (oran,taksit_sayısı,devresel_ödeme,gd,tür)</translation>
+        <translation>BD (oran,dönem_sayısı,devresel_ödeme,gd,tür)</translation>
     </message>
     <message>
         <source>DELETE.MENU(bar_num, menu, submenu)</source>
@@ -24634,7 +24635,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the previous coupon date before the settlement date.</source>
-        <translation type="unfinished"/>
+        <translation>Mutabakat tarihinden önceki kupon tarihini döndürür.</translation>
     </message>
     <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
@@ -24658,11 +24659,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
-        <translation>KUPONGÜNSKT(düzenleme,vade,sıklık,[temel])</translation>
+        <translation>KUPONGÜNSKT(mutabakat, vade, sıklık, [temel])</translation>
     </message>
     <message>
         <source>COUPPCD(settlement, maturity, frequency, [basis])</source>
-        <translation>KUPONGÜNÖKT(düzenleme,vade,sıklık,[temel])</translation>
+        <translation>KUPONGÜNÖKT(mutabakat, vade,sıklık, [temel])</translation>
     </message>
     <message>
         <source>ADD.BAR(bar_num)</source>
@@ -24814,7 +24815,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ACCRINT(issue,first_interest,settlement,rate,par,frequency,basis)</source>
-        <translation>GERÇEKFAİZ(sorun,ilk_faiz,düzenleme,oran,par,sıklık,taban,hesapl_yöntemi)</translation>
+        <translation>GERÇEKFAİZ(sorun,ilk_faiz,mutabakat,oran,par,sıklık,taban,hesapl_yöntemi)</translation>
     </message>
     <message>
         <source>Rounds a number up, away from zero.</source>
@@ -25200,7 +25201,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
-        <translation>ÖDEME(düzenleme, vade, oran, pr, teminat, sıklık, [temel])</translation>
+        <translation>ÖDEME(mutabakat, vade, oran, pr, teminat, sıklık, [temel])</translation>
     </message>
     <message>
         <source>SET.NAME(name_text, value)</source>
@@ -25208,7 +25209,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ACCRINTM(issue,settlement,rate,par,basis)</source>
-        <translation>GERÇEKFAİZV(çıkış,düzenleme,oran,par,temel)</translation>
+        <translation>GERÇEKFAİZV(çıkış,mutabakat,oran,par,temel)</translation>
     </message>
     <message>
         <source>Returns text with only single spaces between words.</source>
@@ -25305,7 +25306,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>COUPDAYBS(settlement, maturity, frequency, [basis])</source>
-        <translation>KUPONGÜNBD(düzenleme, vade, sıklık, [temel])</translation>
+        <translation>KUPONGÜNBD(mutabakat, vade, sıklık, [temel])</translation>
     </message>
     <message>
         <source>Returns the Macauley modified duration for a security with an assumed par value of $100.</source>
@@ -25481,7 +25482,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IPMT(rate,per,nper,pv,fv,type)</source>
-        <translation>FAİZTUTARI(oran, dönem,taksit_sayısı,bd,gd,tür)</translation>
+        <translation>FAİZTUTARI(oran, dönem,dönem_sayısı,bd,gd,tür)</translation>
     </message>
     <message>
         <source>IFS(logical_test,value_if_true,...)</source>
@@ -25757,7 +25758,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PPMT(rate,per,nper,pv,fv,type)</source>
-        <translation>ANA_PARA_ÖDEMESİ(oran,dönem,taksit_sayısı,bd,gd,tür)</translation>
+        <translation>ANA_PARA_ÖDEMESİ(oran,dönem,dönem_sayısı,bd,gd,tür)</translation>
     </message>
     <message>
         <source>Rounds a number to the specified number of decimals in decimal format and returns the result as text with or without commas.</source>
@@ -35990,7 +35991,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resim Ekle</translation>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -36058,7 +36059,8 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -36449,7 +36451,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -36473,7 +36475,8 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -37294,7 +37297,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resim Ekle</translation>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -37326,7 +37329,8 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -37702,7 +37706,8 @@ Boyutu</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -38577,7 +38582,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resim Ekle</translation>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -39706,7 +39711,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -39729,7 +39734,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -39752,7 +39757,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -39775,7 +39780,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Failed to delete dictionary files from disk, please delete the files manually.</source>
-        <translation type="unfinished"/>
+        <translation>Sözlük dosyaları diskten silinemedi, lütfen dosyaları el ile silin.</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. This file already exists.</source>
@@ -39847,11 +39852,11 @@ Birleştir</translation>
     </message>
     <message>
         <source>Delete from &amp;Disk</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diskten Sil</translation>
     </message>
     <message>
         <source>Delete from &amp;List</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Listeden Sil</translation>
     </message>
     <message>
         <source>Celar failed.</source>
@@ -42409,7 +42414,8 @@ Item Labels</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
@@ -44345,7 +44351,7 @@ Center</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resim Ekle</translation>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>Add Picture Frame</source>
@@ -45353,7 +45359,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resim Ekle</translation>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>Control 
@@ -45381,7 +45387,8 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -46148,7 +46155,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yenile</translation>
     </message>
     <message>
         <source>M&amp;anage Set...</source>
@@ -47703,7 +47710,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation type="unfinished"/>
+        <translation>Listeden &amp;Sil</translation>
     </message>
 </context>
 <context>
@@ -51002,7 +51009,7 @@ Düzenleyicisi</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -53418,7 +53425,7 @@ Item Labels</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resim Ekle</translation>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
@@ -54485,7 +54492,7 @@ Summary</source>
     <name>classics.proxycommands</name>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resim Ekle</translation>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -56828,7 +56835,7 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>File Path:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Yolu:</translation>
     </message>
     <message>
         <source>Please add workbook</source>
