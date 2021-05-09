@@ -7946,7 +7946,7 @@ to
     </message>
     <message>
         <source>Operation hint</source>
-        <translation>Operation hint</translation>
+        <translation>Operation Failed</translation>
     </message>
     <message>
         <source>Backup fail</source>
@@ -8904,7 +8904,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Operation hint</source>
-        <translation>Operation hint</translation>
+        <translation>Operation Successed</translation>
     </message>
     <message>
         <source>Tencent Backup success</source>
