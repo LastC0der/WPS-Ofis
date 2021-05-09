@@ -1062,6 +1062,14 @@ Easy mobile office.</source>
         <translation>Забыли пароль?</translation>
     </message>
     <message>
+        <source>Continue with Facebook</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Don&apos;t have an account?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Invalid argument</source>
         <translation>Недопустимый аргумент</translation>
     </message>
@@ -1130,6 +1138,10 @@ Easy mobile office.</source>
         <translation>Регистрация с помощью электронной почты</translation>
     </message>
     <message>
+        <source>Continue with Google</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>User name can&apos;t be pure whitespace</source>
         <translation>Имя пользователя не может состоять исключительно из пробелов</translation>
     </message>
@@ -1170,6 +1182,10 @@ Easy mobile office.</source>
         <translation>Отсутствует имя пользователя</translation>
     </message>
     <message>
+        <source>Continue with Twitter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>No account?</source>
         <translation>Нет учетной записи?</translation>
     </message>
@@ -1186,6 +1202,10 @@ Easy mobile office.</source>
         <translation>Войти</translation>
     </message>
     <message>
+        <source>Continue with Dropbox</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>User not active</source>
         <translation>Пользователь не активен</translation>
     </message>
@@ -1196,6 +1216,10 @@ Easy mobile office.</source>
     <message>
         <source>Invalid account</source>
         <translation>Недействительная учетная запись</translation>
+    </message>
+    <message>
+        <source>Continue with Email</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1216,6 +1240,10 @@ Easy mobile office.</source>
     <message>
         <source>User suspend</source>
         <translation>Полномочия пользователя приостановлены</translation>
+    </message>
+    <message>
+        <source>Create account</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User is banned</source>
