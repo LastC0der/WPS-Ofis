@@ -8284,7 +8284,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Full path:</source>
-        <translation type="unfinished"/>
+        <translation>Tam yol:</translation>
     </message>
 </context>
 <context>
@@ -8994,7 +8994,8 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -16467,7 +16468,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Delete Column</source>
-        <translation type="unfinished"/>
+        <translation>Sütunu Sil</translation>
     </message>
     <message>
         <source>Format Error Bars</source>
@@ -21579,7 +21580,8 @@ Changes</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -31140,7 +31142,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>编辑字典</source>
-        <translation type="unfinished"/>
+        <translation>Sözlüğü Düzenle</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -31904,7 +31906,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -31932,7 +31934,8 @@ Kaydır</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -32470,7 +32473,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
@@ -32526,7 +32529,8 @@ Kaydır</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -32538,7 +32542,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Çevrimiçi Resim</translation>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -32658,7 +32662,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -32965,7 +32969,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -33001,7 +33005,8 @@ Boyutu</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -33153,7 +33158,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -34080,7 +34085,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
@@ -34124,7 +34129,8 @@ Kaydır</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -34136,7 +34142,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -34264,7 +34270,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -34535,7 +34541,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -34571,7 +34577,8 @@ Boyutu</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -34587,7 +34594,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -34727,7 +34734,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -36567,7 +36574,8 @@ Pages</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>SmartArt</source>
@@ -36947,7 +36955,8 @@ Break</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -37550,11 +37559,12 @@ Sonu</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
     <message>
         <source>Breaks</source>
@@ -37642,7 +37652,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -38458,7 +38468,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -41925,7 +41935,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"/>
+        <translation>Yol:</translation>
     </message>
     <message>
         <source>Disa&amp;ble</source>
@@ -41953,7 +41963,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source> Full path: </source>
-        <translation type="unfinished"/>
+        <translation> Tam yol: </translation>
     </message>
     <message>
         <source>Normal</source>
@@ -42048,7 +42058,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"/>
+        <translation>Yol:</translation>
     </message>
     <message>
         <source>&amp;Select a schema:</source>
@@ -44613,7 +44623,8 @@ Sonu</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>SmartArt</source>
@@ -44793,7 +44804,7 @@ Number</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim Ekle</translation>
     </message>
 </context>
 <context>
@@ -45185,7 +45196,8 @@ Header</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Edit Footer</source>
@@ -45465,7 +45477,8 @@ Changes</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Word
@@ -45594,7 +45607,8 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Next Header</source>
@@ -47649,7 +47663,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
@@ -48750,7 +48764,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Full path: </source>
-        <translation type="unfinished"/>
+        <translation>Tam yol: </translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
@@ -48801,7 +48815,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Full path: </source>
-        <translation type="unfinished"/>
+        <translation>Tam yol: </translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
