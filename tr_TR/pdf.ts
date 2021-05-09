@@ -3666,7 +3666,7 @@ Inserted pages must delete by yourself.</source>
     </message>
     <message>
         <source>File Path:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Yolu:</translation>
     </message>
     <message>
         <source>Page Size:</source>
@@ -8058,7 +8058,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"/>
+        <translation>Dönem</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -8121,11 +8121,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Cancle(C)</source>
-        <translation type="unfinished"/>
+        <translation>İ&amp;ptal</translation>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"/>
+        <translation>Dönem</translation>
     </message>
     <message>
         <source>Verify the signature result</source>
@@ -8152,7 +8152,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"/>
+        <translation>Dönem</translation>
     </message>
     <message>
         <source>Signature property</source>
@@ -9294,7 +9294,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Oran</translation>
     </message>
     <message>
         <source>Cancle</source>
