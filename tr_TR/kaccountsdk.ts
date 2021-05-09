@@ -1055,11 +1055,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Facebook</source>
-        <translation type="unfinished"/>
+        <translation>Facebook ile devam et</translation>
     </message>
     <message>
         <source>Don&apos;t have an account?</source>
-        <translation type="unfinished"/>
+        <translation>Hesabınız yok mu?</translation>
     </message>
     <message>
         <source>Invalid argument</source>
