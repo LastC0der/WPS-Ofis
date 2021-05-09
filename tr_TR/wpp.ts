@@ -3427,7 +3427,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"/>
+        <translation>Yol:</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -15004,7 +15004,7 @@ Master</source>
     </message>
     <message>
         <source>Delete Column</source>
-        <translation type="unfinished"/>
+        <translation>Sütunu Sil</translation>
     </message>
     <message>
         <source>Extract Text in Picture</source>
@@ -21003,7 +21003,7 @@ Boyacısı</translation>
     <name>KxCustomShowsDlg</name>
     <message>
         <source>%1%2</source>
-        <translation type="unfinished"/>
+        <translation>%1%2</translation>
     </message>
     <message>
         <source>Copy %1 of </source>
@@ -21030,7 +21030,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>(%1) </source>
-        <translation type="unfinished"/>
+        <translation>(%1) </translation>
     </message>
     <message>
         <source>You must name your custom show.</source>
@@ -21053,7 +21053,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>编辑字典</source>
-        <translation type="unfinished"/>
+        <translation>Sözlüğü Düzenle</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
@@ -21263,7 +21263,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dikey</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
@@ -21306,7 +21306,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -21688,7 +21688,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
@@ -22522,7 +22522,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -22530,7 +22530,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Efektleri</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -29463,7 +29463,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>I like the Student Tools, because...</source>
@@ -29479,7 +29479,8 @@ Yapısı</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Images</source>
@@ -31779,7 +31780,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Full path: </source>
-        <translation type="unfinished"/>
+        <translation>Tam yol: </translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
