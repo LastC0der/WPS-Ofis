@@ -1064,6 +1064,14 @@ Easy mobile office.</source>
         <translation>Zapomnij hasło</translation>
     </message>
     <message>
+        <source>Continue with Facebook</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Don&apos;t have an account?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Invalid argument</source>
         <translation>Błędny argument</translation>
     </message>
@@ -1132,6 +1140,10 @@ Easy mobile office.</source>
         <translation>Zarejestruj się za pomocą adresu e-mail</translation>
     </message>
     <message>
+        <source>Continue with Google</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>User name can&apos;t be pure whitespace</source>
         <translation>Spacja nie może być nazwą użytkownika</translation>
     </message>
@@ -1172,6 +1184,10 @@ Easy mobile office.</source>
         <translation>Brak nazwy użytkownika</translation>
     </message>
     <message>
+        <source>Continue with Twitter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>No account?</source>
         <translation>Brak konta?</translation>
     </message>
@@ -1188,6 +1204,10 @@ Easy mobile office.</source>
         <translation>Zaloguj się</translation>
     </message>
     <message>
+        <source>Continue with Dropbox</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>User not active</source>
         <translation>Użytkownik jest nieaktywny</translation>
     </message>
@@ -1198,6 +1218,10 @@ Easy mobile office.</source>
     <message>
         <source>Invalid account</source>
         <translation>Nieprawidłowe konto</translation>
+    </message>
+    <message>
+        <source>Continue with Email</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1218,6 +1242,10 @@ Easy mobile office.</source>
     <message>
         <source>User suspend</source>
         <translation>Użytkownik zawieszony</translation>
+    </message>
+    <message>
+        <source>Create account</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User is banned</source>
