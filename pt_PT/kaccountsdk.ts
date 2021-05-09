@@ -1065,11 +1065,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Facebook</source>
-        <translation type="unfinished"/>
+        <translation>Continuar com o Facebook</translation>
     </message>
     <message>
         <source>Don&apos;t have an account?</source>
-        <translation type="unfinished"/>
+        <translation>Não tenho uma conta?</translation>
     </message>
     <message>
         <source>Invalid argument</source>
@@ -1141,7 +1141,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Google</source>
-        <translation type="unfinished"/>
+        <translation>Continuar com o Google</translation>
     </message>
     <message>
         <source>User name can&apos;t be pure whitespace</source>
@@ -1185,7 +1185,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Twitter</source>
-        <translation type="unfinished"/>
+        <translation>Continuar com o Twitter</translation>
     </message>
     <message>
         <source>No account?</source>
@@ -1205,7 +1205,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Dropbox</source>
-        <translation type="unfinished"/>
+        <translation>Continuar com o Dropbox</translation>
     </message>
     <message>
         <source>User not active</source>
@@ -1221,7 +1221,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Email</source>
-        <translation type="unfinished"/>
+        <translation>Continuar com o E-mail</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1245,7 +1245,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Create account</source>
-        <translation type="unfinished"/>
+        <translation>Criar conta</translation>
     </message>
     <message>
         <source>User is banned</source>
