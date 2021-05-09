@@ -3494,7 +3494,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Launch Mail</source>
@@ -5951,7 +5951,8 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Hollow Arc</source>
@@ -11713,7 +11714,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Delete from List</source>
-        <translation type="unfinished"/>
+        <translation>Listeden Sil</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -12822,7 +12823,8 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_InsertPicture</comment>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Paragraph Style</source>
@@ -12918,7 +12920,8 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
@@ -13908,7 +13911,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_KSO_Cmd_InsertPictureFromFile</comment>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -18255,7 +18259,7 @@ Check path and filename.</source>
     <name>QFontDatabase</name>
     <message>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>Herhangi</translation>
     </message>
     <message>
         <source>Lao</source>
@@ -19638,7 +19642,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>No Guesses Found</source>
-        <translation type="unfinished"/>
+        <translation>Tahmin Bulunamadı</translation>
     </message>
     <message>
         <source>Open Link</source>
@@ -24396,7 +24400,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"/>
+        <translation>Dönem</translation>
     </message>
     <message>
         <source>Forecast</source>
@@ -24765,7 +24769,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
@@ -30982,19 +30986,19 @@ yazılamadı</translation>
     <name>KxTabTrustCenter</name>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"/>
+        <translation>Yol:</translation>
     </message>
     <message>
         <source>Trusted Documents</source>
-        <translation type="unfinished"/>
+        <translation>Güvenilir Belgeler</translation>
     </message>
     <message>
         <source>Sub Folders:</source>
-        <translation type="unfinished"/>
+        <translation>Alt Klasörler:</translation>
     </message>
     <message>
         <source>&amp;Auto add as Trusted document.</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Güvenilir belge olarak otomatik ekleyin.</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -31010,7 +31014,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>&amp;Add new location...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeni konum ekle...</translation>
     </message>
     <message>
         <source>User Locations:</source>
@@ -31018,15 +31022,15 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Disable Trusted &amp;Documents and Objects</source>
-        <translation type="unfinished"/>
+        <translation>Güvenilir &amp;belgeleri ve nesneleri devre dışı bırakın</translation>
     </message>
     <message>
         <source>&amp;Disable all Trusted Locations</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tüm Güvenilir Konumları Devre Dışı Bırak</translation>
     </message>
     <message>
         <source>Add Objects with &amp;Hyperlink as Trusted Objects</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Köprülü nesnelere güven</translation>
     </message>
     <message>
         <source>&amp;Edit link...</source>
@@ -31042,11 +31046,11 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Trusted Documents open without any security prompts for macros, ActiveX and hyperlinks.Make sure you trust the source.</source>
-        <translation type="unfinished"/>
+        <translation>Güvenilir Belgeler, makrolar, ActiveX ve köprüler için herhangi bir güvenlik istemine gerek kalmadan açılır. Kaynağa güvendiğinizden emin olun.</translation>
     </message>
     <message>
         <source>Clear all Trusted Documents so that they are no longer trusted.</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Güvenilir Belgeleri artık güvenilmemeleri için temizleyin.</translation>
     </message>
     <message>
         <source>File link settings</source>
@@ -31579,7 +31583,7 @@ Yazdırmaya devam edilsin mi?</translation>
     <name>KxTrustCenterTab</name>
     <message>
         <source>Trusted Documents</source>
-        <translation type="unfinished"/>
+        <translation>Güvenilir Belgeler</translation>
     </message>
     <message>
         <source>Modify Trusted Location</source>
@@ -34043,7 +34047,7 @@ Please check network</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Disconnect</source>
@@ -34268,7 +34272,7 @@ Please check network</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Disconnect</source>
@@ -35943,7 +35947,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgTrustedLocation</name>
     <message>
         <source>&amp;Path:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yol:</translation>
     </message>
     <message>
         <source>Dialog</source>
