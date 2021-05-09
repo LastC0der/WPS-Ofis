@@ -318,7 +318,7 @@
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Launch Mail</source>
@@ -2113,7 +2113,7 @@ Check path and filename.</source>
     <name>QFontDatabase</name>
     <message>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>Herhangi</translation>
     </message>
     <message>
         <source>Lao</source>
@@ -2586,7 +2586,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>No Guesses Found</source>
-        <translation type="unfinished"/>
+        <translation>Tahmin Bulunamadı</translation>
     </message>
     <message>
         <source>Open Link</source>
