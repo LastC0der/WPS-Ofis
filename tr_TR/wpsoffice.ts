@@ -1755,7 +1755,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Page setup</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma Ayarı</translation>
     </message>
     <message>
         <source>Show overview of all pages</source>
