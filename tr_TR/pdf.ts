@@ -5881,7 +5881,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dosya Paylaşımı</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -6949,7 +6949,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dosya Paylaşımı</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Report File</source>
@@ -7182,11 +7182,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>member Center</source>
-        <translation type="unfinished"/>
+        <translation>Üye Merkezi</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dosya Paylaşımı</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Page Tools</source>
@@ -7194,7 +7194,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Menu Tools</source>
-        <translation type="unfinished"/>
+        <translation>Araçlar</translation>
     </message>
     <message>
         <source>Tab_Home</source>
@@ -7286,7 +7286,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Global Search</source>
-        <translation type="unfinished"/>
+        <translation>Genel Arama</translation>
     </message>
     <message>
         <source>PDFToWord</source>
@@ -7651,7 +7651,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dosya Paylaşımı</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -11197,7 +11197,7 @@ Navigation</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dosya Paylaşımı</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -11237,7 +11237,7 @@ Navigation</source>
     </message>
     <message>
         <source>Global Search</source>
-        <translation type="unfinished"/>
+        <translation>Genel Arama</translation>
     </message>
     <message>
         <source>Backup Center</source>
