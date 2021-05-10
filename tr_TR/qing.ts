@@ -2576,7 +2576,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Page setup</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Yapısı</translation>
     </message>
     <message>
         <source>Show overview of all pages</source>
@@ -7359,7 +7359,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>copy link</source>
@@ -10184,7 +10184,7 @@ Time for upgrade: %1</source>
     <name>KSettingLinkWidget</name>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Setting(effective to current document)</source>
