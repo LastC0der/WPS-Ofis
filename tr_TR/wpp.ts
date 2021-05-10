@@ -5318,7 +5318,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Modify selected effects</source>
-        <translation type="unfinished"/>
+        <translation>Seçili efektleri değiştir</translation>
     </message>
     <message>
         <source>% &amp;delay between letters/words</source>
@@ -5351,11 +5351,11 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Curvy Star</source>
-        <translation type="unfinished"/>
+        <translation>Kıvrımlı Yıldız</translation>
     </message>
     <message>
         <source>Curvy Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Kıvır</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
@@ -5424,7 +5424,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Gradual</source>
-        <translation type="unfinished"/>
+        <translation>Aşamalı</translation>
     </message>
     <message>
         <source>You cannot have two custom shows with the same name. Please enter a new name.</source>
@@ -5529,7 +5529,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>Curved Square</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlatılmış Kare</translation>
     </message>
     <message>
         <source>Slider Number</source>
@@ -13707,7 +13707,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>Insert Bullet</source>
@@ -15893,7 +15893,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>NewChart Datapoint</source>
-        <translation type="unfinished"/>
+        <translation>Veri noktası</translation>
     </message>
     <message>
         <source>NewChart ErrorBar</source>
@@ -16207,7 +16207,7 @@ Slide</source>
     </message>
     <message>
         <source>Global Search</source>
-        <translation type="unfinished"/>
+        <translation>Genel Arama</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -16255,7 +16255,7 @@ Slide</source>
     </message>
     <message>
         <source>Geogebra</source>
-        <translation type="unfinished"/>
+        <translation>Geogebra</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -16317,7 +16317,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
-        <translation type="unfinished"/>
+        <translation>Wechat ile Paylaş</translation>
     </message>
     <message>
         <source>NewChart UnitLabel</source>
@@ -18015,7 +18015,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>More Color Schemes</source>
@@ -18255,7 +18255,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Global Search</source>
-        <translation type="unfinished"/>
+        <translation>Genel Arama</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -18324,7 +18324,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
-        <translation type="unfinished"/>
+        <translation>Wechat ile Paylaş</translation>
     </message>
     <message>
         <source>GroupSending</source>
@@ -18385,7 +18385,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Geogebra</source>
-        <translation type="unfinished"/>
+        <translation>Geogebra</translation>
     </message>
 </context>
 <context>
@@ -24630,7 +24630,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Modify selected effects</source>
-        <translation type="unfinished"/>
+        <translation>Seçili efektleri değiştir</translation>
     </message>
 </context>
 <context>
@@ -24826,7 +24826,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>Cloud File Guid</source>
@@ -24850,7 +24850,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="unfinished"/>
+        <translation>Laboratuvar</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -24903,7 +24903,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i geliştirmemize yardımcı olun</translation>
     </message>
     <message>
         <source>PomotedFeature</source>
@@ -24911,7 +24911,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Belgeler</translation>
     </message>
     <message>
         <source>Player Capture</source>
@@ -24923,7 +24923,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş Yedeklemeyi Görüntüle</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -24936,7 +24936,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Global Search</source>
-        <translation type="unfinished"/>
+        <translation>Genel Arama</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -24945,7 +24945,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
-        <translation type="unfinished"/>
+        <translation>Geribildirim ve Destek</translation>
     </message>
     <message>
         <source>Docer Mall</source>
@@ -25036,7 +25036,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -25052,7 +25052,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="unfinished"/>
+        <translation>Laboratuvar</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -25072,11 +25072,11 @@ Kaydet</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i geliştirmemize yardımcı olun</translation>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Belgeler</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -25098,7 +25098,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
-        <translation type="unfinished"/>
+        <translation>Geribildirim ve Destek</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
@@ -25979,7 +25979,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Please Choose a Program to Launch</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen Başlatılacak Bir Program Seçin</translation>
     </message>
     <message>
         <source>All Presentations</source>
@@ -27484,7 +27484,7 @@ Aktar</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş Yedeklemeyi Görüntüle</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -31481,7 +31481,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>Text Speech</source>
