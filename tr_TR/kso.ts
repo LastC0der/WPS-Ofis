@@ -16248,7 +16248,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Page setup</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Yapısı</translation>
     </message>
     <message>
         <source>Show overview of all pages</source>
@@ -38130,15 +38130,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Share to WeChat</source>
-        <translation type="unfinished"/>
+        <translation>Wechat ile Paylaş</translation>
     </message>
     <message>
         <source>Share to Weibo</source>
-        <translation type="unfinished"/>
+        <translation>Weibo ile Paylaş</translation>
     </message>
     <message>
         <source>Share to QZone</source>
-        <translation type="unfinished"/>
+        <translation>QZone ile Paylaş</translation>
     </message>
 </context>
 <context>
