@@ -14874,7 +14874,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -18961,7 +18961,8 @@ Yazdır</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Resimleri Sıkıştır</translation>
+        <translation>Resimleri 
+Sıkıştır</translation>
     </message>
     <message>
         <source>Endnotes Hyperlink Context Menu</source>
@@ -18973,15 +18974,15 @@ Yazdır</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>NewChart Datapoint</source>
-        <translation type="unfinished"/>
+        <translation>Veri noktası</translation>
     </message>
     <message>
         <source>NewChart ErrorBar</source>
-        <translation type="unfinished"/>
+        <translation>Hata Çubukları</translation>
     </message>
     <message>
         <source>Screen Grab Ellipse</source>
@@ -19410,7 +19411,7 @@ Screen</source>
     </message>
     <message>
         <source>Global Search</source>
-        <translation type="unfinished"/>
+        <translation>Genel Arama</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -19454,7 +19455,7 @@ Screen</source>
     </message>
     <message>
         <source>Geogebra</source>
-        <translation type="unfinished"/>
+        <translation>Geogebra</translation>
     </message>
     <message>
         <source>XMLStructure</source>
@@ -19550,7 +19551,7 @@ Screen</source>
     </message>
     <message>
         <source>Share To Wechat</source>
-        <translation type="unfinished"/>
+        <translation>Wechat ile Paylaş</translation>
     </message>
     <message>
         <source>NewChart UnitLabel</source>
@@ -20144,11 +20145,11 @@ Changes</source>
     </message>
     <message>
         <source>member Center</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Merkez</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Add Contents Entry</source>
@@ -26144,7 +26145,7 @@ Cells</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dosya Paylaşımı</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -26388,7 +26389,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Bulut Bağlantısı</translation>
+        <translation>Dosya Paylaş</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -32638,7 +32639,8 @@ Ekle</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Resimleri Sıkıştır</translation>
+        <translation>Resimleri 
+Sıkıştır</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -33126,7 +33128,8 @@ Ekle</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Resimleri Sıkıştır</translation>
+        <translation>Resimleri 
+Sıkıştır</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -34246,7 +34249,8 @@ Ekle</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Resimleri Sıkıştır</translation>
+        <translation>Resimleri 
+Sıkıştır</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -34706,7 +34710,8 @@ Ekle</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Resimleri Sıkıştır</translation>
+        <translation>Resimleri 
+Sıkıştır</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -38015,7 +38020,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -38092,23 +38097,23 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i geliştirmemize yardımcı olun</translation>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Belgeler</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş Yedeklemeyi Görüntüle</translation>
     </message>
     <message>
         <source>Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyası</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Bulut Bağlantısı</translation>
+        <translation>Dosya Paylaş</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -38116,7 +38121,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Global Search</source>
-        <translation type="unfinished"/>
+        <translation>Genel Arama</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -38124,7 +38129,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Feedback and Support</source>
-        <translation type="unfinished"/>
+        <translation>Geribildirim ve Destek</translation>
     </message>
     <message>
         <source>Docer Mall</source>
@@ -38356,7 +38361,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>More Color Schemes</source>
@@ -38448,7 +38453,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dosya Paylaşımı</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>AutoFindContents</source>
@@ -38572,7 +38577,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Global Search</source>
-        <translation type="unfinished"/>
+        <translation>Genel Arama</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -38632,7 +38637,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Share To Wechat</source>
-        <translation type="unfinished"/>
+        <translation>Wechat ile Paylaş</translation>
     </message>
     <message>
         <source>GroupSending</source>
@@ -38684,7 +38689,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Geogebra</source>
-        <translation type="unfinished"/>
+        <translation>Geogebra</translation>
     </message>
 </context>
 <context>
@@ -38711,7 +38716,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -38727,7 +38732,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="unfinished"/>
+        <translation>Laboratuvar</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -38743,19 +38748,19 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i geliştirmemize yardımcı olun</translation>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Belgeler</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş Yedeklemeyi Görüntüle</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Bulut Bağlantısı</translation>
+        <translation>Paylaşım Bağlantısı Oluştur</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -38767,7 +38772,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Feedback and Support</source>
-        <translation type="unfinished"/>
+        <translation>Geribildirim ve Destek</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -43389,11 +43394,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş Yedeklemeyi Görüntüle</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Bulut Bağlantısı</translation>
+        <translation>Dosya Paylaş</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -47651,7 +47656,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"/>
+        <translation>Bağış Yap</translation>
     </message>
     <message>
         <source>More Color Schemes</source>
