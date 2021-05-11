@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>Show Cloud Files Entry in &apos;My Computer&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyaları Girişini &apos;Bilgisayarım&apos;da Göster</translation>
     </message>
     <message>
         <source>linkText</source>
@@ -4884,7 +4884,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Computer</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayar</translation>
     </message>
     <message>
         <source>Invalid filename</source>
@@ -9932,7 +9932,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Services</source>
-        <translation type="unfinished"/>
+        <translation>Hizmetler</translation>
     </message>
     <message>
         <source>Hide %1</source>
@@ -9947,7 +9947,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>batchuploaddlg</name>
     <message>
         <source>Upload to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerine Yükle</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -9962,7 +9962,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>selectremotepath_dlg</name>
     <message>
         <source>Upload to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerine Yükle</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -9981,7 +9981,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Computer</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayar</translation>
     </message>
     <message>
         <source>Documents are automatically synchronized when opened, and you can access them on your mobile phone or other computer devices.</source>
