@@ -4717,7 +4717,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Invalid Input.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz Giriş.</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -30967,7 +30967,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"/>
+        <translation>Klasik</translation>
     </message>
     <message>
         <source>Default</source>
@@ -44990,7 +44990,7 @@ Number</source>
     </message>
     <message>
         <source>Invalid Input.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz Giriş.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -48468,7 +48468,7 @@ Try one or more of the following:
     <name>KxStyleShortCutBindDlg</name>
     <message>
         <source>Invalid Input.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz Giriş.</translation>
     </message>
     <message>
         <source>This shortcut key already exists, please set another key.</source>
