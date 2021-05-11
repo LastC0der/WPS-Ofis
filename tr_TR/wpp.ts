@@ -3562,7 +3562,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Invalid Input.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz Giriş.</translation>
     </message>
     <message>
         <source>To Right</source>
