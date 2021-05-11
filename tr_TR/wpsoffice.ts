@@ -666,7 +666,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Do you want to overwrite it?&lt;/qt&gt;</source>
@@ -1644,7 +1644,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk</translation>
     </message>
     <message>
         <source>Print all</source>
@@ -2016,7 +2016,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Dizin:</translation>
     </message>
     <message>
         <source>One directory up</source>
@@ -2598,7 +2598,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <source>Move the cursor to the previous word</source>
@@ -3005,11 +3005,11 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Dizin:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <source>%1 already exists.
