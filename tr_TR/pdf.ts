@@ -10737,11 +10737,11 @@ Navigation</source>
     <name>KxPdfAnnoColorSelector</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk</translation>
     </message>
     <message>
         <source>Recent Used</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan</translation>
     </message>
 </context>
 <context>
@@ -10752,7 +10752,7 @@ Navigation</source>
     </message>
     <message>
         <source>Recent Used</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan</translation>
     </message>
 </context>
 <context>
