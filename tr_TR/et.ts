@@ -29762,7 +29762,7 @@ Açık/Kapalı</translation>
     <name>KxImportDataFromWebDlgUI</name>
     <message>
         <source>新建Web查询</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Web sorgusu</translation>
     </message>
     <message>
         <source>&amp;Option ...</source>
@@ -29829,7 +29829,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Peru</source>
-        <translation type="unfinished"/>
+        <translation>Peru</translation>
     </message>
     <message>
         <source>Thai</source>
@@ -31990,7 +31990,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"/>
+        <translation>Limon Yeşili</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -32018,7 +32018,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Coral</source>
-        <translation type="unfinished"/>
+        <translation>Mercan</translation>
     </message>
     <message>
         <source>Green</source>
@@ -32034,7 +32034,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Periwinkle</source>
-        <translation type="unfinished"/>
+        <translation>Menekşe Rengi</translation>
     </message>
     <message>
         <source>Light Orange</source>
@@ -32094,7 +32094,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>vIvory</source>
-        <translation type="unfinished"/>
+        <translation>Fildişi</translation>
     </message>
     <message>
         <source>Gray-15%</source>
@@ -54142,7 +54142,7 @@ Result</source>
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%s&quot; içinde değişiklikler yaptınız.</translation>
     </message>
     <message>
         <source>Cancel</source>
