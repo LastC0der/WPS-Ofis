@@ -865,7 +865,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca siyah beyaz</translation>
     </message>
     <message>
         <source>Remind &amp;Me When Save</source>
@@ -976,11 +976,11 @@ For example, 1,3,5-9.</source>
     <name>classics.formatting.Num</name>
     <message>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"/>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
@@ -996,7 +996,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"/>
+        <translation>7</translation>
     </message>
     <message>
         <source>9</source>
@@ -1020,7 +1020,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>A.B.C.</source>
@@ -1047,15 +1047,15 @@ For example, 1,3,5-9.</source>
     <name>KxWppBorderWidthItem</name>
     <message>
         <source>1</source>
-        <translation type="unfinished"/>
+        <translation>1</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"/>
+        <translation>3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"/>
+        <translation>6</translation>
     </message>
     <message>
         <source>pt</source>
@@ -1075,7 +1075,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>0.25</source>
-        <translation type="unfinished"/>
+        <translation>0.25</translation>
     </message>
     <message>
         <source>0.75</source>
@@ -1083,14 +1083,14 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>2.25</source>
-        <translation type="unfinished"/>
+        <translation>2.25</translation>
     </message>
 </context>
 <context>
     <name>changeAsWpsDialog</name>
     <message>
         <source>1</source>
-        <translation type="unfinished"/>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
@@ -1098,7 +1098,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"/>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
@@ -1197,23 +1197,23 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"/>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"/>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"/>
+        <translation>4</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"/>
+        <translation>6</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"/>
+        <translation>9</translation>
     </message>
     <message>
         <source>A&amp;ll</source>
@@ -1293,7 +1293,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytlar</translation>
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
@@ -1309,7 +1309,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"/>
+        <translation>Bildiriler</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
@@ -1361,7 +1361,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dikey</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
@@ -1377,7 +1377,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca siyah beyaz</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
@@ -1408,7 +1408,7 @@ For example, 1,3,5-9.</source>
     <name>kdlgExportToPDF</name>
     <message>
         <source>1</source>
-        <translation type="unfinished"/>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
@@ -1416,15 +1416,15 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"/>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"/>
+        <translation>4</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"/>
+        <translation>6</translation>
     </message>
     <message>
         <source>9</source>
@@ -1516,7 +1516,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"/>
+        <translation>Bildiriler</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
@@ -1965,7 +1965,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>MP4 Video(*.mp4;*.m4v;*.mp4v)</source>
@@ -3508,7 +3508,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu ve Köprü Düzen Rengini Kullan</translation>
     </message>
     <message>
         <source>Don&apos;t Dim</source>
@@ -3793,7 +3793,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu Düzen Rengini Kullan</translation>
     </message>
     <message>
         <source>Magnify</source>
@@ -4551,7 +4551,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"/>
+        <translation>Bildiriler</translation>
     </message>
     <message>
         <source>Hyperlink to Other WPS Presentation Files</source>
@@ -5078,7 +5078,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Split Horizontal Out</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Dışa Doğru Bölünerek</translation>
     </message>
     <message>
         <source>Split V&amp;ertical Out</source>
@@ -5814,7 +5814,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>Blank</source>
-        <translation type="unfinished"/>
+        <translation>Boş</translation>
     </message>
     <message>
         <source>Chime</source>
@@ -7285,7 +7285,7 @@ Body: Zoom</source>
     </message>
     <message>
         <source>Split Horizontal Out</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Dışa Doğru Bölünerek</translation>
     </message>
     <message>
         <source>WPS Presentation cannot save or create this file.
@@ -16321,7 +16321,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>NewChart UnitLabel</source>
-        <translation type="unfinished"/>
+        <translation>Birim Etiketi</translation>
     </message>
     <message>
         <source>Auto Backup Menu</source>
@@ -21239,7 +21239,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"/>
+        <translation>Bildiriler</translation>
     </message>
     <message>
         <source>How to solve problems of the printer?</source>
@@ -21275,7 +21275,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca siyah beyaz</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
@@ -23007,7 +23007,7 @@ Settings</source>
     </message>
     <message>
         <source>Blank</source>
-        <translation type="unfinished"/>
+        <translation>Boş</translation>
     </message>
     <message>
         <source>Cover</source>
@@ -26231,7 +26231,7 @@ Hidden Slides</source>
     </message>
     <message>
         <source>Pure Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca Siyah Beyaz</translation>
     </message>
     <message>
         <source>Header and 
@@ -26479,7 +26479,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca Siyah Beyaz</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
@@ -27268,7 +27268,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca Siyah Beyaz</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -28598,7 +28598,7 @@ Effects</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"/>
+        <translation>Formüller</translation>
     </message>
 </context>
 <context>
@@ -29105,7 +29105,7 @@ Effects</source>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"/>
+        <translation>Bildiriler</translation>
     </message>
     <message>
         <source>All slides among this range are marked as hidden!</source>
@@ -29813,7 +29813,7 @@ Master</source>
     </message>
     <message>
         <source>Accent4</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu4</translation>
     </message>
     <message>
         <source>Accent5</source>
@@ -30250,7 +30250,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation type="unfinished"/>
+        <translation>Komut Düğmesi</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -30618,7 +30618,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"/>
+        <translation>Bildiriler</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -30701,7 +30701,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"/>
+        <translation>Bildiriler</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -30831,7 +30831,7 @@ Would you like to open this file?
     </message>
     <message>
         <source>Slide </source>
-        <translation type="unfinished"/>
+        <translation>Slayt</translation>
     </message>
     <message>
         <source>Custom Shows“</source>
@@ -31206,7 +31206,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <name>KxFormatTableDlg</name>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu ve Köprü Düzen Rengini Kullan</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
@@ -31230,11 +31230,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Geliştirilmiş Meta Dosyası</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu Düzen Rengini Kullan</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
@@ -32600,7 +32600,7 @@ Master</source>
     <name>ongmani.ct_home.Num</name>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>More Numbering</source>
@@ -32611,7 +32611,7 @@ Master</source>
     <name>ongmani.ct_slidemaster.Num</name>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>More Numbering</source>
@@ -32622,7 +32622,7 @@ Master</source>
     <name>rainbow.ct_home.Num</name>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>More Numbering</source>
