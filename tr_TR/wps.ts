@@ -19543,11 +19543,11 @@ Screen</source>
     </message>
     <message>
         <source>Lock Field</source>
-        <translation type="unfinished"/>
+        <translation>Alan Kilitle</translation>
     </message>
     <message>
         <source>NewChart AxisTitle</source>
-        <translation type="unfinished"/>
+        <translation>Eksen Başlığı</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -19555,7 +19555,7 @@ Screen</source>
     </message>
     <message>
         <source>NewChart UnitLabel</source>
-        <translation type="unfinished"/>
+        <translation>Birim Etiketi</translation>
     </message>
     <message>
         <source>Auto Backup Menu</source>
@@ -21607,12 +21607,12 @@ Ekle</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>Keep Source Formating</source>
         <comment>TxHint_PasteOriginFormatted</comment>
-        <translation type="unfinished"/>
+        <translation>Kaynak Biçimlendirmesini Koru</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -23149,7 +23149,7 @@ Protection</source>
     </message>
     <message>
         <source>Lock Field</source>
-        <translation type="unfinished"/>
+        <translation>Alan Kilitle</translation>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -23170,7 +23170,7 @@ Protection</source>
     </message>
     <message>
         <source>Keep Source Formating</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Biçimlendirmesini Koru</translation>
     </message>
     <message>
         <source>InsertBefore</source>
@@ -25231,7 +25231,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Insert Vertical Blank Page</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Boş Sayfa Ekle</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -25251,7 +25251,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Keep Source Formating</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Biçimlendirmesini Koru</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
@@ -31363,7 +31363,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>1 Page</source>
-        <translation type="unfinished"/>
+        <translation>1 Sayfa</translation>
     </message>
     <message>
         <source>&amp;Draw line between pages </source>
@@ -31371,11 +31371,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>2 Pages</source>
-        <translation type="unfinished"/>
+        <translation>2 Sayfa</translation>
     </message>
     <message>
         <source>32 Pages</source>
-        <translation type="unfinished"/>
+        <translation>32 Sayfa</translation>
     </message>
     <message>
         <source>Copies</source>
@@ -31391,7 +31391,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>4 Pages</source>
-        <translation type="unfinished"/>
+        <translation>4 Sayfa</translation>
     </message>
     <message>
         <source>Odd pages</source>
@@ -31411,7 +31411,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>6 Pages</source>
-        <translation type="unfinished"/>
+        <translation>6 Sayfa</translation>
     </message>
     <message>
         <source>16 Pages</source>
@@ -31427,7 +31427,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>8 Pages</source>
-        <translation type="unfinished"/>
+        <translation>8 Sayfa</translation>
     </message>
     <message>
         <source>From le&amp;ft to right</source>
@@ -40929,7 +40929,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation type="unfinished"/>
+        <translation>Liste Düzeyini Değiştir</translation>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -40937,7 +40937,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>A.B.C.</source>
@@ -40976,7 +40976,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation type="unfinished"/>
+        <translation>Liste Düzeyini Değiştir</translation>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -40984,7 +40984,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>A.B.C.</source>
@@ -40992,7 +40992,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a).b).c).</source>
-        <translation type="unfinished"/>
+        <translation>a).b).c).</translation>
     </message>
     <message>
         <source>More Numbering</source>
@@ -41000,7 +41000,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>Thai Number</translation>
+        <translation>Tay Numarası</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -41023,7 +41023,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation type="unfinished"/>
+        <translation>Liste Düzeyini Değiştir</translation>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -41031,7 +41031,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>A.B.C.</source>
@@ -41047,7 +41047,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>Thai Number</translation>
+        <translation>Tay Numarası</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -41070,7 +41070,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation type="unfinished"/>
+        <translation>Liste Düzeyini Değiştir</translation>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -41078,7 +41078,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>A.B.C.</source>
@@ -41094,7 +41094,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>Thai Number</translation>
+        <translation>Tay Numarası</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -41117,7 +41117,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation type="unfinished"/>
+        <translation>Liste Düzeyini Değiştir</translation>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -41125,7 +41125,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>A.B.C.</source>
@@ -41141,7 +41141,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>Thai Number</translation>
+        <translation>Tay Numarası</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -41184,7 +41184,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>Thai Number</translation>
+        <translation>Tay Numarası</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -41207,7 +41207,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation type="unfinished"/>
+        <translation>Liste Düzeyini Değiştir</translation>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -41215,7 +41215,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>A.B.C.</source>
@@ -41231,7 +41231,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>Thai Number</translation>
+        <translation>Tay Numarası</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
@@ -44846,7 +44846,7 @@ Number</source>
     </message>
     <message>
         <source>Assign</source>
-        <translation type="unfinished"/>
+        <translation>Ata</translation>
     </message>
     <message>
         <source>ShortCut key:</source>
