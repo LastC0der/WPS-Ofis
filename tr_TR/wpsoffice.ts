@@ -3575,7 +3575,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Computer</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayar</translation>
     </message>
     <message>
         <source>Invalid filename</source>
@@ -5789,7 +5789,7 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
     </message>
     <message>
         <source>classic</source>
-        <translation type="unfinished"/>
+        <translation>Klasik Kullanıcı Arayüzü</translation>
     </message>
     <message>
         <source>Comfort</source>
@@ -8161,7 +8161,7 @@ Exit login panel will lead to exiting WPS 2019.</source>
     </message>
     <message>
         <source>Services</source>
-        <translation type="unfinished"/>
+        <translation>Hizmetler</translation>
     </message>
     <message>
         <source>Hide %1</source>
