@@ -222,7 +222,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>Notice</source>
@@ -234,7 +234,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Computer</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayar</translation>
     </message>
     <message>
         <source>There is an extension of the data in the document</source>
