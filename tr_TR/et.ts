@@ -8535,7 +8535,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Assign Macro</source>
-        <translation type="unfinished"/>
+        <translation>Makro Ata</translation>
     </message>
     <message>
         <source>Range_num</source>
@@ -10403,7 +10403,7 @@ Please check the login account. If the account is correct, please ask the docume
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished"/>
+        <translation>Komut</translation>
     </message>
     <message>
         <source>Subcommand</source>
@@ -14810,7 +14810,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>&amp;Command</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Komut</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -18436,7 +18436,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Assign Macro</source>
-        <translation type="unfinished"/>
+        <translation>Makro Ata</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -21244,7 +21244,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>&amp;Overflow</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Metnin şekilden taşmasına izin ver</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -28463,7 +28463,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>NewChart AxisTitle</source>
-        <translation type="unfinished"/>
+        <translation>Eksen Başlığı</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -28475,7 +28475,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>NewChart UnitLabel</source>
-        <translation type="unfinished"/>
+        <translation>Birim Etiketi</translation>
     </message>
     <message>
         <source>Auto Backup Menu</source>
@@ -35655,7 +35655,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Transpos&amp;e</source>
-        <translation>İşlemi tersine çe&amp;vir</translation>
+        <translation>&amp;Devrik Dönüşüm</translation>
     </message>
     <message>
         <source>Forma&amp;ts</source>
@@ -35679,7 +35679,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>&amp;Comment</source>
-        <translation>&amp;Açıklama</translation>
+        <translation>&amp;Yorumlar ve Notlar</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas and number formats</source>
@@ -35687,7 +35687,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Paste&amp;Link</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bağ Yapıştır</translation>
     </message>
     <message>
         <source>Validatio&amp;n</source>
@@ -35711,7 +35711,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"/>
+        <translation>İşlem</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -35781,7 +35781,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>1 Page</source>
-        <translation type="unfinished"/>
+        <translation>1 Sayfa</translation>
     </message>
     <message>
         <source>&amp;Draw line between pages </source>
@@ -35793,11 +35793,11 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>2 Pages</source>
-        <translation type="unfinished"/>
+        <translation>2 Sayfa</translation>
     </message>
     <message>
         <source>32 Pages</source>
-        <translation type="unfinished"/>
+        <translation>32 Sayfa</translation>
     </message>
     <message>
         <source>Copies</source>
@@ -35813,7 +35813,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>4 Pages</source>
-        <translation type="unfinished"/>
+        <translation>4 Sayfa</translation>
     </message>
     <message>
         <source>From top to &amp;bottom</source>
@@ -35825,7 +35825,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>6 Pages</source>
-        <translation type="unfinished"/>
+        <translation>6 Sayfa</translation>
     </message>
     <message>
         <source>16 Pages</source>
@@ -35849,7 +35849,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>8 Pages</source>
-        <translation type="unfinished"/>
+        <translation>8 Sayfa</translation>
     </message>
     <message>
         <source>From le&amp;ft to right</source>
@@ -40065,7 +40065,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Vertical Center Aligned</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Ortaya Hizalanmış</translation>
     </message>
     <message>
         <source>This format name already exists.</source>
@@ -42567,7 +42567,7 @@ imlecinizi düzenleme kutusuna yerleştirip Resim Biçimlendir düğmesine tıkl
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Geliştirilmiş Meta Dosyası</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
@@ -49409,7 +49409,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Assign Macro</source>
-        <translation type="unfinished"/>
+        <translation>Makro Ata</translation>
     </message>
     <message>
         <source>Description</source>
@@ -51584,7 +51584,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Command</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Komut</translation>
     </message>
     <message>
         <source>Ca&amp;tegory:</source>
@@ -54299,11 +54299,11 @@ Result</source>
     </message>
     <message>
         <source>Default book name</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan kitap adı</translation>
     </message>
     <message>
         <source>Default sheet name</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan sayfa adı</translation>
     </message>
 </context>
 <context>
@@ -54816,7 +54816,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>As shown when &amp;printed</source>
-        <translation>Yazdırıldığında &amp;gösterileceği gibi</translation>
+        <translation>Yazıcıdan &amp;alındığı gibi</translation>
     </message>
     <message>
         <source>Format</source>
