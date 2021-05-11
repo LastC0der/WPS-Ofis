@@ -27512,7 +27512,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"/>
+        <translation>Limon Yeşili</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -28324,7 +28324,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Middle Centered</source>
-        <translation type="unfinished"/>
+        <translation>Merkeze Ortalanmış</translation>
     </message>
     <message>
         <source>Bottom</source>
