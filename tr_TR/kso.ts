@@ -5631,7 +5631,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>Action Button: Information</source>
         <comment>DRAWING2STR_ACTION_BUTTON_INFORMATION</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Bilgi</translation>
     </message>
     <message>
         <source>Flowchart: Multidocument</source>
@@ -5841,7 +5841,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Action Button: Help</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Yardım</translation>
     </message>
     <message>
         <source>Action Button: Home</source>
@@ -6397,12 +6397,12 @@ Ekle</translation>
     </message>
     <message>
         <source>Tilt Right Up</source>
-        <translation type="unfinished"/>
+        <translation>Eğik Sağ Üst</translation>
     </message>
     <message>
         <source>Action Button: Help</source>
         <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HELP</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Yardım</translation>
     </message>
     <message>
         <source>Line Callout 2 (Border and Accent Bar)</source>
@@ -6596,7 +6596,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Orchid</source>
-        <translation type="unfinished"/>
+        <translation>Orkide</translation>
     </message>
     <message>
         <source>Down Arrow Callout</source>
@@ -6612,7 +6612,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Plaque</source>
-        <translation type="unfinished"/>
+        <translation>Düzlem</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Curve</source>
@@ -7458,7 +7458,7 @@ Line-type: %3</source>
     <message>
         <source>Action Button: Help</source>
         <comment>DRAWING2STR_ACTION_BUTTON_HELP</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Yardım</translation>
     </message>
     <message>
         <source>No Reflection</source>
@@ -7541,7 +7541,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Action Button: Information</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Bilgi</translation>
     </message>
     <message>
         <source>Flowchart: Stored Data</source>
@@ -7555,12 +7555,12 @@ Line-type: %3</source>
     </message>
     <message>
         <source>DarkGoldenrod</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Altın Başak</translation>
     </message>
     <message>
         <source>Vertical Scroll</source>
         <comment>DRAWING2STR_VERTICAL_SCROLL</comment>
-        <translation type="unfinished"/>
+        <translation>Dikey Kaydırma</translation>
     </message>
     <message>
         <source>SmallGrid</source>
@@ -7830,15 +7830,15 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Desktop computer</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü bilgisayar</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Boyutunu Büyüt</translation>
     </message>
     <message>
         <source>Triangle</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen</translation>
     </message>
     <message>
         <source>Flowchart: Decision</source>
@@ -7883,12 +7883,12 @@ Line-type: %3</source>
     <message>
         <source>Folded Corner</source>
         <comment>DRAWING2STR_FOLDED_CORNER</comment>
-        <translation type="unfinished"/>
+        <translation>Katlanmış Köşe</translation>
     </message>
     <message>
         <source>Multiply</source>
         <comment>DRAWING2_TOOLTIP_MULTIPLY</comment>
-        <translation type="unfinished"/>
+        <translation>Çarpma</translation>
     </message>
     <message>
         <source>Right Arrow Callout</source>
@@ -8056,12 +8056,12 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Folded Corner</source>
-        <translation type="unfinished"/>
+        <translation>Katlanmış Köşe</translation>
     </message>
     <message>
         <source>Plaque</source>
         <comment>DRAWING2STR_PLAQUE</comment>
-        <translation type="unfinished"/>
+        <translation>Düzlem</translation>
     </message>
     <message>
         <source>Flowchart: Card</source>
@@ -8091,7 +8091,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"/>
+        <translation>Klasik</translation>
     </message>
     <message>
         <source>DarkColor%1</source>
@@ -8758,15 +8758,15 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Oval</translation>
     </message>
     <message>
         <source>Vertical Scroll</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Kaydırma</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"/>
+        <translation>Çarpma</translation>
     </message>
     <message>
         <source>Inner Down</source>
@@ -9153,7 +9153,7 @@ Line-type: %3</source>
     <message>
         <source>Action Button: Information</source>
         <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_INFORMATION</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Bilgi</translation>
     </message>
     <message>
         <source>Both Ends Near</source>
@@ -16323,7 +16323,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"/>
+        <translation>Klasik</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -25403,7 +25403,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Computer</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayar</translation>
     </message>
     <message>
         <source>CloudDisk</source>
@@ -25643,7 +25643,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Computer</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayar</translation>
     </message>
     <message>
         <source>Invalid filename</source>
@@ -37381,7 +37381,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Services</source>
-        <translation type="unfinished"/>
+        <translation>Hizmetler</translation>
     </message>
     <message>
         <source>Hide %1</source>
