@@ -50575,19 +50575,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Extract the same rows of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>İki çalışma sayfasının aynı satırlarını ayıkla</translation>
     </message>
     <message>
         <source>Extract different rows of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>İki çalışma sayfasının farklı satırlarını ayıkla</translation>
     </message>
     <message>
         <source>Mark different cells of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>İki çalışma sayfasının farklı hücrelerini işaretle</translation>
     </message>
     <message>
         <source>Compare the row data in the worksheet and mark the entire row that is repeated.</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfasındaki satır verilerini karşılaştırın ve yinelenen tüm satırı işaretleyin.</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -50595,7 +50595,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the row data of the selected area, find the duplicate rows, and extract them to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen alanın satır verilerini karşılaştırın, yinelenen satırları bulun ve bunları yeni çalışma sayfasına ayıklayın.</translation>
     </message>
     <message>
         <source>Compare the rows in the selected area and mark the only row data in them.</source>
@@ -50741,7 +50741,7 @@ Değer: </translation>
     </message>
     <message>
         <source>Invalid Input.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz Giriş.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -57155,7 +57155,7 @@ hücreler turuncu arka planda ayarlanacaktır.</translation>
     </message>
     <message>
         <source>Cell must contain a value.</source>
-        <translation type="unfinished"/>
+        <translation>Hücre bir değer içermelidir.</translation>
     </message>
     <message>
         <source>Set Cell</source>
