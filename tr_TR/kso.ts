@@ -3605,7 +3605,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Assign Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Ata</translation>
     </message>
     <message>
         <source>Font Color:</source>
@@ -7421,27 +7421,27 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Accent1</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu1</translation>
     </message>
     <message>
         <source>Accent2</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu2</translation>
     </message>
     <message>
         <source>Accent3</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu3</translation>
     </message>
     <message>
         <source>Accent4</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu4</translation>
     </message>
     <message>
         <source>Accent5</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu5</translation>
     </message>
     <message>
         <source>Accent6</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu6</translation>
     </message>
     <message>
         <source>PeachPuff</source>
@@ -7579,7 +7579,7 @@ Line-type: %3</source>
     <message>
         <source>Moon</source>
         <comment>DRAWING2_TOOLTIP_MOON</comment>
-        <translation type="unfinished"/>
+        <translation>Ay</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -7668,7 +7668,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Balloon</source>
-        <translation type="unfinished"/>
+        <translation>Balon</translation>
     </message>
     <message>
         <source>Dovetail Arrow</source>
@@ -9980,7 +9980,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Do you want to overwrite it?&lt;/qt&gt;</source>
@@ -12934,7 +12934,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>AIFF Audio File(aiff) (*.aif;*.aifc;*.aiff)</source>
@@ -14221,7 +14221,7 @@ You can choose Read-only button to open it as read-only.</source>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
@@ -16090,7 +16090,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk</translation>
     </message>
     <message>
         <source>Print all</source>
@@ -16850,7 +16850,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Dizin:</translation>
     </message>
     <message>
         <source>One directory up</source>
@@ -17018,7 +17018,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>All commands</source>
-        <translation type="unfinished"/>
+        <translation>Tüm komutlar</translation>
     </message>
     <message>
         <source>Move up</source>
@@ -17335,7 +17335,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Geliştirilmiş Meta Dosyası</translation>
     </message>
     <message>
         <source>Use to show the relationship to a central idea in a cyclical progression. Each of the first four lines of Level 1 text corresponds to a wedge or pie shape, and Level 2 text appears in a rectangular shape to the side of the wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
@@ -19654,7 +19654,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <source>Move the cursor to the previous word</source>
@@ -23441,11 +23441,11 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Dizin:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <source>%1 already exists.
@@ -29476,7 +29476,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Geliştirilmiş Meta Dosyası</translation>
     </message>
     <message>
         <source>Light downward diagonal</source>
@@ -31093,7 +31093,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Press new shortcut key</source>
-        <translation type="unfinished"/>
+        <translation>Yeni kısayol tuşuna basın</translation>
     </message>
     <message>
         <source>Reset all shortcuts?</source>
@@ -31591,7 +31591,7 @@ Yazdırmaya devam edilsin mi?</translation>
     </message>
     <message>
         <source>Add Trusted Location</source>
-        <translation type="unfinished"/>
+        <translation>Güvenilir Konum Ekle</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
@@ -31607,7 +31607,7 @@ Yazdırmaya devam edilsin mi?</translation>
     </message>
     <message>
         <source>The specified path aleady been added to your Trusted Locations.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen yol önceden Güvenilir Konumlarınıza eklenmiştir.</translation>
     </message>
     <message>
         <source>Are you sure you want to clear your Trusted Documents list so that they are no longer trusted?</source>
@@ -33430,7 +33430,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Geliştirilmiş Meta Dosyası</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
@@ -33473,7 +33473,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Geliştirilmiş Meta Dosyası</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
@@ -33515,7 +33515,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <source>Can&apos;t display the directory of current document not saved.</source>
@@ -35598,7 +35598,7 @@ Password protection and document permissions will become invalid.</source>
     <name>kxDlgUserShortcuts</name>
     <message>
         <source>&amp;Press new shortcut key:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeni kısayol tuşuna basın:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -35622,15 +35622,15 @@ Password protection and document permissions will become invalid.</source>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished"/>
+        <translation>Komut</translation>
     </message>
     <message>
         <source>&amp;Assign</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ata</translation>
     </message>
     <message>
         <source>Current shortcut for selected command:</source>
-        <translation type="unfinished"/>
+        <translation>Seçili komut için geçerli kısayol:</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -35638,7 +35638,7 @@ Password protection and document permissions will become invalid.</source>
     </message>
     <message>
         <source>Shortcut currently used by:</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol şu anda bu komut için kullanılıyor:</translation>
     </message>
 </context>
 <context>
@@ -35959,11 +35959,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;SubFolders of this location are also trusted</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;u konumdaki alt klasörler de güvenilir</translation>
     </message>
     <message>
         <source>This location will be treated as s trusted source.Make sure the location is secure.</source>
-        <translation type="unfinished"/>
+        <translation>Bu konum güvenilir kaynak olarak kabul edilecek. Konumun güvenli olduğundan emin olun.</translation>
     </message>
 </context>
 <context>
@@ -37866,7 +37866,7 @@ p, li { white-space: pre-wrap; }
     <name>KxCustomToolBarDlg</name>
     <message>
         <source>&amp;Commands</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Komutlar</translation>
     </message>
     <message>
         <source>&amp;Toolbars</source>
