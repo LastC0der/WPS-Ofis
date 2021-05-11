@@ -1226,7 +1226,7 @@
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"/>
+        <translation>Limon Yeşili</translation>
     </message>
     <message>
         <source>None</source>
@@ -1331,7 +1331,7 @@ Please check your data and make sure that the reference is valid and the workshe
     </message>
     <message>
         <source>Coral</source>
-        <translation type="unfinished"/>
+        <translation>Mercan</translation>
     </message>
     <message>
         <source>H&amp;ue:</source>
@@ -1450,7 +1450,7 @@ cycle</source>
     </message>
     <message>
         <source>Periwinkle</source>
-        <translation type="unfinished"/>
+        <translation>Menekşe Rengi</translation>
     </message>
     <message>
         <source>Document tab</source>
@@ -4683,7 +4683,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Gear</source>
-        <translation type="unfinished"/>
+        <translation>Dişli</translation>
     </message>
     <message>
         <source>Glow</source>
@@ -4695,11 +4695,11 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Gray</source>
-        <translation type="unfinished"/>
+        <translation>Gri</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"/>
+        <translation>Limon Yeşili</translation>
     </message>
     <message>
         <source>Line</source>
@@ -4707,11 +4707,11 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Moon</source>
-        <translation type="unfinished"/>
+        <translation>Ay</translation>
     </message>
     <message>
         <source>Navy</source>
-        <translation type="unfinished"/>
+        <translation>Lacivert</translation>
     </message>
     <message>
         <source>None</source>
@@ -4723,7 +4723,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Peru</source>
-        <translation type="unfinished"/>
+        <translation>Peru</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -4731,7 +4731,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"/>
+        <translation>Erik</translation>
     </message>
     <message>
         <source>Plus</source>
@@ -4907,7 +4907,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Coral</source>
-        <translation type="unfinished"/>
+        <translation>Mercan</translation>
     </message>
     <message>
         <source>Dark1</source>
@@ -6369,7 +6369,7 @@ Ekle</translation>
     <message>
         <source>Moon</source>
         <comment>DRAWING2STR_MOON</comment>
-        <translation type="unfinished"/>
+        <translation>Ay</translation>
     </message>
     <message>
         <source>Left-Near Right-Far</source>
@@ -17127,7 +17127,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Gear</source>
-        <translation type="unfinished"/>
+        <translation>Dişli</translation>
     </message>
     <message>
         <source>List</source>
@@ -17619,7 +17619,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show sequential items with supporting text for each item. This diagram works best with small amounts of Level 1 text.</source>
-        <translation type="unfinished"/>
+        <translation>Her öğe için sıralı öğeleri destekleyici metinle birlikte göstermek için kullanın. Bu diyagram, küçük miktarlarda Düzey 1 metniyle çok iyi şekilde çalışır.</translation>
     </message>
     <message>
         <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the arrows or flow rather than the stages or steps. Works best with Level 1 text only.</source>
@@ -17812,7 +17812,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Vertical Curved List</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Eğri Liste</translation>
     </message>
     <message>
         <source>Picture Accent Blocks</source>
@@ -18088,7 +18088,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Accent Process</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu İşlemi</translation>
     </message>
     <message>
         <source>Use to show pictures with explanatory text. Level 2 text can display lists of information. Works well with a large amount of  text.</source>
@@ -21913,7 +21913,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"/>
+        <translation>Limon Yeşili</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -22325,7 +22325,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Middle Centered</source>
-        <translation type="unfinished"/>
+        <translation>Merkeze Ortalanmış</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -22380,7 +22380,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Middle centered</source>
-        <translation type="unfinished"/>
+        <translation>Merkeze ortalanmış</translation>
     </message>
     <message>
         <source>Allow text to rotate with object(&amp;F)</source>
