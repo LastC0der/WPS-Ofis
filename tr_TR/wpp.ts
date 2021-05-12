@@ -441,7 +441,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>ch, 0, 0, 720, 1</source>
-        <translation type="unfinished"/>
+        <translation>kr, 0, 0, 720, 1</translation>
     </message>
     <message>
         <source>&amp;Save backup file every:</source>
@@ -585,7 +585,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>dakika</translation>
     </message>
     <message>
         <source>&amp;Measurement units:</source>
@@ -2894,7 +2894,7 @@ Check</source>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>\WPS Image\WPS Image</source>
@@ -3278,7 +3278,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>Slow</source>
@@ -8644,11 +8644,11 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Efektleri</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seç</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -9558,7 +9558,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seç</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -9999,7 +9999,7 @@ Slide</source>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seç</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
@@ -10982,7 +10982,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Efektleri</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -15855,7 +15855,7 @@ Slide</source>
     </message>
     <message>
         <source>Share To QQ</source>
-        <translation type="unfinished"/>
+        <translation>QQ ile Paylaş</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -18107,7 +18107,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Share To QQ</source>
-        <translation type="unfinished"/>
+        <translation>QQ ile Paylaş</translation>
     </message>
     <message>
         <source>Change Paste Type</source>
@@ -19597,7 +19597,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seç</translation>
     </message>
     <message>
         <source>Selection Audio</source>
@@ -21708,7 +21708,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seç</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -23296,7 +23296,8 @@ Master</source>
     <message>
         <source>Split
 Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri
+Böl</translation>
     </message>
     <message>
         <source>Height</source>
@@ -23690,7 +23691,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seç</translation>
     </message>
     <message>
         <source>Reduce Level</source>
@@ -28749,7 +28750,7 @@ Effects</source>
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"/>
+        <translation>Saniye</translation>
     </message>
     <message>
         <source>Until End of Slide</source>
@@ -30198,7 +30199,7 @@ Slide Master</source>
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"/>
+        <translation>Saniye</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -33116,7 +33117,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Matrix</source>
-        <translation type="unfinished"/>
+        <translation>Matris</translation>
     </message>
     <message>
         <source>Fraction</source>
