@@ -3242,7 +3242,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Option...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçenek...</translation>
     </message>
     <message>
         <source>Show c&amp;rop marks</source>
@@ -6695,7 +6695,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula</translation>
     </message>
     <message>
         <source>Theme Style</source>
@@ -6798,7 +6798,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula</translation>
     </message>
     <message>
         <source>Theme Style</source>
@@ -6865,11 +6865,11 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;ralık:</translation>
     </message>
     <message>
         <source>W&amp;idth:</source>
-        <translation type="unfinished"/>
+        <translation>Ge&amp;nişlik:</translation>
     </message>
 </context>
 <context>
@@ -6976,7 +6976,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"/>
+        <translation>inç</translation>
     </message>
     <message>
         <source>DRAFT</source>
@@ -7388,7 +7388,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"/>
+        <translation>inç</translation>
     </message>
     <message>
         <source>Legal</source>
@@ -15074,7 +15074,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Option</source>
-        <translation type="unfinished"/>
+        <translation>Seçenek</translation>
     </message>
     <message>
         <source>Data Labels</source>
@@ -31543,7 +31543,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;ralık:</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
@@ -41906,7 +41906,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Option...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçenek...</translation>
     </message>
     <message>
         <source>Descendin&amp;g</source>
@@ -43241,7 +43241,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Option</source>
-        <translation type="unfinished"/>
+        <translation>Seçenek</translation>
     </message>
     <message>
         <source>pt, 1, 0, 1584, 1</source>
@@ -45243,7 +45243,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Option</source>
-        <translation type="unfinished"/>
+        <translation>Seçenek</translation>
     </message>
     <message>
         <source>Link to
