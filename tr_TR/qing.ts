@@ -7,7 +7,7 @@
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Show Cloud Files Entry in &apos;My Computer&apos;</source>
@@ -1262,7 +1262,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Extend Space</source>
-        <translation type="unfinished"/>
+        <translation>Alanı Artır</translation>
     </message>
     <message>
         <source>Cloud space %1 has been full</source>
@@ -2140,7 +2140,7 @@ Download to the computer and keep the latest version.</source>
     <name>KPushDebugDlg</name>
     <message>
         <source>PC</source>
-        <translation type="unfinished"/>
+        <translation>PC</translation>
     </message>
     <message>
         <source>All</source>
@@ -2148,11 +2148,11 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>iOS</source>
-        <translation type="unfinished"/>
+        <translation>iOS</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Gönder</translation>
     </message>
     <message>
         <source>Tags</source>
@@ -2423,7 +2423,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>send</source>
-        <translation type="unfinished"/>
+        <translation>Gönder</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2431,7 +2431,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
 </context>
 <context>
@@ -2457,7 +2457,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>None</source>
@@ -2473,7 +2473,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçim</translation>
     </message>
     <message>
         <source>Long side</source>
@@ -2789,11 +2789,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>List View</source>
-        <translation type="unfinished"/>
+        <translation>Liste Görünümü</translation>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Write-only</source>
@@ -2899,7 +2899,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -3248,7 +3248,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -3877,7 +3877,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Files of type:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya türü:</translation>
     </message>
     <message>
         <source>Find Directory</source>
@@ -3903,7 +3903,7 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>List View</source>
-        <translation type="unfinished"/>
+        <translation>Liste Görünümü</translation>
     </message>
     <message>
         <source>&amp;Choose</source>
@@ -4154,14 +4154,14 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçim</translation>
     </message>
 </context>
 <context>
     <name>KCloudSettingExtesionWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>look</source>
@@ -4224,7 +4224,7 @@ Please verify the correct file name was given.</source>
     <name>KCloudSettingRestWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>size</source>
@@ -4283,7 +4283,7 @@ Please verify the correct file name was given.</source>
     <name>QPageSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>bottom margin</source>
@@ -4366,7 +4366,7 @@ Please verify the correct file name was given.</source>
     <name>QPrintPropertiesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Page</source>
@@ -7644,7 +7644,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Acceleration</source>
-        <translation type="unfinished"/>
+        <translation>İvme</translation>
     </message>
 </context>
 <context>
@@ -8588,7 +8588,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Extend space</source>
-        <translation type="unfinished"/>
+        <translation>Alanı artır</translation>
     </message>
     <message>
         <source>%1 files</source>
@@ -9881,14 +9881,14 @@ have libgstreamer-plugins-base installed.</source>
     <name>KLogoutConfirmDlg</name>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
 </context>
 <context>
     <name>KTempLoginBubble</name>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
 </context>
 <context>
@@ -10151,7 +10151,7 @@ Time for upgrade: %1</source>
     <name>KDesktopSyncConflictWidget</name>
     <message>
         <source>I got it</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
 </context>
 <context>
