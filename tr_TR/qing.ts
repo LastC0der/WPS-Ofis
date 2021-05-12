@@ -2497,7 +2497,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Output Settings</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Ayarları</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -3457,7 +3457,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"/>
+        <translation>Yazımı Denetle</translation>
     </message>
     <message>
         <source>Select to the next character</source>
@@ -10126,7 +10126,7 @@ Time for upgrade: %1</source>
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeyi Kapat</translation>
     </message>
 </context>
 <context>
@@ -10144,7 +10144,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Unable to create query</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu oluşturulamıyor</translation>
     </message>
 </context>
 <context>
@@ -10158,7 +10158,7 @@ Time for upgrade: %1</source>
     <name>WpsboxCommomSuccessTipDlg</name>
     <message>
         <source>got it</source>
-        <translation type="unfinished"/>
+        <translation>Anladım.</translation>
     </message>
     <message>
         <source>Say two words to me</source>
