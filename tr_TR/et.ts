@@ -9077,7 +9077,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>The Maximum must be greater than or equal to the Minimum.</source>
@@ -14356,7 +14356,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula</translation>
     </message>
     <message>
         <source>Theme Style</source>
@@ -14459,7 +14459,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula</translation>
     </message>
     <message>
         <source>Theme Style</source>
@@ -29766,7 +29766,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>&amp;Option ...</source>
-        <translation>&amp;Seçenek...</translation>
+        <translation>&amp;Seçenek ...</translation>
     </message>
     <message>
         <source>地址(&amp;D):</source>
@@ -49658,7 +49658,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Option...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçenek...</translation>
     </message>
     <message>
         <source>&amp;Ignore Error</source>
