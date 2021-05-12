@@ -521,7 +521,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"/>
+        <translation>inç</translation>
     </message>
     <message>
         <source>Transparenc&amp;y:</source>
@@ -688,7 +688,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>INCH</source>
-        <translation type="unfinished"/>
+        <translation>inç</translation>
     </message>
     <message>
         <source>Left</source>
@@ -7154,7 +7154,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -7510,7 +7510,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı</translation>
     </message>
     <message>
         <source>Where:</source>
@@ -10184,11 +10184,11 @@ Navigation</source>
     </message>
     <message>
         <source>foot</source>
-        <translation type="unfinished"/>
+        <translation>ft</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"/>
+        <translation>inç</translation>
     </message>
     <message>
         <source>pica</source>
@@ -13144,14 +13144,14 @@ Deleted pages can not be recovered</source>
     <name>KxPdfAnnoGraffitiDrawOptionSelector</name>
     <message>
         <source>Option</source>
-        <translation type="unfinished"/>
+        <translation>Seçenek</translation>
     </message>
 </context>
 <context>
     <name>KxPdfReadingGraffitiDrawOptionSelector</name>
     <message>
         <source>Option</source>
-        <translation type="unfinished"/>
+        <translation>Seçenek</translation>
     </message>
 </context>
 <context>
