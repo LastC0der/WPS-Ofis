@@ -1490,7 +1490,7 @@ cycle</source>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
-        <translation type="unfinished"/>
+        <translation>Bazı dosyalar silinemiyor. Meşgul olabilirler.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document.</source>
@@ -1967,7 +1967,7 @@ For better service, please update the trial edition to standard edition by:
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı</translation>
     </message>
     <message>
         <source>Violet</source>
@@ -11104,7 +11104,7 @@ You need to sign in before you buy. </source>
     </message>
     <message>
         <source>Verification Failure</source>
-        <translation type="unfinished"/>
+        <translation>Doğrulama Hatası</translation>
     </message>
     <message>
         <source>Your WPS Office is about to expire. 
@@ -15379,7 +15379,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&amp;Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;ralık:</translation>
     </message>
     <message>
         <source>Latin text f&amp;ont:</source>
@@ -16122,7 +16122,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Output Settings</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Ayarları</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -19565,7 +19565,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"/>
+        <translation>Yazımı Denetle</translation>
     </message>
     <message>
         <source>Select to the next character</source>
@@ -20741,7 +20741,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>CJK Miscellaneous</source>
-        <translation type="unfinished"/>
+        <translation>CJK Çeşitli</translation>
     </message>
     <message>
         <source>Geometric Shapes</source>
@@ -23515,7 +23515,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı</translation>
     </message>
     <message>
         <source>Apply Permission Info</source>
@@ -23578,7 +23578,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı</translation>
     </message>
     <message>
         <source>Auth Type</source>
@@ -23695,7 +23695,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı</translation>
     </message>
     <message>
         <source>Where:</source>
@@ -29190,7 +29190,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Caps Lock on.</source>
-        <translation type="unfinished"/>
+        <translation>Caps Lock açık.</translation>
     </message>
     <message>
         <source>You cannot copy text from a password field.</source>
@@ -32152,7 +32152,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Option:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenek:</translation>
     </message>
     <message>
         <source>Text encoding:</source>
@@ -32301,7 +32301,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>First step download and install flash</source>
-        <translation type="unfinished"/>
+        <translation>&lt;font color=#777777&gt;Adım1 &lt;b&gt;Flash eklentisini indirin ve yükleyin&lt;/b&gt; &lt;/font&gt;</translation>
     </message>
     <message>
         <source>Installed</source>
@@ -36080,7 +36080,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Not a valid file.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli bir dosya değil.</translation>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
@@ -37970,7 +37970,7 @@ p, li { white-space: pre-wrap; }
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeyi Kapat</translation>
     </message>
 </context>
 <context>
@@ -38044,7 +38044,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Unable to create query</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu oluşturulamıyor</translation>
     </message>
 </context>
 <context>
@@ -38062,7 +38062,7 @@ p, li { white-space: pre-wrap; }
     <name>KxRnFixSubTaskpaneCommand</name>
     <message>
         <source>fixSub</source>
-        <translation type="unfinished"/>
+        <translation>Alt pencereleri düzelt</translation>
     </message>
 </context>
 <context>
