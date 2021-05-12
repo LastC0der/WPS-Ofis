@@ -4557,7 +4557,7 @@ Lütfen aşağıdakilerden birini deneyin.
     <message>
         <source>Seconds</source>
         <comment>TX_PIVOT_GROUP_SECONDS</comment>
-        <translation type="unfinished"/>
+        <translation>Saniye</translation>
     </message>
     <message>
         <source>? (Press F8 to confirm.)</source>
@@ -5222,12 +5222,12 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Copy Formul&amp;a from Left</source>
-        <translation type="unfinished"/>
+        <translation>Formül&amp;ü Soldan Kopyala</translation>
     </message>
     <message>
         <source>Result Dir</source>
         <comment>TX_MERGESHEET_RESULT_DIR</comment>
-        <translation type="unfinished"/>
+        <translation>Sonuç Kaydetme Klasörü</translation>
     </message>
     <message>
         <source>Average of %s</source>
@@ -5235,20 +5235,20 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Variable Cells</source>
-        <translation type="unfinished"/>
+        <translation>Değişken Hücreler</translation>
     </message>
     <message>
         <source>The workbook has been updated with changes saved by other users.</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma kitabı, diğer kullanıcılar tarafından kaydedilen değişikliklerle güncellendi.</translation>
     </message>
     <message>
         <source>Too many fields in the data form.</source>
-        <translation type="unfinished"/>
+        <translation>Veri formunda çok fazla alan var.</translation>
     </message>
     <message>
         <source>Data Out of Range</source>
         <comment>TX_DuplicateItemsMgr_Data_Out_Of_Range</comment>
-        <translation type="unfinished"/>
+        <translation>Veriler Aralığın Dışında</translation>
     </message>
     <message>
         <source>Duplicate%s</source>
@@ -5256,7 +5256,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Selection is too large</source>
-        <translation type="unfinished"/>
+        <translation>Seçim çok büyük.</translation>
     </message>
     <message>
         <source>Subtotals %s</source>
@@ -5281,7 +5281,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Processor(s)</source>
-        <translation type="unfinished"/>
+        <translation>İşlemci(ler)</translation>
     </message>
     <message>
         <source>Some formulas or names of this file contain the user-defined functions which WPS Spreadsheets does not support, and recalcation of these formulas or names may cause incorrect results.
@@ -7005,11 +7005,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Array</source>
-        <translation type="unfinished"/>
+        <translation>Dizi</translation>
     </message>
     <message>
         <source>Cell </source>
-        <translation type="unfinished"/>
+        <translation>Hücre </translation>
     </message>
     <message>
         <source>Cells</source>
@@ -7155,7 +7155,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>array</source>
-        <translation type="unfinished"/>
+        <translation>dizi</translation>
     </message>
     <message>
         <source>is the range of cells you want evaluated.</source>
@@ -7856,7 +7856,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçim</translation>
     </message>
     <message>
         <source>First_period</source>
@@ -10094,7 +10094,7 @@ Bunun çeşitli nedenleri olabilir:
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_007</comment>
-        <translation type="unfinished"/>
+        <translation>Dizi</translation>
     </message>
     <message>
         <source>is the actual cells to be used to find the average.</source>
@@ -11720,7 +11720,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>is the discount rate to apply to the cash flows.</source>
@@ -13136,7 +13136,7 @@ hücreler turuncu arka planda ayarlanacaktır.
     </message>
     <message>
         <source>New Custom Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Özel Sözlük</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
@@ -16535,7 +16535,7 @@ Ekle</translation>
     </message>
     <message>
         <source>AutoFit</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Sığdır</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -28035,7 +28035,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Share To QQ</source>
-        <translation type="unfinished"/>
+        <translation>QQ ile Paylaş</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
@@ -30561,7 +30561,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -35406,7 +35406,7 @@ Shape</source>
     </message>
     <message>
         <source>This Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Bu Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
@@ -35589,7 +35589,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Vie&amp;ws</source>
-        <translation type="unfinished"/>
+        <translation>Görü&amp;ntüle</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -35597,7 +35597,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Custom Views</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm yönetimi</translation>
     </message>
 </context>
 <context>
@@ -39247,7 +39247,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Merge workbooks</source>
-        <translation>Çalışma kitaplarını birleştir</translation>
+        <translation>Birden çok çalışma kitabını bir çalışma kitabında birleştir</translation>
     </message>
     <message>
         <source>Highlight duplicates</source>
@@ -39878,7 +39878,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>New Custom Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Özel Sözlük</translation>
     </message>
     <message>
         <source>Options</source>
@@ -42543,7 +42543,7 @@ imlecinizi düzenleme kutusuna yerleştirip Resim Biçimlendir düğmesine tıkl
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"/>
+        <translation>Yol</translation>
     </message>
     <message>
         <source>Time</source>
@@ -42625,15 +42625,15 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Years</source>
-        <translation type="unfinished"/>
+        <translation>Yıl</translation>
     </message>
     <message>
         <source>Minutes</source>
-        <translation type="unfinished"/>
+        <translation>Dakika</translation>
     </message>
     <message>
         <source>Months</source>
-        <translation type="unfinished"/>
+        <translation>Ay</translation>
     </message>
     <message>
         <source>Number must be greater than zero.</source>
@@ -42649,7 +42649,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"/>
+        <translation>Saniye</translation>
     </message>
     <message>
         <source>Quarters</source>
@@ -43752,7 +43752,7 @@ Center</source>
     <name>KxEtfilterColumnContentPane</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>please input columns to need:</source>
@@ -44513,7 +44513,7 @@ Center</source>
     </message>
     <message>
         <source>Share To QQ</source>
-        <translation type="unfinished"/>
+        <translation>QQ ile Paylaş</translation>
     </message>
     <message>
         <source>File Share</source>
@@ -46519,7 +46519,8 @@ Açıklama</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye 
+Dönüştür</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -46649,7 +46650,8 @@ Düzenle</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye 
+Dönüştür</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -48755,7 +48757,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb;*.accdb)</source>
-        <translation type="unfinished"/>
+        <translation>Access Veritabanları(*.mdb;*.accdb)</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.xlsx;*.xls)</source>
@@ -51909,11 +51911,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Shift cells &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri &amp;aşağı kaydır</translation>
     </message>
     <message>
         <source>Shift cells r&amp;ight</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri &amp;sağa kaydır</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -52836,7 +52838,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Reading Mode</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Modu</translation>
     </message>
     <message>
         <source>Statistical Analysis</source>
@@ -52864,7 +52866,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Pivot Chart</source>
-        <translation type="unfinished"/>
+        <translation>Özet Grafik</translation>
     </message>
     <message>
         <source>Export to Sheet</source>
@@ -52897,7 +52899,7 @@ Result</source>
     </message>
     <message>
         <source>Color Settings</source>
-        <translation type="unfinished"/>
+        <translation>Renk Ayarları</translation>
     </message>
     <message>
         <source>Add Favorite</source>
@@ -52909,7 +52911,7 @@ Result</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula</translation>
     </message>
 </context>
 <context>
@@ -53006,7 +53008,7 @@ Result</source>
     </message>
     <message>
         <source>&amp;Evaluate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değerlendir</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
@@ -53665,7 +53667,7 @@ Item Labels</source>
     <name>KxReadingModeGuildDlg</name>
     <message>
         <source>Reading Mode</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Modu</translation>
     </message>
     <message>
         <source>Convenient to check related data which are in the same row or column with the current cell.</source>
@@ -53680,7 +53682,7 @@ Item Labels</source>
     <name>rainbow.ct_autofiltertools</name>
     <message>
         <source>Reading Mode</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Modu</translation>
     </message>
     <message>
         <source>Highlight Same Records</source>
@@ -53700,7 +53702,7 @@ Item Labels</source>
     </message>
     <message>
         <source>Pivot Chart</source>
-        <translation type="unfinished"/>
+        <translation>Özet Grafik</translation>
     </message>
     <message>
         <source>Export to Sheet</source>
@@ -53725,7 +53727,7 @@ Result</source>
     </message>
     <message>
         <source>Color Settings</source>
-        <translation type="unfinished"/>
+        <translation>Renk Ayarları</translation>
     </message>
     <message>
         <source>Add Favorite</source>
@@ -53953,7 +53955,7 @@ Result</source>
     </message>
     <message>
         <source>Custom Views</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm yönetimi</translation>
     </message>
 </context>
 <context>
@@ -54615,7 +54617,7 @@ Summary</source>
     </message>
     <message>
         <source>Summary columns to &amp;right of detail</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntı &amp;sağında özet sütunlar</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -55477,7 +55479,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>New WorkBook</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çalışma Kitabı</translation>
     </message>
 </context>
 <context>
@@ -55595,7 +55597,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     <name>KxDlgDelCell</name>
     <message>
         <source>Shift cells &amp;left</source>
-        <translation type="unfinished"/>
+        <translation>Hücre&amp;leri sola kaydır</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -55611,7 +55613,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>Shift cells &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>Hü&amp;creleri yukarı kaydır</translation>
     </message>
 </context>
 <context>
@@ -55997,11 +55999,11 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     <name>KxEtJDERecordMacroDlg</name>
     <message>
         <source>New Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çalışma Kitabı</translation>
     </message>
     <message>
         <source>This Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Bu Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Macro recorded %2 by %1</source>
@@ -56012,11 +56014,11 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     <name>KxEtVBARecordMacroDlg</name>
     <message>
         <source>New Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çalışma Kitabı</translation>
     </message>
     <message>
         <source>This Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Bu Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Macro recorded %2 by %1</source>
@@ -56101,7 +56103,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     <name>KxDlgCreateNames</name>
     <message>
         <source>Create Names</source>
-        <translation type="unfinished"/>
+        <translation>Ad Oluştur</translation>
     </message>
     <message>
         <source>&amp;Left column</source>
@@ -56117,7 +56119,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     </message>
     <message>
         <source>&amp;Right column</source>
-        <translation type="unfinished"/>
+        <translation>Sağ sütu&amp;n</translation>
     </message>
     <message>
         <source>Create names in</source>
@@ -56174,7 +56176,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEvaluateFormulaDlg</name>
     <message>
         <source>The cell currently being evaluated is empty.</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda değerlendirilen hücre boş.</translation>
     </message>
     <message>
         <source>A function in this formula causes the result to change each time the spreadsheet is calculated. The final evaluation step will match the result in the cell, but interim steps may not.</source>
@@ -56190,15 +56192,15 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>&amp;Evaluate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değerlendir</translation>
     </message>
     <message>
         <source>R&amp;estart</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeniden Başlat</translation>
     </message>
     <message>
         <source>The cell currently being evaluated contains a constant.</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda değerlendirilen hücre bir sabit içeriyor.</translation>
     </message>
 </context>
 <context>
@@ -56213,23 +56215,23 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Limit and Log</source>
-        <translation type="unfinished"/>
+        <translation>Limit ve Logaritma</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"/>
+        <translation>Betik</translation>
     </message>
     <message>
         <source>Integral</source>
-        <translation type="unfinished"/>
+        <translation>İntegral</translation>
     </message>
     <message>
         <source>Matrix</source>
-        <translation type="unfinished"/>
+        <translation>Matris</translation>
     </message>
        <message>
         <source>Operator</source>
-        <translation type="unfinished"/>
+        <translation>İşleç</translation>
     </message>
     <message>
         <source>Fraction</source>
@@ -56237,7 +56239,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Radical</source>
-        <translation type="unfinished"/>
+        <translation>Kök</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -56433,7 +56435,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>This Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Bu Çalışma Kitabı</translation>
     </message>
 </context>
 <context>
