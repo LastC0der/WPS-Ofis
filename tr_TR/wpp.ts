@@ -3107,7 +3107,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula</translation>
     </message>
     <message>
         <source>Last Row</source>
@@ -15937,7 +15937,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"/>
+        <translation>Yazımı Denetle</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -32354,7 +32354,7 @@ Master</source>
     </message>
     <message>
         <source>W&amp;idth:</source>
-        <translation type="unfinished"/>
+        <translation>Ge&amp;nişlik:</translation>
     </message>
     <message>
         <source>Enter 2.54 to 142.22 cm of value</source>
