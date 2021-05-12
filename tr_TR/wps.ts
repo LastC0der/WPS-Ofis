@@ -7774,7 +7774,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 6</source>
-        <translation type="unfinished"/>
+        <translation>nk, 2, 0, 1584, 6</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12063,7 +12063,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>UnderLine Color</source>
-        <translation>UnderLine Color</translation>
+        <translation>Alt Çizgi Rengi</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -12823,7 +12823,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Stil ve Biçim</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
@@ -12980,7 +12980,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Gölgelendirme</translation>
     </message>
     <message>
         <source>Text Effects</source>
@@ -15488,7 +15488,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Stil ve Biçim</translation>
     </message>
     <message>
         <source>Web Preview</source>
@@ -15633,7 +15633,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>AutoFit</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Sığdır</translation>
     </message>
     <message>
         <source>Average</source>
@@ -16416,7 +16416,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Gölgelendirme</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
@@ -17646,7 +17646,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Gölgelendirme</translation>
     </message>
     <message>
         <source>Text Effects</source>
@@ -18881,7 +18881,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Split Table by Row</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Satıra Göre Böl</translation>
     </message>
     <message>
         <source>MoreOutline</source>
@@ -18937,7 +18937,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Share To QQ</source>
-        <translation type="unfinished"/>
+        <translation>QQ ile Paylaş</translation>
     </message>
     <message>
         <source>Whole Table</source>
@@ -18945,7 +18945,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Table Cells</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Hücreleri</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -19114,7 +19114,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Split Table by Column</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Sütuna Göre Böl</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -20593,7 +20593,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçim</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
@@ -20768,7 +20768,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçim</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
@@ -21806,7 +21806,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb) | *.mdb; |</source>
-        <translation type="unfinished"/>
+        <translation>Access Veritabanları(*.mdb) | *.mdb; |</translation>
     </message>
     <message>
         <source>Table Colorful 1</source>
@@ -22272,11 +22272,11 @@ Denetimi</translation>
     </message>
     <message>
         <source>Medium Shading 1</source>
-        <translation type="unfinished"/>
+        <translation>Orta Gölgeleme 1</translation>
     </message>
     <message>
         <source>Medium Shading 2</source>
-        <translation type="unfinished"/>
+        <translation>Orta Gölgeleme 2</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -22284,7 +22284,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Paste Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri Yapıştır</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -22297,7 +22297,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
-        <translation type="unfinished"/>
+        <translation>Onay Kutusu Form Alanı</translation>
     </message>
     <message>
         <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
@@ -22362,7 +22362,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Veri Kaynakları(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
@@ -23276,7 +23276,7 @@ Protection</source>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Gölgelendirme</translation>
     </message>
     <message>
         <source>Modify Style</source>
@@ -23406,15 +23406,15 @@ Protection</source>
     </message>
     <message>
         <source>Double-click to edit footer</source>
-        <translation type="unfinished"/>
+        <translation>Altbilgiyi düzenlemek için çift tıklayın</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Double-click to edit header</source>
-        <translation type="unfinished"/>
+        <translation>Üstbilgiyi düzenlemek için çift tıklayın</translation>
     </message>
     <message>
         <source>Inside Borders</source>
@@ -25526,7 +25526,8 @@ Efektler</translation>
     <message>
         <source>Split
 Cells</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri
+Böl</translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -25582,7 +25583,7 @@ Cells</source>
     </message>
     <message>
         <source>Split Table by Row</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Satıra Göre Böl</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -25602,11 +25603,11 @@ Cells</source>
     </message>
     <message>
         <source>Split Table by Column</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Sütuna Göre Böl</translation>
     </message>
     <message>
         <source>AutoFit</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Sığdır</translation>
     </message>
     <message>
         <source>Average</source>
@@ -25829,7 +25830,7 @@ Cells</source>
     </message>
     <message>
         <source>Split Table by Row</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Satıra Göre Böl</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -25849,7 +25850,7 @@ Cells</source>
     </message>
     <message>
         <source>Split Table by Column</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Sütuna Göre Böl</translation>
     </message>
     <message>
         <source>Average</source>
@@ -36680,7 +36681,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
-        <translation type="unfinished"/>
+        <translation>Onay Kutusu Form Alanı</translation>
     </message>
     <message>
         <source>Autotext List</source>
@@ -37053,7 +37054,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
-        <translation type="unfinished"/>
+        <translation>Onay Kutusu Form Alanı</translation>
     </message>
     <message>
         <source>Autotext List</source>
@@ -37371,7 +37372,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
-        <translation type="unfinished"/>
+        <translation>Onay Kutusu Form Alanı</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
@@ -37645,7 +37646,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
-        <translation type="unfinished"/>
+        <translation>Onay Kutusu Form Alanı</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
@@ -37780,7 +37781,7 @@ Ekle</translation>
     <name>KxWidgetTpXMLStructure</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Show XML tags in the document</source>
@@ -37824,14 +37825,14 @@ to a Word XML document.</source>
     <name>KxWpsWidgetMailItem</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
 </context>
 <context>
     <name>KxMergeToEmailDlg</name>
     <message>
         <source>HTML</source>
-        <translation type="unfinished"/>
+        <translation>HTML</translation>
     </message>
     <message>
         <source>WPS Writer cannot merge documents that can be distributed by mail without a valid mail address.</source>
@@ -38449,7 +38450,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Share To QQ</source>
-        <translation type="unfinished"/>
+        <translation>QQ ile Paylaş</translation>
     </message>
     <message>
         <source>File Share</source>
@@ -43461,7 +43462,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Check Box Form Field</source>
-        <translation type="unfinished"/>
+        <translation>Onay Kutusu Form Alanı</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
@@ -44505,18 +44506,18 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Character Shading</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Gölgelendirme</translation>
     </message>
 </context>
 <context>
     <name>KxEquationAlignmentAndSpacingDlg</name>
     <message>
         <source>Array</source>
-        <translation type="unfinished"/>
+        <translation>Dizi</translation>
     </message>
     <message>
         <source>Matrix</source>
-        <translation type="unfinished"/>
+        <translation>Matris</translation>
     </message>
 </context>
 <context>
@@ -47953,7 +47954,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Shift cells &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri &amp;aşağı kaydır</translation>
     </message>
     <message>
         <source>Insert Cells</source>
@@ -47961,7 +47962,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Shift cells r&amp;ight</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri &amp;sağa kaydır</translation>
     </message>
     <message>
         <source>Insert entire &amp;row</source>
@@ -50183,7 +50184,7 @@ Try one or more of the following:
     <name>KxDlgDeleteCells</name>
     <message>
         <source>Shift cells &amp;left</source>
-        <translation type="unfinished"/>
+        <translation>Hücre&amp;leri sola kaydır</translation>
     </message>
     <message>
         <source>Delete Cells</source>
@@ -50199,7 +50200,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Shift cells &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>Hü&amp;creleri yukarı kaydır</translation>
     </message>
 </context>
 <context>
@@ -51030,7 +51031,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>ch, 1, 0, 316.8, 0.5</source>
-        <translation type="unfinished"/>
+        <translation>kr, 1, 0, 316.8, 0.5</translation>
     </message>
     <message>
         <source>Current text width:</source>
@@ -51042,7 +51043,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>pt, 1, 0, 1584, 0.5</source>
-        <translation type="unfinished"/>
+        <translation>nk, 1, 0, 1584, 0.5</translation>
     </message>
 </context>
 <context>
@@ -51109,7 +51110,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Matrix</source>
-        <translation type="unfinished"/>
+        <translation>Matris</translation>
     </message>
     <message>
         <source>Fraction</source>
