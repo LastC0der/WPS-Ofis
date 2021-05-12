@@ -1152,7 +1152,7 @@ You need to sign in before you buy. </source>
     </message>
     <message>
         <source>Verification Failure</source>
-        <translation type="unfinished"/>
+        <translation>Doğrulama Hatası</translation>
     </message>
     <message>
         <source>Your WPS Office is about to expire. 
@@ -1676,7 +1676,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Output Settings</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Ayarları</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -2509,7 +2509,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"/>
+        <translation>Yazımı Denetle</translation>
     </message>
     <message>
         <source>Select to the next character</source>
@@ -6804,7 +6804,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Not a valid file.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli bir dosya değil.</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -6835,7 +6835,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS PDF</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -8114,7 +8114,7 @@ Exit login panel will lead to exiting WPS 2019.</source>
     </message>
     <message>
         <source>option</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>for provide prefect file service, file will be saved in cloud disk</source>
@@ -8311,7 +8311,7 @@ Swiftly create a blank tab of the same type with Ctrl+N</source>
     </message>
     <message>
         <source>WPS pdf</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF</translation>
     </message>
     <message>
         <source>WPS wpp</source>
@@ -8349,15 +8349,15 @@ Swiftly create a blank tab of the same type with Ctrl+N</source>
     <name>KPromeHeaderAvatar</name>
     <message>
         <source>offline</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı</translation>
     </message>
     <message>
         <source>online</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi</translation>
     </message>
     <message>
         <source>Unlogin</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
 </context>
 <context>
@@ -8412,7 +8412,7 @@ Swiftly create a blank tab of the same type with Ctrl+N</source>
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeyi Kapat</translation>
     </message>
 </context>
 <context>
@@ -8423,7 +8423,7 @@ Swiftly create a blank tab of the same type with Ctrl+N</source>
     </message>
     <message>
         <source>Unable to create query</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu oluşturulamıyor</translation>
     </message>
 </context>
 <context>
