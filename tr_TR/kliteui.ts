@@ -115,11 +115,11 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>path</source>
-        <translation type="unfinished"/>
+        <translation>Yol</translation>
     </message>
     <message>
         <source>size</source>
-        <translation type="unfinished"/>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>modifytime</source>
@@ -130,7 +130,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     <name>KFileDialogEx</name>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"/>
+        <translation>Si&amp;mge</translation>
     </message>
     <message>
         <source>Open</source>
@@ -142,11 +142,11 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Tile</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Döşe</translation>
     </message>
     <message>
         <source>My Documents</source>
-        <translation type="unfinished"/>
+        <translation>Belgelerim</translation>
     </message>
     <message>
         <source>Close</source>
@@ -178,7 +178,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>File Type</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Türü</translation>
     </message>
     <message>
         <source>Small Icon</source>
@@ -353,7 +353,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"/>
+        <translation>Yol</translation>
     </message>
     <message>
         <source>Size</source>
