@@ -816,7 +816,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Only Print Out the Document</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca Belgeyi Yazdır</translation>
     </message>
     <message>
         <source>逐份打印</source>
@@ -824,19 +824,19 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>自定义比例：</source>
-        <translation type="unfinished"/>
+        <translation>Özel Ölçek:</translation>
     </message>
     <message>
         <source>当前页面</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Sayfa</translation>
     </message>
     <message>
         <source>当前视图</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Görünüm</translation>
     </message>
     <message>
         <source>页面范围：</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Aralığı:</translation>
     </message>
     <message>
         <source>Print out The Notes</source>
@@ -860,7 +860,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>i got it</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
     <message>
         <source>纸张：</source>
@@ -1864,7 +1864,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -1884,11 +1884,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>foot</source>
-        <translation type="unfinished"/>
+        <translation>ft</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"/>
+        <translation>inç</translation>
     </message>
     <message>
         <source>pica</source>
@@ -1896,7 +1896,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>yard</source>
-        <translation type="unfinished"/>
+        <translation>yd</translation>
     </message>
     <message>
         <source>TwoTimesSpeedScrollDown</source>
@@ -3261,7 +3261,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>weak</source>
@@ -3369,7 +3369,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>copy</source>
-        <translation>kopyala</translation>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>print</source>
@@ -6803,7 +6803,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula</translation>
     </message>
     <message>
         <source>All Fonts</source>
@@ -7436,7 +7436,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>取消</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>当前比例</source>
@@ -7444,7 +7444,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>导出图片</source>
-        <translation type="unfinished"/>
+        <translation>Resmi dışa aktar</translation>
     </message>
     <message>
         <source>具体消息内容</source>
@@ -7655,7 +7655,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Stil ve Biçim</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -8848,7 +8848,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Stil ve Biçim</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
@@ -10298,7 +10298,7 @@ Navigation</source>
     <name>KxPdfOcrExtractTextDlg</name>
     <message>
         <source>copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>ReportErrorFile</source>
@@ -10553,7 +10553,7 @@ Navigation</source>
     </message>
     <message>
         <source>I got it</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
     <message>
         <source>Content and note</source>
@@ -10564,7 +10564,7 @@ Navigation</source>
     <name>KxPdfOpenUnsignedCopyTask</name>
     <message>
         <source>-copy</source>
-        <translation type="unfinished"/>
+        <translation>-Kopyala</translation>
     </message>
     <message>
         <source>-copy%1</source>
@@ -11110,7 +11110,7 @@ Navigation</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula</translation>
     </message>
 </context>
 <context>
