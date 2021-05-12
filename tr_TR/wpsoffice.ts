@@ -1119,7 +1119,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Subscription will expire after %1 days</source>
@@ -1636,7 +1636,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>None</source>
@@ -1652,7 +1652,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçim</translation>
     </message>
     <message>
         <source>Long side</source>
@@ -1968,11 +1968,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>List View</source>
-        <translation type="unfinished"/>
+        <translation>Liste Görünümü</translation>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Write-only</source>
@@ -2078,7 +2078,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -2300,7 +2300,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -2947,7 +2947,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Files of type:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya türü:</translation>
     </message>
     <message>
         <source>Find Directory</source>
@@ -2973,7 +2973,7 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>List View</source>
-        <translation type="unfinished"/>
+        <translation>Liste Görünümü</translation>
     </message>
     <message>
         <source>&amp;Choose</source>
@@ -3213,7 +3213,7 @@ Please verify the correct file name was given.</source>
     <name>QPageSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>bottom margin</source>
@@ -3296,7 +3296,7 @@ Please verify the correct file name was given.</source>
     <name>QPrintPropertiesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Page</source>
@@ -3843,7 +3843,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Access Databases</source>
-        <translation type="unfinished"/>
+        <translation>Access Veritabanları</translation>
     </message>
     <message>
         <source>DBase Files</source>
@@ -3903,7 +3903,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>All Data Sources</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Veri Kaynakları</translation>
     </message>
     <message>
         <source>WPP/PowerPoint Files</source>
@@ -8106,7 +8106,7 @@ Exit login panel will lead to exiting WPS 2019.</source>
     <name>KPromeNewFileToCloudGuideDlg</name>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
     <message>
         <source>file safe protection</source>
@@ -8430,7 +8430,7 @@ Swiftly create a blank tab of the same type with Ctrl+N</source>
     <name>KRateGuideDlg</name>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha gösterme</translation>
     </message>
 </context>
 <context>
