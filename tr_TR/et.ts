@@ -7218,7 +7218,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Basitleştirilmiş Çinceye Çevir</translation>
     </message>
     <message>
         <source>is the type of day count basis to use.</source>
@@ -46390,7 +46390,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Basitleştirilmiş Çinceye 
+Dönüştür</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -46550,7 +46551,8 @@ Düzenle</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Basitleştirilmiş Çinceye 
+Dönüştür</translation>
     </message>
     <message>
         <source>Unprotect Sheet</source>
