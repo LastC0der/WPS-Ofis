@@ -6867,7 +6867,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Life</source>
-        <translation type="unfinished"/>
+        <translation>Ömür</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -6976,7 +6976,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Date_purchased</source>
-        <translation>Alış_Tarihi</translation>
+        <translation>Alış_tarihi</translation>
     </message>
     <message>
         <source>Degrees_freedom 1</source>
@@ -7192,7 +7192,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Within_text</source>
-        <translation type="unfinished"/>
+        <translation>Metin_içinde</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -7223,11 +7223,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>is the type of day count basis to use.</source>
         <comment>TX_ParaDesc_455</comment>
-        <translation type="unfinished"/>
+        <translation>kullanılacak gün sayısı türü.</translation>
     </message>
     <message>
         <source>is the period for which you want to calculate the depreciation. Period must use the same units as life.</source>
-        <translation type="unfinished"/>
+        <translation>yıpranmasını hesaplamak istediğiniz dönemdir. Dönem, ömürle aynı birimleri kullanmalıdır.</translation>
     </message>
     <message>
         <source>is the name of the data field to extract data from</source>
@@ -7448,7 +7448,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the initial cost of the asset.</source>
-        <translation>malın değeri.</translation>
+        <translation>varlığın ilk maliyeti.</translation>
     </message>
     <message>
         <source>Lookup_value</source>
@@ -7473,7 +7473,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>Start_num</source>
         <comment>TX_ParaInfo_219</comment>
-        <translation type="unfinished"/>
+        <translation>Başlangıç_sayısı</translation>
     </message>
     <message>
         <source>Weekend</source>
@@ -7492,7 +7492,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
-        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 30 arasındaki metin dizesidir ve metin dizeleri, sayı veya bir hücre aralığı olabilir.</translation>
+        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 254 arasındaki metin dizesidir ve metin dizeleri, sayı veya bir hücre aralığı olabilir.</translation>
     </message>
     <message>
         <source>probability density function</source>
@@ -7521,7 +7521,7 @@ Korumasını Kaldır</translation>
     <message>
         <source>number of payment periods in an investment.</source>
         <comment>TX_ParaDesc_201</comment>
-        <translation type="unfinished"/>
+        <translation>yatırımın toplam ödeme dönemi sayısı.</translation>
     </message>
     <message>
         <source>Instance_num</source>
@@ -7745,7 +7745,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the present value: the total amount that a series of future payments is worth now.</source>
-        <translation type="unfinished"/>
+        <translation>bugünkü değer: gelecekte yapılacak bir dizi ödemenin bugünkü değerini gösteren toplam miktar.</translation>
     </message>
     <message>
         <source>Set Text box Format</source>
@@ -7807,7 +7807,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is the future value, or a cash balance you want to attain after the last payment is made. If omitted, zero is used.</source>
-        <translation type="unfinished"/>
+        <translation>gelecek değer ya da son ödeme yapıldıktan sonra elde edilmek istenen nakit bakiyesi. Atlanırsa sıfır kullanılır</translation>
     </message>
     <message>
         <source>Calc_save</source>
@@ -7876,7 +7876,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is a range that contains only one row or one column of text, numbers, or logical values, placed in ascending order.</source>
-        <translation type="unfinished"/>
+        <translation>sadece bir satır veya sütundan oluşan ve artan sıraya yerleştirilmiş olan metin, sayı ya da mantıksal değerler içeren aralık.</translation>
     </message>
     <message>
         <source>is the number of successes in the population.</source>
@@ -8116,7 +8116,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is a range that contains only one row or column, the same size as Lookup_vector.</source>
-        <translation type="unfinished"/>
+        <translation>sadece bir satır veya sütun içeren aralıktır, Ara_vektörü ile aynı boyuttadır.</translation>
     </message>
     <message>
         <source>is an optional set of x-values that you may already know in the relationship y=b*m^x, an array or range the same size as Known_y&apos;s.</source>
@@ -8174,7 +8174,7 @@ Aktar</translation>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
         <comment>TX_ParaDesc_567</comment>
-        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 30 arasındaki metin dizesidir ve metin dizeleri, sayı veya bir hücre aralığı olabilir.</translation>
+        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 254 arasındaki metin dizesidir ve metin dizeleri, sayı veya bir hücre aralığı olabilir.</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -8268,7 +8268,7 @@ Aktar</translation>
     <message>
         <source>is the present value: the total amount that a series of future payments is worth now.</source>
         <comment>TX_ParaDesc_320</comment>
-        <translation type="unfinished"/>
+        <translation>bugünkü değer: gelecekte yapılacak bir dizi ödemenin bugünkü değerini gösteren toplam miktar.</translation>
     </message>
     <message>
         <source>Calculate the plural of its logarithm value</source>
@@ -8317,7 +8317,7 @@ Aktar</translation>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
         <comment>TX_ParaDesc_445</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets tarafından kullanılan tarih-saat kodundaki sayı.</translation>
     </message>
     <message>
         <source>is the text you want to repeat.</source>
@@ -8378,7 +8378,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the date of the end of the first period.</source>
-        <translation type="unfinished"/>
+        <translation>ilk dönemin son günü.</translation>
     </message>
     <message>
         <source>Value_if_false</source>
@@ -8475,7 +8475,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Find_text</source>
-        <translation type="unfinished"/>
+        <translation>Bul_metin</translation>
     </message>
     <message>
         <source>is a number 1, 0, or -1 indicating which value to return.</source>
@@ -8519,7 +8519,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is a number that you want to convert.</source>
-        <translation type="unfinished"/>
+        <translation>dönüştürmek istediğiniz sayıdır.</translation>
     </message>
     <message>
         <source>Calculate the plural of its imaginary coefficients</source>
@@ -8711,7 +8711,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the text you want to search.</source>
-        <translation type="unfinished"/>
+        <translation>bulmak istediğiniz metin.</translation>
     </message>
     <message>
         <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
@@ -8767,7 +8767,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the starting period for which you want to calculate the depreciation. Period must use the same units as life.</source>
-        <translation type="unfinished"/>
+        <translation>yıpranmasını hesaplamak istediğiniz başlangıç dönemdir. Dönem, ömürle aynı birimleri kullanmalıdır.</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
@@ -8895,7 +8895,7 @@ Aktar</translation>
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
-        <translation type="unfinished"/>
+        <translation>yatırımın toplam ödeme dönemi sayısı.</translation>
     </message>
     <message>
         <source>Skip_blanks</source>
@@ -8956,7 +8956,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the salvage value at the end of the life of the asset.</source>
-        <translation type="unfinished"/>
+        <translation>malın ömrü sonundaki hurda değeri.</translation>
     </message>
     <message>
         <source>First Page </source>
@@ -9486,7 +9486,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
-        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 30 arasındaki metin dizesidir ve metin dizeleri, sayı veya tek hücreli başvurular olabilir.</translation>
+        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 254 arasındaki metin dizesidir ve metin dizeleri, sayı veya tek hücreli başvurular olabilir.</translation>
     </message>
     <message>
         <source>is the text you want to convert to lowercase. Characters in Text that are not letters are not changed.</source>
@@ -9519,7 +9519,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is a schedule of payment dates that corresponds to the cash flow payments.</source>
-        <translation type="unfinished"/>
+        <translation>nakit akışı ödemelerine karşılık gelen ödeme tarihleri planı.</translation>
     </message>
     <message>
         <source>is a text value that specifies what type of cell information you want.</source>
@@ -9659,7 +9659,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>specifies the character at which to start the search. The first character in Within_text is character number 1. If omitted, Start_num = 1.</source>
-        <translation type="unfinished"/>
+        <translation>aramanın başlayacağı karakteri belirtir. Metin_içindeki ilk karakterin numarası 1&apos;dir. Atlanırsa Başlangıç_sayısı = 1</translation>
     </message>
     <message>
         <source>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;Column: %3</source>
@@ -9809,7 +9809,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is the date the asset is purchased.</source>
-        <translation type="unfinished"/>
+        <translation>malın satın alındığı tarih.</translation>
     </message>
     <message>
         <source>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;Row: %3</source>
@@ -9821,7 +9821,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%/4 for quarterly payments at 6% APR.</source>
-        <translation>dönem başına düşen faiz oranı. Örneğin, %6 yıllık faiz oranına karşılık üç aylık ödeme için %6/4 kullanın. </translation>
+        <translation>dönem başına düşen faiz oranı. Örneğin, % 6 yıllık faiz oranına karşılık üç aylık ödeme için % 6/4 kullanın.</translation>
     </message>
     <message>
         <source>is a logical value that specifies the type of reference in Ref_text: R1C1-style = FALSE; A1-style = TRUE or omitted.</source>
@@ -9869,7 +9869,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Start_num</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç_sayısı</translation>
     </message>
     <message>
         <source>Hide Axis Field Buttons On Chart</source>
@@ -10081,7 +10081,7 @@ Bunun çeşitli nedenleri olabilir:
     <message>
         <source>is the text you want to search.</source>
         <comment>TX_ParaDesc_355</comment>
-        <translation type="unfinished"/>
+        <translation>bulmak istediğiniz metin.</translation>
     </message>
     <message>
         <source>The date you specified in Time is invalid.</source>
@@ -10220,7 +10220,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets tarafından kullanılan tarih-saat kodundaki bir sayı.</translation>
     </message>
     <message>
         <source>is the security&apos;s par value.</source>
@@ -10287,11 +10287,11 @@ Kaldır</translation>
     </message>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets tarafından kullanılan tarih-saat kodundaki sayı.</translation>
     </message>
     <message>
         <source>specifies the character at which to start the search.</source>
-        <translation type="unfinished"/>
+        <translation>aramanın başlayacağı karakteri belirtir.</translation>
     </message>
     <message>
         <source>Function_help</source>
@@ -10362,7 +10362,7 @@ Please check the login account. If the account is correct, please ask the docume
     </message>
     <message>
         <source>specifies the period and must be in the range 1 to nper.</source>
-        <translation type="unfinished"/>
+        <translation>1 ile dönem_sayısı arasında olması gereken dönemi belirtir.</translation>
     </message>
     <message>
         <source>Window_text</source>
@@ -10469,12 +10469,12 @@ Devam ?</translation>
     <message>
         <source>is the salvage value at the end of the life of the asset.</source>
         <comment>TX_ParaDesc_392</comment>
-        <translation type="unfinished"/>
+        <translation>malın ömrü sonundaki hurda değeri.</translation>
     </message>
     <message>
         <source>is the salvage value at the end of the life of the asset.</source>
         <comment>TX_ParaDesc_090</comment>
-        <translation type="unfinished"/>
+        <translation>malın ömrü sonundaki hurda değeri.</translation>
     </message>
     <message>
         <source>is the text string containing the characters you want to extract.</source>
@@ -10733,17 +10733,17 @@ Ekle</translation>
     <message>
         <source>is the future value, or a cash balance you want to attain after the last payment is made. If omitted, zero is used.</source>
         <comment>TX_ParaDesc_271</comment>
-        <translation type="unfinished"/>
+        <translation>gelecek değer ya da son ödeme yapıldıktan sonra elde edilmek istenen nakit bakiyesi. Atlanırsa sıfır kullanılır</translation>
     </message>
     <message>
         <source>is the future value, or a cash balance you want to attain after the last payment is made. If omitted, zero is used.</source>
         <comment>TX_ParaDesc_294</comment>
-        <translation type="unfinished"/>
+        <translation>gelecek değer ya da son ödeme yapıldıktan sonra elde edilmek istenen nakit bakiyesi. Atlanırsa sıfır kullanılır</translation>
     </message>
     <message>
         <source>is the future value, or a cash balance you want to attain after the last payment is made. If omitted, zero is used.</source>
         <comment>TX_ParaDesc_302</comment>
-        <translation type="unfinished"/>
+        <translation>gelecek değer ya da son ödeme yapıldıktan sonra elde edilmek istenen nakit bakiyesi. Atlanırsa sıfır kullanılır</translation>
     </message>
     <message>
         <source>is the value for which you want to know the rank.</source>
@@ -10788,7 +10788,7 @@ Ekle</translation>
     </message>
     <message>
         <source>is the column number to use in the cell reference. For example Column_number = 4 for column D.</source>
-        <translation type="unfinished"/>
+        <translation>hücre başvurusunda kullanılacak sütun numarası. Örneğin, D sütunu için Sütun_num = 4.</translation>
     </message>
     <message>
         <source>Returns the cumulative distribution function</source>
@@ -10952,7 +10952,7 @@ Sil</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
-        <translation type="unfinished"/>
+        <translation>sayı1%1 sayı2%1... basıklığını bulmak istediğiniz en az 1 en fazla 30 sayı, ad, dizi ya da sayı içeren başvurudur.</translation>
     </message>
     <message>
         <source>Help_ref</source>
@@ -10984,7 +10984,7 @@ Sil</translation>
     </message>
     <message>
         <source>Column_num</source>
-        <translation>Sütun_sayısı</translation>
+        <translation>Sütun_num</translation>
     </message>
     <message>
         <source>End_num</source>
@@ -11234,12 +11234,12 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>is the text containing the text you want to find.</source>
         <comment>TX_ParaDesc_120</comment>
-        <translation type="unfinished"/>
+        <translation>bulmak istediğiniz metni içeren metin.</translation>
     </message>
     <message>
         <source>is the text containing the text you want to find.</source>
         <comment>TX_ParaDesc_356</comment>
-        <translation type="unfinished"/>
+        <translation>bulmak istediğiniz metni içeren metin.</translation>
     </message>
     <message>
         <source>is the number of degrees of freedom, a number between 1 and 10^10, excluding 10^10.</source>
@@ -11425,7 +11425,7 @@ Koru</translation>
     </message>
     <message>
         <source>is text specifying the name of the worksheet to be used as the external reference.</source>
-        <translation type="unfinished"/>
+        <translation>dış başvuru olarak kullanılacak çalışma sayfasının adını belirten metin.</translation>
     </message>
     <message>
         <source>Calculate the plural of its cosine</source>
@@ -11586,7 +11586,7 @@ Denetimi</translation>
     <message>
         <source>specifies the character at which to start the search.</source>
         <comment>TX_ParaDesc_357</comment>
-        <translation type="unfinished"/>
+        <translation>aramanın başlayacağı karakteri belirtir.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
@@ -11744,11 +11744,11 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the type of day count basis to use.</source>
-        <translation type="unfinished"/>
+        <translation>kullanılacak gün sayısı türü.</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period =1; payment at the end of the period =0 or omitted.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: dönem başında ödeme = 1; dönem sonunda ödeme = 0 ya da atlanmış.</translation>
     </message>
     <message>
         <source>Center section </source>
@@ -11864,11 +11864,11 @@ Denetimi</translation>
     </message>
     <message>
         <source>is a number that you guess is close to the result of IRR; 0.1(10 percent) if omitted.</source>
-        <translation type="unfinished"/>
+        <translation>AİÇVERİMORANI işlevinin sonucuna yakın olarak tahmin edilen sayı; atlanırsa 0,1 (yüzde 10).</translation>
     </message>
     <message>
         <source>is the text in which you want to search for Find_text.</source>
-        <translation type="unfinished"/>
+        <translation>Bul_metin&apos;de kullanılan metin.</translation>
     </message>
     <message>
         <source>is the position of the character in Old_text that you want to replace with New_text.</source>
@@ -11899,7 +11899,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the text containing the text you want to find.</source>
-        <translation type="unfinished"/>
+        <translation>bulmak istediğiniz metni içeren metin.</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
@@ -11962,7 +11962,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>specifies the reference type: absolute = 1; absolute row/relative column = 2; relative row/absolute column = 4.</source>
-        <translation type="unfinished"/>
+        <translation>başvuru türünü belirtir: mutlak = 1; mutlak satır/göreceli sütun = 2; göreceli satır/mutlak sütun = 3; göreceli = 4.</translation>
     </message>
     <message>
         <source>is the security&apos;s due date, expressed as a serial date number.</source>
@@ -11978,7 +11978,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
-        <translation type="unfinished"/>
+        <translation>başv1%1 başv2%1... alt toplamını almak istediğiniz en az 1 en fazla 254 başvuru veya aralıktır.</translation>
     </message>
     <message>
         <source>Calculate the plural of its parameter values</source>
@@ -11999,7 +11999,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is a logical value that specifies the reference style; A1 style = 1 or TRUE; R1C1 style = 0 or FALSE.</source>
-        <translation type="unfinished"/>
+        <translation>başvuru stilini belirten mantıksal değer: A1 stili = 1 ya da DOĞRU; R1C1 stili = 0 ya da YANLIŞ.</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
@@ -23653,7 +23653,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive).</source>
-        <translation type="unfinished"/>
+        <translation>Bir metin dizesi içinde belirtilen karakterin veya dizenin ilk bulunan konumunu, soldan sağa doğru okuyarak (büyük / küçük harfe duyarlı değildir) döndürür.</translation>
     </message>
     <message>
         <source>STEP()</source>
@@ -24491,7 +24491,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
-        <translation type="unfinished"/>
+        <translation>Bir metin dizesi içinde belirtilen karakterin veya dizenin ilk bulunan konumunu, soldan sağa doğru okuyarak (büyük / küçük harfe duyarlı değildir) döndürür. Çift baytlı karakter setiyle (DBCS) kullanın.</translation>
     </message>
     <message>
         <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
