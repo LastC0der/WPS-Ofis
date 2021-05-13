@@ -33545,15 +33545,15 @@ Please reinstall WPS Office!</source>
     <name>KProxyTabbarQAndAButton</name>
     <message>
         <source>Click to find commands</source>
-        <translation type="unfinished"/>
+        <translation>Komutları bulmak için tıklayın</translation>
     </message>
     <message>
         <source>Find commands or Search template</source>
-        <translation type="unfinished"/>
+        <translation>Özellikleri bulun</translation>
     </message>
     <message>
         <source>Find Commands</source>
-        <translation type="unfinished"/>
+        <translation>Komutları Bul</translation>
     </message>
 </context>
 <context>
@@ -38467,7 +38467,7 @@ p, li { white-space: pre-wrap; }
     <name>KRibbonFindCmdWidget</name>
     <message>
         <source>find commands</source>
-        <translation type="unfinished"/>
+        <translation>Komutları Bul</translation>
     </message>
 </context>
 <context>
