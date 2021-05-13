@@ -21053,7 +21053,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Basitleştirilmiş Çinceye Çevir</translation>
     </message>
     <message>
         <source>Outline Promote Heading 1</source>
