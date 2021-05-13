@@ -1769,7 +1769,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Basitleştirilmiş Çinceye Çevir</translation>
     </message>
     <message>
         <source>Insert Smartart Graphic</source>
