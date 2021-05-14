@@ -16377,7 +16377,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Recent File List</source>
-        <translation>Son Kullanılan Dosya Listesi</translation>
+        <translation>Son Dosya Listesi</translation>
     </message>
     <message>
         <source>GoogleDocs</source>
