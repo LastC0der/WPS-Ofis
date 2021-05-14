@@ -19279,11 +19279,11 @@ Check path and filename.</source>
     <name>KxSecurityMBImpl</name>
     <message>
         <source>Day</source>
-        <translation type="unfinished"/>
+        <translation>Gün</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"/>
+        <translation>Yıl</translation>
     </message>
     <message>
         <source>tips</source>
@@ -19291,7 +19291,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"/>
+        <translation>Ay</translation>
     </message>
     <message>
         <source>configure error</source>
@@ -19302,15 +19302,15 @@ Check path and filename.</source>
     <name>KxTypeComboBox</name>
     <message>
         <source>Day</source>
-        <translation type="unfinished"/>
+        <translation>Gün</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"/>
+        <translation>Yıl</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"/>
+        <translation>Ay</translation>
     </message>
 </context>
 <context>
