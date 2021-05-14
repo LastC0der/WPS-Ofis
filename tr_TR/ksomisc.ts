@@ -203,7 +203,7 @@
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Yapılandırma Araçları</translation>
     </message>
 </context>
 <context>
@@ -1108,7 +1108,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Special options:</source>
-        <translation type="unfinished"/>
+        <translation>Özel seçenekler:</translation>
     </message>
     <message>
         <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
@@ -1147,7 +1147,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>WPS Office Tools</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Araçları</translation>
     </message>
     <message>
         <source>Link to network to update WPS Office</source>
@@ -1313,7 +1313,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Yapılandırma Araçları</translation>
     </message>
     <message>
         <source>Start &amp;Repairing</source>
@@ -1375,7 +1375,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>WPS Office Tools</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Araçları</translation>
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
@@ -1438,7 +1438,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     <name>KGdprConfigUi</name>
     <message>
         <source>Privacy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik Ayarları</translation>
     </message>
     <message>
         <source>Content-based feature</source>
@@ -1446,11 +1446,11 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>View privacy policy</source>
-        <translation>Gizlilik ilkesini görüntüleyin</translation>
+        <translation>Gizlilik ilkesini görüntüle</translation>
     </message>
     <message>
         <source>View Pirvacy Policy</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik İlkesini Görüntüle</translation>
     </message>
     <message>
         <source>Eliminate Data</source>
@@ -1635,7 +1635,7 @@ Please use administrator account to relaunch &quot;Configuration Tools&quot;.</s
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Yapılandırma Araçları</translation>
     </message>
 </context>
 <context>
@@ -1646,11 +1646,11 @@ Please use administrator account to relaunch &quot;Configuration Tools&quot;.</s
     </message>
     <message>
         <source>Theme successfully changed.</source>
-        <translation type="unfinished"/>
+        <translation>Tema başarıyla değiştirildi.</translation>
     </message>
     <message>
         <source>Change Theme</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Değiştir</translation>
     </message>
     <message>
         <source>New Black Theme</source>
@@ -1658,11 +1658,11 @@ Please use administrator account to relaunch &quot;Configuration Tools&quot;.</s
     </message>
     <message>
         <source>Modern Theme</source>
-        <translation type="unfinished"/>
+        <translation>Modern Tema</translation>
     </message>
     <message>
         <source>Failed to change theme.</source>
-        <translation type="unfinished"/>
+        <translation>Tema değiştirilemedi.</translation>
     </message>
     <message>
         <source>WPS Office offers multiple sets of interface schemes with different themes.
