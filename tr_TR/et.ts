@@ -6743,11 +6743,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>N</source>
-        <translation type="unfinished"/>
+        <translation>N</translation>
     </message>
     <message>
         <source>X</source>
-        <translation type="unfinished"/>
+        <translation>X</translation>
     </message>
     <message>
         <source>A1</source>
@@ -6791,7 +6791,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Pmt</source>
-        <translation type="unfinished"/>
+        <translation>Dönemsel_ödeme</translation>
     </message>
     <message>
         <source>Ref</source>
@@ -6851,7 +6851,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"/>
+        <translation>Saat</translation>
     </message>
     <message>
         <source>Iter</source>
@@ -6903,7 +6903,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"/>
+        <translation>Yıl</translation>
     </message>
     <message>
         <source>text</source>
@@ -6989,7 +6989,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>is a parameter to the distribution and must be greater than 0.</source>
         <comment>TX_ParaDesc_026</comment>
-        <translation type="unfinished"/>
+        <translation>dağılım parametresi, 0 dan büyük olmalıdır.</translation>
     </message>
     <message>
         <source>Alpha</source>
@@ -7062,7 +7062,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"/>
+        <translation>Ay</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
@@ -7143,7 +7143,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>binary number</source>
-        <translation type="unfinished"/>
+        <translation>Sayı</translation>
     </message>
     <message>
         <source>is the interest rate you pay on the money used in the cash flows.</source>
@@ -7278,22 +7278,22 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>X</source>
         <comment>TX_ParaInfo_133</comment>
-        <translation type="unfinished"/>
+        <translation>X</translation>
     </message>
     <message>
         <source>X</source>
         <comment>TX_ParaInfo_134</comment>
-        <translation type="unfinished"/>
+        <translation>X</translation>
     </message>
     <message>
         <source>X</source>
         <comment>TX_ParaInfo_143</comment>
-        <translation type="unfinished"/>
+        <translation>X</translation>
     </message>
     <message>
         <source>N</source>
         <comment>TX_ParaInfo_160</comment>
-        <translation type="unfinished"/>
+        <translation>N</translation>
     </message>
     <message>
         <source>The second number</source>
@@ -7301,7 +7301,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the number of periods over which the asset is being depreciated (sometimes called the useful life of the asset).</source>
-        <translation type="unfinished"/>
+        <translation>varlığın yıpranma dönemi miktarı (bazen varlığın kullanım ömrü olarak da kullanılır).</translation>
     </message>
     <message>
         <source>is a logical value: the value of the accrued interest started from the date of issuance is equal to TRUE or ignored; the value of the interest started from the last coupon payment date is equal to FALSE.</source>
@@ -7345,7 +7345,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>is the total number of payment periods for the loan or investment.</source>
         <comment>TX_ParaDesc_318</comment>
-        <translation type="unfinished"/>
+        <translation>yatırım ya da borç için toplam ödeme dönemi sayısı.</translation>
     </message>
     <message>
         <source>The maximum number of data points you can use in a data series for a 2-D chart is 32,000. If you want to use more than 32,000 data points, you must create two or more series.</source>
@@ -7432,7 +7432,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the binary number you want to convert.</source>
-        <translation type="unfinished"/>
+        <translation>dönüştürmek istediğiniz ikilik düzendeki sayı.</translation>
     </message>
     <message>
         <source>Number From 1(Fri) To 7(Thur)</source>
@@ -7492,7 +7492,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
-        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 254 arasındaki metin dizesidir ve metin dizeleri, sayı veya bir hücre aralığı olabilir.</translation>
+        <translation>metin1%1 metin2%1... tek bir dizede birleştirilecek 1 ile 255 arasındaki metin dizesidir ve metin dizeleri, sayı veya bir hücre aralığı olabilir.</translation>
     </message>
     <message>
         <source>probability density function</source>
@@ -7771,7 +7771,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>Lower bound of the X range</source>
-        <translation type="unfinished"/>
+        <translation>A</translation>
     </message>
     <message>
         <source>The Start Time contains an error now. Do you want to continue?</source>
@@ -7819,7 +7819,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is probability associated with the beta distribution.</source>
-        <translation type="unfinished"/>
+        <translation>beta dağılımıyla ilgili olasılık.</translation>
     </message>
     <message>
         <source>is a number specifying the type of Roman numeral you want.</source>
@@ -8124,7 +8124,7 @@ Aktar</translation>
     </message>
     <message>
         <source>For testing the value of the function</source>
-        <translation type="unfinished"/>
+        <translation>işlevin hesaplanacağı değer.</translation>
     </message>
     <message>
         <source>is the text string containing the characters you want to extract.</source>
@@ -8140,7 +8140,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Number_s2</source>
-        <translation type="unfinished"/>
+        <translation>Başarı_sayısı2</translation>
     </message>
     <message>
         <source>Max_num</source>
@@ -8174,7 +8174,7 @@ Aktar</translation>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
         <comment>TX_ParaDesc_567</comment>
-        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 254 arasındaki metin dizesidir ve metin dizeleri, sayı veya bir hücre aralığı olabilir.</translation>
+        <translation>metin1%1 metin2%1... tek bir dizede birleştirilecek 1 ile 255 arasındaki metin dizesidir ve metin dizeleri, sayı veya bir hücre aralığı olabilir.</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -8199,7 +8199,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is text specifying what type of information you want returned.</source>
-        <translation type="unfinished"/>
+        <translation>almak istediğiniz bilginin türünü belirten metin.</translation>
     </message>
     <message>
         <source>specifies the number of distribution tails to return: one-tailed distribution = 1; two-tailed distribution = 2.</source>
@@ -8241,7 +8241,7 @@ Aktar</translation>
     <message>
         <source>Alpha</source>
         <comment>TX_ParaInfo_164</comment>
-        <translation>Alfa</translation>
+        <translation>Sınır_değer</translation>
     </message>
     <message>
         <source>Alpha</source>
@@ -8349,7 +8349,7 @@ Aktar</translation>
     </message>
     <message>
         <source>The value of step-by-step test</source>
-        <translation type="unfinished"/>
+        <translation>Adım adım test değeri.</translation>
     </message>
     <message>
         <source>Web Query</source>
@@ -8443,7 +8443,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is a parameter to the distribution and must be greater than 0.</source>
-        <translation type="unfinished"/>
+        <translation>dağılım parametresi, 0 dan büyük olmalıdır.</translation>
     </message>
     <message>
         <source>Chart </source>
@@ -8511,7 +8511,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the decimal representation of the binary number you want to compute</source>
-        <translation type="unfinished"/>
+        <translation>hesaplamak istediğiniz ikili sayının ondalık gösterimi.</translation>
     </message>
     <message>
         <source>New_x&apos;s</source>
@@ -8648,7 +8648,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the value representing the timing of payment: payment at the beginning of the period = 1; payment at the end of the period = 0 or omitted.</source>
-        <translation type="unfinished"/>
+        <translation>ödeme zamanlamasını temsil eden değerdir: dönemin başındaki ödeme = 1; dönem sonundaki ödeme = 0 veya atlandı.</translation>
     </message>
     <message>
         <source>The End Time must be greater than or equal to the Start Time.</source>
@@ -8668,7 +8668,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Lambda</source>
-        <translation>Lambda</translation>
+        <translation>X</translation>
     </message>
     <message>
         <source>The Minimum must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
@@ -8859,7 +8859,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Trials</source>
-        <translation type="unfinished"/>
+        <translation>Denemeler</translation>
     </message>
     <message>
         <source>The selection contains some cells without Data Validation settings. Do you want to extend Data Validation to these cells?</source>
@@ -8871,11 +8871,11 @@ Aktar</translation>
     </message>
     <message>
         <source>number1</source>
-        <translation type="unfinished"/>
+        <translation>Sayı1</translation>
     </message>
     <message>
         <source>number2</source>
-        <translation type="unfinished"/>
+        <translation>Sayı2</translation>
     </message>
     <message>
         <source>Update</source>
@@ -8913,12 +8913,12 @@ Aktar</translation>
     <message>
         <source>is a logical value: payment at the beginning of the period = 1; payment at the end of the period = 0 or omitted.</source>
         <comment>TX_ParaDesc_295</comment>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: dönem başında ödeme = 1; dönem sonunda ödeme = 0 ya da atlanmış.</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period = 1; payment at the end of the period = 0 or omitted.</source>
         <comment>TX_ParaDesc_321</comment>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: dönem başında ödeme = 1; dönem sonunda ödeme = 0 ya da atlanmış.</translation>
     </message>
     <message>
         <source>are new x-values for which you want GROWTH to return corresponding y-values.</source>
@@ -9117,7 +9117,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the probability of success on each trial.</source>
-        <translation type="unfinished"/>
+        <translation>her bir denemedeki başarı olasılığı.</translation>
     </message>
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a name that refers to a cell, formula, or value.</source>
@@ -9384,7 +9384,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the total number of payment periods in the investment.</source>
         <comment>TX_ParaDesc_309</comment>
-        <translation type="unfinished"/>
+        <translation>yatırımın toplam ödeme dönemi sayısı.</translation>
     </message>
     <message>
         <source>Microsoft Access Database</source>
@@ -9486,7 +9486,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
-        <translation>metin1%1 metin2%1.... tek bir dizede birleştirilecek 1 ile 254 arasındaki metin dizesidir ve metin dizeleri, sayı veya tek hücreli başvurular olabilir.</translation>
+        <translation>metin1%1 metin2%1... tek bir dizede birleştirilecek 1 ile 255 arasındaki metin dizesidir ve metin dizeleri, sayı veya tek hücreli başvurular olabilir.</translation>
     </message>
     <message>
         <source>is the text you want to convert to lowercase. Characters in Text that are not letters are not changed.</source>
@@ -9494,7 +9494,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
-        <translation type="unfinished"/>
+        <translation>x aralığı için isteğe bağlı üst sınır. Atlanırsa, B = 1.</translation>
     </message>
     <message>
         <source>Abs_num</source>
@@ -9523,7 +9523,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is a text value that specifies what type of cell information you want.</source>
-        <translation>hangi tür hücre bilgisi istendiğini belirten metin değeridir.</translation>
+        <translation>hangi tür hücre bilgisi istendiğini belirten metin değeri.</translation>
     </message>
     <message>
         <source>Logical_test</source>
@@ -9755,12 +9755,12 @@ Bunun çeşitli nedenleri olabilir:
     <message>
         <source>is the number of periods over which the asset is being depreciated (sometimes called the useful life of the asset).</source>
         <comment>TX_ParaDesc_091</comment>
-        <translation type="unfinished"/>
+        <translation>varlığın yıpranma dönemi miktarı (bazen varlığın kullanım ömrü olarak da kullanılır).</translation>
     </message>
     <message>
         <source>is the number of periods over which the asset is being depreciated (sometimes called the useful life of the asset).</source>
         <comment>TX_ParaDesc_363</comment>
-        <translation type="unfinished"/>
+        <translation>varlığın yıpranma dönemi miktarı (bazen varlığın kullanım ömrü olarak da kullanılır).</translation>
     </message>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
@@ -9797,7 +9797,7 @@ Bunun çeşitli nedenleri olabilir:
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
         <comment>TX_ParaDesc_027</comment>
-        <translation type="unfinished"/>
+        <translation>x aralığı için isteğe bağlı üst sınır. Atlanırsa, B = 1.</translation>
     </message>
     <message>
         <source>period for which you want to find interest.</source>
@@ -9967,7 +9967,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
-        <translation>değer1,değer2,...  en az 1 en fazla 30 bağımsız değişkendir, her biri farklı türdeki çeşitli verileri taşıyabilir ya da bunlara başvurabilir, fakat yalnızca sayılar dikkate alınır.</translation>
+        <translation>değer1,değer2,...  en az 1 en fazla 255 bağımsız değişkendir, her biri farklı türdeki çeşitli verileri taşıyabilir ya da bunlara başvurabilir, fakat yalnızca sayılar dikkate alınır.</translation>
     </message>
     <message>
         <source>Insert_logical</source>
@@ -9993,7 +9993,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Threshold</source>
-        <translation type="unfinished"/>
+        <translation>sınır değer.</translation>
     </message>
     <message>
         <source>Expression</source>
@@ -10018,7 +10018,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is the payment made each period; it cannot change over the life of the investment.</source>
-        <translation type="unfinished"/>
+        <translation>her dönem yapılan ödeme, yatırım süresi boyunca değişmez.</translation>
     </message>
     <message>
         <source>is the value for which you want the transformation, a number between -1 and 1, excluding -1 and 1.</source>
@@ -10236,7 +10236,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>Probability_s</source>
-        <translation type="unfinished"/>
+        <translation>Başarı_olasılığı</translation>
     </message>
     <message>
         <source>This function is provided in WPS Office 2009 Professional Edition.</source>
@@ -10547,7 +10547,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is the total number of payment periods in the investment.</source>
-        <translation type="unfinished"/>
+        <translation>yatırımın toplam ödeme dönemi sayısı.</translation>
     </message>
     <message>
         <source>Step_num</source>
@@ -10699,7 +10699,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is the number of independent trials.</source>
-        <translation type="unfinished"/>
+        <translation>bağımsız denemelerin sayısı.</translation>
     </message>
     <message>
         <source>=today()</source>
@@ -10792,7 +10792,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Returns the cumulative distribution function</source>
-        <translation type="unfinished"/>
+        <translation>Kümülatif</translation>
     </message>
     <message>
         <source>is an array or a reference to cells that contain numbers that represent a series of payments (negative) and income (positive) at a regular periods.</source>
@@ -10936,7 +10936,7 @@ Sil</translation>
     </message>
     <message>
         <source>is the total number of payment periods for the loan or investment.</source>
-        <translation type="unfinished"/>
+        <translation>yatırım ya da borç için toplam ödeme dönemi sayısı.</translation>
     </message>
     <message>
         <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have the same dimensions.</source>
@@ -10952,7 +10952,7 @@ Sil</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
-        <translation>sayı1%1 sayı2%1... basıklığını bulmak istediğiniz en az 1 en fazla 30 sayı, ad, dizi ya da sayı içeren başvurudur.</translation>
+        <translation>sayı1%1 sayı2%1... basıklığını bulmak istediğiniz en az 1 en fazla 255 sayı, ad, dizi ya da sayı içeren başvurudur.</translation>
     </message>
     <message>
         <source>Help_ref</source>
@@ -10968,7 +10968,7 @@ Sil</translation>
     </message>
     <message>
         <source>Number_s</source>
-        <translation type="unfinished"/>
+        <translation>Başarı_sayısı</translation>
     </message>
     <message>
         <source>The Maximum must be an integer, numeric expression, or reference to a cell containing a numeric value.</source>
@@ -11066,11 +11066,11 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero or omitted, to the nearest integer.</source>
-        <translation type="unfinished"/>
+        <translation>sayıyı yuvarlamak istediğiniz rakam sayısı. Negatif sayılar ondalık noktasının soluna; sıfır ya da atlanmış olanlar ise en yakın tamsayıya yuvarlanır.</translation>
     </message>
     <message>
         <source>Value X</source>
-        <translation type="unfinished"/>
+        <translation>X</translation>
     </message>
     <message>
         <source>You may not use references to other workbooks for Data Validation criteria.</source>
@@ -11106,7 +11106,7 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 arguments representing the values and cells you want to count. Values can be any type of information.</source>
-        <translation>değer1,değer2,... saymak istediğiniz değerleri ve hücreleri temsil eden en az 1 en fazla 30 bağımsız değişkendir. Değerler herhangi bir bilgi türünde olabilir.</translation>
+        <translation>değer1,değer2,... saymak istediğiniz değerleri ve hücreleri temsil eden en az 1 en fazla 255 bağımsız değişkendir. Değerler herhangi bir bilgi türünde olabilir.</translation>
     </message>
     <message>
         <source>is an optional set of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
@@ -11115,7 +11115,7 @@ The values which can be typed here is restricted by other users.</source>
     <message>
         <source>Number_s</source>
         <comment>TX_ParaInfo_154</comment>
-        <translation type="unfinished"/>
+        <translation>Başarı_sayısı</translation>
     </message>
     <message>
         <source>is a set of independent values.</source>
@@ -11124,7 +11124,7 @@ The values which can be typed here is restricted by other users.</source>
     <message>
         <source>Serial_number</source>
         <comment>TX_ParaInfo_066</comment>
-        <translation>Seri_numarası</translation>
+        <translation>Seri_no</translation>
     </message>
     <message>
         <source>Width</source>
@@ -11225,7 +11225,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>Distribution Probability</source>
-        <translation type="unfinished"/>
+        <translation>Olasılık</translation>
     </message>
     <message>
         <source>Key_text</source>
@@ -11381,7 +11381,7 @@ Koru</translation>
     </message>
     <message>
         <source>Serial_number</source>
-        <translation>Seri_numarası</translation>
+        <translation>Seri_no</translation>
     </message>
     <message>
         <source>Font size must be between 1 and 409 points.</source>
@@ -11433,7 +11433,7 @@ Koru</translation>
     </message>
     <message>
         <source>The order of the function</source>
-        <translation type="unfinished"/>
+        <translation>Bessel işlevinin derecesi.</translation>
     </message>
     <message>
         <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Row: %3&lt;br&gt;Column: %4</source>
@@ -11523,7 +11523,7 @@ Koru</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period = 1; payment at the end of the period = 0 or omitted.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: dönem başında ödeme = 1; dönem sonunda ödeme = 0 ya da atlanmış.</translation>
     </message>
     <message>
         <source>value1,value2,... is a value to be compared with expression.</source>
@@ -11548,7 +11548,7 @@ Denetimi</translation>
     </message>
     <message>
         <source> is an optional lower bound to the interval of x. If omitted, lower bound fo the X range = 0.</source>
-        <translation type="unfinished"/>
+        <translation>x aralığı için isteğe bağlı alt sınır. Atlanırsa, A = 0.</translation>
     </message>
     <message>
         <source>is the row number in Table_array from which the matching value should be returned. The first row of values in the table is row 1.</source>
@@ -11573,7 +11573,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the number of months in the first year. If month is omitted, it is assumed to be 12.</source>
-        <translation type="unfinished"/>
+        <translation>ilk yılda bulunan ay sayısı. Ay sayısı boş bırakılırsa 12 olduğu varsayılır.</translation>
     </message>
     <message>
         <source>Upper Case Chinese number</source>
@@ -11669,7 +11669,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Upper bound of the X range </source>
-        <translation type="unfinished"/>
+        <translation>B</translation>
     </message>
     <message>
         <source>Height</source>
@@ -11757,7 +11757,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the y-coordinate of the point.</source>
-        <translation type="unfinished"/>
+        <translation>noktanın y-koordinatı.</translation>
     </message>
     <message>
         <source>is the x-coordinate of the point.</source>
@@ -11781,7 +11781,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Optional. If provided, returns the probability that the number of successful trials will fall between Number_s and number_s2. Must be greater than or equal to Number_s and less than or equal to Trials.</source>
-        <translation type="unfinished"/>
+        <translation>varsa, bu fonksiyon başarılı denemelerin başarı_sayısı ve başarı_sayısı2 arasında yer alma olasılığını döndürür. Başarı_sayısı değerine eşit veya ondan büyük ve Denemelere eşit veya ondan küçük olmalıdır.</translation>
     </message>
     <message>
         <source>is a positive integer indicating the number of degrees of freedom to characterize the distribution.</source>
@@ -11828,7 +11828,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the number of successes in trials.</source>
-        <translation type="unfinished"/>
+        <translation>denemelerdeki başarı sayısı.</translation>
     </message>
     <message>
         <source>is the present value, or the lump-sum amount that a series of future payments is worth now. If omitted, Pv = 0.</source>
@@ -12033,7 +12033,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the value you want to round.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: kümülatif dağılım fonksiyonu için DOĞRU&apos;yu; olasılık kütle fonksiyonu için YANLIŞ&apos;ı kullanın.</translation>
     </message>
     <message>
         <source>is the array or range of data that defines relative standing.</source>
@@ -22145,19 +22145,19 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"/>
+        <translation>Gün</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"/>
+        <translation>Saat</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"/>
+        <translation>Yıl</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"/>
+        <translation>Ay</translation>
     </message>
     <message>
         <source>Minute</source>
@@ -22584,7 +22584,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>NPER(rate, pmt, pv, fv, type)</source>
-        <translation>TAKSİT_SAYISI(oran,devresel_ödeme,bd,gd,tür)</translation>
+        <translation>TAKSİT_SAYISI(oran,dönemsel_ödeme,bd,gd,tür)</translation>
     </message>
     <message>
         <source>Returns a bitwise &apos;OR&apos; of two numbers.</source>
@@ -22652,7 +22652,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SECOND(serial_number)</source>
-        <translation>SANİYE(seri_numarası)</translation>
+        <translation>SANİYE(Seri_no)</translation>
     </message>
     <message>
         <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
@@ -22852,7 +22852,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>RATE(nper,pmt,pv,fv,type,guess)</source>
-        <translation>FAİZ_ORANI(dönem_sayısı,devresel_ödeme,bd,gd,tür,tahmin)</translation>
+        <translation>FAİZ_ORANI(dönem_sayısı,dönemsel_ödeme,bd,gd,tür,tahmin)</translation>
     </message>
     <message>
         <source>INFO(type_text)</source>
@@ -23366,7 +23366,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>HOUR(serial_number)</source>
-        <translation>SAAT(seri_numarası)</translation>
+        <translation>SAAT(Seri_no)</translation>
     </message>
     <message>
         <source>FORMULA(Ref)</source>
@@ -23390,7 +23390,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the Bessel function(also called the Weber function or the Neumann function).</source>
-        <translation>Bessel işlevini döndürür (Weber işlevi veya Neumann işlevi de denir).</translation>
+        <translation>Jn(x) Bessel işlevini döndürür (Weber işlevi veya Neumann işlevi de denir).</translation>
     </message>
     <message>
         <source>IMLOG2(inumber)</source>
@@ -23454,7 +23454,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>YEAR(serial_number)</source>
-        <translation>YIL(seri_numarası)</translation>
+        <translation>YIL(Seri_no)</translation>
     </message>
     <message>
         <source>APP.TITLE(text)</source>
@@ -24230,7 +24230,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>FV(rate,nper,pmt,pv,type)</source>
-        <translation>GD(oran,dönem_sayısı,devresel_ödeme,gd,tür)</translation>
+        <translation>GD(oran,dönem_sayısı,dönemsel_ödeme,gd,tür)</translation>
     </message>
     <message>
         <source>LOGINV(probability,mean,standard_dev)</source>
@@ -24619,7 +24619,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PV(rate,nper,pmt,fv,type)</source>
-        <translation>BD (oran,dönem_sayısı,devresel_ödeme,gd,tür)</translation>
+        <translation>BD (oran,dönem_sayısı,dönemsel_ödeme,gd,tür)</translation>
     </message>
     <message>
         <source>DELETE.MENU(bar_num, menu, submenu)</source>
@@ -24775,7 +24775,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MINUTE(serial_number)</source>
-        <translation>DAKİKA(seri_numarası)</translation>
+        <translation>DAKİKA(Seri_no)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of a complex number in x + yi or x + yj text format</source>
@@ -25033,7 +25033,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel functions evaluated for purely imaginary arguments.</source>
-        <translation>Tamamen sanal bağımsız değişkenler için değerlendirilen Bessel işlevinin eşdeğeri olan, değiştirilmiş Bessel işlevini verir.</translation>
+        <translation>Kn(x) değiştirilmiş Bessel işlevini döndürür.</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is a number and FALSE otherwise.</source>
@@ -25398,7 +25398,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>DAY(serial_number)</source>
-        <translation>GÜN(seri_numarası)</translation>
+        <translation>GÜN(Seri_no)</translation>
     </message>
     <message>
         <source>Returns the character specified by the code number from the character set for your computer.</source>
@@ -25774,7 +25774,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
-        <translation>Tamamen sanal bağımsız değişkenler için değerlendirilen Bessel işlevinin eşdeğeri olan, değiştirilmiş Bessel işlevini verir.</translation>
+        <translation>In(x) değiştirilmiş Bessel işlevini döndürür.</translation>
     </message>
     <message>
         <source>HARMEAN(number1,number2,...)</source>
@@ -25827,7 +25827,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the Bessel function.</source>
-        <translation>Bessel işlevini döndürür.</translation>
+        <translation>Jn(x) Bessel işlevini döndürür.</translation>
     </message>
     <message>
         <source>Returns the Fisher transformation.</source>
@@ -27853,7 +27853,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Recently File Management</source>
-        <translation type="unfinished"/>
+        <translation>Son Dosya Listesi</translation>
     </message>
     <message>
         <source>NewChart ChartArea</source>
@@ -28205,7 +28205,7 @@ Doldurma</translation>
     </message>
     <message>
         <source>Recent File Management</source>
-        <translation type="unfinished"/>
+        <translation>Son Dosya Yönetimi</translation>
     </message>
     <message>
         <source>ShortSymbol</source>
