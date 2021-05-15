@@ -1318,7 +1318,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Single Page</source>
-        <translation type="unfinished"/>
+        <translation>Tek Sayfa</translation>
     </message>
     <message>
         <source>Double Page</source>
@@ -5417,7 +5417,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Single Page</source>
-        <translation type="unfinished"/>
+        <translation>Tek Sayfa</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -10047,7 +10047,7 @@ Navigation</source>
     <name>KxPdfPopupTipsWidget</name>
     <message>
         <source>Tips</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
     <message>
         <source>VipOk</source>
