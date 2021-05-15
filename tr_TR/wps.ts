@@ -3258,7 +3258,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Web page</source>
-        <translation type="unfinished"/>
+        <translation>Web sayfası</translation>
     </message>
     <message>
         <source>Cann&amp;ot end line:</source>
@@ -5559,7 +5559,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Web Page</source>
-        <translation type="unfinished"/>
+        <translation>Web Sayfası</translation>
     </message>
     <message>
         <source>The number must be a divisor of %d.</source>
@@ -20476,7 +20476,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>tips</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
     <message>
         <source>Change</source>
@@ -36044,7 +36044,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Web page </source>
-        <translation type="unfinished"/>
+        <translation>Web sayfası </translation>
     </message>
     <message>
         <source>Job title</source>
@@ -36231,7 +36231,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Web page</source>
-        <translation type="unfinished"/>
+        <translation>Web sayfası</translation>
     </message>
     <message>
         <source>Spouse courtesy title</source>
@@ -42208,7 +42208,7 @@ Hayır:	Şablona kaydetme;
     <name>KxPaperCheckCommand_XA</name>
     <message>
         <source>Tips</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
     <message>
         <source>Please save document before check paper.</source>
