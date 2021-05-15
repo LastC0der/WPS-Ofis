@@ -4150,7 +4150,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Convert to Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekillere Dönüştür</translation>
     </message>
     <message>
         <source>Convert</source>
@@ -4610,7 +4610,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Red</source>
@@ -8242,7 +8242,7 @@ Line-type: %3</source>
     <message>
         <source>Pie</source>
         <comment>DRAWING2_TOOLTIP_PIE</comment>
-        <translation type="unfinished"/>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>GhostWhite</source>
@@ -12612,23 +12612,23 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>*.avi</source>
-        <translation type="unfinished"/>
+        <translation>*.avi</translation>
     </message>
     <message>
         <source>*.m4a</source>
-        <translation type="unfinished"/>
+        <translation>*.m4a</translation>
     </message>
     <message>
         <source>*.mov</source>
-        <translation type="unfinished"/>
+        <translation>*.mov</translation>
     </message>
     <message>
         <source>*.vob</source>
-        <translation type="unfinished"/>
+        <translation>*.vob</translation>
     </message>
     <message>
         <source>*.wav</source>
-        <translation type="unfinished"/>
+        <translation>*.wav</translation>
     </message>
     <message>
         <source>Insert Vertical Text Box</source>
@@ -12636,7 +12636,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>*.adts;*.adt;*aac</source>
-        <translation type="unfinished"/>
+        <translation>*.adts;*.adt;*aac</translation>
     </message>
     <message>
         <source>Kern Character Pairs</source>
@@ -12789,7 +12789,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.mp2;*.m3u)</source>
-        <translation type="unfinished"/>
+        <translation>MP3 Ses Dosyası(mp3) (*.mp3;*.mp2;*.m3u)</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -12887,7 +12887,7 @@ Ekle</translation>
     </message>
     <message>
         <source>*.mp3;*.mp2;*.m3u</source>
-        <translation type="unfinished"/>
+        <translation>*.mp3;*.mp2;*.m3u</translation>
     </message>
     <message>
         <source>Insert Scribble</source>
@@ -12938,7 +12938,7 @@ Ekle</translation>
     </message>
     <message>
         <source>AIFF Audio File(aiff) (*.aif;*.aifc;*.aiff)</source>
-        <translation type="unfinished"/>
+        <translation>AIFF Ses Dosyası(aiff) (*.aif;*.aifc;*.aiff)</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -12966,7 +12966,7 @@ Ekle</translation>
     </message>
     <message>
         <source>AU Audio File(au) (*.au;*.snd)</source>
-        <translation type="unfinished"/>
+        <translation>AU Ses Dosyası(au) (*.au;*.snd)</translation>
     </message>
     <message>
         <source>Reset Picture And Size</source>
@@ -13354,7 +13354,7 @@ Ekle</translation>
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
-        <translation type="unfinished"/>
+        <translation>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
@@ -13384,7 +13384,7 @@ Ekle</translation>
     </message>
     <message>
         <source>*.au;*.snd</source>
-        <translation type="unfinished"/>
+        <translation>*.au;*.snd</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -13422,7 +13422,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
-        <translation type="unfinished"/>
+        <translation>Ses Dosyaları (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</translation>
     </message>
     <message>
         <source>Close Path</source>
@@ -13636,7 +13636,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>ADTS Audio File (*.adts;*.adt;*aac)</source>
-        <translation type="unfinished"/>
+        <translation>ADTS Ses Dosyası (*.adts;*.adt;*aac)</translation>
     </message>
     <message>
         <source>Open Path</source>
@@ -13762,7 +13762,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
-        <translation type="unfinished"/>
+        <translation>Ses Dosyaları (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -13802,7 +13802,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
-        <translation type="unfinished"/>
+        <translation>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</translation>
     </message>
     <message>
         <source>Straight Segment</source>
@@ -13858,7 +13858,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Windows Audio File(wav) (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Windows Ses Dosyası(wav) (*.wav)</translation>
     </message>
     <message>
         <source>Nudge Object</source>
@@ -18426,15 +18426,15 @@ Check path and filename.</source>
     <name>KxChartSeriesModel</name>
     <message>
         <source>Bar</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk</translation>
     </message>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"/>
+        <translation>Alan</translation>
     </message>
     <message>
         <source>Line</source>
@@ -18442,15 +18442,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar</translation>
     </message>
     <message>
         <source>Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Çubuk</translation>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Radar</translation>
     </message>
     <message>
         <source>Filled Radar</source>
@@ -18458,11 +18458,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Clustered Bar</source>
-        <translation type="unfinished"/>
+        <translation>Kümelenmiş Çubuk</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines</source>
-        <translation type="unfinished"/>
+        <translation>Düzgünleştirilmiş Çizgileri Olan Dağılım</translation>
     </message>
     <message>
         <source>X Y (Scatter)</source>
@@ -18470,11 +18470,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Çizgi</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Düzgünleştirilmiş Çizgileri ve İşaretçileri Olan Dağılım</translation>
     </message>
     <message>
         <source>Column</source>
@@ -18482,11 +18482,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bar Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta Çubuğu</translation>
     </message>
     <message>
         <source>Pie Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta Pastası</translation>
     </message>
     <message>
         <source>Doughnut</source>
@@ -18510,7 +18510,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scatter with Straight Lines</source>
-        <translation type="unfinished"/>
+        <translation>Düz Çizgileri Olan Dağılım</translation>
     </message>
     <message>
         <source>100% Stacked Line with Markers</source>
@@ -18518,7 +18518,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scatter with Straight Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Düz Çizgileri ve İşaretçileri Olan Dağılım</translation>
     </message>
     <message>
         <source>Clustered Column</source>
@@ -18526,11 +18526,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Alan</translation>
     </message>
     <message>
         <source>Stacked Line</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Çizgi</translation>
     </message>
     <message>
         <source>100% Stacked Area</source>
@@ -18542,22 +18542,22 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Column</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Sütun</translation>
     </message>
 </context>
 <context>
     <name>KxChartSeriesModel_xa</name>
     <message>
         <source>Bar</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk</translation>
     </message>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"/>
+        <translation>Alan</translation>
     </message>
     <message>
         <source>Line</source>
@@ -18565,15 +18565,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar</translation>
     </message>
     <message>
         <source>Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Çubuk</translation>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Radar</translation>
     </message>
     <message>
         <source>Filled Radar</source>
@@ -18581,11 +18581,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Clustered Bar</source>
-        <translation type="unfinished"/>
+        <translation>Kümelenmiş Çubuk</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines</source>
-        <translation type="unfinished"/>
+        <translation>Düzgünleştirilmiş Çizgileri Olan Dağılım</translation>
     </message>
     <message>
         <source>X Y (Scatter)</source>
@@ -18593,11 +18593,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Çizgi</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Düzgünleştirilmiş Çizgileri ve İşaretçileri Olan Dağılım</translation>
     </message>
     <message>
         <source>Column</source>
@@ -18605,11 +18605,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bar Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta Çubuğu</translation>
     </message>
     <message>
         <source>Pie Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta Pastası</translation>
     </message>
     <message>
         <source>Doughnut</source>
@@ -18633,7 +18633,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scatter with Straight Lines</source>
-        <translation type="unfinished"/>
+        <translation>Düz Çizgileri Olan Dağılım</translation>
     </message>
     <message>
         <source>100% Stacked Line with Markers</source>
@@ -18641,7 +18641,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scatter with Straight Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Düz Çizgileri ve İşaretçileri Olan Dağılım</translation>
     </message>
     <message>
         <source>Clustered Column</source>
@@ -18649,11 +18649,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Alan</translation>
     </message>
     <message>
         <source>Stacked Line</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Çizgi</translation>
     </message>
     <message>
         <source>100% Stacked Area</source>
@@ -18665,22 +18665,22 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Column</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Sütun</translation>
     </message>
 </context>
 <context>
     <name>KxChartTypeDialog</name>
     <message>
         <source>Bar</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk</translation>
     </message>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"/>
+        <translation>Alan</translation>
     </message>
     <message>
         <source>Line</source>
@@ -18688,19 +18688,19 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Area - Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Alan - Kümelenmiş Sütun</translation>
     </message>
     <message>
         <source>Combo</source>
-        <translation type="unfinished"/>
+        <translation>Birleşik</translation>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar</translation>
     </message>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"/>
+        <translation>Hisse Senedi</translation>
     </message>
     <message>
         <source>Open-High-Low-Close</source>
@@ -18708,15 +18708,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Çubuk</translation>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Radar</translation>
     </message>
     <message>
         <source>Secondary Axes</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Eksen</translation>
     </message>
     <message>
         <source>Filled Radar</source>
@@ -18724,11 +18724,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Clustered Bar</source>
-        <translation type="unfinished"/>
+        <translation>Kümelenmiş Çubuk</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines</source>
-        <translation type="unfinished"/>
+        <translation>Düzgünleştirilmiş Çizgileri Olan Dağılım</translation>
     </message>
     <message>
         <source>Insert Chart</source>
@@ -18744,11 +18744,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Çizgi</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Düzgünleştirilmiş Çizgileri ve İşaretçileri Olan Dağılım</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -18760,11 +18760,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>3-D Bubble</source>
-        <translation type="unfinished"/>
+        <translation>3-B Kabarcık</translation>
     </message>
     <message>
         <source>Bubble</source>
-        <translation type="unfinished"/>
+        <translation>Kabarcık</translation>
     </message>
     <message>
         <source>Column</source>
@@ -18776,11 +18776,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bar Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta Çubuğu</translation>
     </message>
     <message>
         <source>Pie Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta Pastası</translation>
     </message>
     <message>
         <source>Conn&apos;t support this data source transform to a combination chart.</source>
@@ -18848,7 +18848,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scatter with Straight Lines</source>
-        <translation type="unfinished"/>
+        <translation>Düz Çizgileri Olan Dağılım</translation>
     </message>
     <message>
         <source>To create this stock chart, arrange the data on your sheet in this order: volume traded, opening price, high price, low price, closing price. Use dates or stock names as labels.</source>
@@ -18876,7 +18876,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scatter with Straight Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Düz Çizgileri ve İşaretçileri Olan Dağılım</translation>
     </message>
     <message>
         <source>To create this stock chart, arrange the data on your sheet in this order: volume traded, high price, low price, closing price. Use dates or stock names as labels.</source>
@@ -18888,15 +18888,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Line with Marker</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Yığılmış Çizgi</translation>
     </message>
     <message>
         <source>Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Alan</translation>
     </message>
     <message>
         <source>Stacked Line</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Çizgi</translation>
     </message>
     <message>
         <source>100% Stacked Area</source>
@@ -18908,22 +18908,22 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Column</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Sütun</translation>
     </message>
 </context>
 <context>
     <name>KxChartTypeDialog_xa</name>
     <message>
         <source>Bar</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk</translation>
     </message>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"/>
+        <translation>Alan</translation>
     </message>
     <message>
         <source>Line</source>
@@ -18935,19 +18935,19 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Area - Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Alan - Kümelenmiş Sütun</translation>
     </message>
     <message>
         <source>Combo</source>
-        <translation type="unfinished"/>
+        <translation>Birleşik</translation>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar</translation>
     </message>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"/>
+        <translation>Hisse Senedi</translation>
     </message>
     <message>
         <source>Open-High-Low-Close</source>
@@ -18955,15 +18955,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Çubuk</translation>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Radar</translation>
     </message>
     <message>
         <source>Secondary Axes</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Eksen</translation>
     </message>
     <message>
         <source>Filled Radar</source>
@@ -18971,11 +18971,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Clustered Bar</source>
-        <translation type="unfinished"/>
+        <translation>Kümelenmiş Çubuk</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines</source>
-        <translation type="unfinished"/>
+        <translation>Düzgünleştirilmiş Çizgileri Olan Dağılım</translation>
     </message>
     <message>
         <source>Insert Chart</source>
@@ -18991,11 +18991,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Çizgi</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Düzgünleştirilmiş Çizgileri ve İşaretçileri Olan Dağılım</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -19007,11 +19007,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>3-D Bubble</source>
-        <translation type="unfinished"/>
+        <translation>3-B Kabarcık</translation>
     </message>
     <message>
         <source>Bubble</source>
-        <translation type="unfinished"/>
+        <translation>Kabarcık</translation>
     </message>
     <message>
         <source>Column</source>
@@ -19019,11 +19019,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bar Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta Çubuğu</translation>
     </message>
     <message>
         <source>Pie Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta Pastası</translation>
     </message>
     <message>
         <source>Conn&apos;t support this data source transform to a combination chart.</source>
@@ -19087,7 +19087,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scatter with Straight Lines</source>
-        <translation type="unfinished"/>
+        <translation>Düz Çizgileri Olan Dağılım</translation>
     </message>
     <message>
         <source>To create this stock chart, arrange the data on your sheet in this order: volume traded, opening price, high price, low price, closing price. Use dates or stock names as labels.</source>
@@ -19115,7 +19115,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scatter with Straight Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Düz Çizgileri ve İşaretçileri Olan Dağılım</translation>
     </message>
     <message>
         <source>To create this stock chart, arrange the data on your sheet in this order: volume traded, high price, low price, closing price. Use dates or stock names as labels.</source>
@@ -19127,15 +19127,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Line with Marker</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Yığılmış Çizgi</translation>
     </message>
     <message>
         <source>Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Alan</translation>
     </message>
     <message>
         <source>Stacked Line</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Çizgi</translation>
     </message>
     <message>
         <source>100% Stacked Area</source>
@@ -19147,14 +19147,14 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stacked Column</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Sütun</translation>
     </message>
 </context>
 <context>
     <name>kso_omath</name>
     <message>
         <source>Bar</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk</translation>
     </message>
     <message>
         <source>Dot</source>
@@ -19287,7 +19287,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>tips</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
     <message>
         <source>Month</source>
@@ -21004,7 +21004,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar</translation>
     </message>
     <message>
         <source>TITLE</source>
@@ -21734,11 +21734,11 @@ This file may be renamed, deleted or moved.</source>
     <name>KxChartTypeGalleryModel</name>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"/>
+        <translation>Alan</translation>
     </message>
     <message>
         <source>Line</source>
@@ -21746,19 +21746,19 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Stacked Area - Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Alan - Kümelenmiş Sütun</translation>
     </message>
     <message>
         <source>Combo</source>
-        <translation type="unfinished"/>
+        <translation>Birleşik</translation>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar</translation>
     </message>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"/>
+        <translation>Hisse Senedi</translation>
     </message>
     <message>
         <source>Open-High-Low-Close</source>
@@ -21766,11 +21766,11 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Çubuk</translation>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Radar</translation>
     </message>
     <message>
         <source>Filled Radar</source>
@@ -21802,11 +21802,11 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>3-D Bubble</source>
-        <translation type="unfinished"/>
+        <translation>3-B Kabarcık</translation>
     </message>
     <message>
         <source>Bubble</source>
-        <translation type="unfinished"/>
+        <translation>Kabarcık</translation>
     </message>
     <message>
         <source>Bar Of Pie</source>
@@ -26571,7 +26571,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Single Web Page File</source>
-        <translation type="unfinished"/>
+        <translation>Tek Web Sayfası Dosyası</translation>
     </message>
     <message>
         <source>WPS Presentation Files</source>
@@ -27025,14 +27025,14 @@ Possible reasons:
     <name>KxMBCommand</name>
     <message>
         <source>tips</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
 </context>
 <context>
     <name>KxVbaDownloadGuiderDlg</name>
     <message>
         <source>tips</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
     <message>
         <source>download</source>
@@ -32003,7 +32003,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>SAPI - failed to set voice speed: </source>
-        <translation type="unfinished"/>
+        <translation>SAPI - ses hızı ayarlanamadı: </translation>
     </message>
     <message>
         <source>SAPI - failed to set Token for Voice.</source>
@@ -33674,7 +33674,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelik değerinde harici olarak ayrıştırılmış genel varlık başvurusuna izin verilmez</translation>
     </message>
     <message>
         <source>error in the text declaration of an external entity</source>
