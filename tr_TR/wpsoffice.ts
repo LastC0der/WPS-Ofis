@@ -3914,7 +3914,7 @@ Please verify the correct file name was given.</source>
     <name>KxVbaDownloadGuiderDlg</name>
     <message>
         <source>tips</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
     <message>
         <source>download</source>
@@ -7162,7 +7162,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelik değerinde harici olarak ayrıştırılmış genel varlık başvurusuna izin verilmez</translation>
     </message>
     <message>
         <source>error in the text declaration of an external entity</source>
