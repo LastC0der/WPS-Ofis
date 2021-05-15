@@ -5134,7 +5134,7 @@ Please verify the correct file name was given.</source>
     <name>KAuthorizedDevicesQueryDlg</name>
     <message>
         <source>Tips</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
 </context>
 <context>
@@ -8730,7 +8730,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelik değerinde harici olarak ayrıştırılmış genel varlık başvurusuna izin verilmez</translation>
     </message>
     <message>
         <source>error in the text declaration of an external entity</source>
