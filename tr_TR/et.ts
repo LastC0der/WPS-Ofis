@@ -7021,7 +7021,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Const</source>
-        <translation type="unfinished"/>
+        <translation>Sabit</translation>
     </message>
     <message>
         <source>Dates</source>
@@ -7082,7 +7082,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Range</source>
-        <translation type="unfinished"/>
+        <translation>Ölçüt_aralığı</translation>
     </message>
     <message>
         <source>Right</source>
@@ -7118,7 +7118,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Value</source>
-        <translation>Değer</translation>
+        <translation>Sayı</translation>
     </message>
     <message>
         <source>Unprotect Book</source>
@@ -7159,7 +7159,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the range of cells you want evaluated.</source>
-        <translation type="unfinished"/>
+        <translation>belirli bir koşula göre hesaplanmasını istediğiniz hücre aralığı.</translation>
     </message>
     <message>
         <source>Millimeters</source>
@@ -7309,7 +7309,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Dividend</source>
-        <translation type="unfinished"/>
+        <translation>Pay</translation>
     </message>
     <message>
         <source>is a value that LOOKUP searches for in Array and can be a number, text, a logical value, or a name or reference to a value.</source>
@@ -7415,12 +7415,12 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>is an optional set of x-values that you may already know in the relationship y=b*m^x, an array or range the same size as Known_y&apos;s.</source>
         <comment>TX_ParaDesc_480</comment>
-        <translation type="unfinished"/>
+        <translation>y=b*m^x denkleminde kullanılan isteğe bağlı x değerleri, bir dizi ya da Bilinen_y lerle aynı boyuttaki aralık.</translation>
     </message>
     <message>
         <source>is an optional set of x-values that you may already know in the relationship y=b*m^x, an array or range the same size as Known_y&apos;s.</source>
         <comment>TX_ParaDesc_219</comment>
-        <translation type="unfinished"/>
+        <translation>y=b*m^x denkleminde kullanılan isteğe bağlı x değerleri, bir dizi ya da Bilinen_y lerle aynı boyuttaki aralık.</translation>
     </message>
     <message>
         <source>is the value at which to evaluate the function, a nonnegative number.</source>
@@ -7709,7 +7709,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the actual cells to be used to find the average. If omitted, cells in the range will be used.</source>
-        <translation type="unfinished"/>
+        <translation>ortalamayı bulmak için kullanılacak asıl hücreler. Atlanırsa, aralıktaki hücreler kullanılır.</translation>
     </message>
     <message>
         <source>Field Name</source>
@@ -7779,7 +7779,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is any real number.</source>
-        <translation type="unfinished"/>
+        <translation>herhangi bir gerçek sayı.</translation>
     </message>
     <message>
         <source>#NAME?</source>
@@ -7908,7 +7908,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is the angle in radians for which you want the cosine.</source>
-        <translation type="unfinished"/>
+        <translation>kosinüs değerini almak istediğiniz radyan cinsinden açı.</translation>
     </message>
     <message>
         <source>Display_type</source>
@@ -7942,7 +7942,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>shift_amount</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma_miktarı</translation>
     </message>
     <message>
         <source>Calculate the plural of its real coefficient</source>
@@ -7982,7 +7982,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the value for which to return the double factorial.</source>
-        <translation type="unfinished"/>
+        <translation>işlevin uygulanacağı sayı.</translation>
     </message>
     <message>
         <source>Calculate the plural of its natural logarithm</source>
@@ -8071,7 +8071,7 @@ Aktar</translation>
     <message>
         <source>is the value to test.</source>
         <comment>TX_ParaDesc_474</comment>
-        <translation>sınanacak değerdir.</translation>
+        <translation>sınanacak sayı.</translation>
     </message>
     <message>
         <source>is the value to test.</source>
@@ -8112,7 +8112,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Sum_range</source>
-        <translation type="unfinished"/>
+        <translation>Aralık_toplamı</translation>
     </message>
     <message>
         <source>is a range that contains only one row or column, the same size as Lookup_vector.</source>
@@ -8120,7 +8120,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is an optional set of x-values that you may already know in the relationship y=b*m^x, an array or range the same size as Known_y&apos;s.</source>
-        <translation type="unfinished"/>
+        <translation>y=b*m^x denkleminde kullanılan isteğe bağlı x değerleri, bir dizi ya da Bilinen_y lerle aynı boyuttaki aralık.</translation>
     </message>
     <message>
         <source>For testing the value of the function</source>
@@ -8157,7 +8157,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Average_range</source>
-        <translation type="unfinished"/>
+        <translation>Aralık_ortalaması</translation>
     </message>
     <message>
         <source>Alt_form</source>
@@ -8515,7 +8515,7 @@ Aktar</translation>
     </message>
     <message>
         <source>New_x&apos;s</source>
-        <translation type="unfinished"/>
+        <translation>Yeni_x&apos;ler</translation>
     </message>
     <message>
         <source>is a number that you want to convert.</source>
@@ -8605,12 +8605,12 @@ Aktar</translation>
     <message>
         <source>is the value to round.</source>
         <comment>TX_ParaDesc_462</comment>
-        <translation type="unfinished"/>
+        <translation>yuvarlanacak değer.</translation>
     </message>
     <message>
         <source>is the value to round.</source>
         <comment>TX_ParaDesc_275</comment>
-        <translation type="unfinished"/>
+        <translation>yuvarlanacak değer.</translation>
     </message>
     <message>
         <source>is the value at which to evaluate the function, a positive number.</source>
@@ -8660,7 +8660,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the range from which you want to count the empty cells.</source>
-        <translation type="unfinished"/>
+        <translation>boş hücrelerin sayısını öğrenmek istediğiniz aralık.</translation>
     </message>
     <message>
         <source>is the text from which you want to exact part of character strings.</source>
@@ -8715,7 +8715,7 @@ Aktar</translation>
     </message>
     <message>
         <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
-        <translation type="unfinished"/>
+        <translation>sayı1%1sayı2%1... çarpımını bulmak istediğiniz en az 1 en fazla 255 sayı, mantıksal değer ya da sayıları temsil eden metindir.</translation>
     </message>
     <message>
         <source>The End Date must be greater than or equal to the Start Date.</source>
@@ -8908,7 +8908,7 @@ Aktar</translation>
     <message>
         <source>is the set of y-values you already know in the relationship y=b*m^x, an array or range of positive numbers.</source>
         <comment>TX_ParaDesc_218</comment>
-        <translation type="unfinished"/>
+        <translation>y=b*m^x denkleminde kullanılan y değerleri kümesi, bir dizi ya da pozitif sayılar aralığı.</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period = 1; payment at the end of the period = 0 or omitted.</source>
@@ -8922,7 +8922,7 @@ Aktar</translation>
     </message>
     <message>
         <source>are new x-values for which you want GROWTH to return corresponding y-values.</source>
-        <translation type="unfinished"/>
+        <translation>ilişkili y değerlerini BÜYÜME ile bulacağınız yeni x değerleri.</translation>
     </message>
     <message>
         <source>Protect Shared Workbook</source>
@@ -9093,7 +9093,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the rate at which the balance declines. If Factor is omitted, it is assumed to be 2(the double-declining balance method).</source>
-        <translation type="unfinished"/>
+        <translation>bakiyenin azalma oranı. Faktör yok sayılırsa, 2 olarak varsayılır (çift azalan bakiye yöntemi).</translation>
     </message>
     <message>
         <source>is the security&apos;s issue date, expressed as a serial date number.</source>
@@ -9230,7 +9230,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=b*m^x, an array or range of positive numbers.</source>
-        <translation type="unfinished"/>
+        <translation>y=b*m^x denkleminde kullanılan y değerleri kümesi, bir dizi ya da pozitif sayılar aralığı.</translation>
     </message>
     <message>
         <source>field item to refer to</source>
@@ -9257,11 +9257,11 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>Known_x&apos;s</source>
-        <translation type="unfinished"/>
+        <translation>Bilinen_x&apos;ler</translation>
     </message>
     <message>
         <source>Known_y&apos;s</source>
-        <translation type="unfinished"/>
+        <translation>Bilinen_y&apos;ler</translation>
     </message>
     <message>
         <source>is the units for the result.</source>
@@ -9307,7 +9307,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>Const</source>
         <comment>TX_ParaInfo_114</comment>
-        <translation type="unfinished"/>
+        <translation>Sabit</translation>
     </message>
     <message>
         <source>Month</source>
@@ -10155,7 +10155,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is the range of cells you want evaluated for the particular condition.</source>
-        <translation type="unfinished"/>
+        <translation>belirli bir koşula göre hesaplanmasını istediğiniz hücre aralığı.</translation>
     </message>
     <message>
         <source>selects a range in Reference from which to return a value. The first area selected or entered is area 1, the second area is area 2, and so on.</source>
@@ -10628,7 +10628,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>Divisor</source>
-        <translation>Bölen</translation>
+        <translation>Payda</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, creating a circular reference. Try one of the following:
@@ -10768,7 +10768,7 @@ Ekle</translation>
     </message>
     <message>
         <source>1 to 30 of skewness parameter needs to be calculated. You can refer to the single array or the array, not separate parameters in comma.</source>
-        <translation type="unfinished"/>
+        <translation>sayı1;sayı2;... eğriliği hesaplamak istediğiniz en az 1 en fazla 255 sayı, ad, dizi ya da sayı içeren başvurudur.</translation>
     </message>
     <message>
         <source>is the text you want to replace Old_text.</source>
@@ -10960,7 +10960,7 @@ Sil</translation>
     </message>
     <message>
         <source>is the position (from the largest) in the array or cell range of the value to return</source>
-        <translation type="unfinished"/>
+        <translation>gelecek olan değerin bulunduğu hücre aralığı veya dizideki konumu (en büyük değerden).</translation>
     </message>
     <message>
         <source>Number_f</source>
@@ -11174,7 +11174,7 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
-        <translation type="unfinished"/>
+        <translation>sayı1%1sayı2%1... çok terimli değerini istediğiniz en az 1 en çok 255 değer.</translation>
     </message>
     <message>
         <source>Cannot find &quot;%s&quot;. Please check the file name's spelling, and make sure the file location is correct.If it is a shared document, please confirm that the document is still in the share.
@@ -11471,7 +11471,7 @@ Koru</translation>
     </message>
     <message>
         <source>is the bits you move number to the right</source>
-        <translation type="unfinished"/>
+        <translation>sağa kaydırmak istediğiniz bit sayısıdır.</translation>
     </message>
     <message>
         <source>field to refer to</source>
@@ -11479,7 +11479,7 @@ Koru</translation>
     </message>
     <message>
         <source>is the bits you move number to the left</source>
-        <translation type="unfinished"/>
+        <translation>sola kaydırmak istediğiniz bit sayısıdır.</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
@@ -11606,12 +11606,12 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the text you want converted to uppercase, a reference or a text string.</source>
-        <translation type="unfinished"/>
+        <translation>büyük harfe dönüştürmek istediğiniz metin, bir başvuru ya da bir metin dizesi.</translation>
     </message>
     <message>
         <source>are new x-values for which you want GROWTH to return corresponding y-values.</source>
         <comment>TX_ParaDesc_158</comment>
-        <translation type="unfinished"/>
+        <translation>ilişkili y değerlerini BÜYÜME ile bulacağınız yeni x değerleri.</translation>
     </message>
     <message>
         <source>is the number you want to truncate.</source>
@@ -11728,7 +11728,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the value to round.</source>
-        <translation type="unfinished"/>
+        <translation>yuvarlanacak değer.</translation>
     </message>
     <message>
         <source>Print_to_file</source>
@@ -11836,7 +11836,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the array or range of data for which you want to determine the k-th largest value.</source>
-        <translation type="unfinished"/>
+        <translation>k. en büyük değeri belirlemek için kullanılan veri dizisi veya aralığı.</translation>
     </message>
     <message>
         <source>Name_text</source>
@@ -11915,7 +11915,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
-        <translation type="unfinished"/>
+        <translation>sayılacak hücreleri tanımlayan, sayı, ifade veya metin biçimindeki koşul.</translation>
     </message>
     <message>
         <source>specifies how many characters you want to extract, 1 if omitted.</source>
@@ -12008,7 +12008,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the text you want to find. Use double quotes (empty text) to match the first character Within_text; wildcard characters not allowed.</source>
-        <translation type="unfinished"/>
+        <translation>bulmak istediğiniz metin. Metin_içindeki ilk karakteri eşleştirmek için çift tırnak (boş metin) kullanın; eşleştirme karakterleri kullanılamaz.</translation>
     </message>
     <message>
         <source>Validation</source>
@@ -12016,7 +12016,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the actual cells to sum.</source>
-        <translation>toplanacak gerçek hücrelerdir.</translation>
+        <translation>toplanacak gerçek hücreler.</translation>
     </message>
     <message>
         <source>is a logical value: return the cumulative distribution function = TRUE; return the probability mass function = FALSE or omitted.</source>
@@ -12103,7 +12103,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the nonnegative number you want the factorial of.</source>
-        <translation type="unfinished"/>
+        <translation>çarpınınım almak istediğiniz negatif olmayan sayı.</translation>
     </message>
     <message>
         <source>the cells in which to determine the maximum value.</source>
@@ -20042,7 +20042,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Values &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Değerler ve Sayı Biçimlendirmesi</translation>
     </message>
     <message>
         <source>Show Details</source>
@@ -22367,7 +22367,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Adds the cells specified by a given set of conditions or criteria.</source>
-        <translation type="unfinished"/>
+        <translation>Belirli bir koşul veya ölçüt kümesi tarafından belirtilen hücreleri toplar.</translation>
     </message>
     <message>
         <source>Returns the largest value in the column of a list or database that matches the conditions you specify.</source>
@@ -22536,7 +22536,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)</source>
-        <translation>ÇOKETOPLA(toplam_aralığı, ölçüt_aralığı1, ölçüt1, [ölçüt_aralığı2, ölçüt2], ...)</translation>
+        <translation>ÇOKETOPLA(aralık_toplamı, ölçüt_aralığı1, ölçüt1, [ölçüt_aralığı2, ölçüt2], ...)</translation>
     </message>
     <message>
         <source>NOT(logical)</source>
@@ -22968,7 +22968,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>DIV(dividend,divisor)</source>
-        <translation>BÖL(bölünen,bölen)</translation>
+        <translation>BÖL(pay,payda)</translation>
     </message>
     <message>
         <source>RANK.AVG(number,ref,order)</source>
@@ -23036,7 +23036,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest even integer.</source>
-        <translation type="unfinished"/>
+        <translation>Bir sayıyı, mutlak değerce kendinden büyük en yakın çift tamsayıya yuvarlar.</translation>
     </message>
     <message>
         <source>Counts the number of cells that are not empty.</source>
@@ -23044,7 +23044,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns TRUE if the number is even and FALSE otherwise.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı bir çift sayı ise DOĞRU döndürür.</translation>
     </message>
     <message>
         <source>ISPMT(rate,per,nper,pv)</source>
@@ -23213,7 +23213,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SUMIF(range,criteria,sum_range)</source>
-        <translation>ETOPLA(aralık,ölçüt,toplam_aralığı)</translation>
+        <translation>ETOPLA(aralık,ölçüt,aralık_toplamı)</translation>
     </message>
     <message>
         <source>Returns the average of the absolute deviations of data points from their mean. AVEDEV is a measure of the variability in a data set.</source>
@@ -23426,7 +23426,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
-        <translation type="unfinished"/>
+        <translation>Bir sayının 1*2*3*...*Sayı şeklinde çarpınımını verir.</translation>
     </message>
     <message>
         <source>FILE.CLOSE(save_logical, route_logical)</source>
@@ -24178,7 +24178,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the double factorial of a number.</source>
-        <translation type="unfinished"/>
+        <translation>Verilen bir sayıdan bire kadar ikişer ikişer azalarak oluşan sayıların çarpımını döndürür.</translation>
     </message>
     <message>
         <source>PRODUCT(number1,number2,...)</source>
@@ -24250,7 +24250,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.</source>
-        <translation type="unfinished"/>
+        <translation>Çift azalan bakiye yöntemi veya belirttiğiniz diğer bir yöntemle, bir varlığın belirtilen dönem içindeki yıpranmasını verir.</translation>
     </message>
     <message>
         <source>Returns the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
@@ -24351,7 +24351,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
-        <translation>ÇOKEĞERORTALAMA(ortalama_aralık,ölçüt_aralığı1,ölçüt1,ölçüt_aralığı2,ölçüt2,...)</translation>
+        <translation>ÇOKEĞERORTALAMA(aralık_ortalaması,ölçüt_aralığı1,ölçüt1,ölçüt_aralığı2,ölçüt2,...)</translation>
     </message>
     <message>
         <source>AVERAGE(number1,number2,...)</source>
@@ -24527,7 +24527,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Multiplies all the numbers given as arguments.</source>
-        <translation type="unfinished"/>
+        <translation>Bağımsız değişken olarak verilen tüm sayıları çarpar.</translation>
     </message>
     <message>
         <source>HEX2BIN(number,places)</source>
@@ -24949,7 +24949,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the ratio of the factorial of a sum of values to the product of the factorials.</source>
-        <translation type="unfinished"/>
+        <translation>Bir değerler toplamının çarpınımının, çarpanların çarpımına oranını verir.</translation>
     </message>
     <message>
         <source>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</source>
@@ -45602,7 +45602,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation type="unfinished"/>
+        <translation>Dış Veri</translation>
     </message>
     <message>
         <source>Edit
@@ -51765,7 +51765,7 @@ Document</source>
     </message>
     <message>
         <source>Values &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Değerler ve Sayı Biçimlendirmesi</translation>
     </message>
 </context>
 <context>
@@ -51835,7 +51835,7 @@ Document</source>
     </message>
     <message>
         <source>External Data</source>
-        <translation type="unfinished"/>
+        <translation>Dış Veri</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -51867,7 +51867,7 @@ OLE DB Query</source>
     <name>KxDlgNewOrModifyAllowUserEditRange</name>
     <message>
         <source>Range</source>
-        <translation type="unfinished"/>
+        <translation>Aralık</translation>
     </message>
     <message>
         <source>&amp;Password...</source>
@@ -52206,7 +52206,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Insert Slicer</source>
-        <translation type="unfinished"/>
+        <translation>Dilimleyici Ekle</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -52214,11 +52214,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Table Name:</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Adı:</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation type="unfinished"/>
+        <translation>Dış Veri</translation>
     </message>
     <message>
         <source>Edit
