@@ -1973,7 +1973,7 @@ Ekle</translation>
     </message>
     <message>
         <source>AIFF Audio File(aiff) (*.aif;*.aifc;*.aiff)</source>
-        <translation type="unfinished"/>
+        <translation>AIFF Ses Dosyası(aiff) (*.aif;*.aifc;*.aiff)</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -1989,7 +1989,7 @@ Ekle</translation>
     </message>
     <message>
         <source>AU Audio File(au) (*.au;*.snd)</source>
-        <translation type="unfinished"/>
+        <translation>AU Ses Dosyası(au) (*.au;*.snd)</translation>
     </message>
     <message>
         <source>Notes Master Layout</source>
@@ -2375,7 +2375,7 @@ Check</source>
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
-        <translation type="unfinished"/>
+        <translation>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show(*.pps)</source>
@@ -2407,7 +2407,7 @@ Check</source>
     </message>
     <message>
         <source>*.au;*.snd</source>
-        <translation type="unfinished"/>
+        <translation>*.au;*.snd</translation>
     </message>
     <message>
         <source>PDF Format(*.pdf)|*.pdf</source>
@@ -2463,7 +2463,7 @@ Check</source>
     </message>
     <message>
         <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
-        <translation type="unfinished"/>
+        <translation>Ses Dosyaları (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation(*.pptx)</source>
@@ -2560,7 +2560,7 @@ Check</source>
     <message>
         <source>2 Slides</source>
         <comment>WpPrintWays_2Slides</comment>
-        <translation type="unfinished"/>
+        <translation>2 Slayt</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -2649,7 +2649,7 @@ Check</source>
     </message>
     <message>
         <source>ADTS Audio File (*.adts;*.adt;*aac)</source>
-        <translation type="unfinished"/>
+        <translation>ADTS Ses Dosyası (*.adts;*.adt;*aac)</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and has replaced %i items.</source>
@@ -2776,7 +2776,7 @@ Check</source>
     </message>
     <message>
         <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
-        <translation type="unfinished"/>
+        <translation>Ses Dosyaları (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
@@ -2800,11 +2800,11 @@ Check</source>
     </message>
     <message>
         <source>Single Web Page Files(*.mht; *.mhtml)</source>
-        <translation type="unfinished"/>
+        <translation>Tek Web Sayfası Dosyaları(*.mht; *.mhtml)</translation>
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
-        <translation type="unfinished"/>
+        <translation>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
@@ -2914,7 +2914,7 @@ Check</source>
     </message>
     <message>
         <source>Windows Audio File(wav) (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Windows Ses Dosyası(wav) (*.wav)</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -6895,7 +6895,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Convert to Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekillere Dönüştür</translation>
     </message>
     <message>
         <source>classical_pelycosaur</source>
@@ -6919,15 +6919,15 @@ Fifth level</source>
     </message>
     <message>
         <source>Title, Content and Text</source>
-        <translation type="unfinished"/>
+        <translation>Başlık, İçerik ve Metin</translation>
     </message>
     <message>
         <source>Uncover Down</source>
-        <translation type="unfinished"/>
+        <translation>Kayma Aşağı</translation>
     </message>
     <message>
         <source>Uncover Left</source>
-        <translation type="unfinished"/>
+        <translation>Kayma Sola</translation>
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
@@ -7236,7 +7236,7 @@ Body: Dissolve In</source>
     </message>
     <message>
         <source>Sound Files(*.wav)|*.wav</source>
-        <translation type="unfinished"/>
+        <translation>Ses Dosyaları(*.wav)|*.wav</translation>
     </message>
     <message>
         <source>Faded Wipe</source>
@@ -26558,7 +26558,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"/>
+        <translation>Ses</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -28559,7 +28559,7 @@ Effects</source>
     <name>kxWppSelectShapeTranslate</name>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"/>
+        <translation>Ses</translation>
     </message>
     <message>
         <source>Video</source>
@@ -31061,7 +31061,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Sound Files(*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Ses Dosyaları(*.wav)</translation>
     </message>
 </context>
 <context>
