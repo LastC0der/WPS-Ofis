@@ -58093,11 +58093,11 @@ Düzenle</translation>
     <name>KxChartTypeGalleryModel</name>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"/>
+        <translation>Alan</translation>
     </message>
     <message>
         <source>Line</source>
@@ -58105,27 +58105,27 @@ Düzenle</translation>
     </message>
     <message>
         <source>Stacked Area - Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Alan - Kümelenmiş Sütun</translation>
     </message>
     <message>
         <source>Combo</source>
-        <translation type="unfinished"/>
+        <translation>Birleşik</translation>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar</translation>
     </message>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"/>
+        <translation>Hisse Senedi</translation>
     </message>
     <message>
         <source>2-D Area</source>
-        <translation type="unfinished"/>
+        <translation>2-B Alan</translation>
     </message>
     <message>
         <source>2-D Line</source>
-        <translation type="unfinished"/>
+        <translation>2-B Çizgi</translation>
     </message>
     <message>
         <source>Open-High-Low-Close</source>
@@ -58133,11 +58133,11 @@ Düzenle</translation>
     </message>
     <message>
         <source>Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Çubuk</translation>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçileri Olan Radar</translation>
     </message>
     <message>
         <source>Filled Radar</source>
@@ -58169,23 +58169,23 @@ Düzenle</translation>
     </message>
     <message>
         <source>3-D Bubble</source>
-        <translation type="unfinished"/>
+        <translation>3-B Kabarcık</translation>
     </message>
     <message>
         <source>Bubble</source>
-        <translation type="unfinished"/>
+        <translation>Kabarcık</translation>
     </message>
     <message>
         <source>2-D Column</source>
-        <translation type="unfinished"/>
+        <translation>2-B Sütun</translation>
     </message>
     <message>
         <source>2-D Bar</source>
-        <translation type="unfinished"/>
+        <translation>2-B Çubuk</translation>
     </message>
     <message>
         <source>2-D Pie</source>
-        <translation type="unfinished"/>
+        <translation>2-B Pasta</translation>
     </message>
     <message>
         <source>Bar Of Pie</source>
