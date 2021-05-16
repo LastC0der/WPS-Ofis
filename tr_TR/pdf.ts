@@ -5381,7 +5381,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Picture to text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ReadingMode_View</source>
@@ -5829,7 +5829,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>HyperLink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -7734,7 +7734,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>HyperLink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü</translation>
     </message>
     <message>
         <source>AddText</source>
@@ -10135,7 +10135,7 @@ Navigation</source>
     </message>
     <message>
         <source>Picture to text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Image Edit Rotate</source>
@@ -11856,7 +11856,7 @@ Navigation</source>
     </message>
     <message>
         <source>Picture to text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>PDF2PPT</source>
