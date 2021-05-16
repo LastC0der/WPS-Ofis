@@ -4293,7 +4293,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Devam</translation>
     </message>
     <message>
         <source>Contract</source>
@@ -5550,7 +5550,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>Text and Lines Color</source>
-        <translation type="unfinished"/>
+        <translation>Metin ve Çizgi Rengi</translation>
     </message>
     <message>
         <source>From T&amp;op-Left</source>
@@ -6660,7 +6660,7 @@ Body: Descend</source>
     </message>
     <message>
         <source>Title Slide</source>
-        <translation type="unfinished"/>
+        <translation>Başlık Slaytı</translation>
     </message>
     <message>
         <source>Content Layouts</source>
@@ -7799,7 +7799,7 @@ Body: Spinner</source>
     <message>
         <source>Title Slide</source>
         <comment>WP_TITLE_SLIDE_LAYOUT_NAME</comment>
-        <translation type="unfinished"/>
+        <translation>Başlık Slaytı</translation>
     </message>
     <message>
         <source>Title: Fade
@@ -21490,7 +21490,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Kalınlığı</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -23031,7 +23031,7 @@ Settings</source>
     </message>
     <message>
         <source>Title Slide</source>
-        <translation type="unfinished"/>
+        <translation>Başlık Slaytı</translation>
     </message>
     <message>
         <source>Catalog</source>
@@ -26964,7 +26964,7 @@ Music</source>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"/>
+        <translation>Çizimler</translation>
     </message>
     <message>
         <source>Slide Library</source>
@@ -27599,7 +27599,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Kalınlığı</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -27701,7 +27701,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>Kalem Kalınlığı</translation>
+        <translation>Çizgi Kalınlığı</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -27950,7 +27950,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden Metne</translation>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -29460,7 +29460,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden Metne</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -29510,7 +29510,7 @@ Sorter</source>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyadan</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -29518,7 +29518,7 @@ Sorter</source>
     </message>
     <message>
         <source>My Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resmim</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -32859,7 +32859,7 @@ Master</source>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Devam</translation>
     </message>
     <message>
         <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
@@ -33217,7 +33217,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxCommentWidget</name>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Devam</translation>
     </message>
     <message>
         <source>WPS Presentation reached the end of the slide. Do you want to continue from the beginning?</source>
