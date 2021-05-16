@@ -7297,7 +7297,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>The second number</source>
-        <translation type="unfinished"/>
+        <translation>ikinci sayı.</translation>
     </message>
     <message>
         <source>is the number of periods over which the asset is being depreciated (sometimes called the useful life of the asset).</source>
@@ -7508,7 +7508,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>The first number</source>
-        <translation type="unfinished"/>
+        <translation>ilk sayı.</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
@@ -7840,7 +7840,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>Old_text</source>
-        <translation type="unfinished"/>
+        <translation>Eski_metin</translation>
     </message>
     <message>
         <source>is the text string from which you want to extract the characters.</source>
@@ -7888,7 +7888,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is text in which you want to replace some characters.</source>
-        <translation type="unfinished"/>
+        <translation>bazı karakterlerini değiştirmek istediğiniz metin.</translation>
     </message>
     <message>
         <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
@@ -8284,7 +8284,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Bytes number</source>
-        <translation type="unfinished"/>
+        <translation>Sayı_karakterler</translation>
     </message>
     <message>
         <source>Octal number</source>
@@ -9218,7 +9218,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the text in which you want to replace.</source>
         <comment>TX_ParaDesc_329</comment>
-        <translation type="unfinished"/>
+        <translation>değiştirmek istediğiniz metin.</translation>
     </message>
     <message>
         <source>Number From 1(Sat) To 7(Fri)</source>
@@ -10046,7 +10046,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is the text that will replace characters in Old_text.</source>
-        <translation type="unfinished"/>
+        <translation>Eski_metin&apos;deki karakterleri dönüştürecek olan metin.</translation>
     </message>
     <message>
         <source>is the rate of discount over the length of one period.</source>
@@ -10624,7 +10624,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is the text in which you want to replace.</source>
-        <translation type="unfinished"/>
+        <translation>değiştirmek istediğiniz metin.</translation>
     </message>
     <message>
         <source>Divisor</source>
@@ -10904,7 +10904,7 @@ Sil</translation>
     </message>
     <message>
         <source>is the number of the characters in Old_text that you want to replace.</source>
-        <translation type="unfinished"/>
+        <translation>Eski_metin&apos;de değiştirmek istediğiniz karakter sayısı.</translation>
     </message>
     <message>
         <source>The Formula contains an error now. Do you want to continue?</source>
@@ -11467,7 +11467,7 @@ Koru</translation>
     </message>
     <message>
         <source>is the number of the characters in Old_text that you want to replace with New_text.</source>
-        <translation type="unfinished"/>
+        <translation>Eski_metin ile değiştirmek istediğiniz Yeni_metin&apos;deki karakterin konumudur.</translation>
     </message>
     <message>
         <source>is the bits you move number to the right</source>
@@ -24190,7 +24190,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
-        <translation type="unfinished"/>
+        <translation>Metin dizesinin bir kısmını başka bir metin dizesiyle değiştirir.</translation>
     </message>
     <message>
         <source>COUNTBLANK(range)</source>
@@ -24840,7 +24840,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string. Use with double-byte character set(DBCS).</source>
-        <translation type="unfinished"/>
+        <translation>Metin dizesinin bir kısmını başka bir metin dizesiyle değiştirir. Çift baytlık karakterlerle (DBCS) kullanın.</translation>
     </message>
     <message>
         <source>ISERR(value)</source>
@@ -24920,7 +24920,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Tests if two values are equal. </source>
-        <translation type="unfinished"/>
+        <translation>İki sayının eşitliğini sınar.</translation>
     </message>
     <message>
         <source>Returns the value of Pi, 3.14159265358979, accurate to 15 digits.</source>
