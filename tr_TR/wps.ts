@@ -3830,7 +3830,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Metne Dönüştür</translation>
     </message>
     <message>
         <source>&amp;Convert nested tables</source>
@@ -15291,7 +15291,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Metne Dönüştür</translation>
     </message>
     <message>
         <source>Left</source>
@@ -15597,7 +15597,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>AutoFit to Window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereye Otomatik Sığdır</translation>
     </message>
     <message>
         <source>Dash Dot</source>
@@ -15685,7 +15685,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Add Data Label</source>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketi Ekle</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
@@ -15693,11 +15693,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Harf</translation>
     </message>
     <message>
         <source>Grouping</source>
@@ -22198,7 +22198,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Metne Dönüştür</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -22475,7 +22475,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereye Otomatik Sığdır</translation>
     </message>
     <message>
         <source>Convert to Endnotes</source>
@@ -22576,7 +22576,7 @@ Protection</source>
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Harf</translation>
     </message>
     <message>
         <source>Click the right mouse button to get the list</source>
@@ -25342,7 +25342,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>Kalem Kalınlığı</translation>
+        <translation>Çizgi Kalınlığı</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -25382,7 +25382,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Borders</source>
@@ -25390,7 +25390,7 @@ Efektler</translation>
     </message>
     <message>
         <source>AutoFit Window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereye Otomatik Sığdır</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -25587,7 +25587,7 @@ Böl</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Metne Dönüştür</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -25599,7 +25599,7 @@ Böl</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereye Otomatik Sığdır</translation>
     </message>
     <message>
         <source>Split Table by Column</source>
@@ -25623,7 +25623,7 @@ Böl</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Align Top Justified</source>
@@ -25631,7 +25631,7 @@ Böl</translation>
     </message>
     <message>
         <source>Select Cell</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Seç</translation>
     </message>
     <message>
         <source>Delete Rows</source>
@@ -25834,7 +25834,7 @@ Böl</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Metne Dönüştür</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -25846,7 +25846,7 @@ Böl</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereye Otomatik Sığdır</translation>
     </message>
     <message>
         <source>Split Table by Column</source>
@@ -25866,7 +25866,7 @@ Böl</translation>
     </message>
     <message>
         <source>Select Cell</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Seç</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -36665,7 +36665,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Metne Dönüştür</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -36697,7 +36697,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"/>
+        <translation>Çizimler</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
@@ -36709,11 +36709,11 @@ Ekle</translation>
     </message>
     <message>
         <source>New Drawing Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çizim Tuvali</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Local Text Box</source>
@@ -36721,7 +36721,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Harf</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
@@ -37038,7 +37038,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Metne Dönüştür</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -37074,7 +37074,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"/>
+        <translation>Çizimler</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
@@ -37086,15 +37086,15 @@ Ekle</translation>
     </message>
     <message>
         <source>New Drawing Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çizim Tuvali</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Harf</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
@@ -37360,7 +37360,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Metne Dönüştür</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -37392,7 +37392,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"/>
+        <translation>Çizimler</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -37404,15 +37404,15 @@ Ekle</translation>
     </message>
     <message>
         <source>New Drawing Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çizim Tuvali</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Harf</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -37634,7 +37634,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Metne Dönüştür</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -37666,7 +37666,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"/>
+        <translation>Çizimler</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -37678,15 +37678,15 @@ Ekle</translation>
     </message>
     <message>
         <source>New Drawing Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çizim Tuvali</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Harf</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -42396,7 +42396,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>I, II, III...</source>
-        <translation type="unfinished"/>
+        <translation>I, II, III...</translation>
     </message>
 </context>
 <context>
@@ -42467,7 +42467,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>operation</source>
-        <translation type="unfinished"/>
+        <translation>işlem</translation>
     </message>
 </context>
 <context>
@@ -42602,7 +42602,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>Kalem Kalınlığı</translation>
+        <translation>Çizgi Kalınlığı</translation>
     </message>
     <message>
         <source>Clear
@@ -42632,7 +42632,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -42749,7 +42749,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -43175,7 +43175,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden Metne</translation>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -43798,7 +43798,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Harf</translation>
     </message>
     <message>
         <source>&amp;Dropped</source>
@@ -44609,7 +44609,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden Metne</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -44625,7 +44625,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Ekle</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -44658,11 +44658,11 @@ Ekle</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyadan</translation>
     </message>
     <message>
         <source>Insert Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigran Ekle</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -44670,11 +44670,11 @@ Ekle</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Metne Dönüştür</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -44682,7 +44682,7 @@ Ekle</translation>
     </message>
     <message>
         <source>My Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resmim</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -44694,7 +44694,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert Page Number</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarası Ekle</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -44702,7 +44702,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"/>
+        <translation>Çizimler</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -44710,11 +44710,11 @@ Ekle</translation>
     </message>
     <message>
         <source>New Drawing Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çizim Tuvali</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -45351,7 +45351,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden Metne</translation>
     </message>
 </context>
 <context>
@@ -45465,7 +45465,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden Metne</translation>
     </message>
     <message>
         <source>I like the Student Tools, because...</source>
@@ -45502,11 +45502,11 @@ Sayısı</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyadan</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"/>
+        <translation>Metin Rengi</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -45514,7 +45514,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>My Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resmim</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
@@ -45538,7 +45538,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>New Drawing Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çizim Tuvali</translation>
     </message>
     <message>
         <source>Local Text Box</source>
@@ -48284,7 +48284,7 @@ Try one or more of the following:
     <name>KxDlgBulletsNumbering</name>
     <message>
         <source>&amp;Continue previous list</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Önceki listeden devam et</translation>
     </message>
     <message>
         <source>Appl&amp;y changes to:</source>
@@ -50113,7 +50113,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa numarası ekle</translation>
     </message>
 </context>
 <context>
@@ -51413,7 +51413,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxSmartPageNumMenuItemCommand</name>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarası Ekle</translation>
     </message>
     <message>
         <source>Delete Page Number</source>
