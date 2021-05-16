@@ -7147,7 +7147,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the interest rate you pay on the money used in the cash flows.</source>
-        <translation type="unfinished"/>
+        <translation>nakit akışında kullanılan paraya ödediğiniz faiz oranı.</translation>
     </message>
     <message>
         <source>is the exponent, to which the base number is raised.</source>
@@ -7214,7 +7214,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the decimal integer you want to convert.</source>
-        <translation type="unfinished"/>
+        <translation>dönüştürmek istediğiniz onlu tamsayı.</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -7239,7 +7239,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the second array of numbers to multiply and must have the same number of columns as Array1 has rows.</source>
-        <translation type="unfinished"/>
+        <translation>çarpmak istediğiniz ikinci sayı dizisidir ve sütun sayısı Dizi1&apos;in satır sayısıyla aynı olmalıdır.</translation>
     </message>
     <message>
         <source>is a number, a reference to a cell containing a number, or a formula that evaluates to a number, 2 if omitted.</source>
@@ -7301,7 +7301,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the number of periods over which the asset is being depreciated (sometimes called the useful life of the asset).</source>
-        <translation>varlığın yıpranma dönemi miktarı (bazen varlığın kullanım ömrü olarak da kullanılır).</translation>
+        <translation>varlığın yıpranma dönemi sayısı (bazen varlığın kullanım ömrü olarak da kullanılır).</translation>
     </message>
     <message>
         <source>is a logical value: the value of the accrued interest started from the date of issuance is equal to TRUE or ignored; the value of the interest started from the last coupon payment date is equal to FALSE.</source>
@@ -7601,7 +7601,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>is the number of characters to use.</source>
-        <translation>kullanılacak karakter sayısıdır.</translation>
+        <translation>kullanılacak karakter sayısı.</translation>
     </message>
     <message>
         <source>is text enclosed in quotation marks, a formula that returns text, or a reference to a cell containing text to partially capitalize.</source>
@@ -7717,7 +7717,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Reinvest_rate</source>
-        <translation type="unfinished"/>
+        <translation>Tekrar_yatırım_oranı</translation>
     </message>
     <message>
         <source>is the number 1 to 11 that specifies the summary function for the subtotal.</source>
@@ -7848,7 +7848,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:23 or 4:48:47 PM.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets tarafından kullanılan tarih-saat kodundaki sayı ya da zaman biçimindeki metin, örneğin 16:48:23 ya da 4:48:47 ÖS.</translation>
     </message>
     <message>
         <source>is the cell or range that you want information about.</source>
@@ -7900,7 +7900,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets tarafından kullanılan tarih-saat kodundaki sayı ya da zaman biçimindeki metin, örneğin 16:48:00 ya da 4:48:00 ÖS.</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -8136,7 +8136,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is any value or expression that can be evaluated to TRUE or FALSE.</source>
-        <translation>DOĞRU veya YANLIŞ ile değerlendirilebilecek bir değer veya ifadedir.</translation>
+        <translation>DOĞRU veya YANLIŞ olarak değerlendirilebilecek herhangi bir değer veya ifade.</translation>
     </message>
     <message>
         <source>Number_s2</source>
@@ -8292,7 +8292,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the interest rate you receive on the cash flows as you reinvest them.</source>
-        <translation type="unfinished"/>
+        <translation>tekrar yatırım yaptığınızda nakit akışı için elde edeceğiniz faiz oranı.</translation>
     </message>
     <message>
         <source>Upper Case Chinese number2</source>
@@ -8626,7 +8626,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the first array of numbers to multiply and must have the same number of columns as Array2 has rows.</source>
-        <translation type="unfinished"/>
+        <translation>çarpmak istediğiniz ilk sayı dizisidir ve sütun sayısı Dizi2&apos;nin satır sayısıyla aynı olmalıdır.</translation>
     </message>
     <message>
         <source>In_num</source>
@@ -8767,7 +8767,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the starting period for which you want to calculate the depreciation. Period must use the same units as life.</source>
-        <translation>yıpranmasını hesaplamak istediğiniz başlangıç dönemdir. Dönem, ömürle aynı birimleri kullanmalıdır.</translation>
+        <translation>yıpranmayı hesaplamak istediğiniz başlangıç dönemi, Ömür ile aynı birimde.</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
@@ -9056,7 +9056,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>End_period</source>
-        <translation>Bitiş_dönemi</translation>
+        <translation>Son_dönem</translation>
     </message>
     <message>
         <source>Help_topic</source>
@@ -9138,7 +9138,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>By default, the character number from the octal number conversion, is accordant with the character number in least.</source>
-        <translation type="unfinished"/>
+        <translation>kullanılacak karakter sayısı.</translation>
     </message>
     <message>
         <source>is a contiguous range of cells containing possible lookup value, an array of values, or a reference to an array.</source>
@@ -9197,7 +9197,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the security&apos;s annual yield.</source>
-        <translation type="unfinished"/>
+        <translation>menkul kıymetin yıllık getirisi.</translation>
     </message>
     <message>
         <source>Formula_text</source>
@@ -9502,7 +9502,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the security&apos;s annual coupon rate.</source>
-        <translation type="unfinished"/>
+        <translation>menkul kıymetin yıllık kupon oranı.</translation>
     </message>
     <message>
         <source>selects the column in Array or Reference from which to return a value. If omitted, Row_num is required.</source>
@@ -9590,7 +9590,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is a number between 1 and 255 specifying which character you want.</source>
-        <translation type="unfinished"/>
+        <translation>1-255 arasında kullanacağınız karakteri belirten sayı.</translation>
     </message>
     <message>
         <source>is the Arabic numeral you want to convert.</source>
@@ -9755,12 +9755,12 @@ Bunun çeşitli nedenleri olabilir:
     <message>
         <source>is the number of periods over which the asset is being depreciated (sometimes called the useful life of the asset).</source>
         <comment>TX_ParaDesc_091</comment>
-        <translation>varlığın yıpranma dönemi miktarı (bazen varlığın kullanım ömrü olarak da kullanılır).</translation>
+        <translation>varlığın yıpranma dönemi sayısı (bazen varlığın kullanım ömrü olarak da kullanılır).</translation>
     </message>
     <message>
         <source>is the number of periods over which the asset is being depreciated (sometimes called the useful life of the asset).</source>
         <comment>TX_ParaDesc_363</comment>
-        <translation>varlığın yıpranma dönemi miktarı (bazen varlığın kullanım ömrü olarak da kullanılır).</translation>
+        <translation>varlığın yıpranma dönemi sayısı (bazen varlığın kullanım ömrü olarak da kullanılır).</translation>
     </message>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
@@ -9837,7 +9837,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is a value or expression that can be evaluated to TRUE or FALSE.</source>
-        <translation type="unfinished"/>
+        <translation>DOĞRU veya YANLIŞ olarak değerlendirilebilecek değer veya ifade.</translation>
     </message>
     <message>
         <source>Bar_num</source>
@@ -10076,7 +10076,7 @@ Bunun çeşitli nedenleri olabilir:
     <message>
         <source>is the security&apos;s annual coupon rate.</source>
         <comment>TX_ParaDesc_490</comment>
-        <translation type="unfinished"/>
+        <translation>menkul kıymetin yıllık kupon oranı.</translation>
     </message>
     <message>
         <source>is the text you want to search.</source>
@@ -10483,7 +10483,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is the security&apos;s redemption value per $100 face value.</source>
-        <translation type="unfinished"/>
+        <translation>menkul kıymetin 100 TL nominal değer başına teminat değeri.</translation>
     </message>
     <message>
         <source>Number From 1(Mon) To 7(Sun)</source>
@@ -10596,7 +10596,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is the number of coupon payments per year. If pay by year, frequency = 1; by six months, frequency = 2; by quarter, frequency = 4</source>
-        <translation type="unfinished"/>
+        <translation>yıllık kupon ödemesi sayısı. Yıllık ödemelerde sıklık = 1; altı aylık ödemelerde sıklık = 2; üç aylık ödemelerde sıklık = 4 olur.</translation>
     </message>
     <message>
         <source>Register_id</source>
@@ -10796,7 +10796,7 @@ Ekle</translation>
     </message>
     <message>
         <source>is an array or a reference to cells that contain numbers that represent a series of payments (negative) and income (positive) at a regular periods.</source>
-        <translation type="unfinished"/>
+        <translation>düzenli dönemlerde gerçekleşen bir seri ödeme (negatif) ve geliri (pozitif) temsil eden sayıları içeren hücre başvurusu ya da dizi.</translation>
     </message>
     <message>
         <source>Width_num</source>
@@ -10976,11 +10976,11 @@ Sil</translation>
     </message>
     <message>
         <source>is the security&apos;s maturity date, expressed as a serial date number.</source>
-        <translation type="unfinished"/>
+        <translation>menkul kıymetin vade tarihi, tarih seri numarası cinsinden.</translation>
     </message>
     <message>
         <source>Redemption</source>
-        <translation type="unfinished"/>
+        <translation>Teminat</translation>
     </message>
     <message>
         <source>Column_num</source>
@@ -11449,7 +11449,7 @@ Koru</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets tarafından kullanılan tarih-saat kodundaki sayı ya da zaman biçimindeki metin, örneğin 16:48:00 ya da 4:48:00.</translation>
     </message>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
@@ -11765,7 +11765,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>decimal number</source>
-        <translation>ondalık sayı</translation>
+        <translation>Sayı</translation>
     </message>
     <message>
         <source>No duplicates are found.</source>
@@ -11923,7 +11923,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the ending period for which you want to calculate the depreciation, in the same units as Life.</source>
-        <translation type="unfinished"/>
+        <translation>yıpranmayı hesaplamak istediğiniz son dönem, Ömür ile aynı birimde.</translation>
     </message>
     <message>
         <source>Reference</source>
@@ -15223,7 +15223,7 @@ tıklayın.</translation>
     </message>
     <message>
         <source>Duplicate styles</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen stiller</translation>
     </message>
     <message>
         <source>All Shapes</source>
@@ -21809,7 +21809,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"/>
+        <translation>De&amp;vam</translation>
     </message>
     <message>
         <source>binary</source>
@@ -22472,7 +22472,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the linear depreciation of an asset per period.</source>
-        <translation type="unfinished"/>
+        <translation>Bir malın bir dönem için doğrusal yıpranmasını verir.</translation>
     </message>
     <message>
         <source>NORMSINV(probability)</source>
@@ -23225,7 +23225,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
-        <translation type="unfinished"/>
+        <translation>Çift azalan bakiye yöntemini ya da belirttiğiniz başka bir yöntemi kullanarak, kısmi dönemleri de içeren belirli bir dönem için bir malın amortismanını verir.</translation>
     </message>
     <message>
         <source>BIGUNIT_NUMBERSTR</source>
@@ -23257,7 +23257,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Converts a decimal number to octal.</source>
-        <translation type="unfinished"/>
+        <translation>Onluk düzendeki bir sayıyı sekizlik düzene dönüştürür.</translation>
     </message>
     <message>
         <source>CELL.PROTECTION(locked, hidden)</source>
@@ -23466,7 +23466,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the matrix product of two arrays. The result is that the array has the same number of rows with array 1 and the same number of columns with array 2.</source>
-        <translation type="unfinished"/>
+        <translation>İki dizinin dizey çarpımını verir, sonuç, dizi1 ile aynı sayıda satıra ve dizi2 ile aynı sayıda sütuna sahip olan bir dizidir.</translation>
     </message>
     <message>
         <source>TRIMMEAN(array,percent)</source>
@@ -23483,7 +23483,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MIRR(values,finance_rate,reinvest_rate)</source>
-        <translation>D_İÇ_VERİM_ORANI(değerler,finansman_faiz_oranı,tekraryatırım_oranı)</translation>
+        <translation>D_İÇ_VERİM_ORANI(değerler,finansman_faiz_oranı,tekrar_yatırım_oranı)</translation>
     </message>
     <message>
         <source>BIN2DEC(number)</source>
@@ -23937,7 +23937,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the minute, a number from 0 to 59.</source>
-        <translation type="unfinished"/>
+        <translation>Bir seri numarasına karşılık gelen, 0-59 arasında bir tamsayı olan dakikayı verir.</translation>
     </message>
     <message>
         <source>Returns the future value of an investment based on periodic, constant payments and a constant interest rate.</source>
@@ -24775,7 +24775,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MINUTE(serial_number)</source>
-        <translation>DAKİKA(Seri_no)</translation>
+        <translation>DAKİKA(seri_no)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of a complex number in x + yi or x + yj text format</source>
@@ -24900,7 +24900,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Reverses the logical value of the argument.</source>
-        <translation type="unfinished"/>
+        <translation>Bağımsız değişkeninin mantığını tersine çevirir.</translation>
     </message>
     <message>
         <source>Converts a binary number to decimal.</source>
@@ -25402,7 +25402,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the character specified by the code number from the character set for your computer.</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayarınızın karakter kümesindeki kod numarasıyla belirtilen karakteri verir.</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is #N/A and FALSE otherwise.</source>
@@ -25534,7 +25534,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the price per $100 face value of a security that pays periodic interest.</source>
-        <translation type="unfinished"/>
+        <translation>Dönemsel faiz ödeyen bir menkul kıymet için 100 TL nominal değer başına fiyatı döndürür.</translation>
     </message>
     <message>
         <source>Returns the day of the month, a number from 1 to 31.</source>
@@ -25662,7 +25662,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the modified internal rate of return for the given periodic cash flows. MIRR takes both the cost of the investment and the interest received on reinvestment of cash into account.</source>
-        <translation type="unfinished"/>
+        <translation>Yatırım maliyetini ve nakit paranın tekrar yatırımından elde edilen faizin getirisini dikkate alarak, dönemsel nakit akışları serisi için iç verim oranını verir.</translation>
     </message>
     <message>
         <source>Returns the cumulative interest paid between start_period and  end_period.</source>
@@ -38065,7 +38065,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>Kalem Kalınlığı</translation>
+        <translation>Çizgi Kalınlığı</translation>
     </message>
     <message>
         <source>First Point</source>
@@ -45495,7 +45495,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"/>
+        <translation>Çizimler</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -45714,7 +45714,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden Metne</translation>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -48048,7 +48048,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"/>
+        <translation>Çizimler</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -49585,7 +49585,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"/>
+        <translation>De&amp;vam</translation>
     </message>
 </context>
 <context>
@@ -49857,7 +49857,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"/>
+        <translation>De&amp;vam</translation>
     </message>
 </context>
 <context>
@@ -54376,7 +54376,7 @@ Result</source>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"/>
+        <translation>De&amp;vam</translation>
     </message>
     <message>
         <source>This workbook contains one or more links that cannot be updated.</source>
@@ -55381,7 +55381,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"/>
+        <translation>De&amp;vam</translation>
     </message>
     <message>
         <source>&amp;Save As</source>
