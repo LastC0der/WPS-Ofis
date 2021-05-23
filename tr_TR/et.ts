@@ -6751,7 +6751,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>A1</source>
-        <translation type="unfinished"/>
+        <translation>A1</translation>
     </message>
     <message>
         <source>Al</source>
@@ -7098,7 +7098,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Stats</source>
-        <translation type="unfinished"/>
+        <translation>Konum</translation>
     </message>
     <message>
         <source>To_a1</source>
@@ -7269,7 +7269,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the units for number.</source>
-        <translation type="unfinished"/>
+        <translation>sayı için birim.</translation>
     </message>
     <message>
         <source>is the sample size.</source>
@@ -7700,7 +7700,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>is a range of cells on a worksheet or an array of values that you want to transpose.</source>
-        <translation type="unfinished"/>
+        <translation>devriğini almak istediğiniz çalışma sayfasında bulunan bir hücreler aralığı ya da değerler dizisi.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot create a chart on the selected regions. 
@@ -8088,7 +8088,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=mx+b.</source>
-        <translation type="unfinished"/>
+        <translation>y=mx+b denklemindeki y-değerleri kümesi.</translation>
     </message>
     <message>
         <source>Only integer can be used for whole number conditions.</source>
@@ -8690,7 +8690,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is a number value = 0; lst quartile = 1; median value = 2; 3rd quartile = 3; maximum value = 4.</source>
-        <translation type="unfinished"/>
+        <translation>en küçük değer = 0; birinci dörttebir = 1; medyan değeri = 2; üçüncü dörttebir = 3; en büyük değer = 4.</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections.</source>
@@ -9012,7 +9012,7 @@ Aktar</translation>
     </message>
     <message>
         <source>From_unit</source>
-        <translation type="unfinished"/>
+        <translation>İlk_birim</translation>
     </message>
     <message>
         <source>Exact match</source>
@@ -9105,7 +9105,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the angle in radians that you want to convert.</source>
-        <translation type="unfinished"/>
+        <translation>dönüştürmek istediğiniz radyan cinsinden açı.</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -9265,7 +9265,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the units for the result.</source>
-        <translation type="unfinished"/>
+        <translation>sonuç için birim.</translation>
     </message>
     <message>
         <source>Hide Report Filter Buttons On Chart</source>
@@ -9285,7 +9285,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const = TRUE or omitted; b is set equal to 1 if Const = FALSE.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: Sabit = DOĞRU ya da atlanmış ise sabit b değeri olağan şekilde hesaplanır; Sabit = YANLIŞ ise b 0&apos;a eşitlenir.</translation>
     </message>
     <message>
         <source>is the number for which you want to find the remainder after the division is performed.</source>
@@ -9392,7 +9392,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the value in from_unit to convert.</source>
-        <translation type="unfinished"/>
+        <translation>dönüşecek birimdeki değer.</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Office Database Connections(*.odc)|*.odc||</source>
@@ -9469,7 +9469,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the array or cell range of numeric values for which you want the quartile value.</source>
-        <translation type="unfinished"/>
+        <translation>dörttebir değerini istediğiniz sayısal değerler dizisi veya hücreler aralığı.</translation>
     </message>
     <message>
         <source>is the second range or array of numbers and be a number or name, array, or reference that contains numbers.</source>
@@ -9647,7 +9647,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is a logical value: return additional regression statistics = TRUE; return m-coefficient and the constant b = FALSE or omitted.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: ek regresyon istatistiği = DOĞRU; m-katsayıları ve sabit b değeri = YANLIŞ ya da atlanmış.</translation>
     </message>
     <message>
         <source>is a logical value: do not display commas in the returned text = TRUE; do display commas in the returned text = FALSE or omitted.</source>
@@ -9825,7 +9825,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is a logical value that specifies the type of reference in Ref_text: R1C1-style = FALSE; A1-style = TRUE or omitted.</source>
-        <translation type="unfinished"/>
+        <translation>Başv_metni&apos;nde geçen başvuru türünü belirten mantıksal değer: R1C1-stili = YANLIŞ; A1-stili = DOĞRU ya da atlanmış.</translation>
     </message>
     <message>
         <source>Fraction</source>
@@ -10192,7 +10192,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is a range or array of x-values you already know in the relationship y=mx + b.</source>
-        <translation type="unfinished"/>
+        <translation>y=mx+b denkleminde kullanılan isteğe bağlı x değerleri.</translation>
     </message>
     <message>
         <source>Protect 
@@ -10270,7 +10270,7 @@ Kaldır</translation>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const = TRUE or omitted; b is set equal to 1 if Const = FALSE.</source>
         <comment>TX_ParaDesc_220</comment>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: Sabit = DOĞRU ya da atlanmış ise sabit b değeri olağan şekilde hesaplanır; Sabit = YANLIŞ ise b 0&apos;a eşitlenir.</translation>
     </message>
     <message>
         <source>is the position of the character in Old_text that you want to replace with New_text.</source>
@@ -10580,7 +10580,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is a reference to a cell that contains an A1 or R1C1 style reference, a name defined as a reference, or a reference to a cell as a text string.</source>
-        <translation type="unfinished"/>
+        <translation>A1 ya da R1C1-stili başvurusu içeren hücre başvurusu, başvuru olarak tanımlanmış bir ad ya da metin dizesi halindeki bir hücre başvurusu.</translation>
     </message>
     <message>
         <source>is the value you want to normalize.</source>
@@ -10755,7 +10755,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Quartile</source>
-        <translation type="unfinished"/>
+        <translation>Dörttebir</translation>
     </message>
     <message>
         <source>Num_chars</source>
@@ -10848,7 +10848,7 @@ Ekle</translation>
     </message>
     <message>
         <source>is a numeric array with an equal number of rows and columns, either a cell range or an array constant.</source>
-        <translation type="unfinished"/>
+        <translation>eşit sayıda satır ve sütuna sahip olan sayısal dizi, ya da bir hücre aralığı veya bir dizi sabiti.</translation>
     </message>
     <message>
         <source>Top</source>
@@ -22760,7 +22760,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the inverse matrix for the matrix stored in an array.</source>
-        <translation>Bir dizide saklanan matrisin ters matrisini döndürür.</translation>
+        <translation>Bir dizide saklanan bir dizeyin tersini verir.</translation>
     </message>
     <message>
         <source>Returns the arctangent of a number in radians, in the range -Pi/2 to Pi/2.</source>
@@ -23973,7 +23973,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the quartile of a data set.</source>
-        <translation type="unfinished"/>
+        <translation>Bir veri kümesinin dörttebirliğini verir.</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -24202,7 +24202,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>DEGREES(angle)</source>
-        <translation>DERECE(Açı)</translation>
+        <translation>DERECE(açı)</translation>
     </message>
     <message>
         <source>Returns the sum of squares of deviations of a data set from their sample mean.</source>
@@ -24595,7 +24595,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the logical value TRUE.</source>
-        <translation type="unfinished"/>
+        <translation>Mantıksal DOĞRU&apos;yu verir.</translation>
     </message>
     <message>
         <source>Returns the annual duration of a security with periodic interest payments.</source>
@@ -24655,7 +24655,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Converts radians to degrees.</source>
-        <translation type="unfinished"/>
+        <translation>Radyanı dereceye çevirir.</translation>
     </message>
     <message>
         <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
@@ -24827,7 +24827,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
-        <translation type="unfinished"/>
+        <translation>Sabit ödemeli ve sabit faizli bir borç için yapılacak ödemeyi hesaplar.</translation>
     </message>
     <message>
         <source>Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.</source>
@@ -25105,7 +25105,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a matrix determinant of an array.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dizinin determinantını verir.</translation>
     </message>
     <message>
         <source>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</source>
@@ -25282,7 +25282,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Converts a number from one measurement system to another.</source>
-        <translation type="unfinished"/>
+        <translation>Sayıyı bir ölçü biriminden bir diğerine dönüştürür.</translation>
     </message>
     <message>
         <source>MONTH(serial_number)</source>
