@@ -7082,7 +7082,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Range</source>
-        <translation>Ölçüt_aralığı</translation>
+        <translation>Aralık</translation>
     </message>
     <message>
         <source>Right</source>
@@ -7118,7 +7118,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Value</source>
-        <translation>Sayı</translation>
+        <translation>Değer</translation>
     </message>
     <message>
         <source>Unprotect Book</source>
@@ -7159,7 +7159,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the range of cells you want evaluated.</source>
-        <translation>belirli bir koşula göre hesaplanmasını istediğiniz hücre aralığı.</translation>
+        <translation>hesaplanmasını istediğiniz hücre aralığı.</translation>
     </message>
     <message>
         <source>Millimeters</source>
@@ -7265,7 +7265,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Col_index_num</source>
-        <translation type="unfinished"/>
+        <translation>Sütun_indis_sayısı</translation>
     </message>
     <message>
         <source>is the units for number.</source>
@@ -7541,7 +7541,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>Range_lookup</source>
-        <translation type="unfinished"/>
+        <translation>Aralık_bak</translation>
     </message>
     <message>
         <source>is a parameter to distribution, a positive number.</source>
@@ -7657,7 +7657,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>is the cell or a name that refers to the cell you want to test.</source>
-        <translation type="unfinished"/>
+        <translation>sınamak istediğiniz hücre, ya da hücreye başvuran ad.</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
@@ -7709,7 +7709,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>is the actual cells to be used to find the average. If omitted, cells in the range will be used.</source>
-        <translation>ortalamayı bulmak için kullanılacak asıl hücreler. Atlanırsa, aralıktaki hücreler kullanılır.</translation>
+        <translation>ortalamayı bulmak için kullanılacak asıl hücreler. Yoksayılırsa, aralıktaki hücreler kullanılır.</translation>
     </message>
     <message>
         <source>Field Name</source>
@@ -7930,7 +7930,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is the value that is returned if Logical_test is FALSE. If omitted, FALSE is returned.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal_sınama YANLIŞ olduğunda gelen değer. Atlanırsa, YANLIŞ gelir.</translation>
     </message>
     <message>
         <source>Date of issue</source>
@@ -8037,7 +8037,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Logical_test</source>
-        <translation type="unfinished"/>
+        <translation>Mantıksal_sınama</translation>
     </message>
     <message>
         <source>Number_times</source>
@@ -8058,7 +8058,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Value_if_true</source>
-        <translation type="unfinished"/>
+        <translation>Eğer_doğruysa_değer</translation>
     </message>
     <message>
         <source>Data Field</source>
@@ -8374,7 +8374,7 @@ Aktar</translation>
     </message>
     <message>
         <source>value_if_error</source>
-        <translation type="unfinished"/>
+        <translation>Eğer_hatalıysa_değer</translation>
     </message>
     <message>
         <source>is the date of the end of the first period.</source>
@@ -8382,7 +8382,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Value_if_false</source>
-        <translation type="unfinished"/>
+        <translation>Eğer_yanlışsa_değer</translation>
     </message>
     <message>
         <source>Min_range</source>
@@ -8903,7 +8903,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the value to be found in the first column of the table, and can be a value, a reference, or a text string.</source>
-        <translation type="unfinished"/>
+        <translation>tablonun ilk sütununda bulunacak değerdir ve bir değer, bir başvuru ya da bir metin dizesi olabilir.</translation>
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=b*m^x, an array or range of positive numbers.</source>
@@ -9122,7 +9122,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a name that refers to a cell, formula, or value.</source>
         <comment>TX_ParaDesc_197</comment>
-        <translation type="unfinished"/>
+        <translation>sınamak istediğiniz değerdir. Değer bir hücre, bir formül veya bir hücreye, formüle veya değere başvuran bir ad olabilir.</translation>
     </message>
     <message>
         <source>Window_text</source>
@@ -9528,12 +9528,12 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_225</comment>
-        <translation type="unfinished"/>
+        <translation>Mantıksal_sınama</translation>
     </message>
     <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_217</comment>
-        <translation type="unfinished"/>
+        <translation>Mantıksal_sınama</translation>
     </message>
     <message>
         <source>is a cell range of values. The values should be numbers, names, arrays, or reference that contain numbers. </source>
@@ -10391,7 +10391,7 @@ Please check the login account. If the account is correct, please ask the docume
     </message>
     <message>
         <source>is a table of text, number, or logical values in which data is looked up. Table_array can be a reference to a range or a range name.</source>
-        <translation type="unfinished"/>
+        <translation>erinin alınacağı bir metin, sayılar ya da mantıksal değerler tablosu. Tablo_dizisi bir aralığa ya da aralık adına yapılan başvuru olabilir. </translation>
     </message>
     <message>
         <source>is the security&apos;s settlement date, expressed as a serial date number.</source>
@@ -10608,7 +10608,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>Table_array</source>
-        <translation type="unfinished"/>
+        <translation>Tablo_dizisi</translation>
     </message>
     <message>
         <source>Centimeter</source>
@@ -10711,7 +10711,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is the value that is returned if Logical_test is TRUE. If omitted, TRUE is returned. You can nest up to seven IF functions.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal_sınama DOĞRU olduğunda gelen değer. Atlanırsa, DOĞRU gelir. En çok yedi eğer fonksiyonunu iç içe geçirebilirsiniz.</translation>
     </message>
     <message>
         <source>Value 1%1value 2%1… are 1 to 30 plural numbers, used to calculate the product.</source>
@@ -10824,7 +10824,7 @@ Ekle</translation>
     </message>
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a reference to a cell, formula, or value.</source>
-        <translation type="unfinished"/>
+        <translation>sınamak istediğiniz hücreye yapılan başvuru. Başvuru bir hücre başvurusu, bir formül ya da hücreye başvuran bir ad olabilir.</translation>
     </message>
     <message>
         <source>is the independent set of observations or data and can be numbers or names, arrays, or references that contain numbers.</source>
@@ -10928,7 +10928,7 @@ Sil</translation>
     </message>
     <message>
         <source>is the row number in table_array from which the matching value should be returned. The first row of values in the table is row 1.</source>
-        <translation type="unfinished"/>
+        <translation>uyuşan değerin verileceği tablo_dizisi&apos;ndeki sütun sayısı. Tablodaki ilk değer sütunu sütun 1&apos;dir.</translation>
     </message>
     <message>
         <source>is the value for which you want to perform the inverse of the transformation.</source>
@@ -11275,7 +11275,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>is the condition or criteria in the form of a number, expression, or text that defines which cells will be used to find the average.</source>
-        <translation type="unfinished"/>
+        <translation>ortalamayı bulmak için kullanılacak hücreleri tanımlayan, sayı, ifade veya metin biçimindeki koşul veya ölçüt.</translation>
     </message>
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
@@ -11552,7 +11552,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the row number in Table_array from which the matching value should be returned. The first row of values in the table is row 1.</source>
-        <translation type="unfinished"/>
+        <translation>uyuşan değerin verileceği Tablo_dizisi&apos;ndeki sütun sayısı. Tablodaki ilk değer sütunu sütun 1&apos;dir.</translation>
     </message>
     <message>
         <source>Procedure</source>
@@ -11736,7 +11736,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: ilk sütundaki (artan sırada sıralanmış) en yakın eşleştirmeyi bulmak için DOĞRU ya da atlanmış; tam bir eşleştirme bulmak için = YANLIŞ.</translation>
     </message>
     <message>
         <source>Margins you set do not fit for the paper size you specified.</source>
@@ -12064,7 +12064,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a name that refers to a cell, formula, or value.</source>
-        <translation type="unfinished"/>
+        <translation>sınamak istediğiniz değerdir. Değer bir hücre, bir formül veya bir hücreye, formüle veya değere başvuran bir ad olabilir.</translation>
     </message>
     <message>
         <source>is a serial date number that represents the start date.</source>
@@ -22459,7 +22459,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>AVERAGEIF(range,criteria,average_range)</source>
-        <translation>EĞERORTALAMA(aralık,ölçüt,ortalama_aralık)</translation>
+        <translation>EĞERORTALAMA(aralık,ölçüt,aralık_ortalaması)</translation>
     </message>
     <message>
         <source>Returns the net present value of an investment, using a discount rate and a series of future periodic payments and income.</source>
@@ -22732,7 +22732,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the value you specify if the calculated result of the formula is an error and the calculated result otherwise.</source>
-        <translation>Formülün hesaplanan sonucunun bir hata olup olmadığını belirttiğiniz değeri ve aksi takdirde hesaplanan sonucu verir.</translation>
+        <translation>İfade hatalı olursa eğer_hatalıysa_değer, hatalı olmazsa ifadenin kendi değerini döndürür.</translation>
     </message>
     <message>
         <source>CONFIDENCE(alpha,standard_dev,size)</source>
@@ -22984,7 +22984,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>IFERROR(value,value_if_error)</source>
-        <translation>EĞERHATA(değer,eğer_hataysa_değer)</translation>
+        <translation>EĞERHATA(değer,eğer_hatalıysa_değer)</translation>
     </message>
     <message>
         <source>Returns statistics that describe a linear trend matching known data points, by fitting a straight line using the least squares method.</source>
@@ -23044,7 +23044,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns TRUE if the number is even and FALSE otherwise.</source>
-        <translation>Sayı bir çift sayı ise DOĞRU döndürür.</translation>
+        <translation>Sayı bir çift sayı ise DOĞRU, aksi takdirde YANLIŞ döndürür.</translation>
     </message>
     <message>
         <source>ISPMT(rate,per,nper,pv)</source>
@@ -23905,7 +23905,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns TRUE if a value refers to an empty cell and FALSE otherwise.</source>
-        <translation type="unfinished"/>
+        <translation>Değer boş bir hücreye başvuruda bulunuyorsa DOĞRU, aksi takdirde YANLIŞ döndürür.</translation>
     </message>
     <message>
         <source>Commands</source>
@@ -24222,7 +24222,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Searches a specified value in the leftmost column of a table and returns a value in the current row from a column you specify.</source>
-        <translation type="unfinished"/>
+        <translation>Bir tablonun en sol sütunundaki bir değeri arar ve daha sonra aynı satırda belirttiğiniz sütundan bir değer verir. Varsayılan olarak tablo artan sırada. sıralanmalıdır. </translation>
     </message>
     <message>
         <source>Returns TRUE if the number is odd and FALSE otherwise.</source>
@@ -25566,7 +25566,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Checks whether a condition is met, and returns one value if TRUE, and another value if FALSE.</source>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz koşul DOĞRU olarak değerlendiriliyorsa bir değer, YANLIŞ olarak değerlendiriliyorsa başka bir değer verir.</translation>
     </message>
     <message>
         <source>IRR(values,guess)</source>
@@ -25622,7 +25622,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
-        <translation type="unfinished"/>
+        <translation>Başvurunun formül içeren bir hücreye yapılıp yapılmadığını denetler ve DOĞRU ya da YANLIŞ değerini döndürür.</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -49830,7 +49830,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Current value:</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli değer:</translation>
     </message>
     <message>
         <source>Goal Seek Status</source>
@@ -49838,7 +49838,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Target value:</source>
-        <translation type="unfinished"/>
+        <translation>Hedef değer:</translation>
     </message>
 </context>
 <context>
@@ -49872,7 +49872,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;neriler:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
