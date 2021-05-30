@@ -28202,7 +28202,7 @@ Kaydet</translation>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;neriler:</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
