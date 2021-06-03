@@ -39305,7 +39305,7 @@ hipótesis</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtro</translation>
     </message>
     <message>
         <source>Hide Detail</source>
