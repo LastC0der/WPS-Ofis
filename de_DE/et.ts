@@ -39297,6 +39297,10 @@ Data</source>
         <translation>Aus dem Web</translation>
     </message>
     <message>
+        <source>Filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Hide Detail</source>
         <translation>Detail ausblenden</translation>
     </message>
@@ -44978,6 +44982,10 @@ scannen</translation>
     <message>
         <source>Print Gridlines</source>
         <translation>Gitternetz drucken</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Anzeigen</translation>
     </message>
     <message>
         <source>Zoom</source>
