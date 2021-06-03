@@ -10320,7 +10320,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>%1 &quot;%2&quot; have been replaced by &quot;%3&quot;</source>
-        <translation>&amp;quot;%2&amp;quot; w %1  zastąpiono &amp;quot;%3&amp;quot;.</translation>
+        <translation>&quot;%2&quot; w %1  zastąpiono &quot;%3&quot;.</translation>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
@@ -35121,7 +35121,7 @@ zaznaczenia</translation>
     </message>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Wyświetl</translation>
     </message>
     <message>
         <source>View Gridlines</source>
