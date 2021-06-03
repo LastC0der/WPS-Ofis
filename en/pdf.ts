@@ -5702,7 +5702,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Search</source>
-        <translation>Search</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Square</source>
@@ -7660,7 +7660,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PageZoom</source>
-        <translation>Zoom</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -7704,7 +7704,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Page View</source>
-        <translation>Page View</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
@@ -8528,7 +8528,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Edit Content</source>
-        <translation>Edit Content</translation>
+        <translation></translation>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -11454,23 +11454,23 @@ Navigation</source>
     <name>ongmani.ct_page</name>
     <message>
         <source>Views</source>
-        <translation>Views</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Organize Page</source>
-        <translation>Organize Page</translation>
+        <translation></translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation>Split PDF</translation>
+        <translation></translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation>Merge PDF</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Merge and Split</source>
-        <translation>Merge and Split</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
