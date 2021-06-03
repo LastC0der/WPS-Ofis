@@ -22431,7 +22431,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>DISC(settlement, maturity, pr, redemption, [basis])</source>
-        <translation type="unfinished"/>
+        <translation>DISC(liquidação, vencimento, pr, resgate, [base])</translation>
     </message>
     <message>
         <source>TANH(number)</source>
@@ -24379,11 +24379,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>VAR.S(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>VAR.S(núm1, núm2, ...)</translation>
     </message>
     <message>
         <source>VAR.P(number1,number2,...)</source>
-        <translation type="unfinished"/>
+        <translation>VAR.P(núm1, núm2, ...)</translation>
     </message>
     <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
@@ -39298,7 +39298,7 @@ Data</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Hide Detail</source>
