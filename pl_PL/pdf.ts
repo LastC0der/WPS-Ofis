@@ -7670,7 +7670,7 @@ plików</translation>
     </message>
     <message>
         <source>PageZoom</source>
-        <translation>Powiększ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paragraph</source>
