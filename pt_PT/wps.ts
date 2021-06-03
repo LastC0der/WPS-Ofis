@@ -10317,7 +10317,7 @@ Esta alteração afetará todos os novos documentos baseados no modelo %1.</tran
     </message>
     <message>
         <source>%1 &quot;%2&quot; have been replaced by &quot;%3&quot;</source>
-        <translation>&amp;quot;%2&amp;quot; em %1 foi substituído por &amp;quot;%3&amp;quot;.</translation>
+        <translation>&quot;%2&quot; em %1 foi substituído por &quot;%3&quot;.</translation>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
@@ -35115,7 +35115,7 @@ Seleção</translation>
     </message>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Ver</translation>
     </message>
     <message>
         <source>View Gridlines</source>
