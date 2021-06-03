@@ -5711,7 +5711,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Square</source>
@@ -7670,7 +7670,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PageZoom</source>
-        <translation>Увеличить</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -11340,7 +11340,7 @@ Navigation</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"/>
+        <translation>Текст</translation>
     </message>
     <message>
         <source>Text Marks</source>
@@ -11348,7 +11348,7 @@ Navigation</source>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать</translation>
     </message>
 </context>
 <context>
@@ -11472,7 +11472,7 @@ Navigation</source>
     <name>ongmani.ct_page</name>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>Organize Page</source>
@@ -11480,11 +11480,11 @@ Navigation</source>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Разделить PDF</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Объединить PDF</translation>
     </message>
     <message>
         <source>Merge and Split</source>
@@ -12682,7 +12682,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Разделить PDF</translation>
     </message>
     <message>
         <source>PageTool</source>
@@ -12690,7 +12690,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Объединить PDF</translation>
     </message>
 </context>
 <context>
