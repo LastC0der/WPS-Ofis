@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="id_ID" version="2.1">
 <context>
     <name>KAccountMessageContentDlg</name>
     <message>
@@ -498,7 +496,7 @@
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -586,14 +584,6 @@ p, li { white-space: pre-wrap; }
         <translation>Layanan Cloud kualitas tinggi</translation>
     </message>
     <message>
-        <source>Sign in to sync data between PC and phone</source>
-        <translation>Masuk untuk menyinkronkan data antara PC dan telepon</translation>
-    </message>
-    <message>
-        <source>Get all benefits of services on both PC and phone</source>
-        <translation>Dapatkan semua manfaat layanan di PC dan ponsel</translation>
-    </message>
-    <message>
         <source>Enjoy the Office Privilege</source>
         <translation>Nikmati Sekarang</translation>
     </message>
@@ -604,10 +594,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>I am personal user</source>
         <translation>Pengguna masuk</translation>
-    </message>
-    <message>
-        <source>Dozens of Premium features: PDF to Word, PDF Edit, No ADs, etc.</source>
-        <translation>Puluhan fitur Premium: PDF ke Word, Mengedit PDF, Tanpa Iklan, dll.</translation>
     </message>
     <message>
         <source>vipTip</source>
@@ -627,16 +613,8 @@ makes documents beautiful</source>
         <translation>Dapatkan semua manfaat layanan di PC dan telepon</translation>
     </message>
     <message>
-        <source>High quality of Cloud services</source>
-        <translation>Layanan Cloud kualitas tinggi</translation>
-    </message>
-    <message>
         <source>How to become paid member?</source>
         <translation>Akses Premium?</translation>
-    </message>
-    <message>
-        <source>Sign in User</source>
-        <translation>Pengguna Masuk</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
@@ -659,18 +637,6 @@ makes documents beautiful</source>
 we will make continuous improvements</source>
         <translation>Terima kasih atas dukungan Anda,
 kami akan terus melakukan perbaikan</translation>
-    </message>
-    <message>
-        <source>Massive templates make amazing documents</source>
-        <translation>Templat masif akan membentuk dokumen yang menakjubkan</translation>
-    </message>
-    <message>
-        <source>Premium User</source>
-        <translation>Pengguna Premium</translation>
-    </message>
-    <message>
-        <source>1G Cloud space</source>
-        <translation>1 G ruang Cloud</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1098,11 +1064,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Facebook</source>
-        <translation>Lanjutkan dengan Facebook</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Don&apos;t have an account?</source>
-        <translation>Tidak punya akun?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invalid argument</source>
@@ -1125,6 +1091,10 @@ Easy mobile office.</source>
         <translation>Gambar, templat, bentuk online</translation>
     </message>
     <message>
+        <source>Please enter a valid email address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Wrong password</source>
         <translation>Kata sandi salah</translation>
     </message>
@@ -1137,10 +1107,6 @@ Easy mobile office.</source>
         <translation>Masuk</translation>
     </message>
     <message>
-        <source>I agree to the</source>
-        <translation>Saya setuju dengan</translation>
-    </message>
-    <message>
         <source>Server error</source>
         <translation>Kesalahan server</translation>
     </message>
@@ -1151,6 +1117,10 @@ Easy mobile office.</source>
     <message>
         <source>Wechat qrcode loading...</source>
         <translation>Wechat qrcode memuatkan...</translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sign in with Facebook</source>
@@ -1177,16 +1147,8 @@ Easy mobile office.</source>
         <translation>Daftar dengan Email</translation>
     </message>
     <message>
-        <source>Go back to sign in</source>
-        <translation>Kembali untuk masuk</translation>
-    </message>
-    <message>
-        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
-        <translation>Kami telah membuka tab browser baru agar Anda bisa masuk. Anda harus menyelesaikan autentikasi di browser. Setelah melakukannya, Anda akan otomatis melanjutkan di sini. </translation>
-    </message>
-    <message>
         <source>Continue with Google</source>
-        <translation>Lanjutkan dengan Google</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User name can&apos;t be pure whitespace</source>
@@ -1213,10 +1175,6 @@ Easy mobile office.</source>
         <translation>kata sandi</translation>
     </message>
     <message>
-        <source>Cloud Services User Agreement</source>
-        <translation>Perjanjian Pengguna Layanan Cloud</translation>
-    </message>
-    <message>
         <source>No password</source>
         <translation>Tidak ada kata sandi</translation>
     </message>
@@ -1234,7 +1192,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Twitter</source>
-        <translation>Lanjutkan dengan Twitter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No account?</source>
@@ -1254,7 +1212,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Dropbox</source>
-        <translation>Lanjutkan dengan Dropbox</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User not active</source>
@@ -1265,28 +1223,16 @@ Easy mobile office.</source>
         <translation>Pengguna tidak ada</translation>
     </message>
     <message>
-        <source>Waiting...</source>
-        <translation>Tunggu...</translation>
-    </message>
-    <message>
         <source>Invalid account</source>
         <translation>Akun tidak valid</translation>
     </message>
     <message>
         <source>Continue with Email</source>
-        <translation>Lanjutkan dengan Email</translation>
-    </message>
-    <message>
-        <source>Continue with Line</source>
-        <translation>Lanjutkan dengan Line</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share docs with others</source>
         <translation>Bagi dokumen dengan yang lain</translation>
-    </message>
-    <message>
-        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation>Kami tidak berhasil mengusahakan agar Anda bisa masuk. Kembali untuk masuk dan coba lagi.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
@@ -1306,7 +1252,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Create account</source>
-        <translation>Buat akun</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User is banned</source>
