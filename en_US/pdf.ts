@@ -5708,7 +5708,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Search</translation>
     </message>
     <message>
         <source>Square</source>
@@ -7668,7 +7668,7 @@ Speech</translation>
     </message>
     <message>
         <source>PageZoom</source>
-        <translation>Zoom In</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -7713,7 +7713,7 @@ Pane</translation>
     </message>
     <message>
         <source>Page View</source>
-        <translation type="unfinished"/>
+        <translation>Page View</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
@@ -8537,7 +8537,7 @@ Pane</translation>
     </message>
     <message>
         <source>Edit Content</source>
-        <translation type="unfinished"/>
+        <translation>Edit Content</translation>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -11338,15 +11338,15 @@ Speech</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"/>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Text Marks</source>
-        <translation type="unfinished"/>
+        <translation>Text Marks</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"/>
+        <translation>Drawing</translation>
     </message>
 </context>
 <context>
@@ -11388,7 +11388,7 @@ Speech</translation>
     </message>
     <message>
         <source>Text Marks</source>
-        <translation type="unfinished"/>
+        <translation>Text Marks</translation>
     </message>
     <message>
         <source>Attachment</source>
@@ -11408,7 +11408,7 @@ Speech</translation>
     </message>
     <message>
         <source>InsertContent</source>
-        <translation type="unfinished"/>
+        <translation>Insert Content</translation>
     </message>
     <message>
         <source>TextBox</source>
@@ -11424,7 +11424,7 @@ Speech</translation>
     </message>
     <message>
         <source>PageMarks</source>
-        <translation type="unfinished"/>
+        <translation>Page Marks</translation>
     </message>
     <message>
         <source>Signature</source>
@@ -11470,23 +11470,23 @@ Speech</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Views</translation>
     </message>
     <message>
         <source>Organize Page</source>
-        <translation type="unfinished"/>
+        <translation>Organize Page</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Split PDF</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Merge PDF</translation>
     </message>
     <message>
         <source>Merge and Split</source>
-        <translation type="unfinished"/>
+        <translation>Merge and Split</translation>
     </message>
 </context>
 <context>
@@ -12679,7 +12679,7 @@ Deleted pages cannot be recovered</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Split PDF</translation>
     </message>
     <message>
         <source>PageTool</source>
@@ -12687,7 +12687,7 @@ Deleted pages cannot be recovered</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Merge PDF</translation>
     </message>
 </context>
 <context>
