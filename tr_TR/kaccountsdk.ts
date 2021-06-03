@@ -1082,6 +1082,10 @@ Easy mobile office.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Please enter a valid email address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Wrong password</source>
         <translation type="unfinished"/>
     </message>
@@ -1104,6 +1108,10 @@ Easy mobile office.</source>
     <message>
         <source>Wechat qrcode loading...</source>
         <translation>Wechat karekod yükleniyor...</translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sign in with Facebook</source>
