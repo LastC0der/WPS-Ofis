@@ -5710,6 +5710,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Auswählen</translation>
     </message>
     <message>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Square</source>
         <translation>Rechteck</translation>
     </message>
@@ -7664,6 +7668,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Stil und Format</translation>
     </message>
     <message>
+        <source>PageZoom</source>
+        <translation>Vergrößern</translation>
+    </message>
+    <message>
         <source>Paragraph</source>
         <translation>Absatz</translation>
     </message>
@@ -7702,6 +7710,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Translate selected</source>
         <translation>Übersetzen</translation>
+    </message>
+    <message>
+        <source>Page View</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
@@ -8522,6 +8534,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>PDFBackGround</source>
         <translation>Hintergrund</translation>
+    </message>
+    <message>
+        <source>Edit Content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -11318,6 +11334,18 @@ scannen</translation>
         <source>Measure Tool</source>
         <translation>Tool für Messungen</translation>
     </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text Marks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPdfCheckBoxTipsWidget</name>
@@ -11357,8 +11385,8 @@ scannen</translation>
         <translation>Einfügung</translation>
     </message>
     <message>
-        <source>Text Markup</source>
-        <translation>Textmarkierung</translation>
+        <source>Text Marks</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Attachment</source>
@@ -11377,6 +11405,10 @@ scannen</translation>
         <translation>Seiten einfügen</translation>
     </message>
     <message>
+        <source>InsertContent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>TextBox</source>
         <translation>Textfeld</translation>
     </message>
@@ -11389,12 +11421,12 @@ scannen</translation>
         <translation>Übersetzen</translation>
     </message>
     <message>
-        <source>Signature</source>
-        <translation>PDF-Signatur</translation>
+        <source>PageMarks</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>InsertGraphic</source>
-        <translation>Grafik einfügen</translation>
+        <source>Signature</source>
+        <translation>PDF-Signatur</translation>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -11429,6 +11461,29 @@ scannen</translation>
     </message>
     <message>
         <source>Docmgr</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_page</name>
+    <message>
+        <source>Views</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MergePDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge and Split</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -12622,7 +12677,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation>PDF aufteilen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PageTool</source>
@@ -12630,7 +12685,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation>PDF zusammenführen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
