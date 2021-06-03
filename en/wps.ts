@@ -34900,7 +34900,7 @@ Size</source>
     </message>
     <message>
         <source>Views</source>
-        <translation>Views</translation>
+        <translation></translation>
     </message>
     <message>
         <source>View Gridlines</source>
