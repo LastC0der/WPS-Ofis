@@ -39375,7 +39375,7 @@ warunkowa</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtr</translation>
     </message>
     <message>
         <source>Hide Detail</source>
