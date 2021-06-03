@@ -1064,11 +1064,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Facebook</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan dengan Facebook</translation>
     </message>
     <message>
         <source>Don&apos;t have an account?</source>
-        <translation type="unfinished"/>
+        <translation>Tidak punya akun?</translation>
     </message>
     <message>
         <source>Invalid argument</source>
@@ -1148,7 +1148,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Google</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan dengan Google</translation>
     </message>
     <message>
         <source>User name can&apos;t be pure whitespace</source>
@@ -1192,7 +1192,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Twitter</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan dengan Twitter</translation>
     </message>
     <message>
         <source>No account?</source>
@@ -1212,7 +1212,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Dropbox</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan dengan Dropbox</translation>
     </message>
     <message>
         <source>User not active</source>
@@ -1228,7 +1228,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Email</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan dengan Email</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1252,7 +1252,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Create account</source>
-        <translation type="unfinished"/>
+        <translation>Buat akun</translation>
     </message>
     <message>
         <source>User is banned</source>
