@@ -1085,7 +1085,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Please enter a valid email address</source>
-        <translation>Please enter a valid email address</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Wrong password</source>
@@ -1113,7 +1113,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>There is no account for the email you entered</source>
-        <translation>There is no account for the email you entered</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sign in with Facebook</source>
