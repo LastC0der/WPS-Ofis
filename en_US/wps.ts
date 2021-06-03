@@ -1,6 +1,12 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="en_US" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1">
 <context>
     <name>wps_field_parser_common</name>
+    <message>
+        <source></source>
+        <translation></translation>
+    </message>
     <message>
         <source>Date</source>
         <translation>Date</translation>
@@ -48,10 +54,6 @@
     <message>
         <source>Error. Unknown op code for conditional.</source>
         <translation>Error. Unknown op code for conditional.</translation>
-    </message>
-    <message>
-        <source> </source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -119,10 +121,6 @@
     <message>
         <source>Encl&amp;osure:</source>
         <translation>Encl&amp;osure:</translation>
-    </message>
-    <message>
-        <source>印</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3633,18 +3631,6 @@ Do you want to replace it?</translation>
         <source>WhenSelected</source>
         <translation>When selected</translation>
     </message>
-    <message>
-        <source>Enable middle button paste</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;minutes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxDlgZoom</name>
@@ -6470,10 +6456,6 @@ Cancel:	Return to the dialog.</translation>
         <source>In this section</source>
         <translation>In this section</translation>
     </message>
-    <message>
-        <source>(&amp;A)</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxOutlineNumberDlg</name>
@@ -8126,10 +8108,6 @@ use buttons to apply borders</translation>
     <message>
         <source>Entire document</source>
         <translation>Entire document</translation>
-    </message>
-    <message>
-        <source>Set page number format</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10318,7 +10296,7 @@ This change will affect all new documents based on the %1 template.</translation
     </message>
     <message>
         <source>%1 &quot;%2&quot; have been replaced by &quot;%3&quot;</source>
-        <translation>&amp;quot;%2&amp;quot; in %1  has been replaced with &amp;quot;%3&amp;quot;.</translation>
+        <translation>&quot;%2&quot; in %1  has been replaced with &quot;%3&quot;.</translation>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
@@ -10752,7 +10730,7 @@ Data from your database will be placed in the document. Do you want to continue?
         <translation>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
-        <source>Cannot find &quot;%s&quot;. Please check the file name's spelling, and make sure the file location is correct.
+        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
         <translation>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</translation>
@@ -10848,15 +10826,6 @@ Please try one of the following.
 Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.</translation>
-    </message>
-    <message>
-        <source>Pasting page breaks in math will be lost.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
-This backup will be saved to (%s)</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13060,10 +13029,6 @@ Replace</translation>
     <message>
         <source>Line Spacing</source>
         <translation>Line Spacing</translation>
-    </message>
-    <message>
-        <source>Unformatted Text</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16685,38 +16650,6 @@ Diagonal Line in Cell</source>
         <source>Smooth Point</source>
         <translation>Smooth Point</translation>
     </message>
-    <message>
-        <source>Identify Text in Picture</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Photo2PdfConvert</source>
-        <translation>Convert Picture to PDF</translation>
-    </message>
-    <message>
-        <source>Offline Management</source>
-        <translation>Offline Management</translation>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation>Share to Blog</translation>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation>Share to Blog</translation>
-    </message>
-    <message>
-        <source>Translation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation>WPS Blog Layout</translation>
-    </message>
-    <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_drawingtools</name>
@@ -19780,42 +19713,6 @@ Screen</source>
         <source>Professional</source>
         <translation>Professional</translation>
     </message>
-    <message>
-        <source>Map</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Color</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Num</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Macros</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>HomeDesign</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Recommend</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Recommend Template From Docer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxWordCountDlgClass</name>
@@ -20524,10 +20421,6 @@ Painter</translation>
     <message>
         <source>Sign Out</source>
         <translation>Sign Out</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -23603,43 +23496,6 @@ Protection</translation>
         <source>Show/Hide Formatting Marks</source>
         <translation>Show/Hide Formatting Marks</translation>
     </message>
-    <message>
-        <source>Order</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert TableOfContents</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Resize Table</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Page Number Format</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Move Table</source>
-        <comment>TxVersion_FrameMove</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add rows and columns</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Outside Border</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Text Box Link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fill Color</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>classics.3dsettings</name>
@@ -26292,23 +26148,6 @@ Permissions</translation>
     <message>
         <source>Export coding library for trace</source>
         <translation>Export coding library for trace</translation>
-    </message>
-    <message>
-        <source>File Information</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document Protection and Properties</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Account Encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document Security</source>
-        <translation>Document 
-Security</translation>
     </message>
 </context>
 <context>
@@ -29343,11 +29182,6 @@ Mode</translation>
         <source>Toggle Button</source>
         <translation>Toggle Button</translation>
     </message>
-    <message>
-        <source>Visual Basic
-Editor</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_developtools</name>
@@ -29493,10 +29327,6 @@ Mode</translation>
         <source>Toggle Button</source>
         <translation>Toggle Button</translation>
     </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation>Visual Basic Editor</translation>
-    </message>
 </context>
 <context>
     <name>KxContentListEntriesDlg</name>
@@ -29600,42 +29430,6 @@ Mode</translation>
     <message>
         <source>TextLabel</source>
         <translation>Text Label</translation>
-    </message>
-    <message>
-        <source>input chinese sy info tips part1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>input chinese sy info tips part2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>sy_normal</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>sytype</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>input normal sy info tips part1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>input normal sy info tips part2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>chinese_sy_info</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>normal_sy_info</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>self_sy_info</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -32967,10 +32761,6 @@ Size</translation>
         <source>Align Top</source>
         <translation>Align Top</translation>
     </message>
-    <message>
-        <source>From Phone</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetools_vml</name>
@@ -33517,10 +33307,6 @@ Pane</translation>
     <message>
         <source>Align Top</source>
         <translation>Align Top</translation>
-    </message>
-    <message>
-        <source>Online Picture</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -35118,6 +34904,10 @@ Pane</translation>
         <translation>Eye Protection Mode</translation>
     </message>
     <message>
+        <source>Views</source>
+        <translation>Views</translation>
+    </message>
+    <message>
         <source>View Gridlines</source>
         <translation>View Gridlines</translation>
     </message>
@@ -35145,10 +34935,6 @@ View</translation>
     <message>
         <source>Place on Left</source>
         <translation>Move to Left</translation>
-    </message>
-    <message>
-        <source>Document Views</source>
-        <translation>View of Document</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -35277,10 +35063,6 @@ Screen</source>
         <source>New
 Window</source>
         <translation>New Window</translation>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -35553,10 +35335,6 @@ Layout</translation>
     <message>
         <source>File Path: WPS CloudFile\Cloud BackUp</source>
         <translation>File Path: WPS Cloud\Auto Uploaded</translation>
-    </message>
-    <message>
-        <source>Confirmation password does not match.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -36967,22 +36745,6 @@ Number</translation>
         <source>Total of Y Page</source>
         <translation>Total of Y Page</translation>
     </message>
-    <message>
-        <source>Insert Number</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation>Equation</translation>
-    </message>
-    <message>
-        <source>From Phone</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More Symbols</source>
-        <translation>More Symbols</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_insert_vml</name>
@@ -37341,10 +37103,6 @@ Number</translation>
     <message>
         <source>Total of Y Page</source>
         <translation>Total of Y Page</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38296,22 +38054,6 @@ Cloud Docs</translation>
         <source>Document security</source>
         <translation>Document security</translation>
     </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Translate selected text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ongmani.proxycommands</name>
@@ -38805,22 +38547,6 @@ Permission</translation>
         <source>From Phone</source>
         <translation>From Phone</translation>
     </message>
-    <message>
-        <source>Picture to Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>InsertBarcode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>HomeDesign</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Geogebra</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_workspace</name>
@@ -38913,22 +38639,6 @@ Cloud Docs</translation>
     <message>
         <source>View File Safe</source>
         <translation>View File Safe</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39138,10 +38848,6 @@ PDF</translation>
     <message>
         <source>Sign out</source>
         <translation>Sign out</translation>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -40193,10 +39899,6 @@ Security</translation>
     <message>
         <source>ReviewTime</source>
         <translation>Review Time</translation>
-    </message>
-    <message>
-        <source>Document Encryption</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -43321,14 +43023,6 @@ Merge</translation>
         <source>3-D Settings</source>
         <translation>3-D Settings</translation>
     </message>
-    <message>
-        <source>Picture to Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxDlgCellOption</name>
@@ -44429,10 +44123,6 @@ Permissions</translation>
         <source>Make Forward Doc</source>
         <translation>Create Outward Document</translation>
     </message>
-    <message>
-        <source>Document Security</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxDlgWpsAdvInsertPageNumber</name>
@@ -44605,10 +44295,6 @@ Permissions</translation>
     <message>
         <source> Limit All(&amp;R) &gt;&gt; </source>
         <translation> L&amp;imit All &gt;&gt; </translation>
-    </message>
-    <message>
-        <source>Styles are currently allowed(&amp;P):</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44961,10 +44647,6 @@ Number</translation>
     <message>
         <source>Delete Object</source>
         <translation>Delete Object</translation>
-    </message>
-    <message>
-        <source>Insert Picture</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45508,10 +45190,6 @@ Number</translation>
     <message>
         <source>Navigation</source>
         <translation>Navigation</translation>
-    </message>
-    <message>
-        <source>Picture to Text</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46218,10 +45896,6 @@ Level</translation>
     <message>
         <source>Unnamed</source>
         <translation>Unnamed</translation>
-    </message>
-    <message>
-        <source>Enter Section Name</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46950,14 +46624,6 @@ Merge</translation>
     <message>
         <source>The number input must be between 1 and 63.</source>
         <translation>The number input must be between 1 and 63.</translation>
-    </message>
-    <message>
-        <source>Click to turn off Proofread</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Apply Table Style</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47891,34 +47557,6 @@ Speech</translation>
     <message>
         <source>Selection Speech</source>
         <translation>Selection Speech</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Translation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -49442,22 +49080,6 @@ TOC</translation>
         <source>Online Pictures</source>
         <translation>Online Pictures</translation>
     </message>
-    <message>
-        <source>Export as Images</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxCombineCharactersDlg</name>
@@ -49576,10 +49198,6 @@ TOC</translation>
     <message>
         <source>Bottom Outter</source>
         <translation>Bottom Outter</translation>
-    </message>
-    <message>
-        <source>Set page number format</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50559,10 +50177,6 @@ Recipients</translation>
     <message>
         <source>Manual Table</source>
         <translation>Manual Table</translation>
-    </message>
-    <message>
-        <source>ManualTable</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51660,10 +51274,6 @@ schema that matches the namespace already specified; or click Cancel, and remove
         <source>Delete Page Number</source>
         <translation>Delete Page Number</translation>
     </message>
-    <message>
-        <source>Set Page Number</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxFormatProperty</name>
@@ -52241,7 +51851,7 @@ schema that matches the namespace already specified; or click Cancel, and remove
     <message>
         <source>Your document will be upgraded to newest file format.
 
-While you'll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
+While you&apos;ll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
 Converting allows you to use all the new features of Word and reduces the size of your file. This document will be replaced by the converted version.</source>
         <translation>Your document will be upgraded to newest file format.
 
@@ -52360,10 +51970,6 @@ Converting allows you to use all the new features of WPS Writer and reduces the 
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
         <translation>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</translation>
     </message>
-    <message>
-        <source>Orientation</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxWpsTextDirectionCommand</name>
@@ -52395,7 +52001,7 @@ Converting allows you to use all the new features of WPS Writer and reduces the 
     <message>
         <source>Your document will be upgraded to the newest file format.
 
-While you'll get to use all the new features in Word, some minor layout
+While you&apos;ll get to use all the new features in Word, some minor layout
 changes are possible. If you prefer not to upgrade, press cancel an
 check the maintain compatibility checkbox.</source>
         <translation>Your document will be upgraded to the newest file format.
@@ -52549,87 +52155,6 @@ represent the receiver</translation>
     <message>
         <source>Click here to insert pictures.</source>
         <translation>Click here to insert pictures.</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsPageDifferCommand</name>
-    <message>
-        <source>Different first page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Different odd &amp;even pages</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsHeaderLineMoreColorCommand</name>
-    <message>
-        <source>Show Header Line Color</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxNotRestartSmartPageNumMenuItemCommand</name>
-    <message>
-        <source>Continue numbering</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsReviewersComboBox</name>
-    <message>
-        <source>All Reviewers</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsHeaderLineBaseCommand</name>
-    <message>
-        <source>Show Header Line</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsHFLinkToPreviousCommand</name>
-    <message>
-        <source>Header and Footer Link to Previous</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsDeleteSectionCommand</name>
-    <message>
-        <source>Delete Section</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxDeleteSmartPageNumMenuItemCommand</name>
-    <message>
-        <source>Delete page number</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWpsFileMenuHelpDocumentCommand</name>
-    <message>
-        <source>WPS Writer Help</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsAboutLegacyTriggerCommand</name>
-    <message>
-        <source>About WPS Writer</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxRestartSmartPageNumMenuItemCommand</name>
-    <message>
-        <source>Restart current page page number</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 </TS>

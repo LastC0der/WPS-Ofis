@@ -1,9 +1,11 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="en_US" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="et_EE">
 <context>
     <name>KxNewTableStyleDlg</name>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source></source>
+        <translation></translation>
     </message>
     <message>
         <source>,</source>
@@ -261,8 +263,8 @@
 <context>
     <name>KxStyleDlg</name>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source></source>
+        <translation></translation>
     </message>
     <message>
         <source>, </source>
@@ -1908,63 +1910,6 @@ If this is correct, choose Next. If not, choose the data type that best describe
         <source>File encryption options for this workbook</source>
         <translation>File encryption options for this workbook</translation>
     </message>
-    <message>
-        <source>&amp;minutes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enable middle button paste</source>
-        <translation type="unfinished"/>
-    </message>				
-    <message>
-        <source>Keep files cache</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Image Size and Quality</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Default insert images of &amp;original size</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Never show dialog when open html file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Open directly by default:Content style is complete, but opening may fail</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Open in simple mode:Can open to view the content, but the opening speed is slow, elements such as styles may be lost</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;High quality printing</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>days (Range 7-120)</source>
-        <translation type="unfinished"/>
-	</message>	
-    <message>
-        <source>Keep cache for</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear local backup cache</source>
-        <translation type="unfinished"/>
-    </message>
-	<message>
-		<source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
-Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
-		<translation type="unfinished"/>
-	</message>
 </context>
 <context>
     <name>KxPivotDateFilterDlg</name>
@@ -2459,7 +2404,7 @@ Select a single range and click the command again.</source>
 Select a single range and click the command again.</translation>
     </message>
     <message>
-        <source>WPS Spreadsheets cannot open this file, because the current user doesn't have enough permission to access.
+        <source>WPS Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.
@@ -3165,7 +3110,7 @@ Value</translation>
     <message>
         <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
 
-  If you're using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
+  If you&apos;re using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
   If you&apos;re creating a PivotTable report, type a cell reference or select a range that includes at least two rows of data.</source>
         <translation>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
 
@@ -4031,7 +3976,7 @@ If you ignore it, you cannot save this file, but you can use Save As to save to 
         <translation>References to multiple item names per field cannot be included in PivotTable formulas.</translation>
     </message>
     <message>
-        <source>Cannot find &quot;%s&quot;. Please check the file name's spelling, and make sure the file location is correct.
+        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
         <translation>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</translation>
@@ -4505,7 +4450,7 @@ Please try to shorten the file path, or move the file to the desktop, and reopen
     <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
-•The current version of WPS Spreadsheets does not support this file's permission control level, please update to the latest version.
+•The current version of WPS Spreadsheets does not support this file&apos;s permission control level, please update to the latest version.
 •Ask its creator to change the permission control level as full control level.
 (%s)</source>
         <translation>Errors occur when WPS Spreadsheets opening this file.
@@ -5296,11 +5241,6 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
 </source>
         <translation>Some formulas or names of this file contain the user-defined functions which WPS Spreadsheets does not support, and recalcation of these formulas or names may cause incorrect results.
 </translation>
-    </message>
-    <message>
-        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
-This backup will be saved to (%s)</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7769,10 +7709,6 @@ Please make sure the selected regions are continuous cells.</translation>
         <translation>The Start Date contains an error now. Do you want to continue?</translation>
     </message>
     <message>
-        <source>Split window</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Unsplit window</source>
         <translation>Remove split</translation>
     </message>
@@ -7903,7 +7839,7 @@ Please make sure the selected regions are continuous cells.</translation>
     </message>
     <message>
         <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
-'%s
+&apos;%s
 • To accept the correction, click OK.
 • To close this message and correct the formula by yourself, click Cancel.
 • If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
@@ -9034,7 +8970,7 @@ Data</source>
         <translation>Exact match</translation>
     </message>
     <message>
-        <source>We looked at the data next to your selection and didn't see a pattern for filling values for you.
+        <source>We looked at the data next to your selection and didn&apos;t see a pattern for filling values for you.
 To use Flash Fill, enter a couple of examples of the output you&apos;d like to see,kepp the active cell in the column you want fill, and click the Flash Fill button again.</source>
         <translation>Please enter more sample data and try again</translation>
     </message>
@@ -9623,7 +9559,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>The formula you entered contains errors. WPS Spreadsheets will automatically correct it as: 
-'%s
+&apos;%s
 • To accept the correction, click OK.
 • To close this message and correct the formula by yourself, click Cancel.
 • If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
@@ -10166,10 +10102,6 @@ There are several possible reasons:
     <message>
         <source>Error_val</source>
         <translation>Error_val</translation>
-    </message>
-    <message>
-        <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Row_num</source>
@@ -11200,7 +11132,7 @@ The values which can be typed here is restricted by other users.</translation>
         <translation>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</translation>
     </message>
     <message>
-        <source>Cannot find &quot;%s&quot;. Please check the file name's spelling, and make sure the file location is correct.If it is a shared document, please confirm that the document is still in the share.
+        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.If it is a shared document, please confirm that the document is still in the share.
 
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
         <comment>TX_SupBook_Open_Not_Exist</comment>
@@ -15260,10 +15192,6 @@ file,click OK.</translation>
         <translation>Slimming...</translation>
     </message>
     <message>
-        <source>Duplicate styles</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>All Shapes</source>
         <translation>All Shapes</translation>
     </message>
@@ -15914,7 +15842,7 @@ You may still need to manually update any references to this name used in VBA co
         <translation>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</translation>
     </message>
     <message>
-        <source> +-/*[]~!@#$%^&amp;*(),./;'\[]&lt;&gt;?:|{}&quot;	
+        <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
 </source>
         <translation> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
 </translation>
@@ -16088,7 +16016,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>You cannot perform next operation due to one of the following reasons:
  
- You haven't selected any field, please select fields from fields list first.
+ You haven&apos;t selected any field, please select fields from fields list first.
  
   The field list name is blank by chance.
  
@@ -17077,6 +17005,10 @@ Columns</translation>
     <message>
         <source>No Border</source>
         <translation>No Border</translation>
+    </message>
+    <message>
+        <source>Double accounting</source>
+        <translation>Double accounting</translation>
     </message>
     <message>
         <source>Format</source>
@@ -18917,10 +18849,6 @@ By Content</translation>
         <translation>Close All</translation>
     </message>
     <message>
-        <source>PivotTable</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Left</source>
         <comment>ChartLegend</comment>
         <translation>Left</translation>
@@ -19303,10 +19231,6 @@ merged into one worksheet</translation>
         <translation>Cascade</translation>
     </message>
     <message>
-        <source>Centered as group</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Subtotals</source>
         <translation>Subtotals</translation>
     </message>
@@ -19409,10 +19333,6 @@ merged into one worksheet</translation>
     <message>
         <source>Format Legend</source>
         <translation>Format Legend</translation>
-    </message>
-    <message>
-        <source>Smart Split Columns</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Snapper</source>
@@ -20222,26 +20142,6 @@ OLE DB Query</source>
         <source>Smooth Point</source>
         <translation>Smooth Point</translation>
     </message>
-    <message>
-        <source>Macro</source>
-        <translation>Macro</translation>
-    </message>
-    <message>
-        <source>Identify Text in Picture</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Offline Management</source>
-        <translation>Offline Management</translation>
-    </message>
-	<message>
-        <source>AutoFilterList</source>
-        <translation type="unfinished"/>
-    </message>	
 </context>
 <context>
     <name>rainbow.ct_home</name>
@@ -20461,11 +20361,6 @@ Painter</translation>
     <message>
         <source>Delete Cells</source>
         <translation>Delete Cells</translation>
-    </message>
-    <message>
-        <source>Merge and
-Center</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -21820,10 +21715,6 @@ Formatting</translation>
         <translation>Locked</translation>
     </message>
     <message>
-        <source>Location reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Number</source>
         <translation>Number</translation>
     </message>
@@ -21992,10 +21883,6 @@ Formatting</translation>
         <translation>Underline</translation>
     </message>
     <message>
-        <source>Location reference is not valid.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
         <translation>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</translation>
     </message>
@@ -22006,10 +21893,6 @@ Formatting</translation>
     <message>
         <source>Microsoft Excel Security Workbook(*.xls)|*.xls</source>
         <translation>Microsoft Excel Security Workbook(*.xls)|*.xls</translation>
-    </message>
-    <message>
-        <source>The reference for the location or data range is not valid.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotated up %1 Degrees</source>
@@ -22466,10 +22349,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>SUMSQ(number1,number2, ...)</translation>
     </message>
     <message>
-        <source>DISC(settlement, maturity, pr, redemption, [basis])</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>TANH(number)</source>
         <translation>TANH(number)</translation>
     </message>
@@ -22496,10 +22375,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>NOW()</source>
         <translation>NOW()</translation>
-    </message>
-    <message>
-        <source>Returns the next coupon date after settlement date.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
@@ -22699,10 +22574,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Returns the reference specified by a text string.</translation>
     </message>
     <message>
-        <source>Returns a URL-encoded string.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>MOD(number,divisor)</source>
         <translation>MOD(number,divisor)</translation>
     </message>
@@ -22733,10 +22604,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
         <translation>CONCATENATE (text1,text2,...)</translation>
-    </message>
-    <message>
-        <source>NORM.INV(probability,mean,standard_dev)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>PROPER(text)</source>
@@ -23155,10 +23022,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Returns the arcsine of a number within radians from -Pi/2 to Pi/2.</translation>
     </message>
     <message>
-        <source>DOLLARFR(decimal_dollar, fraction)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
         <translation>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</translation>
     </message>
@@ -23260,10 +23123,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>PAUSE(no_tool)</translation>
     </message>
     <message>
-        <source>Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>INDEX(array,row_num,column_num)</source>
         <translation>INDEX(array,row_num,column_num)</translation>
     </message>
@@ -23342,10 +23201,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
         <translation>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</translation>
-    </message>
-    <message>
-        <source>DOLLARDE(fractional_dollar, fraction)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>ON.WINDOW(window_text, macro_text)</source>
@@ -23475,10 +23330,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Converts degrees to radians.</source>
         <translation>Converts degrees to radians.</translation>
-    </message>
-    <message>
-        <source>NORM.S.INV(probability)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
@@ -23618,10 +23469,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Returns the lognormal cumulative distribution of x, where ln(x) is normally distributed with parameters Mean and Standard_dev.</translation>
     </message>
     <message>
-        <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>NEXT()</source>
         <translation>NEXT()</translation>
     </message>
@@ -23740,10 +23587,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>TRUE()</translation>
     </message>
     <message>
-        <source>Returns the number of days in the coupon period that contains the settlement date.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
         <translation>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</translation>
     </message>
@@ -23786,10 +23629,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Values</source>
         <translation>Values</translation>
-    </message>
-    <message>
-        <source>XOR(logical1,logical2,...)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>OR(logical1,logical2,...)</source>
@@ -23936,10 +23775,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>IMLOG10(inumber)</translation>
     </message>
     <message>
-        <source>MDURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Returns the exponential distribution.</source>
         <translation>Returns the exponential distribution.</translation>
     </message>
@@ -24052,10 +23887,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Converts hours, minutes, and seconds given as numbers to a WPS Spreadsheets serial number, formatted with a time format.</translation>
     </message>
     <message>
-        <source>DURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Returns a random integer between the two numbers you specified.</source>
         <translation>Returns a random integer between the two numbers you specified.</translation>
     </message>
@@ -24086,10 +23917,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
         <translation>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</translation>
-    </message>
-    <message>
-        <source>COUPDAYS(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
@@ -24227,10 +24054,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>AVEDEV(number1,number2,...)</source>
         <translation>AVEDEV(number1,number2,...)</translation>
-    </message>
-    <message>
-        <source>Estimates variance based on a sample(ignores logical values and text in the sample).</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the double factorial of a number.</source>
@@ -24414,20 +24237,8 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>AVERAGE(number1,number2,...)</translation>
     </message>
     <message>
-        <source>VAR.S(number1,number2,...)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>VAR.P(number1,number2,...)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
         <translation>Returns the month, a number from 1(January) to 12(December).</translation>
-    </message>
-    <message>
-        <source>NORM.DIST(x,mean,standard_dev,cumulative)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
@@ -24472,10 +24283,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>FDIST(x,degrees_freedom1,degrees_freedom2)</source>
         <translation>FDIST(x,degrees_freedom1,degrees_freedom2)</translation>
-    </message>
-    <message>
-        <source>Returns total covariance, the average of the products of deviations for each data point pair.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>SELECTION()</source>
@@ -24550,10 +24357,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</translation>
     </message>
     <message>
-        <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>TODAY()</source>
         <translation>TODAY()</translation>
     </message>
@@ -24564,10 +24367,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>DIALOGBOX(dialog_ref)</source>
         <translation>DIALOGBOX(dialog_ref)</translation>
-    </message>
-    <message>
-        <source>Returns simple covariance, the average of the products of deviations for each data point pair.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Information</source>
@@ -24654,10 +24453,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Returns the logical value TRUE.</translation>
     </message>
     <message>
-        <source>Returns the annual duration of a security with periodic interest payments.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
         <translation>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</translation>
     </message>
@@ -24690,10 +24485,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>ON.KEY(key_text, macro_text)</translation>
     </message>
     <message>
-        <source>Returns the previous coupon date before the settlement date.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
         <translation>Returns the relative position of an item in an array that matches a specified value in a specified order.</translation>
     </message>
@@ -24712,14 +24503,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Converts radians to degrees.</source>
         <translation>Converts radians to degrees.</translation>
-    </message>
-    <message>
-        <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>COUPPCD(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>ADD.BAR(bar_num)</source>
@@ -24790,16 +24573,8 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Returns the number of days between the two days.</translation>
     </message>
     <message>
-        <source>WORKDAY.INTL(start_date,days,weekend,holidays)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>WINDOW.TITLE(text)</source>
         <translation>WINDOW.TITLE(text)</translation>
-    </message>
-    <message>
-        <source>Returns an aggregate in a list or database.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>KURT(number1,number2,...)</source>
@@ -24858,10 +24633,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>PERCENTRANK(array,x,significance)</translation>
     </message>
     <message>
-        <source>Returns a logical &apos;Exclusive Or&apos; of all arguments.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>AREAS(reference)</source>
         <translation>AREAS(reference)</translation>
     </message>
@@ -24876,10 +24647,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Rounds a number up, away from zero.</source>
         <translation>Rounds a number up, away from zero.</translation>
-    </message>
-    <message>
-        <source>ISFORMULA(reference)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
@@ -25148,16 +24915,8 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>FORECAST(x,known_y&apos;s,known_x&apos;s)</translation>
     </message>
     <message>
-        <source>COVARIANCE.S(array1,array2)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>CELL(info_type, reference)</source>
         <translation>CELL(info_type, reference)</translation>
-    </message>
-    <message>
-        <source>COVARIANCE.P(array1,array2)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns a matrix determinant of an array.</source>
@@ -25180,20 +24939,12 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Rounds a positive number up and negative number down to the nearest odd integer.</translation>
     </message>
     <message>
-        <source>Calculates variance  based on the entire population(ignores logical values and text in the population).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</source>
         <translation>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</translation>
     </message>
     <message>
         <source>ISNUMBER(value)</source>
         <translation>ISNUMBER(value)</translation>
-    </message>
-    <message>
-        <source>NORM.S.DIST(z,cumulative)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>SUMMARY.INFO(title, subject, author, keywords, comments)</source>
@@ -25365,10 +25116,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>COUPDAYBS(settlement, maturity, frequency, [basis])</translation>
     </message>
     <message>
-        <source>Returns the Macauley modified duration for a security with an assumed par value of $100.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
         <translation>ON.DOUBLECLICK(sheet_text, macro_text)</translation>
     </message>
@@ -25411,10 +25158,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</source>
         <translation>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</translation>
-    </message>
-    <message>
-        <source>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns information about the formatting, location, or contents of the first cell, according to the sheet&apos;s reading order, in a reference.</source>
@@ -25483,10 +25226,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
         <translation>Returns a reference to a range that is a given number of rows and columns from a given reference.</translation>
-    </message>
-    <message>
-        <source>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given condition or criteria.</source>
@@ -25665,20 +25404,12 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>EDATE(start_date,months)</translation>
     </message>
     <message>
-        <source>Returns the discount rate for a security.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>HEX2DEC(number)</source>
         <translation>HEX2DEC(number)</translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
         <translation>Lookup and Reference</translation>
-    </message>
-    <message>
-        <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date and Time</source>
@@ -25825,10 +25556,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>REGISTER.ID(module_text, procedure, type_text)</translation>
     </message>
     <message>
-        <source>AGGREGATE(function_num,options,ref1,[ref2],...)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
         <translation>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</translation>
     </message>
@@ -25945,22 +25672,12 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Paste</translation>
     </message>
     <message>
-        <source>Recently 
-Used</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Evaluate Formula</source>
         <translation>Evaluate Formula</translation>
     </message>
     <message>
         <source>Statistical</source>
         <translation>Statistical</translation>
-    </message>
-    <message>
-        <source>More
-Functions</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Logical</source>
@@ -25993,11 +25710,6 @@ Function</source>
 Sheet</translation>
     </message>
     <message>
-        <source>Name
-Manager</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Edit Links</source>
         <translation>Edit 
 Links</translation>
@@ -26005,11 +25717,6 @@ Links</translation>
     <message>
         <source>Error Checking</source>
         <translation>Error Checking</translation>
-    </message>
-    <message>
-        <source>Math and
-Trig</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Function Library</source>
@@ -26061,11 +25768,6 @@ Time</translation>
         <source>Show Dependents</source>
         <translation>Trace Dependents</translation>
     </message>
-	<message>
-        <source>Lookup and
-Reference</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
         <source>Show Precedents</source>
         <translation>Trace Precedents</translation>
@@ -26073,11 +25775,6 @@ Reference</source>
     <message>
         <source>Formula Auditing</source>
         <translation>Formula Auditing</translation>
-    </message>
-    <message>
-        <source>Recalculate
-Workbook</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26451,24 +26148,14 @@ Effects</translation>
         <translation>Calculate 
 Sheet</translation>
     </message>
-	<message>
-        <source>Name
-Manager</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
         <source>Edit Links</source>
         <translation>Edit 
 Links</translation>
     </message>
-	<message>
+    <message>
         <source>Error Checking</source>
         <translation>Error Checking</translation>
-    </message>
-	<message>
-        <source>Math and
-Trig</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Function Library</source>
@@ -26523,11 +26210,6 @@ Time</translation>
     <message>
         <source>Show Dependents</source>
         <translation>Trace Dependents</translation>
-    </message>
-    <message>
-        <source>Lookup and
-Reference</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Precedents</source>
@@ -27303,10 +26985,6 @@ Effects</translation>
     <message>
         <source>Set</source>
         <translation>Set</translation>
-    </message>
-    <message>
-        <source>Split Tables</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge Range Data</source>
@@ -28631,11 +28309,6 @@ Comment</translation>
         <translation>Show Formulas</translation>
     </message>
     <message>
-        <source>Task
-Window</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>PicOrTexture</source>
         <translation>Picture or Texture</translation>
     </message>
@@ -28650,26 +28323,6 @@ Window</source>
     <message>
         <source>Merge worksheets</source>
         <translation>Merge worksheets</translation>
-    </message>
-    <message>
-        <source>Map</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Macros</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Recommend</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Recommend Template From Docer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -31049,10 +30702,6 @@ Center</translation>
         <translation>Launch Online Meeting</translation>
     </message>
     <message>
-        <source>Equation Tool</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>WeChat Customer Service</source>
         <translation>WPS Customer Service on WeChat</translation>
     </message>
@@ -31244,10 +30893,6 @@ Painter</translation>
     <message>
         <source>Sign Out</source>
         <translation>Sign Out</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -31699,27 +31344,6 @@ Permissions</translation>
     <message>
         <source>Backup and Recover</source>
         <translation>Backup and Recover</translation>
-    </message>
-    <message>
-        <source>File Information</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document Protection and Properties</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PassWord Encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Account Encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document Security</source>
-        <translation>Document 
-Security</translation>
     </message>
 </context>
 <context>
@@ -33046,10 +32670,6 @@ PDF</translation>
     <message>
         <source>Clea&amp;r</source>
         <translation>Clea&amp;r</translation>
-    </message>
-    <message>
-        <source>&amp;Text Direction:</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>T
@@ -37485,11 +37105,6 @@ Picture</translation>
         <translation>My Picture</translation>
     </message>
     <message>
-        <source>Compress
-Pictures</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Compress Pictures</source>
         <translation>Compress 
 Pictures</translation>
@@ -37653,10 +37268,6 @@ Size</translation>
     <message>
         <source>Align Top</source>
         <translation>Align Top</translation>
-    </message>
-    <message>
-        <source>From Phone</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39285,11 +38896,6 @@ Pane</translation>
 By Content</translation>
     </message>
     <message>
-        <source>Text to
- Columns</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Split Book</source>
         <translation>Split Book</translation>
     </message>
@@ -39356,6 +38962,10 @@ Analysis</translation>
         <translation>From Web</translation>
     </message>
     <message>
+        <source>Filter</source>
+        <translation>Filter</translation>
+    </message>
+    <message>
         <source>Hide Detail</source>
         <translation>Hide Detail</translation>
     </message>
@@ -39393,11 +39003,6 @@ By Sheet</translation>
         <translation>Merge Sheet</translation>
     </message>
     <message>
-        <source>Text to
-Columns</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Set Highlight Duplicates</source>
         <translation>Set</translation>
     </message>
@@ -39408,10 +39013,6 @@ Columns</source>
     <message>
         <source>Reapply</source>
         <translation>Reapply</translation>
-    </message>
-    <message>
-        <source>Smart Split Columns</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge worksheets 
@@ -39445,11 +39046,6 @@ with same name in workbooks</source>
     <message>
         <source>Connections</source>
         <translation>Connections</translation>
-    </message>
-    <message>
-		<source>Refresh 
-All</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ungroup</source>
@@ -39507,30 +39103,6 @@ All</source>
         <source>Merge worksheets</source>
         <translation>Merge multiple worksheets into a worksheet</translation>
     </message>
-    <message>
-        <source>Highlight duplicates2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fetch duplicates2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fetch unique values2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Highlight unique values2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Import Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Merge Tables</source>
-        <translation type="unfinished"/>
-    </message>	
 </context>
 <context>
     <name>KxTpEtPivotTable</name>
@@ -40020,14 +39592,6 @@ All</source>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
         <translation>You don&apos;t have permission to write backup files to &quot;%1&quot;.</translation>
-    </message>
-    <message>
-        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Confirmation password does not match.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -42170,16 +41734,6 @@ PDF</translation>
         <translation>Collapse Entire Field</translation>
     </message>
     <message>
-        <source>Field 
-Headers</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Move 
-PivotTable</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>PivotTable Name:</source>
         <translation>PivotTable Name:</translation>
     </message>
@@ -42190,11 +41744,6 @@ PivotTable</source>
     <message>
         <source>Fields,Items</source>
         <translation>Fields, Items</translation>
-    </message>
-    <message>
-        <source>Change Data 
-Source</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Report Filter Field Buttons</source>
@@ -42245,11 +41794,6 @@ Source</source>
         <translation>PivotTable</translation>
     </message>
     <message>
-        <source>Field 
-List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Change Data Source</source>
         <translation>Change Data Source</translation>
     </message>
@@ -42284,11 +41828,6 @@ List</source>
     <message>
         <source>Refresh</source>
         <translation>Refresh</translation>
-    </message>
-    <message>
-        <source>+/- 
-Buttons</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filter Connections</source>
@@ -42437,16 +41976,6 @@ Chart</translation>
     <message>
         <source>Move Left</source>
         <translation>Move Left</translation>
-    </message>
-    <message>
-        <source>Do Not 
-Repeat Item Labels</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Repeat All 
-Item Labels</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -43262,11 +42791,6 @@ Text</translation>
     <message>
         <source>Borders</source>
         <translation>Borders</translation>
-    </message>
-    <message>
-        <source>Merge and 
-Center</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -44781,14 +44305,6 @@ Permissions</translation>
         <source>From Phone</source>
         <translation>From Phone</translation>
     </message>
-    <message>
-        <source>Picture to Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>InsertBarcode</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_workspace</name>
@@ -45039,6 +44555,10 @@ Cloud Docs</translation>
         <translation>Print Gridlines</translation>
     </message>
     <message>
+        <source>Show</source>
+        <translation>Show</translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>Zoom In</translation>
     </message>
@@ -45136,11 +44656,6 @@ Side by Side</translation>
         <translation>Dark Mode</translation>
     </message>
     <message>
-        <source>Page Break 
-Preview</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Cascade</source>
         <translation>Cascade</translation>
     </message>
@@ -45186,11 +44701,6 @@ Screen</source>
         <translation>Freeze First Column</translation>
     </message>
     <message>
-        <source>Close
-Other Window</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Protect Eyes</source>
         <translation>Eye Protection</translation>
     </message>
@@ -45203,17 +44713,9 @@ Other Window</source>
         <translation>Night Mode</translation>
     </message>
     <message>
-        <source>Worksheet Options</source>
-        <translation>Worksheet Options</translation>
-    </message>
-    <message>
         <source>New
 Window</source>
         <translation>New Window</translation>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45450,11 +44952,6 @@ Properties</source>
 Properties</translation>
     </message>
     <message>
-        <source>Selection 
-Pane</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>IconLibrary</source>
         <translation>Icon Library</translation>
     </message>
@@ -45628,24 +45125,12 @@ Picture</translation>
         <translation>Insert mind mapping</translation>
     </message>
     <message>
-        <source>Insert New Equation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
     </message>
     <message>
         <source>More Symbols</source>
         <translation>More Symbols</translation>
-    </message>
-    <message>
-        <source>Chart Gallery</source>
-        <translation>Chart Gallery</translation>
-    </message>
-    <message>
-        <source>From Phone</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45682,11 +45167,6 @@ Picture</translation>
         <source>External Data</source>
         <translation>External 
 Data</translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -45791,14 +45271,6 @@ Speech</translation>
     <message>
         <source>3-D Settings</source>
         <translation>3-D Settings</translation>
-    </message>
-    <message>
-        <source>Picture to Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46507,11 +45979,6 @@ Changes</source>
         <translation>Protect and Share Workbook</translation>
     </message>
     <message>
-        <source>Share
-Workbook</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Reset All Comments</source>
         <translation>Reset All Comments</translation>
     </message>
@@ -46606,15 +46073,6 @@ Traditional Chinese</translation>
         <source>Document Security</source>
         <translation>Document 
 Security</translation>
-    </message>
-    <message>
-        <source>Document Encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Edit
-Comment</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46733,10 +46191,6 @@ Check</translation>
         <source>Translate to Traditional Chinese</source>
         <translation>Convert to 
 Traditional Chinese</translation>
-    </message>
-    <message>
-        <source>Edit Comment</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47073,11 +46527,6 @@ found a solution.</translation>
         <translation>Method</translation>
     </message>
     <message>
-        <source>Page
-Setup</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Portrait</source>
         <translation>Portrait</translation>
     </message>
@@ -47090,22 +46539,12 @@ Setup</source>
         <translation>Printer</translation>
     </message>
     <message>
-        <source>Normal
-View</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>PageSkip</source>
         <translation>Page Skip</translation>
     </message>
     <message>
         <source>Collate</source>
         <translation>Collate</translation>
-    </message>
-    <message>
-        <source>Page Break
-Preview</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous
@@ -47140,34 +46579,6 @@ Page</translation>
     <message>
         <source>Print Entire Workbook Directly</source>
         <translation>Print Entire Workbook</translation>
-    </message>
-    <message>
-        <source>Fit All Columns on One Page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fit Sheet on One Page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No Zoom</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Custom Zoom</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fit All Rows on One Page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More Setup</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Page Zoom</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47598,11 +47009,6 @@ Page</translation>
         <translation>No Zoom</translation>
     </message>
     <message>
-        <source>Print
-Area</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Rotate Right 90°</source>
         <translation>Rotate Right 90°</translation>
     </message>
@@ -47736,19 +47142,6 @@ Backward</source>
     <message>
         <source>Align Top</source>
         <translation>Align Top</translation>
-    </message>
-    <message>
-        <source>Breaks</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Custom Zoom</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Print
-Titles</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47973,7 +47366,7 @@ Titles</source>
         <translation>Text</translation>
     </message>
     <message>
-        <source> 'General' converts numeric values to Numbers, date values to dates,
+        <source> &apos;General&apos; converts numeric values to Numbers, date values to dates,
  and other data to text.</source>
         <translation>&apos;General&apos; converts numeric values to numbers, date values to dates, and data of other types to texts.</translation>
     </message>
@@ -49008,7 +48401,7 @@ To continue saving as a macro-free workbook, click Yes.</translation>
  Do you continue to save it as HTML Spreadsheets ?</translation>
     </message>
     <message>
-        <source>A formula or sheet you want to move or copy contains the name '%s',which already exists on the destination worksheet.Do you want to use this version of the name?
+        <source>A formula or sheet you want to move or copy contains the name &apos;%s&apos;,which already exists on the destination worksheet.Do you want to use this version of the name?
 
 ·To use the name as defined in the destination sheet,click Yes.
 ·To rename the range referred to in the formula or worksheet,click No,and enter a new name in the Name Conflict dialog box.</source>
@@ -49048,7 +48441,7 @@ Do you still want to open this file?
 • Click Yes, WPS Spreadsheets will continue to open this file.
 • Click No, WPS Spreadsheets will stop opening this file.
 
-Note: some files may contain macro viruses and execution of them may cause damages. If you don't trust this file, please don't open it.
+Note: some files may contain macro viruses and execution of them may cause damages. If you don&apos;t trust this file, please don&apos;t open it.
 (%s)</source>
         <translation>Your virus scanning program encounters errors when scanning this file(Error code:0x%08X). Please contact the provider of this anti-virus program. 
 Do you still want to open this file?
@@ -49167,19 +48560,6 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <translation>WPS Spreadsheets 2007/2010 Files(*.etx)</translation>
-    </message>
-    <message>
-        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
-This backup will be saved to (%s)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Online Security Document Format(*.xls)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Spreadsheets has detected that &apos;%1&apos; is a SYLK file, but cannot load it. Either the file has errors or it is not a SYLK file format. Click OK to try to open the file in a differenct format.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -49660,17 +49040,13 @@ Cloud Docs</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'宋体'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;宋体&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#0046eb;&quot;&gt;comment&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;宋体&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#0046eb;&quot;&gt;comment&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Help about this Function</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Formula List:</source>
@@ -50119,14 +49495,6 @@ p, li { white-space: pre-wrap; }
         <source>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</source>
         <translation>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</translation>
     </message>
-    <message>
-        <source>Chinese(HongKong)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxEtFeedbackDlg</name>
@@ -50571,7 +49939,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Connect to ODBC Data Source&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;  &lt;/span&gt;Choose the ODBC data source you want to connect to.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -50874,10 +50242,6 @@ Value: </translation>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
         <translation>The number must be between %1 and %2. Try again by entering a number in this range.</translation>
     </message>
-    <message>
-        <source>Duple&amp;x print</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxSplitSheetDlg</name>
@@ -51015,11 +50379,6 @@ Mode</translation>
     <message>
         <source>Toggle Button</source>
         <translation>Toggle Button</translation>
-    </message>
-    <message>
-        <source>Visual Basic
-Editor</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51619,10 +50978,6 @@ Mode</translation>
         <translation>Do not display the alert and update lin&amp;ks</translation>
     </message>
     <message>
-        <source>Update:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>&amp;Startup Prompt...</source>
         <translation>&amp;Startup Prompt...</translation>
     </message>
@@ -51963,11 +51318,6 @@ Data</translation>
     <message>
         <source>Banded Rows</source>
         <translation>Banded Rows</translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -52345,11 +51695,6 @@ OLE DB Query</source>
 Data</translation>
     </message>
     <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Refresh Data</source>
         <translation>Refresh Data</translation>
     </message>
@@ -52423,7 +51768,7 @@ OLE DB Query</source>
         <translation>Connection string or SQL has errors. WPS Spreadsheets can not import the data.</translation>
     </message>
     <message>
-        <source>The connection in this workbook will no longer be identical to the connection defined in the external file located at '%1'.
+        <source>The connection in this workbook will no longer be identical to the connection defined in the external file located at &apos;%1&apos;.
 The link to that external file will also be removed.
 Do you want to proceed with changes to the connection in this workbook?</source>
         <translation>The connection in this workbook will no longer be identical to the connection defined in the external file located at &apos;%1&apos;.
@@ -52605,11 +51950,6 @@ Do you want to proceed with changes to the connection in this workbook?</transla
     <message>
         <source>Refresh All</source>
         <translation>Refresh All</translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -53005,11 +52345,6 @@ prior to sharing the workbook.</translation>
         <translation>Export to Book</translation>
     </message>
     <message>
-        <source>Export Filter 
-Result</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>AutoFilter View</source>
         <translation>AutoFilter View</translation>
     </message>
@@ -53289,16 +52624,6 @@ Permissions</translation>
     <message>
         <source>Report Layout</source>
         <translation>Report Layout</translation>
-    </message>
-    <message>
-        <source>Do Not 
-Repeat Item Labels</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Repeat All 
-Item Labels</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -53619,10 +52944,6 @@ Speech</translation>
         <source>Selection Speech</source>
         <translation>Selection Speech</translation>
     </message>
-    <message>
-        <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxHyperlinkEtPage</name>
@@ -53755,45 +53076,6 @@ Speech</translation>
         <source>Undefined</source>
         <translation>Undefined</translation>
     </message>
-    <message>
-        <source>&amp;Help about this Function</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxEtChartTypeGalleryCommand</name>
-    <message>
-        <source>opening price, high price, low price, closing price. </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>volume traded, high price, low price, closing price. </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>To create a combination chart, select at least two series of data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source> Use dates or stock names as labels.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>volume traded, opening price, high price, low price, closing price. </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>high price, low price, closing price. </source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxReadingModeGuildDlg</name>
@@ -53843,11 +53125,6 @@ Speech</translation>
     <message>
         <source>Export to Book</source>
         <translation>Export to Book</translation>
-    </message>
-    <message>
-        <source>Export Filter 
-Result</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filter Analysis</source>
@@ -54777,13 +54054,6 @@ style for the pivot table</source>
 
 Choose a visual 
 style for the PivotTable.</translation>
-    </message>
-    <message>
-        <source>More
-
-Choose a visual
-style for the slicer</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -56344,73 +55614,6 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
-    <name>ongmani.ct_equationtools</name>
-    <message>
-        <source>Accent</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Linear</source>
-        <translation>Linear</translation>
-    </message>
-    <message>
-        <source>Limit and Log</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Script</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Integral</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Matrix</source>
-        <translation>Matrix</translation>
-    </message>
-       <message>
-        <source>Operator</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fraction</source>
-        <translation>Fraction</translation>
-    </message>
-    <message>
-        <source>Radical</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation>Equation</translation>
-    </message>
-    <message>
-        <source>Bracket</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Symbols</source>
-        <translation>Symbols</translation>
-    </message>
-    <message>
-        <source>Function</source>
-        <translation>Function</translation>
-    </message>
-    <message>
-        <source>Large Operator</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Equation Options</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Professional</source>
-        <translation>Professional</translation>
-    </message>
-</context>
-<context>
     <name>KxMergeRangDataTitle</name>
     <message>
         <source>Merge Rang Data Title Text</source>
@@ -56899,6 +56102,37 @@ Please unfreeze to scroll normally.</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_equationtools</name>
+    <message>
+        <source>Linear</source>
+        <translation>Linear</translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <translation>Matrix</translation>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translation>Fraction</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>Equation</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation>Symbols</translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation>Function</translation>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation>Professional</translation>
+    </message>
+</context>
+<context>
     <name>KxStyleModifyLegacyTriggerCommand</name>
     <message>
         <source>Modify</source>
@@ -57307,7 +56541,7 @@ the cells will be set in orange background.</translation>
         <translation>Set Cell</translation>
     </message>
     <message>
-        <source>The cell you're trying to change is on a protected sheet.
+        <source>The cell you&apos;re trying to change is on a protected sheet.
 To make changes, click Unprotect Sheet in the Review tab (You might need a password).</source>
         <translation>The cell you&apos;re trying to change is on a protected sheet.
 To make changes, click Unprotect Sheet in the Review tab (You might need a password).</translation>
@@ -57605,7 +56839,7 @@ Add-Ins</translation>
         <source>There are links to other data sources in this workbook.
 
 •If you update the links, WPS Spreadsheets will try to get the latest data.
-•If you don't update the links, WPS Spreadsheets will use the previous data.
+•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
 
 Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
         <translation>There are links to other data sources in this workbook.
@@ -57756,7 +56990,7 @@ Note that data links can be used to access and share confidential information wi
     <message>
         <source>The formula you typed contents an error.Try one of the following:
 
-• Make sure you've included all parentheses and required argument.
+• Make sure you&apos;ve included all parentheses and required argument.
 • To get assistance with using a function, click insert Function on the Formulas tab (in the Function Library group).
 • If you include a reference to another sheet or workbook,verify that the reference is correct.
 • If you&apos;re not trying to enter a formula, don&apos;t use an equal sign (=) or minus sign (-), or precede it with a single quotation mark (&apos;).</source>
@@ -58239,464 +57473,6 @@ Comment</translation>
     <message>
         <source>Alignment</source>
         <translation>Alignment</translation>
-    </message>
-</context>
-<context>
-    <name>KxChartTypeGalleryModel</name>
-    <message>
-        <source>Pie</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Area</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Line</source>
-        <translation>Line</translation>
-    </message>
-    <message>
-        <source>Stacked Area - Clustered Column</source>
-        <translation>Stacked Area - Clustered Column</translation>
-    </message>
-    <message>
-        <source>Combo</source>
-        <translation>Combo</translation>
-    </message>
-    <message>
-        <source>Radar</source>
-        <translation>Radar</translation>
-    </message>
-    <message>
-        <source>Stock</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>2-D Area</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>2-D Line</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Open-High-Low-Close</source>
-        <translation>Open-High-Low-Close</translation>
-    </message>
-    <message>
-        <source>Stacked Bar</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Radar with Markers</source>
-        <translation>Radar with Markers</translation>
-    </message>
-    <message>
-        <source>Filled Radar</source>
-        <translation>Filled Radar</translation>
-    </message>
-    <message>
-        <source>Clustered Bar</source>
-        <translation>Clustered Bar</translation>
-    </message>
-    <message>
-        <source>Scatter with Smooth Lines</source>
-        <translation>Scatter with Smooth Lines</translation>
-    </message>
-    <message>
-        <source>Clustered Column - Line on Secondary Axis</source>
-        <translation>Clustered Column - Line on Secondary Axis</translation>
-    </message>
-    <message>
-        <source>X Y (Scatter)</source>
-        <translation>X Y (Scatter)</translation>
-    </message>
-    <message>
-        <source>Line with Markers</source>
-        <translation>Line with Markers</translation>
-    </message>
-    <message>
-        <source>Scatter with Smooth Lines and Markers</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>3-D Bubble</source>
-        <translation>3D Bubble</translation>
-    </message>
-    <message>
-        <source>Bubble</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>2-D Column</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>2-D Bar</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>2-D Pie</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bar Of Pie</source>
-        <translation>Bar of Pie</translation>
-    </message>
-    <message>
-        <source>Pie Of Pie</source>
-        <translation>Pie of Pie</translation>
-    </message>
-    <message>
-        <source>Volume-High-Low-Close</source>
-        <translation>Volume-High-Low-Close</translation>
-    </message>
-    <message>
-        <source>Doughnut</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>100% Stacked Bar</source>
-        <translation>100% Stacked Bar</translation>
-    </message>
-    <message>
-        <source>Volume-Open-High-Low-Close</source>
-        <translation>Volume-Open-High-Low-Close</translation>
-    </message>
-    <message>
-        <source>High-Low-Close</source>
-        <translation>High-Low-Close</translation>
-    </message>
-    <message>
-        <source>Stacked Line with Markers</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Scatter</source>
-        <translation>Scatter</translation>
-    </message>
-    <message>
-        <source>Clustered Column Line</source>
-        <translation>Clustered Column Line</translation>
-    </message>
-    <message>
-        <source>100% Stacked Column</source>
-        <translation>100% Stacked Column</translation>
-    </message>
-    <message>
-        <source>Scatter with Straight Lines</source>
-        <translation>Scatter with Straight Lines</translation>
-    </message>
-    <message>
-        <source>100% Stacked Line with Markers</source>
-        <translation>100% Stacked Line with Markers</translation>
-    </message>
-    <message>
-        <source>Scatter with Straight Lines and Markers</source>
-        <translation>Scatter with Straight Lines and Markers</translation>
-    </message>
-    <message>
-        <source>Clustered Column</source>
-        <translation>Clustered Column</translation>
-    </message>
-    <message>
-        <source>Stacked Area</source>
-        <translation>Stacked Area</translation>
-    </message>
-    <message>
-        <source>Stacked Line</source>
-        <translation>Stacked Line</translation>
-    </message>
-    <message>
-        <source>100% Stacked Area</source>
-        <translation>100% Stacked Area</translation>
-    </message>
-    <message>
-        <source>100% Stacked Line</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Stacked Column</source>
-        <translation>Stacked Column</translation>
-    </message>
-</context>
-<context>
-    <name>KxChartTypeItem</name>
-    <message>
-        <source>Use this chart type to:
-• Show values relative to a center point.
-
-Use it when:
-• Categories are not directly comparable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the relationship of parts to a whole over time or categories.
-• Highlight the magnitude of change over time.
-• Draw attention to the total value across a trend.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have four series of values: Volume, High, Low, Close.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare values across a few categories.
-
-Use it when:
-• The order of categories is not important.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show how parts of a whole change over time.
-
-Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare the percentages that each value contributes to a total.
-• Show how the percentage that each value contributes changes over time.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• Category order is important.
-• To highlight the magnitude of change over time.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have four series of price values: Open, High, Low, Close.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-
-Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are many data points.
-• The data represents a set of x,y pairs based on a formula.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-
-Use it when:
-• Numbers equal 100%.
-• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Highlight different types of information.
-
-Use it when:
-• The range of values in the chart varies widely.
-• You have mixed types of data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-• Show relationships between sets of values
-
-Use it when:
-• The data represents separate measurements.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least three sets of values or pairs of data.
-• Show relationships between sets of values
-
-Use it when:
-• You have a third value that can be used to determine the relative size of the bubble.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare parts of a whole across categories.
-• Show how parts of a whole change over time.
-
-Use it when:
-• The category text is long.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are few data points.
-• The data represents separate measurements.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the percentage contribution to a whole over time or categories.
-• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Highlight different types of information.
-
-Use it when:
-• You have mixed types of data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare the percentage that each value contributes to a total.
-• Show how the percentage that each value contributes changes over time.
-
-Use it when:
-• The category text is long.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• The order of categories is important.
-• There are few data points.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the percentage contribution to a whole over time or categories.
-• Show the change to the percentage that each value contributes over time.
-
-Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• The order of categories is important.
-• There are many data points.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have three series of price values: High, Low, Close.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare values across a few categories.
-
-Use it when:
-• The chart shows duration.
-• The category text is long.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare parts of a whole.
-• Show how parts of a whole change over time.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have five series of values: Volume, Open, High, Low, Close.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are many data points.
-• The data represents separate measurements.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are few data points.
-• The data represents a set of x,y pairs based on a formula.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxChartTypeGalleryCommand</name>
-    <message>
-        <source>opening price, high price, low price, closing price. </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>volume traded, high price, low price, closing price. </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>To create a combination chart, select at least two series of data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source> Use dates or stock names as labels.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>volume traded, opening price, high price, low price, closing price. </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>high price, low price, closing price. </source>
-        <translation type="unfinished"/>
     </message>
 </context>
 </TS>

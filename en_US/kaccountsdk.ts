@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="en_US" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1">
 <context>
     <name>KAccountMessageContentDlg</name>
     <message>
@@ -496,7 +498,7 @@
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -1091,6 +1093,10 @@ Easy mobile office.</source>
         <translation>Online pictures, templates, shapes</translation>
     </message>
     <message>
+        <source>Please enter a valid email address</source>
+        <translation>Please enter a valid email address</translation>
+    </message>
+    <message>
         <source>Wrong password</source>
         <translation>Wrong password</translation>
     </message>
@@ -1113,6 +1119,10 @@ Easy mobile office.</source>
     <message>
         <source>Wechat qrcode loading...</source>
         <translation>Wechat qrcode loading...</translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation>There is no account for the email you entered</translation>
     </message>
     <message>
         <source>Sign in with Facebook</source>
@@ -1221,6 +1231,10 @@ Easy mobile office.</source>
     <message>
         <source>Continue with Email</source>
         <translation>Continue with Email</translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
+        <translation>Continue with Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
