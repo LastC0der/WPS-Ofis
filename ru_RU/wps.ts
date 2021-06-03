@@ -10316,7 +10316,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>%1 &quot;%2&quot; have been replaced by &quot;%3&quot;</source>
-        <translation>&amp;quot;%2&amp;quot; в %1 заменено на &amp;quot;%3&amp;quot;.</translation>
+        <translation>&quot;%2&quot; в %1 заменено на &quot;%3&quot;.</translation>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
@@ -35107,7 +35107,7 @@ Size</source>
     </message>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>View Gridlines</source>
