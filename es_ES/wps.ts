@@ -1,12 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="es_ES" version="2.1">
 <context>
     <name>wps_field_parser_common</name>
-    <message>
-        <source></source>
-        <translation></translation>
-    </message>
     <message>
         <source>Date</source>
         <translation>Fecha</translation>
@@ -55,6 +49,10 @@
         <source>Error. Unknown op code for conditional.</source>
         <translation>Error.Código de operador desconocido para la condicional.</translation>
     </message>
+    <message>
+        <source> </source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgEncloseCharacters</name>
@@ -81,10 +79,6 @@
     <message>
         <source>√</source>
         <translation>√</translation>
-    </message>
-    <message>
-        <source>印</source>
-        <translation>印</translation>
     </message>
     <message>
         <source>壹</source>
@@ -125,6 +119,10 @@
     <message>
         <source>Encl&amp;osure:</source>
         <translation>&amp;Caracteres enmarcados:</translation>
+    </message>
+    <message>
+        <source>印</source>
+        <translation>印</translation>
     </message>
 </context>
 <context>
@@ -819,6 +817,11 @@
         <translation>Posterior</translation>
     </message>
     <message>
+        <source>Auto</source>
+        <comment>TxRevision_Color_Auto</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Bevel</source>
         <translation>Bisel</translation>
     </message>
@@ -1044,8 +1047,8 @@
     </message>
     <message>
         <source>Reached the beginning of the text box.</source>
-        <comment>_TxFind_ReachBeginningOfTextFrames</comment>
-        <translation>Llegó al inicio del cuadro de texto.</translation>
+        <comment>_TxFind_ReachBeginningOfHeaderFooterTextFrames</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reached the end of the comments.</source>
@@ -1099,11 +1102,6 @@ contenido</translation>
         <translation>¡%s no puede cargar!</translation>
     </message>
     <message>
-        <source>None</source>
-        <comment>_TxNothing</comment>
-        <translation>Ninguno</translation>
-    </message>
-    <message>
         <source>Page Numbers (Margins)</source>
         <translation>Números de página (márgenes)</translation>
     </message>
@@ -1120,9 +1118,9 @@ contenido</translation>
         <translation>El registro %d contenía demasiados campos de datos.</translation>
     </message>
     <message>
-        <source>Top</source>
-        <comment>TxRevision_Pap_Top</comment>
-        <translation>Arriba</translation>
+        <source>Center</source>
+        <comment>TxRevision_Pap_AlignmentCenter</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Multiple </source>
@@ -1257,6 +1255,11 @@ contenido</translation>
         <translation>Ilustración</translation>
     </message>
     <message>
+        <source>Left</source>
+        <comment>TxRevision_Bop_Left</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Footer</source>
         <translation>Pie de página</translation>
     </message>
@@ -1274,11 +1277,6 @@ contenido</translation>
         <translation>Inferior</translation>
     </message>
     <message>
-        <source>Bottom</source>
-        <comment>TxRevision_Pap_Bottom</comment>
-        <translation>Inferior</translation>
-    </message>
-    <message>
         <source>Header</source>
         <translation>Encabezado</translation>
     </message>
@@ -1289,6 +1287,11 @@ contenido</translation>
     <message>
         <source>Gutter</source>
         <translation>Encuadernación</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>TxRevision_Bop_Bottom</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hidden</source>
@@ -1847,11 +1850,6 @@ contenido</translation>
         <translation>Números de página personalizados (final de página)</translation>
     </message>
     <message>
-        <source>Auto</source>
-        <comment>TxRevision_Pap_Auto</comment>
-        <translation>Auto</translation>
-    </message>
-    <message>
         <source>Document building block controls</source>
         <translation>Controles de bloque de creación del documento</translation>
     </message>
@@ -1921,11 +1919,6 @@ contenido</translation>
         <translation>Actual</translation>
     </message>
     <message>
-        <source>Left</source>
-        <comment>TxRevision_Pap_Left</comment>
-        <translation>Izquierda</translation>
-    </message>
-    <message>
         <source>Numbering Style</source>
         <translation>Estilo de numeración</translation>
     </message>
@@ -1934,13 +1927,13 @@ contenido</translation>
         <translation>Esta operación va a eliminar todos los elementos en la tabla. ¿Desea continuar?</translation>
     </message>
     <message>
-        <source>Custom Table of Contents</source>
-        <translation>Tabla de contenido personalizada</translation>
+        <source>None</source>
+        <comment>TxRevision_Pap_None</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Center</source>
-        <comment>TxRevision_Pap_Center</comment>
-        <translation>Centrar</translation>
+        <source>Custom Table of Contents</source>
+        <translation>Tabla de contenido personalizada</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -2070,8 +2063,8 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Reached the end of the text box.</source>
-        <comment>_TxFind_ReachEndOfTextFrames</comment>
-        <translation>Llegó al final del cuadro de texto.</translation>
+        <comment>_TxFind_ReachEndOfHeaderFooterTextFrames</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The Replace With text contains a group number which is out of range.</source>
@@ -2232,6 +2225,11 @@ Do you want to replace it?</source>
         <translation>Subrayado grueso punto-guión</translation>
     </message>
     <message>
+        <source>Top</source>
+        <comment>TxRevision_Bop_Top</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Aligned at</source>
         <translation>Alineada en</translation>
     </message>
@@ -2303,8 +2301,8 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Right</source>
-        <comment>TxRevision_Pap_Right</comment>
-        <translation>Derecha</translation>
+        <comment>TxRevision_Bop_Right</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right</source>
@@ -2560,6 +2558,10 @@ Do you want to replace it?</source>
         <translation>&amp;Hiragana/katakana</translation>
     </message>
     <message>
+        <source>Keep cache for 90 &amp;days</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Show &amp;spelling errors ignored in this document</source>
         <translation>Mostrar errore&amp;s ortográficos omitidos en este documento</translation>
     </message>
@@ -2616,10 +2618,6 @@ Do you want to replace it?</source>
         <translation>No imprimir</translation>
     </message>
     <message>
-        <source>Balance &amp;SBCS characters and DBCS characters</source>
-        <translation>Caracteres de saldo &amp;SBCS y caracteres de DBCS</translation>
-    </message>
-    <message>
         <source>&amp;Reenter password:</source>
         <translation>Volver a escribir cont&amp;raseña:</translation>
     </message>
@@ -2662,6 +2660,10 @@ Do you want to replace it?</source>
     <message>
         <source>Reenter &amp;password:</source>
         <translation>Volver a escribir &amp;contraseñas:</translation>
+    </message>
+    <message>
+        <source>Kee&amp;p cache for 30 days</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Margin:</source>
@@ -3020,6 +3022,10 @@ Do you want to replace it?</source>
         <translation>Mos&amp;trar botones de opciones de pegado</translation>
     </message>
     <message>
+        <source>Backup files cache:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Format(&amp;J):</source>
         <translation>Formato: (&amp;J)</translation>
     </message>
@@ -3098,6 +3104,10 @@ Do you want to replace it?</source>
     <message>
         <source>Lay &amp;out footnotes the way Word 6.x/95/97 does</source>
         <translation>Diseñar las notas al pie como en Word 6.x/95/97(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Clear local backup cache</source>
+        <translation>&amp;Borrar copia de seguridad local</translation>
     </message>
     <message>
         <source>Convert c&amp;ustom styles to bookmarks</source>
@@ -3264,6 +3274,10 @@ Do you want to replace it?</source>
         <translation>Exportar a PDF</translation>
     </message>
     <message>
+        <source>Sho&amp;w smart content upon file open</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Drawing &amp;objects</source>
         <translation>&amp;Objetos de dibujo</translation>
     </message>
@@ -3358,6 +3372,10 @@ Do you want to replace it?</source>
     <message>
         <source>Use &amp;balloons:</source>
         <translation>Utilizar glo&amp;bos:</translation>
+    </message>
+    <message>
+        <source>View &amp;local backup</source>
+        <translation>Ver copia de seguridad &amp;local</translation>
     </message>
     <message>
         <source>&amp;Deletions:</source>
@@ -3456,6 +3474,10 @@ Do you want to replace it?</source>
         <translation>Guardar cop&amp;ia de seguridad de archivo cada:</translation>
     </message>
     <message>
+        <source>Default insert images of original size(&amp;J)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Treat as equal</source>
         <translation>Tratar como iguales</translation>
     </message>
@@ -3498,10 +3520,6 @@ Do you want to replace it?</source>
     <message>
         <source>Document Permission</source>
         <translation>Permisos del documento</translation>
-    </message>
-    <message>
-        <source>Use CTRL + Click t&amp;o follow hyperlink</source>
-        <translation>Usar CTRL + clic pa&amp;ra abrir hipervínculo</translation>
     </message>
     <message>
         <source>Print hidden text</source>
@@ -3614,6 +3632,18 @@ Do you want to replace it?</source>
     <message>
         <source>WhenSelected</source>
         <translation>Cuando está seleccionado</translation>
+    </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;minutes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4716,6 +4746,11 @@ Do you want to replace it?</source>
         <translation>Seleccionar carpeta:</translation>
     </message>
     <message>
+        <source>Selected text</source>
+        <comment>wps_sSelectText</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>SectionPages</source>
         <translation>Páginas de sección</translation>
     </message>
@@ -4765,11 +4800,6 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Selected text</source>
-        <translation>Texto seleccionado</translation>
-    </message>
-    <message>
-        <source>Selected text</source>
-        <comment>wps_sSelectedText</comment>
         <translation>Texto seleccionado</translation>
     </message>
     <message>
@@ -4943,6 +4973,11 @@ Este cambio va a afectar todo los documentos nuevos basados en la %s plantilla.<
         <translation>Sin lista</translation>
     </message>
     <message>
+        <source>Table</source>
+        <comment>TxCrossRefType_Table</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Writer could not determine the destination.</source>
         <translation>WPS Writer no pudo determinar el destino.</translation>
     </message>
@@ -5075,6 +5110,11 @@ Este cambio va a afectar todo los documentos nuevos basados en la %s plantilla.<
         <source>This point forward</source>
         <comment>wps_sThisPointForward</comment>
         <translation>De aquí en adelante</translation>
+    </message>
+    <message>
+        <source>Selected sections</source>
+        <comment>wps_sSelSection</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -5843,11 +5883,6 @@ Cancelar:	Volver al diálogo.</translation>
         <translation>Esta teclas de acceso directo ya existe. Por favor ponga otra tecla.</translation>
     </message>
     <message>
-        <source>Selected sections</source>
-        <comment>wps_sSelectedSections</comment>
-        <translation>Secciones seleccionadas</translation>
-    </message>
-    <message>
         <source>For &amp;which footnote:</source>
         <translation>Para cuál nota al pie(&amp;W):</translation>
     </message>
@@ -5858,11 +5893,6 @@ Cancelar:	Volver al diálogo.</translation>
     <message>
         <source>Nickname</source>
         <translation>Sobrenombre</translation>
-    </message>
-    <message>
-        <source>Table</source>
-        <comment>wps_sTable</comment>
-        <translation>Tabla</translation>
     </message>
     <message>
         <source>Orientation setting does not work for some reasons, such as too little column width. Please adjust your settings.</source>
@@ -6440,6 +6470,10 @@ Cancelar:	Volver al diálogo.</translation>
         <source>In this section</source>
         <translation>En esta sección</translation>
     </message>
+    <message>
+        <source>(&amp;A)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxOutlineNumberDlg</name>
@@ -6609,22 +6643,6 @@ Cancelar:	Volver al diálogo.</translation>
         <translation>Derecha</translation>
     </message>
     <message>
-        <source>Place integral limits to the &amp;side</source>
-        <translation>Colocar los límites de las integrales al &amp;lado</translation>
-    </message>
-    <message>
-        <source>Rig&amp;ht align wrapped lines</source>
-        <translation>Alin&amp;ear a la derecha las líneas ajustadas</translation>
-    </message>
-    <message>
-        <source>Place n-ary limi&amp;ts to the side</source>
-        <translation>Colocar los lími&amp;tes n-arios al lado</translation>
-    </message>
-    <message>
-        <source>Default &amp;font for math regions:</source>
-        <translation>&amp;Fuente predeterminada para regiones de operaciones matemáticas:</translation>
-    </message>
-    <message>
         <source>Before</source>
         <translation>Anterior</translation>
     </message>
@@ -6637,80 +6655,16 @@ Cancelar:	Volver al diálogo.</translation>
         <translation>Centrar</translation>
     </message>
     <message>
-        <source>&amp;Justification:</source>
-        <translation>&amp;Justificación:</translation>
-    </message>
-    <message>
-        <source>Math margins are added to paragraph margins.</source>
-        <translation>Los márgenes de las operaciones matemáticas se agregan a los márgenes de los párrafos.</translation>
-    </message>
-    <message>
-        <source>B&amp;reak lines with binary and relational operators:</source>
-        <translation>Aplicar saltos de línea con operadores binarios y relacionales:</translation>
-    </message>
-    <message>
         <source>Duplicate</source>
         <translation>Duplicar diapositiva</translation>
-    </message>
-    <message>
-        <source>Ri&amp;ght Margin:</source>
-        <translation>Mar&amp;gen derecho:</translation>
-    </message>
-    <message>
-        <source>&amp;Left Margin:</source>
-        <translation>&amp;Margen izquierdo:</translation>
-    </message>
-    <message>
-        <source>&amp;Use the following settings for math on its own line.</source>
-        <translation>&amp;Use la siguiente configuración para las operaciones matemáticas de una sola línea.</translation>
-    </message>
-    <message>
-        <source>When building up integrals,</source>
-        <translation>Al escribir las integrales, puede</translation>
-    </message>
-    <message>
-        <source>Centered as group</source>
-        <translation>Centrado como grupo</translation>
     </message>
     <message>
         <source>&amp;Defauls ...</source>
         <translation>Valores por omisión ...</translation>
     </message>
     <message>
-        <source>Display Math</source>
-        <translation>Mostrar operaciones matemáticas</translation>
-    </message>
-    <message>
-        <source>Reduce si&amp;ze of nested fractions in display equations</source>
-        <translation>Reducir el ta&amp;maño de las fracciones anidadas en las ecuaciones para mostrar</translation>
-    </message>
-    <message>
-        <source>For math that wraps to a new line:</source>
-        <translation>Para las operaciones matemáticas que se ajustan a una línea nueva:</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>General</translation>
-    </message>
-    <message>
-        <source>Place n-ary limits directly abo&amp;ve and below</source>
-        <translation>Colocar los límites n-arios directamente enci&amp;ma y debajo</translation>
-    </message>
-    <message>
-        <source>Equation Options</source>
-        <translation>Opciones de ecuación</translation>
-    </message>
-    <message>
-        <source>&amp;Indent wrapped lines by:</source>
-        <translation>&amp;Aplicar sangría a las líneas ajustadas mediante:</translation>
-    </message>
-    <message>
-        <source>Place integral limits centered above and belo&amp;w</source>
-        <translation>colocar los límites de las integrales centrados encima o de&amp;bajo</translation>
-    </message>
-    <message>
-        <source>When building up other n-ary operators,</source>
-        <translation>Al escribir otros operadores n-arios, puede</translation>
     </message>
 </context>
 <context>
@@ -7864,6 +7818,10 @@ use los botones para aplicar bordes</translation>
         <source>Exactly</source>
         <translation>Exacto</translation>
     </message>
+    <message>
+        <source>Minimum distan&amp;nce between column edges:</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgInsertIndex</name>
@@ -8169,6 +8127,10 @@ use los botones para aplicar bordes</translation>
         <source>Entire document</source>
         <translation>Documento completo</translation>
     </message>
+    <message>
+        <source>Set page number format</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsSmartPageNumPaneOfficial</name>
@@ -8203,10 +8165,6 @@ use los botones para aplicar bordes</translation>
     <message>
         <source>Apply to: </source>
         <translation>Aplicar a:</translation>
-    </message>
-    <message>
-        <source>Set page number format</source>
-        <translation>Configurar formato de número de página</translation>
     </message>
     <message>
         <source>Center</source>
@@ -10357,7 +10315,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>%1 &quot;%2&quot; have been replaced by &quot;%3&quot;</source>
-        <translation>&quot;%2&quot; en %1 se reemplazó sin &quot;%3&quot;.</translation>
+        <translation>&amp;quot;%2&amp;quot; en %1 se reemplazó sin &amp;quot;%3&amp;quot;.</translation>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
@@ -10424,6 +10382,10 @@ Si desea reemplazar los registros seleccionados, haga clic en Reemplazar en la v
     <message>
         <source>Invalid special character for the Replace With box.</source>
         <translation>Contiene caracteres especiales no válidos</translation>
+    </message>
+    <message>
+        <source>Other(%1)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Input replacement content</source>
@@ -10783,7 +10745,7 @@ Se van a poner los datos de su base de dato en el documento. ¿Desea continuar?<
         <translation>Archivos comunes(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
-        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
+        <source>Cannot find &quot;%s&quot;. Please check the file name's spelling, and make sure the file location is correct.
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
         <translation>No se encuentra &quot;%s&quot;. Compruebe la ortografía del nombre del archivo y si su ubicación es correcta.
 Si intenta abrir el archivo desde la lista de los usados recientemente, asegúrese de que no se ha cambiado el nombre del archivo, ni se ha eliminado o movido.   </translation>
@@ -10879,6 +10841,15 @@ Please try one of the following.
 Por favor pruebe una de las siguientes opciones:.
  Cambie a otra cuanta de usuario.
  Pregunte a su creador a cambiar el nivel de control de permiso de este archivo.</translation>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11492,6 +11463,10 @@ sombra</translation>
     <message>
         <source>Arrow Style</source>
         <translation>Estilo de flecha</translation>
+    </message>
+    <message>
+        <source>Local Text Box</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -13077,6 +13052,10 @@ Reemplazar</translation>
         <source>Line Spacing</source>
         <translation>Interlineado</translation>
     </message>
+    <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_smartartformattool</name>
@@ -13842,6 +13821,10 @@ del texto</translation>
         <translation>Giro 3D</translation>
     </message>
     <message>
+        <source>Local Text Box</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
         <translation>Con efecto de relleno de viñetas cuadradas grandes</translation>
     </message>
@@ -14378,10 +14361,6 @@ Painter</source>
         <translation>Borde derecho</translation>
     </message>
     <message>
-        <source>Accept Formatting Changes</source>
-        <translation>Aceptar cambios de formato</translation>
-    </message>
-    <message>
         <source>Data Recovery</source>
         <translation>Recuperación de datos</translation>
     </message>
@@ -14458,6 +14437,10 @@ Painter</source>
         <translation>Voltear verticalmente</translation>
     </message>
     <message>
+        <source>Picture Frame</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Add to Dictionary</source>
         <translation>Agregar al diccionario</translation>
     </message>
@@ -14492,6 +14475,10 @@ Painter</source>
     <message>
         <source>Insert Online Pictures</source>
         <translation>Insertar imagen en línea</translation>
+    </message>
+    <message>
+        <source>Change to Stack Fraction</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Background</source>
@@ -14554,6 +14541,10 @@ Painter</source>
         <translation>Fuentes en línea</translation>
     </message>
     <message>
+        <source>app recommend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Data Recovery Master</source>
         <translation>WPS Data Recovery Master</translation>
     </message>
@@ -14597,10 +14588,6 @@ impresión</translation>
     <message>
         <source>Insert shape in before</source>
         <translation>Insertar forma antes de</translation>
-    </message>
-    <message>
-        <source>Reject Formating Changes</source>
-        <translation>Rechazar los cambios de formato</translation>
     </message>
     <message>
         <source>Format Frame</source>
@@ -14713,6 +14700,10 @@ Add-Ins</source>
         <translation>Horizontal secundario</translation>
     </message>
     <message>
+        <source>Sentence Translation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>0.5 pt</source>
         <translation>0.5 pto.</translation>
     </message>
@@ -14729,16 +14720,16 @@ Add-Ins</source>
         <translation>1.5 pto.</translation>
     </message>
     <message>
-        <source>Math Options</source>
-        <translation>Opciones de operaciones matemáticas</translation>
-    </message>
-    <message>
         <source>Insert Multiple Rows</source>
         <translation>Insertar varias filas</translation>
     </message>
     <message>
         <source>Insert Shape</source>
         <translation>Insertar forma</translation>
+    </message>
+    <message>
+        <source>Three Dimensional Rotation</source>
+        <translation>Rotación 3-D</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -15513,6 +15504,10 @@ palabras</translation>
         <translation>Convertir en nota al final</translation>
     </message>
     <message>
+        <source>UpdateManualContent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Reviewing Pane Vertical</source>
         <translation>Panel de revisiones vertical</translation>
     </message>
@@ -15809,6 +15804,10 @@ Pie de página</translation>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
         <translation>Con efecto de relleno de viñetas redondas grandes</translation>
+    </message>
+    <message>
+        <source>TranslationSelect</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
@@ -16121,6 +16120,10 @@ de agua</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation>Guardar a Cloud Docs</translation>
+    </message>
+    <message>
+        <source>Google Search</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -16528,6 +16531,10 @@ ortográfica</translation>
         <translation>Formato de barras de error</translation>
     </message>
     <message>
+        <source>Extract Text in Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Decrease Indent</source>
         <translation>Disminuir sangría</translation>
     </message>
@@ -16675,6 +16682,38 @@ ortográfica</translation>
     <message>
         <source>Smooth Point</source>
         <translation>Punto liso</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Photo2PdfConvert</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation>Administración sin conexión</translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation>Compartir en el blog</translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation>Compartir en el blog</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation>Diseño de blog de WPS</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18279,10 +18318,6 @@ Break</source>
         <translation>Examinar por página</translation>
     </message>
     <message>
-        <source>Center Algin</source>
-        <translation>Alinear al centro</translation>
-    </message>
-    <message>
         <source>Print 
 Directly</source>
         <translation>Imprimir 
@@ -18839,10 +18874,6 @@ pantalla completa</translation>
         <translation>Configurar impresión</translation>
     </message>
     <message>
-        <source>Right Algin</source>
-        <translation>Alinear a la derecha</translation>
-    </message>
-    <message>
         <source>Drop Caps</source>
         <translation>Quitar mayúsculas</translation>
     </message>
@@ -18861,10 +18892,6 @@ pantalla completa</translation>
     <message>
         <source>Switch to previous window</source>
         <translation>Cambiar a la ventana anterior</translation>
-    </message>
-    <message>
-        <source>Left Algin</source>
-        <translation>Alinear a la izquierda</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -18900,6 +18927,10 @@ palabras</translation>
         <translation>Opciones</translation>
     </message>
     <message>
+        <source>Online TableStyle</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>MoreFill</source>
         <translation>Más relleno</translation>
     </message>
@@ -18910,6 +18941,10 @@ palabras</translation>
     <message>
         <source>Grow Font</source>
         <translation>Agrandar fuente</translation>
+    </message>
+    <message>
+        <source>Backup Settings</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Split Table by Row</source>
@@ -19108,6 +19143,10 @@ palabras</translation>
         <translation>Alinear texto a la derecha</translation>
     </message>
     <message>
+        <source>ChemistryEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>IntranetVersion Docer Entrance</source>
         <translation>Plantillas en línea</translation>
     </message>
@@ -19274,6 +19313,10 @@ la TDC</translation>
         <translation>Superíndice</translation>
     </message>
     <message>
+        <source>InsertLatex</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ShortSymbol</source>
         <translation>Símbolos</translation>
     </message>
@@ -19296,6 +19339,10 @@ la TDC</translation>
     <message>
         <source>Selection Pane</source>
         <translation>Panel de selección</translation>
+    </message>
+    <message>
+        <source>DocerThemeColor</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comment</source>
@@ -19329,6 +19376,14 @@ Layout</source>
     <message>
         <source>Underline</source>
         <translation>Subrayado</translation>
+    </message>
+    <message>
+        <source>Official Document Inspiration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DocerWordArt</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewChart UpBar</source>
@@ -19474,12 +19529,20 @@ Screen</source>
         <translation>Estructura XML</translation>
     </message>
     <message>
+        <source>DocerChart</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Move Down</source>
         <translation>Bajar</translation>
     </message>
     <message>
         <source>Screen Grab Rect</source>
         <translation>Rectángulo de captura de pantalla</translation>
+    </message>
+    <message>
+        <source>DocumentContentStudioHint</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -19524,6 +19587,10 @@ Screen</source>
     <message>
         <source>Collaboration</source>
         <translation>Colaboración</translation>
+    </message>
+    <message>
+        <source>DocumentContentStudio</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Footnotes Hyperlink Context Menu</source>
@@ -19572,10 +19639,6 @@ Screen</source>
     <message>
         <source>Browse by Field</source>
         <translation>Examinar por campo</translation>
-    </message>
-    <message>
-        <source>Insert New Equation</source>
-        <translation>Insertar ecuación nueva</translation>
     </message>
     <message>
         <source>NewChart Axis</source>
@@ -19639,10 +19702,6 @@ ortográfica</translation>
         <translation>Haga clic para activar/desactivar la función de revisión</translation>
     </message>
     <message>
-        <source>Align Adjustify</source>
-        <translation>Alineación justificada</translation>
-    </message>
-    <message>
         <source>Floating Picture</source>
         <translation>Imagen flotante</translation>
     </message>
@@ -19677,10 +19736,6 @@ ortográfica</translation>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
         <translation>Documento de Microsoft Word 97-2003 (*.doc)</translation>
-    </message>
-    <message>
-        <source>Global Center Algin</source>
-        <translation>Alinear al centro global</translation>
     </message>
     <message>
         <source>Done Comment</source>
@@ -19725,6 +19780,42 @@ ortográfica</translation>
     <message>
         <source>Professional</source>
         <translation>Profesional</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Num</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>HomeDesign</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Visual Basic Editor</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19914,6 +20005,10 @@ Painter</source>
         <source>Picture to Text</source>
         <translation>De imagen a
 texto</translation>
+    </message>
+    <message>
+        <source>Resource Shop</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Special Apps</source>
@@ -20244,8 +20339,8 @@ comentario</translation>
         <translation>Comentario</translation>
     </message>
     <message>
-        <source>Equation Tool</source>
-        <translation>Herramienta de ecuaciones</translation>
+        <source>Launch Online Metting</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -20423,12 +20518,20 @@ Painter</source>
 formato</translation>
     </message>
     <message>
+        <source>Manager Taskpane</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Text Tool</source>
         <translation>Herramientas de texto</translation>
     </message>
     <message>
         <source>Sign Out</source>
         <translation>Cerrar sesión</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20472,6 +20575,10 @@ formato</translation>
     <message>
         <source>Spell check</source>
         <translation>Ortografía</translation>
+    </message>
+    <message>
+        <source>Suggestions:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21451,6 +21558,11 @@ Changes</source>
         <translation>Formato de fichas</translation>
     </message>
     <message>
+        <source>Page Numbers</source>
+        <comment>TxVersion_InsPageNumber</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Reset Form Field</source>
         <translation>Restablecer campo de formulario</translation>
     </message>
@@ -21541,6 +21653,11 @@ Changes</source>
     <message>
         <source>Insert Picture</source>
         <translation>Insertar imagen</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TxCaption_Paste</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept Formatted Changes</source>
@@ -21795,11 +21912,6 @@ de Genko</translation>
         <translation>Reemplazar período de formato completo con un punto</translation>
     </message>
     <message>
-        <source>Formatted</source>
-        <comment>TxMessage_ToolTip_Suffix_NumFormat</comment>
-        <translation>Con formato</translation>
-    </message>
-    <message>
         <source>No Fill</source>
         <translation>Sin relleno</translation>
     </message>
@@ -21875,6 +21987,11 @@ Check</source>
     <message>
         <source>Align Distribute</source>
         <translation>Distribuir alineación</translation>
+    </message>
+    <message>
+        <source>Formatted</source>
+        <comment>TxBalloon_RevisionFormatted</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search</source>
@@ -22289,10 +22406,6 @@ Check</source>
         <translation>Estilo de línea</translation>
     </message>
     <message>
-        <source>Add rows and columns</source>
-        <translation>Agregar filas y columnas</translation>
-    </message>
-    <message>
         <source>Reduce Indentation</source>
         <translation>Reducir la sangría</translation>
     </message>
@@ -22360,11 +22473,6 @@ Check</source>
     <message>
         <source>Outline Demote</source>
         <translation>Disminuir nivel de esquema</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <comment>TxVersion_Paste</comment>
-        <translation>Pegar</translation>
     </message>
     <message>
         <source>Merge to New Document</source>
@@ -22546,11 +22654,6 @@ nuevo</translation>
         <translation>Haga clic con el botón derecho del ratón para obtener la lista</translation>
     </message>
     <message>
-        <source>Page Numbers</source>
-        <comment>TxVersion_InsertPageNumber</comment>
-        <translation>Números de página</translation>
-    </message>
-    <message>
         <source>[Disabled]</source>
         <translation>[Deshabilitar]</translation>
     </message>
@@ -22712,6 +22815,11 @@ nuevo</translation>
         <translation>Tabla profesional</translation>
     </message>
     <message>
+        <source>Apply Table Style</source>
+        <comment>TxVersion_ApplyTableStyle</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Date/Time</source>
         <translation>Fecha y hora</translation>
     </message>
@@ -22750,6 +22858,11 @@ nuevo</translation>
     <message>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
         <translation>Archivos de WPS Writer 2007/2010(*.wpsx)</translation>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <comment>TxVersion_AddTable</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Border Top</source>
@@ -22860,11 +22973,6 @@ nuevo</translation>
         <translation>Sombreado medio 2 - Énfasis 6</translation>
     </message>
     <message>
-        <source>Insert Table</source>
-        <comment>TxVersion_InsertTable</comment>
-        <translation>Insertar tabla</translation>
-    </message>
-    <message>
         <source>Restart Numbering</source>
         <translation>Reiniciar numeración</translation>
     </message>
@@ -22911,6 +23019,11 @@ nuevo</translation>
     <message>
         <source>Change Text Direction</source>
         <translation>Cambiar dirección del texto</translation>
+    </message>
+    <message>
+        <source>Typing</source>
+        <comment>TxVersion_Key_Overtype</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Watermark</source>
@@ -22993,10 +23106,6 @@ nuevo</translation>
         <translation>Sombreado claro - Énfasis 6</translation>
     </message>
     <message>
-        <source>Apply Table Style</source>
-        <translation>Aplicar estilo de tabla</translation>
-    </message>
-    <message>
         <source>Open Xml Map</source>
         <translation>Abrir asignación XML</translation>
     </message>
@@ -23023,11 +23132,6 @@ nuevo</translation>
     <message>
         <source>Accept All Format Changes in Document</source>
         <translation>Aceptar todos los cambios de formato en el documento</translation>
-    </message>
-    <message>
-        <source>Typing</source>
-        <comment>TxVersion_Key_Type</comment>
-        <translation>Escribir</translation>
     </message>
     <message>
         <source>Delete Current Section</source>
@@ -23368,6 +23472,10 @@ nuevo</translation>
         <translation>Autoajustar al contenido</translation>
     </message>
     <message>
+        <source>Auto Find Contents</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Double-click to edit footer</source>
         <translation>Haga doble clic para editar el pie de página</translation>
     </message>
@@ -23473,6 +23581,11 @@ nuevo</translation>
         <translation>Nuevo documento en blanco</translation>
     </message>
     <message>
+        <source>Add rows and columns</source>
+        <comment>TxVersion_TableAddRowOrCol</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Shading Color</source>
         <comment>TxVersion_ShadingColor</comment>
         <translation>Color de sombreado</translation>
@@ -23493,6 +23606,43 @@ nuevo</translation>
     <message>
         <source>Show/Hide Formatting Marks</source>
         <translation>Mostrar/Ocultar marcas de formato</translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert TableOfContents</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resize Table</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Number Format</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move Table</source>
+        <comment>TxVersion_FrameMove</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add rows and columns</source>
+        <translation>Agregar filas y columnas</translation>
+    </message>
+    <message>
+        <source>Outside Border</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text Box Link</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill Color</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26090,6 +26240,10 @@ del texto</translation>
         <translation>Restringir permisos por personas</translation>
     </message>
     <message>
+        <source>Report File</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Office New features</source>
         <translation>Nuevas funciones de WPS Office</translation>
     </message>
@@ -26136,6 +26290,22 @@ del texto</translation>
     <message>
         <source>Export coding library for trace</source>
         <translation>Exportar biblioteca de codificación para hacer seguimiento</translation>
+    </message>
+    <message>
+        <source>File Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Protection and Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26467,6 +26637,10 @@ del texto</translation>
     <message>
         <source>Colors</source>
         <translation>Colores</translation>
+    </message>
+    <message>
+        <source>More Color Schemes</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Column Break</source>
@@ -27010,6 +27184,10 @@ del texto</translation>
     <message>
         <source>Colors</source>
         <translation>Colores</translation>
+    </message>
+    <message>
+        <source>More Color Schemes</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Column Break</source>
@@ -28535,6 +28713,10 @@ navegación</translation>
         <translation>Lineal</translation>
     </message>
     <message>
+        <source>More Online Charts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PrimaryMajorHorizontal</source>
         <translation>Horizontal principal primario</translation>
     </message>
@@ -28802,6 +28984,10 @@ tipo de gráfico</translation>
     <message>
         <source>Linear</source>
         <translation>Lineal</translation>
+    </message>
+    <message>
+        <source>More Online Charts</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrimaryMajorHorizontal</source>
@@ -29154,6 +29340,11 @@ del modo diseño</translation>
         <source>Toggle Button</source>
         <translation>Botón de alternar</translation>
     </message>
+    <message>
+        <source>Visual Basic
+Editor</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_developtools</name>
@@ -29294,6 +29485,10 @@ XML</translation>
         <source>Toggle Button</source>
         <translation>Botón de alternar</translation>
     </message>
+    <message>
+        <source>Visual Basic Editor</source>
+        <translation>Editor de Visual Basic</translation>
+    </message>
 </context>
 <context>
     <name>KxContentListEntriesDlg</name>
@@ -29397,6 +29592,42 @@ XML</translation>
     <message>
         <source>TextLabel</source>
         <translation>TextLabel</translation>
+    </message>
+    <message>
+        <source>input chinese sy info tips part1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>input chinese sy info tips part2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>sy_normal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>sytype</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>input normal sy info tips part1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>input normal sy info tips part2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>chinese_sy_info</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>normal_sy_info</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>self_sy_info</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -32329,6 +32560,10 @@ a texto</translation>
         <translation>Voltear verticalmente</translation>
     </message>
     <message>
+        <source>Picture Frame</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Align Middle</source>
         <translation>Alinear horizontalmente</translation>
     </message>
@@ -32721,6 +32956,10 @@ de imagen</translation>
         <source>Align Top</source>
         <translation>Alinear arriba</translation>
     </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetools_vml</name>
@@ -32816,6 +33055,10 @@ a texto</translation>
     <message>
         <source>Flip Vertical</source>
         <translation>Voltear verticalmente</translation>
+    </message>
+    <message>
+        <source>Picture Frame</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Middle</source>
@@ -33263,20 +33506,24 @@ selección</translation>
         <source>Align Top</source>
         <translation>Alinear arriba</translation>
     </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_drawingtools_vml</name>
     <message>
         <source>1 pt</source>
-        <translation>1&#xa0;pto</translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>3&#xa0;pto</translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>6&#xa0;pto</translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -33412,15 +33659,15 @@ selección</translation>
     </message>
     <message>
         <source>0.25 pt</source>
-        <translation>0,25&#xa0;pto</translation>
+        <translation>0,25 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0,75&#xa0;pto</translation>
+        <translation>0,75 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>0,5&#xa0;pto</translation>
+        <translation>0,5 pto</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -33428,11 +33675,11 @@ selección</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>1,5&#xa0;pto</translation>
+        <translation>1,5 pto</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4,5&#xa0;pto</translation>
+        <translation>4,5 pto</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -33493,7 +33740,7 @@ del texto</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2,25&#xa0;pto</translation>
+        <translation>2,25 pto</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -34310,15 +34557,15 @@ de imagen</translation>
     <name>rainbow.ct_picturetools_vml</name>
     <message>
         <source>1 pt</source>
-        <translation>1&#xa0;pto</translation>
+        <translation>1 pto</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>3&#xa0;pto</translation>
+        <translation>3 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>6&#xa0;pto</translation>
+        <translation>6 pto</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -34414,19 +34661,19 @@ de imagen</translation>
     </message>
     <message>
         <source>0.25 pt</source>
-        <translation>0,25&#xa0;pto</translation>
+        <translation>0,25 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0,75&#xa0;pto</translation>
+        <translation>0,75 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>0,5&#xa0;pto</translation>
+        <translation>0,5 pto</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>1,5&#xa0;pto</translation>
+        <translation>1,5 pto</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -34435,7 +34682,7 @@ imagen</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4,5&#xa0;pto</translation>
+        <translation>4,5 pto</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -34511,7 +34758,7 @@ imagen</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2,25&#xa0;pto</translation>
+        <translation>2,25 pto</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -34858,7 +35105,7 @@ protección de ojos</translation>
     </message>
     <message>
         <source>Views</source>
-        <translation>Vista</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -34890,8 +35137,8 @@ lectura</translation>
         <translation>Colocar a la izquierda</translation>
     </message>
     <message>
-        <source>ComposeAssist</source>
-        <translation>Asistente de escritura</translation>
+        <source>Document Views</source>
+        <translation>Vista de documento</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -35023,6 +35270,10 @@ completa</translation>
 Window</source>
         <translation>Nueva 
 ventana</translation>
+    </message>
+    <message>
+        <source>Visual Basic Editor</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -35254,6 +35505,10 @@ paralelo</translation>
         <translation>M&amp;apas de documento:</translation>
     </message>
     <message>
+        <source>The password of the edit permission must be no longer than 15 characters.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>By author</source>
         <translation>Por autor</translation>
     </message>
@@ -35296,6 +35551,10 @@ paralelo</translation>
     <message>
         <source>File Path: WPS CloudFile\Cloud BackUp</source>
         <translation>Ruta de archivo: WPS Cloud\Auto Uploaded</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -36572,6 +36831,10 @@ Pages</source>
         <translation>Dibujar tabla</translation>
     </message>
     <message>
+        <source>Local Text Box</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Drop Cap</source>
         <translation>Letra 
 capital</translation>
@@ -36705,6 +36968,22 @@ de página</translation>
     <message>
         <source>Total of Y Page</source>
         <translation>Total de página Y</translation>
+    </message>
+    <message>
+        <source>Insert Number</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More Symbols</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37020,10 +37299,6 @@ de agua</translation>
         <translation>Desde escáner</translation>
     </message>
     <message>
-        <source>Insert New Equation</source>
-        <translation>Insertar ecuación nueva</translation>
-    </message>
-    <message>
         <source>Form Field Options</source>
         <translation>Opciones de campo de formulario</translation>
     </message>
@@ -37071,6 +37346,10 @@ Número</translation>
     <message>
         <source>Total of Y Page</source>
         <translation>Total de página Y</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37992,6 +38271,10 @@ Cloud Docs</translation>
         <translation>Comentarios y Soporte</translation>
     </message>
     <message>
+        <source>Docer Mall</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Backup Center</source>
         <translation>Copia de seguridad automática</translation>
     </message>
@@ -38009,6 +38292,10 @@ archivo</translation>
         <translation>Ver Caja fuerte de archivo</translation>
     </message>
     <message>
+        <source>Paper Typeset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>File Collect</source>
         <translation>Recopilar archivos</translation>
     </message>
@@ -38024,6 +38311,22 @@ dispositivo móvil</translation>
     <message>
         <source>Document security</source>
         <translation>Seguridad de documento</translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Translate selected text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38043,6 +38346,10 @@ dispositivo móvil</translation>
     <message>
         <source>Batch Delete</source>
         <translation>Eliminación en masa</translation>
+    </message>
+    <message>
+        <source>HeaderFooterGroup</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share</source>
@@ -38130,6 +38437,10 @@ dispositivo móvil</translation>
         <translation>Todos los comentarios</translation>
     </message>
     <message>
+        <source>Sentence Translation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Output Voice</source>
         <translation>Voz de salida</translation>
     </message>
@@ -38194,6 +38505,10 @@ dispositivo móvil</translation>
         <translation>Donar</translation>
     </message>
     <message>
+        <source>More Color Schemes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Change Num</source>
         <translation>Cambiar número</translation>
     </message>
@@ -38212,6 +38527,10 @@ dispositivo móvil</translation>
     <message>
         <source>ShortBatchDelete</source>
         <translation>Eliminar</translation>
+    </message>
+    <message>
+        <source>More Online Charts</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rename</source>
@@ -38252,6 +38571,10 @@ dispositivo móvil</translation>
     <message>
         <source>Send pictures</source>
         <translation>Enviar imágenes</translation>
+    </message>
+    <message>
+        <source>Online TableStyle</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PaperFormat</source>
@@ -38359,6 +38682,10 @@ de usuario</translation>
         <translation>Menú de Xie De</translation>
     </message>
     <message>
+        <source>DocerThemeColor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Comment</source>
         <translation>Comentario</translation>
     </message>
@@ -38373,6 +38700,10 @@ de usuario</translation>
     <message>
         <source>Materials</source>
         <translation>Materiales</translation>
+    </message>
+    <message>
+        <source>DocerWordArt</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
@@ -38411,6 +38742,14 @@ de usuario</translation>
         <translation>Comprobación de papel</translation>
     </message>
     <message>
+        <source>DocerChart</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DocumentContentStudioHint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Photo2PdfConvertAll</source>
         <translation>Convertir todas las imágenes del documento</translation>
     </message>
@@ -38433,6 +38772,10 @@ de usuario</translation>
     <message>
         <source>Collaboration</source>
         <translation>Colaboración</translation>
+    </message>
+    <message>
+        <source>DocumentContentStudio</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -38475,6 +38818,22 @@ dispositivo móvil</translation>
     <message>
         <source>From Phone</source>
         <translation>Desde el teléfono</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>HomeDesign</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Geogebra</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38567,6 +38926,22 @@ a PDF</translation>
     <message>
         <source>View File Safe</source>
         <translation>Ver Caja fuerte de archivo</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38777,6 +39152,10 @@ navegación</translation>
     <message>
         <source>Sign out</source>
         <translation>Cerrar sesión</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39829,6 +40208,10 @@ documento</translation>
     <message>
         <source>ReviewTime</source>
         <translation>Hora de revisión</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41967,7 +42350,7 @@ Cancelar: 	Volver al cuadro de diálogo.    </translation>
     </message>
     <message>
         <source>English (U.S.)</source>
-        <translation>Inglés (EE.&#xa0;UU.)</translation>
+        <translation>Inglés (EE. UU.)</translation>
     </message>
     <message>
         <source>Japanese</source>
@@ -41987,6 +42370,10 @@ Cancelar: 	Volver al cuadro de diálogo.    </translation>
     <message>
         <source>Tips</source>
         <translation>Consejos</translation>
+    </message>
+    <message>
+        <source>Please save document before check paper.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -42108,6 +42495,10 @@ Cancelar: 	Volver al cuadro de diálogo.    </translation>
     <message>
         <source>light</source>
         <translation>Claro</translation>
+    </message>
+    <message>
+        <source>tableStyle</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>medium</source>
@@ -42947,6 +43338,14 @@ correspondencia</translation>
     <message>
         <source>3-D Settings</source>
         <translation>Configuración de 3D</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44047,6 +44446,10 @@ permisos</translation>
         <source>Make Forward Doc</source>
         <translation>Crear documento de reenvío</translation>
     </message>
+    <message>
+        <source>Document Security</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsAdvInsertPageNumber</name>
@@ -44217,12 +44620,12 @@ permisos</translation>
         <translation>&amp;Estilos restringidos: </translation>
     </message>
     <message>
-        <source>Styles are currently allowed(&amp;P):</source>
-        <translation>Los estilos se &amp;permiten actualmente:</translation>
-    </message>
-    <message>
         <source> Limit All(&amp;R) &gt;&gt; </source>
         <translation>Límite a todo(&amp;R) &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Styles are currently allowed(&amp;P):</source>
+        <translation>Los estilos se &amp;permiten actualmente:</translation>
     </message>
 </context>
 <context>
@@ -44281,6 +44684,10 @@ permisos</translation>
     <message>
         <source>Array</source>
         <translation>Matriz</translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44531,10 +44938,6 @@ a texto</translation>
         <translation>Tabla de contenido</translation>
     </message>
     <message>
-        <source>Insert New Equation</source>
-        <translation>Insertar ecuación nueva</translation>
-    </message>
-    <message>
         <source>Convert Text to Table</source>
         <translation>Convertir texto en tabla</translation>
     </message>
@@ -44574,6 +44977,10 @@ Número</translation>
     <message>
         <source>Delete Object</source>
         <translation>Eliminar objeto</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44939,6 +45346,10 @@ Tecla de método abreviado:</translation>
         <translation>Cerrar</translation>
     </message>
     <message>
+        <source>HeaderFooterGroup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Switch between
 Header and Footer</source>
         <translation>Cambiar entre 
@@ -44947,6 +45358,10 @@ encabezado y pie de página</translation>
     <message>
         <source>Insert Online Pictures</source>
         <translation>Insertar imagen en línea</translation>
+    </message>
+    <message>
+        <source>Delete Header Footer Group</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous
@@ -45078,6 +45493,14 @@ pie de página</translation>
         <translation>Desde escáner</translation>
     </message>
     <message>
+        <source>Delete Footer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete Header</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Next
 Header</source>
         <translation>Encabezado 
@@ -45102,6 +45525,10 @@ Número</translation>
     <message>
         <source>Navigation</source>
         <translation>Navegación</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45296,6 +45723,10 @@ palabras</translation>
         <translation>Nuevo lienzo de dibujo</translation>
     </message>
     <message>
+        <source>Local Text Box</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>New
 Comment</source>
         <translation>Nuevo 
@@ -45316,10 +45747,6 @@ comentario</translation>
     <message>
         <source>Vertical</source>
         <translation>Vertical</translation>
-    </message>
-    <message>
-        <source>Annote As Pdf</source>
-        <translation>Anotar como PDF</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -45808,6 +46235,10 @@ estilo</translation>
     <message>
         <source>Unnamed</source>
         <translation>Sin nombre</translation>
+    </message>
+    <message>
+        <source>Enter Section Name</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46410,6 +46841,10 @@ correspondencia</translation>
         <translation>Estilo</translation>
     </message>
     <message>
+        <source>transverse</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>vertical</source>
         <translation>Vertical</translation>
     </message>
@@ -46530,6 +46965,14 @@ correspondencia</translation>
     <message>
         <source>The number input must be between 1 and 63.</source>
         <translation>El número introducido debe ser entre 1 y 63.</translation>
+    </message>
+    <message>
+        <source>Click to turn off Proofread</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Apply Table Style</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46847,6 +47290,41 @@ Seleccione partes del documento y elija los usuarios que pueden modificarlas lib
     </message>
 </context>
 <context>
+    <name>KxWpsDuplexPrintModel</name>
+    <message>
+        <source>Flip page on the long side of the paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Flip on long edge</source>
+        <translation>Impresión a doble cara: Voltear en el borde largo</translation>
+    </message>
+    <message>
+        <source>Flip page on the short side of the paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Manual duplex</source>
+        <translation>Impresión a doble cara manual</translation>
+    </message>
+    <message>
+        <source>Print only on one side of the paper</source>
+        <translation>Imprimir solo en una cara del papel</translation>
+    </message>
+    <message>
+        <source>Print one sided</source>
+        <translation>Impresión a una cara</translation>
+    </message>
+    <message>
+        <source>Reload paper when prompted to print the second side</source>
+        <translation>Recargar el papel cuando se le pida para imprimir la segunda cara</translation>
+    </message>
+    <message>
+        <source>Flip on short edge</source>
+        <translation>Impresión a doble cara: Voltear en el borde corto</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgMailMergeTable</name>
     <message>
         <source>table</source>
@@ -46863,6 +47341,13 @@ Seleccione partes del documento y elija los usuarios que pueden modificarlas lib
     <message>
         <source>dialog</source>
         <translation>diálogo</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsInsertDocBarcodeDlg</name>
+    <message>
+        <source>title</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47392,6 +47877,10 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation>Donar</translation>
     </message>
     <message>
+        <source>More Color Schemes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Text Speech</source>
         <translation>Voz a texto</translation>
     </message>
@@ -47414,6 +47903,34 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Selection Speech</source>
         <translation>Selección de voz</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47637,10 +48154,6 @@ Intente una o varias de las siguientes opciones::
     <message>
         <source>Error! The style is not specified.</source>
         <translation>¡Error! El estilo no está especificado.</translation>
-    </message>
-    <message>
-        <source>Intelligent Identification</source>
-        <translation>Identificación inteligente</translation>
     </message>
     <message>
         <source>Error! The style name is not specified.</source>
@@ -48940,6 +49453,22 @@ la TDC</translation>
         <source>Online Pictures</source>
         <translation>Imágenes en línea</translation>
     </message>
+    <message>
+        <source>Export as Images</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxCombineCharactersDlg</name>
@@ -49058,6 +49587,10 @@ la TDC</translation>
     <message>
         <source>Bottom Outter</source>
         <translation>Parte inferior exterior</translation>
+    </message>
+    <message>
+        <source>Set page number format</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50027,6 +50560,21 @@ Nota al final</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsTableOfContentsModel</name>
+    <message>
+        <source>AutomaticTable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Manual Table</source>
+        <translation>Tabla manual</translation>
+    </message>
+    <message>
+        <source>ManualTable</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWpsPageMarginSingleSpinCommand</name>
     <message>
         <source>the margin value is out of range.</source>
@@ -50146,33 +50694,6 @@ Nota al final</translation>
     <message>
         <source>Export coding libary for trace file as</source>
         <translation>Exportar biblioteca de codificación para hacer seguimiento de archivo como</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsDuplexPrintModel</name>
-    <message>
-        <source>Flip on long edge</source>
-        <translation>Impresión a doble cara: Voltear en el borde largo</translation>
-    </message>
-    <message>
-        <source>Manual duplex</source>
-        <translation>Impresión a doble cara manual</translation>
-    </message>
-    <message>
-        <source>Print only on one side of the paper</source>
-        <translation>Imprimir solo en una cara del papel</translation>
-    </message>
-    <message>
-        <source>Print one sided</source>
-        <translation>Impresión a una cara</translation>
-    </message>
-    <message>
-        <source>Reload paper when prompted to print the second side</source>
-        <translation>Recargar el papel cuando se le pida para imprimir la segunda cara</translation>
-    </message>
-    <message>
-        <source>Flip on short edge</source>
-        <translation>Impresión a doble cara: Voltear en el borde corto</translation>
     </message>
 </context>
 <context>
@@ -50482,73 +51003,6 @@ Nota al final</translation>
     <message>
         <source>None list</source>
         <translation>Ninguna lista</translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_equationtools</name>
-    <message>
-        <source>Accent</source>
-        <translation>Acento</translation>
-    </message>
-    <message>
-        <source>Linear</source>
-        <translation>Lineal</translation>
-    </message>
-    <message>
-        <source>Limit and Log</source>
-        <translation>Limitar y registrar</translation>
-    </message>
-    <message>
-        <source>Script</source>
-        <translation>Script</translation>
-    </message>
-    <message>
-        <source>Integral</source>
-        <translation>Integral</translation>
-    </message>
-    <message>
-        <source>Operator</source>
-        <translation>Operador</translation>
-    </message>
-    <message>
-        <source>Fraction</source>
-        <translation>Fracción</translation>
-    </message>
-    <message>
-        <source>Radical</source>
-        <translation>Radical</translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation>Ecuación</translation>
-    </message>
-    <message>
-        <source>Bracket</source>
-        <translation>Paréntesis</translation>
-    </message>
-    <message>
-        <source>Symbols</source>
-        <translation>Símbolos</translation>
-    </message>
-    <message>
-        <source>Function</source>
-        <translation>Función</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Configuración</translation>
-    </message>
-    <message>
-        <source>Large Operator</source>
-        <translation>Operador grande</translation>
-    </message>
-    <message>
-        <source>Equation Options</source>
-        <translation>Opciones de ecuación</translation>
-    </message>
-    <message>
-        <source>Professional</source>
-        <translation>Profesional</translation>
     </message>
 </context>
 <context>
@@ -50887,6 +51341,41 @@ Nota al final</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_equationtools</name>
+    <message>
+        <source>Linear</source>
+        <translation>Lineal</translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <translation>Matriz</translation>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translation>Fracción</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>Ecuación</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation>Símbolos</translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation>Función</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Configuración</translation>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation>Profesional</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsDocPane</name>
     <message>
         <source>Revised Document</source>
@@ -51180,6 +51669,10 @@ esquema que coincida con el espacio de nombre especificado; o bien haga clic en 
         <source>Delete Page Number</source>
         <translation>Eliminar número de página</translation>
     </message>
+    <message>
+        <source>Set Page Number</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxFormatProperty</name>
@@ -51442,13 +51935,6 @@ esquema que coincida con el espacio de nombre especificado; o bien haga clic en 
     <message>
         <source>After saving,the layout may be disordered and some contents cannot be edited</source>
         <translation>Tras guardarlo, puede que el diseño se desordene y que parte del contenido no se pueda modificar.</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsEquationOptionsDlg</name>
-    <message>
-        <source>This change will affect all new documents based on the NORMAL template.</source>
-        <translation>Este cambio afectará a todos los nuevos documentos basados en la plantilla NORMAL.</translation>
     </message>
 </context>
 <context>
@@ -51764,7 +52250,7 @@ esquema que coincida con el espacio de nombre especificado; o bien haga clic en 
     <message>
         <source>Your document will be upgraded to newest file format.
 
-While you&apos;ll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
+While you'll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
 Converting allows you to use all the new features of Word and reduces the size of your file. This document will be replaced by the converted version.</source>
         <translation>Su documento se actualizará al formato de archivo más reciente.
 
@@ -51789,10 +52275,6 @@ Al convertirlo podrá utilizar todas las características nuevas de WPS Writer y
     <message>
         <source>Unprotect Document</source>
         <translation>Desproteger documento</translation>
-    </message>
-    <message>
-        <source>Replace contents identified by WPS AI Assistant?</source>
-        <translation>¿Reemplazar con la tabla de contenido identificada por el asistente de IA de WPS?</translation>
     </message>
 </context>
 <context>
@@ -51863,13 +52345,6 @@ paralelo</translation>
     </message>
 </context>
 <context>
-    <name>KxWpsTableOfContentsModel</name>
-    <message>
-        <source>Manual Table</source>
-        <translation>Tabla manual</translation>
-    </message>
-</context>
-<context>
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
@@ -51895,6 +52370,10 @@ paralelo</translation>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
         <translation>Los márgenes derecho e izquierdo, el espacio entre columnas o las sangrías de párrafo son demasiado largos para el ancho de la página en algunas secciones.</translation>
+    </message>
+    <message>
+        <source>Orientation</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51927,7 +52406,7 @@ paralelo</translation>
     <message>
         <source>Your document will be upgraded to the newest file format.
 
-While you&apos;ll get to use all the new features in Word, some minor layout
+While you'll get to use all the new features in Word, some minor layout
 changes are possible. If you prefer not to upgrade, press cancel an
 check the maintain compatibility checkbox.</source>
         <translation>Su documento se actualizará al formato de archivo más reciente.
@@ -52081,6 +52560,87 @@ pueden representar el contenido de la información del receptor</translation>
     <message>
         <source>Click here to insert pictures.</source>
         <translation>Haga clic aquí para insertar imágenes.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageDifferCommand</name>
+    <message>
+        <source>Different first page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Different odd &amp;even pages</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsHeaderLineMoreColorCommand</name>
+    <message>
+        <source>Show Header Line Color</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxNotRestartSmartPageNumMenuItemCommand</name>
+    <message>
+        <source>Continue numbering</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersComboBox</name>
+    <message>
+        <source>All Reviewers</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsHeaderLineBaseCommand</name>
+    <message>
+        <source>Show Header Line</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsHFLinkToPreviousCommand</name>
+    <message>
+        <source>Header and Footer Link to Previous</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsDeleteSectionCommand</name>
+    <message>
+        <source>Delete Section</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxDeleteSmartPageNumMenuItemCommand</name>
+    <message>
+        <source>Delete page number</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWpsFileMenuHelpDocumentCommand</name>
+    <message>
+        <source>WPS Writer Help</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsAboutLegacyTriggerCommand</name>
+    <message>
+        <source>About WPS Writer</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxRestartSmartPageNumMenuItemCommand</name>
+    <message>
+        <source>Restart current page page number</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
