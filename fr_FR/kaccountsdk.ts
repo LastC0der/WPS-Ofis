@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="fr_FR" version="2.1">
 <context>
     <name>KAccountMessageContentDlg</name>
     <message>
@@ -185,7 +183,7 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation>Mot de passe&#xa0;:</translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <source>Address:</source>
@@ -208,22 +206,22 @@
     </message>
     <message>
         <source>MenuCount:</source>
-        <translation>NombreMenus&#xa0;:</translation>
+        <translation>NombreMenus :</translation>
     </message>
 </context>
 <context>
     <name>MenuItemView</name>
     <message>
         <source>Id:</source>
-        <translation>ID&#xa0;:</translation>
+        <translation>ID :</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation>Texte&#xa0;:</translation>
+        <translation>Texte :</translation>
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation>Raccourci&#xa0;:</translation>
+        <translation>Raccourci :</translation>
     </message>
 </context>
 <context>
@@ -254,7 +252,7 @@
     </message>
     <message>
         <source>Userid : %1 login...</source>
-        <translation>UserId&#xa0;: connexion de %1...</translation>
+        <translation>UserId : connexion de %1...</translation>
     </message>
     <message>
         <source>_initUI...</source>
@@ -266,15 +264,15 @@
     </message>
     <message>
         <source>save config file : </source>
-        <translation>Enregistrer le fichier de configuration&#xa0;:</translation>
+        <translation>Enregistrer le fichier de configuration :</translation>
     </message>
     <message>
         <source>SyncType : %1
   BeforeUserID : %2
   AfterUserID : %3</source>
-        <translation>TypeSync&#xa0;: %1
-  IdUtilisateurAvant&#xa0;: %2
-  IdUtilisateurAprès&#xa0;: %3</translation>
+        <translation>TypeSync : %1
+  IdUtilisateurAvant : %2
+  IdUtilisateurAprès : %3</translation>
     </message>
     <message>
         <source>no menu item</source>
@@ -282,16 +280,16 @@
     </message>
     <message>
         <source>SetMenu return  RESULT : %1</source>
-        <translation>RÉSULTAT&#xa0;retour DéfinirMenu&#xa0;: %1</translation>
+        <translation>RÉSULTAT retour DéfinirMenu : %1</translation>
     </message>
     <message>
         <source>GetMenu return  RESULT : %1</source>
-        <translation>RÉSULTAT&#xa0;retour ObtenirMenu&#xa0;: %1</translation>
+        <translation>RÉSULTAT retour ObtenirMenu : %1</translation>
     </message>
     <message>
         <source>Error : load failed...
 %1</source>
-        <translation>Erreur&#xa0;: échec du chargement...
+        <translation>Erreur : échec du chargement...
 %1</translation>
     </message>
     <message>
@@ -312,7 +310,7 @@
     </message>
     <message>
         <source>Logout return  ActionId : %1</source>
-        <translation>ActionId retour déconnexion&#xa0;: %1</translation>
+        <translation>ActionId retour déconnexion : %1</translation>
     </message>
     <message>
         <source>save succeed...</source>
@@ -346,7 +344,7 @@
     </message>
     <message>
         <source>Userid : %1 not login</source>
-        <translation>Userid&#xa0;: %1 non connecté</translation>
+        <translation>Userid : %1 non connecté</translation>
     </message>
     <message>
         <source>SyncRemove</source>
@@ -362,11 +360,11 @@
     </message>
     <message>
         <source>UnInit return  RESULT : %1</source>
-        <translation>RÉSULTAT&#xa0;retour UnInit&#xa0;: %1</translation>
+        <translation>RÉSULTAT retour UnInit : %1</translation>
     </message>
     <message>
         <source>Receive A Message: KAcResultType=%1</source>
-        <translation>Recevoir un message&#xa0;: KAcResultType=%1</translation>
+        <translation>Recevoir un message : KAcResultType=%1</translation>
     </message>
     <message>
         <source>SetMenu...start...</source>
@@ -390,7 +388,7 @@
     </message>
     <message>
         <source>Exception : MessageType is %1</source>
-        <translation>Exception&#xa0;: le type de message est %1</translation>
+        <translation>Exception : le type de message est %1</translation>
     </message>
     <message>
         <source>GetMenu...start...</source>
@@ -402,7 +400,7 @@
     </message>
     <message>
         <source>load Config file : </source>
-        <translation>Charger le fichier de configuration&#xa0;:</translation>
+        <translation>Charger le fichier de configuration :</translation>
     </message>
     <message>
         <source>SetProxy...start...</source>
@@ -414,15 +412,15 @@
     </message>
     <message>
         <source>SetProxy return  RESULT : %1</source>
-        <translation>RÉSULTAT&#xa0;retour DéfinirProxy&#xa0;: %1</translation>
+        <translation>RÉSULTAT retour DéfinirProxy : %1</translation>
     </message>
     <message>
         <source>The DLL Version: %1</source>
-        <translation>Version de la DLL&#xa0;: %1</translation>
+        <translation>Version de la DLL : %1</translation>
     </message>
     <message>
         <source>Login return  ActionId : %1</source>
-        <translation>ActionID retour connexion&#xa0;: %1</translation>
+        <translation>ActionID retour connexion : %1</translation>
     </message>
     <message>
         <source>user cancel...</source>
@@ -434,11 +432,11 @@
     </message>
     <message>
         <source>MenuItem Clicked: ID=%1</source>
-        <translation>ÉlementMenu cliqué&#xa0;: ID=%1</translation>
+        <translation>ÉlementMenu cliqué : ID=%1</translation>
     </message>
     <message>
         <source>Userid : %1 has been log off...</source>
-        <translation>Userid&#xa0;: %1 a été déconnecté...</translation>
+        <translation>Userid : %1 a été déconnecté...</translation>
     </message>
     <message>
         <source>load succeed...</source>
@@ -446,7 +444,7 @@
     </message>
     <message>
         <source>Init return  RESULT : %1</source>
-        <translation>RÉSULTAT&#xa0;retour Init&#xa0;: %1</translation>
+        <translation>RÉSULTAT retour Init : %1</translation>
     </message>
     <message>
         <source>SetEnv...start...</source>
@@ -480,7 +478,7 @@
     </message>
     <message>
         <source>SDK:</source>
-        <translation>SDK&#xa0;:</translation>
+        <translation>SDK :</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -498,7 +496,7 @@
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -508,11 +506,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>LogView:</source>
-        <translation>AffichageJournal&#xa0;:</translation>
+        <translation>AffichageJournal :</translation>
     </message>
     <message>
         <source>appid:</source>
-        <translation>IDapp&#xa0;:</translation>
+        <translation>IDapp :</translation>
     </message>
     <message>
         <source>checkToken</source>
@@ -524,7 +522,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Status:</source>
-        <translation>État&#xa0;:</translation>
+        <translation>État :</translation>
     </message>
     <message>
         <source>accountdemo</source>
@@ -532,7 +530,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>InterfaceList:</source>
-        <translation>ListeInterface&#xa0;:</translation>
+        <translation>ListeInterface :</translation>
     </message>
     <message>
         <source>439256738</source>
@@ -575,7 +573,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Many value-added services</source>
-        <translation>Un grand nombre de fonctionnalités&#xa0;：PDF vers Word, OCR, etc.</translation>
+        <translation>Un grand nombre de fonctionnalités ：PDF vers Word, OCR, etc.</translation>
     </message>
     <message>
         <source>How to buy enterprise edition?</source>
@@ -584,14 +582,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>High quality of VIP services</source>
         <translation>Qualité élevée des services cloud</translation>
-    </message>
-    <message>
-        <source>Sign in to sync data between PC and phone</source>
-        <translation>Connectez-vous pour synchroniser les données entre le PC et le téléphone</translation>
-    </message>
-    <message>
-        <source>Get all benefits of services on both PC and phone</source>
-        <translation>Obtenez tous les avantages des services sur PC et téléphone</translation>
     </message>
     <message>
         <source>Enjoy the Office Privilege</source>
@@ -604,10 +594,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>I am personal user</source>
         <translation>Utilisateur de la connexion</translation>
-    </message>
-    <message>
-        <source>Dozens of Premium features: PDF to Word, PDF Edit, No ADs, etc.</source>
-        <translation>Des dizaines de fonctionnalités Premium&#xa0;: PDF vers Word, modification de PDF, pas de publicités, etc.</translation>
     </message>
     <message>
         <source>vipTip</source>
@@ -627,16 +613,8 @@ makes documents beautiful</source>
         <translation>Obtenez tous les bénéfices du service sur PC et téléphone</translation>
     </message>
     <message>
-        <source>High quality of Cloud services</source>
-        <translation>Qualité élevée des services cloud</translation>
-    </message>
-    <message>
         <source>How to become paid member?</source>
-        <translation>Passer à un abonnement Premium&#xa0;?</translation>
-    </message>
-    <message>
-        <source>Sign in User</source>
-        <translation>Utilisateur connecté</translation>
+        <translation>Passer à un abonnement Premium ?</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
@@ -660,18 +638,6 @@ gratuite pendant 7 jours</translation>
 we will make continuous improvements</source>
         <translation>Nous vous remercions pour votre soutien,
 nous allons apporter des améliorations en permanence</translation>
-    </message>
-    <message>
-        <source>Massive templates make amazing documents</source>
-        <translation>Disposer d&apos;un grand nombre de modèles permet de réaliser des documents extraordinaires</translation>
-    </message>
-    <message>
-        <source>Premium User</source>
-        <translation>Utilisateur Premium</translation>
-    </message>
-    <message>
-        <source>1G Cloud space</source>
-        <translation>Espace Cloud de 1&#xa0;Go</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1126,6 +1092,10 @@ Easy mobile office.</source>
         <translation>Images, modèles, formes en ligne</translation>
     </message>
     <message>
+        <source>Please enter a valid email address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Wrong password</source>
         <translation>Mot de passe erroné</translation>
     </message>
@@ -1138,10 +1108,6 @@ Easy mobile office.</source>
         <translation>Connexion</translation>
     </message>
     <message>
-        <source>I agree to the</source>
-        <translation>J&apos;accepte le</translation>
-    </message>
-    <message>
         <source>Server error</source>
         <translation>Erreur du serveur</translation>
     </message>
@@ -1152,6 +1118,10 @@ Easy mobile office.</source>
     <message>
         <source>Wechat qrcode loading...</source>
         <translation>Chargement du code QR WeChat…</translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sign in with Facebook</source>
@@ -1176,14 +1146,6 @@ Easy mobile office.</source>
     <message>
         <source>Sign up with Email</source>
         <translation>S&apos;inscrire avec un e-mail</translation>
-    </message>
-    <message>
-        <source>Go back to sign in</source>
-        <translation>Revenir à la connexion</translation>
-    </message>
-    <message>
-        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
-        <translation>Nous avons ouvert un nouvel onglet du navigateur pour que vous puissiez vous connecter. Vous devez terminer l&apos;authentification dans le navigateur. Une fois cela terminé, vous continuerez automatiquement ici. </translation>
     </message>
     <message>
         <source>Continue with Google</source>
@@ -1214,10 +1176,6 @@ Easy mobile office.</source>
         <translation>mot de passe</translation>
     </message>
     <message>
-        <source>Cloud Services User Agreement</source>
-        <translation>Contrat de l&apos;utilisateur des services Cloud</translation>
-    </message>
-    <message>
         <source>No password</source>
         <translation>Aucun mot de passe</translation>
     </message>
@@ -1239,7 +1197,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>No account?</source>
-        <translation>Pas de compte&#xa0;?</translation>
+        <translation>Pas de compte ?</translation>
     </message>
     <message>
         <source>More safety with an account</source>
@@ -1266,10 +1224,6 @@ Easy mobile office.</source>
         <translation>L&apos;utilisateur n&apos;existe pas</translation>
     </message>
     <message>
-        <source>Waiting...</source>
-        <translation>Attente…</translation>
-    </message>
-    <message>
         <source>Invalid account</source>
         <translation>Compte non valide</translation>
     </message>
@@ -1278,16 +1232,8 @@ Easy mobile office.</source>
         <translation>Continuer avec un e-mail</translation>
     </message>
     <message>
-        <source>Continue with Line</source>
-        <translation>Continuer avec Line</translation>
-    </message>
-    <message>
         <source>Share docs with others</source>
         <translation>Partager les documents avec d&apos;autres personnes</translation>
-    </message>
-    <message>
-        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation>Nous n&apos;avons pas pu vous connecter. Revenez à la connexion et réessayez.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
@@ -1295,7 +1241,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Forgot?</source>
-        <translation>Oublié&#xa0;?</translation>
+        <translation>Oublié ?</translation>
     </message>
     <message>
         <source>User is limited</source>
@@ -1319,7 +1265,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Login too frequently, please retry after %1 seconds</source>
-        <translation>Vous vous connectez trop souvent. Réessayez après %1&#xa0;secondes</translation>
+        <translation>Vous vous connectez trop souvent. Réessayez après %1 secondes</translation>
     </message>
     <message>
         <source>Login with third account</source>
@@ -1366,7 +1312,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Have no account?</source>
-        <translation>Vous n&apos;avez pas de compte&#xa0;?</translation>
+        <translation>Vous n&apos;avez pas de compte ?</translation>
     </message>
     <message>
         <source>Register now</source>
@@ -1381,23 +1327,23 @@ Easy mobile office.</source>
     <name>interface_setproxy</name>
     <message>
         <source>Port:</source>
-        <translation>Port&#xa0;:</translation>
+        <translation>Port :</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Mot de passe&#xa0;:</translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Adresse&#xa0;:</translation>
+        <translation>Adresse :</translation>
     </message>
     <message>
         <source>UserName:</source>
-        <translation>Nom d&apos;utilisateur&#xa0;:</translation>
+        <translation>Nom d&apos;utilisateur :</translation>
     </message>
     <message>
         <source>ProxyType:</source>
-        <translation>TypeProxy&#xa0;:</translation>
+        <translation>TypeProxy :</translation>
     </message>
 </context>
 <context>
@@ -1489,7 +1435,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Error code: </source>
-        <translation>Code d&apos;erreur&#xa0;: </translation>
+        <translation>Code d&apos;erreur : </translation>
     </message>
     <message>
         <source>QrCode login</source>
@@ -1569,7 +1515,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Don&apos;t have Account? </source>
-        <translation>Vous ne possédez pas de compte&#xa0;? </translation>
+        <translation>Vous ne possédez pas de compte ? </translation>
     </message>
     <message>
         <source>Login via School Mail</source>
@@ -1692,7 +1638,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Error code: </source>
-        <translation>Code d&apos;erreur&#xa0;: </translation>
+        <translation>Code d&apos;erreur : </translation>
     </message>
     <message>
         <source>Login via QQ</source>
@@ -1811,23 +1757,23 @@ Easy mobile office.</source>
     <name>interface_init</name>
     <message>
         <source>bHasCallBackFunc:</source>
-        <translation>bAFoncRappel&#xa0;:</translation>
+        <translation>bAFoncRappel :</translation>
     </message>
     <message>
         <source>AppId:</source>
-        <translation>IDApp&#xa0;:</translation>
+        <translation>IDApp :</translation>
     </message>
     <message>
         <source>AppName:</source>
-        <translation>NomApp&#xa0;:</translation>
+        <translation>NomApp :</translation>
     </message>
     <message>
         <source>AppKey:</source>
-        <translation>CléApp&#xa0;:</translation>
+        <translation>CléApp :</translation>
     </message>
     <message>
         <source>InitFlags:</source>
-        <translation>IndicateursInitialisation&#xa0;:</translation>
+        <translation>IndicateursInitialisation :</translation>
     </message>
     <message>
         <source>CheckBox</source>
@@ -1934,7 +1880,7 @@ Easy mobile office.</source>
     <name>KTitleMenuBar</name>
     <message>
         <source>WPS2019 Beta</source>
-        <translation>WPS&#xa0;2019 version bêta</translation>
+        <translation>WPS 2019 version bêta</translation>
     </message>
     <message>
         <source>Return</source>
@@ -1986,18 +1932,18 @@ Easy mobile office.</source>
     <name>interface_login</name>
     <message>
         <source>LoginFlags:</source>
-        <translation>Indicateurs d&apos;ouverture de session&#xa0;:</translation>
+        <translation>Indicateurs d&apos;ouverture de session :</translation>
     </message>
 </context>
 <context>
     <name>encryptfiledialog</name>
     <message>
         <source>AccountSyncInfo:</source>
-        <translation>InfoSyncAccount&#xa0;:</translation>
+        <translation>InfoSyncAccount :</translation>
     </message>
     <message>
         <source>TokenTable:</source>
-        <translation>TableauJeton&#xa0;:</translation>
+        <translation>TableauJeton :</translation>
     </message>
     <message>
         <source>ViewEncrptFile</source>
@@ -2005,7 +1951,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>AccountTable:</source>
-        <translation>TableauCompte&#xa0;:</translation>
+        <translation>TableauCompte :</translation>
     </message>
 </context>
 <context>
@@ -2100,15 +2046,15 @@ Easy mobile office.</source>
     <name>interface_SetEnv</name>
     <message>
         <source>StyleFlags:</source>
-        <translation>Personnaliser les indicateurs&#xa0;:</translation>
+        <translation>Personnaliser les indicateurs :</translation>
     </message>
     <message>
         <source>EnvFlags:</source>
-        <translation>EnvFlags&#xa0;:</translation>
+        <translation>EnvFlags :</translation>
     </message>
     <message>
         <source>CustomUrl:</source>
-        <translation>URL personnalisée&#xa0;:</translation>
+        <translation>URL personnalisée :</translation>
     </message>
     <message>
         <source>CustomUi</source>
@@ -2148,7 +2094,7 @@ Easy mobile office.</source>
     <name>interface_logout</name>
     <message>
         <source>UserId:</source>
-        <translation>UserID&#xa0;:</translation>
+        <translation>UserID :</translation>
     </message>
 </context>
 <context>
