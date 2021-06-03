@@ -7670,7 +7670,7 @@ File</translation>
     </message>
     <message>
         <source>PageZoom</source>
-        <translation>Zoom</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paragraph</source>
