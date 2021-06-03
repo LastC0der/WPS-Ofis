@@ -39401,7 +39401,7 @@ automatique</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtrer</translation>
     </message>
     <message>
         <source>Hide Detail</source>
