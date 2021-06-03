@@ -35127,7 +35127,7 @@ Sélection</translation>
     </message>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Afficher</translation>
     </message>
     <message>
         <source>View Gridlines</source>
