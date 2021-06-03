@@ -5711,7 +5711,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Cari</translation>
     </message>
     <message>
         <source>Square</source>
@@ -7670,7 +7670,7 @@ File</translation>
     </message>
     <message>
         <source>PageZoom</source>
-        <translation>Perbesar</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -11342,7 +11342,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"/>
+        <translation>Teks</translation>
     </message>
     <message>
         <source>Text Marks</source>
@@ -11350,7 +11350,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"/>
+        <translation>Menggambar</translation>
     </message>
 </context>
 <context>
@@ -11474,7 +11474,7 @@ Ponsel</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Lihat</translation>
     </message>
     <message>
         <source>Organize Page</source>
@@ -11482,11 +11482,11 @@ Ponsel</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Pecah PDF</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan PDF</translation>
     </message>
     <message>
         <source>Merge and Split</source>
@@ -12684,7 +12684,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Pecah PDF</translation>
     </message>
     <message>
         <source>PageTool</source>
@@ -12692,7 +12692,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan PDF</translation>
     </message>
 </context>
 <context>
