@@ -5711,7 +5711,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Procurar</translation>
     </message>
     <message>
         <source>Square</source>
@@ -7670,7 +7670,7 @@ Arquivos</translation>
     </message>
     <message>
         <source>PageZoom</source>
-        <translation>Ampliar</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -11342,7 +11342,7 @@ dispositivo móvel</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"/>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Text Marks</source>
@@ -11350,7 +11350,7 @@ dispositivo móvel</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"/>
+        <translation>Desenho</translation>
     </message>
 </context>
 <context>
@@ -11474,7 +11474,7 @@ dispositivo móvel</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Ver</translation>
     </message>
     <message>
         <source>Organize Page</source>
@@ -11482,11 +11482,11 @@ dispositivo móvel</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Dividir PDF</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Unir PDF</translation>
     </message>
     <message>
         <source>Merge and Split</source>
@@ -12684,7 +12684,7 @@ As páginas eliminadas não podem ser recuperadas</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Dividir PDF</translation>
     </message>
     <message>
         <source>PageTool</source>
@@ -12692,7 +12692,7 @@ As páginas eliminadas não podem ser recuperadas</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Unir PDF</translation>
     </message>
 </context>
 <context>
