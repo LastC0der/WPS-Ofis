@@ -5711,7 +5711,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>Square</source>
@@ -7669,7 +7669,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PageZoom</source>
-        <translation>Vergrößern</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -11336,7 +11336,7 @@ scannen</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"/>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Text Marks</source>
@@ -11344,7 +11344,7 @@ scannen</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"/>
+        <translation>Zeichnung</translation>
     </message>
 </context>
 <context>
@@ -11468,7 +11468,7 @@ scannen</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <source>Organize Page</source>
@@ -11476,11 +11476,11 @@ scannen</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF aufteilen</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF zusammenführen</translation>
     </message>
     <message>
         <source>Merge and Split</source>
@@ -12677,7 +12677,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF aufteilen</translation>
     </message>
     <message>
         <source>PageTool</source>
@@ -12685,7 +12685,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF zusammenführen</translation>
     </message>
 </context>
 <context>
