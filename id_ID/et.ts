@@ -39382,7 +39382,7 @@ Bagaimana-Jika</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Hide Detail</source>
