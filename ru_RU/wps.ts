@@ -35106,6 +35106,10 @@ Size</source>
         <translation>Режим защиты глаз</translation>
     </message>
     <message>
+        <source>Views</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>View Gridlines</source>
         <translation>Сетка</translation>
     </message>
