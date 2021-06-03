@@ -5711,7 +5711,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Wyszukaj</translation>
     </message>
     <message>
         <source>Square</source>
@@ -11343,7 +11343,7 @@ telefon</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"/>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Text Marks</source>
@@ -11351,7 +11351,7 @@ telefon</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"/>
+        <translation>Rysowanie</translation>
     </message>
 </context>
 <context>
@@ -11475,7 +11475,7 @@ telefon</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Widok</translation>
     </message>
     <message>
         <source>Organize Page</source>
@@ -11483,11 +11483,11 @@ telefon</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Podziel PDF</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Połącz PDF</translation>
     </message>
     <message>
         <source>Merge and Split</source>
@@ -12683,7 +12683,7 @@ Usuniętych stron nie można odzyskać</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Podziel PDF</translation>
     </message>
     <message>
         <source>PageTool</source>
@@ -12691,7 +12691,7 @@ Usuniętych stron nie można odzyskać</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Połącz PDF</translation>
     </message>
 </context>
 <context>
