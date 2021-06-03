@@ -7663,7 +7663,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PageZoom</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>Paragraph</source>
