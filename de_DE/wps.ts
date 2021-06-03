@@ -35035,6 +35035,10 @@ bereich</translation>
         <translation>Augenschutzmodus</translation>
     </message>
     <message>
+        <source>Views</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>View Gridlines</source>
         <translation>Gitternetzlinien anzeigen</translation>
     </message>
