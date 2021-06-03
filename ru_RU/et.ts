@@ -39361,7 +39361,7 @@ Data</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Фильтр</translation>
     </message>
     <message>
         <source>Hide Detail</source>
