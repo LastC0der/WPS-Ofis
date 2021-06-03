@@ -5710,6 +5710,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Выделить</translation>
     </message>
     <message>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Square</source>
         <translation>Прямоугольник</translation>
     </message>
@@ -7665,6 +7669,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Стиль и формат</translation>
     </message>
     <message>
+        <source>PageZoom</source>
+        <translation>Увеличить</translation>
+    </message>
+    <message>
         <source>Paragraph</source>
         <translation>Абзац</translation>
     </message>
@@ -7703,6 +7711,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Translate selected</source>
         <translation>Перевести</translation>
+    </message>
+    <message>
+        <source>Page View</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
@@ -8523,6 +8535,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>PDFBackGround</source>
         <translation>Фон</translation>
+    </message>
+    <message>
+        <source>Edit Content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -11322,6 +11338,18 @@ Navigation</source>
         <source>Measure Tool</source>
         <translation>Инструмент измерения</translation>
     </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text Marks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPdfCheckBoxTipsWidget</name>
@@ -11361,8 +11389,8 @@ Navigation</source>
         <translation>Вставка</translation>
     </message>
     <message>
-        <source>Text Markup</source>
-        <translation>Разметка текста</translation>
+        <source>Text Marks</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Attachment</source>
@@ -11381,6 +11409,10 @@ Navigation</source>
         <translation>Вставить страницы</translation>
     </message>
     <message>
+        <source>InsertContent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>TextBox</source>
         <translation>Текстовое поле</translation>
     </message>
@@ -11393,12 +11425,12 @@ Navigation</source>
         <translation>Перевести</translation>
     </message>
     <message>
-        <source>Signature</source>
-        <translation>Подпись PDF</translation>
+        <source>PageMarks</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>InsertGraphic</source>
-        <translation>Вставить графический объект</translation>
+        <source>Signature</source>
+        <translation>Подпись PDF</translation>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -11433,6 +11465,29 @@ Navigation</source>
     </message>
     <message>
         <source>Docmgr</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_page</name>
+    <message>
+        <source>Views</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MergePDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge and Split</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -12627,7 +12682,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation>Разделить PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PageTool</source>
@@ -12635,7 +12690,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation>Объединить PDF</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
