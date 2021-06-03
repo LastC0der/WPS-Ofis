@@ -35007,6 +35007,10 @@ Kaydır</translation>
         <translation>Göz Koruma Modu</translation>
     </message>
     <message>
+        <source>Views</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>View Gridlines</source>
         <translation>Kılavuz Çizgilerini Görüntüle</translation>
     </message>
