@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_PT" version="2.1">
 <context>
     <name>KAccountMessageContentDlg</name>
     <message>
@@ -498,7 +496,7 @@
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -586,14 +584,6 @@ p, li { white-space: pre-wrap; }
         <translation>Serviços na Nuvem de alta qualidade</translation>
     </message>
     <message>
-        <source>Sign in to sync data between PC and phone</source>
-        <translation>Iniciar sessão para sincronizar dados entre o PC e o telemóvel</translation>
-    </message>
-    <message>
-        <source>Get all benefits of services on both PC and phone</source>
-        <translation>Obtenha todos os benefícios dos serviços no PC e no telemóvel</translation>
-    </message>
-    <message>
         <source>Enjoy the Office Privilege</source>
         <translation>Utilizar Agora</translation>
     </message>
@@ -604,10 +594,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>I am personal user</source>
         <translation>Utilizador do início de sessão</translation>
-    </message>
-    <message>
-        <source>Dozens of Premium features: PDF to Word, PDF Edit, No ADs, etc.</source>
-        <translation>Dezenas de funcionalidades Premium: PDF em Word, Edição de PDFs, Sem Anúncios, etc.</translation>
     </message>
     <message>
         <source>vipTip</source>
@@ -627,16 +613,8 @@ makes documents beautiful</source>
         <translation>Todos os benefícios do serviço no PC e no telemóvel</translation>
     </message>
     <message>
-        <source>High quality of Cloud services</source>
-        <translation>Serviços na Cloud de alta qualidade</translation>
-    </message>
-    <message>
         <source>How to become paid member?</source>
         <translation>Obter versão Premium?</translation>
-    </message>
-    <message>
-        <source>Sign in User</source>
-        <translation>Utilizador com Sessão Iniciada</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
@@ -660,18 +638,6 @@ durante 7 dias</translation>
 we will make continuous improvements</source>
         <translation>Agradecemos o seu suporte.
 Apostamos no melhoramento contínuo</translation>
-    </message>
-    <message>
-        <source>Massive templates make amazing documents</source>
-        <translation>Modelos excecionais criam documentos fantásticos</translation>
-    </message>
-    <message>
-        <source>Premium User</source>
-        <translation>Utilizador Premium</translation>
-    </message>
-    <message>
-        <source>1G Cloud space</source>
-        <translation>1 GB de espaço na Cloud</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1126,6 +1092,10 @@ Easy mobile office.</source>
         <translation>Imagens, modelos e formas online</translation>
     </message>
     <message>
+        <source>Please enter a valid email address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Wrong password</source>
         <translation>A palavra-passe está incorreta</translation>
     </message>
@@ -1138,10 +1108,6 @@ Easy mobile office.</source>
         <translation>Iniciar sessão</translation>
     </message>
     <message>
-        <source>I agree to the</source>
-        <translation>Aceito o</translation>
-    </message>
-    <message>
         <source>Server error</source>
         <translation>Erro de servidor</translation>
     </message>
@@ -1152,6 +1118,10 @@ Easy mobile office.</source>
     <message>
         <source>Wechat qrcode loading...</source>
         <translation>A carregar código QR do Wechat...</translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sign in with Facebook</source>
@@ -1176,14 +1146,6 @@ Easy mobile office.</source>
     <message>
         <source>Sign up with Email</source>
         <translation>Inscrever-se com o e-mail</translation>
-    </message>
-    <message>
-        <source>Go back to sign in</source>
-        <translation>Voltar ao início de sessão</translation>
-    </message>
-    <message>
-        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
-        <translation>Abrimos um novo separador no browser para iniciar sessão. Deve concluir a autenticação no browser. Em seguida, irá continuar automaticamente aqui. </translation>
     </message>
     <message>
         <source>Continue with Google</source>
@@ -1212,10 +1174,6 @@ Easy mobile office.</source>
     <message>
         <source>password</source>
         <translation>palavra-passe</translation>
-    </message>
-    <message>
-        <source>Cloud Services User Agreement</source>
-        <translation>Contrato do Utilizador dos Serviços na Cloud</translation>
     </message>
     <message>
         <source>No password</source>
@@ -1266,10 +1224,6 @@ Easy mobile office.</source>
         <translation>O utilizador não existe</translation>
     </message>
     <message>
-        <source>Waiting...</source>
-        <translation>A aguardar...</translation>
-    </message>
-    <message>
         <source>Invalid account</source>
         <translation>Conta inválida</translation>
     </message>
@@ -1278,16 +1232,8 @@ Easy mobile office.</source>
         <translation>Continuar com o E-mail</translation>
     </message>
     <message>
-        <source>Continue with Line</source>
-        <translation>Continuar com o Line</translation>
-    </message>
-    <message>
         <source>Share docs with others</source>
         <translation>Partilhar documentos com outros utilizadores</translation>
-    </message>
-    <message>
-        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation>Não foi possível iniciar a sessão. Volte ao início de sessão e tente novamente.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
