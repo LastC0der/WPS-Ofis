@@ -10318,7 +10318,7 @@ This change will affect all new documents based on the %1 template.</translation
     </message>
     <message>
         <source>%1 &quot;%2&quot; have been replaced by &quot;%3&quot;</source>
-        <translation>&amp;quot;%2&amp;quot; in %1  has been replaced with &amp;quot;%3&amp;quot;.</translation>
+        <translation>&quot;%2&quot; in %1  has been replaced with &quot;%3&quot;.</translation>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
@@ -35119,7 +35119,7 @@ Pane</translation>
     </message>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation>Views</translation>
     </message>
     <message>
         <source>View Gridlines</source>
