@@ -7663,7 +7663,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PageZoom</source>
-        <translation>Yakınlaştır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paragraph</source>
@@ -11476,7 +11476,7 @@ Navigation</source>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF Birleştir</translation>
     </message>
     <message>
         <source>Merge and Split</source>
@@ -12676,7 +12676,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF Birleştir</translation>
     </message>
 </context>
 <context>
