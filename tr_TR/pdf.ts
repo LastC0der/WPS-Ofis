@@ -5704,6 +5704,10 @@ Input 5-9 page 5 to page 9</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Square</source>
         <translation type="unfinished"/>
     </message>
@@ -7658,6 +7662,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Stil ve Biçim</translation>
     </message>
     <message>
+        <source>PageZoom</source>
+        <translation>Yakınlaştır</translation>
+    </message>
+    <message>
         <source>Paragraph</source>
         <translation>Paragraf</translation>
     </message>
@@ -7695,6 +7703,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Translate selected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page View</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8515,6 +8527,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDFBackGround</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit Content</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -11314,6 +11330,18 @@ Navigation</source>
         <source>Measure Tool</source>
         <translation>Ölçüm Aracı</translation>
     </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text Marks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPdfCheckBoxTipsWidget</name>
@@ -11353,7 +11381,7 @@ Navigation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Text Markup</source>
+        <source>Text Marks</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -11373,6 +11401,10 @@ Navigation</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InsertContent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>TextBox</source>
         <translation type="unfinished"/>
     </message>
@@ -11385,11 +11417,11 @@ Navigation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Signature</source>
+        <source>PageMarks</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>InsertGraphic</source>
+        <source>Signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -11425,6 +11457,29 @@ Navigation</source>
     </message>
     <message>
         <source>Docmgr</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_page</name>
+    <message>
+        <source>Views</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MergePDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge and Split</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -12621,7 +12676,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation>PDF Birleştir</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
