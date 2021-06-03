@@ -39360,6 +39360,10 @@ Data</source>
         <translation>Из Интернета</translation>
     </message>
     <message>
+        <source>Filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Hide Detail</source>
         <translation>Скрыть детали</translation>
     </message>
@@ -45056,6 +45060,10 @@ Cloud Docs</translation>
     <message>
         <source>Print Gridlines</source>
         <translation>Печать сетки</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Показать</translation>
     </message>
     <message>
         <source>Zoom</source>
