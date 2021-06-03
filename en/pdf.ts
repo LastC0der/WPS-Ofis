@@ -5701,6 +5701,10 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>Search</source>
+        <translation>Search</translation>
+    </message>
+    <message>
         <source>Square</source>
         <translation></translation>
     </message>
@@ -7655,6 +7659,10 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>PageZoom</source>
+        <translation>Zoom</translation>
+    </message>
+    <message>
         <source>Paragraph</source>
         <translation></translation>
     </message>
@@ -7693,6 +7701,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Translate selected</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Page View</source>
+        <translation>Page View</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
@@ -8513,6 +8525,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>PDFBackGround</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Edit Content</source>
+        <translation>Edit Content</translation>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -11304,6 +11320,18 @@ Navigation</source>
         <source>Measure Tool</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text Marks</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxPdfCheckBoxTipsWidget</name>
@@ -11343,7 +11371,7 @@ Navigation</source>
         <translation></translation>
     </message>
     <message>
-        <source>Text Markup</source>
+        <source>Text Marks</source>
         <translation></translation>
     </message>
     <message>
@@ -11363,6 +11391,10 @@ Navigation</source>
         <translation></translation>
     </message>
     <message>
+        <source>InsertContent</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>TextBox</source>
         <translation></translation>
     </message>
@@ -11375,11 +11407,11 @@ Navigation</source>
         <translation></translation>
     </message>
     <message>
-        <source>Signature</source>
+        <source>PageMarks</source>
         <translation></translation>
     </message>
     <message>
-        <source>InsertGraphic</source>
+        <source>Signature</source>
         <translation></translation>
     </message>
     <message>
@@ -11416,6 +11448,29 @@ Navigation</source>
     <message>
         <source>Docmgr</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_page</name>
+    <message>
+        <source>Views</source>
+        <translation>Views</translation>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation>Organize Page</translation>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation>Split PDF</translation>
+    </message>
+    <message>
+        <source>MergePDF</source>
+        <translation>Merge PDF</translation>
+    </message>
+    <message>
+        <source>Merge and Split</source>
+        <translation>Merge and Split</translation>
     </message>
 </context>
 <context>

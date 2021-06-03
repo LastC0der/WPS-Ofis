@@ -19435,7 +19435,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>SendByQQ</source>
-        <translation>SendByQQ</translation>
+        <translation></translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -39003,6 +39003,10 @@ Data</source>
         <translation></translation>
     </message>
     <message>
+        <source>Filter</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Hide Detail</source>
         <translation></translation>
     </message>
@@ -44650,6 +44654,10 @@ Center</source>
     </message>
     <message>
         <source>Print Gridlines</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show</source>
         <translation></translation>
     </message>
     <message>

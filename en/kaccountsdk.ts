@@ -1084,6 +1084,10 @@ Easy mobile office.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Please enter a valid email address</source>
+        <translation>Please enter a valid email address</translation>
+    </message>
+    <message>
         <source>Wrong password</source>
         <translation></translation>
     </message>
@@ -1106,6 +1110,10 @@ Easy mobile office.</source>
     <message>
         <source>Wechat qrcode loading...</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation>There is no account for the email you entered</translation>
     </message>
     <message>
         <source>Sign in with Facebook</source>

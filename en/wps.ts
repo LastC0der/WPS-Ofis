@@ -34899,6 +34899,10 @@ Size</source>
         <translation></translation>
     </message>
     <message>
+        <source>Views</source>
+        <translation>Views</translation>
+    </message>
+    <message>
         <source>View Gridlines</source>
         <translation></translation>
     </message>
