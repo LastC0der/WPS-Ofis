@@ -6919,7 +6919,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is a range or array of new x-values for which you want TREND to return corresponding y-values.</source>
-        <translation type="unfinished"/>
+        <translation>ilişkili y-değerlerini EĞİLİM ile bulacağınız yeni x-değerleri aralığı ya da dizisi.</translation>
     </message>
     <message>
         <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
@@ -7444,7 +7444,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the range of cells from which you want to count nonblank cells.</source>
-        <translation type="unfinished"/>
+        <translation>boş olmayan hücrelerin sayısını öğrenmek istediğiniz aralık.</translation>
     </message>
     <message>
         <source>is the initial cost of the asset.</source>
@@ -8088,7 +8088,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=mx+b.</source>
-        <translation>y=mx+b denklemindeki y-değerleri kümesi.</translation>
+        <translation>y=mx+b denklemindeki bilinen y-değerleri aralığı ya da dizisi.</translation>
     </message>
     <message>
         <source>Only integer can be used for whole number conditions.</source>
@@ -10387,7 +10387,7 @@ Please check the login account. If the account is correct, please ask the docume
     </message>
     <message>
         <source>is an optional range or array of x-values that you konw in the relationship y = mx+b, an array the same size as Know_y&apos;s.</source>
-        <translation type="unfinished"/>
+        <translation>y = mx+b denkleminde kullanılan isteğe bağlı bilinen x-değerleri aralığı ya da dizisi, Bilinen_y&apos;lerle aynı boyuttaki dizi.</translation>
     </message>
     <message>
         <source>is a table of text, number, or logical values in which data is looked up. Table_array can be a reference to a range or a range name.</source>
@@ -10804,7 +10804,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Not force the coefficient to be 0</source>
-        <translation>Katsayıyı 0 olmaya zorlamayın</translation>
+        <translation>Sabit</translation>
     </message>
     <message>
         <source>is the first text string.</source>
@@ -11445,7 +11445,7 @@ Koru</translation>
     </message>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const =TRUE or omitted; b set equal to 0 if Const = FALSE.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: Sabit = DOĞRU ya da atlanmış ise sabit b değeri olağan şekilde hesaplanır; Sabit = YANLIŞ ise b 0&apos;a eşitlenir.</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
@@ -23853,7 +23853,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Counts the number of cells within a range that meet the given condition.</source>
-        <translation type="unfinished"/>
+        <translation>Verilen koşula uyan aralık içindeki hücreleri sayar.</translation>
     </message>
     <message>
         <source>Returns the number of nonblank cells in the column of a list or database that matches the conditions you specify.</source>
@@ -39290,6 +39290,10 @@ Filtre</translation>
         <translation>Web&apos;den</translation>
     </message>
     <message>
+        <source>Filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Hide Detail</source>
         <translation>Ayrıntıyı Gizle</translation>
     </message>
@@ -44951,6 +44955,10 @@ Center</source>
     <message>
         <source>Print Gridlines</source>
         <translation>Kılavuz Çizgilerini Yazdır</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Göster</translation>
     </message>
     <message>
         <source>Zoom</source>
