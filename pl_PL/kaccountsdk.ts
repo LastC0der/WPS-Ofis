@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="pl_PL" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1">
 <context>
     <name>KAccountMessageContentDlg</name>
     <message>
@@ -496,7 +498,7 @@
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -584,6 +586,14 @@ p, li { white-space: pre-wrap; }
         <translation>Wysoka jakość usług Cloud</translation>
     </message>
     <message>
+        <source>Sign in to sync data between PC and phone</source>
+        <translation>Zaloguj się, aby zsynchronizować dane pomiędzy komputerem a telefonem</translation>
+    </message>
+    <message>
+        <source>Get all benefits of services on both PC and phone</source>
+        <translation>Korzystaj ze wszystkich zalet usług zarówno na komputerze, jak i w telefonie</translation>
+    </message>
+    <message>
         <source>Enjoy the Office Privilege</source>
         <translation>Skorzystaj teraz</translation>
     </message>
@@ -594,6 +604,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>I am personal user</source>
         <translation>Użytkownik logowania</translation>
+    </message>
+    <message>
+        <source>Dozens of Premium features: PDF to Word, PDF Edit, No ADs, etc.</source>
+        <translation>Dziesiątki funkcji Premium, w tym konwersja plików PDF na Word, edycja PDF, zero reklam i inne</translation>
     </message>
     <message>
         <source>vipTip</source>
@@ -613,8 +627,16 @@ makes documents beautiful</source>
         <translation>Uzyskaj wszystkie korzyści z obsługi zarówno na komputerze, jak i w telefonie</translation>
     </message>
     <message>
+        <source>High quality of Cloud services</source>
+        <translation>Wysoka jakość usług Cloud</translation>
+    </message>
+    <message>
         <source>How to become paid member?</source>
         <translation>Przejść na Premium?</translation>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation>Użytkownik zalogowany</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
@@ -638,6 +660,18 @@ wersja próbna</translation>
 we will make continuous improvements</source>
         <translation>Dziękujemy za wsparcie,
 będziemy wprowadzać ciągłe ulepszenia</translation>
+    </message>
+    <message>
+        <source>Massive templates make amazing documents</source>
+        <translation>Dzięki rozbudowanym szablonom możesz tworzyć niesamowite dokumenty</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation>Użytkownik Premium</translation>
+    </message>
+    <message>
+        <source>1G Cloud space</source>
+        <translation>1 GB przestrzeni w usłudze Cloud</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1104,6 +1138,10 @@ Easy mobile office.</source>
         <translation>Zaloguj się</translation>
     </message>
     <message>
+        <source>I agree to the</source>
+        <translation>Zgadzam się na postanowienia</translation>
+    </message>
+    <message>
         <source>Server error</source>
         <translation>Błąd serwera</translation>
     </message>
@@ -1140,6 +1178,14 @@ Easy mobile office.</source>
         <translation>Zarejestruj się za pomocą adresu e-mail</translation>
     </message>
     <message>
+        <source>Go back to sign in</source>
+        <translation>Wróć do logowania</translation>
+    </message>
+    <message>
+        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
+        <translation>Została otwarta nowa karta przeglądarki, na której możesz się zalogować. Gdy dokończysz proces uwierzytelniania w przeglądarce, automatycznie przejdziesz tutaj. </translation>
+    </message>
+    <message>
         <source>Continue with Google</source>
         <translation>Kontynuuj przez Google</translation>
     </message>
@@ -1166,6 +1212,10 @@ Easy mobile office.</source>
     <message>
         <source>password</source>
         <translation>hasło</translation>
+    </message>
+    <message>
+        <source>Cloud Services User Agreement</source>
+        <translation>Umowy użytkownika o świadczenie usług Cloud</translation>
     </message>
     <message>
         <source>No password</source>
@@ -1216,6 +1266,10 @@ Easy mobile office.</source>
         <translation>Użytkownik nie istnieje</translation>
     </message>
     <message>
+        <source>Waiting...</source>
+        <translation>Oczekiwanie...</translation>
+    </message>
+    <message>
         <source>Invalid account</source>
         <translation>Nieprawidłowe konto</translation>
     </message>
@@ -1224,8 +1278,16 @@ Easy mobile office.</source>
         <translation>Kontynuuj przez adres e-mail</translation>
     </message>
     <message>
+        <source>Continue with Line</source>
+        <translation>Kontynuuj przez Line</translation>
+    </message>
+    <message>
         <source>Share docs with others</source>
         <translation>Udostępnij dokumenty innym użytkownikom</translation>
+    </message>
+    <message>
+        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
+        <translation>Logowanie nie powiodło się. Wróć do logowania i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>

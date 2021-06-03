@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="pl_PL" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1">
 <context>
     <name>KxPdfExtractPageTask</name>
     <message>
@@ -545,10 +547,6 @@ Przykład: 1,3,5-12.</translation>
         <translation>Rozmiar (&amp;S):</translation>
     </message>
     <message>
-        <source>Mult Row:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
@@ -728,10 +726,6 @@ Przykład: 1,3,5-12.</translation>
         <translation>Dopasuj do marginesów wydruku</translation>
     </message>
     <message>
-        <source>InsertWatermarkForCurrentDocument</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>ShrinkBigsize</source>
         <translation>Zmniejsz za duże strony</translation>
     </message>
@@ -818,6 +812,18 @@ Przykład: 1,3,5-12.</translation>
     <message>
         <source>Only Print Out the Document</source>
         <translation>Drukuj tylko dokument</translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Microsoft YaHei&apos;; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;eg:1-5,7,9-10&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Microsoft YaHei&apos;; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;eg:1-5,7,9-10&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>逐份打印</source>
@@ -1040,118 +1046,6 @@ Przykład: 1,3,5-12.</translation>
     <message>
         <source>页面大小</source>
         <translation>Rozmiar</translation>
-    </message>
-    <message>
-        <source>1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>All</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>打印方式</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>打印份数</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>页面设置</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>页面选择</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>打印颜色</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Current view</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>页面选择：</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Color Print</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>缩放比例</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Microsoft YaHei'; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;eg:1-5,7,9-10&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Microsoft YaHei&apos;; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;eg:1-5,7,9-10&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Page Select</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Current viewPage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>自动双面打印</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>纸张大小和方向</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>打印机选择</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>颜色：</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Gray Print</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Switch SipmleMode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Switch ComplexMode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>页面内容和范围选择</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>双面打印</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>取消</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>属性</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1493,105 +1387,6 @@ p, li { white-space: pre-wrap; }
         <source>Record last Position</source>
         <translation>Pamiętaj ostatnią pozycję odczytu</translation>
     </message>
-    <message>
-        <source>Association settings</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfToConvertTxtDialog</name>
-    <message>
-        <source>1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>p</source>
-        <translation>Strona</translation>
-    </message>
-    <message>
-        <source>to</source>
-        <translation>do</translation>
-    </message>
-    <message>
-        <source>retry</source>
-        <translation>Spróbuj ponownie</translation>
-    </message>
-    <message>
-        <source>CustomDirectory</source>
-        <translation>Katalog niestandardowy</translation>
-    </message>
-    <message>
-        <source>TheSameDirectoryAsPDF</source>
-        <translation>Ten sam katalog co plik PDF</translation>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation>Anuluj</translation>
-    </message>
-    <message>
-        <source>The conversion failed! Error code:%1</source>
-        <translation>Nie można konwertować. Kod błędu: %1</translation>
-    </message>
-    <message>
-        <source>OpenFile</source>
-        <translation>Otwórz plik</translation>
-    </message>
-    <message>
-        <source>PDF to TXT</source>
-        <translation>PDF na TXT</translation>
-    </message>
-    <message>
-        <source>KxPdfToConvertTxtDialog</source>
-        <translation>Konwertuj PDF na txt</translation>
-    </message>
-    <message>
-        <source>The conversion of the %1 has been completed</source>
-        <translation>Zakończono konwersję pliku „%1”</translation>
-    </message>
-    <message>
-        <source>pageDir：</source>
-        <translation>Katalog stron:</translation>
-    </message>
-    <message>
-        <source>Only Conversion 5 Pages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Conversion is VIP exclusive privilege</source>
-        <translation>Konwersja na PDF to funkcja Premium</translation>
-    </message>
-    <message>
-        <source>PDF Conversion TXT is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>feedback</source>
-        <translation>Opinia</translation>
-    </message>
-    <message>
-        <source>pageSr：</source>
-        <translation>Zakres stron:</translation>
-    </message>
-    <message>
-        <source>OpenDirectory</source>
-        <translation>Otwórz katalog</translation>
-    </message>
-    <message>
-        <source>转换</source>
-        <translation>Konwertuj</translation>
-    </message>
-    <message>
-        <source>Please enter a valid page range</source>
-        <translation>Wprowadź prawidłowy numer strony!</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>PdfFindFuncItem</name>
@@ -1775,14 +1570,6 @@ p, li { white-space: pre-wrap; }
         <translation>Błąd danych obrazu. Ponownie wybierz plik źródłowy.</translation>
     </message>
     <message>
-        <source>Effect1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Effect2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Only %1 watermark settings can be saved at most.</source>
         <translation>Maksymalna liczba zapisywanych ustawień znaków wodnych to %1.</translation>
     </message>
@@ -1824,14 +1611,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>modify title</source>
         <translation>Zmień tytuł</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reply</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1884,20 +1663,12 @@ p, li { white-space: pre-wrap; }
         <translation>Cofnij</translation>
     </message>
     <message>
-        <source>foot</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>inch</source>
         <translation>cal</translation>
     </message>
     <message>
         <source>pica</source>
         <translation>Strona</translation>
-    </message>
-    <message>
-        <source>yard</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>TwoTimesSpeedScrollDown</source>
@@ -1908,17 +1679,8 @@ p, li { white-space: pre-wrap; }
         <translation>Przycinanie</translation>
     </message>
     <message>
-        <source>This file is signatured and can&apos;t edit.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Copying text</source>
         <translation>Kopiuj tekst</translation>
-    </message>
-    <message>
-        <source>You have selected too many erase pages(&gt;1). Please batches operations</source>
-        <comment>_Pdf_Waring_Too_Many_Erase_Pages</comment>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please check your network connection or restart Jinshan PDF and try again.</source>
@@ -1939,14 +1701,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Title</source>
         <translation>Tytuł</translation>
-    </message>
-    <message>
-        <source>meter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The current document is encoded incorrectly, and the converted content may be garbled</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>pound</source>
@@ -2002,10 +1756,6 @@ Please batches operations</source>
         <translation>Przejdź do edycji</translation>
     </message>
     <message>
-        <source>The current document font is abnormal, and the conversion content may be duplicated</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Do you want to close the current tab or all tabs?</source>
         <translation>Czy chcesz zamknąć bieżącą kartę, czy wszystkie karty?</translation>
     </message>
@@ -2016,14 +1766,6 @@ Please batches operations</source>
     <message>
         <source>Are you sure to delete the selected page?The operation is irrevocable</source>
         <translation>Czy na pewno chcesz usunąć wybrane strony? Tej operacji nie można cofnąć.</translation>
-    </message>
-    <message>
-        <source>No matches found. The font of the current document is abnormal. The content of the document may not be found normally.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>BackupFile</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Confirm Delete</source>
@@ -2046,31 +1788,6 @@ Please batches operations</source>
         <translation>Nie można zaleźć czcionki „%s”. Niektóre znaki mogą być wyświetlane lub drukowane nieprawidłowo.</translation>
     </message>
     <message>
-        <source>Repair Document</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF electronic invoice print loading failed.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Backup Failed!May lack of Memory,please change Location!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>kilometre</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Continue Convert</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You have selected too many pages to move(&gt;50).
-Please batches operations</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>The text of the current editor has not been saved yet. Inserting the page will cause the edited content to be lost.</source>
         <translation>Aktualnie edytowana treść nie została zapisana. Wstawienie strony spowoduje utratę edytowanej treści.</translation>
     </message>
@@ -2079,28 +1796,18 @@ Please batches operations</source>
         <translation>Nie można załadować funkcji PDF Compress.</translation>
     </message>
     <message>
-        <source>Document splitting in progress</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The current buckup document need to be saved before print.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>return clip current page</source>
         <translation>Wróć do obszaru przycinania</translation>
-    </message>
-    <message>
-        <source>You have selected too many insertion points(&gt;50). Please batches operations</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Whether to save the current document after exiting the correction</source>
         <translation>Czy po zamknięciu funkcji korekty chcesz zapisać jej bieżący efekt?</translation>
     </message>
     <message>
-        <source>The font of the current document is abnormal, and the converted content may be blank</source>
-        <translation type="unfinished"/>
+        <source>You have selected too many pages to move(&gt;50).
+Please batches operations</source>
+        <comment>_Pdf_Waring_Too_Many_Move_Nodes</comment>
+        <translation>Wybrano zbyt wiele stron do przeniesienia (powyżej 50). Wybieraj strony partiami.</translation>
     </message>
     <message>
         <source>TwoTimesSpeedScrollUp</source>
@@ -2155,6 +1862,11 @@ Please batches operations</source>
         <translation>Identyfikuje tekst na bieżącej stronie</translation>
     </message>
     <message>
+        <source>Changes would not be undone after saving as compression, sure to continue?</source>
+        <comment>_PdDocument_SaveAsEditContent</comment>
+        <translation>Po skompresowaniu i zapisaniu dokumentu nie będzie można cofnąć zmian. Czy chcesz kontynuować?</translation>
+    </message>
+    <message>
         <source>TranslateToDocBottom</source>
         <translation>Ostatnia strona</translation>
     </message>
@@ -2171,8 +1883,9 @@ Please batches operations</source>
         <translation>Tak(Y)</translation>
     </message>
     <message>
-        <source>PDF invoice assist loading failed.</source>
-        <translation type="unfinished"/>
+        <source>This file is signatured and can&apos;t edit.</source>
+        <comment>_PdDocument_IsSignatureCanntEdit</comment>
+        <translation>Plik został podpisany cyfrowo i nie można go edytować.</translation>
     </message>
     <message>
         <source>FoldNote</source>
@@ -2187,17 +1900,17 @@ Please batches operations</source>
         <translation>Rozwiń notatkę...</translation>
     </message>
     <message>
-        <source>Redo Clip</source>
-        <comment>PdfClipPageRedoComplete</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>clip page is editing, return clip rect for operation</source>
         <translation>Trwa edytowanie przycinanej strony, nastąpi powrót do obszaru przycinania dla operacji</translation>
     </message>
     <message>
         <source>ConvertWordDocument</source>
         <translation>Konwertuj na plik programu Word</translation>
+    </message>
+    <message>
+        <source>Extracting text</source>
+        <comment>_PdDocument_ExtractingText</comment>
+        <translation>Wyodrębnij tekst</translation>
     </message>
     <message>
         <source>PDFNOErrorPictures</source>
@@ -2216,16 +1929,8 @@ Please batches operations</source>
         <translation>Czcionki type3 nie są obsługiwane przy edycji.</translation>
     </message>
     <message>
-        <source>Changes would not be undone after saving as compression, sure to continue?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>If the information the site, click &quot; Allow &quot;, otherwise select &quot; Disable &quot; </source>
         <translation>Jeśli ufasz tej witrynie, kliknij przycisk Zezwól. W innym wypadku kliknij przycisk Anuluj.</translation>
-    </message>
-    <message>
-        <source>square</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddText</source>
@@ -2240,36 +1945,21 @@ Please batches operations</source>
         <translation>Przejdź do usuwania</translation>
     </message>
     <message>
+        <source>Identifying editable text</source>
+        <comment>_PdDocument_EditTextFile</comment>
+        <translation>Identyfikowanie tekstu dostępnego do edycji</translation>
+    </message>
+    <message>
         <source>Continue to insert</source>
         <translation>Przejdź do wstawiania</translation>
-    </message>
-    <message>
-        <source>ScanFileEidtVipTips</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PaperCheck loading failed.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>The current document need to be saved before extracted.</source>
         <translation>Przed wyodrębnieniem dokument trzeba zapisać.</translation>
     </message>
     <message>
-        <source>No matches found. The current document encoding is missing, and the document content may not be found properly</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Save changes to %s before closing?</source>
         <translation>Czy zapisać zmiany w „%s” przed zamknięciem?</translation>
-    </message>
-    <message>
-        <source>Identifying editable text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The document is Picture, You can only add text.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>The signature cannot be verified.</source>
@@ -2296,14 +1986,6 @@ Please batches operations</source>
 The operation is irrevocable</source>
         <translation>Czy na pewno chcesz usunąć wybraną stronę?
 Tej operacji nie można cofnąć.</translation>
-    </message>
-    <message>
-        <source>Software Aborted last time, will u want backup?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The split rect width and height below 0.15cm</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>The clip rect is invalid!</source>
@@ -2366,12 +2048,22 @@ Tej operacji nie można cofnąć.</translation>
         <translation>Cofnij przycinanie</translation>
     </message>
     <message>
-        <source>The encoding of the current document is missing, and the converted content may be garbled</source>
-        <translation type="unfinished"/>
+        <source>Encryption will take effect after the document is saved</source>
+        <translation>Szyfrowanie zacznie obowiązywać po zapisaniu dokumentu</translation>
     </message>
     <message>
         <source>Editing text cannot be used to vertical objects.</source>
         <translation>Nie można edytować tekstu w obiektach pionowych.</translation>
+    </message>
+    <message>
+        <source>You have selected too many insertion points(&gt;50). Please batches operations</source>
+        <comment>_Pdf_Waring_Too_Many_Insert_Nodes</comment>
+        <translation>Wybrano zbyt wiele punktów wstawienia (powyżej 50).&lt;br&gt; Wybieraj punkty partiami.</translation>
+    </message>
+    <message>
+        <source>Software Aborted last time, will u want backup?</source>
+        <comment>_PdDocument_QueryBackup</comment>
+        <translation>Wygląda na to, że dokument PDF został nieprawidłowo zamknięty. Czy chcesz odzyskać pliki z kopii zapasowej?</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -2395,16 +2087,17 @@ Tej operacji nie można cofnąć.</translation>
         <translation>Aby zakończyć, naciśnij klawisz Esc.</translation>
     </message>
     <message>
+        <source>Backup Failed!May lack of Memory,please change Location!</source>
+        <comment>_PdDocument_BackupFailed</comment>
+        <translation>Nie można wykonać kopii zapasowej. Dysk, na którym jest przechowywany plik kopii zapasowej, nie istnieje lub ma za mało dostępnej pamięci. Zmień lokalizację pliku kopii zapasowej w sekcji Ustawienia — Kopia zapasowa pliku.</translation>
+    </message>
+    <message>
         <source>&amp;Open copy</source>
         <translation>&amp;Otwórz kopię</translation>
     </message>
     <message>
         <source>The current document need to be saved before compressed.</source>
         <translation>Należy zapisać bieżący dokument przed kompresją.</translation>
-    </message>
-    <message>
-        <source>Cannot open this file &quot;%s&quot;, Please check that source files are available!</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>unnamed</source>
@@ -2447,21 +2140,12 @@ Tej operacji nie można cofnąć.</translation>
         <translation>Bieżący dokument PDF jest obrazem lub zeskanowaną kopią dokumentu. Użyj funkcji inteligentnego wyodrębniania.</translation>
     </message>
     <message>
-        <source>Ebook does not support print function</source>
-        <comment>_EbookDocument_NotSupport_Print</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>The current document needs to be saved to use this feature.</source>
         <translation>Aby skorzystać z tej funkcji, trzeba zapisać bieżący dokument.</translation>
     </message>
     <message>
         <source>The clip rect width and height below 0.15cm</source>
         <translation>Obszar przycinania nie może być mniejszy niż 0,15 cm</translation>
-    </message>
-    <message>
-        <source>The current buckup document need to be saved before print or share.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cannot correct,Non-scanning correction may reduce document quality,recommended cropping.</source>
@@ -2474,10 +2158,6 @@ Tej operacji nie można cofnąć.</translation>
     <message>
         <source>cancle return</source>
         <translation>Rozumiem</translation>
-    </message>
-    <message>
-        <source>PDF Post Match function loading failed.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>All links will be removed, Do you want to continue?</source>
@@ -2516,19 +2196,6 @@ Tej operacji nie można cofnąć.</translation>
         <translation>Plik nieobsługiwany lub uszkodzony.</translation>
     </message>
     <message>
-        <source>Extracting text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document Repair</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Encryption will take effect after the document is saved</source>
-        <comment>_Pdf_Waring_Key_Effect_Need_Save</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Redo</source>
         <comment>PopupMenu</comment>
         <translation>Wykonaj ponownie</translation>
@@ -2538,17 +2205,8 @@ Tej operacji nie można cofnąć.</translation>
         <translation>Bieżący dokument należy zapisać, aby go wydrukować.</translation>
     </message>
     <message>
-        <source>%1year%2mon%3day</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>WPPFile(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx</source>
         <translation>Format Demo/PowerPoint (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx</translation>
-    </message>
-    <message>
-        <source>Complete Segment</source>
-        <comment>PdfSegmentPageComplete</comment>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>This file may contain or harm you change the machine program, if allowed to run?</source>
@@ -2559,10 +2217,6 @@ Tej operacji nie można cofnąć.</translation>
         <translation>Aktualnie edytowana treść nie została zapisana. Usunięcie strony spowoduje utratę edytowanej treści.</translation>
     </message>
     <message>
-        <source>No matches found. The current document is encoded incorrectly, and the content of the document may not be found properly</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>because the password is not correct.</source>
         <translation>Hasło jest nieprawidłowe.</translation>
     </message>
@@ -2570,25 +2224,12 @@ Tej operacji nie można cofnąć.</translation>
         <source>plugin Loading, please try angin.</source>
         <translation>Czekaj — trwa ładowanie narzędzi PDF.</translation>
     </message>
-    <message>
-        <source>You have selected too many insertion points(&gt;50).
-Please batches operations</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Encryption will take effect after the document is saved</source>
-        <translation>Szyfrowanie zacznie obowiązywać po zapisaniu dokumentu</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfMeasureScaleDlg</name>
     <message>
         <source>=</source>
         <translation>=</translation>
-    </message>
-    <message>
-        <source>foot</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>inch</source>
@@ -2599,16 +2240,8 @@ Please batches operations</source>
         <translation>Strona</translation>
     </message>
     <message>
-        <source>yard</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Scale</source>
         <translation>Skala:</translation>
-    </message>
-    <message>
-        <source>meter</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>pound</source>
@@ -2617,14 +2250,6 @@ Please batches operations</source>
     <message>
         <source>millimeter</source>
         <translation>mm</translation>
-    </message>
-    <message>
-        <source>kilometre</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Input error</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>custom</source>
@@ -2640,6 +2265,81 @@ Please batches operations</source>
     <message>
         <source>&gt;</source>
         <translation>&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfToConvertTxtDialog</name>
+    <message>
+        <source>p</source>
+        <translation>Strona</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>do</translation>
+    </message>
+    <message>
+        <source>retry</source>
+        <translation>Spróbuj ponownie</translation>
+    </message>
+    <message>
+        <source>CustomDirectory</source>
+        <translation>Katalog niestandardowy</translation>
+    </message>
+    <message>
+        <source>TheSameDirectoryAsPDF</source>
+        <translation>Ten sam katalog co plik PDF</translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>The conversion failed! Error code:%1</source>
+        <translation>Nie można konwertować. Kod błędu: %1</translation>
+    </message>
+    <message>
+        <source>OpenFile</source>
+        <translation>Otwórz plik</translation>
+    </message>
+    <message>
+        <source>PDF to TXT</source>
+        <translation>PDF na TXT</translation>
+    </message>
+    <message>
+        <source>KxPdfToConvertTxtDialog</source>
+        <translation>Konwertuj PDF na txt</translation>
+    </message>
+    <message>
+        <source>The conversion of the %1 has been completed</source>
+        <translation>Zakończono konwersję pliku „%1”</translation>
+    </message>
+    <message>
+        <source>pageDir：</source>
+        <translation>Katalog stron:</translation>
+    </message>
+    <message>
+        <source>PDF Conversion is VIP exclusive privilege</source>
+        <translation>Konwersja na PDF to funkcja Premium</translation>
+    </message>
+    <message>
+        <source>feedback</source>
+        <translation>Opinia</translation>
+    </message>
+    <message>
+        <source>pageSr：</source>
+        <translation>Zakres stron:</translation>
+    </message>
+    <message>
+        <source>OpenDirectory</source>
+        <translation>Otwórz katalog</translation>
+    </message>
+    <message>
+        <source>转换</source>
+        <translation>Konwertuj</translation>
+    </message>
+    <message>
+        <source>Please enter a valid page range</source>
+        <translation>Wprowadź prawidłowy numer strony!</translation>
     </message>
 </context>
 <context>
@@ -2862,16 +2562,8 @@ Please batches operations</source>
         <translation>OK</translation>
     </message>
     <message>
-        <source>Diss</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Dialog</source>
         <translation>Okno dialogowe</translation>
-    </message>
-    <message>
-        <source>Are you satisfied with the result?</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
@@ -3038,18 +2730,6 @@ Podanie zakresu 5-9 spowoduje wyodrębnienie stron od 5 do 9.</translation>
     <message>
         <source>seledef delete pages</source>
         <translation>Niestandardowe usuwanie stron</translation>
-    </message>
-    <message>
-        <source>to</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>delete input pages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>/%1pages</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3427,18 +3107,6 @@ Zmień jedno z nich.</translation>
         <source>set edit and extract key</source>
         <translation>Ustaw hasło do edytowania i wyodrębniania</translation>
     </message>
-    <message>
-        <source>encrypt all func</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>edit and extract page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>set edit key</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfErrorDialog</name>
@@ -3557,22 +3225,6 @@ Wstawione strony musisz usunąć samodzielnie.</translation>
     <message>
         <source>Insert 5 or more pages of the document is VIP function, please upgrade VIP</source>
         <translation>Dodaj ponad 5 stron to funkcja VIP. Zarejestruj się, aby uzyskać członkostwo.</translation>
-    </message>
-    <message>
-        <source>Insert 5 or more pages of the document is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>has checked %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>total %1 pages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>has no checked pages</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3771,62 +3423,6 @@ Input 1-10 to insert from page 1 to page 10</source>
         <source>A2 (420x594mm)</source>
         <translation>A2 (420 x 594 mm)</translation>
     </message>
-    <message>
-        <source>More</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>insert:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>after</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DocumentEndPage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>FilePages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>filePath:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>has checked %1 </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PlugInSelectedPage:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>total %1 pages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>before</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>BlankPage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>insertNode:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DocumentHomePage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>CurrentSelectedPages</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfMainWindow</name>
@@ -3835,16 +3431,8 @@ Input 1-10 to insert from page 1 to page 10</source>
         <translation>OK</translation>
     </message>
     <message>
-        <source>Press ESC to exit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Discard Changes</source>
         <translation>Odrzuć zmiany</translation>
-    </message>
-    <message>
-        <source>&quot;%1&quot; is VIP function, please login</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move page is WPS membership function,will you 
@@ -3864,20 +3452,8 @@ upgrade to WPS VIP?</source>
         <translation>Funkcje Podziel plik PDF, Scal plik PDF, Usuń stronę, Zastąp stronę, Wyodrębnij stronę przeniesiono do menu Strona.</translation>
     </message>
     <message>
-        <source>This location contains special controls (JavaScript) that can be filled in normally after downloading the plug-in.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>edit member prompt</source>
         <translation>„Edytowanie” to funkcja WPS Premium</translation>
-    </message>
-    <message>
-        <source>Text query has been moved here</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>edit image is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
@@ -3886,14 +3462,6 @@ upgrade to WPS VIP?</source>
     <message>
         <source>Eraser</source>
         <translation>Gumka</translation>
-    </message>
-    <message>
-        <source>edit text is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&quot;%1&quot; is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>No prompt</source>
@@ -3908,18 +3476,6 @@ upgrade to WPS VIP?</source>
         <translation>Tylko członkowie WPS mogą używać funkcji korektora</translation>
     </message>
     <message>
-        <source>Why pay to edit text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Your membership has expired</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>login immediately</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>EditText</source>
         <translation>Edytuj tekst</translation>
     </message>
@@ -3928,20 +3484,8 @@ upgrade to WPS VIP?</source>
         <translation>Edytuj obraz</translation>
     </message>
     <message>
-        <source>save immediately</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Correction fluid is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Correction Extraction login prompt</source>
         <translation>„Wyodrębnienie tekstu” to funkcja WPS Premium</translation>
-    </message>
-    <message>
-        <source>Your member has expired, it is recommended that you save the modified content immediately</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move page is WPS membership function,Do you 
@@ -3949,20 +3493,8 @@ log in to save changes?</source>
         <translation>Przenoszenie strony to funkcja wymagająca członkostwa WPS. Czy chcesz się zalogować, aby zapisać zmiany?</translation>
     </message>
     <message>
-        <source>%1year%2mon%3day</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>This location contains the form, whether to fill in the form or not?</source>
         <translation>Ta pozycja zawiera formularz. Czy chcesz wypełnić formularz?</translation>
-    </message>
-    <message>
-        <source>Correction member prompt</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Correction fluid login prompt</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4120,10 +3652,6 @@ log in to save changes?</source>
         <source>PwdPlaceholderText</source>
         <translation>Wprowadź hasło</translation>
     </message>
-    <message>
-        <source>Password:</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfPropertyDialog</name>
@@ -4154,10 +3682,6 @@ log in to save changes?</source>
     <message>
         <source>Printing:</source>
         <translation>Drukowanie:</translation>
-    </message>
-    <message>
-        <source>Scanning Copy:</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Keywords:</source>
@@ -4331,10 +3855,6 @@ log in to save changes?</source>
         <source>Extract:</source>
         <translation>Wyodrębnij:</translation>
     </message>
-    <message>
-        <source> CM</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfScanDialogWidget</name>
@@ -4349,10 +3869,6 @@ log in to save changes?</source>
     <message>
         <source>custom WaterMark</source>
         <translation>Własny znak wodny</translation>
-    </message>
-    <message>
-        <source>Scanner not detected, scanner may not be connected or drive not installed properly.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>kso WaterMark</source>
@@ -4421,6 +3937,14 @@ log in to save changes?</source>
         <translation>Zakres Stron</translation>
     </message>
     <message>
+        <source>Signature Apply</source>
+        <translation>Zastosuj podpis</translation>
+    </message>
+    <message>
+        <source>Signature apply</source>
+        <translation>Zastosuj podpis</translation>
+    </message>
+    <message>
         <source>Odd page</source>
         <translation>Strony nieparzyste</translation>
     </message>
@@ -4443,14 +3967,6 @@ log in to save changes?</source>
     <message>
         <source>Apply other page</source>
         <translation>Zastosuj do innych stron</translation>
-    </message>
-    <message>
-        <source>Signature Apply</source>
-        <translation>Zastosuj podpis</translation>
-    </message>
-    <message>
-        <source>Signature apply</source>
-        <translation>Zastosuj podpis</translation>
     </message>
 </context>
 <context>
@@ -4571,13 +4087,12 @@ log in to save changes?</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <source>The font &apos;</source>
-        <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>add Image</source>
         <translation>Dodaj obraz</translation>
+    </message>
+    <message>
+        <source>The font &apos;</source>
+        <translation>Czcionka „</translation>
     </message>
     <message>
         <source>NewSignature</source>
@@ -4606,10 +4121,6 @@ log in to save changes?</source>
     <message>
         <source>CheckBox</source>
         <translation>Pole wyboru</translation>
-    </message>
-    <message>
-        <source>The font &apos;</source>
-        <translation>Czcionka „</translation>
     </message>
 </context>
 <context>
@@ -4725,10 +4236,6 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Yes</source>
         <translation>Tak</translation>
-    </message>
-    <message>
-        <source>Cannot find waterMark that can be removed in the file.If you can see the watermark, it cannot be deleted because it is not a standard watermark format.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cannot find waterMark that can be removed in the file.&lt;br/&gt;The waterMark may not be added through kingsoft PDF.</source>
@@ -5040,20 +4547,8 @@ Input 5-9 page 5 to page 9</source>
         <translation>ok</translation>
     </message>
     <message>
-        <source>Same path</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Custom path</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>cancel</source>
         <translation>anuluj</translation>
-    </message>
-    <message>
-        <source>Output directory:</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save format:</source>
@@ -5118,20 +4613,36 @@ Input 5-9 page 5 to page 9</source>
         <translation>Kropka</translation>
     </message>
     <message>
-        <source>FormFillingDate Point</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>1 pt</source>
         <translation>1 pt</translation>
+    </message>
+    <message>
+        <source>1.25</source>
+        <translation>1,25</translation>
+    </message>
+    <message>
+        <source>1.75</source>
+        <translation>1,75</translation>
     </message>
     <message>
         <source>100%</source>
         <translation>Rozmiar rzeczywisty</translation>
     </message>
     <message>
+        <source>2 pt</source>
+        <translation>2 pt</translation>
+    </message>
+    <message>
+        <source>4 pt</source>
+        <translation>4 pt</translation>
+    </message>
+    <message>
         <source>6 pt</source>
         <translation>6 pt</translation>
+    </message>
+    <message>
+        <source>8 pt</source>
+        <translation>8 pt</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -5198,6 +4709,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Powiększ</translation>
     </message>
     <message>
+        <source>Combine PDF</source>
+        <translation>Połącz PDF</translation>
+    </message>
+    <message>
         <source>Align Right</source>
         <translation>Wyrównaj do prawej</translation>
     </message>
@@ -5220,6 +4735,14 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Edit PDF New</source>
         <translation>Edytuj PDF</translation>
+    </message>
+    <message>
+        <source>10 pt</source>
+        <translation>10 pt</translation>
+    </message>
+    <message>
+        <source>12 pt</source>
+        <translation>12 pt</translation>
     </message>
     <message>
         <source>14 pt</source>
@@ -5326,6 +4849,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Wyróżnij tekst</translation>
     </message>
     <message>
+        <source>Add new outline</source>
+        <translation>Dodaj zakładkę</translation>
+    </message>
+    <message>
         <source>TemplatesPrint</source>
         <translation>Szablony druku</translation>
     </message>
@@ -5340,10 +4867,6 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>EbookReadType</source>
         <translation>Ustawienia widoku</translation>
-    </message>
-    <message>
-        <source>resizepage</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -5450,10 +4973,6 @@ Input 5-9 page 5 to page 9</source>
         <translation>Podgląd linku</translation>
     </message>
     <message>
-        <source>FormFillingDate Backslash</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>ClipPage</source>
         <translation>Przytnij stronę</translation>
     </message>
@@ -5512,10 +5031,6 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>MenuHandTool</source>
         <translation>Narzędzie dłoni</translation>
-    </message>
-    <message>
-        <source>AIOCR2PDF</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image2Bottom</source>
@@ -5708,6 +5223,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>FormFilling Check</source>
         <translation>Zaznacz</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Wyszukaj</translation>
     </message>
     <message>
         <source>Square</source>
@@ -5922,10 +5441,6 @@ Input 5-9 page 5 to page 9</source>
         <translation>-1x prędkość</translation>
     </message>
     <message>
-        <source>FormFillingDate Ch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>ClipPageRange</source>
         <translation>Zakres Stron</translation>
     </message>
@@ -5948,10 +5463,6 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>MenuSelectionTool</source>
         <translation>Narzędzie zaznaczania</translation>
-    </message>
-    <message>
-        <source>Copy Text</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image Rotate Right</source>
@@ -6016,6 +5527,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>FloatClose</source>
         <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Create PDF</source>
+        <translation>Utwórz PDF</translation>
     </message>
     <message>
         <source>FloatZoom%</source>
@@ -6310,10 +5825,6 @@ Input 5-9 page 5 to page 9</source>
         <translation>%1-%2-%3</translation>
     </message>
     <message>
-        <source>PDFToWord</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Feedback</source>
         <translation>Opinia</translation>
     </message>
@@ -6589,54 +6100,6 @@ Input 5-9 page 5 to page 9</source>
         <source>ExitSplitPage</source>
         <translation>Opuść dzielenie strony</translation>
     </message>
-    <message>
-        <source>1.25</source>
-        <translation>1,25</translation>
-    </message>
-    <message>
-        <source>1.75</source>
-        <translation>1,75</translation>
-    </message>
-    <message>
-        <source>2 pt</source>
-        <translation>2 pt</translation>
-    </message>
-    <message>
-        <source>4 pt</source>
-        <translation>4 pt</translation>
-    </message>
-    <message>
-        <source>8 pt</source>
-        <translation>8 pt</translation>
-    </message>
-    <message>
-        <source>10 pt</source>
-        <translation>10 pt</translation>
-    </message>
-    <message>
-        <source>12 pt</source>
-        <translation>12 pt</translation>
-    </message>
-    <message>
-        <source>Add new outline</source>
-        <translation>Dodaj zakładkę</translation>
-    </message>
-    <message>
-        <source>pdfconvertword</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDFToPPT</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDFToExcel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Exit This Time</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfLinkWarningWidget</name>
@@ -6652,207 +6115,13 @@ Input 5-9 page 5 to page 9</source>
         <source>SecurityWarning</source>
         <translation>Ostrzeżenie dotyczące zabezpieczeń</translation>
     </message>
-    <message>
-        <source>%1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Documents are trying to connect:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>If you trust this connection, select &quot;Allow.&quot; Otherwise, select &quot;Cancel.&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QObject</name>
-    <message>
-        <source>Ink</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Line</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Arrow</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cloud</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Popup</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Stamp</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fit Page</source>
-        <translation>Dopasuj rozmiar</translation>
-    </message>
-    <message>
-        <source>Perimeter Measurement</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cur page num</source>
-        <translation>Strona:%1</translation>
-    </message>
-    <message>
-        <source>Recent Fonts</source>
-        <translation>Ostatnio używane czcionki</translation>
-    </message>
-    <message>
-        <source>Circle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Square</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>FullTextSearch</source>
-        <translation>Wyszukiwanie pełnotekstowe</translation>
-    </message>
-    <message>
-        <source>The source file has been modified,Please search again.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Polyline</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fit Width</source>
-        <translation>Dopasuj szerokość</translation>
-    </message>
-    <message>
-        <source>The plug-in has been downloaded. Click the form to start filling.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Polygon</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Actual Size</source>
-        <translation>Rozmiar rzeczywisty</translation>
-    </message>
-    <message>
-        <source>IncludeBookmarks</source>
-        <translation>Uwzględnij zakładki</translation>
-    </message>
-    <message>
-        <source>FreeText</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Squiggly</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Correction Fluid</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Strikeout</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Callout</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Underline</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>EnglishWholeWordsSearch</source>
-        <translation>Wyszukiwanie całego słowa</translation>
-    </message>
-    <message>
-        <source>Distance Measurement</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>the copy was successful</source>
-        <translation>Powodzenie kopiowania</translation>
-    </message>
-    <message>
-        <source>IncludNotes</source>
-        <translation>Uwzględnij notatki</translation>
-    </message>
-    <message>
-        <source>CaseSensitive</source>
-        <translation>Uwzględnij wielkość liter</translation>
-    </message>
-    <message>
-        <source>P&amp;ercent:</source>
-        <translation>Procent (&amp;E):</translation>
-    </message>
-    <message>
-        <source>Highlight</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>All Fonts</source>
-        <translation>Wszystkie czcionki</translation>
-    </message>
-    <message>
-        <source>Zoom Level</source>
-        <translation>Poziom powiększenia</translation>
-    </message>
-    <message>
-        <source>Area Measurement</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxCaTipContentWidget</name>
-    <message>
-        <source>See</source>
-        <translation>Wyświetl</translation>
-    </message>
-    <message>
-        <source>This document contains %1 signatures.</source>
-        <translation>Liczba podpisów w dokumencie: %1.</translation>
-    </message>
-    <message>
-        <source>This document contains%1 signatures and can not be verified.</source>
-        <translation> Dokument zawiera podpisy cyfrowe (%1) i nie można go zweryfikować.</translation>
-    </message>
-    <message>
-        <source>One of the%1 signatures is invalid.</source>
-        <translation>Prawidłowe podpisy: %1.</translation>
-    </message>
-    <message>
-        <source>The validity of %1 signatures is unknown.</source>
-        <translation>Poprawność podpisu nieznana: %1.</translation>
-    </message>
-    <message>
-        <source>And all of them are effective.</source>
-        <translation> Wszystkie są prawidłowe.</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
+    <message>
+        <source>PPT</source>
+        <translation>PPT</translation>
+    </message>
     <message>
         <source>TXT</source>
         <translation>TXT</translation>
@@ -6958,10 +6227,6 @@ Input 5-9 page 5 to page 9</source>
         <translation>Udział plików</translation>
     </message>
     <message>
-        <source>Report File</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>PDF2Photo</source>
         <translation>PDF na zdjęcie</translation>
     </message>
@@ -6975,7 +6240,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>NoContent</source>
-        <translation type="unfinished"/>
+        <translation></translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -6993,13 +6258,32 @@ Input 5-9 page 5 to page 9</source>
         <source>SaveAsCompress</source>
         <translation>Zapisz jako plik skompresowany</translation>
     </message>
+</context>
+<context>
+    <name>KxCaTipContentWidget</name>
     <message>
-        <source>PPT</source>
-        <translation>PPT</translation>
+        <source>See</source>
+        <translation>Wyświetl</translation>
     </message>
     <message>
-        <source>PDFToWord</source>
-        <translation type="unfinished"/>
+        <source>This document contains %1 signatures.</source>
+        <translation>Liczba podpisów w dokumencie: %1.</translation>
+    </message>
+    <message>
+        <source>This document contains%1 signatures and can not be verified.</source>
+        <translation> Dokument zawiera podpisy cyfrowe (%1) i nie można go zweryfikować.</translation>
+    </message>
+    <message>
+        <source>One of the%1 signatures is invalid.</source>
+        <translation>Prawidłowe podpisy: %1.</translation>
+    </message>
+    <message>
+        <source>The validity of %1 signatures is unknown.</source>
+        <translation>Poprawność podpisu nieznana: %1.</translation>
+    </message>
+    <message>
+        <source>And all of them are effective.</source>
+        <translation> Wszystkie są prawidłowe.</translation>
     </message>
 </context>
 <context>
@@ -7118,10 +6402,6 @@ plików</translation>
     <message>
         <source>Tab_Insertion</source>
         <translation>Wstaw</translation>
-    </message>
-    <message>
-        <source>PdfDataStatistics</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -7268,10 +6548,6 @@ plików</translation>
         <translation>Numer strony</translation>
     </message>
     <message>
-        <source>Launch Online Metting</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>WeChat Customer Service</source>
         <translation>Obsługa klienta WPS</translation>
     </message>
@@ -7383,26 +6659,6 @@ plików</translation>
         <source>AddPageNumber</source>
         <translation>Dodaj numer strony</translation>
     </message>
-    <message>
-        <source>PDF2PPT</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Export as Photo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF2Excel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfWaterMarkGalleryCommand</name>
@@ -7442,10 +6698,6 @@ plików</translation>
         <translation>ikona</translation>
     </message>
     <message>
-        <source>取消</source>
-        <translation>Anuluj</translation>
-    </message>
-    <message>
         <source>当前比例</source>
         <translation>Bieżąca skala</translation>
     </message>
@@ -7456,6 +6708,10 @@ plików</translation>
     <message>
         <source>具体消息内容</source>
         <translation>Szczegółowe informacje</translation>
+    </message>
+    <message>
+        <source>取消</source>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>提示</source>
@@ -7665,6 +6921,10 @@ plików</translation>
         <translation>Styl i format</translation>
     </message>
     <message>
+        <source>PageZoom</source>
+        <translation>Powiększ</translation>
+    </message>
+    <message>
         <source>Paragraph</source>
         <translation>Akapit</translation>
     </message>
@@ -7708,10 +6968,6 @@ plików</translation>
         <source>Select Table with Dashed Borders</source>
         <translation>Wybierz tabelę z kreskowanym obramowaniem</translation>
     </message>
-    <message>
-        <source>Document Views</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_newedit</name>
@@ -7736,6 +6992,10 @@ plików</translation>
         <translation>Mam sugestię</translation>
     </message>
     <message>
+        <source>I don&apos;t like the Edit PDF, because...</source>
+        <translation>Nie lubię narzędzia Edytuj PDF, ponieważ...</translation>
+    </message>
+    <message>
         <source>Recommend to friends</source>
         <translation>Poleć znajomym</translation>
     </message>
@@ -7746,6 +7006,10 @@ plików</translation>
     <message>
         <source>AddText</source>
         <translation>Dodaj tekst</translation>
+    </message>
+    <message>
+        <source>I like the Edit PDF, because...</source>
+        <translation>Lubię narzędzie Edytuj PDF, ponieważ...</translation>
     </message>
     <message>
         <source>AddImage</source>
@@ -7781,10 +7045,6 @@ plików</translation>
     <message>
         <source>Hide</source>
         <translation>Ukryj</translation>
-    </message>
-    <message>
-        <source>high-quality resources, come and deliver!</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8328,18 +7588,6 @@ plików</translation>
         <source>Form</source>
         <translation>Arkusz</translation>
     </message>
-    <message>
-        <source>Resume Delivery</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>high-quality resources, come and deliver!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Delivery</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfReplacePagesDialogWidget</name>
@@ -8350,10 +7598,6 @@ plików</translation>
     <message>
         <source>AllPages</source>
         <translation>Wszystkie strony</translation>
-    </message>
-    <message>
-        <source>SelectFileName</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>PageTo</source>
@@ -8382,10 +7626,6 @@ plików</translation>
     <message>
         <source>ReplacePageCancelBtn</source>
         <translation>Anuluj</translation>
-    </message>
-    <message>
-        <source>SourceDoc_AllPages</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
@@ -8464,6 +7704,10 @@ plików</translation>
         <translation>Usuń rekord</translation>
     </message>
     <message>
+        <source>adfadfadf</source>
+        <translation>adfadfadf</translation>
+    </message>
+    <message>
         <source>pdf2wordTip</source>
         <translation>PDF na Word</translation>
     </message>
@@ -8479,14 +7723,6 @@ plików</translation>
         <source>Clear Invalid File</source>
         <translation>Wyczyść rekordy nieprawidłowych plików</translation>
     </message>
-    <message>
-        <source>pdfcompress</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>adfadfadf</source>
-        <translation>adfadfadf</translation>
-    </message>
 </context>
 <context>
     <name>kxpdfcaproperty</name>
@@ -8500,6 +7736,10 @@ plików</translation>
     <message>
         <source>Form</source>
         <translation>Arkusz</translation>
+    </message>
+    <message>
+        <source>adfadfadf</source>
+        <translation>adfadfadf</translation>
     </message>
 </context>
 <context>
@@ -8546,10 +7786,6 @@ plików</translation>
     <message>
         <source>Zoom</source>
         <translation>Powiększ</translation>
-    </message>
-    <message>
-        <source>BatchImageExtract</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restrict Editing</source>
@@ -8788,6 +8024,10 @@ COM</translation>
     <message>
         <source>Word Count</source>
         <translation>Statystyka wyrazów</translation>
+    </message>
+    <message>
+        <source>pdfconvertword</source>
+        <translation>Eksportuj do programu Word</translation>
     </message>
     <message>
         <source>Set State</source>
@@ -9283,10 +8523,6 @@ upgrade to WPS VIP?</source>
         <source>Dialog</source>
         <translation>Okno dialogowe</translation>
     </message>
-    <message>
-        <source>ResizePage(A)</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfPrintProgressDialog</name>
@@ -9352,14 +8588,6 @@ upgrade to WPS VIP?</source>
         <source>upgrade VIP</source>
         <translation>Przejdź na Premium</translation>
     </message>
-    <message>
-        <source>Cancle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfPromptLoginDialogUi</name>
@@ -9386,18 +8614,6 @@ upgrade to WPS VIP?</source>
     <message>
         <source>Please log in WPS account.</source>
         <translation>Najpierw zaloguj się.</translation>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Login WPS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9555,32 +8771,8 @@ upgrade to WPS VIP?</source>
         <translation>Zachowaj</translation>
     </message>
     <message>
-        <source>edit text is VIP function, save modify need upgrade VIP</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>X:%1% %2cm</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Y:%1% %2cm</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>eraser is VIP function, save modify need upgrade VIP</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>loading completed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>move page is VIP function, save modify need upgrade VIP</source>
         <translation>Przenieś stronę to funkcja VIP. Zarejestruj się, aby uzyskać członkostwo.</translation>
-    </message>
-    <message>
-        <source>edit image is VIP function, save modify need upgrade VIP</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you want to keep your ink annotations?</source>
@@ -9589,22 +8781,6 @@ upgrade to WPS VIP?</source>
     <message>
         <source>Discard</source>
         <translation>Odrzuć</translation>
-    </message>
-    <message>
-        <source>EditTextVipTips</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1year%2mon%3day</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9640,6 +8816,10 @@ upgrade to WPS VIP?</source>
     <message>
         <source>Cancle</source>
         <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Please input valid page number!</source>
+        <translation>Wpisz prawidłowy numer strony</translation>
     </message>
     <message>
         <source>HorizontalPageMode</source>
@@ -9756,10 +8936,6 @@ Podanie zakresu 1,6 spowoduje wyodrębnienie stron 1 i 6.</translation>
         <source>Page</source>
         <translation>Strona</translation>
     </message>
-    <message>
-        <source>Invalid page number</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfNewAnnoToolsGalleryModel</name>
@@ -9776,6 +8952,10 @@ Podanie zakresu 1,6 spowoduje wyodrębnienie stron 1 i 6.</translation>
         <translation>Strzałka</translation>
     </message>
     <message>
+        <source>Highlight text</source>
+        <translation>Wyróżnij tekst</translation>
+    </message>
+    <message>
         <source>Highlight Area</source>
         <translation>Wyróżnij obszar</translation>
     </message>
@@ -9784,73 +8964,44 @@ Podanie zakresu 1,6 spowoduje wyodrębnienie stron 1 i 6.</translation>
         <translation>Zakreślacz</translation>
     </message>
     <message>
+        <source>Blue Pen</source>
+        <translation>Niebieskie pióro</translation>
+    </message>
+    <message>
+        <source>Black Pen</source>
+        <translation>Czarne pióro</translation>
+    </message>
+    <message>
+        <source>Using drawing tool</source>
+        <translation>Używanie narzędzia do rysowania</translation>
+    </message>
+    <message>
+        <source>Draw oval;draw circle by holding Shift key</source>
+        <translation>Rysuj owal;rysuj okrąg, przytrzymując klawisz Shift</translation>
+    </message>
+    <message>
+        <source>Red Pen</source>
+        <translation>Czerwone pióro</translation>
+    </message>
+    <message>
         <source>Area highlighting</source>
         <translation>Wyróżnianie obszaru.</translation>
+    </message>
+    <message>
+        <source>Draw arrow;draw straight arrow by holding Shift key</source>
+        <translation>Rysuj strzałkę;rysuj prostą strzałkę, przytrzymując klawisz Shift</translation>
     </message>
     <message>
         <source>Rectangle</source>
         <translation>Prostokąt</translation>
     </message>
     <message>
+        <source>Draw rectangle;draw square by holding Shift key</source>
+        <translation>Rysuj prostokąt;rysuj kwadrat, przytrzymując klawisz Shift</translation>
+    </message>
+    <message>
         <source>Text comment</source>
         <translation>Wstaw tekst</translation>
-    </message>
-</context>
-<context>
-    <name>pdf_pdfuil</name>
-    <message>
-        <source>Redo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Undo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Supported Files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Text Files (*.txt;*.text)|*.txt;*.text|</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ALL Files(*.pdf;*.mobi;*.epub) | *.pdf;*.mobi;*.epub; |</source>
-        <comment>TxDesc_DataSource_all</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Page %d</source>
-        <translation>Strona %d</translation>
-    </message>
-    <message>
-        <source>PDF Files (*.pdf)|*.pdf|</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ebook Files(*.mobi;*.epub) | *.mobi;*.epub; |</source>
-        <comment>TxDesc_DataSource_ebook</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid outline</source>
-        <translation>Nieprawidłowe zakładki</translation>
-    </message>
-    <message>
-        <source>All Files (*.*)</source>
-        <translation>Wszystkie pliki (*.*)</translation>
-    </message>
-    <message>
-        <source>Can&apos;t Redo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Can&apos;t Undo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Files(*.pdf) | *.pdf; |</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9886,6 +9037,12 @@ Podanie zakresu 1,6 spowoduje wyodrębnienie stron 1 i 6.</translation>
     <message>
         <source>Place on Right</source>
         <translation>Przenieś w prawo</translation>
+    </message>
+    <message>
+        <source>Page
+Navigation</source>
+        <translation>Nawigacja
+między stronami</translation>
     </message>
     <message>
         <source>Place on Left</source>
@@ -9995,12 +9152,6 @@ Window</source>
         <translation>Nowe 
 okno</translation>
     </message>
-    <message>
-        <source>Page
-Navigation</source>
-        <translation>Nawigacja
-między stronami</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfHtml2PdfDialog</name>
@@ -10031,6 +9182,41 @@ między stronami</translation>
     <message>
         <source>create pdf from html</source>
         <translation>Z sieci Web do pliku PDF</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_postil</name>
+    <message>
+        <source>Text</source>
+        <translation>Tekst</translation>
+    </message>
+    <message>
+        <source>Stamp</source>
+        <translation>Stempel</translation>
+    </message>
+    <message>
+        <source>Text Markup</source>
+        <translation>Adiustacja tekstu</translation>
+    </message>
+    <message>
+        <source>Attachment</source>
+        <translation>Załącznik</translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <translation>Pole tekstowe</translation>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation>Rysowanie</translation>
+    </message>
+    <message>
+        <source>SuperNoteMode</source>
+        <translation>Tryb notatek</translation>
+    </message>
+    <message>
+        <source>Measure Tool</source>
+        <translation>Narzędzie pomiaru</translation>
     </message>
 </context>
 <context>
@@ -10154,10 +9340,6 @@ między stronami</translation>
         <source>Photo2PDF</source>
         <translation>Zdjęcie na PDF</translation>
     </message>
-    <message>
-        <source>ImageExtract</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_shapestyle</name>
@@ -10179,93 +9361,6 @@ między stronami</translation>
     <message>
         <source>TextStyle</source>
         <translation>Styl tekstu</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfMeasureResultWidget</name>
-    <message>
-        <source>X:%1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Y:%1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>foot</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>inch</source>
-        <translation>cal</translation>
-    </message>
-    <message>
-        <source>pica</source>
-        <translation>Strona</translation>
-    </message>
-    <message>
-        <source>yard</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DistanceTool</source>
-        <translation>Narzędzie odległości</translation>
-    </message>
-    <message>
-        <source>meter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>pound</source>
-        <translation>pkt</translation>
-    </message>
-    <message>
-        <source>millimeter</source>
-        <translation>mm</translation>
-    </message>
-    <message>
-        <source>kilometre</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>angle:%1</source>
-        <translation>Kąt: %1</translation>
-    </message>
-    <message>
-        <source>custom</source>
-        <translation>Niestandardowe</translation>
-    </message>
-    <message>
-        <source>square</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>distance:%1</source>
-        <translation>Dystans: %1</translation>
-    </message>
-    <message>
-        <source>area:%1</source>
-        <translation>Obszar: %1</translation>
-    </message>
-    <message>
-        <source>AreaTool</source>
-        <translation>Narzędzie obszaru</translation>
-    </message>
-    <message>
-        <source>scale:%1</source>
-        <translation>Skala: %1</translation>
-    </message>
-    <message>
-        <source>centimeter</source>
-        <translation>cm</translation>
-    </message>
-    <message>
-        <source>perimeter:%1</source>
-        <translation>Obwód: %1</translation>
-    </message>
-    <message>
-        <source>PerimeterTool</source>
-        <translation>Narzędzie obwodu</translation>
     </message>
 </context>
 <context>
@@ -10310,10 +9405,6 @@ między stronami</translation>
         <translation>Kopiuj</translation>
     </message>
     <message>
-        <source>ReportErrorFile</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
@@ -10330,24 +9421,8 @@ między stronami</translation>
         <translation>anuluj</translation>
     </message>
     <message>
-        <source>Extraction failed, please re-operate.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The report was successful,thank you for your feedback.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;ComfirmExtract</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>the copy was successful</source>
         <translation>Powodzenie kopiowania</translation>
-    </message>
-    <message>
-        <source>TextEmpty</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10371,6 +9446,65 @@ między stronami</translation>
     <message>
         <source>PDFToWord</source>
         <translation>PDF na Word</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfMeasureResultWidget</name>
+    <message>
+        <source>inch</source>
+        <translation>cal</translation>
+    </message>
+    <message>
+        <source>pica</source>
+        <translation>Strona</translation>
+    </message>
+    <message>
+        <source>DistanceTool</source>
+        <translation>Narzędzie odległości</translation>
+    </message>
+    <message>
+        <source>pound</source>
+        <translation>pkt</translation>
+    </message>
+    <message>
+        <source>millimeter</source>
+        <translation>mm</translation>
+    </message>
+    <message>
+        <source>angle:%1</source>
+        <translation>Kąt: %1</translation>
+    </message>
+    <message>
+        <source>custom</source>
+        <translation>Niestandardowe</translation>
+    </message>
+    <message>
+        <source>distance:%1</source>
+        <translation>Dystans: %1</translation>
+    </message>
+    <message>
+        <source>area:%1</source>
+        <translation>Obszar: %1</translation>
+    </message>
+    <message>
+        <source>AreaTool</source>
+        <translation>Narzędzie obszaru</translation>
+    </message>
+    <message>
+        <source>scale:%1</source>
+        <translation>Skala: %1</translation>
+    </message>
+    <message>
+        <source>centimeter</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>perimeter:%1</source>
+        <translation>Obwód: %1</translation>
+    </message>
+    <message>
+        <source>PerimeterTool</source>
+        <translation>Narzędzie obwodu</translation>
     </message>
 </context>
 <context>
@@ -10408,34 +9542,10 @@ między stronami</translation>
     </message>
 </context>
 <context>
-    <name>KxPdfOcrTxtDisplayDlg</name>
+    <name>KxPdfSplitMergeCommand</name>
     <message>
-        <source>ReportErrorFile</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OcrTxtDisplay</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OcrCopy</source>
-        <translation>Kopiuj</translation>
-    </message>
-    <message>
-        <source>The report was successful,thank you for your feedback.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>the copy was successful</source>
-        <translation>Powodzenie kopiowania</translation>
-    </message>
-    <message>
-        <source>OcrUploadGrades</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>TextEmpty</source>
-        <translation type="unfinished"/>
+        <source>Combine PDF</source>
+        <translation>Połącz PDF</translation>
     </message>
 </context>
 <context>
@@ -10508,10 +9618,68 @@ między stronami</translation>
     </message>
 </context>
 <context>
+    <name>pdf_pdfuil</name>
+    <message>
+        <source>Undo</source>
+        <comment>TxUndo_pdf</comment>
+        <translation>Cofnij</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <comment>TxRedo_pdf</comment>
+        <translation>Ponów</translation>
+    </message>
+    <message>
+        <source>Ebook Files(*.mobi;*.epub) | *.mobi;*.epub; |</source>
+        <translation>Książki elektroniczne (*.mobi; *.epub) | *.mobi; *.epub; |</translation>
+    </message>
+    <message>
+        <source>Can&apos;t Redo</source>
+        <comment>TxNotRedo_pdf</comment>
+        <translation>Nie można ponowić</translation>
+    </message>
+    <message>
+        <source>Page %d</source>
+        <translation>Strona %d</translation>
+    </message>
+    <message>
+        <source>Supported Files</source>
+        <comment>InsertFile_SupportedFiles</comment>
+        <translation>Wszystkie obsługiwane pliki</translation>
+    </message>
+    <message>
+        <source>Can&apos;t Undo</source>
+        <comment>TxNotUndo_pdf</comment>
+        <translation>Nie można cofnąć</translation>
+    </message>
+    <message>
+        <source>Invalid outline</source>
+        <translation>Nieprawidłowe zakładki</translation>
+    </message>
+    <message>
+        <source>All Files (*.*)</source>
+        <translation>Wszystkie pliki (*.*)</translation>
+    </message>
+    <message>
+        <source>Text Files (*.txt;*.text)|*.txt;*.text|</source>
+        <comment>InsertFile_SupportedFiles</comment>
+        <translation>Pliki tekstowe (*.txt;*.text)|*.txt;*.text|</translation>
+    </message>
+    <message>
+        <source>PDF Files (*.pdf)|*.pdf|</source>
+        <comment>TxDesc_DataSource_pdf</comment>
+        <translation>Pliki PDF (*.pdf)|*.pdf|</translation>
+    </message>
+</context>
+<context>
     <name>KxPdfOutlineTreeView</name>
     <message>
         <source>Batch Delete</source>
         <translation>Usuń partię</translation>
+    </message>
+    <message>
+        <source>[bookmark]Untitled</source>
+        <translation>[Zakładka]Bez tytułu</translation>
     </message>
     <message>
         <source>Show Bookmark FullName</source>
@@ -10601,10 +9769,6 @@ między stronami</translation>
     <message>
         <source>Verify all the signatures(A)</source>
         <translation>Zweryfikuj &amp;wszystkie podpisy</translation>
-    </message>
-    <message>
-        <source>Close Signature Panel</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close Outline Panel</source>
@@ -10800,10 +9964,6 @@ między stronami</translation>
         <source>Recover2Thumb</source>
         <translation>Odzyskaj do miniatury</translation>
     </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfDiSignatureTreeWidget</name>
@@ -10845,10 +10005,6 @@ między stronami</translation>
     <message>
         <source>Cancle(C)</source>
         <translation>&amp;Anuluj </translation>
-    </message>
-    <message>
-        <source>Input error</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11048,24 +10204,12 @@ między stronami</translation>
         <translation>Spróbuj ponownie</translation>
     </message>
     <message>
-        <source>Is Repairing</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
         <source>Confirm</source>
         <translation>Potwierdź</translation>
-    </message>
-    <message>
-        <source>Doc repair failed, please try again</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Are you sure you want to exit this operation?</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11075,20 +10219,8 @@ między stronami</translation>
         <translation>Spróbuj ponownie</translation>
     </message>
     <message>
-        <source>Document exported failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export Directory:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
-    </message>
-    <message>
-        <source>Document exported successfully</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open File</source>
@@ -11097,10 +10229,6 @@ między stronami</translation>
     <message>
         <source>Open Directory</source>
         <translation>Otwórz katalog</translation>
-    </message>
-    <message>
-        <source>Document exporting, please wait</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11168,10 +10296,6 @@ plików</translation>
     <message>
         <source>Markdown2PDF</source>
         <translation>Markdown na PDF</translation>
-    </message>
-    <message>
-        <source>PdfDataStatistics</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share documents.</source>
@@ -11242,6 +10366,10 @@ plików</translation>
         <translation>Aktualizuj nagłówek i stopkę</translation>
     </message>
     <message>
+        <source>Translate selected text2</source>
+        <translation>Przetłumacz zaznaczony tekst</translation>
+    </message>
+    <message>
         <source>DeleteHeaderFooter</source>
         <translation>Usuń nagłówek i stopkę</translation>
     </message>
@@ -11252,10 +10380,6 @@ plików</translation>
     <message>
         <source>Backup Center</source>
         <translation>Automatyczne tworzenie kopii zapasowych</translation>
-    </message>
-    <message>
-        <source>Page-Text Speech</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -11277,53 +10401,6 @@ telefon</translation>
     <message>
         <source>AddPageNumber</source>
         <translation>Dodaj numer strony</translation>
-    </message>
-    <message>
-        <source>Picture to Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>TranslationAll</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Photo2Pdf</source>
-        <translation>Konwertuj na plik PDF</translation>
-    </message>
-    <message>
-        <source>PDF To Word</source>
-        <translation>PDF do Word</translation>
-    </message>
-    <message>
-        <source>Translate selected text2</source>
-        <translation>Przetłumacz zaznaczony tekst</translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_postil</name>
-    <message>
-        <source>Stamp</source>
-        <translation>Stempel</translation>
-    </message>
-    <message>
-        <source>Text Markup</source>
-        <translation>Adiustacja tekstu</translation>
-    </message>
-    <message>
-        <source>Attachment</source>
-        <translation>Załącznik</translation>
-    </message>
-    <message>
-        <source>TextBox</source>
-        <translation>Pole tekstowe</translation>
-    </message>
-    <message>
-        <source>SuperNoteMode</source>
-        <translation>Tryb notatek</translation>
-    </message>
-    <message>
-        <source>Measure Tool</source>
-        <translation>Narzędzie pomiaru</translation>
     </message>
 </context>
 <context>
@@ -11364,10 +10441,6 @@ telefon</translation>
         <translation>Wstawianie</translation>
     </message>
     <message>
-        <source>Text Markup</source>
-        <translation>Adiustacja tekstu</translation>
-    </message>
-    <message>
         <source>Attachment</source>
         <translation>Załącznik</translation>
     </message>
@@ -11400,10 +10473,6 @@ telefon</translation>
         <translation>Podpis PDF</translation>
     </message>
     <message>
-        <source>InsertGraphic</source>
-        <translation>Wstaw grafikę</translation>
-    </message>
-    <message>
         <source>PageHeaderFooter</source>
         <translation>Nagłówek i stopka</translation>
     </message>
@@ -11434,9 +10503,20 @@ telefon</translation>
         <source>Translate selected</source>
         <translation>Tłumaczenie dokumentu Word</translation>
     </message>
+</context>
+<context>
+    <name>ongmani.ct_page</name>
     <message>
-        <source>Docmgr</source>
-        <translation type="unfinished"/>
+        <source>Views</source>
+        <translation>Widok</translation>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation>Podziel PDF</translation>
+    </message>
+    <message>
+        <source>MergePDF</source>
+        <translation>Połącz PDF</translation>
     </message>
 </context>
 <context>
@@ -11462,6 +10542,65 @@ telefon</translation>
     <message>
         <source>Width</source>
         <translation>Szerokość</translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Fit Page</source>
+        <translation>Dopasuj rozmiar</translation>
+    </message>
+    <message>
+        <source>Cur page num</source>
+        <translation>Strona:%1</translation>
+    </message>
+    <message>
+        <source>Recent Fonts</source>
+        <translation>Ostatnio używane czcionki</translation>
+    </message>
+    <message>
+        <source>FullTextSearch</source>
+        <translation>Wyszukiwanie pełnotekstowe</translation>
+    </message>
+    <message>
+        <source>Fit Width</source>
+        <translation>Dopasuj szerokość</translation>
+    </message>
+    <message>
+        <source>Actual Size</source>
+        <translation>Rozmiar rzeczywisty</translation>
+    </message>
+    <message>
+        <source>IncludeBookmarks</source>
+        <translation>Uwzględnij zakładki</translation>
+    </message>
+    <message>
+        <source>EnglishWholeWordsSearch</source>
+        <translation>Wyszukiwanie całego słowa</translation>
+    </message>
+    <message>
+        <source>the copy was successful</source>
+        <translation>Powodzenie kopiowania</translation>
+    </message>
+    <message>
+        <source>IncludNotes</source>
+        <translation>Uwzględnij notatki</translation>
+    </message>
+    <message>
+        <source>CaseSensitive</source>
+        <translation>Uwzględnij wielkość liter</translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation>Procent (&amp;E):</translation>
+    </message>
+    <message>
+        <source>All Fonts</source>
+        <translation>Wszystkie czcionki</translation>
+    </message>
+    <message>
+        <source>Zoom Level</source>
+        <translation>Poziom powiększenia</translation>
     </message>
 </context>
 <context>
@@ -11686,12 +10825,20 @@ telefon</translation>
         <translation>Przybornik adnotacji</translation>
     </message>
     <message>
+        <source>I don&apos;t like the Highlight, because...</source>
+        <translation>Nie lubię narzędzi Wyróżnienie, ponieważ...</translation>
+    </message>
+    <message>
         <source>FeedBack</source>
         <translation>Opinia</translation>
     </message>
     <message>
         <source>Feedback</source>
         <translation>Opinia</translation>
+    </message>
+    <message>
+        <source>I like the Highlight, because...</source>
+        <translation>Lubię narzędzie Wyróżnienie, ponieważ...</translation>
     </message>
 </context>
 <context>
@@ -11705,6 +10852,14 @@ telefon</translation>
         <translation>Poleć znajomym</translation>
     </message>
     <message>
+        <source>I like the Create PDF, because...</source>
+        <translation>Lubię narzędzie Utwórz PDF, ponieważ...</translation>
+    </message>
+    <message>
+        <source>Create PDF</source>
+        <translation>Utwórz Pdf</translation>
+    </message>
+    <message>
         <source>Edit Pdf</source>
         <translation>Edytuj PDF</translation>
     </message>
@@ -11716,12 +10871,20 @@ telefon</translation>
         <source>Feedback</source>
         <translation>Opinia</translation>
     </message>
+    <message>
+        <source>I don&apos;t like the Create PDF, because...</source>
+        <translation>Nie lubię narzędzi Utwórz PDF, ponieważ...</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_newexport</name>
     <message>
         <source>I have a suggestion</source>
         <translation>Mam sugestię</translation>
+    </message>
+    <message>
+        <source>I don&apos;t like the Export PDF, because...</source>
+        <translation>Nie lubię narzędzi Eksportuj do PDF, ponieważ...</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
@@ -11742,6 +10905,10 @@ telefon</translation>
     <message>
         <source>Feedback</source>
         <translation>Opinia</translation>
+    </message>
+    <message>
+        <source>I like the Export PDF, because...</source>
+        <translation>Lubię narzędzie Eksportuj do PDF, ponieważ...</translation>
     </message>
 </context>
 <context>
@@ -11765,6 +10932,14 @@ telefon</translation>
     <message>
         <source>Feedback</source>
         <translation>Opinia</translation>
+    </message>
+    <message>
+        <source>I like the FillSign, because...</source>
+        <translation>Lubię narzędzie Wypełnij i podpisz, ponieważ...</translation>
+    </message>
+    <message>
+        <source>I don&apos;t like the FillSign, because...</source>
+        <translation>Nie lubię narzędzi Wypełnij i podpisz, ponieważ...</translation>
     </message>
 </context>
 <context>
@@ -11831,6 +11006,10 @@ telefon</translation>
         <translation>Nowa pusta strona</translation>
     </message>
     <message>
+        <source>Beautiful PDF templates for various industries</source>
+        <translation>Piękne szablony PDF dla różnych branż</translation>
+    </message>
+    <message>
         <source>From web</source>
         <translation>Z sieci Web</translation>
     </message>
@@ -11843,8 +11022,8 @@ telefon</translation>
         <translation>Z jednego pliku</translation>
     </message>
     <message>
-        <source>From templates</source>
-        <translation type="unfinished"/>
+        <source>From Templates</source>
+        <translation>Z szablonu</translation>
     </message>
     <message>
         <source>From scanner</source>
@@ -11903,10 +11082,6 @@ plików</translation>
         <translation>PDF na EXCEL</translation>
     </message>
     <message>
-        <source>PDF2Photo</source>
-        <translation>PDF na zdjęcie</translation>
-    </message>
-    <message>
         <source>OtherSpecialFeatures</source>
         <translation>Funkcje specjalne</translation>
     </message>
@@ -11926,6 +11101,13 @@ plików</translation>
         <source>Scan to Mobile</source>
         <translation>Skanuj na
 telefon</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfBubbleGuideWidget</name>
+    <message>
+        <source>Function move hint</source>
+        <translation>Przeniesione funkcje</translation>
     </message>
 </context>
 <context>
@@ -12134,17 +11316,18 @@ Please batches operations</source>
     </message>
 </context>
 <context>
-    <name>KxPdfNewPageNumberWidget</name>
-    <message>
-        <source>Invalid page number</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxPdfNewEditToolboxWidget</name>
     <message>
         <source>Close Toolbox</source>
         <translation>Zamknij zestaw narzędzi</translation>
+    </message>
+    <message>
+        <source>Text Properties</source>
+        <translation>Właściwości tekstu</translation>
+    </message>
+    <message>
+        <source>Image Properties</source>
+        <translation>Właściwości obrazu</translation>
     </message>
 </context>
 <context>
@@ -12215,64 +11398,6 @@ Please batches operations</source>
     </message>
 </context>
 <context>
-    <name>KPdfAIOcrManager</name>
-    <message>
-        <source>The current network is abnormal and cannot be operated. Please check the network status and try again.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The extraction area is too large, please re-operate.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extraction failed, please re-operate.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>CopyToClipboard</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The current document need to be saved before extracted.</source>
-        <translation>Przed wyodrębnieniem dokument trzeba zapisać.</translation>
-    </message>
-    <message>
-        <source>InfoSeeking</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;ComfirmExtract</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Exporting document</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>TextEmpty</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfDownloadV8TipUi</name>
-    <message>
-        <source>Download now</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This location contains special controls (JavaScript) that can be filled in normally after downloading the plug-in.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No prompt</source>
-        <translation>Nie przypominaj ponownie</translation>
-    </message>
-    <message>
-        <source>KxPdfDownloadV8TipUi</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KFullScreenCommand</name>
     <message>
         <source>Quit FullScreen</source>
@@ -12308,6 +11433,10 @@ Please batches operations</source>
         <source>Recommended tools</source>
         <translation>Zalecane narzędzia</translation>
     </message>
+    <message>
+        <source>Quick Task Tools</source>
+        <translation>Narzędzia do szybkich zadań</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfBatchSignatureProgress</name>
@@ -12329,10 +11458,6 @@ Please batches operations</source>
     <message>
         <source>Unable to open &quot;%1&quot;!</source>
         <translation>Nie można otworzyć „%1”</translation>
-    </message>
-    <message>
-        <source>Open the cloud file before you compress it</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12395,10 +11520,6 @@ Operacji nie można cofnąć.</translation>
 Deleted pages can not be recovered</source>
         <translation>Czy na pewno chcesz zatrzymać usuwanie? 
 Usuniętych stron nie można odzyskać</translation>
-    </message>
-    <message>
-        <source>please input valid pagenum!</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12485,13 +11606,6 @@ Usuniętych stron nie można odzyskać</translation>
     <message>
         <source>Screenshot</source>
         <translation>Zrzut ekranu</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPostMatchBtn</name>
-    <message>
-        <source>Resume Delivery</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12621,25 +11735,6 @@ Usuniętych stron nie można odzyskać</translation>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_page</name>
-    <message>
-        <source>Document Views</source>
-        <translation>Widok dokumentu</translation>
-    </message>
-    <message>
-        <source>SplitPDF</source>
-        <translation>Podziel PDF</translation>
-    </message>
-    <message>
-        <source>PageTool</source>
-        <translation>Narzędzie strony</translation>
-    </message>
-    <message>
-        <source>MergePDF</source>
-        <translation>Połącz PDF</translation>
-    </message>
-</context>
-<context>
     <name>KxPdfSearchContentWidget</name>
     <message>
         <source>searching...%1 results found</source>
@@ -12704,16 +11799,23 @@ Usuniętych stron nie można odzyskać</translation>
         <translation>PDF na zdjęcie</translation>
     </message>
     <message>
-        <source>ImageExtract</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>OtherSpecialFeatures</source>
         <translation>Funkcje specjalne</translation>
     </message>
     <message>
         <source>MergePDF</source>
         <translation>Połącz PDF</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCustomSettingDialog</name>
+    <message>
+        <source>Quick Task Tools</source>
+        <translation>Narzędzia do szybkich zadań</translation>
+    </message>
+    <message>
+        <source>Receive task tools tips</source>
+        <translation>Odbieraj porady dla narzędzi zadania</translation>
     </message>
 </context>
 <context>
@@ -12729,10 +11831,6 @@ Usuniętych stron nie można odzyskać</translation>
     <message>
         <source>Search Tip</source>
         <translation>Porady dotyczące wyszukiwania</translation>
-    </message>
-    <message>
-        <source>The current document is a scan-type file, and it is not possible to search all the text. You can convert the file into a searchable and copyable PDF file through &lt;font color=#417FF9&gt;scan recognition&lt;/font&gt;.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recognition</source>
@@ -12877,10 +11975,6 @@ Usuniętych stron nie można odzyskać</translation>
         <translation>Okno dialogowe</translation>
     </message>
     <message>
-        <source>Unable to get chapter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>TextLabel</source>
         <translation>Etykieta tekstowa</translation>
     </message>
@@ -12912,38 +12006,6 @@ Usuniętych stron nie można odzyskać</translation>
     <message>
         <source>the copy %1 was successful</source>
         <translation>Liczba pomyślnie skopiowanych wyrazów: %1.</translation>
-    </message>
-    <message>
-        <source>hint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF copy is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>words you have copied exceeds the limit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Never notify</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extraction</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Copy text only</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13037,40 +12099,6 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
     </message>
 </context>
 <context>
-    <name>KxPdfOcrExportFileCommand</name>
-    <message>
-        <source>The extraction area is too large, please re-operate.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The current document need to be saved before extracted.</source>
-        <translation>Przed wyodrębnieniem dokument trzeba zapisać.</translation>
-    </message>
-    <message>
-        <source>&amp;ComfirmExtract</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document exporting, please wait</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfOcrExtractTextCommand</name>
-    <message>
-        <source>The extraction area is too large, please re-operate.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The current document need to be saved before extracted.</source>
-        <translation>Przed wyodrębnieniem dokument trzeba zapisać.</translation>
-    </message>
-    <message>
-        <source>&amp;ComfirmExtract</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxPdfEditLinkHintDialog</name>
     <message>
         <source>Create Goto Destination</source>
@@ -13083,47 +12111,6 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
     <message>
         <source>Use scrollbars, hand tools, and zoom tools to select the target view, and press &quot;Set Links&quot; to set the link target.</source>
         <translation>Użyj pasków przewijania, narzędzi dłoni i powiększania, aby wybrać widok docelowy, naciśnij przycisk Ustaw łącze, aby ustawić łącze.</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfGuideUpVipDialog</name>
-    <message>
-        <source>Log in using</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>if is VIP then</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfPayFunctionTipsDialog</name>
-    <message>
-        <source>Log in using</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>if is VIP then</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>upgrade VIP</source>
-        <translation>Przejdź na Premium</translation>
-    </message>
-    <message>
-        <source>click for update</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfOutlineTreeViewItem</name>
-    <message>
-        <source>NoPage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>NoContentInChapter</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13150,10 +12137,6 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
     <message>
         <source>Signature</source>
         <translation>Podpis PDF</translation>
-    </message>
-    <message>
-        <source>Docmgr</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13194,32 +12177,16 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
         <source>Search</source>
         <translation>Wyszukaj</translation>
     </message>
-    <message>
-        <source>Close Panel</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
-    <name>KxPdfPagePropertyDialog</name>
+    <name>KxPdfOcrTxtDisplayDlg</name>
     <message>
-        <source>transverse</source>
-        <translation type="unfinished"/>
+        <source>OcrCopy</source>
+        <translation>Kopiuj</translation>
     </message>
     <message>
-        <source>current page index:%1 page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ResizePage(A)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>page size:%1 cmx%2cm</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>page property</source>
-        <translation>Właściwość strony</translation>
+        <source>the copy was successful</source>
+        <translation>Powodzenie kopiowania</translation>
     </message>
 </context>
 <context>
@@ -13273,25 +12240,6 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
         <source>In the synchronous</source>
         <translation>Synchronizowanie...</translation>
     </message>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfUpdateWaterMarkCommand</name>
-    <message>
-        <source>Cannot find waterMark that can be updated in the file.If you can see the watermark, it cannot be updated because it is not a standard watermark format.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Comfirm</source>
-        <translation>Potwierdź (&amp;C)</translation>
-    </message>
-    <message>
-        <source>Cannot find waterMark in the file.&lt;br/&gt;The waterMark may not be added through kingsoft PDF.</source>
-        <translation>W pliku nie znaleziono znaku wodnego.&lt;br/&gt;Być może znak wodny nie został dodany przez program WPS PDF.</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfShapeStartStyleWidget</name>
@@ -13334,27 +12282,6 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
     <message>
         <source>Do you log in to save changes?</source>
         <translation>Czy chcesz się zalogować, aby zapisać zmiany?</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfAnnoOpacitySelector</name>
-    <message>
-        <source>Opacity</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfImageOpacitySelector</name>
-    <message>
-        <source>Opacity</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfReadingOpacitySelector</name>
-    <message>
-        <source>Opacity</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13463,6 +12390,13 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
     </message>
 </context>
 <context>
+    <name>KxPdfDownloadV8TipUi</name>
+    <message>
+        <source>No prompt</source>
+        <translation>Nie przypominaj ponownie</translation>
+    </message>
+</context>
+<context>
     <name>KxPdfBackupRestoreDlg</name>
     <message>
         <source>No file found!</source>
@@ -13492,6 +12426,13 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
     </message>
 </context>
 <context>
+    <name>KxPdfPayFunctionTipsDialog</name>
+    <message>
+        <source>upgrade VIP</source>
+        <translation>Przejdź na Premium</translation>
+    </message>
+</context>
+<context>
     <name>KSignatureLockButton</name>
     <message>
         <source>fixed to list</source>
@@ -13500,6 +12441,27 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
     <message>
         <source>unfixed from list</source>
         <translation>Odpięto od listy</translation>
+    </message>
+</context>
+<context>
+    <name>KPdfAIOcrManager</name>
+    <message>
+        <source>The current document need to be saved before extracted.</source>
+        <translation>Przed wyodrębnieniem dokument trzeba zapisać.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfOcrExportFileCommand</name>
+    <message>
+        <source>The current document need to be saved before extracted.</source>
+        <translation>Przed wyodrębnieniem dokument trzeba zapisać.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfOcrExtractTextCommand</name>
+    <message>
+        <source>The current document need to be saved before extracted.</source>
+        <translation>Przed wyodrębnieniem dokument trzeba zapisać.</translation>
     </message>
 </context>
 <context>
@@ -13568,10 +12530,6 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
         <translation>Jeśli plik jest zaufany, kliknij przycisk „Zezwól”. W innym wypadku kliknij przycisk „Zabroń”.</translation>
     </message>
     <message>
-        <source>Documents are trying to open file:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>If you trust the link, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
         <translation>Jeśli ufasz temu łączu, kliknij polecenie Zezwól. W przeciwnym razie kliknij opcję Zablokuj.</translation>
     </message>
@@ -13584,14 +12542,14 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
     </message>
 </context>
 <context>
-    <name>KxPdfHideBGHelper</name>
+    <name>KxPdfUpdateWaterMarkCommand</name>
     <message>
-        <source>HidingPageBackGround...</source>
-        <translation type="unfinished"/>
+        <source>&amp;Comfirm</source>
+        <translation>Potwierdź (&amp;C)</translation>
     </message>
     <message>
-        <source>HidePageBackGround</source>
-        <translation type="unfinished"/>
+        <source>Cannot find waterMark in the file.&lt;br/&gt;The waterMark may not be added through kingsoft PDF.</source>
+        <translation>W pliku nie znaleziono znaku wodnego.&lt;br/&gt;Być może znak wodny nie został dodany przez program WPS PDF.</translation>
     </message>
 </context>
 <context>
@@ -13630,10 +12588,6 @@ zaloguj się, aby korzystać z pakietu WPS Office.</translation>
         <source>Close the comment box</source>
         <translation>Zamknij pole komentarza</translation>
     </message>
-    <message>
-        <source>Annotation</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfMainWinGuideWidget</name>
@@ -13664,6 +12618,13 @@ zaloguj się, aby korzystać z pakietu WPS Office.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfPagePropertyDialog</name>
+    <message>
+        <source>page property</source>
+        <translation>Właściwość strony</translation>
+    </message>
+</context>
+<context>
     <name>KxPdfSaftTipContentWidget</name>
     <message>
         <source>The current document is saft document, click view the document permissions</source>
@@ -13682,191 +12643,6 @@ zaloguj się, aby korzystać z pakietu WPS Office.</translation>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
         <translation>nie można znaleźć folderu „%1”. Mógł zostać usunięty, przeniesiony lub zmieniono jego nazwę.</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfCopyProCompelDialogWidget</name>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Copy number over limit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export2Word</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>CheckBox</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfCopyProDialogWidget</name>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>hint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Copy number over limit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>words you have copied exceeds the limit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Copy text only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export2Word</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Just Copy %1 words</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfMessageDialogWidget</name>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The document could not be saved.The file may be read-only,or opend by another user.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfOutlineTreeWidget</name>
-    <message>
-        <source>[bookmark]Untitled</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rename BookMark (R)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Delete BookMark (D)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Are you sure set the current destination as the bookmark location?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Set Destination (A)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert BookMark</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfContextMenuUtils</name>
-    <message>
-        <source>PDF Compress</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Markdown2PDF</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfImageEnterEditCommand</name>
-    <message>
-        <source>Edit image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfImageFloatLayerCommand</name>
-    <message>
-        <source>Edit image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfImageSinkLayerCommand</name>
-    <message>
-        <source>Edit image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfImageDeleteCommand</name>
-    <message>
-        <source>Cancle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Delete image is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfProgressInfoWidget</name>
-    <message>
-        <source>SecurityWarning</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>progressinfo</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfSubWindow</name>
-    <message>
-        <source>(Encrypted)</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
