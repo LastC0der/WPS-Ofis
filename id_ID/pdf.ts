@@ -12660,16 +12660,28 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
         <translation>Tampilan Dokumen</translation>
     </message>
     <message>
-        <source>PageTool</source>
-        <translation>Alat Halaman</translation>
-    </message>
-    <message>
         <source>SplitPDF</source>
         <translation>Pecah PDF</translation>
     </message>
     <message>
+        <source>PageTool</source>
+        <translation>Alat Halaman</translation>
+    </message>
+    <message>
         <source>MergePDF</source>
-        <translation>Gabungkan PDF</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Views</source>
+        <translation>Lihat</translation>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge and Split</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
