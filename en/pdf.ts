@@ -12631,19 +12631,31 @@ Deleted pages can not be recovered</source>
     <name>ongmani.ct_page</name>
     <message>
         <source>Document Views</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>PageTool</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation></translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PageTool</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation></translation>
+        <translation>PDF Birleştir</translation>
+    </message>
+    <message>
+        <source>Views</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge and Split</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
