@@ -12658,16 +12658,28 @@ Deleted pages can not be recovered</source>
         <translation>Просмотр документа</translation>
     </message>
     <message>
-        <source>PageTool</source>
-        <translation>Инструмент страницы</translation>
-    </message>
-    <message>
         <source>SplitPDF</source>
         <translation>Разделить PDF</translation>
     </message>
     <message>
+        <source>PageTool</source>
+        <translation>Инструмент страницы</translation>
+    </message>
+    <message>
         <source>MergePDF</source>
-        <translation>Объединить PDF</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Views</source>
+        <translation>Вид</translation>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge and Split</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
