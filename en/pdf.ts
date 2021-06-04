@@ -12631,15 +12631,15 @@ Deleted pages can not be recovered</source>
     <name>ongmani.ct_page</name>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation></translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation></translation>
     </message>
     <message>
         <source>PageTool</source>
-        <translation type="unfinished"/>
+        <translation></translation>
     </message>
     <message>
         <source>MergePDF</source>
@@ -12647,15 +12647,15 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Views</source>
-        <translation type="unfinished"/>
+        <translation></translation>
     </message>
     <message>
         <source>Organize Page</source>
-        <translation type="unfinished"/>
+        <translation></translation>
     </message>
     <message>
         <source>Merge and Split</source>
-        <translation type="unfinished"/>
+        <translation></translation>
     </message>
 </context>
 <context>
