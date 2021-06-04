@@ -12656,16 +12656,28 @@ Las páginas eliminadas no se pueden recuperar</translation>
         <translation>Ver documento</translation>
     </message>
     <message>
-        <source>PageTool</source>
-        <translation>Herramienta de página</translation>
-    </message>
-    <message>
         <source>SplitPDF</source>
         <translation>Dividir PDF</translation>
     </message>
     <message>
+        <source>PageTool</source>
+        <translation>Herramienta de página</translation>
+    </message>
+    <message>
         <source>MergePDF</source>
-        <translation>Combinar PDF</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Views</source>
+        <translation>Vista</translation>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge and Split</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
