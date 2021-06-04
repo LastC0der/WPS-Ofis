@@ -12653,16 +12653,28 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
         <translation>Ansicht des Dokuments</translation>
     </message>
     <message>
-        <source>PageTool</source>
-        <translation>Seitenwerkzeug</translation>
-    </message>
-    <message>
         <source>SplitPDF</source>
         <translation>PDF aufteilen</translation>
     </message>
     <message>
+        <source>PageTool</source>
+        <translation>Seitenwerkzeug</translation>
+    </message>
+    <message>
         <source>MergePDF</source>
-        <translation>PDF zusammenführen</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Views</source>
+        <translation>Ansicht</translation>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge and Split</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
