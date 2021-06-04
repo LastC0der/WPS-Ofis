@@ -12659,16 +12659,28 @@ Usuniętych stron nie można odzyskać</translation>
         <translation>Widok dokumentu</translation>
     </message>
     <message>
-        <source>PageTool</source>
-        <translation>Narzędzie strony</translation>
-    </message>
-    <message>
         <source>SplitPDF</source>
         <translation>Podziel PDF</translation>
     </message>
     <message>
+        <source>PageTool</source>
+        <translation>Narzędzie strony</translation>
+    </message>
+    <message>
         <source>MergePDF</source>
-        <translation>Połącz PDF</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Views</source>
+        <translation>Widok</translation>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge and Split</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
