@@ -11471,29 +11471,6 @@ dispositivo móvel</translation>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_page</name>
-    <message>
-        <source>Views</source>
-        <translation>Ver</translation>
-    </message>
-    <message>
-        <source>Organize Page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>SplitPDF</source>
-        <translation>Dividir PDF</translation>
-    </message>
-    <message>
-        <source>MergePDF</source>
-        <translation>Unir PDF</translation>
-    </message>
-    <message>
-        <source>Merge and Split</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxPdfSelectAll</name>
     <message>
         <source>Select all text</source>
@@ -12683,12 +12660,12 @@ As páginas eliminadas não podem ser recuperadas</translation>
         <translation>Vista do Documento</translation>
     </message>
     <message>
-        <source>SplitPDF</source>
-        <translation>Dividir PDF</translation>
-    </message>
-    <message>
         <source>PageTool</source>
         <translation>Ferramenta de Página</translation>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation>Dividir PDF</translation>
     </message>
     <message>
         <source>MergePDF</source>
