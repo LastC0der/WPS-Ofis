@@ -12655,16 +12655,28 @@ Deleted pages cannot be recovered</translation>
         <translation>View of Document</translation>
     </message>
     <message>
-        <source>PageTool</source>
-        <translation>Page Tool</translation>
-    </message>
-    <message>
         <source>SplitPDF</source>
         <translation>Split PDF</translation>
     </message>
     <message>
+        <source>PageTool</source>
+        <translation>Page Tool</translation>
+    </message>
+    <message>
         <source>MergePDF</source>
-        <translation>Merge PDF</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Views</source>
+        <translation>Views</translation>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation>Organize Page</translation>
+    </message>
+    <message>
+        <source>Merge and Split</source>
+        <translation>Merge and Split</translation>
     </message>
 </context>
 <context>
