@@ -11451,29 +11451,6 @@ Navigation</source>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_page</name>
-    <message>
-        <source>Views</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Organize Page</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>SplitPDF</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>MergePDF</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Merge and Split</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>KxPdfSelectAll</name>
     <message>
         <source>Select all text</source>
@@ -12657,11 +12634,11 @@ Deleted pages can not be recovered</source>
         <translation></translation>
     </message>
     <message>
-        <source>SplitPDF</source>
+        <source>PageTool</source>
         <translation></translation>
     </message>
     <message>
-        <source>PageTool</source>
+        <source>SplitPDF</source>
         <translation></translation>
     </message>
     <message>
