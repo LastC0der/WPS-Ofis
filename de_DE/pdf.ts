@@ -11465,29 +11465,6 @@ scannen</translation>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_page</name>
-    <message>
-        <source>Views</source>
-        <translation>Ansicht</translation>
-    </message>
-    <message>
-        <source>Organize Page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>SplitPDF</source>
-        <translation>PDF aufteilen</translation>
-    </message>
-    <message>
-        <source>MergePDF</source>
-        <translation>PDF zusammenführen</translation>
-    </message>
-    <message>
-        <source>Merge and Split</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxPdfSelectAll</name>
     <message>
         <source>Select all text</source>
@@ -12676,12 +12653,12 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
         <translation>Ansicht des Dokuments</translation>
     </message>
     <message>
-        <source>SplitPDF</source>
-        <translation>PDF aufteilen</translation>
-    </message>
-    <message>
         <source>PageTool</source>
         <translation>Seitenwerkzeug</translation>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation>PDF aufteilen</translation>
     </message>
     <message>
         <source>MergePDF</source>
