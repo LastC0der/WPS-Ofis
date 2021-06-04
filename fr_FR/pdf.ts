@@ -12659,16 +12659,28 @@ Les pages supprimées ne peuvent pas être récupérées</translation>
         <translation>Affichage du Document</translation>
     </message>
     <message>
-        <source>PageTool</source>
-        <translation>Outil de page</translation>
-    </message>
-    <message>
         <source>SplitPDF</source>
         <translation>Fractionner le PDF</translation>
     </message>
     <message>
+        <source>PageTool</source>
+        <translation>Outil de page</translation>
+    </message>
+    <message>
         <source>MergePDF</source>
-        <translation>Fusionner le PDF</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Views</source>
+        <translation>Affichage</translation>
+    </message>
+    <message>
+        <source>Organize Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge and Split</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
