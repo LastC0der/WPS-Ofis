@@ -11467,29 +11467,6 @@ Speech</translation>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_page</name>
-    <message>
-        <source>Views</source>
-        <translation>Views</translation>
-    </message>
-    <message>
-        <source>Organize Page</source>
-        <translation>Organize Page</translation>
-    </message>
-    <message>
-        <source>SplitPDF</source>
-        <translation>Split PDF</translation>
-    </message>
-    <message>
-        <source>MergePDF</source>
-        <translation>Merge PDF</translation>
-    </message>
-    <message>
-        <source>Merge and Split</source>
-        <translation>Merge and Split</translation>
-    </message>
-</context>
-<context>
     <name>KxPdfSelectAll</name>
     <message>
         <source>Select all text</source>
@@ -12678,12 +12655,12 @@ Deleted pages cannot be recovered</translation>
         <translation>View of Document</translation>
     </message>
     <message>
-        <source>SplitPDF</source>
-        <translation>Split PDF</translation>
-    </message>
-    <message>
         <source>PageTool</source>
         <translation>Page Tool</translation>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation>Split PDF</translation>
     </message>
     <message>
         <source>MergePDF</source>
