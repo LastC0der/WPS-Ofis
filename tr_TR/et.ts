@@ -8003,7 +8003,7 @@ Aktar</translation>
     </message>
     <message>
         <source>specifies which value argument is selected. Index_num must be between 1 and 29, or a formula or a reference to a number between 1 to 29.</source>
-        <translation type="unfinished"/>
+        <translation>hangi değer bağımsız değişkeninin seçildiğini belirtir. Dizin_num 1 ile 254 arasında, bir formül ya da 1 ile 254 arasındaki bir sayıya başvuru olmalıdır.</translation>
     </message>
     <message>
         <source>Number</source>
@@ -9004,7 +9004,7 @@ Aktar</translation>
     </message>
     <message>
         <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
-        <translation type="unfinished"/>
+        <translation>değer 1%1 değer 2%1.. ELEMAN ile seçilen en az 1 en çok 254 sayı, hücre başvurusu, tanımlanmış ad, formül, işlev ya da metin biçiminde bağımsız değer olabilir.</translation>
     </message>
     <message>
         <source>ScrollLock</source>
@@ -9122,7 +9122,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a name that refers to a cell, formula, or value.</source>
         <comment>TX_ParaDesc_197</comment>
-        <translation>sınamak istediğiniz değerdir. Değer bir hücre, bir formül veya bir hücreye, formüle veya değere başvuran bir ad olabilir.</translation>
+        <translation>sınamak istediğiniz değer. Bu değer, bir hücreye, bir formüle ya da bir hücre, formül veya değere başvuran bir ada başvuruda bulunabilir.</translation>
     </message>
     <message>
         <source>Window_text</source>
@@ -9429,7 +9429,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the value you want to test. Values can be name that refers to a cell, formula, or value.</source>
-        <translation type="unfinished"/>
+        <translation>sınamak istediğiniz değer. Bu değer, bir hücreye, bir formüle ya da bir hücre, formül veya değere başvuran bir ada başvuruda bulunabilir.</translation>
     </message>
     <message>
         <source>is a set of dependent values.</source>
@@ -10387,7 +10387,7 @@ Please check the login account. If the account is correct, please ask the docume
     </message>
     <message>
         <source>is an optional range or array of x-values that you konw in the relationship y = mx+b, an array the same size as Know_y&apos;s.</source>
-        <translation>y = mx+b denkleminde kullanılan isteğe bağlı bilinen x-değerleri aralığı ya da dizisi, Bilinen_y&apos;lerle aynı boyuttaki dizi.</translation>
+        <translation>y=mx+b denkleminde kullanılan isteğe bağlı bilinen x-değerleri aralığı ya da dizisi, Bilinen_y&apos;lerle aynı boyuttaki dizi.</translation>
     </message>
     <message>
         <source>is a table of text, number, or logical values in which data is looked up. Table_array can be a reference to a range or a range name.</source>
@@ -10419,7 +10419,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is an array or cell range of numeric dependent data points and can be numbers or names, arrays, or references that contain numbers.</source>
-        <translation type="unfinished"/>
+        <translation>sayısal bağımlı veri noktaları dizisi veya hücre aralığıdır ve sayı, ad, dizi ya da sayı içeren başvuru olabilir.</translation>
     </message>
     <message>
         <source>is the set of probabilities associated with values in X_range, values between 0 and 1 and excluding 0.</source>
@@ -10555,7 +10555,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>Index_num</source>
-        <translation type="unfinished"/>
+        <translation>Dizin_sayısı</translation>
     </message>
     <message>
         <source>The Date contains an error now. Do you want to continue?</source>
@@ -11628,7 +11628,7 @@ Denetimi</translation>
     <message>
         <source>is an array or cell range of numeric dependent data points and can be numbers or names, arrays, or references that contain numbers.</source>
         <comment>TX_ParaDesc_365</comment>
-        <translation type="unfinished"/>
+        <translation>bağımsız veri noktaları kümesidir ve sayı, ad dizi ya da sayı içeren başvuru olabilir.</translation>
     </message>
     <message>
         <source>This workbook cannot be shared because it contains WPS tables or XML maps. To share this workbook, convert the tables to ranges and remove the XML maps.</source>
@@ -12064,7 +12064,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a name that refers to a cell, formula, or value.</source>
-        <translation>sınamak istediğiniz değerdir. Değer bir hücre, bir formül veya bir hücreye, formüle veya değere başvuran bir ad olabilir.</translation>
+        <translation>sınamak istediğiniz değer. Bu değer, bir hücreye, bir formüle ya da bir hücre, formül veya değere başvuran bir ada başvuruda bulunabilir.</translation>
     </message>
     <message>
         <source>is a serial date number that represents the start date.</source>
@@ -22928,7 +22928,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the slope of the linear regression line through data points in known_y&apos;s and known_x&apos;s.</source>
-        <translation>Bilinen_y&apos;ler ve bilinen_x&apos;lerdeki veri noktaları aracılığıyla, doğrusal regresyon çizgisinin eğimini verir.</translation>
+        <translation>Verilen veri noktaları boyunca doğrusal regresyon çizgisinin eğimini verir.</translation>
     </message>
     <message>
         <source>IMPRODUCT(inumber1,inumber2,...)</source>
@@ -24479,7 +24479,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a value from the list of arguments based on the given index number.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dizin numarasını temel alan bir değerler listesinden gerçekleştirmek üzere bir değer ya da eylem seçer.</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is an error (#VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL) excluding #N/A; returns FALSE otherwise.</source>
