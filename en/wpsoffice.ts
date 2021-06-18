@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="tr_TR">
 <context>
     <name>QWidget</name>
     <message>
@@ -272,7 +272,7 @@
     </message>
     <message>
         <source>ScrollLock</source>
-        <translation>Scroll Lock</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Context1</source>
@@ -668,7 +668,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation>Unknown</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&lt;qt&gt;Do you want to overwrite it?&lt;/qt&gt;</source>
@@ -721,131 +721,131 @@ Please choose a different file name.</source>
     <name>KPromeTabFilePane</name>
     <message>
         <source>AM</source>
-        <translation>AM</translation>
+        <translation></translation>
     </message>
     <message>
         <source>PM</source>
-        <translation>PM</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sync now</source>
-        <translation>Sync now</translation>
+        <translation></translation>
     </message>
     <message>
         <source>New version is available. Please view.</source>
-        <translation>New version is Cloud,please view.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Syncing cloud documents... &lt;b&gt;%1&lt;/b&gt;%</source>
-        <translation>Syncing to Cloud... &lt;b&gt;%1&lt;/b&gt;%</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Enjoy secure backup, version tracking, and cross-device access now.</source>
-        <translation>Enjoy secure backup, version tracking, and cross-device access now.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Please clean up the cloud space.</source>
-        <translation>Please clean up the Cloud space.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>New version is available. Please refresh.</source>
-        <translation>New version is Cloud,please refresh.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Check update</source>
-        <translation>Check update</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Recent save:</source>
-        <translation>Recent save:</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Permission</source>
-        <translation>Permission</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Rename</translation>
+        <translation></translation>
     </message>
     <message>
         <source> Modified</source>
-        <translation>Modified</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Upload</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Document protected</source>
-        <translation>Document protected</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Not saved</source>
-        <translation>Not saved</translation>
+        <translation></translation>
     </message>
     <message>
         <source>cloud:</source>
-        <translation>Cloud:</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Checking updates in the cloud</source>
-        <translation>Checking updates in Cloud</translation>
+        <translation></translation>
     </message>
     <message>
         <source>local:</source>
-        <translation>Local:</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Checking File Version...</source>
-        <translation>Checking File Version...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>This is a historical version</source>
-        <translation>This is a historical version, not the latest version</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Share file</source>
-        <translation>Share</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Manually stopped uploading</source>
-        <translation>Upload cancelled, not save to Cloud</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Details and diagnosis</source>
-        <translation>Details and diagnosis</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Unprotected document</source>
-        <translation>Unprotected document</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Upload failed</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The document is saved locally, we supposed to change it to cloud file.</source>
-        <translation>The document is saved locally, We suggest saving to WPS Cloud.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Refresh File</source>
-        <translation>Refresh</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Backup File</source>
-        <translation>Backup File</translation>
+        <translation></translation>
     </message>
     <message>
         <source>View File</source>
-        <translation>View File</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Waiting for sync</source>
-        <translation>Waiting for sync</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Failed to connect to server</source>
-        <translation>Failed to connect to server</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -871,46 +871,46 @@ Please choose a different file name.</source>
     <name>KPromeActiveCodeDlg</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Enter Serial Number</source>
-        <translation>Enter Serial Number</translation>
+        <translation></translation>
     </message>
     <message>
         <source>To activate WPS need to get the system UAC (user account control) allows, please try again.</source>
-        <translation>Activating WPS Office requires system UAC (user account control) permission. Please try again.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The serial number you entered already exists.</source>
-        <translation>The serial number you entered already exists.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The serial number is not support this platform.</source>
-        <translation>This serial number is not for activating WPS Office for Windows.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The serial number has expired.</source>
-        <translation>The serial number has expired.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The serial number is invalid. Please confirm it.</source>
-        <translation>The serial number is invalid. Please confirm it.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>LIFETIME LICENSE</source>
-        <translation>LIFETIME LICENSE</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Please check your network connection and try again.</source>
-        <translation>Please check your network connection and try again.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeRoamSyncBubble</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -972,15 +972,15 @@ Please choose a different file name.</source>
     <name>KxDlgSyServerLogin</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Login</source>
-        <translation>Sign in</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1007,7 +1007,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>To activate WPS need to get the system UAC (user account control) allows, please try again.</source>
-        <translation>Activating WPS Office requires system UAC (user account control) permission. Please try again.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The serial number you entered already exists.</source>
@@ -1015,7 +1015,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>The serial number is not support this platform.</source>
-        <translation>This serial number is not for activating WPS Office for Windows.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Invalid serial number or activation code.</source>
@@ -1083,7 +1083,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Add SN Succeed.</source>
-        <translation>Serial Number has been added successfully.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>How to get an enterprise activation code?</source>
@@ -1140,9 +1140,7 @@ You need to sign in before you buy. </source>
         <source>After expiration, some features will not work properly.
 Please contact your sales to get
 new product key if you still want to use the features.</source>
-        <translation>After expiration, some features will not work properly.
-Please contact your sales to get
-new product key if you still want to use the features.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
@@ -1175,7 +1173,7 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Buy Now</source>
-        <translation>Buy/Renew Now</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Activate</source>
@@ -1183,19 +1181,17 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Purchase License</source>
-        <translation>Purchase services</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Some features will not work properly.
 Please contact your sales to get
 new product key if you still want to use the features.</source>
-        <translation>Some features will not work properly.
-Please contact your sales to get
-new product key if you still want to use the features.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>You can purchase a license to remove advertisements and enjoy extra services.</source>
-        <translation>You can purchase WPS Premium,PDF to word and other services</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
@@ -1232,34 +1228,34 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>KxReminderTipDlg</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation></translation>
     </message>
     <message>
         <source>here</source>
-        <translation>here</translation>
+        <translation></translation>
     </message>
     <message>
         <source>This function needs to be activated before use.</source>
-        <translation>This function needs to be activated before use.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Activation method:  &quot;Setting&quot; - &quot;Product Key&quot; or refer </source>
-        <translation>Activation method:  &quot;Setting&quot; - &quot;Product Key&quot; or refer </translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxSyServerLoginDlg</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Login</source>
-        <translation>Sign in</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1368,7 +1364,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -1434,7 +1430,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>QPlatformTheme</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -1482,7 +1478,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -1509,98 +1505,98 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>KFoundBackupFileWidget</name>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>OK</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Yes</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Migrate backup files next time</source>
-        <translation>Migrate backup files next time</translation>
+        <translation></translation>
     </message>
     <message>
         <source>important tips</source>
-        <translation>Important tips</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Migrate backup files immediately</source>
-        <translation>Migrate backup files now</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Don&apos;t import backup files and keep it</source>
-        <translation>Do not import backup files and keep it</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Old backup files is detected. Do you want to import them into the tourist account of WPS 2019? When you import and execute, you can also use WPS. However, when the file is larger or more, it may affect performance and take some time.</source>
-        <translation>Backup files is detected. Comfirm to import them into unlogged in account? it may take some time when the files is too much.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Import backup files next time</source>
-        <translation>Import backup files next time</translation>
+        <translation></translation>
     </message>
     <message>
         <source>continue</source>
-        <translation>Continue</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Migrate backup files of wps</source>
-        <translation>Migrate backup files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>drive(%1) has insufficient disk space!please clean up you disk</source>
-        <translation>Disk(%1) has not enough space!please clean up disk</translation>
+        <translation></translation>
     </message>
     <message>
         <source>%1view old backup files(%2 files,%3)%4</source>
-        <translation>%1view old backup files(%2 files,%3)%4</translation>
+        <translation></translation>
     </message>
     <message>
         <source>It is detected that you have changed the local backup directory in the WPS backupcenter. You can also use WPS when you backup data migration. However, when the file is larger or more, it may affect performance and last longer.</source>
-        <translation>It is detected that you have changed the local backup directory in Backup center. It may take some time when the files is too much.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Don&apos;t Migrate backup files and keep it</source>
-        <translation>Do not migrate backup files and keep it</translation>
+        <translation></translation>
     </message>
     <message>
         <source>commend</source>
-        <translation>Recommend</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Import backup files immediately</source>
-        <translation>Import backup files now</translation>
+        <translation></translation>
     </message>
     <message>
         <source>You are about to permanently delete the old backup files. After deleting the file,it will not be restored. Do you still want to delete it?</source>
-        <translation>You will permanently delete files,and can not be restored. Confirm to delete?</translation>
+        <translation></translation>
     </message>
     <message>
         <source>found old backup files of wps</source>
-        <translation>find backup files in old version of WPS</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeConfigGuiderDlg</name>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Yes</translation>
+        <translation></translation>
     </message>
     <message>
         <source>important tips</source>
-        <translation>Important tips</translation>
+        <translation></translation>
     </message>
     <message>
         <source>you are importing backup files,it may cause backup file loss if exit it now.still continue to close it?</source>
-        <translation>you are importing backup files,it may lose backup file if exit now.Confirm to close it?</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1686,7 +1682,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Color Mode</source>
-        <translation>Color mode</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Options</source>
@@ -1773,7 +1769,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Page setup</source>
-        <translation>Print Setup</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Show overview of all pages</source>
@@ -1900,7 +1896,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>the directory</source>
-        <translation>Directory</translation>
+        <translation></translation>
     </message>
     <message>
         <source>File &amp;type:</source>
@@ -1998,7 +1994,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>the symlink</source>
-        <translation>System link</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -2014,7 +2010,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Symlink to Special</source>
-        <translation>System link to special</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Select a Directory</source>
@@ -2046,7 +2042,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>the file</source>
-        <translation>File</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Create New Folder</source>
@@ -2054,11 +2050,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Symlink to File</source>
-        <translation>System link to file</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Symlink to Directory</source>
-        <translation>System link to directory</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Detail View</source>
@@ -2693,27 +2689,27 @@ Check path and filename.</source>
     <name>KPremiumGuidePage</name>
     <message>
         <source>PDF</source>
-        <translation>PDF</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Presentation</source>
-        <translation>Presentation</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Registered User</source>
-        <translation>Registered User</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Document</source>
-        <translation>Document</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Premium</source>
-        <translation>Premium</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Spreadsheets</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2806,65 +2802,73 @@ Check path and filename.</source>
     <name>KPromeTabCloseOtherWidget</name>
     <message>
         <source>all</source>
-        <translation>All</translation>
+        <translation></translation>
     </message>
     <message>
         <source>right</source>
-        <translation>Right</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KQingLoginProtocolDlg</name>
     <message>
         <source>and</source>
-        <translation>and</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Disagree agreement</source>
-        <translation>Disagree</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Agree to the agreement</source>
-        <translation>Agree</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Privacy Agreement</source>
-        <translation>Privacy Policy</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxPromeEulaDlg</name>
     <message>
         <source>and</source>
-        <translation>and</translation>
+        <translation></translation>
     </message>
     <message>
         <source>about:blank</source>
-        <translation>about:blank</translation>
+        <translation></translation>
     </message>
     <message>
         <source>I &amp;Accept</source>
-        <translation>I &amp;Accept</translation>
+        <translation></translation>
     </message>
     <message>
         <source>I &amp;Decline</source>
-        <translation>I &amp;Decline</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Join the experience improvement plan</source>
-        <translation>Join the experience improvement plan</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Office End-User License Agreement</source>
-        <translation>WPS Office End-User License Agreement</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
-        <translation>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Privacy Agreement</source>
-        <translation>Privacy Policy</translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>I &amp;Confirm</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>I &amp;Cancel</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3229,7 +3233,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>bottom margin</source>
-        <translation>Bottom margin</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Paper</source>
@@ -3245,7 +3249,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>right margin</source>
-        <translation>Right margin</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Margins</source>
@@ -3261,7 +3265,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Orientation</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -3269,11 +3273,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>top margin</source>
-        <translation>Top margin</translation>
+        <translation></translation>
     </message>
     <message>
         <source>left margin</source>
-        <translation>Left margin</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Page size:</source>
@@ -3323,67 +3327,67 @@ Please verify the correct file name was given.</source>
     <name>KNewStartupGuidePane</name>
     <message>
         <source>Free</source>
-        <translation>Free</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Template Premium</source>
-        <translation>Template Premium</translation>
+        <translation></translation>
     </message>
     <message>
         <source>1GB Cloud Space</source>
-        <translation>1 GB Cloud Space</translation>
+        <translation></translation>
     </message>
     <message>
         <source>/half year</source>
-        <translation>/half year</translation>
+        <translation></translation>
     </message>
     <message>
         <source>10000+assets</source>
-        <translation>10000+assets</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Registered User</source>
-        <translation>Registered User</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Office is a Cross-platform office suite with PDF Editor,Templates and other powerful tools.</source>
-        <translation>WPS Office is a Cross-platform office suite with PDF Editor,Templates and other powerful tools.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Go for Free</source>
-        <translation>Go for Free</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Premium</source>
-        <translation>WPS Premium</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation>Picture to PDF</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation>Buy/Renew Now</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
-        <translation>Free 7-day trial</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Use redeem code</source>
-        <translation>Use redeem code</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Most popular choice !</source>
-        <translation>Most popular choice !</translation>
+        <translation></translation>
     </message>
     <message>
         <source>compare plans</source>
-        <translation>Compare plans</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Choose a plan</source>
-        <translation>Choose a plan</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3426,11 +3430,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>- [%1]</source>
-        <translation>%1 - </translation>
+        <translation></translation>
     </message>
     <message>
         <source>%1 - [%2]</source>
-        <translation>%2 - %1</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Restore</source>
@@ -3469,7 +3473,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>my device</source>
-        <translation>My Device</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Protocol error: packet of size 0 received</source>
@@ -3489,7 +3493,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>60 days</source>
-        <translation>60 days</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
@@ -3497,7 +3501,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>90 days</source>
-        <translation>90 days</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Remote host closed the connection prematurely on %1</source>
@@ -3513,7 +3517,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Manage Duplicates</source>
-        <translation>Manage Duplicates</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3536,7 +3540,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation>Date is modified</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3595,7 +3599,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation>Date is modified</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3624,7 +3628,7 @@ Please verify the correct file name was given.</source>
     <name>KPromeMoreMenuStandAloneWindowButton</name>
     <message>
         <source>More</source>
-        <translation>More</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3642,26 +3646,26 @@ Please verify the correct file name was given.</source>
     <name>KStartupFeatureGuideTipContiner</name>
     <message>
         <source>Next</source>
-        <translation>Next</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Finish</source>
-        <translation>Finish</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KOpenSelector</name>
     <message>
         <source>Open</source>
-        <translation>Open</translation>
+        <translation></translation>
     </message>
     <message>
         <source>fileName</source>
-        <translation>Filename</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Please choose the open way</source>
-        <translation>Please choose the open method</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3749,47 +3753,47 @@ Please verify the correct file name was given.</source>
     <name>KPromeWpsSubPage</name>
     <message>
         <source>Save</source>
-        <translation>Save</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Opening file...</source>
-        <translation>Opening file...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Creating file...</source>
-        <translation>Creating file...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Backup</source>
-        <translation>Backup</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Rename</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>Properties</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Save As...</source>
-        <translation>Save As...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Share File</source>
-        <translation>Share</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Save To Cloud</source>
-        <translation>Save To Cloud</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reloading file...</source>
-        <translation>Reloading file...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Open File Location</source>
-        <translation>Open File Location</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3819,122 +3823,122 @@ Please verify the correct file name was given.</source>
     <name>KPromeApplication</name>
     <message>
         <source>open</source>
-        <translation>Open</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS/Word Files</source>
-        <translation>Word Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Web Pages</source>
-        <translation>Web Pages</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Close forcefully can cause discard all not saved data.</source>
-        <translation>Force close can cause lose unsaved data.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Return</source>
-        <translation>Back</translation>
+        <translation></translation>
     </message>
     <message>
         <source>SaveAs</source>
-        <translation>Save As</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Text Files</source>
-        <translation>Text Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Please close current document before you logout</source>
-        <translation>Please close current document before sign out</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Access Databases</source>
-        <translation>Access Databases</translation>
+        <translation></translation>
     </message>
     <message>
         <source>DBase Files</source>
-        <translation>DBase Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Close force</source>
-        <translation>Force close</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Please close current document before you exit</source>
-        <translation>Please close the current document before you exit.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Pdf Files</source>
-        <translation>PDF Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Rtf Files</source>
-        <translation>RTF Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>DIF Files</source>
-        <translation>DIF Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Single Web Page Files</source>
-        <translation>Single Web Page Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>ET/Excel Files</source>
-        <translation>Excel Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Query Files</source>
-        <translation>Query Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Normal Files</source>
-        <translation>Common Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Ebook Files</source>
-        <translation>E-books</translation>
+        <translation></translation>
     </message>
     <message>
         <source>XML Files</source>
-        <translation>XML Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation>All Files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
-        <translation>The command can not be executed when opening dialog. Close the dialog and retry.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>All Data Sources</source>
-        <translation>All Data Sources</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPP/PowerPoint Files</source>
-        <translation>PowerPoint Files</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxVbaDownloadGuiderDlg</name>
     <message>
         <source>tips</source>
-        <translation>Tips</translation>
+        <translation></translation>
     </message>
     <message>
         <source>download</source>
-        <translation>Download</translation>
+        <translation></translation>
     </message>
     <message>
         <source>To enable the macros, you need to install the VBA support library. Click the button to download VBA. If VBA is already installed, restart WPS.</source>
-        <translation>Install VBA library to enable the macros. Click the button to download VBA. If installed, restart WPS.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4862,23 +4866,23 @@ Please verify the correct file name was given.</source>
     <name>KBubbleTipManager</name>
     <message>
         <source>The probation period is about to expire</source>
-        <translation>Your trial period is about to expire.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>You try %1 days, and %2 days left. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation>You have tried for %1 days and there are %2 days left.&lt;br/&gt;After the trial period, your WPS Office will no longer function properly. &lt;br/&gt;Please purchase WPS Office if you want to continue your use of the product.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The Authorize period is about to expire</source>
-        <translation>Your authorize period is about to expire.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation>There are %1 left in your authorized period of the product.&lt;br/&gt;After the authorized period has ended, your WPS Office will no longer function properly. &lt;br/&gt;Please renew if you want to continue your use of the product.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Contact Email:gch@wps.cn</source>
-        <translation>Contact Email: gch@wps.cn</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4917,61 +4921,59 @@ Please verify the correct file name was given.</source>
     <message>
         <source>After expired, this version will not run.
 Please download and update in time so as not to affect your work.</source>
-        <translation>After expired, this version will not run.
-Please download and update in time so as not to affect your work.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>This WPS 2019 test will expire in %1 days|This WPS 2019 test version has expired and can not continue to use</source>
-        <translation>This is WPS 2019 test version, will expire in %1 days|WPS 2019 test version has expired and can&apos;t continue to use</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Update Now</source>
-        <translation>Update Now</translation>
+        <translation></translation>
     </message>
     <message>
         <source>In order to ensure that you can use a more stable and reliable version, we set up the expired time for the test.</source>
-        <translation>In order to ensure that you can use a more stable and reliable version, we set up the expired time for the test.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Don&apos;t update|Exit</source>
-        <translation>Stop update|Exit</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeWindowCrashCenterWidget</name>
     <message>
         <source>It is recommended to turn on automatic backup and retrieve backup documents when WPS is unexpectedly closed</source>
-        <translation>It is recommended that you turn on automatic backup and retrieve backup documents when WPS is unexpectedly closed.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Send Error Report</source>
-        <translation>Send Error Report</translation>
+        <translation></translation>
     </message>
     <message>
         <source>View Backup</source>
-        <translation>View Backup</translation>
+        <translation></translation>
     </message>
     <message>
         <source>We have encountered an unrecoverable problem</source>
-        <translation>We meet an unrecoverable problem</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Your file has been automatically saved to the backup folder, don&apos;t worry.
 If this error occurs repeatedly, please send us an error report.</source>
-        <translation>Do not worry,your file has been automatically saved.
-If error occurs repeatedly, please send us an error report.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reload File</source>
-        <translation>Reload File</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Auto Backup enabled; If there is a backup file of this document, the last backup file will be loaded</source>
-        <translation>Auto Backup enabled. If there is a backup file of this document, the last backup file will be loaded.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5146,11 +5148,11 @@ If error occurs repeatedly, please send us an error report.</translation>
     </message>
     <message>
         <source>%1: unix key file doesn&apos;t exists</source>
-        <translation>%1: Unix key file doesn&apos;t exist</translation>
+        <translation></translation>
     </message>
     <message>
         <source>%1: doesn&apos;t exists</source>
-        <translation>%1: doesn&apos;t exist</translation>
+        <translation></translation>
     </message>
     <message>
         <source>%1: key is empty</source>
@@ -5162,7 +5164,7 @@ If error occurs repeatedly, please send us an error report.</translation>
     </message>
     <message>
         <source>%1: create size is less then 0</source>
-        <translation>%1: create size is less than 0</translation>
+        <translation></translation>
     </message>
     <message>
         <source>%1: already exists</source>
@@ -5388,7 +5390,7 @@ If error occurs repeatedly, please send us an error report.</translation>
     </message>
     <message>
         <source>Entity &apos;%1&apos; not declared.</source>
-        <translation>Entity &apos;%1&apos; is not declared.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>%1 is an invalid processing instruction name.</source>
@@ -5464,7 +5466,7 @@ If error occurs repeatedly, please send us an error report.</translation>
     </message>
     <message>
         <source>XML declaration not at start of document.</source>
-        <translation>XML declaration is not at start of document.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Recursive entity detected.</source>
@@ -5708,31 +5710,29 @@ If error occurs repeatedly, please send us an error report.</translation>
     <name>KGuiderFinishedWidget</name>
     <message>
         <source>Close</source>
-        <translation>Close</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Backup files imported</source>
-        <translation>Backup file has been imported</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Backup data migration completed</source>
-        <translation>Migration completed</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Old backup files  has been imported into tourist account of WPS 2019.In the future,
 you can view backup and restore files through the backup center.</source>
-        <translation>Old backup files has been imported into unlogged in account.In the future,
-you can view them in Backup center.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Open Backup Center</source>
-        <translation>Open Backup Center</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Old backup files has been successfully migrated to the new storage directory,
 and you can view the backup files and recovery them through BackupCenter.</source>
-        <translation>Old backup files has been successfully migrated to the new storage directory,
-and you can view them in Backup center.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5747,7 +5747,7 @@ and you can view them in Backup center.</translation>
     </message>
     <message>
         <source>Puts a minimized back to normal</source>
-        <translation>Puts a minimized window back to normal</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Displays the name of the window and contains controls to manipulate it</source>
@@ -5794,26 +5794,26 @@ and you can view them in Backup center.</translation>
     <name>KPromeClientProcessManager</name>
     <message>
         <source>WPS has encountered a problem and needs to close. We are sorry for the inconvenience.</source>
-        <translation>WPS has encountered a problem and needs to close. We are sorry for the inconvenience.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeSkin</name>
     <message>
         <source>Clear (Default)</source>
-        <translation>Clear (Default)</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Clear (Black)</source>
-        <translation>Clear (Dark Beta)</translation>
+        <translation></translation>
     </message>
     <message>
         <source>classic</source>
-        <translation>Classic UI</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Comfort</source>
-        <translation>Comfort</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5870,7 +5870,7 @@ and you can view them in Backup center.</translation>
     </message>
     <message>
         <source>Never show again</source>
-        <translation>Never show again</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Download</source>
@@ -5965,153 +5965,153 @@ to
     <name>KPromeExportPDFFailedCenterWidget</name>
     <message>
         <source>Retry</source>
-        <translation>Retry</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Transform Failed,</source>
-        <translation>Transform failed,</translation>
+        <translation></translation>
     </message>
     <message>
         <source>New Failed,</source>
-        <translation>Creation failed,</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Contact Customer Service</source>
-        <translation>Contact us</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromePluginLoadWidget</name>
     <message>
         <source>Retry</source>
-        <translation>Retry</translation>
+        <translation></translation>
     </message>
     <message>
         <source>loading plugin...</source>
-        <translation>Loading plugin...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Contact Customer Service</source>
-        <translation>Contact us</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeWindowLoadingWidget</name>
     <message>
         <source>Retry</source>
-        <translation>Retry</translation>
+        <translation></translation>
     </message>
     <message>
         <source>view cached files</source>
-        <translation>view cached files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Opening file...</source>
-        <translation>Opening file...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Creating file...</source>
-        <translation>Creating file...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Loading </source>
-        <translation>Loading </translation>
+        <translation></translation>
     </message>
     <message>
         <source>Open failed. The file does not exist</source>
-        <translation>Open failed. The file does not exist</translation>
+        <translation></translation>
     </message>
     <message>
         <source>You can, </source>
-        <translation>You can also, </translation>
+        <translation></translation>
     </message>
     <message>
         <source>The account is offline. Please login again</source>
-        <translation>Account has been logged out. Please login again</translation>
+        <translation></translation>
     </message>
     <message>
         <source>newdoc.doc</source>
-        <translation>newdoc.doc</translation>
+        <translation></translation>
     </message>
     <message>
         <source>newdoc.xls</source>
-        <translation>newdoc.xls</translation>
+        <translation></translation>
     </message>
     <message>
         <source>newdoc.ppt</source>
-        <translation>newdoc.ppt</translation>
+        <translation></translation>
     </message>
     <message>
         <source>File not existed</source>
-        <translation>File not existed</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeTipGroup_XA</name>
     <message>
         <source>Share</source>
-        <translation>Share</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cloud backup</source>
-        <translation>Cloud backup</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Local save:</source>
-        <translation>Local save:</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxShareDocRightCornerWidget</name>
     <message>
         <source>Share</source>
-        <translation>Share</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KUpdateHelper</name>
     <message>
         <source>Reinstall</source>
-        <translation>Reinstall</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Office Exception</source>
-        <translation>WPS Office Exception</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
-        <translation>WPS Office updates have been downloaded. Do you want to install them now?</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Office update service cannot work properly, and you will not be able to access to new and improved features brought out in new versions. We recommend that you reinstalled WPS Office to solve this problem.</source>
-        <translation>WPS Office upgrade exceptions. You may unable to use new and improved features provided in the latest version. We recommend you to reinstall WPS to fix this issue.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
-        <translation>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeWelcomeDlg</name>
     <message>
         <source>Trial</source>
-        <translation>Trial</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Enter Serial Number</source>
-        <translation>Enter Serial Number</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Purchase WPS Office for Enterprise</source>
-        <translation>Purchase WPS Office for Enterprise</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Sign in</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6251,37 +6251,37 @@ to
     <name>KDocerFakeBtnTabMenu</name>
     <message>
         <source>close</source>
-        <translation>Close</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeTabMenu</name>
     <message>
         <source>close</source>
-        <translation>Close</translation>
+        <translation></translation>
     </message>
     <message>
         <source>close other tabs</source>
-        <translation>Close other tabs</translation>
+        <translation></translation>
     </message>
     <message>
         <source>stand alone window</source>
-        <translation>Stand alone window</translation>
+        <translation></translation>
     </message>
     <message>
         <source>canel fixed tab</source>
-        <translation>Unfix tab</translation>
+        <translation></translation>
     </message>
     <message>
         <source>fixed tab</source>
-        <translation>Fix tab</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KTempleteShopFakeBtnTabMenu</name>
     <message>
         <source>close</source>
-        <translation>Close</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6307,7 +6307,7 @@ to
     </message>
     <message>
         <source>(unknown)</source>
-        <translation>(Unknown)</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support removing files or directories</source>
@@ -6430,19 +6430,19 @@ to
     <name>KPromeLoginMenuVipInfoItem</name>
     <message>
         <source>Template Premium</source>
-        <translation>Template Premium</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Registered user</source>
-        <translation>Registered user</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Premium</source>
-        <translation>WPS Premium</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Expiry date</source>
-        <translation>Expire time</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6562,7 +6562,7 @@ to
     </message>
     <message>
         <source>Unable to open database &apos;</source>
-        <translation>Unable to open database</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Unable to connect</source>
@@ -6719,7 +6719,7 @@ to
     <name>KxOverdueDlg</name>
     <message>
         <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Enter Viewer</source>
@@ -6731,7 +6731,7 @@ to
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Online Store.</source>
@@ -6800,97 +6800,97 @@ have libgstreamer-plugins-base installed.</source>
     <name>KPromeInfoCenterPage</name>
     <message>
         <source>Version And Account Info</source>
-        <translation>Version and Account Info</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeStartup</name>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS Presentation</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Kingsoft PDF</source>
-        <translation>WPS PDF</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Not a valid file.</source>
-        <translation>Not a valid file.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Office</source>
-        <translation>WPS Office</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>WPS Writer</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation>WPS Spreadsheets</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
-        <translation>The command can not be executed when opening dialog. Close the dialog and retry.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPrometheusOpenSelectorDlg</name>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS Presentation</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>WPS Writer</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS PDF</source>
-        <translation>WPS PDF</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation>WPS Spreadsheets</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeMinButton</name>
     <message>
         <source>Minimize Window</source>
-        <translation>Minimize Window</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeMinStandAloneWindowButton</name>
     <message>
         <source>Minimize Window</source>
-        <translation>Minimize Window</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeNewTabButton</name>
     <message>
         <source>New Document</source>
-        <translation>New Document</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KStartupFeatureGuideDlg</name>
     <message>
         <source>New Document</source>
-        <translation>New Document</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Setting Center</source>
-        <translation>Settings</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Language switching, window mode switching, etc.</source>
-        <translation>Language switching, window mode switching, etc.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Create a new blank doc, xls, ppt document, or select a template to create a new document.</source>
-        <translation>New blank *.doc, *.xls, *.ppt document, or select a template</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6941,7 +6941,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Could not mmap &apos;%1&apos;: %2</source>
-        <translation>Could not map &apos;%1&apos;: %2</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7066,11 +7066,11 @@ have libgstreamer-plugins-base installed.</source>
     <name>KxDlgWelcomePage</name>
     <message>
         <source>Personal Edition(Free)</source>
-        <translation>Personal Edition (Free)</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
-        <translation>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Did you purchase WPS Office?</source>
@@ -7093,125 +7093,125 @@ have libgstreamer-plugins-base installed.</source>
     <name>QXml</name>
     <message>
         <source>unparsed entity reference in wrong context</source>
-        <translation>Unparsed entity reference in wrong context</translation>
+        <translation></translation>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in DTD</source>
-        <translation>External parsed general entity reference not allowed in DTD</translation>
+        <translation></translation>
     </message>
     <message>
         <source>wrong value for standalone declaration</source>
-        <translation>Wrong value for standalone declaration</translation>
+        <translation></translation>
     </message>
     <message>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation>Encoding declaration or standalone declaration expected while reading the XML declaration</translation>
+        <translation></translation>
     </message>
     <message>
         <source>no error occurred</source>
-        <translation>No error occurred</translation>
+        <translation></translation>
     </message>
     <message>
         <source>error occurred while parsing reference</source>
-        <translation>Error occurred while parsing reference</translation>
+        <translation></translation>
     </message>
     <message>
         <source>standalone declaration expected while reading the XML declaration</source>
-        <translation>Standalone declaration expected while reading the XML declaration</translation>
+        <translation></translation>
     </message>
     <message>
         <source>invalid name for processing instruction</source>
-        <translation>Invalid name for processing instruction</translation>
+        <translation></translation>
     </message>
     <message>
         <source>error triggered by consumer</source>
-        <translation>Error triggered by consumer</translation>
+        <translation></translation>
     </message>
     <message>
         <source>error occurred while parsing element</source>
-        <translation>Error occurred while parsing element</translation>
+        <translation></translation>
     </message>
     <message>
         <source>unexpected character</source>
-        <translation>Unexpected character</translation>
+        <translation></translation>
     </message>
     <message>
         <source>tag mismatch</source>
-        <translation>Tag mismatch</translation>
+        <translation></translation>
     </message>
     <message>
         <source>error occurred while parsing content</source>
-        <translation>Error occurred while parsing content</translation>
+        <translation></translation>
     </message>
     <message>
         <source>error occurred while parsing comment</source>
-        <translation>Error occurred while parsing comment</translation>
+        <translation></translation>
     </message>
     <message>
         <source>internal general entity reference not allowed in DTD</source>
-        <translation>Internal general entity reference not allowed in DTD</translation>
+        <translation></translation>
     </message>
     <message>
         <source>recursive entities</source>
-        <translation>Recursive entities</translation>
+        <translation></translation>
     </message>
     <message>
         <source>more than one document type definition</source>
-        <translation>More than one document type definition</translation>
+        <translation></translation>
     </message>
     <message>
         <source>version expected while reading the XML declaration</source>
-        <translation>Version expected while reading the XML declaration</translation>
+        <translation></translation>
     </message>
     <message>
         <source>letter is expected</source>
-        <translation>Letter is expected</translation>
+        <translation></translation>
     </message>
     <message>
         <source>unexpected end of file</source>
-        <translation>Unexpected end of file</translation>
+        <translation></translation>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation>External parsed general entity reference not allowed in attribute value</translation>
+        <translation></translation>
     </message>
     <message>
         <source>error in the text declaration of an external entity</source>
-        <translation>Error in the text declaration of an external entity</translation>
+        <translation></translation>
     </message>
     <message>
         <source>error occurred while parsing document type definition</source>
-        <translation>Error occurred while parsing document type definition</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeBrowserSubPage</name>
     <message>
         <source>copy web page</source>
-        <translation>Copy web page</translation>
+        <translation></translation>
     </message>
     <message>
         <source>load by default browser</source>
-        <translation>Open with default browser</translation>
+        <translation></translation>
     </message>
     <message>
         <source>add current web page to wps startpage</source>
-        <translation>Add current web page to wps startpage</translation>
+        <translation></translation>
     </message>
     <message>
         <source>reload web page</source>
-        <translation>Reload page</translation>
+        <translation></translation>
     </message>
     <message>
         <source>new web page</source>
-        <translation>New web page</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeMergeStandAloneWindowButton</name>
     <message>
         <source>Merge Stand Alone Window</source>
-        <translation>Merge Stand Alone Window</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7291,21 +7291,21 @@ have libgstreamer-plugins-base installed.</source>
     <name>KPromeCloseButton</name>
     <message>
         <source>Close Window</source>
-        <translation>Close Window</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeCloseStandAloneWindowButton</name>
     <message>
         <source>Close Window</source>
-        <translation>Close Window</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeMainWindow</name>
     <message>
         <source>Please select the type of file you want to create</source>
-        <translation>Please select the type of file you want to create</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7386,58 +7386,58 @@ have libgstreamer-plugins-base installed.</source>
     <name>KStartupDownloadLangDialog</name>
     <message>
         <source>Install language packs, configure the application environment</source>
-        <translation>Install language, configure environment.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>After starting WPS, you can download the language online in the settings center</source>
-        <translation>You can also download language in Settings after starting WPS.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Initialization not completed</source>
-        <translation>Initialization not completed</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Tips: Keep networking, will be completed soon</source>
-        <translation>Tips: Keep network connecting, will be completed soon</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>QRegExp</name>
     <message>
         <source>bad lookahead syntax</source>
-        <translation>Bad lookahead syntax</translation>
+        <translation></translation>
     </message>
     <message>
         <source>no error occurred</source>
-        <translation>No error occurred</translation>
+        <translation></translation>
     </message>
     <message>
         <source>missing left delim</source>
-        <translation>Missing left delim</translation>
+        <translation></translation>
     </message>
     <message>
         <source>bad char class syntax</source>
-        <translation>Bad character class syntax</translation>
+        <translation></translation>
     </message>
     <message>
         <source>disabled feature used</source>
-        <translation>Disabled feature used</translation>
+        <translation></translation>
     </message>
     <message>
         <source>invalid octal value</source>
-        <translation>Invalid octal value</translation>
+        <translation></translation>
     </message>
     <message>
         <source>bad repetition syntax</source>
-        <translation>Bad repetition syntax</translation>
+        <translation></translation>
     </message>
     <message>
         <source>met internal limit</source>
-        <translation>Met internal limit</translation>
+        <translation></translation>
     </message>
     <message>
         <source>unexpected end</source>
-        <translation>Unexpected end</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7483,15 +7483,15 @@ have libgstreamer-plugins-base installed.</source>
     <name>KLanguageBubble</name>
     <message>
         <source>&lt;p style=&quot;margion:20px;&quot;&gt;Language download finished, &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot;text-decoration:underline;color:#149dfb;&quot;&gt;Apply&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p style=&quot;margion:20px;&quot;&gt;Language download finished, &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot;text-decoration:underline;color:#149dfb;&quot;&gt;Apply&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&lt;p&gt;Language download failed, &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot;text-decoration:underline;color:#149dfb;&quot;&gt;Retry&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Language download failed, &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot;text-decoration:underline;color:#149dfb;&quot;&gt;Retry&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&lt;p&gt;New language supported, &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot;text-decoration:underline;color:#149dfb;&quot;&gt;View&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;New language supported, &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot;text-decoration:underline;color:#149dfb;&quot;&gt;View&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7724,16 +7724,15 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed, deleted or moved.</source>
-        <translation>Unable to open &quot;%1&quot;.
-This file may be renamed, deleted or moved.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Office</source>
-        <translation>WPS Office</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation>The folder &quot;%1&quot; could not be found. It might have been deleted, moved, or renamed.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7842,7 +7841,7 @@ This file may be renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Customize...</source>
-        <translation>Custom...</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7906,81 +7905,81 @@ This file may be renamed, deleted or moved.</translation>
     <name>KNewToCloudContentWidget</name>
     <message>
         <source>open location</source>
-        <translation>Open location</translation>
+        <translation></translation>
     </message>
     <message>
         <source>has successfully save to cloud disk</source>
-        <translation>has successfully save to Cloud</translation>
+        <translation></translation>
     </message>
     <message>
         <source>I have question</source>
-        <translation>Have question</translation>
+        <translation></translation>
     </message>
     <message>
         <source>don&apos;t prompt again</source>
-        <translation>Never show</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeLoginTipWidget</name>
     <message>
         <source>Something abnormal happened to login model</source>
-        <translation>Something abnormal happened to login model</translation>
+        <translation></translation>
     </message>
     <message>
         <source>2. If it still didn&apos;t work, you can reinstall WPS.</source>
-        <translation>2. If the fault persists, please reinstall WPS.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>3. If it still does not work after reinstallation, please contact us at wps@wps.cn</source>
-        <translation>3. If it still does not work after reinstallation, please contact us at officesupport@wps.com</translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.It may be caused by the security software in the computer. It is recommended that you exit the security software 
  before restarting WPS. </source>
-        <translation>1.It may be caused by the security software in the computer. It is recommended that you exit the security software before restarting WPS. </translation>
+        <translation></translation>
     </message>
     <message>
         <source>Click to download WPS package</source>
-        <translation>Click to download the WPS installation package.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KMoveBackupFileWidget</name>
     <message>
         <source>Importing old backup files</source>
-        <translation>Importing old backup files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>You can use WPS without waiting for the migration to end</source>
-        <translation>You can use WPS without waiting</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Migrating backup data</source>
-        <translation>Migrating backup files</translation>
+        <translation></translation>
     </message>
     <message>
         <source>You can use WPS 2019 without waiting for this process to end</source>
-        <translation>You can use WPS without waiting</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeSysInfo</name>
     <message>
         <source>Generating System Version Information For Debugging.</source>
-        <translation>Generating System Version Information for Debugging...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Beta Version</source>
-        <translation>Beta Version</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Version Information has been copied to system Clipboard.</source>
-        <translation>System Version Information for Debugging has been copied to system Clipboard.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Release Version</source>
-        <translation>Release Version</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7999,7 +7998,7 @@ This file may be renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation>Buy/Renew Now</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -8032,24 +8031,24 @@ p, li { white-space: pre-wrap; }
     <name>KUnloginExitDlg</name>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation></translation>
     </message>
     <message>
         <source>A logined account is needed To continue to use WPS 2019 beta version.
 Exit login panel will lead to exiting WPS 2019.</source>
-        <translation>You must be logged in to use WPS 2019 beta version.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Exit WPS 2019</source>
-        <translation>Exit soon</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Confirm to exit?</source>
-        <translation>Confirm to exit?</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Exit Now</source>
-        <translation>Exit</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8070,85 +8069,85 @@ Exit login panel will lead to exiting WPS 2019.</source>
     <name>KPromeLoginMenu</name>
     <message>
         <source>My Coupon</source>
-        <translation>My Coupon</translation>
+        <translation></translation>
     </message>
     <message>
         <source>My Subscriptions</source>
-        <translation>My Subscriptions</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Account Information</source>
-        <translation>Account Information</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Use redeem code</source>
-        <translation>Use redeem code</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sign Out</source>
-        <translation>Sign Out</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeNotFoundFileCenterWidget</name>
     <message>
         <source>Open File Path</source>
-        <translation>Open File Path</translation>
+        <translation></translation>
     </message>
     <message>
         <source>View Backup</source>
-        <translation>View Backup</translation>
+        <translation></translation>
     </message>
     <message>
         <source>File not found</source>
-        <translation>File not found</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Try Recover File</source>
-        <translation>Try Recover File</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The following files may have been moved or deleted by another or you don&apos;t have permission to access:</source>
-        <translation>The following files may have been moved or deleted,or you do not have permission to access:</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeNewFileToCloudGuideDlg</name>
     <message>
         <source>I know</source>
-        <translation>Got it</translation>
+        <translation></translation>
     </message>
     <message>
         <source>file safe protection</source>
-        <translation>Document Protection in Cloud</translation>
+        <translation></translation>
     </message>
     <message>
         <source>option</source>
-        <translation>Settings</translation>
+        <translation></translation>
     </message>
     <message>
         <source>for provide prefect file service, file will be saved in cloud disk</source>
-        <translation>To provide prefect service, file will be saved in</translation>
+        <translation></translation>
     </message>
     <message>
         <source>1 you can any version in edit</source>
-        <translation>1 you can open document both on PC and Phone</translation>
+        <translation></translation>
     </message>
     <message>
         <source>if you prefer to use save method before</source>
-        <translation>if you do not use this feature,go</translation>
+        <translation></translation>
     </message>
     <message>
         <source>close the file safe protection</source>
-        <translation>to turn off Document Protection in Cloud</translation>
+        <translation></translation>
     </message>
     <message>
         <source>2 you can edit on other computer</source>
-        <translation>2 you can edit historic version</translation>
+        <translation></translation>
     </message>
     <message>
         <source>in addition:</source>
-        <translation>WPS Cloud,in addition:</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8198,7 +8197,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>preview mode</source>
-        <translation>Preview Mode</translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sorry, your authorization has expired. A few but not all features of this software will remain available to you. Please contact your company&apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8232,7 +8235,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Contact Email:gch@wps.cn</source>
-        <translation>Contact Email: gch@wps.cn</translation>
+        <translation></translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -8244,34 +8247,34 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Trial period is over.You will enter the preview mode that offer a unnormal funtion of WPS Office.If need to continue to use,please buy the WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Your WPS Office trial period has expired. You will enter Preview mode, under which WPS Office cannot function correctly. To resume normal function, please purchase WPS Office.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation>Buy/Renew Now</translation>
+        <translation></translation>
     </message>
     <message>
         <source>preview mode</source>
-        <translation>Preview Mode</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeWpsPage</name>
     <message>
         <source>newdoc.docx</source>
-        <translation>newdoc.docx</translation>
+        <translation></translation>
     </message>
     <message>
         <source>newdoc.xlsx</source>
-        <translation>newdoc.xlsx</translation>
+        <translation></translation>
     </message>
     <message>
         <source>newdoc.pptx</source>
-        <translation>newdoc.pptx</translation>
+        <translation></translation>
     </message>
     <message>
         <source>newdoc.pdf</source>
-        <translation>newdoc.pdf</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8289,44 +8292,51 @@ p, li { white-space: pre-wrap; }
     <name>KPromeTabBar</name>
     <message>
         <source>NewTab</source>
-        <translation>New Tab</translation>
+        <translation></translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>What&apos;s New</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Tab List</source>
-        <translation>Workspace</translation>
+        <translation></translation>
     </message>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>New Tab
-Create a blank tab with Ctrl+N</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeStartPageSubPage</name>
     <message>
         <source>WPS et</source>
-        <translation>WPS Spreadsheets</translation>
+        <translation></translation>
     </message>
     <message>
         <source>StartPage</source>
-        <translation>WPS Office</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS pdf</source>
-        <translation>WPS PDF</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS wpp</source>
-        <translation>WPS Presentation</translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS wps</source>
-        <translation>WPS Writer</translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS flow</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS mind</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8348,15 +8358,15 @@ Create a blank tab with Ctrl+N</translation>
     <name>KPromeHeaderAvatar</name>
     <message>
         <source>offline</source>
-        <translation>Offline</translation>
+        <translation></translation>
     </message>
     <message>
         <source>online</source>
-        <translation>Online</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Unlogin</source>
-        <translation>Sign in</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8429,7 +8439,7 @@ Create a blank tab with Ctrl+N</translation>
     <name>KRateGuideDlg</name>
     <message>
         <source>Don&apos;t show again</source>
-        <translation>Don&apos;t show again</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8443,11 +8453,11 @@ Create a blank tab with Ctrl+N</translation>
     <name>KGDPRAgreementAskWidget</name>
     <message>
         <source>Accept &amp;&amp; Continue</source>
-        <translation>Accept &amp;&amp; Continue</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Exit WPS</source>
-        <translation>Exit WPS</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8477,21 +8487,21 @@ Create a blank tab with Ctrl+N</translation>
     <name>KPromeHeaderBar</name>
     <message>
         <source>Click here to copy version info</source>
-        <translation>Click to copy version info</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KUserCenterMenuButton</name>
     <message>
         <source>abnormal network status, turn to be offline status</source>
-        <translation>Network error. Offline now.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KNewGuideXaJsApi</name>
     <message>
         <source>Switch window manage mode</source>
-        <translation>Switch window manage mode</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8505,33 +8515,33 @@ Create a blank tab with Ctrl+N</translation>
     <name>KPromeRestoreMaxButton</name>
     <message>
         <source>Restore Window</source>
-        <translation>Restore</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Maximize Window</source>
-        <translation>Maximize</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeRestoreMaxStandAloneWindowButton</name>
     <message>
         <source>Restore Window</source>
-        <translation>Restore</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Maximize Window</source>
-        <translation>Maximize</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeTopStandAloneWindowButton</name>
     <message>
         <source>Cancel Top</source>
-        <translation>Cancel Top</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Set Top</source>
-        <translation>Set Top</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8545,7 +8555,7 @@ Create a blank tab with Ctrl+N</translation>
     <name>Q3NetworkProtocol</name>
     <message>
         <source>Operation stopped by the user</source>
-        <translation>Operation is stopped by user</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8559,15 +8569,11 @@ Create a blank tab with Ctrl+N</translation>
     <name>KPromeCloudFileDownload</name>
     <message>
         <source>Can not connect to server, please check your network setting</source>
-        <translation>Unable to connect server, please check your network</translation>
-    </message>
-    <message>
-        <source>No access permissions, please contact Author to enable the access permission.</source>
-        <translation>No access permissions, please contact Author to enable the access permission.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The account is offline. Please login again</source>
-        <translation>The account is sign out. Please sign in</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8581,7 +8587,7 @@ Create a blank tab with Ctrl+N</translation>
     <name>KBackupCenterLoaderWidget</name>
     <message>
         <source>loading backup center,please wait...</source>
-        <translation>loading backup center,please wait...</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8606,39 +8612,39 @@ Create a blank tab with Ctrl+N</translation>
     <name>KPromeHeaderUpgrade</name>
     <message>
         <source>Upgrade</source>
-        <translation>Go Premium</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KRightTopTipWidgetBase</name>
     <message>
         <source>Upgrade</source>
-        <translation>Go Premium</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeExportPDFCenterWidget</name>
     <message>
         <source>Creating Pdf file...</source>
-        <translation>Creating PDF file...</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Transforming Pdf file...</source>
-        <translation>Transforming PDF file...</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeBackupManager</name>
     <message>
         <source>Find templates, check documents, find application and enjoy privileges, all in your office start page.</source>
-        <translation>Find templates, find App and enjoy privileges, all in start page.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KPromeGuestNoticeDlg</name>
     <message>
         <source>Login Now</source>
-        <translation>Sign in</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8652,7 +8658,7 @@ Create a blank tab with Ctrl+N</translation>
     <name>KPromeRefreshStandAloneWindowButton</name>
     <message>
         <source>Refresh Stand Alone Window</source>
-        <translation>Refresh Stand Alone Window</translation>
+        <translation></translation>
     </message>
 </context>
 </TS>
