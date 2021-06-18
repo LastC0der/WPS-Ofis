@@ -12661,7 +12661,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Organize Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa İşlemi</translation>
     </message>
     <message>
         <source>Merge and Split</source>
