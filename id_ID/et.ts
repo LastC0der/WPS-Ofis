@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>StrikeThrough</source>
-        <translation type="unfinished"/>
+        <translation>Coret</translation>
     </message>
     <message>
         <source>First Column</source>
@@ -39,7 +39,7 @@
     </message>
     <message>
         <source>InsideHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Di dalam Horizontal</translation>
     </message>
     <message>
         <source>First Column Stripe</source>
@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>InsideVertical</source>
-        <translation type="unfinished"/>
+        <translation>Di dalam Vertikal</translation>
     </message>
     <message>
         <source>Modify Table Style</source>
@@ -195,7 +195,7 @@
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Ada Batas</translation>
     </message>
     <message>
         <source>No Shading</source>
@@ -661,7 +661,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Icon Set</source>
-        <translation type="unfinished"/>
+        <translation>Rangkaian Ikon</translation>
     </message>
     <message>
         <source>Last week</source>
@@ -708,7 +708,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>sheet(s) Selected)</source>
-        <translation type="unfinished"/>
+        <translation>lembar Dipilih)</translation>
     </message>
     <message>
         <source>(Current file)</source>
@@ -735,7 +735,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Find content that includes all keywords</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang berisi semua kata kunci</translation>
     </message>
     <message>
         <source>Turn on pinyin search</source>
@@ -743,23 +743,23 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Find content that includes any of the keywords</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang berisi salah satu kata kunci</translation>
     </message>
     <message>
         <source>Find content that includes the conditions</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang berisi kondisi</translation>
     </message>
     <message>
         <source>Find content that matches the conditions</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang cocok dengan kondisi</translation>
     </message>
     <message>
         <source>Find content that includes the wildcards</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang berisi string</translation>
     </message>
     <message>
         <source>Find content that includes the whole string</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang berisi string utuh</translation>
     </message>
 </context>
 <context>
@@ -902,7 +902,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Doub&amp;le click tab to Close Documemt</source>
-        <translation type="unfinished"/>
+        <translation>Klik tab dua kali untuk menutup dokumen (&amp;d)</translation>
     </message>
     <message>
         <source>Print</source>
@@ -982,11 +982,11 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Find content that includes all keywords</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang berisi semua kata kunci</translation>
     </message>
     <message>
         <source>Enable Smooth Scroll (&amp;M)</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan S&amp;mooth Scroll</translation>
     </message>
     <message>
         <source>Fi&amp;xed decimal</source>
@@ -1030,11 +1030,11 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Keep cache for 90 &amp;days</source>
-        <translation type="unfinished"/>
+        <translation>Simpan selama 90 &amp;hari</translation>
     </message>
     <message>
         <source>Provide a list of content cancelled by the &amp;ESC</source>
-        <translation type="unfinished"/>
+        <translation>Sediakan daftar konten yang dibatalkan oleh tombol ESC(&amp;E)</translation>
     </message>
     <message>
         <source>Show context tab when has Au&amp;toFilter</source>
@@ -1098,11 +1098,11 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Kee&amp;p cache for 30 days</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan selama 30 hari</translation>
     </message>
     <message>
         <source>Open roaming file</source>
-        <translation type="unfinished"/>
+        <translation>Lihat file yang diunggah otomatis</translation>
     </message>
     <message>
         <source>Chart lines:</source>
@@ -1114,7 +1114,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Select an earlier version of the spreadsheet can color</source>
-        <translation type="unfinished"/>
+        <translation>Pilih warna yang tersedia di versi Spreadsheet sebelumnya.</translation>
     </message>
     <message>
         <source>Printing options</source>
@@ -1234,7 +1234,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Support different levels of password protection,click &apos;advance&apos; to choose different encryption types.</source>
-        <translation type="unfinished"/>
+        <translation>Mendukung beberapa level proteksi kata sandi. Klik &apos;Lanjutan&apos; untuk memiilih tipe enkripsi.</translation>
     </message>
     <message>
         <source>don&apos;t check expand cells below</source>
@@ -1242,7 +1242,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Set auto roaming &amp;mode and save file to cloud</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan Auto Roaming untuk mencadangkan file ke Awan</translation>
     </message>
     <message>
         <source>Start With:</source>
@@ -1254,7 +1254,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Bar Alat Mini saat pilihan (&amp;p)</translation>
     </message>
     <message>
         <source>Sheet ta&amp;bs</source>
@@ -1282,7 +1282,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Need Login</source>
-        <translation type="unfinished"/>
+        <translation>Silakan akses masuk</translation>
     </message>
     <message>
         <source>&amp;Multidiagonal Cell</source>
@@ -1322,7 +1322,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>enable</source>
-        <translation type="unfinished"/>
+        <translation>(buat izin berikut berlaku)</translation>
     </message>
     <message>
         <source>D&amp;elete</source>
@@ -1398,7 +1398,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Backup files cache:</source>
-        <translation type="unfinished"/>
+        <translation>Periode penyimpanan:</translation>
     </message>
     <message>
         <source>Language</source>
@@ -1406,7 +1406,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>At startup, &amp;open all files in:</source>
-        <translation type="unfinished"/>
+        <translation>Buka semua file dalam direktori ini pada saat memulai(&amp;O):</translation>
     </message>
     <message>
         <source>Password &amp;hint:</source>
@@ -1418,7 +1418,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Bahasa Tampilan dan Bantuan</translation>
     </message>
     <message>
         <source>Re&amp;turn</source>
@@ -1450,7 +1450,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Detect and prompt for appropriate number format</source>
-        <translation type="unfinished"/>
+        <translation>Mendeteksi dan meminta format angka yang sesuai.</translation>
     </message>
     <message>
         <source>General and Save</source>
@@ -1462,11 +1462,11 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Number stored as text(&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>Angka yang disimpan sebagai teks (&amp;H)</translation>
     </message>
     <message>
         <source>Find content that includes any of the keywords</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang berisi salah satu kata kunci</translation>
     </message>
     <message>
         <source>Cells containing &amp;years represented as 2 digits</source>
@@ -1502,7 +1502,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>&amp;Clear local backup cache</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hapus cadangan lokal</translation>
     </message>
     <message>
         <source>Maximum &amp;change:</source>
@@ -1542,7 +1542,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Enable Live Preview (&amp;P)</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan Pratinjau (&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Formula bar</source>
@@ -1598,7 +1598,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Find content that includes the conditions</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang berisi kondisi</translation>
     </message>
     <message>
         <source>&amp;Manual</source>
@@ -1626,7 +1626,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>&amp;Auto-recommend setting</source>
-        <translation type="unfinished"/>
+        <translation>Metode pencarian yang disarankan otomatis (&amp;A)</translation>
     </message>
     <message>
         <source>Security</source>
@@ -1654,7 +1654,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>NewFeatures</source>
-        <translation type="unfinished"/>
+        <translation>Fitur baru</translation>
     </message>
     <message>
         <source>When there are wildcards in conditions:</source>
@@ -1694,7 +1694,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>&amp;Open backup file</source>
-        <translation type="unfinished"/>
+        <translation>Buka file cadangan (&amp;c)</translation>
     </message>
     <message>
         <source>View &amp;local backup</source>
@@ -1722,7 +1722,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Find content that matches the conditions</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang cocok dengan kondisi</translation>
     </message>
     <message>
         <source>When there are datas matching the rules</source>
@@ -1734,7 +1734,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Pusat Pencadangan</translation>
     </message>
     <message>
         <source>Page brea&amp;ks</source>
@@ -1766,7 +1766,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Find content that includes the wildcards</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang berisi string</translation>
     </message>
     <message>
         <source>&amp;Disable all Data Connections</source>
@@ -1782,7 +1782,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Login Now</source>
-        <translation type="unfinished"/>
+        <translation>Akses masuk</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -1790,7 +1790,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Set the document permission, only specify person can view or edit the document.</source>
-        <translation type="unfinished"/>
+        <translation>Atur izin dokumen. Hanya orang tertentu yang dapat melihat atau mengedit dokumen.</translation>
     </message>
     <message>
         <source>Security settings for Data Connections</source>
@@ -1810,7 +1810,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Backup Setting</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Cadangan</translation>
     </message>
     <message>
         <source>Gridlines &amp;color:</source>
@@ -1826,11 +1826,11 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Default HomePage(&amp;Y):</source>
-        <translation type="unfinished"/>
+        <translation>Halaman Muka Default: (&amp;M)</translation>
     </message>
     <message>
         <source>Find content that includes the whole string</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten yang berisi string utuh</translation>
     </message>
     <message>
         <source>&amp;Row and column h&amp;eadings</source>
@@ -1846,7 +1846,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>Please keep the password properly, once forgotten, it can not be restored.</source>
-        <translation type="unfinished"/>
+        <translation>Simpan kata sandi dengan aman. Jika Anda lupa, kata sandi tidak dapat dipulihkan.</translation>
     </message>
     <message>
         <source>C&amp;lear CSV fields</source>
@@ -1894,7 +1894,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Pemberitahuan</translation>
     </message>
     <message>
         <source>My CloudDocument</source>
@@ -1908,6 +1908,63 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
         <source>File encryption options for this workbook</source>
         <translation>Pilihan enkripsi file untuk buku kerja ini</translation>
     </message>
+    <message>
+        <source>&amp;minutes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation type="unfinished"/>
+    </message>				
+    <message>
+        <source>Keep files cache</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Image Size and Quality</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default insert images of &amp;original size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Never show dialog when open html file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open directly by default:Content style is complete, but opening may fail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open in simple mode:Can open to view the content, but the opening speed is slow, elements such as styles may be lost</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>days (Range 7-120)</source>
+        <translation type="unfinished"/>
+	</message>	
+    <message>
+        <source>Keep cache for</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear local backup cache</source>
+        <translation type="unfinished"/>
+    </message>
+	<message>
+		<source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
+		<translation type="unfinished"/>
+	</message>
 </context>
 <context>
     <name>KxPivotDateFilterDlg</name>
@@ -1932,7 +1989,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>LableFilter(</source>
-        <translation type="unfinished"/>
+        <translation>Filter Label</translation>
     </message>
 </context>
 <context>
@@ -1970,7 +2027,7 @@ Jika ini benar, pilih Berikutnya. Jika tidak, pilih jenis data yang paling menje
     </message>
     <message>
         <source>ValueFilter(</source>
-        <translation type="unfinished"/>
+        <translation>Filter Nilai(</translation>
     </message>
     <message>
         <source>You must enter a number between -1.7977E+308 and 1.7977E+308. Please enter a number in this range and try again.</source>
@@ -2128,7 +2185,8 @@ Pilih satu wilayah lalu jalankan lagi perintah ini.</translation>
     <message>
         <source>Smart fill cannot be performed without a sample. 
 Try entering some sample data before performing Smart Fill.</source>
-        <translation type="unfinished"/>
+        <translation>Isian Cepat tidak dapat dilakukan tanpa sampel. 
+Coba memasukkan beberapa data contoh sebelum melakukan Isian Cepat.</translation>
     </message>
     <message>
         <source>This operation will cause some merged cells to unmerge. Do you wish to continue?</source>
@@ -2214,7 +2272,7 @@ Hapus buku kerja dari penggunaan bersama?
     </message>
     <message>
         <source>Lower</source>
-        <translation type="unfinished"/>
+        <translation>Bawah</translation>
     </message>
     <message>
         <source>Macro</source>
@@ -2242,7 +2300,7 @@ Hapus buku kerja dari penggunaan bersama?
     </message>
     <message>
         <source>The PivotTable does not support OLAP. It will be Removed.</source>
-        <translation type="unfinished"/>
+        <translation>PivotTable tidak mendukung OLAP. Ini akan dihapus.</translation>
     </message>
     <message>
         <source>Integer</source>
@@ -2258,7 +2316,7 @@ Hapus buku kerja dari penggunaan bersama?
     </message>
     <message>
         <source>Upper</source>
-        <translation type="unfinished"/>
+        <translation>Atas</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -2372,7 +2430,7 @@ Ada beberapa kemungkinan alasan:
     </message>
     <message>
         <source>PivotTable %s  had some incorrect data,it had been deleted</source>
-        <translation type="unfinished"/>
+        <translation>PivotTable %s berisi beberapa data yang salah dan akan dihapus.</translation>
     </message>
     <message>
         <source>The file is locked by %s. You can change the file lock, or continue with ignoring it. If you continue without changing the file lock, you cannot save this file, but you can use Save As to save to a different file. Do you want to change the file lock?</source>
@@ -2495,7 +2553,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>This PivotTable report is invalid. Try refreshing the data(On the Operation tab, Click Refresh).</source>
-        <translation type="unfinished"/>
+        <translation>Laporan PivotTable ini tidak valid. Coba segarkan data (Pada tab Pilihan, klik Segarkan).</translation>
     </message>
     <message>
         <source>Common Files(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|All Files(*.*)|*.*||</source>
@@ -2515,7 +2573,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>Failed: File doesn&apos;t exist</source>
-        <translation type="unfinished"/>
+        <translation>Gagal: File tidak ada</translation>
     </message>
     <message>
         <source>Backing up</source>
@@ -2527,7 +2585,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>Failed: Worksheet doesn&apos;t exist</source>
-        <translation type="unfinished"/>
+        <translation>Gagal: Lembar kerja tidak ada</translation>
     </message>
     <message>
         <source>Varp</source>
@@ -2564,7 +2622,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source> There are some empty string before and after this content, which may cause calculation errors!</source>
-        <translation type="unfinished"/>
+        <translation>Ada string kosong dalam konten!Bisa menyebabkan kesalahan penghitungan.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
@@ -2584,7 +2642,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>The range you have specified is invalid.the top of table must remain in the same row, and the resulting table must overlap the original table.Specify a valid range.</source>
-        <translation type="unfinished"/>
+        <translation>Rentang yang ditentukan tidak valid. Bagian atas tabel harus tetap berada di baris yang sama, dan tabel yang dihasilkan harus tumpang tindih dengan tabel asli. Tentukan rentang yang valid.</translation>
     </message>
     <message>
         <source>Cannot create backup file. Save &quot;%s&quot; without backup?</source>
@@ -2622,7 +2680,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>The data will be saved with other pivot tables that share the same source data with this PivotTable.</source>
-        <translation type="unfinished"/>
+        <translation>Data akan disimpan dengan laporan PivotTable lain menggunakan data sumber yang sama dengan laporan ini.</translation>
     </message>
     <message>
         <source>No cells were found.</source>
@@ -2646,7 +2704,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>@Theme Title</source>
-        <translation type="unfinished"/>
+        <translation>Font Kepala</translation>
     </message>
     <message>
         <source>Max Subproblems</source>
@@ -2666,7 +2724,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>Invalid reference.To input a correct reference,you can click the target cell or drag mouse to select a range.</source>
-        <translation type="unfinished"/>
+        <translation>Referensi tidak valid. Untuk memasukkan referensi yang benar, Anda dapat mengeklik sel target atau menyeret mouse untuk memilih rentang.</translation>
     </message>
     <message>
         <source>Cannot copy or move array formulas in a shared workbook.</source>
@@ -2682,7 +2740,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>@Theme Text</source>
-        <translation type="unfinished"/>
+        <translation>Font Isi</translation>
     </message>
     <message>
         <source>0.001f</source>
@@ -2707,7 +2765,9 @@ Coba salah satu dari yang berikut.
         <source>Query can not run or database and table can not open.
 
  Please check the server or or contact your database administrator,Verify that the external data is valid and not moved or reorganized, and then retry the operation.</source>
-        <translation type="unfinished"/>
+        <translation>Kueri tidak berjalan, atau tabel basisdata tidak dapat dibuka.
+
+Cek server basisdata atau hubungi administrator basisdata Anda. Pastikan basisdata eksternal tersedia dan belum dipindahkan atau disusun ulang, lalu coba operasikan lagi.</translation>
     </message>
     <message>
         <source>Ipopt Nonlinear</source>
@@ -2839,7 +2899,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>Cannot make changes to a table or XML mapping when multiple sheet are selected.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat melakukan perubahan pada tabel atau pemetaan XML bila beberapa lembar dipilih.</translation>
     </message>
     <message>
         <source> The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
@@ -2851,18 +2911,21 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>When a protected worksheet contains other PivotTables that are based on the same source data, this command can not be executed. To revoke protection for worksheets that contain other PivotTables, click the tab for the worksheet, and then click Undo Sheet Protection in the Change group on the Review tab. And then retry the command.</source>
-        <translation type="unfinished"/>
+        <translation>Perintah itu tidak dapat dijalankan bila lembar yang diproteksi berisi laporan PivotTable lain berdasarkan data sumber yang sama. Untuk membuang proteksi dari lembar yang memiliki laporan lain, klik tab lembar, lalu klik Buka Proteksi Lembar (tab Tinjauan, grup Perubahan). Kemudian coba lagi perintahnya.</translation>
     </message>
     <message>
         <source>The macro &apos;%s&apos; cannot be found.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat menjalankan makro &apos;%s&apos;. Makro mungkin tidak tersedia di buku kerja ini atau semua makro mungkin telah dinonaktifkan.</translation>
     </message>
     <message>
         <source>Some PivotTable cells contain circular references.
 
 1.Check your calculated field and item formulas to make sure that none of the formulas refer to their own cells.
 2.Or,change the order of calculation by using the solve Order command.</source>
-        <translation type="unfinished"/>
+        <translation>Beberapa sel PivotTable berisi referensi melingkar.
+
+• Cek ruas terhitung dan formula item untuk memastikan tidak ada formula yang merujuk ke selnya sendiri.
+• Atau, ubah urutan perhitungan dengan menggunakan perintah Selesaikan Urutan.</translation>
     </message>
     <message>
         <source>Max Integer Solutions</source>
@@ -2900,7 +2963,7 @@ Lanjutkan tanpa Mengurungkan?</translation>
     </message>
     <message>
         <source>There are some empty string before and after this content</source>
-        <translation type="unfinished"/>
+        <translation>Ada string kosong dalam konten!Bisa menyebabkan kesalahan penghitungan.</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -2912,7 +2975,7 @@ Lanjutkan tanpa Mengurungkan?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets can not paste data.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets tidak dapat menempelkan data.</translation>
     </message>
     <message>
         <source>Binary</source>
@@ -3022,11 +3085,11 @@ Lama</translation>
     </message>
     <message>
         <source>All values ara filtered out.</source>
-        <translation type="unfinished"/>
+        <translation>Semua nilai difilter.</translation>
     </message>
     <message>
         <source>ET Could not get the source data for the PivotTable report from the disk.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets tidak bisa mendapatkan data sumber untuk laporan PivotTable dari disk.</translation>
     </message>
     <message>
         <source>&amp;Add content to the list</source>
@@ -3034,7 +3097,7 @@ Lama</translation>
     </message>
     <message>
         <source>Some documents are already open. You cannot open the security document! Please close the opened documents and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat membuka dokumen keamanan bila beberapa dokumen sudah dibuka. Tutup dokumen yang dibuka dan coba lagi.</translation>
     </message>
     <message>
         <source>Sensitivity Report</source>
@@ -3093,11 +3156,11 @@ Lama</translation>
     </message>
     <message>
         <source>Trun on the PivotTable Field List to work with the PivotTable</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan Daftar Ruas PivotTable untuk bekerja dengan PivotChart.</translation>
     </message>
     <message>
         <source>Count Nums</source>
-        <translation type="unfinished"/>
+        <translation>Hitung Angka</translation>
     </message>
     <message>
         <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
@@ -3157,12 +3220,14 @@ Lama</translation>
     <message>
         <source>An item name is ambiguous.Another field in the PivotTable report may have an item with the same name.
 Use the syntax field[item].For example, if the item is Oranges and the field is Product,you would use Product[Oranges].</source>
-        <translation type="unfinished"/>
+        <translation>Nama item tidak jelas. Ruas lain dalam laporan PivotTable mungkin memiliki item dengan nama yang sama.
+Gunakan ruas sintaks [item]. Misalnya, jika item adalah Jeruk dan ruasnya adalah Produk, Anda dapat menggunakan Produk[Jeruk].</translation>
     </message>
     <message>
         <source>You cannot place a field that has more than 8000 items in the column area.
 If you want to use this field in the report,click OK,and then move the field to either the row area or page area.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat menempatkan ruas yang memiliki lebih dari 8000 item di area kolom.
+Jika Anda ingin menggunakan ruas ini dalam laporan, klik OK, lalu pindahkan ruas ke area baris atau area halaman.</translation>
     </message>
     <message>
         <source>Cannot find workbooks &quot;%s&quot; that referenced by formulas.
@@ -3184,7 +3249,7 @@ Tentukan file yang tepat.</translation>
     </message>
     <message>
         <source>Only changes which have been saved can be listed on history sheet.</source>
-        <translation type="unfinished"/>
+        <translation>Hanya perubahan yang telah disimpan yang dapat ditampilkan pada lembar riwayat.</translation>
     </message>
     <message>
         <source>Tahoma</source>
@@ -3259,7 +3324,7 @@ Untuk memperbaiki tautan, pilih satu lembar dan klik Edit Tautan.</translation>
     </message>
     <message>
         <source>The data source of a PivotTable connected to filter controls that ara also connected to other PivotTables cannot be Changed.To change the data source, first disconnect the filter controls from this PivotTable or from the other PivotTables.</source>
-        <translation type="unfinished"/>
+        <translation>Sumber data PivotTable yang terhubung ke kontrol filter yang juga terhubung ke PivotTable lain tidak dapat diubah. Untuk mengubah sumber data, pertama-tama putuskan sambungan kontrol filter dari PivotTable ini atau dari PivotTable lainnya.</translation>
     </message>
     <message>
         <source>Constant array error.</source>
@@ -3287,7 +3352,7 @@ Untuk memperbaiki tautan, pilih satu lembar dan klik Edit Tautan.</translation>
     </message>
     <message>
         <source>Count Nums=</source>
-        <translation type="unfinished"/>
+        <translation>Hitung Angka=</translation>
     </message>
     <message>
         <source>Highlighting Data</source>
@@ -3307,7 +3372,7 @@ Untuk memperbaiki tautan, pilih satu lembar dan klik Edit Tautan.</translation>
     </message>
     <message>
         <source>Pivot table name is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Nama PivotTable tidak valid.</translation>
     </message>
     <message>
         <source>Some text formats in the file may be modified, because it exceeds the number of utmost permitted formats.</source>
@@ -3353,12 +3418,13 @@ Untuk memperbaiki tautan, pilih satu lembar dan klik Edit Tautan.</translation>
     </message>
     <message>
         <source>Chlick in this area to work with the PivotTable report</source>
-        <translation type="unfinished"/>
+        <translation>Klik di area ini untuk bekerja dengan laporan PivotTable</translation>
     </message>
     <message>
         <source>You cannot place a field that has more than 16384 items in the column area.
 If you want to use this field in the report,click OK,and then move the field to either the row area or page area.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat menempatkan ruas yang memiliki lebih dari 16384 item di area kolom.
+Jika Anda ingin menggunakan ruas ini dalam laporan, klik OK, lalu pindahkan ruas ke area baris atau area halaman.</translation>
     </message>
     <message>
         <source>%s is an invalid workbook name.</source>
@@ -3374,7 +3440,7 @@ If you want to use this field in the report,click OK,and then move the field to 
     </message>
     <message>
         <source>WorkBook</source>
-        <translation>Buku Kerja</translation>
+        <translation>Buku kerja</translation>
     </message>
     <message>
         <source>Workbook</source>
@@ -3398,7 +3464,7 @@ If you want to use this field in the report,click OK,and then move the field to 
     </message>
     <message>
         <source>column</source>
-        <translation type="unfinished"/>
+        <translation>Kolom</translation>
     </message>
     <message>
         <source>Total %s</source>
@@ -3535,7 +3601,9 @@ Untuk mengubah formula untuk ruas terhitung, klik OK, kemudian tunjuk ke formula
         <source>The item cannot be added or modified. There may not be enough memory, the maximum number of items allowed in a field may have been reached, or if a Visual Basic macro is performming the operation, the macro may be incorrect.
 
 Simplify the PivotTable report or check the macro for errors, and then try the operation again.</source>
-        <translation type="unfinished"/>
+        <translation>Item tidak dapat ditambahkan atau diubah. Mungkin tidak cukup memori, jumlah maksimum item yang diizinkan dalam ruas mungkin telah tercapai, atau jika makro Visual Basic sedang menjalankan operasi, makro tersebut mungkin salah.
+
+Sederhanakan laporan PivotTable atau cek makro dari kesalahan, lalu coba kembali operasi tadi.</translation>
     </message>
     <message>
         <source>%s File Not Exist</source>
@@ -3579,11 +3647,13 @@ Simplify the PivotTable report or check the macro for errors, and then try the o
         <source>This PivotTable report field is grouped. You cannot add a calculated item to a grouped field.
 
 To ungroup the field, make sure it is in the row or column area, select one of the items of the grouped field, click the Ungroup button in the Group group on the Option tab, and then insert the calculated item. After inserted, you can group the items of field again.</source>
-        <translation type="unfinished"/>
+        <translation>Ruas laporan PivotTable ini dikelompokkan. Anda tidak dapat menambahkan item terhitung ke ruas yang dikelompokkan.
+
+Untuk mengurai ruas, pastikan ruas tersebut berada di area baris atau kolom, pilih salah satu item dari ruas yang dikelompokkan, klik tombol Uraikan di Grup pada tab Pilihan, lalu masukkan item terhitung. Setelah disisipkan, Anda dapat kembali mengelompokkan item-item ruas.</translation>
     </message>
     <message>
         <source>It&apos;s not a valid Integer.</source>
-        <translation type="unfinished"/>
+        <translation>Ini bukan integer yang valid.</translation>
     </message>
     <message>
         <source>StdDev</source>
@@ -3758,7 +3828,7 @@ Baru</translation>
     </message>
     <message>
         <source>This PivotTable&apos;s Connection has benn deleted</source>
-        <translation type="unfinished"/>
+        <translation>Koneksi PivotTable ini telah dihapus</translation>
     </message>
     <message>
         <source>Show Details has been turned off for this PivotTable report.</source>
@@ -3779,7 +3849,7 @@ Baru</translation>
     </message>
     <message>
         <source>Too much data will generated and et can not conntinue with it.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets tidak dapat melanjutkan karena ini akan menghasilkan terlalu banyak data.</translation>
     </message>
     <message>
         <source>Iterations</source>
@@ -3787,7 +3857,7 @@ Baru</translation>
     </message>
     <message>
         <source>An item name cannot be found.Check that you&apos;ve typed the name correctly and the item is present in the PivotTable.</source>
-        <translation type="unfinished"/>
+        <translation>Nama item tidak dapat ditemukan. Cek apakah Anda sudah mengetik nama dengan benar dan item ada di PivotTable.</translation>
     </message>
     <message>
         <source>Choices drop down cannot be empty. Please add or select choices.</source>
@@ -3847,7 +3917,7 @@ Baru</translation>
     </message>
     <message>
         <source>We can&apos;t make this change for the selected cells because it will affect a PivotTable. Use the field list to chage the report. If you are trying to inset or delete cells, move the PivotTable and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Kami tidak dapat melakukan perubahan ini untuk sel yang dipilih karena akan mempengaruhi PivotTable. Gunakan daftar ruas untuk mengubah laporan. Jika Anda mencoba memasukkan atau menghapus sel, pindahkan PivotTable dan coba lagi.</translation>
     </message>
     <message>
         <source>A value used in the formula is of the wrong data type.</source>
@@ -3867,7 +3937,7 @@ Baru</translation>
     </message>
     <message>
         <source>he value is set by the formula with the last solve order.</source>
-        <translation type="unfinished"/>
+        <translation>Nilai diset dengan formula rumus dengan urutan penyelesaian terakhir.</translation>
     </message>
     <message>
         <source>Please try again later, or save file to another disk. </source>
@@ -3990,7 +4060,7 @@ Jika Anda mencoba membuka file dari daftar file yang baru-baru ini digunakan pad
     </message>
     <message>
         <source>Cannot edit PivotTable in group edit mode.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat mengedit PivotTable di mode edit grup.</translation>
     </message>
     <message>
         <source> This cell contains a formula and is not locked to protect it from being changed inadvertently.</source>
@@ -4040,7 +4110,7 @@ Jika Anda mencoba membuka file dari daftar file yang baru-baru ini digunakan pad
     </message>
     <message>
         <source>Cannot use multiple ranges to create a data range.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat menggunakan multi rentang untuk membuat rentang data.</translation>
     </message>
     <message>
         <source>%s Sheet Not Exist</source>
@@ -4092,7 +4162,12 @@ Reasons for this can include:
 • The connection to the data source failed.
 • The worksheet is protected
 • A PivotTable cannot expand because is would overlap existing cell content</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat memperbarui kontrol filter atau PivotTable.
+
+Alasan untuk ini bisa meliputi:
+• Koneksi ke sumber data gagal
+• Lembar kerja diproteksi
+• PivotTable tidak dapat diperluas karena akan tumpang tindih dengan isi sel yang ada</translation>
     </message>
     <message>
         <source>The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
@@ -4101,7 +4176,7 @@ Reasons for this can include:
     <message>
         <source>Count Nums</source>
         <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNTNUMS</comment>
-        <translation type="unfinished"/>
+        <translation>Hitung Angka</translation>
     </message>
     <message>
         <source>Cannot extend list or database.</source>
@@ -4121,7 +4196,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>Fields with calculated items can not be placed in the filter area.</source>
-        <translation type="unfinished"/>
+        <translation>Ruas dengan item terhitung tidak dapat ditempatkan di area filter.</translation>
     </message>
     <message>
         <source>New styles cannot be added in shared workbooks.</source>
@@ -4153,7 +4228,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>This Operation cannot be used on a security document.</source>
-        <translation type="unfinished"/>
+        <translation>Operasi ini tidak dapat dilakukan pada dokumen keamanan.</translation>
     </message>
     <message>
         <source>Max of %s</source>
@@ -4170,7 +4245,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>Some documents are already open. You cannot save the security document! Please close the the other documents and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat menyimpan dokumen keamanan bila beberapa dokumen sudah dibuka. Tutup dokumen yang dibuka dan coba lagi.</translation>
     </message>
     <message>
         <source>Show &amp;Calculation Steps</source>
@@ -4190,7 +4265,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>In the selected area, there is no cell to be filled, and smart fill fails.</source>
-        <translation type="unfinished"/>
+        <translation>Dalam area yang dipilih, tidak ada sel untuk diisi, dan isian cepat gagal.</translation>
     </message>
     <message>
         <source>To change the solve order for multiple calculated items or fields,</source>
@@ -4215,7 +4290,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>Switch Direction fail, series Count not fit chartType.</source>
-        <translation type="unfinished"/>
+        <translation>Pengalihan baris/kolom gagal. Jumlah seri tidak sesuai dengan jenis bagan.</translation>
     </message>
     <message>
         <source>Succeed</source>
@@ -4231,7 +4306,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>HighLight Changed fail, series Count not fit chartType.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal menyoroti. Jumlah seri tidak sesuai dengan jenis bagan.</translation>
     </message>
     <message>
         <source> The ranges in the formula do not intersect.</source>
@@ -4272,7 +4347,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>There are some empty string</source>
-        <translation type="unfinished"/>
+        <translation>Ada string kosong dalam konten!</translation>
     </message>
     <message>
         <source>Action
@@ -4300,7 +4375,7 @@ Untuk membuka dokumen kedua dengan nama yang sama, Anda dapat menutup dokumen ya
     </message>
     <message>
         <source>Cell %s commented by %s User</source>
-        <translation type="unfinished"/>
+        <translation>Sel %s dikomentari oleh pengguna %s</translation>
     </message>
     <message>
         <source>Iterations</source>
@@ -4325,7 +4400,10 @@ Untuk membuka dokumen kedua dengan nama yang sama, Anda dapat menutup dokumen ya
 Use the PivotTable Field List to add,move,or remove fields.
 Hide or froup items in a row or column field.
 Modify the source data</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat memindahkan bagian dari laporan PivotTable, atau menyisipkan sel, baris, atau kolom lembar kerja di dalam laporan PivotTable. Untuk menyisipkan sel, baris, atau kolom lembar kerja, pertama-tama pindahkan laporan PivotTable (dengan laporan PivotTable dipilih, pada tab Pilihan, di grup Aksi, klik Pindah PivotTable). Untuk menambahkan, memindahkan, atau menghapus sel dalam laporan, lakukan salah satu dari yang berikut:
+• Gunakan Daftar Ruas PivotTable untuk menambah, memindah, atau menghapus ruas.
+• Sembunyikan atau kelompokkan item dalam ruas baris atau kolom.
+• Ubah data sumber.</translation>
     </message>
     <message>
         <source>The sort reference is not valid. Make sure that it&apos;s within the data you want to sort, and the first Sort By box is not the same and not blank.</source>
@@ -4343,7 +4421,7 @@ Cek server basisdata atau hubungi administrator basisdata Anda. Pastikan basisda
     </message>
     <message>
         <source>%s is not item of this field!</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%s&apos; bukan merupakan item dari ruas ini.</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
@@ -4366,7 +4444,7 @@ Cek server basisdata atau hubungi administrator basisdata Anda. Pastikan basisda
     </message>
     <message>
         <source>The destination range contains data, Would you like to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>Rentang tujuan berisi data. Anda ingin menggantinya?</translation>
     </message>
     <message>
         <source>The Document was saved successfully, but WPS cannot re-open it because of a sharing violation.
@@ -4402,7 +4480,7 @@ Coba perpendek jalur file, atau pindahkan file ke desktop, dan buka kembali.</tr
     </message>
     <message>
         <source>DataSource in WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>Sumber Data di WPS Writer</translation>
     </message>
     <message>
         <source>Document is not saved.</source>
@@ -4410,7 +4488,7 @@ Coba perpendek jalur file, atau pindahkan file ke desktop, dan buka kembali.</tr
     </message>
     <message>
         <source>Must enter a number between 0 and 100. Please enter a number for this range and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Harus memasukkan angka antara 0 dan 100. Masukkan angka dalam rentang ini dan coba lagi.</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -4470,7 +4548,11 @@ Coba salah satu dari yang berikut.
 2.Calculated Items
 3.Calculated Fields
 4.Custom Items</source>
-        <translation type="unfinished"/>
+        <translation>Laporan PivotTable ini didasarkan pada data yang sama minimal satu laporan PivotTable lainnya. Menghapus laporan PivotTable akan menghapus yang berikut dari semua laporan PivotTable:
+•Pengelompokan
+•Item Terhitung
+•Ruas Terhitung
+•Item Kustom</translation>
     </message>
     <message>
         <source>Seconds</source>
@@ -4487,7 +4569,7 @@ Coba salah satu dari yang berikut.
     </message>
     <message>
         <source>References,names,and arrays are not supported in PivotTable formulas.</source>
-        <translation type="unfinished"/>
+        <translation>Referensi, nama, dan array tidak didukung dalam formula PivotTable.</translation>
     </message>
     <message>
         <source>Cannot save the file due to the full disk.</source>
@@ -4581,7 +4663,7 @@ Buka dulu dengan Microsoft Excel, lalu jalankan &quot;Simpan&quot;, lalu coba bu
     </message>
     <message>
         <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
-        <translation type="unfinished"/>
+        <translation>Sebelum Anda cek masuk, pengguna lain tidak dapat melihat perubahan Anda. Apakah akan cek masuk?</translation>
     </message>
     <message>
         <source>Unprotected Formula</source>
@@ -4601,7 +4683,7 @@ Buka dulu dengan Microsoft Excel, lalu jalankan &quot;Simpan&quot;, lalu coba bu
     </message>
     <message>
         <source>The range you have specified is invalid.the headers must remain in the same row and the resulting table must overlap the original table.The table must contain a header row,and at least one row of data.Please specify a vaild table.</source>
-        <translation type="unfinished"/>
+        <translation>Rentang yang Anda tentukan tidak valid. Kepala harus tetap berada di baris yang sama dan tabel yang dihasilkan harus tumpang tindih dengan tabel asli. Tabel harus berisi baris kepala, dan minimal satu baris data. Tentukan tabel yang valid.</translation>
     </message>
     <message>
         <source> The formula contains unrecognized text.</source>
@@ -4629,7 +4711,7 @@ Buka dulu dengan Microsoft Excel, lalu jalankan &quot;Simpan&quot;, lalu coba bu
     </message>
     <message>
         <source>Failed: Cannot merge security files</source>
-        <translation type="unfinished"/>
+        <translation>Gagal: Tidak dapat menggabungkan file yang diamankan</translation>
     </message>
     <message>
         <source>(previous)</source>
@@ -4693,7 +4775,7 @@ Tindakan</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat menggunakan perintah ini pada lembar yang diproteksi. Untuk menggunakan perintah ini, terlebih dahulu Anda harus membuka lembar (tombol Tab Tinjau, Ubah grup, Buka Proteksi Lembar). Anda mungkin diminta untuk memasukkan kata sandi.</translation>
     </message>
     <message>
         <source>%s Sheet Type UnSupport</source>
@@ -4747,7 +4829,8 @@ Tindakan</translation>
     <message>
         <source>You cannot create or make changes to  PivotTable reports in a shared workbook. If you copy a report and paste it in a shared workbook, only the cell contents are pasted.
 To make a copy that you can edit and rearrage, in the same instance of Et, paste the report into a workbook that is not shared.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat membuat atau melakukan perubahan pada laporan PivotTable di buku kerja terbagi. Jika Anda menyalin laporan dan menempelkannya di buku kerja terbagi, hanya konten sel yang ditempelkan.
+Untuk membuat salinan yang bisa Anda edit dan susun ulang, dalam contoh WPS Spreadsheets yang sama, tempelkan laporan ke dalam buku kerja yang tidak dibagikan.</translation>
     </message>
     <message>
         <source>Var</source>
@@ -4790,7 +4873,7 @@ To make a copy that you can edit and rearrage, in the same instance of Et, paste
     </message>
     <message>
         <source>The data will not be saved with other pivot tables that share the same source data with this PivotTable.</source>
-        <translation type="unfinished"/>
+        <translation>Data tidak akan disimpan dengan laporan PivotTable lain menggunakan data sumber yang sama dengan laporan ini.</translation>
     </message>
     <message>
         <source>Connecting to %s</source>
@@ -4812,7 +4895,7 @@ To make a copy that you can edit and rearrage, in the same instance of Et, paste
     </message>
     <message>
         <source>PivotTable can not find item with this name,whether %s will renamed to %s</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada item dari nama ini di laporan PivotTable. Ganti nama &apos;%s&apos; ke &apos;%s&apos;?</translation>
     </message>
     <message>
         <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
@@ -4851,7 +4934,7 @@ Untuk melanjutkan dan mengimpor sebanyak mungkin data yang pas, klik OK.</transl
     </message>
     <message>
         <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
-        <translation type="unfinished"/>
+        <translation>Kami tidak mengisi nilai karena pilihan Anda berisi rumus, sel yang digabungkan, validasi data, atau sel yang dikunci.Hapus fitur-fitur tersebut dari pilihan Anda dan klik tombol Isian Cepat lagi.</translation>
     </message>
     <message>
         <source>This workboot cannot use any other fonts.</source>
@@ -4913,7 +4996,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>Averages,standard deviations,and variances are not supported when a PivotTable report has calculated items.</source>
-        <translation type="unfinished"/>
+        <translation>Rata-rata, simpangan baku, dan varian tidak didukung bila laporan PivotTable memiliki item terhitung.</translation>
     </message>
     <message>
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
@@ -4964,11 +5047,11 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>DataSource in WPS Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sumber Data di WPS Presentation</translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. To create a PivotTable report, you must use data that is organized as a list with labeled columns. If you are changing of name of a PivotTable field, you must type a new name for the field.</source>
-        <translation type="unfinished"/>
+        <translation>Nama ruas PivotTable tidak valid. Untuk membuat laporan PivotTable, Anda harus menggunakan data yang diatur sebagai daftar dengan kolom berlabel. Jika Anda mengubah nama ruas PivotTable, Anda harus mengetikkan nama baru untuk ruas tersebut.</translation>
     </message>
     <message>
         <source>[Compatibility Mode]</source>
@@ -5006,7 +5089,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>Failed to paste! The source data contains merge cells.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal menempel. Sumber data berisi sel yang digabungkan.</translation>
     </message>
     <message>
         <source>Solver Engine</source>
@@ -5058,7 +5141,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>This document can&apos;t be shared, it must be saved as another format before be shared.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen ini tidak dapat dibagikan. Dokumen harus disimpan sebagai format lain sebelum dibagikan.</translation>
     </message>
     <message>
         <source>Column Labels</source>
@@ -5078,7 +5161,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>The Trace Precedents command requires that the active cell contains a formula which includes valid references.</source>
-        <translation type="unfinished"/>
+        <translation>Perintah Lacak Preseden mengharuskan bahwa sel aktif berisi rumus yang menyertakan referensi yang valid.</translation>
     </message>
     <message>
         <source>Integer Tolerance</source>
@@ -5107,7 +5190,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
-        <translation type="unfinished"/>
+        <translation>Tabel tidak bisa tumpang tindih dengan rentang yang berisi laporan PivotTable, hasil kueri, sel yang diproteksi, atau tabel lain.</translation>
     </message>
     <message>
         <source>Sum of %s</source>
@@ -5214,6 +5297,11 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
         <translation>Beberapa formula atau nama file ini berisi fungsi yang ditetapkan pengguna yang tidak didukung WPS Spreadsheets, dan perhitungan ulang formula atau nama ini mungkin dapat menyebabkan hasil yang salah.
 </translation>
     </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -5304,7 +5392,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>No unique value data found after deduplicated in the selected area.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ditemukan data nilai yang akan diekstrak di area terpilih setelah deduplikasi.</translation>
     </message>
     <message>
         <source>Please select a single row or column to operate.</source>
@@ -5429,7 +5517,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>Page%d</source>
-        <translation type="unfinished"/>
+        <translation>Halaman %d</translation>
     </message>
     <message>
         <source>Insert Worksheet</source>
@@ -5454,15 +5542,15 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>Please make sure there are as many columns in both selected ranges.</source>
-        <translation type="unfinished"/>
+        <translation>Periksa apakah kolom dari dua area adalah sama.</translation>
     </message>
     <message>
         <source>The value you entered is not a number, date, time, or string.</source>
-        <translation type="unfinished"/>
+        <translation>Nilai yang Anda masukkan bukan angka, tanggal, waktu, atau string yang valid.</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Tabel </translation>
     </message>
     <message>
         <source>Worksheet Rename</source>
@@ -5519,7 +5607,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>No unique value data found in the selected area.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada nilai unik yang ditemukan di area yang dipilih.</translation>
     </message>
     <message>
         <source>Delete the %s row</source>
@@ -5543,7 +5631,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>Part of the data extraction was lost because the extracted data was outside the maximum range of the worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Bagian dari ekstraksi data hilang karena data yang diekstrak di luar rentang lembar kerja maksimal.</translation>
     </message>
     <message>
         <source>cell %s</source>
@@ -5567,7 +5655,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>There is a lot of data to be processed, which may take a long time. Please confirm whether to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Data masif harus diproses dan perlu waktu lama. Anda yakin ingin melanjutkan?</translation>
     </message>
     <message>
         <source>Enter a formula.</source>
@@ -5587,7 +5675,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>The data in the %s that needs to be compared has been protected.</source>
-        <translation type="unfinished"/>
+        <translation>Data di %s yang perlu dibandingkan sudah dilindungi.</translation>
     </message>
     <message>
         <source>Insert the %s row</source>
@@ -5595,7 +5683,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>The ranges you selected overlap each other. Please reselect.</source>
-        <translation type="unfinished"/>
+        <translation>Data yang dipilih tidak boleh memiliki area duplikat. Silakan pilih lagi.</translation>
     </message>
     <message>
         <source>The specified Minimum value is not a valid percentile.</source>
@@ -5619,7 +5707,7 @@ Untuk mempertahankan pekerjaan yang belum disimpan, klik OK, dan simpan buku ker
     </message>
     <message>
         <source>Please make sure that the selected ranges have the same headers.</source>
-        <translation type="unfinished"/>
+        <translation>Pastikan bahwa area yang dipilih memiliki header yang sama.</translation>
     </message>
     <message>
         <source>columns %s</source>
@@ -5683,11 +5771,11 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>No duplicate value data found in the selected area.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada nilai duplikat yang ditemukan di area yang dipilih.</translation>
     </message>
     <message>
         <source>One or more of the specified values is not a valid percentile.</source>
-        <translation type="unfinished"/>
+        <translation>Satu atau beberapa nilai yang ditentukan bukan merupakan persentil yang valid.</translation>
     </message>
     <message>
         <source>One or more of the specified values is not a valid percentage.</source>
@@ -5723,7 +5811,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>Number of repeat</source>
-        <translation type="unfinished"/>
+        <translation>Jumlah pengulangan</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -5743,7 +5831,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     <name>et_et_render</name>
     <message>
         <source>/</source>
-        <translation type="unfinished"/>
+        <translation>/</translation>
     </message>
     <message>
         <source>Cell:</source>
@@ -5761,11 +5849,11 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>Add Footer</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan Footer</translation>
     </message>
     <message>
         <source>Add Header</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan Header</translation>
     </message>
     <message>
         <source>Comment:</source>
@@ -5781,7 +5869,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>Click To Add Data</source>
-        <translation type="unfinished"/>
+        <translation>Klik di sini untuk memasukkan data</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -5884,19 +5972,19 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>filename</source>
-        <translation type="unfinished"/>
+        <translation>Nama file</translation>
     </message>
     <message>
         <source>size:</source>
-        <translation type="unfinished"/>
+        <translation>Ukuran:</translation>
     </message>
     <message>
         <source>Original file has finished backing up</source>
-        <translation type="unfinished"/>
+        <translation>File asli telah dicadangkan.</translation>
     </message>
     <message>
         <source>Need slimming content:</source>
-        <translation type="unfinished"/>
+        <translation>Konten yang perlu diperkecil:</translation>
     </message>
     <message>
         <source>10,257KB</source>
@@ -5908,15 +5996,15 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>&quot;File slimming&quot; finished! Successfully reduced</source>
-        <translation type="unfinished"/>
+        <translation>Pengurangan ukuran file selesai. Berhasil dikurangi</translation>
     </message>
     <message>
         <source>Change the path</source>
-        <translation type="unfinished"/>
+        <translation>Ubah jalur</translation>
     </message>
     <message>
         <source>No need slimming</source>
-        <translation type="unfinished"/>
+        <translation>Tidak perlu dikurangi</translation>
     </message>
     <message>
         <source>File size:</source>
@@ -5924,27 +6012,27 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>&quot;File slimming&quot; may cause data loss,backup the original file can preserve the original data, it is recommended to keep this option is checked</source>
-        <translation type="unfinished"/>
+        <translation>Pengecilan File dapat menyebabkan kehilangan data. Mencadangkan file asli dapat mempertahankan data asli. Sebaiknya pilihan ini dicentang</translation>
     </message>
     <message>
         <source>Open the backup file location</source>
-        <translation type="unfinished"/>
+        <translation>Buka lokasi file cadangan</translation>
     </message>
     <message>
         <source>Backup the original files</source>
-        <translation type="unfinished"/>
+        <translation>Cadangkan file asli</translation>
     </message>
     <message>
         <source>When your document contains hidden data or format, will cause the file size is too large,&quot;file slimming&quot; feature can help you reduce the file size.</source>
-        <translation type="unfinished"/>
+        <translation>Ukuran file mungkin menjadi terlalu besar jika berisi data atau format tersembunyi. &quot;Pengecilan File&quot; dapat membantu Anda mengurangi ukuran file.</translation>
     </message>
     <message>
         <source>The current file:</source>
-        <translation type="unfinished"/>
+        <translation>Ukuran file saat ini:</translation>
     </message>
     <message>
         <source>No backup files!</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada file cadangan.</translation>
     </message>
 </context>
 <context>
@@ -6074,7 +6162,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>By (&amp;I):</source>
-        <translation type="unfinished"/>
+        <translation>Menurut (&amp;I): (&amp;u)</translation>
     </message>
     <message>
         <source>&amp;Current value:</source>
@@ -6145,7 +6233,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>StripeSize</source>
-        <translation type="unfinished"/>
+        <translation>Ukuran Strip</translation>
     </message>
     <message>
         <source>First Column Stripe</source>
@@ -6177,7 +6265,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>Table Element:</source>
-        <translation type="unfinished"/>
+        <translation>Elemen Tabel: (&amp;E)</translation>
     </message>
     <message>
         <source>Whole Table</source>
@@ -6399,7 +6487,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>&amp;Calendar type:</source>
-        <translation type="unfinished"/>
+        <translation>Jenis kalender:(&amp;A)：</translation>
     </message>
     <message>
         <source>Scientific</source>
@@ -6419,7 +6507,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>&amp;Locale Setting(Country/Area):</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan regional(&amp;L):</translation>
     </message>
     <message>
         <source>Text format cells are treated as text even when a number is in the cell. The cell is displayed exactly as entered.</source>
@@ -6430,7 +6518,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     <name>KxMergeFrameEmbedInMenuItem</name>
     <message>
         <source>:</source>
-        <translation type="unfinished"/>
+        <translation>：</translation>
     </message>
 </context>
 <context>
@@ -6453,7 +6541,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>Catalog name:</source>
-        <translation type="unfinished"/>
+        <translation>Nama Basisdata:</translation>
     </message>
     <message>
         <source>The second step: Select table and fields</source>
@@ -6543,7 +6631,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>&amp;Icon</source>
-        <translation type="unfinished"/>
+        <translation>Ikon (&amp;n)</translation>
     </message>
     <message>
         <source>&amp;Type</source>
@@ -6587,7 +6675,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Pemberitahuan</translation>
     </message>
 </context>
 <context>
@@ -6988,7 +7076,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
-        <translation type="unfinished"/>
+        <translation>logika1,logika2,... adalah kondisi 1 hingga 255 yang digunakan untuk pengujian TRUE atau FALSE dan bisa berupa nilai logika, array, atau rujukan.</translation>
     </message>
     <message>
         <source>Order</source>
@@ -7300,11 +7388,11 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>(no synonyms suggestions)</source>
-        <translation type="unfinished"/>
+        <translation>(Tidak ada usulan sinonim)</translation>
     </message>
     <message>
         <source>custom weekend</source>
-        <translation type="unfinished"/>
+        <translation>Opsional. Akhir pekan adalah angka atau string yang menentukan kapan akhir pekan akan terjadi.</translation>
     </message>
     <message>
         <source>OLE DB Query</source>
@@ -7679,8 +7767,12 @@ Pastikan wilayah yang dipilih adalah sel berkelanjutan.</translation>
         <translation>Tanggal Mulai berisi kesalahan sekarang. Lanjutkan?</translation>
     </message>
     <message>
+        <source>Split window</source>
+        <translation>Bagi Jendela</translation>
+    </message>
+    <message>
         <source>Unsplit window</source>
-        <translation type="unfinished"/>
+        <translation>Buang Pemisahan</translation>
     </message>
     <message>
         <source>Show ALL Field Buttons On Chart</source>
@@ -7895,7 +7987,7 @@ Jika Anda tidak ingin menggunakan formula, masukkan tanda kutip tunggal sebelum 
     <message>
         <source>Import 
 Data</source>
-        <translation type="unfinished"/>
+        <translation>Impor Data</translation>
     </message>
     <message>
         <source>Stop Recording</source>
@@ -8539,7 +8631,7 @@ Data</source>
     </message>
     <message>
         <source>Data is already exist here. Do you want to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>Sudah ada data di sini. Anda ingin menimpanya?</translation>
     </message>
     <message>
         <source>is the text whose length you want to find. Spaces count as characters.</source>
@@ -8652,7 +8744,7 @@ Data</source>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
-        <translation type="unfinished"/>
+        <translation>angka1%1angka2%1... adalah angka 1 hingga 255 yang akan dijumlahkan. Nilai logika dan teks akan diabaikan dalam sel, dimasukkan jika jenisnya sebagai argumen.</translation>
     </message>
     <message>
         <source>is the range of numeric values of x with which there are associated probabilities.</source>
@@ -8660,7 +8752,7 @@ Data</source>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"/>
+        <translation>Periode</translation>
     </message>
     <message>
         <source>is the numeric value at which to evaluate the distribution.</source>
@@ -8942,7 +9034,7 @@ Data</source>
     <message>
         <source>We looked at the data next to your selection and didn't see a pattern for filling values for you.
 To use Flash Fill, enter a couple of examples of the output you&apos;d like to see,kepp the active cell in the column you want fill, and click the Flash Fill button again.</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan lebih banyak contoh data dan coba lagi</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -9174,7 +9266,9 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
         <source>The shared workbook has saved in a file format that is  supported in the current of ET, To Keep this workbook synchronized with changes that other shared workbook users make by using the new file format, you need to colse and reopen the workbook.
 • Click OK to close and reopen the workbook.
 • Click Cancel to view it read-only.</source>
-        <translation type="unfinished"/>
+        <translation>Buku kerja terbagi telah disimpan dalam format file yang didukung dalam versi WPS Spreadsheets saat ini. Untuk membuat buku kerja tetap tersinkronkan dengan perubahan yang dibuat pengguna pada buku kerja terbagi lainnya dengan menggunakan format file baru, Anda harus menutup dan membuka kembali buku kerja.
+• Klik OK untuk menutup dan membuka kembali buku kerja.
+• Klik Batal untuk melihatnya dalam mode hanya baca.</translation>
     </message>
     <message>
         <source>Known_x&apos;s</source>
@@ -9292,7 +9386,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>To create a chart, select the cells that contain the data you&apos;d like to use. If you have names for the rows and columns and you&apos;d like to use them as labels, include them in you selection.</source>
-        <translation type="unfinished"/>
+        <translation>Untuk membuat bagan, pilih sel yang berisi data yang akan Anda gunakan. Jika Anda memiliki nama untuk baris atau kolom dan Anda ingin menggunakannya sebagai label, sertakan saja dalam pemilihan Anda.</translation>
     </message>
     <message>
         <source>As the array of independent variable data points or area</source>
@@ -9989,7 +10083,7 @@ Ada beberapa kemungkinan alasan:
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 254 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
-        <translation type="unfinished"/>
+        <translation>logika1,logika2,... adalah kondisi 1 hingga 255 yang digunakan untuk pengujian TRUE atau FALSE dan bisa berupa nilai logika, array, atau rujukan. {1,?} {2,?} {1 ?} {254 ?}</translation>
     </message>
     <message>
         <source>Printer_text</source>
@@ -10072,6 +10166,10 @@ Ada beberapa kemungkinan alasan:
         <translation>Error_val</translation>
     </message>
     <message>
+        <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
+        <translation>Tampilan Tata Letak Halaman tidak kompatibel dengan Panel Beku. Jika Anda melanjutkan, kebekuan panel pada lembar ini akan dihilangkan, Apakah Anda ingin melanjutkan?</translation>
+    </message>
+    <message>
         <source>Row_num</source>
         <translation>Row_num</translation>
     </message>
@@ -10119,7 +10217,7 @@ Ada beberapa kemungkinan alasan:
     <message>
         <source>Protect 
 Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Lindungi Lembar</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -10296,7 +10394,7 @@ Please check the login account. If the account is correct, please ask the docume
     </message>
     <message>
         <source>is the array or range of data against which to text X.</source>
-        <translation type="unfinished"/>
+        <translation>adalah array atau rentang data untuk menguji X.</translation>
     </message>
     <message>
         <source>Operation_num</source>
@@ -10320,7 +10418,7 @@ Please check the login account. If the account is correct, please ask the docume
     </message>
     <message>
         <source>Collate</source>
-        <translation type="unfinished"/>
+        <translation>Kolase</translation>
     </message>
     <message>
         <source>Command</source>
@@ -10424,7 +10522,7 @@ Lanjutkan ?</translation>
     </message>
     <message>
         <source>Clear Filter(Alt+C)</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Filter (Alt+C)</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
@@ -10643,7 +10741,8 @@ Lanjutkan ?</translation>
     </message>
     <message>
         <source>InsertDropDownList</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan 
+Daftar Gulung</translation>
     </message>
     <message>
         <source>Real_num</source>
@@ -11262,7 +11361,9 @@ If you are trying to open the file from your recently used file list on the File
         <source>The shared workbook has been saved in a file format that is recognized by earlier versions of ET. To keep this workbook synchronized with changes that other shared workbook users make. you need to close and reopen the workbook.
 • Click OK to close and reopen the workbook in Compatibility mode.
 • Click Cancel to view the workbook as read-only.</source>
-        <translation type="unfinished"/>
+        <translation>Buku kerja terbagi telah disimpan dalam format file yang dikenali versi WPS Spreadsheets sebelumnya. Untuk membuat buku kerja ini tetap tersinkronkan dengan perubahan yang dibuat pengguna pada buku kerja terbagi lainnya, Anda harus menutup dan membuka kembali buku kerja tersebut.
+• Klik OK untuk menutup dan membuka kembali buku kerja dalam mode Kompatibilitas.
+• Klik Batal untuk menampilkan buku kerja sebagai hanya baca.</translation>
     </message>
     <message>
         <source>is the value that is returned if Logical_test is TRUE.</source>
@@ -11279,7 +11380,7 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>Protect 
 Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Lindungi Buku Kerja</translation>
     </message>
     <message>
         <source>is the number by which pi is multiplied.</source>
@@ -11463,7 +11564,7 @@ Ejaan</translation>
     </message>
     <message>
         <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat mengisi karena pilihan berisi rumus, sel yang digabungkan, validasi data, atau sel yang dikunci. Hapus data ini dan coba lagi.</translation>
     </message>
     <message>
         <source> is an optional lower bound to the interval of x. If omitted, lower bound fo the X range = 0.</source>
@@ -12109,7 +12210,7 @@ Ejaan</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Wizard PivotTable dan PivotChart</translation>
     </message>
     <message>
         <source>Field thr&amp;ee:</source>
@@ -12145,7 +12246,7 @@ Ejaan</translation>
     </message>
     <message>
         <source>Create a single page field for me</source>
-        <translation type="unfinished"/>
+        <translation>Buat satu ruas halaman untuk saya (&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Range:</source>
@@ -12153,7 +12254,7 @@ Ejaan</translation>
     </message>
     <message>
         <source>I will create the page fields</source>
-        <translation type="unfinished"/>
+        <translation>Saya akan membuat ruas halaman (&amp;S)</translation>
     </message>
     <message>
         <source>How many page fields you want?</source>
@@ -12268,11 +12369,11 @@ Ejaan</translation>
     </message>
     <message>
         <source>Settings Saved</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan berhasil disimpan.</translation>
     </message>
     <message>
         <source>&amp;Save and replace custom setting</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan dan ganti pengaturan kustom</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -12495,7 +12596,7 @@ Ejaan</translation>
     </message>
     <message>
         <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
-        <translation type="unfinished"/>
+        <translation>Tabel berhasil dipublikasikan dan dapat dilihat di: &lt;a href=&quot;%s&quot;&gt;%s</translation>
     </message>
     <message>
         <source>Enter the name or description of the function you want to look for.</source>
@@ -12551,7 +12652,7 @@ Ejaan</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Failed to open the dictionary file you selected, make sure it is a valid dictionary file.</source>
@@ -12773,11 +12874,11 @@ Panel</translation>
     </message>
     <message>
         <source>column %s</source>
-        <translation type="unfinished"/>
+        <translation> column %s</translation>
     </message>
     <message>
         <source>column %d</source>
-        <translation type="unfinished"/>
+        <translation> column %d</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
@@ -13055,7 +13156,7 @@ sel tersebut akan diset di latar belakang oranye.
     </message>
     <message>
         <source>The number of fields exceeds 10000 and only 10000 entries are displayed!</source>
-        <translation type="unfinished"/>
+        <translation>Ruas ini memiliki lebih dari 10.000 item. Hanya 10.000 items pertama yang akan ditampilkan.</translation>
     </message>
     <message>
         <source>contains</source>
@@ -13083,7 +13184,7 @@ sel tersebut akan diset di latar belakang oranye.
     </message>
     <message>
         <source>Form(&amp;F)</source>
-        <translation type="unfinished"/>
+        <translation>Formulir(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
@@ -13137,7 +13238,7 @@ matis, pertahankan satu baris saja.
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Masukan Pengguna</translation>
     </message>
     <message>
         <source>Page &amp;P &amp;A</source>
@@ -13149,7 +13250,7 @@ matis, pertahankan satu baris saja.
     </message>
     <message>
         <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan yang tak diharapkan. Perubahan pada data Anda tidak dapat disimpan.</translation>
     </message>
     <message>
         <source>List will be permanently deleted.</source>
@@ -13181,7 +13282,7 @@ matis, pertahankan satu baris saja.
     </message>
     <message>
         <source>row %d</source>
-        <translation type="unfinished"/>
+        <translation> row %d</translation>
     </message>
     <message>
         <source>Special formats are useful for tracking list and database values.</source>
@@ -13347,7 +13448,7 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Ada Batas</translation>
     </message>
     <message>
         <source>Change PivotTable Data Source</source>
@@ -13391,7 +13492,7 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
     </message>
     <message>
         <source>The fields that are being moved cannot be placed in that PivotTable area.</source>
-        <translation type="unfinished"/>
+        <translation>Ruas yang Anda pindahkan tidak dapat ditempatkan di area laporan.</translation>
     </message>
     <message>
         <source>Column width must be between %d and %d.</source>
@@ -13415,7 +13516,7 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
     </message>
     <message>
         <source>Select This</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Ini</translation>
     </message>
     <message>
         <source>Drop Page Fields Here</source>
@@ -13431,7 +13532,7 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
     </message>
     <message>
         <source>Style Name Not Valid</source>
-        <translation type="unfinished"/>
+        <translation>Nama Gaya Tidak Valid</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
@@ -13551,7 +13652,7 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
     </message>
     <message>
         <source>Clear(&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>Hapus(&amp;C)</translation>
     </message>
     <message>
         <source>Type the number format code, using one of the existing codes as a starting point.</source>
@@ -13559,7 +13660,7 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
     </message>
     <message>
         <source>No ranges selected</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada rentang yang dipilih</translation>
     </message>
     <message>
         <source>Number is not valid.</source>
@@ -13576,7 +13677,7 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
     </message>
     <message>
         <source>Connections to external data sources has been disabled, you can change the settings in the options dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Koneksi ke sumber data eksternal telah dinonaktifkan. Anda dapat mengubah pengaturan di Pilihan.</translation>
     </message>
     <message>
         <source>Generate pictures in the currently selected area.</source>
@@ -13628,7 +13729,7 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
     </message>
     <message>
         <source>You can not apply data validation validation to a cell in a PivotTable</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat menerapkan validasi data ke sel dalam laporan PivotTable.</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
@@ -13636,7 +13737,7 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
     </message>
     <message>
         <source>Criteria(&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>Kriteria(&amp;C)</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
@@ -13663,11 +13764,11 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Delete(&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>Hapus(&amp;D)</translation>
     </message>
     <message>
         <source>not equal to</source>
@@ -13700,7 +13801,10 @@ kategori yang Anda inginkan, lalu pilih opsi lainnya.</translation>
 • Do you want to save your changes to these files? 
 • 
 •</source>
-        <translation type="unfinished"/>
+        <translation>Beberapa file yang dibuka memiliki nama yang sama seperti file yang akan digabungkan. Untuk menghindari kegagalan dalam penggabungan, file yang dibuka ini akan ditutup. 
+• Anda ingin menyimpan perubahan pada file ini?
+
+</translation>
     </message>
     <message>
         <source>Standard Width</source>
@@ -13830,7 +13934,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>To apply value filtering, the Value area must contain at least one field.</source>
-        <translation type="unfinished"/>
+        <translation>Anda memerlukan minimal satu ruas di area Nilai untuk menerapkan filter nilai.</translation>
     </message>
     <message>
         <source>The cells with overly complex strings will be ignored.</source>
@@ -13907,7 +14011,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>Print Entire Workbook directly</source>
-        <translation type="unfinished"/>
+        <translation>Cetak Seluruh Buku Kerja</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -14102,7 +14206,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>Comment:</source>
-        <translation type="unfinished"/>
+        <translation>Komentar: (&amp;n)</translation>
     </message>
     <message>
         <source>Align with page &amp;margins</source>
@@ -14142,7 +14246,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Header/Footer</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
@@ -14506,7 +14610,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>point</source>
-        <translation type="unfinished"/>
+        <translation>Poin</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -14611,7 +14715,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>Not show all item</source>
-        <translation type="unfinished"/>
+        <translation>Tidak semua item menampilkan</translation>
     </message>
     <message>
         <source>No items match your search.</source>
@@ -14630,7 +14734,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>(Separate keywords with space)</source>
-        <translation type="unfinished"/>
+        <translation>(Mendukung filter multikondisi)</translation>
     </message>
 </context>
 <context>
@@ -14645,7 +14749,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"/>
+        <translation>Tindakan</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14731,7 +14835,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>Sor&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Sortir</translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -14840,7 +14944,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>&amp;Advanced Setting &gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Lanjutan &gt;&gt; (&amp;L)</translation>
     </message>
     <message>
         <source>Show data in &amp;hidden rows and columns</source>
@@ -14856,11 +14960,11 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>Each row of data as a series</source>
-        <translation type="unfinished"/>
+        <translation>Data setiap baris sebagai seri</translation>
     </message>
     <message>
         <source>Each col of data as a series</source>
-        <translation type="unfinished"/>
+        <translation>Data setiap kolom sebagai seri</translation>
     </message>
     <message>
         <source>&amp;Series</source>
@@ -14868,7 +14972,7 @@ Untuk memasukkan sebuah rujukan, klik sel dalam lembar yang ingin Anda rujuk, at
     </message>
     <message>
         <source>编辑数据源</source>
-        <translation type="unfinished"/>
+        <translation>Edit Sumber Data</translation>
     </message>
     <message>
         <source>The data range is too complex to be displayed.</source>
@@ -15038,7 +15142,13 @@ connections to external data sources can be used by queries to
 access confidential information available to other users,or to
 perform other harmful actions.If you trust the source of this
 file,click OK.</source>
-        <translation type="unfinished"/>
+        <translation>Tindakan ini akan membuat koneksi ke sumber data eksternal.
+
+Sumber data eksternal digunakan untuk mengimpor data ke WPS Spreadsheet, tetapi
+sambungan ke sumber data eksternal dapat digunakan oleh kueri untuk
+mengakses informasi rahasia yang tersedia untuk pengguna lain, atau untuk
+melakukan tindakan berbahaya lainnya. Jika Anda memercayai sumber file
+ini, klik OK.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -15046,7 +15156,7 @@ file,click OK.</source>
     </message>
     <message>
         <source>SpreadSheets</source>
-        <translation type="unfinished"/>
+        <translation>Spreadsheet</translation>
     </message>
 </context>
 <context>
@@ -15095,7 +15205,7 @@ file,click OK.</source>
     </message>
     <message>
         <source>File List of already open:</source>
-        <translation type="unfinished"/>
+        <translation>File Sudah Dibuka:</translation>
     </message>
     <message>
         <source>Open another file</source>
@@ -15138,7 +15248,7 @@ file,click OK.</source>
     </message>
     <message>
         <source>Do not save, directly to slim</source>
-        <translation type="unfinished"/>
+        <translation>Pengecilan tanpa simpan</translation>
     </message>
     <message>
         <source>Select Folder:</source>
@@ -15149,12 +15259,16 @@ file,click OK.</source>
         <translation>Memperkecil...</translation>
     </message>
     <message>
+        <source>Duplicate styles</source>
+        <translation>Gaya duplikat</translation>
+    </message>
+    <message>
         <source>All Shapes</source>
         <translation>Semua Bentuk</translation>
     </message>
     <message>
         <source>Failed to save the source files. Do you want to continue slimming?</source>
-        <translation type="unfinished"/>
+        <translation>Gagal menyimpan file asli. Lanjutkan pengecilan?</translation>
     </message>
     <message>
         <source>This file has been modified, please confirm that you want to save.</source>
@@ -15162,11 +15276,11 @@ file,click OK.</source>
     </message>
     <message>
         <source>No neeed slimming</source>
-        <translation type="unfinished"/>
+        <translation>Tidak perlu dikurangi</translation>
     </message>
     <message>
         <source>Backup source file failed. Do you want to continue slimming?</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mencadangkan file asli. Lanjutkan pengecilan?</translation>
     </message>
     <message>
         <source>%1 Select another file %2</source>
@@ -15178,15 +15292,15 @@ file,click OK.</source>
     </message>
     <message>
         <source>Hidden Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Objek yang tidak terlihat</translation>
     </message>
     <message>
         <source>Fail to open file!</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membuka file.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak memiliki izin untuk menyimpan file cadangan ke &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -15233,7 +15347,7 @@ file,click OK.</source>
     </message>
     <message>
         <source>Format only unique or duplicate value</source>
-        <translation type="unfinished"/>
+        <translation>Format hanya nilai unik atau duplikat</translation>
     </message>
 </context>
 <context>
@@ -15278,11 +15392,11 @@ Anda mungkin masih perlu memperbarui secara manual referensi apapun ke nama ini 
     <name>KxEditCrossBookLinksDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cannot be used</source>
-        <translation type="unfinished"/>
+        <translation>Tidak berlaku</translation>
     </message>
     <message>
         <source>Warning: Source not recalculated</source>
@@ -15397,7 +15511,7 @@ Anda mungkin masih perlu memperbarui secara manual referensi apapun ke nama ini 
     </message>
     <message>
         <source>Begin With</source>
-        <translation type="unfinished"/>
+        <translation>Mulai Dengan</translation>
     </message>
     <message>
         <source>More</source>
@@ -15477,7 +15591,7 @@ Anda mungkin masih perlu memperbarui secara manual referensi apapun ke nama ini 
     </message>
     <message>
         <source>End With</source>
-        <translation type="unfinished"/>
+        <translation>Diakhiri Dengan</translation>
     </message>
     <message>
         <source>analysis</source>
@@ -15513,7 +15627,7 @@ Anda mungkin masih perlu memperbarui secara manual referensi apapun ke nama ini 
     </message>
     <message>
         <source>Set Search</source>
-        <translation type="unfinished"/>
+        <translation>Metode pencarian</translation>
     </message>
     <message>
         <source>Top 10</source>
@@ -16208,7 +16322,7 @@ Data</translation>
     </message>
     <message>
         <source>AutoFitSelection</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan Autopas</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -16264,7 +16378,7 @@ Data</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar</translation>
     </message>
     <message>
         <source>Recent Font Color</source>
@@ -16447,7 +16561,7 @@ Fungsi</translation>
     </message>
     <message>
         <source>PivotTable Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Segarkan PivotTable</translation>
     </message>
     <message>
         <source>Set Print Area</source>
@@ -16627,7 +16741,7 @@ Tengahkan</translation>
     </message>
     <message>
         <source>Remind Repeat</source>
-        <translation type="unfinished"/>
+        <translation>Soroti duplikat</translation>
     </message>
     <message>
         <source>Insert Columns</source>
@@ -16647,7 +16761,7 @@ Tengahkan</translation>
     </message>
     <message>
         <source>Delete Colunm</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Kolom</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
@@ -16772,7 +16886,8 @@ Bersyarat</translation>
     </message>
     <message>
         <source>Split Sheets</source>
-        <translation type="unfinished"/>
+        <translation>Pisah Sheet 
+Sesuai Konten</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -16816,7 +16931,7 @@ Bersyarat</translation>
     </message>
     <message>
         <source>Duplicate Value</source>
-        <translation type="unfinished"/>
+        <translation>Nilai Duplikat</translation>
     </message>
     <message>
         <source>Rows and 
@@ -16903,7 +17018,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Teks Saja</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -16935,11 +17050,11 @@ Lembar</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Font Lainnya</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -16968,10 +17083,6 @@ Lembar</translation>
     <message>
         <source>No Border</source>
         <translation>Tidak Ada Batas</translation>
-    </message>
-    <message>
-        <source>Double accounting</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format</source>
@@ -17035,7 +17146,8 @@ Lembar</translation>
     </message>
     <message>
         <source>Split Books</source>
-        <translation type="unfinished"/>
+        <translation>Pisah Buku
+Sesuai Sheet</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -17071,7 +17183,7 @@ Lembar</translation>
     </message>
     <message>
         <source>All Using Source Theme</source>
-        <translation type="unfinished"/>
+        <translation>Format sumber yang dicadangkan</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -17103,7 +17215,7 @@ Lembar</translation>
     </message>
     <message>
         <source>New Pivot Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya PivotTable Baru</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -17188,7 +17300,8 @@ Sel</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan dan 
+Tengahkan</translation>
     </message>
     <message>
         <source>Clear Rules from This Table</source>
@@ -17204,7 +17317,8 @@ Sel</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Data Bars</source>
@@ -17220,7 +17334,7 @@ Sel</translation>
     </message>
     <message>
         <source>IconSets</source>
-        <translation type="unfinished"/>
+        <translation>Rangkaian Ikon</translation>
     </message>
     <message>
         <source>Context</source>
@@ -17245,7 +17359,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>More Border Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Lainnya</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
@@ -17289,7 +17403,8 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation type="unfinished"/>
+        <translation>Format sebagai 
+Tabel</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -17370,11 +17485,13 @@ with same name in workbooks</source>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan dan 
+Tengahkan</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation type="unfinished"/>
+        <translation>Temukan dan 
+Ganti</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -17390,7 +17507,7 @@ Center</source>
     </message>
     <message>
         <source>Paste values to visible cells</source>
-        <translation type="unfinished"/>
+        <translation>Tempel nilai ke sel yang terlihat</translation>
     </message>
     <message>
         <source>Above Average</source>
@@ -17398,7 +17515,8 @@ Center</source>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Pemformatan 
+Bersyarat</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -17470,7 +17588,7 @@ Center</source>
     </message>
     <message>
         <source>Axes</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -17538,7 +17656,7 @@ Center</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -17562,7 +17680,7 @@ Center</source>
     </message>
     <message>
         <source>Align RLeft</source>
-        <translation type="unfinished"/>
+        <translation>Rata Kiri</translation>
     </message>
     <message>
         <source>% of Parent Column Total</source>
@@ -17574,11 +17692,11 @@ Center</source>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="unfinished"/>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"/>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>% Running Total In</source>
@@ -17586,7 +17704,7 @@ Center</source>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"/>
+        <translation>6 pt</translation>
     </message>
     <message>
         <source>Above</source>
@@ -17614,7 +17732,7 @@ Center</source>
     </message>
     <message>
         <source>Erase</source>
-        <translation>Penghapus</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>Forms</source>
@@ -17634,7 +17752,7 @@ Center</source>
     </message>
     <message>
         <source>Move to Rows</source>
-        <translation type="unfinished"/>
+        <translation>Pindah ke Baris</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -17734,7 +17852,7 @@ Center</source>
     </message>
     <message>
         <source>table</source>
-        <translation type="unfinished"/>
+        <translation>Kolom Tabel</translation>
     </message>
     <message>
         <source>Accept Changes</source>
@@ -17742,7 +17860,7 @@ Center</source>
     </message>
     <message>
         <source>PTCustom Sort</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan Sortir Lainnya</translation>
     </message>
     <message>
         <source>Value Filters</source>
@@ -17762,7 +17880,7 @@ Center</source>
     </message>
     <message>
         <source>DelCellUp</source>
-        <translation type="unfinished"/>
+        <translation>Sel Atas</translation>
     </message>
     <message>
         <source>Hide Selected Items</source>
@@ -17770,7 +17888,7 @@ Center</source>
     </message>
     <message>
         <source>DelColumn</source>
-        <translation type="unfinished"/>
+        <translation>Seluruh Kolom</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -17808,7 +17926,7 @@ digabungkan dalam satu buku kerja</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Number Format</source>
@@ -17820,7 +17938,7 @@ digabungkan dalam satu buku kerja</translation>
     </message>
     <message>
         <source>TransposePopup</source>
-        <translation type="unfinished"/>
+        <translation>Popup Transpose</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -17832,11 +17950,11 @@ digabungkan dalam satu buku kerja</translation>
     </message>
     <message>
         <source>Chart Styles</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Gaya</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Cek Pembaruan</translation>
     </message>
     <message>
         <source>Format Chart Area</source>
@@ -17844,11 +17962,11 @@ digabungkan dalam satu buku kerja</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>2,25 pt</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,25 pt</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
@@ -17876,7 +17994,7 @@ digabungkan dalam satu buku kerja</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -17892,7 +18010,7 @@ digabungkan dalam satu buku kerja</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan Autocadang</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
@@ -17909,11 +18027,11 @@ Lembar</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation type="unfinished"/>
+        <translation>Potong menurut Skala</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation type="unfinished"/>
+        <translation>Potong menurut Bentuk</translation>
     </message>
     <message>
         <source>Standard Deviation</source>
@@ -17925,7 +18043,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>Edit in Formula Bar</source>
@@ -17945,11 +18063,11 @@ Lembar</translation>
     </message>
     <message>
         <source>Align RRight</source>
-        <translation type="unfinished"/>
+        <translation>Rata Kanan</translation>
     </message>
     <message>
         <source>Format Comma Style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Koma</translation>
     </message>
     <message>
         <source>Move to Axis Fields (Categories)</source>
@@ -17961,7 +18079,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor ke Gambar</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -18001,7 +18119,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Font Awan</translation>
     </message>
     <message>
         <source>More Functions</source>
@@ -18037,7 +18155,7 @@ Lembar</translation>
     </message>
     <message>
         <source>FilterColumn</source>
-        <translation type="unfinished"/>
+        <translation>Filter Menurut Kolom</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
@@ -18050,7 +18168,7 @@ Perubahan</translation>
     </message>
     <message>
         <source>IntranetVersion Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Templat Online</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
@@ -18070,7 +18188,7 @@ Perubahan</translation>
     </message>
     <message>
         <source>Change DataLabel Geometry</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Bentuk Label Data</translation>
     </message>
     <message>
         <source>Align VCenter</source>
@@ -18078,7 +18196,7 @@ Perubahan</translation>
     </message>
     <message>
         <source>Align VBottom</source>
-        <translation type="unfinished"/>
+        <translation>Rata Bawah</translation>
     </message>
     <message>
         <source>Edit Text Import</source>
@@ -18094,11 +18212,11 @@ Perubahan</translation>
     </message>
     <message>
         <source>AutoFilterByFontColor</source>
-        <translation type="unfinished"/>
+        <translation>Filter Menurut Warna Font</translation>
     </message>
     <message>
         <source>Photo to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Gambar ke PDF</translation>
     </message>
     <message>
         <source>Fill Days</source>
@@ -18118,7 +18236,7 @@ Perubahan</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Teks Saja</translation>
     </message>
     <message>
         <source>Format UnitLabel</source>
@@ -18134,12 +18252,13 @@ Perubahan</translation>
     </message>
     <message>
         <source>CellRight</source>
-        <translation type="unfinished"/>
+        <translation>Sel Kanan</translation>
     </message>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"/>
+        <translation>Add-In 
+COM</translation>
     </message>
     <message>
         <source>Secondary Horizontal</source>
@@ -18167,11 +18286,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Formulas &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Formula &amp; Format Angka</translation>
     </message>
     <message>
         <source>Three Dimensional Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi 3-D</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -18187,7 +18306,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Photo2PdfConvert</source>
-        <translation type="unfinished"/>
+        <translation>Konversi Gambar ke PDF</translation>
     </message>
     <message>
         <source>Secondary Vertical</source>
@@ -18199,7 +18318,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>FilterColumnByFirstRow</source>
-        <translation type="unfinished"/>
+        <translation>Filter Kolom Menurut Baris Pertama</translation>
     </message>
     <message>
         <source>Running Total In</source>
@@ -18207,11 +18326,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>FilterColumnByTitleRow</source>
-        <translation type="unfinished"/>
+        <translation>Filter Kolom Menurut Judul Baris</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Garis Berpola</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -18227,11 +18346,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Warna Lainnya</translation>
+        <translation>Warna Font Lainnya</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -18243,7 +18362,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>1,5 pt</translation>
     </message>
     <message>
         <source>Insert Copied Cells (Entire Row/Entire Column)</source>
@@ -18251,11 +18370,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Templat Online</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished"/>
+        <translation>Kirim Email</translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -18268,7 +18387,8 @@ Add-Ins</source>
     <message>
         <source>Split a worksheet 
 into multiple worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Pisah Sheet 
+Sesuai Konten</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -18280,11 +18400,11 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>ImportDataFromWeb</source>
-        <translation type="unfinished"/>
+        <translation>Dari Web</translation>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation type="unfinished"/>
+        <translation>Catatan Selengkapnya</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -18328,7 +18448,7 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>DelRow</source>
-        <translation type="unfinished"/>
+        <translation>Seluruh Baris</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -18461,7 +18581,7 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>AutoFilterByValue</source>
-        <translation type="unfinished"/>
+        <translation>Filter Menurut Nilai</translation>
     </message>
     <message>
         <source>Chart Filters</source>
@@ -18493,7 +18613,7 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation type="unfinished"/>
+        <translation>Nonaktifkan Autocadang</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -18598,7 +18718,7 @@ Cetak</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan Jendela Aktif saat Ambil Layar</translation>
     </message>
     <message>
         <source>% Difference From</source>
@@ -18606,7 +18726,7 @@ Cetak</translation>
     </message>
     <message>
         <source>Format Currency</source>
-        <translation type="unfinished"/>
+        <translation>Mata Uang</translation>
     </message>
     <message>
         <source>Solver</source>
@@ -18679,7 +18799,7 @@ Penuh</translation>
     </message>
     <message>
         <source>Format Percent Style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Persen</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
@@ -18695,7 +18815,7 @@ Penuh</translation>
     </message>
     <message>
         <source>Values &amp; Number Formatting Popup</source>
-        <translation type="unfinished"/>
+        <translation>Popup Format Angka Nilai</translation>
     </message>
     <message>
         <source>Error Checking Options</source>
@@ -18707,7 +18827,7 @@ Penuh</translation>
     </message>
     <message>
         <source>Move to Columns</source>
-        <translation type="unfinished"/>
+        <translation>Pindah ke Kolom</translation>
     </message>
     <message>
         <source>Error Bars</source>
@@ -18744,7 +18864,7 @@ Penuh</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Garis</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -18752,7 +18872,7 @@ Penuh</translation>
     </message>
     <message>
         <source>AutoFilterByCellColor</source>
-        <translation type="unfinished"/>
+        <translation>Filter Menurut Warna Sel</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -18760,7 +18880,7 @@ Penuh</translation>
     </message>
     <message>
         <source>Reset To Fit Style</source>
-        <translation type="unfinished"/>
+        <translation>Reset untuk Cocokkan Gaya</translation>
     </message>
     <message>
         <source>Remove Slicers</source>
@@ -18777,7 +18897,7 @@ Penuh</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
@@ -18807,6 +18927,11 @@ Komentar</translation>
     <message>
         <source>Close All</source>
         <translation>Tutup Semua</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <translation>10 
+Teratas</translation>
     </message>
     <message>
         <source>Left</source>
@@ -18853,7 +18978,7 @@ digabungkan dalam satu lembar kerja</translation>
     </message>
     <message>
         <source>Align Middle and Center</source>
-        <translation type="unfinished"/>
+        <translation>Rata Tengah Pusat</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -18905,7 +19030,7 @@ digabungkan dalam satu lembar kerja</translation>
     </message>
     <message>
         <source>All Using Source Theme</source>
-        <translation type="unfinished"/>
+        <translation>Format sumber yang dicadangkan</translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -18914,7 +19039,7 @@ digabungkan dalam satu lembar kerja</translation>
     </message>
     <message>
         <source>Using Source Theme</source>
-        <translation type="unfinished"/>
+        <translation>Format sumber yang dicadangkan</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
@@ -18947,7 +19072,7 @@ Kolom</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Bagi</translation>
+        <translation>Bagi File</translation>
     </message>
     <message>
         <source>Insert Argument After</source>
@@ -18975,7 +19100,7 @@ Kolom</translation>
     </message>
     <message>
         <source>ColumnNumber</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Kolom</translation>
     </message>
     <message>
         <source>Move to End</source>
@@ -18996,7 +19121,7 @@ Kerja</translation>
     </message>
     <message>
         <source>CopyCutRight</source>
-        <translation type="unfinished"/>
+        <translation>Sel Kanan</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -19089,7 +19214,7 @@ Kerja</translation>
     </message>
     <message>
         <source>BestFit</source>
-        <translation type="unfinished"/>
+        <translation>Paling Pas</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -19101,7 +19226,8 @@ Kerja</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Header dan 
+Footer</translation>
     </message>
     <message>
         <source>Clear Contents</source>
@@ -19110,11 +19236,11 @@ Kerja</translation>
     <message>
         <source>table</source>
         <comment>Delete Rows</comment>
-        <translation type="unfinished"/>
+        <translation>Kolom Tabel</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Periksa Izin</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -19122,7 +19248,7 @@ Kerja</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"/>
+        <translation>Pusat Manajemen</translation>
     </message>
     <message>
         <source>Primary Major Vertical</source>
@@ -19191,11 +19317,15 @@ Data</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan PivotTable</translation>
     </message>
     <message>
         <source>Cascade</source>
         <translation>Berjenjang</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation>Rata tengah sebagai grup</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -19223,7 +19353,7 @@ Data</translation>
     </message>
     <message>
         <source>Format DataLabel</source>
-        <translation type="unfinished"/>
+        <translation>Format Label Data</translation>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -19251,7 +19381,7 @@ Data</translation>
     </message>
     <message>
         <source>Formulas &amp; Number Formatting Popup</source>
-        <translation type="unfinished"/>
+        <translation>Popup Format Angka Formula</translation>
     </message>
     <message>
         <source>Unprotect Workbook</source>
@@ -19267,11 +19397,11 @@ Data</translation>
     </message>
     <message>
         <source>Format Decrease Decimal</source>
-        <translation type="unfinished"/>
+        <translation>Kurangi Desimal</translation>
     </message>
     <message>
         <source>Format Increase Decimal</source>
-        <translation type="unfinished"/>
+        <translation>Tambah Desimal</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -19302,8 +19432,12 @@ Data</translation>
         <translation>Format Legenda</translation>
     </message>
     <message>
+        <source>Smart Split Columns</source>
+        <translation>Pisah Pintar Kolom</translation>
+    </message>
+    <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Chinese Separator</source>
@@ -19311,7 +19445,7 @@ Data</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Putus-putus</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -19335,7 +19469,7 @@ Data</translation>
     </message>
     <message>
         <source>CopyCutDown</source>
-        <translation type="unfinished"/>
+        <translation>Sel bawah</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -19344,7 +19478,7 @@ Data</translation>
     <message>
         <source>Merge worksheets 
 with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan lembar kerja dengan nama yang sama di buku kerja</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
@@ -19380,7 +19514,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Format Category Label</source>
-        <translation type="unfinished"/>
+        <translation>Format Label Kategori</translation>
     </message>
     <message>
         <source>Keep Source Column Widths</source>
@@ -19405,7 +19539,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="unfinished"/>
+        <translation>Lihat Riwayat Cadangan</translation>
     </message>
     <message>
         <source>Entire Sheet Row</source>
@@ -19430,7 +19564,8 @@ with same name in workbooks</source>
     <message>
         <source>Split a workbook 
 into multiple workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Pisah Buku
+Sesuai Sheet</translation>
     </message>
     <message>
         <source>Play Sound</source>
@@ -19455,7 +19590,7 @@ into multiple workbooks</source>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan Elemen Bagan</translation>
     </message>
     <message>
         <source>Format Data Table</source>
@@ -19507,7 +19642,7 @@ into multiple workbooks</source>
     </message>
     <message>
         <source>Add MajorGridline</source>
-        <translation>Tambahkan Garis Kisi Utama</translation>
+        <translation>Tambahkan Garis Kisi Besar</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -19516,11 +19651,11 @@ into multiple workbooks</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"/>
+        <translation>Edit Kueri OLE DB</translation>
     </message>
     <message>
         <source>Secondary Minor Vertial</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal Minor Kedua</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -19556,7 +19691,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>CellDown</source>
-        <translation type="unfinished"/>
+        <translation>Sel bawah</translation>
     </message>
     <message>
         <source>Center</source>
@@ -19578,7 +19713,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>TrendLine</source>
-        <translation type="unfinished"/>
+        <translation>Garis tren</translation>
     </message>
     <message>
         <source>Function</source>
@@ -19599,11 +19734,11 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>RowNumber</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Baris</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Pengambilan Layar</translation>
     </message>
     <message>
         <source>Scientific</source>
@@ -19623,7 +19758,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Bentuk</translation>
     </message>
     <message>
         <source>Chart Objects</source>
@@ -19631,11 +19766,11 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>DelCellLeft</source>
-        <translation type="unfinished"/>
+        <translation>Sel Kiri</translation>
     </message>
     <message>
         <source>More Option...</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan Lainnya...</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -19651,7 +19786,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Delete Row</source>
@@ -19691,7 +19826,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Pencadangan Otomatis</translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -19707,7 +19842,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Format MajorGridline</source>
-        <translation type="unfinished"/>
+        <translation>Format Garis Kisi Utama</translation>
     </message>
     <message>
         <source>Keep Only Selected Items</source>
@@ -19792,7 +19927,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Lihat File Aman</translation>
     </message>
     <message>
         <source>Center Across</source>
@@ -19820,7 +19955,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>Periksa Izin</translation>
     </message>
     <message>
         <source>Data Callout</source>
@@ -19832,7 +19967,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>FormattingPopup</source>
-        <translation>Pemformatan</translation>
+        <translation>Popup Format</translation>
     </message>
     <message>
         <source>Align VTop</source>
@@ -19848,7 +19983,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Add DataLabel</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan Label Data</translation>
     </message>
     <message>
         <source>Format Leader Lines</source>
@@ -19912,7 +20047,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Format TrendLine Label</source>
-        <translation type="unfinished"/>
+        <translation>Format Label Garis Tren</translation>
     </message>
     <message>
         <source>Label Filters</source>
@@ -19929,11 +20064,11 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>My Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Langganan Saya</translation>
     </message>
     <message>
         <source>Format Accounting</source>
-        <translation type="unfinished"/>
+        <translation>Akuntansi</translation>
     </message>
     <message>
         <source>Growth Trend</source>
@@ -19962,7 +20097,7 @@ Komentar</translation>
     </message>
     <message>
         <source>Primary Minor Vertial</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal Minor Utama</translation>
     </message>
     <message>
         <source>Primary Vertical</source>
@@ -19970,7 +20105,7 @@ Komentar</translation>
     </message>
     <message>
         <source>Paste values to visible cells</source>
-        <translation type="unfinished"/>
+        <translation>Tempel nilai ke sel yang terlihat</translation>
     </message>
     <message>
         <source>Expand Entire Field</source>
@@ -19986,7 +20121,7 @@ Komentar</translation>
     </message>
     <message>
         <source>Values &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Pemformatan Nilai &amp; Angka</translation>
     </message>
     <message>
         <source>Show Details</source>
@@ -20064,7 +20199,7 @@ Bersyarat</translation>
     </message>
     <message>
         <source>Keep Source Column Widths Popup</source>
-        <translation>Pertahankan Lebar Kolom Sumber</translation>
+        <translation>Popup Pertahankan Lebar Kolom Sumber</translation>
     </message>
     <message>
         <source>Series</source>
@@ -20081,7 +20216,7 @@ Bersyarat</translation>
     </message>
     <message>
         <source>Make Forward Doc</source>
-        <translation type="unfinished"/>
+        <translation>Buat Dokumen Ke Luar</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -20101,7 +20236,7 @@ Bersyarat</translation>
     </message>
     <message>
         <source>Count Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Hitung Angka</translation>
     </message>
     <message>
         <source>Outside End</source>
@@ -20111,6 +20246,26 @@ Bersyarat</translation>
         <source>Smooth Point</source>
         <translation>Titik Halus</translation>
     </message>
+    <message>
+        <source>Macro</source>
+        <translation>Makro</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation>Manajemen Offline</translation>
+    </message>
+	<message>
+        <source>AutoFilterList</source>
+        <translation type="unfinished"/>
+    </message>	
 </context>
 <context>
     <name>rainbow.ct_home</name>
@@ -20248,7 +20403,8 @@ Bersyarat</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"/>
+        <translation>Pelukis 
+Format</translation>
     </message>
     <message>
         <source>Error Value </source>
@@ -20309,7 +20465,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"/>
+        <translation>Tempel sebagai Teks Tidak Berformat</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -20332,12 +20488,18 @@ Lembar</translation>
         <translation>Hapus Sel</translation>
     </message>
     <message>
+        <source>Merge and
+Center</source>
+        <translation>Gabungkan dan
+Tengahkan</translation>
+    </message>
+    <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Font Lainnya</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -20437,7 +20599,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"/>
+        <translation>10% Terbawah</translation>
     </message>
     <message>
         <source>Custom Sort</source>
@@ -20449,7 +20611,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation type="unfinished"/>
+        <translation>10% Teratas</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -20493,7 +20655,7 @@ Lembar</translation>
     </message>
     <message>
         <source>All Using Source Theme</source>
-        <translation type="unfinished"/>
+        <translation>Format sumber yang dicadangkan</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -20513,7 +20675,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"/>
+        <translation>Bungkus teks</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
@@ -20521,7 +20683,7 @@ Lembar</translation>
     </message>
     <message>
         <source>New Pivot Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya PivotTable Baru</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -20602,7 +20764,8 @@ Sel</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan dan 
+Tengahkan</translation>
     </message>
     <message>
         <source>Unhide Rows</source>
@@ -20638,7 +20801,7 @@ Sel</translation>
     </message>
     <message>
         <source>More Border Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Lainnya</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
@@ -20666,7 +20829,8 @@ Sel</translation>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation type="unfinished"/>
+        <translation>Format sebagai 
+Tabel</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -20766,7 +20930,8 @@ Sel</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation type="unfinished"/>
+        <translation>Cari dan 
+Ganti</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -20782,7 +20947,8 @@ Sel</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Pemformatan 
+Bersyarat</translation>
     </message>
     <message>
         <source>Next week</source>
@@ -20869,7 +21035,7 @@ Sel</translation>
     </message>
     <message>
         <source>Saved Setting</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan yang Disimpan</translation>
     </message>
     <message>
         <source>Footer: %1 %2</source>
@@ -21033,15 +21199,15 @@ Sel</translation>
     </message>
     <message>
         <source>&amp;Button Height:</source>
-        <translation type="unfinished"/>
+        <translation>Tinggi tombol: (&amp;T)</translation>
     </message>
     <message>
         <source>Number of C&amp;olumns:</source>
-        <translation type="unfinished"/>
+        <translation>Jumlah Kolom: (&amp;K)</translation>
     </message>
     <message>
         <source>Enter 0 to 5963.92 cm of value</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan nilai antara 0 dan 5963,92 cm</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
@@ -21049,7 +21215,7 @@ Sel</translation>
     </message>
     <message>
         <source>Enter 1 to 20000 of value</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan nilai antara 0 dan 20000</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -21088,7 +21254,7 @@ Sel</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>&amp;Wrap text in shape</source>
@@ -21140,7 +21306,7 @@ Sel</translation>
     </message>
     <message>
         <source>Borderless</source>
-        <translation type="unfinished"/>
+        <translation>Tanpa margin</translation>
     </message>
     <message>
         <source>Narrow Margins</source>
@@ -21148,7 +21314,7 @@ Sel</translation>
     </message>
     <message>
         <source>Auto &amp;Fit</source>
-        <translation type="unfinished"/>
+        <translation>Ubah ukuran bentuk agar pas dengan teks (&amp;p)</translation>
     </message>
     <message>
         <source>&amp;Columns...</source>
@@ -21156,11 +21322,11 @@ Sel</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>&amp;Overflow</source>
-        <translation type="unfinished"/>
+        <translation>Izinkan teks melampaui bentuk (&amp;m)</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -21176,15 +21342,15 @@ Sel</translation>
     </message>
     <message>
         <source>Text c&amp;ustom angle</source>
-        <translation type="unfinished"/>
+        <translation>Sudut kustom (&amp;u)</translation>
     </message>
     <message>
         <source>Enter 0 to 55.88 cm of value</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan nilai antara 0 hingga 55,88 cm</translation>
     </message>
     <message>
         <source>Widening Margins</source>
-        <translation type="unfinished"/>
+        <translation>Perluas Margin</translation>
     </message>
 </context>
 <context>
@@ -21258,23 +21424,23 @@ Sel</translation>
     <name>KxOrientationDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>locate:</source>
-        <translation type="unfinished"/>
+        <translation>Cari: </translation>
     </message>
     <message>
         <source>referenceLocation:</source>
-        <translation type="unfinished"/>
+        <translation>Lokasi referensi:</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Cari</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -21296,7 +21462,7 @@ Sel</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Auto</translation>
     </message>
     <message>
         <source>&amp;Ending at:</source>
@@ -21373,7 +21539,7 @@ Sel</translation>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"/>
+        <translation>Mempersiapkan untuk ekspor file OFD...</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
@@ -21385,15 +21551,15 @@ Sel</translation>
     </message>
     <message>
         <source>Exporting OFD file is completing...</source>
-        <translation type="unfinished"/>
+        <translation>Sedang menyelesaikan pengeksporan file OFD...</translation>
     </message>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to OFD.</source>
-        <translation type="unfinished"/>
+        <translation>Spreadsheet WPS mengalami kesalahan saat mencoba mengekspor OFD.</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation type="unfinished"/>
+        <translation>Mengalami kesalahan saat membuka file OFD.</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -21401,7 +21567,7 @@ Sel</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"/>
+        <translation>Pengeksporan file OFD selesai.</translation>
     </message>
     <message>
         <source>Exporting page </source>
@@ -21463,11 +21629,11 @@ Sel</translation>
     </message>
     <message>
         <source>row</source>
-        <translation type="unfinished"/>
+        <translation>Baris</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation>Otomatis</translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -21553,7 +21719,7 @@ Sel</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Solver requires more memory to solve this problem than is available on the machine.</source>
@@ -21561,7 +21727,7 @@ Sel</translation>
     </message>
     <message>
         <source>AllSelect</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Semua</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -21680,6 +21846,10 @@ Sel</translation>
         <translation>Terkunci</translation>
     </message>
     <message>
+        <source>Location reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
+        <translation>Referensi lokasi tidak valid karena sel tidak semuanya berada di kolom atau baris yang sama. Pilih sel yang semuanya berada di satu kolom atau baris.</translation>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Angka</translation>
     </message>
@@ -21729,7 +21899,7 @@ Sel</translation>
     </message>
     <message>
         <source>column</source>
-        <translation type="unfinished"/>
+        <translation>Kolom</translation>
     </message>
     <message>
         <source>Total %1</source>
@@ -21848,6 +22018,10 @@ Sel</translation>
         <translation>Garis bawah</translation>
     </message>
     <message>
+        <source>Location reference is not valid.</source>
+        <translation>Referensi lokasi tidak valid.</translation>
+    </message>
+    <message>
         <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
         <translation>Salah satu sel dalam lembar kerja menjadi nilai kesalahan saat Solver mencoba nilai tertentu untuk Sel Variabel.</translation>
     </message>
@@ -21860,6 +22034,10 @@ Sel</translation>
         <translation>Buku Kerja Keamanan Microsoft Excel(*.xls)|*.xls</translation>
     </message>
     <message>
+        <source>The reference for the location or data range is not valid.</source>
+        <translation>Referensi untuk lokasi atau rentang data tidak valid.</translation>
+    </message>
+    <message>
         <source>Rotated up %1 Degrees</source>
         <translation>Diputar ke atas %1 Derajat</translation>
     </message>
@@ -21869,7 +22047,7 @@ Sel</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Drag items of the %1 field to display them in any order</source>
@@ -21889,7 +22067,7 @@ Sel</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
-        <translation type="unfinished"/>
+        <translation>Format Dokumen Keamanan WPS Online</translation>
     </message>
     <message>
         <source>Stop chosen when the maximum time limit was reached.</source>
@@ -22030,7 +22208,7 @@ Sel</translation>
     </message>
     <message>
         <source>&amp;Advanced Setting &gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Lanjutan &gt;&gt; (&amp;L)</translation>
     </message>
     <message>
         <source>#ERROR!</source>
@@ -22124,7 +22302,7 @@ Sel</translation>
     </message>
     <message>
         <source>&amp;List changes on a new sheet.</source>
-        <translation type="unfinished"/>
+        <translation>Daftar perubahan pada lembar baru (&amp;D)</translation>
     </message>
     <message>
         <source>Everyone but Me</source>
@@ -22195,7 +22373,7 @@ Sel</translation>
     </message>
     <message>
         <source>The document is WPS security document, please open it in the wps client which support this format. If you edit it by using &apos;stop protecting&apos;, the content of this document will be destoryed. Please note.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen keamanan WPS tidak dapat menjadi referensi dokumen lain.</translation>
     </message>
     <message>
         <source>Missing an END.IF function.</source>
@@ -22314,6 +22492,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>SUMSQ(number1,number2, ...)</translation>
     </message>
     <message>
+        <source>DISC(settlement, maturity, pr, redemption, [basis])</source>
+        <translation>DISC(settlement, maturity, pr, redemption, [basis])</translation>
+    </message>
+    <message>
         <source>TANH(number)</source>
         <translation>TANH(number)</translation>
     </message>
@@ -22340,6 +22522,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>NOW()</source>
         <translation>NOW()</translation>
+    </message>
+    <message>
+        <source>Returns the next coupon date after settlement date.</source>
+        <translation>Menampilkan tanggal kupon selanjutnya setelah tanggal pelunasan</translation>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
@@ -22539,6 +22725,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>Menghasilkan referensi yang ditentukan oleh string teks.</translation>
     </message>
     <message>
+        <source>Returns a URL-encoded string.</source>
+        <translation>Menampilkan string berkode-URL</translation>
+    </message>
+    <message>
         <source>MOD(number,divisor)</source>
         <translation>MOD(number,divisor)</translation>
     </message>
@@ -22569,6 +22759,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
         <translation>CONCATENATE (text1,text2,...)</translation>
+    </message>
+    <message>
+        <source>NORM.INV(probability,mean,standard_dev)</source>
+        <translation>NORM.INV(probability, mean, standard_dev)</translation>
     </message>
     <message>
         <source>PROPER(text)</source>
@@ -22987,6 +23181,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>Menghasilkan arkos sinus dari angka dalam radian dari -Pi / 2 hingga Pi / 2.</translation>
     </message>
     <message>
+        <source>DOLLARFR(decimal_dollar, fraction)</source>
+        <translation>DOLLARFR(decimal_dollar, fraction)</translation>
+    </message>
+    <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
         <translation>Menghasilkan logaritma umum (basis 10) dari bilangan kompleks dengan format teks x + yi atau x + yj.</translation>
     </message>
@@ -23073,7 +23271,7 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     </message>
     <message>
         <source>Returns the net present value for a schedule of crash flows.</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan nilai bersih saat ini untuk jadwal arus kas.</translation>
     </message>
     <message>
         <source>Returns a number shifted right by the specified number of bits.</source>
@@ -23086,6 +23284,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>PAUSE(no_tool)</source>
         <translation>PAUSE(no_tool)</translation>
+    </message>
+    <message>
+        <source>Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters.</source>
+        <translation>Menghasilkan jumlah seluruh hari kerja antara dua tanggal dengan parameter akhir pekan kustom</translation>
     </message>
     <message>
         <source>INDEX(array,row_num,column_num)</source>
@@ -23168,6 +23370,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>Menghasilkan peringkat angka dalam daftar angka: ukuran relatifnya terhadap nilai lain dalam daftar; jika lebih dari satu nilai memiliki peringkat yang sama, peringkat rata-rata akan dikembalikan.</translation>
     </message>
     <message>
+        <source>DOLLARDE(fractional_dollar, fraction)</source>
+        <translation>DOLLARDE(fractional_dollar, fraction)</translation>
+    </message>
+    <message>
         <source>ON.WINDOW(window_text, macro_text)</source>
         <translation>ON.WINDOW(window_text, macro_text)</translation>
     </message>
@@ -23177,7 +23383,7 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     </message>
     <message>
         <source>Returns the number of whole workdays between two dates using parameters to indicate which and how many days are weekend days.</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan jumlah hari kerja keseluruhan antara dua tanggal dengan parameter akhir pekan khusus</translation>
     </message>
     <message>
         <source>IMCOS(inumber)</source>
@@ -23295,6 +23501,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>Converts degrees to radians.</source>
         <translation>Mengonversi derajat ke radian.</translation>
+    </message>
+    <message>
+        <source>NORM.S.INV(probability)</source>
+        <translation>NORM.S.INV(probability)</translation>
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
@@ -23434,6 +23644,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>Menghasilkan distribusi kumulatif lognormal dari x, di mana ln (x) terdistribusi secara normal dengan parameter Rata-rata dan Standard_dev.</translation>
     </message>
     <message>
+        <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
+        <translation>COUPNUM(settlement, maturity, frequency, [basis])</translation>
+    </message>
+    <message>
         <source>NEXT()</source>
         <translation>NEXT()</translation>
     </message>
@@ -23552,6 +23766,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>TRUE()</translation>
     </message>
     <message>
+        <source>Returns the number of days in the coupon period that contains the settlement date.</source>
+        <translation>Menampilkan jumlah angka dalam periode kupon yang berisi tanggal pelunasan</translation>
+    </message>
+    <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
         <translation>Menghitung titik di mana garis akan memotong sumbu y dengan menggunakan nilai x dan nilai y yang ada.</translation>
     </message>
@@ -23594,6 +23812,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>Values</source>
         <translation>Nilai</translation>
+    </message>
+    <message>
+        <source>XOR(logical1,logical2,...)</source>
+        <translation>XOR(logical1, logical2, ...)</translation>
     </message>
     <message>
         <source>OR(logical1,logical2,...)</source>
@@ -23740,6 +23962,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>IMLOG10(inumber)</translation>
     </message>
     <message>
+        <source>MDURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation>MDURATION(settlement, maturity, coupon, yld, frequency, [basis])</translation>
+    </message>
+    <message>
         <source>Returns the exponential distribution.</source>
         <translation>Menghasilkan distribusi eksponensial.</translation>
     </message>
@@ -23852,6 +24078,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>Mengonversi jam, menit, dan detik tertentu sebagai angka ke nomor seri WPS Spreadsheets, diformat dengan format waktu.</translation>
     </message>
     <message>
+        <source>DURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation>DURATION(settlement, maturity, coupon, yld, frequency, [basis])</translation>
+    </message>
+    <message>
         <source>Returns a random integer between the two numbers you specified.</source>
         <translation>Menghasilkan integer acak di antara dua angka yang Anda tentukan.</translation>
     </message>
@@ -23882,6 +24112,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
         <translation>Menghasilkan periode pembayaran tertentu pada sebuah investasi berdasarkan pembayaran periodik, pembayaran konstan, dan suku bunga konstan.</translation>
+    </message>
+    <message>
+        <source>COUPDAYS(settlement, maturity, frequency, [basis])</source>
+        <translation>COUPDAYS(settlement, maturity, frequency, [basis])</translation>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
@@ -24021,6 +24255,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>AVEDEV(number1,number2,...)</translation>
     </message>
     <message>
+        <source>Estimates variance based on a sample(ignores logical values and text in the sample).</source>
+        <translation>Memperkirakan variansi berdasarkan contoh (mengabaikan nilai dan teks logis dalam contoh)</translation>
+    </message>
+    <message>
         <source>Returns the double factorial of a number.</source>
         <translation>Menghasilkan faktorial ganda dari suatu angka.</translation>
     </message>
@@ -24151,7 +24389,7 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     </message>
     <message>
         <source>Checks whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.</source>
-        <translation type="unfinished"/>
+        <translation>Memeriksa apakah satu atau beberapa kondisi terpenuhi dan mengembalikan nilai yang bersesuaian dengan kondisi TRUE pertama.</translation>
     </message>
     <message>
         <source>Converts a decimal number to hexadecimal.</source>
@@ -24202,8 +24440,20 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>AVERAGE(number1,number2,...)</translation>
     </message>
     <message>
+        <source>VAR.S(number1,number2,...)</source>
+        <translation>VAR.S(number1, number2, ...)</translation>
+    </message>
+    <message>
+        <source>VAR.P(number1,number2,...)</source>
+        <translation>VAR.P(number1, number2, ...)</translation>
+    </message>
+    <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
         <translation>Menghasilkan bulan, angka dari 1(Januari) hingga 12(Desember).</translation>
+    </message>
+    <message>
+        <source>NORM.DIST(x,mean,standard_dev,cumulative)</source>
+        <translation>NORM.DIST(x, mean, standard_dev, cumulative)</translation>
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
@@ -24248,6 +24498,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>FDIST(x,degrees_freedom1,degrees_freedom2)</source>
         <translation>FDIST(x,degrees_freedom1,degrees_freedom2)</translation>
+    </message>
+    <message>
+        <source>Returns total covariance, the average of the products of deviations for each data point pair.</source>
+        <translation>Menghasilkan kovarian populasi, rata-rata produk dari simpangan untuk tiap pasangan poin data dalam dua set data</translation>
     </message>
     <message>
         <source>SELECTION()</source>
@@ -24322,6 +24576,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>Menghasilkan lokasi penemuan pertama dari karakter atau string yang ditentukan dalam string teks, membaca dari kiri ke kanan (tidak peka huruf besar/kecil). Gunakan dengan rangkaian karakter dobel byte(DBCS).</translation>
     </message>
     <message>
+        <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
+        <translation>Menampilkan jumlah kupon yang dapat dibayarkan antara tanggal pelunasan dan tanggal jatuh tempo</translation>
+    </message>
+    <message>
         <source>TODAY()</source>
         <translation>TODAY()</translation>
     </message>
@@ -24332,6 +24590,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>DIALOGBOX(dialog_ref)</source>
         <translation>DIALOGBOX(dialog_ref)</translation>
+    </message>
+    <message>
+        <source>Returns simple covariance, the average of the products of deviations for each data point pair.</source>
+        <translation>Menghasilkan kovarian sampel, rata-rata produk dari simpangan untuk tiap pasangan poin data dalam dua set data</translation>
     </message>
     <message>
         <source>Information</source>
@@ -24418,6 +24680,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>Menghasilkan nilai logika TRUE.</translation>
     </message>
     <message>
+        <source>Returns the annual duration of a security with periodic interest payments.</source>
+        <translation>Menampilkan durasi tahunan surat berharga dengan pembayaran bunga periodik</translation>
+    </message>
+    <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
         <translation>Menghitung simpangan baku berdasarkan sampel. Jangan abaikan nilai dan teks logika.</translation>
     </message>
@@ -24450,6 +24716,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>ON.KEY(key_text, macro_text)</translation>
     </message>
     <message>
+        <source>Returns the previous coupon date before the settlement date.</source>
+        <translation>Menampilkan tanggal kupon sebelumnya sebelum tanggal pelunasan</translation>
+    </message>
+    <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
         <translation>Menghasilkan posisi relatif suatu item di array yang cocok dengan nilai yang ditentukan dalam urutan yang ditentukan.</translation>
     </message>
@@ -24468,6 +24738,14 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>Converts radians to degrees.</source>
         <translation>Mengonversi radian ke derajat.</translation>
+    </message>
+    <message>
+        <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
+        <translation>COUPNCD(settlement, maturity, frequency, basis)</translation>
+    </message>
+    <message>
+        <source>COUPPCD(settlement, maturity, frequency, [basis])</source>
+        <translation>COUPPCD(settlement, maturity, frequency, [basis])</translation>
     </message>
     <message>
         <source>ADD.BAR(bar_num)</source>
@@ -24538,8 +24816,16 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>WORKDAY.INTL(start_date,days,weekend,holidays)</source>
+        <translation>WORKDAY.INTL(start_date, days, weekend, holidays)</translation>
+    </message>
+    <message>
         <source>WINDOW.TITLE(text)</source>
         <translation>WINDOW.TITLE(text)</translation>
+    </message>
+    <message>
+        <source>Returns an aggregate in a list or database.</source>
+        <translation>Menampilkan agregasi dalam sebuah daftar atau database</translation>
     </message>
     <message>
         <source>KURT(number1,number2,...)</source>
@@ -24598,6 +24884,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>PERCENTRANK(array,x,significance)</translation>
     </message>
     <message>
+        <source>Returns a logical &apos;Exclusive Or&apos; of all arguments.</source>
+        <translation>Menghasilkan &apos;Eksklusif Atau&apos; logis dari semua argumen</translation>
+    </message>
+    <message>
         <source>AREAS(reference)</source>
         <translation>AREAS(reference)</translation>
     </message>
@@ -24612,6 +24902,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>Rounds a number up, away from zero.</source>
         <translation>Membulatkan angka ke atas, menjauh dari nol.</translation>
+    </message>
+    <message>
+        <source>ISFORMULA(reference)</source>
+        <translation>ISFORMULA(reference)</translation>
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
@@ -24793,7 +25087,7 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     </message>
     <message>
         <source>Returns the internal rate of return for a schedule of crash flows.</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan tingkat pengembalian internal untuk jadwal arus kas.</translation>
     </message>
     <message>
         <source>Returns the inverse of the Fisher transformation. If y = FISHER(x), then FISHRINV(y) = x.</source>
@@ -24880,8 +25174,16 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>FORECAST(x,known_y&apos;s,known_x&apos;s)</translation>
     </message>
     <message>
+        <source>COVARIANCE.S(array1,array2)</source>
+        <translation>COVARIANCE.S(array1, array2)</translation>
+    </message>
+    <message>
         <source>CELL(info_type, reference)</source>
         <translation>CELL(info_type, reference)</translation>
+    </message>
+    <message>
+        <source>COVARIANCE.P(array1,array2)</source>
+        <translation>COVARIANCE.P(array1, array2)</translation>
     </message>
     <message>
         <source>Returns a matrix determinant of an array.</source>
@@ -24904,12 +25206,20 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>Membulatkan angka positif ke atas dan angka negatif ke bawah ke integer ganjil terdekat.</translation>
     </message>
     <message>
+        <source>Calculates variance  based on the entire population(ignores logical values and text in the population).</source>
+        <translation>Menghitung varians berdasarkan seluruh populasi (mengabaikan nilai dan teks logis dalam populasi)</translation>
+    </message>
+    <message>
         <source>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</source>
         <translation>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</translation>
     </message>
     <message>
         <source>ISNUMBER(value)</source>
         <translation>ISNUMBER(value)</translation>
+    </message>
+    <message>
+        <source>NORM.S.DIST(z,cumulative)</source>
+        <translation>NORM.S.DIST(z, cumulative)</translation>
     </message>
     <message>
         <source>SUMMARY.INFO(title, subject, author, keywords, comments)</source>
@@ -25081,6 +25391,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>COUPDAYBS(settlement, maturity, frequency, [basis])</translation>
     </message>
     <message>
+        <source>Returns the Macauley modified duration for a security with an assumed par value of $100.</source>
+        <translation>Menampilkan durasi yang disesuaikan Macauley untuk surat berharga dengan nilai par asumsi $100</translation>
+    </message>
+    <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
         <translation>ON.DOUBLECLICK(sheet_text, macro_text)</translation>
     </message>
@@ -25123,6 +25437,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</source>
         <translation>Menghitung hasil bagi dua bilangan kompleks dalam format teks x + yi atau x + yj.</translation>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number.</source>
+        <translation>Mengubah harga dolar, yang dinyatakan sebagai pecahan, ke dalam harga dolar, yang dinyatakan sebagai angka desimal</translation>
     </message>
     <message>
         <source>Returns information about the formatting, location, or contents of the first cell, according to the sheet&apos;s reading order, in a reference.</source>
@@ -25191,6 +25509,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
         <translation>Menghasilkan referensi ke rentang yang merupakan jumlah baris dan kolom tertentu dari referensi tertentu.</translation>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction.</source>
+        <translation>Mengubah harga dolar, yang dinyatakan sebagai angka desimal, ke dalam harga dolar, yang dinyatakan sebagai pecahan</translation>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given condition or criteria.</source>
@@ -25369,12 +25691,20 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>EDATE(start_date,months)</translation>
     </message>
     <message>
+        <source>Returns the discount rate for a security.</source>
+        <translation>Menampilkan tingkat diskon untuk surat berharga</translation>
+    </message>
+    <message>
         <source>HEX2DEC(number)</source>
         <translation>HEX2DEC(number)</translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
         <translation>Pencarian dan Referensi</translation>
+    </message>
+    <message>
+        <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
+        <translation>Memeriksa apakah referensi menuju ke sel yang berisi rumus, dan menghasilkan TRUE atau FALSE</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -25418,7 +25748,7 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     </message>
     <message>
         <source>Returns the cumulative interest paid between start_period and  end_period.</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan bunga kumulatif yang dibayarkan antara start_period dan end_period.</translation>
     </message>
     <message>
         <source>Returns the probability that values in a range which are between two limits.</source>
@@ -25519,6 +25849,10 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     <message>
         <source>REGISTER.ID(module_text, procedure, type_text)</source>
         <translation>REGISTER.ID(module_text, procedure, type_text)</translation>
+    </message>
+    <message>
+        <source>AGGREGATE(function_num,options,ref1,[ref2],...)</source>
+        <translation>AGGREGATE(function_num, options, ref1, ...)</translation>
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
@@ -25626,7 +25960,7 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     </message>
     <message>
         <source>Clear Arrows</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Panah</translation>
     </message>
     <message>
         <source>Count</source>
@@ -25637,6 +25971,12 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>Tempel</translation>
     </message>
     <message>
+        <source>Recently 
+Used</source>
+        <translation>Terakhir 
+Digunakan</translation>
+    </message>
+    <message>
         <source>Evaluate Formula</source>
         <translation>Evaluasi Rumus</translation>
     </message>
@@ -25645,13 +25985,20 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
         <translation>Statistik</translation>
     </message>
     <message>
+        <source>More
+Functions</source>
+        <translation>Fungsi 
+Lainnya</translation>
+    </message>
+    <message>
         <source>Logical</source>
         <translation>Logika</translation>
     </message>
     <message>
         <source>Insert
 Function</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan 
+Fungsi</translation>
     </message>
     <message>
         <source>Financial</source>
@@ -25667,19 +26014,33 @@ Function</source>
     </message>
     <message>
         <source>Remove Precedents</source>
-        <translation type="unfinished"/>
+        <translation>Buang Panah Preseden</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Hitung 
+Lembar</translation>
+    </message>
+    <message>
+        <source>Name
+Manager</source>
+        <translation>Manajer
+Nama</translation>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation type="unfinished"/>
+        <translation>Edit 
+Tautan</translation>
     </message>
     <message>
         <source>Error Checking</source>
         <translation>Pengecekan Kesalahan</translation>
+    </message>
+    <message>
+        <source>Math and
+Trig</source>
+        <translation>Matematika dan
+Trigonometri</translation>
     </message>
     <message>
         <source>Function Library</source>
@@ -25687,7 +26048,7 @@ Function</source>
     </message>
     <message>
         <source>Remove Dependents</source>
-        <translation type="unfinished"/>
+        <translation>Buang Panah Dependen</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -25729,15 +26090,27 @@ Waktu</translation>
     </message>
     <message>
         <source>Show Dependents</source>
-        <translation type="unfinished"/>
+        <translation>Lacak Dependen</translation>
+    </message>
+	<message>
+        <source>Lookup and
+Reference</source>
+        <translation>Pencarian dan
+Referensi</translation>
     </message>
     <message>
         <source>Show Precedents</source>
-        <translation type="unfinished"/>
+        <translation>Lacak Preseden</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
         <translation>Audit Formula</translation>
+    </message>
+    <message>
+        <source>Recalculate
+Workbook</source>
+        <translation>Hitung Ulang
+Buku Kerja</translation>
     </message>
 </context>
 <context>
@@ -25792,7 +26165,7 @@ Waktu</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Teks Horizontal</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -25800,7 +26173,7 @@ Waktu</translation>
     </message>
     <message>
         <source>Font Outline</source>
-        <translation type="unfinished"/>
+        <translation>Kerangka Teks</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -25844,11 +26217,11 @@ Waktu</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Font Lainnya</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -25920,7 +26293,7 @@ Waktu</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -25932,7 +26305,7 @@ Waktu</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi 3D</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -25952,11 +26325,11 @@ Waktu</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -25964,7 +26337,7 @@ Waktu</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -25972,7 +26345,7 @@ Waktu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Teks Vertikal</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -26004,7 +26377,7 @@ Waktu</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation type="unfinished"/>
+        <translation>Efek Teks</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -26016,7 +26389,7 @@ Waktu</translation>
     </message>
     <message>
         <source>Insert Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Kotak Teks</translation>
     </message>
     <message>
         <source>Text Fill</source>
@@ -26024,11 +26397,11 @@ Waktu</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation type="unfinished"/>
+        <translation>Gambar atau Tekstur</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -26059,7 +26432,7 @@ Waktu</translation>
     </message>
     <message>
         <source>Clear Arrows</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Panah</translation>
     </message>
     <message>
         <source>Count</source>
@@ -26104,19 +26477,33 @@ Fungsi</translation>
     </message>
     <message>
         <source>Remove Precedents</source>
-        <translation type="unfinished"/>
+        <translation>Buang Panah Preseden</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Hitung 
+Lembar</translation>
+    </message>
+	<message>
+        <source>Name
+Manager</source>
+        <translation>Manajer
+Nama</translation>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation type="unfinished"/>
+        <translation>Edit 
+Tautan</translation>
     </message>
-    <message>
+	<message>
         <source>Error Checking</source>
         <translation>Pengecekan Kesalahan</translation>
+    </message>
+	<message>
+        <source>Math and
+Trig</source>
+        <translation>Matematika dan
+Trigonometri</translation>
     </message>
     <message>
         <source>Function Library</source>
@@ -26124,7 +26511,7 @@ Fungsi</translation>
     </message>
     <message>
         <source>Remove Dependents</source>
-        <translation type="unfinished"/>
+        <translation>Buang Panah Dependen</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -26170,11 +26557,17 @@ Waktu</translation>
     </message>
     <message>
         <source>Show Dependents</source>
-        <translation type="unfinished"/>
+        <translation>Lacak Dependen</translation>
+    </message>
+    <message>
+        <source>Lookup and
+Reference</source>
+        <translation>Pencarian dan
+Referensi</translation>
     </message>
     <message>
         <source>Show Precedents</source>
-        <translation type="unfinished"/>
+        <translation>Lacak Preseden</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
@@ -26242,11 +26635,11 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Font Outline</source>
-        <translation type="unfinished"/>
+        <translation>Kerangka Teks</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -26282,7 +26675,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -26350,7 +26743,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -26358,7 +26751,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi 3D</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -26366,11 +26759,11 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -26378,7 +26771,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -26386,7 +26779,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -26406,7 +26799,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation type="unfinished"/>
+        <translation>Efek Teks</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -26418,7 +26811,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Insert Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Kotak Teks</translation>
     </message>
     <message>
         <source>Text Fill</source>
@@ -26426,11 +26819,11 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation type="unfinished"/>
+        <translation>Gambar atau Tekstur</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -26839,7 +27232,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Preview selected data</source>
-        <translation type="unfinished"/>
+        <translation>Pratampil data yang dipilih:</translation>
     </message>
 </context>
 <context>
@@ -26850,7 +27243,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Auto</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -26874,7 +27267,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Grand:</source>
@@ -26914,7 +27307,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Value Field Orientation:</source>
@@ -26937,7 +27330,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Buku Kerja Kosong Baru</translation>
     </message>
     <message>
         <source>Row</source>
@@ -26946,6 +27339,10 @@ Buku Kerja</translation>
     <message>
         <source>Set</source>
         <translation>Set</translation>
+    </message>
+    <message>
+        <source>Split Tables</source>
+        <translation>Pisah Tabel</translation>
     </message>
     <message>
         <source>Merge Range Data</source>
@@ -27041,7 +27438,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Bentuk</translation>
     </message>
     <message>
         <source>Cells Dialog</source>
@@ -27049,7 +27446,8 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Split Sheets</source>
-        <translation type="unfinished"/>
+        <translation>Pisah Sheet 
+Sesuai Konten</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -27105,7 +27503,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>New Excel Workbook(E)</source>
-        <translation type="unfinished"/>
+        <translation>Buku Kerja Excel Baru(E)</translation>
     </message>
     <message>
         <source>Print</source>
@@ -27145,7 +27543,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Insert Pictures From Phone</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar dari Ponsel</translation>
     </message>
     <message>
         <source>Shortcut Setting</source>
@@ -27157,20 +27555,20 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>NewChart Legend</source>
-        <translation type="unfinished"/>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>Text Edit Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Format Kotak teks</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
-        <translation type="unfinished"/>
+        <translation>Ambil Layar dan OCR</translation>
     </message>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Ambil Layar</translation>
     </message>
     <message>
         <source>Paste Previous Content</source>
@@ -27188,11 +27586,12 @@ Langsung</translation>
     </message>
     <message>
         <source>NewChart TrendLine Label</source>
-        <translation type="unfinished"/>
+        <translation>Label Garis Tren</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Perbaikan 
+File</translation>
     </message>
     <message>
         <source>Hardware Encryption</source>
@@ -27208,11 +27607,11 @@ Langsung</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation type="unfinished"/>
+        <translation>Masukan</translation>
     </message>
     <message>
         <source>MoreFontFill</source>
-        <translation type="unfinished"/>
+        <translation>Isian Teks Lainnya</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -27232,7 +27631,7 @@ Langsung</translation>
     </message>
     <message>
         <source>Pivot Table Style Options</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan Gaya PivotTable</translation>
     </message>
     <message>
         <source>Merge workbooks</source>
@@ -27252,7 +27651,7 @@ Langsung</translation>
     </message>
     <message>
         <source>ExtendObjectTrigger</source>
-        <translation type="unfinished"/>
+        <translation>Edit Objek Perluasan</translation>
     </message>
     <message>
         <source>PivotTable Context Menu</source>
@@ -27264,7 +27663,7 @@ Langsung</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor ke Gambar</translation>
     </message>
     <message>
         <source>Banded Columns</source>
@@ -27272,7 +27671,7 @@ Langsung</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Font Online</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -27288,7 +27687,7 @@ Langsung</translation>
     </message>
     <message>
         <source>ClearSelectedSparklineGroup</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Grup Grafik Mini yang Dipilih</translation>
     </message>
     <message>
         <source>Highlight duplicates</source>
@@ -27300,39 +27699,39 @@ Langsung</translation>
     </message>
     <message>
         <source>To Cell Picture</source>
-        <translation type="unfinished"/>
+        <translation>Tanamkan ke Sel</translation>
     </message>
     <message>
         <source>NewChart SeriesLine</source>
-        <translation type="unfinished"/>
+        <translation>Garis Seri</translation>
     </message>
     <message>
         <source>File Send</source>
-        <translation type="unfinished"/>
+        <translation>Kirim ke seluler</translation>
     </message>
     <message>
         <source>Permission Protected</source>
-        <translation type="unfinished"/>
+        <translation>Perlindungan diaktifkan</translation>
     </message>
     <message>
         <source>Microsoft Excel Files</source>
-        <translation type="unfinished"/>
+        <translation>File Microsoft Excel (*.xlsx)</translation>
     </message>
     <message>
         <source>Source material base</source>
-        <translation type="unfinished"/>
+        <translation>Material Base</translation>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Tabel</translation>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation type="unfinished"/>
+        <translation>Pustaka Ikon</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation type="unfinished"/>
+        <translation>Buat Tautan Berbagi</translation>
     </message>
     <message>
         <source>Editing is limited</source>
@@ -27364,11 +27763,11 @@ Langsung</translation>
     </message>
     <message>
         <source>MoreFontEffects</source>
-        <translation type="unfinished"/>
+        <translation>Efek Teks Lainnya</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
-        <translation type="unfinished"/>
+        <translation>File WPS Spreadsheets 2007/2010 (*.etx)</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
@@ -27376,7 +27775,7 @@ Langsung</translation>
     </message>
     <message>
         <source>New Doc Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Anda mungkin menyukai</translation>
     </message>
     <message>
         <source>Curve Segment</source>
@@ -27451,7 +27850,7 @@ Panel</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation type="unfinished"/>
+        <translation>File Microsoft Excel 97-2003 (*.xls)</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -27463,7 +27862,7 @@ Panel</translation>
     </message>
     <message>
         <source>NewChart ChartTitle</source>
-        <translation type="unfinished"/>
+        <translation>Judul Bagan</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -27471,7 +27870,7 @@ Panel</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Gaya</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -27479,7 +27878,7 @@ Panel</translation>
     </message>
     <message>
         <source>NewChart DownBar</source>
-        <translation type="unfinished"/>
+        <translation>Bar Bawah</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -27527,7 +27926,7 @@ Panel</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
-        <translation type="unfinished"/>
+        <translation>Warna Tema</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -27539,11 +27938,11 @@ Panel</translation>
     </message>
     <message>
         <source>Recently File Management</source>
-        <translation type="unfinished"/>
+        <translation>Daftar File Terbaru</translation>
     </message>
     <message>
         <source>NewChart ChartArea</source>
-        <translation type="unfinished"/>
+        <translation>Area Bagan</translation>
     </message>
     <message>
         <source>Connector</source>
@@ -27559,7 +27958,7 @@ Panel</translation>
     </message>
     <message>
         <source>QRCode</source>
-        <translation type="unfinished"/>
+        <translation>Kode QR</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -27579,7 +27978,7 @@ Panel</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan Jendela Aktif saat Ambil Layar</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -27587,7 +27986,7 @@ Panel</translation>
     </message>
     <message>
         <source>NewChart LeadLine</source>
-        <translation type="unfinished"/>
+        <translation>Garis Utama</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
@@ -27595,7 +27994,7 @@ Panel</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation type="unfinished"/>
+        <translation>Templat Microsoft Excel 97-2003 (*.xlt)</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -27620,11 +28019,12 @@ Penuh</translation>
     </message>
     <message>
         <source>Split Books</source>
-        <translation type="unfinished"/>
+        <translation>Pisah Buku
+Sesuai Sheet</translation>
     </message>
     <message>
         <source>NewChart Gridline</source>
-        <translation type="unfinished"/>
+        <translation>Garis kisi</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -27648,7 +28048,7 @@ Penuh</translation>
     </message>
     <message>
         <source>Send pictures</source>
-        <translation type="unfinished"/>
+        <translation>Kirim Gambar</translation>
     </message>
     <message>
         <source>Online TableStyle</source>
@@ -27656,7 +28056,7 @@ Penuh</translation>
     </message>
     <message>
         <source>MoreFill</source>
-        <translation type="unfinished"/>
+        <translation>Isian Lainnya</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -27680,7 +28080,7 @@ Penuh</translation>
     </message>
     <message>
         <source>MoreOutline</source>
-        <translation type="unfinished"/>
+        <translation>Kerangka Lainnya</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
@@ -27688,7 +28088,7 @@ Penuh</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke file PDF</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -27724,11 +28124,12 @@ Penuh</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
-        <translation type="unfinished"/>
+        <translation>Templat WPS Spreadsheets (*.ett)</translation>
     </message>
     <message>
         <source>Document Slimming</source>
-        <translation type="unfinished"/>
+        <translation>Perampingan 
+Dokumen</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -27740,7 +28141,7 @@ Penuh</translation>
     </message>
     <message>
         <source>EditSingleData</source>
-        <translation type="unfinished"/>
+        <translation>Edit Data Grafik Mini Tunggal</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -27752,31 +28153,31 @@ Penuh</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Bagi</translation>
     </message>
     <message>
         <source>NewChart Datapoint</source>
-        <translation type="unfinished"/>
+        <translation>Titik Data</translation>
     </message>
     <message>
         <source>NewChart ErrorBar</source>
-        <translation type="unfinished"/>
+        <translation>Bar Kesalahan</translation>
     </message>
     <message>
         <source>Screen Grab Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Elips Ambil Layar</translation>
     </message>
     <message>
         <source>Online Picture Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Galeri Gambar</translation>
     </message>
     <message>
         <source>NewChart DataTable</source>
-        <translation type="unfinished"/>
+        <translation>Tabel Data</translation>
     </message>
     <message>
         <source>NewChart DropLine</source>
-        <translation type="unfinished"/>
+        <translation>Baris Putus</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -27804,7 +28205,7 @@ Penuh</translation>
     </message>
     <message>
         <source>New Pivot Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya PivotTable Baru</translation>
     </message>
     <message>
         <source>ChemistryEquation</source>
@@ -27816,7 +28217,7 @@ Penuh</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
-        <translation type="unfinished"/>
+        <translation>Templat Online</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -27824,7 +28225,7 @@ Penuh</translation>
     </message>
     <message>
         <source>FlashFill</source>
-        <translation type="unfinished"/>
+        <translation>Isian Cepat</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -27853,7 +28254,7 @@ Penuh</translation>
     <message>
         <source>Screen Grab Ocr</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Ambil Layar dan OCR</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -27869,7 +28270,7 @@ Penuh</translation>
     </message>
     <message>
         <source>NewChart DataLabels</source>
-        <translation type="unfinished"/>
+        <translation>Label Data</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -27877,11 +28278,11 @@ Penuh</translation>
     </message>
     <message>
         <source>ShortChart</source>
-        <translation type="unfinished"/>
+        <translation>Bagan</translation>
     </message>
     <message>
         <source>NewChart HighLowLine</source>
-        <translation type="unfinished"/>
+        <translation>Garis Tinggi-Rendah</translation>
     </message>
     <message>
         <source>InsertLatex</source>
@@ -27893,7 +28294,7 @@ Penuh</translation>
     </message>
     <message>
         <source>ShortSymbol</source>
-        <translation type="unfinished"/>
+        <translation>Simbol</translation>
     </message>
     <message>
         <source>ShortWordArt</source>
@@ -27913,7 +28314,7 @@ Penuh</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>DocerThemeColor</source>
@@ -27925,7 +28326,7 @@ Penuh</translation>
     </message>
     <message>
         <source>ClearSelectedSparkline</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Grafik Mini yang Dipilih</translation>
     </message>
     <message>
         <source>Total Row</source>
@@ -27950,11 +28351,11 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>NewChart UpBar</source>
-        <translation type="unfinished"/>
+        <translation>Bar Atas</translation>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
-        <translation type="unfinished"/>
+        <translation>Persegi Bundar Ambil Layar</translation>
     </message>
     <message>
         <source>Chart Library</source>
@@ -27962,7 +28363,8 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation type="unfinished"/>
+        <translation>Pratinjau 
+Gambar</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -27975,8 +28377,7 @@ with same name in workbooks</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Layar 
-Penuh</translation>
+        <translation>Layar Penuh</translation>
     </message>
     <message>
         <source>Fetch duplicates</source>
@@ -28001,11 +28402,11 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>DocerTableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Tabel</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation type="unfinished"/>
+        <translation>File WPS Spreadsheets (*.et)</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -28017,7 +28418,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>MoreEffects</source>
-        <translation type="unfinished"/>
+        <translation>Efek Lainnya</translation>
     </message>
     <message>
         <source>Security</source>
@@ -28045,7 +28446,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Screen Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Poligon Ambil Layar</translation>
     </message>
     <message>
         <source>UnGroup</source>
@@ -28065,15 +28466,16 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Ambil Layar</translation>
     </message>
     <message>
         <source>Geogebra</source>
-        <translation type="unfinished"/>
+        <translation>GeoGebra</translation>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation type="unfinished"/>
+        <translation>Gaya 
+Tabel</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -28085,7 +28487,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Screen Grab Rect</source>
-        <translation type="unfinished"/>
+        <translation>Persegi Ambil Layar</translation>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
@@ -28093,11 +28495,11 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation type="unfinished"/>
+        <translation>Konversi Semua Gambar dalam Worksheet</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Konversi Gambar yang Dipilih</translation>
     </message>
     <message>
         <source>Thesaurus</source>
@@ -28105,7 +28507,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Teks Vertikal</translation>
     </message>
     <message>
         <source>Refresh All</source>
@@ -28122,11 +28524,11 @@ Semua</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Pencadangan Otomatis</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="unfinished"/>
+        <translation>Bagi</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -28138,7 +28540,7 @@ Semua</translation>
     </message>
     <message>
         <source>Form Control Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol Formulir</translation>
     </message>
     <message>
         <source>New 
@@ -28148,7 +28550,7 @@ Baru</translation>
     </message>
     <message>
         <source>NewChart AxisTitle</source>
-        <translation type="unfinished"/>
+        <translation>Judul Sumbu</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -28160,7 +28562,7 @@ Baru</translation>
     </message>
     <message>
         <source>NewChart UnitLabel</source>
-        <translation type="unfinished"/>
+        <translation>Label Unit</translation>
     </message>
     <message>
         <source>Auto Backup Menu</source>
@@ -28172,15 +28574,15 @@ Baru</translation>
     </message>
     <message>
         <source>EditGroupData</source>
-        <translation type="unfinished"/>
+        <translation>Edit Data &amp; Lokasi Grup</translation>
     </message>
     <message>
         <source>NewChart Axis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu</translation>
     </message>
     <message>
         <source>NewChart PlotArea</source>
-        <translation type="unfinished"/>
+        <translation>Area Plot</translation>
     </message>
     <message>
         <source>Freeze First Column</source>
@@ -28204,7 +28606,7 @@ Baru</translation>
     </message>
     <message>
         <source>NewChart Series</source>
-        <translation type="unfinished"/>
+        <translation>Seri</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -28212,7 +28614,7 @@ Baru</translation>
     </message>
     <message>
         <source>PasteAsValues</source>
-        <translation type="unfinished"/>
+        <translation>Tempel Sebagai Nilai</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -28220,7 +28622,7 @@ Baru</translation>
     </message>
     <message>
         <source>MoreFontOutline</source>
-        <translation type="unfinished"/>
+        <translation>Kerangka Teks Lainnya</translation>
     </message>
     <message>
         <source>Design Library</source>
@@ -28248,7 +28650,7 @@ Baru</translation>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode Perlindungan Mata (Malam)</translation>
     </message>
     <message>
         <source>Fetch unique values</source>
@@ -28264,15 +28666,21 @@ Baru</translation>
     </message>
     <message>
         <source>NewChart LegendEntry</source>
-        <translation type="unfinished"/>
+        <translation>Entri Legenda</translation>
     </message>
     <message>
         <source>Show Formulas</source>
         <translation>Tampilkan Formula</translation>
     </message>
     <message>
+        <source>Task
+Window</source>
+        <translation>Jendela 
+Tugas</translation>
+    </message>
+    <message>
         <source>PicOrTexture</source>
-        <translation type="unfinished"/>
+        <translation>Gambar atau Tekstur</translation>
     </message>
     <message>
         <source>Recalculate Workbook</source>
@@ -28286,6 +28694,26 @@ Buku Kerja</translation>
     <message>
         <source>Merge worksheets</source>
         <translation>Gabungkan lembar kerja</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Visual Basic Editor</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -28356,7 +28784,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>3D Color</source>
-        <translation type="unfinished"/>
+        <translation>Warna 3D</translation>
     </message>
     <message>
         <source>Tilt Right</source>
@@ -28384,7 +28812,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -28582,7 +29010,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>0 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0 pt</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -28598,11 +29026,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Bawah</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Kiri</translation>
     </message>
     <message>
         <source>More 3D Colors</source>
@@ -28618,11 +29046,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>36 pt.</source>
-        <translation type="unfinished"/>
+        <translation>36 pt</translation>
     </message>
     <message>
         <source>72 pt.</source>
-        <translation type="unfinished"/>
+        <translation>72 pt</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -28630,7 +29058,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>144 pt.</source>
-        <translation type="unfinished"/>
+        <translation>144 p</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -28662,7 +29090,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>288 pt.</source>
-        <translation type="unfinished"/>
+        <translation>288 pt</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -28690,7 +29118,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Atas</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -28708,11 +29136,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Kanan</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -28869,7 +29297,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -28946,11 +29374,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Bawah</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Kiri</translation>
     </message>
     <message>
         <source>144 pt</source>
@@ -29030,7 +29458,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Atas</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -29042,11 +29470,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Kanan</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -29117,11 +29545,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Bawah</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Kiri</translation>
     </message>
     <message>
         <source>144 pt</source>
@@ -29201,7 +29629,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Atas</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -29213,11 +29641,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Kanan</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -29380,7 +29808,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -29423,63 +29851,63 @@ Nyala/Mati</translation>
     <name>KxImportDataFromWebDlgUI</name>
     <message>
         <source>新建Web查询</source>
-        <translation type="unfinished"/>
+        <translation>Kueri Web baru</translation>
     </message>
     <message>
         <source>&amp;Option ...</source>
-        <translation type="unfinished"/>
+        <translation>Opsi ...</translation>
     </message>
     <message>
         <source>地址(&amp;D):</source>
-        <translation type="unfinished"/>
+        <translation>Alamat:</translation>
     </message>
     <message>
         <source>保存查询</source>
-        <translation type="unfinished"/>
+        <translation>Simpan kueri</translation>
     </message>
     <message>
         <source>导入(&amp;I)</source>
-        <translation type="unfinished"/>
+        <translation>Impor</translation>
     </message>
     <message>
         <source>转到(&amp;T)</source>
-        <translation type="unfinished"/>
+        <translation>Masuk ke</translation>
     </message>
     <message>
         <source>停止</source>
-        <translation type="unfinished"/>
+        <translation>Hentikan</translation>
     </message>
     <message>
         <source>前进</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan</translation>
     </message>
     <message>
         <source>刷新</source>
-        <translation type="unfinished"/>
+        <translation>Segarkan</translation>
     </message>
     <message>
         <source>取消</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>后退</source>
-        <translation type="unfinished"/>
+        <translation>Kembali</translation>
     </message>
     <message>
         <source>向前</source>
-        <translation type="unfinished"/>
+        <translation>Maju</translation>
     </message>
     <message>
         <source>保存</source>
-        <translation type="unfinished"/>
+        <translation>Simpan</translation>
     </message>
     <message>
         <source>选项</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan</translation>
     </message>
     <message>
         <source>返回</source>
-        <translation type="unfinished"/>
+        <translation>Kembali</translation>
     </message>
 </context>
 <context>
@@ -29872,7 +30300,9 @@ Nyala/Mati</translation>
         <source>You applied more than one filter on one or more fields on a PivotTable.
 
 If you Let this Field check box Empty, and then click OK, all filters applied to these fields are deleted</source>
-        <translation type="unfinished"/>
+        <translation>Anda menerapkan lebih dari satu filter pada satu atau lebih ruas pada PivotTable.
+
+Jika Anda menghapus semua teks di kotak centang Ruas, dan mengeklik OK, semua filter yang diterapkan ke ruas ini akan dihapus.</translation>
     </message>
     <message>
         <source>The number must be between 0 and 127. Try again by entering a number in this range.</source>
@@ -30018,7 +30448,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke Cina Modern</translation>
     </message>
     <message>
         <source>Sort Descending</source>
@@ -30026,7 +30456,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"/>
+        <translation>Pelukis Format</translation>
     </message>
     <message>
         <source>Error Value </source>
@@ -30050,7 +30480,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"/>
+        <translation>Tempel sebagai Teks Tidak Berformat</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -30098,7 +30528,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"/>
+        <translation>10% Terbawah</translation>
     </message>
     <message>
         <source>Values</source>
@@ -30106,7 +30536,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation type="unfinished"/>
+        <translation>10% Teratas</translation>
     </message>
     <message>
         <source>Tomorrow</source>
@@ -30182,7 +30612,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>WeChat Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Layanan Pelanggan WPS di WeChat</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -30190,7 +30620,8 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor 
+ke PDF</translation>
     </message>
     <message>
         <source>Empty Cell</source>
@@ -30218,7 +30649,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke Cina Tradisional</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -30249,7 +30680,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>accout secure</source>
-        <translation type="unfinished"/>
+        <translation>Keamanan Akun</translation>
     </message>
     <message>
         <source>Data</source>
@@ -30269,7 +30700,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>InteractiveChart</source>
-        <translation type="unfinished"/>
+        <translation>Bagan Interaktif</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -30313,7 +30744,8 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Perbaikan 
+File</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
@@ -30329,7 +30761,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Show Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Panel Tugas</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -30357,7 +30789,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Special Apps</source>
-        <translation type="unfinished"/>
+        <translation>Fitur Khusus</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -30373,7 +30805,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Ribbon Auto Show/Hide</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan/Sembunyikan Pita Otomatis</translation>
     </message>
     <message>
         <source>Cloud File Management</source>
@@ -30389,11 +30821,11 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Tombol Pita Tengah</translation>
     </message>
     <message>
         <source>WordArt Compatibility Mode</source>
-        <translation type="unfinished"/>
+        <translation>WordArt - Mode Kompatibilitas</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -30457,7 +30889,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Kembali</translation>
     </message>
     <message>
         <source>Review</source>
@@ -30477,7 +30909,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Ucapan Teks</translation>
     </message>
     <message>
         <source>Account Upgrade</source>
@@ -30489,7 +30921,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>Kompresi PDF</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -30537,11 +30969,11 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>member Center</source>
-        <translation type="unfinished"/>
+        <translation>Pusat Pribadi</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Bagi</translation>
     </message>
     <message>
         <source>Add-Ins</source>
@@ -30553,7 +30985,8 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"/>
+        <translation>Bungkus 
+Teks</translation>
     </message>
     <message>
         <source>message Center</source>
@@ -30565,11 +30998,11 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation type="unfinished"/>
+        <translation>Penggabungan PDF</translation>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation type="unfinished"/>
+        <translation>Pemisahan PDF</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -30611,7 +31044,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan</translation>
     </message>
     <message>
         <source>Restore Window</source>
@@ -30631,7 +31064,8 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan dan 
+Tengahkan</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -30654,16 +31088,16 @@ Nyala/Mati</translation>
         <translation>Komentar</translation>
     </message>
     <message>
-        <source>Equation Tool</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Launch Online Metting</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Equation Tool</source>
+        <translation>Alat Persamaan</translation>
+    </message>
+    <message>
         <source>WeChat Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Layanan Pelanggan WPS di WeChat</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -30691,7 +31125,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor ke PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -30711,11 +31145,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Graphic Tool</source>
-        <translation type="unfinished"/>
+        <translation>Alat Grafik</translation>
     </message>
     <message>
         <source>accout info</source>
-        <translation type="unfinished"/>
+        <translation>Informasi Akun</translation>
     </message>
     <message>
         <source>Custom task window</source>
@@ -30727,11 +31161,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation type="unfinished"/>
+        <translation>Uang Keberuntungan</translation>
     </message>
     <message>
         <source>InsertDate</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Tanggal</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -30739,7 +31173,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Pencadangan Otomatis</translation>
     </message>
     <message>
         <source>Vertical Center</source>
@@ -30747,7 +31181,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>PivotTable Design</source>
-        <translation type="unfinished"/>
+        <translation>Desain</translation>
     </message>
     <message>
         <source>Recently used files</source>
@@ -30763,15 +31197,15 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>GroupSending</source>
-        <translation type="unfinished"/>
+        <translation>Kirim ke grup</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"/>
+        <translation>Roaming File</translation>
     </message>
     <message>
         <source>enterprise Center</source>
-        <translation type="unfinished"/>
+        <translation>Pusat Perusahaan</translation>
     </message>
     <message>
         <source>Center Across</source>
@@ -30808,7 +31242,8 @@ Nyala/Mati</translation>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan dan
+Tengahkan</translation>
     </message>
     <message>
         <source>Online Editing</source>
@@ -30820,7 +31255,7 @@ Center</source>
     </message>
     <message>
         <source>My Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Langganan Saya</translation>
     </message>
     <message>
         <source>Format 
@@ -30834,7 +31269,7 @@ Format</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"/>
+        <translation>Alat Teks</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
@@ -30851,6 +31286,10 @@ Format</translation>
     <message>
         <source>Sign Out</source>
         <translation>Akses Keluar</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30869,7 +31308,7 @@ Format</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Kurang Dari</translation>
     </message>
     <message>
         <source>After</source>
@@ -30877,7 +31316,7 @@ Format</translation>
     </message>
     <message>
         <source>Apirl</source>
-        <translation type="unfinished"/>
+        <translation>April</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -30909,7 +31348,7 @@ Format</translation>
     </message>
     <message>
         <source>Filter Clear</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Filter</translation>
     </message>
     <message>
         <source>Year To Date</source>
@@ -30921,7 +31360,7 @@ Format</translation>
     </message>
     <message>
         <source>Not Contains</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Berisi</translation>
     </message>
     <message>
         <source>Label Filter</source>
@@ -30937,7 +31376,7 @@ Format</translation>
     </message>
     <message>
         <source>Not Begins With</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Dimulai Dengan</translation>
     </message>
     <message>
         <source>Second Quarter</source>
@@ -30961,7 +31400,7 @@ Format</translation>
     </message>
     <message>
         <source>Less Equal</source>
-        <translation type="unfinished"/>
+        <translation>Kurang Dari atau Sama Dengan</translation>
     </message>
     <message>
         <source>This Month</source>
@@ -31005,7 +31444,7 @@ Format</translation>
     </message>
     <message>
         <source>Other Sort Item</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan Sortir Lainnya</translation>
     </message>
     <message>
         <source>September</source>
@@ -31041,7 +31480,7 @@ Format</translation>
     </message>
     <message>
         <source>Greater Equal</source>
-        <translation type="unfinished"/>
+        <translation>Lebih Besar Dari atau Sama Dengan</translation>
     </message>
     <message>
         <source>Ends With</source>
@@ -31081,7 +31520,7 @@ Format</translation>
     </message>
     <message>
         <source>Not Ends With</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Diakhiri Dengan</translation>
     </message>
     <message>
         <source>Fourth Quarter</source>
@@ -31089,7 +31528,7 @@ Format</translation>
     </message>
     <message>
         <source>Greater</source>
-        <translation type="unfinished"/>
+        <translation>Lebih Besar Dari</translation>
     </message>
     <message>
         <source>Next Week</source>
@@ -31128,7 +31567,7 @@ Format</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation type="unfinished"/>
+        <translation>Tanggapan dan Produk</translation>
     </message>
     <message>
         <source>Print</source>
@@ -31144,7 +31583,8 @@ Format</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Perbaikan 
+File</translation>
     </message>
     <message>
         <source>Hardware Encryption</source>
@@ -31160,7 +31600,7 @@ Format</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor ke Gambar</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -31244,7 +31684,7 @@ Format</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Bagi File</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -31272,7 +31712,8 @@ Format</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Lihat 
+Izin</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -31302,12 +31743,32 @@ Format</translation>
         <source>Backup and Recover</source>
         <translation>Cadangkan dan Pulihkan</translation>
     </message>
+    <message>
+        <source>File Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Protection and Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PassWord Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation>Keamanan Dokumen</translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
     <message>
         <source>New</source>
-        <translation>Buku Kerja Kosong Baru</translation>
+        <translation>Baru</translation>
     </message>
     <message>
         <source>Help</source>
@@ -31327,7 +31788,7 @@ Format</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation type="unfinished"/>
+        <translation>Masukan dan Informasi Produk</translation>
     </message>
     <message>
         <source>Print</source>
@@ -31343,7 +31804,7 @@ Format</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Cek Pembaruan</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
@@ -31351,7 +31812,7 @@ Format</translation>
     </message>
     <message>
         <source>WPS Office Forum</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office BBS</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -31375,7 +31836,7 @@ Format</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
-        <translation type="unfinished"/>
+        <translation>File WPS Spreadsheets 2007/2010</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -31395,7 +31856,7 @@ Format</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation type="unfinished"/>
+        <translation>File Microsoft Excel 97-2003 (*.xls)</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -31419,7 +31880,7 @@ Format</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation type="unfinished"/>
+        <translation>Templat Microsoft Excel 97-2003 (*.xlt)</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
@@ -31439,11 +31900,11 @@ Format</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
-        <translation type="unfinished"/>
+        <translation>Templat WPS Spreadsheets (*.ett)</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Masukan Pengguna</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
@@ -31479,7 +31940,7 @@ Format</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Lihat Izin</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -31503,11 +31964,12 @@ Format</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor 
+ke PDF</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation type="unfinished"/>
+        <translation>File WPS Spreadsheets (*.et)</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -31535,7 +31997,7 @@ Format</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Excel 2007-2010 (*.xlsx)</translation>
     </message>
 </context>
 <context>
@@ -31721,7 +32183,7 @@ Format</translation>
     </message>
     <message>
         <source>vIvory</source>
-        <translation type="unfinished"/>
+        <translation>Gading</translation>
     </message>
     <message>
         <source>Gray-15%</source>
@@ -31821,7 +32283,7 @@ Format</translation>
     </message>
     <message>
         <source>OceanBlue</source>
-        <translation type="unfinished"/>
+        <translation>Biru Laut</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
@@ -31853,7 +32315,7 @@ Format</translation>
     </message>
     <message>
         <source>IceBlue</source>
-        <translation type="unfinished"/>
+        <translation>Biru Es</translation>
     </message>
 </context>
 <context>
@@ -31967,7 +32429,7 @@ Format</translation>
     </message>
     <message>
         <source>Setting(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>Pecah Kolom Secara Manual</translation>
     </message>
     <message>
         <source>&amp;Back</source>
@@ -31975,11 +32437,11 @@ Format</translation>
     </message>
     <message>
         <source>Enter up to %1 characters</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan hingga %1 karakter.</translation>
     </message>
     <message>
         <source>space</source>
-        <translation type="unfinished"/>
+        <translation>Spasi</translation>
     </message>
     <message>
         <source>N&amp;umber</source>
@@ -31987,27 +32449,27 @@ Format</translation>
     </message>
     <message>
         <source>data preview</source>
-        <translation type="unfinished"/>
+        <translation>Pratinjau Data</translation>
     </message>
     <message>
         <source>Treat consecutive delimiters as one(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Anggap satu pembatas berurutan</translation>
     </message>
     <message>
         <source>&amp;After keywords</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Setelah kata kunci</translation>
     </message>
     <message>
         <source>&quot;(Data within double quotes are not separated)</source>
-        <translation type="unfinished"/>
+        <translation>&quot;(Jangan pecah data yang diapit tanda kutip ganda)</translation>
     </message>
     <message>
         <source>Please select the split mode</source>
-        <translation type="unfinished"/>
+        <translation>Pilih mode pemecahan.</translation>
     </message>
     <message>
         <source>Separator(&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pembatas</translation>
     </message>
     <message>
         <source>Column</source>
@@ -32015,51 +32477,51 @@ Format</translation>
     </message>
     <message>
         <source>newline</source>
-        <translation type="unfinished"/>
+        <translation>Ganti baris</translation>
     </message>
     <message>
         <source>Step 1 of the text partitioning wizard 2</source>
-        <translation type="unfinished"/>
+        <translation>Langkah 2-1 Panduan Mengubah Teks Ke Kolom</translation>
     </message>
     <message>
         <source>Step 2 of the text partitioning wizard 2</source>
-        <translation type="unfinished"/>
+        <translation>Langkah 2-2 Panduan Mengubah Teks Ke Kolom</translation>
     </message>
     <message>
         <source>Enter create splitter line location(&amp;I):</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan posisi &amp;baris kolom:</translation>
     </message>
     <message>
         <source>Complete</source>
-        <translation type="unfinished"/>
+        <translation>Selesai</translation>
     </message>
     <message>
         <source>Recommend：</source>
-        <translation type="unfinished"/>
+        <translation>Rekomendasi:</translation>
     </message>
     <message>
         <source>Negative tracking(&amp;M)</source>
-        <translation type="unfinished"/>
+        <translation>Lacak &amp;bilangan negatif dengan tanda minus</translation>
     </message>
     <message>
         <source>KeyWord(&amp;K)</source>
-        <translation type="unfinished"/>
+        <translation>Berdasarkan &amp;kata kunci</translation>
     </message>
     <message>
         <source>Please select the type of text you want to categorize :</source>
-        <translation type="unfinished"/>
+        <translation>Pilih jenis teks yang ingin Anda pecah:</translation>
     </message>
     <message>
         <source>TextClassify(&amp;V)</source>
-        <translation type="unfinished"/>
+        <translation>Jenis Teks</translation>
     </message>
     <message>
         <source>Text identify(&amp;Q):</source>
-        <translation type="unfinished"/>
+        <translation>Pengidentifikasi Teks (&amp;Q):</translation>
     </message>
     <message>
         <source>The number entered cannot exceed the length of the content.</source>
-        <translation type="unfinished"/>
+        <translation>Nomor tidak boleh lebih besar dari panjang konten.</translation>
     </message>
     <message>
         <source>{none}</source>
@@ -32067,27 +32529,27 @@ Format</translation>
     </message>
     <message>
         <source>Keep split column keywo&amp;rds</source>
-        <translation type="unfinished"/>
+        <translation>Simpan kata &amp;kunci untuk pemecahan</translation>
     </message>
     <message>
         <source>Enter an integer greater than 0</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan bilangan bulat positif.</translation>
     </message>
     <message>
         <source>Note: Click the dividing line to merge, and click again to split the column.</source>
-        <translation type="unfinished"/>
+        <translation>Catatan: Klik garis kolom untuk membatalkan pemecahan kolom, dan klik lagi untuk memecahnya.</translation>
     </message>
     <message>
         <source>Intelligent split columns results</source>
-        <translation type="unfinished"/>
+        <translation>Hasil Kolom Pecah Pintar</translation>
     </message>
     <message>
         <source>split position:</source>
-        <translation type="unfinished"/>
+        <translation>Posisi pemisahan:</translation>
     </message>
     <message>
         <source>FixedWidth(&amp;W)</source>
-        <translation type="unfinished"/>
+        <translation>Lebar &amp;Tetap</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -32095,7 +32557,7 @@ Format</translation>
     </message>
     <message>
         <source>The number entered cannot be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Nomor tidak boleh kosong.</translation>
     </message>
     <message>
         <source>KxEtSplitColumnsDlg</source>
@@ -32103,7 +32565,7 @@ Format</translation>
     </message>
     <message>
         <source>The results are shown in(&amp;E):</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hasil ditampilkan di:</translation>
     </message>
     <message>
         <source>&amp;English</source>
@@ -32111,31 +32573,31 @@ Format</translation>
     </message>
     <message>
         <source>Split by the following keywords :</source>
-        <translation type="unfinished"/>
+        <translation>Gunakan kata kunci berikut untuk memecah teks:</translation>
     </message>
     <message>
         <source>&amp;create</source>
-        <translation type="unfinished"/>
+        <translation>Buat (&amp;B)</translation>
     </message>
     <message>
         <source>Next(&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>Berikutnya (&amp;k)</translation>
     </message>
     <message>
         <source>&apos;(Data within single quotes are not separated)</source>
-        <translation type="unfinished"/>
+        <translation>&apos;(Jangan pecah data yang diapit tanda kutip tunggal)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Click at the desired position to CREATE a break line.Click and drag it to MOVE a break line.Double click on the line to DELETE a break line.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Klik posisi pemecahan data untuk membuat garis kolom yang dapat diseret atau dihapus dengan mengklik dua kali.</translation>
     </message>
     <message>
         <source>Column data types and previews</source>
-        <translation type="unfinished"/>
+        <translation>Tipe Data Kolom dan Pratinjau</translation>
     </message>
     <message>
         <source>Pre-keyword(&amp;F)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sebelum kata kunci</translation>
     </message>
     <message>
         <source>Chine&amp;se</source>
@@ -32143,7 +32605,7 @@ Format</translation>
     </message>
     <message>
         <source>Input separator(&amp;I):</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan &amp;Pembatas:</translation>
     </message>
 </context>
 <context>
@@ -32366,7 +32828,7 @@ Format</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Akses masuk</translation>
     </message>
     <message>
         <source>This mode is for VIP only. Please sign in first.</source>
@@ -32627,6 +33089,10 @@ Format</translation>
         <translation>Hapus (&amp;u)</translation>
     </message>
     <message>
+        <source>&amp;Text Direction:</source>
+        <translation>Arah Teks: (&amp;A)</translation>
+    </message>
+    <message>
         <source>T
 e
 x
@@ -32792,11 +33258,11 @@ s</translation>
     </message>
     <message>
         <source>AddTrendLine</source>
-        <translation type="unfinished"/>
+        <translation>Garis Tren</translation>
     </message>
     <message>
         <source>PrimaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu Vertikal Primer</translation>
     </message>
     <message>
         <source>Above</source>
@@ -32812,15 +33278,16 @@ s</translation>
     </message>
     <message>
         <source>ChangeChartType</source>
-        <translation type="unfinished"/>
+        <translation>Ubah 
+Jenis Bagan</translation>
     </message>
     <message>
         <source>SecondaryMajorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal Utama Sekunder</translation>
     </message>
     <message>
         <source>StandardError</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan Standar</translation>
     </message>
     <message>
         <source>Linear Forecast</source>
@@ -32828,23 +33295,23 @@ s</translation>
     </message>
     <message>
         <source>HighLowLines</source>
-        <translation type="unfinished"/>
+        <translation>Garis Tinggi-Bawah</translation>
     </message>
     <message>
         <source>DropLinesAndHighLowLines</source>
-        <translation type="unfinished"/>
+        <translation>Garis Jatuh dan Tinggi-Rendah</translation>
     </message>
     <message>
         <source>CenteredOverlay</source>
-        <translation type="unfinished"/>
+        <translation>Hamparan Terpusat</translation>
     </message>
     <message>
         <source>AddDataLabels</source>
-        <translation type="unfinished"/>
+        <translation>Label Data</translation>
     </message>
     <message>
         <source>SecondaryMinorVertial</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal Minor Kedua</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -32860,7 +33327,7 @@ s</translation>
     </message>
     <message>
         <source>AddAxisTitle</source>
-        <translation type="unfinished"/>
+        <translation>Judul Sumbu</translation>
     </message>
     <message>
         <source>Exponential</source>
@@ -32876,7 +33343,7 @@ s</translation>
     </message>
     <message>
         <source>PrimaryMajorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal Utama Primer</translation>
     </message>
     <message>
         <source>Reset Style</source>
@@ -32884,15 +33351,15 @@ s</translation>
     </message>
     <message>
         <source>PrimaryMajorVertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal Utama Primer</translation>
     </message>
     <message>
         <source>StandardDeviation</source>
-        <translation type="unfinished"/>
+        <translation>Deviasi Standar</translation>
     </message>
     <message>
         <source>DropLines</source>
-        <translation type="unfinished"/>
+        <translation>Baris Putus</translation>
     </message>
     <message>
         <source>Position</source>
@@ -32900,43 +33367,45 @@ s</translation>
     </message>
     <message>
         <source>PrimaryMinorVertial</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal Minor Utama</translation>
     </message>
     <message>
         <source>AddAxis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu</translation>
     </message>
     <message>
         <source>SwitchRowCol</source>
-        <translation type="unfinished"/>
+        <translation>Alihkan 
+Baris/Kolom</translation>
     </message>
     <message>
         <source>AddGridLine</source>
-        <translation type="unfinished"/>
+        <translation>Garis Kisi</translation>
     </message>
     <message>
         <source>BestFit</source>
-        <translation type="unfinished"/>
+        <translation>Paling Pas</translation>
     </message>
     <message>
         <source>SecondaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu Horizontal Sekunder</translation>
     </message>
     <message>
         <source>AddLegend</source>
-        <translation type="unfinished"/>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>DataCallout</source>
-        <translation type="unfinished"/>
+        <translation>Keterangan Data</translation>
     </message>
     <message>
         <source>speedLayout</source>
-        <translation type="unfinished"/>
+        <translation>Tata Letak 
+Cepat</translation>
     </message>
     <message>
         <source>ChartStyle</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Gaya</translation>
     </message>
     <message>
         <source>Percentage</source>
@@ -32944,43 +33413,45 @@ s</translation>
     </message>
     <message>
         <source>SecondaryMajorVertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal Utama Sekunder</translation>
     </message>
     <message>
         <source>AddErrorBar</source>
-        <translation type="unfinished"/>
+        <translation>Bar Kesalahan</translation>
     </message>
     <message>
         <source>DataSection</source>
-        <translation type="unfinished"/>
+        <translation>Bagian Data</translation>
     </message>
     <message>
         <source>InsideEnd</source>
-        <translation type="unfinished"/>
+        <translation>Di Dalam Ujung</translation>
     </message>
     <message>
         <source>OutsideEnd</source>
-        <translation type="unfinished"/>
+        <translation>Di Luar Ujung</translation>
     </message>
     <message>
         <source>PrimaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal Minor Primer</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"/>
+        <translation>Pilih 
+Data</translation>
     </message>
     <message>
         <source>layoutSection</source>
-        <translation type="unfinished"/>
+        <translation>Tata letak bagan</translation>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan Elemen 
+Bagan</translation>
     </message>
     <message>
         <source>SeriesLines</source>
-        <translation type="unfinished"/>
+        <translation>Garis Seri</translation>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -32988,39 +33459,41 @@ s</translation>
     </message>
     <message>
         <source>More Option...</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan Lainnya...</translation>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation type="unfinished"/>
+        <translation>Pindahkan 
+Bagan</translation>
     </message>
     <message>
         <source>AboveChart</source>
-        <translation type="unfinished"/>
+        <translation>Bagan Atas</translation>
     </message>
     <message>
         <source>PrimaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu Horizontal Primer</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
-        <translation type="unfinished"/>
+        <translation>Dengan Kunci Legenda</translation>
     </message>
     <message>
         <source>SecondaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal Minor Sekunder</translation>
     </message>
     <message>
         <source>SecondaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu Vertikal Sekunder</translation>
     </message>
     <message>
         <source>changeColor</source>
-        <translation type="unfinished"/>
+        <translation>Ubah 
+Warna</translation>
     </message>
     <message>
         <source>AddDataTable</source>
-        <translation type="unfinished"/>
+        <translation>Tabel Data</translation>
     </message>
     <message>
         <source>Moving Average</source>
@@ -33028,11 +33501,11 @@ s</translation>
     </message>
     <message>
         <source>AddChartTitle</source>
-        <translation type="unfinished"/>
+        <translation>Judul Bagan</translation>
     </message>
     <message>
         <source>AddChartLines</source>
-        <translation type="unfinished"/>
+        <translation>Baris</translation>
     </message>
     <message>
         <source>Current Selection</source>
@@ -33040,15 +33513,15 @@ s</translation>
     </message>
     <message>
         <source>AddUpDownBar</source>
-        <translation type="unfinished"/>
+        <translation>Bar Atas/Bawah</translation>
     </message>
     <message>
         <source>NoLegendKeys</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Ada Kunci Legenda</translation>
     </message>
     <message>
         <source>InsideBase</source>
-        <translation type="unfinished"/>
+        <translation>Di Dalam Awal</translation>
     </message>
 </context>
 <context>
@@ -33071,11 +33544,11 @@ s</translation>
     </message>
     <message>
         <source>AddTrendLine</source>
-        <translation type="unfinished"/>
+        <translation>Garis tren</translation>
     </message>
     <message>
         <source>PrimaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu Vertikal Primer</translation>
     </message>
     <message>
         <source>Above</source>
@@ -33091,15 +33564,16 @@ s</translation>
     </message>
     <message>
         <source>ChangeChartType</source>
-        <translation type="unfinished"/>
+        <translation>Ubah 
+Jenis Bagan</translation>
     </message>
     <message>
         <source>SecondaryMajorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal Utama Sekunder</translation>
     </message>
     <message>
         <source>StandardError</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan Standar</translation>
     </message>
     <message>
         <source>Linear Forecast</source>
@@ -33107,23 +33581,23 @@ s</translation>
     </message>
     <message>
         <source>HighLowLines</source>
-        <translation type="unfinished"/>
+        <translation>Garis Tinggi-Bawah</translation>
     </message>
     <message>
         <source>DropLinesAndHighLowLines</source>
-        <translation type="unfinished"/>
+        <translation>Garis Jatuh dan Tinggi-Rendah</translation>
     </message>
     <message>
         <source>CenteredOverlay</source>
-        <translation type="unfinished"/>
+        <translation>Hamparan Terpusat</translation>
     </message>
     <message>
         <source>AddDataLabels</source>
-        <translation type="unfinished"/>
+        <translation>Label Data</translation>
     </message>
     <message>
         <source>SecondaryMinorVertial</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal Minor Kedua</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -33139,7 +33613,7 @@ s</translation>
     </message>
     <message>
         <source>AddAxisTitle</source>
-        <translation type="unfinished"/>
+        <translation>Judul Sumbu</translation>
     </message>
     <message>
         <source>Exponential</source>
@@ -33155,7 +33629,7 @@ s</translation>
     </message>
     <message>
         <source>PrimaryMajorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal Utama Primer</translation>
     </message>
     <message>
         <source>Reset Style</source>
@@ -33163,15 +33637,15 @@ s</translation>
     </message>
     <message>
         <source>PrimaryMajorVertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal Utama Primer</translation>
     </message>
     <message>
         <source>StandardDeviation</source>
-        <translation type="unfinished"/>
+        <translation>Deviasi Standar</translation>
     </message>
     <message>
         <source>DropLines</source>
-        <translation type="unfinished"/>
+        <translation>Baris Putus</translation>
     </message>
     <message>
         <source>Position</source>
@@ -33179,43 +33653,45 @@ s</translation>
     </message>
     <message>
         <source>PrimaryMinorVertial</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal Minor Primer</translation>
     </message>
     <message>
         <source>AddAxis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu</translation>
     </message>
     <message>
         <source>SwitchRowCol</source>
-        <translation type="unfinished"/>
+        <translation>Alihkan 
+Baris/Kolom</translation>
     </message>
     <message>
         <source>AddGridLine</source>
-        <translation type="unfinished"/>
+        <translation>Garis kisi</translation>
     </message>
     <message>
         <source>BestFit</source>
-        <translation type="unfinished"/>
+        <translation>Paling Pas</translation>
     </message>
     <message>
         <source>SecondaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu Horizontal Sekunder</translation>
     </message>
     <message>
         <source>AddLegend</source>
-        <translation type="unfinished"/>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>DataCallout</source>
-        <translation type="unfinished"/>
+        <translation>Keterangan Data</translation>
     </message>
     <message>
         <source>speedLayout</source>
-        <translation type="unfinished"/>
+        <translation>Tata Letak 
+Cepat</translation>
     </message>
     <message>
         <source>ChartStyle</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Gaya</translation>
     </message>
     <message>
         <source>Percentage</source>
@@ -33223,47 +33699,49 @@ s</translation>
     </message>
     <message>
         <source>SecondaryMajorVertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal Utama Sekunder</translation>
     </message>
     <message>
         <source>AddErrorBar</source>
-        <translation type="unfinished"/>
+        <translation>Bar Kesalahan</translation>
     </message>
     <message>
         <source>TypeSection</source>
-        <translation type="unfinished"/>
+        <translation>Jenis Bagan</translation>
     </message>
     <message>
         <source>DataSection</source>
-        <translation type="unfinished"/>
+        <translation>Bagian Data</translation>
     </message>
     <message>
         <source>InsideEnd</source>
-        <translation type="unfinished"/>
+        <translation>Di Dalam Ujung</translation>
     </message>
     <message>
         <source>OutsideEnd</source>
-        <translation type="unfinished"/>
+        <translation>Di Luar Ujung</translation>
     </message>
     <message>
         <source>PrimaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal Minor Primer</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"/>
+        <translation>Pilih 
+Data</translation>
     </message>
     <message>
         <source>layoutSection</source>
-        <translation type="unfinished"/>
+        <translation>Tata letak bagan</translation>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan Elemen 
+Bagan</translation>
     </message>
     <message>
         <source>SeriesLines</source>
-        <translation type="unfinished"/>
+        <translation>Garis Seri</translation>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -33271,35 +33749,37 @@ s</translation>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation type="unfinished"/>
+        <translation>Pindahkan 
+Bagan</translation>
     </message>
     <message>
         <source>AboveChart</source>
-        <translation type="unfinished"/>
+        <translation>Bagan Atas</translation>
     </message>
     <message>
         <source>PrimaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu Horizontal Primer</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
-        <translation type="unfinished"/>
+        <translation>Dengan Kunci Legenda</translation>
     </message>
     <message>
         <source>SecondaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal Minor Sekunder</translation>
     </message>
     <message>
         <source>SecondaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu Vertikal Sekunder</translation>
     </message>
     <message>
         <source>changeColor</source>
-        <translation type="unfinished"/>
+        <translation>Ubah 
+Warna</translation>
     </message>
     <message>
         <source>AddDataTable</source>
-        <translation type="unfinished"/>
+        <translation>Tabel Data</translation>
     </message>
     <message>
         <source>Moving Average</source>
@@ -33307,11 +33787,11 @@ s</translation>
     </message>
     <message>
         <source>AddChartTitle</source>
-        <translation type="unfinished"/>
+        <translation>Judul Bagan</translation>
     </message>
     <message>
         <source>AddChartLines</source>
-        <translation type="unfinished"/>
+        <translation>Baris</translation>
     </message>
     <message>
         <source>Current Selection</source>
@@ -33319,15 +33799,15 @@ s</translation>
     </message>
     <message>
         <source>AddUpDownBar</source>
-        <translation type="unfinished"/>
+        <translation>Bar Atas/Bawah</translation>
     </message>
     <message>
         <source>NoLegendKeys</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Ada Kunci Legenda</translation>
     </message>
     <message>
         <source>InsideBase</source>
-        <translation type="unfinished"/>
+        <translation>Di Dalam Awal</translation>
     </message>
 </context>
 <context>
@@ -33338,7 +33818,7 @@ s</translation>
     </message>
     <message>
         <source>but elements such as style may be lost.</source>
-        <translation type="unfinished"/>
+        <translation>tetapi elemen-elemen, seperti gaya, mungkin hilang.</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -33347,19 +33827,20 @@ s</translation>
     <message>
         <source>内容
 内容</source>
-        <translation type="unfinished"/>
+        <translation>Konten
+Konten</translation>
     </message>
     <message>
         <source>open directly</source>
-        <translation type="unfinished"/>
+        <translation>Buka Secara Langsung</translation>
     </message>
     <message>
         <source>No more prompts, the default is to use this option to open larger html files</source>
-        <translation type="unfinished"/>
+        <translation>Jangan tanya lagi. Atur metode yang digunakan kali ini sebagai metode default untuk file HTML besar.</translation>
     </message>
     <message>
         <source>You may consider using simplified mode to open the content,</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat memilih untuk membuka dalam mode sederhana,</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -33367,15 +33848,15 @@ s</translation>
     </message>
     <message>
         <source>The current html file is large, and direct opening may fail. </source>
-        <translation type="unfinished"/>
+        <translation>Karena berukuran besar, file HTML mungkin gagal dibuka secara langsung.</translation>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation type="unfinished"/>
+        <translation>Kotak centang</translation>
     </message>
     <message>
         <source>simplified mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode Sederhana</translation>
     </message>
 </context>
 <context>
@@ -33386,7 +33867,7 @@ s</translation>
     </message>
     <message>
         <source>This workbook has referred to data on other workbooks. Update to get the latest data ?</source>
-        <translation type="unfinished"/>
+        <translation>Buku kerja ini telah mengacu pada data di buku kerja yang lain. Perbarui untuk mendapatkan data terbaru?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has turned on Manual Recalculation, in which calculation result will not immediately reflect data change.</source>
@@ -33394,11 +33875,11 @@ s</translation>
     </message>
     <message>
         <source>security warning: macros have been disabled</source>
-        <translation type="unfinished"/>
+        <translation>Peringatan keamanan: Makro telah dinonaktifkan.</translation>
     </message>
     <message>
         <source>enable macros</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan makro</translation>
     </message>
     <message>
         <source>%1 You can switch to %3 Auto Recalculation %4. %2</source>
@@ -33410,7 +33891,7 @@ s</translation>
     </message>
     <message>
         <source>security warning: Macros and automatic update links have been disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Peringatan keamanan: Makro dan tautan pembaruan otomatis telah dinonaktifkan.</translation>
     </message>
 </context>
 <context>
@@ -33758,7 +34239,8 @@ s</translation>
     <message>
         <source>Use ? represent a single character
 Use * represent any number of character</source>
-        <translation type="unfinished"/>
+        <translation>Gunakan ? untuk mewakili setiap satu karakter
+Gunakan * untuk mewakili rangkaian karakter apapun</translation>
     </message>
 </context>
 <context>
@@ -33777,7 +34259,7 @@ Use * represent any number of character</source>
     </message>
     <message>
         <source>is greater than or equal</source>
-        <translation type="unfinished"/>
+        <translation>Lebih Besar Dari Atau Sama Dengan</translation>
     </message>
     <message>
         <source>does not equal</source>
@@ -33793,7 +34275,7 @@ Use * represent any number of character</source>
     </message>
     <message>
         <source>is less than or equal</source>
-        <translation type="unfinished"/>
+        <translation>Kurang Dari Atau Sama Dengan</translation>
     </message>
     <message>
         <source>is greater than</source>
@@ -33983,7 +34465,7 @@ Use * represent any number of character</source>
     <name>KxDlgRemoveDuplicates</name>
     <message>
         <source>row</source>
-        <translation type="unfinished"/>
+        <translation>Kolom</translation>
     </message>
     <message>
         <source>%1 duplicates are found;
@@ -34173,7 +34655,7 @@ Nyala</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Baris Berpola</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -34181,7 +34663,7 @@ Nyala</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -34368,7 +34850,8 @@ WordArt</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -34384,7 +34867,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -34392,7 +34875,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -34452,7 +34935,7 @@ WordArt</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation type="unfinished"/>
+        <translation>Isi</translation>
     </message>
     <message>
         <source>WordArt Size</source>
@@ -34484,7 +34967,7 @@ WordArt</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished"/>
+        <translation>Kerangka</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -34663,11 +35146,11 @@ WordArt</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"/>
+        <translation>Teks Vertikal</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Baris Berpola</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -34675,7 +35158,7 @@ WordArt</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -34755,7 +35238,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Garis</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -34776,7 +35259,7 @@ WordArt</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Perataan</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -34788,7 +35271,7 @@ WordArt</translation>
     </message>
     <message>
         <source>WordArt Shape Outline</source>
-        <translation type="unfinished"/>
+        <translation>Kerangka WordArt</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -34852,7 +35335,8 @@ WordArt</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -34868,7 +35352,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -34876,7 +35360,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Putus-putus</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -35150,7 +35634,9 @@ WordArt</translation>
         <source>This shape represents a slicer.
 
 Slicers can&apos;t be used in this version, please update to latest version of WPS Office.</source>
-        <translation type="unfinished"/>
+        <translation>Bentuk ini mewakili pengiris. 
+
+Pengiris tidak didukung dalam versi ini. Perbarui ke versi terbaru WPS Office.</translation>
     </message>
     <message>
         <source>#DIV/0!</source>
@@ -35204,7 +35690,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Vie&amp;ws</source>
-        <translation type="unfinished"/>
+        <translation>Lihat(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -35212,7 +35698,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Custom Views</source>
-        <translation type="unfinished"/>
+        <translation>Pengelolaan tampilan</translation>
     </message>
 </context>
 <context>
@@ -35606,7 +36092,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -35674,7 +36160,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -35690,11 +36176,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Font Lainnya</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -35790,7 +36276,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Garis</translation>
     </message>
     <message>
         <source>3-D Style</source>
@@ -35878,7 +36364,8 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -35890,11 +36377,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -36089,7 +36576,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -36228,7 +36715,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Teks Horizontal</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -36320,7 +36807,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -36428,7 +36915,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi 3D</translation>
     </message>
     <message>
         <source>Local Text Box</source>
@@ -36436,7 +36923,8 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -36452,11 +36940,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -36472,11 +36960,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Bentuk</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Teks Vertikal</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -36591,7 +37079,8 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"/>
+        <translation>Pelukis 
+Format</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -36607,11 +37096,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation type="unfinished"/>
+        <translation>Potong menurut Skala</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation type="unfinished"/>
+        <translation>Potong menurut Bentuk</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -36647,7 +37136,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -36727,11 +37216,12 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi 3D</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -36747,15 +37237,15 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Graphic Fill</source>
-        <translation type="unfinished"/>
+        <translation>Isi Grafis</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -36902,15 +37392,15 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation type="unfinished"/>
+        <translation>Potong menurut Skala</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation type="unfinished"/>
+        <translation>Potong menurut Bentuk</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -36942,7 +37432,8 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan 
+Gambar</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -36950,11 +37441,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Baris Berpola</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Gambar Online</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -36962,7 +37453,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -37014,7 +37505,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Berat</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -37033,8 +37524,15 @@ Slicers can&apos;t be used in this version, please update to latest version of W
         <translation>Gambar Saya</translation>
     </message>
     <message>
+        <source>Compress
+Pictures</source>
+        <translation>Padatkan
+Gambar</translation>
+    </message>
+    <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Padatkan 
+Gambar</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -37050,7 +37548,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -37079,11 +37577,11 @@ Picture</source>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi 3D</translation>
     </message>
     <message>
         <source>Lock rate</source>
-        <translation type="unfinished"/>
+        <translation>Kunci Rasio Aspek</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -37091,7 +37589,8 @@ Picture</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -37107,11 +37606,11 @@ Picture</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -37195,6 +37694,10 @@ Gambar</translation>
         <source>Align Top</source>
         <translation>Rata Atas</translation>
     </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool_vml</name>
@@ -37252,11 +37755,11 @@ Gambar</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Bawah</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Kiri</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -37284,7 +37787,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Klip Seni</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -37308,7 +37811,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -37320,7 +37823,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Baris Berpola</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -37332,7 +37835,7 @@ Gambar</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -37376,7 +37879,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Berat</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -37420,7 +37923,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Atas</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -37432,7 +37935,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus</translation>
     </message>
     <message>
         <source>Shadow
@@ -37442,7 +37945,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Kanan</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -37450,7 +37953,8 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -37466,11 +37970,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -37486,7 +37990,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -37558,7 +38062,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -37613,11 +38117,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Edit data</source>
-        <translation type="unfinished"/>
+        <translation>Edit Data</translation>
     </message>
     <message>
         <source>HiddenAndEmptyCells</source>
-        <translation type="unfinished"/>
+        <translation>Sel Kosong &amp; Tersembunyi</translation>
     </message>
     <message>
         <source>Marker Color</source>
@@ -37665,7 +38169,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation type="unfinished"/>
+        <translation>Tebal Garis</translation>
     </message>
     <message>
         <source>First Point</source>
@@ -37713,7 +38217,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>SwitchRowColumn</source>
-        <translation type="unfinished"/>
+        <translation>Alihkan Baris/Kolom</translation>
     </message>
     <message>
         <source>Custom Value</source>
@@ -37812,7 +38316,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Teks Horizontal</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -37904,7 +38408,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -38012,7 +38516,8 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -38028,11 +38533,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -38048,11 +38553,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Bentuk</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Teks Vertikal</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38163,7 +38668,8 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"/>
+        <translation>Pelukis 
+Format</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -38183,7 +38689,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -38231,7 +38737,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -38283,7 +38789,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Garis</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -38299,7 +38805,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Kompres Gambar</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -38343,7 +38849,8 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -38359,11 +38866,11 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Putus-putus</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -38500,11 +39007,11 @@ Gambar</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Bawah</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Kiri</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -38528,7 +39035,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Klip Seni</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -38560,7 +39067,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Baris Berpola</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -38572,7 +39079,7 @@ Gambar</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -38616,7 +39123,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Garis</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -38660,7 +39167,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Atas</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -38676,11 +39183,11 @@ Gambar</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Senggol Bayangan ke Kanan</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -38688,7 +39195,8 @@ Gambar</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -38704,11 +39212,11 @@ Gambar</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Putus-putus</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -38724,7 +39232,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -38788,7 +39296,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -38811,7 +39319,13 @@ Gambar</translation>
     </message>
     <message>
         <source>Split Sheets</source>
-        <translation type="unfinished"/>
+        <translation>Pisah Sheet 
+Sesuai Konten</translation>
+    </message>
+    <message>
+        <source>Text to
+ Columns</source>
+        <translation>Teks ke Kolom</translation>
     </message>
     <message>
         <source>Split Book</source>
@@ -38827,7 +39341,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
-        <translation type="unfinished"/>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -38839,7 +39353,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Merge workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan beberapa buku kerja ke dalam satu buku kerja</translation>
     </message>
     <message>
         <source>Highlight duplicates</source>
@@ -38860,7 +39374,7 @@ Gambar</translation>
     <message>
         <source>Import 
 Data</source>
-        <translation type="unfinished"/>
+        <translation>Impor Data</translation>
     </message>
     <message>
         <source>Data Tools</source>
@@ -38868,7 +39382,8 @@ Data</source>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Analisis 
+Bagaimana-Jika</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -38876,7 +39391,7 @@ Data</source>
     </message>
     <message>
         <source>ImportDataFromWeb</source>
-        <translation type="unfinished"/>
+        <translation>Dari Web</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -38900,7 +39415,8 @@ Data</source>
     </message>
     <message>
         <source>Split Books</source>
-        <translation type="unfinished"/>
+        <translation>Pisah Buku
+Sesuai Sheet</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -38919,8 +39435,14 @@ Data</source>
         <translation>Gabungkan Lembar</translation>
     </message>
     <message>
+        <source>Text to
+Columns</source>
+        <translation>Teks ke
+Kolom</translation>
+    </message>
+    <message>
         <source>Set Highlight Duplicates</source>
-        <translation type="unfinished"/>
+        <translation>Set</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -38931,9 +39453,13 @@ Data</source>
         <translation>Reaplikasi</translation>
     </message>
     <message>
+        <source>Smart Split Columns</source>
+        <translation>Pisah Pintar Kolom</translation>
+    </message>
+    <message>
         <source>Merge worksheets 
 with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan lembar kerja dengan nama yang sama di buku kerja</translation>
     </message>
     <message>
         <source>Get External Data</source>
@@ -38945,7 +39471,8 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>InsertDropDownList</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan 
+Daftar Gulung</translation>
     </message>
     <message>
         <source>Recombine Same Name</source>
@@ -38962,6 +39489,12 @@ with same name in workbooks</source>
     <message>
         <source>Connections</source>
         <translation>Koneksi</translation>
+    </message>
+    <message>
+		<source>Refresh 
+All</source>
+        <translation>Segarkan 
+Semua</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -38986,7 +39519,7 @@ Semua</translation>
     </message>
     <message>
         <source>Circle Valid Data</source>
-        <translation type="unfinished"/>
+        <translation>Lingkari Data Tidak Valid</translation>
     </message>
     <message>
         <source>Merge Book</source>
@@ -39019,8 +39552,32 @@ yang Ada</translation>
     </message>
     <message>
         <source>Merge worksheets</source>
+        <translation>Gabungkan beberapa lembar kerja ke dalam satu lembar kerja</translation>
+    </message>
+    <message>
+        <source>Highlight duplicates2</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Fetch duplicates2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fetch unique values2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Highlight unique values2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Import Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge Tables</source>
+        <translation type="unfinished"/>
+    </message>	
 </context>
 <context>
     <name>KxTpEtPivotTable</name>
@@ -39220,14 +39777,14 @@ yang Ada</translation>
     <name>KxEtInsertWithLineEditCommand</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Auto</translation>
     </message>
 </context>
 <context>
     <name>KxEtWithLineEditCommand</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Auto</translation>
     </message>
     <message>
         <source>Rows:</source>
@@ -39242,21 +39799,21 @@ yang Ada</translation>
     <name>KxFrameEmbedInMenuItem</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Auto</translation>
     </message>
 </context>
 <context>
     <name>KxInsertCellsDlg</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Auto</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool_vml.PictureColor</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatis</translation>
     </message>
     <message>
         <source>Color</source>
@@ -39279,7 +39836,7 @@ yang Ada</translation>
     <name>rainbow.ct_picturetool.PictureColor</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatis</translation>
     </message>
     <message>
         <source>Color</source>
@@ -39302,7 +39859,7 @@ yang Ada</translation>
     <name>rainbow.ct_picturetool_Vml.PictureColor</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatis</translation>
     </message>
     <message>
         <source>Color</source>
@@ -39393,7 +39950,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Two password inconsistencies</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi tidak sama.</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
@@ -39425,7 +39982,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>The password of the edit permission must be no longer than 15 characters.</source>
-        <translation type="unfinished"/>
+        <translation>Panjang kata sandi maksimum untuk izin pengeditan adalah 15 karakter.</translation>
     </message>
     <message>
         <source>New Custom Dictionary</source>
@@ -39505,11 +40062,19 @@ yang Ada</translation>
     </message>
     <message>
         <source>File Path: WPS CloudFile\Cloud BackUp</source>
-        <translation type="unfinished"/>
+        <translation>Jalur File: WPS Cloud\Unggah Otomatis</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
         <translation>Anda tidak memiliki izin untuk menulis file cadangan ke &quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39536,7 +40101,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"/>
+        <translation>Atas</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -39544,7 +40109,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Vertical Distributed Aligned</source>
-        <translation type="unfinished"/>
+        <translation>Didistribusikan Vertikal</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -39572,7 +40137,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>DiagonalDown</source>
-        <translation type="unfinished"/>
+        <translation>Diagonal Turun</translation>
     </message>
     <message>
         <source>No Number Format</source>
@@ -39580,15 +40145,15 @@ yang Ada</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>ReadingOrder</source>
-        <translation type="unfinished"/>
+        <translation>Urutan Baca</translation>
     </message>
     <message>
         <source>MarjorFont</source>
-        <translation type="unfinished"/>
+        <translation>(Judul)</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -39596,7 +40161,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Vertical Justify Aligned</source>
-        <translation type="unfinished"/>
+        <translation>Rata Kanan Kiri Vertikal</translation>
     </message>
     <message>
         <source>Rotated down %1 Degrees</source>
@@ -39608,7 +40173,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Vertical Center Aligned</source>
-        <translation type="unfinished"/>
+        <translation>Tengah Vertikal</translation>
     </message>
     <message>
         <source>This format name already exists.</source>
@@ -39616,7 +40181,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
-        <translation type="unfinished"/>
+        <translation>Konteks</translation>
     </message>
     <message>
         <source>Left-to-Right Reading Order</source>
@@ -39688,7 +40253,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Top Aligned</source>
-        <translation type="unfinished"/>
+        <translation>Atas</translation>
     </message>
     <message>
         <source>Style includes</source>
@@ -39704,7 +40269,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Ada Batas</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -39724,7 +40289,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Style Name Not Valid</source>
-        <translation type="unfinished"/>
+        <translation>Nama gaya tidak valid.</translation>
     </message>
     <message>
         <source>No Alignment</source>
@@ -39756,15 +40321,15 @@ yang Ada</translation>
     </message>
     <message>
         <source>Shrink To fit</source>
-        <translation type="unfinished"/>
+        <translation>Susutkan agar Pas</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>TextFont</source>
-        <translation type="unfinished"/>
+        <translation>(Isi)</translation>
     </message>
     <message>
         <source>Center Across</source>
@@ -39776,7 +40341,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>You are not allowed to add the default style name.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak diizinkan menambahkan nama gaya default.</translation>
     </message>
     <message>
         <source>Alignment:</source>
@@ -39784,7 +40349,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>DiagonalUp</source>
-        <translation type="unfinished"/>
+        <translation>Diagonal Naik</translation>
     </message>
     <message>
         <source>No Protection</source>
@@ -39799,7 +40364,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation type="unfinished"/>
+        <translation>Font didesain untuk digunakan dengan plotter pena.</translation>
     </message>
     <message>
         <source> (text)</source>
@@ -39831,7 +40396,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation type="unfinished"/>
+        <translation>Gaya font ini ditiru untuk ditampilkan. Gaya pencocokan terdekat akan dicetak.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -39854,7 +40419,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation type="unfinished"/>
+        <translation>Font didesain untuk digunakan dengan plotter pena.</translation>
     </message>
     <message>
         <source> (text)</source>
@@ -39890,7 +40455,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation type="unfinished"/>
+        <translation>Gaya font ini ditiru untuk ditampilkan. Gaya pencocokan terdekat akan dicetak.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -39913,7 +40478,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation type="unfinished"/>
+        <translation>Font didesain untuk digunakan dengan plotter pena.</translation>
     </message>
     <message>
         <source> (text)</source>
@@ -39949,7 +40514,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation type="unfinished"/>
+        <translation>Gaya font ini ditiru untuk ditampilkan. Gaya pencocokan terdekat akan dicetak.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -39984,7 +40549,8 @@ yang Ada</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -40004,11 +40570,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="unfinished"/>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"/>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -40016,7 +40582,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"/>
+        <translation>6 pt</translation>
     </message>
     <message>
         <source>Align</source>
@@ -40044,15 +40610,15 @@ yang Ada</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>2,25 pt</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,25 pt</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -40104,11 +40670,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Balik Horizontal</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,5 pt</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -40116,7 +40682,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Insert Shape</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Bentuk</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -40128,11 +40694,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>1,5 pt</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -40180,7 +40746,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Berat</translation>
     </message>
     <message>
         <source>Edit Shape</source>
@@ -40208,7 +40774,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>4,5 pt</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -40232,7 +40798,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -40260,11 +40826,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -40272,11 +40838,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Balik Vertikal</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -40288,7 +40854,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Bentuk</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -40340,7 +40906,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -40371,7 +40937,8 @@ yang Ada</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -40391,11 +40958,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="unfinished"/>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"/>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -40403,7 +40970,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"/>
+        <translation>6 pt</translation>
     </message>
     <message>
         <source>Align</source>
@@ -40435,11 +41002,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,25 pt</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -40491,11 +41058,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Balik Horizontal</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,5 pt</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -40503,7 +41070,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Baris Berpola</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -40511,11 +41078,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>1,5 pt</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -40567,7 +41134,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Berat</translation>
     </message>
     <message>
         <source>Edit Shape</source>
@@ -40595,7 +41162,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>4,5 pt</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -40619,7 +41186,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -40647,11 +41214,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -40659,11 +41226,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Balik Vertikal</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -40675,7 +41242,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Bentuk</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -40727,7 +41294,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Titik Titik Putus-putus Panjang</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -40773,15 +41340,15 @@ yang Ada</translation>
     </message>
     <message>
         <source>Insert shape in before</source>
-        <translation type="unfinished"/>
+        <translation>Tambah Bentuk Sebelum</translation>
     </message>
     <message>
         <source>Reduce Level</source>
-        <translation type="unfinished"/>
+        <translation>Turunkan</translation>
     </message>
     <message>
         <source>Insert Shape</source>
-        <translation type="unfinished"/>
+        <translation>Tambah Bentuk</translation>
     </message>
     <message>
         <source>Create Graph</source>
@@ -40789,7 +41356,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Increase Level</source>
-        <translation type="unfinished"/>
+        <translation>Promosikan</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -40797,27 +41364,27 @@ yang Ada</translation>
     </message>
     <message>
         <source>RightToLeft Layout</source>
-        <translation type="unfinished"/>
+        <translation>Kanan ke Kiri</translation>
     </message>
     <message>
         <source>Insert assist</source>
-        <translation type="unfinished"/>
+        <translation>Tambah Asisten</translation>
     </message>
     <message>
         <source>Insert shape on below</source>
-        <translation type="unfinished"/>
+        <translation>Tambah Bentuk Di Bawah</translation>
     </message>
     <message>
         <source>Insert shape in after</source>
-        <translation type="unfinished"/>
+        <translation>Tambah Bentuk Setelah</translation>
     </message>
     <message>
         <source>Insert shape on above</source>
-        <translation type="unfinished"/>
+        <translation>Tambah Bentuk Di Atas</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"/>
+        <translation>Pindah Bawah</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -40829,11 +41396,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>Left Hang</source>
-        <translation type="unfinished"/>
+        <translation>Menggantung di Kiri</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Pindah Atas</translation>
     </message>
     <message>
         <source>Change Colors</source>
@@ -40841,7 +41408,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Right Hang</source>
-        <translation type="unfinished"/>
+        <translation>Menggantung di Kanan</translation>
     </message>
 </context>
 <context>
@@ -41164,11 +41731,11 @@ yang Ada</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"/>
+        <translation>Baris Pertama dan Kolom Pertama</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"/>
+        <translation>Baris Pertama dan Baris Terakhir</translation>
     </message>
     <message>
         <source>Last Row</source>
@@ -41282,7 +41849,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Analisis Bagaimana-Jika</translation>
     </message>
     <message>
         <source>Show the &amp;Values row</source>
@@ -41298,7 +41865,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>&amp;Dispaly fields in the report filter area:</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan ruas di area filter laporan: (&amp;T)</translation>
     </message>
     <message>
         <source>Format</source>
@@ -41358,7 +41925,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan PivotTable</translation>
     </message>
     <message>
         <source>Displa&amp;y item labels when no fields are in the values area</source>
@@ -41422,7 +41989,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>&amp;Number of items to retain per filed:</source>
-        <translation type="unfinished"/>
+        <translation>Jumlah item yang dipertahankan per ruas: (&amp;J)</translation>
     </message>
 </context>
 <context>
@@ -41481,7 +42048,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Bar Alat</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -41501,7 +42068,8 @@ yang Ada</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Ucapan 
+Teks</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -41533,7 +42101,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan</translation>
     </message>
     <message>
         <source>Restore Window</source>
@@ -41565,7 +42133,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor ke PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -41577,7 +42145,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation type="unfinished"/>
+        <translation>Wps Package Plugin</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -41589,7 +42157,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>PivotTable Design</source>
-        <translation type="unfinished"/>
+        <translation>Desain</translation>
     </message>
     <message>
         <source>Recently used files</source>
@@ -41605,7 +42173,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"/>
+        <translation>Alat Teks</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
@@ -41647,6 +42215,18 @@ yang Ada</translation>
         <translation>Tutup Seluruh Ruas</translation>
     </message>
     <message>
+        <source>Field 
+Headers</source>
+        <translation>Header 
+Bidang</translation>
+    </message>
+    <message>
+        <source>Move 
+PivotTable</source>
+        <translation>Pindahkan 
+PivotTable</translation>
+    </message>
+    <message>
         <source>PivotTable Name:</source>
         <translation>Nama PivotTable:</translation>
     </message>
@@ -41656,7 +42236,13 @@ yang Ada</translation>
     </message>
     <message>
         <source>Fields,Items</source>
-        <translation type="unfinished"/>
+        <translation>Ruas, Item</translation>
+    </message>
+    <message>
+        <source>Change Data 
+Source</source>
+        <translation>Ubah Sumber 
+Data</translation>
     </message>
     <message>
         <source>Show Report Filter Field Buttons</source>
@@ -41704,7 +42290,13 @@ yang Ada</translation>
     </message>
     <message>
         <source>Pivot Table</source>
-        <translation type="unfinished"/>
+        <translation>PivotTable</translation>
+    </message>
+    <message>
+        <source>Field 
+List</source>
+        <translation>Daftar 
+Bidang</translation>
     </message>
     <message>
         <source>Change Data Source</source>
@@ -41720,7 +42312,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Labels And Values</source>
-        <translation type="unfinished"/>
+        <translation>Label dan Nilai</translation>
     </message>
     <message>
         <source>Clear Filters</source>
@@ -41741,6 +42333,12 @@ yang Ada</translation>
     <message>
         <source>Refresh</source>
         <translation>Segarkan</translation>
+    </message>
+    <message>
+        <source>+/- 
+Buttons</source>
+        <translation>Tombol 
++/-</translation>
     </message>
     <message>
         <source>Filter Connections</source>
@@ -41772,7 +42370,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation type="unfinished"/>
+        <translation>Pindah Bagan</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -41871,7 +42469,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan PivotTable</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -41888,6 +42486,18 @@ yang Ada</translation>
     <message>
         <source>Move Left</source>
         <translation>Pindah ke Kiri</translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation>Jangan 
+Ulangi Label Item</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation>Ulangi Semua 
+Label Item</translation>
     </message>
 </context>
 <context>
@@ -41922,7 +42532,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
@@ -42272,7 +42882,7 @@ Ini juga memungkinkan penggabungan buku kerja.</translation>
     </message>
     <message>
         <source>All Formats(&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>Semua Format (&amp;C)</translation>
     </message>
     <message>
         <source>Finding cells... Press Esc to interrupt...</source>
@@ -42509,7 +43119,8 @@ Cetak</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -42673,11 +43284,11 @@ Cetak</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Font Lainnya</translation>
     </message>
     <message>
         <source>Center</source>
@@ -42697,15 +43308,22 @@ Cetak</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"/>
+        <translation>Bungkus teks</translation>
     </message>
     <message>
         <source>Borders</source>
         <translation>Batas</translation>
     </message>
     <message>
+        <source>Merge and 
+Center</source>
+        <translation>Gabungkan dan 
+Tengahkan</translation>
+    </message>
+    <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan dan 
+Tengahkan</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -42746,7 +43364,8 @@ Cetak</translation>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan dan
+Tengahkan</translation>
     </message>
 </context>
 <context>
@@ -43260,7 +43879,7 @@ Center</source>
     </message>
     <message>
         <source>please input columns to need:</source>
-        <translation type="unfinished"/>
+        <translation>Tentukan kolom yang akan ditampilkan:</translation>
     </message>
 </context>
 <context>
@@ -43430,7 +44049,7 @@ Center</source>
     </message>
     <message>
         <source>Locking objects has no effect unless the sheet is protected. To help protect the sheet, choose Format on the Home page tab, and the choose Protect Sheet. A password is optional.</source>
-        <translation type="unfinished"/>
+        <translation>Mengunci objek tidak akan memberi dampak kecuali lembarnya diproteksi. Untuk membantu memproteksi lembar, pilih Format pada tab Muka, lalu pilih Proteksi Lembar. Kata sandi bersifat opsional.</translation>
     </message>
     <message>
         <source>Protection</source>
@@ -43477,7 +44096,8 @@ Center</source>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Analisis 
+Bagaimana-Jika</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -43535,7 +44155,8 @@ Data</translation>
     </message>
     <message>
         <source>InsertDropDownList</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan 
+Daftar Gulung</translation>
     </message>
     <message>
         <source>Subtotal</source>
@@ -43567,7 +44188,7 @@ Data</translation>
     </message>
     <message>
         <source>Circle Valid Data</source>
-        <translation type="unfinished"/>
+        <translation>Lingkari Data Tidak Valid</translation>
     </message>
     <message>
         <source>Sort and Filter</source>
@@ -43603,7 +44224,8 @@ yang Ada</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Tata Letak 
+Baca</translation>
     </message>
     <message>
         <source>Share</source>
@@ -43611,7 +44233,8 @@ yang Ada</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Perbaikan 
+File</translation>
     </message>
     <message>
         <source>Roaming File</source>
@@ -43619,7 +44242,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Sharing File</source>
-        <translation type="unfinished"/>
+        <translation>File Dibagi ke Saya</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -43631,7 +44254,8 @@ yang Ada</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor ke 
+Gambar</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -43643,15 +44267,15 @@ yang Ada</translation>
     </message>
     <message>
         <source>Document History</source>
-        <translation type="unfinished"/>
+        <translation>Documen Riwayat</translation>
     </message>
     <message>
         <source>Special Tools</source>
-        <translation type="unfinished"/>
+        <translation>Fitur Khusus</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Kirim ke seluler</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -43659,7 +44283,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Cloud File Guid</source>
-        <translation type="unfinished"/>
+        <translation>Panduan File Awan</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -43679,7 +44303,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke file PDF</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -43691,7 +44315,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Masukan Pengguna</translation>
     </message>
     <message>
         <source>Invoice Maker</source>
@@ -43703,7 +44327,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Team File</source>
-        <translation type="unfinished"/>
+        <translation>File Tim</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -43711,11 +44335,12 @@ yang Ada</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Buka dari 
+Cloud Docs</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
-        <translation type="unfinished"/>
+        <translation>Templat Online</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
@@ -43728,11 +44353,11 @@ yang Ada</translation>
     <message>
         <source>File Roaming</source>
         <comment>professional</comment>
-        <translation type="unfinished"/>
+        <translation>File Terbaru</translation>
     </message>
     <message>
         <source>RB_Document Slimming</source>
-        <translation>Perampingan Documen</translation>
+        <translation>Perampingan Dokumen</translation>
     </message>
     <message>
         <source>XiuTang H5</source>
@@ -43752,11 +44377,12 @@ yang Ada</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="unfinished"/>
+        <translation>Bagi File</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor ke 
+PDF</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -43764,7 +44390,8 @@ yang Ada</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Simpan ke 
+Cloud Docs</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -43776,15 +44403,15 @@ yang Ada</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Pencadangan Otomatis</translation>
     </message>
     <message>
         <source>Online Co-edit</source>
-        <translation type="unfinished"/>
+        <translation>Kolaborasi</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"/>
+        <translation>Roaming File</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -43828,7 +44455,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Insert Pictures From Phone</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar dari Ponsel</translation>
     </message>
     <message>
         <source>Shortcut Setting</source>
@@ -43837,7 +44464,7 @@ Ponsel</translation>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Ambil Layar</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
@@ -43845,7 +44472,8 @@ Ponsel</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Perbaikan 
+File</translation>
     </message>
     <message>
         <source>Hardware Encryption</source>
@@ -43857,7 +44485,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Masukan</translation>
+        <translation>Masukan dan Saran</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -43869,11 +44497,11 @@ Ponsel</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor ke Gambar</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Font Awan</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -43885,15 +44513,15 @@ Ponsel</translation>
     </message>
     <message>
         <source>File Send</source>
-        <translation type="unfinished"/>
+        <translation>Kirim ke seluler</translation>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation type="unfinished"/>
+        <translation>Pustaka Ikon</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation type="unfinished"/>
+        <translation>Bagi File</translation>
     </message>
     <message>
         <source>All Comments</source>
@@ -43905,11 +44533,12 @@ Ponsel</translation>
     </message>
     <message>
         <source>New Doc Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Anda mungkin menyukai</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Analisis 
+Bagaimana-Jika</translation>
     </message>
     <message>
         <source>Split or Merge</source>
@@ -43917,7 +44546,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Gambar Online</translation>
     </message>
     <message>
         <source>Set Language</source>
@@ -43925,7 +44554,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>PDF To Excel</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke Excel</translation>
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
@@ -43941,7 +44570,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Galeri</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -43965,7 +44594,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
-        <translation type="unfinished"/>
+        <translation>Warna Tema</translation>
     </message>
     <message>
         <source>More Online Charts</source>
@@ -43977,7 +44606,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan Jendela Aktif saat Ambil Layar</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -43989,7 +44618,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>PDF To PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke PPT</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -43997,15 +44626,16 @@ Ponsel</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Ucapan 
+Teks</translation>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>Kompresi PDF</translation>
     </message>
     <message>
         <source>Send pictures</source>
-        <translation type="unfinished"/>
+        <translation>Kirim Gambar</translation>
     </message>
     <message>
         <source>Online TableStyle</source>
@@ -44013,7 +44643,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke file PDF</translation>
     </message>
     <message>
         <source>My Picture</source>
@@ -44025,15 +44655,15 @@ Ponsel</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Bagi</translation>
+        <translation>Bagi File</translation>
     </message>
     <message>
         <source>Online Picture Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Galeri</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation type="unfinished"/>
+        <translation>Create Link and Share</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -44041,7 +44671,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -44053,15 +44683,15 @@ Ponsel</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Buka dari Cloud Docs</translation>
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation type="unfinished"/>
+        <translation>Penggabungan PDF</translation>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation type="unfinished"/>
+        <translation>Pemisahan PDF</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
@@ -44073,7 +44703,8 @@ Ponsel</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Periksa Izin 
+Pengguna</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -44081,11 +44712,11 @@ Ponsel</translation>
     </message>
     <message>
         <source>ShortChart</source>
-        <translation type="unfinished"/>
+        <translation>Bagan</translation>
     </message>
     <message>
         <source>ShortWordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -44105,7 +44736,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="unfinished"/>
+        <translation>Material</translation>
     </message>
     <message>
         <source>DocerWordArt</source>
@@ -44117,7 +44748,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>DocerTableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Tabel</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -44129,15 +44760,15 @@ Ponsel</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Simpan ke Cloud Docs</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation type="unfinished"/>
+        <translation>Wps Package Plugin</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Ambil Layar</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -44149,11 +44780,11 @@ Ponsel</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation type="unfinished"/>
+        <translation>Konversi Semua Gambar dalam Document</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Konversi Gambar yang Dipilih</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -44161,11 +44792,11 @@ Ponsel</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Pencadangan Otomatis</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="unfinished"/>
+        <translation>Kolaborasi</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -44177,7 +44808,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>GroupSending</source>
-        <translation type="unfinished"/>
+        <translation>Kirim ke grup</translation>
     </message>
     <message>
         <source>Add or view comments in your document.</source>
@@ -44189,7 +44820,8 @@ Ponsel</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>Periksa Izin 
+Saya</translation>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -44208,6 +44840,14 @@ Ponsel</translation>
         <source>From Phone</source>
         <translation>Dari Ponsel</translation>
     </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_workspace</name>
@@ -44221,7 +44861,8 @@ Ponsel</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Tata Letak 
+Baca</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -44261,7 +44902,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Buka dari Cloud Docs</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
@@ -44281,15 +44922,16 @@ Ponsel</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="unfinished"/>
+        <translation>Buat Tautan Berbagi</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor 
+ke PDF</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Simpan ke Cloud Docs</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -44297,7 +44939,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"/>
+        <translation>Roaming File</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -44372,7 +45014,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Labels And Values</source>
-        <translation type="unfinished"/>
+        <translation>Label dan Nilai</translation>
     </message>
     <message>
         <source>Solve Order</source>
@@ -44388,7 +45030,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan PivotTable</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -44459,7 +45101,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Perbesar</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -44471,7 +45113,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -44535,7 +45177,7 @@ Semua</translation>
     <message>
         <source>Reading
 Layout</source>
-        <translation type="unfinished"/>
+        <translation>Tata Letak Baca</translation>
     </message>
     <message>
         <source>View
@@ -44556,6 +45198,12 @@ Secara Berdampingan</translation>
         <translation>Mode Gelap</translation>
     </message>
     <message>
+        <source>Page Break 
+Preview</source>
+        <translation>Pratinjau Pemisah 
+Halaman</translation>
+    </message>
+    <message>
         <source>Cascade</source>
         <translation>Berjenjang</translation>
     </message>
@@ -44570,7 +45218,8 @@ Secara Berdampingan</translation>
     <message>
         <source>Full 
 Screen</source>
-        <translation type="unfinished"/>
+        <translation>Layar 
+Penuh</translation>
     </message>
     <message>
         <source>Security</source>
@@ -44582,7 +45231,7 @@ Screen</source>
     </message>
     <message>
         <source>Reset Window Position</source>
-        <translation type="unfinished"/>
+        <translation>Reset Posisi Jendela</translation>
     </message>
     <message>
         <source>Custom Views</source>
@@ -44594,15 +45243,21 @@ Screen</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Freeze First Column</source>
         <translation>Bekukan Kolom Pertama</translation>
     </message>
     <message>
+        <source>Close
+Other Window</source>
+        <translation>Tutup
+Jendela Lainnya</translation>
+    </message>
+    <message>
         <source>Protect Eyes</source>
-        <translation type="unfinished"/>
+        <translation>Proteksi Mata</translation>
     </message>
     <message>
         <source>Light Mode</source>
@@ -44613,8 +45268,17 @@ Screen</source>
         <translation>Mode Malam</translation>
     </message>
     <message>
+        <source>Worksheet Options</source>
+        <translation>Pilihan Lembar Kerja</translation>
+    </message>
+    <message>
         <source>New
 Window</source>
+        <translation>Jendela
+Baru</translation>
+    </message>
+    <message>
+        <source>Visual Basic Editor</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -44634,7 +45298,8 @@ Window</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Tata Letak 
+Baca</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -44650,7 +45315,7 @@ Window</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -44759,7 +45424,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -44833,7 +45498,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -44845,7 +45510,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>Control 
@@ -44854,8 +45519,14 @@ Properties</source>
 Kontrol</translation>
     </message>
     <message>
+        <source>Selection 
+Pane</source>
+        <translation>Panel 
+Pilihan</translation>
+    </message>
+    <message>
         <source>IconLibrary</source>
-        <translation type="unfinished"/>
+        <translation>Pustaka Ikon</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -44867,7 +45538,8 @@ Kontrol</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan 
+Gambar</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -44975,11 +45647,12 @@ Kontrol</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Header dan 
+Footer</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
-        <translation type="unfinished"/>
+        <translation>Bagan</translation>
     </message>
     <message>
         <source>Sparklines</source>
@@ -44995,7 +45668,7 @@ Kontrol</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="unfinished"/>
+        <translation>Material</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -45007,7 +45680,7 @@ Kontrol</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -45023,11 +45696,15 @@ Kontrol</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan bagan alur</translation>
     </message>
     <message>
         <source>InsertProcesson_Mind</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan pemetaan pikiran</translation>
+    </message>
+    <message>
+        <source>Insert New Equation</source>
+        <translation>Sisipkan Persamaan Baru</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -45036,6 +45713,14 @@ Kontrol</translation>
     <message>
         <source>More Symbols</source>
         <translation>Simbol Lainnya</translation>
+    </message>
+    <message>
+        <source>Chart Gallery</source>
+        <translation>Galeri Bagan</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45070,7 +45755,13 @@ Kontrol</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation type="unfinished"/>
+        <translation>Data Eksternal</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation>Edit
+Kueri OLE DB</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -45106,7 +45797,8 @@ Semua</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Perbaikan 
+File</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -45134,7 +45826,7 @@ Semua</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Ucapan Teks</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -45177,12 +45869,20 @@ Data</translation>
         <source>3-D Settings</source>
         <translation>Pengaturan 3D</translation>
     </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>etContentPosition</name>
     <message>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Kunci (&amp;K)</translation>
     </message>
     <message>
         <source>PROPERTY</source>
@@ -45198,7 +45898,7 @@ Data</translation>
     </message>
     <message>
         <source>&amp;Move but don&apos;t &amp;size with cells</source>
-        <translation type="unfinished"/>
+        <translation>Pindahkan tapi jangan ukur dengan sel (&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Print object</source>
@@ -45265,7 +45965,7 @@ Data</translation>
     </message>
     <message>
         <source>Button Height:</source>
-        <translation type="unfinished"/>
+        <translation>Tinggi Tombol: </translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -45313,7 +46013,8 @@ Data</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -45345,7 +46046,7 @@ Data</translation>
     </message>
     <message>
         <source>Slicer Captions:</source>
-        <translation type="unfinished"/>
+        <translation>Keterangan Pengiris:</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -45353,7 +46054,7 @@ Data</translation>
     </message>
     <message>
         <source>Column Width:</source>
-        <translation type="unfinished"/>
+        <translation>Kolom:</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -45420,7 +46121,7 @@ Data</translation>
     </message>
     <message>
         <source>Button Height:</source>
-        <translation type="unfinished"/>
+        <translation>Tinggi Tombol:</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -45468,7 +46169,8 @@ Data</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -45500,7 +46202,7 @@ Data</translation>
     </message>
     <message>
         <source>Slicer Captions:</source>
-        <translation type="unfinished"/>
+        <translation>Keterangan Pengiris:</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -45508,7 +46210,7 @@ Data</translation>
     </message>
     <message>
         <source>Column Width:</source>
-        <translation type="unfinished"/>
+        <translation>Kolom:</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -45669,7 +46371,7 @@ Data</translation>
     </message>
     <message>
         <source>The formula you Enter is Error.</source>
-        <translation type="unfinished"/>
+        <translation>Formula yang Anda ketikkan berisi kesalahan.</translation>
     </message>
     <message>
         <source>Names Scoped to Work&amp;sheet</source>
@@ -45848,7 +46550,8 @@ Baru</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke 
+Cina Sederhana</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -45863,7 +46566,7 @@ Buku Kerja</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation type="unfinished"/>
+        <translation>Lacak Perubahan</translation>
     </message>
     <message>
         <source>Reset Comment</source>
@@ -45882,6 +46585,12 @@ Changes</source>
         <translation>Lindungi dan Bagikan Buku Kerja</translation>
     </message>
     <message>
+        <source>Share
+Workbook</source>
+        <translation>Bagikan
+Buku Kerja</translation>
+    </message>
+    <message>
         <source>Reset All Comments</source>
         <translation>Reset Semua Komentar</translation>
     </message>
@@ -45895,7 +46604,8 @@ Changes</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Periksa Izin 
+Pengguna</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -45904,7 +46614,7 @@ Changes</source>
     <message>
         <source>Protect 
 Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Lindungi Lembar</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -45936,12 +46646,13 @@ Sel</translation>
     <message>
         <source>Protect
 Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Lindungi Buku Kerja</translation>
     </message>
     <message>
         <source>Delete 
 Comment</source>
-        <translation>Hapus Komentar</translation>
+        <translation>Hapus 
+Komentar</translation>
     </message>
     <message>
         <source>New 
@@ -45951,11 +46662,13 @@ Baru</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>Periksa Izin 
+Saya</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"/>
+        <translation>Cek 
+Ejaan</translation>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
@@ -45967,11 +46680,23 @@ Baru</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke 
+Cina Tradisional</translation>
     </message>
     <message>
         <source>Document Security</source>
+        <translation>Keamanan 
+Dokumen</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit
+Comment</source>
+        <translation>Edit
+Komentar</translation>
     </message>
 </context>
 <context>
@@ -45986,7 +46711,8 @@ Baru</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke 
+Cina Sederhana</translation>
     </message>
     <message>
         <source>Unprotect Sheet</source>
@@ -46085,7 +46811,8 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"/>
+        <translation>Cek 
+Ejaan</translation>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
@@ -46093,7 +46820,13 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke 
+Cina Tradisional</translation>
+    </message>
+    <message>
+        <source>Edit Comment</source>
+        <translation>Edit 
+Komentar</translation>
     </message>
 </context>
 <context>
@@ -46237,7 +46970,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>SingleAccounting</source>
-        <translation type="unfinished"/>
+        <translation>Akuntansi Tunggal</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
@@ -46261,7 +46994,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>DoubleAccounting</source>
-        <translation type="unfinished"/>
+        <translation>Akuntansi Ganda</translation>
     </message>
 </context>
 <context>
@@ -46407,7 +47140,7 @@ menemukan solusi.</translation>
     </message>
     <message>
         <source>PrintZoom</source>
-        <translation type="unfinished"/>
+        <translation>Zum Cetak</translation>
     </message>
     <message>
         <source>Scaling Ratio</source>
@@ -46415,7 +47148,7 @@ menemukan solusi.</translation>
     </message>
     <message>
         <source>Paper Copies</source>
-        <translation type="unfinished"/>
+        <translation>Salinan</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -46430,24 +47163,42 @@ menemukan solusi.</translation>
         <translation>Metode</translation>
     </message>
     <message>
+        <source>Page
+Setup</source>
+        <translation>Pengesetan
+Halaman</translation>
+    </message>
+    <message>
         <source>Portrait</source>
         <translation>Potret</translation>
     </message>
     <message>
         <source>PrintGridlines</source>
-        <translation type="unfinished"/>
+        <translation>Cetak Garis Kisi</translation>
     </message>
     <message>
         <source>Printer</source>
         <translation>Printer</translation>
     </message>
     <message>
+        <source>Normal
+View</source>
+        <translation>Tampilan
+Normal</translation>
+    </message>
+    <message>
         <source>PageSkip</source>
-        <translation type="unfinished"/>
+        <translation>Lompat Halaman</translation>
     </message>
     <message>
         <source>Collate</source>
         <translation>Kolase</translation>
+    </message>
+    <message>
+        <source>Page Break
+Preview</source>
+        <translation>Pratinjau Pemisah
+Halaman</translation>
     </message>
     <message>
         <source>Previous
@@ -46480,6 +47231,34 @@ Berikutnya</translation>
     </message>
     <message>
         <source>Print Entire Workbook Directly</source>
+        <translation>Cetak Seluruh Buku Kerja</translation>
+    </message>
+    <message>
+        <source>Fit All Columns on One Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fit Sheet on One Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Zoom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom Zoom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fit All Rows on One Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More Setup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Zoom</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -46547,7 +47326,8 @@ Berikutnya</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Header dan 
+Footer</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -46898,7 +47678,7 @@ judul</translation>
     </message>
     <message>
         <source>InsertPageBreak</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Pemutus Halaman</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -46911,6 +47691,12 @@ judul</translation>
     <message>
         <source>No Zoom</source>
         <translation>Tidak ada Zoom</translation>
+    </message>
+    <message>
+        <source>Print
+Area</source>
+        <translation>Area 
+Cetak</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -46943,7 +47729,7 @@ judul</translation>
     <message>
         <source>Bring 
 Forward</source>
-        <translation type="unfinished"/>
+        <translation>Letakkan ke Depan</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -46975,7 +47761,8 @@ Forward</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+Pilihan</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -46992,7 +47779,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Print Header Or Footer</source>
-        <translation type="unfinished"/>
+        <translation>Cetak header dan footer</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -47005,7 +47792,7 @@ Jeda Halaman</translation>
     <message>
         <source>Send 
 Backward</source>
-        <translation type="unfinished"/>
+        <translation>Kirim ke Belakang</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -47047,6 +47834,19 @@ Backward</source>
         <source>Align Top</source>
         <translation>Rata Atas</translation>
     </message>
+    <message>
+        <source>Breaks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom Zoom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Print
+Titles</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>AdvQueryDlgUi</name>
@@ -47064,7 +47864,7 @@ Backward</source>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan ke daftar (&amp;R)</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -47225,7 +48025,7 @@ Backward</source>
     </message>
     <message>
         <source>My data has &amp;header</source>
-        <translation type="unfinished"/>
+        <translation>Data saya memiliki &amp;header</translation>
     </message>
     <message>
         <source>&amp;Copy Level</source>
@@ -47272,11 +48072,11 @@ Backward</source>
     <message>
         <source> 'General' converts numeric values to Numbers, date values to dates,
  and other data to text.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;Umum&apos; akan mengonversi nilai numerik ke angka, nilai tanggal ke tanggal, dan semua nilai yang tersisa ke teks.</translation>
     </message>
     <message>
         <source>Ignore column(&amp;I)</source>
-        <translation type="unfinished"/>
+        <translation>Lewati kolom</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -47284,15 +48084,15 @@ Backward</source>
     </message>
     <message>
         <source>General(&amp;G)</source>
-        <translation type="unfinished"/>
+        <translation>Umum (&amp;U)</translation>
     </message>
     <message>
         <source>Data(&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>Tanggal (&amp;T)</translation>
     </message>
     <message>
         <source>Text(&amp;T)</source>
-        <translation type="unfinished"/>
+        <translation>Teks(&amp;T)</translation>
     </message>
     <message>
         <source>General</source>
@@ -47331,7 +48131,7 @@ Backward</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -47347,7 +48147,7 @@ Backward</source>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Gambar Online</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -47407,7 +48207,7 @@ Backward</source>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -47419,7 +48219,8 @@ Backward</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Header dan 
+Footer</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -47439,7 +48240,7 @@ Backward</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -47502,11 +48303,11 @@ Jeda Halaman</translation>
     <name>KxEtListobjectTableStyleCommand</name>
     <message>
         <source>dark</source>
-        <translation type="unfinished"/>
+        <translation>Gelap</translation>
     </message>
     <message>
         <source>light</source>
-        <translation type="unfinished"/>
+        <translation>Terang</translation>
     </message>
     <message>
         <source>tableStyle</source>
@@ -47518,7 +48319,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>medium</source>
-        <translation type="unfinished"/>
+        <translation>Sedang</translation>
     </message>
 </context>
 <context>
@@ -47606,7 +48407,9 @@ Jeda Halaman</translation>
         <source>&lt;p style=&quot;font-size:14 line-height: 1; margin-top: 8px;&quot;&gt;IncrementalBackup will record your steps on the file.
 &lt;p style=&quot;font-size:14 line-height: 1; margin-top: 2px;&quot;&gt;When reading a backup file, these steps are quickly replayed
 &lt;p style=&quot;font-size:14 line-height: 1; margin-top: 2px;&quot;&gt;on the original file for backup purposes.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p style = &quot;font-size: 14 line-height: 1; margin-top: 8px;&quot;&gt; Pertambahan cadangan akan merekam operasi pada file. Ketika sebuah
+&lt;p style = &quot;font-size: 14 line-height: 1; margin-top: 2px;&quot;&gt; cadangan dibaca, operasi ini akan langsung disinkronkan
+&lt;p style = &quot;font-size: 14 line-height: 1; margin-top: 2px;&quot;&gt; untuk memastikan cadangan tersebut konsisten dengan file sumber.</translation>
     </message>
 </context>
 <context>
@@ -47703,7 +48506,7 @@ Gaya Tabel</translation>
     </message>
     <message>
         <source>Non&amp;e(show negative values bars in same directions as positive)</source>
-        <translation type="unfinished"/>
+        <translation>Tidak satu pun (tampilkan bar nilai negatif dalam arah yang sama sebagai positif) (&amp;p)</translation>
     </message>
     <message>
         <source>&amp;Apply same border color as positive bar</source>
@@ -47711,7 +48514,7 @@ Gaya Tabel</translation>
     </message>
     <message>
         <source>A&amp;utomatic(display at variable position based on negative vcalues)</source>
-        <translation type="unfinished"/>
+        <translation>Otomatis (menampilkan di posisi variabel berdasarkan nilai negatif) (&amp;t)</translation>
     </message>
     <message>
         <source>Negative bar fill color</source>
@@ -47750,7 +48553,7 @@ Gaya Tabel</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"/>
+        <translation>Teks Vertikal WordArt</translation>
     </message>
     <message>
         <source>Center</source>
@@ -47778,7 +48581,7 @@ Gaya Tabel</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Perataan WordArt</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -47841,7 +48644,7 @@ Gaya Tabel</translation>
     </message>
     <message>
         <source>A Data Occurring</source>
-        <translation type="unfinished"/>
+        <translation>Tanggal Terjadi</translation>
     </message>
     <message>
         <source>% with</source>
@@ -47968,51 +48771,51 @@ Gaya Tabel</translation>
     <name>KxImportDataQueryOptionsDlgUI</name>
     <message>
         <source>无(&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada</translation>
     </message>
     <message>
         <source>Web 查询选项</source>
-        <translation type="unfinished"/>
+        <translation>Opsi kueri web</translation>
     </message>
     <message>
         <source>连续分隔符号视为单个处理(&amp;T)</source>
-        <translation type="unfinished"/>
+        <translation>Pemisah berurutan dianggap sebagai tunggal</translation>
     </message>
     <message>
         <source>完全HTML格式(&amp;F)</source>
-        <translation type="unfinished"/>
+        <translation>Format HTML lengkap</translation>
     </message>
     <message>
         <source>导入预格式化的块的设置</source>
-        <translation type="unfinished"/>
+        <translation>Impor pengaturan blok pra-format</translation>
     </message>
     <message>
         <source>仅RTF格式(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>Hanya format RTF</translation>
     </message>
     <message>
         <source>其他导入设置</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan impor lainnya</translation>
     </message>
     <message>
         <source>将&lt;PRE&gt;块导至列中(&amp;I)</source>
-        <translation type="unfinished"/>
+        <translation>Impor blok &lt;PRE&gt; ke dalam kolom</translation>
     </message>
     <message>
         <source>全部使用相同的导入设置(&amp;U)</source>
-        <translation type="unfinished"/>
+        <translation>Semua menggunakan pengaturan impor yang sama</translation>
     </message>
     <message>
         <source>禁用日期识别(&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>Nonaktifkan pengenal tanggal</translation>
     </message>
     <message>
         <source>格式</source>
-        <translation type="unfinished"/>
+        <translation>Format</translation>
     </message>
     <message>
         <source>禁用Web查询重定向(&amp;W)</source>
-        <translation type="unfinished"/>
+        <translation>Nonaktifkan pengarahan ulang kueri web</translation>
     </message>
 </context>
 <context>
@@ -48074,7 +48877,7 @@ Gaya Tabel</translation>
     </message>
     <message>
         <source>Excel2007 XML Template Macro Enabled(*.xltx)</source>
-        <translation type="unfinished"/>
+        <translation>Templat Excel (*.xltx)</translation>
     </message>
     <message>
         <source>.Range-based user permissions</source>
@@ -48133,7 +48936,7 @@ Gaya Tabel</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.xlsx;*.xls)</source>
-        <translation type="unfinished"/>
+        <translation>Format dokumen terenkripsi WPS(*.xlsx;*.xls)</translation>
     </message>
     <message>
         <source> · Macro
@@ -48267,7 +49070,7 @@ Untuk tetap menyimpan sebagai buku kerja-bebas makro, klik Ya.</translation>
     </message>
     <message>
         <source>Public Security Document Format(*.xls)</source>
-        <translation type="unfinished"/>
+        <translation>Format Dokumen Keamanan Publik (*.xls)</translation>
     </message>
     <message>
         <source>PRN(Fixed Width)(*.prn)</source>
@@ -48287,7 +49090,7 @@ Untuk tetap menyimpan sebagai buku kerja-bebas makro, klik Ya.</translation>
     </message>
     <message>
         <source>Normal Files</source>
-        <translation type="unfinished"/>
+        <translation>File Umum(File Word;File Excel;File PowerPoint;File PDF)</translation>
     </message>
     <message>
         <source>The following features of your workbook are not going to be saved in XML Spreadsheets:
@@ -48357,7 +49160,7 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>Excel2007 XML Template(*.xltm)</source>
-        <translation type="unfinished"/>
+        <translation>Templat Makro Aktif Excel (*.xltm)</translation>
     </message>
     <message>
         <source>The following features of your workbook are not going to be saved in HTML Spreadsheets:
@@ -48464,12 +49267,25 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
         <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <translation>File WPS Spreadsheets 2007/2010(*.etx)</translation>
     </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has detected that &apos;%1&apos; is a SYLK file, but cannot load it. Either the file has errors or it is not a SYLK file format. Click OK to try to open the file in a differenct format.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"/>
+        <translation>Memuat</translation>
     </message>
 </context>
 <context>
@@ -48540,7 +49356,7 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>Choose a set of a icons to represent the values in the selected cells.</source>
-        <translation type="unfinished"/>
+        <translation>Pilih satu set ikon untuk mewakili nilai dalam sel yang dipilih.</translation>
     </message>
     <message>
         <source>3 Flags</source>
@@ -48556,7 +49372,7 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>3 Arrow (Gray)</source>
-        <translation type="unfinished"/>
+        <translation>3 Tanda Panah (Abu-abu)</translation>
     </message>
     <message>
         <source>5 Boxes</source>
@@ -48647,7 +49463,8 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Tata Letak 
+Baca</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -48691,7 +49508,7 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Akses Masuk</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
@@ -48699,11 +49516,12 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="unfinished"/>
+        <translation>Bagi File</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor 
+ke PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -48715,7 +49533,7 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Simpan ke Cloud Docs</translation>
     </message>
     <message>
         <source>Personal Center</source>
@@ -48723,7 +49541,7 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"/>
+        <translation>Roaming File</translation>
     </message>
     <message>
         <source>Buy Subscription</source>
@@ -48731,7 +49549,7 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>My Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Langganan Saya</translation>
     </message>
     <message>
         <source>Sign Out</source>
@@ -48774,7 +49592,7 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>Other/Advanced(&amp;W)</source>
-        <translation type="unfinished"/>
+        <translation>Lainnya/Lanjutan(&amp;W)</translation>
     </message>
 </context>
 <context>
@@ -48789,7 +49607,7 @@ Catatan: beberapa file mungkin mengandung virus makro dan menjalankannya dapat m
     </message>
     <message>
         <source>&amp;MacroIn</source>
-        <translation type="unfinished"/>
+        <translation>Makro Dalam (&amp;a)</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
@@ -48949,6 +49767,10 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#0046eb;&quot;&gt;Komentar&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
+        <source>&amp;Help about this Function</source>
+        <translation>Bantuan tentang Fungsi ini (&amp;B)</translation>
+    </message>
+    <message>
         <source>Formula List:</source>
         <translation>Daftar Formula:</translation>
     </message>
@@ -48976,7 +49798,7 @@ p, li { white-space: pre-wrap; }
     <name>KxResizeTableDlg</name>
     <message>
         <source>Table Resize</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Ukuran Tabel</translation>
     </message>
     <message>
         <source>&amp;Select the new data range for your table:</source>
@@ -48986,7 +49808,9 @@ p, li { white-space: pre-wrap; }
         <source>Note: The headers must remain in the same row,
       and the resulting table tange must overlap 
       the original table range.</source>
-        <translation type="unfinished"/>
+        <translation>Catatan: Kepala harus tetap di baris yang sama, 
+      dan rentang tabel yang dihasilkan harus saling melengkapi 
+      rentang tabel asli.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -49363,7 +50187,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Chinese(Simple)</source>
-        <translation type="unfinished"/>
+        <translation>Bahasa Tionghoa(Mandarin)</translation>
     </message>
     <message>
         <source>Japanese Year</source>
@@ -49392,6 +50216,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</source>
         <translation>Format persentase akan mengalikan nilai sel dengan 100 dan menampilkan hasilnya dengan simbol persen.</translation>
+    </message>
+    <message>
+        <source>Chinese(HongKong)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -49443,7 +50275,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Display labels from the next field in the same column(compact form)</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan label dari ruas berikutnya di kolom yang sama (format ringkas) (&amp;m)</translation>
     </message>
     <message>
         <source>Print</source>
@@ -49471,7 +50303,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Display sub&amp;totals at top of each group</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan subtotal di bagian atas tiap grup (&amp;t)</translation>
     </message>
     <message>
         <source>Insert &amp;page break after each item</source>
@@ -49581,11 +50413,11 @@ p, li { white-space: pre-wrap; }
     <name>KxEtSplitSheetDlg</name>
     <message>
         <source>Split basis(&amp;B):</source>
-        <translation type="unfinished"/>
+        <translation>Basis &amp;pemisahan:</translation>
     </message>
     <message>
         <source>The selected file path is invalid and the current folder has no read permission!</source>
-        <translation type="unfinished"/>
+        <translation>Jalur file yang dipilih tidak valid dan Anda tidak memiliki izin baca di folder ini!</translation>
     </message>
     <message>
         <source>Start</source>
@@ -49593,7 +50425,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>different sheet(N)</source>
-        <translation type="unfinished"/>
+        <translation>Beberapa &amp;lembar baru</translation>
     </message>
     <message>
         <source>Split By Day</source>
@@ -49609,7 +50441,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>different book,save to path(P)</source>
-        <translation type="unfinished"/>
+        <translation>Beberapa file baru berbeda, simpan ke &amp;jalur</translation>
     </message>
     <message>
         <source>Preview: (Only show part of data)</source>
@@ -49617,7 +50449,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Split area(&amp;A):</source>
-        <translation type="unfinished"/>
+        <translation>Area &amp;pemisahan:</translation>
     </message>
     <message>
         <source>Please enter a valid path</source>
@@ -49625,7 +50457,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>To View</source>
-        <translation type="unfinished"/>
+        <translation>Lihat</translation>
     </message>
     <message>
         <source>Split Worksheet</source>
@@ -49633,7 +50465,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>save path</source>
-        <translation type="unfinished"/>
+        <translation>Simpan jalur</translation>
     </message>
     <message>
         <source>Split By Month</source>
@@ -49661,11 +50493,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>data contain title(&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Memiliki judul</translation>
     </message>
     <message>
         <source>sheetcatalogs(O)</source>
-        <translation type="unfinished"/>
+        <translation>Tel&amp;usuri</translation>
     </message>
 </context>
 <context>
@@ -49864,35 +50696,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Mark different rows of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Tandai baris unik dalam dua lembar kerja</translation>
     </message>
     <message>
         <source>Two Areas</source>
-        <translation type="unfinished"/>
+        <translation>Dua Rentang</translation>
     </message>
     <message>
         <source>Compare the two worksheets, find the entire row where the row data is not exactly the same, and extract it to a new workbook.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan dua lembar kerja, temukan baris unik, dan ekstrak ke buku kerja baru.</translation>
     </message>
     <message>
         <source>Mark the rows with the same data in the selected area.</source>
-        <translation type="unfinished"/>
+        <translation>Tandai baris duplikat dalam rentang yang dipilih.</translation>
     </message>
     <message>
         <source>Compare the two selected areas and mark the rows with the same row data.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan dua rentang yang dipilih dan tandai baris duplikat.</translation>
     </message>
     <message>
         <source>Confirm to Export</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi untuk Ekstrak</translation>
     </message>
     <message>
         <source>Mark the same row of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Tandai baris duplikat dalam dua lembar kerja</translation>
     </message>
     <message>
         <source>Within the Area</source>
-        <translation type="unfinished"/>
+        <translation>Di Dalam Rentang</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -49900,15 +50732,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Extract different data from two areas</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak data unik dari dua rentang</translation>
     </message>
     <message>
         <source>Extract different cells of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak sel unik dari dua lembar kerja</translation>
     </message>
     <message>
         <source>Two Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Dua Lembar Kerja</translation>
     </message>
     <message>
         <source>Mark duplicate data</source>
@@ -49920,7 +50752,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the row data of the selected area, delete the duplicate rows, and extract to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan baris dalam rentang yang dipilih, hapus baris duplikat, dan ekstrak ke baris deduplikasi ke lembar kerja baru.</translation>
     </message>
     <message>
         <source>Extract deduplicated data</source>
@@ -49928,7 +50760,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the two selected areas, find the rows where the row data is not the same, and extract them to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan dua rentang yang dipilih, temukan baris unik, dan ekstrak ke lembar kerja baru.</translation>
     </message>
     <message>
         <source>Mark duplicate rows in worksheet</source>
@@ -49936,39 +50768,39 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Mark unique data in two areas</source>
-        <translation type="unfinished"/>
+        <translation>Tandai data unik dalam dua rentang</translation>
     </message>
     <message>
         <source>Extract duplicate rows in a worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak baris duplikat dari lembar kerja</translation>
     </message>
     <message>
         <source>Compare the cells of the two worksheets one by one, and mark the cells with different values at the same position.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan sel dari dua lembar kerja, dan tandai sel dengan nilai yang berbeda di posisi yang sama.</translation>
     </message>
     <message>
         <source>With the Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Di Dalam Lembar Kerja</translation>
     </message>
     <message>
         <source>Compare the two worksheets, find the rows where the entire row of data is exactly the same, and extract them into the new workbook.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan dua lembar kerja, temukan baris duplikat, dan ekstrak ke buku kerja baru.</translation>
     </message>
     <message>
         <source>Extract the same rows of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak baris duplikat dari dua lembar kerja</translation>
     </message>
     <message>
         <source>Extract different rows of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak baris unik dari dua lembar kerja</translation>
     </message>
     <message>
         <source>Mark different cells of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Tandai sel unik dalam dua lembar kerja</translation>
     </message>
     <message>
         <source>Compare the row data in the worksheet and mark the entire row that is repeated.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan baris di lembar kerja dan tandai baris duplikat.</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -49976,31 +50808,31 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the row data of the selected area, find the duplicate rows, and extract them to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan baris dalam rentang yang dipilih, identifikasi baris duplikat, dan ekstrak ke lembar kerja baru.</translation>
     </message>
     <message>
         <source>Compare the rows in the selected area and mark the only row data in them.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan baris dalam rentang yang dipilih dan tandai baris unik.</translation>
     </message>
     <message>
         <source>Compare the two worksheets, marking the entire row where the row data is not exactly the same.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan dua lembar kerja dan tandai baris unik.</translation>
     </message>
     <message>
         <source>Mark the same data in two areas</source>
-        <translation type="unfinished"/>
+        <translation>Tandai data duplikat dalam dua rentang</translation>
     </message>
     <message>
         <source>Compare the two selected areas and mark the rows where the row data is not identical.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan dua rentang yang dipilih dan tandai baris unik.</translation>
     </message>
     <message>
         <source>Extract the same data from two areas</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak data duplikat dari dua rentang</translation>
     </message>
     <message>
         <source>Compare the two selected areas, find the rows with the same row data, and extract them to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan dua rentang yang dipilih, temukan baris duplikat, dan ekstrak ke lembar kerja baru.</translation>
     </message>
     <message>
         <source>Extract duplicate data</source>
@@ -50008,11 +50840,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the two worksheets, marking the entire row where the rows have exactly the same data.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan dua lembar kerja dan tandai baris duplikat.</translation>
     </message>
     <message>
         <source>Compare the cells of the two worksheets one by one, find the cells with the same position and different values, and extract them to the new workbook.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan sel dari dua lembar kerja, temukan sel dengan nilai berbeda di posisi yang sama, dan ekstrak ke buku kerja baru.</translation>
     </message>
     <message>
         <source>Confirm to Mark</source>
@@ -50020,7 +50852,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the row data in the worksheet, find the duplicate entire row, and extract it to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Bandingkan baris di lembar kerja, temukan baris duplikat, dan ekstrak ke lembar kerja baru.</translation>
     </message>
 </context>
 <context>
@@ -50107,7 +50939,7 @@ Nilai: </translation>
     </message>
     <message>
         <source>If the value in a PivotTable cell is affected by two or more calculated items, the value is determined by last formula in the solve order.</source>
-        <translation type="unfinished"/>
+        <translation>Jika nilai dalam sel PivotTable dipengaruhi dua atau lebih item terhitung, nilainya akan ditentukan formula terakhir dalam urutan penyelesaian.</translation>
     </message>
 </context>
 <context>
@@ -50139,6 +50971,10 @@ Nilai: </translation>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
         <translation>Angka harus antara %1 dan %2. Coba lagi dengan memasukkan angka dalam rentang ini.</translation>
+    </message>
+    <message>
+        <source>Duple&amp;x print</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50226,7 +51062,8 @@ Kontrol</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation type="unfinished"/>
+        <translation>Rekam 
+Makro</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -50242,7 +51079,8 @@ Kontrol</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translation type="unfinished"/>
+        <translation>Referensi 
+Relatif</translation>
     </message>
     <message>
         <source>Exit
@@ -50260,7 +51098,7 @@ Mode Desain</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"/>
+        <translation>Lihat Kode</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -50268,11 +51106,17 @@ Mode Desain</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode 
+Desain</translation>
     </message>
     <message>
         <source>Toggle Button</source>
         <translation>Tombol Alih</translation>
+    </message>
+    <message>
+        <source>Visual Basic
+Editor</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50319,7 +51163,8 @@ Mode Desain</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation type="unfinished"/>
+        <translation>Rekam 
+Makro</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -50339,7 +51184,8 @@ Mode Desain</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translation type="unfinished"/>
+        <translation>Referensi 
+Relatif</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -50355,7 +51201,7 @@ Mode Desain</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"/>
+        <translation>Lihat Kode</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -50367,7 +51213,7 @@ Mode Desain</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode Desain</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -50669,7 +51515,7 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"/>
+        <translation>Lihat Kode</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -50677,7 +51523,7 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode Desain</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -50799,7 +51645,7 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>LinkType</source>
-        <translation type="unfinished"/>
+        <translation>Tipe Link</translation>
     </message>
     <message>
         <source>Let users choose to display the &amp;alert or not</source>
@@ -50807,7 +51653,7 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>&amp;MannualUpdate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Manual</translation>
     </message>
     <message>
         <source>When this workbook is opened, WPS Spreadsheets will ask whether or not to update links to other workbooks.</source>
@@ -50864,6 +51710,10 @@ Dokumen ini</translation>
     <message>
         <source>Do not display the alert and update lin&amp;ks</source>
         <translation>Jangan tampilkan peringatan dan perbarui tautan (&amp;a)</translation>
+    </message>
+    <message>
+        <source>Update:</source>
+        <translation>Perbarui:</translation>
     </message>
     <message>
         <source>&amp;Startup Prompt...</source>
@@ -50984,7 +51834,7 @@ Dokumen ini</translation>
     <name>KxEtSplitBookDlg</name>
     <message>
         <source>The selected file path is invalid and the current folder has no read permission!</source>
-        <translation type="unfinished"/>
+        <translation>Jalur file yang dipilih tidak valid dan Anda tidak memiliki izin baca di folder ini!</translation>
     </message>
     <message>
         <source>Start</source>
@@ -51000,11 +51850,11 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>catalogs(O)</source>
-        <translation type="unfinished"/>
+        <translation>Tel&amp;usuri (U)</translation>
     </message>
     <message>
         <source>Containing a protective worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Memuatkan lembar kerja yang diproteksi</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -51012,7 +51862,7 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>The worksheet you selected contains types that do not support splitting (macro table, chart worksheet, or dialog table). Please re-select.</source>
-        <translation type="unfinished"/>
+        <translation>Lembar kerja yang Anda pilih berisi tipe (tabel makro, lembar kerja bagan, atau dialog table) yang tidak mendukung pemisahan. Pilih ulang.</translation>
     </message>
     <message>
         <source>Please enter a valid path</source>
@@ -51024,15 +51874,15 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>save path</source>
-        <translation type="unfinished"/>
+        <translation>Simpan jalur</translation>
     </message>
     <message>
         <source>Save to :</source>
-        <translation type="unfinished"/>
+        <translation>Simpan ke:</translation>
     </message>
     <message>
         <source>Contains hidden worksheets(H)</source>
-        <translation type="unfinished"/>
+        <translation>Berisi &amp;lembar kerja tersembunyi (l)</translation>
     </message>
     <message>
         <source>Export each worksheet into separate files</source>
@@ -51047,11 +51897,11 @@ Dokumen ini</translation>
     <name>KxMergeSheetSelectPathWidget</name>
     <message>
         <source>The selected file path is invalid and the current folder has no read permission!</source>
-        <translation type="unfinished"/>
+        <translation>Jalur file yang dipilih tidak valid dan Anda tidak memiliki izin baca di folder ini!</translation>
     </message>
     <message>
         <source>Recombine Result</source>
-        <translation type="unfinished"/>
+        <translation>Hasil Rekombinasi</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -51063,7 +51913,7 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>save path</source>
-        <translation type="unfinished"/>
+        <translation>Simpan jalur</translation>
     </message>
 </context>
 <context>
@@ -51078,7 +51928,7 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>Formulas &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Formula dan format angka</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -51114,11 +51964,11 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Ada Batas</translation>
     </message>
     <message>
         <source>Values &amp; Source Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Nilai dan Pemformatan Sumber</translation>
     </message>
     <message>
         <source>Keep Source Column Widths</source>
@@ -51130,7 +51980,7 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>Values &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Nilai dan Pemformatan Nomor</translation>
     </message>
 </context>
 <context>
@@ -51200,11 +52050,18 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation type="unfinished"/>
+        <translation>Data 
+Eksternal</translation>
     </message>
     <message>
         <source>Banded Rows</source>
         <translation>Baris Diblok</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation>Edit
+Kueri OLE DB</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -51305,19 +52162,19 @@ Semua</translation>
     </message>
     <message>
         <source>Flip on long edge</source>
-        <translation type="unfinished"/>
+        <translation>Pencetakan dupleks - Balik di bagian tepi panjang</translation>
     </message>
     <message>
         <source>Manual duplex</source>
-        <translation type="unfinished"/>
+        <translation>Pencetakan dupleks manual</translation>
     </message>
     <message>
         <source>Print one sided</source>
-        <translation type="unfinished"/>
+        <translation>Pencetakan satu sisi</translation>
     </message>
     <message>
         <source>Flip on short edge</source>
-        <translation type="unfinished"/>
+        <translation>Pencetakan dupleks - Balik di bagian tepi pendek</translation>
     </message>
 </context>
 <context>
@@ -51433,7 +52290,7 @@ Semua</translation>
     </message>
     <message>
         <source>add new style</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Sel Baru</translation>
     </message>
 </context>
 <context>
@@ -51524,15 +52381,15 @@ Semua</translation>
     </message>
     <message>
         <source>Theme Cell</source>
-        <translation type="unfinished"/>
+        <translation>Gaya Sel Bertema</translation>
     </message>
     <message>
         <source>Good bad And moderate</source>
-        <translation type="unfinished"/>
+        <translation>Baik, Buruk, dan Netral</translation>
     </message>
     <message>
         <source>User Define</source>
-        <translation type="unfinished"/>
+        <translation>Kustom</translation>
     </message>
     <message>
         <source>Data and Model</source>
@@ -51579,7 +52436,14 @@ Semua</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation type="unfinished"/>
+        <translation>Data 
+Eksternal</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation>Edit
+Kueri OLE DB</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -51623,11 +52487,11 @@ Semua</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>More Border Colors</source>
-        <translation type="unfinished"/>
+        <translation>Warna Lainnya</translation>
     </message>
 </context>
 <context>
@@ -51721,7 +52585,7 @@ Buku Kerja</translation>
     <name>KxMoveChartDlg</name>
     <message>
         <source>An error occurred during the operation of chart move, Please try again.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan selama operasi pemindahan bagan. Silakan coba lagi.</translation>
     </message>
     <message>
         <source>This Sheet exists and your chart is embedded in it. Specify a different sheet name.</source>
@@ -51729,7 +52593,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>The Sheet already exists.Do you want to place the chart embedded in hte existing sheet?</source>
-        <translation type="unfinished"/>
+        <translation>Lembar sudah ada. Tempatkan bagan yang ditanamkan di lembar yang ada?</translation>
     </message>
 </context>
 <context>
@@ -51766,7 +52630,7 @@ Buku Kerja</translation>
     <name>KxRemindRepeatWidget</name>
     <message>
         <source>Contrast (&amp;C):</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Mode Perbandingan:</translation>
     </message>
     <message>
         <source>Compare by row</source>
@@ -51774,15 +52638,15 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Show RepeatTimes (&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>Tunjukkan Hitungan &amp;Repetisi</translation>
     </message>
     <message>
         <source>Keep Only One(&amp;O)</source>
-        <translation type="unfinished"/>
+        <translation>Pertahankan &amp;Hanya Satu</translation>
     </message>
     <message>
         <source>Repeat Value (&amp;M):</source>
-        <translation type="unfinished"/>
+        <translation>Nilai Berulang (&amp;M):</translation>
     </message>
     <message>
         <source>Please select a column to compare by row!</source>
@@ -51790,15 +52654,15 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Export To:</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak Ke:</translation>
     </message>
     <message>
         <source>List area (&amp;L):</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Daftar Rentang:</translation>
     </message>
     <message>
         <source>Include Header (&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>Sertakan Judul (&amp;H)</translation>
     </message>
     <message>
         <source>Remove All(&amp;D)</source>
@@ -51810,7 +52674,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
-        <translation type="unfinished"/>
+        <translation>Tentukan warna (&amp;D):</translation>
     </message>
     <message>
         <source>New Worksheet</source>
@@ -51842,6 +52706,12 @@ Buku Kerja</translation>
         <source>Refresh All</source>
         <translation>Segarkan 
 Semua</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation>Edit
+Kueri OLE DB</translation>
     </message>
 </context>
 <context>
@@ -51954,7 +52824,7 @@ Semua</translation>
     </message>
     <message>
         <source>Other Cell Icons</source>
-        <translation type="unfinished"/>
+        <translation>Ikon Sel Tersedia</translation>
     </message>
 </context>
 <context>
@@ -51973,15 +52843,15 @@ Semua</translation>
     </message>
     <message>
         <source>Title Rows</source>
-        <translation type="unfinished"/>
+        <translation>Baris Judul</translation>
     </message>
     <message>
         <source>Start Recombine</source>
-        <translation type="unfinished"/>
+        <translation>Mulai Rekombinasi</translation>
     </message>
     <message>
         <source>Merge same-name sheets in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan lembar dengan nama yang sama dalam buku kerja</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -51993,7 +52863,7 @@ Semua</translation>
     </message>
     <message>
         <source>Recombine SameName Sheet Tips</source>
-        <translation type="unfinished"/>
+        <translation>Hasilkan beberapa buku kerja berdasarkan nama lembar kerja. Semua lembar kerja dengan nama yang sama disertakan dalam satu buku kerja.</translation>
     </message>
     <message>
         <source>Merge from row</source>
@@ -52001,15 +52871,15 @@ Semua</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"/>
+        <translation>Pilihan</translation>
     </message>
     <message>
         <source>Use original &amp;sheet names</source>
-        <translation type="unfinished"/>
+        <translation>Gunakan nama lembar yang asli(&amp;l)</translation>
     </message>
     <message>
         <source>The merging will keep all the original content, formulas and formats.</source>
-        <translation type="unfinished"/>
+        <translation>Ini akan menyimpan semua konten, rumus, dan format asli setelah penggabungan.</translation>
     </message>
     <message>
         <source>Please enter a valid path</source>
@@ -52021,7 +52891,7 @@ Semua</translation>
     </message>
     <message>
         <source>Recombine same-name worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan kembali Lembar Kerja Senama</translation>
     </message>
     <message>
         <source>Specify which workbooks/sheets to merge:</source>
@@ -52033,7 +52903,7 @@ Semua</translation>
     </message>
     <message>
         <source>(Note: keep only one header row)</source>
-        <translation type="unfinished"/>
+        <translation>(Catatan: pertahankan hanya satu baris header agar tidak terjadi penggabungan duplikat.)</translation>
     </message>
     <message>
         <source>Original fil&amp;e names + sheet names</source>
@@ -52110,11 +52980,11 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>ClearAll</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Semua</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan Tarik-turun</translation>
     </message>
     <message>
         <source>Select choices drop down from cells</source>
@@ -52148,7 +53018,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>You cannot create or modify a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat membuat atau mengubah PivotTable dengan data ini. Pastikan rentang referensi valid dan lembar kerja yang ditentukan ada.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -52222,7 +53092,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Pivot Table</source>
-        <translation type="unfinished"/>
+        <translation>Tabel Pivot</translation>
     </message>
     <message>
         <source>Pivot Chart</source>
@@ -52235,6 +53105,12 @@ sebelum membagikan buku kerja.</translation>
     <message>
         <source>Export to Book</source>
         <translation>Ekspor ke Buku</translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation>Ekspor Filter 
+Hasil</translation>
     </message>
     <message>
         <source>AutoFilter View</source>
@@ -52378,7 +53254,7 @@ sebelum membagikan buku kerja.</translation>
     <name>ongmani.ct_security</name>
     <message>
         <source>document authentication</source>
-        <translation type="unfinished"/>
+        <translation>Autentikasi dokumen</translation>
     </message>
     <message>
         <source>Permissions</source>
@@ -52398,7 +53274,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>document authorization</source>
-        <translation type="unfinished"/>
+        <translation>Otorisasi dokumen</translation>
     </message>
     <message>
         <source>File backup</source>
@@ -52414,11 +53290,12 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>document security</source>
-        <translation type="unfinished"/>
+        <translation>Keamanan dokumen</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Periksa Izin 
+Pengguna</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -52426,11 +53303,12 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Ke luar</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>Periksa Izin 
+Saya</translation>
     </message>
     <message>
         <source>Document Permission</source>
@@ -52438,18 +53316,18 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>document set</source>
-        <translation type="unfinished"/>
+        <translation>pengaturan dokumen</translation>
     </message>
     <message>
         <source>Make Forward Doc</source>
-        <translation type="unfinished"/>
+        <translation>Buat Dokumen Ke Luar</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_pivottabledesign</name>
     <message>
         <source>Enable Only Column Grand Totals</source>
-        <translation type="unfinished"/>
+        <translation>Nyala untuk Kolom Saja</translation>
     </message>
     <message>
         <source>Grand Totals</source>
@@ -52485,7 +53363,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Disable Row Column Grand Totals</source>
-        <translation type="unfinished"/>
+        <translation>Matikan untuk Baris dan Kolom</translation>
     </message>
     <message>
         <source>Show all Subtotals at Top of Group</source>
@@ -52505,15 +53383,27 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Enable Row Column Grand Totals</source>
-        <translation type="unfinished"/>
+        <translation>Nyala untuk Baris dan Kolom</translation>
     </message>
     <message>
         <source>Enable Only Row Grand Totals</source>
-        <translation type="unfinished"/>
+        <translation>Nyala untuk Baris Saja</translation>
     </message>
     <message>
         <source>Report Layout</source>
         <translation>Tata Letak Laporan</translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation>Jangan 
+Ulangi Label Item</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation>Ulangi Semua 
+Label Item</translation>
     </message>
 </context>
 <context>
@@ -52580,7 +53470,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi untuk memproteksi pengaturan izin (&amp;z)</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
@@ -52628,7 +53518,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"/>
+        <translation>Catatan: mengeset kata sandi merupakan satu-satunya cara untuk membuat pengaturan berikut efektif dan tidak dapat diubah orang lain.</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
@@ -52747,7 +53637,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"/>
+        <translation>Catatan: mengeset kata sandi merupakan satu-satunya cara untuk membuat pengaturan berikut efektif dan tidak dapat diubah orang lain.</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
@@ -52774,11 +53664,12 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Analisis 
+Bagaimana-Jika</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -52802,7 +53693,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Ucapan Teks</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -52810,7 +53701,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
@@ -52822,7 +53713,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation type="unfinished"/>
+        <translation>Wps Package Plugin</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -52831,6 +53722,10 @@ sebelum membagikan buku kerja.</translation>
     <message>
         <source>Selection Speech</source>
         <translation>Ucapan Pilihan</translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52913,11 +53808,11 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
-        <translation type="unfinished"/>
+        <translation>Jalur yang ditentukan tidak ada, masukkan jalur yang valid.</translation>
     </message>
     <message>
         <source>Check Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Periksa Izin Pengguna</translation>
     </message>
 </context>
 <context>
@@ -52964,6 +53859,45 @@ sebelum membagikan buku kerja.</translation>
         <source>Undefined</source>
         <translation>Tidak ditentukan</translation>
     </message>
+    <message>
+        <source>&amp;Help about this Function</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxEtChartTypeGalleryCommand</name>
+    <message>
+        <source>opening price, high price, low price, closing price. </source>
+        <translation>harga pembukaan, harga tinggi, harga rendah, harga penutupan. </translation>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation>Untuk membuat bagan saham ini, susun data di lembar Anda sesuai urutan ini: </translation>
+    </message>
+    <message>
+        <source>volume traded, high price, low price, closing price. </source>
+        <translation>volume yang diperdagangkan, harga tinggi, harga rendah, harga penutupan. </translation>
+    </message>
+    <message>
+        <source>To create a combination chart, select at least two series of data.</source>
+        <translation>Untuk membuat bagan kombinasi, pilih minimal dua rangkaian data.</translation>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation>Beberapa jenis bagan tidak dapat digabungkan dengan jenis bagan lainnya. Pilih jenis bagan lain.</translation>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
+        <translation> Gunakan tanggal atau nama saham sebagai label.</translation>
+    </message>
+    <message>
+        <source>volume traded, opening price, high price, low price, closing price. </source>
+        <translation>volume yang diperdagangkan, harga pembukaan, harga tinggi, harga rendah, harga penutupan. </translation>
+    </message>
+    <message>
+        <source>high price, low price, closing price. </source>
+        <translation>harga tinggi, harga rendah, harga penutupan. </translation>
+    </message>
 </context>
 <context>
     <name>KxReadingModeGuildDlg</name>
@@ -53000,7 +53934,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Pivot Table</source>
-        <translation type="unfinished"/>
+        <translation>Tabel Pivot</translation>
     </message>
     <message>
         <source>Pivot Chart</source>
@@ -53013,6 +53947,12 @@ sebelum membagikan buku kerja.</translation>
     <message>
         <source>Export to Book</source>
         <translation>Ekspor ke Buku</translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation>Ekspor Filter 
+Hasil</translation>
     </message>
     <message>
         <source>Filter Analysis</source>
@@ -53248,11 +54188,11 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Do you wish to delete the view &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Hapus tampilan &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>Custom Views</source>
-        <translation type="unfinished"/>
+        <translation>Pengelolaan tampilan</translation>
     </message>
 </context>
 <context>
@@ -53263,35 +54203,35 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Only Range 2 (&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>Nilai Unik dalam Rentang 2 (&amp;D)</translation>
     </message>
     <message>
         <source>Export To:</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak Ke:</translation>
     </message>
     <message>
         <source>Only Range 1 (&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>Nilai Unik dalam &amp;Rentang 1</translation>
     </message>
     <message>
         <source>Fatch Data:</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak Data:</translation>
     </message>
     <message>
         <source>Include Header (&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>Sertakan Judul (&amp;H)</translation>
     </message>
     <message>
         <source>Range 1 (&amp;L):</source>
-        <translation type="unfinished"/>
+        <translation>Rentang 1 (&amp;L):</translation>
     </message>
     <message>
         <source>Range 2 (&amp;S):</source>
-        <translation type="unfinished"/>
+        <translation>Rentang 2 (&amp;S):</translation>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
-        <translation type="unfinished"/>
+        <translation>Tentukan warna (&amp;D):</translation>
     </message>
     <message>
         <source>New Worksheet</source>
@@ -53361,7 +54301,7 @@ sebelum membagikan buku kerja.</translation>
     <name>KxPublishTableDlg</name>
     <message>
         <source>&amp;Creat a read-only connection to the new SharePoint list</source>
-        <translation type="unfinished"/>
+        <translation>Buat koneksi hanya baca ke daftar SharePoint baru (&amp;B)</translation>
     </message>
     <message>
         <source>Export Table to SharePoint List</source>
@@ -53480,7 +54420,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"/>
+        <translation>Mundur</translation>
     </message>
     <message>
         <source>New Sheet</source>
@@ -53503,7 +54443,7 @@ sebelum membagikan buku kerja.</translation>
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"/>
+        <translation>Mempersiapkan untuk ekspor file OFD...</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -53533,7 +54473,7 @@ sebelum membagikan buku kerja.</translation>
     <name>KxDlgSlicerReportConnection</name>
     <message>
         <source>Select PivotTable reports to connecct to this filter</source>
-        <translation type="unfinished"/>
+        <translation>Pilih laporan PivotTable untuk tersambung ke filter ini</translation>
     </message>
     <message>
         <source>Report Connections</source>
@@ -53575,7 +54515,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>User Name</source>
-        <translation type="unfinished"/>
+        <translation>Nama pengguna</translation>
     </message>
     <message>
         <source>&amp;Switch to WPS Spreadsheets Shared Workbook</source>
@@ -53629,7 +54569,7 @@ sebelum membagikan buku kerja.</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Tetes Mata</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -53648,15 +54588,15 @@ sebelum membagikan buku kerja.</translation>
     <name>KxBackupRoamingSettingTipWidget</name>
     <message>
         <source>open roaming file, edit document with WPS, login on other device</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan pencadangan Cloud, edit dokumen dengan WPS, Masuk</translation>
     </message>
     <message>
         <source>with current account, you can read/eidt the document from</source>
-        <translation type="unfinished"/>
+        <translation>dengan akun yang sekarang, Anda dapat mengedit dokumen dari</translation>
     </message>
     <message>
         <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
-        <translation type="unfinished"/>
+        <translation>daftar terkini atau WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -53793,7 +54733,7 @@ Ringkasan</translation>
     <name>classics.proxycommands</name>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Gambar Online</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -53824,7 +54764,7 @@ Ringkasan</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets data ditemukan di samping pilihan Anda. Karena Anda belum memilih data ini, data tidak akan dihapus.</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates...</source>
@@ -53879,7 +54819,7 @@ Ringkasan</translation>
     </message>
     <message>
         <source>source</source>
-        <translation type="unfinished"/>
+        <translation>Sumber</translation>
     </message>
     <message>
         <source>Sh&amp;ow items deleted from the data source</source>
@@ -53938,7 +54878,20 @@ visual untuk tabel</translation>
 
 Choose a visual
 style for the pivot table</source>
-        <translation type="unfinished"/>
+        <translation>Lainnya
+
+Pilih gaya 
+visual untuk PivotTable.</translation>
+    </message>
+    <message>
+        <source>More
+
+Choose a visual
+style for the slicer</source>
+        <translation>Lainnya
+
+Pilih gaya
+visual untuk pemotong</translation>
     </message>
 </context>
 <context>
@@ -53982,7 +54935,7 @@ Ingin ubah ke Manual?</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Pemberitahuan</translation>
     </message>
     <message>
         <source>Please choose the paste mode:</source>
@@ -53993,19 +54946,19 @@ Ingin ubah ke Manual?</translation>
     <name>KxEtListPicturesCommand</name>
     <message>
         <source>FloatPicture</source>
-        <translation type="unfinished"/>
+        <translation>Gambar Mengambang</translation>
     </message>
     <message>
         <source>Embed a picture in a cell and display it, depending on cell position and size.</source>
-        <translation type="unfinished"/>
+        <translation>Setelah gambar ditanamkan ke sel, ukuran dan posisinya berubah seiring dengan sel.</translation>
     </message>
     <message>
         <source>EmbededPicture</source>
-        <translation type="unfinished"/>
+        <translation>Tanamkan ke Sel</translation>
     </message>
     <message>
         <source>Embed Cell Picture</source>
-        <translation type="unfinished"/>
+        <translation>Tanamkan Gambar ke Sel</translation>
     </message>
 </context>
 <context>
@@ -54066,11 +55019,11 @@ Ingin ubah ke Manual?</translation>
     <name>KxEtAfColorSortModel</name>
     <message>
         <source>Sort By Cell Color</source>
-        <translation type="unfinished"/>
+        <translation>Urutkan menurut Warna Sel</translation>
     </message>
     <message>
         <source>More Cell Icon</source>
-        <translation type="unfinished"/>
+        <translation>Lebih Banyak Ikon Sel...</translation>
     </message>
     <message>
         <source>Sort By Cell Icon</source>
@@ -54078,7 +55031,7 @@ Ingin ubah ke Manual?</translation>
     </message>
     <message>
         <source>More Cell Color</source>
-        <translation type="unfinished"/>
+        <translation>Warna Sel Lainnya</translation>
     </message>
     <message>
         <source>No Cell Icon</source>
@@ -54086,7 +55039,7 @@ Ingin ubah ke Manual?</translation>
     </message>
     <message>
         <source>Sort By Font Color</source>
-        <translation type="unfinished"/>
+        <translation>Urutkan menurut Warna Font</translation>
     </message>
     <message>
         <source>No Cell Color</source>
@@ -54098,7 +55051,7 @@ Ingin ubah ke Manual?</translation>
     </message>
     <message>
         <source>More Font Color</source>
-        <translation type="unfinished"/>
+        <translation>Warna Font Lainnya</translation>
     </message>
 </context>
 <context>
@@ -54287,7 +55240,7 @@ Ingin ubah ke Manual?</translation>
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation type="unfinished"/>
+        <translation>Keluar Layar Penuh</translation>
     </message>
 </context>
 <context>
@@ -54469,7 +55422,7 @@ Ingin ubah ke Manual?</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi pembuka file dan kata sandi izin harus berbeda. Masukkan lagi.</translation>
     </message>
     <message>
         <source>Save OFD File</source>
@@ -54481,11 +55434,11 @@ Ingin ubah ke Manual?</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kata sandi pengaturan izin!</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
-        <translation type="unfinished"/>
+        <translation>Jalur yang ditentukan tidak ada. Masukkan jalur yang valid.</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd</source>
@@ -54693,7 +55646,7 @@ Klik OK, lalu pilih satu sel di kotak Ambil Nilai Dari Sel Berikut.</translation
     </message>
     <message>
         <source>&amp;Flash Fill</source>
-        <translation type="unfinished"/>
+        <translation>Isian Cepat(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Copy Cells</source>
@@ -54728,7 +55681,7 @@ Klik OK, lalu pilih satu sel di kotak Ambil Nilai Dari Sel Berikut.</translation
     <name>PreviewPageUi</name>
     <message>
         <source>Display only top 50(&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>Hanya tampilkan 50 teratas(&amp;H)</translation>
     </message>
     <message>
         <source>Import operation &amp;result:</source>
@@ -54766,38 +55719,38 @@ Klik OK, lalu pilih satu sel di kotak Ambil Nilai Dari Sel Berikut.</translation
     <name>KxMultiSheetRemindRepeatWidget</name>
     <message>
         <source>Please Select a Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Pilih dua lembar kerja untuk dibandingkan.</translation>
     </message>
     <message>
         <source>New WorkBook</source>
-        <translation type="unfinished"/>
+        <translation>Buku Kerja Baru</translation>
     </message>
 </context>
 <context>
     <name>KxSheetRemindRepeatWidget</name>
     <message>
         <source>Please Select a Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Pilih dua lembar kerja untuk dibandingkan.</translation>
     </message>
     <message>
         <source>File parsing failed</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengurai file.</translation>
     </message>
     <message>
         <source>Export To:</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak Ke:</translation>
     </message>
     <message>
         <source>Add File</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan file</translation>
     </message>
     <message>
         <source>Please specify sheets to be marked</source>
-        <translation type="unfinished"/>
+        <translation>Tentukan lembar kerja yang akan dibandingkan.</translation>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
-        <translation type="unfinished"/>
+        <translation>Tentukan warna (&amp;D):</translation>
     </message>
     <message>
         <source>New Worksheet</source>
@@ -54816,7 +55769,7 @@ Klik OK, lalu pilih satu sel di kotak Ambil Nilai Dari Sel Berikut.</translation
     </message>
     <message>
         <source>&amp;Data Range:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rentang Data</translation>
     </message>
     <message>
         <source>Choose where you want the sparklines to be placed</source>
@@ -54835,7 +55788,8 @@ Klik OK, lalu pilih satu sel di kotak Ambil Nilai Dari Sel Berikut.</translation
     </message>
     <message>
         <source>Relative References</source>
-        <translation type="unfinished"/>
+        <translation>Referensi 
+Relatif</translation>
     </message>
 </context>
 <context>
@@ -54931,7 +55885,8 @@ Klik OK, lalu pilih satu sel di kotak Ambil Nilai Dari Sel Berikut.</translation
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"/>
+        <translation>Add-In 
+COM</translation>
     </message>
 </context>
 <context>
@@ -55046,7 +56001,7 @@ Perluas sel di bawah pilihan dan kelompokkan penggabungan sel yang sama?</transl
     </message>
     <message>
         <source>&amp;Data Range:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rentang Data</translation>
     </message>
 </context>
 <context>
@@ -55275,7 +56230,7 @@ Perluas sel di bawah pilihan dan kelompokkan penggabungan sel yang sama?</transl
     </message>
     <message>
         <source>column </source>
-        <translation type="unfinished"/>
+        <translation>Kolom </translation>
     </message>
     <message>
         <source>(%1) %2</source>
@@ -55357,7 +56312,7 @@ Perluas sel di bawah pilihan dan kelompokkan penggabungan sel yang sama?</transl
     <name>KxDlgFormatFormControlText</name>
     <message>
         <source>Format Form Control Text</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol Format</translation>
     </message>
 </context>
 <context>
@@ -55430,7 +56385,9 @@ Perluas sel di bawah pilihan dan kelompokkan penggabungan sel yang sama?</transl
         <source>The formula you typed contains an error.
 To get assistance in entering a function, click Function Wizard
 If you are not trying to enter a formula, avoid using an equal sign(=) or minus sign(-),or precede it with a single quotation mark(&apos;)&apos;).</source>
-        <translation type="unfinished"/>
+        <translation>Formula yang Anda ketikkan berisi kesalahan.
+Untuk mendapatkan bantuan dalam memasukkan fungsi, klik Wizard Fungsi
+Jika Anda tidak mencoba memasukkan formula, jangan gunakan tanda sama dengan (=) atau tanda minus (-), atau mengawalinya dengan tanda kutip tunggal (&apos;).</translation>
     </message>
     <message>
         <source>The reference you typed is not valid, or you did not provide a reference where one was required
@@ -55496,10 +56453,77 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     </message>
 </context>
 <context>
+    <name>ongmani.ct_equationtools</name>
+    <message>
+        <source>Accent</source>
+        <translation>Aksen</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>Linier</translation>
+    </message>
+    <message>
+        <source>Limit and Log</source>
+        <translation>Limit dan Log</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation>Skrip</translation>
+    </message>
+    <message>
+        <source>Integral</source>
+        <translation>Integral</translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <translation>Matriks</translation>
+    </message>
+       <message>
+        <source>Operator</source>
+        <translation>Operator</translation>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translation>Pecahan</translation>
+    </message>
+    <message>
+        <source>Radical</source>
+        <translation>Radikal</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>Persamaan</translation>
+    </message>
+    <message>
+        <source>Bracket</source>
+        <translation>Kurung</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation>Simbol</translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation>Fungsi</translation>
+    </message>
+    <message>
+        <source>Large Operator</source>
+        <translation>Operator Besar</translation>
+    </message>
+    <message>
+        <source>Equation Options</source>
+        <translation>Opsi Persamaan</translation>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation>Profesional</translation>
+    </message>
+</context>
+<context>
     <name>KxMergeRangDataTitle</name>
     <message>
         <source>Merge Rang Data Title Text</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan Tabel dengan Isi yang Sama</translation>
     </message>
     <message>
         <source>Merge Sheet</source>
@@ -55564,11 +56588,11 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     </message>
     <message>
         <source>Merge Rang Data By Selected</source>
-        <translation type="unfinished"/>
+        <translation>Deduplikat isi di dua rentang, lalu gabungkan isi ke dalam rentang 1.</translation>
     </message>
     <message>
         <source>Include Header (H)</source>
-        <translation type="unfinished"/>
+        <translation>Sertakan Judul</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -55576,15 +56600,15 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     </message>
     <message>
         <source>Range 1 (&amp;L):</source>
-        <translation type="unfinished"/>
+        <translation>Rentang 1 (&amp;L):</translation>
     </message>
     <message>
         <source>Export: New WorkSheet</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor Ke: Lembar Kerja Baru</translation>
     </message>
     <message>
         <source>Range 2 (&amp;S):</source>
-        <translation type="unfinished"/>
+        <translation>Rentang 2 (&amp;S):</translation>
     </message>
 </context>
 <context>
@@ -55618,7 +56642,7 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     </message>
     <message>
         <source>Consolidation references is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Referensi konsolidasi tidak valid.</translation>
     </message>
     <message>
         <source>Cannot add duplicate source reference.</source>
@@ -55645,7 +56669,7 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     </message>
     <message>
         <source>The model is Loading...</source>
-        <translation type="unfinished"/>
+        <translation>Model sedang dimuatkan...</translation>
     </message>
 </context>
 <context>
@@ -55687,7 +56711,7 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     </message>
     <message>
         <source>moreColor</source>
-        <translation type="unfinished"/>
+        <translation>Warna Lainnya... (&amp;a)</translation>
     </message>
     <message>
         <source>Cell shading</source>
@@ -55699,7 +56723,7 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     </message>
     <message>
         <source>gradientFill</source>
-        <translation type="unfinished"/>
+        <translation>Efek Isian... (&amp;s)</translation>
     </message>
 </context>
 <context>
@@ -55752,7 +56776,7 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     <name>KOptionColorShowWidget</name>
     <message>
         <source>Choose the font color as a sort on:</source>
-        <translation type="unfinished"/>
+        <translation>Pilih warna font untuk disortir berdasarkan:</translation>
     </message>
     <message>
         <source>No Fill</source>
@@ -55764,11 +56788,11 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     </message>
     <message>
         <source>Choose the cell color as a sort on:</source>
-        <translation type="unfinished"/>
+        <translation>Pilih warna sel untuk disortir berdasarkan:</translation>
     </message>
     <message>
         <source>Choose the cell icon as a sort on:</source>
-        <translation type="unfinished"/>
+        <translation>Pilih ikon sel untuk disortir berdasarkan:</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -55852,11 +56876,11 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     <name>changeLinkDlg</name>
     <message>
         <source>ChangeLink</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Tautan</translation>
     </message>
     <message>
         <source>ChangeLink into:</source>
-        <translation type="unfinished"/>
+        <translation>Ubah tautan ke</translation>
     </message>
 </context>
 <context>
@@ -55901,11 +56925,12 @@ Untuk Mengubah sel atau bagan yang diproteksi, lepas dulu proteksinya dengan per
     <message>
         <source>The split position of frozen panes is outside of the visible area, which disable the scrolling.
 Please unfreeze pane.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat menggulir karena posisi bekuan di luar area tampak.
+Cairkan dahulu untuk menggulir dengan normal.</translation>
     </message>
     <message>
         <source>UnFreezePanes</source>
-        <translation type="unfinished"/>
+        <translation>Cairkan</translation>
     </message>
 </context>
 <context>
@@ -55952,7 +56977,7 @@ Please unfreeze pane.</source>
     <name>KxDefineNameDlg</name>
     <message>
         <source>An error occurred when deleted.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan saat menghapus.</translation>
     </message>
     <message>
         <source>The name is empty.</source>
@@ -55975,42 +57000,11 @@ Please unfreeze pane.</source>
     <name>KxMergeRangeDataIntroduceWidget</name>
     <message>
         <source>Merge Rang Data By Selected</source>
-        <translation type="unfinished"/>
+        <translation>Deduplikat isi di dua rentang, lalu gabungkan isi ke dalam rentang 1.</translation>
     </message>
     <message>
         <source>Introduce</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_equationtools</name>
-    <message>
-        <source>Linear</source>
-        <translation>Linier</translation>
-    </message>
-    <message>
-        <source>Matrix</source>
-        <translation>Matriks</translation>
-    </message>
-    <message>
-        <source>Fraction</source>
-        <translation>Pecahan</translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation>Persamaan</translation>
-    </message>
-    <message>
-        <source>Symbols</source>
-        <translation>Simbol</translation>
-    </message>
-    <message>
-        <source>Function</source>
-        <translation>Fungsi</translation>
-    </message>
-    <message>
-        <source>Professional</source>
-        <translation>Profesional</translation>
     </message>
 </context>
 <context>
@@ -56065,11 +57059,11 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Collate</source>
-        <translation type="unfinished"/>
+        <translation>Susun pencetakan</translation>
     </message>
     <message>
         <source>Uncollate</source>
-        <translation type="unfinished"/>
+        <translation>Cetak halaman demi halaman</translation>
     </message>
 </context>
 <context>
@@ -56083,7 +57077,7 @@ Please unfreeze pane.</source>
     <name>KMergeSheetTreeView</name>
     <message>
         <source>Unselect same-name sheets</source>
-        <translation type="unfinished"/>
+        <translation>Batal pilih lembar dengan nama yang sama</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -56103,7 +57097,7 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Select same-name sheets</source>
-        <translation type="unfinished"/>
+        <translation>Pilih lembar dengan nama yang sama</translation>
     </message>
 </context>
 <context>
@@ -56247,7 +57241,7 @@ Please unfreeze pane.</source>
     <name>KxAddCustomViewDlg</name>
     <message>
         <source>View &apos;%1&apos; already exists. Do you wish to delete it and continue?</source>
-        <translation type="unfinished"/>
+        <translation>Tampilan &apos;%1&apos; sudah ada. Hapus dan lanjutkan?</translation>
     </message>
     <message>
         <source>Add View</source>
@@ -56466,7 +57460,7 @@ Untuk membuat perubahan, klik Buang Proteksi Lembar di tab Tinjau (Anda mungkin 
     </message>
     <message>
         <source>other user</source>
-        <translation type="unfinished"/>
+        <translation>Pengguna Lain</translation>
     </message>
 </context>
 <context>
@@ -56487,21 +57481,21 @@ Untuk membuat perubahan, klik Buang Proteksi Lembar di tab Tinjau (Anda mungkin 
     <name>KxTableStyleSetDefaultTriggerCommand</name>
     <message>
         <source>Set As Default</source>
-        <translation type="unfinished"/>
+        <translation>Set sebagai Default</translation>
     </message>
 </context>
 <context>
     <name>KxStyleMergeLegacyTriggerCommand</name>
     <message>
         <source>Merge Style</source>
-        <translation type="unfinished"/>
+        <translation>Gabung Gaya</translation>
     </message>
 </context>
 <context>
     <name>KxDuplicateIntroduceWidget</name>
     <message>
         <source>Function Introduce</source>
-        <translation type="unfinished"/>
+        <translation>Pengenalan Fitur</translation>
     </message>
 </context>
 <context>
@@ -56582,11 +57576,11 @@ Untuk membuat perubahan, klik Buang Proteksi Lembar di tab Tinjau (Anda mungkin 
     <name>KxEtFilterColumDlg</name>
     <message>
         <source>search</source>
-        <translation type="unfinished"/>
+        <translation>Cari</translation>
     </message>
     <message>
         <source>input columns to show:</source>
-        <translation type="unfinished"/>
+        <translation>Tentukan kolom yang akan ditampilkan:</translation>
     </message>
     <message>
         <source>&amp;ShowAll</source>
@@ -56704,7 +57698,7 @@ COM</translation>
     <name>KxTpETFieldListWidget</name>
     <message>
         <source>A field in the source data contains more unique items 			than a PivotTable can use, and WPS Table can not create a PivotTable.</source>
-        <translation type="unfinished"/>
+        <translation>Ruas dalam sumber data berisi lebih banyak item unik daripada yang dapat 			digunakan oleh PivotTable, dan Spreadsheets WPS tidak dapat membuat PivotTable.</translation>
     </message>
 </context>
 <context>
@@ -56736,7 +57730,7 @@ Perhatikan bahwa tautan data dapat digunakan untuk mengakses dan membagikan info
     </message>
     <message>
         <source>SpreadSheets</source>
-        <translation type="unfinished"/>
+        <translation>Spreadsheet</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Update</source>
@@ -56828,7 +57822,7 @@ Perhatikan bahwa tautan data dapat digunakan untuk mengakses dan membagikan info
     <name>KxDlgCustomHeaderFooter</name>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Header/Footer</translation>
     </message>
 </context>
 <context>
@@ -56875,7 +57869,12 @@ Perhatikan bahwa tautan data dapat digunakan untuk mengakses dan membagikan info
 • To get assistance with using a function, click insert Function on the Formulas tab (in the Function Library group).
 • If you include a reference to another sheet or workbook,verify that the reference is correct.
 • If you&apos;re not trying to enter a formula, don&apos;t use an equal sign (=) or minus sign (-), or precede it with a single quotation mark (&apos;).</source>
-        <translation type="unfinished"/>
+        <translation>Formula yang Anda ketikkan berisi kesalahan. Coba salah satu dari berikut: 
+
+• Pastikan Anda menyertakan semua tanda kurung dan argumen yang diperlukan.
+• Untuk mendapatkan bantuan penggunaan fungsi, klik Sisipkan Fungsi pada tab Formula (dalam grup Pustaka Fungsi).
+• Jika Anda menyertakan referensi ke lembar atau buku kerja lain, pastikan referensi tersebut benar.
+• Jika Anda tidak mencoba memasukkan formula, jangan gunakan tanda sama dengan (=) atau tanda minus (-), atau mengawalinya dengan tanda kutip tunggal ( &apos; ).</translation>
     </message>
     <message>
         <source>The reference is not valid. Reference for titles, values, sizes, or data labels must be a single cell, row, or column.</source>
@@ -56893,7 +57892,7 @@ Perhatikan bahwa tautan data dapat digunakan untuk mengakses dan membagikan info
     <name>KxConvertToRangeDlg</name>
     <message>
         <source>This will permanently remove the query definition from the select sheet and convert the table to a normal range.Continue?</source>
-        <translation type="unfinished"/>
+        <translation>Tindakan ini akan menghapus definisi kueri dari lembar secara permanen dan mengonversi tabel ke rentang normal. Lanjutkan?</translation>
     </message>
     <message>
         <source>Do you want to convert the table to a normal range?</source>
@@ -56901,7 +57900,7 @@ Perhatikan bahwa tautan data dapat digunakan untuk mengakses dan membagikan info
     </message>
     <message>
         <source>SpreadSheets</source>
-        <translation type="unfinished"/>
+        <translation>Spreadsheet</translation>
     </message>
 </context>
 <context>
@@ -57126,7 +58125,7 @@ Komentar</translation>
     <name>KxProtectionWidget</name>
     <message>
         <source>Locking cells or hiding formulas has no effect until you protect the worksheet(Review tab, Protect Sheet button.)</source>
-        <translation type="unfinished"/>
+        <translation>Mengunci sel atau menyembunyikan formula tidak akan memberi dampak sampai Anda memproteksi lembar kerja (tab Tinjauan, tombol Proteksi Lembar).</translation>
     </message>
 </context>
 <context>
@@ -57222,7 +58221,7 @@ Komentar</translation>
     <name>feedback::KxFeedbackLabel</name>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Masukan</translation>
     </message>
 </context>
 <context>
@@ -57350,6 +58349,464 @@ Komentar</translation>
     <message>
         <source>Alignment</source>
         <translation>Perataan</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryModel</name>
+    <message>
+        <source>Pie</source>
+        <translation>Pie</translation>
+    </message>
+    <message>
+        <source>Area</source>
+        <translation>Area</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>Baris</translation>
+    </message>
+    <message>
+        <source>Stacked Area - Clustered Column</source>
+        <translation>Area Bertumpuk - Kolom Bergugus</translation>
+    </message>
+    <message>
+        <source>Combo</source>
+        <translation>Kombo</translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <translation>Radar</translation>
+    </message>
+    <message>
+        <source>Stock</source>
+        <translation>Saham</translation>
+    </message>
+    <message>
+        <source>2-D Area</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open-High-Low-Close</source>
+        <translation>Pembukaan-Tinggi-Rendah-Penutupan</translation>
+    </message>
+    <message>
+        <source>Stacked Bar</source>
+        <translation>Bar Bertumpuk</translation>
+    </message>
+    <message>
+        <source>Radar with Markers</source>
+        <translation>Radar dengan Penanda</translation>
+    </message>
+    <message>
+        <source>Filled Radar</source>
+        <translation>Radar Terisi</translation>
+    </message>
+    <message>
+        <source>Clustered Bar</source>
+        <translation>Bar Bergugus</translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines</source>
+        <translation>Sebar dengan Baris Halus</translation>
+    </message>
+    <message>
+        <source>Clustered Column - Line on Secondary Axis</source>
+        <translation>Kolom Bergugus - Garis pada Sumbu Kedua</translation>
+    </message>
+    <message>
+        <source>X Y (Scatter)</source>
+        <translation>X Y (Sebar)</translation>
+    </message>
+    <message>
+        <source>Line with Markers</source>
+        <translation>Garis dengan Penanda</translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines and Markers</source>
+        <translation>Sebar dengan Baris Halus dan Penanda</translation>
+    </message>
+    <message>
+        <source>3-D Bubble</source>
+        <translation>Gelembung 3D</translation>
+    </message>
+    <message>
+        <source>Bubble</source>
+        <translation>Gelembung</translation>
+    </message>
+    <message>
+        <source>2-D Column</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Pie</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bar Of Pie</source>
+        <translation>Batang dari Pai</translation>
+    </message>
+    <message>
+        <source>Pie Of Pie</source>
+        <translation>Pai dari Pai</translation>
+    </message>
+    <message>
+        <source>Volume-High-Low-Close</source>
+        <translation>Volume-Tinggi-Rendah-Penutupan</translation>
+    </message>
+    <message>
+        <source>Doughnut</source>
+        <translation>Donat</translation>
+    </message>
+    <message>
+        <source>100% Stacked Bar</source>
+        <translation>Bar Bertumpuk 100%</translation>
+    </message>
+    <message>
+        <source>Volume-Open-High-Low-Close</source>
+        <translation>Volume-Pembukaan-Tinggi-Rendah-Penutupan</translation>
+    </message>
+    <message>
+        <source>High-Low-Close</source>
+        <translation>Tinggi-Rendah-Penutupan</translation>
+    </message>
+    <message>
+        <source>Stacked Line with Markers</source>
+        <translation>Garis Bertumpuk dengan Penanda</translation>
+    </message>
+    <message>
+        <source>Scatter</source>
+        <translation>Sebar</translation>
+    </message>
+    <message>
+        <source>Clustered Column Line</source>
+        <translation>Garis Kolom Bergugus</translation>
+    </message>
+    <message>
+        <source>100% Stacked Column</source>
+        <translation>Kolom Bertumpuk 100%</translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines</source>
+        <translation>Sebar dengan Baris Lurus</translation>
+    </message>
+    <message>
+        <source>100% Stacked Line with Markers</source>
+        <translation>Garis Bertumpuk 100% dengan Penanda</translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines and Markers</source>
+        <translation>Sebar dengan Baris Lurus dan Penanda</translation>
+    </message>
+    <message>
+        <source>Clustered Column</source>
+        <translation>Kolom Bergugus</translation>
+    </message>
+    <message>
+        <source>Stacked Area</source>
+        <translation>Area Bertumpuk</translation>
+    </message>
+    <message>
+        <source>Stacked Line</source>
+        <translation>Garis Bertumpuk</translation>
+    </message>
+    <message>
+        <source>100% Stacked Area</source>
+        <translation>Area Bertumpuk 100%</translation>
+    </message>
+    <message>
+        <source>100% Stacked Line</source>
+        <translation>Garis Bertumpuk 100%</translation>
+    </message>
+    <message>
+        <source>Stacked Column</source>
+        <translation>Kolom Bertumpuk</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeItem</name>
+    <message>
+        <source>Use this chart type to:
+• Show values relative to a center point.
+
+Use it when:
+• Categories are not directly comparable.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the relationship of parts to a whole over time or categories.
+• Highlight the magnitude of change over time.
+• Draw attention to the total value across a trend.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of values: Volume, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The order of categories is not important.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show how parts of a whole change over time.
+
+Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentages that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• Category order is important.
+• To highlight the magnitude of change over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of price values: Open, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it when:
+• Numbers equal 100%.
+• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• The range of values in the chart varies widely.
+• You have mixed types of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• The data represents separate measurements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least three sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• You have a third value that can be used to determine the relative size of the bubble.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole across categories.
+• Show how parts of a whole change over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• You have mixed types of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentage that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are few data points.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Show the change to the percentage that each value contributes over time.
+
+Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are many data points.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have three series of price values: High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The chart shows duration.
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole.
+• Show how parts of a whole change over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have five series of values: Volume, Open, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryCommand</name>
+    <message>
+        <source>opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>volume traded, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To create a combination chart, select at least two series of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>volume traded, opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>high price, low price, closing price. </source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
