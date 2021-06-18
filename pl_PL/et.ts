@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>StrikeThrough</source>
-        <translation type="unfinished"/>
+        <translation>Przekreślenie</translation>
     </message>
     <message>
         <source>First Column</source>
@@ -195,7 +195,7 @@
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>No Shading</source>
@@ -743,7 +743,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Find content that includes any of the keywords</source>
-        <translation type="unfinished"/>
+        <translation>Wyszukaj zawartość zawierającą jedno ze słów kluczowych</translation>
     </message>
     <message>
         <source>Find content that includes the conditions</source>
@@ -751,15 +751,15 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Find content that matches the conditions</source>
-        <translation type="unfinished"/>
+        <translation>Wyszukaj zawartość zgodną z warunkami</translation>
     </message>
     <message>
         <source>Find content that includes the wildcards</source>
-        <translation type="unfinished"/>
+        <translation>Wyszukaj zawartość zawierającą ciągi</translation>
     </message>
     <message>
         <source>Find content that includes the whole string</source>
-        <translation type="unfinished"/>
+        <translation>Wyszukaj zawartość zawierającą cały ciąg</translation>
     </message>
 </context>
 <context>
@@ -902,7 +902,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Doub&amp;le click tab to Close Documemt</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;liknij dwukrotnie kartę, aby zamknąć dokument</translation>
     </message>
     <message>
         <source>Print</source>
@@ -986,7 +986,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Enable Smooth Scroll (&amp;M)</source>
-        <translation type="unfinished"/>
+        <translation>Włącz pł&amp;ynne przewijanie</translation>
     </message>
     <message>
         <source>Fi&amp;xed decimal</source>
@@ -1030,7 +1030,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Keep cache for 90 &amp;days</source>
-        <translation type="unfinished"/>
+        <translation>Przechowuj przez 90 &amp;dni</translation>
     </message>
     <message>
         <source>Provide a list of content cancelled by the &amp;ESC</source>
@@ -1098,7 +1098,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Kee&amp;p cache for 30 days</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Przechowuj przez 30 dni</translation>
     </message>
     <message>
         <source>Open roaming file</source>
@@ -1114,7 +1114,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Select an earlier version of the spreadsheet can color</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz wcześniejszą wersję koloru arkusza kalkulacyjnego</translation>
     </message>
     <message>
         <source>Printing options</source>
@@ -1234,7 +1234,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Support different levels of password protection,click &apos;advance&apos; to choose different encryption types.</source>
-        <translation type="unfinished"/>
+        <translation>Obsługuje różne poziomy ochrony hasłem. Kliknij opcję Zaawansowane, aby wybrać typ szyfrowania.</translation>
     </message>
     <message>
         <source>don&apos;t check expand cells below</source>
@@ -1254,7 +1254,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż &amp;minipasek narzędzi przy zaznaczaniu</translation>
     </message>
     <message>
         <source>Sheet ta&amp;bs</source>
@@ -1282,7 +1282,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Need Login</source>
-        <translation type="unfinished"/>
+        <translation>Należy się zalogować</translation>
     </message>
     <message>
         <source>&amp;Multidiagonal Cell</source>
@@ -1398,7 +1398,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Backup files cache:</source>
-        <translation type="unfinished"/>
+        <translation>Okres przechowywania:</translation>
     </message>
     <message>
         <source>Language</source>
@@ -1462,11 +1462,11 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Number stored as text(&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>Liczba przechowywana jako &amp;tekst</translation>
     </message>
     <message>
         <source>Find content that includes any of the keywords</source>
-        <translation type="unfinished"/>
+        <translation>Wyszukaj zawartość zawierającą jedno ze słów kluczowych</translation>
     </message>
     <message>
         <source>Cells containing &amp;years represented as 2 digits</source>
@@ -1542,7 +1542,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Enable Live Preview (&amp;P)</source>
-        <translation type="unfinished"/>
+        <translation>Włącz podgląd (&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Formula bar</source>
@@ -1598,7 +1598,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Find content that includes the conditions</source>
-        <translation type="unfinished"/>
+        <translation>Wyszukaj zawartość zawierającą warunki</translation>
     </message>
     <message>
         <source>&amp;Manual</source>
@@ -1626,7 +1626,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>&amp;Auto-recommend setting</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie zalecana metoda wyszukiwania (&amp;A)</translation>
     </message>
     <message>
         <source>Security</source>
@@ -1654,7 +1654,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>NewFeatures</source>
-        <translation type="unfinished"/>
+        <translation>Nowe funkcje</translation>
     </message>
     <message>
         <source>When there are wildcards in conditions:</source>
@@ -1722,7 +1722,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Find content that matches the conditions</source>
-        <translation type="unfinished"/>
+        <translation>Wyszukaj zawartość zgodną z warunkami</translation>
     </message>
     <message>
         <source>When there are datas matching the rules</source>
@@ -1826,11 +1826,11 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Default HomePage(&amp;Y):</source>
-        <translation type="unfinished"/>
+        <translation>Dom&amp;yślna strona główna:</translation>
     </message>
     <message>
         <source>Find content that includes the whole string</source>
-        <translation type="unfinished"/>
+        <translation>Wyszukaj zawartość zawierającą cały ciąg</translation>
     </message>
     <message>
         <source>&amp;Row and column h&amp;eadings</source>
@@ -1894,7 +1894,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Uwaga</translation>
     </message>
     <message>
         <source>My CloudDocument</source>
@@ -1908,6 +1908,63 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
         <source>File encryption options for this workbook</source>
         <translation>Opcje szyfrowania plików tego dokumentu</translation>
     </message>
+    <message>
+        <source>&amp;minutes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation type="unfinished"/>
+    </message>				
+    <message>
+        <source>Keep files cache</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Image Size and Quality</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default insert images of &amp;original size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Never show dialog when open html file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open directly by default:Content style is complete, but opening may fail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open in simple mode:Can open to view the content, but the opening speed is slow, elements such as styles may be lost</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>days (Range 7-120)</source>
+        <translation type="unfinished"/>
+	</message>	
+    <message>
+        <source>Keep cache for</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear local backup cache</source>
+        <translation type="unfinished"/>
+    </message>
+	<message>
+		<source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
+		<translation type="unfinished"/>
+	</message>
 </context>
 <context>
     <name>KxPivotDateFilterDlg</name>
@@ -1932,7 +1989,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>LableFilter(</source>
-        <translation type="unfinished"/>
+        <translation>Filtr etykiet (</translation>
     </message>
 </context>
 <context>
@@ -1970,7 +2027,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>ValueFilter(</source>
-        <translation type="unfinished"/>
+        <translation>Filtr wartości (</translation>
     </message>
     <message>
         <source>You must enter a number between -1.7977E+308 and 1.7977E+308. Please enter a number in this range and try again.</source>
@@ -2128,7 +2185,8 @@ Wybierz pojedynczy region, a następnie wykonaj to polecenie ponownie.</translat
     <message>
         <source>Smart fill cannot be performed without a sample. 
 Try entering some sample data before performing Smart Fill.</source>
-        <translation type="unfinished"/>
+        <translation>Nie można używać błyskawicznego wypełniania bez próbki. 
+Przed skorzystaniem z błyskawicznego wypełniania wprowadź przykładowe dane.</translation>
     </message>
     <message>
         <source>This operation will cause some merged cells to unmerge. Do you wish to continue?</source>
@@ -2582,7 +2640,7 @@ Spróbuj wykonać jedną z następujących czynności:
     </message>
     <message>
         <source>The range you have specified is invalid.the top of table must remain in the same row, and the resulting table must overlap the original table.Specify a valid range.</source>
-        <translation type="unfinished"/>
+        <translation>Podany zakres jest nieprawidłowy. Górna część tabeli musi pozostać w tym samym wierszu, a tabela wynikowa musi pokrywać się z tabelą oryginalną. Podaj prawidłowy zakres.</translation>
     </message>
     <message>
         <source>Cannot create backup file. Save &quot;%s&quot; without backup?</source>
@@ -2836,7 +2894,7 @@ Spróbuj wykonać jedną z następujących czynności:
     </message>
     <message>
         <source>Cannot make changes to a table or XML mapping when multiple sheet are selected.</source>
-        <translation type="unfinished"/>
+        <translation>Nie można wprowadzić zmian do tabeli ani mapowania XML, jeśli wybrano wiele arkuszy.</translation>
     </message>
     <message>
         <source> The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
@@ -2848,7 +2906,7 @@ Spróbuj wykonać jedną z następujących czynności:
     </message>
     <message>
         <source>When a protected worksheet contains other PivotTables that are based on the same source data, this command can not be executed. To revoke protection for worksheets that contain other PivotTables, click the tab for the worksheet, and then click Undo Sheet Protection in the Change group on the Review tab. And then retry the command.</source>
-        <translation type="unfinished"/>
+        <translation>Jeśli chroniony arkusz zawiera inne tabele przestawne oparte na tych samych danych źródłowych, polecenie to nie może zostać wykonane. Aby odwołać zabezpieczenie arkuszy roboczych zawierających inne tabele przestawne, kliknij kartę arkusza, a następnie kliknij polecenie Cofnij zabezpieczenie arkusza w grupie Zmień na karcie Przeglądanie. Następnie wykonaj polecenie ponownie.</translation>
     </message>
     <message>
         <source>The macro &apos;%s&apos; cannot be found.</source>
@@ -2897,7 +2955,7 @@ Kontynuować bez możliwości cofnięcia?</translation>
     </message>
     <message>
         <source>There are some empty string before and after this content</source>
-        <translation type="unfinished"/>
+        <translation>W zawartości są puste ciągi! Może to spowodować błędy w obliczeniach.</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -3031,7 +3089,7 @@ Wartość</translation>
     </message>
     <message>
         <source>Some documents are already open. You cannot open the security document! Please close the opened documents and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Niektóre dokumenty są już otwarte. Nie można otworzyć zabezpieczonego dokumentu! Zamknij otwarte dokumenty i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Sensitivity Report</source>
@@ -3154,7 +3212,8 @@ Jeśli tworzysz raport tabeli przestawnej, wpisz odwołanie do komórki lub wybi
     <message>
         <source>An item name is ambiguous.Another field in the PivotTable report may have an item with the same name.
 Use the syntax field[item].For example, if the item is Oranges and the field is Product,you would use Product[Oranges].</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa elementu jest niejednoznaczna. Inne pole w raporcie tabeli przestawnej może mieć element o tej samej nazwie.
+Użyj pola składni [element]. Jeśli na przykład element to pomarańcze, a pole to Produkt, możesz użyć produktu [Pomarańcze].</translation>
     </message>
     <message>
         <source>You cannot place a field that has more than 8000 items in the column area.
@@ -3181,7 +3240,7 @@ Podaj właściwe pliki.</translation>
     </message>
     <message>
         <source>Only changes which have been saved can be listed on history sheet.</source>
-        <translation type="unfinished"/>
+        <translation>W arkuszu historii można wyświetlić tylko zmiany, które zostały zapisane.</translation>
     </message>
     <message>
         <source>Tahoma</source>
@@ -3256,7 +3315,7 @@ Aby naprawić łącza, zaznacz pojedynczy arkusz, a następnie kliknij przycisk 
     </message>
     <message>
         <source>The data source of a PivotTable connected to filter controls that ara also connected to other PivotTables cannot be Changed.To change the data source, first disconnect the filter controls from this PivotTable or from the other PivotTables.</source>
-        <translation type="unfinished"/>
+        <translation>Źródło danych tabeli przestawnej połączonej z elementami sterującymi filtra, które są również połączone z innymi tabelami przestawnymi, nie może zostać zmienione. Aby zmienić źródło danych, najpierw odłącz elementy sterujące filtra z tej tabeli przestawnej lub z innych tabel przestawnych.</translation>
     </message>
     <message>
         <source>Constant array error.</source>
@@ -3284,7 +3343,7 @@ Aby naprawić łącza, zaznacz pojedynczy arkusz, a następnie kliknij przycisk 
     </message>
     <message>
         <source>Count Nums=</source>
-        <translation type="unfinished"/>
+        <translation>Licznik num.=</translation>
     </message>
     <message>
         <source>Highlighting Data</source>
@@ -3581,7 +3640,7 @@ To ungroup the field, make sure it is in the row or column area, select one of t
     </message>
     <message>
         <source>It&apos;s not a valid Integer.</source>
-        <translation type="unfinished"/>
+        <translation>Nieprawidłowa liczba całkowita.</translation>
     </message>
     <message>
         <source>StdDev</source>
@@ -3756,7 +3815,7 @@ Wartość</translation>
     </message>
     <message>
         <source>This PivotTable&apos;s Connection has benn deleted</source>
-        <translation type="unfinished"/>
+        <translation>To połączenie tabeli przestawnej zostało usunięte</translation>
     </message>
     <message>
         <source>Show Details has been turned off for this PivotTable report.</source>
@@ -3865,7 +3924,7 @@ Wartość</translation>
     </message>
     <message>
         <source>he value is set by the formula with the last solve order.</source>
-        <translation type="unfinished"/>
+        <translation>wartość jest ustalana przez formułę z ostatnią kolejnością rozwiązywania.</translation>
     </message>
     <message>
         <source>Please try again later, or save file to another disk. </source>
@@ -4038,7 +4097,7 @@ Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik
     </message>
     <message>
         <source>Cannot use multiple ranges to create a data range.</source>
-        <translation type="unfinished"/>
+        <translation>Nie można użyć wielu zakresów do utworzenia zakresu danych.</translation>
     </message>
     <message>
         <source>%s Sheet Not Exist</source>
@@ -4099,7 +4158,7 @@ Reasons for this can include:
     <message>
         <source>Count Nums</source>
         <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNTNUMS</comment>
-        <translation type="unfinished"/>
+        <translation>Numery liczb</translation>
     </message>
     <message>
         <source>Cannot extend list or database.</source>
@@ -4119,7 +4178,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>Fields with calculated items can not be placed in the filter area.</source>
-        <translation type="unfinished"/>
+        <translation>Pola z elementami obliczeniowymi nie mogą być umieszczane w obszarze filtra.</translation>
     </message>
     <message>
         <source>New styles cannot be added in shared workbooks.</source>
@@ -4151,7 +4210,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>This Operation cannot be used on a security document.</source>
-        <translation type="unfinished"/>
+        <translation>Ta operacja nie może być używana na zabezpieczonym dokumencie.</translation>
     </message>
     <message>
         <source>Max of %s</source>
@@ -4270,7 +4329,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>There are some empty string</source>
-        <translation type="unfinished"/>
+        <translation>W zawartości są puste ciągi!</translation>
     </message>
     <message>
         <source>Action
@@ -4298,7 +4357,7 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
     </message>
     <message>
         <source>Cell %s commented by %s User</source>
-        <translation type="unfinished"/>
+        <translation>Komórka %s skomentowana przez użytkownika %s</translation>
     </message>
     <message>
         <source>Iterations</source>
@@ -4323,7 +4382,10 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
 Use the PivotTable Field List to add,move,or remove fields.
 Hide or froup items in a row or column field.
 Modify the source data</source>
-        <translation type="unfinished"/>
+        <translation>Nie można przenieść części raportu w formie tabeli przestawnej ani wstawić komórek, wierszy lub kolumn arkusza w raporcie w formie tabeli przestawnej. Aby móc wstawić komórki, wiersze lub kolumny arkusza, przenieś raport w formie tabeli przestawnej (w tym celu po zaznaczeniu raportu w formie tabeli przestawnej na karcie Opcje w grupie Akcje kliknij pozycję Przenieś tabelę przestawną). Aby dodać, przenieść lub usunąć komórki w raporcie, wykonaj jedną z następujących czynności:
+• Dodaj, przenieś lub usuń pola za pomocą listy pól tabeli przestawnej.
+• Ukryj albo zgrupuj elementy w polu wiersza lub kolumny.
+• Zmodyfikuj dane źródłowe.</translation>
     </message>
     <message>
         <source>The sort reference is not valid. Make sure that it&apos;s within the data you want to sort, and the first Sort By box is not the same and not blank.</source>
@@ -4364,7 +4426,7 @@ Sprawdź serwer bazy danych lub skontaktuj się z administratorem bazy danych. U
     </message>
     <message>
         <source>The destination range contains data, Would you like to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>Zakres docelowy zawiera dane. Czy chcesz go zastąpić?</translation>
     </message>
     <message>
         <source>The Document was saved successfully, but WPS cannot re-open it because of a sharing violation.
@@ -4400,7 +4462,7 @@ Skróć ścieżkę pliku lub przenieś plik na pulpit i spróbuj otworzyć go po
     </message>
     <message>
         <source>DataSource in WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>Źródło danych w programie WPS Writer</translation>
     </message>
     <message>
         <source>Document is not saved.</source>
@@ -4468,7 +4530,11 @@ Spróbuj wykonać jedną z następujących czynności:
 2.Calculated Items
 3.Calculated Fields
 4.Custom Items</source>
-        <translation type="unfinished"/>
+        <translation>Ten raport tabeli przestawnej jest oparty na tych samych danych, co najmniej jeden inny raport tabeli przestawnej. Usunięcie raportu tabeli przestawnej spowoduje usunięcie następujących elementów ze wszystkich raportów tabeli przestawnej:
+1. Grupa
+2. Elementy obliczeniowe
+3. Pola obliczeniowe
+4. Elementy niestandardowe</translation>
     </message>
     <message>
         <source>Seconds</source>
@@ -4579,7 +4645,7 @@ Otwórz go w programie Microsoft Excel, potem uruchom &quot;Zapisz&quot;, a nast
     </message>
     <message>
         <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
-        <translation type="unfinished"/>
+        <translation>Dopóki nie zaewidencjonujesz dokumentu, wprowadzone zmiany nie będą widoczne dla innych użytkowników. Czy chcesz zaewidencjonować dokument?</translation>
     </message>
     <message>
         <source>Unprotected Formula</source>
@@ -4599,7 +4665,7 @@ Otwórz go w programie Microsoft Excel, potem uruchom &quot;Zapisz&quot;, a nast
     </message>
     <message>
         <source>The range you have specified is invalid.the headers must remain in the same row and the resulting table must overlap the original table.The table must contain a header row,and at least one row of data.Please specify a vaild table.</source>
-        <translation type="unfinished"/>
+        <translation>Określony zakres jest nieprawidłowy. Nagłówki muszą pozostać w tym samym wierszu, a powstająca tabela musi nakładać się na tabelę oryginalną. Tabela musi zawierać wiersz nagłówka i co najmniej jeden wiersz danych. Określ prawidłową tabelę.</translation>
     </message>
     <message>
         <source> The formula contains unrecognized text.</source>
@@ -4745,7 +4811,8 @@ Operacja</translation>
     <message>
         <source>You cannot create or make changes to  PivotTable reports in a shared workbook. If you copy a report and paste it in a shared workbook, only the cell contents are pasted.
 To make a copy that you can edit and rearrage, in the same instance of Et, paste the report into a workbook that is not shared.</source>
-        <translation type="unfinished"/>
+        <translation>Nie można tworzyć ani wprowadzać zmian w raportach tabeli przestawnej w udostępnionym skoroszycie. Jeśli skopiujesz raport i wkleisz go do udostępnionego skoroszytu, wklejona zostanie tylko zawartość komórki.
+Aby utworzyć kopię, którą można edytować i zmieniać jej kolejność, w tym samym wystąpieniu Et, wklej raport do skoroszytu, który nie jest udostępniany.</translation>
     </message>
     <message>
         <source>Var</source>
@@ -4788,7 +4855,7 @@ To make a copy that you can edit and rearrage, in the same instance of Et, paste
     </message>
     <message>
         <source>The data will not be saved with other pivot tables that share the same source data with this PivotTable.</source>
-        <translation type="unfinished"/>
+        <translation>Dane nie zostaną zapisane z innymi tabelami przestawnymi, które korzystają z tych samych danych źródłowych w tej tabeli przestawnej.</translation>
     </message>
     <message>
         <source>Connecting to %s</source>
@@ -4911,7 +4978,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>Averages,standard deviations,and variances are not supported when a PivotTable report has calculated items.</source>
-        <translation type="unfinished"/>
+        <translation>Wartości średnie, odchylenia standardowe i wariancje nie są obsługiwane, gdy w raporcie tabeli przestawnej zostały elementy obliczeniowe.</translation>
     </message>
     <message>
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
@@ -4962,7 +5029,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>DataSource in WPS Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Źródło danych w programie WPS Presentation</translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. To create a PivotTable report, you must use data that is organized as a list with labeled columns. If you are changing of name of a PivotTable field, you must type a new name for the field.</source>
@@ -5055,7 +5122,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>This document can&apos;t be shared, it must be saved as another format before be shared.</source>
-        <translation type="unfinished"/>
+        <translation>Tego dokumentu nie można udostępnić. Przed udostępnieniem należy go zapisać w innym formacie.</translation>
     </message>
     <message>
         <source>Column Labels</source>
@@ -5104,7 +5171,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
-        <translation type="unfinished"/>
+        <translation>Tabela nie może nakładać się na zakres, który zawiera raport w formie tabeli przestawnej, wyniki kwerendy, komórki chronione lub inną tabelę.</translation>
     </message>
     <message>
         <source>Sum of %s</source>
@@ -5210,6 +5277,11 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
 </source>
         <translation>Niektóre formuły lub nazwy tego pliku zawierają wbudowane funkcje zdefiniowane przez użytkownika, których nie obsługuje program WPS Spreadsheets i ponowne obliczanie tych formuł lub nazw może spowodować nieprawidłowe wyniki.</translation>
     </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -5300,7 +5372,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>No unique value data found after deduplicated in the selected area.</source>
-        <translation type="unfinished"/>
+        <translation>Po deduplikacji nie znaleziono w wybranym obszarze żadnych danych wartości do wyodrębnienia.</translation>
     </message>
     <message>
         <source>Please select a single row or column to operate.</source>
@@ -5425,7 +5497,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>Page%d</source>
-        <translation type="unfinished"/>
+        <translation>Strona %d</translation>
     </message>
     <message>
         <source>Insert Worksheet</source>
@@ -5454,11 +5526,11 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>The value you entered is not a number, date, time, or string.</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadzona wartość nie jest liczbą, datą, czasem lub ciągiem.</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Styl tabeli - </translation>
     </message>
     <message>
         <source>Worksheet Rename</source>
@@ -5539,7 +5611,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>Part of the data extraction was lost because the extracted data was outside the maximum range of the worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Część wyodrębnionych danych utracono, ponieważ wyodrębnione dane znajdują się poza maksymalnym zakresem arkusza.</translation>
     </message>
     <message>
         <source>cell %s</source>
@@ -5563,7 +5635,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>There is a lot of data to be processed, which may take a long time. Please confirm whether to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Konieczne jest przetworzenie bardzo dużej ilości danych, co może potrwać dłuższy czas. Czy na pewno chcesz kontynuować?</translation>
     </message>
     <message>
         <source>Enter a formula.</source>
@@ -5583,7 +5655,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>The data in the %s that needs to be compared has been protected.</source>
-        <translation type="unfinished"/>
+        <translation>Dane, które zawiera %s do porównania, są już chronione.</translation>
     </message>
     <message>
         <source>Insert the %s row</source>
@@ -5591,7 +5663,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>The ranges you selected overlap each other. Please reselect.</source>
-        <translation type="unfinished"/>
+        <translation>Zaznaczone dane nie mogą mieć zduplikowanego obszaru. Zaznacz je ponownie.</translation>
     </message>
     <message>
         <source>The specified Minimum value is not a valid percentile.</source>
@@ -5615,7 +5687,7 @@ Aby zachować niezapisaną pracę, kliknij przycisk OK i zapisz skoroszyt udost�
     </message>
     <message>
         <source>Please make sure that the selected ranges have the same headers.</source>
-        <translation type="unfinished"/>
+        <translation>Upewnij się, że w zaznaczonym obszarze istnieją takie same nagłówki.</translation>
     </message>
     <message>
         <source>columns %s</source>
@@ -5683,7 +5755,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>One or more of the specified values is not a valid percentile.</source>
-        <translation type="unfinished"/>
+        <translation>Jedna lub więcej podanych wartości nie jest prawidłową wartością percentylu.</translation>
     </message>
     <message>
         <source>One or more of the specified values is not a valid percentage.</source>
@@ -5739,7 +5811,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     <name>et_et_render</name>
     <message>
         <source>/</source>
-        <translation type="unfinished"/>
+        <translation>/</translation>
     </message>
     <message>
         <source>Cell:</source>
@@ -5760,7 +5832,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>Add Header</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj Nagłówek</translation>
     </message>
     <message>
         <source>Comment:</source>
@@ -5883,7 +5955,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>size:</source>
-        <translation type="unfinished"/>
+        <translation>Rozmiar:</translation>
     </message>
     <message>
         <source>Original file has finished backing up</source>
@@ -5903,11 +5975,11 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>&quot;File slimming&quot; finished! Successfully reduced</source>
-        <translation type="unfinished"/>
+        <translation>Zakończono &quot;Odchudzanie pliku&quot;! Pomyślnie zredukowano</translation>
     </message>
     <message>
         <source>Change the path</source>
-        <translation type="unfinished"/>
+        <translation>Zmień ścieżkę</translation>
     </message>
     <message>
         <source>No need slimming</source>
@@ -5935,7 +6007,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>The current file:</source>
-        <translation type="unfinished"/>
+        <translation>Bieżący plik:</translation>
     </message>
     <message>
         <source>No backup files!</source>
@@ -6069,7 +6141,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>By (&amp;I):</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Co:</translation>
     </message>
     <message>
         <source>&amp;Current value:</source>
@@ -6140,7 +6212,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>StripeSize</source>
-        <translation type="unfinished"/>
+        <translation>Rozmiar paska</translation>
     </message>
     <message>
         <source>First Column Stripe</source>
@@ -6394,7 +6466,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>&amp;Calendar type:</source>
-        <translation type="unfinished"/>
+        <translation>Typ kalendarza (&amp;A):</translation>
     </message>
     <message>
         <source>Scientific</source>
@@ -6448,7 +6520,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>Catalog name:</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa wykazu:</translation>
     </message>
     <message>
         <source>The second step: Select table and fields</source>
@@ -6538,7 +6610,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>&amp;Icon</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ikona</translation>
     </message>
     <message>
         <source>&amp;Type</source>
@@ -6582,7 +6654,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Etykieta tekstowa</translation>
     </message>
 </context>
 <context>
@@ -6983,7 +7055,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
-        <translation type="unfinished"/>
+        <translation>logiczna1,logiczna2,... od 1 do 255 testowanych warunków, które mogą mieć wartość PRAWDA albo FAŁSZ i są wartościami logicznymi, tablicami lub odwołaniami.</translation>
     </message>
     <message>
         <source>Order</source>
@@ -7299,7 +7371,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     </message>
     <message>
         <source>custom weekend</source>
-        <translation type="unfinished"/>
+        <translation>liczba lub ciąg określający, kiedy występują weekendy</translation>
     </message>
     <message>
         <source>OLE DB Query</source>
@@ -7672,6 +7744,10 @@ Upewnij się, że wybrane regiony są ciągłymi komórkami.</translation>
     <message>
         <source>The Start Date contains an error now. Do you want to continue?</source>
         <translation>Data początkowa zawiera błąd. Czy chcesz kontynuować?</translation>
+    </message>
+    <message>
+        <source>Split window</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unsplit window</source>
@@ -8939,7 +9015,7 @@ rejestrowanie</translation>
     <message>
         <source>We looked at the data next to your selection and didn't see a pattern for filling values for you.
 To use Flash Fill, enter a couple of examples of the output you&apos;d like to see,kepp the active cell in the column you want fill, and click the Flash Fill button again.</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź więcej przykładowych danych i spróbuj ponownie</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -9290,7 +9366,7 @@ przestawna</translation>
     </message>
     <message>
         <source>To create a chart, select the cells that contain the data you&apos;d like to use. If you have names for the rows and columns and you&apos;d like to use them as labels, include them in you selection.</source>
-        <translation type="unfinished"/>
+        <translation>Aby utworzyć wykres, zaznacz komórki zawierające dane, których chcesz użyć. Jeśli wiersze i kolumny mają nazwy, których chcesz użyć jako etykiet, uwzględnij je w zaznaczeniu.</translation>
     </message>
     <message>
         <source>As the array of independent variable data points or area</source>
@@ -10070,6 +10146,10 @@ Istnieje kilka możliwych przyczyn:
         <translation>Błąd_wartość</translation>
     </message>
     <message>
+        <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Row_num</source>
         <translation>Nr_wiersza</translation>
     </message>
@@ -10117,7 +10197,7 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>Protect 
 Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Chroń arkusz</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -10422,7 +10502,7 @@ Czy kontynuować?</translation>
     </message>
     <message>
         <source>Clear Filter(Alt+C)</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść filtr (Alt+C)</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
@@ -11277,7 +11357,7 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>Protect 
 Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Chroń skoroszyt</translation>
     </message>
     <message>
         <source>is the number by which pi is multiplied.</source>
@@ -12156,7 +12236,7 @@ połączenia</translation>
     </message>
     <message>
         <source>How many page fields you want?</source>
-        <translation>Ile pól stron chcesz wyświetlić?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A&amp;ll ranges:</source>
@@ -12494,7 +12574,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
-        <translation type="unfinished"/>
+        <translation>Tabela została opublikowana pomyślnie, na stronie: &lt;a href=&quot;%s&quot;&gt;%s</translation>
     </message>
     <message>
         <source>Enter the name or description of the function you want to look for.</source>
@@ -12550,7 +12630,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Failed to open the dictionary file you selected, make sure it is a valid dictionary file.</source>
@@ -12772,11 +12852,11 @@ okienka</translation>
     </message>
     <message>
         <source>column %s</source>
-        <translation type="unfinished"/>
+        <translation> column %s</translation>
     </message>
     <message>
         <source>column %d</source>
-        <translation type="unfinished"/>
+        <translation> column %d</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
@@ -13053,7 +13133,7 @@ komórki te będą miały ustawiony pomarańczowy kolor tła.
     </message>
     <message>
         <source>The number of fields exceeds 10000 and only 10000 entries are displayed!</source>
-        <translation type="unfinished"/>
+        <translation>Liczba pól przekracza 10 000, a wyświetlanych jest tylko 10 000 wpisów!</translation>
     </message>
     <message>
         <source>contains</source>
@@ -13081,7 +13161,7 @@ komórki te będą miały ustawiony pomarańczowy kolor tła.
     </message>
     <message>
         <source>Form(&amp;F)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Formularz</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
@@ -13136,7 +13216,7 @@ a pozostawiony zostanie tylko jeden wiersz.
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>Page &amp;P &amp;A</source>
@@ -13148,7 +13228,7 @@ a pozostawiony zostanie tylko jeden wiersz.
     </message>
     <message>
         <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>
-        <translation type="unfinished"/>
+        <translation>Wystąpił nieoczekiwany błąd. Nie można zapisać zmian danych.</translation>
     </message>
     <message>
         <source>List will be permanently deleted.</source>
@@ -13180,7 +13260,7 @@ a pozostawiony zostanie tylko jeden wiersz.
     </message>
     <message>
         <source>row %d</source>
-        <translation type="unfinished"/>
+        <translation> row %d</translation>
     </message>
     <message>
         <source>Special formats are useful for tracking list and database values.</source>
@@ -13389,7 +13469,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     </message>
     <message>
         <source>The fields that are being moved cannot be placed in that PivotTable area.</source>
-        <translation type="unfinished"/>
+        <translation>Pola, które przenosisz, nie mogą zostać umieszczone w tym obszarze tabeli przestawnej.</translation>
     </message>
     <message>
         <source>Column width must be between %d and %d.</source>
@@ -13413,7 +13493,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     </message>
     <message>
         <source>Select This</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz to</translation>
     </message>
     <message>
         <source>Drop Page Fields Here</source>
@@ -13549,7 +13629,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     </message>
     <message>
         <source>Clear(&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Wyczyść</translation>
     </message>
     <message>
         <source>Type the number format code, using one of the existing codes as a starting point.</source>
@@ -13574,7 +13654,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     </message>
     <message>
         <source>Connections to external data sources has been disabled, you can change the settings in the options dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Połączenia z zewnętrznymi źródłami danych zostały wyłączone, możesz zmienić ustawienia w oknie dialogowym opcji.</translation>
     </message>
     <message>
         <source>Generate pictures in the currently selected area.</source>
@@ -13665,7 +13745,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     </message>
     <message>
         <source>Delete(&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>not equal to</source>
@@ -13906,7 +13986,7 @@ Podany sposób jest prawidłowy zarówno dla samej komórki roboczej oraz komór
     </message>
     <message>
         <source>Print Entire Workbook directly</source>
-        <translation type="unfinished"/>
+        <translation>Drukuj cały skoroszyt</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -14505,7 +14585,7 @@ Podany sposób jest prawidłowy zarówno dla samej komórki roboczej oraz komór
     </message>
     <message>
         <source>point</source>
-        <translation type="unfinished"/>
+        <translation>Punkt</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -14629,7 +14709,7 @@ Podany sposób jest prawidłowy zarówno dla samej komórki roboczej oraz komór
     </message>
     <message>
         <source>(Separate keywords with space)</source>
-        <translation type="unfinished"/>
+        <translation>(Obsługa filtrowania z wieloma warunkami)</translation>
     </message>
 </context>
 <context>
@@ -14644,7 +14724,7 @@ Podany sposób jest prawidłowy zarówno dla samej komórki roboczej oraz komór
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"/>
+        <translation>Akcja</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14839,7 +14919,7 @@ Podany sposób jest prawidłowy zarówno dla samej komórki roboczej oraz komór
     </message>
     <message>
         <source>&amp;Advanced Setting &gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ustawienie zaawansowane &gt;&gt;</translation>
     </message>
     <message>
         <source>Show data in &amp;hidden rows and columns</source>
@@ -15148,6 +15228,10 @@ file,click OK.</source>
         <translation>Odchudzanie...</translation>
     </message>
     <message>
+        <source>Duplicate styles</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Shapes</source>
         <translation>Wszystkie kształty</translation>
     </message>
@@ -15165,7 +15249,7 @@ file,click OK.</source>
     </message>
     <message>
         <source>Backup source file failed. Do you want to continue slimming?</source>
-        <translation type="unfinished"/>
+        <translation>Tworzenie kopii zapasowej pliku źródłowego nie powiodło się. Czy chcesz kontynuować odchudzanie?</translation>
     </message>
     <message>
         <source>%1 Select another file %2</source>
@@ -15181,11 +15265,11 @@ file,click OK.</source>
     </message>
     <message>
         <source>Fail to open file!</source>
-        <translation type="unfinished"/>
+        <translation>Nie można otworzyć pliku!</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -15277,11 +15361,11 @@ Wciąż może być wymagana ręczna aktualizacja odwołań do tej nazwy używany
     <name>KxEditCrossBookLinksDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cannot be used</source>
-        <translation type="unfinished"/>
+        <translation>Nie dotyczy</translation>
     </message>
     <message>
         <source>Warning: Source not recalculated</source>
@@ -16207,7 +16291,7 @@ dane</translation>
     </message>
     <message>
         <source>AutoFitSelection</source>
-        <translation type="unfinished"/>
+        <translation>Autodopasowanie zaznaczenia</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -16263,7 +16347,7 @@ dane</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obraz</translation>
     </message>
     <message>
         <source>Recent Font Color</source>
@@ -16445,7 +16529,7 @@ okienka</translation>
     </message>
     <message>
         <source>PivotTable Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Odśwież tabelę przestawną</translation>
     </message>
     <message>
         <source>Set Print Area</source>
@@ -16645,7 +16729,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Delete Colunm</source>
-        <translation type="unfinished"/>
+        <translation>Usuń kolumnę</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
@@ -16770,7 +16854,8 @@ warunkowe</translation>
     </message>
     <message>
         <source>Split Sheets</source>
-        <translation type="unfinished"/>
+        <translation>Podziel arkusze 
+według zawartości</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -16814,7 +16899,7 @@ warunkowe</translation>
     </message>
     <message>
         <source>Duplicate Value</source>
-        <translation type="unfinished"/>
+        <translation>Duplikujące się wartości</translation>
     </message>
     <message>
         <source>Rows and 
@@ -16901,7 +16986,7 @@ arkusz</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"/>
+        <translation>Wklej jako tekst niesformatowany</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -16937,7 +17022,7 @@ arkusz</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów czcionki</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -16966,10 +17051,6 @@ arkusz</translation>
     <message>
         <source>No Border</source>
         <translation>Brak krawędzi</translation>
-    </message>
-    <message>
-        <source>Double accounting</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format</source>
@@ -17033,7 +17114,8 @@ arkusz</translation>
     </message>
     <message>
         <source>Split Books</source>
-        <translation type="unfinished"/>
+        <translation>Podziel skoroszyty 
+według arkuszy</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -17069,7 +17151,7 @@ arkusz</translation>
     </message>
     <message>
         <source>All Using Source Theme</source>
-        <translation type="unfinished"/>
+        <translation>Zarezerwowany format źródłowy</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -17101,7 +17183,7 @@ arkusz</translation>
     </message>
     <message>
         <source>New Pivot Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Nowy styl tabeli przestawnej</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -17141,7 +17223,7 @@ arkusz</translation>
     </message>
     <message>
         <source>Align Distributed</source>
-        <translation>Rozłożone</translation>
+        <translation>Wyrównaj lub rozłóż</translation>
     </message>
     <message>
         <source>Insert Cut Cells Dialog</source>
@@ -17182,11 +17264,12 @@ komórkę</translation>
     </message>
     <message>
         <source>Align Justify</source>
-        <translation>Wyjustuj</translation>
+        <translation>Wyrównaj lub wyjustuj</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"/>
+        <translation>Scal i 
+wyśrodkuj</translation>
     </message>
     <message>
         <source>Clear Rules from This Table</source>
@@ -17368,7 +17451,8 @@ with same name in workbooks</source>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"/>
+        <translation>Dołącz i
+wyśrodkuj</translation>
     </message>
     <message>
         <source>Find and Replace</source>
@@ -17396,7 +17480,8 @@ Center</source>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Formatowanie
+ warunkowe</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -17468,7 +17553,7 @@ Center</source>
     </message>
     <message>
         <source>Axes</source>
-        <translation type="unfinished"/>
+        <translation>Osie</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -17536,7 +17621,7 @@ Center</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -17560,7 +17645,7 @@ Center</source>
     </message>
     <message>
         <source>Align RLeft</source>
-        <translation type="unfinished"/>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>% of Parent Column Total</source>
@@ -17576,7 +17661,7 @@ Center</source>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"/>
+        <translation>3 pkt</translation>
     </message>
     <message>
         <source>% Running Total In</source>
@@ -17584,7 +17669,7 @@ Center</source>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"/>
+        <translation>6 pkt</translation>
     </message>
     <message>
         <source>Above</source>
@@ -17612,7 +17697,7 @@ Center</source>
     </message>
     <message>
         <source>Erase</source>
-        <translation>Gumka</translation>
+        <translation>Wymaż</translation>
     </message>
     <message>
         <source>Forms</source>
@@ -17632,7 +17717,7 @@ Center</source>
     </message>
     <message>
         <source>Move to Rows</source>
-        <translation type="unfinished"/>
+        <translation>Przenieś do wierszy</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -17716,7 +17801,7 @@ Center</source>
     </message>
     <message>
         <source>Exit Edit</source>
-        <translation>Zakończ edycję tekstu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Text</source>
@@ -17732,7 +17817,7 @@ Center</source>
     </message>
     <message>
         <source>table</source>
-        <translation type="unfinished"/>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>Accept Changes</source>
@@ -17740,7 +17825,7 @@ Center</source>
     </message>
     <message>
         <source>PTCustom Sort</source>
-        <translation type="unfinished"/>
+        <translation>Sortowanie niestandardowe PT</translation>
     </message>
     <message>
         <source>Value Filters</source>
@@ -17768,7 +17853,7 @@ Center</source>
     </message>
     <message>
         <source>DelColumn</source>
-        <translation type="unfinished"/>
+        <translation>Cała kolumna</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -17806,7 +17891,7 @@ scalonych w jeden skoroszyt</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Poziome</translation>
     </message>
     <message>
         <source>Number Format</source>
@@ -17818,7 +17903,7 @@ scalonych w jeden skoroszyt</translation>
     </message>
     <message>
         <source>TransposePopup</source>
-        <translation type="unfinished"/>
+        <translation>Okienko wyskakujące transpozycji</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -17830,11 +17915,11 @@ scalonych w jeden skoroszyt</translation>
     </message>
     <message>
         <source>Chart Styles</source>
-        <translation type="unfinished"/>
+        <translation>Style wykresu</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdź aktualizacje</translation>
     </message>
     <message>
         <source>Format Chart Area</source>
@@ -17842,11 +17927,11 @@ scalonych w jeden skoroszyt</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>2,25 pkt</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,25 pkt</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
@@ -17866,7 +17951,7 @@ scalonych w jeden skoroszyt</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Zamknij</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -17874,7 +17959,7 @@ scalonych w jeden skoroszyt</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,75 pkt</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -17907,11 +17992,11 @@ arkusz</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation type="unfinished"/>
+        <translation>Przytnij do skali</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation type="unfinished"/>
+        <translation>Przytnij do kształtu</translation>
     </message>
     <message>
         <source>Standard Deviation</source>
@@ -17923,7 +18008,7 @@ arkusz</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Edit in Formula Bar</source>
@@ -17947,7 +18032,7 @@ arkusz</translation>
     </message>
     <message>
         <source>Format Comma Style</source>
-        <translation type="unfinished"/>
+        <translation>Formatuj zapis dziesiętny</translation>
     </message>
     <message>
         <source>Move to Axis Fields (Categories)</source>
@@ -17999,7 +18084,7 @@ arkusz</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Czcionki online</translation>
     </message>
     <message>
         <source>More Functions</source>
@@ -18035,7 +18120,7 @@ arkusz</translation>
     </message>
     <message>
         <source>FilterColumn</source>
-        <translation type="unfinished"/>
+        <translation>Filtruj według kolumny</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
@@ -18072,7 +18157,7 @@ zmiany</translation>
     </message>
     <message>
         <source>Align VCenter</source>
-        <translation>Wyrównaj do środka w pionie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align VBottom</source>
@@ -18092,7 +18177,7 @@ zmiany</translation>
     </message>
     <message>
         <source>AutoFilterByFontColor</source>
-        <translation type="unfinished"/>
+        <translation>Filtruj według koloru czcionki</translation>
     </message>
     <message>
         <source>Photo to PDF</source>
@@ -18120,7 +18205,7 @@ zmiany</translation>
     </message>
     <message>
         <source>Format UnitLabel</source>
-        <translation>Formatuj jednostkę wyświetlania</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>% of Parent Total</source>
@@ -18128,16 +18213,16 @@ zmiany</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0,5 pkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CellRight</source>
-        <translation type="unfinished"/>
+        <translation>Komórki w prawo</translation>
     </message>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"/>
+        <translation>Dodatki COM</translation>
     </message>
     <message>
         <source>Secondary Horizontal</source>
@@ -18169,7 +18254,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Three Dimensional Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Obrót 3D</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -18185,7 +18270,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Photo2PdfConvert</source>
-        <translation type="unfinished"/>
+        <translation>Konwertuj obraz na PDF</translation>
     </message>
     <message>
         <source>Secondary Vertical</source>
@@ -18205,7 +18290,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>FilterColumnByTitleRow</source>
-        <translation type="unfinished"/>
+        <translation>Filtruj kolumny według tytułu wiersza</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -18229,7 +18314,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Więcej kolorów</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -18266,7 +18351,8 @@ Add-Ins</source>
     <message>
         <source>Split a worksheet 
 into multiple worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Podziel arkusze 
+według zawartości</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -18278,11 +18364,11 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>ImportDataFromWeb</source>
-        <translation type="unfinished"/>
+        <translation>Z Internetu</translation>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation type="unfinished"/>
+        <translation>Więcej historii tworzenia kopii zapasowej</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -18491,7 +18577,7 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz automatyczne tworzenie kopii zapasowej</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -18596,7 +18682,7 @@ wydruku</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj bieżące okno, podczas wykonania wycinka ekranu</translation>
     </message>
     <message>
         <source>% Difference From</source>
@@ -18604,7 +18690,7 @@ wydruku</translation>
     </message>
     <message>
         <source>Format Currency</source>
-        <translation type="unfinished"/>
+        <translation>Formatuj walutę</translation>
     </message>
     <message>
         <source>Solver</source>
@@ -18705,7 +18791,7 @@ ekran</translation>
     </message>
     <message>
         <source>Move to Columns</source>
-        <translation type="unfinished"/>
+        <translation>Przenieś do kolumn</translation>
     </message>
     <message>
         <source>Error Bars</source>
@@ -18750,7 +18836,7 @@ ekran</translation>
     </message>
     <message>
         <source>AutoFilterByCellColor</source>
-        <translation type="unfinished"/>
+        <translation>Filtruj według koloru komórki</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -18758,7 +18844,7 @@ ekran</translation>
     </message>
     <message>
         <source>Reset To Fit Style</source>
-        <translation type="unfinished"/>
+        <translation>Resetuj, aby dopasować do stylu</translation>
     </message>
     <message>
         <source>Remove Slicers</source>
@@ -18807,6 +18893,10 @@ komentarz</translation>
         <translation>Zamknij wszystko</translation>
     </message>
     <message>
+        <source>PivotTable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Left</source>
         <comment>ChartLegend</comment>
         <translation>Z lewej</translation>
@@ -18851,7 +18941,7 @@ scalonych w jeden arkusz</translation>
     </message>
     <message>
         <source>Align Middle and Center</source>
-        <translation type="unfinished"/>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -18891,7 +18981,7 @@ scalonych w jeden arkusz</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4,5 pkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -18903,7 +18993,7 @@ scalonych w jeden arkusz</translation>
     </message>
     <message>
         <source>All Using Source Theme</source>
-        <translation type="unfinished"/>
+        <translation>Zarezerwowany format źródłowy</translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -18912,7 +19002,7 @@ scalonych w jeden arkusz</translation>
     </message>
     <message>
         <source>Using Source Theme</source>
-        <translation type="unfinished"/>
+        <translation>Zarezerwowany format źródłowy</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
@@ -18945,7 +19035,7 @@ kolumny</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Udostępnij</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Argument After</source>
@@ -18973,7 +19063,7 @@ kolumny</translation>
     </message>
     <message>
         <source>ColumnNumber</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw kolumnę</translation>
     </message>
     <message>
         <source>Move to End</source>
@@ -19108,11 +19198,11 @@ skoroszyt</translation>
     <message>
         <source>table</source>
         <comment>Delete Rows</comment>
-        <translation type="unfinished"/>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -19120,7 +19210,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"/>
+        <translation>Centrum zarządzania produktem</translation>
     </message>
     <message>
         <source>Primary Major Vertical</source>
@@ -19189,11 +19279,15 @@ dane</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcje tabeli przestawnej</translation>
     </message>
     <message>
         <source>Cascade</source>
         <translation>Kaskadowo</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subtotals</source>
@@ -19221,7 +19315,7 @@ dane</translation>
     </message>
     <message>
         <source>Format DataLabel</source>
-        <translation type="unfinished"/>
+        <translation>Formatuj etykietę danych</translation>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -19300,8 +19394,12 @@ dane</translation>
         <translation>Formatuj legendę</translation>
     </message>
     <message>
-        <source>Snapper</source>
+        <source>Smart Split Columns</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Chinese Separator</source>
@@ -19333,7 +19431,7 @@ dane</translation>
     </message>
     <message>
         <source>CopyCutDown</source>
-        <translation type="unfinished"/>
+        <translation>Komórki w dół</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -19342,7 +19440,7 @@ dane</translation>
     <message>
         <source>Merge worksheets 
 with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Scal arkusze o tej samej nazwie w skoroszytach</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
@@ -19378,7 +19476,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Format Category Label</source>
-        <translation type="unfinished"/>
+        <translation>Formatuj etykietę kategorii</translation>
     </message>
     <message>
         <source>Keep Source Column Widths</source>
@@ -19399,11 +19497,11 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Add MinorGridline</source>
-        <translation>Dodaj pomocnicze linie siatki</translation>
+        <translation>Dodaj pomocniczą linię siatki</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="unfinished"/>
+        <translation>Wyświetl historię tworzenia kopii zapasowej</translation>
     </message>
     <message>
         <source>Entire Sheet Row</source>
@@ -19453,7 +19551,7 @@ into multiple workbooks</source>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj elementy wykresu</translation>
     </message>
     <message>
         <source>Format Data Table</source>
@@ -19506,7 +19604,7 @@ częściowa</translation>
     </message>
     <message>
         <source>Add MajorGridline</source>
-        <translation>Dodaj główne linie siatki</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Backup Management</source>
@@ -19515,11 +19613,11 @@ częściowa</translation>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"/>
+        <translation>Edytowanie kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Secondary Minor Vertial</source>
-        <translation type="unfinished"/>
+        <translation>Pomocnicze pionowe</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -19598,11 +19696,11 @@ skoroszyt</translation>
     </message>
     <message>
         <source>RowNumber</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw wiersz</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Zrzut ekranu</translation>
     </message>
     <message>
         <source>Scientific</source>
@@ -19650,7 +19748,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <source>Delete Row</source>
@@ -19690,7 +19788,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Automatyczne tworzenie kopii zapasowych</translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -19698,7 +19796,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Format ErrorBars</source>
-        <translation>Formatuj słupki błędów</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Values</source>
@@ -19774,7 +19872,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Format MinorGridline</source>
-        <translation>Formatuj pomocnicze linie siatki</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left</source>
@@ -19791,7 +19889,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Zabezpieczenia plików</translation>
     </message>
     <message>
         <source>Center Across</source>
@@ -19831,11 +19929,11 @@ skoroszyt</translation>
     </message>
     <message>
         <source>FormattingPopup</source>
-        <translation>Formatowanie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align VTop</source>
-        <translation>Wyrównaj do góry</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Left</source>
@@ -19911,7 +20009,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Format TrendLine Label</source>
-        <translation type="unfinished"/>
+        <translation>Formatuj etykietę linii trendu</translation>
     </message>
     <message>
         <source>Label Filters</source>
@@ -19928,11 +20026,11 @@ skoroszyt</translation>
     </message>
     <message>
         <source>My Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Moja subskrypcja</translation>
     </message>
     <message>
         <source>Format Accounting</source>
-        <translation type="unfinished"/>
+        <translation>Formatuj księgowe</translation>
     </message>
     <message>
         <source>Growth Trend</source>
@@ -19940,7 +20038,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Align RCenter</source>
-        <translation>Wyrównaj do środka w poziomie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Circular References</source>
@@ -19969,7 +20067,7 @@ komentarz</translation>
     </message>
     <message>
         <source>Paste values to visible cells</source>
-        <translation type="unfinished"/>
+        <translation>Wklej wartości do widocznych komórek</translation>
     </message>
     <message>
         <source>Expand Entire Field</source>
@@ -19985,7 +20083,7 @@ komentarz</translation>
     </message>
     <message>
         <source>Values &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Wartości i formatowanie liczb</translation>
     </message>
     <message>
         <source>Show Details</source>
@@ -20063,7 +20161,7 @@ warunkowe</translation>
     </message>
     <message>
         <source>Keep Source Column Widths Popup</source>
-        <translation>Zachowaj źródłowe szerokości kolumn</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Series</source>
@@ -20100,7 +20198,7 @@ warunkowe</translation>
     </message>
     <message>
         <source>Count Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Licznik num.</translation>
     </message>
     <message>
         <source>Outside End</source>
@@ -20110,6 +20208,26 @@ warunkowe</translation>
         <source>Smooth Point</source>
         <translation>Punkt gładki</translation>
     </message>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation type="unfinished"/>
+    </message>
+	<message>
+        <source>AutoFilterList</source>
+        <translation type="unfinished"/>
+    </message>	
 </context>
 <context>
     <name>rainbow.ct_home</name>
@@ -20308,7 +20426,7 @@ arkusz</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"/>
+        <translation>Wklej jako tekst niesformatowany</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -20331,12 +20449,17 @@ arkusz</translation>
         <translation>Usuń komórki</translation>
     </message>
     <message>
-        <source>More Fill Colors</source>
+        <source>Merge and
+Center</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>More Fill Colors</source>
+        <translation>Więcej kolorów wypełnienia</translation>
+    </message>
+    <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów czcionki</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -20436,7 +20559,7 @@ arkusz</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"/>
+        <translation>Ostatnie 10%</translation>
     </message>
     <message>
         <source>Custom Sort</source>
@@ -20601,7 +20724,8 @@ komórkę</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"/>
+        <translation>Scal i 
+wyśrodkuj</translation>
     </message>
     <message>
         <source>Unhide Rows</source>
@@ -20665,7 +20789,8 @@ komórkę</translation>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation type="unfinished"/>
+        <translation>Formatuj 
+jako tabelę</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -21036,7 +21161,7 @@ komórkę</translation>
     </message>
     <message>
         <source>Number of C&amp;olumns:</source>
-        <translation type="unfinished"/>
+        <translation>Liczba k&amp;olumn</translation>
     </message>
     <message>
         <source>Enter 0 to 5963.92 cm of value</source>
@@ -21147,7 +21272,7 @@ komórkę</translation>
     </message>
     <message>
         <source>Auto &amp;Fit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Autodopasowanie</translation>
     </message>
     <message>
         <source>&amp;Columns...</source>
@@ -21155,7 +21280,7 @@ komórkę</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>&amp;Overflow</source>
@@ -21183,7 +21308,7 @@ komórkę</translation>
     </message>
     <message>
         <source>Widening Margins</source>
-        <translation type="unfinished"/>
+        <translation>Marginesy poszerzone</translation>
     </message>
 </context>
 <context>
@@ -21257,15 +21382,15 @@ komórkę</translation>
     <name>KxOrientationDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>ok</translation>
     </message>
     <message>
         <source>locate:</source>
-        <translation type="unfinished"/>
+        <translation>lokalizuj:</translation>
     </message>
     <message>
         <source>referenceLocation:</source>
-        <translation type="unfinished"/>
+        <translation>lokalizacja odwołania:</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -21372,7 +21497,7 @@ komórkę</translation>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"/>
+        <translation>Przygotowywanie do eksportu pliku OFD...</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
@@ -21400,7 +21525,7 @@ komórkę</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"/>
+        <translation>Eksportowanie pliku OFD zostało ukończone.</translation>
     </message>
     <message>
         <source>Exporting page </source>
@@ -21462,11 +21587,11 @@ komórkę</translation>
     </message>
     <message>
         <source>row</source>
-        <translation type="unfinished"/>
+        <translation>wiersz</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation>Automatycznie</translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -21552,7 +21677,7 @@ komórkę</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Solver requires more memory to solve this problem than is available on the machine.</source>
@@ -21560,7 +21685,7 @@ komórkę</translation>
     </message>
     <message>
         <source>AllSelect</source>
-        <translation type="unfinished"/>
+        <translation>Zaznacz wszystko</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -21679,6 +21804,10 @@ komórkę</translation>
         <translation>Zablokowane</translation>
     </message>
     <message>
+        <source>Location reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Liczba</translation>
     </message>
@@ -21728,7 +21857,7 @@ komórkę</translation>
     </message>
     <message>
         <source>column</source>
-        <translation type="unfinished"/>
+        <translation>kolumna</translation>
     </message>
     <message>
         <source>Total %1</source>
@@ -21847,6 +21976,10 @@ komórkę</translation>
         <translation>Podkreślenie</translation>
     </message>
     <message>
+        <source>Location reference is not valid.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
         <translation>Jedna z komórek w arkuszu stała się wartością błędną, gdy dodatek Solver podstawiał określone wartości w komórkach zmiennych.</translation>
     </message>
@@ -21859,6 +21992,10 @@ komórkę</translation>
         <translation>Skoroszyt zabezpieczeń programu Microsoft Excel (*.xls)|*.xls</translation>
     </message>
     <message>
+        <source>The reference for the location or data range is not valid.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rotated up %1 Degrees</source>
         <translation>Obrócony w górę %1 stopni</translation>
     </message>
@@ -21868,7 +22005,7 @@ komórkę</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>Drag items of the %1 field to display them in any order</source>
@@ -22029,7 +22166,7 @@ komórkę</translation>
     </message>
     <message>
         <source>&amp;Advanced Setting &gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ustawienie zaawansowane &gt;&gt;</translation>
     </message>
     <message>
         <source>#ERROR!</source>
@@ -22313,6 +22450,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>SUMA.KWADRATÓW(liczba1; [liczba2]; ...)</translation>
     </message>
     <message>
+        <source>DISC(settlement, maturity, pr, redemption, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>TANH(number)</source>
         <translation>TANH(liczba)</translation>
     </message>
@@ -22339,6 +22480,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>NOW()</source>
         <translation>TERAZ()</translation>
+    </message>
+    <message>
+        <source>Returns the next coupon date after settlement date.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
@@ -22538,6 +22683,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>Zwraca adres wskazany przez wartość tekstową.</translation>
     </message>
     <message>
+        <source>Returns a URL-encoded string.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>MOD(number,divisor)</source>
         <translation>MOD(liczba; dzielnik)</translation>
     </message>
@@ -22568,6 +22717,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
         <translation>ZŁĄCZ.TEKSTY(tekst1; [tekst2]; ...)</translation>
+    </message>
+    <message>
+        <source>NORM.INV(probability,mean,standard_dev)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PROPER(text)</source>
@@ -22986,6 +23139,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>Zwraca arcus sinus liczby w radianach w zakresie od -Pi/2 do Pi/2.</translation>
     </message>
     <message>
+        <source>DOLLARFR(decimal_dollar, fraction)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
         <translation>Zwraca wartość logarytmu zwykłego (o podstawie 10) liczby zespolonej, podając wynik w postaci tekstowej x + yi lub x + yj.</translation>
     </message>
@@ -23072,7 +23229,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     </message>
     <message>
         <source>Returns the net present value for a schedule of crash flows.</source>
-        <translation type="unfinished"/>
+        <translation>Zwraca wartość bieżącą netto serii przepływów gotówkowych niekoniecznie okresowych.</translation>
     </message>
     <message>
         <source>Returns a number shifted right by the specified number of bits.</source>
@@ -23085,6 +23242,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>PAUSE(no_tool)</source>
         <translation>WSTRZYMAJ(bez_narzędzia)</translation>
+    </message>
+    <message>
+        <source>Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>INDEX(array,row_num,column_num)</source>
@@ -23167,6 +23328,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>Zwraca pozycję liczby na liście liczb: jej wielkość względem innych wartości na liście; jeśli więcej niż jedna wartość ma taką samą pozycję, jest zwracana średnia pozycja.</translation>
     </message>
     <message>
+        <source>DOLLARDE(fractional_dollar, fraction)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ON.WINDOW(window_text, macro_text)</source>
         <translation>GDY.OKNO(okno_tekst; makro_tekst)</translation>
     </message>
@@ -23176,7 +23341,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     </message>
     <message>
         <source>Returns the number of whole workdays between two dates using parameters to indicate which and how many days are weekend days.</source>
-        <translation type="unfinished"/>
+        <translation>Zwraca liczbę dni roboczych między dwiema datami z niestandardowymi parametrami dotyczącymi weekendów.</translation>
     </message>
     <message>
         <source>IMCOS(inumber)</source>
@@ -23294,6 +23459,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>Converts degrees to radians.</source>
         <translation>Konwertuje stopnie na radiany.</translation>
+    </message>
+    <message>
+        <source>NORM.S.INV(probability)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
@@ -23433,6 +23602,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>Zwraca skumulowany rozkład logarytmiczno-normalny x, gdzie ln(x) ma rozkład normalny o parametrach Średnia i Odchylenie_std.</translation>
     </message>
     <message>
+        <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>NEXT()</source>
         <translation>NAST()</translation>
     </message>
@@ -23551,6 +23724,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>PRAWDA()</translation>
     </message>
     <message>
+        <source>Returns the number of days in the coupon period that contains the settlement date.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
         <translation>Oblicza punkt przecięcia się linii z osią y przy użyciu istniejących wartości znane_x i znane_y.</translation>
     </message>
@@ -23593,6 +23770,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>Values</source>
         <translation>Wartości</translation>
+    </message>
+    <message>
+        <source>XOR(logical1,logical2,...)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OR(logical1,logical2,...)</source>
@@ -23739,6 +23920,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>LOG10.LICZBY.ZESP(liczba_zespolona)</translation>
     </message>
     <message>
+        <source>MDURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns the exponential distribution.</source>
         <translation>Zwraca rozkład wykładniczy.</translation>
     </message>
@@ -23851,6 +24036,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>Konwertuje godziny, minuty i sekundy dane jako liczby na liczby kolejne programu WPS Spreadsheets, sformatowane za pomocą formatu czasu.</translation>
     </message>
     <message>
+        <source>DURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns a random integer between the two numbers you specified.</source>
         <translation>Zwraca losową liczbę całkowitą z przedziału pomiędzy dwiema podanymi liczbami.</translation>
     </message>
@@ -23881,6 +24070,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
         <translation>Zwraca wartość spłaty kapitału dla danej lokaty przy założeniu okresowych, stałych rat i stałego oprocentowania.</translation>
+    </message>
+    <message>
+        <source>COUPDAYS(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
@@ -24020,6 +24213,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>ODCH.ŚREDNIE(liczba1; [liczba2]; ...)</translation>
     </message>
     <message>
+        <source>Estimates variance based on a sample(ignores logical values and text in the sample).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns the double factorial of a number.</source>
         <translation>Zwraca dwukrotną silnię liczby.</translation>
     </message>
@@ -24150,7 +24347,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     </message>
     <message>
         <source>Checks whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdza, czy spełniony jest co najmniej jeden warunek, i zwraca wartość, która odpowiada pierwszemu PRAWDZIWEMU warunkowi.</translation>
     </message>
     <message>
         <source>Converts a decimal number to hexadecimal.</source>
@@ -24201,8 +24398,20 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>ŚREDNIA(liczba1; [liczba2]; ...)</translation>
     </message>
     <message>
+        <source>VAR.S(number1,number2,...)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VAR.P(number1,number2,...)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
         <translation>Zwraca miesiąc, liczbę od 1 (styczeń) do 12 (grudzień).</translation>
+    </message>
+    <message>
+        <source>NORM.DIST(x,mean,standard_dev,cumulative)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
@@ -24247,6 +24456,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>FDIST(x,degrees_freedom1,degrees_freedom2)</source>
         <translation>ROZKŁAD.F(x; stopnie_swobody1; stopnie_swobody2)</translation>
+    </message>
+    <message>
+        <source>Returns total covariance, the average of the products of deviations for each data point pair.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SELECTION()</source>
@@ -24321,6 +24534,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>Zwraca numer znaku, w którym jeden ciąg znaków został znaleziony po raz pierwszy w drugim, począwszy od lewej strony (nie jest rozróżniana wielkość liter). Do używania z językami o zestawach znaków dwubajtowych (DBCS).</translation>
     </message>
     <message>
+        <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>TODAY()</source>
         <translation>DZIŚ()</translation>
     </message>
@@ -24331,6 +24548,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>DIALOGBOX(dialog_ref)</source>
         <translation>POLE.DIALOGU(dialog_adres)</translation>
+    </message>
+    <message>
+        <source>Returns simple covariance, the average of the products of deviations for each data point pair.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Information</source>
@@ -24417,6 +24638,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>Zwraca wartość logiczną PRAWDA.</translation>
     </message>
     <message>
+        <source>Returns the annual duration of a security with periodic interest payments.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
         <translation>Szacuje odchylenie standardowe na podstawie próbki. Nie pomija wartości logicznych i tekstowych.</translation>
     </message>
@@ -24449,6 +24674,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>GDY.KLAWISZ(klawisz_tekst; makro_tekst)</translation>
     </message>
     <message>
+        <source>Returns the previous coupon date before the settlement date.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
         <translation>Zwraca względną pozycję elementu w tablicy, odpowiadającą określonej wartości przy podanej kolejności.</translation>
     </message>
@@ -24467,6 +24696,14 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>Converts radians to degrees.</source>
         <translation>Konwertuje radiany na stopnie.</translation>
+    </message>
+    <message>
+        <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>COUPPCD(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ADD.BAR(bar_num)</source>
@@ -24537,8 +24774,16 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>WORKDAY.INTL(start_date,days,weekend,holidays)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WINDOW.TITLE(text)</source>
         <translation>OKNO.TYTUŁ(tekst)</translation>
+    </message>
+    <message>
+        <source>Returns an aggregate in a list or database.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>KURT(number1,number2,...)</source>
@@ -24597,6 +24842,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>PROCENT.POZYCJA(tablica; x; [istotność])</translation>
     </message>
     <message>
+        <source>Returns a logical &apos;Exclusive Or&apos; of all arguments.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>AREAS(reference)</source>
         <translation>OBSZARY(odwołanie)</translation>
     </message>
@@ -24611,6 +24860,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>Rounds a number up, away from zero.</source>
         <translation>Zaokrągla liczbę w górę (w kierunku: od zera).</translation>
+    </message>
+    <message>
+        <source>ISFORMULA(reference)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
@@ -24879,8 +25132,16 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>REGLINX(x; znane_y; znane_x)</translation>
     </message>
     <message>
+        <source>COVARIANCE.S(array1,array2)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>CELL(info_type, reference)</source>
         <translation>KOMÓRKA(info_typ; [odwołanie])</translation>
+    </message>
+    <message>
+        <source>COVARIANCE.P(array1,array2)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns a matrix determinant of an array.</source>
@@ -24903,12 +25164,20 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>Zaokrągla liczbę dodatnią w górę, a liczbę ujemną w dół do najbliższej liczby nieparzystej całkowitej.</translation>
     </message>
     <message>
+        <source>Calculates variance  based on the entire population(ignores logical values and text in the population).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</source>
         <translation>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</translation>
     </message>
     <message>
         <source>ISNUMBER(value)</source>
         <translation>CZY.LICZBA(wartość)</translation>
+    </message>
+    <message>
+        <source>NORM.S.DIST(z,cumulative)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SUMMARY.INFO(title, subject, author, keywords, comments)</source>
@@ -25080,6 +25349,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>WYPŁ.DNI.OD.POCZ(rozliczenie; data_spłaty; częstotliwość; [podstawa])</translation>
     </message>
     <message>
+        <source>Returns the Macauley modified duration for a security with an assumed par value of $100.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
         <translation>GDY.2KLIK(arkusz_tekst; makro_tekst)</translation>
     </message>
@@ -25122,6 +25395,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</source>
         <translation>Zwraca iloraz dwóch liczb zespolonych w postaci tekstowej x + yi lub x + yj.</translation>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns information about the formatting, location, or contents of the first cell, according to the sheet&apos;s reading order, in a reference.</source>
@@ -25190,6 +25467,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
         <translation>Zwraca odwołanie do zakresu, który jest daną liczbą wierszy lub kolumn z danego odwołania.</translation>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given condition or criteria.</source>
@@ -25368,12 +25649,20 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>NR.SER.DATY(data_początkowa; miesiące)</translation>
     </message>
     <message>
+        <source>Returns the discount rate for a security.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>HEX2DEC(number)</source>
         <translation>SZESN.NA.DZIES(liczba)</translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
         <translation>Wyszukiwania i odwołań</translation>
+    </message>
+    <message>
+        <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date and Time</source>
@@ -25417,7 +25706,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     </message>
     <message>
         <source>Returns the cumulative interest paid between start_period and  end_period.</source>
-        <translation type="unfinished"/>
+        <translation>Zwraca wartość skumulowanych odsetek spłaconych dla danego kredytu między argumentami okres_początkowy i okres_końcowy.</translation>
     </message>
     <message>
         <source>Returns the probability that values in a range which are between two limits.</source>
@@ -25518,6 +25807,10 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>REGISTER.ID(module_text, procedure, type_text)</source>
         <translation>REJESTR.KOD(moduł_tekst; procedura; typ_tekst])</translation>
+    </message>
+    <message>
+        <source>AGGREGATE(function_num,options,ref1,[ref2],...)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
@@ -25636,6 +25929,11 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>Wklej</translation>
     </message>
     <message>
+        <source>Recently 
+Used</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Evaluate Formula</source>
         <translation>Szacuj formułę</translation>
     </message>
@@ -25644,13 +25942,19 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
         <translation>Statystyczne</translation>
     </message>
     <message>
+        <source>More
+Functions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Logical</source>
         <translation>Logiczne</translation>
     </message>
     <message>
         <source>Insert
 Function</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw 
+funkcję</translation>
     </message>
     <message>
         <source>Financial</source>
@@ -25666,10 +25970,16 @@ Function</source>
     </message>
     <message>
         <source>Remove Precedents</source>
-        <translation type="unfinished"/>
+        <translation>Usuń elementy wpływające</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
+        <translation>Oblicz 
+arkusz</translation>
+    </message>
+    <message>
+        <source>Name
+Manager</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -25679,6 +25989,11 @@ Function</source>
     <message>
         <source>Error Checking</source>
         <translation>Sprawdzanie błędów</translation>
+    </message>
+    <message>
+        <source>Math and
+Trig</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Function Library</source>
@@ -25728,6 +26043,11 @@ godzina</translation>
     </message>
     <message>
         <source>Show Dependents</source>
+        <translation>Pokaż zależności</translation>
+    </message>
+	<message>
+        <source>Lookup and
+Reference</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -25737,6 +26057,11 @@ godzina</translation>
     <message>
         <source>Formula Auditing</source>
         <translation>Inspekcja formuł</translation>
+    </message>
+    <message>
+        <source>Recalculate
+Workbook</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -25799,7 +26124,7 @@ godzina</translation>
     </message>
     <message>
         <source>Font Outline</source>
-        <translation type="unfinished"/>
+        <translation>Kontur czcionki</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -25951,11 +26276,11 @@ godzina</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Styl kreskowany</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -25971,7 +26296,7 @@ godzina</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -26004,7 +26329,7 @@ tekstowe</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation type="unfinished"/>
+        <translation>Efekty tekstowe</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -26016,7 +26341,7 @@ tekstowe</translation>
     </message>
     <message>
         <source>Insert Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw pole tekstowe</translation>
     </message>
     <message>
         <source>Text Fill</source>
@@ -26059,7 +26384,7 @@ tekstowe</translation>
     </message>
     <message>
         <source>Clear Arrows</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść strzałki</translation>
     </message>
     <message>
         <source>Count</source>
@@ -26108,15 +26433,26 @@ funkcję</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
+        <translation>Oblicz 
+arkusz</translation>
+    </message>
+	<message>
+        <source>Name
+Manager</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Links</source>
         <translation type="unfinished"/>
     </message>
-    <message>
+	<message>
         <source>Error Checking</source>
         <translation>Sprawdzanie błędów</translation>
+    </message>
+	<message>
+        <source>Math and
+Trig</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Function Library</source>
@@ -26170,11 +26506,16 @@ godzina</translation>
     </message>
     <message>
         <source>Show Dependents</source>
+        <translation>Pokaż zależności</translation>
+    </message>
+    <message>
+        <source>Lookup and
+Reference</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Precedents</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż elementy wpływające</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
@@ -26366,11 +26707,11 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Styl kreskowany</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -26386,7 +26727,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -26430,7 +26771,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -26839,7 +27180,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Preview selected data</source>
-        <translation type="unfinished"/>
+        <translation>Podgląd wybranych danych</translation>
     </message>
 </context>
 <context>
@@ -26850,7 +27191,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Auto</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -26874,7 +27215,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Grand:</source>
@@ -26914,7 +27255,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>Value Field Orientation:</source>
@@ -26946,6 +27287,10 @@ skoroszyt</translation>
     <message>
         <source>Set</source>
         <translation>Ustaw</translation>
+    </message>
+    <message>
+        <source>Split Tables</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge Range Data</source>
@@ -27041,7 +27386,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu podręczne Kształtów</translation>
     </message>
     <message>
         <source>Cells Dialog</source>
@@ -27105,7 +27450,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>New Excel Workbook(E)</source>
-        <translation type="unfinished"/>
+        <translation>Nowy arkusz programu Excel (E)</translation>
     </message>
     <message>
         <source>Print</source>
@@ -27161,7 +27506,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Text Edit Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu podręczne Edycji tekstu</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
@@ -27170,7 +27515,7 @@ skoroszyt</translation>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Zrzut ekranu</translation>
     </message>
     <message>
         <source>Paste Previous Content</source>
@@ -27192,7 +27537,8 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Naprawa 
+plików</translation>
     </message>
     <message>
         <source>Hardware Encryption</source>
@@ -27208,7 +27554,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation type="unfinished"/>
+        <translation>Opinie i porady</translation>
     </message>
     <message>
         <source>MoreFontFill</source>
@@ -27272,7 +27618,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Czcionki online</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -27300,7 +27646,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>To Cell Picture</source>
-        <translation type="unfinished"/>
+        <translation>Osadź w komórce</translation>
     </message>
     <message>
         <source>NewChart SeriesLine</source>
@@ -27308,7 +27654,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>File Send</source>
-        <translation type="unfinished"/>
+        <translation>Wyślij na telefon komórkowy</translation>
     </message>
     <message>
         <source>Permission Protected</source>
@@ -27316,19 +27662,19 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Microsoft Excel Files</source>
-        <translation type="unfinished"/>
+        <translation>Pliki programu Microsoft Excel</translation>
     </message>
     <message>
         <source>Source material base</source>
-        <translation type="unfinished"/>
+        <translation>Material Base</translation>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Styl tabeli</translation>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation type="unfinished"/>
+        <translation>Biblioteka ikon</translation>
     </message>
     <message>
         <source>Link Preview</source>
@@ -27364,11 +27710,11 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>MoreFontEffects</source>
-        <translation type="unfinished"/>
+        <translation>Więcej efektów czcionki</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
-        <translation type="unfinished"/>
+        <translation>Pliki programu WPS Spreadsheets 2007/2010</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
@@ -27376,7 +27722,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>New Doc Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Proponowane</translation>
     </message>
     <message>
         <source>Curve Segment</source>
@@ -27451,7 +27797,7 @@ panele</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation type="unfinished"/>
+        <translation>Pliki programu Microsoft Excel 97–2003</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -27463,7 +27809,7 @@ panele</translation>
     </message>
     <message>
         <source>NewChart ChartTitle</source>
-        <translation type="unfinished"/>
+        <translation>Tytuł wykresu</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -27527,7 +27873,7 @@ panele</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
-        <translation type="unfinished"/>
+        <translation>Kolor motywu</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -27543,7 +27889,7 @@ panele</translation>
     </message>
     <message>
         <source>NewChart ChartArea</source>
-        <translation type="unfinished"/>
+        <translation>Obszar wykresu</translation>
     </message>
     <message>
         <source>Connector</source>
@@ -27559,7 +27905,7 @@ panele</translation>
     </message>
     <message>
         <source>QRCode</source>
-        <translation type="unfinished"/>
+        <translation>Kod QR</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -27579,7 +27925,7 @@ panele</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj bieżące okno, podczas wykonania wycinka ekranu</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -27729,7 +28075,8 @@ przestawna</translation>
     </message>
     <message>
         <source>Document Slimming</source>
-        <translation type="unfinished"/>
+        <translation>Odchudzanie
+ dokumentu</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -27741,7 +28088,7 @@ przestawna</translation>
     </message>
     <message>
         <source>EditSingleData</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj dane jednego mikrowykresu</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -27753,11 +28100,11 @@ przestawna</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Udział plików</translation>
     </message>
     <message>
         <source>NewChart Datapoint</source>
-        <translation type="unfinished"/>
+        <translation>Punkt danych wykresu</translation>
     </message>
     <message>
         <source>NewChart ErrorBar</source>
@@ -27769,7 +28116,7 @@ przestawna</translation>
     </message>
     <message>
         <source>Online Picture Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Galeria obrazów</translation>
     </message>
     <message>
         <source>NewChart DataTable</source>
@@ -27777,7 +28124,7 @@ przestawna</translation>
     </message>
     <message>
         <source>NewChart DropLine</source>
-        <translation type="unfinished"/>
+        <translation>Linia rzutu wykresu</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -27805,7 +28152,7 @@ przestawna</translation>
     </message>
     <message>
         <source>New Pivot Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Nowy styl tabeli przestawnej</translation>
     </message>
     <message>
         <source>ChemistryEquation</source>
@@ -27825,7 +28172,7 @@ przestawna</translation>
     </message>
     <message>
         <source>FlashFill</source>
-        <translation type="unfinished"/>
+        <translation>Wypełnianie błyskawiczne</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -27870,7 +28217,7 @@ przestawna</translation>
     </message>
     <message>
         <source>NewChart DataLabels</source>
-        <translation type="unfinished"/>
+        <translation>Etykiety danych wykresu</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -27878,11 +28225,11 @@ przestawna</translation>
     </message>
     <message>
         <source>ShortChart</source>
-        <translation type="unfinished"/>
+        <translation>Wykres</translation>
     </message>
     <message>
         <source>NewChart HighLowLine</source>
-        <translation type="unfinished"/>
+        <translation>Linia maks-min wykresu</translation>
     </message>
     <message>
         <source>InsertLatex</source>
@@ -27894,11 +28241,11 @@ przestawna</translation>
     </message>
     <message>
         <source>ShortSymbol</source>
-        <translation type="unfinished"/>
+        <translation>Symbole</translation>
     </message>
     <message>
         <source>ShortWordArt</source>
-        <translation>WordArt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear Filter from Slicers</source>
@@ -27914,7 +28261,7 @@ przestawna</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>DocerThemeColor</source>
@@ -27951,11 +28298,11 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>NewChart UpBar</source>
-        <translation type="unfinished"/>
+        <translation>Słupek wzrostu</translation>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
-        <translation type="unfinished"/>
+        <translation>Zrzut ekranu — zaokrąglony prostokąt</translation>
     </message>
     <message>
         <source>Chart Library</source>
@@ -27976,8 +28323,7 @@ with same name in workbooks</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Pełny 
-ekran</translation>
+        <translation>Pełny ekran</translation>
     </message>
     <message>
         <source>Fetch duplicates</source>
@@ -28018,7 +28364,7 @@ podziału stron</translation>
     </message>
     <message>
         <source>MoreEffects</source>
-        <translation type="unfinished"/>
+        <translation>Więcej efektów</translation>
     </message>
     <message>
         <source>Security</source>
@@ -28046,11 +28392,11 @@ podziału stron</translation>
     </message>
     <message>
         <source>Screen Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Zrzut ekranu — wielokąt</translation>
     </message>
     <message>
         <source>UnGroup</source>
-        <translation>Rozgrupuj</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -28066,7 +28412,7 @@ podziału stron</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Wycinek ekranu</translation>
     </message>
     <message>
         <source>Geogebra</source>
@@ -28086,7 +28432,7 @@ podziału stron</translation>
     </message>
     <message>
         <source>Screen Grab Rect</source>
-        <translation type="unfinished"/>
+        <translation>Zrzut ekranu — prostokąt</translation>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
@@ -28094,11 +28440,11 @@ podziału stron</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation type="unfinished"/>
+        <translation>Konwertuj wszystkie obrazy na arkuszu</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Konwertuj wybrany obraz</translation>
     </message>
     <message>
         <source>Thesaurus</source>
@@ -28106,7 +28452,7 @@ podziału stron</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <source>Refresh All</source>
@@ -28123,11 +28469,11 @@ wszystko</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Automatyczne tworzenie kopii zapasowych</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="unfinished"/>
+        <translation>Współpraca</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -28139,7 +28485,7 @@ wszystko</translation>
     </message>
     <message>
         <source>Form Control Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu podręczne Formantu formularza</translation>
     </message>
     <message>
         <source>New 
@@ -28149,7 +28495,7 @@ komentarz</translation>
     </message>
     <message>
         <source>NewChart AxisTitle</source>
-        <translation type="unfinished"/>
+        <translation>Tytuł osi wykresu</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -28173,7 +28519,7 @@ komentarz</translation>
     </message>
     <message>
         <source>EditGroupData</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj lokalizację grupy i dane</translation>
     </message>
     <message>
         <source>NewChart Axis</source>
@@ -28181,7 +28527,7 @@ komentarz</translation>
     </message>
     <message>
         <source>NewChart PlotArea</source>
-        <translation type="unfinished"/>
+        <translation>Obszar kreślenia wykresu</translation>
     </message>
     <message>
         <source>Freeze First Column</source>
@@ -28205,7 +28551,7 @@ komentarz</translation>
     </message>
     <message>
         <source>NewChart Series</source>
-        <translation type="unfinished"/>
+        <translation>Seria wykresu</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -28213,7 +28559,7 @@ komentarz</translation>
     </message>
     <message>
         <source>PasteAsValues</source>
-        <translation type="unfinished"/>
+        <translation>Wklej jako wartości</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -28249,7 +28595,7 @@ komentarz</translation>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
-        <translation type="unfinished"/>
+        <translation>Tryb ochrony oczu (nocny)</translation>
     </message>
     <message>
         <source>Fetch unique values</source>
@@ -28272,6 +28618,11 @@ komentarz</translation>
         <translation>Pokaż formuły</translation>
     </message>
     <message>
+        <source>Task
+Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PicOrTexture</source>
         <translation type="unfinished"/>
     </message>
@@ -28287,6 +28638,26 @@ skoroszyt</translation>
     <message>
         <source>Merge worksheets</source>
         <translation>Scal wiele arkuszy w jeden</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Visual Basic Editor</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -28536,7 +28907,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipeta</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Surface</source>
@@ -28599,11 +28970,11 @@ On/Off</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w dół</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w lewo</translation>
     </message>
     <message>
         <source>More 3D Colors</source>
@@ -28623,7 +28994,7 @@ On/Off</source>
     </message>
     <message>
         <source>72 pt.</source>
-        <translation type="unfinished"/>
+        <translation>72 pkt</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -28631,7 +29002,7 @@ On/Off</source>
     </message>
     <message>
         <source>144 pt.</source>
-        <translation type="unfinished"/>
+        <translation>144 pkt</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -28663,7 +29034,7 @@ On/Off</source>
     </message>
     <message>
         <source>288 pt.</source>
-        <translation type="unfinished"/>
+        <translation>288 pkt</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -28691,7 +29062,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w górę</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -28709,7 +29080,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w prawo</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -28947,7 +29318,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w dół</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
@@ -29031,7 +29402,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w górę</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -29202,7 +29573,7 @@ On/Off</source>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w górę</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -29381,7 +29752,7 @@ On/Off</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -29424,35 +29795,35 @@ On/Off</source>
     <name>KxImportDataFromWebDlgUI</name>
     <message>
         <source>新建Web查询</source>
-        <translation type="unfinished"/>
+        <translation>Nowa zapytanie internetowe</translation>
     </message>
     <message>
         <source>&amp;Option ...</source>
-        <translation type="unfinished"/>
+        <translation>Opcja...</translation>
     </message>
     <message>
         <source>地址(&amp;D):</source>
-        <translation type="unfinished"/>
+        <translation>Adres:</translation>
     </message>
     <message>
         <source>保存查询</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz zapytanie</translation>
     </message>
     <message>
         <source>导入(&amp;I)</source>
-        <translation type="unfinished"/>
+        <translation>Importuj</translation>
     </message>
     <message>
         <source>转到(&amp;T)</source>
-        <translation type="unfinished"/>
+        <translation>Idź do</translation>
     </message>
     <message>
         <source>停止</source>
-        <translation type="unfinished"/>
+        <translation>Zatrzymaj</translation>
     </message>
     <message>
         <source>前进</source>
-        <translation type="unfinished"/>
+        <translation>Dalej</translation>
     </message>
     <message>
         <source>刷新</source>
@@ -29468,15 +29839,15 @@ On/Off</source>
     </message>
     <message>
         <source>向前</source>
-        <translation type="unfinished"/>
+        <translation>Do przodu</translation>
     </message>
     <message>
         <source>保存</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <source>选项</source>
-        <translation type="unfinished"/>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>返回</source>
@@ -29873,7 +30244,9 @@ On/Off</source>
         <source>You applied more than one filter on one or more fields on a PivotTable.
 
 If you Let this Field check box Empty, and then click OK, all filters applied to these fields are deleted</source>
-        <translation type="unfinished"/>
+        <translation>Zastosowano więcej niż jeden filtr na jednym lub kilku polach w tabeli przestawnej.
+
+Jeśli to pole wyboru zostanie puste, a następnie klikniesz przycisk OK, wszystkie filtry zastosowane do tych pól zostaną usunięte</translation>
     </message>
     <message>
         <source>The number must be between 0 and 127. Try again by entering a number in this range.</source>
@@ -30019,7 +30392,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Przetłumacz na chiński uproszczony</translation>
     </message>
     <message>
         <source>Sort Descending</source>
@@ -30047,11 +30420,11 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>IntranetVersion Online Templates</source>
-        <translation>Szablony online</translation>
+        <translation>Szablony online wersja intranet</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"/>
+        <translation>Wklej jako tekst niesformatowany</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -30107,7 +30480,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation type="unfinished"/>
+        <translation>Pierwsze 10%</translation>
     </message>
     <message>
         <source>Tomorrow</source>
@@ -30183,7 +30556,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>WeChat Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Obsługa klienta WeChat</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -30219,7 +30592,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Przetłumacz na chiński tradycyjny</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -30250,7 +30623,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>accout secure</source>
-        <translation type="unfinished"/>
+        <translation>zabezpieczenia konta</translation>
     </message>
     <message>
         <source>Data</source>
@@ -30270,7 +30643,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>InteractiveChart</source>
-        <translation type="unfinished"/>
+        <translation>Wykres interaktywny</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -30318,7 +30691,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Opinia</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right Border</source>
@@ -30330,7 +30703,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Show Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż okienko zadań</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -30374,7 +30747,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Ribbon Auto Show/Hide</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie pokazuj/ukrywaj wstążkę</translation>
     </message>
     <message>
         <source>Cloud File Management</source>
@@ -30390,7 +30763,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Przycisk wstążki wyśrodkowany</translation>
     </message>
     <message>
         <source>WordArt Compatibility Mode</source>
@@ -30414,7 +30787,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation>Pokaż pasek narzędzi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ever Sheet</source>
@@ -30490,7 +30863,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>PDF Compress</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -30555,7 +30928,8 @@ przestawna</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"/>
+        <translation>Zawijaj
+ tekst</translation>
     </message>
     <message>
         <source>message Center</source>
@@ -30567,7 +30941,7 @@ przestawna</translation>
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation type="unfinished"/>
+        <translation>Łączenie plików PDF</translation>
     </message>
     <message>
         <source>PDF Split</source>
@@ -30633,7 +31007,8 @@ Wł./Wył.</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"/>
+        <translation>Scal i 
+wyśrodkuj</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -30656,11 +31031,11 @@ Wł./Wył.</translation>
         <translation>Komentarz</translation>
     </message>
     <message>
-        <source>Equation Tool</source>
+        <source>Launch Online Metting</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Launch Online Metting</source>
+        <source>Equation Tool</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -30693,7 +31068,7 @@ Wł./Wył.</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -30733,7 +31108,7 @@ Wł./Wył.</translation>
     </message>
     <message>
         <source>InsertDate</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw datę</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -30741,7 +31116,7 @@ Wł./Wył.</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Automatyczne tworzenie kopii zapasowych</translation>
     </message>
     <message>
         <source>Vertical Center</source>
@@ -30769,11 +31144,11 @@ Wł./Wył.</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"/>
+        <translation>Roaming pliku</translation>
     </message>
     <message>
         <source>enterprise Center</source>
-        <translation type="unfinished"/>
+        <translation>centrum firmowe</translation>
     </message>
     <message>
         <source>Center Across</source>
@@ -30810,7 +31185,8 @@ Wł./Wył.</translation>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"/>
+        <translation>Dołącz i
+wyśrodkuj</translation>
     </message>
     <message>
         <source>Online Editing</source>
@@ -30822,7 +31198,7 @@ Center</source>
     </message>
     <message>
         <source>My Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Moja subskrypcja</translation>
     </message>
     <message>
         <source>Format 
@@ -30836,7 +31212,7 @@ formatów</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"/>
+        <translation>Narzędzia tekstu</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
@@ -30853,6 +31229,10 @@ formatów</translation>
     <message>
         <source>Sign Out</source>
         <translation>Wyloguj się</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30879,7 +31259,7 @@ formatów</translation>
     </message>
     <message>
         <source>Apirl</source>
-        <translation type="unfinished"/>
+        <translation>Kwiecień</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -31007,7 +31387,7 @@ formatów</translation>
     </message>
     <message>
         <source>Other Sort Item</source>
-        <translation type="unfinished"/>
+        <translation>Inny element sortowania</translation>
     </message>
     <message>
         <source>September</source>
@@ -31043,7 +31423,7 @@ formatów</translation>
     </message>
     <message>
         <source>Greater Equal</source>
-        <translation type="unfinished"/>
+        <translation>Większe bądź równe</translation>
     </message>
     <message>
         <source>Ends With</source>
@@ -31059,7 +31439,7 @@ formatów</translation>
     </message>
     <message>
         <source>Betweenness</source>
-        <translation>Między</translation>
+        <translation>Pomiędzy</translation>
     </message>
     <message>
         <source>Select Field:</source>
@@ -31091,7 +31471,7 @@ formatów</translation>
     </message>
     <message>
         <source>Greater</source>
-        <translation type="unfinished"/>
+        <translation>Większe niż</translation>
     </message>
     <message>
         <source>Next Week</source>
@@ -31238,7 +31618,7 @@ formatów</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Opinia</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Office Facebook</source>
@@ -31246,7 +31626,7 @@ formatów</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Udział plików</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -31274,7 +31654,7 @@ formatów</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Wyświetl uprawnienia</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -31304,12 +31684,32 @@ formatów</translation>
         <source>Backup and Recover</source>
         <translation>Kopia zapasowa i odzyskiwanie</translation>
     </message>
+    <message>
+        <source>File Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Protection and Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PassWord Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
     <message>
         <source>New</source>
-        <translation>Nowy pusty skoroszyt</translation>
+        <translation>Nowy</translation>
     </message>
     <message>
         <source>Help</source>
@@ -31421,7 +31821,7 @@ formatów</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation type="unfinished"/>
+        <translation>Szablony programu Microsoft Excel 97–2003</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
@@ -31445,7 +31845,7 @@ formatów</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
@@ -31537,7 +31937,7 @@ formatów</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
-        <translation type="unfinished"/>
+        <translation>Pliki programu Microsoft Excel 2007–2010</translation>
     </message>
 </context>
 <context>
@@ -31823,7 +32223,7 @@ formatów</translation>
     </message>
     <message>
         <source>OceanBlue</source>
-        <translation type="unfinished"/>
+        <translation>Oceaniczny niebieski</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
@@ -31855,7 +32255,7 @@ formatów</translation>
     </message>
     <message>
         <source>IceBlue</source>
-        <translation type="unfinished"/>
+        <translation>Krystaliczny niebieski</translation>
     </message>
 </context>
 <context>
@@ -31977,7 +32377,7 @@ formatów</translation>
     </message>
     <message>
         <source>Enter up to %1 characters</source>
-        <translation type="unfinished"/>
+        <translation>Wpisz maksymalnie %1 znaków.</translation>
     </message>
     <message>
         <source>space</source>
@@ -31993,7 +32393,7 @@ formatów</translation>
     </message>
     <message>
         <source>Treat consecutive delimiters as one(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Traktuj kolejne separatory jako jeden</translation>
     </message>
     <message>
         <source>&amp;After keywords</source>
@@ -32005,7 +32405,7 @@ formatów</translation>
     </message>
     <message>
         <source>Please select the split mode</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz tryb podziału.</translation>
     </message>
     <message>
         <source>Separator(&amp;D)</source>
@@ -32017,7 +32417,7 @@ formatów</translation>
     </message>
     <message>
         <source>newline</source>
-        <translation type="unfinished"/>
+        <translation>Podział wiersza</translation>
     </message>
     <message>
         <source>Step 1 of the text partitioning wizard 2</source>
@@ -32025,15 +32425,15 @@ formatów</translation>
     </message>
     <message>
         <source>Step 2 of the text partitioning wizard 2</source>
-        <translation type="unfinished"/>
+        <translation>Kreator konwersji tekstu na kolumny Krok 2-2</translation>
     </message>
     <message>
         <source>Enter create splitter line location(&amp;I):</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź pozycję linii &amp;kolumny:</translation>
     </message>
     <message>
         <source>Complete</source>
-        <translation type="unfinished"/>
+        <translation>Zakończ</translation>
     </message>
     <message>
         <source>Recommend：</source>
@@ -32045,11 +32445,11 @@ formatów</translation>
     </message>
     <message>
         <source>KeyWord(&amp;K)</source>
-        <translation type="unfinished"/>
+        <translation>Według &amp;słowa kluczowego</translation>
     </message>
     <message>
         <source>Please select the type of text you want to categorize :</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz typ tekstu do podziału:</translation>
     </message>
     <message>
         <source>TextClassify(&amp;V)</source>
@@ -32073,7 +32473,7 @@ formatów</translation>
     </message>
     <message>
         <source>Enter an integer greater than 0</source>
-        <translation type="unfinished"/>
+        <translation>Wpisz dodatnią liczbę całkowitą.</translation>
     </message>
     <message>
         <source>Note: Click the dividing line to merge, and click again to split the column.</source>
@@ -32097,7 +32497,7 @@ formatów</translation>
     </message>
     <message>
         <source>The number entered cannot be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Liczba nie może być pusta.</translation>
     </message>
     <message>
         <source>KxEtSplitColumnsDlg</source>
@@ -32113,7 +32513,7 @@ formatów</translation>
     </message>
     <message>
         <source>Split by the following keywords :</source>
-        <translation type="unfinished"/>
+        <translation>Aby podzielić tekst, użyj następujących słów kluczowych:</translation>
     </message>
     <message>
         <source>&amp;create</source>
@@ -32121,15 +32521,15 @@ formatów</translation>
     </message>
     <message>
         <source>Next(&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Następny</translation>
     </message>
     <message>
         <source>&apos;(Data within single quotes are not separated)</source>
-        <translation type="unfinished"/>
+        <translation>&apos;(Nie dziel danych w pojedynczych cudzysłowach)</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Click at the desired position to CREATE a break line.Click and drag it to MOVE a break line.Double click on the line to DELETE a break line.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Kliknij miejsce podziału danych, aby utworzyć linię kolumny, którą można przeciągać lub usuwać, klikając dwukrotnie.</translation>
     </message>
     <message>
         <source>Column data types and previews</source>
@@ -32137,7 +32537,7 @@ formatów</translation>
     </message>
     <message>
         <source>Pre-keyword(&amp;F)</source>
-        <translation type="unfinished"/>
+        <translation>Prz&amp;ed słowem kluczowym</translation>
     </message>
     <message>
         <source>Chine&amp;se</source>
@@ -32145,7 +32545,7 @@ formatów</translation>
     </message>
     <message>
         <source>Input separator(&amp;I):</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź s&amp;eparator:</translation>
     </message>
 </context>
 <context>
@@ -32629,6 +33029,10 @@ formatów</translation>
         <translation>Wy&amp;czyść</translation>
     </message>
     <message>
+        <source>&amp;Text Direction:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>T
 e
 x
@@ -32823,7 +33227,7 @@ t</translation>
     </message>
     <message>
         <source>StandardError</source>
-        <translation type="unfinished"/>
+        <translation>Błąd standardowy</translation>
     </message>
     <message>
         <source>Linear Forecast</source>
@@ -32831,7 +33235,7 @@ t</translation>
     </message>
     <message>
         <source>HighLowLines</source>
-        <translation type="unfinished"/>
+        <translation>Linie maks-min</translation>
     </message>
     <message>
         <source>DropLinesAndHighLowLines</source>
@@ -32839,7 +33243,7 @@ t</translation>
     </message>
     <message>
         <source>CenteredOverlay</source>
-        <translation type="unfinished"/>
+        <translation>Wyśrodkowany nakładany</translation>
     </message>
     <message>
         <source>AddDataLabels</source>
@@ -32903,7 +33307,7 @@ t</translation>
     </message>
     <message>
         <source>PrimaryMinorVertial</source>
-        <translation type="unfinished"/>
+        <translation>Podstawowe pomocnicze pionowe</translation>
     </message>
     <message>
         <source>AddAxis</source>
@@ -32911,7 +33315,8 @@ t</translation>
     </message>
     <message>
         <source>SwitchRowCol</source>
-        <translation type="unfinished"/>
+        <translation>Przełącz
+wiersz/kolumnę</translation>
     </message>
     <message>
         <source>AddGridLine</source>
@@ -32919,11 +33324,11 @@ t</translation>
     </message>
     <message>
         <source>BestFit</source>
-        <translation type="unfinished"/>
+        <translation>Autodopasowanie</translation>
     </message>
     <message>
         <source>SecondaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Pomocnicza oś pozioma</translation>
     </message>
     <message>
         <source>AddLegend</source>
@@ -32931,7 +33336,7 @@ t</translation>
     </message>
     <message>
         <source>DataCallout</source>
-        <translation type="unfinished"/>
+        <translation>Objaśnienie danych</translation>
     </message>
     <message>
         <source>speedLayout</source>
@@ -32947,11 +33352,11 @@ t</translation>
     </message>
     <message>
         <source>SecondaryMajorVertical</source>
-        <translation type="unfinished"/>
+        <translation>Pomocnicze główne pionowe</translation>
     </message>
     <message>
         <source>AddErrorBar</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj słupek błędu</translation>
     </message>
     <message>
         <source>DataSection</source>
@@ -32959,11 +33364,11 @@ t</translation>
     </message>
     <message>
         <source>InsideEnd</source>
-        <translation type="unfinished"/>
+        <translation>Koniec wewnętrzny</translation>
     </message>
     <message>
         <source>OutsideEnd</source>
-        <translation type="unfinished"/>
+        <translation>Koniec zewnętrzny</translation>
     </message>
     <message>
         <source>PrimaryMinorHorizontal</source>
@@ -32995,15 +33400,15 @@ t</translation>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation type="unfinished"/>
+        <translation>Przenieś wykres</translation>
     </message>
     <message>
         <source>AboveChart</source>
-        <translation type="unfinished"/>
+        <translation>Nad wykresem</translation>
     </message>
     <message>
         <source>PrimaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Główna oś pozioma</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
@@ -33011,15 +33416,15 @@ t</translation>
     </message>
     <message>
         <source>SecondaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Pomocnicze poziome</translation>
     </message>
     <message>
         <source>SecondaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Pomocnicza oś pionowa</translation>
     </message>
     <message>
         <source>changeColor</source>
-        <translation type="unfinished"/>
+        <translation>Zmień kolor</translation>
     </message>
     <message>
         <source>AddDataTable</source>
@@ -33043,15 +33448,15 @@ t</translation>
     </message>
     <message>
         <source>AddUpDownBar</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj słupek wzrostu/spadku</translation>
     </message>
     <message>
         <source>NoLegendKeys</source>
-        <translation type="unfinished"/>
+        <translation>Bez kluczy legendy</translation>
     </message>
     <message>
         <source>InsideBase</source>
-        <translation type="unfinished"/>
+        <translation>Podstawa wewnętrzna</translation>
     </message>
 </context>
 <context>
@@ -33074,11 +33479,11 @@ t</translation>
     </message>
     <message>
         <source>AddTrendLine</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj linię trendu</translation>
     </message>
     <message>
         <source>PrimaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Główna oś pionowa</translation>
     </message>
     <message>
         <source>Above</source>
@@ -33094,11 +33499,11 @@ t</translation>
     </message>
     <message>
         <source>ChangeChartType</source>
-        <translation type="unfinished"/>
+        <translation>Zmień typ wykresu</translation>
     </message>
     <message>
         <source>SecondaryMajorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Pomocnicze główne poziome</translation>
     </message>
     <message>
         <source>StandardError</source>
@@ -33110,7 +33515,7 @@ t</translation>
     </message>
     <message>
         <source>HighLowLines</source>
-        <translation type="unfinished"/>
+        <translation>Linie maks-min</translation>
     </message>
     <message>
         <source>DropLinesAndHighLowLines</source>
@@ -33122,7 +33527,7 @@ t</translation>
     </message>
     <message>
         <source>AddDataLabels</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj etykiety danych</translation>
     </message>
     <message>
         <source>SecondaryMinorVertial</source>
@@ -33142,7 +33547,7 @@ t</translation>
     </message>
     <message>
         <source>AddAxisTitle</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj tytuł osi</translation>
     </message>
     <message>
         <source>Exponential</source>
@@ -33158,7 +33563,7 @@ t</translation>
     </message>
     <message>
         <source>PrimaryMajorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Podstawowe główne poziome</translation>
     </message>
     <message>
         <source>Reset Style</source>
@@ -33166,11 +33571,11 @@ t</translation>
     </message>
     <message>
         <source>PrimaryMajorVertical</source>
-        <translation type="unfinished"/>
+        <translation>Podstawowe główne pionowe</translation>
     </message>
     <message>
         <source>StandardDeviation</source>
-        <translation type="unfinished"/>
+        <translation>Odchylenie standardowe</translation>
     </message>
     <message>
         <source>DropLines</source>
@@ -33182,23 +33587,24 @@ t</translation>
     </message>
     <message>
         <source>PrimaryMinorVertial</source>
-        <translation type="unfinished"/>
+        <translation>Podstawowe pomocnicze pionowe</translation>
     </message>
     <message>
         <source>AddAxis</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj oś</translation>
     </message>
     <message>
         <source>SwitchRowCol</source>
-        <translation type="unfinished"/>
+        <translation>Przełącz
+wiersz/kolumnę</translation>
     </message>
     <message>
         <source>AddGridLine</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj linię siatki</translation>
     </message>
     <message>
         <source>BestFit</source>
-        <translation type="unfinished"/>
+        <translation>Autodopasowanie</translation>
     </message>
     <message>
         <source>SecondaryHorizontalAxis</source>
@@ -33206,7 +33612,7 @@ t</translation>
     </message>
     <message>
         <source>AddLegend</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj legendę</translation>
     </message>
     <message>
         <source>DataCallout</source>
@@ -33214,7 +33620,7 @@ t</translation>
     </message>
     <message>
         <source>speedLayout</source>
-        <translation type="unfinished"/>
+        <translation>Szybki układ</translation>
     </message>
     <message>
         <source>ChartStyle</source>
@@ -33238,7 +33644,7 @@ t</translation>
     </message>
     <message>
         <source>DataSection</source>
-        <translation type="unfinished"/>
+        <translation>Sekcja danych</translation>
     </message>
     <message>
         <source>InsideEnd</source>
@@ -33250,23 +33656,23 @@ t</translation>
     </message>
     <message>
         <source>PrimaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Podstawowe pomocnicze poziome</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"/>
+        <translation>Zaznacz dane</translation>
     </message>
     <message>
         <source>layoutSection</source>
-        <translation type="unfinished"/>
+        <translation>Układ sekcji</translation>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj elementy wykresu</translation>
     </message>
     <message>
         <source>SeriesLines</source>
-        <translation type="unfinished"/>
+        <translation>Linie serii</translation>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -33274,7 +33680,7 @@ t</translation>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation type="unfinished"/>
+        <translation>Przenieś wykres</translation>
     </message>
     <message>
         <source>AboveChart</source>
@@ -33282,7 +33688,7 @@ t</translation>
     </message>
     <message>
         <source>PrimaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Główna oś pozioma</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
@@ -33294,7 +33700,7 @@ t</translation>
     </message>
     <message>
         <source>SecondaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Pomocnicza oś pionowa</translation>
     </message>
     <message>
         <source>changeColor</source>
@@ -33310,7 +33716,7 @@ t</translation>
     </message>
     <message>
         <source>AddChartTitle</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj tytuł wykresu</translation>
     </message>
     <message>
         <source>AddChartLines</source>
@@ -33330,7 +33736,7 @@ t</translation>
     </message>
     <message>
         <source>InsideBase</source>
-        <translation type="unfinished"/>
+        <translation>Podstawa wewnętrzna</translation>
     </message>
 </context>
 <context>
@@ -33358,11 +33764,11 @@ t</translation>
     </message>
     <message>
         <source>No more prompts, the default is to use this option to open larger html files</source>
-        <translation type="unfinished"/>
+        <translation>Nie pytaj ponownie. Ustaw metodę użytą tym razem jako domyślną metodę dla dużych plików HTML.</translation>
     </message>
     <message>
         <source>You may consider using simplified mode to open the content,</source>
-        <translation type="unfinished"/>
+        <translation>Możesz otworzyć go w trybie uproszczonym,</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -33374,11 +33780,11 @@ t</translation>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation type="unfinished"/>
+        <translation>Pole wyboru</translation>
     </message>
     <message>
         <source>simplified mode</source>
-        <translation type="unfinished"/>
+        <translation>Tryb uproszczony</translation>
     </message>
 </context>
 <context>
@@ -33389,7 +33795,7 @@ t</translation>
     </message>
     <message>
         <source>This workbook has referred to data on other workbooks. Update to get the latest data ?</source>
-        <translation type="unfinished"/>
+        <translation>Ten skoroszyt zawiera odniesienia do danych z innych skoroszytów. Czy chcesz zaktualizować dane do najnowszych wersji?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has turned on Manual Recalculation, in which calculation result will not immediately reflect data change.</source>
@@ -33397,11 +33803,11 @@ t</translation>
     </message>
     <message>
         <source>security warning: macros have been disabled</source>
-        <translation type="unfinished"/>
+        <translation>Ostrzeżenie o zabezpieczeniach: makra zostały wyłączone.</translation>
     </message>
     <message>
         <source>enable macros</source>
-        <translation type="unfinished"/>
+        <translation>Włącz makra</translation>
     </message>
     <message>
         <source>%1 You can switch to %3 Auto Recalculation %4. %2</source>
@@ -33413,7 +33819,7 @@ t</translation>
     </message>
     <message>
         <source>security warning: Macros and automatic update links have been disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Ostrzeżenie zabezpieczeń: wyłączono makra i automatyczne aktualizowanie linków.</translation>
     </message>
 </context>
 <context>
@@ -33796,7 +34202,7 @@ Use * represent any number of character</source>
     </message>
     <message>
         <source>is less than or equal</source>
-        <translation type="unfinished"/>
+        <translation>jest mniejsza lub równa</translation>
     </message>
     <message>
         <source>is greater than</source>
@@ -34176,7 +34582,7 @@ On</source>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Deseń linii</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -34184,7 +34590,7 @@ On</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów wypełnienia</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -34272,7 +34678,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation>Grubość</translation>
+        <translation>Paleta stylu linii</translation>
     </message>
     <message>
         <source>WordArt 
@@ -34670,7 +35076,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Deseń linii</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -34678,7 +35084,7 @@ WordArt</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów wypełnienia</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -34871,7 +35277,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -34895,7 +35301,7 @@ WordArt</translation>
     </message>
     <message>
         <source>WordArt Shape Fill</source>
-        <translation>Wypełnienie tekstu WordArt</translation>
+        <translation>Wypełnienie kształtu tekstu WordArt</translation>
     </message>
     <message>
         <source>Very Loose</source>
@@ -35153,7 +35559,9 @@ WordArt</translation>
         <source>This shape represents a slicer.
 
 Slicers can&apos;t be used in this version, please update to latest version of WPS Office.</source>
-        <translation type="unfinished"/>
+        <translation>Ten kształt reprezentuje fragmentator.
+
+W tej wersji nie można używać fragmentatorów, należy zaktualizować do najnowszej wersji WPS Office.</translation>
     </message>
     <message>
         <source>#DIV/0!</source>
@@ -35609,7 +36017,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -35677,7 +36085,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obraz</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -35685,7 +36093,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Linie z deseniem</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -35793,7 +36201,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Paleta stylu linii</translation>
     </message>
     <message>
         <source>3-D Style</source>
@@ -35893,11 +36301,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Styl kreskowany</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -36092,7 +36500,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obraz</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -36231,7 +36639,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -36323,7 +36731,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów wypełnienia</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -36431,7 +36839,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation type="unfinished"/>
+        <translation>Obrót 3-D</translation>
     </message>
     <message>
         <source>Local Text Box</source>
@@ -36455,7 +36863,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -36479,7 +36887,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -36610,11 +37018,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation type="unfinished"/>
+        <translation>Przytnij do skali</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation type="unfinished"/>
+        <translation>Przytnij do kształtu</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -36650,7 +37058,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów wypełnienia</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -36730,7 +37138,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation type="unfinished"/>
+        <translation>Obrót 3-D</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -36754,11 +37162,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Styl kreskowany</translation>
     </message>
     <message>
         <source>Graphic Fill</source>
-        <translation type="unfinished"/>
+        <translation>Wypełnij obraz</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -36913,7 +37321,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -36965,7 +37373,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów wypełnienia</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -37017,7 +37425,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Paleta stylu linii</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -37036,8 +37444,14 @@ Slicers can&apos;t be used in this version, please update to latest version of W
         <translation>Mój obraz</translation>
     </message>
     <message>
-        <source>Compress Pictures</source>
+        <source>Compress
+Pictures</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compress Pictures</source>
+        <translation>Kompresuj
+ obrazy</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -37053,7 +37467,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -37062,7 +37476,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     <message>
         <source>Change
 Picture</source>
-        <translation>Zmień obraz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Square Dot</source>
@@ -37086,7 +37500,7 @@ Picture</source>
     </message>
     <message>
         <source>Lock rate</source>
-        <translation type="unfinished"/>
+        <translation>Zablokuj współczynnik proporcji</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -37094,7 +37508,8 @@ Picture</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Okienko 
+zaznaczenia</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -37110,7 +37525,7 @@ Picture</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -37198,6 +37613,10 @@ obrazu</translation>
     <message>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37324,7 +37743,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Deseń linii</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -37380,7 +37799,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Paleta stylu linii</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -37424,7 +37843,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w górę</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -37446,7 +37865,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w prawo</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -37470,11 +37889,11 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Styl kreskowany</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -37562,7 +37981,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -37617,11 +38036,11 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Edit data</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj dane</translation>
     </message>
     <message>
         <source>HiddenAndEmptyCells</source>
-        <translation type="unfinished"/>
+        <translation>Ukryte i puste komórki</translation>
     </message>
     <message>
         <source>Marker Color</source>
@@ -37669,7 +38088,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation type="unfinished"/>
+        <translation>Grubość linii</translation>
     </message>
     <message>
         <source>First Point</source>
@@ -37717,7 +38136,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>SwitchRowColumn</source>
-        <translation type="unfinished"/>
+        <translation>Przełącz wiersz/kolumnę</translation>
     </message>
     <message>
         <source>Custom Value</source>
@@ -37908,7 +38327,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów wypełnienia</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -38012,7 +38431,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>Obrót 3-D</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -38032,11 +38451,11 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Styl kreskowany</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -38056,7 +38475,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38167,7 +38586,8 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"/>
+        <translation>Malarz 
+formatów</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -38187,7 +38607,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -38223,7 +38643,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Linie z deseniem</translation>
+        <translation>Deseń linii</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -38508,7 +38928,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w lewo</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -38532,7 +38952,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw ClipArt</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -38620,7 +39040,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Paleta stylu linii</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -38664,7 +39084,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w górę</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -38680,11 +39100,11 @@ obrazu</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Kreska-kropka</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń cień w prawo</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -38728,7 +39148,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Długa kreska-kropka-kreska</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -38792,7 +39212,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -38815,6 +39235,12 @@ obrazu</translation>
     </message>
     <message>
         <source>Split Sheets</source>
+        <translation>Podziel arkusze 
+według zawartości</translation>
+    </message>
+    <message>
+        <source>Text to
+ Columns</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -38831,7 +39257,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść wyróżnienie duplikatów</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -38880,7 +39306,7 @@ Data</source>
     </message>
     <message>
         <source>ImportDataFromWeb</source>
-        <translation type="unfinished"/>
+        <translation>Z Internetu</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -38904,7 +39330,8 @@ Data</source>
     </message>
     <message>
         <source>Split Books</source>
-        <translation type="unfinished"/>
+        <translation>Podziel skoroszyty 
+według arkuszy</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -38924,6 +39351,11 @@ przestawna</translation>
         <translation>Scal arkusz</translation>
     </message>
     <message>
+        <source>Text to
+Columns</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Set Highlight Duplicates</source>
         <translation type="unfinished"/>
     </message>
@@ -38934,6 +39366,10 @@ przestawna</translation>
     <message>
         <source>Reapply</source>
         <translation>Zastosuj ponownie</translation>
+    </message>
+    <message>
+        <source>Smart Split Columns</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge worksheets 
@@ -38968,6 +39404,11 @@ częściowa</translation>
     <message>
         <source>Connections</source>
         <translation>Połączenia</translation>
+    </message>
+    <message>
+		<source>Refresh 
+All</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ungroup</source>
@@ -39027,6 +39468,30 @@ połączenia</translation>
         <source>Merge worksheets</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Highlight duplicates2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fetch duplicates2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fetch unique values2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Highlight unique values2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Import Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge Tables</source>
+        <translation type="unfinished"/>
+    </message>	
 </context>
 <context>
     <name>KxTpEtPivotTable</name>
@@ -39226,14 +39691,14 @@ połączenia</translation>
     <name>KxEtInsertWithLineEditCommand</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie</translation>
     </message>
 </context>
 <context>
     <name>KxEtWithLineEditCommand</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie</translation>
     </message>
     <message>
         <source>Rows:</source>
@@ -39255,14 +39720,14 @@ połączenia</translation>
     <name>KxInsertCellsDlg</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool_vml.PictureColor</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automatyczny</translation>
     </message>
     <message>
         <source>Color</source>
@@ -39285,7 +39750,7 @@ połączenia</translation>
     <name>rainbow.ct_picturetool.PictureColor</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automatyczny</translation>
     </message>
     <message>
         <source>Color</source>
@@ -39399,7 +39864,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Two password inconsistencies</source>
-        <translation type="unfinished"/>
+        <translation>Hasła są niezgodne.</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
@@ -39431,7 +39896,7 @@ połączenia</translation>
     </message>
     <message>
         <source>The password of the edit permission must be no longer than 15 characters.</source>
-        <translation type="unfinished"/>
+        <translation>Maksymalna długość hasła dla uprawnienia do edycji to 15 znaków.</translation>
     </message>
     <message>
         <source>New Custom Dictionary</source>
@@ -39517,6 +39982,14 @@ połączenia</translation>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
         <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
+    <message>
+        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxCellStyleDlg</name>
@@ -39542,7 +40015,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"/>
+        <translation>Zatrzymaj</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -39550,7 +40023,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Vertical Distributed Aligned</source>
-        <translation type="unfinished"/>
+        <translation>Rozłożone pionowo</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -39578,7 +40051,7 @@ połączenia</translation>
     </message>
     <message>
         <source>DiagonalDown</source>
-        <translation type="unfinished"/>
+        <translation>UkośnieWDół</translation>
     </message>
     <message>
         <source>No Number Format</source>
@@ -39586,7 +40059,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>ReadingOrder</source>
@@ -39610,7 +40083,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Bottom Aligned</source>
-        <translation>Dolne</translation>
+        <translation>Wyrównany do dołu</translation>
     </message>
     <message>
         <source>Vertical Center Aligned</source>
@@ -39622,7 +40095,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
-        <translation type="unfinished"/>
+        <translation>Kolejność czytania kontekstu</translation>
     </message>
     <message>
         <source>Left-to-Right Reading Order</source>
@@ -39710,7 +40183,7 @@ połączenia</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -39730,7 +40203,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Style Name Not Valid</source>
-        <translation type="unfinished"/>
+        <translation>Nieprawidłowa nazwa stylu</translation>
     </message>
     <message>
         <source>No Alignment</source>
@@ -39762,7 +40235,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Shrink To fit</source>
-        <translation type="unfinished"/>
+        <translation>Zmniejszaj, aby dopasować</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -39770,7 +40243,7 @@ połączenia</translation>
     </message>
     <message>
         <source>TextFont</source>
-        <translation type="unfinished"/>
+        <translation> (Czcionka tekstu)</translation>
     </message>
     <message>
         <source>Center Across</source>
@@ -39782,7 +40255,7 @@ połączenia</translation>
     </message>
     <message>
         <source>You are not allowed to add the default style name.</source>
-        <translation type="unfinished"/>
+        <translation>Nie możesz dodać domyślnej nazwy stylu.</translation>
     </message>
     <message>
         <source>Alignment:</source>
@@ -39860,7 +40333,7 @@ połączenia</translation>
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation type="unfinished"/>
+        <translation>Czcionka jest przeznaczona dla plotera.</translation>
     </message>
     <message>
         <source> (text)</source>
@@ -39955,7 +40428,7 @@ połączenia</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation type="unfinished"/>
+        <translation>Ten styl czcionki jest imitowany dla wyświetlania. Do drukowania zostanie użyty najbliższy jemu styl.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -39990,7 +40463,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"/>
+        <translation>Zaznacz obiekt</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -40014,7 +40487,7 @@ połączenia</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"/>
+        <translation>3 pkt</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -40050,11 +40523,11 @@ połączenia</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>2,25 pkt</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,25 pkt</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
@@ -40126,7 +40599,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Linie z deseniem</translation>
+        <translation>Deseń linii</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -40186,7 +40659,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Paleta stylu linii</translation>
     </message>
     <message>
         <source>Edit Shape</source>
@@ -40214,7 +40687,7 @@ połączenia</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>4,5 pkt</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -40278,11 +40751,11 @@ połączenia</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Przerzuć w pionie</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Długa kreska-kropka-kreska</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -40346,7 +40819,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -40397,11 +40870,11 @@ połączenia</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="unfinished"/>
+        <translation>1 pkt</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"/>
+        <translation>3 pkt</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -40437,7 +40910,7 @@ połączenia</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2,25 pkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>0.25 pt.</source>
@@ -40501,7 +40974,7 @@ połączenia</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0,5 pkt</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -40517,7 +40990,7 @@ połączenia</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów wypełnienia</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -40653,7 +41126,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -40665,7 +41138,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Przerzuć w pionie</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -40681,7 +41154,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Zmień kształty</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -40733,7 +41206,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -40779,7 +41252,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Insert shape in before</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw kształt przed</translation>
     </message>
     <message>
         <source>Reduce Level</source>
@@ -40787,7 +41260,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Insert Shape</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw kształt</translation>
     </message>
     <message>
         <source>Create Graph</source>
@@ -40803,11 +41276,11 @@ połączenia</translation>
     </message>
     <message>
         <source>RightToLeft Layout</source>
-        <translation type="unfinished"/>
+        <translation>Układ prawa do lewej</translation>
     </message>
     <message>
         <source>Insert assist</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw pomoc</translation>
     </message>
     <message>
         <source>Insert shape on below</source>
@@ -40815,7 +41288,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Insert shape in after</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw kształt po</translation>
     </message>
     <message>
         <source>Insert shape on above</source>
@@ -40823,7 +41296,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"/>
+        <translation>Do tyłu</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -40847,7 +41320,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Right Hang</source>
-        <translation type="unfinished"/>
+        <translation>Do prawej</translation>
     </message>
 </context>
 <context>
@@ -41174,7 +41647,7 @@ połączenia</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"/>
+        <translation>Pierwszy wiersz i ostatni wiersz</translation>
     </message>
     <message>
         <source>Last Row</source>
@@ -41364,7 +41837,7 @@ połączenia</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcje tabeli przestawnej</translation>
     </message>
     <message>
         <source>Displa&amp;y item labels when no fields are in the values area</source>
@@ -41487,7 +41960,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż pasek narzędzi</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -41571,7 +42044,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -41653,6 +42126,16 @@ połączenia</translation>
         <translation>Zwiń całe pole</translation>
     </message>
     <message>
+        <source>Field 
+Headers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move 
+PivotTable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PivotTable Name:</source>
         <translation>Nazwa tabeli przestawnej:</translation>
     </message>
@@ -41662,6 +42145,11 @@ połączenia</translation>
     </message>
     <message>
         <source>Fields,Items</source>
+        <translation>Pola, elementy</translation>
+    </message>
+    <message>
+        <source>Change Data 
+Source</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -41710,6 +42198,11 @@ połączenia</translation>
     </message>
     <message>
         <source>Pivot Table</source>
+        <translation>Tabela przestawna</translation>
+    </message>
+    <message>
+        <source>Field 
+List</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -41726,7 +42219,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Labels And Values</source>
-        <translation type="unfinished"/>
+        <translation>Etykiety i wartości</translation>
     </message>
     <message>
         <source>Clear Filters</source>
@@ -41747,6 +42240,11 @@ połączenia</translation>
     <message>
         <source>Refresh</source>
         <translation>Odśwież</translation>
+    </message>
+    <message>
+        <source>+/- 
+Buttons</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filter Connections</source>
@@ -41778,7 +42276,7 @@ połączenia</translation>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation type="unfinished"/>
+        <translation>Przenieś wykres</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -41895,6 +42393,16 @@ połączenia</translation>
         <source>Move Left</source>
         <translation>Przenieś w lewo</translation>
     </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgHeaderFooterWidget</name>
@@ -41928,7 +42436,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obraz</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
@@ -42278,7 +42786,7 @@ Pozwala to również scalać skoroszyty.</translation>
     </message>
     <message>
         <source>All Formats(&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Wszystkie formaty</translation>
     </message>
     <message>
         <source>Finding cells... Press Esc to interrupt...</source>
@@ -42708,6 +43216,11 @@ wydruku</translation>
     <message>
         <source>Borders</source>
         <translation>Obramowania</translation>
+    </message>
+    <message>
+        <source>Merge and 
+Center</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -43612,7 +44125,8 @@ połączenia</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Układ do
+ czytania</translation>
     </message>
     <message>
         <source>Share</source>
@@ -43620,7 +44134,8 @@ połączenia</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Naprawa 
+plików</translation>
     </message>
     <message>
         <source>Roaming File</source>
@@ -43628,7 +44143,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Sharing File</source>
-        <translation type="unfinished"/>
+        <translation>Udostępnienie pliku</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -43652,15 +44167,15 @@ połączenia</translation>
     </message>
     <message>
         <source>Document History</source>
-        <translation type="unfinished"/>
+        <translation>Dokument historii</translation>
     </message>
     <message>
         <source>Special Tools</source>
-        <translation type="unfinished"/>
+        <translation>Narzędzia specjalne</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Wyślij na telefon komórkowy</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -43668,7 +44183,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Cloud File Guid</source>
-        <translation type="unfinished"/>
+        <translation>Identyfikator GUID pliku w chmurze</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -43688,7 +44203,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Konwertuj na plik PDF</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -43700,7 +44215,7 @@ połączenia</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Informacja zwrotna użytkownika</translation>
     </message>
     <message>
         <source>Invoice Maker</source>
@@ -43712,7 +44227,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Team File</source>
-        <translation type="unfinished"/>
+        <translation>Plik zespołowy</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -43720,11 +44235,12 @@ połączenia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
-        <translation type="unfinished"/>
+        <translation>Szablony online wersja intranet</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
@@ -43741,7 +44257,7 @@ połączenia</translation>
     </message>
     <message>
         <source>RB_Document Slimming</source>
-        <translation>Redukcja dokumentu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XiuTang H5</source>
@@ -43765,7 +44281,8 @@ połączenia</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj
+ do PDF</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -43773,7 +44290,8 @@ połączenia</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -43785,7 +44303,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Automatyczne tworzenie kopii zapasowych</translation>
     </message>
     <message>
         <source>Online Co-edit</source>
@@ -43837,7 +44355,7 @@ telefon</translation>
     </message>
     <message>
         <source>Insert Pictures From Phone</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obrazy z telefonu</translation>
     </message>
     <message>
         <source>Shortcut Setting</source>
@@ -43846,7 +44364,7 @@ telefon</translation>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Wycinek ekranu</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
@@ -43854,7 +44372,8 @@ telefon</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Naprawa 
+plików</translation>
     </message>
     <message>
         <source>Hardware Encryption</source>
@@ -43866,11 +44385,11 @@ telefon</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Informacja zwrotna</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Obraz online</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Picture Frame</source>
@@ -43878,11 +44397,11 @@ telefon</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj jako obraz</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Czcionki online</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -43898,11 +44417,11 @@ telefon</translation>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation type="unfinished"/>
+        <translation>Biblioteka ikon</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation type="unfinished"/>
+        <translation>Podgląd linku</translation>
     </message>
     <message>
         <source>All Comments</source>
@@ -43918,7 +44437,8 @@ telefon</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Analiza 
+warunkowa</translation>
     </message>
     <message>
         <source>Split or Merge</source>
@@ -43950,7 +44470,7 @@ telefon</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Galeria</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -43974,7 +44494,7 @@ telefon</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
-        <translation type="unfinished"/>
+        <translation>Kolor motywu</translation>
     </message>
     <message>
         <source>More Online Charts</source>
@@ -43998,7 +44518,7 @@ telefon</translation>
     </message>
     <message>
         <source>PDF To PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF do PPT</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -44006,7 +44526,7 @@ telefon</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>PDFCompress</source>
@@ -44022,7 +44542,7 @@ telefon</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Konwertuj na plik PDF</translation>
     </message>
     <message>
         <source>My Picture</source>
@@ -44034,7 +44554,7 @@ telefon</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Udostępnij</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Picture Gallery</source>
@@ -44042,7 +44562,7 @@ telefon</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation type="unfinished"/>
+        <translation>Podgląd sieci Web</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -44066,7 +44586,7 @@ telefon</translation>
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation type="unfinished"/>
+        <translation>Łączenie plików PDF</translation>
     </message>
     <message>
         <source>PDF Split</source>
@@ -44082,7 +44602,7 @@ telefon</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -44114,7 +44634,7 @@ telefon</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="unfinished"/>
+        <translation>Materiały</translation>
     </message>
     <message>
         <source>DocerWordArt</source>
@@ -44138,15 +44658,15 @@ telefon</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation type="unfinished"/>
+        <translation>WpsPackagePlugin</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Wycinek ekranu</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -44170,11 +44690,11 @@ telefon</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Automatyczne tworzenie kopii zapasowych</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="unfinished"/>
+        <translation>Współpraca</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -44198,7 +44718,7 @@ telefon</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdź moje uprawnienia</translation>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -44217,6 +44737,14 @@ telefon</translation>
         <source>From Phone</source>
         <translation>Z telefonu</translation>
     </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_workspace</name>
@@ -44230,7 +44758,8 @@ telefon</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Układ do 
+czytania</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -44270,7 +44799,8 @@ telefon</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
@@ -44294,11 +44824,13 @@ telefon</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj 
+do PDF</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -44382,7 +44914,7 @@ przestawna</translation>
     </message>
     <message>
         <source>Labels And Values</source>
-        <translation type="unfinished"/>
+        <translation>Etykiety i wartości</translation>
     </message>
     <message>
         <source>Solve Order</source>
@@ -44469,7 +45001,7 @@ przestawna</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Powiększ</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -44481,7 +45013,7 @@ przestawna</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -44566,6 +45098,11 @@ obok siebie</translation>
         <translation>Ciemny motyw</translation>
     </message>
     <message>
+        <source>Page Break 
+Preview</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cascade</source>
         <translation>Kaskadowo</translation>
     </message>
@@ -44611,6 +45148,11 @@ Screen</source>
         <translation>Zablokuj pierwszą kolumnę</translation>
     </message>
     <message>
+        <source>Close
+Other Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Protect Eyes</source>
         <translation type="unfinished"/>
     </message>
@@ -44623,8 +45165,17 @@ Screen</source>
         <translation>Tryb nocny</translation>
     </message>
     <message>
+        <source>Worksheet Options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>New
 Window</source>
+        <translation>Nowe 
+okno</translation>
+    </message>
+    <message>
+        <source>Visual Basic Editor</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -44660,7 +45211,7 @@ Window</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -44843,7 +45394,7 @@ podziału stron</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -44864,6 +45415,11 @@ Properties</source>
 formantu</translation>
     </message>
     <message>
+        <source>Selection 
+Pane</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>IconLibrary</source>
         <translation type="unfinished"/>
     </message>
@@ -44877,7 +45433,7 @@ formantu</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obraz</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -44986,11 +45542,12 @@ przestawna</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Nagłówek
+ i stopka</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
-        <translation type="unfinished"/>
+        <translation>Wykres</translation>
     </message>
     <message>
         <source>Sparklines</source>
@@ -45006,7 +45563,7 @@ przestawna</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="unfinished"/>
+        <translation>Materiały</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -45035,10 +45592,14 @@ tekstowe</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw schemat blokowy</translation>
     </message>
     <message>
         <source>InsertProcesson_Mind</source>
+        <translation>Wstaw mapę mentalną</translation>
+    </message>
+    <message>
+        <source>Insert New Equation</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -45048,6 +45609,14 @@ tekstowe</translation>
     <message>
         <source>More Symbols</source>
         <translation>Więcej symboli</translation>
+    </message>
+    <message>
+        <source>Chart Gallery</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45082,6 +45651,11 @@ tekstowe</translation>
     </message>
     <message>
         <source>External Data</source>
+        <translation>Dane zewnętrzne</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -45118,7 +45692,8 @@ wszystko</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Naprawa 
+plików</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -45146,7 +45721,7 @@ wszystko</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -45190,6 +45765,14 @@ dane</translation>
         <source>3-D Settings</source>
         <translation>Ustawienia 3-D</translation>
     </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>etContentPosition</name>
@@ -45211,7 +45794,7 @@ dane</translation>
     </message>
     <message>
         <source>&amp;Move but don&apos;t &amp;size with cells</source>
-        <translation type="unfinished"/>
+        <translation>Pr&amp;zenieś, ale nie zmieniaj &amp;rozmiaru wraz z komórkami</translation>
     </message>
     <message>
         <source>&amp;Print object</source>
@@ -45278,7 +45861,7 @@ dane</translation>
     </message>
     <message>
         <source>Button Height:</source>
-        <translation type="unfinished"/>
+        <translation>Wysokość przycisku:</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -45326,7 +45909,8 @@ dane</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+wyboru</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -45433,7 +46017,7 @@ dane</translation>
     </message>
     <message>
         <source>Button Height:</source>
-        <translation type="unfinished"/>
+        <translation>Wysokość przycisku:</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -45481,7 +46065,8 @@ dane</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Panel 
+wyboru</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -45682,7 +46267,7 @@ dane</translation>
     </message>
     <message>
         <source>The formula you Enter is Error.</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadzona formuła jest błędna.</translation>
     </message>
     <message>
         <source>Names Scoped to Work&amp;sheet</source>
@@ -45876,7 +46461,7 @@ skoroszytu</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation type="unfinished"/>
+        <translation>Śledź zmiany</translation>
     </message>
     <message>
         <source>Reset Comment</source>
@@ -45895,12 +46480,17 @@ Changes</source>
         <translation>Chroń i udostępnij skoroszyt</translation>
     </message>
     <message>
+        <source>Share
+Workbook</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Reset All Comments</source>
         <translation>Resetuj wszystkie komentarze</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Konwersja</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous</source>
@@ -45908,7 +46498,7 @@ Changes</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -45917,7 +46507,7 @@ Changes</source>
     <message>
         <source>Protect 
 Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Chroń arkusz</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -45954,7 +46544,7 @@ Workbook</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation>Usuń komentarz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New 
@@ -45964,7 +46554,7 @@ komentarz</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdź moje uprawnienia</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -45980,10 +46570,19 @@ komentarz</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Przetłumacz na chiński tradycyjny</translation>
     </message>
     <message>
         <source>Document Security</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit
+Comment</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -46106,6 +46705,10 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit Comment</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -46250,7 +46853,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>SingleAccounting</source>
-        <translation type="unfinished"/>
+        <translation>Pojedyncze rozliczanie</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
@@ -46274,7 +46877,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>DoubleAccounting</source>
-        <translation type="unfinished"/>
+        <translation>Podwójne rozliczanie</translation>
     </message>
 </context>
 <context>
@@ -46443,6 +47046,11 @@ znaleziono rozwiązanie.</translation>
         <translation>Metoda</translation>
     </message>
     <message>
+        <source>Page
+Setup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Portrait</source>
         <translation>Pionowo</translation>
     </message>
@@ -46455,12 +47063,22 @@ znaleziono rozwiązanie.</translation>
         <translation>Drukarka</translation>
     </message>
     <message>
-        <source>PageSkip</source>
+        <source>Normal
+View</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PageSkip</source>
+        <translation>Pomiń stronę</translation>
     </message>
     <message>
         <source>Collate</source>
         <translation>Sortuj</translation>
+    </message>
+    <message>
+        <source>Page Break
+Preview</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous
@@ -46494,6 +47112,34 @@ strona</translation>
     </message>
     <message>
         <source>Print Entire Workbook Directly</source>
+        <translation>Drukuj cały skoroszyt</translation>
+    </message>
+    <message>
+        <source>Fit All Columns on One Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fit Sheet on One Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Zoom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom Zoom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fit All Rows on One Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More Setup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Zoom</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -46561,7 +47207,8 @@ strona</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Nagłówek 
+i stopka</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -46927,6 +47574,11 @@ wydruku</translation>
         <translation>Bez powiększenia</translation>
     </message>
     <message>
+        <source>Print
+Area</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rotate Right 90°</source>
         <translation>Obróć w prawo o 90°</translation>
     </message>
@@ -46957,7 +47609,7 @@ wydruku</translation>
     <message>
         <source>Bring 
 Forward</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń do przodu</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -46989,7 +47641,8 @@ Forward</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Okienko 
+zaznaczenia</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -47006,7 +47659,7 @@ podziału stron</translation>
     </message>
     <message>
         <source>Print Header Or Footer</source>
-        <translation type="unfinished"/>
+        <translation>Drukuj nagłówek i stopkę</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -47019,7 +47672,7 @@ podziału stron</translation>
     <message>
         <source>Send 
 Backward</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń do tyłu</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -47060,6 +47713,19 @@ Backward</source>
     <message>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
+    </message>
+    <message>
+        <source>Breaks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom Zoom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Print
+Titles</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47239,7 +47905,7 @@ Backward</source>
     </message>
     <message>
         <source>My data has &amp;header</source>
-        <translation type="unfinished"/>
+        <translation>Moje dane mają &amp;nagłówki</translation>
     </message>
     <message>
         <source>&amp;Copy Level</source>
@@ -47286,7 +47952,7 @@ Backward</source>
     <message>
         <source> 'General' converts numeric values to Numbers, date values to dates,
  and other data to text.</source>
-        <translation type="unfinished"/>
+        <translation>„Ogólnie” konwertuje wartości liczbowe na liczby, wartości danych na daty i wszystkie pozostałe wartości na tekst.</translation>
     </message>
     <message>
         <source>Ignore column(&amp;I)</source>
@@ -47306,7 +47972,7 @@ Backward</source>
     </message>
     <message>
         <source>Text(&amp;T)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tekst</translation>
     </message>
     <message>
         <source>General</source>
@@ -47422,7 +48088,7 @@ przestawna</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -47434,11 +48100,12 @@ przestawna</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Nagłówek 
+i stopka</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
-        <translation>Wykres</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spinner</source>
@@ -47454,7 +48121,7 @@ przestawna</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -47533,7 +48200,7 @@ podziału stron</translation>
     </message>
     <message>
         <source>medium</source>
-        <translation type="unfinished"/>
+        <translation>Pośredni</translation>
     </message>
 </context>
 <context>
@@ -47621,7 +48288,9 @@ podziału stron</translation>
         <source>&lt;p style=&quot;font-size:14 line-height: 1; margin-top: 8px;&quot;&gt;IncrementalBackup will record your steps on the file.
 &lt;p style=&quot;font-size:14 line-height: 1; margin-top: 2px;&quot;&gt;When reading a backup file, these steps are quickly replayed
 &lt;p style=&quot;font-size:14 line-height: 1; margin-top: 2px;&quot;&gt;on the original file for backup purposes.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p style=&quot;font-size:14 line-height:1; margin-top:8px;&quot;&gt;Przyrostowa kopia zapasowa zapisze operacje na pliku. Kiedy
+&lt;p style=&quot;font-size:14 line-height:1; margin-top:2px;&quot;&gt;kopia zapasowa zostanie odczytana, operacje te zostaną natychmiast zsynchronizowane
+&lt;p style=&quot;font-size:14 line-height:1; margin-top:2px;&quot;&gt;w celu zapewnienia spójności kopii zapasowej z plikiem źródłowym.</translation>
     </message>
 </context>
 <context>
@@ -47718,7 +48387,7 @@ styl tabeli</translation>
     </message>
     <message>
         <source>Non&amp;e(show negative values bars in same directions as positive)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Brak (pokazuj słupki wartości ujemnych ułożone w tym samym kierunku jak w przypadku wartości dodatnich)</translation>
     </message>
     <message>
         <source>&amp;Apply same border color as positive bar</source>
@@ -47801,7 +48470,7 @@ styl tabeli</translation>
     </message>
     <message>
         <source>Art Word Gallery</source>
-        <translation>Galeria WordArt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distributed</source>
@@ -47856,7 +48525,7 @@ styl tabeli</translation>
     </message>
     <message>
         <source>A Data Occurring</source>
-        <translation type="unfinished"/>
+        <translation>Data występująca</translation>
     </message>
     <message>
         <source>% with</source>
@@ -47987,11 +48656,11 @@ styl tabeli</translation>
     </message>
     <message>
         <source>Web 查询选项</source>
-        <translation type="unfinished"/>
+        <translation>Opcje zapytania internetowego</translation>
     </message>
     <message>
         <source>连续分隔符号视为单个处理(&amp;T)</source>
-        <translation type="unfinished"/>
+        <translation>Zgrupowane separatory są traktowane jak jeden</translation>
     </message>
     <message>
         <source>完全HTML格式(&amp;F)</source>
@@ -48007,7 +48676,7 @@ styl tabeli</translation>
     </message>
     <message>
         <source>其他导入设置</source>
-        <translation type="unfinished"/>
+        <translation>Inne ustawienia importu</translation>
     </message>
     <message>
         <source>将&lt;PRE&gt;块导至列中(&amp;I)</source>
@@ -48015,7 +48684,7 @@ styl tabeli</translation>
     </message>
     <message>
         <source>全部使用相同的导入设置(&amp;U)</source>
-        <translation type="unfinished"/>
+        <translation>Wszystkie używają tych samych ustawień importu</translation>
     </message>
     <message>
         <source>禁用日期识别(&amp;D)</source>
@@ -48027,7 +48696,7 @@ styl tabeli</translation>
     </message>
     <message>
         <source>禁用Web查询重定向(&amp;W)</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz przekierowywanie zapytań internetowych</translation>
     </message>
 </context>
 <context>
@@ -48144,7 +48813,7 @@ styl tabeli</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.xlsx;*.xls)</source>
-        <translation type="unfinished"/>
+        <translation>Format szyfrowanego dokumentu WPS (*.xlsx;*.xls)</translation>
     </message>
     <message>
         <source> · Macro
@@ -48360,7 +49029,7 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     </message>
     <message>
         <source>Excel2007 XML Template(*.xltm)</source>
-        <translation type="unfinished"/>
+        <translation>Szablon XML programu Excel 2007 (*.xltm)</translation>
     </message>
     <message>
         <source>The following features of your workbook are not going to be saved in HTML Spreadsheets:
@@ -48463,12 +49132,25 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
         <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <translation>Pliki programu WPS Spreadsheets 2007/2010 (*.etx)</translation>
     </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has detected that &apos;%1&apos; is a SYLK file, but cannot load it. Either the file has errors or it is not a SYLK file format. Click OK to try to open the file in a differenct format.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"/>
+        <translation>Ładowanie GUI</translation>
     </message>
 </context>
 <context>
@@ -48646,7 +49328,8 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Układ do 
+czytania</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -48690,7 +49373,7 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
@@ -48698,11 +49381,12 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="unfinished"/>
+        <translation>Łącze do usługi Cloud</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj 
+do PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -48773,7 +49457,7 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     </message>
     <message>
         <source>Other/Advanced(&amp;W)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Inne/Zaawansowane</translation>
     </message>
 </context>
 <context>
@@ -48788,7 +49472,7 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     </message>
     <message>
         <source>&amp;MacroIn</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Makro w</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
@@ -48948,6 +49632,10 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#0046eb;&quot;&gt;comment&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
+        <source>&amp;Help about this Function</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Formula List:</source>
         <translation>Lista formuł:</translation>
     </message>
@@ -48985,7 +49673,9 @@ p, li { white-space: pre-wrap; }
         <source>Note: The headers must remain in the same row,
       and the resulting table tange must overlap 
       the original table range.</source>
-        <translation type="unfinished"/>
+        <translation>Uwaga: Nagłówki muszą znajdować się w tym samym wierszu,
+      a wynikowy zakres tabeli musi nakładać się 
+      na oryginalny zakres tabeli.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -49178,7 +49868,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Kingsoft Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <translation>Program WPS Spreadsheets znalazł dane obok zaznaczenia. Ponieważ nie zostały one zaznaczone, nie zostaną uwzględnione przy sortowaniu.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Expand the selection</source>
@@ -49362,7 +50052,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Chinese(Simple)</source>
-        <translation type="unfinished"/>
+        <translation>Chiński (mandaryński)</translation>
     </message>
     <message>
         <source>Japanese Year</source>
@@ -49391,6 +50081,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</source>
         <translation>W formatach procentowych wartości komórki są mnożone przez 100 i wyświetlane z symbolem procentu.</translation>
+    </message>
+    <message>
+        <source>Chinese(HongKong)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -49580,11 +50278,11 @@ p, li { white-space: pre-wrap; }
     <name>KxEtSplitSheetDlg</name>
     <message>
         <source>Split basis(&amp;B):</source>
-        <translation type="unfinished"/>
+        <translation>Podstawa p&amp;odziału:</translation>
     </message>
     <message>
         <source>The selected file path is invalid and the current folder has no read permission!</source>
-        <translation type="unfinished"/>
+        <translation>Wybrana ścieżka pliku jest nieprawidłowa. Nie masz uprawnień do odczytu bieżącego folderu!</translation>
     </message>
     <message>
         <source>Start</source>
@@ -49592,7 +50290,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>different sheet(N)</source>
-        <translation type="unfinished"/>
+        <translation>Osobnych &amp;nowych arkuszy</translation>
     </message>
     <message>
         <source>Split By Day</source>
@@ -49608,7 +50306,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>different book,save to path(P)</source>
-        <translation type="unfinished"/>
+        <translation>Osobnych nowych plików, zapisz w ś&amp;cieżce</translation>
     </message>
     <message>
         <source>Preview: (Only show part of data)</source>
@@ -49616,7 +50314,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Split area(&amp;A):</source>
-        <translation type="unfinished"/>
+        <translation>Obszar &amp;podziału:</translation>
     </message>
     <message>
         <source>Please enter a valid path</source>
@@ -49624,7 +50322,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>To View</source>
-        <translation type="unfinished"/>
+        <translation>Wyświetl</translation>
     </message>
     <message>
         <source>Split Worksheet</source>
@@ -49632,7 +50330,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>save path</source>
-        <translation type="unfinished"/>
+        <translation>Ścieżka zapisu</translation>
     </message>
     <message>
         <source>Split By Month</source>
@@ -49883,11 +50581,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Confirm to Export</source>
-        <translation type="unfinished"/>
+        <translation>Potwierdź wyodrębnienie</translation>
     </message>
     <message>
         <source>Mark the same row of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Zaznacz zduplikowane wiersze w dwóch arkuszach</translation>
     </message>
     <message>
         <source>Within the Area</source>
@@ -49899,11 +50597,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Extract different data from two areas</source>
-        <translation type="unfinished"/>
+        <translation>Wyodrębnij unikalne dane z dwóch zakresów</translation>
     </message>
     <message>
         <source>Extract different cells of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Wyodrębnij unikalne komórki z dwóch arkuszy</translation>
     </message>
     <message>
         <source>Two Worksheet</source>
@@ -49919,7 +50617,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the row data of the selected area, delete the duplicate rows, and extract to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Porównaj wiersze w wybranym zakresie, usuń zduplikowane wiersze i wyodrębnij do zdeduplikowanych wierszy do nowego arkusza.</translation>
     </message>
     <message>
         <source>Extract deduplicated data</source>
@@ -49939,7 +50637,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Extract duplicate rows in a worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Wyodrębnij zduplikowane wiersze z arkusza</translation>
     </message>
     <message>
         <source>Compare the cells of the two worksheets one by one, and mark the cells with different values at the same position.</source>
@@ -49947,7 +50645,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>With the Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>W arkuszu</translation>
     </message>
     <message>
         <source>Compare the two worksheets, find the rows where the entire row of data is exactly the same, and extract them into the new workbook.</source>
@@ -49955,7 +50653,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Extract the same rows of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Wyodrębnij zduplikowane wiersze z dwóch arkuszy</translation>
     </message>
     <message>
         <source>Extract different rows of two worksheets</source>
@@ -49967,7 +50665,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the row data in the worksheet and mark the entire row that is repeated.</source>
-        <translation type="unfinished"/>
+        <translation>Porównaj wiersze w arkuszu i zaznacz zduplikowane wiersze.</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -49979,15 +50677,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the rows in the selected area and mark the only row data in them.</source>
-        <translation type="unfinished"/>
+        <translation>Porównaj wiersze w wybranym zakresie i zaznacz unikalne wiersze.</translation>
     </message>
     <message>
         <source>Compare the two worksheets, marking the entire row where the row data is not exactly the same.</source>
-        <translation type="unfinished"/>
+        <translation>Porównaj oba arkusze i zaznacz unikatowe wiersze.</translation>
     </message>
     <message>
         <source>Mark the same data in two areas</source>
-        <translation type="unfinished"/>
+        <translation>Oznacz zduplikowane dane w dwóch zakresach</translation>
     </message>
     <message>
         <source>Compare the two selected areas and mark the rows where the row data is not identical.</source>
@@ -49995,11 +50693,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Extract the same data from two areas</source>
-        <translation type="unfinished"/>
+        <translation>Wyodrębnij zduplikowane dane z dwóch zakresów</translation>
     </message>
     <message>
         <source>Compare the two selected areas, find the rows with the same row data, and extract them to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Porównaj dwa wybrane zakresy, znajdź zduplikowane wiersze i wyodrębnij je do nowego arkusza.</translation>
     </message>
     <message>
         <source>Extract duplicate data</source>
@@ -50139,6 +50837,10 @@ Wartość: </translation>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
         <translation>Liczba musi się zawierać w przedziale między %1 i %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
+    <message>
+        <source>Duple&amp;x print</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxSplitSheetDlg</name>
@@ -50225,7 +50927,8 @@ formantu</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation type="unfinished"/>
+        <translation>Zarejestruj 
+makro</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -50260,7 +50963,8 @@ tryb projektowania</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"/>
+        <translation>Wyświetl
+ kod</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -50268,11 +50972,16 @@ tryb projektowania</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"/>
+        <translation>Tryb projektowania</translation>
     </message>
     <message>
         <source>Toggle Button</source>
         <translation>Przycisk przełącznika</translation>
+    </message>
+    <message>
+        <source>Visual Basic
+Editor</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50677,7 +51386,7 @@ dokumencie</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"/>
+        <translation>Tryb projektowania</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -50866,6 +51575,10 @@ dokumencie</translation>
         <translation>Nie wyświetlanie alertów i aktualizacji łą&amp;czy</translation>
     </message>
     <message>
+        <source>Update:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;Startup Prompt...</source>
         <translation>Monit podczas &amp;uruchamiania...</translation>
     </message>
@@ -50984,7 +51697,7 @@ dokumencie</translation>
     <name>KxEtSplitBookDlg</name>
     <message>
         <source>The selected file path is invalid and the current folder has no read permission!</source>
-        <translation type="unfinished"/>
+        <translation>Wybrana ścieżka pliku jest nieprawidłowa. Nie masz uprawnień do odczytu bieżącego folderu!</translation>
     </message>
     <message>
         <source>Start</source>
@@ -51004,7 +51717,7 @@ dokumencie</translation>
     </message>
     <message>
         <source>Containing a protective worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Zawiera arkusz chroniony</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -51028,11 +51741,11 @@ dokumencie</translation>
     </message>
     <message>
         <source>Save to :</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz w:</translation>
     </message>
     <message>
         <source>Contains hidden worksheets(H)</source>
-        <translation type="unfinished"/>
+        <translation>Zawiera &amp;ukryte arkusze (u)</translation>
     </message>
     <message>
         <source>Export each worksheet into separate files</source>
@@ -51114,11 +51827,11 @@ dokumencie</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Values &amp; Source Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Wartości i formatowanie źródła</translation>
     </message>
     <message>
         <source>Keep Source Column Widths</source>
@@ -51130,7 +51843,7 @@ dokumencie</translation>
     </message>
     <message>
         <source>Values &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Wartości i formatowanie liczb</translation>
     </message>
 </context>
 <context>
@@ -51205,6 +51918,11 @@ dokumencie</translation>
     <message>
         <source>Banded Rows</source>
         <translation>Wiersze naprzemienne</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -51305,7 +52023,7 @@ wszystko</translation>
     </message>
     <message>
         <source>Flip on long edge</source>
-        <translation type="unfinished"/>
+        <translation>Druk dwustronny z przerzucaniem wzdłuż dłuższej krawędzi</translation>
     </message>
     <message>
         <source>Manual duplex</source>
@@ -51313,7 +52031,7 @@ wszystko</translation>
     </message>
     <message>
         <source>Print one sided</source>
-        <translation type="unfinished"/>
+        <translation>Druk jednostronny</translation>
     </message>
     <message>
         <source>Flip on short edge</source>
@@ -51528,11 +52246,11 @@ wszystko</translation>
     </message>
     <message>
         <source>Good bad And moderate</source>
-        <translation type="unfinished"/>
+        <translation>Dobry, zły i umiarkowany</translation>
     </message>
     <message>
         <source>User Define</source>
-        <translation type="unfinished"/>
+        <translation>Zdefiniowane przez użytkownika</translation>
     </message>
     <message>
         <source>Data and Model</source>
@@ -51579,6 +52297,11 @@ wszystko</translation>
     </message>
     <message>
         <source>External Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -51766,7 +52489,7 @@ skoroszyt</translation>
     <name>KxRemindRepeatWidget</name>
     <message>
         <source>Contrast (&amp;C):</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tryb porównania:</translation>
     </message>
     <message>
         <source>Compare by row</source>
@@ -51782,7 +52505,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Repeat Value (&amp;M):</source>
-        <translation type="unfinished"/>
+        <translation>Powtarzane wartości (&amp;M):</translation>
     </message>
     <message>
         <source>Please select a column to compare by row!</source>
@@ -51790,15 +52513,15 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Export To:</source>
-        <translation type="unfinished"/>
+        <translation>Wyodrębnij do:</translation>
     </message>
     <message>
         <source>List area (&amp;L):</source>
-        <translation type="unfinished"/>
+        <translation>Z&amp;akres listy:</translation>
     </message>
     <message>
         <source>Include Header (&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>Uwzględnij tytuł (&amp;H)</translation>
     </message>
     <message>
         <source>Remove All(&amp;D)</source>
@@ -51810,7 +52533,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
-        <translation type="unfinished"/>
+        <translation>Określ kolor (&amp;D):</translation>
     </message>
     <message>
         <source>New Worksheet</source>
@@ -51842,6 +52565,11 @@ skoroszyt</translation>
         <source>Refresh All</source>
         <translation>Odśwież 
 wszystko</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51973,11 +52701,11 @@ wszystko</translation>
     </message>
     <message>
         <source>Title Rows</source>
-        <translation type="unfinished"/>
+        <translation>Wiersze tytułu</translation>
     </message>
     <message>
         <source>Start Recombine</source>
-        <translation type="unfinished"/>
+        <translation>Rozpocznij rekombinację</translation>
     </message>
     <message>
         <source>Merge same-name sheets in workbooks</source>
@@ -51993,7 +52721,7 @@ wszystko</translation>
     </message>
     <message>
         <source>Recombine SameName Sheet Tips</source>
-        <translation type="unfinished"/>
+        <translation>Generuj wiele skoroszytów na podstawie nazw arkuszy. Wszystkie arkusze o tej samej nazwie znajdują się w jednym skoroszycie.</translation>
     </message>
     <message>
         <source>Merge from row</source>
@@ -52001,15 +52729,15 @@ wszystko</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>Use original &amp;sheet names</source>
-        <translation type="unfinished"/>
+        <translation>Użyj oryginalnych nazw arkuszy(&amp;w)</translation>
     </message>
     <message>
         <source>The merging will keep all the original content, formulas and formats.</source>
-        <translation type="unfinished"/>
+        <translation>Zachowa całą oryginalną zawartość, wszystkie formuły i formaty po scaleniu.</translation>
     </message>
     <message>
         <source>Please enter a valid path</source>
@@ -52021,7 +52749,7 @@ wszystko</translation>
     </message>
     <message>
         <source>Recombine same-name worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Ponownie połącz arkusze o tej samej nazwie</translation>
     </message>
     <message>
         <source>Specify which workbooks/sheets to merge:</source>
@@ -52033,7 +52761,7 @@ wszystko</translation>
     </message>
     <message>
         <source>(Note: keep only one header row)</source>
-        <translation type="unfinished"/>
+        <translation>(Uwaga: zachowaj tylko jeden wiersz nagłówka, aby uniknąć scalania duplikatów).</translation>
     </message>
     <message>
         <source>Original fil&amp;e names + sheet names</source>
@@ -52109,7 +52837,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>ClearAll</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść wszystkie</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -52221,7 +52949,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Pivot Table</source>
-        <translation type="unfinished"/>
+        <translation>Tabela przestawna</translation>
     </message>
     <message>
         <source>Pivot Chart</source>
@@ -52234,6 +52962,11 @@ przed udostępnianiem skoroszytu.</translation>
     <message>
         <source>Export to Book</source>
         <translation>Eksportuj do skoroszytu</translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoFilter View</source>
@@ -52377,7 +53110,7 @@ przed udostępnianiem skoroszytu.</translation>
     <name>ongmani.ct_security</name>
     <message>
         <source>document authentication</source>
-        <translation type="unfinished"/>
+        <translation>Uwierzytelnianie dokumentu</translation>
     </message>
     <message>
         <source>Permissions</source>
@@ -52413,11 +53146,11 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>document security</source>
-        <translation type="unfinished"/>
+        <translation>Zabezpieczenia dokumentów</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -52425,11 +53158,11 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Do przodu</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdź moje uprawnienia</translation>
     </message>
     <message>
         <source>Document Permission</source>
@@ -52441,7 +53174,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Make Forward Doc</source>
-        <translation type="unfinished"/>
+        <translation>Utwórz dokument przekazywania</translation>
     </message>
 </context>
 <context>
@@ -52504,7 +53237,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Enable Row Column Grand Totals</source>
-        <translation type="unfinished"/>
+        <translation>Włącz sumy całkowite wierszy</translation>
     </message>
     <message>
         <source>Enable Only Row Grand Totals</source>
@@ -52513,6 +53246,16 @@ przed udostępnianiem skoroszytu.</translation>
     <message>
         <source>Report Layout</source>
         <translation>Raportuj układ</translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52579,7 +53322,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished"/>
+        <translation>Hasło do ochrony ustawień uprawnień</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
@@ -52627,7 +53370,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"/>
+        <translation>Uwaga: tylko ustawienie hasła może włączyć następujące ustawienia i uniemożliwić ich zmianę przez inne osoby.</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
@@ -52773,15 +53516,16 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Analiza 
+warunkowa</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obrazy online</translation>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
@@ -52821,7 +53565,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation type="unfinished"/>
+        <translation>WpsPackagePlugin</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -52830,6 +53574,10 @@ przed udostępnianiem skoroszytu.</translation>
     <message>
         <source>Selection Speech</source>
         <translation>Zaznaczenie na mowę</translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52963,6 +53711,45 @@ przed udostępnianiem skoroszytu.</translation>
         <source>Undefined</source>
         <translation>Niezdefiniowany</translation>
     </message>
+    <message>
+        <source>&amp;Help about this Function</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxEtChartTypeGalleryCommand</name>
+    <message>
+        <source>opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>volume traded, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To create a combination chart, select at least two series of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>volume traded, opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxReadingModeGuildDlg</name>
@@ -52999,7 +53786,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Pivot Table</source>
-        <translation type="unfinished"/>
+        <translation>Tabela przestawna</translation>
     </message>
     <message>
         <source>Pivot Chart</source>
@@ -53012,6 +53799,11 @@ przed udostępnianiem skoroszytu.</translation>
     <message>
         <source>Export to Book</source>
         <translation>Eksportuj do skoroszytu</translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filter Analysis</source>
@@ -53247,11 +54039,11 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Do you wish to delete the view &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Usunąć widok „%1”?</translation>
     </message>
     <message>
         <source>Custom Views</source>
-        <translation type="unfinished"/>
+        <translation>Zarządzanie widokiem</translation>
     </message>
 </context>
 <context>
@@ -53278,11 +54070,11 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Include Header (&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>Uwzględnij tytuł (&amp;H)</translation>
     </message>
     <message>
         <source>Range 1 (&amp;L):</source>
-        <translation type="unfinished"/>
+        <translation>Zakres 1 (&amp;L):</translation>
     </message>
     <message>
         <source>Range 2 (&amp;S):</source>
@@ -53479,7 +54271,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"/>
+        <translation>Do tyłu</translation>
     </message>
     <message>
         <source>New Sheet</source>
@@ -53651,7 +54443,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>with current account, you can read/eidt the document from</source>
-        <translation type="unfinished"/>
+        <translation>na bieżącym koncie, możesz edytować dokument z</translation>
     </message>
     <message>
         <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
@@ -53792,7 +54584,7 @@ Podsumowanie</translation>
     <name>classics.proxycommands</name>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -53823,7 +54615,7 @@ Podsumowanie</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
-        <translation type="unfinished"/>
+        <translation>Program Kingsoft Spreadsheets znalazł dane obok zaznaczenia. Ponieważ nie zostały one zaznaczone, nie zostaną usunięte.</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates...</source>
@@ -53939,6 +54731,13 @@ Choose a visual
 style for the pivot table</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>More
+
+Choose a visual
+style for the slicer</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>switchCalcMode</name>
@@ -53992,15 +54791,15 @@ Czy chcesz zmienić na Ręcznie?</translation>
     <name>KxEtListPicturesCommand</name>
     <message>
         <source>FloatPicture</source>
-        <translation type="unfinished"/>
+        <translation>Obraz przestawny</translation>
     </message>
     <message>
         <source>Embed a picture in a cell and display it, depending on cell position and size.</source>
-        <translation type="unfinished"/>
+        <translation>Po osadzeniu obrazu w komórce jego rozmiar i położenie zmieniają się wraz z komórką.</translation>
     </message>
     <message>
         <source>EmbededPicture</source>
-        <translation type="unfinished"/>
+        <translation>Osadź w komórce</translation>
     </message>
     <message>
         <source>Embed Cell Picture</source>
@@ -54069,7 +54868,7 @@ Czy chcesz zmienić na Ręcznie?</translation>
     </message>
     <message>
         <source>More Cell Icon</source>
-        <translation type="unfinished"/>
+        <translation>Więcej ikon komórki</translation>
     </message>
     <message>
         <source>Sort By Cell Icon</source>
@@ -54077,7 +54876,7 @@ Czy chcesz zmienić na Ręcznie?</translation>
     </message>
     <message>
         <source>More Cell Color</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów komórek</translation>
     </message>
     <message>
         <source>No Cell Icon</source>
@@ -54085,7 +54884,7 @@ Czy chcesz zmienić na Ręcznie?</translation>
     </message>
     <message>
         <source>Sort By Font Color</source>
-        <translation type="unfinished"/>
+        <translation>Sortuj według kolorów czcionek</translation>
     </message>
     <message>
         <source>No Cell Color</source>
@@ -54468,7 +55267,7 @@ Czy chcesz zmienić na Ręcznie?</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished"/>
+        <translation>Hasło otwarcia pliku i hasło uprawnień muszą być różne, wprowadź ponownie.</translation>
     </message>
     <message>
         <source>Save OFD File</source>
@@ -54692,7 +55491,7 @@ Kliknij przycisk &apos;OK&apos;, a następnie zaznacz pojedynczą komórkę w po
     </message>
     <message>
         <source>&amp;Flash Fill</source>
-        <translation type="unfinished"/>
+        <translation>Wypełnianie błyskawiczne(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Copy Cells</source>
@@ -54727,7 +55526,7 @@ Kliknij przycisk &apos;OK&apos;, a następnie zaznacz pojedynczą komórkę w po
     <name>PreviewPageUi</name>
     <message>
         <source>Display only top 50(&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>Wyświetl tylko 50 &amp;pierwszych</translation>
     </message>
     <message>
         <source>Import operation &amp;result:</source>
@@ -54769,7 +55568,7 @@ Kliknij przycisk &apos;OK&apos;, a następnie zaznacz pojedynczą komórkę w po
     </message>
     <message>
         <source>New WorkBook</source>
-        <translation type="unfinished"/>
+        <translation>Nowy skoroszyt</translation>
     </message>
 </context>
 <context>
@@ -54792,7 +55591,7 @@ Kliknij przycisk &apos;OK&apos;, a następnie zaznacz pojedynczą komórkę w po
     </message>
     <message>
         <source>Please specify sheets to be marked</source>
-        <translation type="unfinished"/>
+        <translation>Określ arkusze do porównania.</translation>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
@@ -54815,7 +55614,7 @@ Kliknij przycisk &apos;OK&apos;, a następnie zaznacz pojedynczą komórkę w po
     </message>
     <message>
         <source>&amp;Data Range:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zakres danych</translation>
     </message>
     <message>
         <source>Choose where you want the sparklines to be placed</source>
@@ -55356,7 +56155,7 @@ Potrzebujesz rozwinąć komórki w ramach wybranej sekcji i scalić te same kom�
     <name>KxDlgFormatFormControlText</name>
     <message>
         <source>Format Form Control Text</source>
-        <translation type="unfinished"/>
+        <translation>Formatowanie formularza tekstu formantu</translation>
     </message>
 </context>
 <context>
@@ -55495,10 +56294,77 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
 </context>
 <context>
+    <name>ongmani.ct_equationtools</name>
+    <message>
+        <source>Accent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>Liniowa</translation>
+    </message>
+    <message>
+        <source>Limit and Log</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Integral</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <translation>Macierz</translation>
+    </message>
+       <message>
+        <source>Operator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translation>Ułamkowe</translation>
+    </message>
+    <message>
+        <source>Radical</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>Równanie</translation>
+    </message>
+    <message>
+        <source>Bracket</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation>Symbole</translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation>Funkcja</translation>
+    </message>
+    <message>
+        <source>Large Operator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation>Professional</translation>
+    </message>
+</context>
+<context>
     <name>KxMergeRangDataTitle</name>
     <message>
         <source>Merge Rang Data Title Text</source>
-        <translation type="unfinished"/>
+        <translation>Scal tabele o tej samej zawartości</translation>
     </message>
     <message>
         <source>Merge Sheet</source>
@@ -55563,11 +56429,11 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Merge Rang Data By Selected</source>
-        <translation type="unfinished"/>
+        <translation>Zduplikuj zawartość w dwóch zakresach, a następnie scal ją w zakresie 1.</translation>
     </message>
     <message>
         <source>Include Header (H)</source>
-        <translation type="unfinished"/>
+        <translation>Uwzględnij tytuł</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -55575,7 +56441,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Range 1 (&amp;L):</source>
-        <translation type="unfinished"/>
+        <translation>Zakres 1 (&amp;L):</translation>
     </message>
     <message>
         <source>Export: New WorkSheet</source>
@@ -55583,7 +56449,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Range 2 (&amp;S):</source>
-        <translation type="unfinished"/>
+        <translation>Zakres 2 (&amp;S):</translation>
     </message>
 </context>
 <context>
@@ -55617,7 +56483,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Consolidation references is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Odwołanie konsolidacji jest nieprawidłowe.</translation>
     </message>
     <message>
         <source>Cannot add duplicate source reference.</source>
@@ -55686,7 +56552,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>moreColor</source>
-        <translation type="unfinished"/>
+        <translation>Więcej kolorów</translation>
     </message>
     <message>
         <source>Cell shading</source>
@@ -55763,11 +56629,11 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Choose the cell color as a sort on:</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz kolor komórki, według którego chcesz sortować:</translation>
     </message>
     <message>
         <source>Choose the cell icon as a sort on:</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz ikonę komórki jako sortowanie:</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -55855,7 +56721,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>ChangeLink into:</source>
-        <translation type="unfinished"/>
+        <translation>Zmień łącza na</translation>
     </message>
 </context>
 <context>
@@ -55951,7 +56817,7 @@ Please unfreeze pane.</source>
     <name>KxDefineNameDlg</name>
     <message>
         <source>An error occurred when deleted.</source>
-        <translation type="unfinished"/>
+        <translation>Podczas usuwania wystąpił błąd.</translation>
     </message>
     <message>
         <source>The name is empty.</source>
@@ -55979,37 +56845,6 @@ Please unfreeze pane.</source>
     <message>
         <source>Introduce</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_equationtools</name>
-    <message>
-        <source>Linear</source>
-        <translation>Liniowa</translation>
-    </message>
-    <message>
-        <source>Matrix</source>
-        <translation>Macierz</translation>
-    </message>
-    <message>
-        <source>Fraction</source>
-        <translation>Ułamkowe</translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation>Równanie</translation>
-    </message>
-    <message>
-        <source>Symbols</source>
-        <translation>Symbole</translation>
-    </message>
-    <message>
-        <source>Function</source>
-        <translation>Funkcja</translation>
-    </message>
-    <message>
-        <source>Professional</source>
-        <translation>Professional</translation>
     </message>
 </context>
 <context>
@@ -56064,7 +56899,7 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Collate</source>
-        <translation type="unfinished"/>
+        <translation>Sortuj wydruki</translation>
     </message>
     <message>
         <source>Uncollate</source>
@@ -56102,7 +56937,7 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Select same-name sheets</source>
-        <translation type="unfinished"/>
+        <translation>Zaznacz arkusze o tej samej nazwie</translation>
     </message>
 </context>
 <context>
@@ -56246,7 +57081,7 @@ Please unfreeze pane.</source>
     <name>KxAddCustomViewDlg</name>
     <message>
         <source>View &apos;%1&apos; already exists. Do you wish to delete it and continue?</source>
-        <translation type="unfinished"/>
+        <translation>Widok „%1” już istnieje. Czy chcesz go usunąć i kontynuować?</translation>
     </message>
     <message>
         <source>Add View</source>
@@ -56465,7 +57300,7 @@ Aby wprowadzić zmiany, użyj polecenia Nie chroń arkusza (karta Recenzja). Mo�
     </message>
     <message>
         <source>other user</source>
-        <translation type="unfinished"/>
+        <translation>Inny użytkownik</translation>
     </message>
 </context>
 <context>
@@ -56486,7 +57321,7 @@ Aby wprowadzić zmiany, użyj polecenia Nie chroń arkusza (karta Recenzja). Mo�
     <name>KxTableStyleSetDefaultTriggerCommand</name>
     <message>
         <source>Set As Default</source>
-        <translation type="unfinished"/>
+        <translation>Ustaw jako domyślny</translation>
     </message>
 </context>
 <context>
@@ -56585,7 +57420,7 @@ Aby wprowadzić zmiany, użyj polecenia Nie chroń arkusza (karta Recenzja). Mo�
     </message>
     <message>
         <source>input columns to show:</source>
-        <translation type="unfinished"/>
+        <translation>Określ kolumny do wyświetlenia:</translation>
     </message>
     <message>
         <source>&amp;ShowAll</source>
@@ -56703,7 +57538,7 @@ COM</translation>
     <name>KxTpETFieldListWidget</name>
     <message>
         <source>A field in the source data contains more unique items 			than a PivotTable can use, and WPS Table can not create a PivotTable.</source>
-        <translation type="unfinished"/>
+        <translation>Pole w danych źródłowych zawiera więcej unikatowych elementów niż może być użytych w tabeli przestawnej. Tabela WPS nie może utworzyć tabeli przestawnej.</translation>
     </message>
 </context>
 <context>
@@ -56735,7 +57570,7 @@ Zauważ, że łączy danych można używać do uzyskiwania dostępu i udostępni
     </message>
     <message>
         <source>SpreadSheets</source>
-        <translation type="unfinished"/>
+        <translation>SpreadSheets</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Update</source>
@@ -56827,7 +57662,7 @@ Zauważ, że łączy danych można używać do uzyskiwania dostępu i udostępni
     <name>KxDlgCustomHeaderFooter</name>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Nagłówek i stopka</translation>
     </message>
 </context>
 <context>
@@ -56874,7 +57709,12 @@ Zauważ, że łączy danych można używać do uzyskiwania dostępu i udostępni
 • To get assistance with using a function, click insert Function on the Formulas tab (in the Function Library group).
 • If you include a reference to another sheet or workbook,verify that the reference is correct.
 • If you&apos;re not trying to enter a formula, don&apos;t use an equal sign (=) or minus sign (-), or precede it with a single quotation mark (&apos;).</source>
-        <translation type="unfinished"/>
+        <translation>Wpisana formuła zawiera błąd. Spróbuj wykonać jedną z następujących czynności:
+
+• Upewnij się, że zostały uwzględnione wszystkie nawiasy i wymagany argument.
+• Aby uzyskać pomoc dotyczącą wprowadzania funkcji, kliknij Wstaw funkcję na karcie Formuły (w grupie biblioteki funkcji).
+• Jeśli zawiera odwołanie do innego arkusza lub skoroszytu, sprawdź, czy odwołanie jest poprawne.
+• Jeśli nie próbujesz wprowadzić formuły, nie używaj znaku równości (=) lub znaku minus (-) albo poprzedź go pojedynczym cudzysłowem (&apos;).</translation>
     </message>
     <message>
         <source>The reference is not valid. Reference for titles, values, sizes, or data labels must be a single cell, row, or column.</source>
@@ -57125,7 +57965,7 @@ komentarz</translation>
     <name>KxProtectionWidget</name>
     <message>
         <source>Locking cells or hiding formulas has no effect until you protect the worksheet(Review tab, Protect Sheet button.)</source>
-        <translation type="unfinished"/>
+        <translation>Zablokowanie komórek lub ukrycie formuł pozostaje bez efektu, jeśli arkusz nie jest chroniony (karta Recenzja, przycisk Chroń arkusz)</translation>
     </message>
 </context>
 <context>
@@ -57349,6 +58189,464 @@ komentarz</translation>
     <message>
         <source>Alignment</source>
         <translation>Wyrównanie</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryModel</name>
+    <message>
+        <source>Pie</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Area</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stacked Area - Clustered Column</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Combo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Radar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stock</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Area</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open-High-Low-Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stacked Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Radar with Markers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Filled Radar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clustered Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clustered Column - Line on Secondary Axis</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>X Y (Scatter)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Line with Markers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines and Markers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>3-D Bubble</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bubble</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Column</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Pie</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bar Of Pie</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pie Of Pie</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume-High-Low-Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Doughnut</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>100% Stacked Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume-Open-High-Low-Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>High-Low-Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stacked Line with Markers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scatter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clustered Column Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>100% Stacked Column</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>100% Stacked Line with Markers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines and Markers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clustered Column</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stacked Area</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stacked Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>100% Stacked Area</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>100% Stacked Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stacked Column</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeItem</name>
+    <message>
+        <source>Use this chart type to:
+• Show values relative to a center point.
+
+Use it when:
+• Categories are not directly comparable.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the relationship of parts to a whole over time or categories.
+• Highlight the magnitude of change over time.
+• Draw attention to the total value across a trend.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of values: Volume, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The order of categories is not important.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show how parts of a whole change over time.
+
+Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentages that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• Category order is important.
+• To highlight the magnitude of change over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of price values: Open, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it when:
+• Numbers equal 100%.
+• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• The range of values in the chart varies widely.
+• You have mixed types of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• The data represents separate measurements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least three sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• You have a third value that can be used to determine the relative size of the bubble.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole across categories.
+• Show how parts of a whole change over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• You have mixed types of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentage that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are few data points.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Show the change to the percentage that each value contributes over time.
+
+Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are many data points.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have three series of price values: High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The chart shows duration.
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole.
+• Show how parts of a whole change over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have five series of values: Volume, Open, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryCommand</name>
+    <message>
+        <source>opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>volume traded, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To create a combination chart, select at least two series of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>volume traded, opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>high price, low price, closing price. </source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
