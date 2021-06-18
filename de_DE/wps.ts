@@ -2,6 +2,10 @@
 <context>
     <name>wps_field_parser_common</name>
     <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
@@ -48,10 +52,6 @@
     <message>
         <source>Error. Unknown op code for conditional.</source>
         <translation>Fhler! Unbekannter Op-Code für verknüpfte Bedingung.</translation>
-    </message>
-    <message>
-        <source> </source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -120,10 +120,6 @@
         <source>Encl&amp;osure:</source>
         <translation>U&amp;mschließen mit:</translation>
     </message>
-    <message>
-        <source>印</source>
-        <translation>印</translation>
-    </message>
 </context>
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
@@ -177,7 +173,7 @@
     </message>
     <message>
         <source>/</source>
-        <translation>/</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>:</source>
@@ -288,7 +284,7 @@
     </message>
     <message>
         <source>Sends the selected drawing objects to the back</source>
-        <translation>Ausgewählte Zeichnungsobjekte nach unten senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
@@ -296,11 +292,11 @@
     </message>
     <message>
         <source>Aligns the selected drawing objects horizontally to the center</source>
-        <translation>Ausgewählte Zeichnungsobjekte horizontal zur Mitte ausrichten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scales the current view to 100%</source>
-        <translation>Aktuelle Ansicht auf 100% skalieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Categories:</source>
@@ -308,7 +304,7 @@
     </message>
     <message>
         <source>Auto-Fit Table to the contents</source>
-        <translation>Automatische Anpassung der Tabelle an den Inhalt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fill Color Picker</source>
@@ -320,15 +316,15 @@
     </message>
     <message>
         <source>Deletes the selected cells from the table</source>
-        <translation>Ausgewählte Zellen aus der Tabelle löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes the inside borders of the selected paragraphs, table cells, and pictures</source>
-        <translation>Innenränder der ausgewählten Absätze, Tabellenzellen und Bilder ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you want to reset the key assignments? This action will remove all keys currently assigned to macros and styles in %1.</source>
-        <translation>Bestätigen, um die Tastenbelegung zurückzusetzen? Diese Aktion entfernt alle Schlüssel, die derzeit Makros und Stilen in %1 zugewiesen sind.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Press &amp;new shortcut key:</source>
@@ -336,19 +332,19 @@
     </message>
     <message>
         <source>File menu</source>
-        <translation>Menü &quot;Datei&quot;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quits WPS and prompts to save the documents</source>
-        <translation>WPS beenden und Speichern des Dokuments anfordern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Aligns the selected drawing objects vertically to the center</source>
-        <translation>Ausgewählte Zeichnungsobjekte vertikal zur Mitte ausrichten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Saves the active document or template</source>
-        <translation>Speichert aktives Dokument oder Vorlage</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;ommands:</source>
@@ -364,15 +360,15 @@
     </message>
     <message>
         <source>Opens an existing document or template</source>
-        <translation>Vorhandenes Dokument oder Vorlage öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Displays a document&apos;s outline</source>
-        <translation>Dokument als Gliederung anzeigen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accepts all changes that are highlighted in the current filter settings</source>
-        <translation>Alle Änderungen übernehmen, die in den aktuellen Filtereinstellungen hervorgehoben sind</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save file as DOCX document</source>
@@ -380,47 +376,47 @@
     </message>
     <message>
         <source>Selects the current cell in a table</source>
-        <translation>Aktuelle Zelle in der Tabelle auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes the outside borders of the selected paragraphs, table cells, and pictures</source>
-        <translation>Außenränder der ausgewählten Absätze, Tabellenzellen und Bilder ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes the bottom border of the selected paragraphs, table cells, and pictures</source>
-        <translation>Unteren Rand der ausgewählten Absätze, Tabellenzellen und Bilder ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Inserts an empty textbox or encloses the selected item in a textbox</source>
-        <translation>Leeres Textfeld einfügen oder Auswahl in einem Textfeld platzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sends the active document through electronic mail</source>
-        <translation>Das aktive Dokument per E-Mail senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selects the entire document</source>
-        <translation>Das gesamte Dokument auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Opens a data source for mail merge of insert database</source>
-        <translation>Datenquelle für das Zusammenführen von E-Mails oder das Einfügen von Datenbanken öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shows/hides a summary pane for viewing and editing document revisions (horizontal)</source>
-        <translation>Blendet einen Übersichtsbereich zum Anzeigen und Bearbeiten von Dokumentrevisionen (horizontal) ein/aus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selects the current column in a table</source>
-        <translation>Aktuelle Spalte in der Tabelle auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Deletes the selected columns from the table</source>
-        <translation>Ausgewählte Spalten aus der Tabelle löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes the height and width of the rows and columns in a table</source>
-        <translation>Zeilenhöhe und Spaltenbreite in der Tabelle ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Saves a copy of the document in a separate file</source>
@@ -432,7 +428,7 @@
     </message>
     <message>
         <source>Deletes the selected table</source>
-        <translation>Ausgewählte Tabelle löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Specify a command</source>
@@ -444,7 +440,7 @@
     </message>
     <message>
         <source>Aligns the selected drawing objects to the right</source>
-        <translation>Ausgewählte Zeichnungsobjekte nach rechts ausrichten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Specify keyboard sequence</source>
@@ -452,27 +448,27 @@
     </message>
     <message>
         <source>Cuts the selection and puts in on the Clipboard</source>
-        <translation>Die Auswahl ausschneiden und in der Zwischenablage des Systems ablegen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selects the current row in a table</source>
-        <translation>Aktuelle Zeile in der Tabelle auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes the left border of the selected paragraphs, table cells, and pictures</source>
-        <translation>Linken Rand der ausgewählten Absätze, Tabellenzellen und Bilder ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Removes borders from the selected paragraphs, table cells, and pictures</source>
-        <translation>Ränder aus den ausgewählten Absätzen, Tabellenzellen und Bildern entfernen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Opens a summary pane for viewing and editing document revisions (toggle)</source>
-        <translation>Zeigen Sie alle Revisionen in Ihrem Dokument als Liste im Bereich an.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes all the borders of the selected table cells</source>
-        <translation>Alle Ränder der ausgewählten Zellen ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save file as Word 97-2003 Document</source>
@@ -480,19 +476,19 @@
     </message>
     <message>
         <source>Inserts the Clipboard contents as a linked object, embedded object, or other format</source>
-        <translation>Einfügen von Inhalten aus der Zwischenablage als verknüpftes Objekt, eingebettetes Objekt oder in anderer Form</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes the top borders of the selected paragraphs, table cells, and pictures</source>
-        <translation>Obere Ränder der ausgewählten Absätze, Tabellenzellen und Bilder ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show or hide comment balloons</source>
-        <translation>Kommentarfeld ein- oder ausblenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rejects all changes in document, ignoring filter settings</source>
-        <translation>Alle Änderungen im Dokument ablehnen, Filtereinstellungen ignorieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description</source>
@@ -500,19 +496,19 @@
     </message>
     <message>
         <source>Always use balloons</source>
-        <translation>Immer Kommentarfeld verwenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show or hide markup balloons</source>
-        <translation>Markup-Feld ein- oder ausblenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accepts all changes in document, ignoring filter settings</source>
-        <translation>Alle Änderungen im Dokument übernehmen, Filtereinstellungen werden ignoriert</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes the page setup of the selected sections</source>
-        <translation>Seiteneinstellungen für den ausgewählten Abschnitt ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Assign</source>
@@ -520,15 +516,15 @@
     </message>
     <message>
         <source>Scales the editing view to see the two pages in page layout view</source>
-        <translation>Ändern Sie die Größe des Dokuments, um mehrere Seiten in einem Fenster anzuzeigen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes various categories of WPS options</source>
-        <translation>Verschiedene Optionen von WPS ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Marks the text you want to include in the index</source>
-        <translation>Ausgewählten Text im Dokumentindex markieren.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sa&amp;ve changes in:</source>
@@ -536,11 +532,11 @@
     </message>
     <message>
         <source>Selects an entire table</source>
-        <translation>Gesamte Tabelle auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert ink comment</source>
-        <translation>Kommentar einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -548,7 +544,7 @@
     </message>
     <message>
         <source>Deletes all comments in document, ignoring filter settings</source>
-        <translation>Alle Kommentare im Dokument löschen, Filtereinstellungen ignorieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;urrent keys:</source>
@@ -560,11 +556,11 @@
     </message>
     <message>
         <source>Jumps to a specified place in the active document</source>
-        <translation>An eine bestimmte Stelle im aktiven Dokument springen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Deletes the selected rows from the table</source>
-        <translation>Ausgewählte Zeilen aus der Tabelle löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Evenly distributes selected rows</source>
@@ -572,11 +568,11 @@
     </message>
     <message>
         <source>Rejects all changes that are highlighted in the current filter settings</source>
-        <translation>Alle Änderungen ablehnen, die in den aktuellen Filtereinstellungen hervorgehoben sind</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes the right border of the selected paragraphs, table cells, and pictures</source>
-        <translation>Rechten Rand der ausgewählten Absätze, Tabellenzellen und Bilder ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>[Underline]</source>
@@ -584,59 +580,59 @@
     </message>
     <message>
         <source>Toggles table gridlines on and off in Ribbon</source>
-        <translation>Tabellengitter in der Multifunktionsleiste aktivieren und deaktivieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Inserts an empty vertical text box or encloses the selected item in a vertical textbox</source>
-        <translation>Leeres vertikales Textfeld einfügen oder Auswahl in einem vertikalen Textfeld platzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shows/hides a summary pane for viewing and editing document revisions (vertical)</source>
-        <translation>Blendet einen Übersichtsbereich zum Anzeigen und Bearbeiten von Dokumentrevisionen (vertikal) ein/aus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Creates a Quick Style style out of the currently selected text</source>
-        <translation>&quot;Schnellformat&quot; aus dem aktuell ausgewählten Text erstellen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Opens New Document taskpane</source>
-        <translation>Aufgabenbereich &quot;Neues Dokument&quot; öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Creates a new AutoText Building Block from the current selection</source>
-        <translation>Neuen AutoText-Baustein basierend auf der aktuellen Auswahl erstellen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Aligns the selected drawing objects to the left</source>
-        <translation>Ausgewählte Zeichnungsobjekte nach links ausrichten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Aligns the selected drawing objects to the bottom</source>
-        <translation>Ausgewählte Zeichnungsobjekte nach unten ausrichten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Removes Table of Contents building block from the document</source>
-        <translation>Inhaltsverzeichnis-Baustein aus dem Dokument entfernen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Changes the font of the selection</source>
-        <translation>Schriftart der Auswahl ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copies the selection and puts it on the Clipboard</source>
-        <translation>Die Auswahl kopieren und in der Zwischenablage des Systems ablegen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sends the selected drawing objects backward</source>
-        <translation>Ausgewählte Zeichnungsobjekte rückwärts senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Currently assigned to: </source>
-        <translation>Zugewiesen zu: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Aligns the selected drawing objects to the top</source>
-        <translation>Ausgewählte Zeichnungsobjekte nach oben ausrichten</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -651,19 +647,19 @@
     </message>
     <message>
         <source>Subtituted font</source>
-        <translation>Schriftart ersetzen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No font substitution is necessary. All fonts used in this document are available.</source>
-        <translation>Es ist keine Schriftartersetzung erforderlich. Alle in diesem Dokument verwendeten Schriftarten sind verfügbar.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Missing document font</source>
-        <translation>Fehlende Schriftart(&amp;M)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font substitutions</source>
-        <translation>Schriftartersetzung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Convert &amp;Permanently...</source>
@@ -671,11 +667,11 @@
     </message>
     <message>
         <source>Do you want to permanently convert all the missing fonts in this document to their substitute fonts?</source>
-        <translation>Möchten Sie alle fehlenden Schriftarten dauerhaft in ihre Ersatzschriftarten konvertieren?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Missing document font:</source>
-        <translation>Fehlende Schriftart:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&quot; will be displayed and printed using &quot;</source>
@@ -683,7 +679,7 @@
     </message>
     <message>
         <source>&amp;Substituted font:</source>
-        <translation>Schriftart ersetzen(&amp;S):</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -790,7 +786,7 @@
     </message>
     <message>
         <source>Pica</source>
-        <translation>Pica</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>line</source>
@@ -1114,7 +1110,7 @@
     </message>
     <message>
         <source>Recorded %d too much data fields.</source>
-        <translation>Datensatz %d enthielt zu viele Datenfelder.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Center</source>
@@ -1127,7 +1123,7 @@
     </message>
     <message>
         <source>Recorded %d too few data fields.</source>
-        <translation>Datensatz %d enthielt zu wenige Datenfelder.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Condensed by </source>
@@ -1264,7 +1260,7 @@
     </message>
     <message>
         <source>WPS cannot save changeds to the global template, because it was opened with read-only access.</source>
-        <translation>WPS kann die Änderungen an einer gemeinsamen Vorlage nicht speichern, da sie schreibgeschützt geöffnet wurde.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Force equal column width</source>
@@ -1401,7 +1397,7 @@
     </message>
     <message>
         <source>%s Not Privilege</source>
-        <translation>%s konnte nicht geladen werden. Sie haben keine Administratorrechte oder die Berechtigungen werden von einer anderen Software gesperrt.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Specify line and character grid</source>
@@ -1526,7 +1522,7 @@
     </message>
     <message>
         <source>Tips: WPS formula content found temporarily unable to resolve in this document, in order to avoid the impact of your work, place documents into .doc format before using WPS Now!</source>
-        <translation>Hinweis: WPS Office hat in diesem Dokument nicht aufgelöste Formelinhalte gefunden. Konvertieren Sie das Dokument in Doc-Format.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Don&apos;t suppress line numbers</source>
@@ -1887,7 +1883,7 @@
     </message>
     <message>
         <source>WPS Writer AaBbCc</source>
-        <translation>WPS Writer AaBbCc</translation>
+        <translation>WPS entspannt die Arbeit </translation>
     </message>
     <message>
         <source>Justified</source>
@@ -1899,11 +1895,11 @@
     </message>
     <message>
         <source>You cannot compare these documents because the document contain XML Nodes</source>
-        <translation>Sie können diese Dokumente nicht vergleichen, da sie XML-Knoten enthalten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text tools(&amp;F)</source>
-        <translation>Textwerkzeuge(&amp;T)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Indent at</source>
@@ -2242,7 +2238,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Recorded %d is empty.</source>
-        <translation>Datensatz %d ist leer.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hanging</source>
@@ -2250,7 +2246,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>%s Medium Full</source>
-        <translation>%s konnte nicht geladen werden und die Festplatte ist voll. Bitte bereinigen Sie unnötige Dateien auf der Festplatte (z. B. temporäre Dateien) und versuchen Sie es erneut.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Headers</source>
@@ -2326,7 +2322,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Enter to repeat any content (including other content controls). You can also insert this control around a table row to repeat part of the table.</source>
-        <translation>Geben Sie alle Inhalte ein, die wiederholt werden sollen – einschließlich anderer Inhaltssteuerelemente Sie können auch dieses Steuerelement um Tabellenzeilen herum einfügen, um Teile einer Tabelle zu wiederholen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom Cover Pages</source>
@@ -2462,7 +2458,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Insert/paste pictures as(&amp;Z):</source>
-        <translation>Bilder einfügen als (&amp;B):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>H&amp;idden text</source>
@@ -2478,7 +2474,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>This option is used for &quot;Print space of hidden text&quot; only.</source>
-        <translation>Diese Option wird nur für „Leerzeichen für ausgeblendeten Text drucken“ verwendet.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Double click t&amp;ab to hide ribbon</source>
@@ -2546,7 +2542,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Do not &amp;use indent as numbering tabstop</source>
-        <translation>&amp;Hängenden Einzug nicht als Tabstopp für Aufzählungszeichen und Nummerierungen verwenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cloud backup</source>
@@ -2634,7 +2630,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Enter header or footer tip (&amp;Q)</source>
-        <translation>Tipp für Kopf- bzw. -Fußzeile eingeben (&amp;Q)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Do not compress</source>
@@ -2774,7 +2770,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Pasting between documents when st&amp;yles conflict:</source>
-        <translation>Einfügen zwischen Dokumenten bei Konflikten zwischen Stilen:(&amp;Y):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format</source>
@@ -2862,15 +2858,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Use the recommended width(&amp;F)</source>
-        <translation>Empfohlene Breite verwenden (&amp;F)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Support different levels of password protection,click &apos;advance&apos; to choose different encryption types.</source>
-        <translation>Unterstützt verschiedene Ebenen des Passwortschutzes. Klicken Sie auf &apos;Erweitert&apos;, um einen Verschlüsselungstyp zu wählen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set auto roaming &amp;mode and save file to cloud</source>
-        <translation>Automatisches Roaming einstellen und Datei in der Cloud speichern (&amp;m)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Beginning of paragraph applies first line indent</source>
@@ -2886,7 +2882,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation>Minisymbolleiste für die Auswahl anzeigen (&amp;M)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
@@ -2910,7 +2906,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Need Login</source>
-        <translation>Anmeldung erforderlich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show revisor information in balloons</source>
@@ -3022,11 +3018,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Backup files cache:</source>
-        <translation>Aufbewahrungsfrist:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format(&amp;J):</source>
-        <translation>Format (&amp;J):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Balloons</source>
@@ -3050,7 +3046,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
-        <translation>Sprache der Anzeige und Hilfe auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display the &amp;tab bar at the top of document</source>
@@ -3102,7 +3098,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Lay &amp;out footnotes the way Word 6.x/95/97 does</source>
-        <translation>Layout von Fußnoten als Word 6.x/95/97(&amp;O)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Clear local backup cache</source>
@@ -3306,7 +3302,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Track format setting(&amp;K)</source>
-        <translation>Formateinstellung nachverfolgen (&amp;K)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Te&amp;xt boundaries</source>
@@ -3342,7 +3338,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Max U&amp;ndo/Redo:</source>
-        <translation>Maximale &amp;Rückgängig/Wiederholen-Vorgänge</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Split &amp;apart page break and paragraph mark</source>
@@ -3366,7 +3362,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Open backup file</source>
-        <translation>Si&amp;cherungsdatei öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use &amp;balloons:</source>
@@ -3382,7 +3378,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>open roaming file</source>
-        <translation>Automatisch hochgeladene Datei anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
@@ -3398,7 +3394,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation>Sicherungszentrum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Latin text and &amp;punctuation</source>
@@ -3418,7 +3414,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>comments and revisions au&amp;thor:</source>
-        <translation>Autor der Kommentare und Überarbeitungen(&amp;T)：</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Boo&amp;kmarks</source>
@@ -3494,7 +3490,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Login Now</source>
-        <translation>Jetzt anmelden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print initials</source>
@@ -3514,7 +3510,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Set the document permission, only specify person can view or edit the document.</source>
-        <translation>Legen Sie die Dokumentberechtigung fest. Nur bestimmte Personen können das Dokument anzeigen oder bearbeiten.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document Permission</source>
@@ -3538,7 +3534,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Backup Setting</source>
-        <translation>Sicherungseinstellungen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compatibilit&amp;y options for:</source>
@@ -3558,11 +3554,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Default HomePage(&amp;Y):</source>
-        <translation>Standard-Homepage (&amp;Y):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please keep the password properly, once forgotten, it can not be restored.</source>
-        <translation>Bewahren Sie das Passwort an einem sicheren Ort auf. Ein vergessenes Passwort kann nicht wiederhergestellt werden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;New Document</source>
@@ -3586,7 +3582,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>No tab hang &amp;indent</source>
-        <translation>Bei hängendem &amp;Einzug keinen automatischen Tabstopp hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fixed ta&amp;b width</source>
@@ -3622,7 +3618,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Double click tab to Clos&amp;e Documemt</source>
-        <translation>Doppelklicken, um Dokument zu schließen (&amp;e)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable &amp;click and type</source>
@@ -3630,18 +3626,6 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>WhenSelected</source>
-        <translation>Wenn ausgewählt</translation>
-    </message>
-    <message>
-        <source>Enable middle button paste</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;minutes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3853,7 +3837,7 @@ Do you want to replace it?</source>
     <name>KxFieldDlg</name>
     <message>
         <source>/</source>
-        <translation>/</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TC</source>
@@ -3873,7 +3857,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Caps</source>
-        <translation>Erster Buchstabe groß</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Link</source>
@@ -3897,7 +3881,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>FileName</source>
-        <translation>Dateiname</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert part of a file by using OLE</source>
@@ -3905,7 +3889,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Lower</source>
-        <translation>Kleinbuchstaben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>THREE</source>
@@ -3917,7 +3901,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Upper</source>
-        <translation>Großbuchstaben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
@@ -3925,7 +3909,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>FirstCap</source>
-        <translation>Satzanfang groß</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Presume the Kingsoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
@@ -3977,7 +3961,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>DBCHAR</source>
-        <translation>Volle Breite...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Presume the author of this document is WPS. Field code: DOCPPROPERTY Author</source>
@@ -3993,7 +3977,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>SBCHAR</source>
-        <translation>Halbe Breite...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
@@ -4073,7 +4057,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Newv&amp;alue:</source>
-        <translation>Neuer Wert (&amp;a):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocVariable</source>
@@ -4189,7 +4173,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>root directory</source>
-        <translation>Stammverzeichnis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The display result of the first place. Field code:SEQ KGS</source>
@@ -5161,7 +5145,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %s 
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Benutzerfeedback</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The spelling check is complete.</source>
@@ -6431,7 +6415,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Apply(&amp;A)</source>
-        <translation>Anwenden(&amp;A)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The measurement must be between 1 and 10.</source>
@@ -6468,10 +6452,6 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>In this section</source>
         <translation>In diesem Abschnitt</translation>
-    </message>
-    <message>
-        <source>(&amp;A)</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6659,7 +6639,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>&amp;Defauls ...</source>
-        <translation>Voreinstellungen ...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>General</source>
@@ -6999,7 +6979,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please change a watermark name!</source>
@@ -7047,7 +7027,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>TOP SECRET</source>
-        <translation>STRENG GEHEIM</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>URGENT</source>
@@ -7083,7 +7063,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>CONFIDENTIAL</source>
-        <translation>VERTRAULICH</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Existing picture</source>
@@ -7399,7 +7379,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>point</source>
-        <translation>Punkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Letter</source>
@@ -7514,7 +7494,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>fieldDomainConte&amp;xt</source>
-        <translation>Feldkonte&amp;xt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;default response:</source>
@@ -7611,7 +7591,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>to&amp;oltips</source>
-        <translation>QuickInfo (&amp;o)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Field names:</source>
@@ -7698,7 +7678,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insertion Mode</source>
-        <translation>Einfügemodus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Marks Only</source>
@@ -7714,7 +7694,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>DocumentField Properties</source>
-        <translation>Dokumentfeldeigenschaften</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
@@ -7722,7 +7702,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Document&amp;Field Name:</source>
-        <translation>Dokumentfeldname (&amp;f):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Location</source>
@@ -7738,7 +7718,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Apply All</source>
-        <translation>Alle übernehmen (&amp;A)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -7758,11 +7738,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>When inserted at beginning and end, then &amp;counted in. </source>
-        <translation>Wenn an Anfang und Ende eingefügt, dann gezählt. (&amp;c)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation>Dokumentfeld</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8029,11 +8009,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation>Dialogfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Replace contents identified by WPS AI Assistant?</source>
-        <translation>Durch das vom WPS AI-Assistenten identifizierte Inhaltsverzeichnis ersetzen?</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8071,7 +8051,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>New Template</source>
-        <translation>Neue Berechtigungsvorlage</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8123,10 +8103,6 @@ use buttons to apply borders</source>
     <message>
         <source>Entire document</source>
         <translation>Gesamtes Dokument</translation>
-    </message>
-    <message>
-        <source>Set page number format</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8203,7 +8179,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Add XMLExtend Pack</source>
-        <translation>XML-Erweiterungspaket installieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Attach Template</source>
@@ -8211,7 +8187,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Cannot Install the xml Extend or the xml schema.</source>
-        <translation>Das XML-Erweiterungspaket oder die Schema-Datei konnten nicht installiert werden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Word Templates</source>
@@ -8223,11 +8199,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The operation will delete all the xmlnodes in the %1,do you want to continue?</source>
-        <translation>Entfernt alle XML-Tags, die sich im %1-Namensraum befinden. Möchten Sie fortfahren?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XML Schema</source>
-        <translation>Schemabibliothek</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Schema</source>
@@ -8235,15 +8211,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source> [disabled] </source>
-        <translation>Deaktiviert</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
-        <translation>XML-Schemas (*.xsd;*.xml);;XML-Erweiterungspakete (*.xml)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XMLExtend Pack Instruction List(*.xml)</source>
-        <translation>XML-Erweiterungspaket-Manifest (*.xml)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Word Documents</source>
@@ -8255,11 +8231,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Load the template or add-ins may cause an application exception, you sure you want to enable?</source>
-        <translation>Das Laden der Vorlage oder der Add-Ins kann zu einem Ausnahmefehler der Anwendung führen. Wirklich aktivieren?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you want to delete the XMLExtend Pack on this computer?</source>
-        <translation>Sind Sie sicher, dass Sie das XML-Erweiterungspaket von Ihrem Computer löschen möchten?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Word Documents</source>
@@ -8275,7 +8251,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>the schema you choose is unable to use in document.The schema is possible unable or invalid, you may need other schema to run continue.</source>
-        <translation>Ein oder mehrere der ausgewählten Schemas können in diesem Dokument nicht verwendet werden. Ein Schema ist möglicherweise nicht verfügbar, ungültig oder benötigt zusätzliche Schemas, damit es ordnungsgemäß funktioniert.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XML Files</source>
@@ -8353,7 +8329,7 @@ use buttons to apply borders</source>
     <name>KxDlgTextEffects</name>
     <message>
         <source>Ok</source>
-        <translation>OK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Text Effects</source>
@@ -8364,7 +8340,7 @@ use buttons to apply borders</source>
     <name>KxEnvelopeOptionDlg</name>
     <message>
         <source>Ok</source>
-        <translation>OK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto</source>
@@ -8921,7 +8897,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Onlinebilder einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -8997,7 +8973,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -9013,11 +8989,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Weitere Schriftfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Behind Text</source>
@@ -9153,7 +9129,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Zeilenumbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -9225,7 +9201,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -9237,11 +9213,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation>Formatpipette</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strichart</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -9456,12 +9432,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Go to TOC</source>
-        <translation>Gehe zu Inhaltsverzeichnis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>Inhaltsverzeichnis 
-aktualisieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Level</source>
@@ -9484,11 +9459,11 @@ aktualisieren</translation>
     <name>KxAdjustNumberingIndentDlg</name>
     <message>
         <source>ch</source>
-        <translation>Zeich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bulleted position(&amp;P):</source>
-        <translation>Aufgezählte Position(&amp;P):</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9840,7 +9815,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Wrap text in shape</source>
@@ -9892,7 +9867,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>Rotate Asian Charaters 270°</source>
-        <translation>Asiatische Zeichen um 270 Grad drehen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom...</source>
@@ -9900,7 +9875,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>Borderless</source>
-        <translation>Randlos</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>D&amp;o not rotate text</source>
@@ -9932,11 +9907,11 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>Enter 0 to 55.88 cm of value</source>
-        <translation>Wert zwischen 0 und 55,88 cm eingeben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Widening Margins</source>
-        <translation>Erweiterung der Ränder</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10038,15 +10013,15 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     <name>KxSyAddedUsersTableModel</name>
     <message>
         <source>id</source>
-        <translation>ID</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>name</source>
-        <translation>Name</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>contactname</source>
-        <translation>Kontaktperson</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10311,7 +10286,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>%1 &quot;%2&quot; have been replaced by &quot;%3&quot;</source>
-        <translation>&quot;%2&quot; in %1  wurde ersetzt durch &quot;%3&quot;.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
@@ -10319,11 +10294,11 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>All Select</source>
-        <translation>Alles auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Body Text(%1)</source>
-        <translation>Textkörper (%1)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Searching Uyghur. Please check results in the document.</source>
@@ -10335,7 +10310,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>Input search content</source>
-        <translation>Geben Sie den Inhalt ein, nach dem gesucht werden soll.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Replace</source>
@@ -10348,12 +10323,11 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     <message>
         <source>Do you replace all result, total %1?
 if you want to replace selected result, please click the replace button</source>
-        <translation>Möchten Sie alle Suchergebnisse (insgesamt %1 Datensätze) ersetzen?
-Wenn Sie nur ausgewählte Datensätze ersetzen möchten, klicken Sie bitte im Navigationsfenster auf &quot;Ersetzen&quot;.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you replace the selected results, total %1?</source>
-        <translation>Möchten Sie die ausgewählten Datensätze (%1 insgesamt) ersetzen?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Searching...</source>
@@ -10361,15 +10335,15 @@ Wenn Sie nur ausgewählte Datensätze ersetzen möchten, klicken Sie bitte im Na
     </message>
     <message>
         <source>Please input Find What text.</source>
-        <translation>Bitte geben Sie einen Titel ein.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Too many results found, please check results in the document.</source>
-        <translation>Zu viele Ergebnisse, die hier nicht angezeigt werden können. Bitte überprüfen Sie die Ergebnisse im Dokument.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Writer found %1 items matching this criteria.</source>
-        <translation>%1 Elemente gefunden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Writer cannot replace the found item with text containing a break.</source>
@@ -10377,7 +10351,7 @@ Wenn Sie nur ausgewählte Datensätze ersetzen möchten, klicken Sie bitte im Na
     </message>
     <message>
         <source>Invalid special character for the Replace With box.</source>
-        <translation>Enthält ungültige Sonderzeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Other(%1)</source>
@@ -10385,11 +10359,11 @@ Wenn Sie nur ausgewählte Datensätze ersetzen möchten, klicken Sie bitte im Na
     </message>
     <message>
         <source>Input replacement content</source>
-        <translation>Geben Sie den Ersatzinhalt ein.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The Find What text can not exceed %1 characters.</source>
-        <translation>Darf %1 Zeichen nicht überschreiten.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10501,11 +10475,11 @@ Wenn Sie nur ausgewählte Datensätze ersetzen möchten, klicken Sie bitte im Na
     </message>
     <message>
         <source>Dialog</source>
-        <translation>Dialogfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cannot create automatic table of contents since no heading style or outline level has been set. </source>
-        <translation>Das Inhaltsverzeichnis konnte nicht automatisch erstellt werden. Es wurden keine Überschriftsstile oder Gliederungsebenen festgelegt.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10769,7 +10743,7 @@ Wenn Sie die Datei über die Liste der zuletzt verwendeten Dateien im Menü „D
     </message>
     <message>
         <source>Normal Files</source>
-        <translation>Gängige Dateien (Word-Dateien;Excel-Dateien;PowerPoint-Dateien;PDF-Dateien)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
@@ -10797,7 +10771,7 @@ Wenn Sie die Datei über die Liste der zuletzt verwendeten Dateien im Menü „D
     </message>
     <message>
         <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
-        <translation>Vor dem Einchecken können andere Benutzer Ihre Änderungen nicht sehen. Möchten Sie einchecken?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
@@ -10840,15 +10814,6 @@ Please try one of the following.
 Sie können Folgendes versuchen:
 •Wechseln Sie zu einem anderen Benutzerkonto.
 •Ersuchen Sie den Autor, die Berechtigungen für diese Datei entsprechend anzupassen.</translation>
-    </message>
-    <message>
-        <source>Pasting page breaks in math will be lost.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
-This backup will be saved to (%s)</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10919,23 +10884,23 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Eckige leere Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation>Ausgefüllte runde Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation>Pfeilförmige Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mehr Schriftfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation>Karoförmige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font Size</source>
@@ -10959,7 +10924,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation>Eckige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bullets</source>
@@ -10967,11 +10932,11 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation>Runde gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation>Formatpipette</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -10979,7 +10944,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Häkchenaufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Highlight</source>
@@ -11118,7 +11083,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation>Text ausrichten - Blocksatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Painter</source>
@@ -11126,7 +11091,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontales Textfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -11252,7 +11217,7 @@ Auf</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -11413,8 +11378,7 @@ Direction</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Textumbruch 
-Stil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Text Box</source>
@@ -11467,7 +11431,7 @@ On/Off</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -11483,11 +11447,11 @@ On/Off</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strich-Stil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>In Line with Text</source>
@@ -11519,11 +11483,11 @@ On/Off</source>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Form ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikales Textfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -11575,7 +11539,7 @@ On/Off</source>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation>Bild oder Struktur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gridlines</source>
@@ -11654,11 +11618,11 @@ On/Off</source>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>1 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -11666,7 +11630,7 @@ On/Off</source>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align</source>
@@ -11690,7 +11654,7 @@ On/Off</source>
     </message>
     <message>
         <source>Strikethought</source>
-        <translation>Durchgestrichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Left</source>
@@ -11706,23 +11670,23 @@ On/Off</source>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation>Mehr Unterstreichungsfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation>Text ausrichten - Blocksatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2,25 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation>0,25 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0,75 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Middle</source>
@@ -11734,7 +11698,7 @@ On/Off</source>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Textumbruch Stil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -11790,11 +11754,11 @@ On/Off</source>
     </message>
     <message>
         <source>Flip Horizontally</source>
-        <translation>Horizontal kippen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0,5 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -11802,7 +11766,7 @@ On/Off</source>
     </message>
     <message>
         <source>Insert Shape</source>
-        <translation>Form einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3-D
@@ -11824,7 +11788,7 @@ Auf</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Mehre Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -11832,7 +11796,7 @@ Auf</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation>1,5 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Behind Text</source>
@@ -11840,7 +11804,7 @@ Auf</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Textrichtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Center</source>
@@ -11932,7 +11896,7 @@ Auf</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4,5 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Lines</source>
@@ -11948,7 +11912,7 @@ Auf</translation>
     </message>
     <message>
         <source>Previous TextBox</source>
-        <translation>Vorheriges Textfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Equal Size</source>
@@ -11964,7 +11928,7 @@ Auf</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Zeilenumbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Text Box</source>
@@ -11976,7 +11940,7 @@ Auf</translation>
     </message>
     <message>
         <source>MultiLine Text</source>
-        <translation>Mehrzeiliger Text</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Right</source>
@@ -11984,7 +11948,7 @@ Auf</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Farbverlauf</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Square Dot</source>
@@ -11996,7 +11960,7 @@ Auf</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Strichpunkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distributed</source>
@@ -12020,11 +11984,11 @@ Auf</translation>
     </message>
     <message>
         <source>Create TextBox Link</source>
-        <translation>Textfeld verknüpfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -12040,15 +12004,15 @@ Auf</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strichart</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>In Line With Text</source>
-        <translation>Mit Text in Zeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Underline</source>
@@ -12060,7 +12024,7 @@ Auf</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation>Vertikal kippen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Through</source>
@@ -12068,7 +12032,7 @@ Auf</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Langer Strichpunkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>UnGroup</source>
@@ -12084,15 +12048,15 @@ Auf</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Formen ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Points</source>
-        <translation>Punkte ändern</translation>
+        <translation>Punkte bearbeiten</translation>
     </message>
     <message>
         <source>Bring In Front Of Text</source>
-        <translation>Vor dem Text platzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -12128,7 +12092,7 @@ Auf</translation>
     </message>
     <message>
         <source>EmphasisMark</source>
-        <translation>Betonungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -12136,7 +12100,7 @@ Auf</translation>
     </message>
     <message>
         <source>Long Dash-Dot-Dot</source>
-        <translation>Langer Strichpunkt-Punkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gridlines</source>
@@ -12251,7 +12215,7 @@ Auf</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Breite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Left</source>
@@ -12267,11 +12231,11 @@ Auf</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation>Text ausrichten - Blocksatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Format übertragen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -12295,11 +12259,11 @@ Auf</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation>Nach Skala zuschneiden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation>Nach Form zuschneiden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -12361,7 +12325,7 @@ Auf</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -12473,7 +12437,7 @@ Auf</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Zeilenumbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -12514,7 +12478,7 @@ On/Off</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -12530,11 +12494,11 @@ On/Off</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strichart</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>In Line with Text</source>
@@ -12550,7 +12514,7 @@ On/Off</source>
     </message>
     <message>
         <source>Graphic Fill</source>
-        <translation>Grafik füllen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -12685,7 +12649,7 @@ On/Off</source>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Eckige leere Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -12713,7 +12677,7 @@ On/Off</source>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation>Text ausrichten - Blocksatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right Border</source>
@@ -12721,7 +12685,7 @@ On/Off</source>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation>Ausgefüllte runde Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -12737,7 +12701,7 @@ On/Off</source>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation>Pfeilförmige Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Inside Vertical Border</source>
@@ -12757,7 +12721,7 @@ On/Off</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right-to-Left</source>
@@ -12793,7 +12757,7 @@ On/Off</source>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation>Karoförmige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left Border</source>
@@ -12841,11 +12805,11 @@ On/Off</source>
     </message>
     <message>
         <source>Show/Hide Edit Mark</source>
-        <translation>Bearbeitungsmarken &amp;ein-/ausblenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Wort-Extras</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Matching Current Format</source>
@@ -12861,7 +12825,7 @@ On/Off</source>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>Formatvorlagen und Formatierung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
@@ -12897,7 +12861,7 @@ On/Off</source>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3D-Drehung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Style</source>
@@ -12910,7 +12874,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation>Eckige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscript</source>
@@ -12930,7 +12894,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation>Runde gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shading</source>
@@ -12946,7 +12910,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Underline</source>
@@ -12990,7 +12954,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Häkchenaufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Case</source>
@@ -13022,7 +12986,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Texteffekte</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArt</source>
@@ -13041,10 +13005,6 @@ ersetzen</translation>
     <message>
         <source>Line Spacing</source>
         <translation>Zeilenabstand</translation>
-    </message>
-    <message>
-        <source>Unformatted Text</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13131,7 +13091,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Eckige leere Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -13159,11 +13119,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation>Text im Blocksatz ausrichten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation>Ausgefüllte runde Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Middle</source>
@@ -13175,7 +13135,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation>Pfeilförmige Aufzählungszeichen </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reflection</source>
@@ -13223,7 +13183,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -13231,15 +13191,15 @@ ersetzen</translation>
     </message>
     <message>
         <source>Vertical direction</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Textrichtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Horizontal direction</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Center</source>
@@ -13259,7 +13219,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation>Karoförmige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -13307,7 +13267,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Vertikal zentrieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Multi-line Text</source>
@@ -13355,11 +13315,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3D-Drehung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation>Eckige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bullets</source>
@@ -13367,7 +13327,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation>Runde gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -13383,11 +13343,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strich-Stil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stacked</source>
@@ -13411,7 +13371,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Betonungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Round Dot</source>
@@ -13443,7 +13403,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Häkchenaufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -13467,7 +13427,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Texteffekte</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -13479,11 +13439,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>Gemusterte Linien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Textbox</source>
-        <translation>Textfeld einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -13499,7 +13459,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation>Bild oder Struktur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gridlines</source>
@@ -13590,7 +13550,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Eckige leere Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -13618,11 +13578,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation>Text ausrichten - Blocksatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation>Ausgefüllte runde Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -13638,7 +13598,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation>Pfeilförmige Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reflection</source>
@@ -13686,15 +13646,15 @@ ersetzen</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Weitere Schriftfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Textrichtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Center</source>
@@ -13714,7 +13674,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation>Karoförmige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -13794,7 +13754,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Strichlinie Punkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distributed</source>
@@ -13806,7 +13766,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3D-Drehung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Local Text Box</source>
@@ -13814,7 +13774,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation>Eckige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bullets</source>
@@ -13822,7 +13782,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation>Runde gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -13838,11 +13798,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strichart</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Underline</source>
@@ -13858,11 +13818,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Langer Strich-Punkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Betonungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Round Dot</source>
@@ -13894,7 +13854,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Häkchenaufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Underline Color</source>
@@ -13910,7 +13870,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Texteffekte</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -13922,11 +13882,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>Linieneffekte</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Textbox</source>
-        <translation>Textfeldmenü einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -13942,7 +13902,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>Langer Strichpunkt-Punkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Top</source>
@@ -13997,39 +13957,39 @@ ersetzen</translation>
     </message>
     <message>
         <source>Show 1 Level Contents</source>
-        <translation>Inhaltsebene 1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show 2 Level Contents</source>
-        <translation>Inhaltsebene 2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show 3 Level Contents</source>
-        <translation>Inhaltsebene 3</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show 4 Level Contents</source>
-        <translation>Inhaltsebene 4</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show 5 Level Contents</source>
-        <translation>Inhaltsebene 5</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show 6 Level Contents</source>
-        <translation>Inhaltsebene 6</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show 7 Level Contents</source>
-        <translation>Inhaltsebene 7</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show 8 Level Contents</source>
-        <translation>Inhaltsebene 8</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show 9 Level Contents</source>
-        <translation>Inhaltsebene 9</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1 pt</source>
@@ -14045,7 +14005,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Axes</source>
-        <translation>Achsen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bold</source>
@@ -14109,7 +14069,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -14141,7 +14101,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Eckige leere Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Above</source>
@@ -14165,7 +14125,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation>Löschen</translation>
+        <translation>Radierer</translation>
     </message>
     <message>
         <source>Group</source>
@@ -14309,7 +14269,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Add Same Content Entry After</source>
-        <translation>Gleichrangigen Inhalt hinten hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document Map</source>
@@ -14321,7 +14281,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation>Text ausrichten - Blocksatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Painter</source>
@@ -14338,7 +14298,7 @@ Painter</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Footnote/Endnote</source>
@@ -14358,7 +14318,7 @@ Painter</source>
     </message>
     <message>
         <source>Chart Styles</source>
-        <translation>Diagrammformatvorlagen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show All Level</source>
@@ -14370,7 +14330,7 @@ Painter</source>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>Auf Updates überprüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Chart Area</source>
@@ -14378,11 +14338,11 @@ Painter</source>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation>Ausgefüllte runde Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation>Cloud-Verknüpfung erstellen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restart Each Page</source>
@@ -14406,7 +14366,7 @@ Painter</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Fenster schließen</translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -14438,7 +14398,7 @@ Painter</source>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>Autobackup aktivieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
@@ -14450,11 +14410,11 @@ Painter</source>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation>Nach Skala zuschneiden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation>Nach Form zuschneiden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Standard Deviation</source>
@@ -14462,7 +14422,7 @@ Painter</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Onlinebilder einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change to Stack Fraction</source>
@@ -14478,11 +14438,11 @@ Painter</source>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation>Rechts platzieren</translation>
+        <translation>Nach rechts verschieben</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation>Als Bild exportieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -14526,7 +14486,7 @@ Painter</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation>Online-Schriftarten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>app recommend</source>
@@ -14550,11 +14510,11 @@ Painter</source>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation>Pfeilförmige Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IntranetVersion Online Templates</source>
-        <translation>Online-Vorlagen</translation>
+        <translation>Onlinevorlagen</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
@@ -14574,7 +14534,7 @@ Painter</source>
     </message>
     <message>
         <source>Insert shape in before</source>
-        <translation>Form einfügen vor</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Frame</source>
@@ -14594,7 +14554,7 @@ Painter</source>
     </message>
     <message>
         <source>Change DataLabel Geometry</source>
-        <translation>Datenbeschriftungsform ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -14642,11 +14602,11 @@ Painter</source>
     </message>
     <message>
         <source>Reduce Level</source>
-        <translation>Level reduzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Photo to PDF</source>
-        <translation>Bild in PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First Line Indent</source>
@@ -14674,12 +14634,12 @@ Painter</source>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation>Links platzieren</translation>
+        <translation>Nach links verschieben</translation>
     </message>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation>COM Add-Ins</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Secondary Horizontal</source>
@@ -14711,11 +14671,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Shape</source>
-        <translation>Form einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Three Dimensional Rotation</source>
-        <translation>3D-Drehung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Data Table</source>
@@ -14775,11 +14735,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation>Weitere Farben</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Weitere Schriftfarben</translation>
+        <translation>Weitere Farben</translation>
     </message>
     <message>
         <source>Delete Table</source>
@@ -14787,7 +14747,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Increase Level</source>
-        <translation>Level erhöhen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Point</source>
@@ -14811,11 +14771,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>Onlinevorlagen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation>E-Mail senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
@@ -14824,7 +14784,7 @@ Add-Ins</source>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>Zeichnen Diagonale Linie in Zelle zeichnen</translation>
+        <translation>Diagonale Linie in Zelle zeichnen</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -14841,7 +14801,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation>Weitere frühere Datensätze</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Center</source>
@@ -14937,7 +14897,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation>Karoförmige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Blank Page</source>
@@ -14949,7 +14909,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Change Num</source>
-        <translation>Zahl ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -15065,7 +15025,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>Automatische Sicherung deaktivieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rows Below</source>
@@ -15142,7 +15102,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Aktuelles Fenster bei Bildschirmerfassung ausblenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Square</source>
@@ -15194,7 +15154,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>RightToLeft Layout</source>
-        <translation>Layout von rechts nach links</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Plot Area</source>
@@ -15214,7 +15174,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Zoom Slider</source>
-        <translation>Zoomregler</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -15255,7 +15215,7 @@ zählen</translation>
     </message>
     <message>
         <source>Add Sub Content Entry</source>
-        <translation>Untergeordneten Inhalt hinten hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Point</source>
@@ -15279,7 +15239,7 @@ zählen</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Wort-Extras</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Footnote</source>
@@ -15295,7 +15255,7 @@ zählen</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Optionen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
@@ -15336,7 +15296,7 @@ zählen</translation>
     </message>
     <message>
         <source>Kingsoft Proofread</source>
-        <translation>Erweitertes Korrekturlesen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Footnotes</source>
@@ -15364,11 +15324,11 @@ zählen</translation>
     </message>
     <message>
         <source>Insert assist</source>
-        <translation>Assistent einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation>WPS Mikroblog</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bullets and Numbering</source>
@@ -15384,7 +15344,7 @@ zählen</translation>
     </message>
     <message>
         <source>Align Middle and Center</source>
-        <translation>Mitte zentriert ausrichten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Matching Current Format</source>
@@ -15428,15 +15388,15 @@ zählen</translation>
     </message>
     <message>
         <source>Insert shape on below</source>
-        <translation>Form einfügen unter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert shape in after</source>
-        <translation>Form einfügen nach</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert shape on above</source>
-        <translation>Form einfügen über</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Office Facebook</source>
@@ -15460,15 +15420,15 @@ zählen</translation>
     </message>
     <message>
         <source>Move Shape</source>
-        <translation>Form verschieben</translation>
+        <translation>Verschieben</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dateifreigabe</translation>
+        <translation>Freigeben für</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>Linienart</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Argument After</source>
@@ -15476,7 +15436,7 @@ zählen</translation>
     </message>
     <message>
         <source>ComposeKit</source>
-        <translation>Schreibtipps</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Major Gridlines</source>
@@ -15492,11 +15452,11 @@ zählen</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation>Überarbeitungsbereich vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Backward</source>
-        <translation>Rückwärts</translation>
+        <translation>Nach unten verschieben</translation>
     </message>
     <message>
         <source>Add-Ins</source>
@@ -15524,11 +15484,11 @@ zählen</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation>Formatvorlagen und Formatierung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation>Link erstellen und freigeben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Chinese Spelling Check</source>
@@ -15585,7 +15545,7 @@ zählen</translation>
     </message>
     <message>
         <source>Compared Side by Side</source>
-        <translation>Nebeneinander vergleichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -15665,7 +15625,7 @@ zählen</translation>
     </message>
     <message>
         <source>BestFit</source>
-        <translation>Anpassen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoFit</source>
@@ -15685,8 +15645,7 @@ zählen</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und 
-Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel Contents Setting</source>
@@ -15694,7 +15653,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Benutzerberechtigungen überprüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Contents Level</source>
@@ -15702,7 +15661,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation>Produktmanagement-Center</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Primary Major Vertical</source>
@@ -15726,7 +15685,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>WPS Office Neue Funktionen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Draw Table</source>
@@ -15754,7 +15713,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation>Eckige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>About WPS Writer</source>
@@ -15786,7 +15745,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation>Runde gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TranslationSelect</source>
@@ -15794,7 +15753,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
-        <translation>Verstecke Zeilennummern für leere Zeilen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Curved Connector</source>
@@ -15806,7 +15765,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Anmelden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Footer Center</source>
@@ -15846,7 +15805,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Xie De Menu</source>
-        <translation>Xie-De-Menü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Header Center</source>
@@ -15894,7 +15853,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strichart</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Columns</source>
@@ -15974,15 +15933,15 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Confidentiality Level KeyWord</source>
-        <translation>Schlüsselwort mit Vertraulichkeitslevel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Layout Options</source>
-        <translation>Weitere Layoutoptionen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Category Label</source>
-        <translation>Rubrikenbeschriftungen formatieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -15994,11 +15953,11 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translation>Fortlaufend</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>Sicherungsversionen Untersuchen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoPoint</source>
@@ -16035,7 +15994,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation>Diagrammelement hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Minor Gridlines</source>
@@ -16097,7 +16056,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Secondary Minor Vertial</source>
-        <translation>Sekundäres Hilfsgitter vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -16149,7 +16108,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Over Type</source>
-        <translation>Überschreiben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Round Dot</source>
@@ -16161,7 +16120,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>TrendLine</source>
-        <translation>Trendlinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -16173,7 +16132,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation>Bildschirmabbild</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reject Change</source>
@@ -16193,7 +16152,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Form ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chart Objects</source>
@@ -16201,7 +16160,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>More Option...</source>
-        <translation>Weitere Optionen...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Odd Page Section Break</source>
@@ -16221,7 +16180,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Row</source>
@@ -16229,7 +16188,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>OnlineDiagram</source>
-        <translation>Onlinediagramm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -16293,7 +16252,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation>Automatischen Sicherung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Box</source>
@@ -16313,7 +16272,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Häkchenaufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Two Period Moving Average</source>
@@ -16325,7 +16284,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Add Same Content Entry Before</source>
-        <translation>Gleichrangigen Inhalt vorne hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Case</source>
@@ -16345,7 +16304,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Left Hang</source>
-        <translation>Links hängender Einzug</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Formats</source>
@@ -16397,7 +16356,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>Datei sicher anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Series Lines</source>
@@ -16417,7 +16376,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation>Meine Berechtigungen überprüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Data Callout</source>
@@ -16433,7 +16392,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Unformatierter Text</translation>
+        <translation>Nur den Text übernehmen</translation>
     </message>
     <message>
         <source>Right Tab</source>
@@ -16457,7 +16416,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation>Überarbeitungsbereich horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Leader Lines</source>
@@ -16525,7 +16484,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Format TrendLine Label</source>
-        <translation>Trendlinienbeschriftung formatieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Buy Subscription</source>
@@ -16533,11 +16492,11 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Upgrade Content Entry</source>
-        <translation>Hochstufen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My Subscription</source>
-        <translation>Meine Abonnements</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoFit to Content</source>
@@ -16549,7 +16508,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Downgrade Content Entry</source>
-        <translation>Herunterstufen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date and Time</source>
@@ -16569,7 +16528,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Primary Minor Vertial</source>
-        <translation>Primäres Hilfsgitter vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Primary Vertical</source>
@@ -16581,7 +16540,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Line Number Options</source>
-        <translation>Zeilennummerierungs-Einstellungen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -16597,11 +16556,11 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Right Hang</source>
-        <translation>Rechts hängender Einzug</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
-        <translation>Für aktuellen Paragraphen unterdrücken</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Down Bars</source>
@@ -16633,7 +16592,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Make Forward Doc</source>
-        <translation>Dokument weiterleiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Center</source>
@@ -16663,38 +16622,6 @@ Fußzeile</translation>
     <message>
         <source>Smooth Point</source>
         <translation>Übergangspunkt</translation>
-    </message>
-    <message>
-        <source>Identify Text in Picture</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Photo2PdfConvert</source>
-        <translation>Bild in PDF konvertieren</translation>
-    </message>
-    <message>
-        <source>Offline Management</source>
-        <translation>Offline-Management</translation>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation>Im Blog teilen</translation>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation>Im Blog teilen</translation>
-    </message>
-    <message>
-        <source>Translation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation>WPS Blog-Layout</translation>
-    </message>
-    <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16817,7 +16744,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -16943,7 +16870,7 @@ Auf</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -17097,7 +17024,7 @@ richtung</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Textfluss</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Text Box</source>
@@ -17143,7 +17070,7 @@ ein/aus</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -17159,11 +17086,11 @@ ein/aus</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strich-Stil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>In Line with Text</source>
@@ -17195,11 +17122,11 @@ ein/aus</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Form ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikales Textfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -17251,7 +17178,7 @@ ein/aus</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation>Bild oder Struktur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gridlines</source>
@@ -17354,7 +17281,7 @@ ein/aus</translation>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Eckige leere Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -17378,7 +17305,7 @@ ein/aus</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Format übertragen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right Border</source>
@@ -17386,7 +17313,7 @@ ein/aus</translation>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation>Ausgefüllte runde Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -17406,7 +17333,7 @@ ein/aus</translation>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation>Pfeilförmige Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Inside Vertical Border</source>
@@ -17422,11 +17349,11 @@ ein/aus</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Weitere Schriftfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear Style</source>
@@ -17454,7 +17381,7 @@ ein/aus</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation>Karoförmige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left Border</source>
@@ -17510,7 +17437,7 @@ ein/aus</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Wort-Extras</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Grow Font</source>
@@ -17566,7 +17493,7 @@ ein/aus</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3D-Drehung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Style</source>
@@ -17575,7 +17502,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation>Eckige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscript</source>
@@ -17595,7 +17522,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation>Runde gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -17603,11 +17530,11 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Underline</source>
@@ -17647,7 +17574,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Häkchenaufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Case</source>
@@ -17667,7 +17594,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Unformatierter Text</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -17687,7 +17614,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Texteffekte</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArt</source>
@@ -17707,8 +17634,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation>Suchen oder 
-ersetzen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -17863,7 +17789,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -17871,7 +17797,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Textrichtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -17959,7 +17885,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Strichpunkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distributed</source>
@@ -17971,7 +17897,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3D-Drehung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -17983,11 +17909,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strichart</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Underline</source>
@@ -17995,11 +17921,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Langer Strichpunkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Betonungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Round Dot</source>
@@ -18035,7 +17961,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Texteffekte</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -18047,11 +17973,11 @@ ersetzen</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>Linieneffekte</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Textbox</source>
-        <translation>Textfeldmenü einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -18067,7 +17993,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>Langer Strichpunkt-Punkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Top</source>
@@ -18094,7 +18020,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Opr</source>
-        <translation>Vorgang</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bold</source>
@@ -18174,7 +18100,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Batch Delete</source>
-        <translation>Löschen für alle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restrict Editing</source>
@@ -18210,7 +18136,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Speak</source>
-        <translation>Sprechen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Split</source>
@@ -18226,7 +18152,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>Insert Pictures From Phone</source>
-        <translation>Bilder vom Telefon einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shortcut Setting</source>
@@ -18254,7 +18180,7 @@ ersetzen</translation>
     </message>
     <message>
         <source>NewChart Legend</source>
-        <translation>Legende</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Distributed</source>
@@ -18267,11 +18193,11 @@ ersetzen</translation>
     <message>
         <source>Page 
 Break</source>
-        <translation>Seitenumbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
-        <translation>Bildschirmerfassung und OCR</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Number. Click to open &quot;Go To&quot; dialog.</source>
@@ -18280,7 +18206,7 @@ Break</source>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation>Screenshot</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paste Previous Content</source>
@@ -18288,7 +18214,7 @@ Break</source>
     </message>
     <message>
         <source>document authentication</source>
-        <translation>Dokumentauthentifizierung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse by Page</source>
@@ -18302,15 +18228,15 @@ Direkt </translation>
     </message>
     <message>
         <source>NewChart TrendLine Label</source>
-        <translation>Trendlinienbeschriftung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation>Dateien reparieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation>Text ausrichten - Blocksatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Document</source>
@@ -18318,7 +18244,7 @@ Direkt </translation>
     </message>
     <message>
         <source>Reset Character Format</source>
-        <translation>Zeichenformatierung zurücksetzen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click to turn on/off Spell Check</source>
@@ -18330,15 +18256,15 @@ Direkt </translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Feedback und Empfehlung</translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>MoreFontFill</source>
-        <translation>Weitere Textfüllung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reading View</source>
@@ -18350,19 +18276,19 @@ Direkt </translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Template</source>
-        <translation>Microsoft Word 97-2003-Vorlage (*.dot)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quit Reading View</source>
-        <translation>Leseansicht beenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto Pages</source>
-        <translation>Anpassend</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation>Zwei Seiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Area Number. Click to open &quot;Go To&quot; dialog.</source>
@@ -18399,7 +18325,7 @@ Text</translation>
     </message>
     <message>
         <source>ExtendObjectTrigger</source>
-        <translation>Objekt-Trigger erweitern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical Page Position. Click to Open &quot;Go To&quot; dialog.</source>
@@ -18407,7 +18333,7 @@ Text</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation>Online-Schriftarten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Chart</source>
@@ -18432,11 +18358,11 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>Word Art Context Menu</source>
-        <translation>WordArt Kontextmenü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewChart SeriesLine</source>
-        <translation>Verbindungslinie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Table Text</source>
@@ -18444,19 +18370,19 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>Form Feilds Context Menu</source>
-        <translation>Formularfelder Kontextmenü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Send</source>
-        <translation>An Mobiltelefon senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Permission Protected</source>
-        <translation>Schutz ist aktiviert</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ReadingView Text Context Menu</source>
-        <translation>Kontextmenü der Leseansicht</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update Field</source>
@@ -18464,7 +18390,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>Source material base</source>
-        <translation>Material Base</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reply Comment</source>
@@ -18472,11 +18398,11 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation>Tabellenstil</translation>
+        <translation>Tabellenformat</translation>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation>Symbolbibliothek</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show First Line Only</source>
@@ -18484,7 +18410,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>Link-Vorschau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -18516,7 +18442,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>MoreFontEffects</source>
-        <translation>Weitere Texteffekte</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Space</source>
@@ -18524,7 +18450,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>New Doc Recommend</source>
-        <translation>Vielleicht gefällt Ihnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ActiveX Control</source>
@@ -18548,7 +18474,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>XMLMapping</source>
-        <translation>XML-Zuordnung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Split or Merge</source>
@@ -18601,7 +18527,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>NewChart ChartTitle</source>
-        <translation>Diagrammtitel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -18609,7 +18535,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation>Galerie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Help And QA</source>
@@ -18637,7 +18563,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>NewChart DownBar</source>
-        <translation>Abw-Balken</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Backup</source>
@@ -18697,7 +18623,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>ReadingView Drawing Context Menu</source>
-        <translation>Objektmenü der Leseansicht</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format</source>
@@ -18713,7 +18639,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
-        <translation>Designfarbe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert</source>
@@ -18749,7 +18675,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>ShortBatchDelete</source>
-        <translation>Löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Web Layout</source>
@@ -18761,7 +18687,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>NewChart ChartArea</source>
-        <translation>Diagrammbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connector</source>
@@ -18773,7 +18699,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>QRCode</source>
-        <translation>QR-Code</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Manual Contents Popup Menu</source>
@@ -18797,7 +18723,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Aktuelles Fenster bei Bildschirmerfassung ausblenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shapes</source>
@@ -18805,7 +18731,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>NewChart LeadLine</source>
-        <translation>Führungslinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tables</source>
@@ -18825,7 +18751,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>ConfidentialityLevelKeyWord</source>
-        <translation>Ankreuzen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Window</source>
@@ -18853,7 +18779,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>NewChart Gridline</source>
-        <translation>Gitternetzlinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Collapse</source>
@@ -18861,7 +18787,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>TpXMLMapping</source>
-        <translation>XML-Zuordnung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch to previous window</source>
@@ -18894,7 +18820,7 @@ zählen</translation>
     </message>
     <message>
         <source>Send pictures</source>
-        <translation>Bilder senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options</source>
@@ -18906,7 +18832,7 @@ zählen</translation>
     </message>
     <message>
         <source>MoreFill</source>
-        <translation>Weitere Füllungen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -18926,7 +18852,7 @@ zählen</translation>
     </message>
     <message>
         <source>MoreOutline</source>
-        <translation>Weitere Rahmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
@@ -18934,7 +18860,7 @@ zählen</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation>In PDF-Datei konvertieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comment Hyperlink Context Menu</source>
@@ -19002,7 +18928,7 @@ zählen</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Bilder komprimieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Endnotes Hyperlink Context Menu</source>
@@ -19014,19 +18940,19 @@ zählen</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dateifreigabe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewChart Datapoint</source>
-        <translation>Datenpunkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewChart ErrorBar</source>
-        <translation>Fehlerindikatoren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screen Grab Ellipse</source>
-        <translation>Bildschirmerfassungs-Ellipse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Linked Text Context Menu</source>
@@ -19054,11 +18980,11 @@ zählen</translation>
     </message>
     <message>
         <source>Online Picture Gallery</source>
-        <translation>Galerie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewChart DataTable</source>
-        <translation>Datentabellen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse by Bookmark</source>
@@ -19070,7 +18996,7 @@ zählen</translation>
     </message>
     <message>
         <source>NewChart DropLine</source>
-        <translation>Bezugslinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -19078,7 +19004,7 @@ zählen</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation>Link erstellen und freigeben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comment Text Context Menu</source>
@@ -19090,7 +19016,7 @@ zählen</translation>
     </message>
     <message>
         <source>ReadingView Comment Context Menu</source>
-        <translation>Kommentarmenü der Leseansicht</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
@@ -19110,7 +19036,7 @@ zählen</translation>
     </message>
     <message>
         <source>Numbered Context Menu</source>
-        <translation>Nummerierte Listen Kontextmenü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Right</source>
@@ -19122,19 +19048,19 @@ zählen</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
-        <translation>Online-Vorlagen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unlock Field</source>
-        <translation>Feldersperre aufheben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>Inhaltsverzeichnis\naktualisieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bulleted Context Menu</source>
-        <translation>Aufzählungen Kontextmenü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distributed</source>
@@ -19150,7 +19076,7 @@ zählen</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
-        <translation>WPS Writer-Vorlage (*.wpt)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Split Table by Column</source>
@@ -19162,7 +19088,7 @@ zählen</translation>
     </message>
     <message>
         <source>Mail FeedBack</source>
-        <translation>Mail-FeedBack</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
@@ -19170,7 +19096,7 @@ zählen</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
-        <translation>Barcode einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dark Mode</source>
@@ -19195,7 +19121,7 @@ zählen</translation>
     <message>
         <source>Screen Grab Ocr</source>
         <comment>Menu</comment>
-        <translation>Bildschirmerfassung und OCR</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line StatusBar</source>
@@ -19203,7 +19129,7 @@ zählen</translation>
     </message>
     <message>
         <source>Microsoft Word Document</source>
-        <translation>Microsoft Word-Dokument</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comment Field Context Menu</source>
@@ -19247,7 +19173,7 @@ zählen</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
-        <translation>WPS Writer-Dokument (*.wps)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Pages</source>
@@ -19255,7 +19181,7 @@ zählen</translation>
     </message>
     <message>
         <source>NewChart DataLabels</source>
-        <translation>Datenbeschriftungen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save As</source>
@@ -19263,7 +19189,7 @@ zählen</translation>
     </message>
     <message>
         <source>ShortChart</source>
-        <translation>Diagramm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Table Row Context Menu</source>
@@ -19275,11 +19201,11 @@ zählen</translation>
     </message>
     <message>
         <source>NewChart HighLowLine</source>
-        <translation>Spannweitenlinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>structure</source>
-        <translation>Struktur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Superscript</source>
@@ -19291,19 +19217,19 @@ zählen</translation>
     </message>
     <message>
         <source>ShortSymbol</source>
-        <translation>Symbole</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShortWordArt</source>
-        <translation>WordArt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Operation Document</source>
-        <translation>Dokumentenvorgang</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Xie De Menu</source>
-        <translation>Xie-De-Menü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotate Mode</source>
@@ -19340,7 +19266,7 @@ zählen</translation>
     <message>
         <source>Print 
 Layout</source>
-        <translation>Drucken Layout</translation>
+        <translation>Drucklayout</translation>
     </message>
     <message>
         <source>Default</source>
@@ -19360,13 +19286,12 @@ Layout</source>
     </message>
     <message>
         <source>NewChart UpBar</source>
-        <translation>Aufw-Balken</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Toc
 Navigation</source>
-        <translation>Inhalts-
-navigation</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -19374,7 +19299,7 @@ navigation</translation>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
-        <translation>Abgerundetes Bildschirmerfassungs-Rechteck</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chart Library</source>
@@ -19382,7 +19307,7 @@ navigation</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Bildvorschau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Header Area Context Menu</source>
@@ -19403,7 +19328,7 @@ navigation</translation>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Vollständig Bildschirm</translation>
+        <translation>Vollbild</translation>
     </message>
     <message>
         <source>Cloud Page</source>
@@ -19419,7 +19344,7 @@ Screen</source>
     </message>
     <message>
         <source>DocerTableStyle</source>
-        <translation>Tabellenstil</translation>
+        <translation>Tabellenformat</translation>
     </message>
     <message>
         <source>Footer Area Context Menu</source>
@@ -19439,7 +19364,7 @@ Screen</source>
     </message>
     <message>
         <source>MoreEffects</source>
-        <translation>Weitere Effekte</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select All</source>
@@ -19479,7 +19404,7 @@ Screen</source>
     </message>
     <message>
         <source>Screen Grab Polygon</source>
-        <translation>Bildschirmerfassungs-Polygon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SendByQQ</source>
@@ -19491,15 +19416,15 @@ Screen</source>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation>Screenshot</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Geogebra</source>
-        <translation>GeoGebra</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XMLStructure</source>
-        <translation>XML-Struktur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocerChart</source>
@@ -19511,7 +19436,7 @@ Screen</source>
     </message>
     <message>
         <source>Screen Grab Rect</source>
-        <translation>Bildschirmerfassungs-Rechteck</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
@@ -19519,11 +19444,11 @@ Screen</source>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Alle Bilder im Dokument konvertieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation>Ausgewähltes Bild konvertieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Thesaurus</source>
@@ -19531,11 +19456,11 @@ Screen</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikales Textfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OnlineDiagram</source>
-        <translation>Onlinediagramm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restrict</source>
@@ -19555,11 +19480,11 @@ Screen</source>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation>Automatischen Sicherung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation>Zusammenarbeit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -19575,19 +19500,19 @@ Screen</source>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation>WPS Writer 2007-2010-Dokument (*.wpsx)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NavigationPane DocMapView Popup Menu</source>
-        <translation>Popup-Menü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Lock Field</source>
-        <translation>Felder sperren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewChart AxisTitle</source>
-        <translation>Achsentitel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -19595,7 +19520,7 @@ Screen</source>
     </message>
     <message>
         <source>NewChart UnitLabel</source>
-        <translation>Einheitsbezeichnung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto Backup Menu</source>
@@ -19603,7 +19528,7 @@ Screen</source>
     </message>
     <message>
         <source>ProcessOnEntry</source>
-        <translation>Bei Eintrag verarbeiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Underline Color</source>
@@ -19615,7 +19540,7 @@ Screen</source>
     </message>
     <message>
         <source>NewChart Axis</source>
-        <translation>Achse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse by Table</source>
@@ -19623,7 +19548,7 @@ Screen</source>
     </message>
     <message>
         <source>NewChart PlotArea</source>
-        <translation>Zeichnungsfläche</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Section. Click to Open &quot;Go To&quot; dialog.</source>
@@ -19631,7 +19556,7 @@ Screen</source>
     </message>
     <message>
         <source>Compose View</source>
-        <translation>Schreibmodus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Comments</source>
@@ -19647,7 +19572,7 @@ Screen</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Unformatierter Text</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Track Changes Context Menu</source>
@@ -19663,7 +19588,7 @@ Screen</source>
     </message>
     <message>
         <source>NewChart Series</source>
-        <translation>Reihe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spell Check</source>
@@ -19679,7 +19604,7 @@ Screen</source>
     </message>
     <message>
         <source>MoreFontOutline</source>
-        <translation>Weitere Textrahmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Design Library</source>
@@ -19703,11 +19628,11 @@ Screen</source>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation>Dokumentfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
-        <translation>Microsoft Word 97-2003-Dokument (*.doc)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Done Comment</source>
@@ -19731,7 +19656,7 @@ Screen</source>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
-        <translation>Augenschutzmodus (Nachtmodus)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Light Mode</source>
@@ -19739,7 +19664,7 @@ Screen</source>
     </message>
     <message>
         <source>NewChart LegendEntry</source>
-        <translation>Legendeneintrag</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Table Column Context Menu</source>
@@ -19752,42 +19677,6 @@ Screen</source>
     <message>
         <source>Professional</source>
         <translation>Professionell</translation>
-    </message>
-    <message>
-        <source>Map</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Color</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Num</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Macros</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>HomeDesign</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Recommend</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Recommend Template From Docer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19865,7 +19754,7 @@ Screen</source>
     </message>
     <message>
         <source>accout secure</source>
-        <translation>Konto sicher</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>100%</source>
@@ -19905,7 +19794,7 @@ Screen</source>
     </message>
     <message>
         <source>InteractiveChart</source>
-        <translation>Interaktives Diagramm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print Preview</source>
@@ -19937,7 +19826,7 @@ Screen</source>
     </message>
     <message>
         <source>document authentication</source>
-        <translation>Dokumentauthentifizierung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Minimize Window</source>
@@ -19945,22 +19834,20 @@ Screen</source>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation>Dateien 
-reparieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format
 Painter</source>
-        <translation>Format
-übertragen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Feedback und Empfehlung</translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>Show Taskpane</source>
-        <translation>Aufgabenbereich anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close Window</source>
@@ -19985,12 +19872,12 @@ Text</translation>
     </message>
     <message>
         <source>Special Apps</source>
-        <translation>Spezielle Funktionen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Track
 Changes</source>
-        <translation>Änderungen verfolgen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Special Features</source>
@@ -20010,11 +19897,11 @@ Changes</source>
     </message>
     <message>
         <source>Ribbon Auto Show/Hide</source>
-        <translation>Menüband ein-/ausblenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cloud File Management</source>
-        <translation>Cloud-Dateiverwaltung </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share as PDF</source>
@@ -20026,7 +19913,7 @@ Changes</source>
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
-        <translation>Menübandschaltfläche zentriert</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArt Compatibility Mode</source>
@@ -20066,7 +19953,7 @@ Changes</source>
     </message>
     <message>
         <source>tableContents Navigation</source>
-        <translation>Inhalt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paragraph Layout</source>
@@ -20106,11 +19993,11 @@ Changes</source>
     </message>
     <message>
         <source>Xie De</source>
-        <translation>Xie De</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation>Textsprache</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Account Upgrade</source>
@@ -20122,7 +20009,7 @@ Changes</source>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation>PDF-Komprimierung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -20158,7 +20045,7 @@ Changes</source>
     </message>
     <message>
         <source>PaperFormat</source>
-        <translation>Papierlayout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Outline</source>
@@ -20186,23 +20073,23 @@ Changes</source>
     </message>
     <message>
         <source>member Center</source>
-        <translation>Mitgliedscenter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dateifreigabe</translation>
+        <translation>Freigeben</translation>
     </message>
     <message>
         <source>Add Contents Entry</source>
-        <translation>Gleichrangigen Inhalt hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ComposeKit</source>
-        <translation>Schreibtipps</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoFindContents</source>
-        <translation>Inhalt automatisch erkennen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add-Ins</source>
@@ -20230,11 +20117,11 @@ Changes</source>
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation>PDF-Zusammenführung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation>PDF-Aufteilung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -20242,7 +20129,7 @@ Changes</source>
     </message>
     <message>
         <source>Insert Next PageBreak</source>
-        <translation>Abschnittsumbruch auf nächste Seite einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -20254,8 +20141,7 @@ Changes</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und 
-Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Printing</source>
@@ -20267,7 +20153,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Expanding Contents Entry</source>
-        <translation>Inhalt erweitern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restore Window</source>
@@ -20287,7 +20173,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Anmelden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture Tools - Compatibility Mode</source>
@@ -20301,15 +20187,19 @@ einfügen</translation>
     </message>
     <message>
         <source>Xie De Menu</source>
-        <translation>Xie-De-Menü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Formatpipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comment</source>
         <translation>Kommentar</translation>
+    </message>
+    <message>
+        <source>Equation Tool</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Launch Online Metting</source>
@@ -20317,7 +20207,7 @@ einfügen</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
-        <translation>WeChat-Kundendienst</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -20333,11 +20223,11 @@ einfügen</translation>
     </message>
     <message>
         <source>Delete Hover Section</source>
-        <translation>Diesen Abschnitt löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Collapse Contents Entry</source>
-        <translation>Inhalt reduzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -20349,7 +20239,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Collapse Section Entry</source>
-        <translation>Abschnitt reduzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recharge</source>
@@ -20365,11 +20255,11 @@ einfügen</translation>
     </message>
     <message>
         <source>Graphic Tool</source>
-        <translation>Grafikwerkzeug</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>accout info</source>
-        <translation>Kontoinfo</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert - Compatibility Mode</source>
@@ -20377,19 +20267,19 @@ einfügen</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>Glücksgeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SmartArt Design</source>
-        <translation>WPSArt-Design</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PaperCheck</source>
-        <translation>Papierprüfung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SmartArt Format</source>
-        <translation>WPSArt-Format</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>References</source>
@@ -20405,7 +20295,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation>Automatischen Sicherung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Student Tools</source>
@@ -20413,7 +20303,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Expanding Section Entry</source>
-        <translation>Abschnitt erweitern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -20429,19 +20319,19 @@ einfügen</translation>
     </message>
     <message>
         <source>GroupSending</source>
-        <translation>An Gruppe senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>Datei-Roaming</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>enterprise Center</source>
-        <translation>Unternehmenscenter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Contents Entry</source>
-        <translation>Inhalt löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -20481,7 +20371,7 @@ einfügen</translation>
     </message>
     <message>
         <source>My Subscription</source>
-        <translation>Meine Abonnements</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format 
@@ -20495,15 +20385,11 @@ Painter</source>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation>Texttools</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sign Out</source>
         <translation>Abmelden</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20518,7 +20404,7 @@ Painter</source>
     </message>
     <message>
         <source>tips</source>
-        <translation>Tipps</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change</source>
@@ -20526,27 +20412,27 @@ Painter</source>
     </message>
     <message>
         <source>Change all</source>
-        <translation>Alle ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore all</source>
-        <translation>Alle ignorieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore once</source>
-        <translation>Einmal ignorieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>language</source>
-        <translation>Sprache</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>select error word</source>
-        <translation>Falsch geschriebene Wörter auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spell check</source>
-        <translation>Rechtschreibung prüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Suggestions:</source>
@@ -20639,7 +20525,7 @@ Painter</source>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Hinweis: Nur durch das Einrichten eines Kennworts können die nachstehenden Einstellungen in Kraft treten und von anderen Benutzern nicht mehr geändert werden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Permission Settings</source>
@@ -20814,7 +20700,7 @@ Painter</source>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Hinweis: Nur durch das Einrichten eines Kennworts können die nachstehenden Einstellungen in Kraft treten und von anderen Benutzern nicht mehr geändert werden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Permission Settings</source>
@@ -20890,7 +20776,7 @@ Painter</source>
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
-        <translation>Empfänger hinzufügen (&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
@@ -21034,7 +20920,7 @@ Painter</source>
     </message>
     <message>
         <source>The number must be between 10 and 500.</source>
-        <translation>Die Zahl muss zwischen 10 % und 500 % liegen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear</source>
@@ -21091,7 +20977,7 @@ Painter</source>
     </message>
     <message>
         <source>AutoFormat_RaplaceHyperlinks</source>
-        <translation>Hyperlinks automatisch formatieren/ersetzen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -21161,7 +21047,7 @@ To add another text box to your document, click Text Box on the Insert menu and 
     </message>
     <message>
         <source>(no synonyms suggestions)</source>
-        <translation>(Keine Vorschläge für Synonyme)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -21225,7 +21111,7 @@ To add another text box to your document, click Text Box on the Insert menu and 
     </message>
     <message>
         <source>Two Pages</source>
-        <translation>Zwei Seiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Word cannot sort this table or selection because all of its rows are table headings.</source>
@@ -21308,7 +21194,7 @@ Halten Sie CTRL gedrückt und klicken Sie auf die Maus, um Links zu verfolgen</t
     <message>
         <source>Track 
 Changes</source>
-        <translation>Änderungen nachverfolgen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Combo Box Selection</source>
@@ -21401,7 +21287,7 @@ Changes</source>
     </message>
     <message>
         <source>Put Two Line In One</source>
-        <translation>Zwei Zeilen in einer Zeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Columns Formatting</source>
@@ -21470,7 +21356,7 @@ Changes</source>
     </message>
     <message>
         <source>AutoFormat_RaplaceOrdinals</source>
-        <translation>Ordinalzahlen automatisch formatieren/ersetzen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reflection</source>
@@ -21623,7 +21509,7 @@ Changes</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Grafik aus Datei einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paste</source>
@@ -21907,12 +21793,12 @@ Changes</source>
     </message>
     <message>
         <source>Insert DocumentField</source>
-        <translation>Dokumentfeld einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spell 
 Check</source>
-        <translation>Rechtschreibprüfung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font Substitution</source>
@@ -21948,7 +21834,7 @@ Check</source>
     </message>
     <message>
         <source>Double-Click To Show White Space</source>
-        <translation>Leerraumzeichen anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy Directory Entry</source>
@@ -22013,11 +21899,11 @@ Check</source>
     </message>
     <message>
         <source>Set Xml Mapping</source>
-        <translation>XML-Zuordnung festlegen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create a New Chapter</source>
-        <translation>Kapitel erstellen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Light Grid Accent 1</source>
@@ -22061,7 +21947,7 @@ Check</source>
     </message>
     <message>
         <source>Collated(Print copy by copy)</source>
-        <translation>Sortiert (Kopien nacheinander drucken)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Split Cells</source>
@@ -22161,7 +22047,7 @@ Check</source>
     </message>
     <message>
         <source>Apply Quick Style</source>
-        <translation>Format übernehmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font Color</source>
@@ -22182,11 +22068,11 @@ Check</source>
     </message>
     <message>
         <source>Put Style</source>
-        <translation>Format übernehmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SpellingCorrect</source>
-        <translation>Rechtschreibkorrektur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Watermark</source>
@@ -22214,7 +22100,7 @@ Check</source>
     </message>
     <message>
         <source>Memory Typing</source>
-        <translation>Automatisch vervollständigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Columns</source>
@@ -22251,7 +22137,7 @@ Check</source>
     </message>
     <message>
         <source>The target text box is different format than your current text box. You can only link text boxes that are the same format.</source>
-        <translation>Das Zieltextfeld hat ein anderes Format als das aktuelle Textfeld. Sie können nur Textfelder verknüpfen, die dasselbe Format haben.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Adjust Table Column Width</source>
@@ -22308,7 +22194,7 @@ Check</source>
     </message>
     <message>
         <source>Print One Sided</source>
-        <translation>Einseitiger Druck</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Medium Shading 1</source>
@@ -22341,7 +22227,7 @@ Check</source>
     </message>
     <message>
         <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
-        <translation>Das Diagrammdatenraster ist bereits in &quot;%s&quot; geöffnet. Um die Daten für dieses Diagramm zu bearbeiten, müssen Sie es zunächst schließen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Medium Grid 1</source>
@@ -22382,7 +22268,7 @@ Check</source>
     <message>
         <source>Unformatted Text</source>
         <comment>TxHint_PasteText</comment>
-        <translation>Unformatierter Text</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Text Box</source>
@@ -22434,7 +22320,7 @@ Check</source>
     </message>
     <message>
         <source>ClearFormatting</source>
-        <translation>Zeichenschattierung</translation>
+        <translation>Formatierung löschen</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -22503,7 +22389,7 @@ Check</source>
     </message>
     <message>
         <source>Spelling Ignore All</source>
-        <translation>Alle ignorieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(no spelling suggestions)</source>
@@ -22511,7 +22397,7 @@ Check</source>
     </message>
     <message>
         <source>Unlock Field</source>
-        <translation>Feld entsperren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoFit to Window</source>
@@ -22555,7 +22441,7 @@ Check</source>
     </message>
     <message>
         <source>Spelling Ignore</source>
-        <translation>Einmal ignorieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dark List</source>
@@ -22592,7 +22478,7 @@ Protection</source>
     </message>
     <message>
         <source>Insert PTab</source>
-        <translation>Ausrichtungstabstopp</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Time</source>
@@ -22673,15 +22559,15 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>InsertAfter</source>
-        <translation>Danach einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Justify</source>
-        <translation>Blocksatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Section</source>
-        <translation>Kapitel erstellen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Access Projects(*ade; *adp) | *ade; *adp; |</source>
@@ -22964,7 +22850,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Double-Click To Hide White Space</source>
-        <translation>Leerzeichen ausblenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change List Level</source>
@@ -23009,7 +22895,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
-        <translation>Betonungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Colorful List Accent 1</source>
@@ -23037,7 +22923,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Grammar Change</source>
-        <translation>Rechtschreibänderung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -23077,7 +22963,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Open Xml Map</source>
-        <translation>XML-Zuordnung öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reject Change</source>
@@ -23117,7 +23003,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>This file format does not support inserting formulas. To do so please save as %s.</source>
-        <translation>Das Einfügen von Formeln wird von dieser Datei nicht unterstützt. Speichern Sie zum Einfügen von Formeln die Datei als %s-Datei.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align to Gridlines</source>
@@ -23190,7 +23076,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Lock Field</source>
-        <translation>Felder sperren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -23215,7 +23101,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>InsertBefore</source>
-        <translation>Vorher einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Total of X pages</source>
@@ -23232,7 +23118,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Cannot insert formula</source>
-        <translation>Die Formel konnte nicht eingefügt werden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paragraph Formatting</source>
@@ -23252,7 +23138,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Uncollated(Print page by page)</source>
-        <translation>Nicht sortiert (Seiten nacheinander drucken)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Drop Down List Selection</source>
@@ -23297,7 +23183,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Unformatierter Text</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -23329,7 +23215,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Insert SmartArt Graphic</source>
-        <translation>SmartArt-Grafik einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dark List Accent 1</source>
@@ -23426,7 +23312,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Move Paragraph</source>
-        <translation>Verzeichniseintrag verschieben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Font Size</source>
@@ -23543,7 +23429,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>TickChar</source>
-        <translation>Zeichen setzen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -23562,7 +23448,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>SynonymsSuggest</source>
-        <translation>Synonyme vorschlagen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Formatted</source>
@@ -23576,43 +23462,6 @@ Formatvorlage</translation>
     <message>
         <source>Show/Hide Formatting Marks</source>
         <translation>Formatierungszeichen ein-/ausblenden</translation>
-    </message>
-    <message>
-        <source>Order</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert TableOfContents</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Resize Table</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Page Number Format</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Move Table</source>
-        <comment>TxVersion_FrameMove</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add rows and columns</source>
-        <translation>Zeilen und Spalten hinzufügen</translation>
-    </message>
-    <message>
-        <source>Outside Border</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Text Box Link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fill Color</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -23711,7 +23560,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Surface</source>
@@ -23956,7 +23805,7 @@ Ein/Aus</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation>Formatpipette</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -24295,7 +24144,7 @@ Ein/Aus</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation>Formatpipette</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -24628,7 +24477,7 @@ Ein/Aus</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation>Formatpipette</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -24967,7 +24816,7 @@ Effekte</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation>Formatpipette</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -25190,7 +25039,7 @@ Effekte</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Format übertragen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
@@ -25202,7 +25051,7 @@ Effekte</translation>
     </message>
     <message>
         <source>IntranetVersion Online Templates</source>
-        <translation>Online-Vorlagen</translation>
+        <translation>Onlinevorlagen</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -25210,7 +25059,7 @@ Effekte</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>In traditionelles Chinesisch umwandeln</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Templates</source>
@@ -25222,8 +25071,7 @@ Effekte</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation>Leere 
-Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Service Expired</source>
@@ -25275,7 +25123,7 @@ Seite</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
-        <translation>WeChat-Kundendienst</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -25283,8 +25131,7 @@ Seite</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Als PDF 
-exportieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Formula</source>
@@ -25296,7 +25143,7 @@ exportieren</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Unformatierten Text</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -25316,7 +25163,7 @@ exportieren</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>In vereinfachtes Chinesisch umwandeln</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -25363,7 +25210,7 @@ exportieren</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cell Alignment</source>
@@ -25383,7 +25230,7 @@ exportieren</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>Linienbreite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tables</source>
@@ -25411,7 +25258,7 @@ exportieren</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>Linienart</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -25423,7 +25270,7 @@ exportieren</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tabelle zeichnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Borders</source>
@@ -25431,7 +25278,7 @@ exportieren</translation>
     </message>
     <message>
         <source>AutoFit Window</source>
-        <translation>Fenster automatisch anpassen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shading</source>
@@ -25443,7 +25290,7 @@ exportieren</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation>Formatpipette</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -25518,7 +25365,7 @@ exportieren</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation>Weitere Unterstreichungsfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Above</source>
@@ -25554,7 +25401,7 @@ exportieren</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Textrichtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Adjust</source>
@@ -25664,7 +25511,7 @@ teilen</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tabelle zeichnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Top Justified</source>
@@ -25680,7 +25527,7 @@ teilen</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch Row/Column</source>
@@ -25839,7 +25686,7 @@ teilen</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Textrichtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Adjust</source>
@@ -26022,7 +25869,7 @@ teilen</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26079,7 +25926,7 @@ teilen</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>Feedback und Produktinformationen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print</source>
@@ -26095,7 +25942,7 @@ teilen</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation>Dateien reparieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Document</source>
@@ -26111,7 +25958,7 @@ teilen</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation>Als Bild exportieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -26179,7 +26026,7 @@ teilen</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Benutzerfeedbacks</translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
@@ -26187,7 +26034,7 @@ teilen</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dateifreigabe</translation>
+        <translation>Freigeben</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -26219,7 +26066,7 @@ teilen</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation>Berechtigungen anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encryption</source>
@@ -26257,28 +26104,12 @@ teilen</translation>
         <source>Export coding library for trace</source>
         <translation>Codebibliothek zur Rückverfolgung exportieren</translation>
     </message>
-    <message>
-        <source>File Information</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document Protection and Properties</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Account Encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document Security</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
     <message>
         <source>New</source>
-        <translation>Neu</translation>
+        <translation>Neue leere Arbeitsmappe</translation>
     </message>
     <message>
         <source>Help</source>
@@ -26298,7 +26129,7 @@ teilen</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>Feedback und Produktinformationen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print</source>
@@ -26370,7 +26201,7 @@ teilen</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Benutzerfeedbacks</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Office Facebook</source>
@@ -26378,7 +26209,7 @@ teilen</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dateifreigabe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Protection</source>
@@ -26406,7 +26237,7 @@ teilen</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation>Berechtigungen anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encryption</source>
@@ -26430,7 +26261,7 @@ teilen</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Cloud-Verknüpfung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Backup Management</source>
@@ -26530,7 +26361,7 @@ teilen</translation>
     <message>
         <source>Page 
 Break</source>
-        <translation>Seitenumbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -26574,7 +26405,7 @@ Break</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -26655,7 +26486,7 @@ Direction</source>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Seitenfarbe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Setup</source>
@@ -26671,7 +26502,7 @@ Direction</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Textfluss</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -26699,7 +26530,7 @@ Direction</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -26711,7 +26542,7 @@ Direction</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Columns</source>
@@ -26872,8 +26703,7 @@ Borders</source>
     <message>
         <source>SectionNavigation
 Pane</source>
-        <translation>Abschnittsnavigations-
-bereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Table Of Contents</source>
@@ -26938,8 +26768,7 @@ löschen</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und 
-Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add
@@ -26985,7 +26814,7 @@ hinzufügen</translation>
     </message>
     <message>
         <source>TableOfContents</source>
-        <translation>Inhaltsverzeichnis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cover and TOC</source>
@@ -27002,7 +26831,7 @@ Number</source>
     </message>
     <message>
         <source>Different odd and even</source>
-        <translation>Gerade und ungerade Seiten sind unterschiedlich</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -27117,7 +26946,7 @@ Number</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -27129,7 +26958,7 @@ Number</source>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Textrichtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Breaks</source>
@@ -27238,7 +27067,7 @@ Text</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -27250,7 +27079,7 @@ Text</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Columns</source>
@@ -27460,7 +27289,7 @@ löschen</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf-/Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Columns</source>
@@ -27814,7 +27643,7 @@ löschen</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Loc&amp;k anchor</source>
@@ -27890,7 +27719,7 @@ löschen</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikales Textfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Remove Frame</source>
@@ -28240,7 +28069,7 @@ löschen</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Left:</source>
@@ -28320,7 +28149,7 @@ löschen</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Table Positioning</source>
@@ -28418,7 +28247,7 @@ löschen</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right Margin</source>
@@ -28514,7 +28343,7 @@ löschen</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ali&amp;gnment</source>
@@ -28577,11 +28406,11 @@ löschen</translation>
     </message>
     <message>
         <source>AddTrendLine</source>
-        <translation>Trendlinie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrimaryVerticalAxis</source>
-        <translation>Vertikale Primärachse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Above</source>
@@ -28597,19 +28426,19 @@ löschen</translation>
     </message>
     <message>
         <source>Edit Data</source>
-        <translation>Daten bearbeiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChangeChartType</source>
-        <translation>Diagrammtyp ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SecondaryMajorHorizontal</source>
-        <translation>Sekundäres Hauptgitter horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>StandardError</source>
-        <translation>Standardfehler</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Linear Forecast</source>
@@ -28617,23 +28446,23 @@ löschen</translation>
     </message>
     <message>
         <source>HighLowLines</source>
-        <translation>Spannweitenlinienoptionen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DropLinesAndHighLowLines</source>
-        <translation>Bezugslinien und Spannweitenlinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CenteredOverlay</source>
-        <translation>Zentrierte Überlagerung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddDataLabels</source>
-        <translation>Datenbeschriftungen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SecondaryMinorVertial</source>
-        <translation>Sekundäres Hilfsgitter vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bottom</source>
@@ -28649,7 +28478,7 @@ löschen</translation>
     </message>
     <message>
         <source>AddAxisTitle</source>
-        <translation>Achsentitel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exponential</source>
@@ -28665,7 +28494,7 @@ löschen</translation>
     </message>
     <message>
         <source>PrimaryMajorHorizontal</source>
-        <translation>Primäres Hauptgitter horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset Style</source>
@@ -28673,51 +28502,51 @@ löschen</translation>
     </message>
     <message>
         <source>PrimaryMajorVertical</source>
-        <translation>Primäres Hauptgitter vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>StandardDeviation</source>
-        <translation>Standardabweichung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DropLines</source>
-        <translation>Bezugslinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrimaryMinorVertial</source>
-        <translation>Primäres Hilfsgitter vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddAxis</source>
-        <translation>Achse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddGridLine</source>
-        <translation>Gitternetzlinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>BestFit</source>
-        <translation>Anpassen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SecondaryHorizontalAxis</source>
-        <translation>Horizontale Sekundärachse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddLegend</source>
-        <translation>Legende</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DataCallout</source>
-        <translation>Datenlegende</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>speedLayout</source>
-        <translation>Schnelllayout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartStyle</source>
-        <translation>Diagrammformatvorlagen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Percentage</source>
@@ -28725,43 +28554,43 @@ löschen</translation>
     </message>
     <message>
         <source>SecondaryMajorVertical</source>
-        <translation>Sekundäres Hauptgitter vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddErrorBar</source>
-        <translation>Fehlerindikatoren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DataSection</source>
-        <translation>Abschnitt Daten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsideEnd</source>
-        <translation>Ende innerhalb</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OutsideEnd</source>
-        <translation>Ende außerhalb</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrimaryMinorHorizontal</source>
-        <translation>Primäres Hilfsgitter horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Data</source>
-        <translation>Daten auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>layoutSection</source>
-        <translation>Diagrammlayout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation>Diagrammelement hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SeriesLines</source>
-        <translation>Verbindungslinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -28769,35 +28598,35 @@ löschen</translation>
     </message>
     <message>
         <source>More Option...</source>
-        <translation>Weitere Optionen...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AboveChart</source>
-        <translation>Über Diagramm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrimaryHorizontalAxis</source>
-        <translation>Horizontale Primärachse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WithLegendKeys</source>
-        <translation>Mit Legendensymbolen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SecondaryMinorHorizontal</source>
-        <translation>Sekundäres Hilfsgitter horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SecondaryVerticalAxis</source>
-        <translation>Vertikale Sekundärachse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>changeColor</source>
-        <translation>Farbe ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddDataTable</source>
-        <translation>Datentabelle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Moving Average</source>
@@ -28805,11 +28634,11 @@ löschen</translation>
     </message>
     <message>
         <source>AddChartTitle</source>
-        <translation>Diagrammtitel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddChartLines</source>
-        <translation>Linien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Current Selection</source>
@@ -28817,15 +28646,15 @@ löschen</translation>
     </message>
     <message>
         <source>AddUpDownBar</source>
-        <translation>Pos./Neg. Abweichungsbalken</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NoLegendKeys</source>
-        <translation>Ohne Legendensymbole</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsideBase</source>
-        <translation>Basis innerhalb</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -28848,11 +28677,11 @@ löschen</translation>
     </message>
     <message>
         <source>AddTrendLine</source>
-        <translation>Trendlinie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrimaryVerticalAxis</source>
-        <translation>Vertikale Primärachse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Above</source>
@@ -28868,21 +28697,19 @@ löschen</translation>
     </message>
     <message>
         <source>Edit Data</source>
-        <translation>Daten 
-bearbeiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChangeChartType</source>
-        <translation>Diagrammtyp 
-ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SecondaryMajorHorizontal</source>
-        <translation>Sekundäres Hauptgitter horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>StandardError</source>
-        <translation>Standardfehler</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Linear Forecast</source>
@@ -28890,23 +28717,23 @@ bearbeiten</translation>
     </message>
     <message>
         <source>HighLowLines</source>
-        <translation>Spannweitenlinie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DropLinesAndHighLowLines</source>
-        <translation>Bezugslinien und Spannweitenlinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CenteredOverlay</source>
-        <translation>Zentrierte Überlagerung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddDataLabels</source>
-        <translation>Datenbeschriftungs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SecondaryMinorVertial</source>
-        <translation>Sekundäres Hilfsgitter vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bottom</source>
@@ -28922,7 +28749,7 @@ bearbeiten</translation>
     </message>
     <message>
         <source>AddAxisTitle</source>
-        <translation>Achsentitel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exponential</source>
@@ -28938,7 +28765,7 @@ bearbeiten</translation>
     </message>
     <message>
         <source>PrimaryMajorHorizontal</source>
-        <translation>Primäres Hauptgitter horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset Style</source>
@@ -28946,52 +28773,51 @@ bearbeiten</translation>
     </message>
     <message>
         <source>PrimaryMajorVertical</source>
-        <translation>Primäres Hauptgitter vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>StandardDeviation</source>
-        <translation>Standardabweichung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DropLines</source>
-        <translation>Bezugslinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrimaryMinorVertial</source>
-        <translation>Primäres Hilfsgitter vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddAxis</source>
-        <translation>Achse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddGridLine</source>
-        <translation>Gitternetzlinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>BestFit</source>
-        <translation>Optimale Breite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SecondaryHorizontalAxis</source>
-        <translation>Horizontale Sekundärachse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddLegend</source>
-        <translation>Legende</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DataCallout</source>
-        <translation>Datenlegende</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>speedLayout</source>
-        <translation>Schnell-
-layout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartStyle</source>
-        <translation>Diagrammformat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Percentage</source>
@@ -28999,49 +28825,47 @@ layout</translation>
     </message>
     <message>
         <source>SecondaryMajorVertical</source>
-        <translation>Sekundäres Hauptgitter vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddErrorBar</source>
-        <translation>Fehlerindikatoren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TypeSection</source>
-        <translation>Diagrammtyp</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DataSection</source>
-        <translation>Datenabschnitt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsideEnd</source>
-        <translation>Ende innerhalb</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OutsideEnd</source>
-        <translation>Ende außerhalb</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrimaryMinorHorizontal</source>
-        <translation>Primäres Hilfsgitter horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Data</source>
-        <translation>Daten 
-auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>layoutSection</source>
-        <translation>Diagrammlayout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation>Diagramm-
-element hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SeriesLines</source>
-        <translation>Verbindungslinien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -29049,32 +28873,31 @@ element hinzufügen</translation>
     </message>
     <message>
         <source>AboveChart</source>
-        <translation>Über Diagramm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrimaryHorizontalAxis</source>
-        <translation>Horizontale Primärachse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WithLegendKeys</source>
-        <translation>Mit Legendensymbolen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SecondaryMinorHorizontal</source>
-        <translation>Sekundäres Hilfsgitter horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SecondaryVerticalAxis</source>
-        <translation>Vertikale Sekundärachse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>changeColor</source>
-        <translation>Farbe 
-ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddDataTable</source>
-        <translation>Datentabelle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Moving Average</source>
@@ -29082,11 +28905,11 @@ element hinzufügen</translation>
     </message>
     <message>
         <source>AddChartTitle</source>
-        <translation>Diagrammtitel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddChartLines</source>
-        <translation>Linien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Current Selection</source>
@@ -29094,15 +28917,15 @@ element hinzufügen</translation>
     </message>
     <message>
         <source>AddUpDownBar</source>
-        <translation>Pos./Neg. Abweichungsbalken</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NoLegendKeys</source>
-        <translation>Ohne Legendensymbole</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsideBase</source>
-        <translation>Basis innerhalb</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -29145,15 +28968,15 @@ element hinzufügen</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation>XML-Erweiterungspaket</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation>XML-Schema</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XML Mapping Pane</source>
-        <translation>XML-Zuordnungsfenster</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Controls</source>
@@ -29175,11 +28998,11 @@ Eigenschaften</translation>
     </message>
     <message>
         <source>ContentControlsGroup</source>
-        <translation>Gruppieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XmlMapping</source>
-        <translation>XML-Zuordnung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Combo Box</source>
@@ -29191,7 +29014,7 @@ Eigenschaften</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>Makro aufzeichnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Drop-Down List Content Control</source>
@@ -29203,7 +29026,7 @@ Eigenschaften</translation>
     </message>
     <message>
         <source>ContentControlsUngroup</source>
-        <translation>Gruppierung aufheben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Macros</source>
@@ -29219,7 +29042,7 @@ Eigenschaften</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>COM-Add-Ins</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date Picker Content Control</source>
@@ -29253,15 +29076,15 @@ beenden</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation>XML-Struktur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Code anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ContentControlsGroupMenu</source>
-        <translation>Gruppieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Box</source>
@@ -29273,7 +29096,7 @@ beenden</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Entwurfsmodus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Legacy Tools</source>
@@ -29286,11 +29109,6 @@ beenden</translation>
     <message>
         <source>Toggle Button</source>
         <translation>Umschaltfläche</translation>
-    </message>
-    <message>
-        <source>Visual Basic
-Editor</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -29325,16 +29143,15 @@ Editor</source>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation>XML-Erweiterungspaket</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation>XML-Schema</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XML Mapping Pane</source>
-        <translation>XML-Zuordnungs-
-bereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Controls</source>
@@ -29350,11 +29167,11 @@ bereich</translation>
     </message>
     <message>
         <source>ContentControlsGroup</source>
-        <translation>Gruppe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XmlMapping</source>
-        <translation>XML-Zuordnung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Combo Box</source>
@@ -29362,7 +29179,7 @@ bereich</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>Makro aufzeichnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spin Button</source>
@@ -29370,7 +29187,7 @@ bereich</translation>
     </message>
     <message>
         <source>ContentControlsUngroup</source>
-        <translation>Gruppierung aufheben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Macros</source>
@@ -29390,7 +29207,7 @@ bereich</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>COM-Add-Ins</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description</source>
@@ -29410,15 +29227,15 @@ bereich</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation>XML-Struktur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Code anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ContentControlsGroupMenu</source>
-        <translation>Gruppe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Box</source>
@@ -29426,22 +29243,18 @@ bereich</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Entwurfsmodus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Toggle Button</source>
         <translation>Umschaltfläche</translation>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KxContentListEntriesDlg</name>
     <message>
         <source>Wps</source>
-        <translation>WPS Writer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display name cannot be blank.</source>
@@ -29457,7 +29270,7 @@ bereich</translation>
     </message>
     <message>
         <source>An entry with the same value already exists - each entry must spacify a unique value.</source>
-        <translation>Ein Eintrag mit demselben Wert ist bereits vorhanden - für jeden Eintrag ist ein eindeutiger Wert erforderlich.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Choice</source>
@@ -29465,7 +29278,7 @@ bereich</translation>
     </message>
     <message>
         <source>An entry with the same display name already exists - each entry must spacify a display name.</source>
-        <translation>Ein Eintrag mit demselben Anzeigenamen ist bereits vorhanden - für jeden Eintrag ist ein eindeutiger Anzeigename erforderlich.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Value:</source>
@@ -29476,104 +29289,68 @@ bereich</translation>
     <name>KxDlgConfidentialityLevelKeyWordV2</name>
     <message>
         <source>add</source>
-        <translation>Hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete</source>
-        <translation>Löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>select all</source>
-        <translation>Alle auswählen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KxDlgSyAddReceiver</name>
     <message>
         <source>add</source>
-        <translation>Hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please fill in the recipient information in the order distributed:</source>
-        <translation>Geben Sie die Empfängerinformationen in der Verteilungsreihenfolge ein:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete</source>
-        <translation>Löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>add receiver</source>
-        <translation>Empfänger hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KxDlgSyAddReceiverOL</name>
     <message>
         <source>add</source>
-        <translation>Hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>are you sure to delete all receivers added?</source>
-        <translation>Möchten Sie wirklich alle hinzugefügten Empfänger löschen?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>please input key word to search info of receivers:</source>
-        <translation>Schlüsselwort eingeben, um nach Informationen zu den Empfängern zu suchen:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>search</source>
-        <translation>Suchen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>receivers:</source>
-        <translation>Empfänger:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete all</source>
-        <translation>Alles löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>add receiver</source>
-        <translation>Empfänger hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
-    </message>
-    <message>
-        <source>input chinese sy info tips part1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>input chinese sy info tips part2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>sy_normal</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>sytype</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>input normal sy info tips part1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>input normal sy info tips part2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>chinese_sy_info</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>normal_sy_info</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>self_sy_info</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -29646,7 +29423,7 @@ bereich</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>WordArt als vertikaler Text</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Word Justify</source>
@@ -29714,7 +29491,7 @@ bereich</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>WordArt-Ausrichtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fade Right</source>
@@ -29730,7 +29507,7 @@ bereich</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Textfluss</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -30036,7 +29813,7 @@ Ein/Aus</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Word Justify</source>
@@ -30151,7 +29928,7 @@ Form</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Gliederung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -30187,7 +29964,7 @@ Form</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Textfluss</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -30248,11 +30025,11 @@ Form</translation>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation>Textfluss</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -30268,7 +30045,7 @@ Form</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -30276,7 +30053,7 @@ Form</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strich-Stil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fade Down</source>
@@ -30588,7 +30365,7 @@ Form</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>Vertikaler Text</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -30596,7 +30373,7 @@ Form</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left Alignment</source>
@@ -30705,7 +30482,7 @@ Form</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Ausrichtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Lines</source>
@@ -30729,7 +30506,7 @@ Form</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Textfluss</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -30790,11 +30567,11 @@ Form</translation>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation>Textfluss</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -30810,7 +30587,7 @@ Form</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -30818,7 +30595,7 @@ Form</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strich-Stil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fade Down</source>
@@ -31024,7 +30801,7 @@ Form</translation>
     </message>
     <message>
         <source>Kingsoft WPS</source>
-        <translation>WPS Office</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An AutoCorrect entry for &apos;%1&apos; already exists. Do you want to redefine it?</source>
@@ -31177,7 +30954,7 @@ Form</translation>
     </message>
     <message>
         <source>编辑字典</source>
-        <translation>Wörterbuch bearbeiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -31393,7 +31170,7 @@ Form</translation>
     </message>
     <message>
         <source>All pages in range</source>
-        <translation>Alle Seiten im Bereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1 Page</source>
@@ -31469,7 +31246,7 @@ Form</translation>
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
-        <translation>Empfänger hinzufügen (&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>9 Pages</source>
@@ -31969,7 +31746,7 @@ Form</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -32017,7 +31794,7 @@ Form</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Textfluss</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Picture</source>
@@ -32049,7 +31826,7 @@ Form</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Bildvorschau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Automatic</source>
@@ -32133,11 +31910,11 @@ verfolgen</translation>
     </message>
     <message>
         <source>Ink Line Style</source>
-        <translation>Linienstil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Reviewers</source>
-        <translation>Bearbeiter anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -32177,7 +31954,7 @@ verfolgen</translation>
     </message>
     <message>
         <source>Highlighter Pen</source>
-        <translation>Textmarker</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -32189,11 +31966,11 @@ verfolgen</translation>
     </message>
     <message>
         <source>Ball Pen</source>
-        <translation>Kugelschreiber</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation>Überarbeitungsbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous</source>
@@ -32209,7 +31986,7 @@ verfolgen</translation>
     </message>
     <message>
         <source>Handwriting Comments</source>
-        <translation>Handschriftliche Kommentare</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display for Review</source>
@@ -32217,7 +31994,7 @@ verfolgen</translation>
     </message>
     <message>
         <source>Accept Shown Changes in Document</source>
-        <translation>Angezeigte Änderungen im Dokument annehmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Objects</source>
@@ -32249,11 +32026,11 @@ verfolgen</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation>Wasserfarbenstift</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reject Shown Changes in Document</source>
-        <translation>Angezeigte Änderungen im Dokument ablehnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reviewers</source>
@@ -32356,11 +32133,11 @@ verfolgen</translation>
     </message>
     <message>
         <source>Highlighter Pen</source>
-        <translation>Textmarker</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ball Pen</source>
-        <translation>Kugelschreiber</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Objects</source>
@@ -32372,7 +32149,7 @@ verfolgen</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation>Wasserfarbenstift</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ink Operation</source>
@@ -32512,19 +32289,19 @@ Text</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation>Nach Skala zuschneiden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation>Nach Form zuschneiden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation>Onlinebild</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Textumbruch Stil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -32536,7 +32313,7 @@ Text</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation>ClipArt einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -32564,7 +32341,7 @@ Text</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -32576,7 +32353,7 @@ Text</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Onlinebild</translation>
+        <translation>Online-Bilder</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -32584,7 +32361,7 @@ Text</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Behind Text</source>
@@ -32672,7 +32449,7 @@ Text</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Bilder komprimieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Lines</source>
@@ -32688,7 +32465,7 @@ Text</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation>ClipArt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -32696,7 +32473,7 @@ Text</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -32749,7 +32526,7 @@ On/Off</source>
     </message>
     <message>
         <source>Lock rate</source>
-        <translation>Seitenverhältnis sperren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -32757,11 +32534,11 @@ On/Off</source>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation>Relativ zur Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -32777,11 +32554,11 @@ On/Off</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strichstil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -32854,7 +32631,7 @@ Size</source>
     </message>
     <message>
         <source>Adjust Picture</source>
-        <translation>Bildanpassung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -32878,7 +32655,7 @@ Size</source>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation>Bild oder Struktur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gridlines</source>
@@ -32886,15 +32663,11 @@ Size</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Langer Strichpunkt-Punkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Top</source>
         <translation>Oben ausrichten</translation>
-    </message>
-    <message>
-        <source>From Phone</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -33038,7 +32811,7 @@ Text</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -33062,7 +32835,7 @@ Text</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Mehre Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Behind Text</source>
@@ -33158,8 +32931,7 @@ Text</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Bilder
-komprimieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Lines</source>
@@ -33191,11 +32963,11 @@ komprimieren</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Online-Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Zeilenumbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -33251,7 +33023,7 @@ komprimieren</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -33267,7 +33039,7 @@ komprimieren</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strichart</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -33379,7 +33151,7 @@ komprimieren</translation>
     </message>
     <message>
         <source>PictureSize</source>
-        <translation>Bildgröße</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture Fill</source>
@@ -33403,7 +33175,7 @@ komprimieren</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
-        <translation>Bildanpassung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -33440,10 +33212,6 @@ komprimieren</translation>
     <message>
         <source>Align Top</source>
         <translation>Oben ausrichten</translation>
-    </message>
-    <message>
-        <source>Online Picture</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -33518,11 +33286,11 @@ komprimieren</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation>Weitere Unterstreichungsfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Horizontales Textfeld</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -33626,7 +33394,7 @@ komprimieren</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -33638,8 +33406,7 @@ komprimieren</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation>Text
-richtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -33755,7 +33522,7 @@ richtung</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Textfluss</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Text Box</source>
@@ -33791,8 +33558,7 @@ richtung</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahl-
-bereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -33808,7 +33574,7 @@ bereich</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Striche</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>In Line with Text</source>
@@ -33844,7 +33610,7 @@ bereich</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Form ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Points</source>
@@ -33967,11 +33733,11 @@ bereich</translation>
     </message>
     <message>
         <source>Highlighter Pen</source>
-        <translation>Textmarker</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ball Pen</source>
-        <translation>Kugelschreiber</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Objects</source>
@@ -33983,7 +33749,7 @@ bereich</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation>Wasserfarbenstift</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ink Operation</source>
@@ -34042,8 +33808,7 @@ bereich</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Auswahl-
-bereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Right</source>
@@ -34123,7 +33888,7 @@ bereich</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Textumbruch Stil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -34135,7 +33900,7 @@ bereich</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation>ClipArt einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -34163,7 +33928,7 @@ bereich</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -34175,7 +33940,7 @@ bereich</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Onlinebild</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -34187,7 +33952,7 @@ bereich</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Behind Text</source>
@@ -34279,7 +34044,7 @@ bereich</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Bilder komprimieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Lines</source>
@@ -34295,7 +34060,7 @@ bereich</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation>ClipArt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -34303,7 +34068,7 @@ bereich</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -34361,11 +34126,11 @@ Ein/Aus</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation>Relativ zur Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -34381,11 +34146,11 @@ Ein/Aus</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strich-Stil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -34447,7 +34212,7 @@ größe</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
-        <translation>Bildanpassung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -34471,7 +34236,7 @@ größe</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation>Bild oder Struktur</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gridlines</source>
@@ -34479,7 +34244,7 @@ größe</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Langer Strich-Punkt-Punkt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Top</source>
@@ -34610,8 +34375,7 @@ größe</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild 
-einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -34627,7 +34391,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Onlinebild</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -34639,7 +34403,7 @@ einfügen</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Behind Text</source>
@@ -34739,8 +34503,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Bilder 
-komprimieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Lines</source>
@@ -34768,11 +34531,11 @@ komprimieren</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Textfluss</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -34820,8 +34583,7 @@ komprimieren</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahl-
-bereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Object</source>
@@ -34837,7 +34599,7 @@ bereich</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Striche</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -34949,7 +34711,7 @@ bereich</translation>
     </message>
     <message>
         <source>PictureSize</source>
-        <translation>Bildgröße</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture Fill</source>
@@ -34973,7 +34735,7 @@ bereich</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
-        <translation>Anpassen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -35024,7 +34786,7 @@ bereich</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ruler</source>
@@ -35044,31 +34806,27 @@ bereich</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reading View</source>
-        <translation>Leseansicht</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation>Zwei Seiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Fenster schließen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation>Rechts platzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation>Links platzieren</translation>
-    </message>
-    <message>
-        <source>Document Views</source>
-        <translation>Dokumentansichten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>One Page</source>
@@ -35082,7 +34840,7 @@ anordnen</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation>Weblayout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Macros</source>
@@ -35147,7 +34905,7 @@ bereich</translation>
     <message>
         <source>Print 
 Layout</source>
-        <translation>Drucklayout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -35156,7 +34914,7 @@ Layout</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Vollbildgröße</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Security</source>
@@ -35164,11 +34922,11 @@ Screen</source>
     </message>
     <message>
         <source>Reset Window Position</source>
-        <translation>Fensterposition zurücksetzen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invisible</source>
@@ -35176,7 +34934,7 @@ Screen</source>
     </message>
     <message>
         <source>Protect Eyes</source>
-        <translation>Augen schützen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Document Map</source>
@@ -35193,10 +34951,6 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation>Neues Fenster</translation>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -35228,7 +34982,7 @@ Window</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -35246,7 +35000,7 @@ Andere Fenster</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation>Rechts platzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print Layout</source>
@@ -35254,11 +35008,11 @@ Andere Fenster</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation>Links platzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document Views</source>
-        <translation>Dokumentansichten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch Windows</source>
@@ -35275,7 +35029,7 @@ anordnen</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation>Weblayout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Macros</source>
@@ -35348,7 +35102,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invisible</source>
@@ -35410,7 +35164,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
-        <translation>Max. Schritte von Rückgangig/ Wiederholen müssen zwischen %1 und %2 liegen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The password of the file encryption must be no longer than 15 characters.</source>
@@ -35418,7 +35172,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>Two password inconsistencies</source>
-        <translation>Die Passwörter sind nicht identisch.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document ma&amp;p:</source>
@@ -35470,10 +35224,6 @@ anzeigen</translation>
     </message>
     <message>
         <source>File Path: WPS CloudFile\Cloud BackUp</source>
-        <translation>Dateipfad: WPS Cloud\Autom. hochgeladen</translation>
-    </message>
-    <message>
-        <source>Confirmation password does not match.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -35507,7 +35257,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation>Die Schriftart %1 ist auf Ihrem System nicht verfügbar. Der Text wird in einer Ersatzschriftart angezeigt. Möchten Sie sie trotzdem verwenden?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
@@ -35606,7 +35356,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Eckige leere Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
@@ -35638,11 +35388,11 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation>Text ausrichten - Blocksatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation>Ausgefüllte runde Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -35654,7 +35404,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation>Pfeilförmige Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Promote TOC Level</source>
@@ -35682,7 +35432,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation>Karoförmige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Underlines</source>
@@ -35694,7 +35444,7 @@ Diese Änderung wirkt sich auf alle neuen Dokumente aus, die auf der Vorlage %1 
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>Inhaltsverzeichnisebene</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font Name</source>
@@ -35747,7 +35497,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation>Eckige gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bullets</source>
@@ -35755,11 +35505,11 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation>Runde gefüllte Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Underline</source>
@@ -35783,7 +35533,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Häkchenaufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Underline Color</source>
@@ -35854,11 +35604,11 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Breite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation>In den Hintergrund</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Middle</source>
@@ -35874,7 +35624,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Insert shape in before</source>
-        <translation>Form einfügen vor</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -35882,11 +35632,11 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Reduce Level</source>
-        <translation>Level reduzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Shape</source>
-        <translation>Form einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -35898,7 +35648,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Increase Level</source>
-        <translation>Level erhöhen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Behind Text</source>
@@ -35922,11 +35672,11 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>RightToLeft Layout</source>
-        <translation>Layout von rechts nach links</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert assist</source>
-        <translation>Assistent einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -35934,19 +35684,19 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Insert shape on below</source>
-        <translation>Form einfügen unter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert shape in after</source>
-        <translation>Form einfügen nach</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert shape on above</source>
-        <translation>Form einfügen über</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Backward</source>
-        <translation>Rückwärts</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Equal Size</source>
@@ -35958,7 +35708,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Textfluss</translation>
+        <translation>Textumbruch</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -35970,7 +35720,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -36002,11 +35752,11 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Left Hang</source>
-        <translation>Links hängender Einzug</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Vorwärts</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Colors</source>
@@ -36026,7 +35776,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Right Hang</source>
-        <translation>Rechts hängender Einzug</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gridlines</source>
@@ -36475,7 +36225,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Verify that an envelopes is loaded before printing.</source>
-        <translation>Vor dem Drucken Umschläge in folgendes Druckfach einlegen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Print</source>
@@ -36567,7 +36317,7 @@ Formatvorlage</translation>
     <message>
         <source>Page 
 Break</source>
-        <translation>Seitenumbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -36575,7 +36325,7 @@ Break</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -36588,11 +36338,11 @@ von nächster Seite</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Onlinebilder einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation>Symbolbibliothek</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cover
@@ -36613,11 +36363,11 @@ Pages</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation>WPSArt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -36769,7 +36519,7 @@ Pages</source>
     </message>
     <message>
         <source>Materials</source>
-        <translation>Material</translation>
+        <translation>Formen</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -36793,11 +36543,11 @@ Pages</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OnlineDiagram</source>
-        <translation>Onlinediagramm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -36829,11 +36579,11 @@ Pages</source>
     </message>
     <message>
         <source>InsertProcesson_Flow</source>
-        <translation>Flussdiagramm einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertProcesson_Mind</source>
-        <translation>Mind-Mapping einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quick Parts</source>
@@ -36863,7 +36613,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation>Dokumentfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date and Time</source>
@@ -36881,22 +36631,6 @@ Number</source>
     <message>
         <source>Total of Y Page</source>
         <translation>Gesamtmenge von Y Seite</translation>
-    </message>
-    <message>
-        <source>Insert Number</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation>Gleichung</translation>
-    </message>
-    <message>
-        <source>From Phone</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More Symbols</source>
-        <translation>Mehr Symbole</translation>
     </message>
 </context>
 <context>
@@ -36952,7 +36686,7 @@ Number</source>
     <message>
         <source>Page 
 Break</source>
-        <translation>Seitenumbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -36960,7 +36694,7 @@ Break</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -36973,11 +36707,11 @@ Text</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Onlinebilder einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation>Symbolbibliothek</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset Form Fields</source>
@@ -36993,7 +36727,7 @@ Text</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -37013,8 +36747,7 @@ Text</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation>Leere 
-Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Column Break</source>
@@ -37122,7 +36855,7 @@ Seite</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tabelle zeichnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -37142,7 +36875,7 @@ Seite</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation>Material</translation>
+        <translation>Formen</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -37166,7 +36899,7 @@ Seite</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -37194,11 +36927,11 @@ Seite</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow</source>
-        <translation>Flussdiagramm einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertProcesson_Mind</source>
-        <translation>Mind-Mapping einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quick Parts</source>
@@ -37228,7 +36961,7 @@ Fußzeilen</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation>Dokumentfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date and Time</source>
@@ -37254,10 +36987,6 @@ Number</source>
     <message>
         <source>Total of Y Page</source>
         <translation>Gesamtmenge von Y Seite</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37297,7 +37026,7 @@ Number</source>
     <message>
         <source>Page 
 Break</source>
-        <translation>Seitenumbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -37321,11 +37050,11 @@ Break</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Onlinebild</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Breaks</source>
@@ -37337,8 +37066,7 @@ Break</source>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation>Leere 
-Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Column Break</source>
@@ -37414,7 +37142,7 @@ Seite</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Equation</source>
@@ -37430,8 +37158,7 @@ Seite</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und 
-Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Drawing Canvas</source>
@@ -37439,7 +37166,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tabelle zeichnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -37519,7 +37246,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation>Dokumentfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date and Time</source>
@@ -37571,8 +37298,7 @@ Fußzeile</translation>
     <message>
         <source>Page 
 Break</source>
-        <translation>Seiten-
-umbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -37596,12 +37322,11 @@ umbruch</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild 
-einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Onlinebild</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Breaks</source>
@@ -37613,8 +37338,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation>Leere 
-Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Column Break</source>
@@ -37690,7 +37414,7 @@ Seite</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Equation</source>
@@ -37706,8 +37430,7 @@ Seite</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und 
-Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Drawing Canvas</source>
@@ -37715,8 +37438,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tabelle 
-zeichnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -37796,7 +37518,7 @@ zeichnen</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation>Dokumentfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date and Time</source>
@@ -37815,7 +37537,7 @@ zeichnen</translation>
     <name>KxWidgetTpXMLStructure</name>
     <message>
         <source>Form</source>
-        <translation>Raster</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show XML tags in the document</source>
@@ -37845,11 +37567,11 @@ für ein Word XML-Dokument übernehmen.</translation>
     </message>
     <message>
         <source>In order to apply your own XML elements in this document,you must first select a schema.</source>
-        <translation>Um Ihr eigenen XML-Elemente in dieses Dokument zu übernehmen, müssen Sie zuerst ein Schema auswählen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>you can do this by going to:</source>
-        <translation>Gehen Sie hierzu in:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No XML elements have been applied to this document.</source>
@@ -37860,7 +37582,7 @@ für ein Word XML-Dokument übernehmen.</translation>
     <name>KxWpsWidgetMailItem</name>
     <message>
         <source>Form</source>
-        <translation>Raster</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38016,7 +37738,7 @@ für ein Word XML-Dokument übernehmen.</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation>Dateien reparieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Roaming File</source>
@@ -38024,7 +37746,7 @@ für ein Word XML-Dokument übernehmen.</translation>
     </message>
     <message>
         <source>Sharing File</source>
-        <translation>Datei wird freigegeben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -38036,7 +37758,7 @@ für ein Word XML-Dokument übernehmen.</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation>Als Bild exportieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -38048,11 +37770,11 @@ für ein Word XML-Dokument übernehmen.</translation>
     </message>
     <message>
         <source>Document History</source>
-        <translation>Verlaufsdokument</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send File</source>
-        <translation>An Mobiltelefon senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Donate</source>
@@ -38076,7 +37798,7 @@ für ein Word XML-Dokument übernehmen.</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Text-Tool</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -38084,7 +37806,7 @@ für ein Word XML-Dokument übernehmen.</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Benutzerfeedbacks</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Tools</source>
@@ -38092,11 +37814,11 @@ für ein Word XML-Dokument übernehmen.</translation>
     </message>
     <message>
         <source>ComposeKit</source>
-        <translation>Schreibtipps</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Team File</source>
-        <translation>Teamdatei</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -38104,20 +37826,19 @@ für ein Word XML-Dokument übernehmen.</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Aus Cloud 
-Docs öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation>PDF-Zusammenführung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation>PDF-Aufteilung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
-        <translation>Online-Vorlagen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OneStep Save</source>
@@ -38126,7 +37847,7 @@ Docs öffnen</translation>
     <message>
         <source>File Roaming</source>
         <comment>professional</comment>
-        <translation>Datei-Roaming</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XiuTang H5</source>
@@ -38150,11 +37871,11 @@ Docs öffnen</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Cloud-Verknüpfung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>In PDF exportieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Global Search</source>
@@ -38162,8 +37883,7 @@ Docs öffnen</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>In Cloud 
-Docs speichern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -38175,15 +37895,15 @@ Docs speichern</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation>Automatischen Sicherung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Co-edit</source>
-        <translation>Zusammenarbeit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>Datei-Roaming</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View File Safe</source>
@@ -38210,22 +37930,6 @@ scannen</translation>
         <source>Document security</source>
         <translation>Dokumentsicherheit</translation>
     </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Translate selected text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ongmani.proxycommands</name>
@@ -38243,7 +37947,7 @@ scannen</translation>
     </message>
     <message>
         <source>Batch Delete</source>
-        <translation>Löschen für alle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>HeaderFooterGroup</source>
@@ -38259,7 +37963,7 @@ scannen</translation>
     </message>
     <message>
         <source>Insert Pictures From Phone</source>
-        <translation>Bilder vom Telefon einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shortcut Setting</source>
@@ -38268,11 +37972,11 @@ scannen</translation>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation>Bildschirmerfassung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>document authentication</source>
-        <translation>Dokumentauthentifizierung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Toolbar</source>
@@ -38280,7 +37984,7 @@ scannen</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation>Dateien reparieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hardware Encryption</source>
@@ -38292,15 +37996,15 @@ scannen</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Feedback und Empfehlung</translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>Picture Style</source>
-        <translation>Bildformat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Onlinebilder einfügen</translation>
+        <translation>Onlinebild</translation>
     </message>
     <message>
         <source>Add Picture Frame</source>
@@ -38308,11 +38012,11 @@ scannen</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation>Als Bild exportieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation>Online-Schriftarten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Chart</source>
@@ -38320,15 +38024,15 @@ scannen</translation>
     </message>
     <message>
         <source>File Send</source>
-        <translation>An Mobiltelefon senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation>Symbolbibliothek</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>Link-Vorschau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Comments</source>
@@ -38340,7 +38044,7 @@ scannen</translation>
     </message>
     <message>
         <source>Output Voice</source>
-        <translation>Ausgabestimme</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document History</source>
@@ -38348,7 +38052,7 @@ scannen</translation>
     </message>
     <message>
         <source>New Doc Recommend</source>
-        <translation>Vielleicht gefällt Ihnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Split or Merge</source>
@@ -38356,7 +38060,7 @@ scannen</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Onlinebild</translation>
+        <translation>Online-Bilder</translation>
     </message>
     <message>
         <source>Set Language</source>
@@ -38368,7 +38072,7 @@ scannen</translation>
     </message>
     <message>
         <source>PDF To Excel</source>
-        <translation>PDF nach Excel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -38384,7 +38088,7 @@ scannen</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation>Galerie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Help And QA</source>
@@ -38408,7 +38112,7 @@ scannen</translation>
     </message>
     <message>
         <source>Change Num</source>
-        <translation>Zahl ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Footer</source>
@@ -38420,11 +38124,11 @@ scannen</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
-        <translation>Designfarbe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShortBatchDelete</source>
-        <translation>Löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Online Charts</source>
@@ -38436,7 +38140,7 @@ scannen</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Aktuelles Fenster bei Bildschirmerfassung ausblenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shapes</source>
@@ -38444,11 +38148,11 @@ scannen</translation>
     </message>
     <message>
         <source>PDF To PPT</source>
-        <translation>PDF nach PPT</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Xie De</source>
-        <translation>Xie De</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -38456,11 +38160,11 @@ scannen</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation>Textsprache</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation>PDF-Komprimierung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Proofread</source>
@@ -38468,7 +38172,7 @@ scannen</translation>
     </message>
     <message>
         <source>Send pictures</source>
-        <translation>Bilder senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online TableStyle</source>
@@ -38476,11 +38180,11 @@ scannen</translation>
     </message>
     <message>
         <source>PaperFormat</source>
-        <translation>Papierlayout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation>In PDF-Datei konvertieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My Picture</source>
@@ -38492,19 +38196,19 @@ scannen</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Dateifreigabe</translation>
+        <translation>Freigeben</translation>
     </message>
     <message>
         <source>AutoFindContents</source>
-        <translation>Automatisches Erkennen des Inhalts</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Picture Gallery</source>
-        <translation>Galerie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation>Link erstellen und freigeben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
@@ -38512,7 +38216,7 @@ scannen</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation>Onlinebilder einfügen</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -38524,15 +38228,15 @@ scannen</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Aus Cloud Docs öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation>PDF-Zusammenführung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation>PDF-Aufteilung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Translate</source>
@@ -38556,8 +38260,7 @@ scannen</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Benutzerberechtigungen 
-überprüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -38565,11 +38268,11 @@ scannen</translation>
     </message>
     <message>
         <source>ShortChart</source>
-        <translation>Diagramm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShortWordArt</source>
-        <translation>WordArt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encryption</source>
@@ -38577,7 +38280,7 @@ scannen</translation>
     </message>
     <message>
         <source>Xie De Menu</source>
-        <translation>Xie-De-Menü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocerThemeColor</source>
@@ -38597,7 +38300,7 @@ scannen</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation>Material</translation>
+        <translation>Formen</translation>
     </message>
     <message>
         <source>DocerWordArt</source>
@@ -38614,7 +38317,7 @@ Word</translation>
     </message>
     <message>
         <source>DocerTableStyle</source>
-        <translation>Tabellenstil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Global Search</source>
@@ -38626,19 +38329,19 @@ Word</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>In Cloud Docs speichern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>WPS-Paket-Plugin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation>Bildschirmerfassung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PaperCheck</source>
-        <translation>Papierprüfung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocerChart</source>
@@ -38650,15 +38353,15 @@ Word</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Alle Bilder im Dokument konvertieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation>Ausgewähltes Bild konvertieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OnlineDiagram</source>
-        <translation>Onlinediagramm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -38666,11 +38369,11 @@ Word</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation>Automatischen Sicherung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation>Zusammenarbeit</translation>
+        <translation>Freigeben</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -38682,11 +38385,11 @@ Word</translation>
     </message>
     <message>
         <source>GroupSending</source>
-        <translation>An Gruppe senden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ProcessOnEntry</source>
-        <translation>Bei Eintrag verarbeiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add or view comments in your document.</source>
@@ -38698,8 +38401,7 @@ Word</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation>Meine Berechtigung 
-überprüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -38717,22 +38419,6 @@ scannen</translation>
     <message>
         <source>From Phone</source>
         <translation>Von Telefon</translation>
-    </message>
-    <message>
-        <source>Picture to Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>InsertBarcode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>HomeDesign</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Geogebra</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38771,7 +38457,7 @@ scannen</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Word-Extras</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Laboratory</source>
@@ -38783,11 +38469,11 @@ scannen</translation>
     </message>
     <message>
         <source>More from Microblog</source>
-        <translation>Mehr aus Microblog</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Aus Cloud öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
@@ -38803,7 +38489,7 @@ scannen</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Cloud-Verknüpfung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -38811,7 +38497,7 @@ scannen</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Speichern in Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -38819,27 +38505,11 @@ scannen</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>Datei-Roaming</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View File Safe</source>
         <translation>Datei sicher anzeigen</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38914,7 +38584,7 @@ scannen</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation>Textsprache</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -38958,8 +38628,7 @@ scannen</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und 
-Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -38987,8 +38656,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>In PDF 
-exportieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recharge</source>
@@ -38996,7 +38664,7 @@ exportieren</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>WPS-Paket-Plugin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User Sign in</source>
@@ -39008,7 +38676,7 @@ exportieren</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation>Menüleiste anzeigen/ausblenden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Developer</source>
@@ -39044,15 +38712,11 @@ exportieren</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation>Texttools</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sign out</source>
         <translation>Abmelden</translation>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39155,7 +38819,7 @@ exportieren</translation>
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
-        <translation>Weitere (&amp;W)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39578,7 +39242,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Find Previous(&amp;B)</source>
-        <translation>Vorherige suchen (&amp;V)</translation>
+        <translation>&amp;Vorherige suchen</translation>
     </message>
     <message>
         <source>Match prefi&amp;x</source>
@@ -39782,8 +39446,7 @@ Beispiel: Mit +4 springen Sie um vier Elemente weiter.</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation>Bearbeitung 
-einschränken</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ruler</source>
@@ -39803,11 +39466,11 @@ einschränken</translation>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation>Zwei Seiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation>Rechts platzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Track Changes</source>
@@ -39817,7 +39480,8 @@ nachverfolgen</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Änderungen Nachverfolgen</translation>
+        <translation>Änderungen 
+nachverfolgen</translation>
     </message>
     <message>
         <source>Accept Change</source>
@@ -39825,7 +39489,7 @@ Changes</source>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation>Links platzieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Track Changes Options...</source>
@@ -39833,12 +39497,11 @@ Changes</source>
     </message>
     <message>
         <source>Show Reviewers</source>
-        <translation>Markup anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>In traditionelles 
-Chinesisch umwandeln</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -39908,7 +39571,7 @@ zählen</translation>
     </message>
     <message>
         <source>Accept Format Changes in Document</source>
-        <translation>Formatänderungen im Dokument annehmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
@@ -39980,12 +39643,11 @@ zählen</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Benutzerberechtigungen 
-überprüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Handwriting Comments</source>
-        <translation>Handschriftliche Kommentare</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Navigation
@@ -40003,7 +39665,7 @@ bereich</translation>
     </message>
     <message>
         <source>Accept Shown Changes in Document</source>
-        <translation>Angezeigte Änderungen im Dokument annehmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
@@ -40036,12 +39698,11 @@ bereich</translation>
     <message>
         <source>Delete 
 Comment</source>
-        <translation>Kommentar 
-löschen</translation>
+        <translation>Kommentar löschen</translation>
     </message>
     <message>
         <source>Reject Shown Changes in Document</source>
-        <translation>Angezeigte Änderungen im Dokument ablehnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reviewers</source>
@@ -40065,8 +39726,7 @@ löschen</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation>Meine Berechtigung 
-überprüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
@@ -40074,7 +39734,7 @@ löschen</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Rechtschreibprüfung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document Permission</source>
@@ -40086,12 +39746,11 @@ löschen</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>In vereinfachtes 
-Chinesisch umwandeln</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reject Format Changes in Document</source>
-        <translation>Formatänderungen im Dokument ablehnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
@@ -40099,15 +39758,10 @@ Chinesisch umwandeln</translation>
     </message>
     <message>
         <source>Document Security</source>
-        <translation>Dokument- 
-sicherheit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ReviewTime</source>
-        <translation>Überprüfungszeit</translation>
-    </message>
-    <message>
-        <source>Document Encryption</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -40123,8 +39777,7 @@ sicherheit</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation>Bearbeitung 
-einschränken</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Track Changes</source>
@@ -40141,8 +39794,7 @@ nachverfolgen</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>In traditionelles 
-Chinesisch umwandeln</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -40187,7 +39839,7 @@ zählen</translation>
     </message>
     <message>
         <source>Accept Format Changes in Document</source>
-        <translation>Formatänderungen im Dokument annehmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
@@ -40227,7 +39879,7 @@ zählen</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation>Überarbeitungsbereich</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -40251,7 +39903,7 @@ zählen</translation>
     </message>
     <message>
         <source>Handwriting Comments</source>
-        <translation>Handschriftliche Kommentare</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Proofing</source>
@@ -40263,7 +39915,7 @@ zählen</translation>
     </message>
     <message>
         <source>Accept Shown Changes in Document</source>
-        <translation>Angezeigte Änderungen im Dokument annehmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
@@ -40305,7 +39957,7 @@ Kommentar</translation>
     </message>
     <message>
         <source>Reject Shown Changes in Document</source>
-        <translation>Angezeigte Änderungen im Dokument ablehnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reviewers</source>
@@ -40333,16 +39985,15 @@ Kommentar</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Rechtschreibprüfung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>In vereinfachtes 
-Chinesisch umwandeln</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reject Format Changes in Document</source>
-        <translation>Formatänderungen im Dokument ablehnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
@@ -40819,11 +40470,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Alt+B</source>
-        <translation>Alt+B</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+D</source>
@@ -40835,7 +40486,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation>Alt+G</translation>
+        <translation>Alt+E</translation>
     </message>
     <message>
         <source>Alt+I</source>
@@ -40843,7 +40494,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Alt+J</source>
-        <translation>Alt+J</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+K</source>
@@ -40879,7 +40530,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Even header link to previous(&amp;G)</source>
-        <translation>Gerade &amp;Kopfzeile verknüpft mit vorheriger (&amp;G)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show header line</source>
@@ -40907,7 +40558,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Show even page header line(&amp;C)</source>
-        <translation>Kopfzeilenlinie auf geraden Seiten anzeigen (&amp;S)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Header inside</source>
@@ -40915,11 +40566,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show odd page header line(&amp;B)</source>
-        <translation>Kopfzeilenlinie auf ungeraden Seiten anzeigen (&amp;K)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Header middle</source>
@@ -40955,7 +40606,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Odd footer link to previous(&amp;J)</source>
-        <translation>Ungerade &amp;Fußzeile verknüpft mit vorheriger (&amp;U)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Header outside</source>
@@ -40963,7 +40614,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Different odd and &amp;even pages</source>
-        <translation>&amp;Gerade und ungerade Seiten untersch.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Odd h&amp;eader link to previous</source>
@@ -40978,7 +40629,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation>Eingekreiste Zahl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -40986,7 +40637,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation>Listenebene ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -41010,11 +40661,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>a.b.c.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation>Ideografische Nummerierung, unbeschränkter Punkt</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41025,7 +40676,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation>Eingekreiste Zahl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -41033,7 +40684,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation>Listenebene ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -41057,11 +40708,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>a.b.c.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation>Ideografische Nummerierung, unbeschränkter Punkt</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41072,7 +40723,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation>Eingekreiste Zahl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -41080,7 +40731,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation>Listenebene ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -41104,11 +40755,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>a.b.c.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation>Ideografische Nummerierung, unbeschränkter Punkt</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41119,7 +40770,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation>Eingekreiste Zahl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -41127,7 +40778,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation>Listenebene ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -41151,11 +40802,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>a.b.c.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation>Ideografische Nummerierung, unbeschränkter Punkt</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41166,7 +40817,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation>Eingekreiste Zahl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -41174,7 +40825,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation>Listenebene ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -41198,11 +40849,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>a.b.c.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation>Ideografische Nummerierung, unbeschränkter Punkt</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41213,7 +40864,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation>Eingekreiste Zahl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -41241,11 +40892,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>a.b.c.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation>Ideografische Nummerierung, unbeschränkter Punkt</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41256,7 +40907,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation>Eingekreiste Zahl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -41264,7 +40915,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>ChangeListLevel</source>
-        <translation>Listenebene ändern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1.2.3.</source>
@@ -41288,11 +40939,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>a.b.c.</source>
-        <translation>a.b.c.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation>Ideografische Nummerierung, unbeschränkter Punkt</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41382,11 +41033,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Data Pic&amp;ker</source>
-        <translation>Datumsaus&amp;wahl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comno &amp;Box</source>
-        <translation>Kombinations&amp;feld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -41402,7 +41053,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>This XML file could not be used to create a new part in the document because it&apos;s not valid XML.</source>
-        <translation>Diese XML-Datei konnte nicht verwendet werden, um einen neuen Dokumentteil zu erstellen, da sie keinen gültigen XML-Code darstellt.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Repeat</source>
@@ -41414,7 +41065,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>(add customXmlparts...)</source>
-        <translation>(Neue Komponente hinzufügen...)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XML Files</source>
@@ -41434,7 +41085,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>(empty namespaceURI)</source>
-        <translation>(Leerer Namespace-URI)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41617,7 +41268,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Quit Full Screen</source>
-        <translation>Vollbildmodus schließen</translation>
+        <translation>Ganzer Bildschirm schließen</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -41629,7 +41280,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Page Fit And Hide Empty</source>
-        <translation>Vollbild und leeren Platz ausblenden</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41663,7 +41314,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Fit Page</source>
-        <translation>Größe anpassen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Zoom In</source>
@@ -41683,19 +41334,19 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>LastPage</source>
-        <translation>Letzte Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FirstPage</source>
-        <translation>Erste Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PageNumber</source>
-        <translation>Seitenzahl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NextPage</source>
-        <translation>Nächste Seite</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41722,7 +41373,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Print Order:</source>
-        <translation>Druckerwarteschlange：</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Margins</source>
@@ -41746,7 +41397,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Print Order</source>
-        <translation>Druckerwarteschlange</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Printer</source>
@@ -41762,7 +41413,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>PrintSettings</source>
-        <translation>Druckeinstellungen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Multiple Pages</source>
@@ -41774,11 +41425,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Duplex Print:</source>
-        <translation>Duplexdruck:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duplex Print</source>
-        <translation>Duplexdruck</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom Margins</source>
@@ -41809,7 +41460,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Print Order:</source>
-        <translation>Druckerwarteschlange:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>One Page</source>
@@ -41821,7 +41472,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Print Order</source>
-        <translation>Druckerwarteschlange</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Printer</source>
@@ -41837,7 +41488,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>PrintSettings</source>
-        <translation>Druckeinstellungen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Multiple Pages</source>
@@ -41845,11 +41496,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Duplex Print:</source>
-        <translation>Duplexdruck:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duplex Print</source>
-        <translation>Duplexdruck</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -42005,7 +41656,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>XMLExtend</source>
-        <translation>XML-Erweiterungspaket</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Checked schemas are currently attached:</source>
@@ -42041,11 +41692,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Available XMLExtend Pack</source>
-        <translation>&amp;Verfügbare XML-Erweiterungspakete:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update(&amp;P)</source>
-        <translation>A&amp;ktualisieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Source URL:</source>
@@ -42073,7 +41724,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Select(&amp;A)</source>
-        <translation>Auswählen (&amp;A)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Checked items are currently loaded.</source>
@@ -42081,11 +41732,11 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Delete(&amp;E)</source>
-        <translation>&amp;Löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete(&amp;R)</source>
-        <translation>Löschen (&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document &amp;template</source>
@@ -42093,7 +41744,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Attached XMLExtend Pack</source>
-        <translation>Angefügtes XML-Erweiterungspaket:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Schema &amp;Library...</source>
@@ -42105,7 +41756,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Schema Information</source>
@@ -42381,15 +42032,15 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     <name>KxTableStyleGalleryInline</name>
     <message>
         <source>best</source>
-        <translation>Bester Treffer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>dark</source>
-        <translation>Dunkel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>light</source>
-        <translation>Hell</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>tableStyle</source>
@@ -42397,7 +42048,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>medium</source>
-        <translation>Mittel</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -42591,9 +42242,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
         <source>&lt;p style=&quot;font-size:14 line-height: 1; margin-top: 8px;&quot;&gt;IncrementalBackup will record your steps on the file.
 &lt;p style=&quot;font-size:14 line-height: 1; margin-top: 2px;&quot;&gt;When reading a backup file, these steps are quickly replayed
 &lt;p style=&quot;font-size:14 line-height: 1; margin-top: 2px;&quot;&gt;on the original file for backup purposes.</source>
-        <translation>&lt;p style=&quot;font-size:14 line-height: 1; margin-top: 8px;&quot;&gt;Inkrementelle Sicherungen zeichnen Vorgänge in der Datei auf. Wenn eine 
-&lt;p style=&quot;font-size:14 line-height: 1; margin-top: 2px;&quot;&gt;Sicherung gelesen wird, werden diese Vorgänge sofort synchronisiert
-&lt;p style=&quot;font-size:14 line-height: 1; margin-top: 2px;&quot;&gt;, um sicherzustellen, dass die Sicherung mit der Quelldatei konsistent ist.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -42624,7 +42273,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
@@ -42660,7 +42309,7 @@ Abbrechen:	Zum Dialogfeld zurückkehren.</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation>Linienbreite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear
@@ -42690,7 +42339,7 @@ löschen</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tabelle zeichnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shading</source>
@@ -42698,7 +42347,7 @@ löschen</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Drawing</source>
@@ -42745,7 +42394,7 @@ löschen</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
@@ -42754,8 +42403,7 @@ löschen</translation>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>Zeichnen
-Diagonale Linie in Zelle zeichnen</translation>
+        <translation>Diagonale Linie in Zelle zeichnen</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -42807,11 +42455,11 @@ Diagonale Linie in Zelle zeichnen</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tabelle zeichnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -42865,7 +42513,7 @@ Diagonale Linie in Zelle zeichnen</translation>
     </message>
     <message>
         <source>Delete Soft Return</source>
-        <translation>Zeilenumbruch löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Convert Soft Return to Return</source>
@@ -43126,7 +42774,7 @@ Diagonale Linie in Zelle zeichnen</translation>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation>GUI wird geladen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -43145,7 +42793,7 @@ Diagonale Linie in Zelle zeichnen</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation>Dateien reparieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -43169,7 +42817,7 @@ Diagonale Linie in Zelle zeichnen</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation>Textsprache</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture</source>
@@ -43177,8 +42825,7 @@ Diagonale Linie in Zelle zeichnen</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und 
-Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tables and Borders</source>
@@ -43223,7 +42870,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>Seriendruck</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArt</source>
@@ -43232,14 +42879,6 @@ anzeigen</translation>
     <message>
         <source>3-D Settings</source>
         <translation>3D-Einstellungen</translation>
-    </message>
-    <message>
-        <source>Picture to Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -43376,7 +43015,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>&amp;Use solid color(no shade)</source>
-        <translation>Einfarbig (&amp;keine Schattierung)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Height</source>
@@ -43403,11 +43042,11 @@ anzeigen</translation>
     </message>
     <message>
         <source>Export as Images</source>
-        <translation>Als Bilder exportieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>H5 link Manager</source>
-        <translation>Freigegebene Links verwalten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -43427,7 +43066,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation>Link erstellen und freigeben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
@@ -43435,7 +43074,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Vom Cloud-Dokument öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -43447,7 +43086,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Anmelden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
@@ -43459,7 +43098,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Cloud-Verknüpfung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -43471,7 +43110,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>In der Cloud speichern</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User Sign in</source>
@@ -43483,7 +43122,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>Datei-Roaming</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View File Safe</source>
@@ -43495,7 +43134,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>My Subscription</source>
-        <translation>Meine Abonnements</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sign Out</source>
@@ -43715,11 +43354,11 @@ anzeigen</translation>
     </message>
     <message>
         <source>No relevant content was found</source>
-        <translation>Keinen Inhalt gefunden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failure to find relevant content cannot be replace</source>
-        <translation>Das Ersetzen ist fehlgeschlagen, weil kein passender Inhalt gefunden wurde.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44097,7 +43736,7 @@ anzeigen</translation>
     </message>
     <message>
         <source>Set Default(&amp;C)</source>
-        <translation>Als Standard festlegen (&amp;A)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom Dictionary</source>
@@ -44262,12 +43901,11 @@ anzeigen</translation>
     <name>ongmani.ct_security</name>
     <message>
         <source>Restrict Editing</source>
-        <translation>Bearbeitung 
-einschränken</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>document authentication</source>
-        <translation>Dokumentauthentifizierung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Permissions</source>
@@ -44287,7 +43925,7 @@ einschränken</translation>
     </message>
     <message>
         <source>document authorization</source>
-        <translation>Dokumentautorisierung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File backup</source>
@@ -44303,12 +43941,11 @@ einschränken</translation>
     </message>
     <message>
         <source>document security</source>
-        <translation>Dokumentsicherheit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Benutzerberechtigungen 
-überprüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encryption</source>
@@ -44316,16 +43953,15 @@ einschränken</translation>
     </message>
     <message>
         <source>Confidentiality Level KeyWord</source>
-        <translation>Schlüsselwort mit Vertraulichkeitslevel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Vorwärts</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation>Meine Berechtigungen 
-überprüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document Permission</source>
@@ -44333,14 +43969,10 @@ einschränken</translation>
     </message>
     <message>
         <source>document set</source>
-        <translation>Dokumenteinstellungen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make Forward Doc</source>
-        <translation>Dokument weiterleiten</translation>
-    </message>
-    <message>
-        <source>Document Security</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -44498,7 +44130,7 @@ einschränken</translation>
     </message>
     <message>
         <source>Show(&amp;D):</source>
-        <translation>Einblenden (&amp;D):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> &lt;&lt; All&amp;ow All </source>
@@ -44514,11 +44146,7 @@ einschränken</translation>
     </message>
     <message>
         <source> Limit All(&amp;R) &gt;&gt; </source>
-        <translation> Alle begrenzen (&amp;R) &gt;&gt; </translation>
-    </message>
-    <message>
-        <source>Styles are currently allowed(&amp;P):</source>
-        <translation>Formatvorlagen sind momentan zulässig (&amp;F):</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44663,11 +44291,11 @@ einschränken</translation>
     <message>
         <source>Page 
 Break</source>
-        <translation>Seitenumbruch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -44676,7 +44304,7 @@ Text</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Onlinebilder einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Table Of Contents</source>
@@ -44692,11 +44320,11 @@ Text</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation>WPSArt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Breaks</source>
@@ -44776,7 +44404,7 @@ Text</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tabelle zeichnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Summary</source>
@@ -44804,7 +44432,7 @@ Text</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -44828,7 +44456,7 @@ Text</translation>
     </message>
     <message>
         <source>TableOfContents</source>
-        <translation>Inhaltsverzeichnis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Convert Text to Table</source>
@@ -44836,7 +44464,7 @@ Text</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation>Dokumentfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page
@@ -44869,10 +44497,6 @@ Number</source>
     <message>
         <source>Delete Object</source>
         <translation>Objekt löschen</translation>
-    </message>
-    <message>
-        <source>Insert Picture</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44940,11 +44564,11 @@ Number</source>
     </message>
     <message>
         <source>The document field with this name has already existed. Do you want to cover it?</source>
-        <translation>Das Dokumentfeld mit diesem Namen existiert bereits. Möchten Sie es überschreiben?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The name of the document field has already existed, please rename it!</source>
-        <translation>Der Name des Dokumentfelds ist bereits vorhanden, benennen Sie es um.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44955,7 +44579,7 @@ Number</source>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation>Vorbereitung für den Export der OFD-Datei...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
@@ -44963,7 +44587,7 @@ Number</source>
     </message>
     <message>
         <source>WPS Writer encountered an error while trying exporting to OFD.</source>
-        <translation>WPS Writer hat beim Exportieren nach OFD einen Fehler festgestellt.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -44971,11 +44595,11 @@ Number</source>
     </message>
     <message>
         <source>Exporting OFD file is completing...</source>
-        <translation>OFD-Datei wird exportiert...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation>Fehler beim Öffnen der OFD-Datei.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -44983,7 +44607,7 @@ Number</source>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation>Exportieren der OFD-Datei ist abgeschlossen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exporting page %1...</source>
@@ -45069,15 +44693,15 @@ Number</source>
     </message>
     <message>
         <source>Edit receiver(&amp;R)</source>
-        <translation>Empfänger bearbeiten (&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
-        <translation>Empfänger hinzufügen (&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>failed to write distribution log!</source>
-        <translation>konnte Verteilungsprotokoll nicht schreiben.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print permissions error!</source>
@@ -45123,7 +44747,7 @@ Number</source>
     </message>
     <message>
         <source>%1 minutes ago</source>
-        <translation>Vor %1 Minuten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A few seconds ago</source>
@@ -45131,7 +44755,7 @@ Number</source>
     </message>
     <message>
         <source>%1 hours ago</source>
-        <translation>Vor %1 Stunden</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45219,11 +44843,11 @@ Number</source>
     </message>
     <message>
         <source>LastPage</source>
-        <translation>Letzte Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FirstPage</source>
-        <translation>Erste Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -45248,7 +44872,7 @@ Fußzeile wechseln</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Onlinebilder einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Header Footer Group</source>
@@ -45265,7 +44889,7 @@ Header</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Footer</source>
@@ -45297,7 +44921,7 @@ Header</source>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Kopfzeilen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Page Num</source>
@@ -45331,7 +44955,7 @@ verknüpfen</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
-        <translation>Optionen für Kopf- und Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Header and Footer
@@ -45341,8 +44965,7 @@ Optionen</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und 
-Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Footer Height</source>
@@ -45411,10 +45034,6 @@ Number</source>
         <source>Navigation</source>
         <translation>Navigation</translation>
     </message>
-    <message>
-        <source>Picture to Text</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_mailings</name>
@@ -45424,7 +45043,7 @@ Number</source>
     </message>
     <message>
         <source>First Record</source>
-        <translation>Erster Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Go to Record</source>
@@ -45436,7 +45055,7 @@ Number</source>
     </message>
     <message>
         <source>View Merged Data</source>
-        <translation>Seriendruck-Vorschau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close Data Source</source>
@@ -45444,7 +45063,7 @@ Number</source>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>Seriendruckempfänger</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Preview Results</source>
@@ -45464,11 +45083,11 @@ Number</source>
     </message>
     <message>
         <source>Last Record</source>
-        <translation>Letzter Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Record</source>
-        <translation>Nächster Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Data Source</source>
@@ -45496,7 +45115,7 @@ Number</source>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation>Vorheriger Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge to Printer</source>
@@ -45523,7 +45142,7 @@ Number</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -45541,11 +45160,11 @@ Text</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Änderungen verfolgen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Word
@@ -45625,7 +45244,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Box</source>
@@ -45657,7 +45276,7 @@ einfügen</translation>
     </message>
     <message>
         <source>ReviewTime</source>
-        <translation>Überprüfungszeit</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45673,7 +45292,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Bild einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Header</source>
@@ -45725,7 +45344,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Header and Footer Options</source>
-        <translation>Kopfzeilen &amp; Fußzeilen Optionen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Header and Footer
@@ -45735,8 +45354,7 @@ Optionen</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und 
-Fußzeile</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoText</source>
@@ -45771,7 +45389,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>First Record</source>
-        <translation>Erster Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Go to Record</source>
@@ -45783,7 +45401,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>View Merged Data</source>
-        <translation>Seriendruck-Vorschau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close Data Source</source>
@@ -45791,7 +45409,7 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>Seriendruckempfänger</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Preview Results</source>
@@ -45811,15 +45429,15 @@ Fußzeile</translation>
     </message>
     <message>
         <source>Last Record</source>
-        <translation>Letzter Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Record</source>
-        <translation>Nächster Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Data Source</source>
-        <translation>Datenquelle öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge to Different New Document</source>
@@ -45848,7 +45466,7 @@ Different New Document</source>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation>Vorheriger Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge to Printer</source>
@@ -45919,12 +45537,11 @@ in E-Mail</translation>
     </message>
     <message>
         <source>Go to TOC</source>
-        <translation>Gehe zu Inhaltsverzeichnis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>Inhaltsverzeichnis 
-aktualisieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Level</source>
@@ -45987,7 +45604,7 @@ aktualisieren</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>Inhaltsverzeichnisebene:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Increase Line Spacing</source>
@@ -46051,7 +45668,7 @@ Formatvorlage</translation>
     </message>
     <message>
         <source>Include above/below(&amp;N)</source>
-        <translation>Oben/unten einschließen (&amp;O)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cbxRefContent</source>
@@ -46104,10 +45721,6 @@ Formatvorlage</translation>
         <source>Unnamed</source>
         <translation>Unbenannt</translation>
     </message>
-    <message>
-        <source>Enter Section Name</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxDlgEmbedPrivateFonts</name>
@@ -46118,8 +45731,7 @@ Formatvorlage</translation>
     <message>
         <source>The document has applied online font. If your document needs to be circulated, we recommend that you save the font in document. 
 If unnecessary, please click Cancel.</source>
-        <translation>Das Dokument hat eine Online-Schriftart übernommen. Wenn Ihr Dokument weitergegeben werden muss, sollten Sie die Schriftart im Dokument speichern. 
-Wenn dies nicht nötig ist, klicken Sie auf „Abbrechen“.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dialog</source>
@@ -46182,7 +45794,7 @@ Wenn dies nicht nötig ist, klicken Sie auf „Abbrechen“.</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Code anzeigen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Box</source>
@@ -46190,7 +45802,7 @@ Wenn dies nicht nötig ist, klicken Sie auf „Abbrechen“.</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Entwurfsmodus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -46217,7 +45829,7 @@ Wenn dies nicht nötig ist, klicken Sie auf „Abbrechen“.</translation>
     </message>
     <message>
         <source>Footnote/Endnote Separator</source>
-        <translation>Fußnote/Endnotentrennlinie</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update Index</source>
@@ -46225,8 +45837,7 @@ Wenn dies nicht nötig ist, klicken Sie auf „Abbrechen“.</translation>
     </message>
     <message>
         <source>Next Footnote</source>
-        <translation>Nächste 
-Fußnote</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Level 1</source>
@@ -46274,16 +45885,15 @@ Fußnote</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>Inhaltsverzeichnis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation>Vorherige 
-Fußnote</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation>Vorherige Endnote</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Table of Figures</source>
@@ -46315,7 +45925,7 @@ Fußnote</translation>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translation>TOC einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Settings</source>
@@ -46328,16 +45938,15 @@ festlegen</translation>
     </message>
     <message>
         <source>TableOfContents</source>
-        <translation>Inhaltsverzeichnis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translation>Fußnote 
-einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>Seriendruck</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Endnote</source>
@@ -46345,8 +45954,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation>Endnote 
-einfügen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46404,7 +46012,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>Seriendruck</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46546,7 +46154,7 @@ einfügen</translation>
     </message>
     <message>
         <source>&amp;Calendar type:</source>
-        <translation>&amp;Kalendertyp:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cha&amp;nge...</source>
@@ -46585,7 +46193,7 @@ einfügen</translation>
     </message>
     <message>
         <source>&amp;Password</source>
-        <translation>Kennwort (&amp;P)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46639,7 +46247,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Text position(&amp;T):</source>
-        <translation>Textposition(&amp;T):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tab character</source>
@@ -46647,11 +46255,11 @@ einfügen</translation>
     </message>
     <message>
         <source>After numbering(&amp;W):</source>
-        <translation>Nach der Nummerierung(&amp;W):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tabel char position(&amp;B):</source>
-        <translation>Position der Tabellenzeichen(&amp;B):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Nothing</source>
@@ -46667,7 +46275,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Number position(&amp;P):</source>
-        <translation>Nummernposition(&amp;P):</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46708,7 +46316,7 @@ einfügen</translation>
     </message>
     <message>
         <source>vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46766,7 +46374,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Click to turn on Proofread</source>
-        <translation>Korrekturlesen aktivieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel Done Comment</source>
@@ -46802,7 +46410,7 @@ einfügen</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
-        <translation>WPS-Dokumentenformat mit Verschlüsselung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete this row</source>
@@ -46827,14 +46435,6 @@ einfügen</translation>
     <message>
         <source>The number input must be between 1 and 63.</source>
         <translation>Der Eingabewert muss zwischen 1 und 63 liegen.</translation>
-    </message>
-    <message>
-        <source>Click to turn off Proofread</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Apply Table Style</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46869,8 +46469,7 @@ einfügen</translation>
     <message>
         <source>Insert the manual contents and the paragraph may reset the outline.
 Do you want to replace the selected table of contents?</source>
-        <translation>Durch Einfügen des manuellen Inhaltsverzeichnisses wird möglicherweise die Absatzgliederung zurückgesetzt.
-Möchten Sie das ausgewählte Inhaltsverzeichnis wirklich ersetzen?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error! Reference source not found.</source>
@@ -46911,8 +46510,7 @@ Möchten Sie das ausgewählte Inhaltsverzeichnis wirklich ersetzen?</translation
     <message>
         <source>Insert the manual content and the paragraph will set the outline.
 Do you still want to insert the manual content?</source>
-        <translation>Durch Einfügen des manuellen Inhaltsverzeichnisses wird möglicherweise die Absatzgliederung festgelegt.
-Möchten Sie das manuelle Inhaltsverzeichnis wirklich einfügen?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>on page</source>
@@ -46997,11 +46595,11 @@ Möchten Sie es durch ein manuelles Verzeichnis ersetzen?</translation>
     <name>KxDlgConfidentialityLevelKeyWord</name>
     <message>
         <source>close</source>
-        <translation>Schließen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Check</source>
-        <translation>Prüfen (&amp;C)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;add keyword</source>
@@ -47009,7 +46607,7 @@ Möchten Sie es durch ein manuelles Verzeichnis ersetzen?</translation>
     </message>
     <message>
         <source>Confidentiality Level KeyWord</source>
-        <translation>Schlüsselwort mit Vertraulichkeitslevel</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47118,7 +46716,7 @@ Markieren Sie Bereiche im Dokument und wählen Sie Benutzer aus, die diese unein
     </message>
     <message>
         <source>Select This</source>
-        <translation>Dieses Element auswählen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47129,7 +46727,7 @@ Markieren Sie Bereiche im Dokument und wählen Sie Benutzer aus, die diese unein
     </message>
     <message>
         <source>Select This</source>
-        <translation>Dieses Element auswählen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47140,7 +46738,7 @@ Markieren Sie Bereiche im Dokument und wählen Sie Benutzer aus, die diese unein
     </message>
     <message>
         <source>All Reviewers(&amp;A)</source>
-        <translation>Alle Prüfer(&amp;A)</translation>
+        <translation>Alle Bearbeiter</translation>
     </message>
     <message>
         <source>All Reviewers</source>
@@ -47148,7 +46746,7 @@ Markieren Sie Bereiche im Dokument und wählen Sie Benutzer aus, die diese unein
     </message>
     <message>
         <source>Select This</source>
-        <translation>Dieses Element auswählen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47159,7 +46757,7 @@ Markieren Sie Bereiche im Dokument und wählen Sie Benutzer aus, die diese unein
     </message>
     <message>
         <source>Flip on long edge</source>
-        <translation>Duplexdruck - Lange Seite</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flip page on the short side of the paper</source>
@@ -47167,15 +46765,15 @@ Markieren Sie Bereiche im Dokument und wählen Sie Benutzer aus, die diese unein
     </message>
     <message>
         <source>Manual duplex</source>
-        <translation>Manueller Duplexdruck</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print only on one side of the paper</source>
-        <translation>Nur eine Seite des Papiers drucken</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print one sided</source>
-        <translation>Einseitiger Druck</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reload paper when prompted to print the second side</source>
@@ -47183,7 +46781,7 @@ Markieren Sie Bereiche im Dokument und wählen Sie Benutzer aus, die diese unein
     </message>
     <message>
         <source>Flip on short edge</source>
-        <translation>Duplexdruck - Kurze Seite</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47395,7 +46993,7 @@ Verwenden Sie die Schaltfläche „Nächster bearbeitbarer Bereich“, um die Be
     </message>
     <message>
         <source>&amp;Title case</source>
-        <translation>&amp;Erster Buchstabe groß</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Uppercase</source>
@@ -47688,11 +47286,11 @@ Verwenden Sie die Schaltfläche „Nächster bearbeitbarer Bereich“, um die Be
     <name>KxWpsOfficialNewDocumentDlg</name>
     <message>
         <source>template file</source>
-        <translation>Vorlagendatei</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>import templates</source>
-        <translation>Vorlagen importieren</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47729,11 +47327,11 @@ Verwenden Sie die Schaltfläche „Nächster bearbeitbarer Bereich“, um die Be
     </message>
     <message>
         <source>Output Voice</source>
-        <translation>Ausgabestimme</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Onlinebild</translation>
+        <translation>Online-Bilder</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -47745,7 +47343,7 @@ Verwenden Sie die Schaltfläche „Nächster bearbeitbarer Bereich“, um die Be
     </message>
     <message>
         <source>Text Speech</source>
-        <translation>Textsprache</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -47753,7 +47351,7 @@ Verwenden Sie die Schaltfläche „Nächster bearbeitbarer Bereich“, um die Be
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation>Onlinebilder einfügen</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
@@ -47761,39 +47359,11 @@ Verwenden Sie die Schaltfläche „Nächster bearbeitbarer Bereich“, um die Be
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>WPS-Paket-Plugin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Speech</source>
         <translation>Auswahlsprache</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Translation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF To Word</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47978,7 +47548,7 @@ Verwenden Sie die Schaltfläche „Nächster bearbeitbarer Bereich“, um die Be
     <message>
         <source>Intelligent Identification</source>
         <comment>TX_FIELD_MANUALCONTENT_PRIVIEW_TITLE</comment>
-        <translation>Intelligente Identifizierung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error!</source>
@@ -48012,7 +47582,7 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>Error! The style has no specified text.</source>
-        <translation>Fehler! Kein Text mit angegebener Formatvorlage im Dokument.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error! The style is not specified.</source>
@@ -48058,19 +47628,19 @@ Sie können Folgendes versuchen:
     <name>KxTpXMLStructureWidget</name>
     <message>
         <source>Add to entire document(&amp;E)</source>
-        <translation>Für das &amp;gesamte Dokument übernehmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is applied to the first element of this document. Do you want to apply to the entire document or only to the current range.</source>
-        <translation>Dies ist das erste Element, das auf dieses Dokument angewendet wird. Möchten Sie dieses Element für das gesamte Dokument oder nur für die aktuelle Auswahl übernehmen?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add to current selected content range only(&amp;S)</source>
-        <translation>Nur für die Au&amp;swahl übernehmen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel(&amp;C)</source>
-        <translation>&amp;Abbrechen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Remove %1 tag</source>
@@ -48078,15 +47648,15 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>Cann&apos;t add XML elements here.</source>
-        <translation>Dieses XML-Element kann hier nicht angewendet werden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cann&apos;t add XML elements in multi areas.</source>
-        <translation>Dieses XML-Element kann nicht um mehrere Auswahlen herum eingefügt werden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Templates And AddIns...</source>
-        <translation>Dokumentvorlagen und Add-Ins...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -48235,22 +47805,22 @@ Sie können Folgendes versuchen:
     <name>KxDlgBookmarkSelection</name>
     <message>
         <source>Select Place in Document</source>
-        <translation>Stelle in Dokument auswählen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select an existing p&amp;lace in the document:</source>
-        <translation>Vorhandene Stelle im Dokument auswählen(&amp;L):</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KxWpsTextOrientationModel</name>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotate Asian Character 270°</source>
-        <translation>Asiatische Zeichen um 270 Grad drehen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical from Left to Right</source>
@@ -48273,66 +47843,66 @@ Sie können Folgendes versuchen:
     <name>popupmenu.InsertBlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>popupmenu.InsertTextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikales Textfeld</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert.BlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert.TextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikales Textfeld</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert_vml.BlankPage</name>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert_vml.TextBox</name>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -48451,7 +48021,7 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>Delete&amp;AllBk</source>
-        <translation>Alle Textmarken löschen (&amp;A)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort by &amp;Location</source>
@@ -48479,7 +48049,7 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>&amp;DeleteTheBk</source>
-        <translation>Textmarke löschen (&amp;D)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -48772,7 +48342,7 @@ Sie können Folgendes versuchen:
     <name>classics.mail_merge</name>
     <message>
         <source>First Record</source>
-        <translation>Erster Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Go to Record</source>
@@ -48788,7 +48358,7 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>View Merged Data</source>
-        <translation>Seriendruck-Vorschau</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close Data Source</source>
@@ -48796,19 +48366,19 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>Serienbriefempfänger</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last Record</source>
-        <translation>Letzter Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Record</source>
-        <translation>Nächster Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Data Source</source>
-        <translation>Datenquelle öffnen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge to Different New Document</source>
@@ -48828,7 +48398,7 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>Previous Record</source>
-        <translation>Vorheriger Datensatz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge to Printer</source>
@@ -48875,7 +48445,7 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation>Fehler beim Hinzufügen der Wörterbuch-Datei %1. Die Datei ist bereits vorhanden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Custom Dictionary</source>
@@ -48926,7 +48496,7 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation>Fehler beim Hinzufügen der Wörterbuch-Datei %1. Die Datei ist bereits vorhanden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Custom Dictionary</source>
@@ -49105,7 +48675,7 @@ Sie können Folgendes versuchen:
     <name>KxWpsCancelContentsSettings</name>
     <message>
         <source>CancelContentEntry</source>
-        <translation>Einstellung &quot;Inhalt abbrechen&quot;</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -49132,7 +48702,7 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Pipette</translation>
+        <translation>Formatpipette</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -49151,15 +48721,15 @@ Sie können Folgendes versuchen:
     <name>KxBackupRoamingSettingTipWidget</name>
     <message>
         <source>open roaming file, edit document with WPS, login on other device</source>
-        <translation>Cloud-Sicherung aktivieren, Dokument mit WPS bearbeiten, Anmelden</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>with current account, you can read/eidt the document from</source>
-        <translation>mit aktuellem Konto, Sie können das Dokument aus der</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
-        <translation>Liste der zuletzt verwendeten Elemente oder aus der WPS Cloud bearbeiten</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -49178,12 +48748,11 @@ Sie können Folgendes versuchen:
     </message>
     <message>
         <source>Go to TOC</source>
-        <translation>Gehe zu Inhaltsverzeichnis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>Inhaltsverzeichnis 
-aktualisieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Level</source>
@@ -49295,7 +48864,7 @@ aktualisieren</translation>
     <name>classics.proxycommands</name>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Onlinebilder einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Table</source>
@@ -49308,22 +48877,6 @@ aktualisieren</translation>
     <message>
         <source>Online Pictures</source>
         <translation>Online-Bilder</translation>
-    </message>
-    <message>
-        <source>Export as Images</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -49444,10 +48997,6 @@ aktualisieren</translation>
         <source>Bottom Outter</source>
         <translation>Unten außen</translation>
     </message>
-    <message>
-        <source>Set page number format</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxDlgInsertTable</name>
@@ -49481,7 +49030,7 @@ aktualisieren</translation>
     </message>
     <message>
         <source>Auto column width(&amp;F)</source>
-        <translation>Spaltenbreite automatisch anpassen (&amp;S)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fixed column &amp;width:</source>
@@ -49492,7 +49041,7 @@ aktualisieren</translation>
     <name>KxAddKeyWordDlg</name>
     <message>
         <source>%1 is not a valid special character for the key word!</source>
-        <translation>%1 ist kein gültiges Sonderzeichen für das Schlüsselwort</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>please enter keyword!</source>
@@ -49500,18 +49049,18 @@ aktualisieren</translation>
     </message>
     <message>
         <source>The Key word length must be 1 to 40 char!</source>
-        <translation>Schlüsselwort muss kürzer als 40 Zeichen sein.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The Key word is aready exit!</source>
-        <translation>Schlüsselwort bereits vorhanden.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KxAddKeyWordDlg2</name>
     <message>
         <source>%1 is not a valid special character for the key word!</source>
-        <translation>%1 ist kein gültiges Sonderzeichen für das Schlüsselwort</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>please enter keyword!</source>
@@ -49519,11 +49068,11 @@ aktualisieren</translation>
     </message>
     <message>
         <source>The Key word length must be 1 to 40 char!</source>
-        <translation>Schlüsselwort muss kürzer als 40 Zeichen sein.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The Key word is aready exit!</source>
-        <translation>Schlüsselwort bereits vorhanden.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -49806,8 +49355,7 @@ aktualisieren</translation>
     <name>rainbow.ct_references</name>
     <message>
         <source>Next Footnote</source>
-        <translation>Nächste 
-Fußnote</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Level 1</source>
@@ -49851,12 +49399,11 @@ Fußnote</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>Inhaltsverzeichnisebene</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation>Vorherige 
-Fußnote</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Footnote</source>
@@ -49864,7 +49411,7 @@ Fußnote</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation>Vorherige Endnote</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mailings</source>
@@ -49872,8 +49419,7 @@ Fußnote</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>Inhaltsverzeichnis
-aktualisieren</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Caption</source>
@@ -49897,7 +49443,7 @@ aktualisieren</translation>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translation>Verzeichnis einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Settings</source>
@@ -49905,12 +49451,11 @@ aktualisieren</translation>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translation>Fußnote 
-einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>Seriendruck</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next Endnote</source>
@@ -49918,8 +49463,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation>Endnote 
-einfügen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50057,15 +49601,15 @@ einfügen</translation>
     <name>KxWpsAfterSelectAllWidget</name>
     <message>
         <source>Cancel AllSelected</source>
-        <translation>Gesamte Auswahl aufheben</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Can be modified, deleted or replaced</source>
-        <translation>Inhalte können per Stapelverarbeitung geändert, gelöscht oder ersetzt werden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All search results of the selected text, total %1</source>
-        <translation>Alle Suchergebnisse, %1 Datensätze gesamt, sind ausgewählt.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50114,19 +49658,19 @@ einfügen</translation>
     <name>KxWpsXMLSchemaLibraryDlg</name>
     <message>
         <source>Cannot Install the xml Extend or the xml schema.</source>
-        <translation>Das XML-Erweiterungspaket oder die Schema-Datei konnten nicht installiert werden.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This will remove the schema and all associated files from the schema library. This may affect anyapplication that uses this schema. Do you want to continue?</source>
-        <translation>Entfernt das Schema und alle zugeordneten Dateien aus der Schema-Bibliothek. Dies kann Anwendungen beeinflussen, die dieses Schema verwenden. Möchten Sie fortfahren?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add XMLSchema</source>
-        <translation>XML-Schema hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
-        <translation>XML-Schemas (*.xsd;*.xml);;XML-Erweiterungspakete (*.xml)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Schema Library</source>
@@ -50137,7 +49681,7 @@ einfügen</translation>
     <name>KxWpsOfficialSettingsDlg</name>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation>Die Schriftart %1 ist auf Ihrem System nicht verfügbar. Der Text wird in einer Ersatzschriftart angezeigt. Möchten Sie sie trotzdem verwenden?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -50148,7 +49692,7 @@ einfügen</translation>
     <name>KxWpsSmartOfficialSettingDlg</name>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation>Die Schriftart %1 ist auf Ihrem System nicht verfügbar. Der Text wird in einer Ersatzschriftart angezeigt. Möchten Sie sie trotzdem verwenden?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -50159,7 +49703,7 @@ einfügen</translation>
     <name>KxDlgMailMergeRecipients</name>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>Seriendruck Empfänger</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -50349,7 +49893,7 @@ einfügen</translation>
     </message>
     <message>
         <source>The directory you specified already have some files exists. Are you sure to replace the existing file?</source>
-        <translation>In dem von Ihnen angegebenen Verzeichnis sind bereits einige Dateien vorhanden. Möchten Sie die vorhandene Datei wirklich ersetzen?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
@@ -50369,7 +49913,7 @@ einfügen</translation>
     </message>
     <message>
         <source>The dirrectory name is the same as an existing file.</source>
-        <translation>Der Verzeichnisname ist derselbe wie bei einer vorhandenen Datei.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please specify the file name.</source>
@@ -50377,15 +49921,15 @@ einfügen</translation>
     </message>
     <message>
         <source>The directory you specified already have some files cannot be write. please specify the other file name.</source>
-        <translation>In dem von Ihnen angegebenen Verzeichnis befinden sich bereits Dateien. Schreiben nicht möglich. Geben Sie einen anderen Dateinamen an.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit receiver(&amp;R)</source>
-        <translation>Empfänger bearbeiten (&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
-        <translation>Empfänger hinzufügen (&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save PDF File As</source>
@@ -50397,7 +49941,7 @@ einfügen</translation>
     </message>
     <message>
         <source>failed to write distribution log!</source>
-        <translation>konnte Verteilungsprotokoll nicht schreiben.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is not a valid page range.</source>
@@ -50405,7 +49949,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Check Permissions</source>
-        <translation>Benutzerberechtigungen überprüfen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
@@ -50421,10 +49965,6 @@ einfügen</translation>
     <message>
         <source>Manual Table</source>
         <translation>Manuelle Tabelle</translation>
-    </message>
-    <message>
-        <source>ManualTable</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50452,11 +49992,11 @@ einfügen</translation>
     <name>KxWidgetTpXMLMapping</name>
     <message>
         <source>XmlMapping</source>
-        <translation>XML-Zuordnung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>custom xmlparts:</source>
-        <translation>Benutzerdefinierte XML-Komponente:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50470,7 +50010,7 @@ einfügen</translation>
     <name>KxMiniFindBox</name>
     <message>
         <source>No matches</source>
-        <translation>Keine Ergebnisse</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search</source>
@@ -50478,7 +50018,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Contains invalid special character</source>
-        <translation>Enthält ungültiges Sonderzeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Result %1 of %2</source>
@@ -50486,11 +50026,11 @@ einfügen</translation>
     </message>
     <message>
         <source>Cannot exceed %1 characters</source>
-        <translation>Darf %1 Zeichen nicht überschreiten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search paused</source>
-        <translation>Pause</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50617,15 +50157,15 @@ einfügen</translation>
     <name>KxWpsFindReplaceModel</name>
     <message>
         <source>headerfooter:</source>
-        <translation>Kopf- und Fußzeile:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>endnote:</source>
-        <translation>Endnote:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>comment:</source>
-        <translation>Kommentar:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>page %1</source>
@@ -50633,23 +50173,23 @@ einfügen</translation>
     </message>
     <message>
         <source>footnote:</source>
-        <translation>Fußnote:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>picture %1</source>
-        <translation>Bild %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>textbox:</source>
-        <translation>Textfeld:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>footer:</source>
-        <translation>Fußzeile:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>header:</source>
-        <translation>Kopfzeile</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50973,7 +50513,7 @@ einfügen</translation>
     </message>
     <message>
         <source>preview</source>
-        <translation>Vorschau</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -50987,59 +50527,59 @@ einfügen</translation>
     <name>KxPTab</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialogfeld</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabDot</source>
-        <translation>&amp;2 .....</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabCenter</source>
-        <translation>&amp;Zentriert</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabUnderscore</source>
-        <translation>&amp;4 _______</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>pTabIndent</source>
-        <translation>Einzug</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabLeader</source>
-        <translation>Füllzeichen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>pTabMargin</source>
-        <translation>Seitenrand</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabHypen</source>
-        <translation>&amp;3 -------</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabRight</source>
-        <translation>Re&amp;chts</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabAlignBased</source>
-        <translation>Ausrichten relativ zu:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabLeft</source>
-        <translation>&amp;Links</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabNone</source>
-        <translation>&amp;1 Ohne</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabAlignment</source>
-        <translation>Ausrichtung</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTabMiddleDot</source>
-        <translation>&amp;5 ·······</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51114,11 +50654,11 @@ einfügen</translation>
     <name>KxDlgFitText</name>
     <message>
         <source>New &amp;text width:</source>
-        <translation>Neue Breite:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fit  Text</source>
-        <translation>Text anpassen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ch, 1, 0, 316.8, 0.5</source>
@@ -51126,7 +50666,7 @@ einfügen</translation>
     </message>
     <message>
         <source>Current text width:</source>
-        <translation>Aktuelle Breite:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -51302,11 +50842,11 @@ einfügen</translation>
     <name>KxWpsAddSameLevelContentEntry</name>
     <message>
         <source>InsertContentEntryBefore</source>
-        <translation>Inhalt einfügen vor</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertContentEntryAfter</source>
-        <translation>Inhalt einfügen nach</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51321,16 +50861,15 @@ einfügen</translation>
     <message>
         <source>The schema you spacified uses a URI that is already in use by another schema. Click Browse to specify a schema tha uses a different URI, or click Cancel,
 remove the schema with the duplicate URI, and then add the schema you specified.</source>
-        <translation>Das angegebene Schema verwendet einen Namensraum, der nicht mit dem Namensraum übereinstimmt, der bereits in der Schemabibliothek angegeben ist. Klicken Sie auf &apos;Schema-Einstellungen&apos; und navigieren Sie zu einem 
-Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken Sie auf &apos;Abbrechen&apos; und entfernen Sie das Schema mit dem doppelten URI und fügen Sie anschließend das angegebene Schema hinzu.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add XMLSchema</source>
-        <translation>XML-Schema hinzufügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
-        <translation>XML-Schemas (*.xsd;*.xml);;XML-Erweiterungspakete (*.xml)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Schema Library</source>
@@ -51338,7 +50877,7 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     </message>
     <message>
         <source>you must provide the URI name of the schema.</source>
-        <translation>Sie müssen einen URI für dieses Schema angeben, um es hinzufügen zu können.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51427,7 +50966,7 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translation>Das Wort enthält unzulässige Zeichen. Es kann nicht verarbeitet werden.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51505,7 +51044,7 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     <name>KxSmartPageNumMenuItemCommand</name>
     <message>
         <source>Insert page number</source>
-        <translation>Seitenzahl einfügen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Page Number</source>
@@ -51521,10 +51060,6 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     <message>
         <source>Delete Page Number</source>
         <translation>Seitenzahl löschen</translation>
-    </message>
-    <message>
-        <source>Set Page Number</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51553,15 +51088,15 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     <name>KxWpsReplaceCompleteWidget</name>
     <message>
         <source>Complete Replacement</source>
-        <translation>Erfolgreich ersetzt.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All the replacements have been completed</source>
-        <translation>Ersetzung abgeschlossen.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Replacement of all search results complete</source>
-        <translation>Alle Suchergebnisse wurden erfolgreich ersetzt.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51576,18 +51111,18 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     </message>
     <message>
         <source>Auto fit</source>
-        <translation>Anpassend</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KxSyUsersTableViewHeaderView</name>
     <message>
         <source>delete</source>
-        <translation>Löschen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>select all</source>
-        <translation>Alle auswählen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51633,7 +51168,7 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     <name>kxWpsSectionMergeCmd</name>
     <message>
         <source>The first </source>
-        <translation>Der </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> Section</source>
@@ -51729,33 +51264,33 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     <name>KxSyReceiverTableModel</name>
     <message>
         <source>number</source>
-        <translation>Nummer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>receivername</source>
-        <translation>Empfängername</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>number of copies</source>
-        <translation>Anzahl Exemplare</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KxConfidentialityLevelKeyWordDlgV2</name>
     <message>
         <source>No Find Keyword in document, this document is not confidentiality level document!</source>
-        <translation>Kein Schlüsselwort im Dokument gefunden, dieses Dokument hat kein Vertraulichkeitslevel.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KxDlgConfidentialityLevelKeyWordV3</name>
     <message>
         <source>No Find Keyword in document, this document is not confidentiality level document!</source>
-        <translation>Kein Schlüsselwort im Dokument gefunden, dieses Dokument hat kein Vertraulichkeitslevel.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>select all</source>
-        <translation>Alle auswählen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51783,11 +51318,11 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     <name>KCompatibilityModeTip</name>
     <message>
         <source>This document is in an older format and is being edited in compatibility mode</source>
-        <translation>Dieses Dokument liegt in einem älteren Format vor und wird im Kompatibilitätsmodus bearbeitet.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>After saving,the layout may be disordered and some contents cannot be edited</source>
-        <translation>Nach dem Speichern ist das Layout möglicherweise ungeordnet und ein Teil des Inhalts ist möglicherweise unveränderlich.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51798,11 +51333,11 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     </message>
     <message>
         <source>The number of pages of a document. Click the open dialog</source>
-        <translation>Die Anzahl der Seiten des Dokuments. Klicken Sie auf das geöffnete Dialogfeld.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The number of screens in the document</source>
-        <translation>Die Anzahl der Bildschirme des Dokuments</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screen: %1</source>
@@ -51905,7 +51440,7 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
     <name>KxWpsInsertTableOfContents</name>
     <message>
         <source>InsertTableOfContents</source>
-        <translation>Inhalt einfügen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52105,10 +51640,7 @@ Schema, das mit dem bereits angegebenen Namensraum übereinstimmt, oder klicken 
 
 While you'll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
 Converting allows you to use all the new features of Word and reduces the size of your file. This document will be replaced by the converted version.</source>
-        <translation>Ihr Dokument wird auf das neuste Dateiformat aktualisiert.
-
-Somit kann es beim Layout zu kleineren Änderungen kommen. Wenn das Format nicht aktualisiert werden soll, klicken Sie auf &apos;Abbrechen&apos;.
-Durch die Konvertierung können Sie alle neuen Features von WPS Writer verwenden, und die Größe der Datei wird reduziert Dieses Dokument wird durch die konvertierte Version ersetzt.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52133,7 +51665,7 @@ Durch die Konvertierung können Sie alle neuen Features von WPS Writer verwenden
     <name>KxWpsAddSubContEntry</name>
     <message>
         <source>InsertSubContentEntry</source>
-        <translation>Sub-Inhalt einfügen nach</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52223,10 +51755,6 @@ anzeigen</translation>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
         <translation>Die Maße für linken/rechten Seitenrand, Spaltenabstände oder Absatzeinzüge sind für die Seitenbreite in manchen Abschnitten zu groß.</translation>
     </message>
-    <message>
-        <source>Orientation</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxWpsTextDirectionCommand</name>
@@ -52253,7 +51781,7 @@ anzeigen</translation>
     <name>KxDlgWpsMaintainCmptPrompt</name>
     <message>
         <source>MaintainCompatibilityPrompt</source>
-        <translation>Kompatibilitätsaufforderung beibehalten</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your document will be upgraded to the newest file format.
@@ -52261,9 +51789,7 @@ anzeigen</translation>
 While you'll get to use all the new features in Word, some minor layout
 changes are possible. If you prefer not to upgrade, press cancel an
 check the maintain compatibility checkbox.</source>
-        <translation>Ihr Dokument wird auf das neuste Dateiformat aktualisiert.
-
-Somit können Sie nun alle neuen Funktionen von WPS Writer verwenden, doch beim Layout kann es zu kleineren Änderungen kommen. Wenn das Format nicht aktualisiert werden soll, klicken Sie auf &apos;Abbrechen&apos;, bzw. aktivieren Sie das Kontrollkästchen für die Beibehaltung der Kompatibilität.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do not ask me again.</source>
@@ -52288,7 +51814,7 @@ Somit können Sie nun alle neuen Funktionen von WPS Writer verwenden, doch beim 
     <name>KxWpsZoomSlider</name>
     <message>
         <source>Fit Page to current window</source>
-        <translation>Seite an das aktuelle Fenster anpassen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52302,7 +51828,7 @@ Somit können Sie nun alle neuen Funktionen von WPS Writer verwenden, doch beim 
     <name>KxWpsAdvancedFindLabel</name>
     <message>
         <source>Advanced find</source>
-        <translation>Erweiterte Suche</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52337,7 +51863,7 @@ Somit können Sie nun alle neuen Funktionen von WPS Writer verwenden, doch beim 
     <name>KGalleryAbstractModel</name>
     <message>
         <source>PresetBullet</source>
-        <translation>Voreingestellte Animationen für Aufzählungszeichen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52373,8 +51899,7 @@ Somit können Sie nun alle neuen Funktionen von WPS Writer verwenden, doch beim 
     <message>
         <source>Fill in here: Name, work number, code, etc. can 
 represent the recipient&apos;s information content</source>
-        <translation>Hier ausfüllen: Name, Arbeitsnummer, Code usw. kann für
-den Informationsinhalt des Empfängers stehen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52395,14 +51920,14 @@ den Informationsinhalt des Empfängers stehen</translation>
     <name>KxWpsDelContentEntry</name>
     <message>
         <source>DeleteCotentEntry</source>
-        <translation>Löschen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KxWpsDelContentEntryPopup</name>
     <message>
         <source>DeleteCotentEntry</source>
-        <translation>Löschen</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52410,87 +51935,6 @@ den Informationsinhalt des Empfängers stehen</translation>
     <message>
         <source>Click here to insert pictures.</source>
         <translation>Zum Einfügen von Bildern hier klicken.</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsPageDifferCommand</name>
-    <message>
-        <source>Different first page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Different odd &amp;even pages</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsHeaderLineMoreColorCommand</name>
-    <message>
-        <source>Show Header Line Color</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxNotRestartSmartPageNumMenuItemCommand</name>
-    <message>
-        <source>Continue numbering</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsReviewersComboBox</name>
-    <message>
-        <source>All Reviewers</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsHeaderLineBaseCommand</name>
-    <message>
-        <source>Show Header Line</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsHFLinkToPreviousCommand</name>
-    <message>
-        <source>Header and Footer Link to Previous</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsDeleteSectionCommand</name>
-    <message>
-        <source>Delete Section</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxDeleteSmartPageNumMenuItemCommand</name>
-    <message>
-        <source>Delete page number</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWpsFileMenuHelpDocumentCommand</name>
-    <message>
-        <source>WPS Writer Help</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxWpsAboutLegacyTriggerCommand</name>
-    <message>
-        <source>About WPS Writer</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxRestartSmartPageNumMenuItemCommand</name>
-    <message>
-        <source>Restart current page page number</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
