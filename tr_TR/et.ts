@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>StrikeThrough</source>
-        <translation type="unfinished"/>
+        <translation>Üstü Çizili</translation>
     </message>
     <message>
         <source>First Column</source>
@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>InsideVertical</source>
-        <translation type="unfinished"/>
+        <translation>İç Dikey</translation>
     </message>
     <message>
         <source>Modify Table Style</source>
@@ -195,7 +195,7 @@
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kenarlık Yok</translation>
     </message>
     <message>
         <source>No Shading</source>
@@ -708,7 +708,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>sheet(s) Selected)</source>
-        <translation type="unfinished"/>
+        <translation>sayfa Seçildi)</translation>
     </message>
     <message>
         <source>(Current file)</source>
@@ -735,7 +735,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Find content that includes all keywords</source>
-        <translation type="unfinished"/>
+        <translation>Tüm anahtar kelimeleri içeren içeriği arayın</translation>
     </message>
     <message>
         <source>Turn on pinyin search</source>
@@ -743,7 +743,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Find content that includes any of the keywords</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar kelimelerden birini içeren içeriği arayın</translation>
     </message>
     <message>
         <source>Find content that includes the conditions</source>
@@ -751,15 +751,15 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Find content that matches the conditions</source>
-        <translation type="unfinished"/>
+        <translation>Koşullara uyan içeriği arayın</translation>
     </message>
     <message>
         <source>Find content that includes the wildcards</source>
-        <translation type="unfinished"/>
+        <translation>Dizeleri içeren içeriği arayın</translation>
     </message>
     <message>
         <source>Find content that includes the whole string</source>
-        <translation type="unfinished"/>
+        <translation>Tüm dizeyi içeren içeriği arayın</translation>
     </message>
 </context>
 <context>
@@ -902,7 +902,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Doub&amp;le click tab to Close Documemt</source>
-        <translation type="unfinished"/>
+        <translation>Belgeyi kapatmak için sekmeyi &amp;çift tıklayın</translation>
     </message>
     <message>
         <source>Print</source>
@@ -986,7 +986,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Enable Smooth Scroll (&amp;M)</source>
-        <translation type="unfinished"/>
+        <translation>Düzgün Kaydır&amp;mayı Etkinleştir</translation>
     </message>
     <message>
         <source>Fi&amp;xed decimal</source>
@@ -1030,11 +1030,11 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Keep cache for 90 &amp;days</source>
-        <translation type="unfinished"/>
+        <translation>Önbelleği 90 &amp;gün saklayın</translation>
     </message>
     <message>
         <source>Provide a list of content cancelled by the &amp;ESC</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ESC tarafından iptal edilen içeriğin bir listesini sağlayın</translation>
     </message>
     <message>
         <source>Show context tab when has Au&amp;toFilter</source>
@@ -1098,11 +1098,11 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Kee&amp;p cache for 30 days</source>
-        <translation type="unfinished"/>
+        <translation>Önb&amp;elleği 30 gün saklayın</translation>
     </message>
     <message>
         <source>Open roaming file</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik yüklenen dosyayı görüntüle</translation>
     </message>
     <message>
         <source>Chart lines:</source>
@@ -1114,7 +1114,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Select an earlier version of the spreadsheet can color</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik Tablolar&apos;ın önceki sürümlerinde kullanılabilen renkleri seçin.</translation>
     </message>
     <message>
         <source>Printing options</source>
@@ -1234,7 +1234,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Support different levels of password protection,click &apos;advance&apos; to choose different encryption types.</source>
-        <translation type="unfinished"/>
+        <translation>Farklı seviyelerde parola korumasını destekler, şifreleme türü seçmek için &apos;gelişmiş&apos;i tıklayın.</translation>
     </message>
     <message>
         <source>don&apos;t check expand cells below</source>
@@ -1254,7 +1254,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>Seçim sonrasında Mini Araç Çubuğunu göster (&amp;D)</translation>
     </message>
     <message>
         <source>Sheet ta&amp;bs</source>
@@ -1282,7 +1282,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Need Login</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen oturum açın</translation>
     </message>
     <message>
         <source>&amp;Multidiagonal Cell</source>
@@ -1322,7 +1322,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>enable</source>
-        <translation type="unfinished"/>
+        <translation>(aşağıdaki iznin yürürlüğe girmesini sağlayın)</translation>
     </message>
     <message>
         <source>D&amp;elete</source>
@@ -1398,7 +1398,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Backup files cache:</source>
-        <translation type="unfinished"/>
+        <translation>Saklama süresi:</translation>
     </message>
     <message>
         <source>Language</source>
@@ -1406,7 +1406,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>At startup, &amp;open all files in:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlangıçta bu dizindeki tüm dosyaları açın:</translation>
     </message>
     <message>
         <source>Password &amp;hint:</source>
@@ -1418,7 +1418,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
-        <translation type="unfinished"/>
+        <translation>Görüntüleme ve Yardım Dilini Seçin</translation>
     </message>
     <message>
         <source>Re&amp;turn</source>
@@ -1450,7 +1450,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Detect and prompt for appropriate number format</source>
-        <translation type="unfinished"/>
+        <translation>Uygun sayı biçimini algılar ve sorar.</translation>
     </message>
     <message>
         <source>General and Save</source>
@@ -1462,11 +1462,11 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Number stored as text(&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sayı metin olarak saklansın</translation>
     </message>
     <message>
         <source>Find content that includes any of the keywords</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar kelimelerden herhangi birini içeren içeriği bulun</translation>
     </message>
     <message>
         <source>Cells containing &amp;years represented as 2 digits</source>
@@ -1542,7 +1542,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Enable Live Preview (&amp;P)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Canlı Önizlemeyi Etkinleştir</translation>
     </message>
     <message>
         <source>&amp;Formula bar</source>
@@ -1598,7 +1598,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Find content that includes the conditions</source>
-        <translation type="unfinished"/>
+        <translation>Koşulları içeren içeriği bulun</translation>
     </message>
     <message>
         <source>&amp;Manual</source>
@@ -1626,7 +1626,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>&amp;Auto-recommend setting</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otomatik tavsiye ayarı</translation>
     </message>
     <message>
         <source>Security</source>
@@ -1654,7 +1654,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>NewFeatures</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Özellikler</translation>
     </message>
     <message>
         <source>When there are wildcards in conditions:</source>
@@ -1694,7 +1694,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>&amp;Open backup file</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yedekleme dosyasını aç</translation>
     </message>
     <message>
         <source>View &amp;local backup</source>
@@ -1722,7 +1722,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Find content that matches the conditions</source>
-        <translation type="unfinished"/>
+        <translation>Koşullara uyan içeriği bulun</translation>
     </message>
     <message>
         <source>When there are datas matching the rules</source>
@@ -1766,7 +1766,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Find content that includes the wildcards</source>
-        <translation type="unfinished"/>
+        <translation>Dizeleri içeren içeriği arayın</translation>
     </message>
     <message>
         <source>&amp;Disable all Data Connections</source>
@@ -1810,7 +1810,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Backup Setting</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme Ayarları</translation>
     </message>
     <message>
         <source>Gridlines &amp;color:</source>
@@ -1826,11 +1826,11 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Default HomePage(&amp;Y):</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Ana Sayfa(&amp;Y):</translation>
     </message>
     <message>
         <source>Find content that includes the whole string</source>
-        <translation type="unfinished"/>
+        <translation>Tüm dizeyi içeren içeriği bulun</translation>
     </message>
     <message>
         <source>&amp;Row and column h&amp;eadings</source>
@@ -1894,7 +1894,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>My CloudDocument</source>
@@ -1908,6 +1908,63 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
         <source>File encryption options for this workbook</source>
         <translation>Bu çalışma kitabı için dosya şifreleme seçenekleri</translation>
     </message>
+    <message>
+        <source>&amp;minutes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation>Gelişmiş düğmesi, farklı şifreleme türleri arasından seçim yapmanızı sağlar.</translation>
+    </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation>Orta düğme yapıştırmasını etkinleştir</translation>
+    </message>				
+    <message>
+        <source>Keep files cache</source>
+        <translation>Dosyaları önbelleğe al</translation>
+    </message>
+    <message>
+        <source>Image Size and Quality</source>
+        <translation>Görüntü boyutu ve kalitesi</translation>
+    </message>
+    <message>
+        <source>Default insert images of &amp;original size</source>
+        <translation>Varsayılan olarak, &amp;orijinal boyuttaki görüntüleri ekleyin</translation>
+    </message>
+    <message>
+        <source>Never show dialog when open html file</source>
+        <translation>Html dosyasını açarken hiçbir zaman iletişim kutusunu gösterme</translation>
+    </message>
+    <message>
+        <source>Open directly by default:Content style is complete, but opening may fail</source>
+        <translation>Varsayılan olarak doğrudan aç: İçerik stili tamamlandı, ancak açılış başarısız olabilir</translation>
+    </message>
+    <message>
+        <source>Open in simple mode:Can open to view the content, but the opening speed is slow, elements such as styles may be lost</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation>&amp;Yüksek kaliteli baskı</translation>
+    </message>
+    <message>
+        <source>days (Range 7-120)</source>
+        <translation>gün sakla (Aralık 7-120)</translation>
+	</message>	
+    <message>
+        <source>Keep cache for</source>
+        <translation>Önbelleği</translation>
+    </message>
+    <message>
+        <source>Clear local backup cache</source>
+        <translation type="unfinished"/>
+    </message>
+	<message>
+		<source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
+		<translation type="unfinished"/>
+	</message>
 </context>
 <context>
     <name>KxPivotDateFilterDlg</name>
@@ -1932,7 +1989,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>LableFilter(</source>
-        <translation type="unfinished"/>
+        <translation>Etiket Filtresi(</translation>
     </message>
 </context>
 <context>
@@ -1970,7 +2027,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>ValueFilter(</source>
-        <translation type="unfinished"/>
+        <translation>Değer Filtresi(</translation>
     </message>
     <message>
         <source>You must enter a number between -1.7977E+308 and 1.7977E+308. Please enter a number in this range and try again.</source>
@@ -2128,7 +2185,8 @@ Tek bir bölge seçin ve ardından bu komutu yeniden uygulayın.</translation>
     <message>
         <source>Smart fill cannot be performed without a sample. 
 Try entering some sample data before performing Smart Fill.</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı doldurma örnek olmadan yapılamaz. 
+Akıllı Doldurma işlemini gerçekleştirmeden önce bazı örnek veriler girmeyi deneyin.</translation>
     </message>
     <message>
         <source>This operation will cause some merged cells to unmerge. Do you wish to continue?</source>
@@ -2213,7 +2271,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Lower</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Harf</translation>
     </message>
     <message>
         <source>Macro</source>
@@ -2257,7 +2315,7 @@ Remove the workbook from shared use?
     </message>
     <message>
         <source>Upper</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Harf</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -2358,12 +2416,12 @@ Bunun birçok nedeni olabilir:
     <message>
         <source>%s File Open Failed</source>
         <comment>TX_DuplicateItemsMgr_File_Open_Failed</comment>
-        <translation type="unfinished"/>
+        <translation>%s Dosyası Açılamadı</translation>
     </message>
     <message>
         <source>Has No Duplicate Data</source>
         <comment>TX_DuplicateItemsMgr_Has_No_Duplicate_Data</comment>
-        <translation type="unfinished"/>
+        <translation>Yinelenen Verileri Yok</translation>
     </message>
     <message>
         <source>You cannot use this command on a list or range that contains merged cells.</source>
@@ -2371,7 +2429,7 @@ Bunun birçok nedeni olabilir:
     </message>
     <message>
         <source>PivotTable %s  had some incorrect data,it had been deleted</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo %s bazı yanlış veriler içeriyor ve silinecek.</translation>
     </message>
     <message>
         <source>The file is locked by %s. You can change the file lock, or continue with ignoring it. If you continue without changing the file lock, you cannot save this file, but you can use Save As to save to a different file. Do you want to change the file lock?</source>
@@ -2526,7 +2584,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Failed: Worksheet doesn&apos;t exist</source>
-        <translation type="unfinished"/>
+        <translation>Başarısız: Çalışma sayfası mevcut değil</translation>
     </message>
     <message>
         <source>Varp</source>
@@ -2563,7 +2621,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source> There are some empty string before and after this content, which may cause calculation errors!</source>
-        <translation type="unfinished"/>
+        <translation> Bu içeriğin öncesinde ve sonrasında bazı boş dizeler var ve bu da hesaplama hatalarına neden olabilir!</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
@@ -2583,7 +2641,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>The range you have specified is invalid.the top of table must remain in the same row, and the resulting table must overlap the original table.Specify a valid range.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen aralık geçersiz. Tablonun üstü aynı satırda kalmalı ve sonuçta elde edilen tablo özgün tabloyla örtüşmelidir. Geçerli bir aralık belirtin.</translation>
     </message>
     <message>
         <source>Cannot create backup file. Save &quot;%s&quot; without backup?</source>
@@ -2621,7 +2679,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>The data will be saved with other pivot tables that share the same source data with this PivotTable.</source>
-        <translation type="unfinished"/>
+        <translation>Veriler, bu raporun kullandığı veri kaynağını kullanan diğer Özet Tablo raporları ile birlikte kaydedilecek.</translation>
     </message>
     <message>
         <source>No cells were found.</source>
@@ -2665,7 +2723,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Invalid reference.To input a correct reference,you can click the target cell or drag mouse to select a range.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz başvuru. Doğru bir başvuru girmek için, hedef hücreye tıklayabilir veya fareyi sürükleyerek bir aralık seçebilirsiniz.</translation>
     </message>
     <message>
         <source>Cannot copy or move array formulas in a shared workbook.</source>
@@ -2706,7 +2764,9 @@ Lütfen aşağıdakilerden birini deneyin.
         <source>Query can not run or database and table can not open.
 
  Please check the server or or contact your database administrator,Verify that the external data is valid and not moved or reorganized, and then retry the operation.</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu çalışmadı veya veritabanı tablosu açılamadı.
+
+Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dış veritabanının kullanılabilir olduğundan ve taşınmadığından ya da yeniden düzenlenmediğinden emin olun, sonra işlemi yeniden deneyin.</translation>
     </message>
     <message>
         <source>Ipopt Nonlinear</source>
@@ -2715,7 +2775,7 @@ Lütfen aşağıdakilerden birini deneyin.
     <message>
         <source>%s Sheet Is Empty</source>
         <comment>TX_DuplicateItemsMgr_Sheet_Is_Empty</comment>
-        <translation type="unfinished"/>
+        <translation>%s Sayfası Boş</translation>
     </message>
     <message>
         <source>Inconsistent Formula</source>
@@ -2838,7 +2898,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Cannot make changes to a table or XML mapping when multiple sheet are selected.</source>
-        <translation type="unfinished"/>
+        <translation>Birden çok sayfa seçiliyken tabloda veya XML eşlemesinde değişiklik yapılamaz.</translation>
     </message>
     <message>
         <source> The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
@@ -2850,18 +2910,21 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>When a protected worksheet contains other PivotTables that are based on the same source data, this command can not be executed. To revoke protection for worksheets that contain other PivotTables, click the tab for the worksheet, and then click Undo Sheet Protection in the Change group on the Review tab. And then retry the command.</source>
-        <translation type="unfinished"/>
+        <translation>Korumalı sayfada aynı kaynak verisine dayanan başka bir Özet Tablo raporu olduğu sürece bu komut gerçekleştirilemez. Diğer raporu bulunduran sayfanın korumasını kaldırmak için sayfa sekmesine tıklayın, Sayfa Korumasını Kaldır&apos;a (Gözden Geçir sekmesi, Değişiklikler grubu) tıklayın. Sonra komutu yeniden deneyin.</translation>
     </message>
     <message>
         <source>The macro &apos;%s&apos; cannot be found.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%s&apos; makrosu çalıştırılamıyor. Makro bu çalışma kitabında olmayabilir veya tüm makrolar devre dışı bırakılmış olabilir.</translation>
     </message>
     <message>
         <source>Some PivotTable cells contain circular references.
 
 1.Check your calculated field and item formulas to make sure that none of the formulas refer to their own cells.
 2.Or,change the order of calculation by using the solve Order command.</source>
-        <translation type="unfinished"/>
+        <translation>Bazı Özet Tablo hücrelerinde döngüsel başvuru bulunamaz.
+
+1. Formüllerden hiçbirinin kendi hücrelerine başvurmadığından emin olmak için hesaplanmış alanları ve öğe formüllerini denetleyin.
+2. Veya Çözüm Sırası komutunu kullanarak hesaplama sırasını değiştirin.</translation>
     </message>
     <message>
         <source>Max Integer Solutions</source>
@@ -2899,7 +2962,7 @@ Geri almadan devam edilsin mi?</translation>
     </message>
     <message>
         <source>There are some empty string before and after this content</source>
-        <translation type="unfinished"/>
+        <translation>Bu içeriğin öncesinde ve sonrasında bazı boş dizeler var.</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -3025,7 +3088,7 @@ Değer</translation>
     </message>
     <message>
         <source>ET Could not get the source data for the PivotTable report from the disk.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tablolar, Özet Tablo raporu kaynak verilerini diskten alamadı.</translation>
     </message>
     <message>
         <source>&amp;Add content to the list</source>
@@ -3033,7 +3096,7 @@ Değer</translation>
     </message>
     <message>
         <source>Some documents are already open. You cannot open the security document! Please close the opened documents and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Bazı belgeler zaten açıkken bir güvenlik belgesini açamazsınız. Lütfen açılan belgeleri kapatın ve yeniden deneyin.</translation>
     </message>
     <message>
         <source>Sensitivity Report</source>
@@ -3156,7 +3219,8 @@ Değer</translation>
     <message>
         <source>An item name is ambiguous.Another field in the PivotTable report may have an item with the same name.
 Use the syntax field[item].For example, if the item is Oranges and the field is Product,you would use Product[Oranges].</source>
-        <translation type="unfinished"/>
+        <translation>Bir öğe belirsiz. Özet Tablo raporundaki başka bir alanda aynı adda bir öğe olabilir.
+Alan[öğe] söz dizimini kullanın. Örneğin, öğe Portakallar, alan da Ürün ise Ürün[Portakallar] yazım şeklini kullanabilirsiniz.</translation>
     </message>
     <message>
         <source>You cannot place a field that has more than 8000 items in the column area.
@@ -3183,7 +3247,7 @@ Lütfen doğru dosyaları belirtin.</translation>
     </message>
     <message>
         <source>Only changes which have been saved can be listed on history sheet.</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca kaydedilen değişiklikler geçmiş sayfasında listelenebilir.</translation>
     </message>
     <message>
         <source>Tahoma</source>
@@ -3210,7 +3274,7 @@ Türü</translation>
     <message>
         <source>Has No Unique Data</source>
         <comment>TX_DuplicateItemsMgr_Has_No_Unique_Data</comment>
-        <translation type="unfinished"/>
+        <translation>Benzersiz veri yok.</translation>
     </message>
     <message>
         <source>Total </source>
@@ -3258,7 +3322,7 @@ Bağlantıları onarmak için bir sayfa seçin ve sonra Bağlantıları Düzenle
     </message>
     <message>
         <source>The data source of a PivotTable connected to filter controls that ara also connected to other PivotTables cannot be Changed.To change the data source, first disconnect the filter controls from this PivotTable or from the other PivotTables.</source>
-        <translation type="unfinished"/>
+        <translation>Aynı zamanda başka Özet Tablo&apos;lara bağlanmış filtre denetimlerine bağlı olan Özet Tablo&apos;nun veri kaynağı değiştirilemez. Veri kaynağını değiştirmek için önce filtre denetimlerinin bu Özet Tablo ile veya diğer Özet Tablo&apos;lar ile olan bağlantısını kesin.</translation>
     </message>
     <message>
         <source>Constant array error.</source>
@@ -3286,7 +3350,7 @@ Bağlantıları onarmak için bir sayfa seçin ve sonra Bağlantıları Düzenle
     </message>
     <message>
         <source>Count Nums=</source>
-        <translation type="unfinished"/>
+        <translation>Sayı Adedi=</translation>
     </message>
     <message>
         <source>Highlighting Data</source>
@@ -3352,7 +3416,7 @@ Bağlantıları onarmak için bir sayfa seçin ve sonra Bağlantıları Düzenle
     </message>
     <message>
         <source>Chlick in this area to work with the PivotTable report</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo raporuyla çalışmak için bu alanın içine tıklayın.</translation>
     </message>
     <message>
         <source>You cannot place a field that has more than 16384 items in the column area.
@@ -3397,7 +3461,7 @@ If you want to use this field in the report,click OK,and then move the field to 
     </message>
     <message>
         <source>column</source>
-        <translation type="unfinished"/>
+        <translation>sütun</translation>
     </message>
     <message>
         <source>Total %s</source>
@@ -3539,7 +3603,7 @@ Simplify the PivotTable report or check the macro for errors, and then try the o
     <message>
         <source>%s File Not Exist</source>
         <comment>TX_DuplicateItemsMgr_File_Not_Exist</comment>
-        <translation type="unfinished"/>
+        <translation>%s dosyası mevcut değil.</translation>
     </message>
     <message>
         <source>Formulas in the header row will be removed and converted to static text. Do you want to continue?</source>
@@ -3578,11 +3642,13 @@ Simplify the PivotTable report or check the macro for errors, and then try the o
         <source>This PivotTable report field is grouped. You cannot add a calculated item to a grouped field.
 
 To ungroup the field, make sure it is in the row or column area, select one of the items of the grouped field, click the Ungroup button in the Group group on the Option tab, and then insert the calculated item. After inserted, you can group the items of field again.</source>
-        <translation type="unfinished"/>
+        <translation>Bu Özet Tablo rapor alanı gruplandırılmış. Gruplandırılmış alana hesaplanmış öğe ekleyemezsiniz.
+
+Grubu çözmek için satır veya sütun alanında olduğundan emin olun, gruplandırılmış alanın öğelerinden birini seçin, Çözümle sekmesindeki Gruplandır grubunda Grubu Çöz düğmesine tıklayın ve ardından hesaplanmış öğeyi ekleyin. Ekledikten sonra, alandaki öğeleri yeniden gruplandırabilirsiniz.</translation>
     </message>
     <message>
         <source>It&apos;s not a valid Integer.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli bir tamsayı değil.</translation>
     </message>
     <message>
         <source>StdDev</source>
@@ -3757,7 +3823,7 @@ Değer</translation>
     </message>
     <message>
         <source>This PivotTable&apos;s Connection has benn deleted</source>
-        <translation type="unfinished"/>
+        <translation>Bu Özet Tablonun bağlantısı silindi.</translation>
     </message>
     <message>
         <source>Show Details has been turned off for this PivotTable report.</source>
@@ -3846,7 +3912,7 @@ Değer</translation>
     </message>
     <message>
         <source>We can&apos;t make this change for the selected cells because it will affect a PivotTable. Use the field list to chage the report. If you are trying to inset or delete cells, move the PivotTable and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo etkileyeceği için seçili hücrelerde bu değişikliği yapamıyoruz. Raporu değiştirmek için alan listesini kullanın. Hücre eklemeye veya silmeye çalışıyorsanız, Özet Tablo&apos;yu taşıyın ve yeniden deneyin.</translation>
     </message>
     <message>
         <source>A value used in the formula is of the wrong data type.</source>
@@ -3866,7 +3932,7 @@ Değer</translation>
     </message>
     <message>
         <source>he value is set by the formula with the last solve order.</source>
-        <translation type="unfinished"/>
+        <translation>Değer son çözüm sırasına sahip olan formül tarafından ayarlanır.</translation>
     </message>
     <message>
         <source>Please try again later, or save file to another disk. </source>
@@ -3989,7 +4055,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>Cannot edit PivotTable in group edit mode.</source>
-        <translation type="unfinished"/>
+        <translation>Grup düzenleme modunda Özet Tablo düzenlenemez.</translation>
     </message>
     <message>
         <source> This cell contains a formula and is not locked to protect it from being changed inadvertently.</source>
@@ -4039,12 +4105,12 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>Cannot use multiple ranges to create a data range.</source>
-        <translation type="unfinished"/>
+        <translation>Veri aralığı oluşturmak için birden çok aralık kullanılamaz.</translation>
     </message>
     <message>
         <source>%s Sheet Not Exist</source>
         <comment>TX_DuplicateItemsMgr_Sheet_Not_Exist</comment>
-        <translation type="unfinished"/>
+        <translation>%s çalışma sayfası mevcut değil.</translation>
     </message>
     <message>
         <source>(Shared)</source>
@@ -4100,7 +4166,7 @@ Reasons for this can include:
     <message>
         <source>Count Nums</source>
         <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNTNUMS</comment>
-        <translation type="unfinished"/>
+        <translation>Sayı Adedi</translation>
     </message>
     <message>
         <source>Cannot extend list or database.</source>
@@ -4120,7 +4186,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>Fields with calculated items can not be placed in the filter area.</source>
-        <translation type="unfinished"/>
+        <translation>Hesaplanan öğelerin bulunduğu alanlar filtre alanına yerleştirilemez.</translation>
     </message>
     <message>
         <source>New styles cannot be added in shared workbooks.</source>
@@ -4152,7 +4218,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>This Operation cannot be used on a security document.</source>
-        <translation type="unfinished"/>
+        <translation>Bu İşlem bir güvenlik belgesinde kullanılamaz.</translation>
     </message>
     <message>
         <source>Max of %s</source>
@@ -4214,7 +4280,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>Switch Direction fail, series Count not fit chartType.</source>
-        <translation type="unfinished"/>
+        <translation>Satır/sütun geçişi başarısız oldu. Seri sayısı grafik türüne uymuyor.</translation>
     </message>
     <message>
         <source>Succeed</source>
@@ -4271,7 +4337,7 @@ Reasons for this can include:
     </message>
     <message>
         <source>There are some empty string</source>
-        <translation type="unfinished"/>
+        <translation>Bazı boş dizeler var</translation>
     </message>
     <message>
         <source>Action
@@ -4299,7 +4365,7 @@ Aynı adlı ikinci belgeyi açmak için, o anda açık olan belgeyi kapatabilir 
     </message>
     <message>
         <source>Cell %s commented by %s User</source>
-        <translation type="unfinished"/>
+        <translation>%s hücresi %s kullanıcısı tarafından yorumlandı</translation>
     </message>
     <message>
         <source>Iterations</source>
@@ -4324,7 +4390,10 @@ Aynı adlı ikinci belgeyi açmak için, o anda açık olan belgeyi kapatabilir 
 Use the PivotTable Field List to add,move,or remove fields.
 Hide or froup items in a row or column field.
 Modify the source data</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo raporunun bir bölümünü taşıyamaz veya Özet Tablo raporunun içine çalışma sayfası hücreleri, satırları veya sütunları ekleyemezsiniz. Çalışma sayfası hücreleri, satırları veya sütunları eklemek için önce Özet Tablo raporunu taşıyın (Özet Tablo raporu seçiliyken, Seçenekler sekmesinin Eylemler grubunda Özet Tabloyu Taşı&apos;yı tıklayın). Rapora hücre eklemek, taşımak veya çıkarmak için aşağıdakilerden birini yapın:
+• Alanları eklemek, taşımak veya kaldırmak için Özet Tablo Alan Listesi&apos;ni kullanın.
+• Bir satır veya sütun alanındaki öğeleri gizleyin veya gruplandırın.
+• Kaynak verileri değiştirin.</translation>
     </message>
     <message>
         <source>The sort reference is not valid. Make sure that it&apos;s within the data you want to sort, and the first Sort By box is not the same and not blank.</source>
@@ -4365,7 +4434,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     </message>
     <message>
         <source>The destination range contains data, Would you like to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>Hedef aralık veri içeriyor, Değiştirmek ister misiniz?</translation>
     </message>
     <message>
         <source>The Document was saved successfully, but WPS cannot re-open it because of a sharing violation.
@@ -4401,7 +4470,7 @@ Lütfen dosya yolunu kısaltmayı deneyin veya dosyayı masaüstüne taşıyıp 
     </message>
     <message>
         <source>DataSource in WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer&apos;da Veri Kaynağı</translation>
     </message>
     <message>
         <source>Document is not saved.</source>
@@ -4409,7 +4478,7 @@ Lütfen dosya yolunu kısaltmayı deneyin veya dosyayı masaüstüne taşıyıp 
     </message>
     <message>
         <source>Must enter a number between 0 and 100. Please enter a number for this range and try again.</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 100 arasında bir sayı girmelisiniz. Lütfen bu aralık için bir sayı girin ve yeniden deneyin.</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -4469,7 +4538,11 @@ Lütfen aşağıdakilerden birini deneyin.
 2.Calculated Items
 3.Calculated Fields
 4.Custom Items</source>
-        <translation type="unfinished"/>
+        <translation>Bu Özet Tablo raporu en az bir diğer Özet Tablo raporuyla aynı verileri temel alıyor. Özet Tablo raporunu temizlemek, tüm Özet Tablo raporlarından aşağıda belirtenlerin kaldırılmasına neden olur:
+1.Gruplandırma
+2.Hesaplanan Öğeler
+3.Hesaplanan Alanlar
+4.Özel Öğeler</translation>
     </message>
     <message>
         <source>Seconds</source>
@@ -4580,7 +4653,7 @@ Lütfen önce Microsoft Excel ile açın ve &quot;Kaydet&quot; i çalıştırın
     </message>
     <message>
         <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol etmeden önce  diğer kullanıcılar değişikliklerinizi göremez. Kontrol edilsin mi?</translation>
     </message>
     <message>
         <source>Unprotected Formula</source>
@@ -4742,7 +4815,8 @@ Eylem</translation>
     <message>
         <source>You cannot create or make changes to  PivotTable reports in a shared workbook. If you copy a report and paste it in a shared workbook, only the cell contents are pasted.
 To make a copy that you can edit and rearrage, in the same instance of Et, paste the report into a workbook that is not shared.</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşılan çalışma kitabında Özet Tablo raporları oluşturulamaz veya Özet Tablo raporlarında değişiklik yapılamaz. Bir raporu kopyalar ve paylaşılan bir çalışma kitabına yapıştırırsanız, yalnızca hücre içeriği yapıştırılır.
+WPS Elektronik Tablolar&apos;ın aynı örneğinde düzenleyip yeniden yerleştirebileceğiniz bir kopya yapmak için, raporu paylaşılmayan bir çalışma kitabına yapıştırın.</translation>
     </message>
     <message>
         <source>Var</source>
@@ -4785,7 +4859,7 @@ To make a copy that you can edit and rearrage, in the same instance of Et, paste
     </message>
     <message>
         <source>The data will not be saved with other pivot tables that share the same source data with this PivotTable.</source>
-        <translation type="unfinished"/>
+        <translation>Veriler, bu raporun kullandığı veri kaynağını kullanan diğer Özet Tablo raporları ile birlikte kaydedilecek.</translation>
     </message>
     <message>
         <source>Connecting to %s</source>
@@ -4907,7 +4981,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Averages,standard deviations,and variances are not supported when a PivotTable report has calculated items.</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo raporu hesaplanmış öğelere sahip olduğunda, ortalamalar, standart sapmalar ve varyanslar desteklenmez.</translation>
     </message>
     <message>
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
@@ -5143,7 +5217,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     <message>
         <source>Result Dir</source>
         <comment>TX_MERGESHEET_RESULT_DIR</comment>
-        <translation type="unfinished"/>
+        <translation>Sonuç Kaydetme Klasörü</translation>
     </message>
     <message>
         <source>Average of %s</source>
@@ -5204,6 +5278,11 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
 </source>
         <translation>Bu dosyanın bazı formülleri veya adları, WPS Elektronik Tablolar&apos;ın desteklemediği kullanıcı tanımlı işlevleri içerir ve bu formüllerin veya adların yeniden hesaplanması yanlış sonuçlara neden olabilir.
 </translation>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5453,7 +5532,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Stili</translation>
     </message>
     <message>
         <source>Worksheet Rename</source>
@@ -5732,7 +5811,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <name>et_et_render</name>
     <message>
         <source>/</source>
-        <translation type="unfinished"/>
+        <translation> / </translation>
     </message>
     <message>
         <source>Cell:</source>
@@ -5770,7 +5849,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Click To Add Data</source>
-        <translation type="unfinished"/>
+        <translation>Veri girmek için burayı tıklayın</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -5873,11 +5952,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>filename</source>
-        <translation type="unfinished"/>
+        <translation>dosya adı</translation>
     </message>
     <message>
         <source>size:</source>
-        <translation type="unfinished"/>
+        <translation>boyut:</translation>
     </message>
     <message>
         <source>Original file has finished backing up</source>
@@ -5901,7 +5980,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Change the path</source>
-        <translation type="unfinished"/>
+        <translation>Yolu değiştir</translation>
     </message>
     <message>
         <source>No need slimming</source>
@@ -5933,7 +6012,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>No backup files!</source>
-        <translation type="unfinished"/>
+        <translation>Yedek dosya yok!</translation>
     </message>
 </context>
 <context>
@@ -6134,7 +6213,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>StripeSize</source>
-        <translation type="unfinished"/>
+        <translation>Şerit Boyutu</translation>
     </message>
     <message>
         <source>First Column Stripe</source>
@@ -6388,7 +6467,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>&amp;Calendar type:</source>
-        <translation type="unfinished"/>
+        <translation>Takvim t&amp;ürü:</translation>
     </message>
     <message>
         <source>Scientific</source>
@@ -6419,7 +6498,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <name>KxMergeFrameEmbedInMenuItem</name>
     <message>
         <source>:</source>
-        <translation type="unfinished"/>
+        <translation>:</translation>
     </message>
 </context>
 <context>
@@ -6532,7 +6611,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>&amp;Icon</source>
-        <translation type="unfinished"/>
+        <translation>Si&amp;mge</translation>
     </message>
     <message>
         <source>&amp;Type</source>
@@ -6576,7 +6655,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
 </context>
 <context>
@@ -7289,7 +7368,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>(no synonyms suggestions)</source>
-        <translation type="unfinished"/>
+        <translation>(eş anlamlı önerisi yok)</translation>
     </message>
     <message>
         <source>custom weekend</source>
@@ -7665,6 +7744,11 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>The Start Date contains an error now. Do you want to continue?</source>
         <translation>Başlangıç ​​Tarihi şimdi bir hata içeriyor. Devam etmek istiyor musun?</translation>
+    </message>
+    <message>
+        <source>Split window</source>
+        <translation>Pencereyi 
+Böl</translation>
     </message>
     <message>
         <source>Unsplit window</source>
@@ -10050,6 +10134,10 @@ Bunun çeşitli nedenleri olabilir:
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Row_num</source>
         <translation>Satır_num</translation>
     </message>
@@ -10097,7 +10185,8 @@ Bunun çeşitli nedenleri olabilir:
     <message>
         <source>Protect 
 Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı 
+Koru</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -10402,7 +10491,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>Clear Filter(Alt+C)</source>
-        <translation type="unfinished"/>
+        <translation>Filtreyi Temizle (Alt+C)</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
@@ -11256,7 +11345,8 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>Protect 
 Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Kitabını 
+Koru</translation>
     </message>
     <message>
         <source>is the number by which pi is multiplied.</source>
@@ -12121,7 +12211,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Create a single page field for me</source>
-        <translation type="unfinished"/>
+        <translation>Benim için tek bir sayfa alanı oluştur</translation>
     </message>
     <message>
         <source>&amp;Range:</source>
@@ -12133,7 +12223,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>How many page fields you want?</source>
-        <translation>Kaç tane sayfa alanı istiyorsunuz?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A&amp;ll ranges:</source>
@@ -12527,7 +12617,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Failed to open the dictionary file you selected, make sure it is a valid dictionary file.</source>
@@ -12740,11 +12830,11 @@ Denetimi</translation>
     </message>
     <message>
         <source>column %s</source>
-        <translation type="unfinished"/>
+        <translation>sütun %s</translation>
     </message>
     <message>
         <source>column %d</source>
-        <translation type="unfinished"/>
+        <translation>sütun %d</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
@@ -13019,7 +13109,7 @@ hücreler turuncu arka planda ayarlanacaktır.
     </message>
     <message>
         <source>The number of fields exceeds 10000 and only 10000 entries are displayed!</source>
-        <translation type="unfinished"/>
+        <translation>Bu alanda 10.000&apos;den fazla öğe var. Yalnızca ilk 10.000 öğe görüntülenir!</translation>
     </message>
     <message>
         <source>contains</source>
@@ -13047,7 +13137,7 @@ hücreler turuncu arka planda ayarlanacaktır.
     </message>
     <message>
         <source>Form(&amp;F)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Form</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
@@ -13102,7 +13192,7 @@ silinecek, yalnızca bir satır kalacak.
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Geri Bildirimi</translation>
     </message>
     <message>
         <source>Page &amp;P &amp;A</source>
@@ -13146,7 +13236,7 @@ silinecek, yalnızca bir satır kalacak.
     </message>
     <message>
         <source>row %d</source>
-        <translation type="unfinished"/>
+        <translation>satır %d - </translation>
     </message>
     <message>
         <source>Special formats are useful for tracking list and database values.</source>
@@ -13312,7 +13402,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kenarlık Yok</translation>
     </message>
     <message>
         <source>Change PivotTable Data Source</source>
@@ -13396,7 +13486,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Style Name Not Valid</source>
-        <translation type="unfinished"/>
+        <translation>Stil adı geçerli değil.</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
@@ -13516,7 +13606,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Clear(&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Temizle</translation>
     </message>
     <message>
         <source>Type the number format code, using one of the existing codes as a starting point.</source>
@@ -13524,7 +13614,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>No ranges selected</source>
-        <translation type="unfinished"/>
+        <translation>Aralık seçilmedi</translation>
     </message>
     <message>
         <source>Number is not valid.</source>
@@ -13628,11 +13718,11 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Delete(&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sil</translation>
     </message>
     <message>
         <source>not equal to</source>
@@ -13792,7 +13882,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>To apply value filtering, the Value area must contain at least one field.</source>
-        <translation type="unfinished"/>
+        <translation>Değer filtresi uygulamak için Değerler alanında en az bir alan olması gerekir.</translation>
     </message>
     <message>
         <source>The cells with overly complex strings will be ignored.</source>
@@ -13869,7 +13959,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Print Entire Workbook directly</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Çalışma Kitabını yazdır</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -14104,7 +14194,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi/Alt Bilgi</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
@@ -14607,7 +14697,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"/>
+        <translation>Eylem</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14802,7 +14892,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>&amp;Advanced Setting &gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gelişmiş Ayarlar &gt;&gt;</translation>
     </message>
     <message>
         <source>Show data in &amp;hidden rows and columns</source>
@@ -15111,6 +15201,10 @@ file,click OK.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Duplicate styles</source>
+        <translation>Yinelenen stiller</translation>
+    </message>
+    <message>
         <source>All Shapes</source>
         <translation>Tüm Şekiller</translation>
     </message>
@@ -15144,7 +15238,7 @@ file,click OK.</source>
     </message>
     <message>
         <source>Fail to open file!</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açılamadı!</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
@@ -15195,7 +15289,7 @@ file,click OK.</source>
     </message>
     <message>
         <source>Format only unique or duplicate value</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca benzersiz veya yinelenen değerleri biçimlendir</translation>
     </message>
 </context>
 <context>
@@ -15238,11 +15332,11 @@ You may still need to manually update any references to this name used in VBA co
     <name>KxEditCrossBookLinksDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cannot be used</source>
-        <translation>Uygulanamaz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Warning: Source not recalculated</source>
@@ -16209,7 +16303,8 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Recent Font Color</source>
@@ -16711,7 +16806,8 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Split Sheets</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları İçeriğe 
+Göre Böl</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -16755,7 +16851,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Duplicate Value</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen Değerler</translation>
     </message>
     <message>
         <source>Rows and 
@@ -16841,7 +16937,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation>Yalnızca Metni Koru</translation>
+        <translation>Biçimlendirilmemiş Metin Olarak Yapıştır</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -16874,11 +16970,11 @@ Filtre</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Yazı Tipi Renkleri</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -16907,10 +17003,6 @@ Filtre</translation>
     <message>
         <source>No Border</source>
         <translation>Kenarlık Yok</translation>
-    </message>
-    <message>
-        <source>Double accounting</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format</source>
@@ -16974,7 +17066,8 @@ Filtre</translation>
     </message>
     <message>
         <source>Split Books</source>
-        <translation type="unfinished"/>
+        <translation>Kitapları Sayfaya 
+Göre Böl</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -17010,7 +17103,7 @@ Filtre</translation>
     </message>
     <message>
         <source>All Using Source Theme</source>
-        <translation type="unfinished"/>
+        <translation>Ayrılmış kaynak biçimi</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -17042,7 +17135,7 @@ Filtre</translation>
     </message>
     <message>
         <source>New Pivot Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Özet Tablo Stili</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -17127,7 +17220,7 @@ Sayfası</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir ve Ortala</translation>
     </message>
     <message>
         <source>Clear Rules from This Table</source>
@@ -17143,7 +17236,7 @@ Sayfası</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Bölmesi</translation>
     </message>
     <message>
         <source>Data Bars</source>
@@ -17185,7 +17278,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>More Border Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Kenarlık Renkleri</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
@@ -17314,7 +17407,8 @@ Center</source>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation type="unfinished"/>
+        <translation>Bul ve 
+Değiştir</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -17330,7 +17424,7 @@ Center</source>
     </message>
     <message>
         <source>Paste values to visible cells</source>
-        <translation type="unfinished"/>
+        <translation>Değerleri görünür hücrelere yapıştırın</translation>
     </message>
     <message>
         <source>Above Average</source>
@@ -17338,7 +17432,8 @@ Center</source>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Koşullu 
+Biçimlendirme</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -17410,7 +17505,7 @@ Center</source>
     </message>
     <message>
         <source>Axes</source>
-        <translation type="unfinished"/>
+        <translation>Eksen</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -17478,7 +17573,7 @@ Center</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -17502,7 +17597,7 @@ Center</source>
     </message>
     <message>
         <source>Align RLeft</source>
-        <translation type="unfinished"/>
+        <translation>Sola Hizala</translation>
     </message>
     <message>
         <source>% of Parent Column Total</source>
@@ -17518,7 +17613,7 @@ Center</source>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 nk</translation>
+        <translation>3 nk.</translation>
     </message>
     <message>
         <source>% Running Total In</source>
@@ -17526,7 +17621,7 @@ Center</source>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 nk</translation>
+        <translation>6 nk.</translation>
     </message>
     <message>
         <source>Above</source>
@@ -17658,7 +17753,7 @@ Center</source>
     </message>
     <message>
         <source>Exit Edit</source>
-        <translation>Metin Düzenlemeden Çık</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Text</source>
@@ -17710,7 +17805,7 @@ Center</source>
     </message>
     <message>
         <source>DelColumn</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sütun</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -17747,7 +17842,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Number Format</source>
@@ -17759,7 +17854,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>TransposePopup</source>
-        <translation>Sırayı Değiştir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -17771,11 +17866,11 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Chart Styles</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Stilleri</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Güncellemeyi Denetle</translation>
     </message>
     <message>
         <source>Format Chart Area</source>
@@ -17783,11 +17878,11 @@ merged into one workbook</source>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2.25 nk</translation>
+        <translation>2.25 nk.</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation>0.25 nk</translation>
+        <translation>0.25 nk.</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
@@ -17807,7 +17902,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Kapat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -17815,7 +17910,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0.75 nk</translation>
+        <translation>0.75 nk.</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -17831,7 +17926,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedeklemeyi Etkinleştir</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
@@ -17847,11 +17942,11 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeğe Göre Kırp</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekle Göre Kırp</translation>
     </message>
     <message>
         <source>Standard Deviation</source>
@@ -17863,7 +17958,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>Edit in Formula Bar</source>
@@ -17887,7 +17982,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Format Comma Style</source>
-        <translation type="unfinished"/>
+        <translation>Virgül Stilini Biçimlendir</translation>
     </message>
     <message>
         <source>Move to Axis Fields (Categories)</source>
@@ -17939,7 +18034,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>More Functions</source>
@@ -17987,7 +18082,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>IntranetVersion Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlar</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
@@ -18007,11 +18102,11 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Change DataLabel Geometry</source>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketi Şeklini Değiştir</translation>
     </message>
     <message>
         <source>Align VCenter</source>
-        <translation>Ortaya Hizala</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align VBottom</source>
@@ -18031,7 +18126,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>AutoFilterByFontColor</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Rengine Göre Filtrele</translation>
     </message>
     <message>
         <source>Photo to PDF</source>
@@ -18055,11 +18150,11 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirilmemiş Metin Olarak Yapıştır</translation>
     </message>
     <message>
         <source>Format UnitLabel</source>
-        <translation>Görüntü Birimini Biçimlendir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>% of Parent Total</source>
@@ -18067,16 +18162,17 @@ merged into one workbook</source>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0.5 nk</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CellRight</source>
-        <translation type="unfinished"/>
+        <translation>Hücreler Sağa</translation>
     </message>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished"/>
+        <translation>COM 
+Eklentileri</translation>
     </message>
     <message>
         <source>Secondary Horizontal</source>
@@ -18148,7 +18244,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Deseni</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -18164,11 +18260,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Renkler</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -18180,7 +18276,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>1.5 nk.</translation>
     </message>
     <message>
         <source>Insert Copied Cells (Entire Row/Entire Column)</source>
@@ -18188,7 +18284,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlar</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -18217,7 +18313,7 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>ImportDataFromWeb</source>
-        <translation type="unfinished"/>
+        <translation>Web&apos;den</translation>
     </message>
     <message>
         <source>More Historical Records</source>
@@ -18266,7 +18362,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>DelRow</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Satır</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -18399,7 +18495,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>AutoFilterByValue</source>
-        <translation type="unfinished"/>
+        <translation>Değere Göre Filtrele</translation>
     </message>
     <message>
         <source>Chart Filters</source>
@@ -18431,7 +18527,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedeklemeyi Devre Dışı Bırak</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -18615,7 +18711,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Format Percent Style</source>
-        <translation type="unfinished"/>
+        <translation>Yüzde Stilini Biçimlendir</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
@@ -18688,7 +18784,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>AutoFilterByCellColor</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Rengine Göre Filtrele</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -18713,7 +18809,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
@@ -18742,6 +18838,10 @@ Görüntüsü</translation>
     <message>
         <source>Close All</source>
         <translation>Tümünü Kapat</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left</source>
@@ -18827,7 +18927,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4.5 nk</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -18839,7 +18939,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>All Using Source Theme</source>
-        <translation type="unfinished"/>
+        <translation>Ayrılmış kaynak biçimi</translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -18880,7 +18980,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Paylaş</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Argument After</source>
@@ -18908,7 +19008,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>ColumnNumber</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Ekle</translation>
     </message>
     <message>
         <source>Move to End</source>
@@ -19033,7 +19133,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi ve Alt Bilgi</translation>
     </message>
     <message>
         <source>Clear Contents</source>
@@ -19046,7 +19146,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -19054,7 +19154,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"/>
+        <translation>Ürün Yönetim Merkezi</translation>
     </message>
     <message>
         <source>Primary Major Vertical</source>
@@ -19122,11 +19222,15 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation>Ayarlar</translation>
+        <translation>Özet Tablo Seçenekleri</translation>
     </message>
     <message>
         <source>Cascade</source>
         <translation>Basamakla</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subtotals</source>
@@ -19154,7 +19258,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Format DataLabel</source>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketini Biçimlendir</translation>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -19202,7 +19306,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Format Increase Decimal</source>
-        <translation type="unfinished"/>
+        <translation>Ondalık Artır</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -19231,6 +19335,10 @@ merged into one worksheet</source>
     <message>
         <source>Format Legend</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smart Split Columns</source>
+        <translation>Akıllı Bölme Sütunları</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -19311,7 +19419,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Format Category Label</source>
-        <translation type="unfinished"/>
+        <translation>Kategori Etiketlerini Biçimlendir</translation>
     </message>
     <message>
         <source>Keep Source Column Widths</source>
@@ -19332,11 +19440,11 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Add MinorGridline</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Kılavuz Çizgileri Ekle</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="unfinished"/>
+        <translation>Yedeği Görüntüle</translation>
     </message>
     <message>
         <source>Entire Sheet Row</source>
@@ -19361,7 +19469,8 @@ with same name in workbooks</source>
     <message>
         <source>Split a workbook 
 into multiple workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Kitapları Sayfaya 
+Göre Böl</translation>
     </message>
     <message>
         <source>Play Sound</source>
@@ -19386,7 +19495,7 @@ into multiple workbooks</source>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Öğesi Ekle</translation>
     </message>
     <message>
         <source>Format Data Table</source>
@@ -19451,7 +19560,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Secondary Minor Vertial</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Küçük Dikey</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -19487,7 +19596,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>CellDown</source>
-        <translation type="unfinished"/>
+        <translation>Hücreler Aşağıya</translation>
     </message>
     <message>
         <source>Center</source>
@@ -19529,11 +19638,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>RowNumber</source>
-        <translation type="unfinished"/>
+        <translation>Satır Ekle</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>Scientific</source>
@@ -19553,7 +19662,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekilleri Değiştir</translation>
     </message>
     <message>
         <source>Chart Objects</source>
@@ -19561,11 +19670,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>DelCellLeft</source>
-        <translation type="unfinished"/>
+        <translation>Hücreler Sola</translation>
     </message>
     <message>
         <source>More Option...</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Seçenek...</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -19581,7 +19690,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Delete Row</source>
@@ -19621,7 +19730,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -19637,7 +19746,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Format MajorGridline</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Kılavuz Çizgilerini Biçimlendir</translation>
     </message>
     <message>
         <source>Keep Only Selected Items</source>
@@ -19750,7 +19859,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzinleri Kontrol Et</translation>
     </message>
     <message>
         <source>Data Callout</source>
@@ -19762,11 +19871,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>FormattingPopup</source>
-        <translation>Biçimlendirme</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align VTop</source>
-        <translation>Üste Hizala</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Left</source>
@@ -19842,7 +19951,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Format TrendLine Label</source>
-        <translation type="unfinished"/>
+        <translation>Eğilim Çizgisi Etiketini Biçimlendir</translation>
     </message>
     <message>
         <source>Label Filters</source>
@@ -19859,7 +19968,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>My Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Aboneliklerim</translation>
     </message>
     <message>
         <source>Format Accounting</source>
@@ -19871,7 +19980,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Align RCenter</source>
-        <translation>Ortaya Hizala</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Circular References</source>
@@ -19891,7 +20000,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Primary Minor Vertial</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Küçük Dikey</translation>
     </message>
     <message>
         <source>Primary Vertical</source>
@@ -19915,7 +20024,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Values &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Değerler ve Sayı Biçimlendirmesi</translation>
     </message>
     <message>
         <source>Show Details</source>
@@ -19992,7 +20101,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Keep Source Column Widths Popup</source>
-        <translation>Kaynak Sütun Genişliklerini Koru</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Series</source>
@@ -20029,7 +20138,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Count Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Sayıları Say</translation>
     </message>
     <message>
         <source>Outside End</source>
@@ -20039,6 +20148,26 @@ OLE DB Query</source>
         <source>Smooth Point</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Macro</source>
+        <translation>Makro</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation type="unfinished"/>
+    </message>
+	<message>
+        <source>AutoFilterList</source>
+        <translation>Otomatik Filrte Listesi</translation>
+    </message>	
 </context>
 <context>
     <name>rainbow.ct_home</name>
@@ -20176,7 +20305,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"/>
+        <translation>Biçim Boyacısı</translation>
     </message>
     <message>
         <source>Error Value </source>
@@ -20236,7 +20365,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirilmemiş Metin Olarak Yapıştır</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -20259,12 +20388,18 @@ OLE DB Query</source>
         <translation>Hücreleri Sil</translation>
     </message>
     <message>
+        <source>Merge and
+Center</source>
+        <translation>Birleştir ve 
+Ortala</translation>
+    </message>
+    <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Yazı Tipi Renkleri</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -20364,7 +20499,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"/>
+        <translation>Son %10</translation>
     </message>
     <message>
         <source>Custom Sort</source>
@@ -20448,7 +20583,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>New Pivot Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Özet Tablo Stili</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -20528,7 +20663,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir ve 
+Ortala</translation>
     </message>
     <message>
         <source>Unhide Rows</source>
@@ -20564,7 +20700,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>More Border Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Kenarlık Renkleri</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
@@ -20592,7 +20728,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Olarak 
+Biçimlendir</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -20959,7 +21096,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>&amp;Button Height:</source>
-        <translation type="unfinished"/>
+        <translation>Düğme yük&amp;sekliği:</translation>
     </message>
     <message>
         <source>Number of C&amp;olumns:</source>
@@ -21014,7 +21151,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>&amp;Wrap text in shape</source>
@@ -21082,7 +21219,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>&amp;Overflow</source>
@@ -21184,15 +21321,15 @@ OLE DB Query</source>
     <name>KxOrientationDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>locate:</source>
-        <translation type="unfinished"/>
+        <translation>Bul:</translation>
     </message>
     <message>
         <source>referenceLocation:</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru Konumu:</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -21222,7 +21359,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <source>&amp;Ending at:</source>
@@ -21299,7 +21436,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"/>
+        <translation>OFD dosyası dışa aktarılmak için hazırlanıyor...</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
@@ -21315,11 +21452,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to OFD.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tablolar OFD&apos;ye dışa aktarmaya çalışırken bir hatayla karşılaştı.</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation type="unfinished"/>
+        <translation>OFD dosyası açılırken bir hata oluştu!</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -21327,7 +21464,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"/>
+        <translation>OFD dosyasının dışa aktarımı tamamlandı.</translation>
     </message>
     <message>
         <source>Exporting page </source>
@@ -21389,7 +21526,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>row</source>
-        <translation type="unfinished"/>
+        <translation>Satır</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -21479,7 +21616,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Solver requires more memory to solve this problem than is available on the machine.</source>
@@ -21487,7 +21624,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>AllSelect</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Seç</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -21606,6 +21743,10 @@ OLE DB Query</source>
         <translation>Kilitli</translation>
     </message>
     <message>
+        <source>Location reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Sayı</translation>
     </message>
@@ -21655,7 +21796,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>column</source>
-        <translation type="unfinished"/>
+        <translation>sütun</translation>
     </message>
     <message>
         <source>Total %1</source>
@@ -21774,6 +21915,10 @@ OLE DB Query</source>
         <translation>Altı Çizili</translation>
     </message>
     <message>
+        <source>Location reference is not valid.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
         <translation type="unfinished"/>
     </message>
@@ -21786,6 +21931,10 @@ OLE DB Query</source>
         <translation>Microsoft Excel Güvenlik Çalışma Kitabı(*.xls)|*.xls</translation>
     </message>
     <message>
+        <source>The reference for the location or data range is not valid.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rotated up %1 Degrees</source>
         <translation>%1 Derece yukarı döndürüldü</translation>
     </message>
@@ -21795,7 +21944,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Drag items of the %1 field to display them in any order</source>
@@ -21956,7 +22105,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>&amp;Advanced Setting &gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gelişmiş Ayarlar &gt;&gt;</translation>
     </message>
     <message>
         <source>#ERROR!</source>
@@ -22240,6 +22389,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>TOPKARE(sayı1,sayı2, ...)</translation>
     </message>
     <message>
+        <source>DISC(settlement, maturity, pr, redemption, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>TANH(number)</source>
         <translation>TANH(sayı)</translation>
     </message>
@@ -22266,6 +22419,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>NOW()</source>
         <translation>ŞİMDİ()</translation>
+    </message>
+    <message>
+        <source>Returns the next coupon date after settlement date.</source>
+        <translation>Mutabakat tarihinden sonraki kupon tarihini döndürür.</translation>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
@@ -22465,6 +22622,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>Bir metin dizesiyle belirtilmiş başvuruyu verir.</translation>
     </message>
     <message>
+        <source>Returns a URL-encoded string.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>MOD(number,divisor)</source>
         <translation>MOD(sayı,bölen)</translation>
     </message>
@@ -22495,6 +22656,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
         <translation>BİRLEŞTİR(metin1,metin2,...)</translation>
+    </message>
+    <message>
+        <source>NORM.INV(probability,mean,standard_dev)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PROPER(text)</source>
@@ -22913,6 +23078,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>Bir sayının radyan cinsinden -Pi2 ile Pi/2 aralığındaki arksinüsünü verir.</translation>
     </message>
     <message>
+        <source>DOLLARFR(decimal_dollar, fraction)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
         <translation type="unfinished"/>
     </message>
@@ -22999,7 +23168,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the net present value for a schedule of crash flows.</source>
-        <translation type="unfinished"/>
+        <translation>Nakit akışı planı için bugünkü net değeri döndürür.</translation>
     </message>
     <message>
         <source>Returns a number shifted right by the specified number of bits.</source>
@@ -23011,6 +23180,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>PAUSE(no_tool)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -23094,6 +23267,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>DOLLARDE(fractional_dollar, fraction)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ON.WINDOW(window_text, macro_text)</source>
         <translation type="unfinished"/>
     </message>
@@ -23103,7 +23280,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the number of whole workdays between two dates using parameters to indicate which and how many days are weekend days.</source>
-        <translation type="unfinished"/>
+        <translation>İki tarih arasındaki tam işgünlerinin sayısını özel hafta sonu parametreleriyle verir.</translation>
     </message>
     <message>
         <source>IMCOS(inumber)</source>
@@ -23221,6 +23398,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Converts degrees to radians.</source>
         <translation>Dereceyi radyana dönüştürür.</translation>
+    </message>
+    <message>
+        <source>NORM.S.INV(probability)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
@@ -23360,6 +23541,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
+        <translation>KUPONSAYI(mutabakat, vade, sıklık, [temel])</translation>
+    </message>
+    <message>
         <source>NEXT()</source>
         <translation type="unfinished"/>
     </message>
@@ -23478,6 +23663,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>DOĞRU()</translation>
     </message>
     <message>
+        <source>Returns the number of days in the coupon period that contains the settlement date.</source>
+        <translation>Mutabakat tarihini içeren kupon dönemindeki gün sayısını döndürür.</translation>
+    </message>
+    <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
         <translation type="unfinished"/>
     </message>
@@ -23520,6 +23709,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Values</source>
         <translation>Değerler</translation>
+    </message>
+    <message>
+        <source>XOR(logical1,logical2,...)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OR(logical1,logical2,...)</source>
@@ -23666,6 +23859,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>SANLOG10(karmsayı)</translation>
     </message>
     <message>
+        <source>MDURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns the exponential distribution.</source>
         <translation type="unfinished"/>
     </message>
@@ -23778,6 +23975,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>DURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Returns a random integer between the two numbers you specified.</source>
         <translation type="unfinished"/>
     </message>
@@ -23808,6 +24009,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
         <translation>Dönemsel sabit ödemeli ve sabit faizli bir yatırım için yapılacak anapara ödemesi tutarını verir.</translation>
+    </message>
+    <message>
+        <source>COUPDAYS(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
@@ -23945,6 +24150,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>AVEDEV(number1,number2,...)</source>
         <translation>ORTSAP(sayı1,sayı2,...)</translation>
+    </message>
+    <message>
+        <source>Estimates variance based on a sample(ignores logical values and text in the sample).</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the double factorial of a number.</source>
@@ -24128,8 +24337,20 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>ORTALAMA(sayı1,sayı2,...)</translation>
     </message>
     <message>
+        <source>VAR.S(number1,number2,...)</source>
+        <translation>VAR.S(sayı1,sayı2,...)</translation>
+    </message>
+    <message>
+        <source>VAR.P(number1,number2,...)</source>
+        <translation>VAR.P(sayı1,sayı2,...)</translation>
+    </message>
+    <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
         <translation>1 (Ocak) ile 12 (Aralık) arasındaki bir sayı ile ifade edilen ayı döndürür. </translation>
+    </message>
+    <message>
+        <source>NORM.DIST(x,mean,standard_dev,cumulative)</source>
+        <translation>NORM.DAĞ(x,ortalama,standart_sapma,kümülatif)</translation>
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
@@ -24174,6 +24395,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>FDIST(x,degrees_freedom1,degrees_freedom2)</source>
         <translation>FDAĞ(x,serb_derecesi1,serb_derecesi2)</translation>
+    </message>
+    <message>
+        <source>Returns total covariance, the average of the products of deviations for each data point pair.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SELECTION()</source>
@@ -24248,6 +24473,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>Bir metin dizesi içinde belirtilen karakterin veya dizenin ilk bulunan konumunu, soldan sağa doğru okuyarak (büyük / küçük harfe duyarlı değildir) döndürür. Çift baytlı karakter setiyle (DBCS) kullanın.</translation>
     </message>
     <message>
+        <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
+        <translation>Mutabakat ve vade tarihleri arasındaki ödenebilir kupon sayısını döndürür.</translation>
+    </message>
+    <message>
         <source>TODAY()</source>
         <translation>BUGÜN()</translation>
     </message>
@@ -24257,6 +24486,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>DIALOGBOX(dialog_ref)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Returns simple covariance, the average of the products of deviations for each data point pair.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -24344,6 +24577,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>Mantıksal DOĞRU&apos;yu verir.</translation>
     </message>
     <message>
+        <source>Returns the annual duration of a security with periodic interest payments.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
         <translation type="unfinished"/>
     </message>
@@ -24376,6 +24613,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Returns the previous coupon date before the settlement date.</source>
+        <translation>Mutabakat tarihinden önceki kupon tarihini döndürür.</translation>
+    </message>
+    <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
         <translation type="unfinished"/>
     </message>
@@ -24394,6 +24635,14 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Converts radians to degrees.</source>
         <translation>Radyanı dereceye çevirir.</translation>
+    </message>
+    <message>
+        <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
+        <translation>KUPONGÜNSKT(mutabakat, vade, sıklık, [temel])</translation>
+    </message>
+    <message>
+        <source>COUPPCD(settlement, maturity, frequency, [basis])</source>
+        <translation>KUPONGÜNÖKT(mutabakat, vade,sıklık, [temel])</translation>
     </message>
     <message>
         <source>ADD.BAR(bar_num)</source>
@@ -24461,11 +24710,19 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the number of days between the two dates.</source>
-        <translation type="unfinished"/>
+        <translation>İki tarih arasındaki gün sayısını döndürür.</translation>
+    </message>
+    <message>
+        <source>WORKDAY.INTL(start_date,days,weekend,holidays)</source>
+        <translation>İŞGÜNÜ.ULUSL(başlangıç_tarihi,gün_sayısı,hafta_sonu,tatiller)</translation>
     </message>
     <message>
         <source>WINDOW.TITLE(text)</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Returns an aggregate in a list or database.</source>
+        <translation>Bir liste veya veritabanından bir toplam verir.</translation>
     </message>
     <message>
         <source>KURT(number1,number2,...)</source>
@@ -24524,6 +24781,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>YÜZDERANK(dizi,x,anlam)</translation>
     </message>
     <message>
+        <source>Returns a logical &apos;Exclusive Or&apos; of all arguments.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>AREAS(reference)</source>
         <translation>ALANSAY(başvuru)</translation>
     </message>
@@ -24538,6 +24799,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Rounds a number up, away from zero.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ISFORMULA(reference)</source>
+        <translation>EFORMÜLSE(başvuru)</translation>
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
@@ -24719,7 +24984,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the internal rate of return for a schedule of crash flows.</source>
-        <translation type="unfinished"/>
+        <translation>Nakit akışı planı için iç verim oranını döndürür.</translation>
     </message>
     <message>
         <source>Returns the inverse of the Fisher transformation. If y = FISHER(x), then FISHRINV(y) = x.</source>
@@ -24806,8 +25071,16 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>TAHMİN(x,bilinen_y&apos;ler,bilinen_x&apos;ler)</translation>
     </message>
     <message>
+        <source>COVARIANCE.S(array1,array2)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>CELL(info_type, reference)</source>
         <translation>HÜCRE(bilgi_türü,başvuru)</translation>
+    </message>
+    <message>
+        <source>COVARIANCE.P(array1,array2)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns a matrix determinant of an array.</source>
@@ -24830,12 +25103,20 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Calculates variance  based on the entire population(ignores logical values and text in the population).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</source>
         <translation>SEÇENEKLER.GENEL(R1C1_modu,dde_açık,toplam_bilgisi,ipuçları,son_dosyalar,eski_menüler,kullanıcı_bilgisi,yazı_tipi_adı,yazı_tipi_boyutu,varsayılan_yer,diğer_yer,tablo_num,etkinleştir_alt)</translation>
     </message>
     <message>
         <source>ISNUMBER(value)</source>
         <translation>ESAYIYSA(değer)</translation>
+    </message>
+    <message>
+        <source>NORM.S.DIST(z,cumulative)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SUMMARY.INFO(title, subject, author, keywords, comments)</source>
@@ -25007,6 +25288,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>KUPONGÜNBD(mutabakat, vade, sıklık, [temel])</translation>
     </message>
     <message>
+        <source>Returns the Macauley modified duration for a security with an assumed par value of $100.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
         <translation type="unfinished"/>
     </message>
@@ -25048,6 +25333,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -25116,6 +25405,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -25295,12 +25588,20 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>SERİTARİH(başlangıç_tarihi,ay_sayısı)</translation>
     </message>
     <message>
+        <source>Returns the discount rate for a security.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>HEX2DEC(number)</source>
         <translation>HEX2DEC(sayı)</translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
         <translation>Arama ve Başvuru</translation>
+    </message>
+    <message>
+        <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
+        <translation>Başvurunun formül içeren bir hücreye yapılıp yapılmadığını denetler ve DOĞRU ya da YANLIŞ değerini döndürür.</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -25344,7 +25645,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the cumulative interest paid between start_period and  end_period.</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç_dönemi ve bitiş_dönemi arasında ödenen bileşik faizi döndürür.</translation>
     </message>
     <message>
         <source>Returns the probability that values in a range which are between two limits.</source>
@@ -25445,6 +25746,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>REGISTER.ID(module_text, procedure, type_text)</source>
         <translation>YAZMAÇ.KODU(modül_metni, yöntem, metin_türü)</translation>
+    </message>
+    <message>
+        <source>AGGREGATE(function_num,options,ref1,[ref2],...)</source>
+        <translation>TOPLAMA(işlev_sayısı,seçenekler,başv1,[başv2],…)</translation>
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
@@ -25552,7 +25857,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Clear Arrows</source>
-        <translation type="unfinished"/>
+        <translation>Okları Kaldır</translation>
     </message>
     <message>
         <source>Count</source>
@@ -25563,6 +25868,12 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>Yapıştır</translation>
     </message>
     <message>
+        <source>Recently 
+Used</source>
+        <translation>Son 
+Kullanılan</translation>
+    </message>
+    <message>
         <source>Evaluate Formula</source>
         <translation>Formül Değerlendir</translation>
     </message>
@@ -25571,13 +25882,20 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>İstatistiksel</translation>
     </message>
     <message>
+        <source>More
+Functions</source>
+        <translation>Diğer
+İşlevler</translation>
+    </message>
+    <message>
         <source>Logical</source>
         <translation>Mantıksal</translation>
     </message>
     <message>
         <source>Insert
 Function</source>
-        <translation type="unfinished"/>
+        <translation>İşlev 
+Ekle</translation>
     </message>
     <message>
         <source>Financial</source>
@@ -25593,11 +25911,18 @@ Function</source>
     </message>
     <message>
         <source>Remove Precedents</source>
-        <translation type="unfinished"/>
+        <translation>Etkileyenleri Kaldır</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı 
+Hesapla</translation>
+    </message>
+    <message>
+        <source>Name
+Manager</source>
+        <translation>Ad
+Yöneticisi</translation>
     </message>
     <message>
         <source>Edit Links</source>
@@ -25606,6 +25931,12 @@ Function</source>
     <message>
         <source>Error Checking</source>
         <translation>Hata Denetimi</translation>
+    </message>
+    <message>
+        <source>Math and
+Trig</source>
+        <translation>Mat ve
+Trig</translation>
     </message>
     <message>
         <source>Function Library</source>
@@ -25656,7 +25987,13 @@ Saat</translation>
     </message>
     <message>
         <source>Show Dependents</source>
-        <translation type="unfinished"/>
+        <translation>Etkilenenleri Göster</translation>
+    </message>
+	<message>
+        <source>Lookup and
+Reference</source>
+        <translation>Arama ve
+Başvuru</translation>
     </message>
     <message>
         <source>Show Precedents</source>
@@ -25665,6 +26002,12 @@ Saat</translation>
     <message>
         <source>Formula Auditing</source>
         <translation>Formül Denetimi</translation>
+    </message>
+    <message>
+        <source>Recalculate
+Workbook</source>
+        <translation>Çalışma Kitabını
+Yeniden Hesapla</translation>
     </message>
 </context>
 <context>
@@ -25719,7 +26062,7 @@ Saat</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -25727,7 +26070,7 @@ Saat</translation>
     </message>
     <message>
         <source>Font Outline</source>
-        <translation>Metin Ana Hattı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reflection</source>
@@ -25771,7 +26114,7 @@ Saat</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -25859,7 +26202,7 @@ Saat</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation type="unfinished"/>
+        <translation>3B Döndürme</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -25879,11 +26222,11 @@ Saat</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -25931,7 +26274,7 @@ Saat</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation type="unfinished"/>
+        <translation>Metin Efektleri</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -25943,7 +26286,7 @@ Saat</translation>
     </message>
     <message>
         <source>Insert Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu Ekle</translation>
     </message>
     <message>
         <source>Text Fill</source>
@@ -25955,7 +26298,7 @@ Saat</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire Nokta Nokta</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -25986,7 +26329,7 @@ Saat</translation>
     </message>
     <message>
         <source>Clear Arrows</source>
-        <translation type="unfinished"/>
+        <translation>Okları Kaldır</translation>
     </message>
     <message>
         <source>Count</source>
@@ -26034,15 +26377,27 @@ Saat</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Hesapla</translation>
+    </message>
+	<message>
+        <source>Name
+Manager</source>
+        <translation>Ad
+Yöneticisi</translation>
     </message>
     <message>
         <source>Edit Links</source>
         <translation type="unfinished"/>
     </message>
-    <message>
+	<message>
         <source>Error Checking</source>
         <translation>Hata Denetimi</translation>
+    </message>
+	<message>
+        <source>Math and
+Trig</source>
+        <translation>Mat ve
+Trig</translation>
     </message>
     <message>
         <source>Function Library</source>
@@ -26050,7 +26405,7 @@ Saat</translation>
     </message>
     <message>
         <source>Remove Dependents</source>
-        <translation type="unfinished"/>
+        <translation>Etkilenenleri Kaldır</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -26096,11 +26451,17 @@ Saat</translation>
     </message>
     <message>
         <source>Show Dependents</source>
-        <translation type="unfinished"/>
+        <translation>Etkilenenleri Göster</translation>
+    </message>
+    <message>
+        <source>Lookup and
+Reference</source>
+        <translation>Arama ve
+Başvuru</translation>
     </message>
     <message>
         <source>Show Precedents</source>
-        <translation type="unfinished"/>
+        <translation>Etkileyenleri Göster</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
@@ -26283,7 +26644,7 @@ Saat</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation type="unfinished"/>
+        <translation>3B Döndürme</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -26291,11 +26652,11 @@ Saat</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -26303,7 +26664,7 @@ Saat</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire Nokta</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -26351,11 +26712,11 @@ Saat</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation type="unfinished"/>
+        <translation>Resim veya Doku</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire Nokta Nokta</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -26764,7 +27125,7 @@ Saat</translation>
     </message>
     <message>
         <source>Preview selected data</source>
-        <translation type="unfinished"/>
+        <translation>Seçili verilerin önizlemesi:</translation>
     </message>
 </context>
 <context>
@@ -26775,7 +27136,7 @@ Saat</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -26799,7 +27160,7 @@ Saat</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Grand:</source>
@@ -26839,7 +27200,7 @@ Saat</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Value Field Orientation:</source>
@@ -26871,6 +27232,10 @@ Saat</translation>
     <message>
         <source>Set</source>
         <translation>Ayarla</translation>
+    </message>
+    <message>
+        <source>Split Tables</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge Range Data</source>
@@ -26974,7 +27339,8 @@ Saat</translation>
     </message>
     <message>
         <source>Split Sheets</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları İçeriğe 
+Göre Böl</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -27030,7 +27396,7 @@ Saat</translation>
     </message>
     <message>
         <source>New Excel Workbook(E)</source>
-        <translation type="unfinished"/>
+        <translation>Yeni &amp;Excel Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Print</source>
@@ -27082,11 +27448,11 @@ Saat</translation>
     </message>
     <message>
         <source>NewChart Legend</source>
-        <translation type="unfinished"/>
+        <translation>Gösterge</translation>
     </message>
     <message>
         <source>Text Edit Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu Biçimlendir</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
@@ -27095,7 +27461,7 @@ Saat</translation>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>Paste Previous Content</source>
@@ -27117,7 +27483,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Onarımı</translation>
     </message>
     <message>
         <source>Hardware Encryption</source>
@@ -27137,7 +27503,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>MoreFontFill</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Metin Dolguları</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -27189,7 +27555,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Resim Olarak Dışa Aktar</translation>
     </message>
     <message>
         <source>Banded Columns</source>
@@ -27197,7 +27563,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -27225,15 +27591,15 @@ Yazdır</translation>
     </message>
     <message>
         <source>To Cell Picture</source>
-        <translation type="unfinished"/>
+        <translation>Hücreye Göm</translation>
     </message>
     <message>
         <source>NewChart SeriesLine</source>
-        <translation type="unfinished"/>
+        <translation>Seri Çizgisi</translation>
     </message>
     <message>
         <source>File Send</source>
-        <translation type="unfinished"/>
+        <translation>Cep telefonuna gönder</translation>
     </message>
     <message>
         <source>Permission Protected</source>
@@ -27241,23 +27607,23 @@ Yazdır</translation>
     </message>
     <message>
         <source>Microsoft Excel Files</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Excel Dosyaları (*.xlsx)</translation>
     </message>
     <message>
         <source>Source material base</source>
-        <translation type="unfinished"/>
+        <translation>Malzeme Tabanı</translation>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation>Tablo Stili</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation type="unfinished"/>
+        <translation>Simge Kütüphanesi</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşım Bağlantısı Oluştur</translation>
     </message>
     <message>
         <source>Editing is limited</source>
@@ -27289,11 +27655,11 @@ Yazdır</translation>
     </message>
     <message>
         <source>MoreFontEffects</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Metin Efektleri</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tablo 2007/2010 Dosyaları (*.etx)</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
@@ -27301,7 +27667,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>New Doc Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Beğenebilirsin</translation>
     </message>
     <message>
         <source>Curve Segment</source>
@@ -27375,7 +27741,7 @@ Dondur</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Excel 97-2003 Dosyaları</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -27387,7 +27753,7 @@ Dondur</translation>
     </message>
     <message>
         <source>NewChart ChartTitle</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Başlığı</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -27395,7 +27761,7 @@ Dondur</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -27452,7 +27818,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
-        <translation type="unfinished"/>
+        <translation>Tema Rengi</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -27464,11 +27830,11 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Recently File Management</source>
-        <translation type="unfinished"/>
+        <translation>Son Dosya Listesi</translation>
     </message>
     <message>
         <source>NewChart ChartArea</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Alanı</translation>
     </message>
     <message>
         <source>Connector</source>
@@ -27505,7 +27871,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekran görüntüsü alırken geçerli pencereyi gizle</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -27545,11 +27911,12 @@ Düzeni</translation>
     </message>
     <message>
         <source>Split Books</source>
-        <translation type="unfinished"/>
+        <translation>Kitapları Sayfaya 
+Göre Böl</translation>
     </message>
     <message>
         <source>NewChart Gridline</source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -27649,7 +28016,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tablo Şablonları</translation>
     </message>
     <message>
         <source>Document Slimming</source>
@@ -27665,7 +28032,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>EditSingleData</source>
-        <translation type="unfinished"/>
+        <translation>Tek Mini Grafik Verilerini Düzenle</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -27677,11 +28044,11 @@ Düzeni</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>NewChart Datapoint</source>
-        <translation type="unfinished"/>
+        <translation>Veri noktası</translation>
     </message>
     <message>
         <source>NewChart ErrorBar</source>
@@ -27729,7 +28096,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>New Pivot Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Özet Tablo Stili</translation>
     </message>
     <message>
         <source>ChemistryEquation</source>
@@ -27749,7 +28116,8 @@ Düzeni</translation>
     </message>
     <message>
         <source>FlashFill</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı 
+Doldurma</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -27802,7 +28170,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>ShortChart</source>
-        <translation>Grafik</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewChart HighLowLine</source>
@@ -27822,7 +28190,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>ShortWordArt</source>
-        <translation>WordArt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear Filter from Slicers</source>
@@ -27838,7 +28206,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>DocerThemeColor</source>
@@ -27850,7 +28218,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>ClearSelectedSparkline</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Mini Grafikleri Temizle</translation>
     </message>
     <message>
         <source>Total Row</source>
@@ -27880,7 +28248,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlatılmış dikdörtgen ekran görüntüsü</translation>
     </message>
     <message>
         <source>Chart Library</source>
@@ -27901,7 +28269,8 @@ with same name in workbooks</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Tam Ekran</translation>
+        <translation>Tam 
+Ekran</translation>
     </message>
     <message>
         <source>Fetch duplicates</source>
@@ -27969,11 +28338,11 @@ Screen</source>
     </message>
     <message>
         <source>Screen Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Poligon ekran görüntüsü</translation>
     </message>
     <message>
         <source>UnGroup</source>
-        <translation>Grubu Çöz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -27989,15 +28358,15 @@ Screen</source>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>Geogebra</source>
-        <translation type="unfinished"/>
+        <translation>Geogebra</translation>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Olarak Biçimlendir</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -28009,7 +28378,7 @@ Screen</source>
     </message>
     <message>
         <source>Screen Grab Rect</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen ekran görüntüsü</translation>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
@@ -28029,7 +28398,7 @@ Screen</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Refresh All</source>
@@ -28049,11 +28418,11 @@ Screen</source>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="unfinished"/>
+        <translation>İşbirliği</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Ayıklama</translation>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -28071,7 +28440,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>NewChart AxisTitle</source>
-        <translation type="unfinished"/>
+        <translation>Eksen Başlığı</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -28083,7 +28452,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>NewChart UnitLabel</source>
-        <translation type="unfinished"/>
+        <translation>Birim Etiketi</translation>
     </message>
     <message>
         <source>Auto Backup Menu</source>
@@ -28135,7 +28504,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>PasteAsValues</source>
-        <translation type="unfinished"/>
+        <translation>Değer Olarak Yapıştır</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -28194,8 +28563,13 @@ Açıklama</translation>
         <translation>Formülleri Göster</translation>
     </message>
     <message>
-        <source>PicOrTexture</source>
+        <source>Task
+Window</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation>Resim veya Doku</translation>
     </message>
     <message>
         <source>Recalculate Workbook</source>
@@ -28208,6 +28582,26 @@ Açıklama</translation>
     <message>
         <source>Merge worksheets</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation>Makrolar</translation>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation>Öneri</translation>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Visual Basic Editor</source>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -28278,7 +28672,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>3D Color</source>
-        <translation type="unfinished"/>
+        <translation>3B Renk</translation>
     </message>
     <message>
         <source>Tilt Right</source>
@@ -28306,7 +28700,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -28457,7 +28851,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Damlalık</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Surface</source>
@@ -28520,11 +28914,11 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Aşağıya Sürükle</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Sola Sürükle</translation>
     </message>
     <message>
         <source>More 3D Colors</source>
@@ -28540,11 +28934,11 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>36 pt.</source>
-        <translation type="unfinished"/>
+        <translation>36 nk.</translation>
     </message>
     <message>
         <source>72 pt.</source>
-        <translation type="unfinished"/>
+        <translation>72 nk.</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -28552,7 +28946,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>144 pt.</source>
-        <translation type="unfinished"/>
+        <translation>144 nk.</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -28584,7 +28978,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>288 pt.</source>
-        <translation type="unfinished"/>
+        <translation>288 nk.</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -28612,7 +29006,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Yukarı Sürükle</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -28630,7 +29024,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Sağa Sürükle</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -28791,7 +29185,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -28838,6 +29232,177 @@ Açık/Kapalı</translation>
 </context>
 <context>
     <name>rainbow.ct_shadowdrawingtools</name>
+    <message>
+        <source>Dim</source>
+        <translation>Karart</translation>
+    </message>
+    <message>
+        <source>0 pt</source>
+        <translation>0 nk</translation>
+    </message>
+    <message>
+        <source>36 pt</source>
+        <translation>36 nk</translation>
+    </message>
+    <message>
+        <source>72 pt</source>
+        <translation>72 nk</translation>
+    </message>
+    <message>
+        <source>Depth</source>
+        <translation>Derinlik</translation>
+    </message>
+    <message>
+        <source>Matte</source>
+        <translation>Mat</translation>
+    </message>
+    <message>
+        <source>Metal</source>
+        <translation>Metal</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Down</source>
+        <translation>Gölgeyi Aşağıya Sürükle</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation>Gölgeyi Sola Sürükle</translation>
+    </message>
+    <message>
+        <source>144 pt</source>
+        <translation>144 nk</translation>
+    </message>
+    <message>
+        <source>288 pt</source>
+        <translation>288 nk</translation>
+    </message>
+    <message>
+        <source>Tilt Down</source>
+        <translation>Aşağı Eğ</translation>
+    </message>
+    <message>
+        <source>Tilt Left</source>
+        <translation>Sola Eğ</translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation>Yarı Saydam Gölge</translation>
+    </message>
+    <message>
+        <source>Bright</source>
+        <translation>Parlak</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>İsteğe Uyarlanmış</translation>
+    </message>
+    <message>
+        <source>Infinity</source>
+        <translation>Sonsuzluk</translation>
+    </message>
+    <message>
+        <source>No 3-D</source>
+        <translation>3B Yok</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <source>3-D On/Off</source>
+        <translation>3B Açık/Kapalı</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>Gölge Yok</translation>
+    </message>
+    <message>
+        <source>Shadow Effects</source>
+        <translation>Gölge Efektleri</translation>
+    </message>
+    <message>
+        <source>3-D Color</source>
+        <translation>3B Renk</translation>
+    </message>
+    <message>
+        <source>Tilt Right</source>
+        <translation>Sağa Eğ</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation>Perspektif</translation>
+    </message>
+    <message>
+        <source>Plastic</source>
+        <translation>Plastik</translation>
+    </message>
+    <message>
+        <source>Wire Frame</source>
+        <translation>Tel Çerçeve</translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation>Daha Fazla Gölgelendirme Renkleri</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
+        <translation>Gölgeyi Yukarı Sürükle</translation>
+    </message>
+    <message>
+        <source>Parallel</source>
+        <translation>Paralel</translation>
+    </message>
+    <message>
+        <source>Direction</source>
+        <translation>Yön</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation>Gölgeyi Sağa Sürükle</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Damlalık</translation>
+    </message>
+    <message>
+        <source>Surface</source>
+        <translation>Yüzey</translation>
+    </message>
+    <message>
+        <source>Tilt Up</source>
+        <translation>Yukarı Eğ</translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation>Gölge Ayarları</translation>
+    </message>
+    <message>
+        <source>3-D Effects</source>
+        <translation>3B Efektler</translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation>Gölge Rengi</translation>
+    </message>
+    <message>
+        <source>More 3-D Colors</source>
+        <translation>Diğer 3-B Renkleri</translation>
+    </message>
+    <message>
+        <source>Shadow On/Off</source>
+        <translation>Gölge Açık/Kapalı</translation>
+    </message>
+    <message>
+        <source>3-D Settings</source>
+        <translation>3-B Ayarları</translation>
+    </message>
+    <message>
+        <source>Lighting</source>
+        <translation>Aydınlatma</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_shadowdrawingtools_vml</name>
     <message>
         <source>Dim</source>
         <translation>Karart</translation>
@@ -28968,178 +29533,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Surface</source>
-        <translation>Yüzey</translation>
-    </message>
-    <message>
-        <source>Tilt Up</source>
-        <translation>Yukarı Eğ</translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
-        <translation>Gölge Ayarları</translation>
-    </message>
-    <message>
-        <source>3-D Effects</source>
-        <translation>3B Efektler</translation>
-    </message>
-    <message>
-        <source>Shadow Color</source>
-        <translation>Gölge Rengi</translation>
-    </message>
-    <message>
-        <source>More 3-D Colors</source>
-        <translation>Diğer 3-B Renkleri</translation>
-    </message>
-    <message>
-        <source>Shadow On/Off</source>
-        <translation>Gölge Açık/Kapalı</translation>
-    </message>
-    <message>
-        <source>3-D Settings</source>
-        <translation>3-B Ayarları</translation>
-    </message>
-    <message>
-        <source>Lighting</source>
-        <translation>Aydınlatma</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_shadowdrawingtools_vml</name>
-    <message>
-        <source>Dim</source>
-        <translation>Karart</translation>
-    </message>
-    <message>
-        <source>0 pt</source>
-        <translation>0 nk</translation>
-    </message>
-    <message>
-        <source>36 pt</source>
-        <translation>36 nk</translation>
-    </message>
-    <message>
-        <source>72 pt</source>
-        <translation>72 nk</translation>
-    </message>
-    <message>
-        <source>Depth</source>
-        <translation>Derinlik</translation>
-    </message>
-    <message>
-        <source>Matte</source>
-        <translation>Mat</translation>
-    </message>
-    <message>
-        <source>Metal</source>
-        <translation>Metal</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>144 pt</source>
-        <translation>144 nk</translation>
-    </message>
-    <message>
-        <source>288 pt</source>
-        <translation>288 nk</translation>
-    </message>
-    <message>
-        <source>Tilt Down</source>
-        <translation>Aşağı Eğ</translation>
-    </message>
-    <message>
-        <source>Tilt Left</source>
-        <translation>Sola Eğ</translation>
-    </message>
-    <message>
-        <source>Semitransparent Shadow</source>
-        <translation>Yarı Saydam Gölge</translation>
-    </message>
-    <message>
-        <source>Bright</source>
-        <translation>Parlak</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>İsteğe Uyarlanmış</translation>
-    </message>
-    <message>
-        <source>Infinity</source>
-        <translation>Sonsuzluk</translation>
-    </message>
-    <message>
-        <source>No 3-D</source>
-        <translation>3B Yok</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>Normal</translation>
-    </message>
-    <message>
-        <source>3-D On/Off</source>
-        <translation>3B Açık/Kapalı</translation>
-    </message>
-    <message>
-        <source>No Shadow</source>
-        <translation>Gölge Yok</translation>
-    </message>
-    <message>
-        <source>Shadow Effects</source>
-        <translation>Gölge Efektleri</translation>
-    </message>
-    <message>
-        <source>3-D Color</source>
-        <translation>3B Renk</translation>
-    </message>
-    <message>
-        <source>Tilt Right</source>
-        <translation>Sağa Eğ</translation>
-    </message>
-    <message>
-        <source>Perspective</source>
-        <translation>Perspektif</translation>
-    </message>
-    <message>
-        <source>Plastic</source>
-        <translation>Plastik</translation>
-    </message>
-    <message>
-        <source>Wire Frame</source>
-        <translation>Tel Çerçeve</translation>
-    </message>
-    <message>
-        <source>More Shadow Colors</source>
-        <translation>Daha Fazla Gölgelendirme Renkleri</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Parallel</source>
-        <translation>Paralel</translation>
-    </message>
-    <message>
-        <source>Direction</source>
-        <translation>Yön</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Surface</source>
@@ -29345,39 +29739,39 @@ Açık/Kapalı</translation>
     <name>KxImportDataFromWebDlgUI</name>
     <message>
         <source>新建Web查询</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Web sorgusu</translation>
     </message>
     <message>
         <source>&amp;Option ...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçenek ...</translation>
     </message>
     <message>
         <source>地址(&amp;D):</source>
-        <translation type="unfinished"/>
+        <translation>Adres:</translation>
     </message>
     <message>
         <source>保存查询</source>
-        <translation type="unfinished"/>
+        <translation>Sorguyu kaydet</translation>
     </message>
     <message>
         <source>导入(&amp;I)</source>
-        <translation type="unfinished"/>
+        <translation>İçeri Aktar</translation>
     </message>
     <message>
         <source>转到(&amp;T)</source>
-        <translation type="unfinished"/>
+        <translation>Git</translation>
     </message>
     <message>
         <source>停止</source>
-        <translation type="unfinished"/>
+        <translation>Dur</translation>
     </message>
     <message>
         <source>前进</source>
-        <translation type="unfinished"/>
+        <translation>Devam et</translation>
     </message>
     <message>
         <source>刷新</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>取消</source>
@@ -29385,19 +29779,19 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>后退</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>向前</source>
-        <translation type="unfinished"/>
+        <translation>İleri</translation>
     </message>
     <message>
         <source>保存</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>选项</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>返回</source>
@@ -29794,7 +30188,9 @@ Açık/Kapalı</translation>
         <source>You applied more than one filter on one or more fields on a PivotTable.
 
 If you Let this Field check box Empty, and then click OK, all filters applied to these fields are deleted</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablodaki bir veya daha fazla alana birden fazla filtre uyguladınız.
+
+Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, bu alanlara uygulanan tüm filtreler silinecektir.</translation>
     </message>
     <message>
         <source>The number must be between 0 and 127. Try again by entering a number in this range.</source>
@@ -29940,7 +30336,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>Basitleştirilmiş Çince&apos;ye Dönüştür</translation>
+        <translation>Basitleştirilmiş Çinceye Dönüştür</translation>
     </message>
     <message>
         <source>Sort Descending</source>
@@ -29972,7 +30368,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirilmemiş Metin Olarak Yapıştır</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -30028,7 +30424,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation type="unfinished"/>
+        <translation>İlk %10</translation>
     </message>
     <message>
         <source>Tomorrow</source>
@@ -30104,7 +30500,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>WeChat Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>WeChat&apos;te WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -30171,7 +30567,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>accout secure</source>
-        <translation type="unfinished"/>
+        <translation>Hesap Güvenliği</translation>
     </message>
     <message>
         <source>Data</source>
@@ -30191,7 +30587,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>InteractiveChart</source>
-        <translation type="unfinished"/>
+        <translation>Etkileşimli Grafik</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -30239,7 +30635,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Geri Bildirim</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right Border</source>
@@ -30279,7 +30675,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Special Apps</source>
-        <translation type="unfinished"/>
+        <translation>Özel özellikler</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -30295,7 +30691,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Ribbon Auto Show/Hide</source>
-        <translation type="unfinished"/>
+        <translation>Şeridi Otomatik Göster/Gizle</translation>
     </message>
     <message>
         <source>Cloud File Management</source>
@@ -30311,11 +30707,11 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Şerit Düğmesi Ortalanmış</translation>
     </message>
     <message>
         <source>WordArt Compatibility Mode</source>
-        <translation type="unfinished"/>
+        <translation>WordArt - Uyumluluk Modu</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -30335,7 +30731,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation>Araç Çubuğunu Göster</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ever Sheet</source>
@@ -30379,7 +30775,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Review</source>
@@ -30399,7 +30795,8 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Account Upgrade</source>
@@ -30411,7 +30808,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sıkıştır</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -30463,7 +30860,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>File Share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Add-Ins</source>
@@ -30475,7 +30872,8 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni 
+Kaydır</translation>
     </message>
     <message>
         <source>message Center</source>
@@ -30487,11 +30885,11 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation type="unfinished"/>
+        <translation>PDF Birleştir</translation>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -30554,7 +30952,8 @@ Toplam</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir ve 
+Ortala</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -30577,16 +30976,16 @@ Toplam</translation>
         <translation>Açıklama</translation>
     </message>
     <message>
+        <source>Launch Online Metting</source>
+        <translation>Çevrimiçi Toplantıyı Başlat</translation>
+    </message>
+    <message>
         <source>Equation Tool</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Launch Online Metting</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>WeChat Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>WeChat&apos;te WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -30614,7 +31013,8 @@ Toplam</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -30638,7 +31038,7 @@ Toplam</translation>
     </message>
     <message>
         <source>accout info</source>
-        <translation type="unfinished"/>
+        <translation>Hesap Bilgileri</translation>
     </message>
     <message>
         <source>Custom task window</source>
@@ -30654,7 +31054,7 @@ Toplam</translation>
     </message>
     <message>
         <source>InsertDate</source>
-        <translation type="unfinished"/>
+        <translation>Tarihi Gir</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -30662,7 +31062,7 @@ Toplam</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>Vertical Center</source>
@@ -30690,11 +31090,11 @@ Toplam</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan Dosyalar</translation>
     </message>
     <message>
         <source>enterprise Center</source>
-        <translation type="unfinished"/>
+        <translation>kurumsal Merkez</translation>
     </message>
     <message>
         <source>Center Across</source>
@@ -30743,7 +31143,7 @@ Center</source>
     </message>
     <message>
         <source>My Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Aboneliklerim</translation>
     </message>
     <message>
         <source>Format 
@@ -30757,7 +31157,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"/>
+        <translation>Metin Aracı</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
@@ -30774,6 +31174,10 @@ Boyacısı</translation>
     <message>
         <source>Sign Out</source>
         <translation>Oturumu Kapat</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Resim Olarak Dışa Aktar</translation>
     </message>
 </context>
 <context>
@@ -30800,7 +31204,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Apirl</source>
-        <translation type="unfinished"/>
+        <translation>Nisan</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -30964,7 +31368,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Greater Equal</source>
-        <translation type="unfinished"/>
+        <translation>Büyük veya Eşittir</translation>
     </message>
     <message>
         <source>Ends With</source>
@@ -31012,7 +31416,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Greater</source>
-        <translation type="unfinished"/>
+        <translation>Büyüktür</translation>
     </message>
     <message>
         <source>Next Week</source>
@@ -31159,7 +31563,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Geri Bildirim</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Office Facebook</source>
@@ -31195,7 +31599,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"/>
+        <translation>İzinleri Görüntüle</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -31225,12 +31629,33 @@ Boyacısı</translation>
         <source>Backup and Recover</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>File Information</source>
+        <translation>Dosya Bilgileri</translation>
+    </message>
+    <message>
+        <source>Document Protection and Properties</source>
+        <translation>Belge Koruması ve Özellikleri</translation>
+    </message>
+    <message>
+        <source>PassWord Encryption</source>
+        <translation>Şifreleme</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation>Belge 
+Güvenliği</translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
     <message>
         <source>New</source>
-        <translation>Yeni Boş Çalışma Kitabı</translation>
+        <translation>Yeni</translation>
     </message>
     <message>
         <source>Help</source>
@@ -31266,7 +31691,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Güncellemeyi Denetle</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
@@ -31342,7 +31767,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Excel 97-2003 Şablonları</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
@@ -31366,7 +31791,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
@@ -31402,7 +31827,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"/>
+        <translation>İzinleri Görüntüle</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -31426,7 +31851,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -31458,7 +31883,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Excel 2007-2010 Dosyaları</translation>
     </message>
 </context>
 <context>
@@ -32546,6 +32971,10 @@ Boyacısı</translation>
         <translation>Tem&amp;izle</translation>
     </message>
     <message>
+        <source>&amp;Text Direction:</source>
+        <translation>&amp;Metin Yönü:</translation>
+    </message>
+    <message>
         <source>T
 e
 x
@@ -32712,11 +33141,11 @@ n</translation>
     </message>
     <message>
         <source>AddTrendLine</source>
-        <translation type="unfinished"/>
+        <translation>Eğilim Çizgisi</translation>
     </message>
     <message>
         <source>PrimaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Dikey Eksen</translation>
     </message>
     <message>
         <source>Above</source>
@@ -32736,11 +33165,11 @@ n</translation>
     </message>
     <message>
         <source>SecondaryMajorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Büyük Yatay</translation>
     </message>
     <message>
         <source>StandardError</source>
-        <translation type="unfinished"/>
+        <translation>Standart Hata</translation>
     </message>
     <message>
         <source>Linear Forecast</source>
@@ -32748,15 +33177,15 @@ n</translation>
     </message>
     <message>
         <source>HighLowLines</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek-Düşük Çizgi</translation>
     </message>
     <message>
         <source>DropLinesAndHighLowLines</source>
-        <translation type="unfinished"/>
+        <translation>İzdüşüm ve Yüksek-Alçak Çizgileri</translation>
     </message>
     <message>
         <source>CenteredOverlay</source>
-        <translation type="unfinished"/>
+        <translation>Ortalanmış Yer Paylaşımı</translation>
     </message>
     <message>
         <source>AddDataLabels</source>
@@ -32764,7 +33193,7 @@ n</translation>
     </message>
     <message>
         <source>SecondaryMinorVertial</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Küçük Dikey</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -32780,7 +33209,7 @@ n</translation>
     </message>
     <message>
         <source>AddAxisTitle</source>
-        <translation type="unfinished"/>
+        <translation>Eksen Başlığı</translation>
     </message>
     <message>
         <source>Exponential</source>
@@ -32804,15 +33233,15 @@ n</translation>
     </message>
     <message>
         <source>PrimaryMajorVertical</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Büyük Dikey</translation>
     </message>
     <message>
         <source>StandardDeviation</source>
-        <translation type="unfinished"/>
+        <translation>Standart Sapma</translation>
     </message>
     <message>
         <source>DropLines</source>
-        <translation type="unfinished"/>
+        <translation>İzdüşüm Çizgileri</translation>
     </message>
     <message>
         <source>Position</source>
@@ -32820,7 +33249,7 @@ n</translation>
     </message>
     <message>
         <source>PrimaryMinorVertial</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Küçük Dikey</translation>
     </message>
     <message>
         <source>AddAxis</source>
@@ -32828,19 +33257,20 @@ n</translation>
     </message>
     <message>
         <source>SwitchRowCol</source>
-        <translation type="unfinished"/>
+        <translation>Satır/Sütun 
+Değiştir</translation>
     </message>
     <message>
         <source>AddGridLine</source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>BestFit</source>
-        <translation type="unfinished"/>
+        <translation>En Uygun</translation>
     </message>
     <message>
         <source>SecondaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Yatay Eksen</translation>
     </message>
     <message>
         <source>AddLegend</source>
@@ -32848,7 +33278,7 @@ n</translation>
     </message>
     <message>
         <source>DataCallout</source>
-        <translation type="unfinished"/>
+        <translation>Veri Açıklaması</translation>
     </message>
     <message>
         <source>speedLayout</source>
@@ -32864,35 +33294,35 @@ n</translation>
     </message>
     <message>
         <source>SecondaryMajorVertical</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Büyük Dikey</translation>
     </message>
     <message>
         <source>AddErrorBar</source>
-        <translation type="unfinished"/>
+        <translation>Hata Çubukları</translation>
     </message>
     <message>
         <source>DataSection</source>
-        <translation type="unfinished"/>
+        <translation>Veri Bölümü</translation>
     </message>
     <message>
         <source>InsideEnd</source>
-        <translation type="unfinished"/>
+        <translation>İç Uç</translation>
     </message>
     <message>
         <source>OutsideEnd</source>
-        <translation type="unfinished"/>
+        <translation>Dış Uç</translation>
     </message>
     <message>
         <source>PrimaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Küçük Yatay</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"/>
+        <translation>Verileri Seç</translation>
     </message>
     <message>
         <source>layoutSection</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Düzeni</translation>
     </message>
     <message>
         <source>AddChartElements</source>
@@ -32916,11 +33346,11 @@ n</translation>
     </message>
     <message>
         <source>AboveChart</source>
-        <translation type="unfinished"/>
+        <translation>Grafiğin Üstünde</translation>
     </message>
     <message>
         <source>PrimaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Yatay Eksen</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
@@ -32928,15 +33358,15 @@ n</translation>
     </message>
     <message>
         <source>SecondaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Küçük Yatay</translation>
     </message>
     <message>
         <source>SecondaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Dikey Eksen</translation>
     </message>
     <message>
         <source>changeColor</source>
-        <translation type="unfinished"/>
+        <translation>Rengi Değiştir</translation>
     </message>
     <message>
         <source>AddDataTable</source>
@@ -32948,11 +33378,11 @@ n</translation>
     </message>
     <message>
         <source>AddChartTitle</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Başlığı</translation>
     </message>
     <message>
         <source>AddChartLines</source>
-        <translation type="unfinished"/>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Current Selection</source>
@@ -32960,15 +33390,15 @@ n</translation>
     </message>
     <message>
         <source>AddUpDownBar</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı/Yukarı Çubukları</translation>
     </message>
     <message>
         <source>NoLegendKeys</source>
-        <translation type="unfinished"/>
+        <translation>Gösterge Anahtarı Yok</translation>
     </message>
     <message>
         <source>InsideBase</source>
-        <translation type="unfinished"/>
+        <translation>İç Temel</translation>
     </message>
 </context>
 <context>
@@ -32991,11 +33421,11 @@ n</translation>
     </message>
     <message>
         <source>AddTrendLine</source>
-        <translation type="unfinished"/>
+        <translation>Eğilim Çizgisi</translation>
     </message>
     <message>
         <source>PrimaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Dikey Eksen</translation>
     </message>
     <message>
         <source>Above</source>
@@ -33011,11 +33441,12 @@ n</translation>
     </message>
     <message>
         <source>ChangeChartType</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Türünü 
+Değiştir</translation>
     </message>
     <message>
         <source>SecondaryMajorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Büyük Yatay</translation>
     </message>
     <message>
         <source>StandardError</source>
@@ -33027,19 +33458,19 @@ n</translation>
     </message>
     <message>
         <source>HighLowLines</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek-Düşük Çizgi</translation>
     </message>
     <message>
         <source>DropLinesAndHighLowLines</source>
-        <translation type="unfinished"/>
+        <translation>İzdüşüm ve Yüksek-Alçak Çizgileri</translation>
     </message>
     <message>
         <source>CenteredOverlay</source>
-        <translation type="unfinished"/>
+        <translation>Ortalanmış Yer Paylaşımı</translation>
     </message>
     <message>
         <source>AddDataLabels</source>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketleri</translation>
     </message>
     <message>
         <source>SecondaryMinorVertial</source>
@@ -33059,7 +33490,7 @@ n</translation>
     </message>
     <message>
         <source>AddAxisTitle</source>
-        <translation type="unfinished"/>
+        <translation>Eksen Başlığı</translation>
     </message>
     <message>
         <source>Exponential</source>
@@ -33075,7 +33506,7 @@ n</translation>
     </message>
     <message>
         <source>PrimaryMajorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Büyük Yatay</translation>
     </message>
     <message>
         <source>Reset Style</source>
@@ -33083,11 +33514,11 @@ n</translation>
     </message>
     <message>
         <source>PrimaryMajorVertical</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Büyük Dikey</translation>
     </message>
     <message>
         <source>StandardDeviation</source>
-        <translation type="unfinished"/>
+        <translation>Standart Sapma</translation>
     </message>
     <message>
         <source>DropLines</source>
@@ -33099,23 +33530,24 @@ n</translation>
     </message>
     <message>
         <source>PrimaryMinorVertial</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Küçük Dikey</translation>
     </message>
     <message>
         <source>AddAxis</source>
-        <translation type="unfinished"/>
+        <translation>Eksen</translation>
     </message>
     <message>
         <source>SwitchRowCol</source>
-        <translation type="unfinished"/>
+        <translation>Satır/Sütun 
+Değiştir</translation>
     </message>
     <message>
         <source>AddGridLine</source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>BestFit</source>
-        <translation type="unfinished"/>
+        <translation>En Uygun</translation>
     </message>
     <message>
         <source>SecondaryHorizontalAxis</source>
@@ -33123,15 +33555,16 @@ n</translation>
     </message>
     <message>
         <source>AddLegend</source>
-        <translation type="unfinished"/>
+        <translation>Gösterge</translation>
     </message>
     <message>
         <source>DataCallout</source>
-        <translation type="unfinished"/>
+        <translation>Veri Açıklaması</translation>
     </message>
     <message>
         <source>speedLayout</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı 
+Düzen</translation>
     </message>
     <message>
         <source>ChartStyle</source>
@@ -33143,11 +33576,11 @@ n</translation>
     </message>
     <message>
         <source>SecondaryMajorVertical</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Büyük Dikey</translation>
     </message>
     <message>
         <source>AddErrorBar</source>
-        <translation type="unfinished"/>
+        <translation>Hata Çubukları</translation>
     </message>
     <message>
         <source>TypeSection</source>
@@ -33155,7 +33588,7 @@ n</translation>
     </message>
     <message>
         <source>DataSection</source>
-        <translation type="unfinished"/>
+        <translation>Veri Bölümü</translation>
     </message>
     <message>
         <source>InsideEnd</source>
@@ -33163,27 +33596,27 @@ n</translation>
     </message>
     <message>
         <source>OutsideEnd</source>
-        <translation type="unfinished"/>
+        <translation>Dış Uç</translation>
     </message>
     <message>
         <source>PrimaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Küçük Yatay</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation type="unfinished"/>
+        <translation>Verileri Seç</translation>
     </message>
     <message>
         <source>layoutSection</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Düzeni</translation>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Öğesi Ekle</translation>
     </message>
     <message>
         <source>SeriesLines</source>
-        <translation type="unfinished"/>
+        <translation>Seri Çizgileri</translation>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -33191,15 +33624,16 @@ n</translation>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation type="unfinished"/>
+        <translation>Grafiği 
+Taşı</translation>
     </message>
     <message>
         <source>AboveChart</source>
-        <translation type="unfinished"/>
+        <translation>Grafiğin Üstünde</translation>
     </message>
     <message>
         <source>PrimaryHorizontalAxis</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Yatay Eksen</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
@@ -33207,15 +33641,15 @@ n</translation>
     </message>
     <message>
         <source>SecondaryMinorHorizontal</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Küçük Yatay</translation>
     </message>
     <message>
         <source>SecondaryVerticalAxis</source>
-        <translation type="unfinished"/>
+        <translation>İkincil Dikey Eksen</translation>
     </message>
     <message>
         <source>changeColor</source>
-        <translation type="unfinished"/>
+        <translation>Rengi Değiştir</translation>
     </message>
     <message>
         <source>AddDataTable</source>
@@ -33227,11 +33661,11 @@ n</translation>
     </message>
     <message>
         <source>AddChartTitle</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Başlığı</translation>
     </message>
     <message>
         <source>AddChartLines</source>
-        <translation type="unfinished"/>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Current Selection</source>
@@ -33247,7 +33681,7 @@ n</translation>
     </message>
     <message>
         <source>InsideBase</source>
-        <translation type="unfinished"/>
+        <translation>İç Temel</translation>
     </message>
 </context>
 <context>
@@ -33267,7 +33701,8 @@ n</translation>
     <message>
         <source>内容
 内容</source>
-        <translation type="unfinished"/>
+        <translation>İçerik
+İçerik</translation>
     </message>
     <message>
         <source>open directly</source>
@@ -33291,7 +33726,7 @@ n</translation>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation type="unfinished"/>
+        <translation>Onay kutusu</translation>
     </message>
     <message>
         <source>simplified mode</source>
@@ -33713,7 +34148,7 @@ Use * represent any number of character</source>
     </message>
     <message>
         <source>is less than or equal</source>
-        <translation type="unfinished"/>
+        <translation>küçük veya eşittir</translation>
     </message>
     <message>
         <source>is greater than</source>
@@ -34092,7 +34527,7 @@ Açık</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Desenli Çizgiler</translation>
+        <translation>Çizgi Deseni</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -34100,7 +34535,7 @@ Açık</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -34371,7 +34806,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation type="unfinished"/>
+        <translation>Dolgu</translation>
     </message>
     <message>
         <source>WordArt Size</source>
@@ -34403,7 +34838,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished"/>
+        <translation>Anahat</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -34586,7 +35021,7 @@ Shape</source>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Desenli Çizgiler</translation>
+        <translation>Çizgi Deseni</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -34594,7 +35029,7 @@ Shape</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -34674,7 +35109,7 @@ Shape</source>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -34707,7 +35142,7 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Shape Outline</source>
-        <translation type="unfinished"/>
+        <translation>WordArt Şekil Ana Hattı</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -34787,7 +35222,7 @@ Shape</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
@@ -35069,7 +35504,9 @@ Shape</source>
         <source>This shape represents a slicer.
 
 Slicers can&apos;t be used in this version, please update to latest version of WPS Office.</source>
-        <translation type="unfinished"/>
+        <translation>Bu şekil bir dilimleyiciyi gösterir. 
+
+Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürümüne güncelleyin.</translation>
     </message>
     <message>
         <source>#DIV/0!</source>
@@ -35131,7 +35568,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Custom Views</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm yönetimi</translation>
     </message>
 </context>
 <context>
@@ -35525,7 +35962,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -35593,7 +36030,8 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -35601,7 +36039,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Desenli Çizgiler</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -35613,7 +36051,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Yazı Tipi Renkleri</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -35709,7 +36147,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>3-D Style</source>
@@ -35797,7 +36235,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Bölmesi</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -35813,7 +36251,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -36008,7 +36446,8 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -36147,7 +36586,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -36239,7 +36678,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -36371,7 +36810,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -36395,7 +36834,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -36526,11 +36965,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeğe Göre Kırp</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekle Göre Kırp</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -36566,7 +37005,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -36650,7 +37089,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Bölmesi</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -36666,15 +37105,15 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Graphic Fill</source>
-        <translation type="unfinished"/>
+        <translation>Grafiği Doldur</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -36825,11 +37264,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekle Göre Kırp</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resimler</translation>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -36869,11 +37308,11 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Deseni</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -36881,7 +37320,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -36952,8 +37391,15 @@ Slicers can&apos;t be used in this version, please update to latest version of W
         <translation>Resmim</translation>
     </message>
     <message>
+        <source>Compress
+Pictures</source>
+        <translation>Resimleri
+Sıkıştır</translation>
+    </message>
+    <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Resimleri 
+Sıkıştır</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -36969,7 +37415,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Çevrimiçi Resim</translation>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -36978,7 +37424,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     <message>
         <source>Change
 Picture</source>
-        <translation>Resmi Değiştir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Square Dot</source>
@@ -37002,7 +37448,7 @@ Picture</source>
     </message>
     <message>
         <source>Lock rate</source>
-        <translation type="unfinished"/>
+        <translation>Oranı Kilitle</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -37010,7 +37456,7 @@ Picture</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Bölmesi</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -37030,7 +37476,7 @@ Picture</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -37114,6 +37560,10 @@ Boyutu</translation>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
     </message>
+    <message>
+        <source>From Phone</source>
+        <translation>Telefondan</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool_vml</name>
@@ -37175,7 +37625,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Sola Sürükle</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -37203,7 +37653,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Resim Ekle</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -37227,7 +37677,8 @@ Boyutu</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -37239,7 +37690,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Deseni</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -37251,7 +37702,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -37295,7 +37746,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Kalınlık</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -37339,7 +37790,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Yukarı Sürükle</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -37351,7 +37802,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Tire Nokta</translation>
     </message>
     <message>
         <source>Shadow
@@ -37361,7 +37812,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Sağa Sürükle</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -37369,7 +37820,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Bölmesi</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -37385,11 +37836,11 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -37405,7 +37856,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire Nokta</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -37477,7 +37928,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Tire Nokta Nokta</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -37532,11 +37983,11 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Edit data</source>
-        <translation type="unfinished"/>
+        <translation>Verileri düzenle</translation>
     </message>
     <message>
         <source>HiddenAndEmptyCells</source>
-        <translation type="unfinished"/>
+        <translation>Gizli ve Boş Hücreler</translation>
     </message>
     <message>
         <source>Marker Color</source>
@@ -37584,7 +38035,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Line Weight</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Kalınlığı</translation>
     </message>
     <message>
         <source>First Point</source>
@@ -37632,7 +38083,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>SwitchRowColumn</source>
-        <translation type="unfinished"/>
+        <translation>Satır/Sütun Değiştir</translation>
     </message>
     <message>
         <source>Custom Value</source>
@@ -37731,7 +38182,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -37823,7 +38274,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -37927,7 +38378,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3B Döndürme</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -37947,11 +38398,11 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -37971,7 +38422,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38082,7 +38533,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished"/>
+        <translation>Biçim  Boyacısı</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -38102,7 +38553,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -38138,7 +38589,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Desenli Çizgiler</translation>
+        <translation>Çizgi Deseni</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -38202,7 +38653,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -38218,7 +38669,8 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Resimleri 
+Sıkıştır</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -38262,7 +38714,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Bölmesi</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -38419,11 +38871,11 @@ Boyutu</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Aşağıya Sürükle</translation>
     </message>
     <message>
         <source>Shift Shadow Left</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Sola Sürükle</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -38447,7 +38899,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Resim Ekle</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -38479,7 +38931,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Deseni</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -38491,7 +38943,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -38535,7 +38987,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -38579,7 +39031,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Shift Shadow Up</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Yukarı Sürükle</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -38595,11 +39047,11 @@ Boyutu</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Tire Nokta</translation>
     </message>
     <message>
         <source>Shift Shadow Right</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeyi Sağa Sürükle</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -38607,7 +39059,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Bölmesi</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -38643,7 +39095,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire Nokta</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -38707,7 +39159,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Tire Nokta Nokta</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -38730,7 +39182,14 @@ Boyutu</translation>
     </message>
     <message>
         <source>Split Sheets</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları İçeriğe 
+Göre Böl</translation>
+    </message>
+    <message>
+        <source>Text to
+ Columns</source>
+        <translation>Metni Sütunlara 
+Dönüştür</translation>
     </message>
     <message>
         <source>Split Book</source>
@@ -38780,7 +39239,8 @@ Vurgula</translation>
     <message>
         <source>Import 
 Data</source>
-        <translation type="unfinished"/>
+        <translation>Verileri İçe 
+Aktar</translation>
     </message>
     <message>
         <source>Data Tools</source>
@@ -38797,7 +39257,7 @@ Filtre</translation>
     </message>
     <message>
         <source>ImportDataFromWeb</source>
-        <translation type="unfinished"/>
+        <translation>Web&apos;den</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -38821,7 +39281,8 @@ Filtre</translation>
     </message>
     <message>
         <source>Split Books</source>
-        <translation type="unfinished"/>
+        <translation>Kitapları Sayfaya 
+Göre Böl</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -38840,6 +39301,12 @@ Filtre</translation>
         <translation>Sayfayı Birleştir</translation>
     </message>
     <message>
+        <source>Text to
+Columns</source>
+        <translation>Metni Sütunlara 
+Dönüştür</translation>
+    </message>
+    <message>
         <source>Set Highlight Duplicates</source>
         <translation type="unfinished"/>
     </message>
@@ -38850,6 +39317,10 @@ Filtre</translation>
     <message>
         <source>Reapply</source>
         <translation>Yeniden Uygula</translation>
+    </message>
+    <message>
+        <source>Smart Split Columns</source>
+        <translation>Akıllı Bölme Sütunları</translation>
     </message>
     <message>
         <source>Merge worksheets 
@@ -38883,6 +39354,12 @@ with same name in workbooks</source>
     <message>
         <source>Connections</source>
         <translation>Bağlantılar</translation>
+    </message>
+    <message>
+		<source>Refresh 
+All</source>
+        <translation>Tümünü 
+Yenile</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -38941,6 +39418,32 @@ Yönet</translation>
         <source>Merge worksheets</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Highlight duplicates2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fetch duplicates2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fetch unique values2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Highlight unique values2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Import Text</source>
+        <translation>Metni İçe 
+Aktar</translation>
+    </message>
+    <message>
+        <source>Merge Tables</source>
+        <translation>Tabloları 
+Birleştir</translation>
+    </message>	
 </context>
 <context>
     <name>KxTpEtPivotTable</name>
@@ -39140,14 +39643,14 @@ Yönet</translation>
     <name>KxEtInsertWithLineEditCommand</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
 </context>
 <context>
     <name>KxEtWithLineEditCommand</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <source>Rows:</source>
@@ -39169,14 +39672,14 @@ Yönet</translation>
     <name>KxInsertCellsDlg</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool_vml.PictureColor</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <source>Color</source>
@@ -39199,7 +39702,7 @@ Yönet</translation>
     <name>rainbow.ct_picturetool.PictureColor</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <source>Color</source>
@@ -39222,7 +39725,7 @@ Yönet</translation>
     <name>rainbow.ct_picturetool_Vml.PictureColor</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <source>Color</source>
@@ -39313,7 +39816,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Two password inconsistencies</source>
-        <translation type="unfinished"/>
+        <translation>Parolalar tutarlı değil.</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
@@ -39431,6 +39934,14 @@ Yönet</translation>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation>Onay parolası eşleşmiyor.</translation>
+    </message>
 </context>
 <context>
     <name>KxCellStyleDlg</name>
@@ -39456,7 +39967,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"/>
+        <translation>Durdur</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -39500,7 +40011,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>ReadingOrder</source>
@@ -39524,7 +40035,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Bottom Aligned</source>
-        <translation>Alt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical Center Aligned</source>
@@ -39536,7 +40047,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
-        <translation type="unfinished"/>
+        <translation>Bağlam Okuma Düzeni</translation>
     </message>
     <message>
         <source>Left-to-Right Reading Order</source>
@@ -39624,7 +40135,7 @@ Yönet</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kenarlık Yok</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -39644,7 +40155,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Style Name Not Valid</source>
-        <translation type="unfinished"/>
+        <translation>Stil Adı Geçerli Değil</translation>
     </message>
     <message>
         <source>No Alignment</source>
@@ -39676,7 +40187,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Shrink To fit</source>
-        <translation type="unfinished"/>
+        <translation>Uyacak Şekilde Daralt</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -39869,7 +40380,7 @@ Yönet</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation type="unfinished"/>
+        <translation>Bu yazı tipi stili ekran için hazırlanmıştır. Yazdırma için en yakın uygun yazı tipi kullanılacak.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -39904,7 +40415,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"/>
+        <translation>Nesne Seç</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -39928,7 +40439,7 @@ Yönet</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"/>
+        <translation>3 nk.</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -39936,7 +40447,7 @@ Yönet</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"/>
+        <translation>6 nk.</translation>
     </message>
     <message>
         <source>Align</source>
@@ -39964,11 +40475,11 @@ Yönet</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>2.25 nk.</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0.25 nk.</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
@@ -40024,11 +40535,11 @@ Yönet</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Çevir</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0.5 nk.</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -40036,11 +40547,11 @@ Yönet</translation>
     </message>
     <message>
         <source>Insert Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Ekle</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Desenli Çizgiler</translation>
+        <translation>Çizgi Deseni</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -40048,11 +40559,11 @@ Yönet</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>1.5 nk.</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -40100,7 +40611,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Kalınlık</translation>
     </message>
     <message>
         <source>Edit Shape</source>
@@ -40128,7 +40639,7 @@ Yönet</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>4.5 nk.</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -40192,11 +40703,11 @@ Yönet</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Çevir</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire Nokta</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -40208,7 +40719,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekilleri Değiştir</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -40260,7 +40771,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Tire Nokta Nokta</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -40291,7 +40802,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translation type="unfinished"/>
+        <translation>Nesne Seç</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -40311,11 +40822,11 @@ Yönet</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>1 nk</translation>
+        <translation>1 nk.</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 nk</translation>
+        <translation>3 nk.</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -40323,7 +40834,7 @@ Yönet</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 nk</translation>
+        <translation>6 nk.</translation>
     </message>
     <message>
         <source>Align</source>
@@ -40351,15 +40862,15 @@ Yönet</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2.25 nk</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0.25 nk.</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"/>
+        <translation>0.75 nk.</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -40411,11 +40922,11 @@ Yönet</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Çevir</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0.5 nk</translation>
+        <translation>0.5 nk.</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -40423,7 +40934,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Deseni</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -40431,11 +40942,11 @@ Yönet</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu Renkleri</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>1.5 nk.</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -40487,7 +40998,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"/>
+        <translation>Kalınlık</translation>
     </message>
     <message>
         <source>Edit Shape</source>
@@ -40515,7 +41026,7 @@ Yönet</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"/>
+        <translation>4.5 nk.</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -40567,7 +41078,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -40583,7 +41094,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire Nokta</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -40595,7 +41106,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekilleri Değiştir</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -40647,7 +41158,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>Uzun Tire Nokta Nokta</translation>
+        <translation>Tire Nokta Nokta</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -40693,7 +41204,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Insert shape in before</source>
-        <translation type="unfinished"/>
+        <translation>Önüne Şekil Ekle</translation>
     </message>
     <message>
         <source>Reduce Level</source>
@@ -40701,7 +41212,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Insert Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Ekle</translation>
     </message>
     <message>
         <source>Create Graph</source>
@@ -40717,7 +41228,7 @@ Yönet</translation>
     </message>
     <message>
         <source>RightToLeft Layout</source>
-        <translation type="unfinished"/>
+        <translation>Sağdan Sola</translation>
     </message>
     <message>
         <source>Insert assist</source>
@@ -40725,19 +41236,19 @@ Yönet</translation>
     </message>
     <message>
         <source>Insert shape on below</source>
-        <translation type="unfinished"/>
+        <translation>Altına Şekil Ekle</translation>
     </message>
     <message>
         <source>Insert shape in after</source>
-        <translation type="unfinished"/>
+        <translation>Sonuna Şekil Ekle</translation>
     </message>
     <message>
         <source>Insert shape on above</source>
-        <translation type="unfinished"/>
+        <translation>Üstüne Şekil Ekle</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"/>
+        <translation>Arkaya</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -40761,7 +41272,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Right Hang</source>
-        <translation type="unfinished"/>
+        <translation>Sağda Asılı</translation>
     </message>
 </context>
 <context>
@@ -41088,7 +41599,7 @@ Yönet</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"/>
+        <translation>İlk Satır ve Son Satır</translation>
     </message>
     <message>
         <source>Last Row</source>
@@ -41202,7 +41713,8 @@ Yönet</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Durum 
+Çözümlemesi</translation>
     </message>
     <message>
         <source>Show the &amp;Values row</source>
@@ -41218,7 +41730,7 @@ Yönet</translation>
     </message>
     <message>
         <source>&amp;Dispaly fields in the report filter area:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rapor filtresi alanındaki alanları göster:</translation>
     </message>
     <message>
         <source>Format</source>
@@ -41278,7 +41790,7 @@ Yönet</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo Seçenekleri</translation>
     </message>
     <message>
         <source>Displa&amp;y item labels when no fields are in the values area</source>
@@ -41401,7 +41913,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Göster</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -41453,7 +41965,7 @@ Yönet</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo Seçenekleri</translation>
     </message>
     <message>
         <source>Restore Window</source>
@@ -41485,7 +41997,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -41567,6 +42079,16 @@ Yönet</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Field 
+Headers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move 
+PivotTable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PivotTable Name:</source>
         <translation>Özet Tablo Adı:</translation>
     </message>
@@ -41576,6 +42098,11 @@ Yönet</translation>
     </message>
     <message>
         <source>Fields,Items</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Data 
+Source</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -41624,7 +42151,13 @@ Yönet</translation>
     </message>
     <message>
         <source>Pivot Table</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo</translation>
+    </message>
+    <message>
+        <source>Field 
+List</source>
+        <translation>Alan 
+Listesi</translation>
     </message>
     <message>
         <source>Change Data Source</source>
@@ -41661,6 +42194,11 @@ Yönet</translation>
     <message>
         <source>Refresh</source>
         <translation>Yenile</translation>
+    </message>
+    <message>
+        <source>+/- 
+Buttons</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filter Connections</source>
@@ -41791,7 +42329,7 @@ Yönet</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo Seçenekleri</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -41807,6 +42345,16 @@ Yönet</translation>
     </message>
     <message>
         <source>Move Left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -41842,7 +42390,8 @@ Yönet</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
@@ -42592,7 +43141,7 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Yazı Tipi Renkleri</translation>
     </message>
     <message>
         <source>Center</source>
@@ -42619,9 +43168,14 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
         <translation>Kenarlıklar</translation>
     </message>
     <message>
-        <source>Merge and Center</source>
+        <source>Merge and 
+Center</source>
         <translation>Birleştir ve 
 Ortala</translation>
+    </message>
+    <message>
+        <source>Merge and Center</source>
+        <translation>Birleştir ve Ortala</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -43346,7 +43900,7 @@ Center</source>
     </message>
     <message>
         <source>Locking objects has no effect unless the sheet is protected. To help protect the sheet, choose Format on the Home page tab, and the choose Protect Sheet. A password is optional.</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa korumalı değilse nesneleri kilitlemenin hiçbir etkisi olmaz. Sayfayı korumaya yardımcı olmak için, Giriş sekmesinde Biçim&apos;i seçin ve sonra Sayfayı Koru&apos;yu seçin. Parola isteğe bağlıdır.</translation>
     </message>
     <message>
         <source>Protection</source>
@@ -43449,7 +44003,7 @@ Center</source>
     </message>
     <message>
         <source>InsertDropDownList</source>
-        <translation type="unfinished"/>
+        <translation>Açılan Liste Ekle</translation>
     </message>
     <message>
         <source>Subtotal</source>
@@ -43481,7 +44035,7 @@ Center</source>
     </message>
     <message>
         <source>Circle Valid Data</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Veriyi Daire İçine Al</translation>
     </message>
     <message>
         <source>Sort and Filter</source>
@@ -43516,7 +44070,7 @@ Center</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Düzeni</translation>
     </message>
     <message>
         <source>Share</source>
@@ -43524,7 +44078,7 @@ Center</source>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Onarımı</translation>
     </message>
     <message>
         <source>Roaming File</source>
@@ -43544,7 +44098,7 @@ Center</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Resim Olarak Dışa Aktar</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -43592,7 +44146,7 @@ Center</source>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -43604,7 +44158,7 @@ Center</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Invoice Maker</source>
@@ -43628,7 +44182,7 @@ Center</source>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlar</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
@@ -43641,7 +44195,7 @@ Center</source>
     <message>
         <source>File Roaming</source>
         <comment>professional</comment>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan Dosyalar</translation>
     </message>
     <message>
         <source>RB_Document Slimming</source>
@@ -43669,7 +44223,7 @@ Center</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -43677,7 +44231,7 @@ Center</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerine Kaydet</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -43689,7 +44243,7 @@ Center</source>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>Online Co-edit</source>
@@ -43697,7 +44251,7 @@ Center</source>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan Dosyalar</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -43740,7 +44294,7 @@ Center</source>
     </message>
     <message>
         <source>Insert Pictures From Phone</source>
-        <translation type="unfinished"/>
+        <translation>Telefondan Resim Ekle</translation>
     </message>
     <message>
         <source>Shortcut Setting</source>
@@ -43749,7 +44303,7 @@ Center</source>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
@@ -43757,7 +44311,7 @@ Center</source>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Onarımı</translation>
     </message>
     <message>
         <source>Hardware Encryption</source>
@@ -43769,11 +44323,11 @@ Center</source>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Geri Bildirim</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resimler</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Picture Frame</source>
@@ -43781,11 +44335,11 @@ Center</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Resim Olarak Dışa Aktar</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Yazı Tipleri</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -43801,11 +44355,11 @@ Center</source>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation type="unfinished"/>
+        <translation>Simge Kütüphanesi</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Paylaş</translation>
     </message>
     <message>
         <source>All Comments</source>
@@ -43821,7 +44375,7 @@ Center</source>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Durum Çözümlemesi</translation>
     </message>
     <message>
         <source>Split or Merge</source>
@@ -43837,7 +44391,7 @@ Center</source>
     </message>
     <message>
         <source>PDF To Excel</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Excel&apos;e</translation>
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
@@ -43853,7 +44407,7 @@ Center</source>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -43877,7 +44431,7 @@ Center</source>
     </message>
     <message>
         <source>ShortThemeColor</source>
-        <translation type="unfinished"/>
+        <translation>Tema Rengi</translation>
     </message>
     <message>
         <source>More Online Charts</source>
@@ -43925,7 +44479,7 @@ Center</source>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>My Picture</source>
@@ -43937,7 +44491,7 @@ Center</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Paylaş</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Picture Gallery</source>
@@ -43953,7 +44507,7 @@ Center</source>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -43969,7 +44523,7 @@ Center</source>
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation type="unfinished"/>
+        <translation>PDF Birleştir</translation>
     </message>
     <message>
         <source>PDF Split</source>
@@ -43985,7 +44539,7 @@ Center</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -43993,11 +44547,11 @@ Center</source>
     </message>
     <message>
         <source>ShortChart</source>
-        <translation type="unfinished"/>
+        <translation>Grafik</translation>
     </message>
     <message>
         <source>ShortWordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -44041,15 +44595,15 @@ Center</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerine Kaydet</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation type="unfinished"/>
+        <translation>Şanslı Para</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -44057,15 +44611,15 @@ Center</source>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Ayıkla</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation type="unfinished"/>
+        <translation>Belgedeki Tüm Resimleri Dönüştür</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Resmi Dönüştür</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -44073,15 +44627,15 @@ Center</source>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation>Paylaş</translation>
+        <translation>İşbirliği</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Ayıklama</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -44089,7 +44643,7 @@ Center</source>
     </message>
     <message>
         <source>GroupSending</source>
-        <translation type="unfinished"/>
+        <translation>Gruba gönder</translation>
     </message>
     <message>
         <source>Add or view comments in your document.</source>
@@ -44101,7 +44655,7 @@ Center</source>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzinleri Kontrol Et</translation>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -44119,6 +44673,14 @@ Center</source>
         <source>From Phone</source>
         <translation>Telefondan</translation>
     </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>Resimden Metne</translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_workspace</name>
@@ -44132,7 +44694,7 @@ Center</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Düzeni</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -44192,15 +44754,15 @@ Center</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşım Bağlantısı Oluştur</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerine Kaydet</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -44208,7 +44770,7 @@ Center</source>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan Dosyalar</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -44299,7 +44861,7 @@ Center</source>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo Seçenekleri</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -44370,7 +44932,7 @@ Center</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -44383,7 +44945,7 @@ Modu</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -44468,6 +45030,12 @@ Görüntüle</translation>
         <translation>Koyu Mod</translation>
     </message>
     <message>
+        <source>Page Break 
+Preview</source>
+        <translation>Sayfa Sonu
+Önizleme</translation>
+    </message>
+    <message>
         <source>Cascade</source>
         <translation>Basamakla</translation>
     </message>
@@ -44494,7 +45062,7 @@ Screen</source>
     </message>
     <message>
         <source>Reset Window Position</source>
-        <translation type="unfinished"/>
+        <translation>Konumu Sıfırla</translation>
     </message>
     <message>
         <source>Custom Views</source>
@@ -44514,8 +45082,13 @@ Görünümler</translation>
         <translation>İlk Sütunu Dondur</translation>
     </message>
     <message>
-        <source>Protect Eyes</source>
+        <source>Close
+Other Window</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Protect Eyes</source>
+        <translation>Göz Koruma</translation>
     </message>
     <message>
         <source>Light Mode</source>
@@ -44526,9 +45099,18 @@ Görünümler</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Worksheet Options</source>
+        <translation>Çalışma Sayfası Seçenekleri</translation>
+    </message>
+    <message>
         <source>New
 Window</source>
-        <translation type="unfinished"/>
+        <translation>Yeni
+Pencere</translation>
+    </message>
+    <message>
+        <source>Visual Basic Editor</source>
+        <translation>Visual Basic Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -44547,7 +45129,7 @@ Window</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Düzeni</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -44563,7 +45145,7 @@ Window</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -44743,7 +45325,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -44764,6 +45346,12 @@ Properties</source>
 Özellikleri</translation>
     </message>
     <message>
+        <source>Selection 
+Pane</source>
+        <translation>Seçim 
+Bölmesi</translation>
+    </message>
+    <message>
         <source>IconLibrary</source>
         <translation type="unfinished"/>
     </message>
@@ -44777,7 +45365,8 @@ Properties</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -44886,7 +45475,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi ve Alt Bilgi</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -44918,7 +45507,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -44934,10 +45523,14 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow</source>
-        <translation type="unfinished"/>
+        <translation>Akış çizelgesi ekle</translation>
     </message>
     <message>
         <source>InsertProcesson_Mind</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert New Equation</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -44947,6 +45540,14 @@ Görüntüsü</translation>
     <message>
         <source>More Symbols</source>
         <translation>Diğer Simgeler</translation>
+    </message>
+    <message>
+        <source>Chart Gallery</source>
+        <translation>Grafik Galerisi</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44981,6 +45582,11 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>External Data</source>
+        <translation>Dış Veri</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -45016,7 +45622,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Onarımı</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -45086,6 +45692,14 @@ Görüntüsü</translation>
         <source>3-D Settings</source>
         <translation>3-B Ayarları</translation>
     </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>Resimden Metne</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF&apos;den Word&apos;e</translation>
+    </message>
 </context>
 <context>
     <name>etContentPosition</name>
@@ -45107,7 +45721,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>&amp;Move but don&apos;t &amp;size with cells</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hücrelerle taşı ancak boyutlandırma</translation>
     </message>
     <message>
         <source>&amp;Print object</source>
@@ -45174,7 +45788,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Button Height:</source>
-        <translation type="unfinished"/>
+        <translation>Düğme Yüksekliği:</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -45222,7 +45836,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Bölmesi</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -45262,7 +45876,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Column Width:</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Genişliği:</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -45329,7 +45943,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Button Height:</source>
-        <translation type="unfinished"/>
+        <translation>Düğme Yüksekliği:</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -45377,7 +45991,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Bölmesi</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -45417,7 +46031,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Column Width:</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Genişliği:</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -45771,7 +46385,8 @@ Korumasını Kaldır</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Değişiklikleri İzle</translation>
+        <translation>Değişiklikleri
+İzle</translation>
     </message>
     <message>
         <source>Reset Comment</source>
@@ -45790,12 +46405,17 @@ Changes</source>
         <translation>Çalışma Kitabını Koru ve Paylaş</translation>
     </message>
     <message>
+        <source>Share
+Workbook</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Reset All Comments</source>
         <translation>Tüm Açıklamaları Sıfırla</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Dönüştürme</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous</source>
@@ -45803,7 +46423,7 @@ Changes</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -45812,7 +46432,8 @@ Changes</source>
     <message>
         <source>Protect 
 Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı 
+Koru</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -45849,7 +46470,7 @@ Workbook</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation>Açıklamayı Sil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New 
@@ -45859,11 +46480,11 @@ Açıklama</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzinleri Kontrol Et</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"/>
+        <translation>Yazım Denetimi</translation>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
@@ -45875,11 +46496,23 @@ Açıklama</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye 
+Dönüştür</translation>
     </message>
     <message>
         <source>Document Security</source>
-        <translation type="unfinished"/>
+        <translation>Belge 
+Güvenliği</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation>Belge Şifreleme</translation>
+    </message>
+    <message>
+        <source>Edit
+Comment</source>
+        <translation>Açıklamayı
+Düzenle</translation>
     </message>
 </context>
 <context>
@@ -45986,7 +46619,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"/>
+        <translation>Yazım Denetimi</translation>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
@@ -45994,7 +46627,12 @@ Açıklama</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince&apos;ye 
+Dönüştür</translation>
+    </message>
+    <message>
+        <source>Edit Comment</source>
+        <translation>Açıklamayı Düzenle</translation>
     </message>
 </context>
 <context>
@@ -46138,7 +46776,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>SingleAccounting</source>
-        <translation type="unfinished"/>
+        <translation>Uzak Tek</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
@@ -46162,7 +46800,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>DoubleAccounting</source>
-        <translation type="unfinished"/>
+        <translation>Uzak Çift</translation>
     </message>
 </context>
 <context>
@@ -46314,7 +46952,7 @@ found a solution.</source>
     </message>
     <message>
         <source>Paper Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -46330,6 +46968,12 @@ Boşlukları</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Page
+Setup</source>
+        <translation>Sayfa
+Yapısı</translation>
+    </message>
+    <message>
         <source>Portrait</source>
         <translation>Dikey</translation>
     </message>
@@ -46342,12 +46986,23 @@ Boşlukları</translation>
         <translation>Yazıcı</translation>
     </message>
     <message>
+        <source>Normal
+View</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PageSkip</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Collate</source>
         <translation>Harmanla</translation>
+    </message>
+    <message>
+        <source>Page Break
+Preview</source>
+        <translation>Sayfa Sonu
+Önizleme</translation>
     </message>
     <message>
         <source>Previous
@@ -46381,7 +47036,36 @@ Sayfa</translation>
     </message>
     <message>
         <source>Print Entire Workbook Directly</source>
+        <translation>Tüm Çalışma Kitabını Yazdır</translation>
+    </message>
+    <message>
+        <source>Fit All Columns on One Page</source>
+        <translation>Tüm Sütunları Bir Sayfaya Sığdır</translation>
+    </message>
+    <message>
+        <source>Fit Sheet on One Page</source>
+        <translation>Sayfayı Bir Sayfaya Sığdır</translation>
+    </message>
+    <message>
+        <source>No Zoom</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom Zoom</source>
+        <translation>Özel Yakınlaştırma</translation>
+    </message>
+    <message>
+        <source>Fit All Rows on One Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More Setup</source>
+        <translation>Diğer Ayarlar</translation>
+    </message>
+    <message>
+        <source>Page Zoom</source>
+        <translation>Sayfa 
+Yakınlaştırma</translation>
     </message>
 </context>
 <context>
@@ -46448,7 +47132,7 @@ Sayfa</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi ve Alt Bilgi</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -46798,7 +47482,7 @@ Boşlukları</translation>
     </message>
     <message>
         <source>InsertPageBreak</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Sonu Ekle</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -46811,6 +47495,11 @@ Boşlukları</translation>
     <message>
         <source>No Zoom</source>
         <translation>Yakınlaştırma Yok</translation>
+    </message>
+    <message>
+        <source>Print
+Area</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -46843,7 +47532,8 @@ Boşlukları</translation>
     <message>
         <source>Bring 
 Forward</source>
-        <translation type="unfinished"/>
+        <translation>Öne 
+Getir</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -46875,7 +47565,8 @@ Forward</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"/>
+        <translation>Seçim 
+Bölmesi</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -46891,7 +47582,7 @@ Forward</source>
     </message>
     <message>
         <source>Print Header Or Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üstbilgi veya Altbilgi Yazdır</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -46904,7 +47595,8 @@ Forward</source>
     <message>
         <source>Send 
 Backward</source>
-        <translation type="unfinished"/>
+        <translation>Arkaya 
+Gönder</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -46945,6 +47637,20 @@ Backward</source>
     <message>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
+    </message>
+    <message>
+        <source>Breaks</source>
+        <translation>Kesmeler</translation>
+    </message>
+    <message>
+        <source>Custom Zoom</source>
+        <translation>Özel Yakınlaştırma</translation>
+    </message>
+    <message>
+        <source>Print
+Titles</source>
+        <translation>Yazdırma
+Başlıkları</translation>
     </message>
 </context>
 <context>
@@ -47124,7 +47830,7 @@ Backward</source>
     </message>
     <message>
         <source>My data has &amp;header</source>
-        <translation type="unfinished"/>
+        <translation>Verilerimde &amp;üst bilgi var</translation>
     </message>
     <message>
         <source>&amp;Copy Level</source>
@@ -47230,7 +47936,7 @@ Backward</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -47246,7 +47952,7 @@ Backward</source>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resimler</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -47307,7 +48013,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -47319,11 +48025,11 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi ve Alt Bilgi</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
-        <translation>Grafik</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spinner</source>
@@ -47339,7 +48045,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -47602,7 +48308,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Non&amp;e(show negative values bars in same directions as positive)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yok (negatif değer çubuklarını pozitifle aynı yönde göster)</translation>
     </message>
     <message>
         <source>&amp;Apply same border color as positive bar</source>
@@ -47685,7 +48391,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Art Word Gallery</source>
-        <translation>WordArt Galerisi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distributed</source>
@@ -47740,7 +48446,7 @@ Temizle</translation>
     </message>
     <message>
         <source>A Data Occurring</source>
-        <translation type="unfinished"/>
+        <translation>İlgili Tarih</translation>
     </message>
     <message>
         <source>% with</source>
@@ -47871,7 +48577,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Web 查询选项</source>
-        <translation type="unfinished"/>
+        <translation>Web sorgu seçenekleri</translation>
     </message>
     <message>
         <source>连续分隔符号视为单个处理(&amp;T)</source>
@@ -47891,7 +48597,7 @@ Temizle</translation>
     </message>
     <message>
         <source>其他导入设置</source>
-        <translation type="unfinished"/>
+        <translation>Diğer İçeri Aktarma ayarları</translation>
     </message>
     <message>
         <source>将&lt;PRE&gt;块导至列中(&amp;I)</source>
@@ -48030,7 +48736,7 @@ Temizle</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.xlsx;*.xls)</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.xlsx;*.xls)</translation>
     </message>
     <message>
         <source> · Macro
@@ -48228,7 +48934,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Excel2007 XML Template(*.xltm)</source>
-        <translation type="unfinished"/>
+        <translation>Excel2007 XML Şablonu(*.xltm)</translation>
     </message>
     <message>
         <source>The following features of your workbook are not going to be saved in HTML Spreadsheets:
@@ -48330,12 +49036,25 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <translation>WPS Elektronik Tablo 2007/2010 Dosyaları(*.etx)</translation>
     </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)</source>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.xls)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has detected that &apos;%1&apos; is a SYLK file, but cannot load it. Either the file has errors or it is not a SYLK file format. Click OK to try to open the file in a differenct format.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"/>
+        <translation>GUI yükleniyor</translation>
     </message>
 </context>
 <context>
@@ -48513,7 +49232,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Düzeni</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -48557,7 +49276,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
@@ -48565,11 +49284,11 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Paylaş</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -48640,7 +49359,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>Other/Advanced(&amp;W)</source>
-        <translation type="unfinished"/>
+        <translation>Diğer/Gelişmiş(&amp;W)</translation>
     </message>
 </context>
 <context>
@@ -48815,6 +49534,10 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#0046eb;&quot;&gt;açıklama&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
+        <source>&amp;Help about this Function</source>
+        <translation>&amp;Bu İşlev hakkında yardım</translation>
+    </message>
+    <message>
         <source>Formula List:</source>
         <translation type="unfinished"/>
     </message>
@@ -48842,7 +49565,7 @@ p, li { white-space: pre-wrap; }
     <name>KxResizeTableDlg</name>
     <message>
         <source>Table Resize</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Yeniden Boyutlandırma</translation>
     </message>
     <message>
         <source>&amp;Select the new data range for your table:</source>
@@ -49258,6 +49981,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</source>
         <translation>Yüzde biçimleri hücre içeriğini 100 ile çarpar ve sonucu bir yüzde simgesi ie birlikte görüntüler.</translation>
+    </message>
+    <message>
+        <source>Chinese(HongKong)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -49821,11 +50552,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Extract the same rows of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>İki çalışma sayfasının aynı satırlarını ayıkla</translation>
     </message>
     <message>
         <source>Extract different rows of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>İki çalışma sayfasının farklı satırlarını ayıkla</translation>
     </message>
     <message>
         <source>Mark different cells of two worksheets</source>
@@ -49833,7 +50564,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the row data in the worksheet and mark the entire row that is repeated.</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfasındaki satır verilerini karşılaştırın ve yinelenen tüm satırı işaretleyin.</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -49841,7 +50572,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the row data of the selected area, find the duplicate rows, and extract them to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen alanın satır verilerini karşılaştırın, yinelenen satırları bulun ve bunları yeni çalışma sayfasına ayıklayın.</translation>
     </message>
     <message>
         <source>Compare the rows in the selected area and mark the only row data in them.</source>
@@ -50005,6 +50736,10 @@ Değer: </translation>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Duple&amp;x print</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxSplitSheetDlg</name>
@@ -50091,7 +50826,7 @@ Properties</source>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation type="unfinished"/>
+        <translation>Makro Kaydet</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -50125,7 +50860,7 @@ Design Mode</source>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"/>
+        <translation>Kodu Görüntüle</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -50133,11 +50868,17 @@ Design Mode</source>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Modu</translation>
     </message>
     <message>
         <source>Toggle Button</source>
         <translation>İki Durumlu Düğme</translation>
+    </message>
+    <message>
+        <source>Visual Basic
+Editor</source>
+        <translation>Visual Basic
+Düzenleyicisi</translation>
     </message>
 </context>
 <context>
@@ -50204,7 +50945,7 @@ Design Mode</source>
     </message>
     <message>
         <source>Relative References</source>
-        <translation type="unfinished"/>
+        <translation>Göreli Başvurular</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -50540,7 +51281,7 @@ Document</source>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Modu</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -50662,7 +51403,7 @@ Document</source>
     </message>
     <message>
         <source>LinkType</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Türü</translation>
     </message>
     <message>
         <source>Let users choose to display the &amp;alert or not</source>
@@ -50682,7 +51423,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;AutoUpdate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otomatik</translation>
     </message>
     <message>
         <source>Source</source>
@@ -50727,6 +51468,10 @@ Document</source>
     <message>
         <source>Do not display the alert and update lin&amp;ks</source>
         <translation>Uyarı ve güncelleştirme &amp;bağlantılarını görüntüleme</translation>
+    </message>
+    <message>
+        <source>Update:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Startup Prompt...</source>
@@ -50977,11 +51722,11 @@ Document</source>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kenarlık Yok</translation>
     </message>
     <message>
         <source>Values &amp; Source Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Değerler ve Kaynak Biçimlendirmesi</translation>
     </message>
     <message>
         <source>Keep Source Column Widths</source>
@@ -50993,7 +51738,7 @@ Document</source>
     </message>
     <message>
         <source>Values &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Değerler ve Sayı Biçimlendirmesi</translation>
     </message>
 </context>
 <context>
@@ -51068,6 +51813,11 @@ Document</source>
     <message>
         <source>Banded Rows</source>
         <translation>Şeritli Satırlar</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -51167,15 +51917,15 @@ Document</source>
     </message>
     <message>
         <source>Flip on long edge</source>
-        <translation type="unfinished"/>
+        <translation>Çift yönlü yazdırma - Uzun kenardan çevir</translation>
     </message>
     <message>
         <source>Manual duplex</source>
-        <translation type="unfinished"/>
+        <translation>El ile çift yönlü</translation>
     </message>
     <message>
         <source>Print one sided</source>
-        <translation type="unfinished"/>
+        <translation>Tek yüze yazdır</translation>
     </message>
     <message>
         <source>Flip on short edge</source>
@@ -51295,7 +52045,7 @@ Document</source>
     </message>
     <message>
         <source>add new style</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Hücre Stili</translation>
     </message>
 </context>
 <context>
@@ -51394,7 +52144,7 @@ Document</source>
     </message>
     <message>
         <source>User Define</source>
-        <translation type="unfinished"/>
+        <translation>İsteğe Uyarlanmış</translation>
     </message>
     <message>
         <source>Data and Model</source>
@@ -51444,6 +52194,11 @@ Document</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Refresh Data</source>
         <translation>Verileri Yenile</translation>
     </message>
@@ -51484,7 +52239,7 @@ Document</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="unfinished"/>
+        <translation>Damlalık</translation>
     </message>
     <message>
         <source>More Border Colors</source>
@@ -51638,7 +52393,7 @@ Do you want to proceed with changes to the connection in this workbook?</source>
     </message>
     <message>
         <source>Repeat Value (&amp;M):</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tekrarlanan Değerler:</translation>
     </message>
     <message>
         <source>Please select a column to compare by row!</source>
@@ -51697,6 +52452,11 @@ Do you want to proceed with changes to the connection in this workbook?</source>
     <message>
         <source>Refresh All</source>
         <translation>Tümünü Yenile</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -51828,7 +52588,7 @@ Do you want to proceed with changes to the connection in this workbook?</source>
     </message>
     <message>
         <source>Title Rows</source>
-        <translation type="unfinished"/>
+        <translation>Başlık Satırları</translation>
     </message>
     <message>
         <source>Start Recombine</source>
@@ -51856,7 +52616,7 @@ Do you want to proceed with changes to the connection in this workbook?</source>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Use original &amp;sheet names</source>
@@ -51965,7 +52725,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>ClearAll</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Temizle</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -52077,7 +52837,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Pivot Table</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo</translation>
     </message>
     <message>
         <source>Pivot Chart</source>
@@ -52090,6 +52850,11 @@ prior to sharing the workbook.</source>
     <message>
         <source>Export to Book</source>
         <translation>Kitaba Aktar</translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoFilter View</source>
@@ -52233,7 +52998,7 @@ prior to sharing the workbook.</source>
     <name>ongmani.ct_security</name>
     <message>
         <source>document authentication</source>
-        <translation type="unfinished"/>
+        <translation>Belge doğrulama</translation>
     </message>
     <message>
         <source>Permissions</source>
@@ -52253,7 +53018,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>document authorization</source>
-        <translation type="unfinished"/>
+        <translation>Belge yetkilendirme</translation>
     </message>
     <message>
         <source>File backup</source>
@@ -52269,11 +53034,11 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>document security</source>
-        <translation type="unfinished"/>
+        <translation>Belge güvenliği</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -52281,11 +53046,11 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Öne</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzinleri Kontrol Et</translation>
     </message>
     <message>
         <source>Document Permission</source>
@@ -52370,6 +53135,16 @@ prior to sharing the workbook.</source>
         <source>Report Layout</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>kdlgExportToOFD</name>
@@ -52435,7 +53210,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished"/>
+        <translation>İzin ayarlarını korumak için &amp;parola</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
@@ -52483,7 +53258,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"/>
+        <translation>Not: aşağıdaki ayarları etkili kılmanın ve başkaları tarafından değiştirilememesinin tek yolu parola belirlemektir.</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
@@ -52602,7 +53377,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"/>
+        <translation>Not: aşağıdaki ayarları etkili kılmanın ve başkaları tarafından değiştirilememesinin tek yolu parola belirlemektir.</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
@@ -52629,11 +53404,11 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Çevrimiçi Resimler</translation>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Durum Çözümlemesi</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -52665,7 +53440,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim Ekle</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
@@ -52677,7 +53452,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation type="unfinished"/>
+        <translation>Şanslı Para</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -52686,6 +53461,10 @@ prior to sharing the workbook.</source>
     <message>
         <source>Selection Speech</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
 </context>
 <context>
@@ -52819,6 +53598,45 @@ prior to sharing the workbook.</source>
         <source>Undefined</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>&amp;Help about this Function</source>
+        <translation>&amp;Bu İşlev hakkında yardım</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtChartTypeGalleryCommand</name>
+    <message>
+        <source>opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>volume traded, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To create a combination chart, select at least two series of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>volume traded, opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxReadingModeGuildDlg</name>
@@ -52855,7 +53673,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Pivot Table</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo</translation>
     </message>
     <message>
         <source>Pivot Chart</source>
@@ -52867,6 +53685,11 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Export to Book</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -53107,7 +53930,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Custom Views</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm yönetimi</translation>
     </message>
 </context>
 <context>
@@ -53138,7 +53961,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Range 1 (&amp;L):</source>
-        <translation type="unfinished"/>
+        <translation>Aralık 1 (&amp;L):</translation>
     </message>
     <message>
         <source>Range 2 (&amp;S):</source>
@@ -53335,7 +54158,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"/>
+        <translation>Arkaya</translation>
     </message>
     <message>
         <source>New Sheet</source>
@@ -53388,7 +54211,7 @@ prior to sharing the workbook.</source>
     <name>KxDlgSlicerReportConnection</name>
     <message>
         <source>Select PivotTable reports to connecct to this filter</source>
-        <translation type="unfinished"/>
+        <translation>Bu filtreye bağlanmak için Özet Tablo raporlarını seçin</translation>
     </message>
     <message>
         <source>Report Connections</source>
@@ -53484,7 +54307,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Damlalık</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -53648,7 +54471,7 @@ Summary</source>
     <name>classics.proxycommands</name>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Resim</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -53790,6 +54613,16 @@ style for the table</source>
 
 Choose a visual
 style for the pivot table</source>
+        <translation>Diğer
+
+Özet Tablo için 
+görsel bir stil seçin.</translation>
+    </message>
+    <message>
+        <source>More
+
+Choose a visual
+style for the slicer</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -53844,15 +54677,15 @@ Do you want to change to Manual?</source>
     <name>KxEtListPicturesCommand</name>
     <message>
         <source>FloatPicture</source>
-        <translation type="unfinished"/>
+        <translation>Yüzen Resim</translation>
     </message>
     <message>
         <source>Embed a picture in a cell and display it, depending on cell position and size.</source>
-        <translation type="unfinished"/>
+        <translation>Bir resim bir hücreye yerleştirildikten sonra, boyutu ve konumu hücre ile birlikte değişir.</translation>
     </message>
     <message>
         <source>EmbededPicture</source>
-        <translation type="unfinished"/>
+        <translation>Hücreye Göm</translation>
     </message>
     <message>
         <source>Embed Cell Picture</source>
@@ -53917,11 +54750,11 @@ Do you want to change to Manual?</source>
     <name>KxEtAfColorSortModel</name>
     <message>
         <source>Sort By Cell Color</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Rengine Göre Sırala</translation>
     </message>
     <message>
         <source>More Cell Icon</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Hücre Simgeleri...</translation>
     </message>
     <message>
         <source>Sort By Cell Icon</source>
@@ -53929,7 +54762,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>More Cell Color</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Hücre Renkleri</translation>
     </message>
     <message>
         <source>No Cell Icon</source>
@@ -53937,7 +54770,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Sort By Font Color</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Rengine Göre Sırala</translation>
     </message>
     <message>
         <source>No Cell Color</source>
@@ -54544,7 +55377,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>&amp;Flash Fill</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hızlı Doldurma</translation>
     </message>
     <message>
         <source>&amp;Copy Cells</source>
@@ -54621,7 +55454,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>New WorkBook</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çalışma Kitabı</translation>
     </message>
 </context>
 <context>
@@ -54644,7 +55477,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>Please specify sheets to be marked</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen karşılaştırılacak çalışma sayfalarını belirtin.</translation>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
@@ -55345,6 +56178,73 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>ongmani.ct_equationtools</name>
+    <message>
+        <source>Accent</source>
+        <translation>Vurgu</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>Doğrusal</translation>
+    </message>
+    <message>
+        <source>Limit and Log</source>
+        <translation>Limit ve Logaritma</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation>Betik</translation>
+    </message>
+    <message>
+        <source>Integral</source>
+        <translation>İntegral</translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <translation>Matris</translation>
+    </message>
+       <message>
+        <source>Operator</source>
+        <translation>İşleç</translation>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translation>Kesir</translation>
+    </message>
+    <message>
+        <source>Radical</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>Denklem</translation>
+    </message>
+    <message>
+        <source>Bracket</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation>Semboller</translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation>İşlev</translation>
+    </message>
+    <message>
+        <source>Large Operator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxMergeRangDataTitle</name>
     <message>
         <source>Merge Rang Data Title Text</source>
@@ -55425,7 +56325,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Range 1 (&amp;L):</source>
-        <translation type="unfinished"/>
+        <translation>Aralık 1 (&amp;L):</translation>
     </message>
     <message>
         <source>Export: New WorkSheet</source>
@@ -55433,7 +56333,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Range 2 (&amp;S):</source>
-        <translation type="unfinished"/>
+        <translation>Aralık 2 (&amp;S):</translation>
     </message>
 </context>
 <context>
@@ -55494,7 +56394,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>The model is Loading...</source>
-        <translation type="unfinished"/>
+        <translation>Model Yükleniyor...</translation>
     </message>
 </context>
 <context>
@@ -55536,7 +56436,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>moreColor</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk&amp;...</translation>
     </message>
     <message>
         <source>Cell shading</source>
@@ -55562,7 +56462,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtToolsCellConvertCommand</name>
     <message>
         <source>Please select a valid range</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen geçerli bir aralık seçin</translation>
     </message>
 </context>
 <context>
@@ -55801,7 +56701,7 @@ Please unfreeze pane.</source>
     <name>KxDefineNameDlg</name>
     <message>
         <source>An error occurred when deleted.</source>
-        <translation type="unfinished"/>
+        <translation>Silinirken bir hata oluştu.</translation>
     </message>
     <message>
         <source>The name is empty.</source>
@@ -55828,37 +56728,6 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Introduce</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_equationtools</name>
-    <message>
-        <source>Linear</source>
-        <translation>Doğrusal</translation>
-    </message>
-    <message>
-        <source>Matrix</source>
-        <translation>Matris</translation>
-    </message>
-    <message>
-        <source>Fraction</source>
-        <translation>Kesir</translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation>Denklem</translation>
-    </message>
-    <message>
-        <source>Symbols</source>
-        <translation>Semboller</translation>
-    </message>
-    <message>
-        <source>Function</source>
-        <translation>İşlev</translation>
-    </message>
-    <message>
-        <source>Professional</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -55914,11 +56783,11 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Collate</source>
-        <translation type="unfinished"/>
+        <translation>Harmanlanmış</translation>
     </message>
     <message>
         <source>Uncollate</source>
-        <translation type="unfinished"/>
+        <translation>Harmanlanmamış</translation>
     </message>
 </context>
 <context>
@@ -56012,7 +56881,7 @@ Please unfreeze pane.</source>
     <name>KxSLEditDateDlg</name>
     <message>
         <source>Sparkline Date Range</source>
-        <translation type="unfinished"/>
+        <translation>Mini Grafik Tarih Aralığı</translation>
     </message>
 </context>
 <context>
@@ -56312,7 +57181,7 @@ To make changes, click Unprotect Sheet in the Review tab (You might need a passw
     </message>
     <message>
         <source>other user</source>
-        <translation type="unfinished"/>
+        <translation>diğer kullanıcı</translation>
     </message>
 </context>
 <context>
@@ -56669,7 +57538,7 @@ Note that data links can be used to access and share confidential information wi
     <name>KxDlgCustomHeaderFooter</name>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi ve Alt Bilgi</translation>
     </message>
 </context>
 <context>
@@ -56966,7 +57835,7 @@ Düzenle</translation>
     <name>KxProtectionWidget</name>
     <message>
         <source>Locking cells or hiding formulas has no effect until you protect the worksheet(Review tab, Protect Sheet button.)</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfasını korumalı (Gözden Geçir sekmesi, Grubu Koru, Sayfayı Koru düğmesi) yapmadığınız sürece, hücreleri kilitlemenin veya formülleri gizlemenin hiçbir etkisi olmaz.</translation>
     </message>
 </context>
 <context>
@@ -57062,7 +57931,7 @@ Düzenle</translation>
     <name>feedback::KxFeedbackLabel</name>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
@@ -57190,6 +58059,496 @@ Düzenle</translation>
     <message>
         <source>Alignment</source>
         <translation>Hizalama</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryModel</name>
+    <message>
+        <source>Pie</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Area</source>
+        <translation>Alan</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>Çizgi</translation>
+    </message>
+    <message>
+        <source>Stacked Area - Clustered Column</source>
+        <translation>Yığılmış Alan - Kümelenmiş Sütun</translation>
+    </message>
+    <message>
+        <source>Combo</source>
+        <translation>Birleşik</translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <translation>Radar</translation>
+    </message>
+    <message>
+        <source>Stock</source>
+        <translation>Hisse Senedi</translation>
+    </message>
+    <message>
+        <source>2-D Area</source>
+        <translation>2-B Alan</translation>
+    </message>
+    <message>
+        <source>2-D Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open-High-Low-Close</source>
+        <translation>Açılış-Yüksek-Düşük-Kapanış</translation>
+    </message>
+    <message>
+        <source>Stacked Bar</source>
+        <translation>Yığılmış Çubuk</translation>
+    </message>
+    <message>
+        <source>Radar with Markers</source>
+        <translation>İşaretçileri Olan Radar</translation>
+    </message>
+    <message>
+        <source>Filled Radar</source>
+        <translation>Dolu Radar</translation>
+    </message>
+    <message>
+        <source>Clustered Bar</source>
+        <translation>Kümelenmiş Çubuk</translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines</source>
+        <translation>Düzgünleştirilmiş Çizgileri Olan Dağılım</translation>
+    </message>
+    <message>
+        <source>Clustered Column - Line on Secondary Axis</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>X Y (Scatter)</source>
+        <translation>X Y (Dağılım)</translation>
+    </message>
+    <message>
+        <source>Line with Markers</source>
+        <translation>İşaretçileri Olan Çizgi</translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines and Markers</source>
+        <translation>Düzgünleştirilmiş Çizgileri ve İşaretçileri Olan Dağılım</translation>
+    </message>
+    <message>
+        <source>3-D Bubble</source>
+        <translation>3-B Kabarcık</translation>
+    </message>
+    <message>
+        <source>Bubble</source>
+        <translation>Kabarcık</translation>
+    </message>
+    <message>
+        <source>2-D Column</source>
+        <translation>2-B Sütun</translation>
+    </message>
+    <message>
+        <source>2-D Bar</source>
+        <translation>2-B Çubuk</translation>
+    </message>
+    <message>
+        <source>2-D Pie</source>
+        <translation>2-B Pasta</translation>
+    </message>
+    <message>
+        <source>Bar Of Pie</source>
+        <translation>Pasta Çubuğu</translation>
+    </message>
+    <message>
+        <source>Pie Of Pie</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume-High-Low-Close</source>
+        <translation>İşlem Hacmi-Yüksek-Düşük-Kapanış</translation>
+    </message>
+    <message>
+        <source>Doughnut</source>
+        <translation>Halka</translation>
+    </message>
+    <message>
+        <source>100% Stacked Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume-Open-High-Low-Close</source>
+        <translation>İşlem Hacmi-Açılış-Yüksek-Düşük-Kapanış</translation>
+    </message>
+    <message>
+        <source>High-Low-Close</source>
+        <translation>Yüksek-Düşük-Kapanış</translation>
+    </message>
+    <message>
+        <source>Stacked Line with Markers</source>
+        <translation>İşaretçileri Olan Yığılmış Çizgi</translation>
+    </message>
+    <message>
+        <source>Scatter</source>
+        <translation>Dağılım</translation>
+    </message>
+    <message>
+        <source>Clustered Column Line</source>
+        <translation>Kümelenmiş Sütun - Çizgi</translation>
+    </message>
+    <message>
+        <source>100% Stacked Column</source>
+        <translation>%100 Yığılmış Sütun</translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines</source>
+        <translation>Düz Çizgileri Olan Dağılım</translation>
+    </message>
+    <message>
+        <source>100% Stacked Line with Markers</source>
+        <translation>%100 İşaretçileri Olan Yığılmış Çizgi</translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines and Markers</source>
+        <translation>Düz Çizgileri ve İşaretçileri Olan Dağılım</translation>
+    </message>
+    <message>
+        <source>Clustered Column</source>
+        <translation>Kümelenmiş Sütun</translation>
+    </message>
+    <message>
+        <source>Stacked Area</source>
+        <translation>Yığılmış Alan</translation>
+    </message>
+    <message>
+        <source>Stacked Line</source>
+        <translation>Yığılmış Çizgi</translation>
+    </message>
+    <message>
+        <source>100% Stacked Area</source>
+        <translation>%100 Yığılmış Alan</translation>
+    </message>
+    <message>
+        <source>100% Stacked Line</source>
+        <translation>%100 Yığılmış Çizgi</translation>
+    </message>
+    <message>
+        <source>Stacked Column</source>
+        <translation>Yığılmış Sütun</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeItem</name>
+    <message>
+        <source>Use this chart type to:
+• Show values relative to a center point.
+
+Use it when:
+• Categories are not directly comparable.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the relationship of parts to a whole over time or categories.
+• Highlight the magnitude of change over time.
+• Draw attention to the total value across a trend.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of values: Volume, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The order of categories is not important.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show how parts of a whole change over time.
+
+Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• Bir bütünün parçalarının zaman içindeki değişimini gösterme.
+
+Yığılmış çizgi grafiklerini okumak zor olabildiğinden yığılmış alan grafiği kullanmayı düşünün.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentages that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• Category order is important.
+• To highlight the magnitude of change over time.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• Zaman içindeki (yıl, ay ve gün) veya kategoriler içindeki eğilimleri gösterme.
+
+Kullanıldığı durumlar:
+• Kategorilerin sırası önemli olduğunda.
+• Zaman içindeki değişimin büyüklüğünü vurgulamak için.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of price values: Open, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• En az iki değer kümesini veya değer çiftini karşılaştırma.
+
+Kullanıldığı durumlar:
+• Birçok veri noktası bulunduğunda.
+• Veriler bir formüle bağlı olan bir x,y çiftleri kümesini temsil ettiğinde.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it when:
+• Numbers equal 100%.
+• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• The range of values in the chart varies widely.
+• You have mixed types of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• The data represents separate measurements.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• En az iki değer kümesini veya değer çiftini karşılaştırma.
+• Değer kümeleri arasındaki ilişkiyi gösterme.
+
+Kullanıldığı durumlar:
+• Veriler ayrı ölçümleri temsil ettiğinde.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least three sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• You have a third value that can be used to determine the relative size of the bubble.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole across categories.
+• Show how parts of a whole change over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• You have mixed types of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentage that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are few data points.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Show the change to the percentage that each value contributes over time.
+
+Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• Bir bütüne yapılan katkının yüzdesini zamana veya kategorilere göre gösterme.
+• Her değerin yaptığı katkının yüzdesindeki değişikliği zamana göre görüntüleme.
+
+Yığılmış çizgi grafiklerini okumak zor olabildiğinden %100 yığılmış alan grafiği kullanmayı düşünün.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are many data points.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have three series of price values: High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The chart shows duration.
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole.
+• Show how parts of a whole change over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have five series of values: Volume, Open, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents separate measurements.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• En az iki değer kümesini veya değer çiftini karşılaştırma.
+
+Kullanıldığı durumlar:
+• Birçok veri noktası bulunduğunda.
+• Veriler ayrı ölçümleri temsil ettiğinde.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• En az iki değer kümesini veya değer çiftini karşılaştırma.
+
+Kullanıldığı durumlar:
+• Birkaç veri noktası bulunduğunda.
+• Veriler bir formüle bağlı olan bir x,y çiftleri kümesini temsil ettiğinde.</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryCommand</name>
+    <message>
+        <source>opening price, high price, low price, closing price. </source>
+        <translation>açılış fiyatı, en yüksek fiyat, en düşük fiyat, kapanış fiyatı. </translation>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation>Bu hisse senedi grafiğini oluşturmak için sayfanızdaki verileri aşağıdaki sırada düzenlemeniz gerekir: </translation>
+    </message>
+    <message>
+        <source>volume traded, high price, low price, closing price. </source>
+        <translation>işlem hacmi, açılış fiyatı, en yüksek fiyat, en düşük fiyat, kapanış fiyatı. </translation>
+    </message>
+    <message>
+        <source>To create a combination chart, select at least two series of data.</source>
+        <translation>Karma grafik oluşturmak için en az iki veri serisi seçin.</translation>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
+        <translation>Tarihleri ve hisse senedi adlarını etiket olarak kullanın.</translation>
+    </message>
+    <message>
+        <source>volume traded, opening price, high price, low price, closing price. </source>
+        <translation>işlem hacmi, açılış fiyatı, en yüksek fiyat, en düşük fiyat, kapanış fiyatı. </translation>
+    </message>
+    <message>
+        <source>high price, low price, closing price. </source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
