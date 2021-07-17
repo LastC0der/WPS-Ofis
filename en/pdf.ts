@@ -10654,6 +10654,12 @@ Navigation</source>
     <name>KxPdfReadingShapeSelector</name>
     <message>
         <source>Arrow</source>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>Shapes</translation>
+    </message>
+</context>
 <context>
     <name>KxPdfLinkWarningDlg</name>
     <message>
