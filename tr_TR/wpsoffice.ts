@@ -1135,6 +1135,12 @@ You need to sign in before you buy. </source>
         <translation>%1 günlük deneme süreniz 1 gün sonra sona eriyor</translation>
     </message>
     <message>
+        <source>After expiration, some features will not work properly.
+Please contact your sales to get
+new product key if you still want to use the features.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Renew Now &gt;&gt;</source>
         <translation type="unfinished"/>
     </message>
@@ -1173,6 +1179,12 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Purchase License</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Some features will not work properly.
+Please contact your sales to get
+new product key if you still want to use the features.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2610,7 +2622,7 @@ Check path and filename.</source>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation><numerusform>%n dosyası</numerusform><numerusform>%n dosyaları</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Left edge</source>
@@ -2809,7 +2821,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Privacy Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik Sözleşmesi</translation>
     </message>
 </context>
 <context>
@@ -2844,7 +2856,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Privacy Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik Sözleşmesi</translation>
     </message>
     <message>
         <source>I &amp;Confirm</source>
@@ -6930,7 +6942,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Could not mmap &apos;%1&apos;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Could not map &apos;%1&apos;: %2</translation>
     </message>
 </context>
 <context>
