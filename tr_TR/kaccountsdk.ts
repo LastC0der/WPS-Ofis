@@ -847,7 +847,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Metni Etiketi</translation>
+        <translation>Bildirim</translation>
     </message>
 </context>
 <context>
