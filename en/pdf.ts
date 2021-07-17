@@ -10654,7 +10654,7 @@ Navigation</source>
     <name>KxPdfReadingShapeSelector</name>
     <message>
         <source>Arrow</source>
-		<translation></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Shapes</source>
