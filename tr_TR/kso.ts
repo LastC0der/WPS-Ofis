@@ -19678,7 +19678,7 @@ Check path and filename.</source>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n dosyası</numerusform><numerusform>%n dosyaları</numerusform></translation>
     </message>
     <message>
         <source>Left edge</source>
