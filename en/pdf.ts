@@ -6634,6 +6634,13 @@ Input 5-9 page 5 to page 9</source>
     </message>
 </context>
 <context>
+    <name>KxPdfWaterMarkGalleryModelPaintItem</name>
+    <message>
+        <source>Add</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxPdfLinkWarningWidget</name>
     <message>
         <source>Ban</source>
@@ -10647,10 +10654,30 @@ Navigation</source>
     <name>KxPdfReadingShapeSelector</name>
     <message>
         <source>Arrow</source>
+<context>
+    <name>KxPdfLinkWarningDlg</name>
+    <message>
+        <source>Block</source>
         <translation></translation>
     </message>
     <message>
-        <source>Shapes</source>
+        <source>Trying to open file &quot;%1&quot;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>If you trust the file, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Documents are trying to open file:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>If you trust the link, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Trying to link to &quot;%1&quot;</source>
         <translation></translation>
     </message>
 </context>
@@ -13572,25 +13599,6 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>IsCorrecting %1%</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfLinkWarningDlg</name>
-    <message>
-        <source>Trying to open file &quot;%1&quot;</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>If you trust the file, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Documents are trying to open file:</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>If you trust the link, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
         <translation></translation>
     </message>
 </context>
