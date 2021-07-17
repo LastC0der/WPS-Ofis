@@ -2576,7 +2576,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Page setup</source>
-        <translation>Sayfa Yapısı</translation>
+        <translation>Yazdırma Ayarı</translation>
     </message>
     <message>
         <source>Show overview of all pages</source>
@@ -3558,7 +3558,7 @@ Check path and filename.</source>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation><numerusform>%n dosyası</numerusform><numerusform>%n dosyaları</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Left edge</source>
@@ -8462,7 +8462,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Could not mmap &apos;%1&apos;: %2</source>
-        <translation type="unfinished"/>
+        <translation>Could not map &apos;%1&apos;: %2</translation>
     </message>
 </context>
 <context>
