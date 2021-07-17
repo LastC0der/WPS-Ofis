@@ -11087,12 +11087,12 @@ You need to sign in before you buy. </source>
         <translation></translation>
     </message>
     <message>
-    <message>
         <source>After expiration, some features will not work properly.
 Please contact your sales to get
 new product key if you still want to use the features.</source>
         <translation></translation>
     </message>
+    <message>
         <source>Renew Now &gt;&gt;</source>
         <translation></translation>
     </message>
@@ -19676,6 +19676,7 @@ Check path and filename.</source>
         <source>%n file(s)</source>
         <translation>
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -27502,6 +27503,7 @@ Possible reasons:
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
         <translation>
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -27575,6 +27577,7 @@ Possible reasons:
     <message numerus="yes">
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
         <translation>
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
