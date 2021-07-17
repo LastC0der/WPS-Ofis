@@ -6643,6 +6643,13 @@ Input 5-9 page 5 to page 9</source>
     </message>
 </context>
 <context>
+    <name>KxPdfWaterMarkGalleryModelPaintItem</name>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPdfLinkWarningWidget</name>
     <message>
         <source>Ban</source>
@@ -10670,6 +10677,33 @@ la página</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfLinkWarningDlg</name>
+    <message>
+        <source>Block</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Trying to open file &quot;%1&quot;</source>
+        <translation>Intentando abrir el archivo &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>If you trust the file, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
+        <translation>Si confía en el archivo, haga clic en &quot;Permitir&quot;. De lo contrario, haga clic en &quot;Prohibir&quot;.</translation>
+    </message>
+    <message>
+        <source>Documents are trying to open file:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If you trust the link, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
+        <translation>Si confía en este vínculo, haga clic en &quot;Permitir&quot;. De lo contrario, haga clic en &quot;Prohibir&quot;.</translation>
+    </message>
+    <message>
+        <source>Trying to link to &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPdfReadingTextTypeSelector</name>
     <message>
         <source>Check</source>
@@ -13596,25 +13630,6 @@ Puede que se haya cambiado el nombre del archivo, que se haya eliminado o se hay
     <message>
         <source>IsCorrecting %1%</source>
         <translation>Corrigiendo %1%</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfLinkWarningDlg</name>
-    <message>
-        <source>Trying to open file &quot;%1&quot;</source>
-        <translation>Intentando abrir el archivo &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>If you trust the file, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
-        <translation>Si confía en el archivo, haga clic en &quot;Permitir&quot;. De lo contrario, haga clic en &quot;Prohibir&quot;.</translation>
-    </message>
-    <message>
-        <source>Documents are trying to open file:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>If you trust the link, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
-        <translation>Si confía en este vínculo, haga clic en &quot;Permitir&quot;. De lo contrario, haga clic en &quot;Prohibir&quot;.</translation>
     </message>
 </context>
 <context>
