@@ -17924,7 +17924,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Kapat</translation>
+        <translation>Pencereyi Kapat</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -18831,7 +18831,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Ayarlar</translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
@@ -28681,7 +28681,7 @@ Window</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>İsteğe Uyarlanmış</translation>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -28812,7 +28812,7 @@ Window</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>İsteğe Uyarlanmış</translation>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -29152,7 +29152,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>İsteğe Uyarlanmış</translation>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -29319,7 +29319,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>İsteğe Uyarlanmış</translation>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -29661,7 +29661,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>İsteğe Uyarlanmış</translation>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -34592,7 +34592,7 @@ Aralığı</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>İsteğe Uyarlanmış</translation>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -35080,7 +35080,7 @@ Shape</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>İsteğe Uyarlanmış</translation>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -35835,7 +35835,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Scale to paper si&amp;ze:</source>
-        <translation>K&amp;ağıt boyutu:</translation>
+        <translation>Sayfa boy&amp;utu:</translation>
     </message>
     <message>
         <source>Number of &amp;copies:</source>
@@ -44387,7 +44387,7 @@ Center</source>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>Dosyayı Paylaş</translation>
+        <translation>Paylaşım Bağlantısı Oluştur</translation>
     </message>
     <message>
         <source>All Comments</source>
@@ -44675,7 +44675,7 @@ Center</source>
     </message>
     <message>
         <source>Add or view comments in your document.</source>
-        <translation>Belgenize yorum ekleyin veya görüntüleyin.</translation>
+        <translation>Belgenize açıklama ekleyin veya görüntüleyin.</translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -44964,8 +44964,7 @@ Center</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Göz Koruma 
-Modu</translation>
+        <translation>Göz Koruma Modu</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -45079,7 +45078,8 @@ Preview</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Tam Ekran</translation>
+        <translation>Tam 
+Ekran</translation>
     </message>
     <message>
         <source>Security</source>
@@ -46990,8 +46990,7 @@ found a solution.</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>Kenar 
-Boşlukları</translation>
+        <translation>Kenar Boşlukları</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -48399,7 +48398,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>İsteğe Uyarlanmış</translation>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
