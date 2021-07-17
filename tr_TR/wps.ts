@@ -2834,7 +2834,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"/>
+        <translation>Noktalar</translation>
     </message>
     <message>
         <source>Use Destination Styles</source>
@@ -14369,7 +14369,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Kapat</translation>
+        <translation>Pencereyi Kapat</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -15259,7 +15259,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>Ayarlar</translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
@@ -35134,7 +35134,8 @@ Düzeni</translation>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Tam Ekran</translation>
+        <translation>Tam 
+Ekran</translation>
     </message>
     <message>
         <source>Security</source>
@@ -38298,7 +38299,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>Dosyayı Paylaş</translation>
+        <translation>Paylaşım Bağlantısı Oluştur</translation>
     </message>
     <message>
         <source>All Comments</source>
