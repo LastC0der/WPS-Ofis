@@ -3036,7 +3036,7 @@ This backup will be saved to(%s)</source>
     <name>KxDlgEquationOptions</name>
     <message>
         <source>--</source>
-        <translation type="unfinished"/>
+        <translation>--</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3060,7 +3060,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Genel</translation>
     </message>
 </context>
 <context>
@@ -13326,7 +13326,7 @@ Slide</source>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Kapat</translation>
+        <translation>Pencereyi Kapat</translation>
     </message>
     <message>
         <source>Insert Columns Left</source>
@@ -13986,7 +13986,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Ayarlar</translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
@@ -14335,7 +14335,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation>Grouping</translation>
+        <translation>Gruplandırma</translation>
     </message>
     <message>
         <source>Close Path</source>
@@ -17931,7 +17931,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>Dosyayı Paylaş</translation>
+        <translation>Paylaşım Bağlantısı Oluştur</translation>
     </message>
     <message>
         <source>More Templates</source>
@@ -26178,7 +26178,7 @@ Yazdır</translation>
     <message>
         <source>Previous
 Page</source>
-        <translation>Önceki
+        <translation>Önceki 
 Sayfa</translation>
     </message>
     <message>
@@ -26215,7 +26215,7 @@ Alt Bilgi</translation>
     <message>
         <source>Next
 Page</source>
-        <translation>Sonraki
+        <translation>Sonraki 
 Sayfa</translation>
     </message>
     <message>
@@ -32279,7 +32279,7 @@ Master</source>
     </message>
     <message>
         <source>&amp;Landscape</source>
-        <translation>Y&amp;atay</translation>
+        <translation>Ya&amp;tay</translation>
     </message>
     <message>
         <source>L&amp;andscape</source>
