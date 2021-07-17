@@ -6641,6 +6641,13 @@ Speech</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfWaterMarkGalleryModelPaintItem</name>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPdfLinkWarningWidget</name>
     <message>
         <source>Ban</source>
@@ -10670,6 +10677,33 @@ Navigation</source>
     </message>
 </context>
 <context>
+    <name>KxPdfLinkWarningDlg</name>
+    <message>
+        <source>Block</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Trying to open file &quot;%1&quot;</source>
+        <translation>Trying to open the file &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>If you trust the file, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
+        <translation>If you trust the file, click &quot;Allow&quot;. Otherwise, click &quot;Ban&quot;.</translation>
+    </message>
+    <message>
+        <source>Documents are trying to open file:</source>
+        <translation>The document is trying to open the file.</translation>
+    </message>
+    <message>
+        <source>If you trust the link, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
+        <translation>If you trust the link, click &quot;Allow&quot;. Otherwise, click &quot;Ban&quot;.</translation>
+    </message>
+    <message>
+        <source>Trying to link to &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPdfReadingTextTypeSelector</name>
     <message>
         <source>Check</source>
@@ -13594,25 +13628,6 @@ Deleted pages cannot be recovered</translation>
     <message>
         <source>IsCorrecting %1%</source>
         <translation>Correcting %1%</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfLinkWarningDlg</name>
-    <message>
-        <source>Trying to open file &quot;%1&quot;</source>
-        <translation>Trying to open the file &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>If you trust the file, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
-        <translation>If you trust the file, click &quot;Allow&quot;. Otherwise, click &quot;Ban&quot;.</translation>
-    </message>
-    <message>
-        <source>Documents are trying to open file:</source>
-        <translation>The document is trying to open the file.</translation>
-    </message>
-    <message>
-        <source>If you trust the link, please click &quot;Allow&quot;, otherwise click &quot;Ban&quot;</source>
-        <translation>If you trust the link, click &quot;Allow&quot;. Otherwise, click &quot;Ban&quot;.</translation>
     </message>
 </context>
 <context>
