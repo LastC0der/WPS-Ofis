@@ -9570,7 +9570,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the payment made each period and cannot change over the life of the loan or investment.</source>
-        <translation type="unfinished"/>
+        <translation>her dönem yapılan ödeme, yatırım ya da borç süresi boyunca değişmez.</translation>
     </message>
     <message>
         <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Row: %3</source>
@@ -25697,7 +25697,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the interest rate per period of an annuity.</source>
-        <translation>Yıllık gelirin dönem başına faiz oranını verir.</translation>
+        <translation>Bir borç ya da yatırım için dönem başına faiz oranını verir.</translation>
     </message>
     <message>
         <source>WORKBOOK.NAME(oldname_text, newname_text)</source>
