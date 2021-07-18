@@ -713,7 +713,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>Print all</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü yazdır</translation>
     </message>
     <message>
         <source>Print</source>
@@ -777,7 +777,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>Print selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi Yazdır</translation>
     </message>
     <message>
         <source>Print to File (Postscript)</source>
@@ -2469,7 +2469,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Print all</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü yazdır</translation>
     </message>
     <message>
         <source>Selection</source>
