@@ -20238,7 +20238,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"/>
+        <translation>Макрос</translation>
     </message>
     <message>
         <source>Identify Text in Picture</source>
@@ -20250,7 +20250,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Offline Management</source>
-        <translation type="unfinished"/>
+        <translation>Управление в автономном режиме</translation>
     </message>
 	<message>
         <source>AutoFilterList</source>
@@ -31751,7 +31751,7 @@ Painter</source>
     </message>
     <message>
         <source>Document Security</source>
-        <translation type="unfinished"/>
+        <translation>Безопасность документа</translation>
     </message>
 </context>
 <context>
@@ -45679,7 +45679,7 @@ Pane</source>
     </message>
     <message>
         <source>Chart Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Галерея диаграмм</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -46655,7 +46655,8 @@ Comment</source>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="unfinished"/>
+        <translation>Изменить 
+примечание</translation>
     </message>
 </context>
 <context>
@@ -46784,7 +46785,8 @@ Comment</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"/>
+        <translation>Изменить 
+примечание</translation>
     </message>
 </context>
 <context>
@@ -58282,31 +58284,31 @@ Comment</source>
     <name>KxChartTypeGalleryModel</name>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Круговая</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"/>
+        <translation>Площадь</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"/>
+        <translation>Линия</translation>
     </message>
     <message>
         <source>Stacked Area - Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>С областями с накоплением и гистограмма с группировкой</translation>
     </message>
     <message>
         <source>Combo</source>
-        <translation type="unfinished"/>
+        <translation>комбинированная</translation>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"/>
+        <translation>Лепестковая</translation>
     </message>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"/>
+        <translation>Биржевая</translation>
     </message>
     <message>
         <source>2-D Area</source>
@@ -58318,51 +58320,51 @@ Comment</source>
     </message>
     <message>
         <source>Open-High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Биржевая (курс открытия, самый высокий курс, самый низкий курс, курс закрытия)</translation>
     </message>
     <message>
         <source>Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Линейчатая с накоплением</translation>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Лепестковая с маркерами</translation>
     </message>
     <message>
         <source>Filled Radar</source>
-        <translation type="unfinished"/>
+        <translation>Заполненная лепестковая</translation>
     </message>
     <message>
         <source>Clustered Bar</source>
-        <translation type="unfinished"/>
+        <translation>Линейчатая с группировкой</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines</source>
-        <translation type="unfinished"/>
+        <translation>Точечная с гладкими кривыми</translation>
     </message>
     <message>
         <source>Clustered Column - Line on Secondary Axis</source>
-        <translation type="unfinished"/>
+        <translation>Гистограмма с группировкой и график на вспомогательной оси</translation>
     </message>
     <message>
         <source>X Y (Scatter)</source>
-        <translation type="unfinished"/>
+        <translation>X Y (рассеивание)</translation>
     </message>
     <message>
         <source>Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>График с маркерами</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Точечная с гладкими кривыми и маркерами</translation>
     </message>
     <message>
         <source>3-D Bubble</source>
-        <translation type="unfinished"/>
+        <translation>Пузырек 3D</translation>
     </message>
     <message>
         <source>Bubble</source>
-        <translation type="unfinished"/>
+        <translation>Пузырек</translation>
     </message>
     <message>
         <source>2-D Column</source>
@@ -58378,83 +58380,83 @@ Comment</source>
     </message>
     <message>
         <source>Bar Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Вторичная линейчатая диаграмма</translation>
     </message>
     <message>
         <source>Pie Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Вторичная круговая диаграмма</translation>
     </message>
     <message>
         <source>Volume-High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Биржевая (объем, самый высокий курс, самый низкий курс, курс закрытия)</translation>
     </message>
     <message>
         <source>Doughnut</source>
-        <translation type="unfinished"/>
+        <translation>Кольцевая</translation>
     </message>
     <message>
         <source>100% Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Нормированная линейчатая с накоплением</translation>
     </message>
     <message>
         <source>Volume-Open-High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Биржевая (объем, курс открытия, самый высокий курс, самый низкий курс, курс закрытия)</translation>
     </message>
     <message>
         <source>High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Самый высокий курс - самый низкий курс - курс закрытия</translation>
     </message>
     <message>
         <source>Stacked Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>График с маркерами и накоплением</translation>
     </message>
     <message>
         <source>Scatter</source>
-        <translation type="unfinished"/>
+        <translation>Точечная</translation>
     </message>
     <message>
         <source>Clustered Column Line</source>
-        <translation type="unfinished"/>
+        <translation>Гистограмма с группировкой и график</translation>
     </message>
     <message>
         <source>100% Stacked Column</source>
-        <translation type="unfinished"/>
+        <translation>Нормированная гистограмма с накоплением</translation>
     </message>
     <message>
         <source>Scatter with Straight Lines</source>
-        <translation type="unfinished"/>
+        <translation>Точечная с прямыми отрезками</translation>
     </message>
     <message>
         <source>100% Stacked Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Нормированный график с маркерами и накоплением</translation>
     </message>
     <message>
         <source>Scatter with Straight Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Точечная с прямыми отрезками и маркерами</translation>
     </message>
     <message>
         <source>Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>Гистограмма с группировкой</translation>
     </message>
     <message>
         <source>Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>С областями и накоплением</translation>
     </message>
     <message>
         <source>Stacked Line</source>
-        <translation type="unfinished"/>
+        <translation>График с накоплением</translation>
     </message>
     <message>
         <source>100% Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>Нормированная с областями с накоплением</translation>
     </message>
     <message>
         <source>100% Stacked Line</source>
-        <translation type="unfinished"/>
+        <translation>Нормированный график с накоплением</translation>
     </message>
     <message>
         <source>Stacked Column</source>
-        <translation type="unfinished"/>
+        <translation>Гистограмма с накоплением</translation>
     </message>
 </context>
 <context>
