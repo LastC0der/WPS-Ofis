@@ -20253,7 +20253,7 @@ Condicional</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"/>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Identify Text in Picture</source>
@@ -20265,7 +20265,7 @@ Condicional</translation>
     </message>
     <message>
         <source>Offline Management</source>
-        <translation type="unfinished"/>
+        <translation>Gestão Offline</translation>
     </message>
 	<message>
         <source>AutoFilterList</source>
@@ -31774,7 +31774,7 @@ Arquivos</translation>
     </message>
     <message>
         <source>Document Security</source>
-        <translation type="unfinished"/>
+        <translation>Segurança do Documento</translation>
     </message>
 </context>
 <context>
@@ -45715,7 +45715,7 @@ Dinâmica</translation>
     </message>
     <message>
         <source>Chart Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Galeria de Gráficos</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -46696,7 +46696,8 @@ Documento</translation>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="unfinished"/>
+        <translation>Editar
+Comentário</translation>
     </message>
 </context>
 <context>
@@ -46825,7 +46826,8 @@ Chinês Tradicional</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"/>
+        <translation>Editar 
+Comentário</translation>
     </message>
 </context>
 <context>
@@ -58347,31 +58349,31 @@ Comentário</translation>
     <name>KxChartTypeGalleryModel</name>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Circular</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"/>
+        <translation>Área</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"/>
+        <translation>Linha</translation>
     </message>
     <message>
         <source>Stacked Area - Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>Área Empilhada - Coluna Agrupada</translation>
     </message>
     <message>
         <source>Combo</source>
-        <translation type="unfinished"/>
+        <translation>Combinação</translation>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar</translation>
     </message>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"/>
+        <translation>Cotações</translation>
     </message>
     <message>
         <source>2-D Area</source>
@@ -58383,51 +58385,51 @@ Comentário</translation>
     </message>
     <message>
         <source>Open-High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Abertura-Máximo-Mínimo-Fecho</translation>
     </message>
     <message>
         <source>Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Barras Empilhadas</translation>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Radar com Marcadores</translation>
     </message>
     <message>
         <source>Filled Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar Preenchido</translation>
     </message>
     <message>
         <source>Clustered Bar</source>
-        <translation type="unfinished"/>
+        <translation>Barras Agrupadas</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines</source>
-        <translation type="unfinished"/>
+        <translation>Dispersão com Linhas Suaves</translation>
     </message>
     <message>
         <source>Clustered Column - Line on Secondary Axis</source>
-        <translation type="unfinished"/>
+        <translation>Coluna Agrupada - Linha em Eixo Secundário</translation>
     </message>
     <message>
         <source>X Y (Scatter)</source>
-        <translation type="unfinished"/>
+        <translation>Formatar grupo de dispersões (XY)</translation>
     </message>
     <message>
         <source>Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Linha com Marcadores</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Dispersão com Linhas Suaves e Marcadores</translation>
     </message>
     <message>
         <source>3-D Bubble</source>
-        <translation type="unfinished"/>
+        <translation>Bolha 3D</translation>
     </message>
     <message>
         <source>Bubble</source>
-        <translation type="unfinished"/>
+        <translation>Bolha</translation>
     </message>
     <message>
         <source>2-D Column</source>
@@ -58443,83 +58445,83 @@ Comentário</translation>
     </message>
     <message>
         <source>Bar Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Barra de Circular</translation>
     </message>
     <message>
         <source>Pie Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Circular de Circular</translation>
     </message>
     <message>
         <source>Volume-High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Volume-Máximo-Mínimo-Fecho</translation>
     </message>
     <message>
         <source>Doughnut</source>
-        <translation type="unfinished"/>
+        <translation>Anel</translation>
     </message>
     <message>
         <source>100% Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Barras Empilhadas a 100%</translation>
     </message>
     <message>
         <source>Volume-Open-High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Volume-Abertura-Máximo-Mínimo-Fecho</translation>
     </message>
     <message>
         <source>High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Máximo-Mínimo-Fecho</translation>
     </message>
     <message>
         <source>Stacked Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Linhas Empilhadas com Marcadores</translation>
     </message>
     <message>
         <source>Scatter</source>
-        <translation type="unfinished"/>
+        <translation>Dispersão</translation>
     </message>
     <message>
         <source>Clustered Column Line</source>
-        <translation type="unfinished"/>
+        <translation>Coluna Agrupada - Linha em Eixo Secundário</translation>
     </message>
     <message>
         <source>100% Stacked Column</source>
-        <translation type="unfinished"/>
+        <translation>Colunas Empilhadas a 100%</translation>
     </message>
     <message>
         <source>Scatter with Straight Lines</source>
-        <translation type="unfinished"/>
+        <translation>Dispersão com Linhas Retas</translation>
     </message>
     <message>
         <source>100% Stacked Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Linhas Empilhadas a 100% com Marcadores</translation>
     </message>
     <message>
         <source>Scatter with Straight Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Dispersão com Linhas Retas e Marcadores</translation>
     </message>
     <message>
         <source>Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>Colunas Agrupadas</translation>
     </message>
     <message>
         <source>Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>Áreas empilhadas</translation>
     </message>
     <message>
         <source>Stacked Line</source>
-        <translation type="unfinished"/>
+        <translation>Linhas Empilhadas</translation>
     </message>
     <message>
         <source>100% Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>Áreas Empilhadas a 100%</translation>
     </message>
     <message>
         <source>100% Stacked Line</source>
-        <translation type="unfinished"/>
+        <translation>Linhas Empilhadas a 100%</translation>
     </message>
     <message>
         <source>Stacked Column</source>
-        <translation type="unfinished"/>
+        <translation>Colunas Empilhadas</translation>
     </message>
 </context>
 <context>
