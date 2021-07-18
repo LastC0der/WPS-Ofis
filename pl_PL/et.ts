@@ -20245,7 +20245,7 @@ warunkowe</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"/>
+        <translation>Makra</translation>
     </message>
     <message>
         <source>Identify Text in Picture</source>
@@ -20257,7 +20257,7 @@ warunkowe</translation>
     </message>
     <message>
         <source>Offline Management</source>
-        <translation type="unfinished"/>
+        <translation>Zarządzanie offline</translation>
     </message>
 	<message>
         <source>AutoFilterList</source>
@@ -31758,7 +31758,7 @@ plików</translation>
     </message>
     <message>
         <source>Document Security</source>
-        <translation type="unfinished"/>
+        <translation>Zabezpieczenie dokumentu</translation>
     </message>
 </context>
 <context>
@@ -45699,7 +45699,7 @@ tekstowe</translation>
     </message>
     <message>
         <source>Chart Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Galeria wykresów</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -46675,7 +46675,8 @@ pisowni</translation>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj 
+komentarz</translation>
     </message>
 </context>
 <context>
@@ -46802,7 +46803,8 @@ pisowni</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj 
+komentarz</translation>
     </message>
 </context>
 <context>
@@ -58309,31 +58311,31 @@ komentarz</translation>
     <name>KxChartTypeGalleryModel</name>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Kołowy</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"/>
+        <translation>Warstwowy</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"/>
+        <translation>Liniowy</translation>
     </message>
     <message>
         <source>Stacked Area - Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>Skumulowany warstwowy - kolumnowy grupowany</translation>
     </message>
     <message>
         <source>Combo</source>
-        <translation type="unfinished"/>
+        <translation>Kombi</translation>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radarowy</translation>
     </message>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"/>
+        <translation>Giełdowy</translation>
     </message>
     <message>
         <source>2-D Area</source>
@@ -58345,51 +58347,51 @@ komentarz</translation>
     </message>
     <message>
         <source>Open-High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Otwarcie-maks.-min.-zamknięcie</translation>
     </message>
     <message>
         <source>Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>Skumulowany słupkowy</translation>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Radarowy ze znacznikami</translation>
     </message>
     <message>
         <source>Filled Radar</source>
-        <translation type="unfinished"/>
+        <translation>Wypełniony radarowy</translation>
     </message>
     <message>
         <source>Clustered Bar</source>
-        <translation type="unfinished"/>
+        <translation>Słupkowy grupowany</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines</source>
-        <translation type="unfinished"/>
+        <translation>Punktowy z wygładzonymi liniami</translation>
     </message>
     <message>
         <source>Clustered Column - Line on Secondary Axis</source>
-        <translation type="unfinished"/>
+        <translation>Kolumnowy grupowany - liniowy na osi pomocniczej</translation>
     </message>
     <message>
         <source>X Y (Scatter)</source>
-        <translation type="unfinished"/>
+        <translation>X Y (Punktowy)</translation>
     </message>
     <message>
         <source>Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Liniowy ze znacznikami</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Punktowy z wygładzonymi liniami i znacznikami</translation>
     </message>
     <message>
         <source>3-D Bubble</source>
-        <translation type="unfinished"/>
+        <translation>Dymek 3D</translation>
     </message>
     <message>
         <source>Bubble</source>
-        <translation type="unfinished"/>
+        <translation>Bąbelkowy</translation>
     </message>
     <message>
         <source>2-D Column</source>
@@ -58405,83 +58407,83 @@ komentarz</translation>
     </message>
     <message>
         <source>Bar Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Wykres słupkowy kołowego</translation>
     </message>
     <message>
         <source>Pie Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Wykres kołowy kołowego</translation>
     </message>
     <message>
         <source>Volume-High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Obrót-maks.-min.-zamknięcie</translation>
     </message>
     <message>
         <source>Doughnut</source>
-        <translation type="unfinished"/>
+        <translation>Pierścieniowy</translation>
     </message>
     <message>
         <source>100% Stacked Bar</source>
-        <translation type="unfinished"/>
+        <translation>100% skumulowany słupkowy</translation>
     </message>
     <message>
         <source>Volume-Open-High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Obrót-otwarcie-maks.-min.-zamknięcie</translation>
     </message>
     <message>
         <source>High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Maks.-min.-zamknięcie</translation>
     </message>
     <message>
         <source>Stacked Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Skumulowany liniowy ze znacznikami</translation>
     </message>
     <message>
         <source>Scatter</source>
-        <translation type="unfinished"/>
+        <translation>Punktowy</translation>
     </message>
     <message>
         <source>Clustered Column Line</source>
-        <translation type="unfinished"/>
+        <translation>Kolumnowy grupowany - liniowy</translation>
     </message>
     <message>
         <source>100% Stacked Column</source>
-        <translation type="unfinished"/>
+        <translation>100% skumulowany kolumnowy</translation>
     </message>
     <message>
         <source>Scatter with Straight Lines</source>
-        <translation type="unfinished"/>
+        <translation>Punktowy z prostymi liniami</translation>
     </message>
     <message>
         <source>100% Stacked Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>100% skumulowany liniowy ze znacznikami</translation>
     </message>
     <message>
         <source>Scatter with Straight Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Punktowy z prostymi liniami i znacznikami</translation>
     </message>
     <message>
         <source>Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>Kolumnowy grupowany</translation>
     </message>
     <message>
         <source>Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>Skumulowany warstwowy</translation>
     </message>
     <message>
         <source>Stacked Line</source>
-        <translation type="unfinished"/>
+        <translation>Skumulowany liniowy</translation>
     </message>
     <message>
         <source>100% Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>100% skumulowany warstwowy</translation>
     </message>
     <message>
         <source>100% Stacked Line</source>
-        <translation type="unfinished"/>
+        <translation>100% skumulowany liniowy</translation>
     </message>
     <message>
         <source>Stacked Column</source>
-        <translation type="unfinished"/>
+        <translation>Skumulowany kolumnowy</translation>
     </message>
 </context>
 <context>
