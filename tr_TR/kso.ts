@@ -9807,7 +9807,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Print all</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü yazdır</translation>
     </message>
     <message>
         <source>Print</source>
@@ -9871,7 +9871,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Print selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi Yazdır</translation>
     </message>
     <message>
         <source>Print to File (Postscript)</source>
@@ -16106,7 +16106,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Print all</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü yazdır</translation>
     </message>
     <message>
         <source>Selection</source>
