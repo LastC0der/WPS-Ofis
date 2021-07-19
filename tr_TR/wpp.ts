@@ -4398,7 +4398,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Cannot locate the path. Please input a full path.</source>
-        <translation type="unfinished"/>
+        <translation>Yol bulunamıyor. Lütfen tam yolu girin.</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -8468,7 +8468,7 @@ Ekle</translation>
     </message>
     <message>
         <source>D&amp;isplay drawing guides on screen</source>
-        <translation type="unfinished"/>
+        <translation>Çizim kılavuzlarını ekranda g&amp;örüntüle</translation>
     </message>
 </context>
 <context>
@@ -14480,7 +14480,7 @@ Template</source>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Topluluğu</translation>
     </message>
     <message>
         <source>Scribble</source>
@@ -15170,7 +15170,7 @@ Master</source>
     </message>
     <message>
         <source>Offline Management</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Yönetim</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
@@ -17754,7 +17754,7 @@ Kapat</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Topluluğu</translation>
     </message>
     <message>
         <source>WPS Presentation File</source>
@@ -18534,7 +18534,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Topluluğu</translation>
     </message>
     <message>
         <source>WPS Presentation File</source>
@@ -25141,7 +25141,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Drawing Tool</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Aracı</translation>
     </message>
     <message>
         <source>Animation</source>
@@ -28274,7 +28274,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Full Path</source>
-        <translation type="unfinished"/>
+        <translation>Tam Yol</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -31358,7 +31358,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Offline Management</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Yönetim</translation>
     </message>
     <message>
         <source>File tools</source>
