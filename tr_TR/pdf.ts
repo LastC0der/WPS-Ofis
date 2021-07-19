@@ -3338,7 +3338,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>Re-enter the password</source>
-        <translation type="unfinished"/>
+        <translation>Parolayı yeniden girin</translation>
     </message>
     <message>
         <source>IsEncrypting %1%</source>
@@ -6473,7 +6473,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>NavigateBack</source>
-        <translation type="unfinished"/>
+        <translation>Geri Git</translation>
     </message>
     <message>
         <source>TaskPlanePdf2Wrod</source>
@@ -6509,7 +6509,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Navigate Back</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Görünüm</translation>
     </message>
     <message>
         <source>Copy Comment</source>
@@ -6976,7 +6976,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
-        <translation type="unfinished"/>
+        <translation>Kingsoft PDF Topluluğu</translation>
     </message>
     <message>
         <source>NoContent</source>
@@ -8847,7 +8847,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Offline Management</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Yönetim</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -8975,7 +8975,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
-        <translation type="unfinished"/>
+        <translation>Kingsoft PDF Topluluğu</translation>
     </message>
     <message>
         <source>Convert</source>
@@ -10135,7 +10135,7 @@ Navigation</source>
     </message>
     <message>
         <source>Measure management</source>
-        <translation type="unfinished"/>
+        <translation>Ölçüm yönetimi</translation>
     </message>
     <message>
         <source>Measure Tool</source>
@@ -11374,7 +11374,7 @@ Navigation</source>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"/>
+        <translation>Çizim</translation>
     </message>
 </context>
 <context>
