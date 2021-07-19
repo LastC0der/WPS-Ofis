@@ -3389,7 +3389,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>Gönder</translation>
     </message>
     <message>
         <source>Web Inspector - %2</source>
@@ -3482,7 +3482,7 @@ Check path and filename.</source>
     <message>
         <source>Submit</source>
         <comment>Submit (input element) alt text for &lt;input&gt; elements with no alt, title, or value</comment>
-        <translation type="unfinished"/>
+        <translation>Gönder</translation>
     </message>
     <message>
         <source>Choose File</source>
