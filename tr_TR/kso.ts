@@ -11903,7 +11903,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Light Cyan</source>
-        <translation type="unfinished"/>
+        <translation>Açık Camgöbeği</translation>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
