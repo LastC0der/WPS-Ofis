@@ -22232,7 +22232,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı Seçim</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -22316,7 +22316,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Choice</source>
-        <translation type="unfinished"/>
+        <translation>Seçim</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -23983,7 +23983,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı Seçim</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
@@ -24067,7 +24067,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Choice</source>
-        <translation type="unfinished"/>
+        <translation>Seçim</translation>
     </message>
     <message>
         <source>More Arrows</source>
