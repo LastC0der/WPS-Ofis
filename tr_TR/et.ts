@@ -28439,7 +28439,7 @@ Ekran</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>Collaboration</source>
@@ -28455,7 +28455,7 @@ Ekran</translation>
     </message>
     <message>
         <source>Form Control Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Form Denetimi</translation>
     </message>
     <message>
         <source>New 
@@ -28489,15 +28489,15 @@ Açıklama</translation>
     </message>
     <message>
         <source>EditGroupData</source>
-        <translation type="unfinished"/>
+        <translation>Grup Konumunu ve Verilerini Düzenle</translation>
     </message>
     <message>
         <source>NewChart Axis</source>
-        <translation type="unfinished"/>
+        <translation>Eksen</translation>
     </message>
     <message>
         <source>NewChart PlotArea</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Alanı</translation>
     </message>
     <message>
         <source>Freeze First Column</source>
@@ -28509,7 +28509,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Comment Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Yorum Açılır Menüsü</translation>
     </message>
     <message>
         <source>Screen Grab Main Window</source>
@@ -28521,7 +28521,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>NewChart Series</source>
-        <translation type="unfinished"/>
+        <translation>Dizi</translation>
     </message>
     <message>
         <source>Spell Check</source>
