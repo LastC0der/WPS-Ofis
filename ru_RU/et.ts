@@ -46514,8 +46514,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>Перевод на 
-упрощенный китайский</translation>
+        <translation>Упрощенный</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -46640,8 +46639,7 @@ Comment</source>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>Перевод на 
-традиционный китайский</translation>
+        <translation>Традиционный</translation>
     </message>
     <message>
         <source>Document Security</source>
