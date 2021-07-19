@@ -3278,7 +3278,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Drawing &amp;objects</source>
-        <translation type="unfinished"/>
+        <translation>Çizim &amp;nesneleri</translation>
     </message>
     <message>
         <source>Comments colo&amp;r:</source>
@@ -5156,7 +5156,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>When you convert this drawing object to a frame, some of the drawing object&apos;s formatting may be lost. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Bu çizim nesnesi çerçeveye dönüştürülürse biçimlendirmesinde bozulma olabilir. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -6861,7 +6861,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Columns Management</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Yönetimi</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
@@ -9874,7 +9874,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Standard Margins</source>
-        <translation type="unfinished"/>
+        <translation>Standart Kenar Boşlukları</translation>
     </message>
     <message>
         <source>&amp;Vertical alignment:</source>
@@ -15901,7 +15901,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Topluluğu</translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -16637,7 +16637,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Offline Management</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Yönetim</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
@@ -19973,7 +19973,7 @@ Changes</source>
     </message>
     <message>
         <source>Cloud File Management</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosya Yönetimi</translation>
     </message>
     <message>
         <source>Share as PDF</source>
@@ -26198,7 +26198,7 @@ Böl</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Topluluğu</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -26386,7 +26386,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Topluluğu</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -43943,7 +43943,7 @@ Diagonal Line in Cell</source>
     <name>KxDlgDrawingGrid</name>
     <message>
         <source>Drawing Grid</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>pt, 2, 0.05, 1584, 1</source>
@@ -44026,7 +44026,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Full Path</source>
-        <translation type="unfinished"/>
+        <translation>Tam Yol</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -44243,7 +44243,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Offline Management</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Yönetim</translation>
     </message>
     <message>
         <source>File tools</source>
