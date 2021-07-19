@@ -8054,35 +8054,35 @@ use los botones para aplicar bordes</translation>
     <name>KxWpsNewSignatureDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"/>
+        <translation>Dibujar</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Imagen</translation>
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Introducir</translation>
     </message>
     <message>
         <source>WPS Signature</source>
-        <translation type="unfinished"/>
+        <translation>WPS Firma</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Set as Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Blanco y negro</translation>
     </message>
 </context>
 <context>
@@ -19393,7 +19393,7 @@ la TDC</translation>
     </message>
     <message>
         <source>New Signature</source>
-        <translation type="unfinished"/>
+        <translation>Nueva firma</translation>
     </message>
     <message>
         <source>Split Vertically</source>
@@ -19742,7 +19742,7 @@ ortográfica</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>Firma</translation>
     </message>
     <message>
         <source>Floating Picture</source>
@@ -37157,7 +37157,7 @@ blanco</translation>
     </message>
     <message>
         <source>Insert Number</source>
-        <translation>Insertar número</translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -39986,8 +39986,7 @@ Changes</source>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Convertir en 
-chino tradicional</translation>
+        <translation>Tradicional</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -40236,8 +40235,7 @@ ortográfica</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Convertir en 
-chino simplificado</translation>
+        <translation>Simplificado</translation>
     </message>
     <message>
         <source>Reject Format Changes in Document</source>
@@ -47984,7 +47982,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <name>KxSignatureEditImageCanvas</name>
     <message>
         <source>Scalable Vector Graphics(*.svg)|*.svg</source>
-        <translation type="unfinished"/>
+        <translation>Scalable Vector Graphics (*.svg)|*.svg</translation>
     </message>
     <message>
         <source>Upload an image of your signature</source>
@@ -47992,7 +47990,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation type="unfinished"/>
+        <translation>Formato Tag Image File(*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Insert Image</source>
@@ -48000,31 +47998,31 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation type="unfinished"/>
+        <translation>Formato de intercambio de gráficos(*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation type="unfinished"/>
+        <translation>Gráficos de red portátiles(*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation type="unfinished"/>
+        <translation>Metarchivo de Windows(*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation type="unfinished"/>
+        <translation>Mapa de bits de Windows(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Todas las imágenes</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
-        <translation type="unfinished"/>
+        <translation>Metarchivo mejorado de Windows(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation type="unfinished"/>
+        <translation>Formato de intercambio de archivo JPEG(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
 </context>
 <context>
@@ -51131,15 +51129,15 @@ Nota al final</translation>
     <name>KxGoPremiumDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Prompt</source>
-        <translation type="unfinished"/>
+        <translation>Mensaje</translation>
     </message>
     <message>
         <source>Go Premium</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
 </context>
 <context>
