@@ -25924,8 +25924,7 @@ Comentário</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Converter em 
-Chinês Tradicional</translation>
+        <translation>Tradicional</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -26003,8 +26002,7 @@ Comentário</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Converter em 
-Chinês Simplificado</translation>
+        <translation>Simplificado</translation>
     </message>
     <message>
         <source>Document Security</source>
