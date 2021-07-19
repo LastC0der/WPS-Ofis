@@ -46534,7 +46534,7 @@ komentarz</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>Przetłumacz na chiński uproszczony</translation>
+        <translation>Uproszczony</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -46662,7 +46662,7 @@ pisowni</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>Przetłumacz na chiński tradycyjny</translation>
+        <translation>Tradycyjny</translation>
     </message>
     <message>
         <source>Document Security</source>
