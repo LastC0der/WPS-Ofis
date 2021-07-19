@@ -27839,7 +27839,7 @@ Directly</translation>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation>Help And QA</translation>
+        <translation>Help Center</translation>
     </message>
     <message>
         <source>NewChart DownBar</source>
@@ -44522,7 +44522,7 @@ Analysis</translation>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation>Help And QA</translation>
+        <translation>Help Center</translation>
     </message>
     <message>
         <source>Ever Sheet</source>
@@ -46488,8 +46488,7 @@ Pane</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>Convert to 
-Simplified Chinese</translation>
+        <translation>Simplified</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -46615,8 +46614,7 @@ Check</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>Convert to 
-Traditional Chinese</translation>
+        <translation>Traditional</translation>
     </message>
     <message>
         <source>Document Security</source>
