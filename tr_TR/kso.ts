@@ -4216,7 +4216,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>I Have Read!</source>
-        <translation type="unfinished"/>
+        <translation>Okudum</translation>
     </message>
     <message>
         <source>Audio Coding License Agreement</source>
@@ -10099,7 +10099,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>File Management</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Yönetimi</translation>
     </message>
     <message>
         <source>Please select the files you wish to remove from the recent document list, then press Delete. 
@@ -13488,7 +13488,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>*.flv;*.f4v</source>
-        <translation type="unfinished"/>
+        <translation>*.flv;*.f4v</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -13981,7 +13981,7 @@ Ekle</translation>
     </message>
     <message>
         <source> OEM</source>
-        <translation type="unfinished"/>
+        <translation> OEM</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -14257,7 +14257,7 @@ You can choose Read-only button to open it as read-only.</source>
     </message>
     <message>
         <source> Community</source>
-        <translation type="unfinished"/>
+        <translation>Topluluk</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; TH Sarabun PSK, and gets its free authorization according to the SIL OPEN FONT LICENSE Version 1.1; TH Sarabun New, free authorization according to GPL 2.0.</source>
@@ -15186,7 +15186,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Standard Margins</source>
-        <translation type="unfinished"/>
+        <translation>Standart Kenar Boşlukları</translation>
     </message>
     <message>
         <source>&amp;Left Margin</source>
@@ -19509,7 +19509,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>Gönder</translation>
     </message>
     <message>
         <source>Web Inspector - %2</source>
@@ -19602,7 +19602,7 @@ Check path and filename.</source>
     <message>
         <source>Submit</source>
         <comment>Submit (input element) alt text for &lt;input&gt; elements with no alt, title, or value</comment>
-        <translation type="unfinished"/>
+        <translation>Gönder</translation>
     </message>
     <message>
         <source>Choose File</source>
@@ -21644,7 +21644,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Management</source>
-        <translation type="unfinished"/>
+        <translation>Yönetim</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
@@ -21704,7 +21704,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Management</source>
-        <translation type="unfinished"/>
+        <translation>Yönetim</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
@@ -26044,7 +26044,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Are you sure to reset the Symbol toolbar?</source>
-        <translation type="unfinished"/>
+        <translation>Sembol araç çubuğunu sıfırlamak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>(Normal Text)</source>
@@ -30915,7 +30915,7 @@ Document</source>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>Gönder</translation>
     </message>
     <message>
         <source>Company:</source>
@@ -32262,7 +32262,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Offline password management</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı parola yönetimi</translation>
     </message>
     <message>
         <source>&amp;Download</source>
@@ -32270,7 +32270,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Offline management</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı yönetim</translation>
     </message>
     <message>
         <source>&amp;Password</source>
@@ -36282,11 +36282,11 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KxDlgExportDictionary</name>
     <message>
         <source>Full Path</source>
-        <translation type="unfinished"/>
+        <translation>Tam Yol</translation>
     </message>
     <message>
         <source>Full path</source>
-        <translation type="unfinished"/>
+        <translation>Tam yol</translation>
     </message>
     <message>
         <source>Dictionary list</source>
