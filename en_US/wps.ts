@@ -8054,35 +8054,35 @@ use buttons to apply borders</translation>
     <name>KxWpsNewSignatureDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"/>
+        <translation>Handwrite</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Clear</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Image</translation>
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Input</translation>
     </message>
     <message>
         <source>WPS Signature</source>
-        <translation type="unfinished"/>
+        <translation>WPS Signature</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Set as Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Set as Black and White</translation>
     </message>
 </context>
 <context>
@@ -18673,7 +18673,7 @@ Directly</translation>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation>Help And QA</translation>
+        <translation>Help Center</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
@@ -19392,7 +19392,7 @@ TOC</translation>
     </message>
     <message>
         <source>New Signature</source>
-        <translation type="unfinished"/>
+        <translation>Create signature</translation>
     </message>
     <message>
         <source>Split Vertically</source>
@@ -19741,7 +19741,7 @@ Screen</source>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>Sign</translation>
     </message>
     <message>
         <source>Floating Picture</source>
@@ -37158,7 +37158,7 @@ Page</translation>
     </message>
     <message>
         <source>Insert Number</source>
-        <translation>Insert Number</translation>
+        <translation>Number</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -38525,7 +38525,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation>Help And QA</translation>
+        <translation>Help Center</translation>
     </message>
     <message>
         <source>Ever Sheet</source>
@@ -39976,8 +39976,7 @@ Changes</source>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Convert to 
-Traditional Chinese</translation>
+        <translation>Traditional</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -40225,8 +40224,7 @@ Check</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Convert to 
-Simplified Chinese</translation>
+        <translation>Simplified</translation>
     </message>
     <message>
         <source>Reject Format Changes in Document</source>
@@ -47976,47 +47974,47 @@ Speech</translation>
     <name>KxSignatureEditImageCanvas</name>
     <message>
         <source>Scalable Vector Graphics(*.svg)|*.svg</source>
-        <translation type="unfinished"/>
+        <translation>Scalable Vector Graphics(*.svg)|*.svg</translation>
     </message>
     <message>
         <source>Upload an image of your signature</source>
-        <translation type="unfinished"/>
+        <translation>Insert an image as your signature</translation>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation type="unfinished"/>
+        <translation>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Insert Image</source>
-        <translation type="unfinished"/>
+        <translation>Insert Image</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation type="unfinished"/>
+        <translation>Graphics Interchange Format(*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation type="unfinished"/>
+        <translation>Portable Network Graphics(*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation type="unfinished"/>
+        <translation>Windows Metafile(*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation type="unfinished"/>
+        <translation>Windows Bitmap(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"/>
+        <translation>All Pictures</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
-        <translation type="unfinished"/>
+        <translation>Windows Enhanced Metafile(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation type="unfinished"/>
+        <translation>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
 </context>
 <context>
@@ -50349,7 +50347,7 @@ Endnote</translation>
     <name>KxWpsSignatureManager</name>
     <message>
         <source>Insert Signature</source>
-        <translation type="unfinished"/>
+        <translation>Insert Signature</translation>
     </message>
 </context>
 <context>
@@ -51126,15 +51124,15 @@ Recipients</translation>
     <name>KxGoPremiumDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Prompt</source>
-        <translation type="unfinished"/>
+        <translation>Prompt</translation>
     </message>
     <message>
         <source>Go Premium</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
 </context>
 <context>
@@ -52603,7 +52601,7 @@ check the maintain compatibility checkbox.</translation>
     <name>KxWpsNewSignatureCommand</name>
     <message>
         <source>Only WPS Premium members can create multiple signatures. Go Premium to enjoy value-added features.</source>
-        <translation type="unfinished"/>
+        <translation>Only WPS Premium members can create multiple signatures. Go Premium to enjoy value-added features.</translation>
     </message>
 </context>
 <context>
