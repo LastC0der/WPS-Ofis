@@ -46555,8 +46555,7 @@ commentaire</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>Convertir en 
-chinois simplifié</translation>
+        <translation>Simplifié</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -46686,8 +46685,7 @@ l&apos;orthographe</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>Convertir en 
-chinois traditionnel</translation>
+        <translation>Traditionnel</translation>
     </message>
     <message>
         <source>Document Security</source>
