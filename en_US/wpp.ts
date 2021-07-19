@@ -15687,7 +15687,7 @@ Slide</source>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation>Help And QA</translation>
+        <translation>Help Center</translation>
     </message>
     <message>
         <source>End show</source>
@@ -18090,7 +18090,7 @@ Control</translation>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation>Help And QA</translation>
+        <translation>Help Center</translation>
     </message>
     <message>
         <source>Ever Sheet</source>
@@ -25886,8 +25886,7 @@ View</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Convert to 
-Traditional Chinese</translation>
+        <translation>Traditional</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -25965,8 +25964,7 @@ Comment</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Convert to 
-Simplified Chinese</translation>
+        <translation>Simplified</translation>
     </message>
     <message>
         <source>Document Security</source>
