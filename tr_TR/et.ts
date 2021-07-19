@@ -19409,7 +19409,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Topluluğu</translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -20184,7 +20184,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Offline Management</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Yönetim</translation>
     </message>
 	<message>
         <source>AutoFilterList</source>
@@ -21207,7 +21207,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Standard Margins</source>
-        <translation type="unfinished"/>
+        <translation>Standart Kenar Boşlukları</translation>
     </message>
     <message>
         <source>&amp;Vertical alignment:</source>
@@ -30720,7 +30720,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Cloud File Management</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosya Yönetimi</translation>
     </message>
     <message>
         <source>Share as PDF</source>
@@ -31636,7 +31636,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Topluluğu</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -31864,7 +31864,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Topluluğu</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -53061,7 +53061,7 @@ Result</source>
     </message>
     <message>
         <source>Offline Management</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Yönetim</translation>
     </message>
     <message>
         <source>File tools</source>
