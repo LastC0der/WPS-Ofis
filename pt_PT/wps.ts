@@ -8052,6 +8052,41 @@ utilize os botões</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsNewSignatureDialog</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Draw</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Signature</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Set as Black and White</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWpsOfficialTemplateGalleryModel</name>
     <message>
         <source>OK</source>
@@ -19365,6 +19400,10 @@ Palavras</translation>
         <translation>Tradução</translation>
     </message>
     <message>
+        <source>New Signature</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Split Vertically</source>
         <translation>Dividir Verticalmente</translation>
     </message>
@@ -19709,6 +19748,10 @@ Ortográfica</translation>
     <message>
         <source>Click to turn on/off Reviewing function</source>
         <translation>Clicar para ativar/desativar função de Revisão</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Floating Picture</source>
@@ -47934,6 +47977,53 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
     </message>
 </context>
 <context>
+    <name>KxSignatureEditImageCanvas</name>
+    <message>
+        <source>Scalable Vector Graphics(*.svg)|*.svg</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upload an image of your signature</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Graphics Interchange Format(*.gif)|*.gif</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Portable Network Graphics(*.png)|*.png</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Windows Metafile(*.wmf)|*.wmf</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Windows Bitmap(*.bmp)|*.bmp</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>wps_texttable</name>
     <message>
         <source>The number of columns to be split must be between %d and %d.</source>
@@ -50250,6 +50340,13 @@ Nota de Fim</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsSignatureManager</name>
+    <message>
+        <source>Insert Signature</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWpsXMLSchemaLibraryDlg</name>
     <message>
         <source>Cannot Install the xml Extend or the xml schema.</source>
@@ -51016,6 +51113,21 @@ Nota de Fim</translation>
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+</context>
+<context>
+    <name>KxGoPremiumDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go Premium</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52479,6 +52591,13 @@ prima cancelar e selecione a caixa de verificação de manutenção de compatibi
     <message>
         <source>PresetBullet</source>
         <translation>Predefinir animações de marcas de lista</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsNewSignatureCommand</name>
+    <message>
+        <source>Only WPS Premium members can create multiple signatures. Go Premium to enjoy value-added features.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
