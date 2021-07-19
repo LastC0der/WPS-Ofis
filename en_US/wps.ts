@@ -8051,6 +8051,41 @@ use buttons to apply borders</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsNewSignatureDialog</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Draw</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Signature</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Set as Black and White</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWpsOfficialTemplateGalleryModel</name>
     <message>
         <source>OK</source>
@@ -19356,6 +19391,10 @@ TOC</translation>
         <translation>Translation</translation>
     </message>
     <message>
+        <source>New Signature</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Split Vertically</source>
         <translation>Split Vertically</translation>
     </message>
@@ -19699,6 +19738,10 @@ Screen</source>
     <message>
         <source>Click to turn on/off Reviewing function</source>
         <translation>Click to turn on/off Reviewing function</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Floating Picture</source>
@@ -47930,6 +47973,53 @@ Speech</translation>
     </message>
 </context>
 <context>
+    <name>KxSignatureEditImageCanvas</name>
+    <message>
+        <source>Scalable Vector Graphics(*.svg)|*.svg</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upload an image of your signature</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Graphics Interchange Format(*.gif)|*.gif</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Portable Network Graphics(*.png)|*.png</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Windows Metafile(*.wmf)|*.wmf</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Windows Bitmap(*.bmp)|*.bmp</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>wps_texttable</name>
     <message>
         <source>The number of columns to be split must be between %d and %d.</source>
@@ -50256,6 +50346,13 @@ Endnote</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsSignatureManager</name>
+    <message>
+        <source>Insert Signature</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWpsXMLSchemaLibraryDlg</name>
     <message>
         <source>Cannot Install the xml Extend or the xml schema.</source>
@@ -51023,6 +51120,21 @@ Recipients</translation>
     <message>
         <source>Cancel</source>
         <translation>Cancel</translation>
+    </message>
+</context>
+<context>
+    <name>KxGoPremiumDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go Premium</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -52485,6 +52597,13 @@ check the maintain compatibility checkbox.</translation>
     <message>
         <source>PresetBullet</source>
         <translation>Preset Bullet Animations</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsNewSignatureCommand</name>
+    <message>
+        <source>Only WPS Premium members can create multiple signatures. Go Premium to enjoy value-added features.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
