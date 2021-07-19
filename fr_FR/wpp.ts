@@ -25927,8 +25927,7 @@ commentaire</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Convertir en 
-chinois traditionnel</translation>
+        <translation>Traditionnel</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -26006,8 +26005,7 @@ le commentaire</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Convertir en 
-chinois simplifié</translation>
+        <translation>Simplifié</translation>
     </message>
     <message>
         <source>Document Security</source>
