@@ -25912,8 +25912,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Преобразовать на 
-традиционный китайский</translation>
+        <translation>Традиционный</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -25991,8 +25990,7 @@ Comment</source>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Преобразовать на 
-упрощенный китайский</translation>
+        <translation>Упрощенный</translation>
     </message>
     <message>
         <source>Document Security</source>
