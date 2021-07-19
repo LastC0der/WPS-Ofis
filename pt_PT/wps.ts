@@ -8055,35 +8055,35 @@ utilize os botões</translation>
     <name>KxWpsNewSignatureDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"/>
+        <translation>Desenhar</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Imagem</translation>
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Entrada</translation>
     </message>
     <message>
         <source>WPS Signature</source>
-        <translation type="unfinished"/>
+        <translation>WPS Assinatura</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Set as Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Preto e Branco</translation>
     </message>
 </context>
 <context>
@@ -19401,7 +19401,7 @@ Palavras</translation>
     </message>
     <message>
         <source>New Signature</source>
-        <translation type="unfinished"/>
+        <translation>Nova Assinatura</translation>
     </message>
     <message>
         <source>Split Vertically</source>
@@ -19751,7 +19751,7 @@ Ortográfica</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>Assinatura</translation>
     </message>
     <message>
         <source>Floating Picture</source>
@@ -37166,7 +37166,7 @@ Branco</translation>
     </message>
     <message>
         <source>Insert Number</source>
-        <translation>Inserir Número</translation>
+        <translation>Número</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -39995,8 +39995,7 @@ Changes</source>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Converter para 
-Chinês Tradicional</translation>
+        <translation>Tradicional</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -40245,8 +40244,7 @@ Ortográfica</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Converter para 
-Chinês Simplificado</translation>
+        <translation>Simplificado</translation>
     </message>
     <message>
         <source>Reject Format Changes in Document</source>
@@ -47980,7 +47978,7 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
     <name>KxSignatureEditImageCanvas</name>
     <message>
         <source>Scalable Vector Graphics(*.svg)|*.svg</source>
-        <translation type="unfinished"/>
+        <translation>Gráficos de Vetor Dimensionáveis (*.svg)|*.svg</translation>
     </message>
     <message>
         <source>Upload an image of your signature</source>
@@ -47988,7 +47986,7 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation type="unfinished"/>
+        <translation>Formato TIFF Tag Image File (*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Insert Image</source>
@@ -47996,31 +47994,31 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation type="unfinished"/>
+        <translation>Formato GIF Graphics Interchange (*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation type="unfinished"/>
+        <translation>Formato PNG Portable Network Graphics (*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation type="unfinished"/>
+        <translation>Metaficheiro do Windows (*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation type="unfinished"/>
+        <translation>Mapa de Bits do Windows (*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Todas as Imagens</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
-        <translation type="unfinished"/>
+        <translation>Metaficheiro Avançado do Windows (*.emf)|*.emf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation type="unfinished"/>
+        <translation>Formato JPEG File InterChange (*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
 </context>
 <context>
@@ -51119,15 +51117,15 @@ Nota de Fim</translation>
     <name>KxGoPremiumDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Prompt</source>
-        <translation type="unfinished"/>
+        <translation>Aviso</translation>
     </message>
     <message>
         <source>Go Premium</source>
-        <translation type="unfinished"/>
+        <translation>Vá Premium</translation>
     </message>
 </context>
 <context>
