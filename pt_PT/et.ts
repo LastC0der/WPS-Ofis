@@ -46550,8 +46550,7 @@ Comentário</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>Converter em 
-Chinês Simplificado</translation>
+        <translation>Simplificado</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -46681,8 +46680,7 @@ Ortográfica</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>Converter em 
-Chinês Tradicional</translation>
+        <translation>Tradicional</translation>
     </message>
     <message>
         <source>Document Security</source>
