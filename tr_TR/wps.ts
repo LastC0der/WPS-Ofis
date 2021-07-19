@@ -29458,7 +29458,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Modify Choice</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi Değiştir</translation>
     </message>
     <message>
         <source>Display &amp;Name:</source>
@@ -29470,7 +29470,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Add Choice</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Ekle</translation>
     </message>
     <message>
         <source>An entry with the same display name already exists - each entry must spacify a display name.</source>
