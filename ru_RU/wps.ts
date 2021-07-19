@@ -8054,35 +8054,35 @@ use buttons to apply borders</source>
     <name>KxWpsNewSignatureDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Рисунок</translation>
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Ввод</translation>
     </message>
     <message>
         <source>WPS Signature</source>
-        <translation type="unfinished"/>
+        <translation>WPS Подпись</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Set as Black and White</source>
-        <translation type="unfinished"/>
+        <translation>Черно-белый</translation>
     </message>
 </context>
 <context>
@@ -19398,7 +19398,7 @@ Directly</source>
     </message>
     <message>
         <source>New Signature</source>
-        <translation type="unfinished"/>
+        <translation>Новая подпись</translation>
     </message>
     <message>
         <source>Split Vertically</source>
@@ -19747,7 +19747,7 @@ Screen</source>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>Подпись</translation>
     </message>
     <message>
         <source>Floating Picture</source>
@@ -37150,7 +37150,7 @@ Break</source>
     </message>
     <message>
         <source>Insert Number</source>
-        <translation>Вставить номер</translation>
+        <translation>Число</translation>
     </message>
     <message>
         <source>File Object</source>
@@ -39973,8 +39973,7 @@ Changes</source>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Преобразовать в 
-традиционный китайский</translation>
+        <translation>Традиционный</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -40222,8 +40221,7 @@ Comment</source>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Преобразовать в 
-упрощенный китайский</translation>
+        <translation>Упрощенный</translation>
     </message>
     <message>
         <source>Reject Format Changes in Document</source>
@@ -47952,7 +47950,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <name>KxSignatureEditImageCanvas</name>
     <message>
         <source>Scalable Vector Graphics(*.svg)|*.svg</source>
-        <translation type="unfinished"/>
+        <translation>Масштабируемая векторная графика (*.svg)|*.svg</translation>
     </message>
     <message>
         <source>Upload an image of your signature</source>
@@ -47960,7 +47958,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation type="unfinished"/>
+        <translation>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Insert Image</source>
@@ -47968,31 +47966,31 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation type="unfinished"/>
+        <translation>Graphics Interchange Format(*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation type="unfinished"/>
+        <translation>Portable Network Graphics(*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation type="unfinished"/>
+        <translation>Метафайл Windows(*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation type="unfinished"/>
+        <translation>Точечный рисунок(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Все изображения</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
-        <translation type="unfinished"/>
+        <translation>Расширенный метафайл Windows (EMF)(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation type="unfinished"/>
+        <translation>JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
 </context>
 <context>
@@ -51092,15 +51090,15 @@ Try one or more of the following:
     <name>KxGoPremiumDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Prompt</source>
-        <translation type="unfinished"/>
+        <translation>Приглашение</translation>
     </message>
     <message>
         <source>Go Premium</source>
-        <translation type="unfinished"/>
+        <translation>Перейти Премиум</translation>
     </message>
 </context>
 <context>
