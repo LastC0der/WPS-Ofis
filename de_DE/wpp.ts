@@ -25864,8 +25864,7 @@ bearbeiten</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>In traditionelles 
-Chinesisch umwandeln</translation>
+        <translation>Traditionell</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -25942,8 +25941,7 @@ bearbeiten</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>In vereinfachtes 
-Chinesisch umwandeln</translation>
+        <translation>Vereinfacht</translation>
     </message>
     <message>
         <source>Document Security</source>
