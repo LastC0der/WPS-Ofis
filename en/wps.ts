@@ -8074,6 +8074,7 @@ use buttons to apply borders</source>
         <translation></translation>
     </message>
 </context>
+<context>
     <name>KxWpsOfficialTemplateGalleryModel</name>
     <message>
         <source>OK</source>
