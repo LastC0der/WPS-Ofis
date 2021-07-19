@@ -46462,8 +46462,7 @@ comentario</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>Convertir en 
-chino simplificado</translation>
+        <translation>Simplificado</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -46591,8 +46590,7 @@ permisos</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>Convertir en 
-chino tradicional</translation>
+        <translation>Tradicional</translation>
     </message>
     <message>
         <source>Document Security</source>
