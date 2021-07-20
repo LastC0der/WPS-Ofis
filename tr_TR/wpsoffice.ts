@@ -3934,7 +3934,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>To enable the macros, you need to install the VBA support library. Click the button to download VBA. If VBA is already installed, restart WPS.</source>
-        <translation type="unfinished"/>
+        <translation>Makroları etkinleştirmek için VBA destek kitaplığını yüklemeniz gerekir. VBA&apos;yı indirmek için düğmeyi tıklatın. VBA zaten yüklüyse, WPS&apos;yi yeniden başlatın.</translation>
     </message>
 </context>
 <context>
@@ -7560,7 +7560,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Trial version does not support VBA, thus macros in the document cannot work properly. Please purchase WPS Office to enable macro if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Deneme sürümü VBA&apos;yı desteklemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofisi satın alın.</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA, thus macros in the document cannot work properly. Please purchase separately to enable macro if needed.</source>
@@ -7568,7 +7568,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Office Free cannot support VBA, thus macros in the document cannot work properly. Please purchase WPS Office to enable macro if needed.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Free VBA&apos;yı destekleyemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofisi satın alın.</translation>
     </message>
     <message>
         <source>This document contains macros.</source>
