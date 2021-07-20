@@ -5702,7 +5702,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Diagonal Stripe</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz Şerit</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Curve</source>
@@ -6218,7 +6218,7 @@ Ekle</translation>
     <message>
         <source>Diagonal Stripe</source>
         <comment>DRAWING2_TOOLTIP_DIAGONAL_STRIPE</comment>
-        <translation type="unfinished"/>
+        <translation>Çapraz Şerit</translation>
     </message>
     <message>
         <source>Quad Arrow Callout</source>
@@ -7179,7 +7179,7 @@ Ekle</translation>
     <message>
         <source>Diagonal Stripe</source>
         <comment>DRAWING2STR_DIAGONAL_STRIPE</comment>
-        <translation type="unfinished"/>
+        <translation>Çapraz Şerit</translation>
     </message>
     <message>
         <source>8-Point Star</source>
@@ -29005,7 +29005,9 @@ Possible reasons:
         <source>
 
 Modified time: </source>
-        <translation type="unfinished"/>
+        <translation>
+
+Değiştirme zamanı: </translation>
     </message>
     <message>
         <source>&quot;%1&quot; cannot be opened. It has been renamed, deleted or moved.</source>
