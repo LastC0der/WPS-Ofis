@@ -46691,7 +46691,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Diagonal stripe</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz şerit</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -46743,11 +46743,11 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Reverse Diagonal stripe</source>
-        <translation type="unfinished"/>
+        <translation>Ters Çapraz şerit</translation>
     </message>
     <message>
         <source>Thin Reverse Diagonal stripe</source>
-        <translation type="unfinished"/>
+        <translation>İnce Ters Çapraz şerit</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -46763,7 +46763,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Thin Diagonal stripe</source>
-        <translation type="unfinished"/>
+        <translation>İnce Çapraz şerit</translation>
     </message>
 </context>
 <context>
