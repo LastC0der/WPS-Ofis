@@ -3895,7 +3895,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Ascend</source>
-        <translation type="unfinished"/>
+        <translation>Artan</translation>
     </message>
     <message>
         <source>Encountered an error when opening PDF file.</source>
@@ -4814,7 +4814,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Ascend</source>
         <comment>wpp_sAnimExitEffectTextDescend</comment>
-        <translation type="unfinished"/>
+        <translation>Artan</translation>
     </message>
     <message>
         <source>Japanese(JPN)</source>
@@ -6291,7 +6291,7 @@ For this to work, keep the capitalization the same.</source>
     </message>
     <message>
         <source>Ascend</source>
-        <translation type="unfinished"/>
+        <translation>Artan</translation>
     </message>
     <message>
         <source>Video Plugin</source>
