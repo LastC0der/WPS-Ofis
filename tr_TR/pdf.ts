@@ -11509,7 +11509,7 @@ Navigation</source>
     <name>KxPdfAnnoWidthSelector</name>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Genişlik</translation>
     </message>
 </context>
 <context>
