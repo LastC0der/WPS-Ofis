@@ -41667,7 +41667,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Fit Width</source>
-        <translation type="unfinished"/>
+        <translation>Genişliğe Sığdır</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -41946,7 +41946,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Artan</translation>
     </message>
     <message>
         <source>&amp;Sort by</source>
@@ -41970,7 +41970,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Ascend&amp;ing</source>
-        <translation type="unfinished"/>
+        <translation>Ar&amp;tan</translation>
     </message>
     <message>
         <source>No header ro&amp;w</source>
