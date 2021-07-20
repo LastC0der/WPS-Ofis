@@ -6287,7 +6287,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Last Total Cell</source>
-        <translation type="unfinished"/>
+        <translation>Son Toplam Hücre</translation>
     </message>
     <message>
         <source>First Total Cell</source>
@@ -12877,7 +12877,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>The merging will keep only the values and formats of cells.</source>
-        <translation type="unfinished"/>
+        <translation>Birleştirme yalnızca hücrelerin değerlerini ve biçimlerini koruyacaktır.</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
@@ -16930,7 +16930,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>Angle Counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönüne Ters Açı</translation>
     </message>
     <message>
         <source>Manage Rules</source>
@@ -17331,7 +17331,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Angle Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönünde Açı</translation>
     </message>
     <message>
         <source>SheetTool</source>
@@ -20371,7 +20371,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Angle Counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönüne Ters Açı</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
@@ -32915,7 +32915,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Top Centered</source>
-        <translation type="unfinished"/>
+        <translation>Üste Ortalanmış</translation>
     </message>
 </context>
 <context>
@@ -33780,7 +33780,7 @@ Taşı</translation>
     </message>
     <message>
         <source>enable macros</source>
-        <translation type="unfinished"/>
+        <translation>Makroları etkinleştir</translation>
     </message>
     <message>
         <source>%1 You can switch to %3 Auto Recalculation %4. %2</source>
@@ -53760,7 +53760,7 @@ Result</source>
     </message>
     <message>
         <source>Convergence must be a small positive number.</source>
-        <translation type="unfinished"/>
+        <translation>Yakınsama küçük bir pozitif sayı olmalıdır.</translation>
     </message>
     <message>
         <source>Integer Tolerance must be a small positive number.</source>
