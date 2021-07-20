@@ -10318,7 +10318,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>A&amp;lignment:</source>
-        <translation>&amp;Hizalama</translation>
+        <translation>&amp;Hizalama:</translation>
     </message>
 </context>
 <context>
@@ -28396,7 +28396,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Top Centered</source>
-        <translation type="unfinished"/>
+        <translation>Üste Ortalanmış</translation>
     </message>
 </context>
 <context>
