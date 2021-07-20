@@ -16240,7 +16240,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -18072,7 +18072,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show an ascending series of steps or lists of information.</source>
-        <translation type="unfinished"/>
+        <translation>Artan adımlar dizisi veya bilgi listeleri göstermek için kullanın.</translation>
     </message>
     <message>
         <source>Use to show lists of information with an accent picture for each Level 2 text. Level 1 text displays in a separate box at the top of the list.</source>
@@ -23367,7 +23367,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>File &amp;name:</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;osya adı:</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -34218,7 +34218,7 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>texture Fill</source>
-        <translation type="unfinished"/>
+        <translation>Doku Dolgusu</translation>
     </message>
 </context>
 <context>
