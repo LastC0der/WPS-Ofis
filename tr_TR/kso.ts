@@ -657,7 +657,7 @@
     </message>
     <message>
         <source>A&amp;lignment</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hizalama</translation>
     </message>
 </context>
 <context>
@@ -1820,7 +1820,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>Narrow vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dar dikey</translation>
     </message>
     <message>
         <source>Mailstop;Matter;Office;Owner;Project;Publisher;Purpose;Received from;Recorded by;Recorded date;Reference;Source;Status;Telephone number;Typist</source>
@@ -4239,7 +4239,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Approve refuse, user permission application failed.</source>
-        <translation type="unfinished"/>
+        <translation>Reddetmeyi onayla, kullanıcı izni uygulaması başarısız oldu.</translation>
     </message>
     <message>
         <source>Approve passed</source>
@@ -6115,7 +6115,7 @@ Ekle</translation>
     </message>
     <message>
         <source>NarrowVertical</source>
-        <translation type="unfinished"/>
+        <translation>Dar Dikey</translation>
     </message>
     <message>
         <source>DashedVertical</source>
@@ -7629,7 +7629,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Trapezoid</source>
-        <translation type="unfinished"/>
+        <translation>Yamuk</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -12840,7 +12840,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Paragraph Style</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Stili</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
@@ -22361,7 +22361,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Top Centered</source>
-        <translation type="unfinished"/>
+        <translation>Üste Ortalanmış</translation>
     </message>
 </context>
 <context>
@@ -22444,7 +22444,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Top centered</source>
-        <translation type="unfinished"/>
+        <translation>Üste ortalanmış</translation>
     </message>
 </context>
 <context>
@@ -27052,7 +27052,7 @@ Possible reasons:
     </message>
     <message>
         <source>To enable the macros, you need to install the VBA support library. Click the button to download VBA. If VBA is already installed, restart WPS.</source>
-        <translation type="unfinished"/>
+        <translation>Makroları etkinleştirmek için VBA destek kitaplığını yüklemeniz gerekir. VBA&apos;yı indirmek için düğmeyi tıklatın. VBA zaten yüklüyse, WPS&apos;yi yeniden başlatın.</translation>
     </message>
 </context>
 <context>
@@ -28690,7 +28690,7 @@ Possible reasons:
     <name>KMainWindow</name>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"/>
+        <translation>Çı&amp;kış</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
@@ -29486,7 +29486,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Light vertical</source>
-        <translation type="unfinished"/>
+        <translation>İnce dikey</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
@@ -29502,7 +29502,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Narrow vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dar dikey</translation>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
@@ -33715,7 +33715,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>&amp;Enable Macros</source>
-        <translation type="unfinished"/>
+        <translation>Makroları &amp;Etkinleştir</translation>
     </message>
     <message>
         <source>&quot;%1&quot; contains macros.</source>
@@ -33961,7 +33961,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>enable macros</source>
-        <translation type="unfinished"/>
+        <translation>Makroları etkinleştir</translation>
     </message>
     <message>
         <source>Loading the Document Fix. Please wait...</source>
@@ -35372,7 +35372,7 @@ Password protection and document permissions will become invalid.</source>
     </message>
     <message>
         <source>Trial version does not support VBA, thus macros in the document cannot work properly. Please purchase WPS Office to enable macro if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Deneme sürümü VBA&apos;yı desteklemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofisi satın alın.</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA, thus macros in the document cannot work properly. Please purchase separately to enable macro if needed.</source>
@@ -35380,7 +35380,7 @@ Password protection and document permissions will become invalid.</source>
     </message>
     <message>
         <source>WPS Office Free cannot support VBA, thus macros in the document cannot work properly. Please purchase WPS Office to enable macro if needed.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Free VBA&apos;yı destekleyemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofisi satın alın.</translation>
     </message>
     <message>
         <source>This document contains macros.</source>
