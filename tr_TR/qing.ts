@@ -2556,7 +2556,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -3849,7 +3849,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>File &amp;name:</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;osya adı:</translation>
     </message>
     <message>
         <source>New Folder</source>
