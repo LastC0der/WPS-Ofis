@@ -24458,7 +24458,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Looks for a value in the top row of a table or array of values and returns a value in the same column from a row you specify in the table or array (The table is ascending by default) .</source>
-        <translation type="unfinished"/>
+        <translation>Tablonun üst satırındaki değeri ya da değerler dizisini arar ve aynı sütunda belirtilen satırdan değeri verir (Tablo varsayılan olarak artandır).</translation>
     </message>
     <message>
         <source>Returns the depreciation for each settlement period.</source>
