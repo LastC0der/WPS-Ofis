@@ -2008,7 +2008,9 @@ please consult the IT department of your company, or call WPS customer service: 
         <source>Venn diagram
 Used to show areas of overlap between 
 elements</source>
-        <translation type="unfinished"/>
+        <translation>Venn diyagramı
+Öğeler arasındaki taşma alanlarını göstermek 
+için kullanılır</translation>
     </message>
     <message>
         <source>Dark vertical</source>
@@ -17343,7 +17345,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show overlapping relationships in a sequence. Works best with Level 1 text only.</source>
-        <translation type="unfinished"/>
+        <translation>Dizideki örtüşme ilişkilerini göstermek için kullanın. Yalnızca Düzey 1 metniyle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
@@ -17391,7 +17393,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show overlapping relationships. A good choice for emphasizing growth or gradation. Works best with Level 1 text only. The first seven lines of Level 1 text correspond to a circular shape. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>Örtüşme ilişkilerini göstermek için kullanın. Büyüme veya derecelendirmeyi vurgulamak için iyi bir seçimdir. Yalnızca Düzey 1 metniyle en iyi sonucu verir. Düzey 1 metninin ilk yedi satırı dairesel bir şekle karşılık gelir. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Circle Picture Hierarchy</source>
@@ -17479,7 +17481,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show overlapping or interconnected relationships. The first seven lines of Level 1 text correspond with a circle. If there are four or fewer lines of Level 1 text, the text is inside the circles. If there are more than four lines of Level 1 text, the text is outside of the circles. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>Örtüşme ve karşılıklı bağlantı ilişkilerini göstermek için kullanın. Düzey 1 metninin ilk yedi satırı bir daireye karşılık gelir. Düzey 1 metninde dört veya daha az satır varsa, metin dairelerin içindedir. Dört satırdan fazla Düzey 1 metni varsa, metin dairelerin dışındadır. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Circular Bending Process</source>
@@ -17503,7 +17505,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show both overlapping relationships and the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape and the lines of Level 2 text correspond to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>Hem örtüşme ilişkilerini hem de dairede merkezi bir görüşle ilişkiyi göstermek için kullanın. Düzey 1 metninin ilk satırı merkezi şekle ve Düzey 2 metni bunu çevreleyen dairesel şekillere karşılık gelir. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Snapshot Picture List</source>
@@ -17531,7 +17533,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show a series of pictures. Level 1 text appears above each picture. Level 2 text appears to the side and slightly overlapping each picture.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dizi resim göstermek için kullanın. Düzey 1 metin her bir resmin üstünde görünür. Düzey 2 metin yanda ve biraz resmin üzerine gelecek şekilde görüntülenir.</translation>
     </message>
     <message>
         <source>Use to show interrelated or overlapping information. Each of the first seven lines of Level 1 text appears in the rectangular shape. Unused text does not appear, but remains available if you switch layouts. Works well with both Level 1 and Level 2 text.</source>
@@ -17960,7 +17962,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show sequential and overlapping steps in a process. Limited to five Level 1 items. Level 2 can contain large amounts of text.</source>
-        <translation type="unfinished"/>
+        <translation>Bir işlemde sıralı ve üst üste gelen adımları göstermek için kullanın. Beş Düzey 1 öğeyle sınırlıdır. Düzey 2 büyük miktarda metin içerebilir.</translation>
     </message>
     <message>
         <source>Use to show large amounts of text divided into categories and subcategories. Works well with multiple levels of text. Text at the same level is separated by lines.</source>
@@ -22948,7 +22950,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>&amp;Show the legend without overlapping the chart</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Göstergeyi grafikle çakışmadan göster</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -27093,7 +27095,7 @@ Possible reasons:
     </message>
     <message>
         <source>Used to show areas of overlap between elements</source>
-        <translation type="unfinished"/>
+        <translation>Öğeler arasındaki taşma alanlarını göstermek için kullanılır</translation>
     </message>
     <message>
         <source>Pyramid Diagram</source>
