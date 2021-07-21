@@ -4889,7 +4889,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&apos;urlonline&apos;&gt; WPS Çevrimiçi Mağaza &lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -6121,7 +6121,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
-        <translation>Bireyler için bir abonelik satın aldıysanız, WPS Ofisi kullanmak için oturum açın.</translation>
+        <translation>Bireyler için bir abonelik satın aldıysanız, WPS Ofis&apos;i kullanmak için oturum açın.</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
@@ -7560,7 +7560,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Trial version does not support VBA, thus macros in the document cannot work properly. Please purchase WPS Office to enable macro if needed.</source>
-        <translation>Deneme sürümü VBA&apos;yı desteklemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofisi satın alın.</translation>
+        <translation>Deneme sürümü VBA&apos;yı desteklemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofis&apos;i satın alın.</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA, thus macros in the document cannot work properly. Please purchase separately to enable macro if needed.</source>
@@ -7568,7 +7568,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Office Free cannot support VBA, thus macros in the document cannot work properly. Please purchase WPS Office to enable macro if needed.</source>
-        <translation>WPS Ofis Free VBA&apos;yı destekleyemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofisi satın alın.</translation>
+        <translation>WPS Ofis Free VBA&apos;yı destekleyemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofis&apos;i satın alın.</translation>
     </message>
     <message>
         <source>This document contains macros.</source>
