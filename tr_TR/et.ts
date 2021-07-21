@@ -4683,7 +4683,7 @@ Lütfen önce Microsoft Excel ile açın ve &quot;Kaydet&quot; i çalıştırın
     </message>
     <message>
         <source>The range you have specified is invalid.the headers must remain in the same row and the resulting table must overlap the original table.The table must contain a header row,and at least one row of data.Please specify a vaild table.</source>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz aralık geçersiz. Başlıklar aynı satırda kalmalı ve ortaya çıkan tablo orijinal tabloyla örtüşmelidir. Tablo bir başlık satırı ve en az bir veri satırı içermelidir. Lütfen geçerli bir tablo belirtin.</translation>
     </message>
     <message>
         <source> The formula contains unrecognized text.</source>
@@ -5182,7 +5182,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
-        <translation type="unfinished"/>
+        <translation>Tablo, bir Özet Tablo raporu, sorgu sonuçları, korunan hücreler veya başka bir tablo içeren bir aralığın üstüne gelemez.</translation>
     </message>
     <message>
         <source>Sum of %s</source>
@@ -5433,7 +5433,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>One or more icon data ranges overlap. Adjust icon data range values so that the ranges do not overlap.</source>
-        <translation type="unfinished"/>
+        <translation>Bir veya birden çok simge verisi aralığı örtüşüyor. Simge veri aralığı değerlerini aralıklar örtüşmeyecek şekilde ayarlayın.</translation>
     </message>
     <message>
         <source>Duplicates do not support reference to name.</source>
@@ -5675,7 +5675,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>The ranges you selected overlap each other. Please reselect.</source>
-        <translation type="unfinished"/>
+        <translation>Seçtiğiniz aralıklar birbiriyle örtüşüyor. Lütfen yeniden seçin.</translation>
     </message>
     <message>
         <source>The specified Minimum value is not a valid percentile.</source>
@@ -35545,7 +35545,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>A PivotTable report cannot overlap a table or XML mapping.</source>
-        <translation type="unfinished"/>
+        <translation>Bir Özet Tablo raporu bir tablo veya XML eşlemesi ile örtüşemez.</translation>
     </message>
     <message>
         <source>Cannot open PivotTable source file.</source>
@@ -49610,7 +49610,9 @@ p, li { white-space: pre-wrap; }
         <source>Note: The headers must remain in the same row,
       and the resulting table tange must overlap 
       the original table range.</source>
-        <translation type="unfinished"/>
+        <translation>Not: Üst bilgilerin aynı satırda kalması ve sonuçta elde
+      edilen tablo aralığının özgün tablo aralığıyla örtüşmesi 
+      gerekir.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
