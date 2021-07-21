@@ -1175,7 +1175,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Uninstall WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i Kaldır</translation>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
