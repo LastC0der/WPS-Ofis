@@ -525,7 +525,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Transparenc&amp;y:</source>
-        <translation type="unfinished"/>
+        <translation>Sa&amp;ydamlık:</translation>
     </message>
     <message>
         <source>level</source>
@@ -752,7 +752,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>printer not available</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcı Kullanılamıyor</translation>
     </message>
     <message>
         <source>打印内容:</source>
@@ -900,7 +900,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>使用双面打印</source>
-        <translation type="unfinished"/>
+        <translation>Çift Taraflı Yazdırmayı Kullan</translation>
     </message>
     <message>
         <source>长边翻转</source>
@@ -3226,7 +3226,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>LineColor:</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Rengi:</translation>
     </message>
     <message>
         <source>insertpages</source>
@@ -9866,7 +9866,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>PDF Files(*.pdf) | *.pdf; |</source>
-        <translation type="unfinished"/>
+        <translation>PDF Dosyaları(*.pdf) | *.pdf; |</translation>
     </message>
 </context>
 <context>
