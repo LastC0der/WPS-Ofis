@@ -1257,7 +1257,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Selection</source>
-        <translation type="unfinished"/>
+        <translation>Se&amp;çim</translation>
     </message>
     <message>
         <source>Permit to modify</source>
@@ -1468,7 +1468,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Selection</source>
-        <translation type="unfinished"/>
+        <translation>Se&amp;çim</translation>
     </message>
     <message>
         <source>Permit to modify</source>
