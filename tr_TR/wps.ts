@@ -8558,7 +8558,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Current &amp;Selection</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Geçerli Seçim</translation>
     </message>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
@@ -28293,7 +28293,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Allow &amp;overlap</source>
-        <translation type="unfinished"/>
+        <translation>Taşmaya izin &amp;ver</translation>
     </message>
     <message>
         <source>Options</source>
@@ -47272,7 +47272,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Some of the regions you can edit overlap, and it is not possible to show them at the same time.
 Use the &apos;Find Next Region I Can Edit&apos; button to show each region individually.</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleyebildiğiniz bölgelerden bazıları örtüşüyor, bunları aynı anda göstermeniz olanaklı değildir. Her bir bölgeyi tek tek göstermek için &apos;Düzenleyebildiğim Bir Sonraki Bölgeyi Bul&apos; düğmesini kullanın.</translation>
     </message>
     <message>
         <source>Failed to save.</source>
