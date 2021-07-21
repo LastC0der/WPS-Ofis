@@ -50136,7 +50136,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sho&amp;w items with no data</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Verisiz öğeleri göster</translation>
     </message>
     <message>
         <source>Base &amp;field:</source>
