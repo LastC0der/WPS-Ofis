@@ -8048,7 +8048,7 @@ use buttons to apply borders</source>
     <name>KxWpsNewSignatureDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Draw</source>
@@ -8072,7 +8072,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Set as Black and White</source>
@@ -15367,7 +15367,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation>WPS Mikro Blog</translation>
+        <translation>WPS Blog</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
@@ -16676,11 +16676,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -16688,7 +16688,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>WPS Mikro Blog Düzeni</translation>
+        <translation>WPS Blog Düzeni</translation>
     </message>
     <message>
         <source>PDF To Word</source>
@@ -38226,7 +38226,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Translate selected text</source>
@@ -38234,11 +38234,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>WPS Mikro Blog Düzeni</translation>
+        <translation>WPS Blog Düzeni</translation>
     </message>
 </context>
 <context>
@@ -38522,7 +38522,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -38562,7 +38562,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Password Encryption</source>
@@ -38618,7 +38618,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>WPS Mikro Blog Düzeni</translation>
+        <translation>WPS Blog Düzeni</translation>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -38841,15 +38841,15 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>WPS Mikro Blog Düzeni</translation>
+        <translation>WPS Blog Düzeni</translation>
     </message>
 </context>
 <context>
@@ -43423,7 +43423,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
@@ -43431,7 +43431,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -43443,7 +43443,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>WPS Mikro Blog Düzeni</translation>
+        <translation>WPS Blog Düzeni</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
@@ -47749,11 +47749,11 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -47761,7 +47761,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>WPS Mikro Blog Düzeni</translation>
+        <translation>WPS Blog Düzeni</translation>
     </message>
     <message>
         <source>PDF To Word</source>
@@ -47804,7 +47804,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Resimler</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -49328,15 +49328,15 @@ Try one or more of the following:
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>WPS Mikro Blog Düzeni</translation>
+        <translation>WPS Blog Düzeni</translation>
     </message>
 </context>
 <context>
@@ -50898,7 +50898,7 @@ Try one or more of the following:
     <name>KxGoPremiumDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Prompt</source>
