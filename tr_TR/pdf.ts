@@ -217,7 +217,7 @@
     </message>
     <message>
         <source>Size</source>
-        <translation>Boyut</translation>
+        <translation>ölçek</translation>
     </message>
     <message>
         <source> (?) </source>
@@ -1370,7 +1370,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Wheel one screen one time</source>
-        <translation type="unfinished"/>
+        <translation>Bir seferde bir ekran kaydır</translation>
     </message>
     <message>
         <source>Fit Width</source>
@@ -1458,7 +1458,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fit 100</source>
-        <translation type="unfinished"/>
+        <translation>Gerçek Boyut</translation>
     </message>
     <message>
         <source>Always close alll tabs</source>
@@ -3373,7 +3373,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>print</source>
-        <translation>yazdır</translation>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>rekey</source>
@@ -7984,7 +7984,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FileSize</source>
-        <translation type="unfinished"/>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>FilePosition</source>
@@ -8843,7 +8843,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation>WPS Mikro Blog</translation>
+        <translation>WPS Blog</translation>
     </message>
     <message>
         <source>Offline Management</source>
@@ -8875,7 +8875,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Image2top</source>
@@ -8915,7 +8915,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
@@ -8995,7 +8995,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
-        <translation>WPS Mikro Blog Düzeni</translation>
+        <translation>WPS Blog Düzeni</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
