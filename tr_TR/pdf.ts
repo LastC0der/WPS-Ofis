@@ -465,7 +465,7 @@
     </message>
     <message>
         <source>Overlap:</source>
-        <translation type="unfinished"/>
+        <translation>Çakışma:</translation>
     </message>
     <message>
         <source>Page Size</source>
@@ -3065,7 +3065,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Common Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Kısayollar</translation>
     </message>
     <message>
         <source>Left click,&apos;N&apos;,space,right or down arrow,enter or page down</source>
@@ -4559,7 +4559,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>The size of the inserted image is too large.</source>
-        <translation type="unfinished"/>
+        <translation>Eklenen görüntünün boyutu çok büyük.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5405,7 +5405,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>GraffitiLineOpacity</source>
-        <translation type="unfinished"/>
+        <translation>Satır opaklığı</translation>
     </message>
     <message>
         <source>PdfReplacePages</source>
@@ -5493,7 +5493,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ImageOpacity</source>
-        <translation type="unfinished"/>
+        <translation>Opaklık</translation>
     </message>
     <message>
         <source>TextBoxAlpha</source>
@@ -13402,7 +13402,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfAnnoOpacitySelector</name>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished"/>
+        <translation>Opaklık</translation>
     </message>
 </context>
 <context>
