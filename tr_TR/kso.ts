@@ -5075,7 +5075,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Gainsboro</source>
-        <translation type="unfinished"/>
+        <translation>Uçuk Gri</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -5253,7 +5253,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>10-Point Star</source>
         <comment>DRAWING2_TOOLTIP_10_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>10 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>WordArt: Button Pour</source>
@@ -5328,17 +5328,17 @@ Used to show hierarchical relationships</source>
     <message>
         <source>12-Point Star</source>
         <comment>DRAWING2_TOOLTIP_12_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>12 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>16-Point Star</source>
         <comment>DRAWING2_TOOLTIP_16_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>16 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>32-Point Star</source>
         <comment>DRAWING2_TOOLTIP_32_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>32 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>ModerateEffect-</source>
@@ -5428,7 +5428,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>12-Point Star</source>
-        <translation type="unfinished"/>
+        <translation>12 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Blue Gradient</source>
@@ -5457,7 +5457,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>10-Point Star</source>
-        <translation type="unfinished"/>
+        <translation>10 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>To Right</source>
@@ -5619,7 +5619,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>16-Point Star</source>
-        <translation type="unfinished"/>
+        <translation>16 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Up Arrow Callout</source>
@@ -5887,7 +5887,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>5-Point Star</source>
         <comment>DRAWING2STR_5_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>5 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>DarkVertical </source>
@@ -5925,7 +5925,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>32-Point Star</source>
-        <translation type="unfinished"/>
+        <translation>32 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Teardrop</source>
@@ -5949,7 +5949,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>4-Point Star</source>
         <comment>DRAWING2STR_4_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>4 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -6070,7 +6070,7 @@ Ekle</translation>
     <message>
         <source>8-Point Star</source>
         <comment>DRAWING2STR_8_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>8 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Trapezoid</source>
@@ -6798,7 +6798,7 @@ Ekle</translation>
     <message>
         <source>32-Point Star</source>
         <comment>DRAWING2STR_32_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>32 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Text Shadow</source>
@@ -6920,7 +6920,7 @@ Ekle</translation>
     </message>
     <message>
         <source>4-Point Star</source>
-        <translation type="unfinished"/>
+        <translation>4 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>CoolSlope</source>
@@ -7124,7 +7124,7 @@ Ekle</translation>
     <message>
         <source>8-Point Star</source>
         <comment>DRAWING2_TOOLTIP_8_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>8 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Right Arrow Callout</source>
@@ -7147,7 +7147,7 @@ Ekle</translation>
     </message>
     <message>
         <source>7-Point Star</source>
-        <translation type="unfinished"/>
+        <translation>7 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -7185,7 +7185,7 @@ Ekle</translation>
     </message>
     <message>
         <source>8-Point Star</source>
-        <translation type="unfinished"/>
+        <translation>8 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Top-Left To Bottom-Right</source>
@@ -7209,7 +7209,7 @@ Ekle</translation>
     </message>
     <message>
         <source>5-Point Star</source>
-        <translation type="unfinished"/>
+        <translation>5 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Flowchart: Manual Operation</source>
@@ -7238,7 +7238,7 @@ Ekle</translation>
     </message>
     <message>
         <source>6-Point Star</source>
-        <translation type="unfinished"/>
+        <translation>6 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -7265,7 +7265,7 @@ Ekle</translation>
     <message>
         <source>5-Point Star</source>
         <comment>DRAWING2_TOOLTIP_5_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>5 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Up Ribbon</source>
@@ -7317,7 +7317,7 @@ Ekle</translation>
     <message>
         <source>6-Point Star</source>
         <comment>DRAWING2_TOOLTIP_6_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>6 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Free Curve</source>
@@ -7363,7 +7363,7 @@ Line-type: %3</source>
     <message>
         <source>4-Point Star</source>
         <comment>DRAWING2_TOOLTIP_4_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>4 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Curved Down Ribbon</source>
@@ -7398,7 +7398,7 @@ Line-type: %3</source>
     <message>
         <source>7-Point Star</source>
         <comment>DRAWING2_TOOLTIP_7_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>7 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Notched Right Arrow</source>
@@ -8564,7 +8564,7 @@ Line-type: %3</source>
     <message>
         <source>16-Point Star</source>
         <comment>DRAWING2STR_16_POINT_STAR</comment>
-        <translation type="unfinished"/>
+        <translation>16 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Curved Up Arrow</source>
@@ -15849,7 +15849,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter 0 to 120 Degres  of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 120 arasında Derece değeri girin.</translation>
     </message>
     <message>
         <source>Turn Up</source>
@@ -21287,7 +21287,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Minor Gridline</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Kılavuz Çizgisi</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -22157,7 +22157,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Keyboard shortcuts:</source>
-        <translation type="unfinished"/>
+        <translation>Klavye kısayolları:</translation>
     </message>
     <message>
         <source>Form</source>
@@ -28517,7 +28517,7 @@ Possible reasons:
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&apos;urlonline&apos;&gt; WPS Çevrimiçi Mağaza &lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -29323,7 +29323,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>TRENDLINE OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>EĞİLİM ÇİZGİSİ SEÇENEKLERİ</translation>
     </message>
     <message>
         <source>TICK MARKS</source>
@@ -29354,7 +29354,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Graphic Styles</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Stilleri</translation>
     </message>
 </context>
 <context>
@@ -30738,7 +30738,7 @@ Document</source>
     </message>
     <message>
         <source>Word 97-2003 Documents(*.doc)</source>
-        <translation type="unfinished"/>
+        <translation>Word 97-2003 Belgeleri(*.doc)</translation>
     </message>
     <message>
         <source>Word Macro-Enabled Templates(*.dotm)</source>
@@ -31309,7 +31309,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
-        <translation>Bireyler için bir abonelik satın aldıysanız, WPS Ofisi kullanmak için oturum açın.</translation>
+        <translation>Bireyler için bir abonelik satın aldıysanız, WPS Ofis&apos;i kullanmak için oturum açın.</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
@@ -31525,7 +31525,7 @@ Yazdırmaya devam edilsin mi?</translation>
     </message>
     <message>
         <source>WPS Office has not found any installed printers.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis yüklü yazıcı bulamadı.</translation>
     </message>
     <message>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
@@ -35374,7 +35374,7 @@ Password protection and document permissions will become invalid.</source>
     </message>
     <message>
         <source>Trial version does not support VBA, thus macros in the document cannot work properly. Please purchase WPS Office to enable macro if needed.</source>
-        <translation>Deneme sürümü VBA&apos;yı desteklemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofisi satın alın.</translation>
+        <translation>Deneme sürümü VBA&apos;yı desteklemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofis&apos;i satın alın.</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA, thus macros in the document cannot work properly. Please purchase separately to enable macro if needed.</source>
@@ -35382,7 +35382,7 @@ Password protection and document permissions will become invalid.</source>
     </message>
     <message>
         <source>WPS Office Free cannot support VBA, thus macros in the document cannot work properly. Please purchase WPS Office to enable macro if needed.</source>
-        <translation>WPS Ofis Free VBA&apos;yı destekleyemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofisi satın alın.</translation>
+        <translation>WPS Ofis Free VBA&apos;yı destekleyemez, bu nedenle belgedeki makrolar düzgün çalışamaz. Gerekirse makroyu etkinleştirmek için lütfen WPS Ofis&apos;i satın alın.</translation>
     </message>
     <message>
         <source>This document contains macros.</source>
@@ -36056,7 +36056,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Saydamlık</translation>
     </message>
     <message>
         <source>Smoothness</source>
