@@ -4236,7 +4236,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>4 Point Star</source>
-        <translation type="unfinished"/>
+        <translation>4 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Light Speed</source>
@@ -4252,7 +4252,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>5 Point Star</source>
-        <translation type="unfinished"/>
+        <translation>5 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>By 1st Level paragraphs</source>
@@ -4374,7 +4374,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>8 Point Star</source>
-        <translation type="unfinished"/>
+        <translation>8 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>Layout: %1</source>
@@ -4386,7 +4386,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>6 Point Star</source>
-        <translation type="unfinished"/>
+        <translation>6 Köşeli Yıldız</translation>
     </message>
     <message>
         <source>By 4th Level paragraphs</source>
@@ -5110,7 +5110,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Pointy Star</source>
-        <translation type="unfinished"/>
+        <translation>Noktalı Yıldız</translation>
     </message>
     <message>
         <source>Custom Color</source>
@@ -9576,7 +9576,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Graphic Effects</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Efektler</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -24567,7 +24567,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Hız:</translation>
     </message>
     <message>
         <source>Start:</source>
