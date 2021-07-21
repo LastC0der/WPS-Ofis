@@ -6037,7 +6037,7 @@ For this work, keep the capitalization the same.</source>
     </message>
     <message>
         <source>Cover Left-Down</source>
-        <translation type="unfinished"/>
+        <translation>Kapla Sola-Aşağı Doğru</translation>
     </message>
     <message>
         <source>Slide Transition: No Transition
@@ -6055,7 +6055,7 @@ Body: Peek In</source>
     </message>
     <message>
         <source>Uncover Left-Down</source>
-        <translation type="unfinished"/>
+        <translation>Kayma Sol-Aşağı</translation>
     </message>
     <message>
         <source>Banded Columns</source>
@@ -6173,7 +6173,7 @@ Body: Rise Up</source>
     </message>
     <message>
         <source>Cover Right-Down</source>
-        <translation>Cover Right-Down</translation>
+        <translation>Slayt Sağa-Aşağı Doğru</translation>
     </message>
     <message>
         <source>Title and Diagram or Organization Chart</source>
@@ -6247,7 +6247,7 @@ Body: Wipe</source>
     </message>
     <message>
         <source>Cover Right</source>
-        <translation type="unfinished"/>
+        <translation>Kapla Sağa Doğru</translation>
     </message>
     <message>
         <source>Title: Fade
@@ -6652,7 +6652,7 @@ Body: Descend</source>
     </message>
     <message>
         <source>Uncover Right-Down</source>
-        <translation type="unfinished"/>
+        <translation>Kayma Sağ-Aşağı</translation>
     </message>
     <message>
         <source>Comb Vertical</source>
@@ -6759,7 +6759,7 @@ Body: Unfold</source>
     </message>
     <message>
         <source>Uncover Right</source>
-        <translation type="unfinished"/>
+        <translation>Kayma Sağa</translation>
     </message>
     <message>
         <source>Ellipse Motion</source>
@@ -6833,11 +6833,11 @@ Body: Unfold</source>
     </message>
     <message>
         <source>Cover Left-Up</source>
-        <translation type="unfinished"/>
+        <translation>Kapla Sola-Yukarı Doğru</translation>
     </message>
     <message>
         <source>Uncover Left-Up</source>
-        <translation type="unfinished"/>
+        <translation>Kayma Sol-Yukarı</translation>
     </message>
     <message>
         <source>Title: Credits
@@ -6871,7 +6871,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Cover Right-Up</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Sağa-Yukarı Doğru</translation>
     </message>
     <message>
         <source>Split Vertical Out</source>
@@ -6879,7 +6879,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Uncover Right-Up</source>
-        <translation type="unfinished"/>
+        <translation>Kayma Sağ-Yukarı</translation>
     </message>
     <message>
         <source>world map</source>
@@ -7355,7 +7355,7 @@ Gövde: Yakınlaştır</translation>
     </message>
     <message>
         <source>Cover Left</source>
-        <translation type="unfinished"/>
+        <translation>Kapla Sola Doğru</translation>
     </message>
     <message>
         <source>replace missing fonts</source>
@@ -12719,7 +12719,7 @@ Slide</source>
     </message>
     <message>
         <source>Cover Right</source>
-        <translation type="unfinished"/>
+        <translation>Kapla Sağa Doğru</translation>
     </message>
     <message>
         <source>Blinds</source>
@@ -12971,7 +12971,7 @@ Slide</source>
     </message>
     <message>
         <source>Cover Left</source>
-        <translation type="unfinished"/>
+        <translation>Kapla Sola Doğru</translation>
     </message>
     <message>
         <source>Uncover</source>
@@ -21135,7 +21135,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Sho&amp;w presenter view</source>
-        <translation type="unfinished"/>
+        <translation>Sunucu &amp;görünümünü göster</translation>
     </message>
     <message>
         <source>Display slide show &amp;on:</source>
@@ -23615,7 +23615,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>: Curve Connector </source>
-        <translation type="unfinished"/>
+        <translation>: Eğri Bağlayıcı</translation>
     </message>
     <message>
         <source>Drum Roll</source>
@@ -28866,7 +28866,7 @@ Effects</source>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aranan:</translation>
     </message>
     <message>
         <source>Match &amp;case</source>
