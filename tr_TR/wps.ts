@@ -3274,7 +3274,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Sho&amp;w smart content upon file open</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açıldığında &amp;akıllı içeriği göster</translation>
     </message>
     <message>
         <source>Drawing &amp;objects</source>
