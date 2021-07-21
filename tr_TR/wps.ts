@@ -12347,7 +12347,7 @@ Açık</translation>
     </message>
     <message>
         <source>Graphic Effects</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Efektler</translation>
     </message>
     <message>
         <source>More Line Colors</source>
