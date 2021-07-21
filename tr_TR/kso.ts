@@ -8949,7 +8949,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Stick Arrow</source>
-        <translation type="unfinished"/>
+        <translation>U Dönüş Oku</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -24525,7 +24525,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Sho&amp;w</source>
-        <translation type="unfinished"/>
+        <translation>Gös&amp;ter</translation>
     </message>
     <message>
         <source>Modify Commands</source>
