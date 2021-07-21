@@ -14038,7 +14038,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation>WPS Mikro Blog</translation>
+        <translation>WPS Blog</translation>
     </message>
     <message>
         <source>Bullets And Numbering</source>
@@ -15174,11 +15174,11 @@ Master</source>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Slide(From Outline)</source>
@@ -18123,7 +18123,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Enter the access code</source>
@@ -18163,7 +18163,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Password Encryption</source>
@@ -24972,11 +24972,11 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
 </context>
 <context>
@@ -25103,11 +25103,11 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
 </context>
 <context>
@@ -31499,11 +31499,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation>Mikro Blog Web Sayfasında Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation>Mikro Blog&apos;da Paylaş</translation>
+        <translation>Blog&apos;da Paylaş</translation>
     </message>
 </context>
 <context>
