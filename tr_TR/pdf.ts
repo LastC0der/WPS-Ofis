@@ -5545,7 +5545,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Measure Perimeter</source>
-        <translation type="unfinished"/>
+        <translation>Çevreyi Ölç</translation>
     </message>
     <message>
         <source>GraffitiDraw</source>
@@ -6710,7 +6710,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Perimeter Measurement</source>
-        <translation type="unfinished"/>
+        <translation>Çevre Ölçümü</translation>
     </message>
     <message>
         <source>Cur page num</source>
@@ -7432,7 +7432,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>CONFIDENTIAL</source>
-        <translation type="unfinished"/>
+        <translation>GİZLİ</translation>
     </message>
 </context>
 <context>
@@ -9283,7 +9283,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Satın Al</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -9700,7 +9700,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>CONFIDENTIAL</source>
-        <translation type="unfinished"/>
+        <translation>GİZLİ</translation>
     </message>
     <message>
         <source>please input english comma</source>
@@ -10267,7 +10267,7 @@ Navigation</source>
     </message>
     <message>
         <source>scale:%1</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek:%1</translation>
     </message>
     <message>
         <source>centimeter</source>
@@ -10275,11 +10275,11 @@ Navigation</source>
     </message>
     <message>
         <source>perimeter:%1</source>
-        <translation type="unfinished"/>
+        <translation>Çevre:%1</translation>
     </message>
     <message>
         <source>PerimeterTool</source>
-        <translation type="unfinished"/>
+        <translation>Çevre Aracı</translation>
     </message>
 </context>
 <context>
@@ -10349,7 +10349,7 @@ Navigation</source>
     </message>
     <message>
         <source>The report was successful,thank you for your feedback.</source>
-        <translation type="unfinished"/>
+        <translation>Rapor gönderildi, geri bildiriminiz için teşekkür ederiz.</translation>
     </message>
     <message>
         <source>&amp;ComfirmExtract</source>
@@ -12322,7 +12322,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>KxPdfDownloadV8TipUi</source>
-        <translation type="unfinished"/>
+        <translation>İpuçlarını İndir</translation>
     </message>
 </context>
 <context>
