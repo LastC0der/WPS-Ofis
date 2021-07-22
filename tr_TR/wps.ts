@@ -823,7 +823,7 @@
     </message>
     <message>
         <source>Bevel</source>
-        <translation type="unfinished"/>
+        <translation>Eğim</translation>
     </message>
     <message>
         <source>This operation is invalid for the end of a row.</source>
@@ -15972,7 +15972,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Confidentiality Level KeyWord</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik Seviyesi Anahtar Kelime</translation>
     </message>
     <message>
         <source>More Layout Options</source>
@@ -18820,7 +18820,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>ConfidentialityLevelKeyWord</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol</translation>
     </message>
     <message>
         <source>Window</source>
@@ -44306,7 +44306,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Confidentiality Level KeyWord</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik Seviyesi Anahtar Kelime</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -46987,7 +46987,7 @@ Replace with a manual table?</source>
     </message>
     <message>
         <source>Confidentiality Level KeyWord</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik Seviyesi Anahtar Kelime</translation>
     </message>
 </context>
 <context>
@@ -51773,7 +51773,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxConfidentialityLevelKeyWordDlgV2</name>
     <message>
         <source>No Find Keyword in document, this document is not confidentiality level document!</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar kelime bulunamadı. Bu belge, gizlilik düzeyinde bir belge değildir.</translation>
     </message>
 </context>
 <context>
