@@ -2594,7 +2594,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>pica</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>yard</source>
@@ -3021,7 +3021,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Please enter a valid page number</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen geçerli bir sayfa numarası girin</translation>
     </message>
     <message>
         <source>example:1,3,5-9</source>
@@ -3350,7 +3350,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>key inconsistent</source>
-        <translation type="unfinished"/>
+        <translation>Tutarsız parola</translation>
     </message>
     <message>
         <source>set edit and extract key</source>
@@ -3932,7 +3932,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Correction Extraction login prompt</source>
-        <translation type="unfinished"/>
+        <translation>&apos;Metni ayıkla&apos;, WPS Premium ayrıcalığıdır</translation>
     </message>
     <message>
         <source>Your member has expired, it is recommended that you save the modified content immediately</source>
@@ -6537,7 +6537,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>DelteSplitLine</source>
-        <translation type="unfinished"/>
+        <translation>Ayırma Çizgisini Sil</translation>
     </message>
     <message>
         <source>翻译</source>
@@ -7876,7 +7876,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>IncludAnnotations&amp;m</source>
-        <translation type="unfinished"/>
+        <translation>Açıkla&amp;maları ekle</translation>
     </message>
     <message>
         <source>Find %1/%2</source>
@@ -10827,7 +10827,7 @@ Navigation</source>
     <name>KxScreenShotSticker</name>
     <message>
         <source>KxScreenShotSticker</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüsü Etiketi</translation>
     </message>
     <message>
         <source>Window Delete</source>
