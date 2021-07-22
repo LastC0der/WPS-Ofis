@@ -7080,7 +7080,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>CONFIDENTIAL</source>
-        <translation type="unfinished"/>
+        <translation>GİZLİ</translation>
     </message>
     <message>
         <source>Existing picture</source>
