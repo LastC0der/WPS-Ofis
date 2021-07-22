@@ -719,7 +719,7 @@
     </message>
     <message>
         <source>Bevel</source>
-        <translation type="unfinished"/>
+        <translation>Eğim</translation>
     </message>
     <message>
         <source>Miter</source>
@@ -4869,7 +4869,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Bevel</source>
-        <translation type="unfinished"/>
+        <translation>Eğim</translation>
     </message>
     <message>
         <source>Azure</source>
@@ -5445,7 +5445,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>No Bevel</source>
-        <translation type="unfinished"/>
+        <translation>Eğim Yok</translation>
     </message>
     <message>
         <source>Flowchart: Display</source>
@@ -6189,7 +6189,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Beveled Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Eğimli Gradyan</translation>
     </message>
     <message>
         <source>WordArt: Curve Up</source>
@@ -6903,7 +6903,7 @@ Ekle</translation>
     <message>
         <source>Bevel</source>
         <comment>DRAWING2STR_BEVEL</comment>
-        <translation type="unfinished"/>
+        <translation>Eğim</translation>
     </message>
     <message>
         <source>Right Brace</source>
@@ -7806,7 +7806,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Beveled</source>
-        <translation type="unfinished"/>
+        <translation>Eğimli</translation>
     </message>
     <message>
         <source>Left Brace</source>
@@ -15655,7 +15655,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&amp;Top bevel</source>
-        <translation type="unfinished"/>
+        <translation>Ü&amp;st eğim</translation>
     </message>
     <message>
         <source>&amp;Depth</source>
@@ -15671,7 +15671,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&amp;Bottom bevel</source>
-        <translation type="unfinished"/>
+        <translation>Al&amp;t eğim</translation>
     </message>
     <message>
         <source>Enter 0 to 1584 Pounds of value</source>
@@ -30352,11 +30352,11 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KBevelModel</name>
     <message>
         <source>Bevel</source>
-        <translation type="unfinished"/>
+        <translation>Eğim</translation>
     </message>
     <message>
         <source>No Bevel</source>
-        <translation type="unfinished"/>
+        <translation>Eğim Yok</translation>
     </message>
 </context>
 <context>
