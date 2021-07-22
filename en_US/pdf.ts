@@ -1095,11 +1095,7 @@ For example, 1,3,5-12.</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Microsoft YaHei'; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;eg:1-5,7,9-10&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Microsoft YaHei&apos;; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;eg:1-5,7,9-10&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Select</source>
@@ -2578,7 +2574,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Encryption will take effect after the document is saved</source>
-        <translation>El cifrado se aplicará cuando el documento se haya guardado</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4447,11 +4443,11 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Signature Apply</source>
-        <translation>Aplicar firma</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Signature apply</source>
-        <translation>Aplicar firma</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4610,7 +4606,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>The font &apos;</source>
-        <translation>La fuente &apos;</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6597,35 +6593,35 @@ Speech</translation>
     </message>
     <message>
         <source>1.25</source>
-        <translation>1,25</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1.75</source>
-        <translation>1,75</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>2 pt</source>
-        <translation>2 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>4 pt</source>
-        <translation>4 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>8 pt</source>
-        <translation>8 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>10 pt</source>
-        <translation>10 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>12 pt</source>
-        <translation>12 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add new outline</source>
-        <translation>Añadir marcador</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>pdfconvertword</source>
@@ -7008,7 +7004,7 @@ Speech</translation>
     </message>
     <message>
         <source>PPT</source>
-        <translation>PPT</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDFToWord</source>
@@ -7459,19 +7455,19 @@ Speech</translation>
     </message>
     <message>
         <source>当前比例</source>
-        <translation>Escala actual</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>导出图片</source>
-        <translation>Exportar imagen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>具体消息内容</source>
-        <translation>Información detallada</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>提示</source>
-        <translation>Aviso</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8437,15 +8433,15 @@ Pane</translation>
     </message>
     <message>
         <source>C:\XuYang\PDF File</source>
-        <translation>C:\XuYang\PDF File</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ACC TIME</source>
-        <translation>ACC TIME</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ADFADFASDFASDFASDF.PDF</source>
-        <translation>ADFADFASDFASDFASDF.PDF</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8507,7 +8503,7 @@ Pane</translation>
     </message>
     <message>
         <source>adfadfadf</source>
-        <translation>adfadfadf</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10022,8 +10018,7 @@ Window</source>
     <message>
         <source>Page
 Navigation</source>
-        <translation>Navegación por
-la página</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11338,15 +11333,15 @@ Speech</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation>Picture to PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation>PDF To Word</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Translate selected text2</source>
-        <translation>Traducir el texto seleccionado</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12902,7 +12897,7 @@ Deleted pages cannot be recovered</translation>
     </message>
     <message>
         <source>立刻压缩</source>
-        <translation>Comprimir ahora</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
