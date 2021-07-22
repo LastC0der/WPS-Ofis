@@ -4720,7 +4720,8 @@ Lütfen önce Microsoft Excel ile açın ve &quot;Kaydet&quot; i çalıştırın
     <message>
         <source>No Changes were found with the specified properties.
 To highlight all changes, uncheck the When, Who, and Where options.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen özelliklerde hiçbir değişiklik yok.
+Tüm değişiklikleri vurgulamak için, Ne Zaman, Kim ve Nerede seçeneklerini temizleyin.</translation>
     </message>
     <message>
         <source>The number format you entered is invalid.</source>
