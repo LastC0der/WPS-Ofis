@@ -1562,7 +1562,7 @@
     </message>
     <message>
         <source>Picture controls cannot be inserted around a selection which contains non-image content, floating images, or more than a single inline image.</source>
-        <translation type="unfinished"/>
+        <translation>Resim denetimleri, görüntü olmayan içerik, kayan görüntüler veya tek satır içi görüntüden daha fazlasını içeren bir seçimin etrafına eklenemez.</translation>
     </message>
     <message>
         <source>1.5 lines</source>
@@ -3720,7 +3720,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Select &amp;Picture</source>
-        <translation type="unfinished"/>
+        <translation>R&amp;esim Seç</translation>
     </message>
     <message>
         <source>T&amp;ransparency:</source>
@@ -7060,7 +7060,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Please select a picture.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bir resim seçin.</translation>
     </message>
     <message>
         <source>DISTRIBUTE</source>
@@ -7072,7 +7072,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim Seç</translation>
     </message>
     <message>
         <source>This section</source>
@@ -25218,7 +25218,8 @@ Efektler</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
+        <translation>Geleneksel Çince&apos;ye 
+Dönüştür</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -39844,7 +39845,7 @@ Changes</source>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
+        <translation>Geleneksel</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -40143,7 +40144,8 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
+        <translation>Geleneksel Çince&apos;ye 
+Dönüştür</translation>
     </message>
     <message>
         <source>Use Balloons</source>
