@@ -12015,7 +12015,8 @@ Navigation</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
+        <translation>Kullanıcı İzinlerini 
+Kontrol Et</translation>
     </message>
     <message>
         <source>NewSignature</source>
