@@ -3067,7 +3067,7 @@ This backup will be saved to(%s)</source>
     <name>CTableStyle</name>
     <message>
         <source>1-</source>
-        <translation type="unfinished"/>
+        <translation>1-</translation>
     </message>
     <message>
         <source>2-</source>
@@ -4142,7 +4142,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Spring</source>
-        <translation type="unfinished"/>
+        <translation>Bahar</translation>
     </message>
     <message>
         <source>Spinner</source>
@@ -7277,7 +7277,7 @@ Body: Zoom</source>
     </message>
     <message>
         <source>Click to edit Master title style</source>
-        <translation type="unfinished"/>
+        <translation>Asıl başlık stilini düzenlemek için tıklayın</translation>
     </message>
     <message>
         <source>Slide Image Placeholder</source>
@@ -16220,7 +16220,7 @@ Slide</source>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation type="unfinished"/>
+        <translation>Suluboya Fırçası</translation>
     </message>
     <message>
         <source>Motion Path Point</source>
@@ -30802,7 +30802,7 @@ Would you like to open this file?
     </message>
     <message>
         <source>Custom Shows“</source>
-        <translation type="unfinished"/>
+        <translation>Özel Gösteriler“</translation>
     </message>
     <message>
         <source>During the slide show:
