@@ -3086,7 +3086,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince</translation>
     </message>
     <message>
         <source>Georgian</source>
@@ -6927,7 +6927,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Unable to receive a message</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj alınamıyor</translation>
     </message>
     <message>
         <source>Permission denied</source>
