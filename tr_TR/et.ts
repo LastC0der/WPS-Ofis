@@ -17857,7 +17857,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="unfinished"/>
+        <translation>Köşe Noktası</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -44568,7 +44568,8 @@ Center</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
+        <translation>Kullanıcı İzinlerini 
+Kontrol Et</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -46455,7 +46456,8 @@ Paylaş</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
+        <translation>Kullanıcı İzinlerini 
+Kontrol Et</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -51097,7 +51099,7 @@ Düzenleyicisi</translation>
     </message>
     <message>
         <source>V&amp;ariants</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çeşitlemeler</translation>
     </message>
     <message>
         <source>Sample:</source>
@@ -53076,7 +53078,8 @@ Result</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
+        <translation>Kullanıcı İzinlerini 
+Kontrol Et</translation>
     </message>
     <message>
         <source>Encryption</source>
