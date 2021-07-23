@@ -11508,7 +11508,7 @@ Koru</translation>
     </message>
     <message>
         <source>Height_num</source>
-        <translation type="unfinished"/>
+        <translation>Yükseklik_num</translation>
     </message>
     <message>
         <source>Result_vector</source>
@@ -18365,7 +18365,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Remove Grand Total</source>
-        <translation type="unfinished"/>
+        <translation>Genel Toplamı Kaldır</translation>
     </message>
     <message>
         <source>% of Column Total</source>
@@ -19922,7 +19922,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>% of Grand Total</source>
-        <translation type="unfinished"/>
+        <translation>Genel Toplam %</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
@@ -21781,11 +21781,11 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Stop chosen when the maximum number of feasible solutions was reached.</source>
-        <translation type="unfinished"/>
+        <translation>Maksimum uygulanabilir çözüm sayısına ulaşıldığında durdurma seçildi.</translation>
     </message>
     <message>
         <source>Create a linearity report to see where the problem is.</source>
-        <translation type="unfinished"/>
+        <translation>Sorunun nerede olduğunu görmek için doğrusallık raporu oluşturun.</translation>
     </message>
     <message>
         <source>Shaded</source>
@@ -21801,7 +21801,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>five privileges of AF</source>
-        <translation type="unfinished"/>
+        <translation>Filtre - Gelişmiş Mod için Beş Özellik</translation>
     </message>
     <message>
         <source>Diagonal Up</source>
@@ -21809,7 +21809,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Grand Total</source>
-        <translation type="unfinished"/>
+        <translation>Genel Toplam</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
@@ -30193,7 +30193,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>% of Grand Total</source>
-        <translation type="unfinished"/>
+        <translation>Genel Toplam %</translation>
     </message>
     <message>
         <source>Count Numbers</source>
@@ -35503,7 +35503,7 @@ Shape</source>
     </message>
     <message>
         <source>% of Grand Total</source>
-        <translation type="unfinished"/>
+        <translation>Genel Toplam %</translation>
     </message>
 </context>
 <context>
@@ -51185,7 +51185,7 @@ Düzenleyicisi</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"/>
+        <translation>Ekran İpu&amp;cu...</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -54433,7 +54433,7 @@ Result</source>
     </message>
     <message>
         <source>&amp;Grand Total</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Genel Toplam</translation>
     </message>
     <message>
         <source>Method</source>
