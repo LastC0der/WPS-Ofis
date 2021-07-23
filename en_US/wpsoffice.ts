@@ -5566,7 +5566,7 @@ If error occurs repeatedly, please send us an error report.</translation>
     </message>
     <message>
         <source>Unable to receive a message</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj alınamıyor</translation>
     </message>
     <message>
         <source>Permission denied</source>
