@@ -453,7 +453,7 @@
     </message>
     <message>
         <source>Select Picture...</source>
-        <translation type="unfinished"/>
+        <translation>Resmi seçin...</translation>
     </message>
     <message>
         <source>Gradient Radial</source>
@@ -2584,7 +2584,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim Seç</translation>
     </message>
     <message>
         <source>---Translate Selection---</source>
@@ -5917,7 +5917,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>DarkMagenta</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Eflatun</translation>
     </message>
     <message>
         <source>Action Button</source>
@@ -5987,7 +5987,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Magenta</source>
-        <translation type="unfinished"/>
+        <translation>Fuşya</translation>
     </message>
     <message>
         <source>Flowchart: Predefined Process</source>
@@ -8315,7 +8315,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Lordosis Bending Strip</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı Bükülmüş Şerit</translation>
     </message>
     <message>
         <source>Action Button: End</source>
@@ -8801,7 +8801,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Bottom-Left To Top-Right</source>
-        <translation type="unfinished"/>
+        <translation>Sol Alttan Sağ Üste</translation>
     </message>
     <message>
         <source>Dove Tail</source>
@@ -9220,7 +9220,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source> PatternFill-</source>
-        <translation type="unfinished"/>
+        <translation> Desen Dolgusu-</translation>
     </message>
     <message>
         <source>Snip Single Corner Rectangle</source>
@@ -9408,7 +9408,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Top-Right To Bottom-Left</source>
-        <translation type="unfinished"/>
+        <translation>Sağ Üstten Sol Alta</translation>
     </message>
     <message>
         <source>LavenderBlush</source>
@@ -10610,7 +10610,7 @@ Tianjin KYLIN Information Technology Co., Ltd.</source>
     </message>
     <message>
         <source>Email param format wrong!</source>
-        <translation type="unfinished"/>
+        <translation>Yanlış e-posta biçimi.</translation>
     </message>
     <message>
         <source>Failed to use this function, please contact your enterprise&apos;s administrator or WPS customer service. (Server API mismatch: %1.)</source>
@@ -18425,7 +18425,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel Çince</translation>
     </message>
     <message>
         <source>Georgian</source>
@@ -22999,7 +22999,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>m/d/yyyy h:mm</source>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy s:dd</translation>
     </message>
     <message>
         <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
@@ -23057,7 +23057,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>m/d/yyyy</source>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>\$#,##0.00_);(\$#,##0.00)</source>
@@ -23078,27 +23078,27 @@ This file may be renamed, deleted or moved.</source>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
@@ -23131,32 +23131,32 @@ This file may be renamed, deleted or moved.</source>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation type="unfinished"/>
+        <translation>a/g/yyyy</translation>
     </message>
     <message>
         <source>#,##0_);(#,##0)</source>
@@ -24593,7 +24593,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Select picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim seç</translation>
     </message>
     <message>
         <source>Portable Network Graphic(*.png)</source>
@@ -29564,7 +29564,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim Seç</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
@@ -30232,7 +30232,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Unable to receive a message</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj alınamıyor</translation>
     </message>
     <message>
         <source>Permission denied</source>
@@ -32367,7 +32367,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Simplified Chinese to &amp;Traditional Chinese</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Basitleştirilmiş Çince&apos;den Geleneksel Çince&apos;ye</translation>
     </message>
     <message>
         <source>Translation by &amp;Word</source>
@@ -32383,7 +32383,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Traditional Chinese to &amp;Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Geleneksel Çince&apos;den Basitleştirilmiş Çince&apos;ye</translation>
     </message>
 </context>
 <context>
@@ -36018,7 +36018,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Selected pictures</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçili resimler</translation>
     </message>
     <message>
         <source>Change resolution</source>
@@ -36683,7 +36683,7 @@ Please check your network your firewall configuration</source>
     <name>KxEncryptionHardware</name>
     <message>
         <source>unknown device</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen Aygıt</translation>
     </message>
 </context>
 <context>
