@@ -2103,7 +2103,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Kaydet</translation>
     </message>
     <message>
         <source>Discard</source>
