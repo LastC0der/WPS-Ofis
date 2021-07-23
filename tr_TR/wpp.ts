@@ -7669,7 +7669,7 @@ Body: Spinner</source>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosya için izin şu anda kısıtlı. Bu ayarları yalnızca WPS Presentation dosya biçimi tutabilir. Geçerli dosya türü olarak kaydederseniz, tüm izin ayarları kaybolacaktır. Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <source>Newsflash</source>
@@ -13262,7 +13262,7 @@ Slide</source>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="unfinished"/>
+        <translation>Köşe Noktası</translation>
     </message>
     <message>
         <source>Black Screen</source>
@@ -18171,7 +18171,8 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
+        <translation>Kullanıcı İzinlerini 
+Kontrol Et</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -25769,7 +25770,8 @@ Mark</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
+        <translation>Kullanıcı İzinlerini 
+Kontrol Et</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -31370,7 +31372,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
+        <translation>Kullanıcı İzinlerini 
+Kontrol Et</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -32828,7 +32831,7 @@ Master</source>
     </message>
     <message>
         <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
-        <translation type="unfinished"/>
+        <translation>Bu sunuda bulunan aşağıdaki özellikler önceki WPS Presentation sürümleri tarafından desteklenmiyor. Bu sunuyu önceki bir dosya biçiminde kaydederseniz, bu özellikler kaybolabilir veya düzeyi düşürülebilir. Sunuyu yine de kaydetmek için Devam&apos;a tıklayın. Tüm özelliklerinizi korumak için İptal&apos;e tıklayın ve sunuyu yeni dosya biçimlerinden birinde kaydedin.</translation>
     </message>
     <message>
         <source>Summary:</source>
