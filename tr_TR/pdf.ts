@@ -2575,7 +2575,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Encryption will take effect after the document is saved</source>
-        <translation type="unfinished"/>
+        <translation>Belge kaydedildikten sonra şifreleme yürürlüğe girecek</translation>
     </message>
 </context>
 <context>
@@ -6281,7 +6281,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>DeleteAttachment</source>
-        <translation type="unfinished"/>
+        <translation>Eki Sil</translation>
     </message>
     <message>
         <source>ChangeBackGround</source>
@@ -6601,7 +6601,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>4 pt</source>
-        <translation type="unfinished"/>
+        <translation>4 nk</translation>
     </message>
     <message>
         <source>8 pt</source>
@@ -8859,7 +8859,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>PictureHierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Resim Hiyerarşisi</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
@@ -9309,7 +9309,7 @@ upgrade to WPS VIP?</source>
     <name>KxPdfPrintProgressDialog</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Page</source>
@@ -11934,7 +11934,7 @@ Navigation</source>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştır</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
@@ -11970,7 +11970,7 @@ Navigation</source>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>File Collect</source>
@@ -13087,7 +13087,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Delete Attachment</source>
-        <translation type="unfinished"/>
+        <translation>Eki Sil</translation>
     </message>
     <message>
         <source>Add Attachment</source>
