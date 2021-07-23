@@ -823,7 +823,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>The document is saved locally, we supposed to change it to cloud file.</source>
-        <translation type="unfinished"/>
+        <translation>Belge yerel olarak kaydedilir, WPS Bulut&apos;a kaydetmenizi öneririz.</translation>
     </message>
     <message>
         <source>Refresh File</source>
@@ -1488,7 +1488,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Kaydet</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -3835,7 +3835,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Close forcefully can cause discard all not saved data.</source>
-        <translation type="unfinished"/>
+        <translation>Zorla kapatmak, kaydedilmeyen tüm verilerin atılmasına neden olabilir.</translation>
     </message>
     <message>
         <source>Return</source>
@@ -4953,7 +4953,8 @@ Please download and update in time so as not to affect your work.</source>
     <message>
         <source>Your file has been automatically saved to the backup folder, don't worry.
 If this error occurs repeatedly, please send us an error report.</source>
-        <translation type="unfinished"/>
+        <translation>Dosyanız otomatik olarak yedekleme klasörüne kaydedildi, merak etmeyin.
+Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</translation>
     </message>
     <message>
         <source>Reload File</source>
