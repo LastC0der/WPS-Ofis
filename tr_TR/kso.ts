@@ -1000,7 +1000,7 @@
     </message>
     <message>
         <source>Res&amp;olution</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çözünürlük</translation>
     </message>
     <message>
         <source>1024 x 768</source>
@@ -12024,7 +12024,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Kaydet</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -12745,7 +12745,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="unfinished"/>
+        <translation>Köşe Noktası</translation>
     </message>
     <message>
         <source>Cannot create the object, please make sure the object has been registered in the Registry.</source>
@@ -14447,7 +14447,7 @@ You can click the button to recover files you work on.</source>
     </message>
     <message>
         <source>mail feedback</source>
-        <translation type="unfinished"/>
+        <translation>e-posta geri bildirimi</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -17593,7 +17593,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Basic Block List</source>
-        <translation type="unfinished"/>
+        <translation>Temel Blok Listesi</translation>
     </message>
     <message>
         <source>Use to show groups of information or steps in a task, process, or workflow. Circular shapes contain Level 1 text, and the corresponding rectangles contain Level 2 text. Works well for numerous details and minimal Level 1 text.</source>
@@ -20134,7 +20134,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>V&amp;ariants</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çeşitlemeler</translation>
     </message>
     <message>
         <source>Parchment</source>
@@ -24902,7 +24902,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Res&amp;olution:</source>
-        <translation type="unfinished"/>
+        <translation>Çözü&amp;nürlük:</translation>
     </message>
     <message>
         <source>1024 x 768</source>
@@ -25837,7 +25837,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Grant Users Permission</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı yetkilendirme izni</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -35218,7 +35218,7 @@ Please check network</source>
     </message>
     <message>
         <source>&amp;Convert to:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dönüştür:</translation>
     </message>
 </context>
 <context>
