@@ -6929,7 +6929,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Unable to receive a message</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj alınamıyor</translation>
     </message>
     <message>
         <source>Permission denied</source>
