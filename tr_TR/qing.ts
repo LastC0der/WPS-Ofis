@@ -9444,11 +9444,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Could not begin transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamadı</translation>
     </message>
     <message>
         <source>Could not rollback transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem geri alınmadı</translation>
     </message>
     <message>
         <source>Could not commit transaction</source>
