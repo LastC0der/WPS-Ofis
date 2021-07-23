@@ -10556,7 +10556,7 @@ if you want to replace selected result, please click the replace button</source>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosya için izin şu anda kısıtlı. Bu ayarları yalnızca WPS Writer dosya biçimi tutabilir. Geçerli dosya türü olarak kaydederseniz, tüm izin ayarları kaybolacaktır. Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
@@ -14332,7 +14332,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="unfinished"/>
+        <translation>Köşe Noktası</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -38570,7 +38570,8 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
+        <translation>Kullanıcı İzinlerini 
+Kontrol Et</translation>
     </message>
     <message>
         <source>Account Encryption</source>
@@ -39985,7 +39986,8 @@ Sayısı</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
+        <translation>Kullanıcı İzinlerini 
+Kontrol Et</translation>
     </message>
     <message>
         <source>Handwriting Comments</source>
@@ -44298,7 +44300,8 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
+        <translation>Kullanıcı İzinlerini 
+Kontrol Et</translation>
     </message>
     <message>
         <source>Encryption</source>
