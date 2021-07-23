@@ -2139,7 +2139,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>CJK Unified Ideograph Extension A;Private Use Area;CJK Compatibility Ideographs;Alphabetic Presentation Forms;Arabic Presentation Forms-A;Combining Half Marks;CJK Compatibility Forms;</source>
-        <translation type="unfinished"/>
+        <translation>CJK Birleşik İdeogram A Uzantısı;Özel Kullanım Alanı;ÇJK Uyumluluk İdeogramları;Alfabetik Sunu Formları;Arapça Sunu Formları-A;Yarım İşaretleri Birleştirme;ÇJK Uyumluluk Formları</translation>
     </message>
     <message>
         <source>Olive Green</source>
@@ -5827,7 +5827,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Up Curved Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Bükülü Ok</translation>
     </message>
     <message>
         <source>First Line Indent</source>
@@ -6185,7 +6185,7 @@ Ekle</translation>
     <message>
         <source>Diamond</source>
         <comment>DRAWING2STR_DIAMOND</comment>
-        <translation type="unfinished"/>
+        <translation>Elmas</translation>
     </message>
     <message>
         <source>Beveled Gradient</source>
@@ -6422,7 +6422,7 @@ Ekle</translation>
     </message>
     <message>
         <source>SpringGreen</source>
-        <translation type="unfinished"/>
+        <translation>İlkbahar yeşili</translation>
     </message>
     <message>
         <source>Greeen</source>
@@ -7794,7 +7794,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>MediumSpringGreen</source>
-        <translation type="unfinished"/>
+        <translation>Orta bahar yeşili</translation>
     </message>
     <message>
         <source>The datasource file is not available.</source>
@@ -9045,7 +9045,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Elbow Double Arrow Connector</source>
-        <translation type="unfinished"/>
+        <translation>Dirsek Çift Ok Bağlayıcısı</translation>
     </message>
     <message>
         <source>Frustum</source>
@@ -12057,7 +12057,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Give all users Change access</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kullanıcılara Değiştirme erişimi ver</translation>
     </message>
     <message>
         <source>Change...   </source>
@@ -12102,7 +12102,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Give all users Change access</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kullanıcılara Değiştirme erişimi ver</translation>
     </message>
     <message>
         <source>Change...   </source>
@@ -12155,7 +12155,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Give all users Change access</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kullanıcılara Değiştirme erişimi ver</translation>
     </message>
     <message>
         <source>Change...   </source>
@@ -12212,7 +12212,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Give all users Change access</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kullanıcılara Değiştirme erişimi ver</translation>
     </message>
     <message>
         <source>Change...   </source>
@@ -17165,7 +17165,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Horizontal Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Hiyerarşi</translation>
     </message>
     <message>
         <source>Bending Picture Accent List</source>
@@ -17173,7 +17173,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Hierarchy List</source>
-        <translation type="unfinished"/>
+        <translation>Hiyerarşi Listesi</translation>
     </message>
     <message>
         <source>Use to show hierarchical relationships progressing across groups. Can also be used to group or list information.</source>
@@ -17225,7 +17225,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Horizontal Labeled Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Etiketli Hiyerarşi</translation>
     </message>
     <message>
         <source>Nested Target</source>
@@ -17397,7 +17397,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Circle Picture Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Daire Resmi Hiyerarşisi</translation>
     </message>
     <message>
         <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the stages or steps rather than the connecting arrows or flow.</source>
@@ -17529,7 +17529,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Table Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Hiyerarşisi</translation>
     </message>
     <message>
         <source>Use to show a series of pictures. Level 1 text appears above each picture. Level 2 text appears to the side and slightly overlapping each picture.</source>
@@ -17938,7 +17938,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show large amounts of hierarchical information progressing horizontally. The top of the hierarchy is displayed vertically. This layout supports many levels in the hierarchy.</source>
-        <translation type="unfinished"/>
+        <translation>Yatay olarak ilerleyen büyük miktarlarda hiyerarşik bilgi göstermek için kullanın. Hiyerarşinin en üstü dikey olarak görüntülenir. Bu düzen hiyerarşide bir çok düzey bulunmasını destekler.</translation>
     </message>
     <message>
         <source>Radial Cycle</source>
@@ -17986,7 +17986,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Hiyerarşi</translation>
     </message>
     <message>
         <source>Use to show an ascending series of pictures with descriptive text. Works best with a small amount of text.</source>
@@ -18130,7 +18130,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Labeled Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Hiyerarşi</translation>
     </message>
     <message>
         <source>Bending Picture Semi-Transparent Text</source>
@@ -18206,7 +18206,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Horizontal Multi-Level Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Çok Düzeyli Hiyerarşi</translation>
     </message>
     <message>
         <source>Grouped List</source>
@@ -18239,7 +18239,7 @@ Check path and filename.</source>
     <message>
         <source>Hierarchy</source>
         <comment>_kso_SmartArtHierarchy1Name</comment>
-        <translation type="unfinished"/>
+        <translation>Hiyerarşi</translation>
     </message>
     <message>
         <source>Use to show pictures with corresponding Level 1 text displayed in a frame.</source>
@@ -20074,7 +20074,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Spring</source>
-        <translation type="unfinished"/>
+        <translation>Bahar</translation>
     </message>
     <message>
         <source>Late Sunset</source>
@@ -20751,7 +20751,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Private Use Area</source>
-        <translation type="unfinished"/>
+        <translation>Özel Kullanım Alanı</translation>
     </message>
     <message>
         <source>CJK Miscellaneous</source>
@@ -30639,7 +30639,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"/>
+        <translation>Ekran İpu&amp;cu...</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
@@ -35569,11 +35569,11 @@ Password protection and document permissions will become invalid.</source>
     </message>
     <message>
         <source>Could not begin transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamadı</translation>
     </message>
     <message>
         <source>Could not rollback transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem geri alınmadı</translation>
     </message>
     <message>
         <source>Could not commit transaction</source>
