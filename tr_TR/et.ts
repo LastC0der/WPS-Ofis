@@ -13651,7 +13651,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Generate pictures in the currently selected area.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alanda resimler oluşturun.</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
@@ -46532,8 +46532,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>Geleneksel Çince&apos;ye 
-Dönüştür</translation>
+        <translation>Geleneksel</translation>
     </message>
     <message>
         <source>Document Security</source>
