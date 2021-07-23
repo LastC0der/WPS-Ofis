@@ -1795,7 +1795,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Image file is too large, please select a picture smaller than 20M.</source>
-        <translation type="unfinished"/>
+        <translation>Resim dosyası çok büyük, lütfen 20M&apos;den küçük bir resim seçin.</translation>
     </message>
 </context>
 <context>
