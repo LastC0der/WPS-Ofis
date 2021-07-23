@@ -84,7 +84,8 @@
     <message>
         <source>This feature has been installed, but has not been enabled.
 Save the data and restart the WPS software to enable this feature.</source>
-        <translation type="unfinished"/>
+        <translation>Bu özellik yüklendi, ancak etkinleştirilmedi.
+Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeniden başlatın.</translation>
     </message>
 </context>
 <context>
