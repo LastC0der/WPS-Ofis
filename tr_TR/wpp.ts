@@ -5030,7 +5030,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Slide Master View</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Slayt Görünümü</translation>
     </message>
     <message>
         <source>Change Font Color</source>
@@ -17437,7 +17437,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Master View</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Slayt Görünümü</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -23118,7 +23118,8 @@ Master</source>
     <message>
         <source>Close
 Master View</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Slayt Görünümünü
+Kapat</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -25745,7 +25746,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
+        <translation>Geleneksel</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -25845,7 +25846,8 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
+        <translation>Geleneksel Çince&apos;ye 
+Dönüştür</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -26362,7 +26364,7 @@ Sorter</source>
     </message>
     <message>
         <source>Master View</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Slayt Görünümü</translation>
     </message>
     <message>
         <source>Notes Page</source>
@@ -27281,7 +27283,8 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Geleneksel Çince&apos;ye Dönüştür</translation>
+        <translation>Geleneksel Çince&apos;ye 
+Dönüştür</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -27898,7 +27901,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Slide Master View</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Slayt Görünümü</translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -29506,7 +29509,7 @@ Sorter</source>
     </message>
     <message>
         <source>Master View</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Slayt Görünümü</translation>
     </message>
     <message>
         <source>Notes Page</source>
@@ -30163,7 +30166,7 @@ Slide Master</source>
     </message>
     <message>
         <source>View Slide &amp;Master</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Asıl Slaytı Görüntüle</translation>
     </message>
     <message>
         <source>Seconds</source>
@@ -31219,7 +31222,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim Seç</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
@@ -32146,7 +32149,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Close Master View</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Slayt Görünümünü Kapat</translation>
     </message>
     <message>
         <source>New Slide
