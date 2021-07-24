@@ -18207,11 +18207,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>More Options</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Seçenekler</translation>
     </message>
     <message>
         <source>Math Options</source>
-        <translation type="unfinished"/>
+        <translation>Matematik Seçenekleri</translation>
     </message>
     <message>
         <source>Top and Dlouble Bottom Border</source>
@@ -18223,11 +18223,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Formulas &amp; Number Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Formüller ve sayı biçimleri</translation>
     </message>
     <message>
         <source>Three Dimensional Rotation</source>
-        <translation type="unfinished"/>
+        <translation>3B Döndürme</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -18235,7 +18235,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Field Settings</source>
-        <translation type="unfinished"/>
+        <translation>Alan Ayarları</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -18243,7 +18243,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Photo2PdfConvert</source>
-        <translation type="unfinished"/>
+        <translation>Resmi PDF&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Secondary Vertical</source>
@@ -28412,11 +28412,11 @@ Ekran</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Sayfasındaki Tüm Resimleri Dönüştür</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Resmi Dönüştür</translation>
     </message>
     <message>
         <source>Thesaurus</source>
@@ -30177,7 +30177,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Value Field Settings</source>
-        <translation type="unfinished"/>
+        <translation>Değer Alanı Ayarları</translation>
     </message>
     <message>
         <source>No Calculation</source>
@@ -39526,7 +39526,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Field Settings</source>
-        <translation type="unfinished"/>
+        <translation>Alan Ayarları</translation>
     </message>
     <message>
         <source>Show All Field Buttons On Chart</source>
@@ -39602,7 +39602,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Value Field Settings</source>
-        <translation type="unfinished"/>
+        <translation>Değer Alanı Ayarları</translation>
     </message>
     <message>
         <source>LEGEND (SERIES)</source>
@@ -42148,7 +42148,7 @@ Source</source>
     </message>
     <message>
         <source>Field Settings</source>
-        <translation type="unfinished"/>
+        <translation>Alan Ayarları</translation>
     </message>
     <message>
         <source>Group Selection</source>
@@ -42314,7 +42314,7 @@ Buttons</source>
     </message>
     <message>
         <source>Field Settings</source>
-        <translation type="unfinished"/>
+        <translation>Alan Ayarları</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -44645,7 +44645,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Belgedeki Tüm Resimleri Dönüştür</translation>
+        <translation>Çalışma Sayfasındaki Tüm Resimleri Dönüştür</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
@@ -44827,7 +44827,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Field Settings</source>
-        <translation type="unfinished"/>
+        <translation>Alan Ayarları</translation>
     </message>
     <message>
         <source>Group and Show Detail</source>
@@ -50114,7 +50114,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Field Settings</source>
-        <translation type="unfinished"/>
+        <translation>Alan Ayarları</translation>
     </message>
     <message>
         <source>Subtotals &amp;&amp; Filters</source>
@@ -54240,7 +54240,7 @@ Result</source>
     <name>KxPivotSortOptionDlg</name>
     <message>
         <source>More Sort Options (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Sıralama Seçenekleri (%1)</translation>
     </message>
     <message>
         <source>&amp;Values in selected %1:</source>
@@ -54431,7 +54431,7 @@ Result</source>
     </message>
     <message>
         <source>More Sort Options</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Sıralama Seçenekleri</translation>
     </message>
     <message>
         <source>&amp;Grand Total</source>
