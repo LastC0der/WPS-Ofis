@@ -10191,7 +10191,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Field settings</source>
-        <translation type="unfinished"/>
+        <translation>Alan ayarları</translation>
     </message>
     <message>
         <source>E&amp;xit:</source>
@@ -14714,7 +14714,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Three Dimensional Rotation</source>
-        <translation type="unfinished"/>
+        <translation>3B Döndürme</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -15976,7 +15976,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Layout Options</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Ayarlar</translation>
     </message>
     <message>
         <source>Format Category Label</source>
@@ -16668,7 +16668,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Photo2PdfConvert</source>
-        <translation type="unfinished"/>
+        <translation>Resmi PDF&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Offline Management</source>
@@ -19518,11 +19518,11 @@ Screen</source>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation type="unfinished"/>
+        <translation>Belgedeki Tüm Resimleri Dönüştür</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Resmi Dönüştür</translation>
     </message>
     <message>
         <source>Thesaurus</source>
@@ -31039,7 +31039,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Kingsoft WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis</translation>
     </message>
     <message>
         <source>An AutoCorrect entry for &apos;%1&apos; already exists. Do you want to redefine it?</source>
@@ -31125,7 +31125,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Field settings</source>
-        <translation type="unfinished"/>
+        <translation>Alan ayarları</translation>
     </message>
     <message>
         <source>lvItems</source>
@@ -42542,7 +42542,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Field settings</source>
-        <translation type="unfinished"/>
+        <translation>Alan ayarları</translation>
     </message>
     <message>
         <source>Text Form Field  Options</source>
