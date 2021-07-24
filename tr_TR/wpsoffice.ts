@@ -6813,7 +6813,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Kingsoft PDF</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF</translation>
     </message>
     <message>
         <source>Not a valid file.</source>
