@@ -297,7 +297,7 @@
     </message>
     <message>
         <source>More Options</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Seçenekler</translation>
     </message>
     <message>
         <source>Auto-rotate pages</source>
@@ -920,7 +920,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>内容设置：</source>
-        <translation type="unfinished"/>
+        <translation>İçerik Ayarları:</translation>
     </message>
     <message>
         <source>短边翻转</source>
@@ -1747,7 +1747,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sure to delete watermark settings</source>
-        <translation type="unfinished"/>
+        <translation>Filigran ayarlarını silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
@@ -5681,7 +5681,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>QtSave</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>FontColor</source>
@@ -6976,7 +6976,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
-        <translation>Kingsoft PDF Topluluğu</translation>
+        <translation>WPS PDF Topluluğu</translation>
     </message>
     <message>
         <source>NoContent</source>
@@ -8975,7 +8975,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
-        <translation>Kingsoft PDF Topluluğu</translation>
+        <translation>WPS PDF Topluluğu</translation>
     </message>
     <message>
         <source>Convert</source>
@@ -8983,7 +8983,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>More Layout Options</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Ayarlar</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -12587,7 +12587,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Found comments in the doc and you can:</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar dosyada bulunur. Şunları yapabilirsiniz:</translation>
     </message>
 </context>
 <context>
@@ -12610,7 +12610,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Found comments in the doc and you can:</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar dosyada bulunur. Şunları yapabilirsiniz:</translation>
     </message>
 </context>
 <context>
@@ -12856,7 +12856,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Free Experience</source>
-        <translation type="unfinished"/>
+        <translation>Ücretsiz deneyin</translation>
     </message>
     <message>
         <source>Please choose page wished to clip</source>
@@ -12872,7 +12872,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>You can Free Experience</source>
-        <translation type="unfinished"/>
+        <translation>Ücretsiz deneyebilirsiniz</translation>
     </message>
     <message>
         <source>TextLabel</source>
