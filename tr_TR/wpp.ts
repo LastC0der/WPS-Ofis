@@ -13584,7 +13584,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Math Options</source>
-        <translation type="unfinished"/>
+        <translation>Matematik Seçenekleri</translation>
     </message>
     <message>
         <source>Stacking Order</source>
@@ -13596,7 +13596,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Three Dimensional Rotation</source>
-        <translation type="unfinished"/>
+        <translation>3B Döndürme</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -15166,7 +15166,7 @@ Master</source>
     </message>
     <message>
         <source>Photo2PdfConvert</source>
-        <translation type="unfinished"/>
+        <translation>Resmi PDF&apos;ye Dönüştür</translation>
     </message>
     <message>
         <source>Offline Management</source>
@@ -16272,7 +16272,7 @@ Slide</source>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Resmi Dönüştür</translation>
     </message>
     <message>
         <source>Thesaurus</source>
@@ -18280,7 +18280,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Belgedeki Tüm Resimleri Dönüştür</translation>
+        <translation>Slayttaki Tüm Resimleri Dönüştür</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
