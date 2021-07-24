@@ -4778,7 +4778,7 @@ Eylem</translation>
     <message>
         <source>%s Sheet Type UnSupport</source>
         <comment>TX_DuplicateItemsMgr_Sheet_Type_UnSupport</comment>
-        <translation type="unfinished"/>
+        <translation>%s çalışma sayfası desteklenmeyen türde.</translation>
     </message>
     <message>
         <source>This operation is attempting to change a filtered range on your worksheet and cannot be completed. To complete this operation, AutoFilters in the sheet need to be removed.</source>
@@ -7772,7 +7772,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>Lower bound of the X range</source>
-        <translation>A</translation>
+        <translation>X aralığının alt sınırı </translation>
     </message>
     <message>
         <source>The Start Time contains an error now. Do you want to continue?</source>
@@ -11670,7 +11670,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Upper bound of the X range </source>
-        <translation>B</translation>
+        <translation>X aralığının üst sınırı </translation>
     </message>
     <message>
         <source>Height</source>
@@ -33986,7 +33986,7 @@ Taşı</translation>
     </message>
     <message>
         <source>with</source>
-        <translation>biçim:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Green Fill with Dark Green Text</source>
@@ -43561,7 +43561,7 @@ Center</source>
     </message>
     <message>
         <source>with</source>
-        <translation>biçim:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Green Fill with Dark Green Text</source>
@@ -43600,7 +43600,7 @@ Center</source>
     </message>
     <message>
         <source>with</source>
-        <translation>biçim:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Green Fill with Dark Green Text</source>
@@ -43639,7 +43639,7 @@ Center</source>
     </message>
     <message>
         <source>with</source>
-        <translation>biçim:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Green Fill with Dark Green Text</source>
@@ -48487,7 +48487,7 @@ Temizle</translation>
     </message>
     <message>
         <source>% with</source>
-        <translation>(%) -  biçim:</translation>
+        <translation>% ile</translation>
     </message>
     <message>
         <source>Format cells that are ABOVE AVERAGE:</source>
