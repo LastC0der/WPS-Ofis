@@ -21574,7 +21574,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Kingsoft PDF</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF</translation>
     </message>
     <message>
         <source>Close current</source>
