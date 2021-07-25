@@ -11333,11 +11333,11 @@ Speech</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Picture to PDF</translation>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF to Word</translation>
     </message>
     <message>
         <source>Translate selected text2</source>
@@ -11964,7 +11964,7 @@ Speech</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF to Picture</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
@@ -12686,7 +12686,7 @@ Deleted pages cannot be recovered</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>View of Document</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -12694,7 +12694,7 @@ Deleted pages cannot be recovered</translation>
     </message>
     <message>
         <source>PageTool</source>
-        <translation type="unfinished"/>
+        <translation>Page Tool</translation>
     </message>
     <message>
         <source>MergePDF</source>
