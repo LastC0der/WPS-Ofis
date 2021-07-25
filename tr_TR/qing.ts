@@ -5193,7 +5193,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Failed tasks:</source>
-        <translation type="unfinished"/>
+        <translation>Başarısız görevler:</translation>
     </message>
     <message>
         <source>lblFinishedInfo</source>
