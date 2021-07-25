@@ -11962,7 +11962,7 @@ scannen</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF in Foto</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
@@ -12684,7 +12684,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Ansicht des Dokuments</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -12692,7 +12692,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>PageTool</source>
-        <translation type="unfinished"/>
+        <translation>Seitenwerkzeug</translation>
     </message>
     <message>
         <source>MergePDF</source>
