@@ -43399,7 +43399,7 @@ Center</source>
     </message>
     <message>
         <source>Gradient Fill</source>
-        <translation>Gradyan Dolgusu</translation>
+        <translation>Gradyan Dolgu</translation>
     </message>
     <message>
         <source>Bar Appearance:</source>
@@ -54752,7 +54752,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik</translation>
     </message>
     <message>
         <source>R&amp;eturn to Solver Parameters Dialog</source>
@@ -56892,7 +56892,7 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Gradient Fill</source>
-        <translation>Gradyan Dolgusu</translation>
+        <translation>Gradyan Dolgu</translation>
     </message>
     <message>
         <source>Solid Fill</source>
