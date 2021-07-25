@@ -969,7 +969,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş düğmesi, farklı şifreleme türleri arasından seçim yapmanızı sağlar.</translation>
     </message>
 </context>
 <context>
