@@ -1539,7 +1539,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
     <message>
         <source>Migrate backup files of wps</source>
@@ -3202,7 +3202,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
