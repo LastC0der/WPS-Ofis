@@ -6692,7 +6692,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"/>
+        <translation>Teks</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -11969,7 +11969,7 @@ File</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke Foto</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
@@ -12691,7 +12691,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Tampilan Dokumen</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -12699,7 +12699,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>PageTool</source>
-        <translation type="unfinished"/>
+        <translation>Alat Halaman</translation>
     </message>
     <message>
         <source>MergePDF</source>
