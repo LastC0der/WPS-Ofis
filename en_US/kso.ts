@@ -30336,7 +30336,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Unable to receive a message</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj alınamıyor</translation>
     </message>
     <message>
         <source>Permission denied</source>
