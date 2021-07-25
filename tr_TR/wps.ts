@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>壹</source>
-        <translation type="unfinished"/>
+        <translation>壹</translation>
     </message>
     <message>
         <source>一</source>
@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>印</source>
-        <translation type="unfinished"/>
+        <translation>印</translation>
     </message>
 </context>
 <context>
@@ -726,7 +726,7 @@
     </message>
     <message>
         <source>Dot</source>
-        <translation type="unfinished"/>
+        <translation>Nokta</translation>
     </message>
     <message>
         <source>OVR</source>
@@ -8435,7 +8435,7 @@ use buttons to apply borders</source>
     <name>KxBordersAndShadingDlg</name>
     <message>
         <source>Pt</source>
-        <translation>Pt</translation>
+        <translation>Nk</translation>
     </message>
     <message>
         <source>Cell</source>
@@ -42436,7 +42436,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik</translation>
     </message>
     <message>
         <source>Rebuild document page number</source>
