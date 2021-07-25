@@ -7077,7 +7077,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik</translation>
     </message>
     <message>
         <source>Paste Tips</source>
