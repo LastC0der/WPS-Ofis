@@ -13656,7 +13656,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Türünü Değiştir</translation>
     </message>
     <message>
         <source>End Show</source>
