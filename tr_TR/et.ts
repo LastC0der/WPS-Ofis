@@ -1254,7 +1254,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation>Seçim sonrasında Mini Araç Çubuğunu göster (&amp;D)</translation>
+        <translation>Seçim so&amp;nrasında Mini Araç Çubuğunu göster</translation>
     </message>
     <message>
         <source>Sheet ta&amp;bs</source>
@@ -49396,7 +49396,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Other/Advanced(&amp;W)</source>
-        <translation>Diğer/Gelişmiş(&amp;W)</translation>
+        <translation>Diğer/&amp;Gelişmiş</translation>
     </message>
 </context>
 <context>
@@ -54001,11 +54001,11 @@ Result</source>
     </message>
     <message>
         <source>Range 1 (&amp;L):</source>
-        <translation>Aralık 1 (&amp;L):</translation>
+        <translation>A&amp;ralık 1:</translation>
     </message>
     <message>
         <source>Range 2 (&amp;S):</source>
-        <translation>Aralık 2 (&amp;S):</translation>
+        <translation>&amp;Aralık 2:</translation>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
@@ -56366,7 +56366,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Range 1 (&amp;L):</source>
-        <translation>Aralık 1 (&amp;L):</translation>
+        <translation>A&amp;ralık 1:</translation>
     </message>
     <message>
         <source>Export: New WorkSheet</source>
@@ -56374,7 +56374,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Range 2 (&amp;S):</source>
-        <translation>Aralık 2 (&amp;S):</translation>
+        <translation>&amp;Aralık 2:</translation>
     </message>
 </context>
 <context>
