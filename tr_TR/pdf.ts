@@ -1010,7 +1010,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>右：</source>
-        <translation type="unfinished"/>
+        <translation>Sağ Kenar Boşluğu:</translation>
     </message>
     <message>
         <source>打印</source>
@@ -4437,7 +4437,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Apply other page</source>
-        <translation type="unfinished"/>
+        <translation>Diğer sayfalara uygula</translation>
     </message>
     <message>
         <source>Signature Apply</source>
@@ -5433,7 +5433,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TranslationAll</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Çevirisi</translation>
     </message>
     <message>
         <source>ImagePreview</source>
@@ -5725,7 +5725,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PageFitWidth</source>
-        <translation type="unfinished"/>
+        <translation>Genişliğe Sığdır</translation>
     </message>
     <message>
         <source>Text Speech</source>
@@ -6121,7 +6121,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ApplyOtherPage</source>
-        <translation type="unfinished"/>
+        <translation>Diğer sayfalara uygula</translation>
     </message>
     <message>
         <source>FloatFitSize</source>
@@ -6445,7 +6445,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>pdfextractpage</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Ayıkla</translation>
     </message>
     <message>
         <source>Image Rotate Left</source>
@@ -7097,7 +7097,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TranslationAll</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Çevirisi</translation>
     </message>
     <message>
         <source>Ribbon Auto Show/Hide</source>
@@ -7642,7 +7642,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TranslationAll</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Çevirisi</translation>
     </message>
     <message>
         <source>PDFTest</source>
@@ -8053,7 +8053,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Add to a trustworthy Certificate (A)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Güvenilir sertifika olarak eklendi</translation>
     </message>
     <message>
         <source>Effectiveness summary</source>
@@ -10094,7 +10094,7 @@ Navigation</source>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik</translation>
     </message>
 </context>
 <context>
@@ -11323,7 +11323,7 @@ Navigation</source>
     </message>
     <message>
         <source>TranslationAll</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Çevirisi</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
@@ -11397,7 +11397,7 @@ Navigation</source>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik</translation>
     </message>
     <message>
         <source>CheckBox</source>
