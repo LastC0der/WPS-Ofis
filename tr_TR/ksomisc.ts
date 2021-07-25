@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>
-        <translation>Güncellemeler sırasında en son ürün haberlerini alın(&amp;K)</translation>
+        <translation>&amp;Güncellemeler sırasında en son ürün haberlerini alın</translation>
     </message>
     <message>
         <source>Password:</source>
