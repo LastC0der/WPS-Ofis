@@ -15852,11 +15852,11 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu</translation>
     </message>
     <message>
         <source>This will cancel a pending data refresh. Continue?</source>
-        <translation type="unfinished"/>
+        <translation>Bu işlem bekleyen verileri yenilemeyi iptal edecek. Devam edilsin mi?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
@@ -15864,7 +15864,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Query string:</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu dizesi:</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source. The connection string is blank. The string you typed is not correct. The generated connection failed.</source>
@@ -15886,7 +15886,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen dosya yolu çok uzun olduğundan dosya açılamıyor. Dosyayı 256&apos;dan daha az karakter kullanarak yeniden adlandırın.</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
@@ -15894,7 +15894,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>:Getting Data ...</source>
-        <translation type="unfinished"/>
+        <translation>:Veri Alınıyor ...</translation>
     </message>
     <message>
         <source>less than or equal to</source>
@@ -15903,27 +15903,27 @@ You may still need to manually update any references to this name used in VBA co
     <message>
         <source>Field names</source>
         <comment>TX_ETDBE_STR_FIELD</comment>
-        <translation type="unfinished"/>
+        <translation>Alan adları</translation>
     </message>
     <message>
         <source>Removing connection(s) will separate this workbook from its data source(s), and data refresh operations in the workbook will no longer succeed. Click Cancel to keep connection(s), or click OK to proceed with connection removal.</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıların kaldırılması bu çalışma kitabını veri kaynaklarından ayıracak ve çalışma kitabında artık veri yenileme işlemleri yapılamayacak. Bağlantıları korumak için İptal&apos;e veya bağlantıyı kaldırmaya devam etmek için Tamam&apos;a tıklayın.</translation>
     </message>
     <message>
         <source>Running background query...(Click here to cancel)</source>
-        <translation type="unfinished"/>
+        <translation>Arka plan sorgusu çalıştırılıyor... (İptal etmek için buraya tıklayın)</translation>
     </message>
     <message>
         <source>The range you deleted is associated with a query that retrieves data from an external source. Do you want to delete the query in addition to the range? If you click No, the query will retrieve new data to the worksheet the next time the query is refreshed.</source>
-        <translation type="unfinished"/>
+        <translation>Sildiğiniz aralık, bir dış kaynaktan veri alan bir sorgu ile ilişkili. Aralığa ek olarak sorguyu da silmek istiyor musunuz? Hayır&apos;a tıklarsanız, bir daha yenilendiğinde, sorgu çalışma sayfasına yeni veri alır.</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı</translation>
     </message>
     <message>
         <source>Query failed!</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu başarısız!</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -15931,7 +15931,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Initialization Error!</source>
-        <translation type="unfinished"/>
+        <translation>Başlatma Hatası!</translation>
     </message>
     <message>
         <source>You cannot query next due to no selected fields.</source>
@@ -15944,7 +15944,7 @@ You may still need to manually update any references to this name used in VBA co
     <message>
         <source>Relation</source>
         <comment>TX_ETDBE_STR_RELATION</comment>
-        <translation type="unfinished"/>
+        <translation>İlişki</translation>
     </message>
     <message>
         <source>Cannot open file. The file may have been moved, deleted or the file may be in use.</source>
@@ -15952,7 +15952,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Field names</source>
-        <translation type="unfinished"/>
+        <translation>Alan adları</translation>
     </message>
     <message>
         <source> NOT LIKE,</source>
@@ -16034,7 +16034,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Relation</source>
-        <translation type="unfinished"/>
+        <translation>İlişki</translation>
     </message>
     <message>
         <source>The following data range failed to refresh:</source>
@@ -16232,7 +16232,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Set Chart Format</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Biçimini Ayarla</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -16260,7 +16260,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Clear Chart Item</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Öğesini Temizle</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -16269,7 +16269,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>AutoFitSelection</source>
-        <translation type="unfinished"/>
+        <translation>En Uygun Genişlik</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -16309,11 +16309,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Recalculate</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Comma Style</source>
-        <translation type="unfinished"/>
+        <translation>Virgül Stili</translation>
     </message>
     <message>
         <source>Insert Cells</source>
@@ -16330,7 +16330,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Recent Font Color</source>
-        <translation type="unfinished"/>
+        <translation>Son Yazı Tipi Rengi</translation>
     </message>
     <message>
         <source>Insert Function</source>
@@ -16362,11 +16362,11 @@ Ekle</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Türünü Değiştir</translation>
     </message>
     <message>
         <source>Series in Rows</source>
-        <translation type="unfinished"/>
+        <translation>Satırdaki Seriler</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -16963,7 +16963,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>Comma Style</source>
-        <translation type="unfinished"/>
+        <translation>Virgül Stili</translation>
     </message>
     <message>
         <source>Insert Cells</source>
@@ -18328,7 +18328,7 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Türünü Değiştir</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -20392,7 +20392,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Comma Style</source>
-        <translation type="unfinished"/>
+        <translation>Virgül Stili</translation>
     </message>
     <message>
         <source>Insert Cells</source>
@@ -43162,7 +43162,7 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>Comma Style</source>
-        <translation type="unfinished"/>
+        <translation>Virgül Stili</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -56343,7 +56343,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
 </context>
 <context>
