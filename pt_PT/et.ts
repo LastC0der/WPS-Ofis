@@ -45269,7 +45269,7 @@ Outra Janela</translation>
     </message>
     <message>
         <source>Worksheet Options</source>
-        <translation type="unfinished"/>
+        <translation>Opções de Folha de Cálculo</translation>
     </message>
     <message>
         <source>New
