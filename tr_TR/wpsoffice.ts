@@ -1073,19 +1073,19 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Invalid activation code.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz etkinleştirme kodu.</translation>
     </message>
     <message>
         <source>Activated</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştirildi</translation>
     </message>
     <message>
         <source>Add SN Succeed.</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası başarıyla eklendi.</translation>
     </message>
     <message>
         <source>How to get an enterprise activation code?</source>
-        <translation type="unfinished"/>
+        <translation>Kurumsal etkinleştirme kodu nasıl elde edilir?</translation>
     </message>
     <message>
         <source>WPS Office Serial Number/Activation Code</source>
@@ -1104,7 +1104,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>WPS Office activation is successful</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office etkinleştirmesi başarılı</translation>
     </message>
 </context>
 <context>
@@ -1115,7 +1115,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Buy</source>
-        <translation type="unfinished"/>
+        <translation>Satın al</translation>
     </message>
     <message>
         <source>Form</source>
