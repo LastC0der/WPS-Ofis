@@ -2561,7 +2561,7 @@ Anda ingin menimpanya?</translation>
     </message>
     <message>
         <source>Keep cache for 90 &amp;days</source>
-        <translation type="unfinished"/>
+        <translation>Simpan selama 90 &amp;hari</translation>
     </message>
     <message>
         <source>Show &amp;spelling errors ignored in this document</source>
@@ -2665,7 +2665,7 @@ Anda ingin menimpanya?</translation>
     </message>
     <message>
         <source>Kee&amp;p cache for 30 days</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan selama 30 hari</translation>
     </message>
     <message>
         <source>&amp;Margin:</source>
@@ -3025,7 +3025,7 @@ Anda ingin menimpanya?</translation>
     </message>
     <message>
         <source>Backup files cache:</source>
-        <translation type="unfinished"/>
+        <translation>Periode penyimpanan:</translation>
     </message>
     <message>
         <source>Format(&amp;J):</source>
@@ -3377,7 +3377,7 @@ Anda ingin menimpanya?</translation>
     </message>
     <message>
         <source>View &amp;local backup</source>
-        <translation type="unfinished"/>
+        <translation>Lihat &amp;cadangan lokal</translation>
     </message>
     <message>
         <source>&amp;Deletions:</source>
@@ -14773,7 +14773,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Three Dimensional Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi 3-D</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -16733,7 +16733,7 @@ Ejaan</translation>
     </message>
     <message>
         <source>Photo2PdfConvert</source>
-        <translation type="unfinished"/>
+        <translation>Konversi Gambar ke PDF</translation>
     </message>
     <message>
         <source>Offline Management</source>
@@ -37059,7 +37059,7 @@ Halaman</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"/>
+        <translation>Persamaan</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -37067,7 +37067,7 @@ Halaman</translation>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Simbol Lainnya</translation>
     </message>
 </context>
 <context>
@@ -51502,7 +51502,7 @@ Catatan Akhir</translation>
     </message>
     <message>
         <source>Matrix</source>
-        <translation type="unfinished"/>
+        <translation>Matriks</translation>
     </message>
     <message>
         <source>Fraction</source>
