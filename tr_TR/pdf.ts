@@ -10741,7 +10741,7 @@ Navigation</source>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
