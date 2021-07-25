@@ -11970,7 +11970,7 @@ plików</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF na zdjęcie</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
@@ -12690,7 +12690,7 @@ Usuniętych stron nie można odzyskać</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Widok dokumentu</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -12698,7 +12698,7 @@ Usuniętych stron nie można odzyskać</translation>
     </message>
     <message>
         <source>PageTool</source>
-        <translation type="unfinished"/>
+        <translation>Narzędzie strony</translation>
     </message>
     <message>
         <source>MergePDF</source>
