@@ -11967,7 +11967,7 @@ Navigation</source>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF в фото</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
@@ -12689,7 +12689,7 @@ Deleted pages can not be recovered</source>
     <name>ongmani.ct_page</name>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Просмотр документа</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -12697,7 +12697,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>PageTool</source>
-        <translation type="unfinished"/>
+        <translation>Инструмент страницы</translation>
     </message>
     <message>
         <source>MergePDF</source>
