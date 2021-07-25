@@ -13722,7 +13722,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Three Dimensional Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi 3-D</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -15300,7 +15300,7 @@ Slide</translation>
     </message>
     <message>
         <source>Photo2PdfConvert</source>
-        <translation type="unfinished"/>
+        <translation>Konversi Gambar ke PDF</translation>
     </message>
     <message>
         <source>Offline Management</source>
@@ -26994,7 +26994,7 @@ Footer</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"/>
+        <translation>Persamaan</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -27002,7 +27002,7 @@ Footer</translation>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Simbol Lainnya</translation>
     </message>
 </context>
 <context>
@@ -33365,7 +33365,7 @@ kami sarankan Anda menyimpan font ini di dokumen. Simpan font awan dalam dokumen
     </message>
     <message>
         <source>Matrix</source>
-        <translation type="unfinished"/>
+        <translation>Matriks</translation>
     </message>
     <message>
         <source>Fraction</source>
