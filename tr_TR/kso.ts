@@ -18766,7 +18766,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Türünü Değiştir</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -19013,7 +19013,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Türünü Değiştir</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -21140,7 +21140,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Türünü Değiştir</translation>
     </message>
     <message>
         <source> OPTIONS</source>
@@ -23926,7 +23926,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
