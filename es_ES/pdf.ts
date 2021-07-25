@@ -11965,7 +11965,7 @@ dispositivo móvil</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF a foto</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
@@ -12687,7 +12687,7 @@ Las páginas eliminadas no se pueden recuperar</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Ver documento</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -12695,7 +12695,7 @@ Las páginas eliminadas no se pueden recuperar</translation>
     </message>
     <message>
         <source>PageTool</source>
-        <translation type="unfinished"/>
+        <translation>Herramienta de página</translation>
     </message>
     <message>
         <source>MergePDF</source>
