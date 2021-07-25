@@ -4127,7 +4127,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
@@ -9842,7 +9842,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
     <message>
         <source>WPS Cloud is working. Please exit at tray and continue.</source>
@@ -10078,7 +10078,7 @@ Time for upgrade: %1</source>
     <name>KAddDevicesWidget</name>
     <message>
         <source>continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
 </context>
 <context>
