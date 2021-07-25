@@ -8363,7 +8363,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>0;1;2;3;4;5;6;7;8;9</source>
-        <translation type="unfinished"/>
+        <translation>0;1;2;3;4;5;6;7;8;9</translation>
     </message>
 </context>
 <context>
@@ -8378,7 +8378,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
 </context>
 <context>
@@ -8389,7 +8389,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Format Text Effects</source>
-        <translation type="unfinished"/>
+        <translation>Metin Efektlerini Biçimlendir</translation>
     </message>
 </context>
 <context>
@@ -8412,7 +8412,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Envelope Return Address</source>
-        <translation type="unfinished"/>
+        <translation>Zarf İade Adresi</translation>
     </message>
     <message>
         <source>WPS Writer recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method.</source>
@@ -14828,7 +14828,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Türünü Değiştir</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -45106,7 +45106,7 @@ Number</source>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
     <message>
         <source>Welcome Back</source>
