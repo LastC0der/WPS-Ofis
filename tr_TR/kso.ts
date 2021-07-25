@@ -597,7 +597,7 @@
     </message>
     <message>
         <source>Foreground</source>
-        <translation type="unfinished"/>
+        <translation>Ön Plan</translation>
     </message>
     <message>
         <source>Bottom right</source>
@@ -3643,7 +3643,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -12448,7 +12448,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik</translation>
     </message>
     <message>
         <source>Document Issuing organization</source>
@@ -15785,11 +15785,11 @@ you can manage,delete,reshare the link</source>
     <name>contentChart3DRotation</name>
     <message>
         <source>pt</source>
-        <translation type="unfinished"/>
+        <translation>nk</translation>
     </message>
     <message>
         <source>°</source>
-        <translation type="unfinished"/>
+        <translation>°</translation>
     </message>
     <message>
         <source>Anti-Clockwise</source>
