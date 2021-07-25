@@ -45216,7 +45216,7 @@ Other Window</source>
     </message>
     <message>
         <source>Worksheet Options</source>
-        <translation type="unfinished"/>
+        <translation>Worksheet Options</translation>
     </message>
     <message>
         <source>New
