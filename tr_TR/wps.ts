@@ -1903,7 +1903,7 @@
     </message>
     <message>
         <source>Text tools(&amp;F)</source>
-        <translation>Metin araçları(&amp;F)</translation>
+        <translation>Metin &amp;araçları</translation>
     </message>
     <message>
         <source>Indent at</source>
@@ -2886,7 +2886,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation>Seçim sonrasında Mini Araç Çubuğunu göster (&amp;D)</translation>
+        <translation>Seçim so&amp;nrasında Mini Araç Çubuğunu göster</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
@@ -3026,7 +3026,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Format(&amp;J):</source>
-        <translation>Biçim(&amp;J):</translation>
+        <translation>&amp;Biçim:</translation>
     </message>
     <message>
         <source>Balloons</source>
@@ -3558,7 +3558,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Default HomePage(&amp;Y):</source>
-        <translation>Varsayılan Ana Sayfa(&amp;Y):</translation>
+        <translation>&amp;Varsayılan Ana Sayfa:</translation>
     </message>
     <message>
         <source>Please keep the password properly, once forgotten, it can not be restored.</source>
@@ -39165,7 +39165,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
-        <translation type="unfinished"/>
+        <translation>Geliş&amp;miş</translation>
     </message>
 </context>
 <context>
@@ -42081,7 +42081,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Delete(&amp;E)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sil</translation>
     </message>
     <message>
         <source>Delete(&amp;R)</source>
@@ -48089,7 +48089,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Cancel(&amp;C)</source>
-        <translation>İptal(&amp;C)</translation>
+        <translation>İ&amp;ptal</translation>
     </message>
     <message>
         <source>&amp;Remove %1 tag</source>
@@ -49740,7 +49740,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Fro&amp;m left:</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;oldan:</translation>
     </message>
 </context>
 <context>
