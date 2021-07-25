@@ -4812,7 +4812,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Retry (&amp;R)</source>
-        <translation>Yeniden Dene (&amp;R)</translation>
+        <translation>&amp;Yeniden Dene</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -4820,7 +4820,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Yes (&amp;Y)</source>
-        <translation>Evet (&amp;Y)</translation>
+        <translation>&amp;Evet</translation>
     </message>
 </context>
 <context>
