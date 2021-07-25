@@ -39239,7 +39239,7 @@ por contenido</translation>
     <message>
         <source>Text to
  Columns</source>
-        <translation type="unfinished"/>
+        <translation>Texto en columnas</translation>
     </message>
     <message>
         <source>Split Book</source>
@@ -45179,7 +45179,7 @@ otra ventana</translation>
     </message>
     <message>
         <source>Worksheet Options</source>
-        <translation type="unfinished"/>
+        <translation>Opciones de hoja de cálculo</translation>
     </message>
     <message>
         <source>New
