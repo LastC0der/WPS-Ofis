@@ -11968,7 +11968,7 @@ fichiers</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF vers photo</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
@@ -12690,7 +12690,7 @@ Les pages supprimées ne peuvent pas être récupérées</translation>
     <name>ongmani.ct_page</name>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Affichage du Document</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -12698,7 +12698,7 @@ Les pages supprimées ne peuvent pas être récupérées</translation>
     </message>
     <message>
         <source>PageTool</source>
-        <translation type="unfinished"/>
+        <translation>Outil de page</translation>
     </message>
     <message>
         <source>MergePDF</source>
