@@ -45252,7 +45252,7 @@ inne okna</translation>
     </message>
     <message>
         <source>Worksheet Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcje arkusza</translation>
     </message>
     <message>
         <source>New
