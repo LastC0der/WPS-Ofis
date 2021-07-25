@@ -45276,7 +45276,7 @@ l&apos;autre fenêtre</translation>
     </message>
     <message>
         <source>Worksheet Options</source>
-        <translation type="unfinished"/>
+        <translation>Options du classeur</translation>
     </message>
     <message>
         <source>New
@@ -58352,7 +58352,7 @@ le commentaire</translation>
     <name>KxChartTypeGalleryModel</name>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"/>
+        <translation>Secteurs</translation>
     </message>
     <message>
         <source>Area</source>
@@ -58360,7 +58360,7 @@ le commentaire</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"/>
+        <translation>Ligne</translation>
     </message>
     <message>
         <source>Stacked Area - Clustered Column</source>
@@ -58396,15 +58396,15 @@ le commentaire</translation>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Radar avec marqueurs</translation>
     </message>
     <message>
         <source>Filled Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar plein</translation>
     </message>
     <message>
         <source>Clustered Bar</source>
-        <translation type="unfinished"/>
+        <translation>Barres groupées</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines</source>
@@ -58424,7 +58424,7 @@ le commentaire</translation>
     </message>
     <message>
         <source>Scatter with Smooth Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Nuage de points avec courbes lissées et marqueurs</translation>
     </message>
     <message>
         <source>3-D Bubble</source>
@@ -58452,7 +58452,7 @@ le commentaire</translation>
     </message>
     <message>
         <source>Pie Of Pie</source>
-        <translation type="unfinished"/>
+        <translation>Secteurs de secteur</translation>
     </message>
     <message>
         <source>Volume-High-Low-Close</source>
@@ -58468,15 +58468,15 @@ le commentaire</translation>
     </message>
     <message>
         <source>Volume-Open-High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Volume-Ouverture-Max-Min-Clôture</translation>
     </message>
     <message>
         <source>High-Low-Close</source>
-        <translation type="unfinished"/>
+        <translation>Max-Min-Clôture</translation>
     </message>
     <message>
         <source>Stacked Line with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Courbe empilée avec marques</translation>
     </message>
     <message>
         <source>Scatter</source>
@@ -58500,11 +58500,11 @@ le commentaire</translation>
     </message>
     <message>
         <source>Scatter with Straight Lines and Markers</source>
-        <translation type="unfinished"/>
+        <translation>Nuage de points avec courbes droites et marqueurs</translation>
     </message>
     <message>
         <source>Clustered Column</source>
-        <translation type="unfinished"/>
+        <translation>Histogramme groupé</translation>
     </message>
     <message>
         <source>Stacked Area</source>
@@ -58516,7 +58516,7 @@ le commentaire</translation>
     </message>
     <message>
         <source>100% Stacked Area</source>
-        <translation type="unfinished"/>
+        <translation>Aires empilées 100 %</translation>
     </message>
     <message>
         <source>100% Stacked Line</source>
