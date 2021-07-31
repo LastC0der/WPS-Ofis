@@ -42594,7 +42594,7 @@ imlecinizi düzenleme kutusuna yerleştirip Resim Biçimlendir düğmesine tıkl
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Resim Dosyası Biçimi</translation>
     </message>
     <message>
         <source>All Pictures</source>
