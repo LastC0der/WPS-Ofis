@@ -27884,11 +27884,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Po&amp;sition:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konum:</translation>
     </message>
     <message>
         <source>Hei&amp;ght:</source>
-        <translation type="unfinished"/>
+        <translation>Yük&amp;seklik:</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -41605,7 +41605,7 @@ Hayır:	Şablona kaydetme;
     <name>classics.full_screen</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <source>Zoom In</source>
@@ -41629,7 +41629,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Page Fit And Hide Empty</source>
-        <translation type="unfinished"/>
+        <translation>Tam Ekran ve Boş Alanı Gizle</translation>
     </message>
 </context>
 <context>
@@ -41710,7 +41710,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>More Print Settings</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Yazdırma Ayarları</translation>
     </message>
     <message>
         <source>Close</source>
@@ -41797,7 +41797,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>More Print Settings</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Yazdırma Ayarları</translation>
     </message>
     <message>
         <source>Close</source>
@@ -44350,7 +44350,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Po&amp;sition: </source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konum: </translation>
     </message>
     <message>
         <source>-    (hyphen)</source>
@@ -47785,7 +47785,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Resim Dosyası Biçimi(*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Insert Image</source>
