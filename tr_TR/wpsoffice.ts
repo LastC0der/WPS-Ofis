@@ -2213,7 +2213,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>İtalik</translation>
     </message>
     <message>
         <source>Korean</source>
@@ -2429,7 +2429,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>İtalik</translation>
     </message>
     <message>
         <source>Move the cursor to the end of the line</source>
@@ -3742,7 +3742,7 @@ Please verify the correct file name was given.</source>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
 </context>
 <context>
@@ -5760,7 +5760,7 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
     </message>
     <message>
         <source>Contains commands to manipulate the window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi işlemek için komutlar içerir</translation>
     </message>
     <message>
         <source>Restore up</source>
