@@ -1162,7 +1162,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Current Slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçe&amp;rli Slayt</translation>
     </message>
     <message>
         <source>Picture(&amp;I)</source>
@@ -1365,7 +1365,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Current slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçe&amp;rli slayt</translation>
     </message>
     <message>
         <source>Suwell&amp;K</source>
@@ -1568,7 +1568,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Current slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçe&amp;rli slayt</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
@@ -2042,7 +2042,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa</source>
@@ -21251,7 +21251,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçe&amp;rli slayt</translation>
     </message>
     <message>
         <source>&amp;Frame slides</source>
@@ -26115,7 +26115,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>More Print Settings</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Yazdırma Ayarları</translation>
     </message>
     <message>
         <source>Close</source>
@@ -28601,7 +28601,7 @@ Effects</source>
     </message>
     <message>
         <source>After &amp;Current Slide</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Geçerli Slayttan Sonra</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -31050,7 +31050,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Resim Dosyası Biçimi(*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.svg)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.svg</source>
@@ -31226,7 +31226,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Resim Dosyası Biçimi</translation>
     </message>
     <message>
         <source>All Pictures</source>
@@ -31324,7 +31324,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;Current Slide Only</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yalnızca Geçerli Slayt</translation>
     </message>
     <message>
         <source>&amp;Every Slide</source>
