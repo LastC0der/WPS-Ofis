@@ -3022,7 +3022,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>İtalik</translation>
     </message>
     <message>
         <source>Korean</source>
@@ -3113,7 +3113,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>WeChat Document Backup</source>
@@ -3365,7 +3365,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>İtalik</translation>
     </message>
     <message>
         <source>Move the cursor to the end of the line</source>
@@ -4173,19 +4173,19 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Common File Backup</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Dosya Yedekleme</translation>
     </message>
     <message>
         <source>Calculating cache size...</source>
-        <translation type="unfinished"/>
+        <translation>Önbellek boyutu hesaplanıyor...</translation>
     </message>
     <message>
         <source>Desktop documents and pictures</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü belgeleri ve resimleri</translation>
     </message>
     <message>
         <source>WeChat received files</source>
-        <translation type="unfinished"/>
+        <translation>WeChat alınan dosyalar</translation>
     </message>
     <message>
         <source>about %1 MB</source>
@@ -4236,7 +4236,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Calculating cache size...</source>
-        <translation type="unfinished"/>
+        <translation>Önbellek boyutu hesaplanıyor...</translation>
     </message>
     <message>
         <source>Never bubble</source>
@@ -5271,7 +5271,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Calculating cache size...</source>
-        <translation type="unfinished"/>
+        <translation>Önbellek boyutu hesaplanıyor...</translation>
     </message>
     <message>
         <source>about %1 MB</source>
@@ -6591,7 +6591,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Common File Backup</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Dosya Yedekleme</translation>
     </message>
     <message>
         <source>Add the &quot;Upload to Cloud Document&quot; option</source>
@@ -6603,7 +6603,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Desktop documents and pictures</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü belgeleri ve resimleri</translation>
     </message>
     <message>
         <source>Add the &quot;Share Document&quot; option</source>
@@ -6611,7 +6611,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>WeChat received files</source>
-        <translation type="unfinished"/>
+        <translation>WeChat alınan dosyalar</translation>
     </message>
     <message>
         <source>Automatic Backup Synchronization</source>
@@ -7163,7 +7163,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Contains commands to manipulate the window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi işlemek için komutlar içerir</translation>
     </message>
     <message>
         <source>Restore up</source>
@@ -9425,7 +9425,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KWpsCloudDiskPageWidget</name>
     <message>
         <source>Calculating cache size...</source>
-        <translation type="unfinished"/>
+        <translation>Önbellek boyutu hesaplanıyor...</translation>
     </message>
     <message>
         <source>Select Location</source>
@@ -10133,7 +10133,7 @@ Time for upgrade: %1</source>
     <name>KSyncMultiFolderUpgradeWidget</name>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
