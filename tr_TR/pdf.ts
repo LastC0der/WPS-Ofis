@@ -12184,7 +12184,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Page Fit And Hide Empty</source>
-        <translation type="unfinished"/>
+        <translation>Tam Ekran ve Boş Alanı Gizle</translation>
     </message>
 </context>
 <context>
