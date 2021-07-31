@@ -827,7 +827,7 @@
     </message>
     <message>
         <source>&amp;Compound type</source>
-        <translation type="unfinished"/>
+        <translation>Bi&amp;leşen türü</translation>
     </message>
     <message>
         <source>G&amp;radient Style</source>
@@ -6474,7 +6474,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>İtalik</translation>
     </message>
     <message>
         <source>WideDownwardDiagonal</source>
@@ -12737,7 +12737,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Resim Dosyası Biçimi(*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -15082,7 +15082,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Hei&amp;ght</source>
-        <translation type="unfinished"/>
+        <translation>Yük&amp;seklik</translation>
     </message>
 </context>
 <context>
@@ -15318,7 +15318,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -17898,7 +17898,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Resim Dosyası Biçimi</translation>
     </message>
     <message>
         <source>Use to show the relationship to or from a central idea. Level 2 text is added non-sequentially and is limited to five items. There can only be one Level 1 item.</source>
@@ -18361,7 +18361,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>İtalik</translation>
     </message>
     <message>
         <source>Korean</source>
@@ -19487,7 +19487,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>İtalik</translation>
     </message>
     <message>
         <source>Move the cursor to the end of the line</source>
@@ -21312,7 +21312,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Chart Area</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Alanı</translation>
     </message>
     <message>
         <source>Error Bar</source>
@@ -24641,7 +24641,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Tag Image File Format(*tif *tiff)</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Resim Dosyası Biçimi(*tif *tiff)</translation>
     </message>
 </context>
 <context>
@@ -26327,18 +26327,18 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
 </context>
 <context>
     <name>SpeakServiceStation</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Hakkında</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -26836,7 +26836,7 @@ Possible reasons:
     </message>
     <message>
         <source>1 Point</source>
-        <translation type="unfinished"/>
+        <translation>1 Nokta</translation>
     </message>
     <message>
         <source>No Soft Edges</source>
@@ -26996,7 +26996,7 @@ Possible reasons:
     </message>
     <message>
         <source>Print Permission:</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma İzni:</translation>
     </message>
     <message>
         <source>Grant Permission:</source>
@@ -29568,7 +29568,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Resim Dosyası Biçimi</translation>
     </message>
     <message>
         <source>All Pictures</source>
@@ -30500,7 +30500,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Contains commands to manipulate the window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi işlemek için komutlar içerir</translation>
     </message>
     <message>
         <source>Restore up</source>
@@ -31697,7 +31697,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>(Steps to reproduce the problem)</source>
-        <translation type="unfinished"/>
+        <translation>(Sorunu yeniden oluşturma adımları)</translation>
     </message>
     <message>
         <source>Please enter a contact phone!</source>
@@ -33462,7 +33462,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Resim Dosyası Biçimi</translation>
     </message>
     <message>
         <source>All Pictures</source>
@@ -33505,7 +33505,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"/>
+        <translation>Etiketli Resim Dosyası Biçimi</translation>
     </message>
     <message>
         <source>All Pictures</source>
@@ -34420,7 +34420,7 @@ Please check network</source>
     </message>
     <message>
         <source>Add Error Bars</source>
-        <translation type="unfinished"/>
+        <translation>Hata Çubukları Ekle</translation>
     </message>
     <message>
         <source>PushButton</source>
