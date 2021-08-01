@@ -33060,7 +33060,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>İptal Edildi</translation>
     </message>
     <message>
         <source>Doc Name:</source>
@@ -33202,7 +33202,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>İptal Edildi</translation>
     </message>
     <message>
         <source>Cancel &amp;Application</source>
