@@ -14819,7 +14819,7 @@ Master</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez</translation>
     </message>
     <message>
         <source>Visible</source>
