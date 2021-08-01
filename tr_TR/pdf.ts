@@ -820,7 +820,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>逐份打印</source>
-        <translation type="unfinished"/>
+        <translation>Harmanla Yazdır</translation>
     </message>
     <message>
         <source>自定义比例：</source>
@@ -1030,7 +1030,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>左：</source>
-        <translation type="unfinished"/>
+        <translation>Sol Kenar Boşluğu:</translation>
     </message>
     <message>
         <source>Please enter a valid page range</source>
@@ -1114,7 +1114,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>纸张大小和方向</source>
-        <translation type="unfinished"/>
+        <translation>Kağıt boyutu ve yönü</translation>
     </message>
     <message>
         <source>打印机选择</source>
@@ -2228,7 +2228,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>AddText</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>Delete 5 or more pages of the document is VIP function, please upgrade VIP</source>
@@ -3314,11 +3314,11 @@ Please modify and try again</source>
     </message>
     <message>
         <source>6-126 bytes,care about case</source>
-        <translation type="unfinished"/>
+        <translation>6-128 bit, büyük/küçük harf duyarlı</translation>
     </message>
     <message>
         <source>annotations</source>
-        <translation type="unfinished"/>
+        <translation>Notlar</translation>
     </message>
     <message>
         <source>cheak all</source>
@@ -3401,7 +3401,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>annotations</source>
-        <translation type="unfinished"/>
+        <translation>Notlar</translation>
     </message>
     <message>
         <source>cheak all</source>
@@ -3519,7 +3519,7 @@ Inserted pages must delete by yourself.</source>
     </message>
     <message>
         <source>Unable to process the file, please make sure it&apos;s valid</source>
-        <translation type="unfinished"/>
+        <translation>Dosya tanınmadı, lütfen kaynak dosyanın mevcut olup olmadığını kontrol edin</translation>
     </message>
     <message>
         <source>Default document size (%1x%2mm)</source>
@@ -4576,7 +4576,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>NewSignature</source>
-        <translation type="unfinished"/>
+        <translation>İmza oluşturun</translation>
     </message>
     <message>
         <source>PDF Signature</source>
@@ -5941,7 +5941,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>AddText</source>
-        <translation type="unfinished"/>
+        <translation>Metin Yazın</translation>
     </message>
     <message>
         <source>MenuSelectionTool</source>
@@ -6073,7 +6073,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>NewSignature</source>
-        <translation type="unfinished"/>
+        <translation>İmza oluşturun</translation>
     </message>
     <message>
         <source>CorrectionFluidLineStyle</source>
@@ -6497,7 +6497,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>İşaret</translation>
     </message>
     <message>
         <source>CorrectionFluidRoundCap</source>
@@ -7757,7 +7757,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>AddText</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>AddImage</source>
@@ -7834,7 +7834,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>IncludBookmarks&amp;b</source>
-        <translation type="unfinished"/>
+        <translation>Yer &amp;işaretlerini dahil et</translation>
     </message>
     <message>
         <source>Input the search keyword</source>
@@ -7904,7 +7904,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>IncludBookmarks&amp;b</source>
-        <translation type="unfinished"/>
+        <translation>Yer &amp;işaretlerini dahil et</translation>
     </message>
     <message>
         <source>The keyword not found!</source>
@@ -8183,11 +8183,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Autograph</source>
-        <translation type="unfinished"/>
+        <translation>imza</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>imza</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -9071,7 +9071,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -9477,7 +9477,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Replaced</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Değer:</translation>
     </message>
     <message>
         <source>ReplaceFalseTitle</source>
@@ -9998,7 +9998,7 @@ Ekran</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez</translation>
     </message>
     <message>
         <source>Night Mode</source>
@@ -10622,7 +10622,7 @@ Navigation</source>
     </message>
     <message>
         <source>Close Outline Panel</source>
-        <translation type="unfinished"/>
+        <translation>Paneli kapat</translation>
     </message>
     <message>
         <source>The document has been edited, please re</source>
@@ -10908,7 +10908,7 @@ Navigation</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>İ&amp;ptal</translation>
     </message>
     <message>
         <source>Save(S)</source>
@@ -11456,7 +11456,7 @@ Navigation</source>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>PDF İmzası</translation>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -11677,7 +11677,7 @@ Navigation</source>
     </message>
     <message>
         <source>Close Outline Panel</source>
-        <translation type="unfinished"/>
+        <translation>Paneli Gizle</translation>
     </message>
     <message>
         <source>Collapse All Outlline</source>
@@ -12020,7 +12020,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>NewSignature</source>
-        <translation type="unfinished"/>
+        <translation>İmza oluşturun</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
@@ -12028,7 +12028,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>İmza</translation>
     </message>
 </context>
 <context>
@@ -12345,7 +12345,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>NewSignature</source>
-        <translation type="unfinished"/>
+        <translation>İmza oluşturun</translation>
     </message>
     <message>
         <source>Insert 2 or more signature is VIP function, please upgrade VIP</source>
@@ -13084,7 +13084,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Close Outline Panel</source>
-        <translation type="unfinished"/>
+        <translation>Paneli Gizle</translation>
     </message>
     <message>
         <source>Delete Attachment</source>
@@ -13208,11 +13208,11 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>NewSignature</source>
-        <translation type="unfinished"/>
+        <translation>İmza oluşturun</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>PDF İmzası</translation>
     </message>
     <message>
         <source>Docmgr</source>
