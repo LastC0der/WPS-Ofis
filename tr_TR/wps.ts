@@ -3406,7 +3406,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez</translation>
     </message>
     <message>
         <source>Print space of hidden text</source>
@@ -16303,7 +16303,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -19674,7 +19674,7 @@ Screen</source>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>İşaret</translation>
     </message>
     <message>
         <source>Floating Picture</source>
@@ -35195,7 +35195,7 @@ Ekran</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez</translation>
     </message>
     <message>
         <source>Protect Eyes</source>
@@ -35374,7 +35374,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -40056,7 +40056,7 @@ Sil</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez</translation>
     </message>
     <message>
         <source>Show Revised</source>
