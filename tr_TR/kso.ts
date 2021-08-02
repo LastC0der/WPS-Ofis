@@ -5930,7 +5930,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>Teardrop</source>
         <comment>DRAWING2_TOOLTIP_TEARDROP</comment>
-        <translation type="unfinished"/>
+        <translation>Gözyaşı Damlası</translation>
     </message>
     <message>
         <source>Cloud Callout</source>
@@ -8582,7 +8582,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Teardrop</source>
-        <translation type="unfinished"/>
+        <translation>Gözyaşı Damlası</translation>
     </message>
     <message>
         <source>Seashell</source>
@@ -12039,7 +12039,7 @@ Always take this action.</source>
     <name>KxAddRestrictUserDlg</name>
     <message>
         <source>PI</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel kimlik</translation>
     </message>
     <message>
         <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
@@ -12084,7 +12084,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxAddRestrictUserOutlookDlg</name>
     <message>
         <source>PI</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel kimlik</translation>
     </message>
     <message>
         <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
@@ -12133,7 +12133,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxRestrictedAccessDlg</name>
     <message>
         <source>PI</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel kimlik</translation>
     </message>
     <message>
         <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
@@ -12190,7 +12190,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxRestrictedAccessOutlookDlg</name>
     <message>
         <source>PI</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel kimlik</translation>
     </message>
     <message>
         <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
@@ -21148,7 +21148,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>PLOT AREA</source>
-        <translation type="unfinished"/>
+        <translation>ÇİZİM ALANI</translation>
     </message>
     <message>
         <source>LEGEND</source>
@@ -21237,7 +21237,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Plot Area</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Alanı</translation>
     </message>
     <message>
         <source>High-Low Lines</source>
@@ -21407,7 +21407,7 @@ Check path and filename.</source>
     <message>
         <source>Plot Area</source>
         <comment>CHART_PlotArea</comment>
-        <translation type="unfinished"/>
+        <translation>Çizim Alanı</translation>
     </message>
     <message>
         <source>Category 1</source>
@@ -31615,7 +31615,7 @@ Yazdırmaya devam edilsin mi?</translation>
     </message>
     <message>
         <source>Allowed</source>
-        <translation type="unfinished"/>
+        <translation>İzin verildi</translation>
     </message>
     <message>
         <source>Disallowed</source>
