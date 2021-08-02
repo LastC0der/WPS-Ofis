@@ -3347,7 +3347,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Faded Zoom</source>
         <comment>wpp_sAnimExitEffectTextFadedZoom</comment>
-        <translation type="unfinished"/>
+        <translation>Soluk Yakınlaştırma</translation>
     </message>
     <message>
         <source>Equal Triangle</source>
@@ -4801,7 +4801,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>% &amp;delay between letters</source>
-        <translation type="unfinished"/>
+        <translation>Harfler arasındaki ge&amp;cikme yüzdesi</translation>
     </message>
     <message>
         <source>Out From Screen Center</source>
@@ -5018,15 +5018,15 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Hide After Animation</source>
-        <translation type="unfinished"/>
+        <translation>Animasyondan Sonra Gizle</translation>
     </message>
     <message>
         <source>Faded Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Soluk Yakınlaştırma</translation>
     </message>
     <message>
         <source>Change Font Style</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Stilini Değiştir</translation>
     </message>
     <message>
         <source>Slide Master View</source>
@@ -5046,35 +5046,35 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Straight</source>
-        <translation type="unfinished"/>
+        <translation>Düz</translation>
     </message>
     <message>
         <source>Teardrop</source>
-        <translation type="unfinished"/>
+        <translation>Gözyaşı Damlası</translation>
     </message>
     <message>
         <source>Ease In</source>
-        <translation type="unfinished"/>
+        <translation>İçe Uydur</translation>
     </message>
     <message>
         <source>Stretchy</source>
-        <translation type="unfinished"/>
+        <translation>Esnek</translation>
     </message>
     <message>
         <source>DynamicDigits</source>
-        <translation type="unfinished"/>
+        <translation>Dinamik Basamaklar</translation>
     </message>
     <message>
         <source>media control created failed!</source>
-        <translation type="unfinished"/>
+        <translation>Medya denetimi oluşturulamadı.</translation>
     </message>
     <message>
         <source>Movie Oper&amp;ation</source>
-        <translation type="unfinished"/>
+        <translation>Film İ&amp;şlemi</translation>
     </message>
     <message>
         <source>Peek Out</source>
-        <translation type="unfinished"/>
+        <translation>Dışarıdan Belirme</translation>
     </message>
     <message>
         <source>Split Horizontal Out</source>
@@ -5322,7 +5322,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>% &amp;delay between letters/words</source>
-        <translation type="unfinished"/>
+        <translation>Sözcükler/Harfler arasındaki &amp;gecikme yüzdesi</translation>
     </message>
     <message>
         <source>^Copy (\d+ )?of (.*)</source>
@@ -7244,7 +7244,7 @@ Body: Dissolve In</source>
     </message>
     <message>
         <source>Faded Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Soluk Yakınlaştırma</translation>
     </message>
     <message>
         <source>No Animation</source>
@@ -27046,7 +27046,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
-        <translation type="unfinished"/>
+        <translation>Şekli Geriye Taşı</translation>
     </message>
 </context>
 <context>
@@ -27145,11 +27145,11 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
-        <translation type="unfinished"/>
+        <translation>Şekli Geriye Taşı</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Bağlantı Satırları</translation>
     </message>
 </context>
 <context>
@@ -28729,7 +28729,7 @@ Effects</source>
     </message>
     <message>
         <source>% &amp;delay between letters</source>
-        <translation type="unfinished"/>
+        <translation>Harfler arasındaki ge&amp;cikme yüzdesi</translation>
     </message>
     <message>
         <source>&amp;Sp&amp;eed:</source>
@@ -30317,7 +30317,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Bağlantı Satırları</translation>
     </message>
 </context>
 <context>
@@ -30380,7 +30380,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Bağlantı Satırları</translation>
     </message>
     <message>
         <source>Add Assistant</source>
@@ -30456,7 +30456,7 @@ Subordinate</source>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Bağlantı Satırları</translation>
     </message>
     <message>
         <source>Add Assistant</source>
