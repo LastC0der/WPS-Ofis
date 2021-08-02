@@ -4240,7 +4240,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Allowed</source>
-        <translation type="unfinished"/>
+        <translation>İzin verildi</translation>
     </message>
     <message>
         <source>Not Allowed</source>
