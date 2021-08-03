@@ -19884,7 +19884,7 @@ Screen</source>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Help</source>
