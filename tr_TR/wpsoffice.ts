@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Call</source>
@@ -1826,7 +1826,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Date</source>
@@ -2328,7 +2328,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Open Image</source>
-        <translation>Görüntüyü Aç</translation>
+        <translation>Resmi Aç</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -2578,7 +2578,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Copy Image</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Kopyala</translation>
     </message>
     <message>
         <source>Select to the end of the document</source>
