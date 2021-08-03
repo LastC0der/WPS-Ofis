@@ -662,7 +662,7 @@ Easy mobile office.</source>
     <name>HomepageMoreOptionsWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Company login</source>
@@ -677,7 +677,7 @@ Easy mobile office.</source>
     <name>KLoginMainWindow_New</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Invalid argument</source>
