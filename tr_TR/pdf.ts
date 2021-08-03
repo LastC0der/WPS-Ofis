@@ -2656,7 +2656,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Open Image</source>
-        <translation>Görüntüyü Aç</translation>
+        <translation>Resmi Aç</translation>
     </message>
     <message>
         <source>保存(&amp;S)</source>
@@ -4527,7 +4527,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Open Image</source>
-        <translation>Görüntüyü Aç</translation>
+        <translation>Resmi Aç</translation>
     </message>
     <message>
         <source>Image</source>
