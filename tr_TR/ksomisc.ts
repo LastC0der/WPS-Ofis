@@ -376,7 +376,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft &amp;PowerPoint Sunuları (*.ppt, *.pot, *.pps, *.pptx dosyaları)</translation>
     </message>
     <message>
         <source>eBooks(*.epub, *.mobi)</source>
@@ -774,7 +774,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Makro İçerebilen Sunusu</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Application</source>
@@ -798,7 +798,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Macro-Enabled Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Ofis PowerPoint 2007 Makro İçerebilen Sunusu</translation>
     </message>
     <message>
         <source>RTF Text</source>
@@ -882,7 +882,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
-        <translation>Microsoft PowerPoint Sunusu</translation>
+        <translation>Microsoft PowerPoint Sunusu(*.pptx)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Chart</source>
@@ -934,7 +934,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
-        <translation>Microsoft PowerPoint 97-2003 Sunusu</translation>
+        <translation>Microsoft PowerPoint 97-2003 Sunusu(*.ppt)</translation>
     </message>
     <message>
         <source>Microsoft Excel Backup File</source>
