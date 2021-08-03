@@ -2122,7 +2122,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>Select Texture</source>
-        <translation type="unfinished"/>
+        <translation>Doku Seç</translation>
     </message>
     <message>
         <source>---Search Selection---</source>
@@ -6834,7 +6834,7 @@ Ekle</translation>
     </message>
     <message>
         <source>WordArt: Curve Down</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Eğri Aşağı</translation>
     </message>
     <message>
         <source>Line Callout 1 (Border and Accent Bar)</source>
@@ -12939,7 +12939,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Değişim Biçimi(*.gif)|*.gif</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -13111,7 +13111,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri(*.png)|*.png</translation>
     </message>
     <message>
         <source>Edit OLE Object</source>
@@ -13286,7 +13286,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası(*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>Shape Style</source>
@@ -13720,7 +13720,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
-        <translation type="unfinished"/>
+        <translation>Windows Geliştirilmiş Meta Dosyası(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -13836,7 +13836,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Windows Video File(avi) (*.avi)</source>
-        <translation type="unfinished"/>
+        <translation>Windows Video Dosyası(avi) (*.avi)</translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
@@ -13860,7 +13860,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation type="unfinished"/>
+        <translation>JPEG Dosya Değişim Biçimi(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
     <message>
         <source>Fill Effects</source>
@@ -17201,11 +17201,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Diverging Radial </source>
-        <translation type="unfinished"/>
+        <translation>Ayrılan Radyal </translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"/>
+        <translation>JPEG Dosya Değişim Biçimi</translation>
     </message>
     <message>
         <source>Arrow Ribbon</source>
@@ -17237,7 +17237,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Değişim Biçimi</translation>
     </message>
     <message>
         <source>Use to show a series of pictures from top to bottom. Text appears alternately on the right or left of the picture.</source>
@@ -17261,7 +17261,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri</translation>
     </message>
     <message>
         <source>Spiral Picture</source>
@@ -17685,7 +17685,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası</translation>
     </message>
     <message>
         <source>Use to show a group of pictures in blocks starting from the corner. The corresponding text displays vertically. Works well as an accent on title or sub-title slides or for section breaks of a document.</source>
@@ -18945,7 +18945,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Stacked Area - Clustered Column</source>
@@ -20735,7 +20735,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>CJK Compatibility</source>
-        <translation type="unfinished"/>
+        <translation>ÇJK Uyumluluğu</translation>
     </message>
     <message>
         <source>Thaana</source>
@@ -25676,7 +25676,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
@@ -25687,7 +25687,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
@@ -25701,21 +25701,21 @@ Ortalama</translation>
     <name>KQuickHelpFoldListCommand</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
     <name>KRbLogicFoldGroup</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
     <name>KxChartStyleModel</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>style</source>
@@ -25734,14 +25734,14 @@ Ortalama</translation>
     <name>KxShapePaneTitle</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
     <name>kxDlgSetSpellcheckLanguage</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Available Languages:</source>
@@ -29464,7 +29464,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"/>
+        <translation>JPEG Dosya Değişim Biçimi</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
@@ -29472,11 +29472,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Değişim Biçimi</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
@@ -29532,11 +29532,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Select Texture</source>
-        <translation type="unfinished"/>
+        <translation>Doku Seç</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası</translation>
     </message>
     <message>
         <source>Small confetti</source>
@@ -33434,15 +33434,15 @@ Please reinstall WPS Office!</source>
     <name>KxFormatGroupContent_Fill</name>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"/>
+        <translation>JPEG Dosya Değişim Biçimi</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Değişim Biçimi</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
@@ -33454,11 +33454,11 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Select Texture</source>
-        <translation type="unfinished"/>
+        <translation>Doku Seç</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
@@ -33470,22 +33470,22 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Scalable Vector Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeklenebilir Vektör Grafiği</translation>
     </message>
 </context>
 <context>
     <name>KxPicOrTextureFillCommand</name>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"/>
+        <translation>JPEG Dosya Değişim Biçimi</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Değişim Biçimi</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
@@ -33497,11 +33497,11 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Select Texture</source>
-        <translation type="unfinished"/>
+        <translation>Doku Seç</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
@@ -33513,7 +33513,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Scalable Vector Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeklenebilir Vektör Grafiği</translation>
     </message>
 </context>
 <context>
