@@ -3768,7 +3768,7 @@ Input 1-10 to insert from page 1 to page 10</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>insert:</source>
@@ -6860,7 +6860,7 @@ Input 5-9 page 5 to page 9</source>
     <name>ongmani.ct_file</name>
     <message>
         <source>TXT</source>
-        <translation type="unfinished"/>
+        <translation>TXT</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -7000,7 +7000,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PPT</source>
-        <translation type="unfinished"/>
+        <translation>PPT</translation>
     </message>
     <message>
         <source>PDFToWord</source>
@@ -7030,7 +7030,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>转换</source>
-        <translation type="unfinished"/>
+        <translation>Dönüştür</translation>
     </message>
     <message>
         <source>TextLabel</source>
