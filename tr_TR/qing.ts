@@ -4903,7 +4903,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
@@ -4914,7 +4914,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
