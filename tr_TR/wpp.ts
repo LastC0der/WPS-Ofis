@@ -1877,7 +1877,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Microsoft PowerPoint Security Presentations(*.spptx)|*.spptx</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Güvenlik Sunuları(*.spptx)|*.spptx</translation>
     </message>
     <message>
         <source>9 vertical slides</source>
@@ -2286,7 +2286,7 @@ Check</source>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro Enabled Presentation(*.pptm)|*.pptm</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Makro İçerebilen Sunusu(*.pptm)|*.pptm</translation>
     </message>
     <message>
         <source>Cell Margins</source>
@@ -2363,7 +2363,7 @@ Check</source>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation(*.pptx)|*.pptx</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Sunusu(*.pptx)|*.pptx</translation>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
@@ -2467,7 +2467,7 @@ Check</source>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation(*.pptx)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Sunusu(*.pptx)</translation>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.MP4;*.m4v;*.mp4v;*.3gp2;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob</source>
@@ -2605,7 +2605,7 @@ Check</source>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation Template(*.potx)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Sunum Şablonu(*.potx)</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -2670,7 +2670,7 @@ Check</source>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro Enabled Presentation Template(*.potm)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Makro İçerebilen Sunum Şablonu(*.potm)</translation>
     </message>
     <message>
         <source>Insert Flash Animation</source>
@@ -2748,7 +2748,7 @@ Check</source>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Sunuları(*.pptx; *.ppsx; *.pptm; *.ppsm)</translation>
     </message>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
@@ -2756,7 +2756,7 @@ Check</source>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro Enabled Presentation(*.pptm)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Makro İçerebilen Sunusu(*.pptm)</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -2841,7 +2841,7 @@ Check</source>
     </message>
     <message>
         <source>Windows Video File(avi) (*.avi)</source>
-        <translation type="unfinished"/>
+        <translation>Windows Video Dosyası(avi) (*.avi)</translation>
     </message>
     <message>
         <source>Handout</source>
@@ -2927,7 +2927,7 @@ Check</source>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro Enabled Show(*.ppsm)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Makro İçerebilen Gösteri(.ppsm)</translation>
     </message>
     <message>
         <source>Replace Fonts</source>
@@ -2983,7 +2983,7 @@ Check</source>
     </message>
     <message>
         <source>*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps</source>
-        <translation type="unfinished"/>
+        <translation>*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps</translation>
     </message>
     <message>
         <source>/WPS Capture/WPS Capture</source>
@@ -2991,7 +2991,7 @@ Check</source>
     </message>
     <message>
         <source>All Outline(*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Ana Hat(*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</translation>
     </message>
     <message>
         <source>AddSection</source>
@@ -3463,7 +3463,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"/>
+        <translation>Dilim</translation>
     </message>
     <message>
         <source>Wheel</source>
@@ -3789,7 +3789,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Wedge</source>
         <comment>wpp_sAnimExitEffectTextWedge</comment>
-        <translation type="unfinished"/>
+        <translation>Dilim</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
@@ -3801,7 +3801,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Random Effects</source>
-        <translation type="unfinished"/>
+        <translation>Rasgele Efektler</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -4518,7 +4518,7 @@ This backup will be saved to(%s)</source>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"/>
+        <translation>Başlık Metni Düzen Rengini Kullan</translation>
     </message>
     <message>
         <source>Checkerboard</source>
@@ -5866,7 +5866,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"/>
+        <translation>Dilim</translation>
     </message>
     <message>
         <source>Pinwheel</source>
@@ -8561,7 +8561,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Size</source>
@@ -8994,7 +8994,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9479,7 +9479,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9871,7 +9871,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -10560,7 +10560,7 @@ Araçları</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -10904,7 +10904,7 @@ Araçları</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11376,7 +11376,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -12006,7 +12006,7 @@ Slide</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Quick Styles</source>
@@ -12659,7 +12659,7 @@ Slide</source>
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"/>
+        <translation>Dilim</translation>
     </message>
     <message>
         <source>Wheel</source>
@@ -12715,7 +12715,7 @@ Slide</source>
     </message>
     <message>
         <source>MasterLayout</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Düzen</translation>
     </message>
     <message>
         <source>Cover Right</source>
@@ -16160,7 +16160,7 @@ Slide</source>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Sunusu(*.pptx)</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -17766,7 +17766,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Sunusu(*.pptx)</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -18555,7 +18555,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Sunusu (*.pptx)</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -22984,7 +22984,7 @@ Settings</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Blank</source>
@@ -25622,7 +25622,7 @@ the presentation file directly.You can put it with the presentation file in the 
     <name>KxWppMoreDesignItem</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
@@ -29789,11 +29789,11 @@ Master</source>
     </message>
     <message>
         <source>Accent5</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu5</translation>
     </message>
     <message>
         <source>Accent6</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu6</translation>
     </message>
     <message>
         <source>Accent and followed hyperlink</source>
@@ -29808,7 +29808,7 @@ Master</source>
     <name>KxBulletsNumberingDlg</name>
     <message>
         <source>Open Image</source>
-        <translation>Görüntüyü Aç</translation>
+        <translation>Resmi Aç</translation>
     </message>
     <message>
         <source>&amp;More Colors</source>
@@ -31058,7 +31058,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Değişim Biçimi(*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
@@ -31066,11 +31066,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri(*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası(*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
@@ -31078,7 +31078,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
-        <translation type="unfinished"/>
+        <translation>Windows Geliştirilmiş Meta Dosyası(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
@@ -31182,7 +31182,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"/>
+        <translation>JPEG Dosya Değişim Biçimi</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
@@ -31190,11 +31190,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Değişim Biçimi</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color</source>
@@ -31214,11 +31214,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"/>
+        <translation>Başlık Metni Düzen Rengini Kullan</translation>
     </message>
     <message>
         <source>Select Picture</source>
