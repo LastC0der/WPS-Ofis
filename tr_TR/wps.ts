@@ -10902,7 +10902,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>None</source>
@@ -11045,7 +11045,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11623,7 +11623,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12201,7 +12201,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12665,7 +12665,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>None</source>
@@ -13104,7 +13104,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>None</source>
@@ -13563,7 +13563,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>None</source>
@@ -14082,7 +14082,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>None</source>
@@ -16755,7 +16755,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Size</source>
@@ -17341,7 +17341,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>None</source>
@@ -17768,7 +17768,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -19896,7 +19896,7 @@ Screen</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Open</source>
@@ -47777,7 +47777,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <name>KxSignatureEditImageCanvas</name>
     <message>
         <source>Scalable Vector Graphics(*.svg)|*.svg</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeklenebilir Vektör Grafiği(*.svg)|*.svg</translation>
     </message>
     <message>
         <source>Upload an image of your signature</source>
@@ -47793,19 +47793,19 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Değişim Biçimi(*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri(*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası(*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation type="unfinished"/>
+        <translation>Windows Bit Eşlem(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>All Pictures</source>
@@ -47813,11 +47813,11 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
-        <translation type="unfinished"/>
+        <translation>Windows Geliştirilmiş Meta Dosyası(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation type="unfinished"/>
+        <translation>JPEG Dosya Değişim Biçimi(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
 </context>
 <context>
