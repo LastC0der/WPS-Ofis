@@ -1190,7 +1190,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Aqua</source>
@@ -3232,7 +3232,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Call</source>
@@ -4990,7 +4990,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Anti-Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönünün Tersine</translation>
     </message>
     <message>
         <source>Ivory</source>
@@ -5107,11 +5107,11 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Text1</source>
-        <translation type="unfinished"/>
+        <translation>Metin1</translation>
     </message>
     <message>
         <source>Text2</source>
-        <translation type="unfinished"/>
+        <translation>Metin2</translation>
     </message>
     <message>
         <source>To Up</source>
@@ -5119,7 +5119,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Tower</source>
-        <translation type="unfinished"/>
+        <translation>Kule</translation>
     </message>
     <message>
         <source>Twine</source>
@@ -5691,7 +5691,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>Snip Diagonal Corner Rectangle</source>
         <comment>DRAWING2_TOOLTIP_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"/>
+        <translation>Çapraz Köşesi Kesik Dikdörtgen</translation>
     </message>
     <message>
         <source>Rounded Rectangular Callout</source>
@@ -5712,17 +5712,17 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>WordArt: Deflate Top</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Yukarı Söndür</translation>
     </message>
     <message>
         <source>Double Brace</source>
         <comment>DRAWING2STR_DOUBLE_BRACE</comment>
-        <translation type="unfinished"/>
+        <translation>Çift Ayraç</translation>
     </message>
     <message>
         <source>Tower</source>
         <comment>DRAWINGSTR_TOWER</comment>
-        <translation type="unfinished"/>
+        <translation>Kule</translation>
     </message>
     <message>
         <source>WordArt: Inflate Top</source>
@@ -6113,7 +6113,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Double Brace</source>
-        <translation type="unfinished"/>
+        <translation>Çift Ayraç</translation>
     </message>
     <message>
         <source>NarrowVertical</source>
@@ -7176,7 +7176,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Snip Diagonal Corner Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz Köşesi Kesik Dikdörtgen</translation>
     </message>
     <message>
         <source>Diagonal Stripe</source>
@@ -9020,7 +9020,7 @@ Line-type: %3</source>
     <message>
         <source>Double Brace</source>
         <comment>DRAWING2_TOOLTIP_DOUBLE_BRACE</comment>
-        <translation type="unfinished"/>
+        <translation>Çift Ayraç</translation>
     </message>
     <message>
         <source>Cross</source>
@@ -14644,7 +14644,7 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source>bbs feedback</source>
-        <translation type="unfinished"/>
+        <translation>bbs geri bildirimi</translation>
     </message>
     <message>
         <source>Publisher Files</source>
@@ -15706,7 +15706,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Anti-Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönünün Tersine</translation>
     </message>
     <message>
         <source>Turn Right</source>
@@ -15793,7 +15793,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Anti-Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönünün Tersine</translation>
     </message>
     <message>
         <source>Turn Right</source>
@@ -16662,7 +16662,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Date</source>
@@ -19200,11 +19200,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Wedge</source>
-        <translation type="unfinished"/>
+        <translation>Dilim</translation>
     </message>
     <message>
         <source>Show Placehoders</source>
-        <translation type="unfinished"/>
+        <translation>Yer Tutucuları Göster</translation>
     </message>
     <message>
         <source>Maximum</source>
@@ -19386,7 +19386,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Open Image</source>
-        <translation>Görüntüyü Aç</translation>
+        <translation>Resmi Aç</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -19636,7 +19636,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Copy Image</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Kopyala</translation>
     </message>
     <message>
         <source>Select to the end of the document</source>
@@ -26718,7 +26718,7 @@ Possible reasons:
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
-        <translation>Microsoft PowerPoint Sunusu</translation>
+        <translation>Microsoft PowerPoint Sunusu(*.pptx)</translation>
     </message>
     <message>
         <source>Failed to overwrite the current document, choose another file name.</source>
@@ -26763,7 +26763,7 @@ Possible reasons:
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
-        <translation>Microsoft PowerPoint 97-2003 Sunusu</translation>
+        <translation>Microsoft PowerPoint 97-2003 Sunusu(*.ppt)</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -33931,7 +33931,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>send report</source>
-        <translation type="unfinished"/>
+        <translation>Rapor gönder</translation>
     </message>
     <message>
         <source>%1%2%3click here to install vba.%4</source>
@@ -36503,7 +36503,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>detailed strategy </source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz</translation>
     </message>
     <message>
         <source>Video output is failed</source>
@@ -38285,7 +38285,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Share Finished!</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşıldı.</translation>
     </message>
     <message>
         <source>Continue Share &gt;&gt;</source>
