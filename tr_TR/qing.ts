@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Call</source>
@@ -2635,7 +2635,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Date</source>
@@ -3264,7 +3264,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Open Image</source>
-        <translation>Görüntüyü Aç</translation>
+        <translation>Resmi Aç</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -3514,7 +3514,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Copy Image</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Kopyala</translation>
     </message>
     <message>
         <source>Select to the end of the document</source>
