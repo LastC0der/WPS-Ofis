@@ -15477,7 +15477,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Below Average</source>
@@ -42558,15 +42558,15 @@ imlecinizi düzenleme kutusuna yerleştirip Resim Biçimlendir düğmesine tıkl
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"/>
+        <translation>JPEG Dosya Değişim Biçimi</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Değişim Biçimi</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
@@ -42590,7 +42590,7 @@ imlecinizi düzenleme kutusuna yerleştirip Resim Biçimlendir düğmesine tıkl
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
