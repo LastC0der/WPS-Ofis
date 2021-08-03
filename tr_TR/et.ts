@@ -39625,7 +39625,7 @@ Birleştir</translation>
     <name>KxEtAutoFilterFavoriteDlg</name>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Edit</source>
