@@ -1897,6 +1897,10 @@ Na przykład, 1,3,5-9.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>*.webm</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>*.mp4;*.m4v;*.mp4v</source>
         <translation>*.mp4;*.m4v;*.mp4v</translation>
     </message>
@@ -2624,12 +2628,20 @@ slajd</translation>
         <translation>Pliki w formacie Flash (*.swf)</translation>
     </message>
     <message>
+        <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.mp4;*.m4v;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob;*.webm)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Normal Files</source>
         <translation>Wspólne pliki (pliki Word;pliki Excel;pliki PowerPoint;pliki PDF)</translation>
     </message>
     <message>
         <source>Collapse Section</source>
         <translation>Zwiń sekcję</translation>
+    </message>
+    <message>
+        <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.MP4;*.m4v;*.mp4v;*.3gp2;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob;*.webm</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Play Audio</source>
@@ -2812,6 +2824,10 @@ pokaz slajdów</translation>
     <message>
         <source>Rename Master</source>
         <translation>Zmień nazwę wzorca</translation>
+    </message>
+    <message>
+        <source>WebM Video File(*.webm)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Single Web Page Files(*.mht; *.mhtml)</source>
@@ -6184,6 +6200,10 @@ Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij pr
         <translation>Współczynnik proporcji</translation>
     </message>
     <message>
+        <source>Delete All Notes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Slide Transition: Wipe Down
 Title: Rise Up
 Body: Rise Up</source>
@@ -7096,6 +7116,10 @@ Tekst podstawowy: Zanikanie</translation>
     <message>
         <source>Fifth level</source>
         <translation>Piąty poziom</translation>
+    </message>
+    <message>
+        <source>Delete Note In Current Slide</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Light Style 3 - Accent 1</source>
@@ -25837,6 +25861,18 @@ czytania</translation>
         <translation>Strzałka</translation>
     </message>
     <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Slide %1 of %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resume timer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Slide %1</source>
         <translation>Slajd %1</translation>
     </message>
@@ -25853,6 +25889,18 @@ czytania</translation>
         <translation>Gumka</translation>
     </message>
     <message>
+        <source>Ink type</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reset timer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pause timer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Konspekt</translation>
     </message>
@@ -25867,6 +25915,26 @@ czytania</translation>
     <message>
         <source>Comment</source>
         <translation>Komentarz</translation>
+    </message>
+    <message>
+        <source>Player Capture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ink color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ink shape</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen camera</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>End of Slide Show</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26342,6 +26410,10 @@ bezpośrednio</translation>
     <message>
         <source>Landscape</source>
         <translation>Poziomo</translation>
+    </message>
+    <message>
+        <source>Print Ways</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print What</source>
