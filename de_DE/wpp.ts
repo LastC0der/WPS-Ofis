@@ -1897,6 +1897,10 @@ Zum Beispiel, 1,3,5-9.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>*.webm</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>*.mp4;*.m4v;*.mp4v</source>
         <translation>*.mp4;*.m4v;*.mp4v</translation>
     </message>
@@ -2623,12 +2627,20 @@ Folie</translation>
         <translation>Dateien im Flashformat(*.swf)</translation>
     </message>
     <message>
+        <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.mp4;*.m4v;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob;*.webm)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Normal Files</source>
         <translation>Gängige Dateien (Word-Dateien;Excel-Dateien;PowerPoint-Dateien;PDF-Dateien)</translation>
     </message>
     <message>
         <source>Collapse Section</source>
         <translation>Abschnitt reduzieren</translation>
+    </message>
+    <message>
+        <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.MP4;*.m4v;*.mp4v;*.3gp2;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob;*.webm</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Play Audio</source>
@@ -2810,6 +2822,10 @@ Möchten Sie die Änderungen unter einer anderen Datei Speichern?</translation>
     <message>
         <source>Rename Master</source>
         <translation>Master umbenennen</translation>
+    </message>
+    <message>
+        <source>WebM Video File(*.webm)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Single Web Page Files(*.mht; *.mhtml)</source>
@@ -6176,6 +6192,10 @@ Klicken Sie auf &apos;Ja&apos;, um die Datei als Arbeitsmappe ohne Makros zu spe
         <translation>Seitenverhältnis</translation>
     </message>
     <message>
+        <source>Delete All Notes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Slide Transition: Wipe Down
 Title: Rise Up
 Body: Rise Up</source>
@@ -7087,6 +7107,10 @@ Textkörper: Verblassen</translation>
     <message>
         <source>Fifth level</source>
         <translation>Fünfte Ebene</translation>
+    </message>
+    <message>
+        <source>Delete Note In Current Slide</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Light Style 3 - Accent 1</source>
@@ -25779,6 +25803,18 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation>Pfeil</translation>
     </message>
     <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Slide %1 of %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resume timer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Slide %1</source>
         <translation>Folie %1</translation>
     </message>
@@ -25795,6 +25831,18 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation>Radiergummi</translation>
     </message>
     <message>
+        <source>Ink type</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reset timer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pause timer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Gliederung</translation>
     </message>
@@ -25809,6 +25857,26 @@ the presentation file directly.You can put it with the presentation file in the 
     <message>
         <source>Comment</source>
         <translation>Kommentar</translation>
+    </message>
+    <message>
+        <source>Player Capture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ink color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ink shape</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen camera</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>End of Slide Show</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26285,6 +26353,10 @@ Direkt </translation>
     <message>
         <source>Landscape</source>
         <translation>Querformat</translation>
+    </message>
+    <message>
+        <source>Print Ways</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print What</source>
