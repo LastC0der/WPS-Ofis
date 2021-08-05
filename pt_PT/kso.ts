@@ -10611,6 +10611,13 @@ Tianjin KYLIN Information Technology Co., Ltd.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgNewOutwardDocDlg</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgOfflineSecretKey</name>
     <message>
         <source>OK</source>
@@ -34076,6 +34083,10 @@ Reinstale o WPS Office!</translation>
         <translation>A funcionalidade que pretende utilizar está a ser transferida e instalada. Aguarde um pouco até a instalação ficar concluída.</translation>
     </message>
     <message>
+        <source>%1To find an earlier version%2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>immediately fix</source>
         <translation>correção imediata</translation>
     </message>
@@ -38942,6 +38953,17 @@ E PROPRIEDADES</translation>
     </message>
 </context>
 <context>
+    <name>KxOutwardDocTableModelV2</name>
+    <message>
+        <source>Rejected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Protect Type</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SelPictureWidgetBase</name>
     <message>
         <source>Current locale cannot apply this skin.</source>
@@ -39169,6 +39191,10 @@ Partilhar com amigos</translation>
 </context>
 <context>
     <name>KLanguageChooseDialog</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <source>Online Language Packs</source>
         <translation type="unfinished"/>
