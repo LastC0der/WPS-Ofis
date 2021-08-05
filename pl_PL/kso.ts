@@ -10611,6 +10611,13 @@ Tianjin KYLIN Information Technology Co., Ltd.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgNewOutwardDocDlg</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgOfflineSecretKey</name>
     <message>
         <source>OK</source>
@@ -34072,6 +34079,10 @@ Proszę ponownie zainstalować WPS Office!</translation>
         <translation>Trwa pobieranie i instalowanie funkcji, z której chcesz skorzystać. Zaczekaj na zakończenie instalacji.</translation>
     </message>
     <message>
+        <source>%1To find an earlier version%2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>immediately fix</source>
         <translation>natychmiastowe naprawianie</translation>
     </message>
@@ -38938,6 +38949,17 @@ właściwości</translation>
     </message>
 </context>
 <context>
+    <name>KxOutwardDocTableModelV2</name>
+    <message>
+        <source>Rejected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Protect Type</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SelPictureWidgetBase</name>
     <message>
         <source>Current locale cannot apply this skin.</source>
@@ -39165,6 +39187,10 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
 </context>
 <context>
     <name>KLanguageChooseDialog</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <source>Online Language Packs</source>
         <translation type="unfinished"/>
