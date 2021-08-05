@@ -3326,7 +3326,27 @@ Please verify the correct file name was given.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>ADD or edit image in PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud Storage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Template Premium</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Files Repair</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlimited PDF to Word/Excel/PPT</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3342,6 +3362,14 @@ Please verify the correct file name was given.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Export picture without watermark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Ads</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Registered User</source>
         <translation>Kayıtlı Kullanıcı</translation>
     </message>
@@ -3354,6 +3382,10 @@ Please verify the correct file name was given.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Picture to Text(OCR)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Premium</source>
         <translation type="unfinished"/>
     </message>
@@ -3362,7 +3394,27 @@ Please verify the correct file name was given.</source>
         <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
+        <source>Unlimited downloads of template, inforgraphics and more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Edit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More other Privileges</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export PDF in batch</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Buy Now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Correction fluid in PDF</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3379,6 +3431,18 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>compare plans</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlimited picture to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Basic Document Operations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Split/Merge</source>
         <translation type="unfinished"/>
     </message>
     <message>
