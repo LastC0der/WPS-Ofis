@@ -6585,6 +6585,13 @@ Please verify the correct file name was given.</source>
     </message>
 </context>
 <context>
+    <name>KUploadLimitBubbleP7Enterprise</name>
+    <message>
+        <source>upload file failed for exceeding %1</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KBasicSettingsPageWidget</name>
     <message>
         <source>Tips for transmission exceptions</source>

@@ -1897,6 +1897,10 @@ For example, 1,3,5-9.</source>
         <translation></translation>
     </message>
     <message>
+        <source>*.webm</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>*.mp4;*.m4v;*.mp4v</source>
         <translation></translation>
     </message>
@@ -2617,11 +2621,19 @@ Check</source>
         <translation></translation>
     </message>
     <message>
+        <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.mp4;*.m4v;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob;*.webm)</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Normal Files</source>
         <translation></translation>
     </message>
     <message>
         <source>Collapse Section</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.MP4;*.m4v;*.mp4v;*.3gp2;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob;*.webm</source>
         <translation></translation>
     </message>
     <message>
@@ -2796,6 +2808,10 @@ Check</source>
     </message>
     <message>
         <source>Rename Master</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WebM Video File(*.webm)</source>
         <translation></translation>
     </message>
     <message>
@@ -6142,6 +6158,10 @@ To continue saving as a macro-free workbook, click Yes.
         <translation></translation>
     </message>
     <message>
+        <source>Delete All Notes</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Slide Transition: Wipe Down
 Title: Rise Up
 Body: Rise Up</source>
@@ -7016,6 +7036,10 @@ Body: Fade</source>
     </message>
     <message>
         <source>Fifth level</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete Note In Current Slide</source>
         <translation></translation>
     </message>
     <message>
@@ -25585,6 +25609,18 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation></translation>
     </message>
     <message>
+        <source>Cellphone Control</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Slide %1 of %2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Resume timer</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Slide %1</source>
         <translation></translation>
     </message>
@@ -25601,6 +25637,18 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation></translation>
     </message>
     <message>
+        <source>Ink type</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset timer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Pause timer</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation></translation>
     </message>
@@ -25614,6 +25662,26 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Comment</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Player Capture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ink color</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ink shape</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Screen camera</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>End of Slide Show</source>
         <translation></translation>
     </message>
 </context>
@@ -26076,6 +26144,10 @@ Directly</source>
     </message>
     <message>
         <source>Landscape</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Print Ways</source>
         <translation></translation>
     </message>
     <message>

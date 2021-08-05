@@ -4,6 +4,10 @@
 <context>
     <name>wps_field_parser_common</name>
     <message>
+        <source></source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Date</source>
         <translation></translation>
     </message>
@@ -18858,6 +18862,10 @@ Directly</source>
     </message>
     <message>
         <source>Options</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset Shape and Size</source>
         <translation></translation>
     </message>
     <message>

@@ -1048,6 +1048,10 @@ Easy mobile office.</source>
 <context>
     <name>KLoginMainWindow</name>
     <message>
+        <source>Or</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Email</source>
         <translation></translation>
     </message>
@@ -1089,6 +1093,10 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Wrong password</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Already have an account?</source>
         <translation></translation>
     </message>
     <message>

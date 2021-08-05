@@ -3331,7 +3331,27 @@ Please verify the correct file name was given.</source>
         <translation></translation>
     </message>
     <message>
+        <source>ADD or edit image in PDF</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cloud Storage</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Template Premium</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Files Repair</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unlimited PDF to Word/Excel/PPT</source>
         <translation></translation>
     </message>
     <message>
@@ -3347,6 +3367,14 @@ Please verify the correct file name was given.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Export picture without watermark</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>No Ads</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Registered User</source>
         <translation></translation>
     </message>
@@ -3359,6 +3387,10 @@ Please verify the correct file name was given.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Picture to Text(OCR)</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>WPS Premium</source>
         <translation></translation>
     </message>
@@ -3367,7 +3399,27 @@ Please verify the correct file name was given.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Unlimited downloads of template, inforgraphics and more</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PDF Edit</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More other Privileges</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export PDF in batch</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Buy Now</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Correction fluid in PDF</source>
         <translation></translation>
     </message>
     <message>
@@ -3384,6 +3436,18 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>compare plans</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unlimited picture to PDF</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Basic Document Operations</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PDF Split/Merge</source>
         <translation></translation>
     </message>
     <message>

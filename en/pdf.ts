@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="tr_TR">
 <context>
     <name>KxPdfExtractPageTask</name>
     <message>
@@ -2019,6 +2019,10 @@ Please batches operations</source>
     </message>
     <message>
         <source>BackupFile</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The document is scanned, please edit it after conversion.</source>
         <translation></translation>
     </message>
     <message>
@@ -9848,6 +9852,10 @@ input 1,6, means extract page 1 and 6</source>
         <translation></translation>
     </message>
     <message>
+        <source>&amp;Comfirm</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>All Files (*.*)</source>
         <translation></translation>
     </message>
@@ -10624,6 +10632,10 @@ Navigation</source>
     </message>
     <message>
         <source>The document is unsigned or signature is unverified unrecognized</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Signature</source>
         <translation></translation>
     </message>
 </context>
