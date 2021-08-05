@@ -2026,6 +2026,10 @@ Please batches operations</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The document is scanned, please edit it after conversion.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Confirm Delete</source>
         <translation>Potwierdź usunięcie</translation>
     </message>
@@ -9860,6 +9864,10 @@ Podanie zakresu 1,6 spowoduje wyodrębnienie stron 1 i 6.</translation>
         <translation>Nieprawidłowe zakładki</translation>
     </message>
     <message>
+        <source>&amp;Comfirm</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Files (*.*)</source>
         <translation>Wszystkie pliki (*.*)</translation>
     </message>
@@ -10644,6 +10652,10 @@ między stronami</translation>
     <message>
         <source>The document is unsigned or signature is unverified unrecognized</source>
         <translation>Dokument jest niepodpisany lub podpis jest niezweryfikowany bądź nierozpoznany</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
