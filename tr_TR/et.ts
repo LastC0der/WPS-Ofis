@@ -51941,7 +51941,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Entire &amp;row</source>
-        <translation type="unfinished"/>
+        <translation>Tüm &amp;satır</translation>
     </message>
     <message>
         <source>Entire &amp;column</source>
@@ -55601,11 +55601,11 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>Number of rows fetched:</source>
-        <translation type="unfinished"/>
+        <translation>Getirilen satır sayısı:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="unfinished"/>
+        <translation>Geçen süre:</translation>
     </message>
 </context>
 <context>
@@ -55620,11 +55620,11 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>Entire &amp;row</source>
-        <translation type="unfinished"/>
+        <translation>Tüm &amp;satır</translation>
     </message>
     <message>
         <source>Entire &amp;column</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tüm sütun</translation>
     </message>
     <message>
         <source>Shift cells &amp;up</source>
