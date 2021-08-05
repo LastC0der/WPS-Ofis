@@ -2022,6 +2022,10 @@ Please batches operations</source>
         <translation>(Backup)</translation>
     </message>
     <message>
+        <source>The document is scanned, please edit it after conversion.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Confirm Delete</source>
         <translation>Confirm to Delete</translation>
     </message>
@@ -9860,6 +9864,10 @@ input 1,6, means extract page 1 and 6</translation>
         <translation>Invalid Bookmarks</translation>
     </message>
     <message>
+        <source>&amp;Comfirm</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Files (*.*)</source>
         <translation>All Files (*.*)</translation>
     </message>
@@ -10640,6 +10648,10 @@ Navigation</source>
     <message>
         <source>The document is unsigned or signature is unverified unrecognized</source>
         <translation>The document is unsigned or signed unverified/unrecognized</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
