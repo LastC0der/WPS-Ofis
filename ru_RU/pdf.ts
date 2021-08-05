@@ -2026,6 +2026,10 @@ Please batches operations</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The document is scanned, please edit it after conversion.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Confirm Delete</source>
         <translation>Подтвердить удаление</translation>
     </message>
@@ -9860,6 +9864,10 @@ input 1,6, means extract page 1 and 6</source>
         <translation>Недействительные закладки</translation>
     </message>
     <message>
+        <source>&amp;Comfirm</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Files (*.*)</source>
         <translation>Все файлы (*.*)</translation>
     </message>
@@ -10641,6 +10649,10 @@ Navigation</source>
     <message>
         <source>The document is unsigned or signature is unverified unrecognized</source>
         <translation>Этот документ неподписан или подписан непроверенным/нераспознанным</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
