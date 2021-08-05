@@ -2,6 +2,10 @@
 <context>
     <name>wps_field_parser_common</name>
     <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Date</source>
         <translation>Tarih</translation>
     </message>
@@ -18893,6 +18897,10 @@ Yazdır</translation>
     <message>
         <source>Options</source>
         <translation>Seçenekler</translation>
+    </message>
+    <message>
+        <source>Reset Shape and Size</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online TableStyle</source>
@@ -50303,11 +50311,11 @@ Try one or more of the following:
     </message>
     <message>
         <source>Delete entire &amp;row</source>
-        <translation type="unfinished"/>
+        <translation>Tüm satı&amp;rı sil</translation>
     </message>
     <message>
         <source>Delete entire &amp;column</source>
-        <translation type="unfinished"/>
+        <translation>Tüm sütu&amp;nu sil</translation>
     </message>
     <message>
         <source>Shift cells &amp;up</source>
