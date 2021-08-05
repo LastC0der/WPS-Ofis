@@ -2,6 +2,10 @@
 <context>
     <name>wps_field_parser_common</name>
     <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
@@ -18934,6 +18938,10 @@ zählen</translation>
     <message>
         <source>Options</source>
         <translation>Optionen</translation>
+    </message>
+    <message>
+        <source>Reset Shape and Size</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online TableStyle</source>
