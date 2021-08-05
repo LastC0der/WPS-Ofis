@@ -3341,8 +3341,28 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
         <translation>Gratis</translation>
     </message>
     <message>
+        <source>ADD or edit image in PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud Storage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Template Premium</source>
         <translation>Templat Premium</translation>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Files Repair</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlimited PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1GB Cloud Space</source>
@@ -3357,6 +3377,14 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
         <translation>10000+ aset</translation>
     </message>
     <message>
+        <source>Export picture without watermark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Ads</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Registered User</source>
         <translation>Pengguna Terdaftar</translation>
     </message>
@@ -3369,6 +3397,10 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
         <translation>Akses Gratis</translation>
     </message>
     <message>
+        <source>Picture to Text(OCR)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Premium</source>
         <translation>WPS Premium</translation>
     </message>
@@ -3377,7 +3409,27 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
         <translation>Gambar ke PDF</translation>
     </message>
     <message>
+        <source>Unlimited downloads of template, inforgraphics and more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Edit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More other Privileges</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export PDF in batch</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Buy Now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Correction fluid in PDF</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3395,6 +3447,18 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <message>
         <source>compare plans</source>
         <translation>Bandingkan paket</translation>
+    </message>
+    <message>
+        <source>Unlimited picture to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Basic Document Operations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Split/Merge</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a plan</source>
