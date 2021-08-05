@@ -2026,6 +2026,10 @@ Please batches operations</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The document is scanned, please edit it after conversion.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Confirm Delete</source>
         <translation>Confirmar para Eliminar</translation>
     </message>
@@ -9859,6 +9863,10 @@ Introduzir 1,6 significa extrair as páginas 1 e 6</translation>
         <translation>Marcadores Inválidos</translation>
     </message>
     <message>
+        <source>&amp;Comfirm</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Files (*.*)</source>
         <translation>Todos os Ficheiros (*.*)</translation>
     </message>
@@ -10643,6 +10651,10 @@ Páginas</translation>
     <message>
         <source>The document is unsigned or signature is unverified unrecognized</source>
         <translation>O documento não está assinado ou está assinado, mas não foi verificado/reconhecido</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
