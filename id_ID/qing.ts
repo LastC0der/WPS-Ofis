@@ -6595,6 +6595,13 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
 </context>
 <context>
+    <name>KUploadLimitBubbleP7Enterprise</name>
+    <message>
+        <source>upload file failed for exceeding %1</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KBasicSettingsPageWidget</name>
     <message>
         <source>Tips for transmission exceptions</source>
