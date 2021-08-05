@@ -2026,6 +2026,10 @@ Please batches operations</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The document is scanned, please edit it after conversion.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Confirm Delete</source>
         <translation>Konfirmasi untuk Hapus</translation>
     </message>
@@ -9860,6 +9864,10 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
         <translation>Penanda Tidak Valid</translation>
     </message>
     <message>
+        <source>&amp;Comfirm</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Files (*.*)</source>
         <translation>Semua File (*.*)</translation>
     </message>
@@ -10643,6 +10651,10 @@ Halaman</translation>
     <message>
         <source>The document is unsigned or signature is unverified unrecognized</source>
         <translation>Dokumen belum ditandatangani atau ditandatangani tapi belum diverifikasi/tidak dikenal</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
