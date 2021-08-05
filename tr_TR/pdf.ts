@@ -2025,6 +2025,10 @@ Please batches operations</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The document is scanned, please edit it after conversion.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Confirm Delete</source>
         <translation type="unfinished"/>
     </message>
@@ -9853,6 +9857,10 @@ input 1,6, means extract page 1 and 6</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>&amp;Comfirm</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Files (*.*)</source>
         <translation>Tüm Dosyalar (*.*)</translation>
     </message>
@@ -10634,6 +10642,10 @@ Navigation</source>
     </message>
     <message>
         <source>The document is unsigned or signature is unverified unrecognized</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signature</source>
         <translation type="unfinished"/>
     </message>
 </context>
