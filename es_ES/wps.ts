@@ -2,6 +2,10 @@
 <context>
     <name>wps_field_parser_common</name>
     <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Date</source>
         <translation>Fecha</translation>
     </message>
@@ -18960,6 +18964,10 @@ palabras</translation>
     <message>
         <source>Options</source>
         <translation>Opciones</translation>
+    </message>
+    <message>
+        <source>Reset Shape and Size</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online TableStyle</source>
