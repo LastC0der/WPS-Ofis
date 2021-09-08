@@ -94,6 +94,10 @@
         <translation>Tüm yeni sürümler</translation>
     </message>
     <message>
+        <source>Disable &amp;P2P transfer acceleration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Do not &amp;update automatically (not recommended)</source>
         <translation>Otomatik olarak &amp;güncelleme (önerilmez)</translation>
     </message>
@@ -115,10 +119,6 @@
     <message>
         <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
         <translation>WPS&apos;yi yeniden başlatmanız gerekir, veri kaybını önlemek için lütfen tüm dosyaları önceden kapatın</translation>
-    </message>
-    <message>
-        <source>Switching WPS 2019 to %1</source>
-        <translation>WPS 2019 %1 olarak değiştiriliyor</translation>
     </message>
     <message>
         <source>Please wait for swiching...</source>
@@ -164,12 +164,67 @@
         <source>Old Multi-Component Mode</source>
         <translation>2016 gibi Çok Bileşenli Mod</translation>
     </message>
+    <message>
+        <source>Switching WPS 2019 to %1</source>
+        <translation>WPS 2019 %1 olarak değiştiriliyor</translation>
+    </message>
 </context>
 <context>
     <name>DeleteAccountTipDlg</name>
     <message>
         <source>OK</source>
         <translation>Tamam</translation>
+    </message>
+    <message>
+        <source>Your WPS account information, identity information will be eliminated and cannot be recovered.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If you delete your account, your data will be irrevocably eliminate.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Documents saved in WPS Cloud will be eliminated and cannot be recovered.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>1, Go to &amp;quot;account.wps.com &amp;quot;. If you&apos;re not logged into WPS on the web, you&apos;ll be asked to log in first.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete Account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2, Click delete my account.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To delete your account:</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>EliminateDateDialog</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>I have understood the above risks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>After deleting the data, some documents may not be opened and some functions will not be available.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Are you sure to delete the data?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -198,12 +253,32 @@
         <translation>Tamam</translation>
     </message>
     <message>
+        <source>and</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
+        <source>I have read and agree with WPS Office</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kingsoft Pdf Configuration Tools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>License agreement</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Office Configuration Tools</source>
         <translation>WPS Office Yapılandırma Araçları</translation>
+    </message>
+    <message>
+        <source>Privacy policy</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -415,6 +490,10 @@ These operations can be undone. </source>
         <translation>Microsoft &amp;Excel Çalışma Kitapları (*.xls, *.xlt, *.xlsx files)</translation>
     </message>
     <message>
+        <source>&amp;OFD Files(*.ofd)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
         <translation type="unfinished"/>
     </message>
@@ -499,6 +578,11 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>WPS Office if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> WPS PDF not found
+</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1019,10 +1103,6 @@ These operations can be undone. </source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Disable online resource recommend.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>WPS is running under %1</source>
         <translation type="unfinished"/>
     </message>
@@ -1036,14 +1116,6 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>No Receive push messages (&amp;R)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide cloud shellext.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide vas shellext.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1063,14 +1135,6 @@ These operations can be undone. </source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Feature and resouce recommend:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Disable Scene recommend.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Clear WPS Cloud cache</source>
         <translation type="unfinished"/>
     </message>
@@ -1087,10 +1151,6 @@ These operations can be undone. </source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Shell extension:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot; &quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#444444;&quot;&gt;Switch to multi module mode&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot; &quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#444444;&quot;&gt;Çoklu modül moduna geç&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -1103,10 +1163,6 @@ These operations can be undone. </source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Disable template recommend.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Special options:</source>
         <translation>Özel seçenekler:</translation>
     </message>
@@ -1116,14 +1172,6 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Some files is in use, please save and close. Then try again.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Receive push messages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Subscribe &quot;WPS Today&quot;(&amp;M)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1194,6 +1242,10 @@ These operations can be undone. </source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Uninstall KingSoft PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Office Configuration Tools.lnk</source>
         <translation type="unfinished"/>
     </message>
@@ -1202,7 +1254,15 @@ These operations can be undone. </source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Repair KingSoft PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Configuration Tools.lnk</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kingsoft PDF Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1263,10 +1323,6 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Kingsoft PDF.lnk</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1398,6 +1454,10 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Kingsoft PDF Tools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>KS Yanshi.lnk</source>
         <translation type="unfinished"/>
     </message>
@@ -1425,12 +1485,47 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
         <source>WPS Writer.lnk</source>
         <translation type="unfinished"/>
     </message>
+</context>
+<context>
+    <name>QObject</name>
     <message>
-        <source>Pin to tas&amp;kbar</source>
+        <source>PPTX Presentation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unpin from tas&amp;kbar</source>
+        <source>New Presentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PPT Presentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Spreedsheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>XLS Worksheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DOCX Documentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>XLSX Worksheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RTF Documentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DOC Documentation</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1443,10 +1538,6 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     <message>
         <source>Content-based feature</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>View privacy policy</source>
-        <translation>Gizlilik ilkesini görüntüle</translation>
     </message>
     <message>
         <source>View Pirvacy Policy</source>
@@ -1488,6 +1579,26 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
         <source>To use &quot;Picture to Text&quot;, &quot;PDF to Word&quot; and &quot;Template Recommend&quot;, enable privacy settings</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>View privacy policy</source>
+        <translation>Gizlilik ilkesini görüntüle</translation>
+    </message>
+    <message>
+        <source>Agree Kingsoft Software Privacy Policy.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Agree upload document when converting PDF.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Agree upload document when using OCR tool.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can change the privacy settings:</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KPageApiCompKDEType</name>
@@ -1505,21 +1616,6 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Compatible with WPS Office 2013 of API</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QObject</name>
-    <message>
-        <source>New Presentation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>New Document</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>New Spreedsheet</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1582,6 +1678,10 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     <name>KFunctionCustomization</name>
     <message>
         <source>Disable online resource recommend.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Function Customization</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1718,6 +1818,37 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Note: After clicking the button above, the message will be closed automatically. If you have other requirements, please reopen the tab after the Repair Installation is completed.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KGdprConfig</name>
+    <message>
+        <source>View privacy policy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Application has been submitted, we will delete your data as quickly as possible.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Eliminate Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete Account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>End-User License Agreement</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Network error, please try again later.</source>
         <translation type="unfinished"/>
     </message>
 </context>
