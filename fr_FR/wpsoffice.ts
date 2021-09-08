@@ -3379,7 +3379,7 @@ Vérifiez le chemin et le nom du fichier.</translation>
     <name>KLogoutOverDevLimitDlg</name>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Personal Center - Online Devices</source>
@@ -3395,7 +3395,7 @@ Vérifiez le chemin et le nom du fichier.</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Commentaires</translation>
     </message>
 </context>
 <context>
@@ -8053,7 +8053,7 @@ Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
     <name>KQingSignOutForClearCacheNewDlg</name>
     <message>
         <source>To protect your data and privacy, if you quit, WPS will perform actions as follow:</source>
-        <translation type="unfinished"/>
+        <translation>Pour protéger vos données et votre confidentialité, si vous vous déconnectez, WPS effectuera les actions suivantes :</translation>
     </message>
     <message>
         <source>the files in cloud document cache will be cleared, please check and backup to avoid losing some important files</source>
@@ -8061,7 +8061,7 @@ Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>annuler</translation>
     </message>
     <message>
         <source>When you log in again, it will take a few more minutes to access files on cloud document</source>
@@ -8069,23 +8069,23 @@ Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
     </message>
     <message>
         <source>You can not access the modify record of cloud file when you log out. Clearing records will further protect you privacy</source>
-        <translation type="unfinished"/>
+        <translation>Vous ne pourrez plus voir l&apos;enregistrement d&apos;accès du document Cloud après vous être déconnecté, ce qui protège davantage votre confidentialité.</translation>
     </message>
     <message>
         <source>do not clear the datum</source>
-        <translation type="unfinished"/>
+        <translation>Ne pas effacer</translation>
     </message>
     <message>
         <source>Clear the user configuration information saved by the current device</source>
-        <translation type="unfinished"/>
+        <translation>Effacer les enregistrements des documents Cloud ouverts par l&apos;appareil actuel.</translation>
     </message>
     <message>
         <source>Confirm to quit the account</source>
-        <translation type="unfinished"/>
+        <translation>Êtes-vous sûr de vouloir vous déconnecter ?</translation>
     </message>
     <message>
         <source>continue sign out</source>
-        <translation type="unfinished"/>
+        <translation>Continuer la déconnexion</translation>
     </message>
 </context>
 <context>
