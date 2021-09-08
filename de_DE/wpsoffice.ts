@@ -8076,7 +8076,7 @@ Diese Datei wurde vermutlich umbenannt, gelöscht oder verschoben.</translation>
     </message>
     <message>
         <source>Clear the user configuration information saved by the current device</source>
-        <translation type="unfinished"/>
+        <translation>Löschen Sie die Cloud-Dokumentdatensätze, auf die vom aktuellen Gerät zugegriffen wird.</translation>
     </message>
     <message>
         <source>Confirm to quit the account</source>
