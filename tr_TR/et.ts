@@ -17291,7 +17291,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Duplicate Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen Sayfa</translation>
     </message>
     <message>
         <source>Rows and 
@@ -17575,7 +17575,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Move Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Taşı</translation>
     </message>
     <message>
         <source>More Rules</source>
@@ -18262,7 +18262,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Duplicate Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen Sayfa</translation>
     </message>
     <message>
         <source>table</source>
@@ -19533,7 +19533,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Move Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Taşı</translation>
     </message>
     <message>
         <source>Hide Sheet</source>
