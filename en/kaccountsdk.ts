@@ -39,6 +39,10 @@
         <translation></translation>
     </message>
     <message>
+        <source>DNS Setting</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Login tip</source>
         <translation></translation>
     </message>
@@ -859,6 +863,10 @@ Easy mobile office.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Retry</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Page load timeout,check you network and retry</source>
         <translation></translation>
     </message>
@@ -900,6 +908,10 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DNS Setting Document</source>
         <translation></translation>
     </message>
     <message>
@@ -1048,10 +1060,6 @@ Easy mobile office.</source>
 <context>
     <name>KLoginMainWindow</name>
     <message>
-        <source>Or</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Email</source>
         <translation></translation>
     </message>
@@ -1096,18 +1104,6 @@ Easy mobile office.</source>
         <translation></translation>
     </message>
     <message>
-        <source>Already have an account?</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Sign in with Email</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Account Login</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Server error</source>
         <translation></translation>
     </message>
@@ -1124,27 +1120,11 @@ Easy mobile office.</source>
         <translation></translation>
     </message>
     <message>
-        <source>Sign in with Facebook</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Sign in with Twitter</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Remember Me</source>
         <translation></translation>
     </message>
     <message>
-        <source>Sign in with Dropbox</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Unknown error!</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Sign up with Email</source>
         <translation></translation>
     </message>
     <message>
@@ -1196,15 +1176,7 @@ Easy mobile office.</source>
         <translation></translation>
     </message>
     <message>
-        <source>No account?</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>More safety with an account</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Sign Up</source>
         <translation></translation>
     </message>
     <message>
@@ -1224,11 +1196,19 @@ Easy mobile office.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Waiting...</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Invalid account</source>
         <translation></translation>
     </message>
     <message>
         <source>Continue with Email</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
         <translation></translation>
     </message>
     <message>
@@ -1269,6 +1249,42 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Login with third account</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Or</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Already have an account?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Account Login</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign in with Facebook</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign in with Twitter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign in with Dropbox</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign up with Email</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>No account?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign Up</source>
         <translation></translation>
     </message>
 </context>
@@ -1392,6 +1408,57 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Ctrl+F5</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkDnsErrDlg</name>
+    <message>
+        <source>The service is timeout. Please try again directly or refer to the </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Page load timeout,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Service timeout</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Network error,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>An error occurred,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DNS Settings document</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Page load failed,check you network and retry</source>
         <translation></translation>
     </message>
 </context>
