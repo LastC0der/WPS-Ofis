@@ -37,6 +37,10 @@
         <translation>Widget</translation>
     </message>
     <message>
+        <source>DNS Setting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Login tip</source>
         <translation>Anmeldehinweis</translation>
     </message>
@@ -866,6 +870,10 @@ Easy mobile office.</source>
         <translation>&lt;p&gt;Laden der Seite fehlgeschlagen. &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;Prüfen Sie Ihr Netzwerk&lt;/a&gt; und versuchen Sie es erneut&lt;/p&gt;</translation>
     </message>
     <message>
+        <source>Retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Page load timeout,check you network and retry</source>
         <translation>Zeitüberschreitung beim Laden der Seite. Prüfen Sie Ihr Netzwerk und versuchen Sie es erneut</translation>
     </message>
@@ -908,6 +916,10 @@ Easy mobile office.</source>
     <message>
         <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Synchronisieren der Anmeldeinfos fehlgeschlagen.&lt;br&gt;Prüfen Sie Ihr Netzwerk und versuchen Sie es erneut.&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;Wenn das Netzwerk in Ordnung ist,&lt;/a&gt; überprüfen Sie andere Ursachen.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>DNS Setting Document</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1055,10 +1067,6 @@ Easy mobile office.</source>
 <context>
     <name>KLoginMainWindow</name>
     <message>
-        <source>Or</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Email</source>
         <translation>E-Mail</translation>
     </message>
@@ -1103,18 +1111,6 @@ Easy mobile office.</source>
         <translation>Falsches Kennwort</translation>
     </message>
     <message>
-        <source>Already have an account?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Sign in with Email</source>
-        <translation>Mit E-Mail anmelden</translation>
-    </message>
-    <message>
-        <source>Account Login</source>
-        <translation>Konto Login</translation>
-    </message>
-    <message>
         <source>Server error</source>
         <translation>Serverfehler</translation>
     </message>
@@ -1131,28 +1127,12 @@ Easy mobile office.</source>
         <translation>Es gibt kein Konto für die eingegebene E-Mail-Adresse</translation>
     </message>
     <message>
-        <source>Sign in with Facebook</source>
-        <translation>Mit Facebook anmelden</translation>
-    </message>
-    <message>
-        <source>Sign in with Twitter</source>
-        <translation>Mit Twitter anmelden</translation>
-    </message>
-    <message>
         <source>Remember Me</source>
         <translation>Speichern</translation>
     </message>
     <message>
-        <source>Sign in with Dropbox</source>
-        <translation>Mit Dropbox anmelden</translation>
-    </message>
-    <message>
         <source>Unknown error!</source>
         <translation>Unbekannter Fehler.</translation>
-    </message>
-    <message>
-        <source>Sign up with Email</source>
-        <translation>Mit E-Mail anmelden</translation>
     </message>
     <message>
         <source>Continue with Google</source>
@@ -1203,16 +1183,8 @@ Easy mobile office.</source>
         <translation>Weiter mit Twitter</translation>
     </message>
     <message>
-        <source>No account?</source>
-        <translation>Kein Konto?</translation>
-    </message>
-    <message>
         <source>More safety with an account</source>
         <translation>Mehr Sicherheit mit einem Konto</translation>
-    </message>
-    <message>
-        <source>Sign Up</source>
-        <translation>Registrieren</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -1231,12 +1203,20 @@ Easy mobile office.</source>
         <translation>Benutzer nicht vorhanden</translation>
     </message>
     <message>
+        <source>Waiting...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Invalid account</source>
         <translation>Ungültiges Konto</translation>
     </message>
     <message>
         <source>Continue with Email</source>
         <translation>Weiter mit E-Mail</translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1277,6 +1257,42 @@ Easy mobile office.</source>
     <message>
         <source>Login with third account</source>
         <translation>Anmeldung mit drittem Konto</translation>
+    </message>
+    <message>
+        <source>Or</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Already have an account?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account Login</source>
+        <translation>Konto Login</translation>
+    </message>
+    <message>
+        <source>Sign in with Facebook</source>
+        <translation>Mit Facebook anmelden</translation>
+    </message>
+    <message>
+        <source>Sign in with Twitter</source>
+        <translation>Mit Twitter anmelden</translation>
+    </message>
+    <message>
+        <source>Sign in with Dropbox</source>
+        <translation>Mit Dropbox anmelden</translation>
+    </message>
+    <message>
+        <source>Sign up with Email</source>
+        <translation>Mit E-Mail anmelden</translation>
+    </message>
+    <message>
+        <source>No account?</source>
+        <translation>Kein Konto?</translation>
+    </message>
+    <message>
+        <source>Sign Up</source>
+        <translation>Registrieren</translation>
     </message>
 </context>
 <context>
@@ -1400,6 +1416,57 @@ Easy mobile office.</source>
     <message>
         <source>Ctrl+F5</source>
         <translation>Strg+F5</translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkDnsErrDlg</name>
+    <message>
+        <source>The service is timeout. Please try again directly or refer to the </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page load timeout,check you network and retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Service timeout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Network error,check you network and retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>An error occurred,check you network and retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DNS Settings document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page load failed,check you network and retry</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
