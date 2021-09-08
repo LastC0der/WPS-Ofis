@@ -1,5 +1,160 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="fr_FR" version="2.1">
 <context>
+    <name>KPreferencesWidget</name>
+    <message>
+        <source>(</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tab2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tab3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tab4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tab5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Source directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recovery options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Automatically switch the appearance with the system, restart the application to take effect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Menu bar:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please sign in, </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>In order to ensure the best appearance, please restart the application</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go Premium</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Language switch takes effect after restart. Please restart.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Documents browser:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File Locations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>When creating a new work area:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Follow system settings(language)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This setting takes effect after restart. Please restart.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud Sync</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Open backup file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save Exported PDF Files to:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>English (US)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save Converted PDF Files to:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chinese (Simplified)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QWidget</name>
     <message>
         <source>*</source>
@@ -379,6 +534,56 @@
     </message>
 </context>
 <context>
+    <name>KPrivacyPolicyDialog</name>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>and</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>License Agreements</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start Now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Privacy Policies</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KGDPRAgreementAskWidget</name>
+    <message>
+        <source>, </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Accept &amp;&amp; Continue</source>
+        <translation>Accepter et continuer</translation>
+    </message>
+    <message>
+        <source>To ensure that you understand your rights and responsibilities when using WPS, please click the link below to learn about the new terms of our updated agreement(s).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>End-User License Agreement</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exit WPS</source>
+        <translation>Quitter WPS</translation>
+    </message>
+</context>
+<context>
     <name>QPrintDialog</name>
     <message>
         <source>A0</source>
@@ -750,6 +955,10 @@ Veuillez choisir un nom de fichier différent.</translation>
         <translation>Nettoyez l&apos;espace Cloud.</translation>
     </message>
     <message>
+        <source>New version is available, please lookup cloudfile state.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>New version is available. Please refresh.</source>
         <translation>La nouvelle version est celle du cloud. Actualisez.</translation>
     </message>
@@ -814,6 +1023,10 @@ Veuillez choisir un nom de fichier différent.</translation>
         <translation>Téléchargement annulé, non enregistré dans le cloud</translation>
     </message>
     <message>
+        <source>File exceeds %1 upload limit.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Details and diagnosis</source>
         <translation>Détails et diagnostic</translation>
     </message>
@@ -828,6 +1041,10 @@ Veuillez choisir un nom de fichier différent.</translation>
     <message>
         <source>The document is saved locally, we supposed to change it to cloud file.</source>
         <translation>Le document est enregistré localement. Nous sommes censés l&apos;enregistrer dans WPS Cloud.</translation>
+    </message>
+    <message>
+        <source>Your WPS cloud space is full.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh File</source>
@@ -848,6 +1065,10 @@ Veuillez choisir un nom de fichier différent.</translation>
     <message>
         <source>Failed to connect to server</source>
         <translation>Échec de connecter au serveur</translation>
+    </message>
+    <message>
+        <source>Please save again</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -906,6 +1127,191 @@ Veuillez choisir un nom de fichier différent.</translation>
     <message>
         <source>Please check your network connection and try again.</source>
         <translation>Vérifiez votre connexion réseau et réessayez ultérieurement.</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeApplication</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1%2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>open</source>
+        <translation>Ouvrir</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS/Word Files</source>
+        <translation>Fichiers Word</translation>
+    </message>
+    <message>
+        <source>Web Pages</source>
+        <translation>Pages Web</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>Close forcefully can cause discard all not saved data.</source>
+        <translation>La fermeture forcée peut provoquer la perte des données non sauvegardées.</translation>
+    </message>
+    <message>
+        <source>Return</source>
+        <translation>Précédent</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <translation>Enregistrer sous</translation>
+    </message>
+    <message>
+        <source>Text Files</source>
+        <translation>Fichiers texte</translation>
+    </message>
+    <message>
+        <source>Ofd Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please close current document before you logout</source>
+        <translation>Ne pas fermer le document actuel avant la déconnexion</translation>
+    </message>
+    <message>
+        <source>Access Databases</source>
+        <translation>Accéder aux bases de données</translation>
+    </message>
+    <message>
+        <source>DBase Files</source>
+        <translation>Fichiers DBase</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Image Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close force</source>
+        <translation>Fermeture forcée</translation>
+    </message>
+    <message>
+        <source>Please close current document before you exit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pdf Files</source>
+        <translation>Fichiers PDF</translation>
+    </message>
+    <message>
+        <source>Rtf Files</source>
+        <translation>Fichiers RTF</translation>
+    </message>
+    <message>
+        <source>DIF Files</source>
+        <translation>Fichiers DIF</translation>
+    </message>
+    <message>
+        <source>Single Web Page Files</source>
+        <translation>Page Web à fichier unique</translation>
+    </message>
+    <message>
+        <source>ET/Excel Files</source>
+        <translation>Fichiers Excel</translation>
+    </message>
+    <message>
+        <source>Recorded and saved videos can be found here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query Files</source>
+        <translation>Fichiers de requête</translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <translation>Fichiers communs</translation>
+    </message>
+    <message>
+        <source>File must be uploaded to Cloud before sharing. Continue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ebook Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation>Fichiers XML</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>Tous les fichiers</translation>
+    </message>
+    <message>
+        <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
+        <translation>Impossible d&apos;exécuter la commande pendant l&apos;ouverture de la boîte de dialogue. Fermez la boîte de dialogue et réessayez.</translation>
+    </message>
+    <message>
+        <source>All Data Sources</source>
+        <translation>Toutes les sources de données</translation>
+    </message>
+    <message>
+        <source>WPP/PowerPoint Files</source>
+        <translation>Fichiers PowerPoint</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeCheckForUpdateDlg</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Network Error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Checking for update...</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KPromeGuideContentWidget</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -968,6 +1374,17 @@ Veuillez choisir un nom de fichier différent.</translation>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
         <translation>(Nom correspond au nom de l&apos;auteur et du réviseur du document)</translation>
+    </message>
+</context>
+<context>
+    <name>KStartupLanguageGuide</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keep existing settings</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1262,6 +1679,21 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     <message>
         <source>Cancel</source>
         <translation>Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaPromptDlg</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1606,6 +2038,41 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     </message>
 </context>
 <context>
+    <name>KPromeGradeDialog</name>
+    <message>
+        <source>No</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your opinion is really important! Please help us do better!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>What do you think of WPS Office for Mac?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You must have had a very angry experience! Please tell us, we will try to adjust!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We&apos;re so sorry to upset you.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>I like WPS Office!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How can we improve?</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QSql</name>
     <message>
         <source>No</source>
@@ -1646,6 +2113,13 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     <message>
         <source>Cancel your edits?</source>
         <translation>Annuler vos modifications ?</translation>
+    </message>
+</context>
+<context>
+    <name>KEnterpriseCustomerServiceDlg</name>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1812,6 +2286,37 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     <message>
         <source>Export to PostScript</source>
         <translation>Exporter vers PostScript</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeBundleDownloadProgress</name>
+    <message>
+        <source>%1s</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restart the software to complete the update.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Download failed, you need to download the installation package again.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2702,6 +3207,10 @@ Vérifiez le chemin et le nom du fichier.</translation>
         <translation>Presentation</translation>
     </message>
     <message>
+        <source>Login for Free</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Registered User</source>
         <translation>Utilisateur inscrit</translation>
     </message>
@@ -2710,12 +3219,93 @@ Vérifiez le chemin et le nom du fichier.</translation>
         <translation>Document</translation>
     </message>
     <message>
+        <source>Free Trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Premium</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Spreadsheets</source>
         <translation>Spreadsheets</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeSubPage</name>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mind Map</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Docer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Spreadsheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Flow Chart</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KDockMenu</name>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Blank Presentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Blank Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Blank Spreadsheets</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KPromeMainWindow</name>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please select the type of file you want to create</source>
+        <translation>Sélectionnez le type de fichier que vous souhaitez créer</translation>
+    </message>
+    <message>
+        <source>Blank Presentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Blank Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Blank Spreadsheets</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2786,6 +3376,29 @@ Vérifiez le chemin et le nom du fichier.</translation>
     </message>
 </context>
 <context>
+    <name>KLogoutOverDevLimitDlg</name>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Personal Center - Online Devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can resolve the issue by:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Account is already offline on the current device</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QInputContext</name>
     <message>
         <source>XIM</source>
@@ -2802,6 +3415,97 @@ Vérifiez le chemin et le nom du fichier.</translation>
     <message>
         <source>Mac OS X input method</source>
         <translation>Méthode d&apos;entrée Mac OS X</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudClipboardDialog</name>
+    <message>
+        <source>Yes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sync</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sync now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The copied item will have a mark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Connection failure</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>In the pause</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>I know</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open Now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud Clipboard</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Update Now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restore</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete Item</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recording</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Syncing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Retry now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud Clipboard</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next time</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2830,6 +3534,10 @@ Vérifiez le chemin et le nom du fichier.</translation>
         <translation>J&apos;accepte</translation>
     </message>
     <message>
+        <source>License Agreement</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Privacy Agreement</source>
         <translation>Politique de confidentialité</translation>
     </message>
@@ -2841,12 +3549,28 @@ Vérifiez le chemin et le nom du fichier.</translation>
         <translation>et</translation>
     </message>
     <message>
+        <source>Have read and agreed to Kingsoft Office Software</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>about:blank</source>
         <translation>à propos de:vide</translation>
     </message>
     <message>
+        <source>I &amp;Confirm</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>I &amp;Accept</source>
         <translation>J&apos;&amp;Accepte</translation>
+    </message>
+    <message>
+        <source>I &amp;Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kingsoft Office Software License Agreement and Privacy Agreement</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I &amp;Decline</source>
@@ -2855,6 +3579,10 @@ Vérifiez le chemin et le nom du fichier.</translation>
     <message>
         <source>Join the experience improvement plan</source>
         <translation>Rejoignez le Plan d&apos;amélioration du produit</translation>
+    </message>
+    <message>
+        <source>License Agreement</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Office End-User License Agreement</source>
@@ -2867,14 +3595,6 @@ Vérifiez le chemin et le nom du fichier.</translation>
     <message>
         <source>Privacy Agreement</source>
         <translation>Politique de confidentialité</translation>
-    </message>
-    <message>
-        <source>I &amp;Confirm</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>I &amp;Cancel</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3164,6 +3884,21 @@ Veuillez vérifier que le nom du fichier est correct.</translation>
     </message>
 </context>
 <context>
+    <name>KPreferencesHelpWidget</name>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To switch to dark mode, select Mac menu  &gt; System Preferences &gt; General &gt; Dark mode</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QDockWidget</name>
     <message>
         <source>Dock</source>
@@ -3341,11 +4076,15 @@ Veuillez vérifier que le nom du fichier est correct.</translation>
         <translation>Gratuite</translation>
     </message>
     <message>
-        <source>ADD or edit image in PDF</source>
+        <source>Change page order in PDF</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cloud Storage</source>
+        <source>Edit text in PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud storage</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3353,15 +4092,11 @@ Veuillez vérifier que le nom du fichier est correct.</translation>
         <translation>Modèle Premium</translation>
     </message>
     <message>
-        <source>PDF Compress</source>
+        <source>Online image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Files Repair</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unlimited PDF to Word/Excel/PPT</source>
+        <source>Online chart</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3377,16 +4112,24 @@ Veuillez vérifier que le nom du fichier est correct.</translation>
         <translation>+ de 10 000 ressources</translation>
     </message>
     <message>
-        <source>Export picture without watermark</source>
+        <source>Files repair</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>No Ads</source>
+        <source>Insert page number in PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No ads</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Registered User</source>
         <translation>Utilisateur inscrit</translation>
+    </message>
+    <message>
+        <source>Add color or picture background to the PDF page in bulk.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Office is a Cross-platform office suite with PDF Editor,Templates and other powerful tools.</source>
@@ -3397,7 +4140,11 @@ Veuillez vérifier que le nom du fichier est correct.</translation>
         <translation>Essayer gratuitement</translation>
     </message>
     <message>
-        <source>Picture to Text(OCR)</source>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Picture to text(OCR)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3405,31 +4152,19 @@ Veuillez vérifier que le nom du fichier est correct.</translation>
         <translation>WPS Premium</translation>
     </message>
     <message>
+        <source>Insert/extract pages in PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Picture to PDF</source>
         <translation>Image vers PDF</translation>
     </message>
     <message>
-        <source>Unlimited downloads of template, inforgraphics and more</source>
+        <source>Unlimited downloads of templates</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>PDF Edit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More other Privileges</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export PDF in batch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Buy Now</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Correction fluid in PDF</source>
+        <source>Insert signature in PDF</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3450,6 +4185,74 @@ gratuite pendant 7 jours</translation>
         <translation>Comparer les plans</translation>
     </message>
     <message>
+        <source>1000+ assets, fonts, info-graphics and more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert/edit/delete pictures in PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backup center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Choose a plan</source>
+        <translation>Choisir un plan</translation>
+    </message>
+    <message>
+        <source>ADD or edit image in PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud Storage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Files Repair</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlimited PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export picture without watermark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Ads</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Picture to Text(OCR)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlimited downloads of template, inforgraphics and more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Edit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More other Privileges</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export PDF in batch</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Correction fluid in PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Unlimited picture to PDF</source>
         <translation type="unfinished"/>
     </message>
@@ -3460,10 +4263,6 @@ gratuite pendant 7 jours</translation>
     <message>
         <source>PDF Split/Merge</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Choose a plan</source>
-        <translation>Choisir un plan</translation>
     </message>
 </context>
 <context>
@@ -3542,9 +4341,52 @@ gratuite pendant 7 jours</translation>
     </message>
 </context>
 <context>
+    <name>KPromeTab</name>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Cloud</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MyCenter</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Home</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Convert Presentation to Word document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Split selected PDF pages as a new separate document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export PDF to Picture or long picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export Presentation to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export Presentation to video(.ts)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert online Chart theme</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fully compatible with Microsoft Excel</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3556,7 +4398,19 @@ gratuite pendant 7 jours</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Split or Merge Documents</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Invalid URI: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fully compatible with Microsoft Office&apos;s document formats</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fully compatible with Microsoft PowerPoint</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3572,12 +4426,36 @@ gratuite pendant 7 jours</translation>
         <translation>60 jours</translation>
     </message>
     <message>
+        <source>Create a PDF from files, pictures or scanner</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share as a link for comments</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Read error reading from %1: %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export spreadsheets to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export document to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Translation</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>90 days</source>
         <translation>90 jours</translation>
+    </message>
+    <message>
+        <source>Compress and reduce the size of PDF documents</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remote host closed the connection prematurely on %1</source>
@@ -3701,6 +4579,20 @@ gratuite pendant 7 jours</translation>
     </message>
 </context>
 <context>
+    <name>KPromeDockRecentMenu</name>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KPromeDockStarMenu</name>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KPromeMoreMenuStandAloneWindowButton</name>
     <message>
         <source>More</source>
@@ -3797,6 +4689,45 @@ gratuite pendant 7 jours</translation>
     </message>
 </context>
 <context>
+    <name>KPreferencesShortcutWidget</name>
+    <message>
+        <source>Redo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Minimize Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Here are shortcuts you can use frequently</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show Previous Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Office shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show Next Window</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QUndoGroup</name>
     <message>
         <source>Redo</source>
@@ -3848,6 +4779,10 @@ gratuite pendant 7 jours</translation>
         <translation>Renommer</translation>
     </message>
     <message>
+        <source>transfer to my device</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Properties</source>
         <translation>Propriétés</translation>
     </message>
@@ -3893,113 +4828,6 @@ gratuite pendant 7 jours</translation>
     <message>
         <source>Update</source>
         <translation>Actualiser</translation>
-    </message>
-</context>
-<context>
-    <name>KPromeApplication</name>
-    <message>
-        <source>open</source>
-        <translation>Ouvrir</translation>
-    </message>
-    <message>
-        <source>WPS/Word Files</source>
-        <translation>Fichiers Word</translation>
-    </message>
-    <message>
-        <source>Web Pages</source>
-        <translation>Pages Web</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Annuler</translation>
-    </message>
-    <message>
-        <source>Close forcefully can cause discard all not saved data.</source>
-        <translation>La fermeture forcée peut provoquer la perte des données non sauvegardées.</translation>
-    </message>
-    <message>
-        <source>Return</source>
-        <translation>Précédent</translation>
-    </message>
-    <message>
-        <source>SaveAs</source>
-        <translation>Enregistrer sous</translation>
-    </message>
-    <message>
-        <source>Text Files</source>
-        <translation>Fichiers texte</translation>
-    </message>
-    <message>
-        <source>Please close current document before you logout</source>
-        <translation>Ne pas fermer le document actuel avant la déconnexion</translation>
-    </message>
-    <message>
-        <source>Access Databases</source>
-        <translation>Accéder aux bases de données</translation>
-    </message>
-    <message>
-        <source>DBase Files</source>
-        <translation>Fichiers DBase</translation>
-    </message>
-    <message>
-        <source>Close force</source>
-        <translation>Fermeture forcée</translation>
-    </message>
-    <message>
-        <source>Please close current document before you exit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pdf Files</source>
-        <translation>Fichiers PDF</translation>
-    </message>
-    <message>
-        <source>Rtf Files</source>
-        <translation>Fichiers RTF</translation>
-    </message>
-    <message>
-        <source>DIF Files</source>
-        <translation>Fichiers DIF</translation>
-    </message>
-    <message>
-        <source>Single Web Page Files</source>
-        <translation>Page Web à fichier unique</translation>
-    </message>
-    <message>
-        <source>ET/Excel Files</source>
-        <translation>Fichiers Excel</translation>
-    </message>
-    <message>
-        <source>Query Files</source>
-        <translation>Fichiers de requête</translation>
-    </message>
-    <message>
-        <source>Normal Files</source>
-        <translation>Fichiers communs</translation>
-    </message>
-    <message>
-        <source>Ebook Files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>XML Files</source>
-        <translation>Fichiers XML</translation>
-    </message>
-    <message>
-        <source>All Files</source>
-        <translation>Tous les fichiers</translation>
-    </message>
-    <message>
-        <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
-        <translation>Impossible d&apos;exécuter la commande pendant l&apos;ouverture de la boîte de dialogue. Fermez la boîte de dialogue et réessayez.</translation>
-    </message>
-    <message>
-        <source>All Data Sources</source>
-        <translation>Toutes les sources de données</translation>
-    </message>
-    <message>
-        <source>WPP/PowerPoint Files</source>
-        <translation>Fichiers PowerPoint</translation>
     </message>
 </context>
 <context>
@@ -6115,6 +6943,10 @@ en
         <translation>Vous pouvez également </translation>
     </message>
     <message>
+        <source>Download Failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The account is offline. Please login again</source>
         <translation>Le compte a été déconnecté. Reconnectez-vous</translation>
     </message>
@@ -6133,21 +6965,6 @@ en
     <message>
         <source>File not existed</source>
         <translation>Le fichier n&apos;existe pas</translation>
-    </message>
-</context>
-<context>
-    <name>KPromeTipGroup_XA</name>
-    <message>
-        <source>Share</source>
-        <translation>Partager</translation>
-    </message>
-    <message>
-        <source>Cloud backup</source>
-        <translation>Sauvegarde dans le cloud</translation>
-    </message>
-    <message>
-        <source>Local save:</source>
-        <translation>Enregistrement local :</translation>
     </message>
 </context>
 <context>
@@ -6346,6 +7163,10 @@ en
         <translation>Fermer</translation>
     </message>
     <message>
+        <source>Open this Window in a new workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>close other tabs</source>
         <translation>Fermer les autres onglets</translation>
     </message>
@@ -6531,12 +7352,27 @@ en
         <translation>Utilisateur Inscrit</translation>
     </message>
     <message>
+        <source>Go Premium</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Premium</source>
         <translation>WPS Premium</translation>
     </message>
     <message>
         <source>Expiry date</source>
         <translation>Heure d&apos;expiration</translation>
+    </message>
+</context>
+<context>
+    <name>KDownloadReplyDlg</name>
+    <message>
+        <source>Downloading the language, please wait...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Failed to download language,try again later.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6920,6 +7756,14 @@ have libgstreamer-plugins-base installed.</source>
         <translation>WPS Writer</translation>
     </message>
     <message>
+        <source>WPS Official Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Spreadsheets</source>
         <translation>WPS Spreadsheets</translation>
     </message>
@@ -7039,6 +7883,62 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
+    <name>KPromeNotFoundFileDlg</name>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation>Impossible d&apos;ouvrir « %1 ».
+Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
+        <translation>Impossible de trouver le dossier « %1 ». Il a peut-être été supprimé, déplacé ou renommé.</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeStartPageSubPage</name>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS et</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>StartPage</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS official document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS ofd</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS pdf</source>
+        <translation>WPS PDF</translation>
+    </message>
+    <message>
+        <source>WPS wpp</source>
+        <translation>Présentation WPS</translation>
+    </message>
+    <message>
+        <source>WPS wps</source>
+        <translation>WPS Writer</translation>
+    </message>
+</context>
+<context>
     <name>QHttp</name>
     <message>
         <source>Connection refused (or timed out)</source>
@@ -7147,6 +8047,45 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Request aborted</source>
         <translation>Requête interrompue</translation>
+    </message>
+</context>
+<context>
+    <name>KQingSignOutForClearCacheNewDlg</name>
+    <message>
+        <source>To protect your data and privacy, if you quit, WPS will perform actions as follow:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>the files in cloud document cache will be cleared, please check and backup to avoid losing some important files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>When you log in again, it will take a few more minutes to access files on cloud document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can not access the modify record of cloud file when you log out. Clearing records will further protect you privacy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>do not clear the datum</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear the user configuration information saved by the current device</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Confirm to quit the account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>continue sign out</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7396,13 +8335,6 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
-    <name>KPromeMainWindow</name>
-    <message>
-        <source>Please select the type of file you want to create</source>
-        <translation>Sélectionnez le type de fichier que vous souhaitez créer</translation>
-    </message>
-</context>
-<context>
     <name>QUnicodeControlCharacterMenu</name>
     <message>
         <source>RLE Start of right-to-left embedding</source>
@@ -7487,6 +8419,10 @@ have libgstreamer-plugins-base installed.</source>
         <translation>Vous pouvez également télécharger la langue dans Paramètres après avoir démarré WPS.</translation>
     </message>
     <message>
+        <source>Choose Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Initialization not completed</source>
         <translation>Initialisation non terminée</translation>
     </message>
@@ -7535,6 +8471,13 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
+    <name>KPromeHeaderVerInfo</name>
+    <message>
+        <source>Version Info</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QHttpSocketEngine</name>
     <message>
         <source>Proxy connection refused</source>
@@ -7578,6 +8521,10 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>&lt;p style=&quot;margion:20px;&quot;&gt;Language download finished, &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot;text-decoration:underline;color:#149dfb;&quot;&gt;Apply&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p style=&quot;margion:20px;&quot;&gt;Téléchargement de la langue terminé, &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot;text-decoration:underline;color:#149dfb;&quot;&gt;Appliquer&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>Choose Language</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;Language download failed, &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot;text-decoration:underline;color:#149dfb;&quot;&gt;Retry&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</source>
@@ -7631,6 +8578,13 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
+    <name>KLanguageChooseDialog</name>
+    <message>
+        <source>Choose Language</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QAbstractSpinBox</name>
     <message>
         <source>Step &amp;down</source>
@@ -7666,6 +8620,13 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>This document contains macros.</source>
         <translation>Ce document contient des macros.</translation>
+    </message>
+</context>
+<context>
+    <name>KFlowMindLoadingWidget</name>
+    <message>
+        <source>Loading webpage, please wait...</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7807,27 +8768,26 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
+    <name>KPromeAboutDlg</name>
+    <message>
+        <source>Copyright © 1988-2020 Kingsoft Office Corporation.
+All Rights Reserved.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check for Update</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Version </source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QMultiInputContext</name>
     <message>
         <source>Select IM</source>
         <translation>Sélectionner IM</translation>
-    </message>
-</context>
-<context>
-    <name>KPromeNotFoundFileDlg</name>
-    <message>
-        <source>Unable to open &quot;%1&quot;.
-This file may be renamed, deleted or moved.</source>
-        <translation>Impossible d&apos;ouvrir « %1 ».
-Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation>Impossible de trouver le dossier « %1 ». Il a peut-être été supprimé, déplacé ou renommé.</translation>
     </message>
 </context>
 <context>
@@ -8018,6 +8978,32 @@ Des fonctionnalités vidéo ont été desactivées.</translation>
     </message>
 </context>
 <context>
+    <name>KPromeTabBar</name>
+    <message>
+        <source>New Tab
+Swiftly create a blank tab of the same type with Command+N</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NewTab</source>
+        <translation>Nouvel onglet</translation>
+    </message>
+    <message>
+        <source>What&apos;s New</source>
+        <translation>Nouveautés</translation>
+    </message>
+    <message>
+        <source>Tab List</source>
+        <translation>Espace de travail</translation>
+    </message>
+    <message>
+        <source>New Tab
+Swiftly create a blank tab of the same type with Ctrl+N</source>
+        <translation>Nouvel onglet
+Créez un onglet vide avec la commande Ctrl+N</translation>
+    </message>
+</context>
+<context>
     <name>KPromeLoginTipWidget</name>
     <message>
         <source>Something abnormal happened to login model</source>
@@ -8126,6 +9112,36 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Multiple input method switcher</source>
         <translation>Sélectionneur de méthode de saisie</translation>
+    </message>
+</context>
+<context>
+    <name>KDefaultAppDialog</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KPromeBundleInstallDialog</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restart the software to complete the update.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8252,6 +9268,13 @@ Exit login panel will lead to exiting WPS 2019.</source>
     </message>
 </context>
 <context>
+    <name>KToolMainWindow</name>
+    <message>
+        <source>WPS Office Assistant</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MAC_APPLICATION_MENU</name>
     <message>
         <source>Hide Others</source>
@@ -8304,10 +9327,6 @@ p, li { white-space: pre-wrap; }
         <source>preview mode</source>
         <translation>Mode Aperçu</translation>
     </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sorry, your authorization has expired. A few but not all features of this software will remain available to you. Please contact your company&apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxDlgExpirationReminder</name>
@@ -8330,6 +9349,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>List of limited features in free version</source>
         <translation>Liste des fonctionnalités limitées de la version gratuite</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgExpirationReminderEnterpriseXa</name>
+    <message>
+        <source>WPS Office Expiration Reminder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8398,58 +9428,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KPromeTabBar</name>
-    <message>
-        <source>NewTab</source>
-        <translation>Nouvel onglet</translation>
-    </message>
-    <message>
-        <source>What&apos;s New</source>
-        <translation>Nouveautés</translation>
-    </message>
-    <message>
-        <source>Tab List</source>
-        <translation>Espace de travail</translation>
-    </message>
-    <message>
-        <source>New Tab
-Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>Nouvel onglet
-Créez un onglet vide avec la commande Ctrl+N</translation>
-    </message>
-</context>
-<context>
-    <name>KPromeStartPageSubPage</name>
-    <message>
-        <source>WPS et</source>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>StartPage</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>WPS pdf</source>
-        <translation>WPS PDF</translation>
-    </message>
-    <message>
-        <source>WPS wpp</source>
-        <translation>Présentation WPS</translation>
-    </message>
-    <message>
-        <source>WPS wps</source>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>WPS flow</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS mind</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>AudioOutput</name>
     <message>
         <source>&lt;html&gt;The audio playback device &lt;b&gt;%1&lt;/b&gt; does not work.&lt;br/&gt;Falling back to &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</source>
@@ -8473,6 +9451,10 @@ Créez un onglet vide avec la commande Ctrl+N</translation>
     <message>
         <source>online</source>
         <translation>En ligne</translation>
+    </message>
+    <message>
+        <source>guest account</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unlogin</source>
@@ -8535,6 +9517,21 @@ Créez un onglet vide avec la commande Ctrl+N</translation>
     </message>
 </context>
 <context>
+    <name>KPreferencesTabWidget</name>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File Locations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QPSQLResult</name>
     <message>
         <source>Unable to prepare statement</source>
@@ -8546,10 +9543,28 @@ Créez un onglet vide avec la commande Ctrl+N</translation>
     </message>
 </context>
 <context>
+    <name>KAfterSalesArrowWidget</name>
+    <message>
+        <source>WPS after-sales service</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KRateGuideDlg</name>
     <message>
         <source>Don&apos;t show again</source>
         <translation>Ne plus afficher</translation>
+    </message>
+    <message>
+        <source>Rate it</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KTristateWidget</name>
+    <message>
+        <source>reload</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8560,14 +9575,15 @@ Créez un onglet vide avec la commande Ctrl+N</translation>
     </message>
 </context>
 <context>
-    <name>KGDPRAgreementAskWidget</name>
+    <name>KForceLoginModalWidget</name>
     <message>
-        <source>Accept &amp;&amp; Continue</source>
-        <translation>Accepter et continuer</translation>
+        <source>No, thanks</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Exit WPS</source>
-        <translation>Quitter WPS</translation>
+        <source>
+Log in to enjoy more WPS Office editing functions and services.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8662,6 +9678,17 @@ Créez un onglet vide avec la commande Ctrl+N</translation>
     </message>
 </context>
 <context>
+    <name>KPromeGuestNoticeDlg</name>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation>Se connecter maintenant</translation>
+    </message>
+</context>
+<context>
     <name>Q3NetworkProtocol</name>
     <message>
         <source>Operation stopped by the user</source>
@@ -8682,6 +9709,10 @@ Créez un onglet vide avec la commande Ctrl+N</translation>
         <translation>Connexion au serveur impossible. Vérifiez votre réseau</translation>
     </message>
     <message>
+        <source>No access permissions, please contact Author to enable the access permission.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The account is offline. Please login again</source>
         <translation>Le compte est déconnecté. Connectez-vous</translation>
     </message>
@@ -8698,6 +9729,13 @@ Créez un onglet vide avec la commande Ctrl+N</translation>
     <message>
         <source>loading backup center,please wait...</source>
         <translation>chargement du centre de sauvegarde. Veuillez patienter…</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeCheckForUpdateMessageDlg</name>
+    <message>
+        <source>Update notes:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8733,6 +9771,17 @@ Créez un onglet vide avec la commande Ctrl+N</translation>
     </message>
 </context>
 <context>
+    <name>KLoadingtipsDefaultWidget</name>
+    <message>
+        <source>Official collaborative office software provider for Beijing 2022 Winter Olympic Games and winter Paralympic Games.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Press F1 in the doucument,can quickly find and solve office problems.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KPromeExportPDFCenterWidget</name>
     <message>
         <source>Creating Pdf file...</source>
@@ -8751,13 +9800,6 @@ Créez un onglet vide avec la commande Ctrl+N</translation>
     </message>
 </context>
 <context>
-    <name>KPromeGuestNoticeDlg</name>
-    <message>
-        <source>Login Now</source>
-        <translation>Se connecter maintenant</translation>
-    </message>
-</context>
-<context>
     <name>QTcpServer</name>
     <message>
         <source>Operation on socket is not supported</source>
@@ -8769,6 +9811,21 @@ Créez un onglet vide avec la commande Ctrl+N</translation>
     <message>
         <source>Refresh Stand Alone Window</source>
         <translation>Actualiser la fenêtre autonome</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeTipGroup_XA</name>
+    <message>
+        <source>Share</source>
+        <translation>Partager</translation>
+    </message>
+    <message>
+        <source>Cloud backup</source>
+        <translation>Sauvegarde dans le cloud</translation>
+    </message>
+    <message>
+        <source>Local save:</source>
+        <translation>Enregistrement local :</translation>
     </message>
 </context>
 </TS>
