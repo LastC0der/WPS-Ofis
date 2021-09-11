@@ -16771,7 +16771,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"/>
+        <translation>Değişikliği Reddet</translation>
     </message>
     <message>
         <source>Control Menu List</source>
@@ -18718,7 +18718,7 @@ Screen</source>
     </message>
     <message>
         <source>Custom Style</source>
-        <translation type="unfinished"/>
+        <translation>Özel Stil</translation>
     </message>
     <message>
         <source>Screen Grab Polygon</source>
@@ -22347,7 +22347,7 @@ Protection</source>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"/>
+        <translation>Değişikliği Reddet</translation>
     </message>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
@@ -25555,7 +25555,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Pagination</source>
-        <translation type="unfinished"/>
+        <translation>Sayfalandırma</translation>
     </message>
     <message>
         <source>Right</source>
@@ -34479,7 +34479,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"/>
+        <translation>Değişikliği Reddet</translation>
     </message>
     <message>
         <source>Delete 
@@ -36327,7 +36327,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Update Schema</source>
-        <translation type="unfinished"/>
+        <translation>Şemayı &amp;Güncelleştir</translation>
     </message>
     <message>
         <source>Schema Library</source>
@@ -41935,7 +41935,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Templates And AddIns...</source>
-        <translation type="unfinished"/>
+        <translation>Şablonlar ve Eklentiler...</translation>
     </message>
 </context>
 <context>
@@ -43586,7 +43586,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Envelope Options</source>
-        <translation type="unfinished"/>
+        <translation>Zarf Seçenekleri</translation>
     </message>
     <message>
         <source>&amp;Envelope Options</source>
@@ -52754,7 +52754,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"/>
+        <translation>Değişikliği Reddet</translation>
     </message>
     <message>
         <source>Reject Shown Changes in Document</source>
