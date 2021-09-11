@@ -11270,7 +11270,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>WPS Office activation is successful</source>
-        <translation>WPS Office etkinleştirmesi başarılı</translation>
+        <translation>WPS Ofis etkinleştirmesi başarılı</translation>
     </message>
 </context>
 <context>
