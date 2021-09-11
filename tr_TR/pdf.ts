@@ -222,11 +222,11 @@
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"/>
+        <translation>/</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>cm</source>
@@ -238,11 +238,11 @@
     </message>
     <message>
         <source>°</source>
-        <translation type="unfinished"/>
+        <translation>°</translation>
     </message>
     <message>
         <source>1000</source>
-        <translation type="unfinished"/>
+        <translation>1000</translation>
     </message>
     <message>
         <source>Pica</source>
@@ -590,7 +590,7 @@
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>None</source>
@@ -3096,7 +3096,7 @@ The operation is irrevocable</source>
     <name>KxPdfAfterScanDialogWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>selectScannar</source>
@@ -3115,7 +3115,7 @@ The operation is irrevocable</source>
     <name>KxPdfCustomSettingDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -4064,7 +4064,7 @@ log in to save changes?</source>
     <name>KxPdfMessageDialogBase</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>No</source>
@@ -4072,7 +4072,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -4109,7 +4109,7 @@ log in to save changes?</source>
     <name>KxPdfOcrExportFileWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Tips</source>
@@ -4580,7 +4580,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -5105,7 +5105,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>confirm</source>
@@ -5187,7 +5187,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfOutlineAttributeWidget</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Color</source>
@@ -5708,7 +5708,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Sentence Translation</source>
-        <translation type="unfinished"/>
+        <translation>Cümle Çevirisi</translation>
     </message>
     <message>
         <source>FloatSelectionTool</source>
@@ -6476,7 +6476,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>Çeviri</translation>
     </message>
     <message>
         <source>Page clockwise rotation</source>
@@ -8868,7 +8868,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Sentence Translation</source>
-        <translation type="unfinished"/>
+        <translation>Cümle Çevirisi</translation>
     </message>
     <message>
         <source>Output Voice</source>
@@ -8961,7 +8961,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>Çeviri</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
@@ -9774,7 +9774,7 @@ upgrade to WPS VIP?</source>
     <name>KxPdfPagePropertyDialogUi</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Ok(C)</source>
@@ -9797,7 +9797,7 @@ upgrade to WPS VIP?</source>
     <name>KxPdfProgressDialogWidget</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Saving file</source>
@@ -9808,7 +9808,7 @@ upgrade to WPS VIP?</source>
     <name>KxPdfPromoteUpVipDialogUi</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Text</source>
