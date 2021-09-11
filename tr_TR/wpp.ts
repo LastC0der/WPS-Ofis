@@ -577,7 +577,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Local backup</source>
-        <translation type="unfinished"/>
+        <translation>Yerel yedekleme</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File Path: CloudFile\MyDocument\AutoUpload&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -713,7 +713,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Backup mode:</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme modu:</translation>
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
@@ -933,7 +933,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Close Backup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yedeklemeyi Kapat</translation>
     </message>
     <message>
         <source>Set the document permission, only specify person can view or edit the document.</source>
@@ -19670,7 +19670,7 @@ Gösterileri</translation>
     </message>
     <message>
         <source>Auto&amp;Backup file location:</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik &amp;Yedekleme dosyası konumu:</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -19682,7 +19682,7 @@ Gösterileri</translation>
     </message>
     <message>
         <source>&amp;Auto Backup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>The password of the edit permission must be no longer than 15 characters.</source>
@@ -19714,7 +19714,7 @@ Gösterileri</translation>
     </message>
     <message>
         <source>&amp;Close Backup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yedeklemeyi Kapat</translation>
     </message>
     <message>
         <source>Customize Ribbon</source>
@@ -19726,7 +19726,7 @@ Gösterileri</translation>
     </message>
     <message>
         <source>&amp;Timing Backup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zamanlamalı Yedekleme</translation>
     </message>
 </context>
 <context>
