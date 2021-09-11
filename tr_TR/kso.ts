@@ -31628,7 +31628,7 @@ Document</source>
     </message>
     <message>
         <source>Please download and install VBA to allow all macros to run if needed. If you have installed VBA, please restart WPS Office.</source>
-        <translation type="unfinished"/>
+        <translation>Gerekirse tüm makroların çalışmasına izin vermek için lütfen VBA&apos;yı indirip yükleyin. VBA&apos;yı yüklediyseniz, lütfen WPS Ofis&apos;i yeniden başlatın.</translation>
     </message>
 </context>
 <context>
@@ -37988,7 +37988,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>VB Macros</source>
-        <translation type="unfinished"/>
+        <translation>VB Makroları</translation>
     </message>
     <message>
         <source>Prompt</source>
