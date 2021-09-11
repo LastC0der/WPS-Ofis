@@ -40541,7 +40541,7 @@ Center</source>
     </message>
     <message>
         <source>My WPS</source>
-        <translation type="unfinished"/>
+        <translation>Benim WPS</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
