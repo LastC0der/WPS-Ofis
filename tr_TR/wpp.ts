@@ -5902,7 +5902,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>*.dpt</source>
-        <translation type="unfinished"/>
+        <translation>*.dpt</translation>
     </message>
     <message>
         <source>*.pot</source>
