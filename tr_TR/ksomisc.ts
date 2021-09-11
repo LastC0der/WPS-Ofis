@@ -208,7 +208,7 @@
     <name>EliminateDateDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>I have understood the above risks</source>
@@ -216,7 +216,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>After deleting the data, some documents may not be opened and some functions will not be available.</source>
@@ -332,7 +332,7 @@
     </message>
     <message>
         <source>Clear WPS Cloud cache</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut önbelleğini temizle</translation>
     </message>
     <message>
         <source>WPS Cloud is working. Please exit at tray and continue.</source>
@@ -1112,7 +1112,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>WPS Office Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Bulut</translation>
     </message>
     <message>
         <source>No Receive push messages (&amp;R)</source>
@@ -1136,7 +1136,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Clear WPS Cloud cache</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut önbelleğini temizle</translation>
     </message>
     <message>
         <source>No Subscribe &quot;WPS Today&quot;(&amp;M)</source>
