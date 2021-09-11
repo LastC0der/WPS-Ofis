@@ -274,7 +274,7 @@
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
-        <translation>WPS Office Yapılandırma Araçları</translation>
+        <translation>WPS Ofis Yapılandırma Araçları</translation>
     </message>
     <message>
         <source>Privacy policy</source>
@@ -1369,7 +1369,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
-        <translation>WPS Office Yapılandırma Araçları</translation>
+        <translation>WPS Ofis Yapılandırma Araçları</translation>
     </message>
     <message>
         <source>Start &amp;Repairing</source>
@@ -1735,7 +1735,7 @@ Please use administrator account to relaunch &quot;Configuration Tools&quot;.</s
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
-        <translation>WPS Office Yapılandırma Araçları</translation>
+        <translation>WPS Ofis Yapılandırma Araçları</translation>
     </message>
 </context>
 <context>
