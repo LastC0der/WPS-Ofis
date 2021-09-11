@@ -23,7 +23,7 @@
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Welcome to WPS VIP family.</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Order Error</source>
@@ -277,7 +277,7 @@
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Order Error</source>
@@ -591,7 +591,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Adı</translation>
     </message>
     <message>
         <source>File Type</source>
@@ -808,7 +808,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Call 4006775005 to issue invoice.</source>
