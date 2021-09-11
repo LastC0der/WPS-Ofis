@@ -830,15 +830,15 @@ Please choose a different file name.</source>
     <name>KItemRenamingLineEditor</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Evet</translation>
     </message>
     <message>
         <source>filename cannot contains characters:</source>
@@ -862,7 +862,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Modify</source>
@@ -1025,7 +1025,7 @@ Please choose a different file name.</source>
     <name>KSmartSyncPreSaleTipDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -2295,7 +2295,7 @@ Please choose a different file name.</source>
     <name>KMigrateFileBubble</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Click to show</source>
@@ -2310,7 +2310,7 @@ Please choose a different file name.</source>
     <name>KSaveAsCloudUploadingDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -2318,7 +2318,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>A file with the same name exists in the current location</source>
@@ -2352,11 +2352,11 @@ Please choose a different file name.</source>
     <name>TempLoginOpenRoamingDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -4919,7 +4919,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>WPS Office Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Bulut</translation>
     </message>
     <message>
         <source>&amp;About</source>
@@ -4943,7 +4943,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Transfer Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aktarım Ayrıntıları</translation>
     </message>
 </context>
 <context>
@@ -9583,7 +9583,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>&amp;Transfer Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aktarım Ayrıntıları</translation>
     </message>
 </context>
 <context>
