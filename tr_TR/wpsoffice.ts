@@ -6763,7 +6763,7 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
     </message>
     <message>
         <source>Please download and install VBA to allow all macros to run if needed. If you have installed VBA, please restart WPS Office.</source>
-        <translation type="unfinished"/>
+        <translation>Gerekirse tüm makroların çalışmasına izin vermek için lütfen VBA&apos;yı indirip yükleyin. VBA&apos;yı yüklediyseniz, lütfen WPS Ofis&apos;i yeniden başlatın.</translation>
     </message>
 </context>
 <context>
