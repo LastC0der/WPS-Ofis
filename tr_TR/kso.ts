@@ -10319,7 +10319,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>* Unit:</source>
-        <translation type="unfinished"/>
+        <translation>* Birim:</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
@@ -10361,7 +10361,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KWinMessageContentDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Continue (&amp;C)</source>
@@ -10369,7 +10369,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>No (&amp;N)</source>
@@ -10620,11 +10620,11 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxChartTypeDialogClass_xa</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Current Chart Name</source>
@@ -10697,7 +10697,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxDlgNewOutwardDocDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Password Protection</source>
@@ -10705,7 +10705,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -10743,7 +10743,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxEndNoteHelper</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Download the latest version of the WPS EndNote plug-in. To insert and edit citations, download and install the latest version. Restart your EndNote software after installation.</source>
@@ -11454,7 +11454,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>KxVbaPromptDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -12152,7 +12152,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Document Translation</source>
-        <translation type="unfinished"/>
+        <translation>Belge Çevirisi</translation>
     </message>
     <message>
         <source>Overwrite file?</source>
@@ -16935,11 +16935,11 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Grant Permission</source>
-        <translation type="unfinished"/>
+        <translation>Yetkilendirme İzni</translation>
     </message>
     <message>
         <source>Grand Permission</source>
-        <translation type="unfinished"/>
+        <translation>Yetki Ver</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -26550,7 +26550,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Grant Permission</source>
-        <translation type="unfinished"/>
+        <translation>Yetkilendirme İzni</translation>
     </message>
     <message>
         <source>Department</source>
@@ -31112,7 +31112,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Grant Permission</source>
-        <translation type="unfinished"/>
+        <translation>Yetkilendirme İzni</translation>
     </message>
     <message>
         <source>Department</source>
@@ -33095,7 +33095,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Translation Unit</source>
-        <translation type="unfinished"/>
+        <translation>Çeviri Birimi</translation>
     </message>
     <message>
         <source>Translation by &amp;Character</source>
@@ -36286,7 +36286,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Grant Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzin Ver</translation>
     </message>
     <message>
         <source>User ID:</source>
@@ -36484,7 +36484,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Artistic Effects</source>
-        <translation type="unfinished"/>
+        <translation>Artistik Efektler</translation>
     </message>
 </context>
 <context>
