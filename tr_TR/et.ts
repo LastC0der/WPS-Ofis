@@ -8801,7 +8801,7 @@ Aktar</translation>
     </message>
     <message>
         <source>VB Macros</source>
-        <translation type="unfinished"/>
+        <translation>VB Makroları</translation>
     </message>
     <message>
         <source>Ref</source>
