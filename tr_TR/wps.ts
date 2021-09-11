@@ -21152,7 +21152,7 @@ Click to follow this link</source>
     </message>
     <message>
         <source>VB Macros</source>
-        <translation type="unfinished"/>
+        <translation>VB Makroları</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the beginning?</source>
