@@ -2657,7 +2657,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Local backup</source>
-        <translation type="unfinished"/>
+        <translation>Yerel yedekleme</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File Path: CloudFile\MyDocument\AutoUpload&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -3561,7 +3561,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Close Backup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yedeklemeyi Kapat</translation>
     </message>
     <message>
         <source>Set the document permission, only specify person can view or edit the document.</source>
@@ -7754,7 +7754,7 @@ use buttons to apply borders</source>
     <name>KAxOleObjectSite</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
@@ -8215,7 +8215,7 @@ use buttons to apply borders</source>
     <name>KxDlgWpsOfficialAddPageNumWarning</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>The number of templates reaches the upper limit</source>
@@ -8226,11 +8226,11 @@ use buttons to apply borders</source>
     <name>KxDlgWpsOfficialDelCustomPageNum</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -8248,7 +8248,7 @@ use buttons to apply borders</source>
     <name>KxEditCitationsDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Count</source>
@@ -8268,7 +8268,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Remove Citation</source>
@@ -8307,7 +8307,7 @@ use buttons to apply borders</source>
     <name>KxEndNoteHelper</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>warning</source>
@@ -15238,7 +15238,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Sentence Translation</source>
-        <translation type="unfinished"/>
+        <translation>Cümle Çevirisi</translation>
     </message>
     <message>
         <source>Hide Upper Limit</source>
@@ -18570,7 +18570,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>Çeviri</translation>
     </message>
     <message>
         <source>New Signature</source>
@@ -30326,7 +30326,7 @@ Pencere</translation>
     </message>
     <message>
         <source>&amp;Auto Backup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>The password of the edit permission must be no longer than 15 characters.</source>
@@ -30370,7 +30370,7 @@ Pencere</translation>
     </message>
     <message>
         <source>&amp;Close Backup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yedeklemeyi Kapat</translation>
     </message>
     <message>
         <source>Document path</source>
@@ -30390,7 +30390,7 @@ Pencere</translation>
     </message>
     <message>
         <source>&amp;Timing Backup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zamanlamalı Yedekleme</translation>
     </message>
 </context>
 <context>
@@ -32693,7 +32693,7 @@ Number</source>
     </message>
     <message>
         <source>Sentence Translation</source>
-        <translation type="unfinished"/>
+        <translation>Cümle Çevirisi</translation>
     </message>
     <message>
         <source>Output Voice</source>
@@ -32942,7 +32942,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>Çeviri</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
@@ -34467,7 +34467,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>Çeviri</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
@@ -52742,7 +52742,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>Çeviri</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
