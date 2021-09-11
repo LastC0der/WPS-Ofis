@@ -4261,11 +4261,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Move</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Taşı</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Boyut</translation>
     </message>
     <message>
         <source>Close</source>
@@ -5893,7 +5893,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Efektler</translation>
     </message>
     <message>
         <source>Stri&amp;keout</source>
