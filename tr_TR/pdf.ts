@@ -12159,7 +12159,7 @@ Pencere</translation>
     </message>
     <message>
         <source>customer service</source>
-        <translation type="unfinished"/>
+        <translation>Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Upgrade VIP failed, please try or contact customer service</source>
@@ -12178,7 +12178,7 @@ Pencere</translation>
     </message>
     <message>
         <source>customer service</source>
-        <translation type="unfinished"/>
+        <translation>Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Upgrade VIP failed, please try or contact customer service</source>
