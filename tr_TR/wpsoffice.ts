@@ -3,19 +3,19 @@
     <name>KPreferencesWidget</name>
     <message>
         <source>(</source>
-        <translation type="unfinished"/>
+        <translation>(</translation>
     </message>
     <message>
         <source>)</source>
-        <translation type="unfinished"/>
+        <translation>)</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -1129,11 +1129,11 @@ Please choose a different file name.</source>
     <name>KPromeApplication</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>WPS</source>
@@ -1141,7 +1141,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>%1%2</source>
-        <translation type="unfinished"/>
+        <translation>%1%2</translation>
     </message>
     <message>
         <source>open</source>
@@ -1284,11 +1284,11 @@ Please choose a different file name.</source>
     <name>KPromeCheckForUpdateDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -1307,7 +1307,7 @@ Please choose a different file name.</source>
     <name>KPromeGuideContentWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
@@ -1365,7 +1365,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>* Unit:</source>
-        <translation type="unfinished"/>
+        <translation>* Birim:</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
@@ -1376,7 +1376,7 @@ Please choose a different file name.</source>
     <name>KStartupLanguageGuide</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Keep existing settings</source>
@@ -1677,7 +1677,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>KxVbaPromptDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -2111,7 +2111,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>KEnterpriseCustomerServiceDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
@@ -4431,7 +4431,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Document Translation</source>
-        <translation type="unfinished"/>
+        <translation>Belge Çevirisi</translation>
     </message>
     <message>
         <source>90 days</source>
@@ -7886,7 +7886,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>StartPage</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis</translation>
     </message>
     <message>
         <source>WPS official document</source>
