@@ -6671,7 +6671,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Silver</source>
-        <translation type="unfinished"/>
+        <translation>Gümüş</translation>
     </message>
     <message>
         <source>Single</source>
@@ -6683,12 +6683,12 @@ Ekle</translation>
     </message>
     <message>
         <source>Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönünde</translation>
     </message>
     <message>
         <source>Explosion 1</source>
         <comment>DRAWING2_TOOLTIP_EXPLOSION_1</comment>
-        <translation type="unfinished"/>
+        <translation>Patlama 1</translation>
     </message>
     <message>
         <source>LargeCheckerBoard</source>
@@ -14542,11 +14542,11 @@ File: %s
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Adı</translation>
     </message>
     <message>
         <source>File Size</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Boyutu</translation>
     </message>
     <message>
         <source>File Type</source>
@@ -20517,7 +20517,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Silver</source>
-        <translation type="unfinished"/>
+        <translation>Gümüş</translation>
     </message>
     <message>
         <source>Spring</source>
@@ -25917,7 +25917,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Bronze</source>
-        <translation type="unfinished"/>
+        <translation>Bronz</translation>
     </message>
     <message>
         <source>Registered user</source>
@@ -25925,11 +25925,11 @@ Ortalama</translation>
     </message>
     <message>
         <source>Silver</source>
-        <translation type="unfinished"/>
+        <translation>Gümüş</translation>
     </message>
     <message>
         <source>Platina</source>
-        <translation type="unfinished"/>
+        <translation>Platin</translation>
     </message>
 </context>
 <context>
@@ -25952,11 +25952,11 @@ Ortalama</translation>
     </message>
     <message>
         <source>&amp;Move</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Taşı</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Boyut</translation>
     </message>
     <message>
         <source>Close</source>
@@ -26019,7 +26019,7 @@ Ortalama</translation>
     <name>KDocumentTranslateCommand</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>The document has password.</source>
@@ -26078,7 +26078,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Adı</translation>
     </message>
     <message>
         <source>File Type</source>
@@ -29435,7 +29435,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Efektler</translation>
     </message>
     <message>
         <source>Stri&amp;keout</source>
@@ -29781,7 +29781,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Adı</translation>
     </message>
     <message>
         <source>Apply Date</source>
@@ -39252,7 +39252,7 @@ Properties</source>
     <name>KxFormatProperty_Effects</name>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Efektler</translation>
     </message>
 </context>
 <context>
