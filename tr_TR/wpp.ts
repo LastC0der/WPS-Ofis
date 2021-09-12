@@ -202,7 +202,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Angle</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Açı</translation>
     </message>
     <message>
         <source>&amp;Color</source>
@@ -525,7 +525,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>General options</source>
-        <translation type="unfinished"/>
+        <translation>Genel seçenekler</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -645,7 +645,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>My WPS</source>
-        <translation type="unfinished"/>
+        <translation>Benim WPS</translation>
     </message>
     <message>
         <source>Online Templates(&amp;G)</source>
@@ -3401,7 +3401,7 @@ Check</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"/>
+        <translation>Eğri</translation>
     </message>
     <message>
         <source>Counterclockwise</source>
@@ -3997,7 +3997,7 @@ Check</source>
     </message>
     <message>
         <source>Add Effect</source>
-        <translation type="unfinished"/>
+        <translation>Efekt Ekle</translation>
     </message>
     <message>
         <source>To Bottom Left</source>
@@ -4229,7 +4229,7 @@ Check</source>
     </message>
     <message>
         <source>Teeter</source>
-        <translation type="unfinished"/>
+        <translation>Sallanma</translation>
     </message>
     <message>
         <source>Random Bars</source>
@@ -4490,7 +4490,7 @@ Check</source>
     </message>
     <message>
         <source>Right Triangle</source>
-        <translation type="unfinished"/>
+        <translation>Dik Üçgen</translation>
     </message>
     <message>
         <source>A4 Paper(210x297 mm)</source>
@@ -8373,7 +8373,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>Diagram</source>
@@ -10400,7 +10400,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Use Destination Theme</source>
-        <translation type="unfinished"/>
+        <translation>Hedef Temayı Kullan</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -10581,7 +10581,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Hizala</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -10989,7 +10989,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Hizala</translation>
     </message>
     <message>
         <source>Rotate all text 270°</source>
@@ -13002,7 +13002,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Use Destination Theme</source>
-        <translation type="unfinished"/>
+        <translation>Hedef Temayı Kullan</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -13179,7 +13179,7 @@ Template</source>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>Format Up Bars</source>
@@ -14008,7 +14008,7 @@ Master</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"/>
+        <translation>Eğri</translation>
     </message>
     <message>
         <source>Magic</source>
@@ -16035,7 +16035,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Yeni Özellikler</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -16465,7 +16465,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Use Destination Theme</source>
-        <translation type="unfinished"/>
+        <translation>Hedef Temayı Kullan</translation>
     </message>
     <message>
         <source>New Slide</source>
@@ -18808,7 +18808,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished"/>
+        <translation>Silgi</translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -19761,7 +19761,7 @@ Gösterileri</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"/>
+        <translation>Geçiş</translation>
     </message>
     <message>
         <source>Title Slide</source>
@@ -20726,7 +20726,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"/>
+        <translation>Tema</translation>
     </message>
     <message>
         <source>Smart Choice</source>
@@ -21022,7 +21022,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"/>
+        <translation>Eğri</translation>
     </message>
     <message>
         <source>Convert Object to Path</source>
@@ -21227,7 +21227,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>My WPS</source>
-        <translation type="unfinished"/>
+        <translation>Benim WPS</translation>
     </message>
     <message>
         <source>PDF To PPT</source>
@@ -21727,7 +21727,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -21953,7 +21953,7 @@ Comment</source>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Resume timer</source>
@@ -21961,7 +21961,7 @@ Comment</source>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished"/>
+        <translation>Silgi</translation>
     </message>
     <message>
         <source>Ink color</source>
@@ -23709,7 +23709,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -24182,7 +24182,7 @@ Animation</source>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"/>
+        <translation>Geçiş</translation>
     </message>
     <message>
         <source>Speed:</source>
@@ -25205,7 +25205,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>WPS Macro Editor</source>
@@ -29270,7 +29270,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Hizala</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -29758,7 +29758,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Use Destination Theme</source>
-        <translation type="unfinished"/>
+        <translation>Hedef Temayı Kullan</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -29908,7 +29908,7 @@ Slide</source>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Hizala</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -30187,7 +30187,7 @@ Slide</source>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Hizala</translation>
     </message>
     <message>
         <source>Text Effects</source>
@@ -30828,7 +30828,7 @@ Kapat</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Yeni Özellikler</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -31693,7 +31693,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"/>
+        <translation>Tema</translation>
     </message>
     <message>
         <source>Smart Choice</source>
@@ -33400,7 +33400,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"/>
+        <translation>Geçiş</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -33439,7 +33439,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>More Controls</source>
