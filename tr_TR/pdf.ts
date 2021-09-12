@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>Rhombus</source>
-        <translation type="unfinished"/>
+        <translation>Eşkenar Dörtgen</translation>
     </message>
     <message>
         <source>Open(Reverse)</source>
@@ -8900,7 +8900,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>ElectronicInvoicePrint</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik Fatura Yazdır</translation>
     </message>
     <message>
         <source>Xie De</source>
@@ -10403,7 +10403,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>Draw rectangle;draw square by holding Shift key</source>
@@ -13885,7 +13885,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfMemberUtil</name>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished"/>
+        <translation>Silgi</translation>
     </message>
     <message>
         <source>PageMove</source>
