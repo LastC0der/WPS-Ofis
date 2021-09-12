@@ -917,7 +917,7 @@
     </message>
     <message>
         <source>&amp;Angle</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Açı</translation>
     </message>
     <message>
         <source>&amp;Color</source>
@@ -4875,7 +4875,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"/>
+        <translation>Eğri</translation>
     </message>
     <message>
         <source>TextBox</source>
@@ -5534,7 +5534,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>Rectangle</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_RECTANGLE</comment>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>Flowchart: Delay</source>
@@ -5975,7 +5975,7 @@ Ekle</translation>
     <message>
         <source>Right Triangle</source>
         <comment>DRAWING2STR_RIGHT_TRIANGLE</comment>
-        <translation type="unfinished"/>
+        <translation>Dik Üçgen</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -7253,7 +7253,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Right Triangle</source>
-        <translation type="unfinished"/>
+        <translation>Dik Üçgen</translation>
     </message>
     <message>
         <source>Duplicate</source>
@@ -7444,7 +7444,7 @@ Line-type: %3</source>
     <message>
         <source>Rectangle</source>
         <comment>DRAWING2STR_RECTANGLE</comment>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>Flowchart: Predefined Process</source>
@@ -8127,7 +8127,7 @@ Line-type: %3</source>
     <message>
         <source>Rectangle</source>
         <comment>DRAWING2_TOOLTIP_RECTANGLE</comment>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>LightUpwardDiagonal</source>
@@ -8250,7 +8250,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>Striped Right Arrow</source>
@@ -8524,7 +8524,7 @@ Line-type: %3</source>
     <message>
         <source>Right Triangle</source>
         <comment>DRAWING2_TOOLTIP_RIGHT_TRIANGLE</comment>
-        <translation type="unfinished"/>
+        <translation>Dik Üçgen</translation>
     </message>
     <message>
         <source>Right Arrow</source>
@@ -19671,7 +19671,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Right Triangle</source>
-        <translation type="unfinished"/>
+        <translation>Dik Üçgen</translation>
     </message>
     <message>
         <source>Product</source>
