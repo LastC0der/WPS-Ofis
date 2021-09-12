@@ -1521,7 +1521,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>WPS Office activation is successful</source>
-        <translation>WPS Office etkinleştirmesi başarılı</translation>
+        <translation>WPS Ofis etkinleştirmesi başarılı</translation>
     </message>
 </context>
 <context>
