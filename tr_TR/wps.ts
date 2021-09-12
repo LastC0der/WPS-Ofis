@@ -2589,7 +2589,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>General options</source>
-        <translation type="unfinished"/>
+        <translation>Genel seçenekler</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -6229,7 +6229,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>General options</source>
-        <translation type="unfinished"/>
+        <translation>Genel seçenekler</translation>
     </message>
     <message>
         <source>(1-40)</source>
@@ -9641,7 +9641,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>In Line with Text</source>
@@ -13940,7 +13940,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Hizala</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -17379,7 +17379,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"/>
+        <translation>Eğri</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -24530,7 +24530,7 @@ Böl</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Yeni Özellikler</translation>
     </message>
     <message>
         <source>About WPS Writer</source>
@@ -24789,7 +24789,7 @@ Yönü</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Rengi</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -26476,7 +26476,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>Combo Box Content Control</source>
@@ -28838,7 +28838,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
@@ -28969,7 +28969,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
@@ -32440,7 +32440,7 @@ Number</source>
     </message>
     <message>
         <source>My WPS</source>
-        <translation type="unfinished"/>
+        <translation>Benim WPS</translation>
     </message>
     <message>
         <source>Proofread</source>
@@ -37667,7 +37667,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -48677,7 +48677,7 @@ Efektler</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Yeni Özellikler</translation>
     </message>
     <message>
         <source>About WPS Writer</source>
@@ -49538,7 +49538,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>Control List</source>
@@ -50734,7 +50734,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
