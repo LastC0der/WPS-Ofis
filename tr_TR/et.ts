@@ -7533,7 +7533,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the binary number you want to convert.</source>
-        <translation>dönüştürmek istediğiniz ikilik düzendeki sayı.</translation>
+        <translation>dönüştürmek istediğiniz ikilik düzendeki sayıdır.</translation>
     </message>
     <message>
         <source>Number From 1(Fri) To 7(Thur)</source>
@@ -8015,7 +8015,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is the angle in radians for which you want the cosine.</source>
-        <translation>kosinüs değerini almak istediğiniz radyan cinsinden açı.</translation>
+        <translation>kosinüs değerini almak istediğiniz radyan cinsinden açıdır.</translation>
     </message>
     <message>
         <source>Display_type</source>
@@ -9238,7 +9238,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the angle in radians that you want to convert.</source>
-        <translation>dönüştürmek istediğiniz radyan cinsinden açı.</translation>
+        <translation>dönüştürmek istediğiniz radyan cinsinden açıdır.</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -9652,7 +9652,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is an angle in degrees that you want to convert.</source>
-        <translation type="unfinished"/>
+        <translation>dönüştürmek istediğiniz derece cinsinden açıdır.</translation>
     </message>
     <message>
         <source>is the range or array of values to trim and average.</source>
@@ -18339,7 +18339,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -19759,7 +19759,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>WPS Office New Features</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Yeni Özellikler</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -26908,7 +26908,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="unfinished"/>
+        <translation>Eğri</translation>
     </message>
     <message>
         <source>Enter</source>
@@ -30703,7 +30703,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Yeni Özellikler</translation>
     </message>
     <message>
         <source>View Permissions</source>
@@ -34431,7 +34431,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -40561,7 +40561,7 @@ Center</source>
     </message>
     <message>
         <source>Invoice Maker</source>
-        <translation type="unfinished"/>
+        <translation>Fatura Oluşturucu</translation>
     </message>
     <message>
         <source>File Tools</source>
@@ -41890,7 +41890,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>Worksheet Menu Bar</source>
@@ -46875,7 +46875,7 @@ Değer: </translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>Control List</source>
@@ -55738,7 +55738,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Yeni Özellikler</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -59304,7 +59304,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>Control List</source>
