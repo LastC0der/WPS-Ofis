@@ -749,7 +749,7 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Are you sure to exit?</source>
-        <translation type="unfinished"/>
+        <translation>Yakin ingin keluar?</translation>
     </message>
     <message>
         <source>Transferring file . Exiting the program will terminate the transfer.</source>
@@ -833,63 +833,63 @@ Pilih nama file lain.</translation>
     <name>KItemRenamingLineEditor</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Tidak</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ya</translation>
     </message>
     <message>
         <source>filename cannot contains characters:</source>
-        <translation type="unfinished"/>
+        <translation>Nama file tidak boleh berisi karakter:</translation>
     </message>
     <message>
         <source>Duplicate Filenames</source>
-        <translation type="unfinished"/>
+        <translation>Nama File Duplikat</translation>
     </message>
     <message>
         <source>file-path&apos;s length is too long, please rename with a shorter one, or move the file to another location.</source>
-        <translation type="unfinished"/>
+        <translation>Jalur file terlalu panjang, silakan ganti nama, atau pindah ke lokasi lain.</translation>
     </message>
     <message>
         <source>filename&apos;s length is limited to %1 characters.</source>
-        <translation type="unfinished"/>
+        <translation>Panjang nama file dibatasi hingga %1 karakter.</translation>
     </message>
     <message>
         <source>Please rename with a shorter one</source>
-        <translation type="unfinished"/>
+        <translation>Silakan ganti nama dengan yang lebih pendek</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modifikasi</translation>
     </message>
     <message>
         <source>A file with the same name already exists in this location, please rename again</source>
-        <translation type="unfinished"/>
+        <translation>Nama tersebut sudah ada di lokasi ini, silakan ganti namanya</translation>
     </message>
     <message>
         <source>Filename cannot be empty</source>
-        <translation type="unfinished"/>
+        <translation>Nama file tidak boleh kosong</translation>
     </message>
     <message>
         <source>Modify File&apos;s Suffix</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Akhiran File</translation>
     </message>
     <message>
         <source>Filename&apos;s length is too long</source>
-        <translation type="unfinished"/>
+        <translation>Nama file terlalu panjang</translation>
     </message>
     <message>
         <source>filename cannot be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Nama file tidak boleh kosong.</translation>
     </message>
 </context>
 <context>
@@ -1028,11 +1028,11 @@ Pilih nama file lain.</translation>
     <name>KSmartSyncPreSaleTipDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Prompt</source>
-        <translation type="unfinished"/>
+        <translation>Perintah</translation>
     </message>
 </context>
 <context>
@@ -1059,11 +1059,11 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Go Premium to get more cloud storage</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium untuk mendapatkan lebih banyak penyimpanan Cloud.</translation>
     </message>
     <message>
         <source>Go Premium</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
     <message>
         <source>Cloud space %1 has been full</source>
@@ -1649,7 +1649,7 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Continue to delete</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan menghapus</translation>
     </message>
     <message>
         <source>Upload failed. The directory has been deleted. Please save the file to another directory.</source>
@@ -1813,7 +1813,7 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Move file succeed</source>
-        <translation type="unfinished"/>
+        <translation>Pemindahan file berhasil</translation>
     </message>
     <message>
         <source>Server callback fail</source>
@@ -1821,11 +1821,11 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan tidak dikenal</translation>
     </message>
     <message>
         <source>Copy file succeed</source>
-        <translation type="unfinished"/>
+        <translation>Penyalinan file berhasil</translation>
     </message>
     <message>
         <source>We are uploading file for you.</source>
@@ -1921,7 +1921,7 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>file exceeds 1 GB</source>
-        <translation type="unfinished"/>
+        <translation>file melebihi 1GB</translation>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
@@ -2083,7 +2083,7 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Are you sure to exit?</source>
-        <translation type="unfinished"/>
+        <translation>Yakin ingin keluar?</translation>
     </message>
 </context>
 <context>
@@ -2298,7 +2298,7 @@ Pilih nama file lain.</translation>
     <name>KMigrateFileBubble</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Click to show</source>
@@ -2313,15 +2313,15 @@ Pilih nama file lain.</translation>
     <name>KSaveAsCloudUploadingDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Coba lagi</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>A file with the same name exists in the current location</source>
@@ -2337,7 +2337,7 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengunggah</translation>
     </message>
     <message>
         <source>Create a copy</source>
@@ -2355,11 +2355,11 @@ Pilih nama file lain.</translation>
     <name>TempLoginOpenRoamingDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -2412,7 +2412,7 @@ Pilih nama file lain.</translation>
     <name>KUploadLimitBubble</name>
     <message>
         <source>QQ</source>
-        <translation type="unfinished"/>
+        <translation>QQ</translation>
     </message>
     <message>
         <source>Continue sync</source>
@@ -2436,15 +2436,15 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Unduh</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Desktop</translation>
     </message>
     <message>
         <source>Cancel sync</source>
@@ -2467,11 +2467,11 @@ Pilih nama file lain.</translation>
     <name>KDrag2ImDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>link</source>
-        <translation type="unfinished"/>
+        <translation>Tautan</translation>
     </message>
     <message>
         <source>MM-dd</source>
@@ -2483,7 +2483,7 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Yesterday </source>
@@ -3227,7 +3227,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Cloud Backup</source>
-        <translation type="unfinished"/>
+        <translation>Pencadangan Awan</translation>
     </message>
     <message>
         <source>Share</source>
@@ -3247,7 +3247,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Share Folder</source>
-        <translation type="unfinished"/>
+        <translation>Bagi</translation>
     </message>
     <message>
         <source>Roaming Document</source>
@@ -3275,19 +3275,19 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>My Device</source>
-        <translation type="unfinished"/>
+        <translation>Perangkat Saya</translation>
     </message>
     <message>
         <source>Document Roaming</source>
-        <translation type="unfinished"/>
+        <translation>File Terbaru</translation>
     </message>
     <message>
         <source>Cloud Team Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen Cloud Team</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Share With Me</source>
@@ -3303,7 +3303,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Desktop Backup</source>
-        <translation type="unfinished"/>
+        <translation>Pencadangan Desktop</translation>
     </message>
     <message>
         <source>QQ Received Backup</source>
@@ -3311,7 +3311,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Share Link</source>
-        <translation type="unfinished"/>
+        <translation>Bagikan Tautan</translation>
     </message>
     <message>
         <source>Documents Issued</source>
@@ -3319,15 +3319,15 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Auto Upload Document</source>
-        <translation type="unfinished"/>
+        <translation>Unggah Otomatis Dokumen</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Desktop</translation>
     </message>
     <message>
         <source>My Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Desktop Saya</translation>
     </message>
     <message>
         <source>My Cloud</source>
@@ -3343,7 +3343,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Pencadangan Otomatis</translation>
     </message>
     <message>
         <source>My Download Backup</source>
@@ -5299,7 +5299,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>File does not exist</source>
-        <translation type="unfinished"/>
+        <translation>File tidak ada</translation>
     </message>
 </context>
 <context>
@@ -6923,7 +6923,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Choose folder</source>
-        <translation type="unfinished"/>
+        <translation>Pilih folder</translation>
     </message>
 </context>
 <context>
@@ -6960,63 +6960,63 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <name>KSyncFolderUploadLimitBubble</name>
     <message>
         <source>%1 files, %2</source>
-        <translation type="unfinished"/>
+        <translation> %1 file, %2</translation>
     </message>
     <message>
         <source>WPS cloud space is full, unable to synchronize temporarily</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat menyinkronkan sekarang karena ruang WPS Cloud penuh.</translation>
     </message>
     <message>
         <source>WPS Cloud Service %1</source>
-        <translation type="unfinished"/>
+        <translation>Layanan WPS Cloud %1</translation>
     </message>
     <message>
         <source> and so on %1 files</source>
-        <translation type="unfinished"/>
+        <translation> dan %1 file</translation>
     </message>
     <message>
         <source>View detail</source>
-        <translation type="unfinished"/>
+        <translation>Lihat Detail</translation>
     </message>
     <message>
         <source>,Upgrade members can continue to synchronize</source>
-        <translation type="unfinished"/>
+        <translation>, Anggota yang melakukan pembaruan dapat melanjutkan sinkronisasi</translation>
     </message>
     <message>
         <source>Upgrade Vip</source>
-        <translation type="unfinished"/>
+        <translation>Jadi Premium</translation>
     </message>
     <message>
         <source>Come from %1</source>
-        <translation type="unfinished"/>
+        <translation>dari %1</translation>
     </message>
     <message>
         <source>-deskTopSync</source>
-        <translation type="unfinished"/>
+        <translation> - Sinkronisasi Desktop Cloud</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1, unable to synchronize temporarily</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat menyinkronkan sekarang karena file yang diunggah melebihi limit %1.</translation>
     </message>
     <message>
         <source>total%1</source>
-        <translation type="unfinished"/>
+        <translation>total %1</translation>
     </message>
     <message>
         <source>Over 1GB</source>
-        <translation type="unfinished"/>
+        <translation>Lebih dari 1 GB</translation>
     </message>
     <message>
         <source>The Directory has</source>
-        <translation type="unfinished"/>
+        <translation>Folder berisi</translation>
     </message>
     <message>
         <source>The Desktop has</source>
-        <translation type="unfinished"/>
+        <translation>Desktop berisi</translation>
     </message>
     <message>
         <source>-localSyncFolder</source>
-        <translation type="unfinished"/>
+        <translation> - Sinkronkan Folder</translation>
     </message>
 </context>
 <context>
@@ -7417,7 +7417,7 @@ hingga
     </message>
     <message>
         <source>local</source>
-        <translation type="unfinished"/>
+        <translation>Perangkat saat ini</translation>
     </message>
     <message>
         <source>Continue to sync</source>
@@ -7425,7 +7425,7 @@ hingga
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -7557,7 +7557,7 @@ hingga
     </message>
     <message>
         <source>Go Premium to continue uploading</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium untuk melanjutkan pengunggahan.</translation>
     </message>
     <message>
         <source>Cancel Upload</source>
@@ -7565,7 +7565,7 @@ hingga
     </message>
     <message>
         <source>upgrade super vip for upload exceeding file</source>
-        <translation type="unfinished"/>
+        <translation>tingkatkan super vip untuk mengunggah file berlebih</translation>
     </message>
     <message>
         <source>WPS Cloud File</source>
@@ -7591,7 +7591,7 @@ hingga
     <name>KCloudDiskInitGuideDlg</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Coba lagi</translation>
     </message>
     <message>
         <source>Failed to load, please</source>
@@ -7602,19 +7602,19 @@ hingga
     <name>LinkErrorWidget</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Coba lagi</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Link attachment creation failed, please try again</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membuat tautan lampiran. Coba lagi.</translation>
     </message>
     <message>
         <source>Creation failed</source>
-        <translation type="unfinished"/>
+        <translation>Gagal dibuat.</translation>
     </message>
 </context>
 <context>
@@ -8719,7 +8719,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Go Premium to get more cloud storage</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium untuk mendapatkan lebih banyak penyimpanan Cloud.</translation>
     </message>
     <message>
         <source>Your WPS Cloud space is running out</source>
@@ -8731,11 +8731,11 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Remaining Cloud storage is less than </source>
-        <translation type="unfinished"/>
+        <translation>Penyimpanan Cloud yang tersisa kurang dari </translation>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>File WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -8768,7 +8768,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     <name>KVipStateTipsBubble</name>
     <message>
         <source>Upgrade to VIP</source>
-        <translation type="unfinished"/>
+        <translation>Jadi Premium</translation>
     </message>
     <message>
         <source>WPS cloud service</source>
@@ -8776,7 +8776,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Use skill</source>
@@ -8791,7 +8791,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modifikasi</translation>
     </message>
 </context>
 <context>
@@ -9086,7 +9086,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Historical versions of documents saved to the cloud are automatically saved after modification</source>
-        <translation type="unfinished"/>
+        <translation>Versi riwayat secara otomatis akan disimpan ke WPS Cloud.</translation>
     </message>
     <message>
         <source>After opening, the modification record of the document will be kept, and you can restore any version with one click.</source>
@@ -9157,39 +9157,39 @@ telah menginstal libgstreamer-plugins-base.</translation>
     <name>KSaveAsCloudDlg20</name>
     <message>
         <source>AttachmentLink</source>
-        <translation type="unfinished"/>
+        <translation>Tautkan Lampiran</translation>
     </message>
     <message>
         <source>select location&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Pilih lokasi &gt;</translation>
     </message>
     <message>
         <source>&apos;s cloud space</source>
-        <translation type="unfinished"/>
+        <translation>ruang penyimpanan Cloud</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Upload location</source>
-        <translation type="unfinished"/>
+        <translation>Lokasi Unggah</translation>
     </message>
     <message>
         <source>My cloud documents</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen Cloud Saya</translation>
     </message>
     <message>
         <source>Upload to the cloud</source>
-        <translation type="unfinished"/>
+        <translation>Unggah ke Cloud</translation>
     </message>
     <message>
         <source>Shared folder</source>
-        <translation type="unfinished"/>
+        <translation>Folder Berbagi</translation>
     </message>
     <message>
         <source>Kingsoft Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen WPS</translation>
     </message>
 </context>
 <context>
@@ -9330,7 +9330,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -9364,7 +9364,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Batch download is VIP privilege, please upgrade to VIP.</source>
@@ -9372,7 +9372,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>please upgrade vip</source>
-        <translation type="unfinished"/>
+        <translation>harap tingkatkan vip</translation>
     </message>
     <message>
         <source>Upgrade VIP, the count of batch download can upgrade to %1 at most</source>
@@ -9395,15 +9395,15 @@ telah menginstal libgstreamer-plugins-base.</translation>
     <name>KPayGuideWidgetMgr</name>
     <message>
         <source>Cancel download</source>
-        <translation type="unfinished"/>
+        <translation>Batalkan unduh</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>The number of members of the Shared folder has reached its maximum</source>
@@ -9725,11 +9725,11 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Tingkatkan VIP</translation>
     </message>
 </context>
 <context>
@@ -9762,7 +9762,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Mengerti</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
@@ -9774,7 +9774,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengunggah</translation>
     </message>
     <message>
         <source>Manage cloud storage space</source>
@@ -9860,19 +9860,19 @@ telah menginstal libgstreamer-plugins-base.</translation>
     <name>KSpaceFullEarlyWarningBubbleXa</name>
     <message>
         <source>Go Premium to get more cloud storage</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium untuk mendapatkan lebih banyak penyimpanan Cloud.</translation>
     </message>
     <message>
         <source>Go Premium</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
     <message>
         <source>Remaining Cloud storage is less than </source>
-        <translation type="unfinished"/>
+        <translation>Penyimpanan Cloud yang tersisa kurang dari </translation>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>File WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -9980,22 +9980,22 @@ telah menginstal libgstreamer-plugins-base.</translation>
     <name>KCloudMsgBoxBase</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Ensure</source>
-        <translation type="unfinished"/>
+        <translation>Pasti</translation>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen WPS Cloud</translation>
     </message>
 </context>
 <context>
     <name>KOverlayIconRepairWidget</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Repair file synchronization status</source>
@@ -10003,7 +10003,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Mengerti</translation>
     </message>
     <message>
         <source>Fix now</source>
@@ -10035,7 +10035,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     <name>KSyncFolderSuccessWidget</name>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Mengerti</translation>
     </message>
 </context>
 <context>
@@ -10209,7 +10209,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi</translation>
     </message>
 </context>
 <context>
@@ -10310,7 +10310,7 @@ Waktu untuk peningkatan: %1</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
-        <translation type="unfinished"/>
+        <translation>pengunggahan file gagal karena melebihi %1M {1?}</translation>
     </message>
     <message>
         <source>Come from %1</source>
@@ -10318,7 +10318,7 @@ Waktu untuk peningkatan: %1</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi</translation>
     </message>
 </context>
 <context>
@@ -10477,7 +10477,7 @@ Waktu untuk peningkatan: %1</translation>
     <name>KShortcutSettingsWidget</name>
     <message>
         <source>Desktop Search</source>
-        <translation type="unfinished"/>
+        <translation>Pencarian Desktop</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -10531,7 +10531,7 @@ Waktu untuk peningkatan: %1</translation>
     <name>KWpsRadioButton</name>
     <message>
         <source>Recommand</source>
-        <translation type="unfinished"/>
+        <translation>Direkomendasikan</translation>
     </message>
 </context>
 <context>
