@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Больше</translation>
     </message>
     <message>
         <source>Subtituted font</source>
@@ -515,7 +515,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Keep cache for 90 &amp;days</source>
-        <translation type="unfinished"/>
+        <translation>Хранение в течение 90 д&amp;ней</translation>
     </message>
     <message>
         <source>Automatically download and update language packages</source>
@@ -567,7 +567,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Kee&amp;p cache for 30 days</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Хранение в течение 30 дней</translation>
     </message>
     <message>
         <source>&amp;End with black slide</source>
@@ -595,7 +595,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;минуты</translation>
     </message>
     <message>
         <source>minutes</source>
@@ -747,7 +747,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Backup files cache:</source>
-        <translation type="unfinished"/>
+        <translation>Период хранения:</translation>
     </message>
     <message>
         <source>Language</source>
@@ -791,7 +791,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Clear local backup cache</source>
-        <translation type="unfinished"/>
+        <translation>Уд&amp;алить локальную резервную копию</translation>
     </message>
     <message>
         <source>&amp;Adjust title text by placeholder automatically</source>
@@ -807,7 +807,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Compatibility options</source>
-        <translation type="unfinished"/>
+        <translation>Параметры совместимости</translation>
     </message>
     <message>
         <source>Slide show</source>
@@ -831,7 +831,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Cloud Sync</source>
-        <translation type="unfinished"/>
+        <translation>Cloud Sync</translation>
     </message>
     <message>
         <source>View Clo&amp;ud backup</source>
@@ -859,7 +859,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"/>
+        <translation>Кнопка &quot;Дополнительно&quot; позволяет выбрать тип шифрования.</translation>
     </message>
     <message>
         <source>Status &amp;bar</source>
@@ -879,7 +879,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>View &amp;local backup</source>
-        <translation type="unfinished"/>
+        <translation>Просмотреть &amp;локальную резервную версию</translation>
     </message>
     <message>
         <source>Apply when typing</source>
@@ -971,7 +971,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation type="unfinished"/>
+        <translation>После&amp;дние использованные файлы:</translation>
     </message>
     <message>
         <source>Please keep the password properly, once forgotten, it can not be restored.</source>
@@ -1861,7 +1861,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Table Eraser</source>
-        <translation type="unfinished"/>
+        <translation>Ластик для таблицы</translation>
     </message>
     <message>
         <source>MPEG-4 Video(*.mp4)|*.mp4</source>
@@ -2542,11 +2542,11 @@ Check</source>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать таблицу</translation>
     </message>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"/>
+        <translation>Границы</translation>
     </message>
     <message>
         <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
@@ -2701,7 +2701,7 @@ Check</source>
     </message>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.mp4;*.m4v;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob;*.webm)</source>
-        <translation type="unfinished"/>
+        <translation>Файлы фильмов (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.mp4;*.m4v;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob;*.webm)</translation>
     </message>
     <message>
         <source>Normal Files</source>
@@ -2709,7 +2709,7 @@ Check</source>
     </message>
     <message>
         <source>Slide(From Outline)</source>
-        <translation type="unfinished"/>
+        <translation>Слайд (импорт из структуры) </translation>
     </message>
     <message>
         <source>Collapse Section</source>
@@ -2721,7 +2721,7 @@ Check</source>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.ppt)|*.ppt</source>
-        <translation type="unfinished"/>
+        <translation>Формат защищенного в Интернете документа WPS (*.ppt)|*.ppt</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -2903,7 +2903,7 @@ Check</source>
     </message>
     <message>
         <source>WebM Video File(*.webm)</source>
-        <translation type="unfinished"/>
+        <translation>WebM Video File (*.webm)</translation>
     </message>
     <message>
         <source>Single Web Page Files(*.mht; *.mhtml)</source>
@@ -3099,7 +3099,7 @@ Check</source>
     </message>
     <message>
         <source>Equation Options</source>
-        <translation type="unfinished"/>
+        <translation>Параметры формул</translation>
     </message>
 </context>
 <context>
@@ -3559,7 +3559,7 @@ Check</source>
     </message>
     <message>
         <source>Animation loss</source>
-        <translation type="unfinished"/>
+        <translation>Некоторые эффекты анимации будут потеряны.</translation>
     </message>
     <message>
         <source>Inverted Triangle</source>
@@ -3657,7 +3657,7 @@ Check</source>
     </message>
     <message>
         <source>Section loss</source>
-        <translation type="unfinished"/>
+        <translation>Слайды больше не будут сгруппированы по разделам.</translation>
     </message>
     <message>
         <source>Change Font Size</source>
@@ -3781,7 +3781,7 @@ Check</source>
     </message>
     <message>
         <source>Data uneditable when using older app version:</source>
-        <translation type="unfinished"/>
+        <translation>Данные были изменены, и их нельзя редактировать в более ранней версии.</translation>
     </message>
     <message>
         <source>Slide %d</source>
@@ -3827,7 +3827,7 @@ Check</source>
     </message>
     <message>
         <source>Check potential data loss in slides</source>
-        <translation type="unfinished"/>
+        <translation>Просмотр затронутых слайдов</translation>
     </message>
     <message>
         <source>Light Speed</source>
@@ -3844,7 +3844,7 @@ Check</source>
     </message>
     <message>
         <source>Data loss:</source>
-        <translation type="unfinished"/>
+        <translation>Потеря данных:</translation>
     </message>
     <message>
         <source>Wedge</source>
@@ -3865,7 +3865,7 @@ Check</source>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation type="unfinished"/>
+        <translation>WPSArt</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -3995,7 +3995,7 @@ Check</source>
     </message>
     <message>
         <source>Strokethrough text</source>
-        <translation type="unfinished"/>
+        <translation>Содержит текст с одинарным или двойным зачеркиванием.</translation>
     </message>
     <message>
         <source>Hide on Next Click</source>
@@ -4109,7 +4109,7 @@ Check</source>
     </message>
     <message>
         <source>Master</source>
-        <translation type="unfinished"/>
+        <translation>Образец</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -4121,7 +4121,7 @@ Check</source>
     </message>
     <message>
         <source>Potential data loss in slides:</source>
-        <translation type="unfinished"/>
+        <translation>Могут быть утеряны следующие данные:</translation>
     </message>
     <message>
         <source>Custom Show %d</source>
@@ -4428,7 +4428,7 @@ Check</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"/>
+        <translation>Формулы</translation>
     </message>
     <message>
         <source>English(U.S.)</source>
@@ -4441,7 +4441,7 @@ Check</source>
     </message>
     <message>
         <source>Disabled audio or video</source>
-        <translation type="unfinished"/>
+        <translation>Звук или видео могут быть отключены.</translation>
     </message>
     <message>
         <source>A3 Paper(297x420 mm)</source>
@@ -4957,7 +4957,7 @@ Check</source>
     </message>
     <message>
         <source>Paragraphs of 6 to 9 levels</source>
-        <translation type="unfinished"/>
+        <translation>Абзацы уровней 6–9</translation>
     </message>
     <message>
         <source>Change Line Color</source>
@@ -4990,7 +4990,7 @@ Check</source>
     </message>
     <message>
         <source>If you save this file in current format, you may not be able to change certain data inside. We recommend you to save as pptx.</source>
-        <translation type="unfinished"/>
+        <translation>Данные в документе могут быть изменены в текущем формате. Рекомендуем сохранить их в формате PPTX.</translation>
     </message>
     <message>
         <source>Modify Exit Effect</source>
@@ -5102,7 +5102,7 @@ Check</source>
     </message>
     <message>
         <source>Vertical text</source>
-        <translation type="unfinished"/>
+        <translation>Вертикальный текст</translation>
     </message>
     <message>
         <source>Slide Sorter View</source>
@@ -5159,7 +5159,7 @@ Check</source>
     <message>
         <source>Cancel</source>
         <comment>wpp_sIgnore</comment>
-        <translation type="unfinished"/>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Stretchy</source>
@@ -5268,7 +5268,7 @@ Check</source>
     </message>
     <message>
         <source>In the %s Show</source>
-        <translation type="unfinished"/>
+        <translation>Презентация WPS в %s</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
@@ -5296,7 +5296,7 @@ Check</source>
     </message>
     <message>
         <source>Save pptx</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить как PPTX</translation>
     </message>
     <message>
         <source>Custom Animation</source>
@@ -5498,11 +5498,11 @@ Check</source>
     </message>
     <message>
         <source>Slide transition loss</source>
-        <translation type="unfinished"/>
+        <translation>Некоторые эффекты перехода будут потеряны.</translation>
     </message>
     <message>
         <source>Uneditable images (QR code, etc.)</source>
-        <translation type="unfinished"/>
+        <translation>Функциональные схемы (QR-код и т. д.) изменить нельзя.</translation>
     </message>
     <message>
         <source>&amp;Two Spin</source>
@@ -5597,7 +5597,8 @@ Check</source>
     <message>
         <source>Pictures, text, shapes, or tables with these effects:
 fill, shadow, reflection, glow, soft edge, 3D rotation, transfer</source>
-        <translation type="unfinished"/>
+        <translation>Изображения, тексты, фигуры или таблицы со следующими эффектами:
+заливка, тень, отражение, подсветка, сглаживание, трехмерный поворот, перенос</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
@@ -5609,7 +5610,7 @@ fill, shadow, reflection, glow, soft edge, 3D rotation, transfer</source>
     </message>
     <message>
         <source>Recommended to save as pptx</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить как PPTX</translation>
     </message>
     <message>
         <source>From &amp;Left</source>
@@ -6296,7 +6297,7 @@ To continue saving as a macro-free workbook, click Yes.
     </message>
     <message>
         <source>Delete All Notes</source>
-        <translation type="unfinished"/>
+        <translation>Удалить все заметки</translation>
     </message>
     <message>
         <source>Slide Transition: Wipe Down
@@ -7214,7 +7215,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Delete Note In Current Slide</source>
-        <translation type="unfinished"/>
+        <translation>Удалить заметку на текущем слайде</translation>
     </message>
     <message>
         <source>Light Style 3 - Accent 1</source>
@@ -8004,7 +8005,7 @@ Body: Spinner</source>
     </message>
     <message>
         <source>The media clips in this version of WPS Presentation will be lost (slide %1)</source>
-        <translation>Клипы мультимедиа в данной версии WPS Presentation будут потеряны (слайд %1)</translation>
+        <translation>Клипы мультимедиа в этой версии презентации WPS будут утеряны (слайд %1)</translation>
     </message>
     <message>
         <source>Slide %1:</source>
@@ -9034,7 +9035,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Local Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Локальное текстовое поле</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -10119,7 +10120,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Reuse Slides</source>
-        <translation type="unfinished"/>
+        <translation>Повторно использовать слайды</translation>
     </message>
     <message>
         <source>Align</source>
@@ -10415,7 +10416,7 @@ Effects</source>
     </message>
     <message>
         <source>MoreSmartArt</source>
-        <translation type="unfinished"/>
+        <translation>Больше SmartArt</translation>
     </message>
     <message>
         <source>Center Vertically</source>
@@ -10515,7 +10516,7 @@ Effects</source>
     </message>
     <message>
         <source>Local Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Локальное текстовое поле</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -10593,7 +10594,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide(From Outline)</source>
-        <translation type="unfinished"/>
+        <translation>Слайд (импорт из структуры) </translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -10676,7 +10677,7 @@ Effects</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"/>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>Align Font</source>
@@ -10732,7 +10733,7 @@ Effects</source>
     </message>
     <message>
         <source>ConvertToSmartArt</source>
-        <translation type="unfinished"/>
+        <translation>Преобразовать в SmartArt</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
@@ -10748,7 +10749,7 @@ Effects</source>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Текстовое поле шаблона</translation>
     </message>
 </context>
 <context>
@@ -10819,7 +10820,7 @@ Effects</source>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation type="unfinished"/>
+        <translation>Стили фигуры</translation>
     </message>
     <message>
         <source>Right</source>
@@ -10843,7 +10844,7 @@ Effects</source>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="unfinished"/>
+        <translation>Эффекты фигур</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -10935,7 +10936,7 @@ Effects</source>
     </message>
     <message>
         <source>3-D Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Поворот объемной фигуры</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -10943,15 +10944,15 @@ Effects</source>
     </message>
     <message>
         <source>Soft Edges</source>
-        <translation type="unfinished"/>
+        <translation>Сглаживание</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="unfinished"/>
+        <translation>Заливка фигуры</translation>
     </message>
     <message>
         <source>Shape Line</source>
-        <translation type="unfinished"/>
+        <translation>Линия фигуры</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -11007,7 +11008,7 @@ Effects</source>
     </message>
     <message>
         <source>Local Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Локальное текстовое поле</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -11141,7 +11142,7 @@ Effects</source>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Текстовое поле шаблона</translation>
     </message>
 </context>
 <context>
@@ -12105,7 +12106,7 @@ Effects</source>
     </message>
     <message>
         <source>Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Рамка изображения</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -12141,7 +12142,7 @@ Effects</source>
     </message>
     <message>
         <source>Change to Stack Fraction</source>
-        <translation type="unfinished"/>
+        <translation>Изменить на вертикальную простую дробь</translation>
     </message>
     <message>
         <source>Background</source>
@@ -12790,7 +12791,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>SpotLight</source>
-        <translation type="unfinished"/>
+        <translation>Полезная информация</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -13031,7 +13032,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>LaserPen</source>
-        <translation type="unfinished"/>
+        <translation>Лазерная указка</translation>
     </message>
     <message>
         <source>Master Layout</source>
@@ -13310,7 +13311,7 @@ Template</source>
     </message>
     <message>
         <source>Slide(From Outline)</source>
-        <translation type="unfinished"/>
+        <translation>Слайд (импорт из структуры) </translation>
     </message>
     <message>
         <source>More DesignTemplates</source>
@@ -13818,7 +13819,7 @@ Master</source>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"/>
+        <translation>Лупа</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -13830,7 +13831,7 @@ Master</source>
     </message>
     <message>
         <source>Extract Text in Picture</source>
-        <translation type="unfinished"/>
+        <translation>Извлечь текст из изображения</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
@@ -14193,7 +14194,7 @@ Master</source>
     </message>
     <message>
         <source>document authentication</source>
-        <translation type="unfinished"/>
+        <translation>Проверка подлинности документа</translation>
     </message>
     <message>
         <source>NewChart TrendLine Label</source>
@@ -14242,7 +14243,7 @@ Master</source>
     </message>
     <message>
         <source>No authentication status</source>
-        <translation type="unfinished"/>
+        <translation>Нет статуса проверки подлинности</translation>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -14327,7 +14328,7 @@ Slide</source>
     </message>
     <message>
         <source>Highlighter</source>
-        <translation type="unfinished"/>
+        <translation>Маркер</translation>
     </message>
     <message>
         <source>IconLibrary</source>
@@ -14367,7 +14368,7 @@ Slide</source>
     </message>
     <message>
         <source>More Options</source>
-        <translation type="unfinished"/>
+        <translation>Дополнительные параметры</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -14411,7 +14412,7 @@ Slide</source>
     </message>
     <message>
         <source>Complete symbol</source>
-        <translation type="unfinished"/>
+        <translation>Символы</translation>
     </message>
     <message>
         <source>Note</source>
@@ -14433,7 +14434,7 @@ Slide</source>
     </message>
     <message>
         <source>PDF to Excel</source>
-        <translation type="unfinished"/>
+        <translation>PDF в Excel</translation>
     </message>
     <message>
         <source>NewChart ChartTitle</source>
@@ -14630,7 +14631,7 @@ Slide</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Текст в речь</translation>
     </message>
     <message>
         <source>Switch to next window</source>
@@ -14666,7 +14667,7 @@ Slide</source>
     </message>
     <message>
         <source>Reset Shape and Size</source>
-        <translation type="unfinished"/>
+        <translation>Сброс параметров формы и размера</translation>
     </message>
     <message>
         <source>Online TableStyle</source>
@@ -14682,11 +14683,11 @@ Slide</source>
     </message>
     <message>
         <source>SpotLight</source>
-        <translation type="unfinished"/>
+        <translation>Полезная информация</translation>
     </message>
     <message>
         <source>Backup Settings</source>
-        <translation type="unfinished"/>
+        <translation>Параметры резервного копирования</translation>
     </message>
     <message>
         <source>MoreOutline</source>
@@ -14795,7 +14796,7 @@ Slide</source>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF в PPT</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation Template</source>
@@ -14831,7 +14832,7 @@ Slide</source>
     </message>
     <message>
         <source>ChemistryEquation</source>
-        <translation type="unfinished"/>
+        <translation>Набор инструментов для рисования химических формул</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
@@ -14855,7 +14856,7 @@ Slide</source>
     </message>
     <message>
         <source>LaserPen</source>
-        <translation type="unfinished"/>
+        <translation>Лазерная указка</translation>
     </message>
     <message>
         <source>Play Back</source>
@@ -14952,7 +14953,7 @@ Slide</source>
     </message>
     <message>
         <source>InsertLatex</source>
-        <translation type="unfinished"/>
+        <translation>Вставить LaTex</translation>
     </message>
     <message>
         <source>ShortSymbol</source>
@@ -14964,7 +14965,7 @@ Slide</source>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="unfinished"/>
+        <translation>Средство презентации</translation>
     </message>
     <message>
         <source>Rotate Mode</source>
@@ -15041,7 +15042,7 @@ Slide</source>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF в Word</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -15169,7 +15170,7 @@ Slide</source>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Извлечь</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -15197,7 +15198,7 @@ Slide</source>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Пакетное извлечение</translation>
     </message>
     <message>
         <source>New 
@@ -15243,7 +15244,7 @@ Comment</source>
     </message>
     <message>
         <source>Insert New Equation</source>
-        <translation type="unfinished"/>
+        <translation>Вставить новое уравнение</translation>
     </message>
     <message>
         <source>NewChart Axis</source>
@@ -15295,7 +15296,7 @@ Comment</source>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"/>
+        <translation>Лупа</translation>
     </message>
     <message>
         <source>MoreFontOutline</source>
@@ -16145,7 +16146,7 @@ On/Off</source>
     </message>
     <message>
         <source>Report File</source>
-        <translation type="unfinished"/>
+        <translation>Файл отчета</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
@@ -16675,7 +16676,7 @@ On/Off</source>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Извлечь</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -16707,7 +16708,7 @@ On/Off</source>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Пакетное извлечение</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
@@ -16769,7 +16770,7 @@ On/Off</source>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Текстовое поле шаблона</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -16848,7 +16849,7 @@ On/Off</source>
     </message>
     <message>
         <source>Online Chart</source>
-        <translation type="unfinished"/>
+        <translation>Онлайн-диаграмма</translation>
     </message>
     <message>
         <source>Linear Forecast</source>
@@ -17968,7 +17969,7 @@ Shape</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -18039,7 +18040,7 @@ Shape</source>
     </message>
     <message>
         <source>Resource Shop</source>
-        <translation type="unfinished"/>
+        <translation>Магазин ресурсов</translation>
     </message>
     <message>
         <source>SendBackward</source>
@@ -18125,7 +18126,7 @@ Shape</source>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Linux Version</comment>
-        <translation type="unfinished"/>
+        <translation>Служба поддержки WPS</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -18326,7 +18327,7 @@ Shape</source>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Windows Version</comment>
-        <translation type="unfinished"/>
+        <translation>Служба поддержки WPS</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -18422,7 +18423,7 @@ Shape</source>
     </message>
     <message>
         <source>Manager Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Панель задач управления</translation>
     </message>
     <message>
         <source>Text Tool</source>
@@ -18927,7 +18928,7 @@ Shape</source>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="unfinished"/>
+        <translation>Ластик</translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -18981,7 +18982,7 @@ Table Style</source>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать таблицу</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -19130,7 +19131,7 @@ Table Style</source>
     </message>
     <message>
         <source>Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Рамка изображения</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -19314,7 +19315,7 @@ Table Style</source>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Изображение в PDF</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
@@ -19488,7 +19489,7 @@ Size</source>
     </message>
     <message>
         <source>Translate Image</source>
-        <translation type="unfinished"/>
+        <translation>Преобразовать изображение</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
@@ -19798,7 +19799,7 @@ Slide Shows</source>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished"/>
+        <translation>Пароль и его подтверждение не совпадают.</translation>
     </message>
     <message>
         <source>Two password inconsistencies</source>
@@ -19830,7 +19831,7 @@ Slide Shows</source>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Центр резервного копирования</translation>
     </message>
     <message>
         <source>Please do not upload secret files to Cloud.</source>
@@ -20298,7 +20299,7 @@ Cells</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"/>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -21300,7 +21301,7 @@ Cells</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Шрифты из Интернета</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -21324,7 +21325,7 @@ Cells</source>
     </message>
     <message>
         <source>Screen Recording</source>
-        <translation type="unfinished"/>
+        <translation>Средство записи экрана</translation>
     </message>
     <message>
         <source>PDF To Excel</source>
@@ -21797,11 +21798,11 @@ the presentation file directly.You can put it with the presentation file in the 
     <name>KxWppSpotLightTriggerItem</name>
     <message>
         <source>Mask</source>
-        <translation type="unfinished"/>
+        <translation>Свернуть в заголовок</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Размер</translation>
     </message>
 </context>
 <context>
@@ -21891,7 +21892,7 @@ Sorter</source>
     </message>
     <message>
         <source>Local Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Локальное текстовое поле</translation>
     </message>
     <message>
         <source>Presentation View</source>
@@ -21982,7 +21983,7 @@ Comment</source>
     </message>
     <message>
         <source>Player Capture</source>
-        <translation type="unfinished"/>
+        <translation>Запись проигрывателя</translation>
     </message>
     <message>
         <source>Slide Show Settings</source>
@@ -22031,15 +22032,15 @@ Comment</source>
     </message>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Больше</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"/>
+        <translation>Управление мобильным телефоном</translation>
     </message>
     <message>
         <source>Slide %1 of %2</source>
-        <translation type="unfinished"/>
+        <translation>Слайд %1 из %2</translation>
     </message>
     <message>
         <source>Slide %1</source>
@@ -22055,7 +22056,7 @@ Comment</source>
     </message>
     <message>
         <source>Ink type</source>
-        <translation type="unfinished"/>
+        <translation>Тип рукописного ввода</translation>
     </message>
     <message>
         <source>Reset timer</source>
@@ -22063,7 +22064,7 @@ Comment</source>
     </message>
     <message>
         <source>spotlight</source>
-        <translation type="unfinished"/>
+        <translation>Фокус</translation>
     </message>
     <message>
         <source>Pause timer</source>
@@ -22079,7 +22080,7 @@ Comment</source>
     </message>
     <message>
         <source>Player Capture</source>
-        <translation type="unfinished"/>
+        <translation>Запись проигрывателя</translation>
     </message>
     <message>
         <source>Bullet screen</source>
@@ -22087,7 +22088,7 @@ Comment</source>
     </message>
     <message>
         <source>End of Slide Show</source>
-        <translation type="unfinished"/>
+        <translation>Конец презентации</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -22499,7 +22500,7 @@ Directly</source>
     </message>
     <message>
         <source>Printer Options</source>
-        <translation type="unfinished"/>
+        <translation>Параметры печати</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -22728,11 +22729,11 @@ Window</source>
     <name>KxWppMagnifierTriggerItem</name>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"/>
+        <translation>Шкала</translation>
     </message>
 </context>
 <context>
@@ -22784,7 +22785,7 @@ Window</source>
     </message>
     <message>
         <source>Online Chart</source>
-        <translation type="unfinished"/>
+        <translation>Онлайн-диаграмма</translation>
     </message>
     <message>
         <source>InsertNewChart2</source>
@@ -22889,7 +22890,7 @@ Music</source>
     </message>
     <message>
         <source>More Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Дополнительные функции</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -22909,7 +22910,7 @@ Music</source>
     </message>
     <message>
         <source>Local Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Локальное текстовое поле</translation>
     </message>
     <message>
         <source>LocalFile</source>
@@ -22991,15 +22992,15 @@ Footer</source>
     </message>
     <message>
         <source>Equation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Редактор формул</translation>
     </message>
     <message>
         <source>DocerResourceShop</source>
-        <translation type="unfinished"/>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Текстовое поле шаблона</translation>
     </message>
     <message>
         <source>Online Video</source>
@@ -23018,15 +23019,15 @@ Footer</source>
     <name>KxWppShowWindowPresenterView</name>
     <message>
         <source>Tips</source>
-        <translation type="unfinished"/>
+        <translation>Советы</translation>
     </message>
     <message>
         <source>End Show</source>
-        <translation type="unfinished"/>
+        <translation>Завершить показ слайдов</translation>
     </message>
     <message>
         <source>Next slide</source>
-        <translation type="unfinished"/>
+        <translation>Следующий слайд</translation>
     </message>
     <message>
         <source>Switch Screen</source>
@@ -23328,7 +23329,7 @@ Footer</source>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Linux Version</comment>
-        <translation type="unfinished"/>
+        <translation>Служба поддержки WPS</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -23362,7 +23363,7 @@ Footer</source>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Windows Version</comment>
-        <translation type="unfinished"/>
+        <translation>Служба поддержки WPS</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -23402,7 +23403,7 @@ Footer</source>
     </message>
     <message>
         <source>tableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Предварительная настройка стилей</translation>
     </message>
     <message>
         <source>medium</source>
@@ -23457,7 +23458,7 @@ Footer</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт в рисунок</translation>
     </message>
     <message>
         <source>Export as Images</source>
@@ -23901,7 +23902,7 @@ Footer</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт в PDF</translation>
     </message>
     <message>
         <source>Slide Master View</source>
@@ -24264,7 +24265,7 @@ Footer</source>
     <name>KxWppReuseSlidesCommand</name>
     <message>
         <source>Reuse Slides</source>
-        <translation type="unfinished"/>
+        <translation>Повторно использовать слайды</translation>
     </message>
 </context>
 <context>
@@ -24531,7 +24532,7 @@ Animation</source>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Рисунки</translation>
     </message>
 </context>
 <context>
@@ -25539,19 +25540,19 @@ Add-Ins</source>
     <name>KMacWppPrintDiag</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Цвет</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"/>
+        <translation>Слайд</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"/>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"/>
+        <translation>Структура</translation>
     </message>
     <message>
         <source>Black and white</source>
@@ -25563,7 +25564,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Документ</translation>
     </message>
     <message>
         <source>Print hidden slides</source>
@@ -25617,7 +25618,7 @@ Add-Ins</source>
     <name>KxWppLaserPenTriggerItem</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Цвет</translation>
     </message>
 </context>
 <context>
@@ -26371,7 +26372,7 @@ Add-Ins</source>
     <name>wpp_player</name>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"/>
+        <translation>Сервис</translation>
     </message>
     <message>
         <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
@@ -26562,7 +26563,7 @@ Esc					Завершение показа слайдов</translation>
     <name>KxWppPrintDuplexModel</name>
     <message>
         <source>Flip page on the long side of the paper</source>
-        <translation type="unfinished"/>
+        <translation>Развернуть страницу по длинной стороне бумаги</translation>
     </message>
     <message>
         <source>Flip on long edge</source>
@@ -26570,7 +26571,7 @@ Esc					Завершение показа слайдов</translation>
     </message>
     <message>
         <source>Flip page on the short side of the paper</source>
-        <translation type="unfinished"/>
+        <translation>Повернуть страницу по короткой стороне бумаги</translation>
     </message>
     <message>
         <source>Manual duplex</source>
@@ -26764,7 +26765,7 @@ Esc					Завершение показа слайдов</translation>
     <name>KxWppSlideShowLocationCommand</name>
     <message>
         <source>Monitor %1</source>
-        <translation type="unfinished"/>
+        <translation>Монитор %1</translation>
     </message>
     <message>
         <source>Main Monitor</source>
@@ -26902,7 +26903,7 @@ Esc					Завершение показа слайдов</translation>
     </message>
     <message>
         <source>%1 is read-only.  If you want to save a copy,  Click OK,  then give a new name for this file in the Save As dialog box.</source>
-        <translation type="unfinished"/>
+        <translation>%1 означает доступ только для чтения. Если нужно сохранить копию, нажмите &quot;ОК&quot; и задайте имя копии в диалоговом окне &quot;Сохранить как&quot;.</translation>
     </message>
     <message>
         <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
@@ -27126,7 +27127,7 @@ Esc					Завершение показа слайдов</translation>
     <name>KxWppDynamicDigitAniTips</name>
     <message>
         <source>click to try</source>
-        <translation type="unfinished"/>
+        <translation>Попробовать</translation>
     </message>
 </context>
 <context>
@@ -27170,7 +27171,7 @@ Esc					Завершение показа слайдов</translation>
     <name>KxWppHighlightColorModel</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"/>
+        <translation>Без цвета</translation>
     </message>
 </context>
 <context>
@@ -27431,36 +27432,37 @@ Esc					Завершение показа слайдов</translation>
     <name>KxWppReuseSlidesPane</name>
     <message>
         <source>Total number of slides: %1</source>
-        <translation type="unfinished"/>
+        <translation>Общее число слайдов: %1</translation>
     </message>
     <message>
         <source>Paste with format</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить исходное форматирование</translation>
     </message>
     <message>
         <source>Select Files</source>
-        <translation type="unfinished"/>
+        <translation>Выбор файлов</translation>
     </message>
     <message>
         <source>Please select the inserted slide from the following presentation</source>
-        <translation type="unfinished"/>
+        <translation>Выберите слайды, которые нужно вставить, из следующей презентации.</translation>
     </message>
     <message>
         <source>WPP/PowerPoint Format(%1)</source>
-        <translation type="unfinished"/>
+        <translation>Формат презентации/PowerPoint (%1)</translation>
     </message>
     <message>
         <source>Select File</source>
-        <translation type="unfinished"/>
+        <translation>Выбор файла</translation>
     </message>
     <message>
         <source>Fail to open! The specified file does not exist!
 (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось открыть файл. Указанный файл не существует.
+(%1)</translation>
     </message>
     <message>
         <source>Fail to open the file!</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось открыть файл.</translation>
     </message>
 </context>
 <context>
@@ -27486,7 +27488,7 @@ Esc					Завершение показа слайдов</translation>
     <name>KxWppMediaBarWidget</name>
     <message>
         <source>media cover setting</source>
-        <translation type="unfinished"/>
+        <translation>Изменить настройки титульной страницы</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -27509,7 +27511,7 @@ Esc					Завершение показа слайдов</translation>
     <name>KxWppMediaCoverSettingTipPopup</name>
     <message>
         <source>media cover setting</source>
-        <translation type="unfinished"/>
+        <translation>Изменить настройки титульной страницы</translation>
     </message>
 </context>
 <context>
@@ -28835,15 +28837,15 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxWppLocateWidget</name>
     <message>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 мин. назад</translation>
     </message>
     <message>
         <source>A few seconds ago</source>
-        <translation type="unfinished"/>
+        <translation>несколько секунд назад</translation>
     </message>
     <message>
         <source>%1 hours ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 ч. назад</translation>
     </message>
 </context>
 <context>
@@ -29044,7 +29046,7 @@ Sure to close?</source>
     <name>KxWppEquationOptionsDlg</name>
     <message>
         <source>Equation Options</source>
-        <translation type="unfinished"/>
+        <translation>Параметры формул</translation>
     </message>
 </context>
 <context>
@@ -34164,11 +34166,11 @@ Transition</source>
     <name>KxFontMissingWidget</name>
     <message>
         <source> Online Font</source>
-        <translation type="unfinished"/>
+        <translation>  Установить шрифт из Интернета</translation>
     </message>
     <message>
         <source> Local Font</source>
-        <translation type="unfinished"/>
+        <translation>  Изменить шрифт</translation>
     </message>
 </context>
 <context>
