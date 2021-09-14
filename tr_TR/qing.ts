@@ -11071,7 +11071,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Always ask</source>
-        <translation type="unfinished"/>
+        <translation>Her zaman sor</translation>
     </message>
     <message>
         <source>QQ/TIM received files</source>
