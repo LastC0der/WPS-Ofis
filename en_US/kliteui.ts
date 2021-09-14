@@ -3,11 +3,11 @@
     <name>KVipOpeningWidget</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Transactions</source>
@@ -23,7 +23,7 @@
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Customer Service</translation>
     </message>
     <message>
         <source>Welcome to WPS VIP family.</source>
@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>You have subscribed the VIP service.</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"/>
+        <translation>Resume</translation>
     </message>
     <message>
         <source>Try again.</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirm</translation>
     </message>
     <message>
         <source>Leave us a message，We will contact you as soon as possible.</source>
@@ -98,15 +98,15 @@
     <name>KVipUpgradeDialog</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Continue to Buy</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Customer Service</translation>
     </message>
     <message>
         <source>Order Error</source>
@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>You have subscribed the VIP service.</source>
@@ -142,7 +142,7 @@
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Network Error</translation>
     </message>
     <message>
         <source>Common Payment Issues</source>
@@ -154,7 +154,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirm</translation>
     </message>
     <message>
         <source>Purchase Error</source>
@@ -185,11 +185,11 @@
     <name>KGuideUpgradeVipDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source> Upgrade </source>
@@ -197,38 +197,38 @@
     </message>
     <message>
         <source>Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
 </context>
 <context>
     <name>KLiteContentDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>Null</source>
-        <translation type="unfinished"/>
+        <translation>None</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Waiting</source>
-        <translation type="unfinished"/>
+        <translation>Pending</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Warning</translation>
     </message>
     <message>
         <source>warning</source>
-        <translation type="unfinished"/>
+        <translation>Warning</translation>
     </message>
 </context>
 <context>
@@ -269,7 +269,7 @@
     <name>KSevenDaysFreeWidgetV3</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
@@ -277,7 +277,7 @@
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Customer Service</translation>
     </message>
     <message>
         <source>Order Error</source>
@@ -285,7 +285,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>You have subscribed the VIP service.</source>
@@ -309,7 +309,7 @@
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Network Error</translation>
     </message>
     <message>
         <source>Privacy policies</source>
@@ -317,7 +317,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirm</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -341,7 +341,7 @@
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Terms of service</translation>
     </message>
     <message>
         <source>No network connection, please check whether the network connection is normal first.</source>
@@ -379,19 +379,19 @@
     <name>KThirdCloudConfirmDialog</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>The file already exists. Do you want to overwrite it?</source>
-        <translation type="unfinished"/>
+        <translation>The file already exists. Do you want to overwrite it?</translation>
     </message>
     <message>
         <source>Confirm upload</source>
-        <translation type="unfinished"/>
+        <translation>Confirm upload</translation>
     </message>
 </context>
 <context>
@@ -454,7 +454,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KDisclaimerDialog</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Tips：One AppleID can only qualify once</source>
@@ -465,38 +465,38 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>QObject</name>
     <message>
         <source>DOC</source>
-        <translation type="unfinished"/>
+        <translation>DOC</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>PPTX</source>
-        <translation type="unfinished"/>
+        <translation>PPTX</translation>
     </message>
     <message>
         <source>XLSX</source>
-        <translation type="unfinished"/>
+        <translation>XLSX</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"/>
+        <translation>Folder</translation>
     </message>
     <message>
         <source>Google</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>Dropbox</source>
-        <translation type="unfinished"/>
+        <translation>Dropbox</translation>
     </message>
 </context>
 <context>
     <name>KVUHelper</name>
     <message>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Free</translation>
     </message>
     <message>
         <source>Includes all privileges of WPS VIP and Docer VIP</source>
@@ -770,15 +770,15 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KLiteUpdateMessageDlg</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>Remind me tomorrow</source>
@@ -786,21 +786,21 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"/>
+        <translation>Restart</translation>
     </message>
 </context>
 <context>
     <name>KVipUpgradeLeftWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
 </context>
 <context>
     <name>KVipUpgradeRightWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
     <message>
         <source>Issue invoice</source>
@@ -808,7 +808,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Customer Service</translation>
     </message>
     <message>
         <source>Call 4006775005 to issue invoice.</source>
@@ -824,7 +824,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Terms of service</translation>
     </message>
 </context>
 <context>
@@ -862,19 +862,19 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KThirdCloudFileTableModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Size</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"/>
+        <translation>Modified</translation>
     </message>
 </context>
 <context>
@@ -911,7 +911,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KWhatIsNewWidgetStartPage</name>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Start</translation>
     </message>
     <message>
         <source>Welcome to WPS Office for Mac</source>
@@ -922,7 +922,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KActivityWidget</name>
     <message>
         <source>close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Dont remind me</source>
@@ -960,7 +960,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>K7DFreeVipPrivilegeTableWidget</name>
     <message>
         <source>Privilege</source>
-        <translation type="unfinished"/>
+        <translation>Privilege</translation>
     </message>
 </context>
 <context>
@@ -1024,7 +1024,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Got it</source>
-        <translation type="unfinished"/>
+        <translation>Got it.</translation>
     </message>
     <message>
         <source>Sync failed</source>
@@ -1036,7 +1036,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Upgrade VIP to enjoy %1 cloud space and upload file to %2 at most</source>
-        <translation type="unfinished"/>
+        <translation>Upgrade VIP to enjoy %1 cloud space and upload file to %2 at most</translation>
     </message>
     <message>
         <source>Please clean up files in time</source>
@@ -1058,26 +1058,26 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KThirdCloudErrorPage</name>
     <message>
         <source>Authorized sign-in is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Authorized sign-in is invalid.</translation>
     </message>
     <message>
         <source>Failed to load the file list.</source>
-        <translation type="unfinished"/>
+        <translation>Failed to load the file list.</translation>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Try again</translation>
     </message>
     <message>
         <source>Authorize again</source>
-        <translation type="unfinished"/>
+        <translation>Authorize again</translation>
     </message>
 </context>
 <context>
     <name>KThirdCloudLoadingPage</name>
     <message>
         <source>Loading the file list for you...</source>
-        <translation type="unfinished"/>
+        <translation>Loading the file list for you...</translation>
     </message>
 </context>
 <context>
@@ -1089,7 +1089,7 @@ please wait</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Wait a moment...</source>
@@ -1138,23 +1138,23 @@ please wait</source>
     <name>KThirdCloudFileListPage</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Upload</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Download</translation>
     </message>
     <message>
         <source>File Name(N):</source>
-        <translation type="unfinished"/>
+        <translation>File Name(N):</translation>
     </message>
     <message>
         <source>File Type(T):</source>
-        <translation type="unfinished"/>
+        <translation>File Type(T):</translation>
     </message>
 </context>
 <context>
@@ -1227,14 +1227,14 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     <name>KLiteUpdateMessageDlgWhenExpire</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Download</translation>
     </message>
 </context>
 <context>
     <name>KUnionVipWidget</name>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Don&apos;t show again</translation>
     </message>
 </context>
 <context>
@@ -1279,7 +1279,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     <name>KLiteTrialReminderDlg</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Preview</translation>
     </message>
     <message>
         <source>confirm</source>
