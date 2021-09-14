@@ -38,7 +38,7 @@
     </message>
     <message>
         <source>DNS Setting</source>
-        <translation type="unfinished"/>
+        <translation>DNS-Einstellungen</translation>
     </message>
     <message>
         <source>Login tip</source>
@@ -871,7 +871,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Wiederholen</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
@@ -1204,7 +1204,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Waiting...</source>
-        <translation type="unfinished"/>
+        <translation>Warten...</translation>
     </message>
     <message>
         <source>Invalid account</source>
@@ -1216,7 +1216,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Line</source>
-        <translation type="unfinished"/>
+        <translation>Weiter mit Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1422,51 +1422,51 @@ Easy mobile office.</source>
     <name>KNetworkDnsErrDlg</name>
     <message>
         <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation type="unfinished"/>
+        <translation>Dienst abgelaufen. Bitte versuchen Sie es erneut oder informieren Sie sich im</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Zeitüberschreitung beim Laden der Seite. Prüfen Sie Ihr Netzwerk und versuchen Sie es erneut</translation>
     </message>
     <message>
         <source>Service timeout</source>
-        <translation type="unfinished"/>
+        <translation>Dienst abgelaufen.</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Netzwerkfehler. Prüfen Sie Ihr Netzwerk und versuchen Sie es erneut</translation>
     </message>
     <message>
         <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation type="unfinished"/>
+        <translation>Anforderung abgelaufen. Versuchen Sie es erneut, indem Sie auf die Schaltfläche &quot;Aktualisieren&quot; klicken, bevor Sie Ihre DNS-Einstellungen überprüfen.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>An error occurred,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Fehler aufgetreten. Prüfen Sie Ihr Netzwerk und versuchen Sie es erneut</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <source>Sync login info failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Synchronisieren der Anmeldeinfos fehlgeschlagen. Prüfen Sie Ihr Netzwerk und versuchen Sie es erneut</translation>
     </message>
     <message>
         <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Zugriff auf WPS-Kontoserver nicht möglich. Prüfen Sie Ihr Netzwerk und versuchen Sie es erneut</translation>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation type="unfinished"/>
+        <translation>Dokument mit den DNS-Einstellungen</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Laden der Seite fehlgeschlagen. Prüfen Sie Ihr Netzwerk und versuchen Sie es erneut</translation>
     </message>
 </context>
 <context>
