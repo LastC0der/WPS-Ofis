@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Удалить учетную запись</translation>
     </message>
     <message>
         <source>2, Click delete my account.</source>
@@ -208,19 +208,19 @@
     <name>EliminateDateDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Подтвердить</translation>
     </message>
     <message>
         <source>I have understood the above risks</source>
-        <translation type="unfinished"/>
+        <translation>Я осознаю риски</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>After deleting the data, some documents may not be opened and some functions will not be available.</source>
-        <translation type="unfinished"/>
+        <translation>После удаления данных некоторые документы могут не открыться и некоторые функции могут стать недоступными. Удалить данные?</translation>
     </message>
     <message>
         <source>Are you sure to delete the data?</source>
@@ -254,7 +254,7 @@
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>и</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>I have read and agree with WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>Я принимаю WPS Office</translation>
     </message>
     <message>
         <source>Kingsoft Pdf Configuration Tools</source>
@@ -270,7 +270,7 @@
     </message>
     <message>
         <source>License agreement</source>
-        <translation type="unfinished"/>
+        <translation>Лицензионное соглашение</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Политика конфиденциальности</translation>
     </message>
 </context>
 <context>
@@ -1502,7 +1502,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     <name>QObject</name>
     <message>
         <source>PPTX Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Презентация PPTX</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -1510,7 +1510,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>PPT Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Презентация PPT</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -1522,7 +1522,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>XLS Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Лист XLS</translation>
     </message>
     <message>
         <source>DOCX Documentation</source>
@@ -1530,7 +1530,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>XLSX Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Лист XLSX</translation>
     </message>
     <message>
         <source>RTF Documentation</source>
@@ -1840,7 +1840,7 @@ The button icon, command group and task window position of each scheme are diffe
     <name>KGdprConfig</name>
     <message>
         <source>View privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Просмотреть Политику конфиденциальности</translation>
     </message>
     <message>
         <source>Application has been submitted, we will delete your data as quickly as possible.</source>
@@ -1848,19 +1848,19 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Eliminate Data</source>
-        <translation type="unfinished"/>
+        <translation>Дата удаления</translation>
     </message>
     <message>
         <source>Online Service User Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Соглашения об обслуживании в Интернете</translation>
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Удалить учетную запись</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Лицензионное соглашение</translation>
     </message>
     <message>
         <source>Network error, please try again later.</source>
