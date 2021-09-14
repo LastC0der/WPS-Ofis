@@ -38,7 +38,7 @@
     </message>
     <message>
         <source>DNS Setting</source>
-        <translation type="unfinished"/>
+        <translation>Paramètres DNS</translation>
     </message>
     <message>
         <source>Login tip</source>
@@ -872,7 +872,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Réessayer</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
@@ -1205,7 +1205,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Waiting...</source>
-        <translation type="unfinished"/>
+        <translation>Attente…</translation>
     </message>
     <message>
         <source>Invalid account</source>
@@ -1217,7 +1217,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Line</source>
-        <translation type="unfinished"/>
+        <translation>Continuer avec Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1423,51 +1423,51 @@ Easy mobile office.</source>
     <name>KNetworkDnsErrDlg</name>
     <message>
         <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation type="unfinished"/>
+        <translation>Le service a expiré. Réessayez ou reportez-vous au</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Expiration du délai de chargement de la page. Vérifiez le réseau et réessayez</translation>
     </message>
     <message>
         <source>Service timeout</source>
-        <translation type="unfinished"/>
+        <translation>Le service a expiré.</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Erreur réseau. Vérifiez le réseau et réessayez</translation>
     </message>
     <message>
         <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation type="unfinished"/>
+        <translation>Expiration de la demande. Réessayez en cliquant sur le bouton d&apos;actualisation avant de vérifier vos paramètres DNS.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>An error occurred,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Une erreur s&apos;est produite. Vérifiez le réseau et réessayez</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Actualiser</translation>
     </message>
     <message>
         <source>Sync login info failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Échec de la synchronisation des informations de connexion. Vérifiez le réseau et réessayez</translation>
     </message>
     <message>
         <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;accéder au serveur de comptes WPS. Vérifiez le réseau et réessayez</translation>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation type="unfinished"/>
+        <translation>Document Paramètres DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Échec du chargement de la page. Vérifiez le réseau et réessayez</translation>
     </message>
 </context>
 <context>
