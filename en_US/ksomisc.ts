@@ -177,54 +177,54 @@
     </message>
     <message>
         <source>Your WPS account information, identity information will be eliminated and cannot be recovered.</source>
-        <translation type="unfinished"/>
+        <translation>Your WPS account information, identity information will be eliminated and cannot be recovered.</translation>
     </message>
     <message>
         <source>If you delete your account, your data will be irrevocably eliminate.</source>
-        <translation type="unfinished"/>
+        <translation>If you delete your account, your data will be irrevocably eliminate.</translation>
     </message>
     <message>
         <source>Documents saved in WPS Cloud will be eliminated and cannot be recovered.</source>
-        <translation type="unfinished"/>
+        <translation>Documents saved in WPS Cloud will be eliminated and cannot be recovered.</translation>
     </message>
     <message>
         <source>1, Go to &amp;quot;account.wps.com &amp;quot;. If you&apos;re not logged into WPS on the web, you&apos;ll be asked to log in first.</source>
-        <translation type="unfinished"/>
+        <translation>1, Go to &amp;quot;account.wps.com &amp;quot;. If you&apos;re not logged into WPS on the web, you&apos;ll be asked to log in first.</translation>
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Delete Account</translation>
     </message>
     <message>
         <source>2, Click delete my account.</source>
-        <translation type="unfinished"/>
+        <translation>2, Click delete my account.</translation>
     </message>
     <message>
         <source>To delete your account:</source>
-        <translation type="unfinished"/>
+        <translation>To delete your account:</translation>
     </message>
 </context>
 <context>
     <name>EliminateDateDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>I have understood the above risks</source>
-        <translation type="unfinished"/>
+        <translation>I have understood the risks</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>After deleting the data, some documents may not be opened and some functions will not be available.</source>
-        <translation type="unfinished"/>
+        <translation>After data deletion, some documents may not be opened and some features will be unavailable. Are you sure you want to delete the data?</translation>
     </message>
     <message>
         <source>Are you sure to delete the data?</source>
-        <translation type="unfinished"/>
+        <translation>Are you sure to delete the data?</translation>
     </message>
 </context>
 <context>
@@ -254,7 +254,7 @@
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>and</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>I have read and agree with WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>I have read and agree with WPS Office</translation>
     </message>
     <message>
         <source>Kingsoft Pdf Configuration Tools</source>
@@ -270,7 +270,7 @@
     </message>
     <message>
         <source>License agreement</source>
-        <translation type="unfinished"/>
+        <translation>License agreement</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Privacy policy</translation>
     </message>
 </context>
 <context>
@@ -1503,7 +1503,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     <name>QObject</name>
     <message>
         <source>PPTX Presentation</source>
-        <translation type="unfinished"/>
+        <translation>PPTX Presentation</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -1511,7 +1511,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>PPT Presentation</source>
-        <translation type="unfinished"/>
+        <translation>PPT Presentation</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -1523,7 +1523,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>XLS Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>XLS Worksheet</translation>
     </message>
     <message>
         <source>DOCX Documentation</source>
@@ -1531,7 +1531,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>XLSX Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>XLSX Worksheet</translation>
     </message>
     <message>
         <source>RTF Documentation</source>
@@ -1841,31 +1841,31 @@ The button icon, command group and task window position of each scheme are diffe
     <name>KGdprConfig</name>
     <message>
         <source>View privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Privacy Policy</translation>
     </message>
     <message>
         <source>Application has been submitted, we will delete your data as quickly as possible.</source>
-        <translation type="unfinished"/>
+        <translation>The application has been submitted. Your data will be deleted soon.</translation>
     </message>
     <message>
         <source>Eliminate Data</source>
-        <translation type="unfinished"/>
+        <translation>Eliminate Data</translation>
     </message>
     <message>
         <source>Online Service User Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Online Service User Agreement</translation>
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Delete Account</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>End-User License Agreement</translation>
     </message>
     <message>
         <source>Network error, please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Network error. Try again later.</translation>
     </message>
 </context>
 <context>
