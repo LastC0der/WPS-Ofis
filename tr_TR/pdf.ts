@@ -418,7 +418,7 @@
     </message>
     <message>
         <source>Te&amp;xt:</source>
-        <translation type="unfinished"/>
+        <translation>Me&amp;tin:</translation>
     </message>
     <message>
         <source>Hori&amp;zontal:</source>
@@ -718,7 +718,7 @@
     </message>
     <message>
         <source>Always ask</source>
-        <translation type="unfinished"/>
+        <translation>Her zaman sor</translation>
     </message>
     <message>
         <source>Multi Progress Tips</source>
@@ -1839,7 +1839,7 @@ The operation is irrevocable</source>
     <message>
         <source>Undo</source>
         <comment>PopupMenu</comment>
-        <translation type="unfinished"/>
+        <translation>Geri Al</translation>
     </message>
     <message>
         <source>ETFile(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb)|*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb</source>
@@ -2038,7 +2038,7 @@ The operation is irrevocable</source>
     <message>
         <source>Redo</source>
         <comment>PopupMenu</comment>
-        <translation type="unfinished"/>
+        <translation>Yinele</translation>
     </message>
     <message>
         <source>%1year%2mon%3day</source>
@@ -2259,11 +2259,11 @@ The operation is irrevocable</source>
     <name>pdf_pdfuil</name>
     <message>
         <source>|</source>
-        <translation type="unfinished"/>
+        <translation>|</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Yinele</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -3961,7 +3961,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>PageMove</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Taşı</translation>
     </message>
     <message>
         <source>Correction fluid member prompt</source>
@@ -5696,7 +5696,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SplitPage</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Böl</translation>
     </message>
     <message>
         <source>FillColor</source>
@@ -6468,7 +6468,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>Measure Distance</source>
@@ -9534,7 +9534,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Slides List</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Listesi</translation>
     </message>
     <message>
         <source>Over Type</source>
@@ -13763,7 +13763,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Please choose page wished to clip</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen kırpmak istediğiniz sayfayı seçin</translation>
     </message>
     <message>
         <source>Clip Page is VIP exclusive privilege</source>
@@ -13889,7 +13889,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>PageMove</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Taşı</translation>
     </message>
     <message>
         <source>EditContent</source>
