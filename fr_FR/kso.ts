@@ -2607,7 +2607,7 @@ consultez le service informatique de votre entreprise ou appelez le service clie
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Détails</translation>
     </message>
     <message>
         <source>Select Picture</source>
@@ -4759,7 +4759,7 @@ Utilisé pour afficher les relations hiérarchiques</translation>
     </message>
     <message>
         <source>UnderlineStyle</source>
-        <translation type="unfinished"/>
+        <translation>Style souligné</translation>
     </message>
     <message>
         <source>Flowchart: Document</source>
@@ -4831,7 +4831,7 @@ Utilisé pour afficher les relations hiérarchiques</translation>
     </message>
     <message>
         <source>Transparent_Fill</source>
-        <translation type="unfinished"/>
+        <translation>Transparent</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -5549,7 +5549,7 @@ Utilisé pour afficher les relations hiérarchiques</translation>
     </message>
     <message>
         <source>kerning</source>
-        <translation type="unfinished"/>
+        <translation>Crénage</translation>
     </message>
     <message>
         <source>Invalid request. To select a shape, its view must be activated.</source>
@@ -6432,7 +6432,7 @@ Utilisé pour afficher les relations hiérarchiques</translation>
     </message>
     <message>
         <source>Text Emboss</source>
-        <translation type="unfinished"/>
+        <translation>Texte en relief</translation>
     </message>
     <message>
         <source>Cross</source>
@@ -6484,7 +6484,7 @@ Utilisé pour afficher les relations hiérarchiques</translation>
     </message>
     <message>
         <source>LangID</source>
-        <translation type="unfinished"/>
+        <translation>LangID</translation>
     </message>
     <message>
         <source>Laptop</source>
@@ -6925,7 +6925,7 @@ Utilisé pour afficher les relations hiérarchiques</translation>
     </message>
     <message>
         <source>Upholding Fixed</source>
-        <translation type="unfinished"/>
+        <translation>Bas fixe</translation>
     </message>
     <message>
         <source>Forward-Near BakckWord-Far</source>
@@ -8182,7 +8182,7 @@ Type de trait : %3</translation>
     </message>
     <message>
         <source>spacing</source>
-        <translation type="unfinished"/>
+        <translation>Espacement</translation>
     </message>
     <message>
         <source>Flowchart: Sequential Access Storage</source>
@@ -9038,7 +9038,7 @@ Type de trait : %3</translation>
     </message>
     <message>
         <source>DarkColor_1_OutLine,Color Fill-</source>
-        <translation type="unfinished"/>
+        <translation>DarkColor1 OutLine,Color Fill-</translation>
     </message>
     <message>
         <source>SoftEdge </source>
@@ -9329,7 +9329,7 @@ Type de trait : %3</translation>
     </message>
     <message>
         <source>Baseline Offset</source>
-        <translation type="unfinished"/>
+        <translation>Décalage de base</translation>
     </message>
     <message>
         <source>WordArt: Donought</source>
@@ -9666,7 +9666,7 @@ Type de trait : %3</translation>
     </message>
     <message>
         <source>Apply Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Appliquer format RTF</translation>
     </message>
     <message>
         <source>Lone Dash Line</source>
@@ -10396,43 +10396,43 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     <name>KWinMessageContentDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Continue (&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Continuer</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>No (&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>Non (&amp;N)</translation>
     </message>
     <message>
         <source>Ignore (&amp;I)</source>
-        <translation type="unfinished"/>
+        <translation>Ignorer (&amp;I)</translation>
     </message>
     <message>
         <source>Save(&amp;S)</source>
-        <translation type="unfinished"/>
+        <translation>Oui (&amp;Y)</translation>
     </message>
     <message>
         <source>Abort (&amp;A)</source>
-        <translation type="unfinished"/>
+        <translation>Abandonner (&amp;A)</translation>
     </message>
     <message>
         <source>Retry (&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>Réessayer (&amp;R)</translation>
     </message>
     <message>
         <source>Yes (&amp;Y)</source>
-        <translation type="unfinished"/>
+        <translation>Oui (&amp;Y)</translation>
     </message>
     <message>
         <source>Not Save(&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>Non (&amp;N)</translation>
     </message>
 </context>
 <context>
@@ -10483,7 +10483,7 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     </message>
     <message>
         <source>Please use the legal person or other organization that you have licensed to hold the document of kingsoft office authorization</source>
-        <translation type="unfinished"/>
+        <translation>Les informations de licence doivent être conformes au fichier d&apos;autorisation de Kingsoft détenu par les personnes morales attendues ou par les autres organisations qui vous ont attribué une licence.</translation>
     </message>
     <message>
         <source>WPS Official Document</source>
@@ -10503,7 +10503,7 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     </message>
     <message>
         <source>License information should be based on authorized documents issued by kingsoft office or authorized information displayed in WPS + enterprise management.</source>
-        <translation type="unfinished"/>
+        <translation>Le fichier de licence doit être conforme au fichier d&apos;autorisation émis par Kingsoft ou aux informations d&apos;autorisation affichées dans l&apos;arrière-plan de gestion d&apos;entreprise WPS+.</translation>
     </message>
     <message>
         <source>yyyy-MM-dd</source>
@@ -10531,7 +10531,7 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     </message>
     <message>
         <source>Technical Support</source>
-        <translation type="unfinished"/>
+        <translation>Support technique</translation>
     </message>
     <message>
         <source>About WPS Official Document</source>
@@ -10617,7 +10617,7 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     </message>
     <message>
         <source>Save To</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer sur</translation>
     </message>
     <message>
         <source>Rejected</source>
@@ -10655,11 +10655,11 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     <name>KxChartTypeDialogClass_xa</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Current Chart Name</source>
@@ -10675,7 +10675,7 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     </message>
     <message>
         <source>Delete, move, or rename your templates.</source>
-        <translation type="unfinished"/>
+        <translation>Supprimez, déplacez ou renommez vos modèles.</translation>
     </message>
 </context>
 <context>
@@ -10732,19 +10732,19 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     <name>KxDlgNewOutwardDocDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Password Protection</source>
-        <translation type="unfinished"/>
+        <translation>Protection par mot de passe</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Boîte de dialogue</translation>
     </message>
     <message>
         <source>Document password:</source>
@@ -10778,7 +10778,7 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     <name>KxEndNoteHelper</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Download the latest version of the WPS EndNote plug-in. To insert and edit citations, download and install the latest version. Restart your EndNote software after installation.</source>
@@ -10794,15 +10794,15 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>annuler</translation>
     </message>
     <message>
         <source>download</source>
-        <translation type="unfinished"/>
+        <translation>Télécharger</translation>
     </message>
     <message>
         <source>warning</source>
-        <translation type="unfinished"/>
+        <translation>Avertissement</translation>
     </message>
 </context>
 <context>
@@ -11493,15 +11493,15 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     <name>KxVbaPromptDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Prompt</source>
-        <translation type="unfinished"/>
+        <translation>Prompt</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Télécharger</translation>
     </message>
 </context>
 <context>
@@ -11764,7 +11764,7 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Aujourd&apos;hui</translation>
     </message>
     <message>
         <source>White</source>
@@ -11792,7 +11792,7 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     </message>
     <message>
         <source>Convert Presentation to Word document</source>
-        <translation type="unfinished"/>
+        <translation>Convertissez une présentation en un document Word.</translation>
     </message>
     <message>
         <source>Light Green </source>
@@ -11800,11 +11800,11 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     </message>
     <message>
         <source>Backing up</source>
-        <translation type="unfinished"/>
+        <translation>Sauvegarde en cours</translation>
     </message>
     <message>
         <source>Split selected PDF pages as a new separate document</source>
-        <translation type="unfinished"/>
+        <translation>Fractionnez les pages d&apos;un PDF sélectionnées en tant que nouveau document distinct.</translation>
     </message>
     <message>
         <source>login account is not the same, please retry again!</source>
@@ -11816,7 +11816,7 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     </message>
     <message>
         <source>File Type</source>
-        <translation type="unfinished"/>
+        <translation>Type de fichier</translation>
     </message>
     <message>
         <source>Sky Blue</source>
@@ -11882,7 +11882,7 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     </message>
     <message>
         <source>Export PDF to Picture or long picture</source>
-        <translation type="unfinished"/>
+        <translation>Exportez un document PDF dans une image ou une image longue.</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
@@ -11906,7 +11906,7 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     </message>
     <message>
         <source>Export Presentation to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Exportez une présentation au format PDF.</translation>
     </message>
     <message>
         <source>The current document has been hardware encrypted and cannot be saved to Cloud.</source>
@@ -11922,7 +11922,7 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     </message>
     <message>
         <source>Export Presentation to video(.ts)</source>
-        <translation type="unfinished"/>
+        <translation>Exportez une présentation dans une vidéo (.ts).</translation>
     </message>
     <message>
         <source>Don't show this message again. 
@@ -11932,7 +11932,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Insert online Chart theme</source>
-        <translation type="unfinished"/>
+        <translation>Insérez un thème de graphique en ligne.</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -11944,7 +11944,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Fully compatible with Microsoft Excel</source>
-        <translation type="unfinished"/>
+        <translation>Entièrement compatible avec Microsoft Excel</translation>
     </message>
     <message>
         <source>Protocol error: packet of size 0 received</source>
@@ -11952,7 +11952,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Split or Merge Documents</source>
-        <translation type="unfinished"/>
+        <translation>Fractionnez ou fusionnez des documents.</translation>
     </message>
     <message>
         <source>Invalid URI: %1</source>
@@ -11968,7 +11968,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Fully compatible with Microsoft Office&apos;s document formats</source>
-        <translation type="unfinished"/>
+        <translation>Entièrement compatible avec les formats de document de Microsoft Office</translation>
     </message>
     <message>
         <source>Caps Lock</source>
@@ -11980,7 +11980,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Fully compatible with Microsoft PowerPoint</source>
-        <translation type="unfinished"/>
+        <translation>Entièrement compatible avec Microsoft PowerPoint</translation>
     </message>
     <message>
         <source>Socket error on %1: %2</source>
@@ -12096,7 +12096,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Create a PDF from files, pictures or scanner</source>
-        <translation type="unfinished"/>
+        <translation>Créez un document PDF à partir de fichiers, d&apos;images ou d&apos;un scanneur.</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -12112,7 +12112,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Share as a link for comments</source>
-        <translation type="unfinished"/>
+        <translation>Partagez sous forme de lien pour ajouter des commentaires.</translation>
     </message>
     <message>
         <source>the document is not encrypted by national-secret algorithm, please use normal version to open</source>
@@ -12142,7 +12142,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Hier</translation>
     </message>
     <message>
         <source>custom %1</source>
@@ -12166,7 +12166,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Export spreadsheets to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Exportez des feuilles de calcul au format PDF.</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -12186,7 +12186,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Export document to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Exportez un document au format PDF.</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
@@ -12194,7 +12194,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Document Translation</source>
-        <translation type="unfinished"/>
+        <translation>Traduction de documents</translation>
     </message>
     <message>
         <source>Overwrite file?</source>
@@ -12222,7 +12222,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>encrypt</source>
-        <translation type="unfinished"/>
+        <translation>Chiffrer</translation>
     </message>
     <message>
         <source>Do not show this message again.</source>
@@ -12242,7 +12242,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Compress and reduce the size of PDF documents</source>
-        <translation type="unfinished"/>
+        <translation>Compressez et réduisez la taille de documents PDF.</translation>
     </message>
     <message>
         <source>Remote host closed the connection prematurely on %1</source>
@@ -13102,7 +13102,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>Scalable Vector Graphics(*.svg)|*.svg</source>
-        <translation type="unfinished"/>
+        <translation>Scalable Vector Graphics (*.svg)|*.svg</translation>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
@@ -13193,7 +13193,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <message>
         <source>Duplicate</source>
         <comment>DgUil_PasteEquidistance</comment>
-        <translation type="unfinished"/>
+        <translation>Dupliquer</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -13261,7 +13261,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm</source>
-        <translation type="unfinished"/>
+        <translation>Toutes les images (*.emf; *.wmf; *.jpg; *.jpeg; *.jpe; *.png; *.bmp; *.gif; *.tif; *.tiff; *.wdp; *.svg; *.cgm)|*.emf; *.wmf; *.jpg; *.jpeg; *.jpe; *.png; *.bmp; *.gif; *.tif; *.tiff; *.wdp; *.svg; *.cgm</translation>
     </message>
     <message>
         <source>Aspect Ratio</source>
@@ -13419,11 +13419,11 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg</source>
-        <translation type="unfinished"/>
+        <translation>Toutes les images (*.emf; *.wmf; *.jpg; *.jpeg; *.jpe; *.png; *.bmp; *.gif; *.tif; *.tiff; *.wdp; *.svg)|*.emf; *.wmf; *.jpg; *.jpeg; *.jpe; *.png; *.bmp; *.gif; *.tif; *.tiff; *.wdp; *.svg</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Center</source>
@@ -13589,7 +13589,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp</source>
-        <translation type="unfinished"/>
+        <translation>Toutes les images (*.emf; *.wmf; *.jpg; *.jpeg; *.jpe; *.png; *.bmp; *.gif; *.tif; *.tiff; *.wdp)|*.emf; *.wmf; *.jpg; *.jpeg; *.jpe; *.png; *.bmp; *.gif; *.tif; *.tiff; *.wdp</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -13648,7 +13648,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Continuer</translation>
     </message>
     <message>
         <source>To edit this diagram, you must convert it to Shapes.</source>
@@ -14173,7 +14173,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm</source>
-        <translation type="unfinished"/>
+        <translation>Toutes les images (*.emf; *.wmf; *.jpg; *.jpeg; *.jpe; *.png; *.bmp; *.gif; *.tif; *.tiff; *.wdp; *.cgm) | *.emf; *.wmf; *.jpg; *.jpeg; *.jpe; *.png; *.bmp; *.gif; *.tif; *.tiff; *wdp; *.cgm</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -15507,7 +15507,7 @@ Connectez-vous pour l&apos;utiliser.</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
-        <translation type="unfinished"/>
+        <translation>Réinitiali&amp;ser</translation>
     </message>
     <message>
         <source>W&amp;idth</source>
@@ -18004,7 +18004,7 @@ Vérifiez le chemin et le nom du fichier.</translation>
     </message>
     <message>
         <source>Matrix</source>
-        <translation type="unfinished"/>
+        <translation>Matrice</translation>
     </message>
     <message>
         <source>Sub-Step Process</source>
@@ -19229,7 +19229,7 @@ Vérifiez le chemin et le nom du fichier.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Combo</source>
@@ -22082,7 +22082,7 @@ Vérifiez le chemin et le nom du fichier.</translation>
     </message>
     <message>
         <source>Login for Free</source>
-        <translation type="unfinished"/>
+        <translation>Se connecter gratuitement</translation>
     </message>
     <message>
         <source>Registered User</source>
@@ -22094,7 +22094,7 @@ Vérifiez le chemin et le nom du fichier.</translation>
     </message>
     <message>
         <source>Free Trial</source>
-        <translation type="unfinished"/>
+        <translation>Évaluation gratuite</translation>
     </message>
     <message>
         <source>Premium</source>
@@ -23139,7 +23139,7 @@ Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Image</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format</source>
@@ -23248,7 +23248,7 @@ Raisons possibles :
     <message>
         <source>WPS Presentation Files</source>
         <comment>_KsoLinuxOleDpsFile</comment>
-        <translation type="unfinished"/>
+        <translation>Fichiers WPS Presentation</translation>
     </message>
     <message>
         <source>Microsoft Excel Workbook</source>
@@ -23322,7 +23322,7 @@ Raisons possibles :
     <message>
         <source>WPS Writer Documents</source>
         <comment>_KsoLinuxOleWpsFile</comment>
-        <translation type="unfinished"/>
+        <translation>Documents WPS Writer</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
@@ -23330,7 +23330,7 @@ Raisons possibles :
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation type="unfinished"/>
+        <translation>Fichiers WPS Spreadsheets (*.et)</translation>
     </message>
     <message>
         <source>Failed to overwrite the current document, choose another file name.</source>
@@ -23434,7 +23434,7 @@ Raisons possibles :
     </message>
     <message>
         <source>License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Contrat de licence</translation>
     </message>
     <message>
         <source>WPS Office End-User License Agreement</source>
@@ -24331,7 +24331,7 @@ Veuillez vérifier que le nom du fichier est correct.</translation>
     </message>
     <message>
         <source>Allow</source>
-        <translation type="unfinished"/>
+        <translation>Autoriser(&amp;A)</translation>
     </message>
     <message>
         <source>Print</source>
@@ -24339,11 +24339,11 @@ Veuillez vérifier que le nom du fichier est correct.</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Installer</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="unfinished"/>
+        <translation>Désinstaller</translation>
     </message>
     <message>
         <source>Unknown Origin</source>
@@ -24351,7 +24351,7 @@ Veuillez vérifier que le nom du fichier est correct.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Refuse</source>
@@ -24673,7 +24673,7 @@ Veuillez vérifier que le nom du fichier est correct.</translation>
     <name>KxChooseOutwardDocDlgV2</name>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Modifier</translation>
     </message>
     <message>
         <source>Make</source>
@@ -25252,7 +25252,7 @@ mobile</translation>
     <name>KxCustomMessageBoxDialog</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulaire</translation>
     </message>
 </context>
 <context>
@@ -25286,19 +25286,19 @@ mobile</translation>
     <name>KxFloatTipWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Installer</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"/>
+        <translation>Remplacer</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
 </context>
 <context>
@@ -25563,7 +25563,7 @@ mobile</translation>
     <name>KxWebextensionQueryWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -25575,7 +25575,7 @@ mobile</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Détails</translation>
     </message>
     <message>
         <source>You are about to visit a third-party website</source>
@@ -26505,7 +26505,7 @@ mobile</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Boîte de dialogue</translation>
     </message>
     <message>
         <source>Make outward document</source>
@@ -26875,7 +26875,7 @@ mobile</translation>
     </message>
     <message>
         <source>Save documents or not?</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <source>WPS/Word Files</source>
@@ -27304,15 +27304,15 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     <name>KxSaveMessageBoxDialog</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"/>
+        <translation>Ne pas enregistrer</translation>
     </message>
 </context>
 <context>
@@ -27403,27 +27403,27 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     <name>KxOutwardDocTableModelV2</name>
     <message>
         <source>Time</source>
-        <translation type="unfinished"/>
+        <translation>Heure</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>État</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Mot de passe</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigrane</translation>
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished"/>
+        <translation>Rejeté</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Inconnu</translation>
     </message>
     <message>
         <source>Expired</source>
@@ -27431,7 +27431,7 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     </message>
     <message>
         <source>Protect Type</source>
-        <translation type="unfinished"/>
+        <translation>Type de protection</translation>
     </message>
 </context>
 <context>
@@ -27551,14 +27551,14 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     <name>KxLearningHelper</name>
     <message>
         <source>Word</source>
-        <translation type="unfinished"/>
+        <translation>Word</translation>
     </message>
 </context>
 <context>
     <name>KxDrTipContentWidget</name>
     <message>
         <source>edit</source>
-        <translation type="unfinished"/>
+        <translation>modifier</translation>
     </message>
     <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
@@ -27719,7 +27719,7 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     <name>KComponentCollegeBubble</name>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Plus</translation>
     </message>
 </context>
 <context>
@@ -27847,7 +27847,7 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     <name>KxWithdrawSignedMBCommand</name>
     <message>
         <source>tips</source>
-        <translation type="unfinished"/>
+        <translation>Astuces</translation>
     </message>
     <message>
         <source>can not operate</source>
@@ -30019,7 +30019,7 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     <name>KxSecDocPwdLineEdit</name>
     <message>
         <source>You should press Caps Lock to turn it off before entering your password.</source>
-        <translation type="unfinished"/>
+        <translation>Appuyez sur Verr. Maj. pour le désactiver, puis entrez votre mot de passe.</translation>
     </message>
     <message>
         <source>Caps Lock is on.</source>
@@ -31165,7 +31165,7 @@ Devenez un VIP et utilisez cette fonctionnalité à tout moment.</translation>
     <name>KxDebuggerDlg</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Effacer</translation>
     </message>
 </context>
 <context>
@@ -31179,18 +31179,18 @@ Devenez un VIP et utilisez cette fonctionnalité à tout moment.</translation>
     <name>KRbSyncStateHint</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Connexion</translation>
     </message>
 </context>
 <context>
     <name>KStatusBackupCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>After closing, when WPS is unexpectedly closed, unsaved documents will be at risk of losing data. It is recommended to turn on backup.</source>
@@ -31286,7 +31286,7 @@ Devenez un VIP et utilisez cette fonctionnalité à tout moment.</translation>
     </message>
     <message>
         <source>Show Description</source>
-        <translation type="unfinished"/>
+        <translation>Afficher le nom des fonctionnalités</translation>
     </message>
     <message>
         <source>Show Custom Button in Task Window</source>
@@ -31294,7 +31294,7 @@ Devenez un VIP et utilisez cette fonctionnalité à tout moment.</translation>
     </message>
     <message>
         <source>Hide TaskPane</source>
-        <translation type="unfinished"/>
+        <translation>Masquer le volet des tâches</translation>
     </message>
     <message>
         <source>Enable Title Switching in Task Window</source>
@@ -31318,7 +31318,7 @@ Devenez un VIP et utilisez cette fonctionnalité à tout moment.</translation>
     </message>
     <message>
         <source>Add taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Épingler au volet des tâches</translation>
     </message>
     <message>
         <source>Dock right</source>
@@ -31496,11 +31496,11 @@ Devenez un VIP et utilisez cette fonctionnalité à tout moment.</translation>
     </message>
     <message>
         <source>Attachment &amp;Link</source>
-        <translation type="unfinished"/>
+        <translation>Lien de pièce jointe (&amp;L)</translation>
     </message>
     <message>
         <source>Link &amp;Color</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Couleur du lien hypertexte</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
@@ -32014,11 +32014,11 @@ en
     </message>
     <message>
         <source>Try dark mode</source>
-        <translation type="unfinished"/>
+        <translation>Essayer le mode sombre</translation>
     </message>
     <message>
         <source>Here you can change the color of the editing area.</source>
-        <translation type="unfinished"/>
+        <translation>Ici, vous pouvez changer la couleur de la zone de modification.</translation>
     </message>
 </context>
 <context>
@@ -32754,23 +32754,23 @@ Veuillez vérifier vos paramètres système et assurez-vous que le répertoire t
     <name>FilePageListItemDelegate</name>
     <message>
         <source>QQ FileRecv</source>
-        <translation type="unfinished"/>
+        <translation>Fichier QQ</translation>
     </message>
     <message>
         <source>Documents%1</source>
-        <translation type="unfinished"/>
+        <translation>Documents %1</translation>
     </message>
     <message>
         <source>Wechat File</source>
-        <translation type="unfinished"/>
+        <translation>Fichier Wechat</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Bureau</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"/>
+        <translation>Téléchargements</translation>
     </message>
 </context>
 <context>
@@ -33258,15 +33258,15 @@ Veuillez vérifier vos paramètres système et assurez-vous que le répertoire t
     <name>KxDocumentFixCommand</name>
     <message>
         <source>Fix File</source>
-        <translation type="unfinished"/>
+        <translation>Corriger le fichier</translation>
     </message>
     <message>
         <source>Errors occur when opening this file.</source>
-        <translation type="unfinished"/>
+        <translation>Des erreurs se produisent lors de l&apos;ouverture de ce fichier.</translation>
     </message>
     <message>
         <source>Don&apos;t Fix Now</source>
-        <translation type="unfinished"/>
+        <translation>Ne pas corriger maintenant</translation>
     </message>
     <message>
         <source>Loading the Document Fix. Please wait...</source>
@@ -33474,7 +33474,7 @@ Partager avec vos amis</translation>
     </message>
     <message>
         <source>Official Symbols:</source>
-        <translation type="unfinished"/>
+        <translation>Symboles</translation>
     </message>
 </context>
 <context>
@@ -34926,7 +34926,7 @@ Les paramètres prendront effet après le redémarrage de WPS Office.</translati
     <name>KQuickHelpButton</name>
     <message>
         <source>Format Chart Area</source>
-        <translation type="unfinished"/>
+        <translation>Format de zone de graphique</translation>
     </message>
 </context>
 <context>
@@ -36135,7 +36135,7 @@ La protection par mot de passe et les autorisations du document ne seront plus v
     <name>KxStartup</name>
     <message>
         <source> days.</source>
-        <translation type="unfinished"/>
+        <translation>jours.</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
@@ -36339,7 +36339,7 @@ Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
     </message>
     <message>
         <source>Two password inconsistencies</source>
-        <translation type="unfinished"/>
+        <translation>Les mots de passe ne correspondent pas.</translation>
     </message>
     <message>
         <source>Please enter the document password again</source>
@@ -36856,11 +36856,11 @@ Devenez un VIP et utilisez cette fonctionnalité à tout moment.</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Boîte de dialogue</translation>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>J&apos;ai compris</translation>
     </message>
     <message>
         <source>upgrade package</source>
@@ -36868,11 +36868,11 @@ Devenez un VIP et utilisez cette fonctionnalité à tout moment.</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Bouton-poussoir</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
 </context>
 <context>
@@ -37181,7 +37181,7 @@ Des fonctionnalités vidéo ont été desactivées.</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir un fichier</translation>
     </message>
 </context>
 <context>
@@ -38081,11 +38081,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgExpirationReminderEnterpriseXa</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"/>
+        <translation>Rappel d&apos;expiration de WPS Office</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"/>
+        <translation>Activer</translation>
     </message>
 </context>
 <context>
@@ -38441,11 +38441,11 @@ p, li { white-space: pre-wrap; }
     <name>KxFontMissingWidget</name>
     <message>
         <source> Online Font</source>
-        <translation type="unfinished"/>
+        <translation>  Installer la police hors ligne</translation>
     </message>
     <message>
         <source> Local Font</source>
-        <translation type="unfinished"/>
+        <translation>  Changer la police</translation>
     </message>
 </context>
 <context>
@@ -38778,7 +38778,7 @@ pour créer un document sortant</translation>
     <name>KxUpdateMessageDlgWhenExpire</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Télécharger</translation>
     </message>
 </context>
 <context>
@@ -39153,7 +39153,7 @@ pour créer un document sortant</translation>
     <name>KRibbonFindCmdWidget</name>
     <message>
         <source>Find Commands</source>
-        <translation type="unfinished"/>
+        <translation>Rechercher des commandes</translation>
     </message>
     <message>
         <source>find commands</source>
@@ -39401,7 +39401,7 @@ PROPRIÉTÉS</translation>
     <name>KxMacMailFeedBackCommand</name>
     <message>
         <source>FeedBack</source>
-        <translation type="unfinished"/>
+        <translation>Commentaires</translation>
     </message>
 </context>
 <context>
