@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Usuń konto</translation>
     </message>
     <message>
         <source>2, Click delete my account.</source>
@@ -208,19 +208,19 @@
     <name>EliminateDateDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Potwierdź</translation>
     </message>
     <message>
         <source>I have understood the above risks</source>
-        <translation type="unfinished"/>
+        <translation>Rozumiem ryzyko</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>After deleting the data, some documents may not be opened and some functions will not be available.</source>
-        <translation type="unfinished"/>
+        <translation>Po usunięciu danych niektórych dokumentów może nie dać się otworzyć, a niektóre funkcje będą niedostępne. Czy na pewno chcesz usunąć dane?</translation>
     </message>
     <message>
         <source>Are you sure to delete the data?</source>
@@ -254,7 +254,7 @@
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>i</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>I have read and agree with WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>Zgadzam się na WPS Office</translation>
     </message>
     <message>
         <source>Kingsoft Pdf Configuration Tools</source>
@@ -270,7 +270,7 @@
     </message>
     <message>
         <source>License agreement</source>
-        <translation type="unfinished"/>
+        <translation>Umowa licencyjna</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Zasady ochrony prywatności</translation>
     </message>
 </context>
 <context>
@@ -1492,7 +1492,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     <name>QObject</name>
     <message>
         <source>PPTX Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Prezentacja PPTX</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -1500,7 +1500,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>PPT Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Prezentacja PPT</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -1512,7 +1512,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>XLS Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Arkusz XLS</translation>
     </message>
     <message>
         <source>DOCX Documentation</source>
@@ -1520,7 +1520,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>XLSX Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Arkusz XLSX</translation>
     </message>
     <message>
         <source>RTF Documentation</source>
@@ -1830,7 +1830,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     <name>KGdprConfig</name>
     <message>
         <source>View privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Przeczytaj Zasady ochrony prywatności.</translation>
     </message>
     <message>
         <source>Application has been submitted, we will delete your data as quickly as possible.</source>
@@ -1838,19 +1838,19 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Eliminate Data</source>
-        <translation type="unfinished"/>
+        <translation>Usuń dane</translation>
     </message>
     <message>
         <source>Online Service User Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Umowa użytkownika o świadczenie usług online</translation>
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Usuń konto</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Umowa licencyjna użytkownika</translation>
     </message>
     <message>
         <source>Network error, please try again later.</source>
