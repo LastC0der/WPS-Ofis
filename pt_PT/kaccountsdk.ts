@@ -38,7 +38,7 @@
     </message>
     <message>
         <source>DNS Setting</source>
-        <translation type="unfinished"/>
+        <translation>Definições de DNS</translation>
     </message>
     <message>
         <source>Login tip</source>
@@ -872,7 +872,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Tentar Novamente</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
@@ -1205,7 +1205,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Waiting...</source>
-        <translation type="unfinished"/>
+        <translation>A aguardar...</translation>
     </message>
     <message>
         <source>Invalid account</source>
@@ -1217,7 +1217,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Line</source>
-        <translation type="unfinished"/>
+        <translation>Continuar com o Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1423,51 +1423,51 @@ Easy mobile office.</source>
     <name>KNetworkDnsErrDlg</name>
     <message>
         <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation type="unfinished"/>
+        <translation>Tempo limite do serviço excedido. Volte a tentar ou consulte</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Tempo limite de carregamento da página excedido; verifique a rede e volte a tentar</translation>
     </message>
     <message>
         <source>Service timeout</source>
-        <translation type="unfinished"/>
+        <translation>Tempo limite do serviço excedido.</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Erro de rede; verifique a rede e volte a tentar</translation>
     </message>
     <message>
         <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation type="unfinished"/>
+        <translation>O pedido excedeu o tempo limite. Tente novamente ao clicar no botão para atualizar antes de verificar as definições de DNS.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>An error occurred,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Ocorreu um erro; verifique a rede e volte a tentar</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <source>Sync login info failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao sincronizar informações de início de sessão; verifique a rede e volte a tentar</translation>
     </message>
     <message>
         <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Não é possível aceder ao servidor de Contas do WPS; verifique a rede e volte a tentar</translation>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation type="unfinished"/>
+        <translation>Documento de Definições de DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao carregar página; verifique a rede e volte a tentar</translation>
     </message>
 </context>
 <context>
