@@ -11974,7 +11974,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Unprotect Sharing</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşım Korumasını Kaldır</translation>
     </message>
     <message>
         <source>New Excel 2003 Workbook</source>
@@ -14151,7 +14151,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>(No Suggestions)</source>
-        <translation type="unfinished"/>
+        <translation>(Öneri Yok)</translation>
     </message>
     <message>
         <source>You are opening an Excel shared workbook &quot;%s&quot;.</source>
@@ -18891,7 +18891,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -18919,7 +18919,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Expand/Collapse</source>
-        <translation type="unfinished"/>
+        <translation>Genişlet/Daralt</translation>
     </message>
     <message>
         <source>Format Chart Title</source>
@@ -18927,7 +18927,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Expand</source>
-        <translation type="unfinished"/>
+        <translation>Genişlet</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -19292,7 +19292,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"/>
+        <translation>Daralt</translation>
     </message>
     <message>
         <source>Move to Columns</source>
@@ -19927,7 +19927,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>Delete Equation</source>
@@ -38161,11 +38161,11 @@ Birleştir</translation>
     </message>
     <message>
         <source>Te&amp;xt</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Metin</translation>
     </message>
     <message>
         <source>Wit&amp;hin:</source>
-        <translation type="unfinished"/>
+        <translation>İç&amp;inde:</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
@@ -46999,7 +46999,7 @@ Düzenleyicisi</translation>
     <name>KxDlgGradientFill</name>
     <message>
         <source>Dar&amp;k</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;oyu</translation>
     </message>
     <message>
         <source>Light</source>
@@ -50250,7 +50250,7 @@ Repeat Item Labels</source>
     </message>
     <message>
         <source>(No Suggestions)</source>
-        <translation type="unfinished"/>
+        <translation>(Öneri Yok)</translation>
     </message>
 </context>
 <context>
@@ -52298,7 +52298,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxAssignMacroDlg</name>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>All Open Workbooks</source>
