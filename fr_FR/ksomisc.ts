@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer le compte</translation>
     </message>
     <message>
         <source>2, Click delete my account.</source>
@@ -208,19 +208,19 @@
     <name>EliminateDateDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Confirmer</translation>
     </message>
     <message>
         <source>I have understood the above risks</source>
-        <translation type="unfinished"/>
+        <translation>J&apos;ai compris les risques</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>After deleting the data, some documents may not be opened and some functions will not be available.</source>
-        <translation type="unfinished"/>
+        <translation>Après la suppression des données, certains documents risquent de ne pas pouvoir s&apos;ouvrir et certaines fonctionnalités ne seront plus disponibles. Voulez-vous vraiment supprimer les données ?</translation>
     </message>
     <message>
         <source>Are you sure to delete the data?</source>
@@ -254,7 +254,7 @@
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>et</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>I have read and agree with WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>J&amp;apos;ai lu et j&amp;apos;accepte les conditions de WPS</translation>
     </message>
     <message>
         <source>Kingsoft Pdf Configuration Tools</source>
@@ -270,7 +270,7 @@
     </message>
     <message>
         <source>License agreement</source>
-        <translation type="unfinished"/>
+        <translation>Contrat de licence</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Politique de confidentialité</translation>
     </message>
 </context>
 <context>
@@ -1501,7 +1501,7 @@ Cette option vous permet de corriger les erreurs rencontrées lors de l&apos;uti
     <name>QObject</name>
     <message>
         <source>PPTX Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Présentation PPTX</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -1509,7 +1509,7 @@ Cette option vous permet de corriger les erreurs rencontrées lors de l&apos;uti
     </message>
     <message>
         <source>PPT Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Présentation PPT</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -1521,7 +1521,7 @@ Cette option vous permet de corriger les erreurs rencontrées lors de l&apos;uti
     </message>
     <message>
         <source>XLS Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Feuille de calcul XLS</translation>
     </message>
     <message>
         <source>DOCX Documentation</source>
@@ -1529,7 +1529,7 @@ Cette option vous permet de corriger les erreurs rencontrées lors de l&apos;uti
     </message>
     <message>
         <source>XLSX Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Feuille de calcul XLSX</translation>
     </message>
     <message>
         <source>RTF Documentation</source>
@@ -1839,7 +1839,7 @@ Chaque modèle a son style unique . Si vous voulez une interface innovante, vous
     <name>KGdprConfig</name>
     <message>
         <source>View privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Afficher la politique de confidentialité</translation>
     </message>
     <message>
         <source>Application has been submitted, we will delete your data as quickly as possible.</source>
@@ -1847,19 +1847,19 @@ Chaque modèle a son style unique . Si vous voulez une interface innovante, vous
     </message>
     <message>
         <source>Eliminate Data</source>
-        <translation type="unfinished"/>
+        <translation>Éliminer les données</translation>
     </message>
     <message>
         <source>Online Service User Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Contrat de l&apos;utilisateur des services en ligne</translation>
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer le compte</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Contrat de Licence d&apos;Utilisateur Final</translation>
     </message>
     <message>
         <source>Network error, please try again later.</source>
