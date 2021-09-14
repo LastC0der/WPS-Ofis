@@ -38,7 +38,7 @@
     </message>
     <message>
         <source>DNS Setting</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan DNS</translation>
     </message>
     <message>
         <source>Login tip</source>
@@ -871,7 +871,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Coba lagi</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
@@ -1204,7 +1204,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Waiting...</source>
-        <translation type="unfinished"/>
+        <translation>Tunggu...</translation>
     </message>
     <message>
         <source>Invalid account</source>
@@ -1216,7 +1216,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Line</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan dengan Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1422,51 +1422,51 @@ Easy mobile office.</source>
     <name>KNetworkDnsErrDlg</name>
     <message>
         <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation type="unfinished"/>
+        <translation>Sesi layanan sudah habis. Coba lagi atau lihat</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Waktu pemuatan halaman habis, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
         <source>Service timeout</source>
-        <translation type="unfinished"/>
+        <translation>Sesi layanan sudah habis.</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan jaringan, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
         <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation type="unfinished"/>
+        <translation>Waktu permintaan habis. Silakan coba lagi dengan mengklik tombol segarkan sebelum memeriksa pengaturan DNS Anda.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>An error occurred,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Segarkan</translation>
     </message>
     <message>
         <source>Sync login info failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Penyinkronan info akses masuk gagal, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
         <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat mengakses server Akun WPS, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen Pengaturan DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Pemuatan halaman gagal, cek jaringan Anda dan coba lagi</translation>
     </message>
 </context>
 <context>
