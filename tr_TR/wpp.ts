@@ -2644,7 +2644,7 @@ Check</source>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>Windows Media Video(*.wmv)|*.wmv</source>
@@ -3969,7 +3969,7 @@ Check</source>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>Circle</source>
@@ -4017,7 +4017,7 @@ Check</source>
     </message>
     <message>
         <source>Expand</source>
-        <translation type="unfinished"/>
+        <translation>Genişlet</translation>
     </message>
     <message>
         <source>Grow/Shrink</source>
@@ -4318,7 +4318,7 @@ Check</source>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"/>
+        <translation>Daralt</translation>
     </message>
     <message>
         <source>Magnify</source>
@@ -5581,7 +5581,7 @@ fill, shadow, reflection, glow, soft edge, 3D rotation, transfer</source>
     </message>
     <message>
         <source>(No Suggestions)</source>
-        <translation type="unfinished"/>
+        <translation>(Öneri Yok)</translation>
     </message>
     <message>
         <source>Recommended to save as pptx</source>
@@ -5667,7 +5667,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Change</source>
         <comment>wpp_sModifyOperation</comment>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
@@ -10149,7 +10149,7 @@ Slide</source>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Daralt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
@@ -12231,7 +12231,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Daralt</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
@@ -13147,7 +13147,7 @@ Template</source>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>Slide Show</source>
@@ -13344,7 +13344,7 @@ Template</source>
     </message>
     <message>
         <source>Slides List</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Listesi</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
@@ -20387,7 +20387,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
-        <translation type="unfinished"/>
+        <translation>Bu işlev, WPS Ofis 2009 Profesyonel&apos;de sunulmaktadır.</translation>
     </message>
     <message>
         <source>Trim Video</source>
@@ -23874,7 +23874,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Te&amp;xt</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Metin</translation>
     </message>
     <message>
         <source>&amp;Title</source>
@@ -28277,7 +28277,7 @@ Master</source>
     </message>
     <message>
         <source>(No Suggestions)</source>
-        <translation type="unfinished"/>
+        <translation>(Öneri Yok)</translation>
     </message>
 </context>
 <context>
