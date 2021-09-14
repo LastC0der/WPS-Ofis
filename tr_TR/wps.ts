@@ -9796,7 +9796,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Expand</source>
-        <translation type="unfinished"/>
+        <translation>Genişlet</translation>
     </message>
     <message>
         <source>Show Formatting</source>
@@ -9804,7 +9804,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"/>
+        <translation>Daralt</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
@@ -16504,7 +16504,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>Convert</source>
@@ -17912,7 +17912,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Expand</source>
-        <translation type="unfinished"/>
+        <translation>Genişlet</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -18088,7 +18088,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"/>
+        <translation>Daralt</translation>
     </message>
     <message>
         <source>TpXMLMapping</source>
@@ -19765,7 +19765,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>Change all</source>
@@ -33835,7 +33835,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Enter table number:</source>
-        <translation type="unfinished"/>
+        <translation>Tablo nu&amp;marasını girin:</translation>
     </message>
     <message>
         <source>Sounds Like(&amp;Japanese)</source>
@@ -53261,7 +53261,7 @@ to Email</source>
     </message>
     <message>
         <source>Expand</source>
-        <translation type="unfinished"/>
+        <translation>Genişlet</translation>
     </message>
     <message>
         <source>Show Formatting</source>
@@ -53269,7 +53269,7 @@ to Email</source>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"/>
+        <translation>Daralt</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
