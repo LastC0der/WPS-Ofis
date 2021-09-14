@@ -3,11 +3,11 @@
     <name>KVipOpeningWidget</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Reintentar</translation>
     </message>
     <message>
         <source>Transactions</source>
@@ -23,7 +23,7 @@
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Servicio de atención al cliente</translation>
     </message>
     <message>
         <source>Welcome to WPS VIP family.</source>
@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>You have subscribed the VIP service.</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"/>
+        <translation>Reanudar</translation>
     </message>
     <message>
         <source>Try again.</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar</translation>
     </message>
     <message>
         <source>Leave us a message，We will contact you as soon as possible.</source>
@@ -98,15 +98,15 @@
     <name>KVipUpgradeDialog</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Reintentar</translation>
     </message>
     <message>
         <source>Continue to Buy</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Servicio de atención al cliente</translation>
     </message>
     <message>
         <source>Order Error</source>
@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>You have subscribed the VIP service.</source>
@@ -142,7 +142,7 @@
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Error de red</translation>
     </message>
     <message>
         <source>Common Payment Issues</source>
@@ -154,7 +154,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar</translation>
     </message>
     <message>
         <source>Purchase Error</source>
@@ -185,11 +185,11 @@
     <name>KGuideUpgradeVipDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source> Upgrade </source>
@@ -197,45 +197,45 @@
     </message>
     <message>
         <source>Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
 </context>
 <context>
     <name>KLiteContentDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>Null</source>
-        <translation type="unfinished"/>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Waiting</source>
-        <translation type="unfinished"/>
+        <translation>Esperando</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Advertencia</translation>
     </message>
     <message>
         <source>warning</source>
-        <translation type="unfinished"/>
+        <translation>Advertencia</translation>
     </message>
 </context>
 <context>
     <name>KLiteMessageContentDlg</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Close</source>
@@ -269,7 +269,7 @@
     <name>KSevenDaysFreeWidgetV3</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
@@ -277,7 +277,7 @@
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Servicio de atención al cliente</translation>
     </message>
     <message>
         <source>Order Error</source>
@@ -285,7 +285,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>You have subscribed the VIP service.</source>
@@ -309,7 +309,7 @@
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Error de red</translation>
     </message>
     <message>
         <source>Privacy policies</source>
@@ -317,7 +317,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -341,7 +341,7 @@
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Términos de servicio</translation>
     </message>
     <message>
         <source>No network connection, please check whether the network connection is normal first.</source>
@@ -379,11 +379,11 @@
     <name>KThirdCloudConfirmDialog</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sí</translation>
     </message>
     <message>
         <source>The file already exists. Do you want to overwrite it?</source>
@@ -454,7 +454,7 @@ Guarde los datos y reinicie el software WPS para habilitar esta característica.
     <name>KDisclaimerDialog</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Tips：One AppleID can only qualify once</source>
@@ -496,7 +496,7 @@ Guarde los datos y reinicie el software WPS para habilitar esta característica.
     <name>KVUHelper</name>
     <message>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Gratis</translation>
     </message>
     <message>
         <source>Includes all privileges of WPS VIP and Docer VIP</source>
@@ -770,15 +770,15 @@ Guarde los datos y reinicie el software WPS para habilitar esta característica.
     <name>KLiteUpdateMessageDlg</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Más</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Omitir</translation>
     </message>
     <message>
         <source>Remind me tomorrow</source>
@@ -786,21 +786,21 @@ Guarde los datos y reinicie el software WPS para habilitar esta característica.
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"/>
+        <translation>Reiniciar</translation>
     </message>
 </context>
 <context>
     <name>KVipUpgradeLeftWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Más</translation>
     </message>
 </context>
 <context>
     <name>KVipUpgradeRightWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Más</translation>
     </message>
     <message>
         <source>Issue invoice</source>
@@ -808,7 +808,7 @@ Guarde los datos y reinicie el software WPS para habilitar esta característica.
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Servicio de atención al cliente</translation>
     </message>
     <message>
         <source>Call 4006775005 to issue invoice.</source>
@@ -824,7 +824,7 @@ Guarde los datos y reinicie el software WPS para habilitar esta característica.
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Términos de servicio</translation>
     </message>
 </context>
 <context>
@@ -862,19 +862,19 @@ Guarde los datos y reinicie el software WPS para habilitar esta característica.
     <name>KThirdCloudFileTableModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"/>
+        <translation>Modificado</translation>
     </message>
 </context>
 <context>
@@ -911,7 +911,7 @@ Guarde los datos y reinicie el software WPS para habilitar esta característica.
     <name>KWhatIsNewWidgetStartPage</name>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <source>Welcome to WPS Office for Mac</source>
@@ -922,7 +922,7 @@ Guarde los datos y reinicie el software WPS para habilitar esta característica.
     <name>KActivityWidget</name>
     <message>
         <source>close</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Dont remind me</source>
@@ -1089,7 +1089,7 @@ please wait</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Wait a moment...</source>
@@ -1138,15 +1138,15 @@ please wait</source>
     <name>KThirdCloudFileListPage</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Cargar</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Descargar</translation>
     </message>
     <message>
         <source>File Name(N):</source>
@@ -1227,14 +1227,14 @@ Este archivo no se ha cargado en la nube. Por favor, cárguelo en el teléfono m
     <name>KLiteUpdateMessageDlgWhenExpire</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Descargar</translation>
     </message>
 </context>
 <context>
     <name>KUnionVipWidget</name>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>No mostrar de nuevo</translation>
     </message>
 </context>
 <context>
@@ -1279,7 +1279,7 @@ Este archivo no se ha cargado en la nube. Por favor, cárguelo en el teléfono m
     <name>KLiteTrialReminderDlg</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <source>confirm</source>
