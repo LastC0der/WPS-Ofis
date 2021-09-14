@@ -38,7 +38,7 @@
     </message>
     <message>
         <source>DNS Setting</source>
-        <translation type="unfinished"/>
+        <translation>Настройки DNS</translation>
     </message>
     <message>
         <source>Login tip</source>
@@ -870,7 +870,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Повторить</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
@@ -1203,7 +1203,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Waiting...</source>
-        <translation type="unfinished"/>
+        <translation>Ожидание...</translation>
     </message>
     <message>
         <source>Invalid account</source>
@@ -1215,7 +1215,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Line</source>
-        <translation type="unfinished"/>
+        <translation>Продолжить с Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1421,51 +1421,51 @@ Easy mobile office.</source>
     <name>KNetworkDnsErrDlg</name>
     <message>
         <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation type="unfinished"/>
+        <translation>Время ожидания службы истекло. Повторите попытку или обратитесь к</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Истекло время ожидания загрузки страницы. Проверьте сетевое подключение и повторите попытку.</translation>
     </message>
     <message>
         <source>Service timeout</source>
-        <translation type="unfinished"/>
+        <translation>Время ожидания службы истекло.</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка сети. Проверьте сетевое подключение и повторите попытку.</translation>
     </message>
     <message>
         <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation type="unfinished"/>
+        <translation>Истекло время ожидания запроса. Чтобы повторить попытку, нажмите кнопку обновления, прежде чем проверить настройки DNS.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>An error occurred,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Произошла ошибка. Проверьте сетевое подключение и повторите попытку.</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>Sync login info failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка синхронизации сведений для входа. Проверьте сетевое подключение и повторите попытку.</translation>
     </message>
     <message>
         <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка доступа к серверу учетной записи WPS. Проверьте сетевое подключение и повторите попытку.</translation>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation type="unfinished"/>
+        <translation>документу о настройках DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка загрузки страницы. Проверьте сетевое подключение и повторите попытку.</translation>
     </message>
 </context>
 <context>
