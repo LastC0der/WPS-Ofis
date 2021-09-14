@@ -749,7 +749,7 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Are you sure to exit?</source>
-        <translation type="unfinished"/>
+        <translation>¿Está seguro de que desea salir?</translation>
     </message>
     <message>
         <source>Transferring file . Exiting the program will terminate the transfer.</source>
@@ -833,63 +833,63 @@ Elija un nombre de fichero diferente.</translation>
     <name>KItemRenamingLineEditor</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sí</translation>
     </message>
     <message>
         <source>filename cannot contains characters:</source>
-        <translation type="unfinished"/>
+        <translation>El nombre de archivo no puede contener los caracteres:</translation>
     </message>
     <message>
         <source>Duplicate Filenames</source>
-        <translation type="unfinished"/>
+        <translation>Nombre de archivo duplicado</translation>
     </message>
     <message>
         <source>file-path&apos;s length is too long, please rename with a shorter one, or move the file to another location.</source>
-        <translation type="unfinished"/>
+        <translation>La ruta del archivo es demasiado larga. Cámbiele el nombre o muévalo a otra ubicación.</translation>
     </message>
     <message>
         <source>filename&apos;s length is limited to %1 characters.</source>
-        <translation type="unfinished"/>
+        <translation>La longitud del nombre de archivo está limitada a %1 caracteres.</translation>
     </message>
     <message>
         <source>Please rename with a shorter one</source>
-        <translation type="unfinished"/>
+        <translation>Cambie el nombre por uno más corto</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modificar</translation>
     </message>
     <message>
         <source>A file with the same name already exists in this location, please rename again</source>
-        <translation type="unfinished"/>
+        <translation>El nombre ya existe en esta ubicación. Cámbielo</translation>
     </message>
     <message>
         <source>Filename cannot be empty</source>
-        <translation type="unfinished"/>
+        <translation>El nombre de archivo no puede estar vacío</translation>
     </message>
     <message>
         <source>Modify File&apos;s Suffix</source>
-        <translation type="unfinished"/>
+        <translation>Modificar sufijo de archivo</translation>
     </message>
     <message>
         <source>Filename&apos;s length is too long</source>
-        <translation type="unfinished"/>
+        <translation>El nombre de archivo es demasiado largo</translation>
     </message>
     <message>
         <source>filename cannot be empty.</source>
-        <translation type="unfinished"/>
+        <translation>El nombre de archivo no puede estar vacío.</translation>
     </message>
 </context>
 <context>
@@ -1028,11 +1028,11 @@ Elija un nombre de fichero diferente.</translation>
     <name>KSmartSyncPreSaleTipDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Prompt</source>
-        <translation type="unfinished"/>
+        <translation>Mensaje</translation>
     </message>
 </context>
 <context>
@@ -1059,11 +1059,11 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Go Premium to get more cloud storage</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium para obtener más almacenamiento en la nube.</translation>
     </message>
     <message>
         <source>Go Premium</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
     <message>
         <source>Cloud space %1 has been full</source>
@@ -1649,7 +1649,7 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Continue to delete</source>
-        <translation type="unfinished"/>
+        <translation>Continuar con la supresión</translation>
     </message>
     <message>
         <source>Upload failed. The directory has been deleted. Please save the file to another directory.</source>
@@ -1813,7 +1813,7 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Move file succeed</source>
-        <translation type="unfinished"/>
+        <translation>El archivo se ha movido correctamente</translation>
     </message>
     <message>
         <source>Server callback fail</source>
@@ -1821,11 +1821,11 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Error desconocido</translation>
     </message>
     <message>
         <source>Copy file succeed</source>
-        <translation type="unfinished"/>
+        <translation>El archivo se ha copiado correctamente</translation>
     </message>
     <message>
         <source>We are uploading file for you.</source>
@@ -1921,7 +1921,7 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>file exceeds 1 GB</source>
-        <translation type="unfinished"/>
+        <translation>el archivo excede 1GB</translation>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
@@ -2083,7 +2083,7 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Are you sure to exit?</source>
-        <translation type="unfinished"/>
+        <translation>¿Está seguro de que desea salir?</translation>
     </message>
 </context>
 <context>
@@ -2298,7 +2298,7 @@ Elija un nombre de fichero diferente.</translation>
     <name>KMigrateFileBubble</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Click to show</source>
@@ -2313,15 +2313,15 @@ Elija un nombre de fichero diferente.</translation>
     <name>KSaveAsCloudUploadingDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Reintentar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>A file with the same name exists in the current location</source>
@@ -2337,7 +2337,7 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Error al cargar</translation>
     </message>
     <message>
         <source>Create a copy</source>
@@ -2355,11 +2355,11 @@ Elija un nombre de fichero diferente.</translation>
     <name>TempLoginOpenRoamingDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2412,7 +2412,7 @@ Elija un nombre de fichero diferente.</translation>
     <name>KUploadLimitBubble</name>
     <message>
         <source>QQ</source>
-        <translation type="unfinished"/>
+        <translation>QQ</translation>
     </message>
     <message>
         <source>Continue sync</source>
@@ -2436,15 +2436,15 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Descargar</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"/>
+        <translation>Documentos</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Escritorio</translation>
     </message>
     <message>
         <source>Cancel sync</source>
@@ -2467,11 +2467,11 @@ Elija un nombre de fichero diferente.</translation>
     <name>KDrag2ImDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>link</source>
-        <translation type="unfinished"/>
+        <translation>vínculo</translation>
     </message>
     <message>
         <source>MM-dd</source>
@@ -2483,7 +2483,7 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Yesterday </source>
@@ -2550,7 +2550,7 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>company</source>
-        <translation type="unfinished"/>
+        <translation>Compañía</translation>
     </message>
     <message>
         <source>EduCloud</source>
@@ -3227,7 +3227,7 @@ Compruebe la ruta y el nombre del fichero.</translation>
     </message>
     <message>
         <source>Cloud Backup</source>
-        <translation type="unfinished"/>
+        <translation>Copia de seguridad en la nube</translation>
     </message>
     <message>
         <source>Share</source>
@@ -3247,7 +3247,7 @@ Compruebe la ruta y el nombre del fichero.</translation>
     </message>
     <message>
         <source>Share Folder</source>
-        <translation type="unfinished"/>
+        <translation>Compartir</translation>
     </message>
     <message>
         <source>Roaming Document</source>
@@ -3275,19 +3275,19 @@ Compruebe la ruta y el nombre del fichero.</translation>
     </message>
     <message>
         <source>My Device</source>
-        <translation type="unfinished"/>
+        <translation>Mi dispositivo</translation>
     </message>
     <message>
         <source>Document Roaming</source>
-        <translation type="unfinished"/>
+        <translation>Roaming de Documento</translation>
     </message>
     <message>
         <source>Cloud Team Document</source>
-        <translation type="unfinished"/>
+        <translation>Documento Cloud Team</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Share With Me</source>
@@ -3303,7 +3303,7 @@ Compruebe la ruta y el nombre del fichero.</translation>
     </message>
     <message>
         <source>Desktop Backup</source>
-        <translation type="unfinished"/>
+        <translation>Copia de seguridad del escritorio</translation>
     </message>
     <message>
         <source>QQ Received Backup</source>
@@ -3311,7 +3311,7 @@ Compruebe la ruta y el nombre del fichero.</translation>
     </message>
     <message>
         <source>Share Link</source>
-        <translation type="unfinished"/>
+        <translation>Compartir vínculo</translation>
     </message>
     <message>
         <source>Documents Issued</source>
@@ -3319,15 +3319,15 @@ Compruebe la ruta y el nombre del fichero.</translation>
     </message>
     <message>
         <source>Auto Upload Document</source>
-        <translation type="unfinished"/>
+        <translation>Cargar documento automáticamente</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Escritorio</translation>
     </message>
     <message>
         <source>My Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Mi escritorio</translation>
     </message>
     <message>
         <source>My Cloud</source>
@@ -3343,7 +3343,7 @@ Compruebe la ruta y el nombre del fichero.</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Copia de seguridad automática</translation>
     </message>
     <message>
         <source>My Download Backup</source>
@@ -5300,7 +5300,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>File does not exist</source>
-        <translation type="unfinished"/>
+        <translation>No existe el archivo</translation>
     </message>
 </context>
 <context>
@@ -6924,7 +6924,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Choose folder</source>
-        <translation type="unfinished"/>
+        <translation>Elegir carpeta</translation>
     </message>
 </context>
 <context>
@@ -6961,63 +6961,63 @@ Verifique que el nombre del fichero es correcto.</translation>
     <name>KSyncFolderUploadLimitBubble</name>
     <message>
         <source>%1 files, %2</source>
-        <translation type="unfinished"/>
+        <translation> %1 archivos, %2</translation>
     </message>
     <message>
         <source>WPS cloud space is full, unable to synchronize temporarily</source>
-        <translation type="unfinished"/>
+        <translation>No es posible sincronizar ahora porque el espacio de WPS Cloud está lleno.</translation>
     </message>
     <message>
         <source>WPS Cloud Service %1</source>
-        <translation type="unfinished"/>
+        <translation>Servicio WPS Cloud %1</translation>
     </message>
     <message>
         <source> and so on %1 files</source>
-        <translation type="unfinished"/>
+        <translation> y %1 archivos</translation>
     </message>
     <message>
         <source>View detail</source>
-        <translation type="unfinished"/>
+        <translation>Ver detalles</translation>
     </message>
     <message>
         <source>,Upgrade members can continue to synchronize</source>
-        <translation type="unfinished"/>
+        <translation>. Los miembros que actualizan pueden continuar sincronizando</translation>
     </message>
     <message>
         <source>Upgrade Vip</source>
-        <translation type="unfinished"/>
+        <translation>Actualizar a Premium</translation>
     </message>
     <message>
         <source>Come from %1</source>
-        <translation type="unfinished"/>
+        <translation>de %1</translation>
     </message>
     <message>
         <source>-deskTopSync</source>
-        <translation type="unfinished"/>
+        <translation> - Sincronización de Cloud para escritorio</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1, unable to synchronize temporarily</source>
-        <translation type="unfinished"/>
+        <translation>No es posible sincronizar ahora porque el archivo de subida supera el límite de %1.</translation>
     </message>
     <message>
         <source>total%1</source>
-        <translation type="unfinished"/>
+        <translation>total %1</translation>
     </message>
     <message>
         <source>Over 1GB</source>
-        <translation type="unfinished"/>
+        <translation>Más de 1 GB</translation>
     </message>
     <message>
         <source>The Directory has</source>
-        <translation type="unfinished"/>
+        <translation>La carpeta contiene</translation>
     </message>
     <message>
         <source>The Desktop has</source>
-        <translation type="unfinished"/>
+        <translation>El escritorio contiene</translation>
     </message>
     <message>
         <source>-localSyncFolder</source>
-        <translation type="unfinished"/>
+        <translation> - Sincronización de carpetas</translation>
     </message>
 </context>
 <context>
@@ -7418,7 +7418,7 @@ a
     </message>
     <message>
         <source>local</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo actual</translation>
     </message>
     <message>
         <source>Continue to sync</source>
@@ -7426,7 +7426,7 @@ a
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -7558,7 +7558,7 @@ a
     </message>
     <message>
         <source>Go Premium to continue uploading</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium para continuar subiendo.</translation>
     </message>
     <message>
         <source>Cancel Upload</source>
@@ -7566,7 +7566,7 @@ a
     </message>
     <message>
         <source>upgrade super vip for upload exceeding file</source>
-        <translation type="unfinished"/>
+        <translation>Actualice a Super VIP para cargar los archivos que superan el límite</translation>
     </message>
     <message>
         <source>WPS Cloud File</source>
@@ -7592,7 +7592,7 @@ a
     <name>KCloudDiskInitGuideDlg</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Reintentar</translation>
     </message>
     <message>
         <source>Failed to load, please</source>
@@ -7603,19 +7603,19 @@ a
     <name>LinkErrorWidget</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Reintentar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Link attachment creation failed, please try again</source>
-        <translation type="unfinished"/>
+        <translation>Error al crear un archivo adjunto por vínculo. Vuelva a intentarlo.</translation>
     </message>
     <message>
         <source>Creation failed</source>
-        <translation type="unfinished"/>
+        <translation>La creación ha fallado.</translation>
     </message>
 </context>
 <context>
@@ -8719,7 +8719,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>Go Premium to get more cloud storage</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium para obtener más almacenamiento en la nube.</translation>
     </message>
     <message>
         <source>Your WPS Cloud space is running out</source>
@@ -8731,11 +8731,11 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>Remaining Cloud storage is less than </source>
-        <translation type="unfinished"/>
+        <translation>El almacenamiento en la nube restante es inferior a </translation>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>Archivo de WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -8768,7 +8768,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     <name>KVipStateTipsBubble</name>
     <message>
         <source>Upgrade to VIP</source>
-        <translation type="unfinished"/>
+        <translation>Actualizar a Premium</translation>
     </message>
     <message>
         <source>WPS cloud service</source>
@@ -8776,7 +8776,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Use skill</source>
@@ -8791,7 +8791,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modificar</translation>
     </message>
 </context>
 <context>
@@ -9086,7 +9086,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>Historical versions of documents saved to the cloud are automatically saved after modification</source>
-        <translation type="unfinished"/>
+        <translation>Las versiones del historial se guardan automáticamente en WPS Cloud.</translation>
     </message>
     <message>
         <source>After opening, the modification record of the document will be kept, and you can restore any version with one click.</source>
@@ -9157,39 +9157,39 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     <name>KSaveAsCloudDlg20</name>
     <message>
         <source>AttachmentLink</source>
-        <translation type="unfinished"/>
+        <translation>Archivo adjunto por vínculo</translation>
     </message>
     <message>
         <source>select location&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Seleccionar ubicación &gt;</translation>
     </message>
     <message>
         <source>&apos;s cloud space</source>
-        <translation type="unfinished"/>
+        <translation>espacio de Cloud</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Upload location</source>
-        <translation type="unfinished"/>
+        <translation>Ubicación de carga</translation>
     </message>
     <message>
         <source>My cloud documents</source>
-        <translation type="unfinished"/>
+        <translation>Mis documentos de Cloud</translation>
     </message>
     <message>
         <source>Upload to the cloud</source>
-        <translation type="unfinished"/>
+        <translation>Cargar a Cloud</translation>
     </message>
     <message>
         <source>Shared folder</source>
-        <translation type="unfinished"/>
+        <translation>Carpetas compartidas</translation>
     </message>
     <message>
         <source>Kingsoft Document</source>
-        <translation type="unfinished"/>
+        <translation>Documentos de WPS</translation>
     </message>
 </context>
 <context>
@@ -9330,7 +9330,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -9364,7 +9364,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Batch download is VIP privilege, please upgrade to VIP.</source>
@@ -9372,7 +9372,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>please upgrade vip</source>
-        <translation type="unfinished"/>
+        <translation>Actualice a VIP</translation>
     </message>
     <message>
         <source>Upgrade VIP, the count of batch download can upgrade to %1 at most</source>
@@ -9395,15 +9395,15 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     <name>KPayGuideWidgetMgr</name>
     <message>
         <source>Cancel download</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar la descarga</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>The number of members of the Shared folder has reached its maximum</source>
@@ -9725,11 +9725,11 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Actualizar a VIP</translation>
     </message>
 </context>
 <context>
@@ -9762,7 +9762,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Entendido</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
@@ -9774,7 +9774,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Error al cargar</translation>
     </message>
     <message>
         <source>Manage cloud storage space</source>
@@ -9860,19 +9860,19 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     <name>KSpaceFullEarlyWarningBubbleXa</name>
     <message>
         <source>Go Premium to get more cloud storage</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium para obtener más almacenamiento en la nube.</translation>
     </message>
     <message>
         <source>Go Premium</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
     <message>
         <source>Remaining Cloud storage is less than </source>
-        <translation type="unfinished"/>
+        <translation>El almacenamiento en la nube restante es inferior a </translation>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>Archivo de WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -9980,22 +9980,22 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     <name>KCloudMsgBoxBase</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Ensure</source>
-        <translation type="unfinished"/>
+        <translation>Por supuesto</translation>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>Documento de WPS Cloud</translation>
     </message>
 </context>
 <context>
     <name>KOverlayIconRepairWidget</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Repair file synchronization status</source>
@@ -10003,7 +10003,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Entendido</translation>
     </message>
     <message>
         <source>Fix now</source>
@@ -10035,7 +10035,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     <name>KSyncFolderSuccessWidget</name>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Entendido</translation>
     </message>
 </context>
 <context>
@@ -10209,7 +10209,7 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar</translation>
     </message>
 </context>
 <context>
@@ -10310,7 +10310,7 @@ Fecha y hora de actualización: %1</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
-        <translation type="unfinished"/>
+        <translation>Error al cargar el archivo porque se ha superado el límite de %1 M {1?}</translation>
     </message>
     <message>
         <source>Come from %1</source>
@@ -10318,7 +10318,7 @@ Fecha y hora de actualización: %1</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar</translation>
     </message>
 </context>
 <context>
@@ -10477,7 +10477,7 @@ Fecha y hora de actualización: %1</translation>
     <name>KShortcutSettingsWidget</name>
     <message>
         <source>Desktop Search</source>
-        <translation type="unfinished"/>
+        <translation>Búsqueda de escritorio</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -10531,7 +10531,7 @@ Fecha y hora de actualización: %1</translation>
     <name>KWpsRadioButton</name>
     <message>
         <source>Recommand</source>
-        <translation type="unfinished"/>
+        <translation>Recomendado</translation>
     </message>
 </context>
 <context>
