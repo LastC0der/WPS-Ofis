@@ -830,63 +830,63 @@ Please choose a different file name.</source>
     <name>KItemRenamingLineEditor</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>filename cannot contains characters:</source>
-        <translation type="unfinished"/>
+        <translation>Filename can not contains characters:</translation>
     </message>
     <message>
         <source>Duplicate Filenames</source>
-        <translation type="unfinished"/>
+        <translation>Duplicate Filename</translation>
     </message>
     <message>
         <source>file-path&apos;s length is too long, please rename with a shorter one, or move the file to another location.</source>
-        <translation type="unfinished"/>
+        <translation>File path is too long, please rename, or move to another location.</translation>
     </message>
     <message>
         <source>filename&apos;s length is limited to %1 characters.</source>
-        <translation type="unfinished"/>
+        <translation>Filename cannot be longer than %1 characters.</translation>
     </message>
     <message>
         <source>Please rename with a shorter one</source>
-        <translation type="unfinished"/>
+        <translation>Please rename with a shorter one</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modify</translation>
     </message>
     <message>
         <source>A file with the same name already exists in this location, please rename again</source>
-        <translation type="unfinished"/>
+        <translation>A file with the same name already exists in this location, please rename it</translation>
     </message>
     <message>
         <source>Filename cannot be empty</source>
-        <translation type="unfinished"/>
+        <translation>Filename can not be empty</translation>
     </message>
     <message>
         <source>Modify File&apos;s Suffix</source>
-        <translation type="unfinished"/>
+        <translation>Change file suffix</translation>
     </message>
     <message>
         <source>Filename&apos;s length is too long</source>
-        <translation type="unfinished"/>
+        <translation>Filename is too long</translation>
     </message>
     <message>
         <source>filename cannot be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Filename can not be empty.</translation>
     </message>
 </context>
 <context>
@@ -1025,11 +1025,11 @@ Please choose a different file name.</source>
     <name>KSmartSyncPreSaleTipDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Prompt</source>
-        <translation type="unfinished"/>
+        <translation>Prompt</translation>
     </message>
 </context>
 <context>
@@ -1060,7 +1060,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Go Premium</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
     <message>
         <source>Cloud space %1 has been full</source>
@@ -1646,7 +1646,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Continue to delete</source>
-        <translation type="unfinished"/>
+        <translation>Continue to delete</translation>
     </message>
     <message>
         <source>Upload failed. The directory has been deleted. Please save the file to another directory.</source>
@@ -1810,7 +1810,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Move file succeed</source>
-        <translation type="unfinished"/>
+        <translation>Moving file succeed</translation>
     </message>
     <message>
         <source>Server callback fail</source>
@@ -1818,11 +1818,11 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>Copy file succeed</source>
-        <translation type="unfinished"/>
+        <translation>Copying file succeed</translation>
     </message>
     <message>
         <source>We are uploading file for you.</source>
@@ -2295,7 +2295,7 @@ Please choose a different file name.</source>
     <name>KMigrateFileBubble</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Click to show</source>
@@ -2310,23 +2310,23 @@ Please choose a different file name.</source>
     <name>KSaveAsCloudUploadingDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>A file with the same name exists in the current location</source>
-        <translation type="unfinished"/>
+        <translation>Duplicate file name</translation>
     </message>
     <message>
         <source>Whether to replace &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>A file with the same name already exists in the current location. Do you want to replace &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Uploading document...</source>
@@ -2334,7 +2334,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Upload failed</translation>
     </message>
     <message>
         <source>Create a copy</source>
@@ -2352,11 +2352,11 @@ Please choose a different file name.</source>
     <name>TempLoginOpenRoamingDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -2409,7 +2409,7 @@ Please choose a different file name.</source>
     <name>KUploadLimitBubble</name>
     <message>
         <source>QQ</source>
-        <translation type="unfinished"/>
+        <translation>QQ</translation>
     </message>
     <message>
         <source>Continue sync</source>
@@ -2433,15 +2433,15 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Download</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"/>
+        <translation>Documents</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Desktop</translation>
     </message>
     <message>
         <source>Cancel sync</source>
@@ -2464,11 +2464,11 @@ Please choose a different file name.</source>
     <name>KDrag2ImDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>link</source>
-        <translation type="unfinished"/>
+        <translation>link</translation>
     </message>
     <message>
         <source>MM-dd</source>
@@ -2480,7 +2480,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Yesterday </source>
@@ -2547,7 +2547,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>company</source>
-        <translation type="unfinished"/>
+        <translation>Company</translation>
     </message>
     <message>
         <source>EduCloud</source>
@@ -3242,7 +3242,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Share Folder</source>
-        <translation type="unfinished"/>
+        <translation>Share</translation>
     </message>
     <message>
         <source>Roaming Document</source>
@@ -3282,7 +3282,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Share With Me</source>
@@ -4067,7 +4067,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Create shortcut of WPS CloudFile failed!</source>
-        <translation type="unfinished"/>
+        <translation>Create shortcut of WPS CloudFile failed!</translation>
     </message>
     <message>
         <source>livecenter debug window</source>
@@ -4192,7 +4192,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
-        <translation type="unfinished"/>
+        <translation>Shortcut of WPS CloudFile has been created, you can find it on desktop</translation>
     </message>
     <message>
         <source>File download error</source>
@@ -5288,7 +5288,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>File does not exist</source>
-        <translation type="unfinished"/>
+        <translation>File does not exist</translation>
     </message>
 </context>
 <context>
@@ -6949,63 +6949,63 @@ Please verify the correct file name was given.</source>
     <name>KSyncFolderUploadLimitBubble</name>
     <message>
         <source>%1 files, %2</source>
-        <translation type="unfinished"/>
+        <translation> %1 files, %2</translation>
     </message>
     <message>
         <source>WPS cloud space is full, unable to synchronize temporarily</source>
-        <translation type="unfinished"/>
+        <translation>Unable to sync now because WPS Cloud space is full.</translation>
     </message>
     <message>
         <source>WPS Cloud Service %1</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud Service %1</translation>
     </message>
     <message>
         <source> and so on %1 files</source>
-        <translation type="unfinished"/>
+        <translation> and %1 files</translation>
     </message>
     <message>
         <source>View detail</source>
-        <translation type="unfinished"/>
+        <translation>View Details</translation>
     </message>
     <message>
         <source>,Upgrade members can continue to synchronize</source>
-        <translation type="unfinished"/>
+        <translation>, Upgrade members can continue to synchronize</translation>
     </message>
     <message>
         <source>Upgrade Vip</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
     <message>
         <source>Come from %1</source>
-        <translation type="unfinished"/>
+        <translation>from %1</translation>
     </message>
     <message>
         <source>-deskTopSync</source>
-        <translation type="unfinished"/>
+        <translation> - Desktop Cloud Sync</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1, unable to synchronize temporarily</source>
-        <translation type="unfinished"/>
+        <translation>Unable to sync now because the upload file exceeds the %1 limit.</translation>
     </message>
     <message>
         <source>total%1</source>
-        <translation type="unfinished"/>
+        <translation>total %1</translation>
     </message>
     <message>
         <source>Over 1GB</source>
-        <translation type="unfinished"/>
+        <translation>Over 1 GB</translation>
     </message>
     <message>
         <source>The Directory has</source>
-        <translation type="unfinished"/>
+        <translation>The folder contains</translation>
     </message>
     <message>
         <source>The Desktop has</source>
-        <translation type="unfinished"/>
+        <translation>The desktop contains</translation>
     </message>
     <message>
         <source>-localSyncFolder</source>
-        <translation type="unfinished"/>
+        <translation> - Sync Folders</translation>
     </message>
 </context>
 <context>
@@ -7398,7 +7398,7 @@ to
     </message>
     <message>
         <source>local</source>
-        <translation type="unfinished"/>
+        <translation>Current device</translation>
     </message>
     <message>
         <source>Continue to sync</source>
@@ -7406,7 +7406,7 @@ to
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -7572,7 +7572,7 @@ to
     <name>KCloudDiskInitGuideDlg</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Failed to load, please</source>
@@ -7583,19 +7583,19 @@ to
     <name>LinkErrorWidget</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Link attachment creation failed, please try again</source>
-        <translation type="unfinished"/>
+        <translation>Failed to create a link attachment. Please try again.</translation>
     </message>
     <message>
         <source>Creation failed</source>
-        <translation type="unfinished"/>
+        <translation>Creation failed.</translation>
     </message>
 </context>
 <context>
@@ -8704,7 +8704,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud File</translation>
     </message>
 </context>
 <context>
@@ -8737,7 +8737,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KVipStateTipsBubble</name>
     <message>
         <source>Upgrade to VIP</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
     <message>
         <source>WPS cloud service</source>
@@ -8745,7 +8745,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Use skill</source>
@@ -8760,7 +8760,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modify</translation>
     </message>
 </context>
 <context>
@@ -9011,19 +9011,19 @@ have libgstreamer-plugins-base installed.</source>
     <name>KSaveAsCloudDlg20Manager</name>
     <message>
         <source>Only documents saved to the cloud can add to quickAccess</source>
-        <translation type="unfinished"/>
+        <translation>Only documents saved to the Cloud can be added to &quot;Quick Access&quot;</translation>
     </message>
     <message>
         <source>After uploading, when the document is modified by others, you will be notified in WPS Office Assistant - message.</source>
-        <translation type="unfinished"/>
+        <translation>After saving, you will be notified in WPS Office Assistant - Message when the document is modified by others.</translation>
     </message>
     <message>
         <source>After uploading, you can share the cloud document with others to edit it together.</source>
-        <translation type="unfinished"/>
+        <translation>After saving, you can share the Cloud document with others to edit it together.</translation>
     </message>
     <message>
         <source>Documents saved to the cloud can create document links, share them with others or edit them together.</source>
-        <translation type="unfinished"/>
+        <translation>Documents saved to the Cloud can create document links, share them with others or edit them together.</translation>
     </message>
     <message>
         <source>Only documents saved to the cloud can be concerned about document modification.</source>
@@ -9039,11 +9039,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Save to cloud space to open &apos;Auto save&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Save to the Cloud to enable &quot;Autosave&quot;</translation>
     </message>
     <message>
         <source>After uploading, the link attachment will be automatically generated and added to the current document</source>
-        <translation type="unfinished"/>
+        <translation>After saving, the link attachment will be automatically generated and added to the current document.</translation>
     </message>
     <message>
         <source>Save to cloud space to open &apos;Cloud Sync&apos;</source>
@@ -9051,23 +9051,23 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Save As Cloud Open &apos;Attachment Link&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Save to the Cloud to enable &quot;Attachment Link&quot;</translation>
     </message>
     <message>
         <source>Historical versions of documents saved to the cloud are automatically saved after modification</source>
-        <translation type="unfinished"/>
+        <translation>History versions are automatically saved to WPS Cloud.</translation>
     </message>
     <message>
         <source>After opening, the modification record of the document will be kept, and you can restore any version with one click.</source>
-        <translation type="unfinished"/>
+        <translation>After saving, the modification record of the document will be saved, and you can restore any version with one click.</translation>
     </message>
     <message>
         <source>Save to cloud space to open &apos;Join multi person editor&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Save to the Cloud to enable &quot;Join multi-user editor&quot;</translation>
     </message>
     <message>
         <source>Save to cloud space to open &apos;Historical version&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Save to the Cloud to enable &quot;Historical Version&quot;</translation>
     </message>
     <message>
         <source>After uploading, you can access the document quickly on the home page.</source>
@@ -9075,7 +9075,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Save to cloud space to open &apos;Link attachments&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Save to the Cloud to enable &quot;Link Attachments&quot;</translation>
     </message>
     <message>
         <source>Documents saved to the cloud will generate historical version.</source>
@@ -9091,15 +9091,15 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Save to cloud space to open &apos;Quick access&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Save to the Cloud to enable &quot;Quick Access&quot;</translation>
     </message>
     <message>
         <source>After uploading, the modified document will be saved for you automatically</source>
-        <translation type="unfinished"/>
+        <translation>After saving, the modified document will be saved automatically.</translation>
     </message>
     <message>
         <source>Save to cloud space to open &apos;Focus on document modification&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Save to the Cloud to enable &quot;Follow Document Modification&quot;</translation>
     </message>
     <message>
         <source>After saving to the WPS cloud space, you can turn on the auto-save function.</source>
@@ -9107,7 +9107,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Save to cloud space to open &apos;Share&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Save to the Cloud to enable &quot;Share&quot;</translation>
     </message>
     <message>
         <source>After joining, you can edit the document in real time with others.</source>
@@ -9115,50 +9115,50 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Documents saved to the cloud can be edited by multiple people.</source>
-        <translation type="unfinished"/>
+        <translation>Documents saved to the Cloud can be edited by multiple people.</translation>
     </message>
     <message>
         <source>After uploading, the file can be accessed in the cloud on other devices.</source>
-        <translation type="unfinished"/>
+        <translation>After uploading, the file can be accessed in the Cloud on other devices.</translation>
     </message>
 </context>
 <context>
     <name>KSaveAsCloudDlg20</name>
     <message>
         <source>AttachmentLink</source>
-        <translation type="unfinished"/>
+        <translation>Link Attachment</translation>
     </message>
     <message>
         <source>select location&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Select location &gt;</translation>
     </message>
     <message>
         <source>&apos;s cloud space</source>
-        <translation type="unfinished"/>
+        <translation>apos;s Cloud space</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Upload location</source>
-        <translation type="unfinished"/>
+        <translation>Upload Location</translation>
     </message>
     <message>
         <source>My cloud documents</source>
-        <translation type="unfinished"/>
+        <translation>My Cloud Documents</translation>
     </message>
     <message>
         <source>Upload to the cloud</source>
-        <translation type="unfinished"/>
+        <translation>Upload to Cloud</translation>
     </message>
     <message>
         <source>Shared folder</source>
-        <translation type="unfinished"/>
+        <translation>Shared Folders</translation>
     </message>
     <message>
         <source>Kingsoft Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Docs</translation>
     </message>
 </context>
 <context>
@@ -9299,7 +9299,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -9333,7 +9333,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Batch download is VIP privilege, please upgrade to VIP.</source>
@@ -9341,7 +9341,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>please upgrade vip</source>
-        <translation type="unfinished"/>
+        <translation>please upgrade vip</translation>
     </message>
     <message>
         <source>Upgrade VIP, the count of batch download can upgrade to %1 at most</source>
@@ -9364,15 +9364,15 @@ have libgstreamer-plugins-base installed.</source>
     <name>KPayGuideWidgetMgr</name>
     <message>
         <source>Cancel download</source>
-        <translation type="unfinished"/>
+        <translation>Cancel download</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>The number of members of the Shared folder has reached its maximum</source>
@@ -9694,11 +9694,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Upgrade VIP</translation>
     </message>
 </context>
 <context>
@@ -9716,7 +9716,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>and so on %1 files</source>
-        <translation type="unfinished"/>
+        <translation> and so on %1 files</translation>
     </message>
 </context>
 <context>
@@ -9731,7 +9731,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Got it</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
@@ -9743,7 +9743,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Upload failed</translation>
     </message>
     <message>
         <source>Manage cloud storage space</source>
@@ -9831,7 +9831,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Go Premium</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
     <message>
         <source>Remaining Cloud storage is less than </source>
@@ -9839,7 +9839,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud File</translation>
     </message>
 </context>
 <context>
@@ -9947,22 +9947,22 @@ have libgstreamer-plugins-base installed.</source>
     <name>KCloudMsgBoxBase</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Ensure</source>
-        <translation type="unfinished"/>
+        <translation>Sure</translation>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
 </context>
 <context>
     <name>KOverlayIconRepairWidget</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Repair file synchronization status</source>
@@ -9970,7 +9970,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Got it</translation>
     </message>
     <message>
         <source>Fix now</source>
@@ -10002,7 +10002,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KSyncFolderSuccessWidget</name>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Got it</translation>
     </message>
 </context>
 <context>
@@ -10176,7 +10176,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirm</translation>
     </message>
 </context>
 <context>
@@ -10277,7 +10277,7 @@ Time for upgrade: %1</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
-        <translation type="unfinished"/>
+        <translation>Failed to upload file that exceeding %1M {1?}</translation>
     </message>
     <message>
         <source>Come from %1</source>
@@ -10285,7 +10285,7 @@ Time for upgrade: %1</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirm</translation>
     </message>
 </context>
 <context>
