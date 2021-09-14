@@ -38,7 +38,7 @@
     </message>
     <message>
         <source>DNS Setting</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienia DNS</translation>
     </message>
     <message>
         <source>Login tip</source>
@@ -872,7 +872,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Spróbuj ponownie</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
@@ -1205,7 +1205,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Waiting...</source>
-        <translation type="unfinished"/>
+        <translation>Oczekiwanie...</translation>
     </message>
     <message>
         <source>Invalid account</source>
@@ -1217,7 +1217,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Line</source>
-        <translation type="unfinished"/>
+        <translation>Kontynuuj przez Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1423,51 +1423,51 @@ Easy mobile office.</source>
     <name>KNetworkDnsErrDlg</name>
     <message>
         <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation type="unfinished"/>
+        <translation>Upłynął limit czasu usługi. Spróbuj ponownie lub zobacz</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Przekroczono limit czasu wczytywania strony, sprawdź połączenie z siecią i spróbuj ponownie</translation>
     </message>
     <message>
         <source>Service timeout</source>
-        <translation type="unfinished"/>
+        <translation>Upłynął limit czasu usługi.</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Błąd sieci, sprawdź połączenie z siecią i spróbuj ponownie</translation>
     </message>
     <message>
         <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation type="unfinished"/>
+        <translation>Upłynął limit czasu żądania. Przed sprawdzeniem ustawień DNS spróbuj ponownie, klikając przycisk odświeżania.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>An error occurred,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Wystąpił błąd, sprawdź połączenie z siecią i spróbuj ponownie</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Odśwież</translation>
     </message>
     <message>
         <source>Sync login info failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Synchronizacja danych logowania nie powiodła się, sprawdź połączenie z siecią i spróbuj ponownie</translation>
     </message>
     <message>
         <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Brak dostępu do serwera konta WPS, sprawdź połączenie z siecią i spróbuj ponownie</translation>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation type="unfinished"/>
+        <translation>dokument z ustawieniami DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Nie udało się wczytać strony, sprawdź połączenie z siecią i spróbuj ponownie</translation>
     </message>
 </context>
 <context>
