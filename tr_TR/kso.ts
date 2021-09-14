@@ -13913,7 +13913,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -14654,7 +14654,7 @@ You can choose Read-only button to open it as read-only.</source>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>Document Image Files</source>
@@ -20429,7 +20429,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Dar&amp;k</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;oyu</translation>
     </message>
     <message>
         <source>Green</source>
@@ -21815,7 +21815,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Add text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>3rd Qtr</source>
