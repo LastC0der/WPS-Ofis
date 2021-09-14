@@ -3,34 +3,34 @@
     <name>KAccountMessageContentDlg</name>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
     <name>KNetworkErrWidget</name>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>CheckNetwork</source>
-        <translation>Comprobar la red</translation>
+        <translation>CheckNetwork</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation>Error de red; compruebe la red e inténtelo de nuevo</translation>
+        <translation>Network error,check you network and retry</translation>
     </message>
     <message>
         <source>Widget</source>
@@ -38,432 +38,432 @@
     </message>
     <message>
         <source>DNS Setting</source>
-        <translation type="unfinished"/>
+        <translation>DNS Settings</translation>
     </message>
     <message>
         <source>Login tip</source>
-        <translation>Aviso de inicio de sesión</translation>
+        <translation>Sign in Notice</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation>Text Label</translation>
     </message>
 </context>
 <context>
     <name>KProxySettingDlg</name>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Prueba</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Puerto:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Tipo:</translation>
+        <translation>Type:</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation>No utilizar proxy</translation>
+        <translation>Do not use proxy</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
-        <translation>Proxy HTTP</translation>
+        <translation>HTTP proxy</translation>
     </message>
     <message>
         <source>Internet Explorer Proxy</source>
-        <translation>Proxy de Internet Explorer</translation>
+        <translation>Internet Explorer Proxy</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation>Nombre de usuario:</translation>
+        <translation>User name:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation>Configuración de proxy</translation>
+        <translation>Proxy settings</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
-        <translation>Conectado al servidor proxy correctamente</translation>
+        <translation>Connected to proxy server correctly</translation>
     </message>
     <message>
         <source>Failed to connect to proxy server</source>
-        <translation>No se pudo conectar al servidor proxy</translation>
+        <translation>Failed to connect to proxy server</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Contraseña:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Dirección:</translation>
+        <translation>Address:</translation>
     </message>
 </context>
 <context>
     <name>KUserAgreeMentDlg</name>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>We care about your data and user privacy, here is</source>
-        <translation>Sus datos y su privacidad de usuario nos importan. Este es</translation>
+        <translation>We care about your data and user privacy. Here is</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>WPS Office Cloud Services User Agreement.</source>
-        <translation>el Contrato de usuario de servicios de WPS Office Cloud.</translation>
+        <translation>the WPS Office Cloud Services User Agreement.</translation>
     </message>
     <message>
         <source>Please read and continue.</source>
-        <translation>Léalo antes de continuar.</translation>
+        <translation>Please read before you continue.</translation>
     </message>
     <message>
         <source>Terms of service</source>
-        <translation>Términos de servicio</translation>
+        <translation>Terms of Service</translation>
     </message>
 </context>
 <context>
     <name>account_sdk::KProxySettingDlg</name>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Prueba</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Puerto:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Tipo:</translation>
+        <translation>Type:</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation>No utilizar proxy</translation>
+        <translation>Do not use proxy</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
-        <translation>Proxy HTTP</translation>
+        <translation>HTTP proxy</translation>
     </message>
     <message>
         <source>Internet Explorer Proxy</source>
-        <translation>Proxy de Internet Explorer</translation>
+        <translation>Internet Explorer Proxy</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation>Nombre de usuario:</translation>
+        <translation>User name:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation>Configuración de proxy</translation>
+        <translation>Proxy settings</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
-        <translation>Conectado al servidor proxy correctamente</translation>
+        <translation>Connected to proxy server correctly</translation>
     </message>
     <message>
         <source>Failed to connect to proxy server</source>
-        <translation>No se pudo conectar al servidor proxy</translation>
+        <translation>Failed to connect to proxy server</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Contraseña:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Dirección:</translation>
+        <translation>Address:</translation>
     </message>
 </context>
 <context>
     <name>interface_setmenu</name>
     <message>
         <source>Add</source>
-        <translation>Agregar</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Cortar</translation>
+        <translation>Cut</translation>
     </message>
     <message>
         <source>Sync</source>
-        <translation>Sincronizar</translation>
+        <translation>Sync</translation>
     </message>
     <message>
         <source>MenuCount:</source>
-        <translation>Recuento de menú:</translation>
+        <translation>MenuCount:</translation>
     </message>
 </context>
 <context>
     <name>MenuItemView</name>
     <message>
         <source>Id:</source>
-        <translation>Id.:</translation>
+        <translation>Id:</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation>Texto:</translation>
+        <translation>Text:</translation>
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation>Acceso directo:</translation>
+        <translation>Shortcut:</translation>
     </message>
 </context>
 <context>
     <name>demo_ts</name>
     <message>
         <source>Exec</source>
-        <translation>Ejecutar</translation>
+        <translation>Exec</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Archivo</translation>
+        <translation>File</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Guardar</translation>
+        <translation>Save</translation>
     </message>
     <message>
         <source>Userid : %1 login...</source>
-        <translation>Id. de usuario: %1 inicio de sesión...</translation>
+        <translation>UserID : %1 login...</translation>
     </message>
     <message>
         <source>_initUI...</source>
-        <translation>_IU de inicialización...</translation>
+        <translation>_initUI...</translation>
     </message>
     <message>
         <source>sdk Changed......%1</source>
-        <translation>SDK modificado......%1</translation>
+        <translation>SDK Changed...%1</translation>
     </message>
     <message>
         <source>save config file : </source>
-        <translation>Guardar archivo de configuración: </translation>
+        <translation>Save config file : </translation>
     </message>
     <message>
         <source>SyncType : %1
   BeforeUserID : %2
   AfterUserID : %3</source>
-        <translation>Tipo de sincronización: %1
-  Antes del Id. de usuario: %2
-  Después del Id. de usuario: %3</translation>
+        <translation>SyncType : %1
+  BeforeUserID : %2
+  AfterUserID : %3</translation>
     </message>
     <message>
         <source>no menu item</source>
-        <translation>no hay elementos de menú</translation>
+        <translation>No menu item</translation>
     </message>
     <message>
         <source>SetMenu return  RESULT : %1</source>
-        <translation>RESULTADO devuelto por Configurar menú: %1</translation>
+        <translation>SetMenu return  RESULT : %1</translation>
     </message>
     <message>
         <source>GetMenu return  RESULT : %1</source>
-        <translation>RESULTADO devuelto por Obtener menú: %1</translation>
+        <translation>GetMenu return  RESULT : %1</translation>
     </message>
     <message>
         <source>Error : load failed...
 %1</source>
-        <translation>Error: error al cargar....
+        <translation>Error : load failed...
 %1</translation>
     </message>
     <message>
         <source>Unknown SyncEvent</source>
-        <translation>Evento de sincronización desconocido</translation>
+        <translation>Unknown SyncEvent</translation>
     </message>
     <message>
         <source>View encrypted file</source>
-        <translation>Ver archivo cifrado</translation>
+        <translation>View encrypted file</translation>
     </message>
     <message>
         <source>SyncMenu...start...</source>
-        <translation>Sincronizar menú...inicio...</translation>
+        <translation>Sync Menu...start...</translation>
     </message>
     <message>
         <source>SyncLogin</source>
-        <translation>Inicio de sesión de sincronización</translation>
+        <translation>SyncLogin</translation>
     </message>
     <message>
         <source>Logout return  ActionId : %1</source>
-        <translation>Id. de acción devuelto por cierre de sesión: %1</translation>
+        <translation>Logout return  ActionId : %1</translation>
     </message>
     <message>
         <source>save succeed...</source>
-        <translation>Guardado correctamente...</translation>
+        <translation>Save succeed...</translation>
     </message>
     <message>
         <source>Logout...start...</source>
-        <translation>Cierre de sesión...inicio...</translation>
+        <translation>Logout...start...</translation>
     </message>
     <message>
         <source>KQingAccountSDK</source>
-        <translation>SDK de cuenta de Qing</translation>
+        <translation>KQingAccountSDK</translation>
     </message>
     <message>
         <source>GetVersion...start...</source>
-        <translation>Obtener versión...inicio...</translation>
+        <translation>Get Version...start...</translation>
     </message>
     <message>
         <source>SetEnv return  RESULT : %1</source>
-        <translation>Establecer ENV y devolver RESULT: %1</translation>
+        <translation>SetEnv return  RESULT : %1</translation>
     </message>
     <message>
         <source>SyncLogout</source>
-        <translation>Cierre de sesión de sincronización</translation>
+        <translation>Sync Logout</translation>
     </message>
     <message>
         <source>Error : dll not exists...
 %1</source>
-        <translation>Error: la dll no existe...
+        <translation>Error : dll not exists...
 %1</translation>
     </message>
     <message>
         <source>Userid : %1 not login</source>
-        <translation>Id. de usuario: %1 sin inicio de sesión</translation>
+        <translation>UserID : %1 not login</translation>
     </message>
     <message>
         <source>SyncRemove</source>
-        <translation>Eliminar sincronización</translation>
+        <translation>Sync Remove</translation>
     </message>
     <message>
         <source>KWpsAccountSDk</source>
-        <translation>SDK de cuenta de WPS</translation>
+        <translation>KWpsAccountSDk</translation>
     </message>
     <message>
         <source>save failed...</source>
-        <translation>Error al guardar...</translation>
+        <translation>Save failed...</translation>
     </message>
     <message>
         <source>UnInit return  RESULT : %1</source>
-        <translation>RESULTADO devuelto por anulación de inicialización: %1</translation>
+        <translation>UnInit return  RESULT : %1</translation>
     </message>
     <message>
         <source>Receive A Message: KAcResultType=%1</source>
-        <translation>Recibir un mensaje: Tipo de resultado de cuenta=%1</translation>
+        <translation>Receive A Message: KAcResultType=%1</translation>
     </message>
     <message>
         <source>SetMenu...start...</source>
-        <translation>Configurar menú...inicio...</translation>
+        <translation>Set Menu...start...</translation>
     </message>
     <message>
         <source>Login...start...</source>
-        <translation>Inicio de sesión...inicio...</translation>
+        <translation>Login...start...</translation>
     </message>
     <message>
         <source>UnInit...start...</source>
-        <translation>Anulación de inicialización...inicio...</translation>
+        <translation>UnInit...start...</translation>
     </message>
     <message>
         <source>Init...start...</source>
-        <translation>Inicialización...inicio...</translation>
+        <translation>Init...start...</translation>
     </message>
     <message>
         <source>ProxySettingParamType Message</source>
-        <translation>Mensaje de tipo de parámetro de configuración de proxy</translation>
+        <translation>ProxySettingParamType Message</translation>
     </message>
     <message>
         <source>Exception : MessageType is %1</source>
-        <translation>Excepción: el tipo de mensaje es %1</translation>
+        <translation>Exception : MessageType is %1</translation>
     </message>
     <message>
         <source>GetMenu...start...</source>
-        <translation>Obtener menú...inicio...</translation>
+        <translation>Get Menu...start...</translation>
     </message>
     <message>
         <source>load failed...</source>
-        <translation>Error al cargar...</translation>
+        <translation>Load failed...</translation>
     </message>
     <message>
         <source>load Config file : </source>
-        <translation>Cargar archivo de configuración: </translation>
+        <translation>Load config file : </translation>
     </message>
     <message>
         <source>SetProxy...start...</source>
-        <translation>Configurar proxy...inicio...</translation>
+        <translation>Set Proxy...start...</translation>
     </message>
     <message>
         <source>K3rdAccountSDK</source>
-        <translation>SDK de tercera cuenta</translation>
+        <translation>K3rdAccountSDK</translation>
     </message>
     <message>
         <source>SetProxy return  RESULT : %1</source>
-        <translation>RESULTADO devuelto por Configurar proxy: %1</translation>
+        <translation>SetProxy return  RESULT : %1</translation>
     </message>
     <message>
         <source>The DLL Version: %1</source>
-        <translation>Versión de la DLL: %1</translation>
+        <translation>DLL Version: %1</translation>
     </message>
     <message>
         <source>Login return  ActionId : %1</source>
-        <translation>Id. de acción devuelto por inicio de sesión: %1</translation>
+        <translation>Login return  ActionId : %1</translation>
     </message>
     <message>
         <source>user cancel...</source>
-        <translation>Cancelado por el usuario...</translation>
+        <translation>User cancel...</translation>
     </message>
     <message>
         <source>ShowUpgradeVip...start...</source>
-        <translation>Mostrar actualización VIP...Iniciar...</translation>
+        <translation>ShowUpgradeVip...start...</translation>
     </message>
     <message>
         <source>MenuItem Clicked: ID=%1</source>
-        <translation>Elemento de menú en el que se ha hecho clic: Id. = %1</translation>
+        <translation>MenuItem Clicked: ID=%1</translation>
     </message>
     <message>
         <source>Userid : %1 has been log off...</source>
-        <translation>Id. de usuario: %1 se ha cerrado la sesión...</translation>
+        <translation>UserID : %1 has been log off...</translation>
     </message>
     <message>
         <source>load succeed...</source>
-        <translation>Cargado correctamente...</translation>
+        <translation>Load succeed...</translation>
     </message>
     <message>
         <source>Init return  RESULT : %1</source>
-        <translation>RESULTADO devuelto por inicialización: %1</translation>
+        <translation>Init return  RESULT : %1</translation>
     </message>
     <message>
         <source>SetEnv...start...</source>
-        <translation>Establecer ENV...Iniciar...</translation>
+        <translation>SetEnv...start...</translation>
     </message>
 </context>
 <context>
     <name>KMessageboxWidget</name>
     <message>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>Go login</source>
-        <translation>Iniciar sesión</translation>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>Widget</source>
@@ -474,11 +474,11 @@
     <name>accountdemoClass</name>
     <message>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation>Open</translation>
     </message>
     <message>
         <source>SDK:</source>
@@ -486,15 +486,15 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation>Borrar</translation>
+        <translation>Clear</translation>
     </message>
     <message>
         <source>checkWpsSid</source>
-        <translation>Comprobar SID de WPS</translation>
+        <translation>checkWpsSid</translation>
     </message>
     <message>
         <source>View encrypted file</source>
-        <translation>Ver archivo cifrado</translation>
+        <translation>View encrypted file</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -510,15 +510,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>LogView:</source>
-        <translation>Vista de registro:</translation>
+        <translation>LogView:</translation>
     </message>
     <message>
         <source>appid:</source>
-        <translation>Id. de aplicación:</translation>
+        <translation>AppID:</translation>
     </message>
     <message>
         <source>checkToken</source>
-        <translation>Comprobar token</translation>
+        <translation>checkToken</translation>
     </message>
     <message>
         <source>437442496</source>
@@ -526,15 +526,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Status:</source>
-        <translation>Estado:</translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>accountdemo</source>
-        <translation>demostración de cuenta</translation>
+        <translation>accountdemo</translation>
     </message>
     <message>
         <source>InterfaceList:</source>
-        <translation>Lista de interfaces:</translation>
+        <translation>InterfaceList:</translation>
     </message>
     <message>
         <source>439256738</source>
@@ -549,80 +549,80 @@ p, li { white-space: pre-wrap; }
     <name>KStartupGuidePane</name>
     <message>
         <source>Free</source>
-        <translation>Gratis</translation>
+        <translation>Free</translation>
     </message>
     <message>
         <source>icon</source>
-        <translation>Icono</translation>
+        <translation>icon</translation>
     </message>
     <message>
         <source>text</source>
-        <translation>texto</translation>
+        <translation>text</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation>Iniciar sesión</translation>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>personal logo</source>
-        <translation>Logotipo personal</translation>
+        <translation>personal logo</translation>
     </message>
     <message>
         <source>There maybe a little ad, you can close it if you don&apos;t like it</source>
-        <translation>Un poco de publicidad</translation>
+        <translation>A little advertisement</translation>
     </message>
     <message>
         <source>personal tip</source>
-        <translation>Sugerencia personal</translation>
+        <translation>personal tip</translation>
     </message>
     <message>
         <source>Many value-added services</source>
-        <translation>Numerosas funciones：PDF a Word, OCR, etc.</translation>
+        <translation>Plenty of features：PDF to Word、OCR, etc.</translation>
     </message>
     <message>
         <source>How to buy enterprise edition?</source>
-        <translation>¿Cómo compro la edición empresarial?</translation>
+        <translation>How to buy enterprise edition?</translation>
     </message>
     <message>
         <source>High quality of VIP services</source>
-        <translation>Servicios en la nube de alta calidad</translation>
+        <translation>High quality of Cloud services</translation>
     </message>
     <message>
         <source>Enjoy the Office Privilege</source>
-        <translation>Disfrutar ahora</translation>
+        <translation>Enjoy Now</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation>Diálogo</translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>I am personal user</source>
-        <translation>Usuario de inicio de sesión</translation>
+        <translation>Login user</translation>
     </message>
     <message>
         <source>vipTip</source>
-        <translation>Sugerencia Premium</translation>
+        <translation>Premium Tip</translation>
     </message>
     <message>
         <source>Large mount of templates, fonts, pictures resource for choice,
 makes documents beautiful</source>
-        <translation>Las plantillas masivas crean unos documentos sorprendentes</translation>
+        <translation>Massive templates make amazing documents</translation>
     </message>
     <message>
         <source>Sign In</source>
-        <translation>Iniciar sesión</translation>
+        <translation>Sign In</translation>
     </message>
     <message>
         <source>Legal Commercial License.</source>
-        <translation>Obtenga todas las ventajas del servicio tanto en el PC como en el teléfono</translation>
+        <translation>Get all benefits of service on both PC and phone</translation>
     </message>
     <message>
         <source>How to become paid member?</source>
-        <translation>¿Actualizar a Premium?</translation>
+        <translation>Go Premium?</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
-        <translation>Prueba gratuita de 7 días</translation>
+        <translation>Free 7-day trial</translation>
     </message>
     <message>
         <source>I am vip/commercial user</source>
@@ -630,37 +630,37 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Use redeem code</source>
-        <translation>Usar código de canjeo</translation>
+        <translation>Use redeem code</translation>
     </message>
     <message>
         <source>Use WPS</source>
-        <translation>Actualizar gratis</translation>
+        <translation>Go for Free</translation>
     </message>
     <message>
         <source>Thanks for your trust and support to WPS,
 we will make continuous improvements</source>
-        <translation>Gracias por su apoyo,
-seguiremos añadiendo mejoras</translation>
+        <translation>Thanks for your support,
+we will make continuous improvements</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation>Text Label</translation>
     </message>
     <message>
         <source>Login and use, synchronize data between computer and mobile,
 Easy mobile office.</source>
-        <translation>Iniciar sesión para sincronizar datos entre el PC y el teléfono</translation>
+        <translation>Sign in to sync data between PC and phone</translation>
     </message>
 </context>
 <context>
     <name>KPayStateWidget</name>
     <message>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Please wait a few minutes</source>
-        <translation>Espere unos minutos</translation>
+        <translation>Please wait a few minutes</translation>
     </message>
     <message>
         <source>Widget</source>
@@ -668,254 +668,254 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Checking payment...</source>
-        <translation>Comprobando el pago...</translation>
+        <translation>Checking payment...</translation>
     </message>
 </context>
 <context>
     <name>HomepageMoreOptionsWidget</name>
     <message>
         <source>More</source>
-        <translation>Más</translation>
+        <translation>More</translation>
     </message>
     <message>
         <source>Company login</source>
-        <translation>Inicio de sesión empresarial</translation>
+        <translation>Company login</translation>
     </message>
     <message>
         <source>Auto login</source>
-        <translation>Inicio de sesión automático</translation>
+        <translation>Auto login</translation>
     </message>
 </context>
 <context>
     <name>KLoginMainWindow_New</name>
     <message>
         <source>More</source>
-        <translation>Más</translation>
+        <translation>More</translation>
     </message>
     <message>
         <source>Invalid argument</source>
-        <translation>Argumento no válido</translation>
+        <translation>Invalid argument</translation>
     </message>
     <message>
         <source>Please use the enterprise administrator account login</source>
-        <translation>Use la cuenta del administrador empresarial para iniciar sesión</translation>
+        <translation>Please use the enterprise administrator account login</translation>
     </message>
     <message>
         <source>QR code login</source>
-        <translation>Inicio de sesión mediante código QR</translation>
+        <translation>QR code login</translation>
     </message>
     <message>
         <source>Auto login</source>
-        <translation>Inicio de sesión automático</translation>
+        <translation>Auto login</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Contraseña incorrecta</translation>
+        <translation>Wrong password</translation>
     </message>
     <message>
         <source>Server error</source>
-        <translation>Error del servidor</translation>
+        <translation>Server error</translation>
     </message>
     <message>
         <source>Account login</source>
-        <translation>Inicio de sesión de la cuenta</translation>
+        <translation>Account login</translation>
     </message>
     <message>
         <source>QQ login</source>
-        <translation>Inicio de sesión de QQ</translation>
+        <translation>QQ login</translation>
     </message>
     <message>
         <source>Account or password does not exist</source>
-        <translation>La cuenta o la contraseña no existen</translation>
+        <translation>Account or password does not exist</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation>Error desconocido</translation>
+        <translation>Unknown error!</translation>
     </message>
     <message>
         <source>Your operation is too fast. Please try again later</source>
-        <translation>La operación es demasiado rápida. Vuelva a intentarlo más tarde</translation>
+        <translation>Your operation is too fast. Please try again later</translation>
     </message>
     <message>
         <source>Account suspected of irregularities, has been disabled</source>
-        <translation>Se sospecha que la cuenta ha cometido irregularidades y por eso se ha deshabilitado</translation>
+        <translation>Account suspected of irregularities, has been disabled</translation>
     </message>
     <message>
         <source>Account has been limited</source>
-        <translation>La cuenta se ha limitado</translation>
+        <translation>Account has been limited</translation>
     </message>
     <message>
         <source>Account has been frozen, unseal, please contact customer service</source>
-        <translation>La cuenta se ha bloqueado; póngase en contacto con el servicio de atención al cliente.</translation>
+        <translation>Account has been frozen, unseal, please contact customer service</translation>
     </message>
     <message>
         <source>Loading webpage...</source>
-        <translation>Cargando página web...</translation>
+        <translation>Loading webpage...</translation>
     </message>
     <message>
         <source>Please login to launch WPS</source>
-        <translation>Inicie sesión para iniciar WPS</translation>
+        <translation>Please login to launch WPS</translation>
     </message>
     <message>
         <source>Unknow error happened!</source>
-        <translation>Se ha producido un error desconocido.</translation>
+        <translation>Unknow error happened!</translation>
     </message>
     <message>
         <source>User not active</source>
-        <translation>Usuario inactivo</translation>
+        <translation>User not active</translation>
     </message>
     <message>
         <source>Invalid role</source>
-        <translation>Rol no válido</translation>
+        <translation>Invalid role</translation>
     </message>
     <message>
         <source>User not exists</source>
-        <translation>El usuario no existe</translation>
+        <translation>User not exists</translation>
     </message>
     <message>
         <source>Invalid account</source>
-        <translation>Cuenta no válida</translation>
+        <translation>Invalid account</translation>
     </message>
     <message>
         <source>Select the account to login</source>
-        <translation>Seleccione la cuenta con la que desea iniciar sesión</translation>
+        <translation>Select the account to login</translation>
     </message>
     <message>
         <source>Clear account record</source>
-        <translation>Borrar registro de la cuenta</translation>
+        <translation>Clear account record</translation>
     </message>
     <message>
         <source>Account has been deleted</source>
-        <translation>La cuenta se ha eliminado</translation>
+        <translation>Account has been deleted</translation>
     </message>
     <message>
         <source>Account is not activated</source>
-        <translation>La cuenta no está activada</translation>
+        <translation>Account is not activated</translation>
     </message>
     <message>
         <source>This feature was not developed for enterprise users</source>
-        <translation>Esta característica no se ha desarrollado para usuarios empresariales</translation>
+        <translation>This feature was not developed for enterprise users</translation>
     </message>
     <message>
         <source>User is limited</source>
-        <translation>Usuario limitado</translation>
+        <translation>User is limited</translation>
     </message>
     <message>
         <source>User suspend</source>
-        <translation>Usuario suspendido</translation>
+        <translation>User suspend</translation>
     </message>
     <message>
         <source>User is banned</source>
-        <translation>Usuario prohibido</translation>
+        <translation>User is banned</translation>
     </message>
     <message>
         <source>Invalid callback address</source>
-        <translation>Dirección de devolución de llamada no válida</translation>
+        <translation>Invalid callback address</translation>
     </message>
 </context>
 <context>
     <name>ProxySetting</name>
     <message>
         <source>Test</source>
-        <translation>Prueba</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Puerto:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Tipo:</translation>
+        <translation>Type:</translation>
     </message>
     <message>
         <source>User Name:</source>
-        <translation>Nombre de usuario:</translation>
+        <translation>User Name:</translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation>Configuración de proxy</translation>
+        <translation>Proxy settings</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Contraseña:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Dirección:</translation>
+        <translation>Address:</translation>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation>Configuración de proxy</translation>
+        <translation>Proxy Setting</translation>
     </message>
 </context>
 <context>
     <name>KWaitMaskWidget</name>
     <message>
         <source>Tray</source>
-        <translation>Bandeja</translation>
+        <translation>Tray</translation>
     </message>
     <message>
         <source>loading...</source>
-        <translation>Cargando...</translation>
+        <translation>Loading...</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation>Text Label</translation>
     </message>
 </context>
 <context>
     <name>KNetworkErrDlg</name>
     <message>
         <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Error al cargar la página; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;compruebe la red&lt;/a&gt; e inténtelo de nuevo&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
-        <translation>Se ha agotado el tiempo de carga de la página; compruebe la red e inténtelo de nuevo</translation>
+        <translation>Page load timeout,check you network and retry</translation>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;No se puede acceder al servidor de la cuenta de WPS. Compruebe la red e inténtelo de nuevo.&lt;br&gt;Si la red funciona correctamente, compruebe &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;estas razones&lt;/a&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation>Error de red; compruebe la red e inténtelo de nuevo</translation>
+        <translation>Network error,check you network and retry</translation>
     </message>
     <message>
         <source>Account information has timed out</source>
-        <translation>Se ha agotado el tiempo de espera para obtener la información de la cuenta</translation>
+        <translation>Account information has timed out</translation>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Error al sincronizar la información de inicio de sesión; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;compruebe la red&lt;/a&gt; e inténtelo de nuevo&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>An error occurred,check you network and retry</source>
-        <translation>Se ha producido un error; compruebe la red e inténtelo de nuevo</translation>
+        <translation>An error occurred,check you network and retry</translation>
     </message>
     <message>
         <source>&lt;p&gt;Page load timeout!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Se ha agotado el tiempo de carga de la página. Compruebe la red e inténtelo de nuevo.&lt;br&gt;Si la red funciona correctamente, compruebe &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;estas razones&lt;/a&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Page load timeout!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Page load failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Error al cargar la página. Compruebe la red e inténtelo de nuevo.&lt;br&gt;Si la red funciona correctamente, compruebe &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;estas razones&lt;/a&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Page load failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;An error occurred!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Se ha producido un error. Compruebe la red e inténtelo de nuevo.&lt;br&gt;Si la red funciona correctamente, compruebe &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;estas razones&lt;/a&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;An error occurred!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;An error occurred,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Se ha producido un error; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;compruebe la red&lt;/a&gt; e inténtelo de nuevo&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;An error occurred,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Error al sincronizar la información de inicio de sesión. Compruebe la red e inténtelo de nuevo.&lt;br&gt;Si la red funciona correctamente, compruebe &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;estas razones&lt;/a&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>DNS Setting Document</source>
@@ -923,284 +923,284 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Error al sincronizar la información de inicio de sesión. Compruebe la red e inténtelo de nuevo.&lt;br&gt;Si la red funciona correctamente, compruebe &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;estas razones&lt;/a&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Sync login info failed,check you network and retry</source>
-        <translation>Error al sincronizar la información de inicio de sesión; compruebe la red e inténtelo de nuevo</translation>
+        <translation>Sync login info failed,check you network and retry</translation>
     </message>
     <message>
         <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation>No se puede acceder al servidor de la cuenta de WPS; compruebe la red e inténtelo de nuevo</translation>
+        <translation>Can&apos;t access WPS Account server,check you network and retry</translation>
     </message>
     <message>
         <source>Second verify fail</source>
-        <translation>Error en la segunda comprobación</translation>
+        <translation>Second verify fail</translation>
     </message>
     <message>
         <source>&lt;p&gt;Network error,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Error de red; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;compruebe la red&lt;/a&gt; e inténtelo de nuevo&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Network error,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Se ha agotado el tiempo de carga de la página; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;compruebe la red&lt;/a&gt; e inténtelo de nuevo&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;No se puede acceder al servidor de la cuenta de WPS; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;compruebe la red&lt;/a&gt; e inténtelo de nuevo&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
-        <translation>Error al cargar la página; compruebe la red e inténtelo de nuevo</translation>
+        <translation>Page load failed,check you network and retry</translation>
     </message>
 </context>
 <context>
     <name>LoginReplyContext</name>
     <message>
         <source>AuthenticationRequiredError</source>
-        <translation>Error de autenticación obligatoria</translation>
+        <translation>AuthenticationRequiredError</translation>
     </message>
     <message>
         <source>ContentOperationNotPermittedError</source>
-        <translation>Error de operación de contenido no permitida</translation>
+        <translation>ContentOperationNotPermittedError</translation>
     </message>
     <message>
         <source>HostNotFoundError</source>
-        <translation>Error de host no encontrado</translation>
+        <translation>HostNotFoundError</translation>
     </message>
     <message>
         <source>SslHandshakeFailedError</source>
-        <translation>Error de fallo de protocolo de enlace SSL</translation>
+        <translation>SslHandshakeFailedError</translation>
     </message>
     <message>
         <source>ProxyTimeoutError</source>
-        <translation>Error de tiempo de espera de proxy</translation>
+        <translation>ProxyTimeoutError</translation>
     </message>
     <message>
         <source>TemporaryNetworkFailureError</source>
-        <translation>Error de fallo de red temporal</translation>
+        <translation>TemporaryNetworkFailureError</translation>
     </message>
     <message>
         <source>NoError</source>
-        <translation>No hay errores</translation>
+        <translation>NoError</translation>
     </message>
     <message>
         <source>RemoteHostClosedError</source>
-        <translation>Error de cierre de host remoto</translation>
+        <translation>RemoteHostClosedError</translation>
     </message>
     <message>
         <source>ContentReSendError</source>
-        <translation>Error de reenvío de contenido</translation>
+        <translation>ContentReSendError</translation>
     </message>
     <message>
         <source>ContentAccessDenied</source>
-        <translation>Acceso al contenido denegado</translation>
+        <translation>ContentAccessDenied</translation>
     </message>
     <message>
         <source>ProxyNotFoundError</source>
-        <translation>Error de proxy no encontrado</translation>
+        <translation>ProxyNotFoundError</translation>
     </message>
     <message>
         <source>ProtocolUnknownError</source>
-        <translation>Error de protocolo desconocido</translation>
+        <translation>ProtocolUnknownError</translation>
     </message>
     <message>
         <source>ProxyConnectionClosedError</source>
-        <translation>Error de conexión proxy cerrada</translation>
+        <translation>ProxyConnectionClosedError</translation>
     </message>
     <message>
         <source>ContentNotFoundError</source>
-        <translation>Error de contenido no encontrado</translation>
+        <translation>ContentNotFoundError</translation>
     </message>
     <message>
         <source>UnknownNetworkError</source>
-        <translation>Error de red desconocido</translation>
+        <translation>UnknownNetworkError</translation>
     </message>
     <message>
         <source>TimeoutError</source>
-        <translation>Error de tiempo de espera</translation>
+        <translation>TimeoutError</translation>
     </message>
     <message>
         <source>UnknownProxyError</source>
-        <translation>Error de proxy desconocido</translation>
+        <translation>UnknownProxyError</translation>
     </message>
     <message>
         <source>ProxyAuthenticationRequiredError</source>
-        <translation>Error de autenticación de proxy obligatoria</translation>
+        <translation>ProxyAuthenticationRequiredError</translation>
     </message>
     <message>
         <source>OperationCanceledError</source>
-        <translation>Error de operación cancelada</translation>
+        <translation>OperationCanceledError</translation>
     </message>
     <message>
         <source>ProxyConnectionRefusedError</source>
-        <translation>Error de conexión proxy rechazada</translation>
+        <translation>ProxyConnectionRefusedError</translation>
     </message>
     <message>
         <source>ProtocolFailure</source>
-        <translation>Error de protocolo</translation>
+        <translation>ProtocolFailure</translation>
     </message>
     <message>
         <source>UnknownContentError</source>
-        <translation>Error de contenido desconocido</translation>
+        <translation>UnknownContentError</translation>
     </message>
     <message>
         <source>ProtocolInvalidOperationError</source>
-        <translation>Error de operación de protocolo no válida</translation>
+        <translation>ProtocolInvalidOperationError</translation>
     </message>
     <message>
         <source>Login time out</source>
-        <translation>Se ha agotado el tiempo de espera de inicio de sesión</translation>
+        <translation>Login time out</translation>
     </message>
     <message>
         <source>ConnectionRefusedError</source>
-        <translation>Error de conexión rechazada</translation>
+        <translation>ConnectionRefusedError</translation>
     </message>
 </context>
 <context>
     <name>LoginTitleHeadBar</name>
     <message>
         <source>LoginTitle</source>
-        <translation>Título de inicio de sesión</translation>
+        <translation>Login Title</translation>
     </message>
 </context>
 <context>
     <name>KLoginMainWindow</name>
     <message>
         <source>Email</source>
-        <translation>Correo electrónico</translation>
+        <translation>Email</translation>
     </message>
     <message>
         <source>Forget password</source>
-        <translation>Olvidar contraseña</translation>
+        <translation>Forget password</translation>
     </message>
     <message>
         <source>Continue with Facebook</source>
-        <translation>Continuar con Facebook</translation>
+        <translation>Continue with Facebook</translation>
     </message>
     <message>
         <source>Don&apos;t have an account?</source>
-        <translation>No tengo una cuenta?</translation>
+        <translation>Don&apos;t have an account?</translation>
     </message>
     <message>
         <source>Invalid argument</source>
-        <translation>Argumento no válido</translation>
+        <translation>Invalid argument</translation>
     </message>
     <message>
         <source>Lots resources</source>
-        <translation>Muchos recursos</translation>
+        <translation>Lots resources</translation>
     </message>
     <message>
         <source>Docs security</source>
-        <translation>Seguridad de los documentos</translation>
+        <translation>Docs security</translation>
     </message>
     <message>
         <source>QR Code Login</source>
-        <translation>Inicio de sesión con QR</translation>
+        <translation>QR Code Login</translation>
     </message>
     <message>
         <source>Online pictures, templates, shapes</source>
-        <translation>Imágenes, plantillas y formas en línea</translation>
+        <translation>Online pictures, templates, shapes</translation>
     </message>
     <message>
         <source>Please enter a valid email address</source>
-        <translation>Introduzca una dirección de correo electrónico válida</translation>
+        <translation>Please enter a valid email address</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Contraseña incorrecta</translation>
+        <translation>Wrong password</translation>
     </message>
     <message>
         <source>Server error</source>
-        <translation>Error del servidor</translation>
+        <translation>Server error</translation>
     </message>
     <message>
         <source>Clear record</source>
-        <translation>Borrar registro</translation>
+        <translation>Clear record</translation>
     </message>
     <message>
         <source>Wechat qrcode loading...</source>
-        <translation>Cargando código QR de WeChat...</translation>
+        <translation>Wechat qrcode loading...</translation>
     </message>
     <message>
         <source>There is no account for the email you entered</source>
-        <translation>No hay una cuenta para el correo electrónico que especificó</translation>
+        <translation>There is no account for the email you entered</translation>
     </message>
     <message>
         <source>Remember Me</source>
-        <translation>Recordarme</translation>
+        <translation>Remember Me</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation>Error desconocido</translation>
+        <translation>Unknown error!</translation>
     </message>
     <message>
         <source>Continue with Google</source>
-        <translation>Continuar con Google</translation>
+        <translation>Continue with Google</translation>
     </message>
     <message>
         <source>User name can&apos;t be pure whitespace</source>
-        <translation>El nombre de usuario no puede estar vacío</translation>
+        <translation>User name can&apos;t be pure whitespace</translation>
     </message>
     <message>
         <source>Sign in with other accounts</source>
-        <translation>Inicie sesión con otras cuentas</translation>
+        <translation>Sign in with other accounts</translation>
     </message>
     <message>
         <source>Check docs on phone and iPad</source>
-        <translation>Consultar documentos en teléfono e iPad</translation>
+        <translation>Check docs on phone and iPad</translation>
     </message>
     <message>
         <source>Password can&apos;t be pure whitespace</source>
-        <translation>La contraseña no puede estar vacía</translation>
+        <translation>Password can&apos;t be pure whitespace</translation>
     </message>
     <message>
         <source>Share docs</source>
-        <translation>Compartir documentos</translation>
+        <translation>Share docs</translation>
     </message>
     <message>
         <source>password</source>
-        <translation>Contraseña</translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>No password</source>
-        <translation>Sin contraseña</translation>
+        <translation>No password</translation>
     </message>
     <message>
         <source>Unknow error happened!</source>
-        <translation>Se ha producido un error desconocido.</translation>
+        <translation>Unknow error happened!</translation>
     </message>
     <message>
         <source>Synchronize docs</source>
-        <translation>Sincronizar documentos</translation>
+        <translation>Synchronize docs</translation>
     </message>
     <message>
         <source>No username</source>
-        <translation>Sin nombre de usuario</translation>
+        <translation>No username</translation>
     </message>
     <message>
         <source>Continue with Twitter</source>
-        <translation>Continuar con Twitter</translation>
+        <translation>Continue with Twitter</translation>
     </message>
     <message>
         <source>More safety with an account</source>
-        <translation>Más seguridad con una cuenta</translation>
+        <translation>More safety with an account</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Iniciar sesión</translation>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>Continue with Dropbox</source>
-        <translation>Continuar con Dropbox</translation>
+        <translation>Continue with Dropbox</translation>
     </message>
     <message>
         <source>User not active</source>
-        <translation>Usuario inactivo</translation>
+        <translation>User not active</translation>
     </message>
     <message>
         <source>User not exists</source>
-        <translation>El usuario no existe</translation>
+        <translation>User not exists</translation>
     </message>
     <message>
         <source>Waiting...</source>
@@ -1208,55 +1208,55 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Invalid account</source>
-        <translation>Cuenta no válida</translation>
+        <translation>Invalid account</translation>
     </message>
     <message>
         <source>Continue with Email</source>
-        <translation>Continuar con correo electrónico</translation>
+        <translation>Continue with Email</translation>
     </message>
     <message>
         <source>Continue with Line</source>
-        <translation type="unfinished"/>
+        <translation>Continue with Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
-        <translation>Compartir documentos con otros usuarios</translation>
+        <translation>Share docs with others</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
-        <translation>Iniciar sesión con Google</translation>
+        <translation>Sign in with Google</translation>
     </message>
     <message>
         <source>Forgot?</source>
-        <translation>¿La ha olvidado?</translation>
+        <translation>Forgot?</translation>
     </message>
     <message>
         <source>User is limited</source>
-        <translation>Usuario limitado</translation>
+        <translation>User is limited</translation>
     </message>
     <message>
         <source>User suspend</source>
-        <translation>Usuario suspendido</translation>
+        <translation>User suspend</translation>
     </message>
     <message>
         <source>Create account</source>
-        <translation>Crear una cuenta</translation>
+        <translation>Create account</translation>
     </message>
     <message>
         <source>User is banned</source>
-        <translation>Usuario prohibido</translation>
+        <translation>User is banned</translation>
     </message>
     <message>
         <source>Register now</source>
-        <translation>Registrar ahora</translation>
+        <translation>Register now</translation>
     </message>
     <message>
         <source>Login too frequently, please retry after %1 seconds</source>
-        <translation>Se ha iniciado sesión con mucha frecuencia; inténtelo de nuevo dentro de %1 segundos</translation>
+        <translation>Login too frequently, please retry after %1 seconds</translation>
     </message>
     <message>
         <source>Login with third account</source>
-        <translation>Iniciar sesión con una tercera cuenta</translation>
+        <translation>Login with third account</translation>
     </message>
     <message>
         <source>Or</source>
@@ -1299,100 +1299,100 @@ Easy mobile office.</source>
     <name>StackedWidget</name>
     <message>
         <source>Login</source>
-        <translation>Iniciar sesión</translation>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>Forget password</source>
-        <translation>Olvidar contraseña</translation>
+        <translation>Forget password</translation>
     </message>
     <message>
         <source>Login WPS, you can</source>
-        <translation>Si inicia sesión con WPS, podrá</translation>
+        <translation>Login WPS, you can</translation>
     </message>
     <message>
         <source>Auto login</source>
-        <translation>Inicio de sesión automático</translation>
+        <translation>Auto login</translation>
     </message>
     <message>
         <source>StackedWidget</source>
-        <translation>Widget apilado</translation>
+        <translation>StackedWidget</translation>
     </message>
     <message>
         <source>Wechat login</source>
-        <translation>Inicio de sesión de WeChat</translation>
+        <translation>Wechat login</translation>
     </message>
     <message>
         <source>Other login</source>
-        <translation>Otro inicio de sesión</translation>
+        <translation>Other login</translation>
     </message>
     <message>
         <source>WPS account login(mail/phone number)</source>
-        <translation>Inicio de sesión mediante cuenta de WPS (correo electrónico/número de teléfono)</translation>
+        <translation>WPS account login(mail/phone number)</translation>
     </message>
     <message>
         <source>password</source>
-        <translation>Contraseña</translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Have no account?</source>
-        <translation>¿No tiene una cuenta?</translation>
+        <translation>Have no account?</translation>
     </message>
     <message>
         <source>Register now</source>
-        <translation>Registrar ahora</translation>
+        <translation>Register now</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation>Text Label</translation>
     </message>
 </context>
 <context>
     <name>interface_setproxy</name>
     <message>
         <source>Port:</source>
-        <translation>Puerto:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Contraseña:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Dirección:</translation>
+        <translation>Address:</translation>
     </message>
     <message>
         <source>UserName:</source>
-        <translation>Nombre de usuario:</translation>
+        <translation>Username:</translation>
     </message>
     <message>
         <source>ProxyType:</source>
-        <translation>Tipo de proxy:</translation>
+        <translation>ProxyType:</translation>
     </message>
 </context>
 <context>
     <name>KOtherLoginBtnHoverPane</name>
     <message>
         <source>Third</source>
-        <translation>Tercero</translation>
+        <translation>第三处</translation>
     </message>
     <message>
         <source>School</source>
-        <translation>Escuela</translation>
+        <translation>School</translation>
     </message>
 </context>
 <context>
     <name>KBindingAccountDialog</name>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation>Configuración de &amp;proxy</translation>
+        <translation>Proxy &amp;Setting</translation>
     </message>
     <message>
         <source>Bind Account</source>
-        <translation>Vincular cuenta</translation>
+        <translation>Bind Account</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation>&amp;Actualizar</translation>
+        <translation>&amp;Refresh</translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
@@ -1403,15 +1403,15 @@ Easy mobile office.</source>
     <name>KWebViewControl</name>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation>Configuración de &amp;proxy</translation>
+        <translation>Proxy &amp;Setting</translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation>Inicio de sesión de usuario</translation>
+        <translation>User Login</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation>&amp;Actualizar</translation>
+        <translation>&amp;Refresh</translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
@@ -1422,532 +1422,532 @@ Easy mobile office.</source>
     <name>KNetworkDnsErrDlg</name>
     <message>
         <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation type="unfinished"/>
+        <translation>Service timed out. Please try again or refer to the</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Page load timeout,check you network and retry</translation>
     </message>
     <message>
         <source>Service timeout</source>
-        <translation type="unfinished"/>
+        <translation>Service timed out.</translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Network error,check you network and retry</translation>
     </message>
     <message>
         <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation type="unfinished"/>
+        <translation>Request timed out. Please retry by clicking the refresh button prior to checking your DNS settings.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>An error occurred,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>An error occurred,check you network and retry</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Refresh</translation>
     </message>
     <message>
         <source>Sync login info failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Sync login info failed,check you network and retry</translation>
     </message>
     <message>
         <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Can&apos;t access WPS Account server,check you network and retry</translation>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation type="unfinished"/>
+        <translation>DNS Settings document</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Page load failed,check you network and retry</translation>
     </message>
 </context>
 <context>
     <name>KLoginWin_New</name>
     <message>
         <source>Invalid argument</source>
-        <translation>Argumento no válido</translation>
+        <translation>Invalid argument</translation>
     </message>
     <message>
         <source>Network Diagnosis</source>
-        <translation>Detección de red</translation>
+        <translation>Network Detection</translation>
     </message>
     <message>
         <source>Please use the enterprise administrator account login</source>
-        <translation>Use la cuenta del administrador empresarial para iniciar sesión</translation>
+        <translation>Please use the enterprise administrator account login</translation>
     </message>
     <message>
         <source>Weibo login</source>
-        <translation>Inicio de sesión de Weibo</translation>
+        <translation>Weibo login</translation>
     </message>
     <message>
         <source>Wps account login</source>
-        <translation>Inicio de sesión con cuenta de WPS</translation>
+        <translation>Wps account login</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Contraseña incorrecta</translation>
+        <translation>Wrong password</translation>
     </message>
     <message>
         <source>Account Login</source>
-        <translation>Iniciar sesión</translation>
+        <translation>Login</translation>
     </message>
     <message>
         <source>Server error</source>
-        <translation>Error del servidor</translation>
+        <translation>Server error</translation>
     </message>
     <message>
         <source>Login Failed</source>
-        <translation>Error de inicio de sesión</translation>
+        <translation>Login Failed</translation>
     </message>
     <message>
         <source>Error code: </source>
-        <translation>Código de error: </translation>
+        <translation>Error code: </translation>
     </message>
     <message>
         <source>QrCode login</source>
-        <translation>Escanear para iniciar sesión</translation>
+        <translation>Scan to login</translation>
     </message>
     <message>
         <source>Login via QQ</source>
-        <translation>Iniciar sesión mediante QQ</translation>
+        <translation>Login via QQ</translation>
     </message>
     <message>
         <source>QQ login</source>
-        <translation>Inicio de sesión de QQ</translation>
+        <translation>QQ login</translation>
     </message>
     <message>
         <source>Account or password does not exist</source>
-        <translation>La cuenta o la contraseña no existen</translation>
+        <translation>Account or password does not exist</translation>
     </message>
     <message>
         <source>Wechat Binding</source>
-        <translation>Iniciar sesión mediante Wechat</translation>
+        <translation>Login via Wechat</translation>
     </message>
     <message>
         <source>Wechat login</source>
-        <translation>Inicio de sesión de WeChat</translation>
+        <translation>Wechat login</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation>Error desconocido</translation>
+        <translation>Unknown error!</translation>
     </message>
     <message>
         <source>Other Login Type</source>
-        <translation>Otro tipo de inicio de sesión</translation>
+        <translation>Other Login Type</translation>
     </message>
     <message>
         <source>Login Account</source>
-        <translation>Cuenta de inicio de sesión</translation>
+        <translation>Login Account</translation>
     </message>
     <message>
         <source>Your operation is too fast. Please try again later</source>
-        <translation>La operación es demasiado rápida. Vuelva a intentarlo más tarde</translation>
+        <translation>Your operation is too fast. Please try again later</translation>
     </message>
     <message>
         <source>Account suspected of irregularities, has been disabled</source>
-        <translation>Se sospecha que la cuenta ha cometido irregularidades y por eso se ha deshabilitado</translation>
+        <translation>Account suspected of irregularities, has been disabled</translation>
     </message>
     <message>
         <source>Account has been limited</source>
-        <translation>La cuenta se ha limitado</translation>
+        <translation>Account has been limited</translation>
     </message>
     <message>
         <source>Company account login</source>
-        <translation>Inicio de sesión con cuenta empresarial</translation>
+        <translation>Company account login</translation>
     </message>
     <message>
         <source>Login via Xiaomi</source>
-        <translation>Iniciar sesión mediante Xiaomi</translation>
+        <translation>Login via Xiaomi</translation>
     </message>
     <message>
         <source>Welcome Back</source>
-        <translation>Bienvenido de nuevo</translation>
+        <translation>Welcome Back</translation>
     </message>
     <message>
         <source>Login Account...</source>
-        <translation>Cuenta de inicio de sesión...</translation>
+        <translation>Login Account...</translation>
     </message>
     <message>
         <source>Account has been frozen, unseal, please contact customer service</source>
-        <translation>La cuenta se ha bloqueado; póngase en contacto con el servicio de atención al cliente.</translation>
+        <translation>Account has been frozen, unseal, please contact customer service</translation>
     </message>
     <message>
         <source>Loading webpage...</source>
-        <translation>Cargando página web...</translation>
+        <translation>Loading webpage...</translation>
     </message>
     <message>
         <source>Login WPS to Enjoy Privilege</source>
-        <translation>Inicie sesión para disfrutar de WPS Premium</translation>
+        <translation>Sign in to Enjoy WPS Premium</translation>
     </message>
     <message>
         <source>Don&apos;t have Account? </source>
-        <translation>¿No dispone de una cuenta? </translation>
+        <translation>Do not have Account? </translation>
     </message>
     <message>
         <source>Login via School Mail</source>
-        <translation>Iniciar sesión mediante School Mail</translation>
+        <translation>Login via School Mail</translation>
     </message>
     <message>
         <source>Dingding login</source>
-        <translation>Iniciar sesión mediante Dingding</translation>
+        <translation>Login via Dingding</translation>
     </message>
     <message>
         <source>Unknow error happened!</source>
-        <translation>Se ha producido un error desconocido.</translation>
+        <translation>Unknow error happened!</translation>
     </message>
     <message>
         <source>User not active</source>
-        <translation>Usuario inactivo</translation>
+        <translation>User not active</translation>
     </message>
     <message>
         <source>Invalid role</source>
-        <translation>Rol no válido</translation>
+        <translation>Invalid role</translation>
     </message>
     <message>
         <source>User not exists</source>
-        <translation>El usuario no existe</translation>
+        <translation>User not exists</translation>
     </message>
     <message>
         <source>Invalid account</source>
-        <translation>Cuenta no válida</translation>
+        <translation>Invalid account</translation>
     </message>
     <message>
         <source>Retry Login</source>
-        <translation>Iniciar sesión de nuevo</translation>
+        <translation>Login again</translation>
     </message>
     <message>
         <source>School mail login</source>
-        <translation>Inicio de sesión con dirección de correo electrónico de la escuela</translation>
+        <translation>School mail login</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation>Registrarse</translation>
+        <translation>Sign up</translation>
     </message>
     <message>
         <source>Second Verify</source>
-        <translation>Segunda verificación</translation>
+        <translation>Second Verify</translation>
     </message>
     <message>
         <source>Scan Code to Login</source>
-        <translation>Escanear para iniciar sesión</translation>
+        <translation>Scan to Login</translation>
     </message>
     <message>
         <source>Account has been deleted</source>
-        <translation>La cuenta se ha eliminado</translation>
+        <translation>Account has been deleted</translation>
     </message>
     <message>
         <source>Account is not activated</source>
-        <translation>La cuenta no está activada</translation>
+        <translation>Account is not activated</translation>
     </message>
     <message>
         <source>Login via Weibo</source>
-        <translation>Iniciar sesión mediante Weibo</translation>
+        <translation>Login via Weibo</translation>
     </message>
     <message>
         <source>Xiaomi login</source>
-        <translation>Inicio de sesión de Xiaomi</translation>
+        <translation>Xiaomi login</translation>
     </message>
     <message>
         <source>This feature was not developed for enterprise users</source>
-        <translation>Esta característica no se ha desarrollado para usuarios empresariales</translation>
+        <translation>This feature was not developed for enterprise users</translation>
     </message>
     <message>
         <source>Login via Dingding</source>
-        <translation>Iniciar sesión mediante Dingding</translation>
+        <translation>Login via Dingding</translation>
     </message>
     <message>
         <source>User is limited</source>
-        <translation>Usuario limitado</translation>
+        <translation>User is limited</translation>
     </message>
     <message>
         <source>User suspend</source>
-        <translation>Usuario suspendido</translation>
+        <translation>User suspend</translation>
     </message>
     <message>
         <source>User is banned</source>
-        <translation>Usuario prohibido</translation>
+        <translation>User is banned</translation>
     </message>
     <message>
         <source>Invalid callback address</source>
-        <translation>Dirección de devolución de llamada no válida</translation>
+        <translation>Invalid callback address</translation>
     </message>
     <message>
         <source>Error Message</source>
-        <translation>Mensaje de error</translation>
+        <translation>Error Message</translation>
     </message>
 </context>
 <context>
     <name>KNewLoginWin</name>
     <message>
         <source>Invalid argument</source>
-        <translation>Argumento no válido</translation>
+        <translation>Invalid argument</translation>
     </message>
     <message>
         <source>Network Diagnosis</source>
-        <translation>Detección de red</translation>
+        <translation>Network Detection</translation>
     </message>
     <message>
         <source>Please use the enterprise administrator account login</source>
-        <translation>Use la cuenta del administrador empresarial para iniciar sesión</translation>
+        <translation>Please use the enterprise administrator account login</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Contraseña incorrecta</translation>
+        <translation>Wrong password</translation>
     </message>
     <message>
         <source>Server error</source>
-        <translation>Error del servidor</translation>
+        <translation>Server error</translation>
     </message>
     <message>
         <source>Login Failed</source>
-        <translation>Error de inicio de sesión</translation>
+        <translation>Login Failed</translation>
     </message>
     <message>
         <source>Error code: </source>
-        <translation>Código de error: </translation>
+        <translation>Error code: </translation>
     </message>
     <message>
         <source>Login via QQ</source>
-        <translation>Iniciar sesión mediante QQ</translation>
+        <translation>Login via QQ</translation>
     </message>
     <message>
         <source>Account or password does not exist</source>
-        <translation>La cuenta o la contraseña no existen</translation>
+        <translation>Account or password does not exist</translation>
     </message>
     <message>
         <source>Wechat Binding</source>
-        <translation>Iniciar sesión mediante Wechat</translation>
+        <translation>Login via Wechat</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation>Error desconocido</translation>
+        <translation>Unknown error!</translation>
     </message>
     <message>
         <source>Your operation is too fast. Please try again later</source>
-        <translation>La operación es demasiado rápida. Vuelva a intentarlo más tarde</translation>
+        <translation>Your operation is too fast. Please try again later</translation>
     </message>
     <message>
         <source>Account suspected of irregularities, has been disabled</source>
-        <translation>Se sospecha que la cuenta ha cometido irregularidades y por eso se ha deshabilitado</translation>
+        <translation>Account suspected of irregularities, has been disabled</translation>
     </message>
     <message>
         <source>Account has been limited</source>
-        <translation>La cuenta se ha limitado</translation>
+        <translation>Account has been limited</translation>
     </message>
     <message>
         <source>Login via Xiaomi</source>
-        <translation>Iniciar sesión mediante Xiaomi</translation>
+        <translation>Login via Xiaomi</translation>
     </message>
     <message>
         <source>Login Account...</source>
-        <translation>Cuenta de inicio de sesión...</translation>
+        <translation>Login Account...</translation>
     </message>
     <message>
         <source>Account has been frozen, unseal, please contact customer service</source>
-        <translation>La cuenta se ha bloqueado; póngase en contacto con el servicio de atención al cliente.</translation>
+        <translation>Account has been frozen, unseal, please contact customer service</translation>
     </message>
     <message>
         <source>Login via School Mail</source>
-        <translation>Iniciar sesión mediante School Mail</translation>
+        <translation>Login via School Mail</translation>
     </message>
     <message>
         <source>Unknow error happened!</source>
-        <translation>Se ha producido un error desconocido.</translation>
+        <translation>Unknow error happened!</translation>
     </message>
     <message>
         <source>User not active</source>
-        <translation>Usuario inactivo</translation>
+        <translation>User not active</translation>
     </message>
     <message>
         <source>Invalid role</source>
-        <translation>Rol no válido</translation>
+        <translation>Invalid role</translation>
     </message>
     <message>
         <source>User not exists</source>
-        <translation>El usuario no existe</translation>
+        <translation>User not exists</translation>
     </message>
     <message>
         <source>Invalid account</source>
-        <translation>Cuenta no válida</translation>
+        <translation>Invalid account</translation>
     </message>
     <message>
         <source>Retry Login</source>
-        <translation>Iniciar sesión de nuevo</translation>
+        <translation>Login again</translation>
     </message>
     <message>
         <source>Second Verify</source>
-        <translation>Segunda verificación</translation>
+        <translation>Second Verify</translation>
     </message>
     <message>
         <source>Account has been deleted</source>
-        <translation>La cuenta se ha eliminado</translation>
+        <translation>Account has been deleted</translation>
     </message>
     <message>
         <source>Account is not activated</source>
-        <translation>La cuenta no está activada</translation>
+        <translation>Account is not activated</translation>
     </message>
     <message>
         <source>Login via Weibo</source>
-        <translation>Iniciar sesión mediante Weibo</translation>
+        <translation>Login via Weibo</translation>
     </message>
     <message>
         <source>This feature was not developed for enterprise users</source>
-        <translation>Esta característica no se ha desarrollado para usuarios empresariales</translation>
+        <translation>This feature was not developed for enterprise users</translation>
     </message>
     <message>
         <source>Login via Dingding</source>
-        <translation>Iniciar sesión mediante Dingding</translation>
+        <translation>Login via Dingding</translation>
     </message>
     <message>
         <source>User is limited</source>
-        <translation>Usuario limitado</translation>
+        <translation>User is limited</translation>
     </message>
     <message>
         <source>User suspend</source>
-        <translation>Usuario suspendido</translation>
+        <translation>User suspend</translation>
     </message>
     <message>
         <source>User is banned</source>
-        <translation>Usuario prohibido</translation>
+        <translation>User is banned</translation>
     </message>
     <message>
         <source>Invalid callback address</source>
-        <translation>Dirección de devolución de llamada no válida</translation>
+        <translation>Invalid callback address</translation>
     </message>
     <message>
         <source>Error Message</source>
-        <translation>Mensaje de error</translation>
+        <translation>Error Message</translation>
     </message>
 </context>
 <context>
     <name>interface_init</name>
     <message>
         <source>bHasCallBackFunc:</source>
-        <translation>Tiene función de devolución de llamada:</translation>
+        <translation>bHasCallBackFunc:</translation>
     </message>
     <message>
         <source>AppId:</source>
-        <translation>Id. de aplicación:</translation>
+        <translation>AppID:</translation>
     </message>
     <message>
         <source>AppName:</source>
-        <translation>Nombre aplicación:</translation>
+        <translation>AppName:</translation>
     </message>
     <message>
         <source>AppKey:</source>
-        <translation>Clave aplicación:</translation>
+        <translation>AppKey:</translation>
     </message>
     <message>
         <source>InitFlags:</source>
-        <translation>Marcadores de inicialización:</translation>
+        <translation>InitFlags:</translation>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation>Casilla</translation>
+        <translation>Checkbox</translation>
     </message>
 </context>
 <context>
     <name>KAutoRetryLoginMgr</name>
     <message>
         <source>Get users failed</source>
-        <translation>Error al obtener usuarios</translation>
+        <translation>Get users failed</translation>
     </message>
     <message>
         <source>Select user failed</source>
-        <translation>Error al seleccionar usuarios</translation>
+        <translation>Select user failed</translation>
     </message>
     <message>
         <source>verify failed</source>
-        <translation>Error de verificación</translation>
+        <translation>verify failed</translation>
     </message>
 </context>
 <context>
     <name>LoginBtnWidget</name>
     <message>
         <source>Weibo login</source>
-        <translation>Inicio de sesión de Weibo</translation>
+        <translation>Weibo login</translation>
     </message>
     <message>
         <source>Wps account login</source>
-        <translation>Inicio de sesión con cuenta de WPS</translation>
+        <translation>Wps account login</translation>
     </message>
     <message>
         <source>QQ login</source>
-        <translation>Inicio de sesión de QQ</translation>
+        <translation>QQ login</translation>
     </message>
     <message>
         <source>Wechat login</source>
-        <translation>Inicio de sesión de WeChat</translation>
+        <translation>Wechat login</translation>
     </message>
     <message>
         <source>Other login</source>
-        <translation>Otro inicio de sesión</translation>
+        <translation>Other login</translation>
     </message>
     <message>
         <source>Company account login</source>
-        <translation>Inicio de sesión con cuenta empresarial</translation>
+        <translation>Company account login</translation>
     </message>
     <message>
         <source>Start login</source>
-        <translation>Iniciar inicio de sesión</translation>
+        <translation>Start login</translation>
     </message>
     <message>
         <source>School mail login</source>
-        <translation>Inicio de sesión con dirección de correo electrónico de la escuela</translation>
+        <translation>School mail login</translation>
     </message>
     <message>
         <source>Xiaomi login</source>
-        <translation>Inicio de sesión de Xiaomi</translation>
+        <translation>Xiaomi login</translation>
     </message>
 </context>
 <context>
     <name>NewLoginTypeWidget</name>
     <message>
         <source>Weibo login</source>
-        <translation>Inicio de sesión de Weibo</translation>
+        <translation>Weibo login</translation>
     </message>
     <message>
         <source>Wps account login</source>
-        <translation>Inicio de sesión con cuenta de WPS</translation>
+        <translation>Wps account login</translation>
     </message>
     <message>
         <source>QQ login</source>
-        <translation>Inicio de sesión de QQ</translation>
+        <translation>QQ login</translation>
     </message>
     <message>
         <source>Wechat login</source>
-        <translation>Inicio de sesión de WeChat</translation>
+        <translation>Wechat login</translation>
     </message>
     <message>
         <source>Company account login</source>
-        <translation>Inicio de sesión con cuenta empresarial</translation>
+        <translation>Company account login</translation>
     </message>
     <message>
         <source>Dingding login</source>
-        <translation>Inicio de sesión de Dingding</translation>
+        <translation>Dingding login</translation>
     </message>
     <message>
         <source>School mail login</source>
-        <translation>Inicio de sesión con dirección de correo electrónico de la escuela</translation>
+        <translation>School mail login</translation>
     </message>
     <message>
         <source>Xiaomi login</source>
-        <translation>Inicio de sesión de Xiaomi</translation>
+        <translation>Xiaomi login</translation>
     </message>
 </context>
 <context>
     <name>KUpgradeVipAssistDialog</name>
     <message>
         <source>Upgrade to VIP</source>
-        <translation>Actualizar a Premium</translation>
+        <translation>Go Premium</translation>
     </message>
 </context>
 <context>
@@ -1958,107 +1958,107 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Return</source>
-        <translation>Retorno</translation>
+        <translation>Return</translation>
     </message>
     <message>
         <source>Welcome to use WPS Office</source>
-        <translation>Le damos la bienvenida a WPS Office</translation>
+        <translation>Welcome to WPS Office</translation>
     </message>
 </context>
 <context>
     <name>HomepageBottomRightWidget</name>
     <message>
         <source>Skip login</source>
-        <translation>Omitir inicio de sesión</translation>
+        <translation>Skip Login</translation>
     </message>
     <message>
         <source>Exit process</source>
-        <translation>Salir del proceso</translation>
+        <translation>Exit process</translation>
     </message>
     <message>
         <source>Input activation code</source>
-        <translation>Introducir código de activación</translation>
+        <translation>Input Activation Code</translation>
     </message>
 </context>
 <context>
     <name>KBottomWidget</name>
     <message>
         <source>Skip login</source>
-        <translation>Omitir inicio de sesión</translation>
+        <translation>Skip Login</translation>
     </message>
     <message>
         <source>Input activation code</source>
-        <translation>Introducir código de activación</translation>
+        <translation>Input Activation Code</translation>
     </message>
 </context>
 <context>
     <name>KLoginMainWinBottomWidget</name>
     <message>
         <source>Skip login</source>
-        <translation>Omitir inicio de sesión</translation>
+        <translation>Skip Login</translation>
     </message>
     <message>
         <source>Input activation code</source>
-        <translation>Introducir código de activación</translation>
+        <translation>Input Activation Code</translation>
     </message>
 </context>
 <context>
     <name>interface_login</name>
     <message>
         <source>LoginFlags:</source>
-        <translation>Marcadores de inicio de sesión:</translation>
+        <translation>Login Flags:</translation>
     </message>
 </context>
 <context>
     <name>encryptfiledialog</name>
     <message>
         <source>AccountSyncInfo:</source>
-        <translation>Información de sincronización de cuentas:</translation>
+        <translation>AccountSyncInfo:</translation>
     </message>
     <message>
         <source>TokenTable:</source>
-        <translation>Tabla de tokens:</translation>
+        <translation>TokenTable:</translation>
     </message>
     <message>
         <source>ViewEncrptFile</source>
-        <translation>Ver archivo cifrado</translation>
+        <translation>ViewEncrptFile</translation>
     </message>
     <message>
         <source>AccountTable:</source>
-        <translation>Tabla de cuentas:</translation>
+        <translation>AccountTable:</translation>
     </message>
 </context>
 <context>
     <name>LoginMainStackedWidget</name>
     <message>
         <source>StackedWidget</source>
-        <translation>Widget apilado</translation>
+        <translation>StackedWidget</translation>
     </message>
 </context>
 <context>
     <name>LoginStackedWidget</name>
     <message>
         <source>StackedWidget</source>
-        <translation>Widget apilado</translation>
+        <translation>StackedWidget</translation>
     </message>
     <message>
         <source>CheckBox</source>
-        <translation>Casilla</translation>
+        <translation>Checkbox</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation>Text Label</translation>
     </message>
 </context>
 <context>
     <name>KMemberTransformationDialog</name>
     <message>
         <source>User Login Guide</source>
-        <translation>Guía de inicio de sesión del usuario</translation>
+        <translation>User Login Guide</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation>&amp;Actualizar</translation>
+        <translation>&amp;Refresh</translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
@@ -2069,120 +2069,120 @@ Easy mobile office.</source>
     <name>KNewGuideDialog</name>
     <message>
         <source>User Guide</source>
-        <translation>Guía del usuario</translation>
+        <translation>User Guide</translation>
     </message>
 </context>
 <context>
     <name>HomepageLeftWidget</name>
     <message>
         <source>Document cloud sync</source>
-        <translation>Sincronización en la nube de documentos</translation>
+        <translation>Document cloud sync</translation>
     </message>
     <message>
         <source>Massive material resources</source>
-        <translation>Recursos materiales en masa</translation>
+        <translation>Massive material resources</translation>
     </message>
     <message>
         <source>Document security backup</source>
-        <translation>Copia de seguridad de documentos</translation>
+        <translation>Document security backup</translation>
     </message>
 </context>
 <context>
     <name>KDialogMenuBar</name>
     <message>
         <source>Return</source>
-        <translation>Retorno</translation>
+        <translation>Back</translation>
     </message>
     <message>
         <source>Welcome to use WPS Office</source>
-        <translation>Le damos la bienvenida a WPS Office</translation>
+        <translation>Welcome to WPS Office</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Le damos la bienvenida a WPS Office</translation>
+        <translation>Welcome to WPS Office</translation>
     </message>
 </context>
 <context>
     <name>KNewGuideJsApi</name>
     <message>
         <source>Switch window manage mode</source>
-        <translation>Cambiar el modo de administración de ventanas</translation>
+        <translation>Switch window manage mode</translation>
     </message>
 </context>
 <context>
     <name>KAccountDemoMainWindow</name>
     <message>
         <source>Configure File(*.xml)</source>
-        <translation>Configurar archivo (*.xml)</translation>
+        <translation>Configure File(*.xml)</translation>
     </message>
 </context>
 <context>
     <name>interface_SetEnv</name>
     <message>
         <source>StyleFlags:</source>
-        <translation>Marcador de estilo:</translation>
+        <translation>StyleFlags:</translation>
     </message>
     <message>
         <source>EnvFlags:</source>
-        <translation>Marcadores ENV:</translation>
+        <translation>EnvFlags:</translation>
     </message>
     <message>
         <source>CustomUrl:</source>
-        <translation>URL personalizada:</translation>
+        <translation>Custom URL:</translation>
     </message>
     <message>
         <source>CustomUi</source>
-        <translation>IU personalizada</translation>
+        <translation>CustomUi</translation>
     </message>
 </context>
 <context>
     <name>KWaitMask</name>
     <message>
         <source>syncing login info...</source>
-        <translation>Sincronizando información de inicio de sesión...</translation>
+        <translation>Syncing sign in info...</translation>
     </message>
     <message>
         <source>loading...</source>
-        <translation>Cargando...</translation>
+        <translation>Loading...</translation>
     </message>
 </context>
 <context>
     <name>account_sdk::KWaitMask</name>
     <message>
         <source>syncing login info...</source>
-        <translation>Sincronizando información de inicio de sesión...</translation>
+        <translation>Syncing sign in info...</translation>
     </message>
     <message>
         <source>loading...</source>
-        <translation>Cargando...</translation>
+        <translation>Loading...</translation>
     </message>
 </context>
 <context>
     <name>KAccountLoginHelpFixTimeDlg</name>
     <message>
         <source>Confirm</source>
-        <translation>Confirmar</translation>
+        <translation>Confirm</translation>
     </message>
 </context>
 <context>
     <name>interface_logout</name>
     <message>
         <source>UserId:</source>
-        <translation>Id. de usuario:</translation>
+        <translation>UserID:</translation>
     </message>
 </context>
 <context>
     <name>PreditionAvatar</name>
     <message>
         <source>Clear account record</source>
-        <translation>Borrar registro de la cuenta</translation>
+        <translation>Clear account record</translation>
     </message>
 </context>
 <context>
     <name>SelectAccountPane</name>
     <message>
         <source>Select other account</source>
-        <translation>Seleccione otra cuenta</translation>
+        <translation>Select other account</translation>
     </message>
 </context>
 </TS>
