@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar cuenta</translation>
     </message>
     <message>
         <source>2, Click delete my account.</source>
@@ -208,19 +208,19 @@
     <name>EliminateDateDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>I have understood the above risks</source>
-        <translation type="unfinished"/>
+        <translation>He entendido los riesgos</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>After deleting the data, some documents may not be opened and some functions will not be available.</source>
-        <translation type="unfinished"/>
+        <translation>Tras la eliminación de los datos, es posible que algunos documentos no se abran y que algunas funciones no estén disponibles. ¿Seguro que desea eliminar los datos?</translation>
     </message>
     <message>
         <source>Are you sure to delete the data?</source>
@@ -254,7 +254,7 @@
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>Y</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>I have read and agree with WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>He leído y acepto WPS Office</translation>
     </message>
     <message>
         <source>Kingsoft Pdf Configuration Tools</source>
@@ -270,7 +270,7 @@
     </message>
     <message>
         <source>License agreement</source>
-        <translation type="unfinished"/>
+        <translation>Contrato de licencia</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Política de privacidad</translation>
     </message>
 </context>
 <context>
@@ -1498,7 +1498,7 @@ Puede corregir los errores encontrados al usar WPS Office o ajustar la configura
     <name>QObject</name>
     <message>
         <source>PPTX Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Presentación PPTX</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -1506,7 +1506,7 @@ Puede corregir los errores encontrados al usar WPS Office o ajustar la configura
     </message>
     <message>
         <source>PPT Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Presentación PPT</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -1518,7 +1518,7 @@ Puede corregir los errores encontrados al usar WPS Office o ajustar la configura
     </message>
     <message>
         <source>XLS Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Hoja de cálculo XLS</translation>
     </message>
     <message>
         <source>DOCX Documentation</source>
@@ -1526,7 +1526,7 @@ Puede corregir los errores encontrados al usar WPS Office o ajustar la configura
     </message>
     <message>
         <source>XLSX Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Hoja de cálculo XLSX</translation>
     </message>
     <message>
         <source>RTF Documentation</source>
@@ -1836,7 +1836,7 @@ El icono de botón, el grupo de comando y la posición de ventana de tarea de ca
     <name>KGdprConfig</name>
     <message>
         <source>View privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Ver la política de privacidad</translation>
     </message>
     <message>
         <source>Application has been submitted, we will delete your data as quickly as possible.</source>
@@ -1844,19 +1844,19 @@ El icono de botón, el grupo de comando y la posición de ventana de tarea de ca
     </message>
     <message>
         <source>Eliminate Data</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar datos</translation>
     </message>
     <message>
         <source>Online Service User Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Contrato de usuario de servicio en línea</translation>
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar cuenta</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Contrato de licencia para el usuario final</translation>
     </message>
     <message>
         <source>Network error, please try again later.</source>
