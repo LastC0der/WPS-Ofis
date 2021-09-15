@@ -30696,7 +30696,7 @@ Kapat</translation>
     <name>rainbow.ct_file</name>
     <message>
         <source>New</source>
-        <translation>Yeni</translation>
+        <translation>Yeni Boş Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Help</source>
