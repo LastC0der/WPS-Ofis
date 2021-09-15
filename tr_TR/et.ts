@@ -14781,7 +14781,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>%1%2 x %3%4</source>
@@ -17939,7 +17939,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Merge worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfalarını birleştir</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
@@ -28189,7 +28189,7 @@ Window</source>
     </message>
     <message>
         <source>Merge worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfalarını birleştir</translation>
     </message>
     <message>
         <source>Map</source>
@@ -36513,7 +36513,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Merge worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfalarını birleştir</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -36594,7 +36594,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Merge workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma kitaplarını birleştir</translation>
     </message>
     <message>
         <source>Highlight duplicates</source>
@@ -36674,7 +36674,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Merge worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfalarını birleştir</translation>
     </message>
 </context>
 <context>
@@ -55578,7 +55578,7 @@ Başvuru</translation>
     <name>rainbow.ct_file</name>
     <message>
         <source>New</source>
-        <translation>Yeni</translation>
+        <translation>Yeni Boş Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Help</source>
