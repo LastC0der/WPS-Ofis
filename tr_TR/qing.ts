@@ -594,7 +594,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>DLE (110 x 220 mm)</source>
