@@ -2944,11 +2944,11 @@ The operation is irrevocable</source>
     <name>KxPdfPrintMaginDialog</name>
     <message>
         <source>CM</source>
-        <translation type="unfinished"/>
+        <translation>cm</translation>
     </message>
     <message>
         <source>MM</source>
-        <translation type="unfinished"/>
+        <translation>mm</translation>
     </message>
     <message>
         <source>ok</source>
@@ -11624,7 +11624,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>cancel</source>
