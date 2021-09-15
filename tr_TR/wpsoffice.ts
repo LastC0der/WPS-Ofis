@@ -799,7 +799,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>DLE (110 x 220 mm)</source>
@@ -3256,7 +3256,7 @@ Check path and filename.</source>
     <name>KDockMenu</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Yeni</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
@@ -3275,7 +3275,7 @@ Check path and filename.</source>
     <name>KPromeMainWindow</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Yeni</translation>
     </message>
     <message>
         <source>More</source>
