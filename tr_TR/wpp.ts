@@ -441,7 +441,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished"/>
+        <translation>Gizli slaytla&amp;rı yazdır</translation>
     </message>
     <message>
         <source>ch, 0, 0, 720, 1</source>
@@ -757,7 +757,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;High quality printing</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yüksek kaliteli baskı</translation>
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
@@ -1277,7 +1277,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished"/>
+        <translation>Gizli slaytla&amp;rı yazdır</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
@@ -1488,7 +1488,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished"/>
+        <translation>Gizli slaytla&amp;rı yazdır</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
@@ -2017,7 +2017,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Picture Format(*.jpg,*.png,*.tif,*.bmp)|*.pic</source>
-        <translation type="unfinished"/>
+        <translation>Resim Biçimi(*.jpg,*.png,*.tif,*.bmp)|*.pic</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Show(*.ppsx)</source>
@@ -18505,7 +18505,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished"/>
+        <translation>Gizli slaytla&amp;rı yazdır</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
