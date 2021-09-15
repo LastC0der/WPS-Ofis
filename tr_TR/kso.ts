@@ -17291,7 +17291,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Symlink to File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya sistem bağlantısı</translation>
     </message>
     <message>
         <source>Symlink to Directory</source>
@@ -20038,7 +20038,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Delete to the end of the word</source>
-        <translation type="unfinished"/>
+        <translation>Sözcüğün sonuna kadar sil</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -29458,26 +29458,26 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"/>
+        <translation>İle&amp;ri &gt;</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"/>
+        <translation>&lt; &amp;Geri</translation>
     </message>
 </context>
 <context>
     <name>KdeSecurityLevelDlg</name>
     <message>
         <source>&amp;High</source>
-        <translation type="unfinished"/>
+        <translation>Yü&amp;ksek</translation>
     </message>
     <message>
         <source>&amp;Security Level</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Güvenlik Düzeyi</translation>
     </message>
     <message>
         <source>&amp;Low(not recommended)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Düşük(önerilmez)</translation>
     </message>
     <message>
         <source>You can choose whether or not to run potentially unsafe macros.</source>
@@ -31256,7 +31256,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Closes the window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi kapatır</translation>
     </message>
     <message>
         <source>Puts a maximized window back to normal</source>
