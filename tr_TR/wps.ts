@@ -3854,7 +3854,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>Report</source>
@@ -6177,7 +6177,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation type="unfinished"/>
+        <translation>İ&amp;ki</translation>
     </message>
     <message>
         <source>Start new col&amp;umn</source>
@@ -7527,7 +7527,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>%1%2 x %3%4</source>
@@ -8177,15 +8177,15 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>Preview:</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme:</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"/>
+        <translation>Özet</translation>
     </message>
 </context>
 <context>
@@ -8408,7 +8408,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Current section</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli bölüm</translation>
     </message>
     <message>
         <source>Inner</source>
@@ -8436,7 +8436,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Outter</source>
-        <translation type="unfinished"/>
+        <translation>Dış</translation>
     </message>
     <message>
         <source>Format: </source>
@@ -8459,7 +8459,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Current section</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli bölüm</translation>
     </message>
     <message>
         <source>Inner</source>
@@ -8491,11 +8491,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>Outter</source>
-        <translation type="unfinished"/>
+        <translation>Dış</translation>
     </message>
     <message>
         <source>Standard Official</source>
@@ -10435,7 +10435,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     <name>KxDlgLineNumbering</name>
     <message>
         <source>mm</source>
-        <translation type="unfinished"/>
+        <translation>mm</translation>
     </message>
     <message>
         <source>From &amp;text:</source>
@@ -10482,23 +10482,23 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     <name>KxDlgWpsOfficialNewCustomPageNum</name>
     <message>
         <source>mm</source>
-        <translation type="unfinished"/>
+        <translation>mm</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Yeni</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Gizle</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"/>
+        <translation>Göster</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>FontSize:</source>
@@ -10506,7 +10506,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Preview:</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme:</translation>
     </message>
 </context>
 <context>
@@ -28275,7 +28275,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation type="unfinished"/>
+        <translation>İ&amp;ki</translation>
     </message>
     <message>
         <source>Start new col&amp;umn</source>
@@ -32188,7 +32188,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -38751,7 +38751,7 @@ Temizle</translation>
     <name>KxSmartPageNumDeleteCommand</name>
     <message>
         <source>Current section</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli bölüm</translation>
     </message>
     <message>
         <source>Current page</source>
@@ -40669,7 +40669,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>Standard Official</source>
@@ -43235,7 +43235,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>Top Outter</source>
@@ -48557,7 +48557,7 @@ Efektler</translation>
     <name>rainbow.ct_file</name>
     <message>
         <source>New</source>
-        <translation>Yeni</translation>
+        <translation>Yeni Boş Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Help</source>
