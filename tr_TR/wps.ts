@@ -25954,7 +25954,7 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hizalama</translation>
     </message>
 </context>
 <context>
@@ -26172,7 +26172,7 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hizalama</translation>
     </message>
 </context>
 <context>
