@@ -2553,7 +2553,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Symlink to File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya sistem bağlantısı</translation>
     </message>
     <message>
         <source>Symlink to Directory</source>
@@ -3038,7 +3038,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Delete to the end of the word</source>
-        <translation type="unfinished"/>
+        <translation>Sözcüğün sonuna kadar sil</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -5916,11 +5916,11 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"/>
+        <translation>İle&amp;ri &gt;</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"/>
+        <translation>&lt; &amp;Geri</translation>
     </message>
 </context>
 <context>
@@ -6660,7 +6660,7 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
     </message>
     <message>
         <source>Closes the window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi kapatır</translation>
     </message>
     <message>
         <source>Puts a maximized window back to normal</source>
