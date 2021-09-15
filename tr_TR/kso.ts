@@ -6470,7 +6470,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>PatternSphere</source>
@@ -9892,7 +9892,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Mektup</translation>
     </message>
     <message>
         <source>DLE (110 x 220 mm)</source>
@@ -21218,7 +21218,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Specials</source>
-        <translation type="unfinished"/>
+        <translation>Özel Semboller</translation>
     </message>
     <message>
         <source>Greek Extended</source>
