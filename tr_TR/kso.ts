@@ -850,7 +850,7 @@
     </message>
     <message>
         <source>&amp;Distance</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uzaklık</translation>
     </message>
     <message>
         <source>Enter 0 to 100 Pounds of value</source>
@@ -3304,7 +3304,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Space</source>
@@ -4494,7 +4494,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
     <message>
         <source>10%</source>
@@ -9668,11 +9668,11 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Drag-and-Drop</source>
-        <translation type="unfinished"/>
+        <translation>Sürükle ve Bırak</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Söndür Şişir</translation>
     </message>
 </context>
 <context>
@@ -10350,7 +10350,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Active Window:</source>
-        <translation type="unfinished"/>
+        <translation>Etkin Pencere:</translation>
     </message>
     <message>
         <source>Side by Side Window</source>
@@ -10373,7 +10373,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>No (&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hayır</translation>
     </message>
     <message>
         <source>Ignore (&amp;I)</source>
@@ -10393,7 +10393,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Yes (&amp;Y)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Evet</translation>
     </message>
     <message>
         <source>Not Save(&amp;N)</source>
@@ -12100,7 +12100,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Dün</translation>
     </message>
     <message>
         <source>custom %1</source>
@@ -12799,11 +12799,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Document date</source>
-        <translation type="unfinished"/>
+        <translation>Belge tarihi</translation>
     </message>
     <message>
         <source>Document type</source>
-        <translation type="unfinished"/>
+        <translation>Belge türü</translation>
     </message>
     <message>
         <source>Document organization flag</source>
@@ -12933,7 +12933,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz</source>
-        <translation type="unfinished"/>
+        <translation>*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz</translation>
     </message>
     <message>
         <source>*.avi</source>
@@ -13052,7 +13052,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Scalable Vector Graphics(*.svg)|*.svg</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeklenebilir Vektör Grafiği(*.svg)|*.svg</translation>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
@@ -13143,7 +13143,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Duplicate</source>
         <comment>DgUil_PasteEquidistance</comment>
-        <translation type="unfinished"/>
+        <translation>Yinelenen</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -13152,7 +13152,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Add Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Resim Çerçevesi Ekle</translation>
     </message>
     <message>
         <source>Nudge Object</source>
@@ -13324,7 +13324,7 @@ Ekle</translation>
     </message>
     <message>
         <source>*.mid;*.midi;*.rmi</source>
-        <translation type="unfinished"/>
+        <translation>*.mid;*.midi;*.rmi</translation>
     </message>
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
@@ -13375,7 +13375,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Center</source>
@@ -13396,7 +13396,7 @@ Ekle</translation>
     </message>
     <message>
         <source>*.m2ts;*.m2t;*.ts;*.tts</source>
-        <translation type="unfinished"/>
+        <translation>*.m2ts;*.m2t;*.ts;*.tts</translation>
     </message>
     <message>
         <source>Group </source>
@@ -13408,7 +13408,7 @@ Ekle</translation>
     </message>
     <message>
         <source>*.wma;*.wax</source>
-        <translation type="unfinished"/>
+        <translation>*.wma;*.wax</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -13638,7 +13638,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Shape Style</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Stili</translation>
     </message>
     <message>
         <source>Increase Paragraph Spacing</source>
@@ -16121,7 +16121,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönünde</translation>
     </message>
     <message>
         <source>X Rotation</source>
@@ -18701,11 +18701,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Ctrl,Alt,Shift</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl,Alt,Shift</translation>
     </message>
 </context>
 <context>
@@ -20959,7 +20959,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Subject:</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;onu:</translation>
     </message>
     <message>
         <source>&amp;System</source>
@@ -21003,11 +21003,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Document date</source>
-        <translation type="unfinished"/>
+        <translation>Belge tarihi</translation>
     </message>
     <message>
         <source>Document type</source>
-        <translation type="unfinished"/>
+        <translation>Belge türü</translation>
     </message>
     <message>
         <source>Document security time</source>
@@ -23485,7 +23485,7 @@ Possible reasons:
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
 </context>
 <context>
@@ -24249,7 +24249,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Refuse</source>
@@ -27197,11 +27197,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxSaveMessageBoxDialog</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
@@ -30821,7 +30821,7 @@ Become a VIP to continue using.</source>
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha sorma</translation>
     </message>
     <message>
         <source>There is no content to read.</source>
@@ -31066,11 +31066,11 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KRbSyncStateHint</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
 </context>
 <context>
@@ -31582,7 +31582,7 @@ Document</source>
     <name>KxHintWidget</name>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
@@ -36585,7 +36585,7 @@ Become a VIP to continue using.</source>
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha sorma</translation>
     </message>
     <message>
         <source>There is no content to read.</source>
@@ -36756,7 +36756,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Özel Sözlük Ekle</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)</source>
@@ -36779,7 +36779,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KxChangeIconDlg</name>
     <message>
         <source>Executable Files(*.exe)</source>
-        <translation type="unfinished"/>
+        <translation>Çalıştırılabilir Dosyalar(*.exe)</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -37101,7 +37101,7 @@ Please check your network your firewall configuration</source>
     <name>KCompressPicturesDlg</name>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished"/>
+        <translation>Çözünürlük:</translation>
     </message>
 </context>
 <context>
@@ -38276,11 +38276,11 @@ p, li { white-space: pre-wrap; }
     <name>KxFontMissingWidget</name>
     <message>
         <source> Online Font</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Yazı Tipi</translation>
     </message>
     <message>
         <source> Local Font</source>
-        <translation type="unfinished"/>
+        <translation>Yerel Yazı Tipi</translation>
     </message>
 </context>
 <context>
@@ -39496,7 +39496,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
