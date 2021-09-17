@@ -912,11 +912,11 @@
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished"/>
+        <translation>Kalın</translation>
     </message>
     <message>
         <source>save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Right</source>
@@ -3735,7 +3735,7 @@ Inserted pages must delete by yourself.</source>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>Önce</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3884,7 +3884,7 @@ Input 1-10 to insert from page 1 to page 10</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Press ESC to exit</source>
@@ -4068,7 +4068,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4305,7 +4305,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Manage pages and bookmarks:</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları ve yer imlerini yönetin:</translation>
     </message>
     <message>
         <source>Allowed</source>
@@ -4802,26 +4802,26 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfInsertWaterMarkWarningDialog</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Evet</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
     <name>KxPdfInsertWaterMarkWarningDialogWidget</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Evet</translation>
     </message>
     <message>
         <source>Hint</source>
@@ -5968,7 +5968,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"/>
+        <translation>Kare</translation>
     </message>
     <message>
         <source>GraffitiEraser</source>
@@ -6240,7 +6240,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ExtractText</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ayıkla</translation>
     </message>
     <message>
         <source>Export Highlights</source>
@@ -7437,7 +7437,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PdfDataStatistics</source>
-        <translation type="unfinished"/>
+        <translation>Veri İstatistikleri</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -8872,7 +8872,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Output Voice</source>
-        <translation type="unfinished"/>
+        <translation>Sesi Dışa Aktar</translation>
     </message>
     <message>
         <source>DeleteBackGround</source>
@@ -8888,7 +8888,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>PdfDataStatistics</source>
-        <translation type="unfinished"/>
+        <translation>Veri İstatistikleri</translation>
     </message>
     <message>
         <source>Share documents.</source>
@@ -9722,7 +9722,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9843,11 +9843,11 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Login members can save changes before they can be saved.</source>
@@ -10266,7 +10266,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10418,7 +10418,7 @@ input 1,6, means extract page 1 and 6</source>
     <name>KxPdfPostPayGuideUpVipDialog</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Trial</source>
@@ -10430,7 +10430,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Login now</source>
@@ -11620,7 +11620,7 @@ Pencere</translation>
     </message>
     <message>
         <source>print number</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırılacak Kopya Sayısı</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -11628,11 +11628,11 @@ Pencere</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>preview</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme</translation>
     </message>
     <message>
         <source>Squarepaper</source>
@@ -12936,7 +12936,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -15312,7 +15312,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -15420,7 +15420,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>print number</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırılacak Kopya Sayısı</translation>
     </message>
     <message>
         <source>Dialog</source>
