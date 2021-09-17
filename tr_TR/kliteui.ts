@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>You have subscribed the VIP service.</source>
@@ -1089,7 +1089,7 @@ please wait</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Wait a moment...</source>
@@ -1138,7 +1138,7 @@ please wait</source>
     <name>KThirdCloudFileListPage</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -1278,7 +1278,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KLiteTrialReminderDlg</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme</translation>
     </message>
     <message>
         <source>confirm</source>
