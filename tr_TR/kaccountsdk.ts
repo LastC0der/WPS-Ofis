@@ -553,7 +553,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>personal logo</source>
@@ -1283,14 +1283,14 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Sign Up</source>
-        <translation type="unfinished"/>
+        <translation>Kaydol</translation>
     </message>
 </context>
 <context>
     <name>StackedWidget</name>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Forget password</source>
@@ -1433,7 +1433,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>An error occurred,check you network and retry</source>
