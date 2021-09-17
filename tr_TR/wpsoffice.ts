@@ -273,7 +273,7 @@
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Space</source>
@@ -1391,7 +1391,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1666,7 +1666,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2033,7 +2033,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>KPromeGradeDialog</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
     <message>
         <source>Your opinion is really important! Please help us do better!</source>
@@ -2049,7 +2049,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>We&apos;re so sorry to upset you.</source>
@@ -3411,7 +3411,7 @@ Check path and filename.</source>
     <name>KCloudClipboardDialog</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Evet</translation>
     </message>
     <message>
         <source>Text</source>
