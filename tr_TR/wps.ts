@@ -1148,7 +1148,7 @@
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>Önce</translation>
     </message>
     <message>
         <source>Author</source>
@@ -1342,7 +1342,7 @@
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>%s Not Privilege</source>
@@ -6739,7 +6739,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>Önce</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -6783,7 +6783,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Equation Options</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Seçenekleri</translation>
     </message>
     <message>
         <source>When building up other n-ary operators,</source>
@@ -11358,7 +11358,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"/>
+        <translation>Stiller</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -15995,7 +15995,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Shape Style</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Stili</translation>
     </message>
     <message>
         <source>Above Chart</source>
@@ -17256,7 +17256,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Professional</source>
-        <translation type="unfinished"/>
+        <translation>Profesyonel</translation>
     </message>
     <message>
         <source>Outside End</source>
@@ -17595,7 +17595,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Add Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Resim Çerçevesi Ekle</translation>
     </message>
     <message>
         <source>ExtendObjectTrigger</source>
@@ -18040,11 +18040,11 @@ Yazdır</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"/>
+        <translation>Stiller</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -19002,7 +19002,7 @@ Screen</source>
     </message>
     <message>
         <source>Professional</source>
-        <translation type="unfinished"/>
+        <translation>Profesyonel</translation>
     </message>
     <message>
         <source>Map</source>
@@ -23967,7 +23967,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Split Table</source>
@@ -32665,7 +32665,7 @@ Number</source>
     </message>
     <message>
         <source>Add Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Resim Çerçevesi Ekle</translation>
     </message>
     <message>
         <source>Online Fonts</source>
@@ -32697,7 +32697,7 @@ Number</source>
     </message>
     <message>
         <source>Output Voice</source>
-        <translation type="unfinished"/>
+        <translation>Sesi Dışa Aktar</translation>
     </message>
     <message>
         <source>Ornamentation</source>
@@ -35273,7 +35273,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>a.b.c.</source>
@@ -35320,7 +35320,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>a.b.c.</source>
@@ -35367,7 +35367,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>a.b.c.</source>
@@ -35414,7 +35414,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>a.b.c.</source>
@@ -35461,7 +35461,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>a.b.c.</source>
@@ -35500,7 +35500,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
@@ -42656,7 +42656,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation type="unfinished"/>
+        <translation>Son sözlük silinemez!</translation>
     </message>
     <message>
         <source>Full path: </source>
@@ -42664,7 +42664,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Özel Sözlük Ekle</translation>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
@@ -43424,7 +43424,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Normal Text</source>
-        <translation type="unfinished"/>
+        <translation>Normal Metin</translation>
     </message>
     <message>
         <source>Fraction</source>
@@ -43440,7 +43440,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Bracket</source>
-        <translation type="unfinished"/>
+        <translation>Ayraç</translation>
     </message>
     <message>
         <source>Symbols</source>
@@ -43448,7 +43448,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Structures</source>
-        <translation type="unfinished"/>
+        <translation>Yapılar</translation>
     </message>
     <message>
         <source>Function</source>
@@ -43460,15 +43460,15 @@ Try one or more of the following:
     </message>
     <message>
         <source>Large Operator</source>
-        <translation type="unfinished"/>
+        <translation>Büyük İşleç</translation>
     </message>
     <message>
         <source>Equation Options</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Seçenekleri</translation>
     </message>
     <message>
         <source>Professional</source>
-        <translation type="unfinished"/>
+        <translation>Profesyonel</translation>
     </message>
 </context>
 <context>
@@ -52036,7 +52036,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -52310,7 +52310,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -52837,7 +52837,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>a.b.c.</source>
@@ -53411,7 +53411,7 @@ to Email</source>
     </message>
     <message>
         <source>Output Voice</source>
-        <translation type="unfinished"/>
+        <translation>Sesi Dışa Aktar</translation>
     </message>
     <message>
         <source>Online Picture</source>
