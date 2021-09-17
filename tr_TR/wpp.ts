@@ -1080,7 +1080,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>a.b.c.</source>
@@ -2314,7 +2314,7 @@ Check</source>
     </message>
     <message>
         <source>Apply Design Template</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Şablonu Uygula</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -2399,7 +2399,7 @@ Check</source>
     <message>
         <source>Drag-and-Drop</source>
         <comment>WpDRAGSLIDE</comment>
-        <translation type="unfinished"/>
+        <translation>Sürükle ve Bırak</translation>
     </message>
     <message>
         <source>Edit Table Borders</source>
@@ -2431,7 +2431,7 @@ Check</source>
     </message>
     <message>
         <source>Media Files(*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)|*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
-        <translation type="unfinished"/>
+        <translation>Medya Dosyaları(*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)|*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</translation>
     </message>
     <message>
         <source>Format Text</source>
@@ -3039,7 +3039,7 @@ Check</source>
     </message>
     <message>
         <source>Drag-and-Drop</source>
-        <translation type="unfinished"/>
+        <translation>Sürükle ve Bırak</translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -3066,7 +3066,7 @@ Check</source>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>Önce</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3082,7 +3082,7 @@ Check</source>
     </message>
     <message>
         <source>Equation Options</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Seçenekleri</translation>
     </message>
 </context>
 <context>
@@ -3093,7 +3093,7 @@ Check</source>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"/>
+        <translation>2-</translation>
     </message>
     <message>
         <source>3-</source>
@@ -3624,11 +3624,11 @@ Check</source>
     </message>
     <message>
         <source>3 grids per cm</source>
-        <translation type="unfinished"/>
+        <translation>cm başına 3 ızgara</translation>
     </message>
     <message>
         <source>4 grids per cm</source>
-        <translation type="unfinished"/>
+        <translation>cm başına 4 ızgara</translation>
     </message>
     <message>
         <source>5 grids per cm</source>
@@ -5080,7 +5080,7 @@ Check</source>
     </message>
     <message>
         <source>Vertical text</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin</translation>
     </message>
     <message>
         <source>Slide Sorter View</source>
@@ -7937,7 +7937,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Drag-and-Drop</source>
-        <translation type="unfinished"/>
+        <translation>Sürükle ve Bırak</translation>
     </message>
     <message>
         <source> The Slide Master: </source>
@@ -12761,7 +12761,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Shape Style</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Stili</translation>
     </message>
     <message>
         <source>Above Chart</source>
@@ -13853,7 +13853,7 @@ Master</source>
     </message>
     <message>
         <source>Professional</source>
-        <translation type="unfinished"/>
+        <translation>Profesyonel</translation>
     </message>
     <message>
         <source>Delete Layout</source>
@@ -14149,7 +14149,7 @@ Master</source>
     </message>
     <message>
         <source>Add Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Resim Çerçevesi Ekle</translation>
     </message>
     <message>
         <source>From Current 
@@ -14483,7 +14483,7 @@ Slide</source>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Switch</source>
@@ -16196,7 +16196,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Add Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Resim Çerçevesi Ekle</translation>
     </message>
     <message>
         <source>Online Fonts</source>
@@ -24361,7 +24361,7 @@ Animation</source>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Text Boxes</source>
@@ -27065,7 +27065,7 @@ Gizle</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation type="unfinished"/>
+        <translation>Son sözlük silinemez!</translation>
     </message>
     <message>
         <source>Full path: </source>
@@ -27073,7 +27073,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Özel Sözlük Ekle</translation>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
@@ -27502,7 +27502,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Bracket</source>
-        <translation type="unfinished"/>
+        <translation>Ayraç</translation>
     </message>
     <message>
         <source>Symbols</source>
@@ -27510,7 +27510,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Structures</source>
-        <translation type="unfinished"/>
+        <translation>Yapılar</translation>
     </message>
     <message>
         <source>Function</source>
@@ -27522,15 +27522,15 @@ Gizle</translation>
     </message>
     <message>
         <source>Large Operator</source>
-        <translation type="unfinished"/>
+        <translation>Büyük İşleç</translation>
     </message>
     <message>
         <source>Equation Options</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Seçenekleri</translation>
     </message>
     <message>
         <source>Professional</source>
-        <translation type="unfinished"/>
+        <translation>Profesyonel</translation>
     </message>
 </context>
 <context>
@@ -27881,7 +27881,7 @@ Master</source>
     <name>KxWppSlideSmartWidget</name>
     <message>
         <source>Copy As Current Format</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Biçim Olarak Kopyala</translation>
     </message>
     <message>
         <source>Copy As Current Format ,Switch To Source</source>
@@ -27973,7 +27973,7 @@ Master</source>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
 </context>
 <context>
@@ -27984,7 +27984,7 @@ Master</source>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
 </context>
 <context>
@@ -28341,7 +28341,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>ongmani.ct_drawingtool.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
@@ -28352,7 +28352,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>ongmani.ct_drawingtool_vml.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
@@ -28363,7 +28363,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>ongmani.ct_graphictool.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
@@ -28374,7 +28374,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>ongmani.ct_texttool.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
@@ -28744,14 +28744,14 @@ Bölmesi</translation>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>WPS Presentation Help</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum Yardımı</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.Help</name>
     <message>
         <source>WPS Presentation Help</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum Yardımı</translation>
     </message>
 </context>
 <context>
@@ -28866,7 +28866,7 @@ Sure to close?</source>
     <name>KxWppEquationOptionsDlg</name>
     <message>
         <source>Equation Options</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Seçenekleri</translation>
     </message>
 </context>
 <context>
@@ -30856,7 +30856,7 @@ Kapat</translation>
     </message>
     <message>
         <source>WPS Presentation Help</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum Yardımı</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -33203,7 +33203,7 @@ Music</source>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -33879,7 +33879,7 @@ Transition</source>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
 </context>
 <context>
@@ -33916,7 +33916,7 @@ Transition</source>
     <name>rainbow.ct_drawingtool.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
@@ -33927,7 +33927,7 @@ Transition</source>
     <name>rainbow.ct_texttool.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
@@ -33938,11 +33938,11 @@ Transition</source>
     <name>KxFontMissingWidget</name>
     <message>
         <source> Online Font</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Yazı Tipi</translation>
     </message>
     <message>
         <source> Local Font</source>
-        <translation type="unfinished"/>
+        <translation>Yerel Yazı Tipi</translation>
     </message>
 </context>
 <context>
@@ -33984,7 +33984,7 @@ Transition</source>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>WPS Presentation Help</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum Yardımı</translation>
     </message>
 </context>
 <context>
