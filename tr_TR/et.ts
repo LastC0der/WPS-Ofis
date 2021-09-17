@@ -13525,7 +13525,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Please select a dictionary first.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen önce bir sözlük seçin.</translation>
     </message>
     <message>
         <source>equal to</source>
@@ -13594,7 +13594,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Özel Sözlük Ekle</translation>
     </message>
     <message>
         <source>Information</source>
@@ -15951,7 +15951,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>Önce</translation>
     </message>
     <message>
         <source>Text Filter</source>
@@ -15975,7 +15975,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Set Search</source>
-        <translation type="unfinished"/>
+        <translation>Aramayı Ayarla</translation>
     </message>
     <message>
         <source>Top 10</source>
@@ -15983,7 +15983,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Color Sort</source>
-        <translation type="unfinished"/>
+        <translation>Renk Sıralaması</translation>
     </message>
     <message>
         <source>Tomorrow</source>
@@ -16063,7 +16063,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Export List</source>
-        <translation type="unfinished"/>
+        <translation>Liste Ver</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -16368,7 +16368,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Parameter</source>
-        <translation type="unfinished"/>
+        <translation>Parametre</translation>
     </message>
     <message>
         <source>Link failed, please check connect strings!</source>
@@ -17135,7 +17135,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Remove Subtotals</source>
-        <translation type="unfinished"/>
+        <translation>Alt Toplamları Kaldır</translation>
     </message>
     <message>
         <source>Hide Row</source>
@@ -17147,7 +17147,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
-        <translation type="unfinished"/>
+        <translation>Sürükle ve Bırak</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -17155,7 +17155,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Delete Legend</source>
-        <translation type="unfinished"/>
+        <translation>Göstergeyi Sil</translation>
     </message>
 </context>
 <context>
@@ -17235,7 +17235,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>LineFeed</source>
-        <translation type="unfinished"/>
+        <translation>Satır sonu</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -18126,7 +18126,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>LineFeed</source>
-        <translation type="unfinished"/>
+        <translation>Satır sonu</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -19464,7 +19464,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Shape Style</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Stili</translation>
     </message>
     <message>
         <source>Merge Sheet</source>
@@ -20723,7 +20723,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Professional</source>
-        <translation type="unfinished"/>
+        <translation>Profesyonel</translation>
     </message>
     <message>
         <source>Count Numbers</source>
@@ -22046,7 +22046,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>#ERROR!</source>
-        <translation type="unfinished"/>
+        <translation>#HATA!</translation>
     </message>
     <message>
         <source>Move Down</source>
@@ -26291,7 +26291,7 @@ Trig</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation>bold</translation>
+        <translation>kalın</translation>
     </message>
     <message>
         <source>Currency [0]</source>
@@ -30384,7 +30384,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>Önce</translation>
     </message>
     <message>
         <source>August</source>
@@ -31576,7 +31576,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Export List</source>
-        <translation type="unfinished"/>
+        <translation>Liste Ver</translation>
     </message>
 </context>
 <context>
@@ -31591,7 +31591,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>This mode is for VIP only. Please sign in first.</source>
@@ -36376,7 +36376,7 @@ Filtre</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Split Sheet</source>
@@ -37014,11 +37014,11 @@ Birleştir</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation type="unfinished"/>
+        <translation>Son sözlük silinemez!</translation>
     </message>
     <message>
         <source>Add Dictionary File</source>
-        <translation type="unfinished"/>
+        <translation>Sözlük Dosyası Ekle</translation>
     </message>
     <message>
         <source>Delete from &amp;Disk</source>
@@ -37070,7 +37070,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Please select a dictionary first.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen önce bir sözlük seçin.</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -37078,7 +37078,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Clear successfully!</source>
-        <translation type="unfinished"/>
+        <translation>Başarıyla temizlendi!</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)|*.dic</source>
@@ -40738,7 +40738,7 @@ Center</source>
     </message>
     <message>
         <source>Add Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Resim Çerçevesi Ekle</translation>
     </message>
     <message>
         <source>WPS Office Skill</source>
@@ -43780,7 +43780,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Options</source>
@@ -48372,7 +48372,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>#ERROR!</source>
-        <translation type="unfinished"/>
+        <translation>#HATA!</translation>
     </message>
 </context>
 <context>
@@ -50800,7 +50800,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Normal Text</source>
-        <translation type="unfinished"/>
+        <translation>Normal Metin</translation>
     </message>
     <message>
         <source>Fraction</source>
@@ -50816,7 +50816,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Bracket</source>
-        <translation type="unfinished"/>
+        <translation>Ayraç</translation>
     </message>
     <message>
         <source>Symbols</source>
@@ -50824,7 +50824,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Structures</source>
-        <translation type="unfinished"/>
+        <translation>Yapılar</translation>
     </message>
     <message>
         <source>Function</source>
@@ -50832,18 +50832,18 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Equation Options</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Seçenekleri</translation>
     </message>
     <message>
         <source>Professional</source>
-        <translation type="unfinished"/>
+        <translation>Profesyonel</translation>
     </message>
 </context>
 <context>
     <name>KxEditAxisLableDlg</name>
     <message>
         <source>#ERROR</source>
-        <translation type="unfinished"/>
+        <translation>#HATA</translation>
     </message>
     <message>
         <source>Select Range</source>
@@ -58415,7 +58415,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -59182,7 +59182,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar</translation>
     </message>
     <message>
         <source>Symbol</source>
