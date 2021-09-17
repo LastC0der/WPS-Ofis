@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Space</source>
@@ -3939,7 +3939,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Your Permission Denied</source>
@@ -7190,7 +7190,7 @@ Free Space: about %1 MB</source>
     <name>KOfficialDocMsgBox</name>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>WPS NETDISK</source>
@@ -7213,14 +7213,14 @@ Free Space: about %1 MB</source>
     <name>KUserInfoUnloginedWidget</name>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
 </context>
 <context>
     <name>KWpsSvipStatusWidget</name>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
 </context>
 <context>
@@ -7498,7 +7498,7 @@ yazılamadı</translation>
     <name>KWpsBoxMiniHeaderAction</name>
     <message>
         <source>login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
 </context>
 <context>
@@ -9307,7 +9307,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -9326,7 +9326,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Belgesi</translation>
     </message>
 </context>
 <context>
@@ -9702,7 +9702,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Upgrade VIP</source>
@@ -9957,7 +9957,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KCloudMsgBoxBase</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Ensure</source>
@@ -9965,14 +9965,14 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Belgesi</translation>
     </message>
 </context>
 <context>
     <name>KOverlayIconRepairWidget</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Repair file synchronization status</source>
@@ -11312,7 +11312,7 @@ Free Space: about %1 MB</source>
     <name>KShareFileDlgUi</name>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>cloudFile can be edited by people and synchronized in terminals, and more secure.</source>
@@ -11451,7 +11451,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Belgesi</translation>
     </message>
 </context>
 <context>
