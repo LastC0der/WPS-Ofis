@@ -2542,15 +2542,15 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>PIXEL</source>
-        <translation type="unfinished"/>
+        <translation>piksel</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağ</translation>
     </message>
     <message>
         <source>colum</source>
@@ -3415,7 +3415,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>print</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>rekey</source>
@@ -5468,7 +5468,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekiller</translation>
     </message>
     <message>
         <source>Split</source>
@@ -7112,7 +7112,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekil</translation>
     </message>
     <message>
         <source>Area Highlight</source>
@@ -7176,15 +7176,15 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfCaSetDlg</name>
     <message>
         <source>all</source>
-        <translation type="unfinished"/>
+        <translation>TÜMÜ</translation>
     </message>
     <message>
         <source>copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>print</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>insert and delete page</source>
@@ -10246,11 +10246,11 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tür</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekil</translation>
     </message>
     <message>
         <source>All Type</source>
@@ -11612,7 +11612,7 @@ Pencere</translation>
     </message>
     <message>
         <source>print</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>TemplatesPrint</source>
@@ -11656,14 +11656,14 @@ Pencere</translation>
     </message>
     <message>
         <source>Singleline</source>
-        <translation type="unfinished"/>
+        <translation>Tek satır</translation>
     </message>
 </context>
 <context>
     <name>PDFTipWidget::KxDrTipContentWidget</name>
     <message>
         <source>PRINT</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>Do you want to enter password open</source>
