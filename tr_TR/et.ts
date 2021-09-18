@@ -29681,11 +29681,11 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekil</translation>
     </message>
     <message>
         <source>Share</source>
@@ -47063,7 +47063,7 @@ Düzenleyicisi</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dikey</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
