@@ -4708,7 +4708,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeve</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -4724,7 +4724,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>THREE</source>
-        <translation type="unfinished"/>
+        <translation>ÜÇ</translation>
     </message>
     <message>
         <source>Right</source>
@@ -6445,7 +6445,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dikey</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
@@ -14814,7 +14814,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Header Right</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi Sağ</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
@@ -19148,11 +19148,11 @@ Screen</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekil</translation>
     </message>
     <message>
         <source>Share</source>
@@ -25044,7 +25044,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Previous Section</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Bölüm</translation>
     </message>
     <message>
         <source>Delete Page Num</source>
@@ -25420,7 +25420,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeve</translation>
     </message>
     <message>
         <source>Right</source>
@@ -25472,11 +25472,11 @@ Numarası</translation>
     </message>
     <message>
         <source>OutSide</source>
-        <translation type="unfinished"/>
+        <translation>Dış</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"/>
+        <translation>Dış</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -25910,7 +25910,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"/>
+        <translation>Dış</translation>
     </message>
     <message>
         <source>pt, -2, 0, 1584, 1</source>
@@ -26092,7 +26092,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"/>
+        <translation>Dış</translation>
     </message>
     <message>
         <source>Layout in table &amp;cell</source>
@@ -33459,7 +33459,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"/>
+        <translation>Dış</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -35086,11 +35086,11 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Alt+B</source>
-        <translation type="unfinished"/>
+        <translation>Alt+B</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -35102,7 +35102,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Alt+G</source>
-        <translation type="unfinished"/>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <source>Alt+I</source>
@@ -35110,7 +35110,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Alt+J</source>
-        <translation type="unfinished"/>
+        <translation>Alt+J</translation>
     </message>
     <message>
         <source>Alt+K</source>
@@ -35126,7 +35126,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Header right</source>
-        <translation type="unfinished"/>
+        <translation>Üst bilgi sağ</translation>
     </message>
     <message>
         <source>Footer outside</source>
@@ -40657,7 +40657,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Header right</source>
-        <translation type="unfinished"/>
+        <translation>Üst bilgi sağ</translation>
     </message>
     <message>
         <source>Footer outside</source>
@@ -41357,7 +41357,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <name>KxWpsPageNumPositionModel</name>
     <message>
         <source>Header right</source>
-        <translation type="unfinished"/>
+        <translation>Üst bilgi sağ</translation>
     </message>
     <message>
         <source>Footer outside</source>
@@ -41705,7 +41705,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Cannot split cells vertically in multiple rows.</source>
-        <translation type="unfinished"/>
+        <translation>Hücreler birden çok satırda dikey olarak bölünemez.</translation>
     </message>
     <message>
         <source>The number of rows to be split must be a divisor of %d.</source>
