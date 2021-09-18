@@ -1351,7 +1351,7 @@ Please check your data and make sure that the reference is valid and the workshe
     </message>
     <message>
         <source>Plaid</source>
-        <translation type="unfinished"/>
+        <translation>Ekose</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -1375,7 +1375,7 @@ Please check your data and make sure that the reference is valid and the workshe
     </message>
     <message>
         <source>Weave</source>
-        <translation type="unfinished"/>
+        <translation>Dokuma</translation>
     </message>
     <message>
         <source>White</source>
@@ -3428,7 +3428,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Bass Boost</source>
-        <translation type="unfinished"/>
+        <translation>Basları Artır</translation>
     </message>
     <message>
         <source>PgDown</source>
@@ -3500,7 +3500,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Bass Up</source>
-        <translation type="unfinished"/>
+        <translation>Bass +</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -3516,7 +3516,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Bass Down</source>
-        <translation type="unfinished"/>
+        <translation>Bass -</translation>
     </message>
     <message>
         <source>Standby</source>
@@ -4896,7 +4896,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Flat </source>
-        <translation type="unfinished"/>
+        <translation>Düz</translation>
     </message>
     <message>
         <source>Thin Arrow</source>
@@ -4908,7 +4908,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeve</translation>
     </message>
     <message>
         <source>Mainframe</source>
@@ -5029,7 +5029,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekil</translation>
     </message>
     <message>
         <source>Whole-Iamge,Touch</source>
@@ -5081,11 +5081,11 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Water</source>
-        <translation type="unfinished"/>
+        <translation>Su</translation>
     </message>
     <message>
         <source>Wave	</source>
-        <translation type="unfinished"/>
+        <translation>Dalga	</translation>
     </message>
     <message>
         <source>Wave1</source>
@@ -5097,7 +5097,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Weave</source>
-        <translation type="unfinished"/>
+        <translation>Dokuma</translation>
     </message>
     <message>
         <source>Wheat</source>
@@ -8395,7 +8395,7 @@ Line-type: %3</source>
     <message>
         <source>Frame</source>
         <comment>DRAWING2_TOOLTIP_FRAME</comment>
-        <translation type="unfinished"/>
+        <translation>Çerçeve</translation>
     </message>
     <message>
         <source>Cloud Callout</source>
@@ -8893,7 +8893,7 @@ Line-type: %3</source>
     <message>
         <source>Shape</source>
         <comment>DRAWING2STR_SHAPE</comment>
-        <translation type="unfinished"/>
+        <translation>Şekil</translation>
     </message>
     <message>
         <source>Flowchart: Summing Junction</source>
@@ -20617,7 +20617,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dikey</translation>
     </message>
     <message>
         <source>&amp;Texture:</source>
@@ -24846,7 +24846,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"/>
+        <translation>Dış</translation>
     </message>
 </context>
 <context>
@@ -30096,11 +30096,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Plaid</source>
-        <translation type="unfinished"/>
+        <translation>Ekose</translation>
     </message>
     <message>
         <source>Weave</source>
-        <translation type="unfinished"/>
+        <translation>Dokuma</translation>
     </message>
     <message>
         <source>Light horizontal</source>
