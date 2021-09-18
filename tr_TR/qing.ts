@@ -242,7 +242,7 @@
     </message>
     <message>
         <source>Bass Boost</source>
-        <translation type="unfinished"/>
+        <translation>Basları Artır</translation>
     </message>
     <message>
         <source>PgDown</source>
@@ -314,7 +314,7 @@
     </message>
     <message>
         <source>Bass Up</source>
-        <translation type="unfinished"/>
+        <translation>Bass +</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -330,7 +330,7 @@
     </message>
     <message>
         <source>Bass Down</source>
-        <translation type="unfinished"/>
+        <translation>Bass -</translation>
     </message>
     <message>
         <source>Standby</source>
@@ -3975,7 +3975,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>test@kingsoft.com</source>
-        <translation type="unfinished"/>
+        <translation>test@kingsoft.com</translation>
     </message>
     <message>
         <source>WPS Office Cloud upgrade completed. It will take effect after you restart the client.</source>
