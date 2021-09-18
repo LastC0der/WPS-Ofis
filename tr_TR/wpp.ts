@@ -1616,7 +1616,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dikey</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
@@ -5294,7 +5294,7 @@ Check</source>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dikey</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -5326,7 +5326,7 @@ Check</source>
     </message>
     <message>
         <source>Overhead</source>
-        <translation type="unfinished"/>
+        <translation>Tepegöz</translation>
     </message>
     <message>
         <source>Play</source>
@@ -11286,7 +11286,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeve</translation>
     </message>
     <message>
         <source>Morph</source>
@@ -11298,7 +11298,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekil</translation>
     </message>
     <message>
         <source>Split</source>
@@ -25100,7 +25100,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>scope</source>
@@ -25524,7 +25524,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Do you want to reset the library as default?</source>
-        <translation type="unfinished"/>
+        <translation>Kitaplığı varsayılan olarak sıfırlamak istiyor musunuz?</translation>
     </message>
     <message>
         <source>All Pictures</source>
@@ -27762,7 +27762,7 @@ Master</source>
     </message>
     <message>
         <source>Overhead</source>
-        <translation type="unfinished"/>
+        <translation>Tepegöz</translation>
     </message>
     <message>
         <source>Notes, handouts and outline</source>
