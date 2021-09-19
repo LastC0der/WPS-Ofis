@@ -14794,7 +14794,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya Kaydet</translation>
     </message>
     <message>
         <source>Footer Right</source>
@@ -16663,7 +16663,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Primary Minor Horizontal</source>
@@ -18068,7 +18068,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Ekle</translation>
     </message>
     <message>
         <source>Switch to next window</source>
@@ -19596,7 +19596,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Security</source>
@@ -28862,7 +28862,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep Rengi</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
@@ -28981,7 +28981,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep Rengi</translation>
     </message>
     <message>
         <source>Ink Shape</source>
@@ -32809,11 +32809,12 @@ Number</source>
     </message>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Ekle</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
@@ -33245,7 +33246,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
@@ -34213,7 +34214,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -36952,7 +36953,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -37979,7 +37980,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -42414,7 +42415,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"/>
+        <translation>Konum</translation>
     </message>
     <message>
         <source>Below text</source>
@@ -43204,7 +43205,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>search</source>
-        <translation type="unfinished"/>
+        <translation>Ara</translation>
     </message>
     <message>
         <source>receivers:</source>
@@ -44645,7 +44646,7 @@ Try one or more of the following:
     <name>KxDlgWpsOfficialToDocument</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Transfering</source>
@@ -50746,7 +50747,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep Rengi</translation>
     </message>
     <message>
         <source>Ink Shape</source>
@@ -53427,7 +53428,8 @@ to Email</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
