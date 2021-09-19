@@ -6428,7 +6428,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>&amp;Year</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yıl</translation>
     </message>
     <message>
         <source>St&amp;op value:</source>
@@ -9982,7 +9982,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Bar_num</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk_num</translation>
     </message>
     <message>
         <source>The Comment of Cell %s</source>
@@ -10749,7 +10749,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>Register_id</source>
-        <translation type="unfinished"/>
+        <translation>Kayıt_no</translation>
     </message>
     <message>
         <source>ignore empty blank</source>
@@ -16846,7 +16846,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Ekle</translation>
     </message>
     <message>
         <source>Can&apos;t &amp;Undo </source>
@@ -18290,7 +18290,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya Kaydet</translation>
     </message>
     <message>
         <source>DelCellUp</source>
@@ -18327,7 +18327,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Collapse Entire Field</source>
-        <translation type="unfinished"/>
+        <translation>Alanın Tamamını Daralt</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -20100,7 +20100,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Primary Minor Horizontal</source>
@@ -22263,7 +22263,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Cube</source>
-        <translation type="unfinished"/>
+        <translation>Küp</translation>
     </message>
     <message>
         <source>Div.</source>
@@ -30118,7 +30118,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Security</source>
@@ -38756,7 +38756,8 @@ Birleştir</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -38824,7 +38825,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Popup Menu</source>
@@ -38899,7 +38900,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Collapse Entire Field</source>
-        <translation type="unfinished"/>
+        <translation>Alanın Tamamını Daralt</translation>
     </message>
     <message>
         <source>Field 
@@ -40874,11 +40875,12 @@ Center</source>
     </message>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Ekle</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
@@ -41914,7 +41916,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -42179,7 +42182,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"/>
+        <translation>Konum</translation>
     </message>
     <message>
         <source>Worksheet</source>
@@ -45389,7 +45392,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>View File Safe </source>
@@ -53190,7 +53193,7 @@ To make changes, click Unprotect Sheet in the Review tab (You might need a passw
     <name>KxEtFilterColumDlg</name>
     <message>
         <source>search</source>
-        <translation type="unfinished"/>
+        <translation>Ara</translation>
     </message>
     <message>
         <source>input columns to show:</source>
@@ -59533,7 +59536,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Goal Seek</source>
