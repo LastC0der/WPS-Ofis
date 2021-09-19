@@ -4339,7 +4339,7 @@ Check</source>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştır</translation>
     </message>
     <message>
         <source>Bold Flash</source>
@@ -5137,7 +5137,7 @@ Check</source>
     <message>
         <source>Cancel</source>
         <comment>wpp_sIgnore</comment>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Stretchy</source>
@@ -6656,7 +6656,7 @@ Body: Thread</source>
     </message>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Ekle</translation>
     </message>
     <message>
         <source>No Slide Using</source>
@@ -6672,7 +6672,7 @@ Body: Thread</source>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştır</translation>
     </message>
     <message>
         <source>Third level</source>
@@ -11254,7 +11254,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Cube</source>
-        <translation type="unfinished"/>
+        <translation>Küp</translation>
     </message>
     <message>
         <source>Fade</source>
@@ -11889,7 +11889,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya Kaydet</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
@@ -13280,7 +13280,7 @@ Template</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Primary Minor Horizontal</source>
@@ -13558,7 +13558,7 @@ Master</source>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep Rengi</translation>
     </message>
     <message>
         <source>Left Hang</source>
@@ -14210,7 +14210,7 @@ Slide</source>
     </message>
     <message>
         <source>Highlighter</source>
-        <translation type="unfinished"/>
+        <translation>Vurgulayıcı Kalem</translation>
     </message>
     <message>
         <source>IconLibrary</source>
@@ -14507,7 +14507,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Ekle</translation>
     </message>
     <message>
         <source>Text Speech</source>
@@ -15089,7 +15089,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep Rengi</translation>
     </message>
     <message>
         <source>NewChart AxisTitle</source>
@@ -16344,11 +16344,12 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Ekle</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
@@ -18210,7 +18211,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Security</source>
@@ -21535,7 +21536,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
@@ -21965,7 +21966,7 @@ Comment</source>
     </message>
     <message>
         <source>Ink color</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep rengi</translation>
     </message>
     <message>
         <source>Ink shape</source>
@@ -23370,7 +23371,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -24788,7 +24789,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Smooth E&amp;nd</source>
-        <translation type="unfinished"/>
+        <translation>Düzgün &amp;Bitiş</translation>
     </message>
     <message>
         <source>A&amp;uto-reverse</source>
@@ -26609,7 +26610,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"/>
+        <translation>Konum</translation>
     </message>
     <message>
         <source>File or folder with specified name already exists. Please specify another name.</source>
@@ -33760,7 +33761,8 @@ Subordinate</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
