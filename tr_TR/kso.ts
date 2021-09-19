@@ -4595,11 +4595,11 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Cube</source>
-        <translation type="unfinished"/>
+        <translation>Küp</translation>
     </message>
     <message>
         <source>Desk</source>
-        <translation type="unfinished"/>
+        <translation>Masa</translation>
     </message>
     <message>
         <source>Cyan</source>
@@ -5436,7 +5436,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>Desk</source>
         <comment>DRAWINGSTR_DESK2</comment>
-        <translation type="unfinished"/>
+        <translation>Masa</translation>
     </message>
     <message>
         <source>TranslucentPowder </source>
@@ -5821,7 +5821,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Action Button: Custom</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Özel</translation>
     </message>
     <message>
         <source>Flowchart: Stored Data</source>
@@ -6835,7 +6835,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Ekle</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -7138,7 +7138,7 @@ Ekle</translation>
     <message>
         <source>Cube</source>
         <comment>DRAWING2_TOOLTIP_CUBE</comment>
-        <translation type="unfinished"/>
+        <translation>Küp</translation>
     </message>
     <message>
         <source>Snip Diagonal Corner Rectangle</source>
@@ -7865,7 +7865,7 @@ Line-type: %3</source>
     <message>
         <source>Cube</source>
         <comment>DRAWING2STR_CUBE</comment>
-        <translation type="unfinished"/>
+        <translation>Küp</translation>
     </message>
     <message>
         <source>ModeratelyLoose</source>
@@ -8845,7 +8845,7 @@ Line-type: %3</source>
     <message>
         <source>Action Button: Custom</source>
         <comment>DRAWING2STR_ACTION_BUTTON_CUSTOM</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Özel</translation>
     </message>
     <message>
         <source>WordArt: Slant Down</source>
@@ -9487,7 +9487,7 @@ Line-type: %3</source>
     <message>
         <source>Action Button: Custom</source>
         <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Özel</translation>
     </message>
     <message>
         <source>Venn Diagram</source>
@@ -10759,11 +10759,11 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
     <message>
         <source>warning</source>
@@ -11462,7 +11462,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
 </context>
 <context>
@@ -12600,7 +12600,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
     <message>
         <source>Click to purchase now.</source>
@@ -17872,7 +17872,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Picture Accent List</source>
-        <translation type="unfinished"/>
+        <translation>Resim Vurgu Listesi</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
@@ -20270,7 +20270,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Equity</source>
-        <translation type="unfinished"/>
+        <translation>Hisse Senedi</translation>
     </message>
     <message>
         <source>Median</source>
@@ -27729,7 +27729,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
     <message>
         <source>To enable the macros, you need to install the VBA support library. Click the button to download VBA. If VBA is already installed, restart WPS.</source>
@@ -31624,7 +31624,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Download</source>
-        <translation type="unfinished"/>
+        <translation>&amp;İndir</translation>
     </message>
     <message>
         <source>Please download and install VBA to allow all macros to run if needed. If you have installed VBA, please restart WPS Office.</source>
@@ -33006,7 +33006,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>&amp;Download</source>
-        <translation type="unfinished"/>
+        <translation>&amp;İndir</translation>
     </message>
     <message>
         <source>Offline management</source>
@@ -33261,7 +33261,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
     <message>
         <source>Blank Document</source>
@@ -38069,7 +38069,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Delete Control</source>
-        <translation type="unfinished"/>
+        <translation>Denetimi Sil</translation>
     </message>
     <message>
         <source>Default Font</source>
@@ -38228,7 +38228,7 @@ p, li { white-space: pre-wrap; }
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya Yükle</translation>
     </message>
     <message>
         <source>(Custom)</source>
@@ -38612,7 +38612,7 @@ p, li { white-space: pre-wrap; }
     <name>KxUpdateMessageDlgWhenExpire</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
 </context>
 <context>
