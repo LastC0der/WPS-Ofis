@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Ara</translation>
     </message>
     <message>
         <source>Please sign in, </source>
@@ -980,7 +980,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya Yükle</translation>
     </message>
     <message>
         <source>Document protected</source>
@@ -1201,7 +1201,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha gösterme</translation>
     </message>
     <message>
         <source>Image Files</source>
@@ -1685,7 +1685,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
 </context>
 <context>
@@ -2288,15 +2288,15 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"/>
+        <translation>İndiriliyor</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
     <message>
         <source>Restart the software to complete the update.</source>
@@ -4822,7 +4822,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
     <message>
         <source>To enable the macros, you need to install the VBA support library. Click the button to download VBA. If VBA is already installed, restart WPS.</source>
@@ -6759,7 +6759,7 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
     </message>
     <message>
         <source>&amp;Download</source>
-        <translation type="unfinished"/>
+        <translation>&amp;İndir</translation>
     </message>
     <message>
         <source>Please download and install VBA to allow all macros to run if needed. If you have installed VBA, please restart WPS Office.</source>
@@ -9084,7 +9084,7 @@ p, li { white-space: pre-wrap; }
     <name>KDefaultAppDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -9092,14 +9092,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha gösterme</translation>
     </message>
 </context>
 <context>
     <name>KPromeBundleInstallDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Restart the software to complete the update.</source>
