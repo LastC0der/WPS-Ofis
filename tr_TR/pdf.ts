@@ -2980,7 +2980,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>right:</source>
@@ -3127,7 +3127,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -3989,7 +3989,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>save immediately</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Kaydet</translation>
     </message>
     <message>
         <source>Save(Trial)</source>
@@ -4633,7 +4633,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>add Image</source>
-        <translation type="unfinished"/>
+        <translation>İmzanızın bir resmini yükleyin</translation>
     </message>
     <message>
         <source>NewSignature</source>
@@ -5071,7 +5071,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>import</source>
@@ -5094,7 +5094,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -5168,7 +5168,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>White Deer Plain</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz Geyik Ovası</translation>
     </message>
     <message>
         <source>CopySelect</source>
@@ -5176,7 +5176,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Thinking</source>
-        <translation type="unfinished"/>
+        <translation>Düşünce</translation>
     </message>
     <message>
         <source>UnClassified</source>
@@ -5203,7 +5203,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>OutlineAttribute</source>
@@ -5222,7 +5222,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Custom path</source>
-        <translation type="unfinished"/>
+        <translation>Özel yol</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -5700,7 +5700,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FillColor</source>
-        <translation type="unfinished"/>
+        <translation>Dolgu Rengi</translation>
     </message>
     <message>
         <source>Fit PageSize</source>
@@ -5716,7 +5716,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>100.0%</source>
-        <translation>%100.0</translation>
+        <translation>%100</translation>
     </message>
     <message>
         <source>DeleteBackGround</source>
@@ -5964,7 +5964,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Ara</translation>
     </message>
     <message>
         <source>Square</source>
@@ -6032,7 +6032,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştır</translation>
     </message>
     <message>
         <source>End Arrow</source>
@@ -7478,7 +7478,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştır</translation>
     </message>
     <message>
         <source>Options</source>
@@ -7627,7 +7627,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -8908,7 +8908,8 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
@@ -8916,7 +8917,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştır</translation>
     </message>
     <message>
         <source>PDF Export as Photo</source>
@@ -9510,7 +9511,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>Yükleme Yapın</translation>
+        <translation>Yükleme Yap</translation>
     </message>
     <message>
         <source>Security</source>
@@ -9578,7 +9579,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep Rengi</translation>
     </message>
     <message>
         <source>Show Paragraph Marks</source>
@@ -10375,7 +10376,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Highlighter</source>
-        <translation type="unfinished"/>
+        <translation>Vurgulayıcı Kalem</translation>
     </message>
     <message>
         <source>Blue Pen</source>
@@ -10912,11 +10913,11 @@ Pencere</translation>
     </message>
     <message>
         <source>White Deer Plain</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz Geyik Ovası</translation>
     </message>
     <message>
         <source>Thinking</source>
-        <translation type="unfinished"/>
+        <translation>Düşünce</translation>
     </message>
     <message>
         <source>UnClassified</source>
@@ -10935,7 +10936,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Custom path</source>
-        <translation type="unfinished"/>
+        <translation>Özel yol</translation>
     </message>
     <message>
         <source>Copy all</source>
@@ -11040,7 +11041,7 @@ Pencere</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>email:</source>
@@ -11133,7 +11134,7 @@ Pencere</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>page range:</source>
@@ -11982,7 +11983,7 @@ Pencere</translation>
     </message>
     <message>
         <source>PageTool</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Aracı</translation>
     </message>
     <message>
         <source>MergePDF</source>
@@ -12437,7 +12438,7 @@ Pencere</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>confirm</source>
@@ -13292,7 +13293,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>page range:</source>
@@ -13323,7 +13324,7 @@ Deleted pages can not be recovered</source>
     <name>common.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft PDF Help</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Yardımı Hakkında</translation>
     </message>
 </context>
 <context>
@@ -13509,7 +13510,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştır</translation>
     </message>
     <message>
         <source>PDF Correct</source>
@@ -13551,7 +13552,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>search</source>
-        <translation type="unfinished"/>
+        <translation>Ara</translation>
     </message>
 </context>
 <context>
@@ -13615,7 +13616,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfCASingleVerifyWidget</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Signed by &quot;%1&quot;.</source>
@@ -15228,7 +15229,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>点击此处显示更多功能。</source>
-        <translation type="unfinished"/>
+        <translation>Daha fazla işlev göstermek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>我知道了</source>
