@@ -1142,11 +1142,11 @@ please wait</source>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya Yükle</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
     <message>
         <source>File Name(N):</source>
@@ -1196,7 +1196,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Delete Control</source>
-        <translation type="unfinished"/>
+        <translation>Denetimi Sil</translation>
     </message>
     <message>
         <source>Default Font</source>
@@ -1226,14 +1226,14 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KLiteUpdateMessageDlgWhenExpire</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
 </context>
 <context>
     <name>KUnionVipWidget</name>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha gösterme</translation>
     </message>
 </context>
 <context>
