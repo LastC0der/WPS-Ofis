@@ -2433,7 +2433,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -2480,7 +2480,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Yesterday </source>
@@ -7412,7 +7412,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -7593,7 +7593,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Link attachment creation failed, please try again</source>
@@ -8753,7 +8753,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Use skill</source>
@@ -9146,7 +9146,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Upload location</source>
@@ -9376,7 +9376,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
