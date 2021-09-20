@@ -4160,7 +4160,7 @@ Check</source>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Hız:</translation>
     </message>
     <message>
         <source>Spokes</source>
@@ -14073,7 +14073,7 @@ Master</source>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Sunum</translation>
     </message>
     <message>
         <source>document authentication</source>
@@ -15903,7 +15903,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Sunum</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -22236,11 +22236,11 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Hız:</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"/>
+        <translation>Ses:</translation>
     </message>
     <message>
         <source>Apply to selected slides</source>
@@ -24187,11 +24187,11 @@ Animation</source>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Hız:</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"/>
+        <translation>Ses:</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -24797,7 +24797,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>&amp;Sound:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ses:</translation>
     </message>
     <message>
         <source>Sound &amp;volume:</source>
@@ -30729,7 +30729,7 @@ Kapat</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Sunum</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
