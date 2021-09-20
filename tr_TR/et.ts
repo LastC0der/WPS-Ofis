@@ -8168,7 +8168,7 @@ Aktar</translation>
     </message>
     <message>
         <source>The Value must be a decimal number, numeric expression, or reference to a cell containing decimal numbers.</source>
-        <translation type="unfinished"/>
+        <translation>Değer, bir ondalık sayı, sayısal ifade veya ondalık sayılar içeren bir hücreye başvuru olmalıdır.</translation>
     </message>
     <message>
         <source>is the value to test.</source>
@@ -47010,7 +47010,7 @@ Düzenleyicisi</translation>
     </message>
     <message>
         <source>Diagonal &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;ukarı Köşegen</translation>
     </message>
     <message>
         <source>Diagonal &amp;down</source>
@@ -47018,7 +47018,7 @@ Düzenleyicisi</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Merkezden</translation>
     </message>
     <message>
         <source>Color &amp;1:</source>
@@ -47030,7 +47030,7 @@ Düzenleyicisi</translation>
     </message>
     <message>
         <source>&amp;From corner</source>
-        <translation type="unfinished"/>
+        <translation>Köş&amp;eden</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -47042,7 +47042,7 @@ Düzenleyicisi</translation>
     </message>
     <message>
         <source>&amp;Two colors</source>
-        <translation type="unfinished"/>
+        <translation>İki re&amp;nk</translation>
     </message>
     <message>
         <source>O&amp;ne color</source>
@@ -47062,7 +47062,7 @@ Düzenleyicisi</translation>
     </message>
     <message>
         <source>Shading styles</source>
-        <translation type="unfinished"/>
+        <translation>Gölgelendirme stilleri</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
