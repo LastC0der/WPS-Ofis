@@ -5604,7 +5604,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Single Line</source>
-        <translation type="unfinished"/>
+        <translation>Basit</translation>
     </message>
     <message>
         <source>Action Button: End</source>
@@ -7987,7 +7987,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Chartreuse</source>
-        <translation type="unfinished"/>
+        <translation>Uçuk Yeşil</translation>
     </message>
     <message>
         <source>Lone Dash Line-Point</source>
@@ -10523,7 +10523,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Verifying failed, please check your network.</source>
-        <translation type="unfinished"/>
+        <translation>Doğrulama başarısız oldu, lütfen ağınızı kontrol edin.</translation>
     </message>
     <message>
         <source>Edit permission</source>
@@ -11817,7 +11817,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Lime Green </source>
-        <translation type="unfinished"/>
+        <translation>Limon Yeşili</translation>
     </message>
     <message>
         <source>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
@@ -18828,7 +18828,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"/>
+        <translation>Süryanice</translation>
     </message>
     <message>
         <source>Devanagari</source>
@@ -20569,7 +20569,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Sapphire</source>
-        <translation type="unfinished"/>
+        <translation>Safir</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -20577,7 +20577,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Rainbow</source>
-        <translation type="unfinished"/>
+        <translation>Gökkuşağı</translation>
     </message>
     <message>
         <source>V&amp;ariants</source>
@@ -20585,7 +20585,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Parchment</source>
-        <translation type="unfinished"/>
+        <translation>Parşömen</translation>
     </message>
     <message>
         <source>Daybreak</source>
@@ -20621,15 +20621,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Texture:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Doku:</translation>
     </message>
     <message>
         <source>Pa&amp;ttern:</source>
-        <translation type="unfinished"/>
+        <translation>De&amp;sen:</translation>
     </message>
     <message>
         <source>Nightfall</source>
-        <translation type="unfinished"/>
+        <translation>Gece Karanlığı</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
@@ -20831,7 +20831,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ar&amp;chive</source>
-        <translation type="unfinished"/>
+        <translation>Ar&amp;şiv</translation>
     </message>
     <message>
         <source>Document security level</source>
@@ -20847,7 +20847,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
+        <translation>Ofis</translation>
     </message>
     <message>
         <source>Document Issuing level</source>
@@ -20963,7 +20963,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;System</source>
-        <translation type="unfinished"/>
+        <translation>Siste&amp;m</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
@@ -21190,7 +21190,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"/>
+        <translation>Süryanice</translation>
     </message>
     <message>
         <source>Latin Extended Additional</source>
@@ -23625,7 +23625,7 @@ Possible reasons:
     </message>
     <message>
         <source>h:mm</source>
-        <translation type="unfinished"/>
+        <translation>s:dd</translation>
     </message>
     <message>
         <source>#,##0</source>
@@ -23634,16 +23634,16 @@ Possible reasons:
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation type="unfinished"/>
+        <translation>s:dd:ss</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation type="unfinished"/>
+        <translation>s:dd:ss</translation>
     </message>
     <message>
         <source>0.00%</source>
-        <translation type="unfinished"/>
+        <translation>%0.00</translation>
     </message>
     <message>
         <source>d-mmm</source>
@@ -23676,12 +23676,12 @@ Possible reasons:
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation type="unfinished"/>
+        <translation>s:dd:ss</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation type="unfinished"/>
+        <translation>s:dd:ss</translation>
     </message>
     <message>
         <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
@@ -23762,7 +23762,7 @@ Possible reasons:
     </message>
     <message>
         <source>h:mm:ss</source>
-        <translation type="unfinished"/>
+        <translation>s:dd:ss</translation>
     </message>
     <message>
         <source>\$#,##0_);[Red](\$#,##0)</source>
@@ -27361,7 +27361,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KGalleryAbstractModel</name>
     <message>
         <source>Warp</source>
-        <translation type="unfinished"/>
+        <translation>Eğ</translation>
     </message>
     <message>
         <source>Inner</source>
