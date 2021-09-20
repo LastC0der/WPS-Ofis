@@ -3163,7 +3163,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"/>
+        <translation>Süryanice</translation>
     </message>
     <message>
         <source>Devanagari</source>
