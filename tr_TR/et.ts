@@ -24358,7 +24358,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>RETURN(value)</source>
-        <translation type="unfinished"/>
+        <translation>DÖN(değer)</translation>
     </message>
     <message>
         <source>Multiplies all the numbers given as arguments.</source>
@@ -29862,7 +29862,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Return</source>
-        <translation>Geri</translation>
+        <translation>Dönüş</translation>
     </message>
     <message>
         <source>Review</source>
@@ -45762,7 +45762,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Return</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dön</translation>
     </message>
 </context>
 <context>
