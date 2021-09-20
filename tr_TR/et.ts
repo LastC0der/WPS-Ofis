@@ -28914,7 +28914,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"/>
+        <translation>Süryanice</translation>
     </message>
     <message>
         <source>Japanese</source>
