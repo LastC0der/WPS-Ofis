@@ -11390,11 +11390,11 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -13305,12 +13305,12 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Show/Hide Edit Mark</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme İşaretini Göster/Gizle</translation>
     </message>
     <message>
         <source>Word Tools</source>
         <translation>Kelime 
-Araçları</translation>
+Dizgisi</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
@@ -13330,11 +13330,11 @@ Araçları</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Düzenini Göster/Gizle</translation>
     </message>
     <message>
         <source>Select All Text With Similar Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Benzer Biçimlendirmelere Sahip Metinleri Seç</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -13354,7 +13354,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Document Settings</source>
-        <translation type="unfinished"/>
+        <translation>Belge Ayarları</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -13382,7 +13382,7 @@ Araçları</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -13402,7 +13402,7 @@ Araçları</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -13422,7 +13422,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Official Document Tools</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Belge Araçları</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -13434,7 +13434,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -13459,11 +13459,11 @@ Araçları</translation>
     </message>
     <message>
         <source>Show More Styles</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Stil Göster</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -13471,7 +13471,7 @@ Araçları</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -13844,7 +13844,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -13852,7 +13852,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -13924,11 +13924,11 @@ Değiştir</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -14327,7 +14327,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -14335,7 +14335,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -14407,11 +14407,11 @@ Değiştir</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -15854,7 +15854,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Kelime Araçları</translation>
+        <translation>Kelime Dizgisi</translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -16332,7 +16332,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>About WPS Writer</source>
@@ -16364,7 +16364,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>TranslationSelect</source>
@@ -16895,7 +16895,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -16907,7 +16907,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
     </message>
     <message>
         <source>Two Period Moving Average</source>
@@ -30672,7 +30672,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -30680,7 +30680,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -30700,7 +30700,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -30708,7 +30708,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -32448,7 +32448,7 @@ Number</source>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Kelime Araçları</translation>
+        <translation>Kelime Dizgisi</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -47113,7 +47113,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Kelime Araçları</translation>
+        <translation>Metin Araçları</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -47177,7 +47177,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -47197,7 +47197,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dolgulu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -47221,7 +47221,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -47241,7 +47241,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Character Border</source>
@@ -47249,7 +47249,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -52514,7 +52514,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Kelime Araçları</translation>
+        <translation>Metin Araçları</translation>
     </message>
     <message>
         <source>Laboratory</source>
