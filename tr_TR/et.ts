@@ -17774,7 +17774,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -27207,7 +27207,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Kaydedici</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -40779,7 +40779,7 @@ Center</source>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Kaydedici</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -50191,15 +50191,15 @@ Repeat Item Labels</source>
     <name>ongmani.ct_specialapps</name>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden Metne</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Kaydedici</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation type="unfinished"/>
+        <translation>Metin Araçları</translation>
     </message>
     <message>
         <source>Cloud Clipboard</source>
@@ -54490,7 +54490,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme</translation>
     </message>
     <message>
         <source>Bottom 10</source>
