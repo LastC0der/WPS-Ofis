@@ -7003,7 +7003,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır: Sayfa %d / %d</translation>
     </message>
     <message>
         <source>Convert to Shapes</source>
@@ -12825,7 +12825,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Kalem Stili</translation>
     </message>
     <message>
         <source>Insert Argument After</source>
@@ -18843,7 +18843,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"/>
+        <translation>Kalem Stili</translation>
     </message>
     <message>
         <source>Clear WordArt</source>
@@ -31818,7 +31818,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"/>
+        <translation>Kalem Stili</translation>
     </message>
     <message>
         <source>Organization Chart Layout</source>
@@ -33358,7 +33358,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"/>
+        <translation>Kalem Stili</translation>
     </message>
     <message>
         <source>Gradient</source>
