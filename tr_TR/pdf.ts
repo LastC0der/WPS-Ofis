@@ -638,7 +638,7 @@
     </message>
     <message>
         <source>Double Page</source>
-        <translation type="unfinished"/>
+        <translation>İki Sayfa</translation>
     </message>
     <message>
         <source>Turn Off Automatic Pop</source>
@@ -710,7 +710,7 @@
     </message>
     <message>
         <source>Parchment</source>
-        <translation type="unfinished"/>
+        <translation>Parşömen</translation>
     </message>
     <message>
         <source>Set Multi Progress</source>
@@ -5656,7 +5656,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Double Page</source>
-        <translation type="unfinished"/>
+        <translation>İki Sayfa</translation>
     </message>
     <message>
         <source>Update Watermark</source>
@@ -6156,7 +6156,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>Polygon</source>
@@ -14484,14 +14484,14 @@ Deleted pages can not be recovered</source>
     <name>KxPdfShapeLineStyleWidget</name>
     <message>
         <source>Line Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Stil</translation>
     </message>
 </context>
 <context>
     <name>KxpdfShapeLineStyleWidget</name>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"/>
+        <translation>Stil</translation>
     </message>
 </context>
 <context>
@@ -14972,7 +14972,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>打印方式：</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma yöntemi:</translation>
     </message>
     <message>
         <source>奇偶页面：</source>
@@ -15028,7 +15028,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>自动旋转</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik dikey/yatay yönlendirme</translation>
     </message>
     <message>
         <source>自动居中</source>
@@ -15084,7 +15084,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>小册子</source>
-        <translation type="unfinished"/>
+        <translation>Kitapçık</translation>
     </message>
     <message>
         <source>每张页数：</source>
