@@ -1494,7 +1494,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Sunum</translation>
     </message>
     <message>
         <source>PPT Presentation</source>
