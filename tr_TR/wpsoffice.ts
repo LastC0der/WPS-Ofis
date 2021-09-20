@@ -405,7 +405,7 @@
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Dönüş</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1169,7 +1169,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Dönüş</translation>
     </message>
     <message>
         <source>SaveAs</source>
