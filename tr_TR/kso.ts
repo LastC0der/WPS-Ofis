@@ -1531,7 +1531,7 @@ cycle</source>
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Merkezden</translation>
     </message>
     <message>
         <source>Light Orange</source>
@@ -20449,7 +20449,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Diagonal &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;ukarı Köşegen</translation>
     </message>
     <message>
         <source>Early Sunset</source>
@@ -20461,7 +20461,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Merkezden</translation>
     </message>
     <message>
         <source>Curtain of Night</source>
@@ -20485,7 +20485,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;From corner</source>
-        <translation type="unfinished"/>
+        <translation>Köş&amp;eden</translation>
     </message>
     <message>
         <source>F&amp;rom:</source>
@@ -20541,7 +20541,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Two colors</source>
-        <translation type="unfinished"/>
+        <translation>İki re&amp;nk</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -20597,7 +20597,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Shading styles</source>
-        <translation type="unfinished"/>
+        <translation>Gölgelendirme stilleri</translation>
     </message>
     <message>
         <source>Lock &amp;picture aspect ratio</source>
@@ -30132,7 +30132,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Merkezden</translation>
     </message>
     <message>
         <source>Small grid</source>
