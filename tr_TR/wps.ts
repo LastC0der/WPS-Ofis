@@ -16047,7 +16047,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Kalem Stili</translation>
     </message>
     <message>
         <source>Insert Argument After</source>
@@ -23991,7 +23991,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Kalem Stili</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
