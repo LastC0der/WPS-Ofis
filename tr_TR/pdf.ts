@@ -8206,7 +8206,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme</translation>
     </message>
     <message>
         <source>Settings</source>
