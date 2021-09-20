@@ -1438,7 +1438,7 @@ cycle</source>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Sunum</translation>
     </message>
     <message>
         <source>Light Yellow</source>
@@ -2043,7 +2043,7 @@ için kullanılır</translation>
     <message>
         <source>New Presentation</source>
         <comment>kso_NewPresent_DisplayName</comment>
-        <translation type="unfinished"/>
+        <translation>Yeni Sunum</translation>
     </message>
     <message>
         <source>DoorOpen</source>
@@ -3436,7 +3436,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Dönüş</translation>
     </message>
     <message>
         <source>Search</source>
@@ -18160,7 +18160,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Converging Arrows</source>
-        <translation type="unfinished"/>
+        <translation>Birleşen Oklar</translation>
     </message>
     <message>
         <source>Use to show a series of steps, with the interior of the circle increasing with each step. Limited to seven Level 1 steps but unlimited Level 2 items. Works well with large amounts of Level 2 text.</source>
@@ -31291,7 +31291,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Hız:</translation>
     </message>
     <message>
         <source>Female Chinese</source>
@@ -34596,7 +34596,7 @@ Please check network</source>
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Dönüş</translation>
     </message>
     <message>
         <source>Click to start remote control</source>
