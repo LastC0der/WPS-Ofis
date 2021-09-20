@@ -250,7 +250,7 @@
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Dönüş</translation>
     </message>
     <message>
         <source>Search</source>
