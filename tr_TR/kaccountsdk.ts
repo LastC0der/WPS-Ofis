@@ -1949,7 +1949,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Dönüş</translation>
     </message>
     <message>
         <source>Welcome to use WPS Office</source>
@@ -2082,7 +2082,7 @@ Easy mobile office.</source>
     <name>KDialogMenuBar</name>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Dönüş</translation>
     </message>
     <message>
         <source>Welcome to use WPS Office</source>
