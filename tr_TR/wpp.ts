@@ -9015,7 +9015,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -9880,7 +9880,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Graphic Styles</source>
@@ -10505,7 +10505,7 @@ Slide</source>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -10556,7 +10556,7 @@ Araçları</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Keep Source Formattin</source>
@@ -10968,7 +10968,7 @@ Araçları</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -11180,11 +11180,11 @@ Araçları</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -14246,7 +14246,7 @@ Slide</source>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Kaydedici</translation>
     </message>
     <message>
         <source>More Options</source>
@@ -16236,7 +16236,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Kaydedici</translation>
     </message>
     <message>
         <source>Ornamentation</source>
@@ -19897,7 +19897,7 @@ Kapat</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -29259,7 +29259,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -29836,7 +29836,7 @@ Slide</source>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -29884,7 +29884,7 @@ Slide</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Keep Source Formattin</source>
@@ -30180,7 +30180,7 @@ Slide</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Madde İşaretleri</translation>
     </message>
     <message>
         <source>Align Font</source>
