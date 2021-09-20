@@ -9447,7 +9447,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Stacked</source>
@@ -10468,7 +10468,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Slide Show</source>
@@ -18875,7 +18875,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -20883,7 +20883,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -29807,7 +29807,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Stacked</source>
@@ -31846,7 +31846,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -32570,7 +32570,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Stili</translation>
     </message>
     <message>
         <source>Texture</source>
