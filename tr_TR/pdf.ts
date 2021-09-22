@@ -622,7 +622,7 @@
     </message>
     <message>
         <source>Disignal</source>
-        <translation type="unfinished"/>
+        <translation>İmza</translation>
     </message>
     <message>
         <source>Load page effect</source>
@@ -13427,6 +13427,13 @@ Deleted pages can not be recovered</source>
     </message>
 </context>
 <context>
+    <name>KxPdfImageOpacitySelector</name>
+    <message>
+        <source>Transparency</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KTaskModeGuideWidget</name>
     <message>
         <source>Open Highlight &amp;&amp; Markup</source>
@@ -14327,13 +14334,6 @@ Deleted pages can not be recovered</source>
 </context>
 <context>
     <name>KxPdfAnnoOpacitySelector</name>
-    <message>
-        <source>Opacity</source>
-        <translation>Opaklık</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfImageOpacitySelector</name>
     <message>
         <source>Opacity</source>
         <translation>Opaklık</translation>
