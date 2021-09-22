@@ -2307,6 +2307,13 @@ Please choose a different file name.</source>
     </message>
 </context>
 <context>
+    <name>KQingEnterpriseUserRightsDlg</name>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KSaveAsCloudUploadingDlg</name>
     <message>
         <source>Ok</source>
@@ -9750,6 +9757,10 @@ have libgstreamer-plugins-base installed.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Come from %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Upload failed</source>
         <translation type="unfinished"/>
     </message>
@@ -10179,6 +10190,17 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
+    <name>KOtherCloudTransTabWidget</name>
+    <message>
+        <source>Upload</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KSpaceFullEarlyWarningBubbleEnterprise</name>
     <message>
         <source>WPS Cloud space has been less than %1</source>
@@ -10420,6 +10442,17 @@ Time for upgrade: %1</source>
     </message>
 </context>
 <context>
+    <name>KOtherCloudTransDelegate</name>
+    <message>
+        <source>Download failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upload failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KCloudItemsSaveAsDlg</name>
     <message>
         <source>Save As:</source>
@@ -10539,6 +10572,28 @@ Time for upgrade: %1</source>
     <name>QMdiArea</name>
     <message>
         <source>(Untitled)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>wps::qing::KQingIpcHandler</name>
+    <message>
+        <source>Bulk download/update service not purchased. For more information, please contact the enterprise administrator or consult </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch download/update not available</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS customer service.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KOtherCloudTransBubble</name>
+    <message>
+        <source>Cloud File Transfer Details</source>
         <translation type="unfinished"/>
     </message>
 </context>
