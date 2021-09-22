@@ -1231,7 +1231,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Create account</source>
-        <translation type="unfinished"/>
+        <translation>Bir hesap oluşturun</translation>
     </message>
     <message>
         <source>User is banned</source>
