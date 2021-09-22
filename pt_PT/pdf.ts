@@ -13445,6 +13445,13 @@ As páginas eliminadas não podem ser recuperadas</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfImageOpacitySelector</name>
+    <message>
+        <source>Transparency</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KTaskModeGuideWidget</name>
     <message>
         <source>Open Highlight &amp;&amp; Markup</source>
@@ -14346,13 +14353,6 @@ O nome deste ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido eli
 </context>
 <context>
     <name>KxPdfAnnoOpacitySelector</name>
-    <message>
-        <source>Opacity</source>
-        <translation>Opacidade</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfImageOpacitySelector</name>
     <message>
         <source>Opacity</source>
         <translation>Opacidade</translation>
