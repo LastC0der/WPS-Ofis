@@ -2310,6 +2310,13 @@ Elija un nombre de fichero diferente.</translation>
     </message>
 </context>
 <context>
+    <name>KQingEnterpriseUserRightsDlg</name>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KSaveAsCloudUploadingDlg</name>
     <message>
         <source>Ok</source>
@@ -9773,6 +9780,10 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Come from %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Upload failed</source>
         <translation>Error al cargar</translation>
     </message>
@@ -10202,6 +10213,17 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
     </message>
 </context>
 <context>
+    <name>KOtherCloudTransTabWidget</name>
+    <message>
+        <source>Upload</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KSpaceFullEarlyWarningBubbleEnterprise</name>
     <message>
         <source>WPS Cloud space has been less than %1</source>
@@ -10444,6 +10466,17 @@ Fecha y hora de actualización: %1</translation>
     </message>
 </context>
 <context>
+    <name>KOtherCloudTransDelegate</name>
+    <message>
+        <source>Download failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upload failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KCloudItemsSaveAsDlg</name>
     <message>
         <source>Save As:</source>
@@ -10564,6 +10597,28 @@ Fecha y hora de actualización: %1</translation>
     <message>
         <source>(Untitled)</source>
         <translation>(Sin título)</translation>
+    </message>
+</context>
+<context>
+    <name>wps::qing::KQingIpcHandler</name>
+    <message>
+        <source>Bulk download/update service not purchased. For more information, please contact the enterprise administrator or consult </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch download/update not available</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS customer service.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KOtherCloudTransBubble</name>
+    <message>
+        <source>Cloud File Transfer Details</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
