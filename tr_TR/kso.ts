@@ -7381,7 +7381,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Process</source>
-        <translation type="unfinished"/>
+        <translation>Akış Çizelgesi</translation>
     </message>
     <message>
         <source>Promote</source>
@@ -18080,7 +18080,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Process</source>
-        <translation type="unfinished"/>
+        <translation>Akış Çizelgesi</translation>
     </message>
     <message>
         <source>Promote</source>
@@ -36504,6 +36504,10 @@ p, li { white-space: pre-wrap; }
         <source>Fonts in missing documents on this computer</source>
         <translation>Bu bilgisayar, belgede kullanılan yazı tipini içermiyor.</translation>
     </message>
+    <message>
+        <source>View more</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxRecentFileListCommand</name>
@@ -39034,6 +39038,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>It is not supported for Data Encryption/Decryption on this platform.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxLearningTip</name>
+    <message>
+        <source>Use Tips</source>
         <translation type="unfinished"/>
     </message>
 </context>
