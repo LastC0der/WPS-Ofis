@@ -13438,6 +13438,13 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfImageOpacitySelector</name>
+    <message>
+        <source>Transparency</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KTaskModeGuideWidget</name>
     <message>
         <source>Open Highlight &amp;&amp; Markup</source>
@@ -14339,13 +14346,6 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
 </context>
 <context>
     <name>KxPdfAnnoOpacitySelector</name>
-    <message>
-        <source>Opacity</source>
-        <translation>Deckkraft</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfImageOpacitySelector</name>
     <message>
         <source>Opacity</source>
         <translation>Deckkraft</translation>
