@@ -36652,6 +36652,10 @@ p, li { white-space: pre-wrap; }
         <source>Fonts in missing documents on this computer</source>
         <translation>Komputer ini tidak memiliki font yang digunakan dalam dokumen.</translation>
     </message>
+    <message>
+        <source>View more</source>
+        <translation>Lihat selengkapnya</translation>
+    </message>
 </context>
 <context>
     <name>KxRecentFileListCommand</name>
@@ -39208,6 +39212,13 @@ untuk membuat dokumen luar</translation>
     <message>
         <source>It is not supported for Data Encryption/Decryption on this platform.</source>
         <translation>Sistem saat ini tidak mendukung Enskripsi/Dekripsi Data.</translation>
+    </message>
+</context>
+<context>
+    <name>KxLearningTip</name>
+    <message>
+        <source>Use Tips</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
