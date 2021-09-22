@@ -50065,7 +50065,7 @@ Repeat Item Labels</source>
     <name>KxEtAutoInputFuncLink</name>
     <message>
         <source>View tips of the function</source>
-        <translation type="unfinished"/>
+        <translation>Bu işlevi nasıl kullanacağınızı görün</translation>
     </message>
     <message>
         <source>&amp;Help about this Function</source>
