@@ -182,6 +182,25 @@
     </message>
 </context>
 <context>
+    <name>KAppLoadWindow</name>
+    <message>
+        <source>OK</source>
+        <translation>Confirmer</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation>Arrière-plan</translation>
+    </message>
+    <message>
+        <source>Load failed</source>
+        <translation>Échec de la lecture</translation>
+    </message>
+    <message>
+        <source>Loading %1, please wait</source>
+        <translation>Chargement de %1. Veuillez patienter.</translation>
+    </message>
+</context>
+<context>
     <name>KGuideUpgradeVipDlg</name>
     <message>
         <source>OK</source>
