@@ -36648,6 +36648,10 @@ p, li { white-space: pre-wrap; }
         <source>Fonts in missing documents on this computer</source>
         <translation>Este equipo no contiene la fuente utilizada en el documento.</translation>
     </message>
+    <message>
+        <source>View more</source>
+        <translation>Ver más</translation>
+    </message>
 </context>
 <context>
     <name>KxRecentFileListCommand</name>
@@ -39203,6 +39207,13 @@ para crear el documento de salida</translation>
     <message>
         <source>It is not supported for Data Encryption/Decryption on this platform.</source>
         <translation>El sistema actual no es compatible con el cifrado/descifrado de datos.</translation>
+    </message>
+</context>
+<context>
+    <name>KxLearningTip</name>
+    <message>
+        <source>Use Tips</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
