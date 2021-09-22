@@ -13444,6 +13444,13 @@ Usuniętych stron nie można odzyskać</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfImageOpacitySelector</name>
+    <message>
+        <source>Transparency</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KTaskModeGuideWidget</name>
     <message>
         <source>Open Highlight &amp;&amp; Markup</source>
@@ -14345,13 +14352,6 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
 </context>
 <context>
     <name>KxPdfAnnoOpacitySelector</name>
-    <message>
-        <source>Opacity</source>
-        <translation>Nieprzezroczystość</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfImageOpacitySelector</name>
     <message>
         <source>Opacity</source>
         <translation>Nieprzezroczystość</translation>
