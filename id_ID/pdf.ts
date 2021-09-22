@@ -13445,6 +13445,13 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfImageOpacitySelector</name>
+    <message>
+        <source>Transparency</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KTaskModeGuideWidget</name>
     <message>
         <source>Open Highlight &amp;&amp; Markup</source>
@@ -14346,13 +14353,6 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
 </context>
 <context>
     <name>KxPdfAnnoOpacitySelector</name>
-    <message>
-        <source>Opacity</source>
-        <translation>Opasitas</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfImageOpacitySelector</name>
     <message>
         <source>Opacity</source>
         <translation>Opasitas</translation>
