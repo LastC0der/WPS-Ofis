@@ -6871,6 +6871,10 @@ to
         <source>Contact Customer Service</source>
         <translation>Contact us</translation>
     </message>
+    <message>
+        <source>Load Plugin Failed,</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KPromePluginLoadWidget</name>
@@ -6879,12 +6883,20 @@ to
         <translation>Retry</translation>
     </message>
     <message>
+        <source> to tell us the details.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>loading plugin...</source>
         <translation>Loading plugin...</translation>
     </message>
     <message>
         <source>Contact Customer Service</source>
         <translation>Contact us</translation>
+    </message>
+    <message>
+        <source>Load Plugin Failed,</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7308,6 +7320,65 @@ to
     </message>
     <message>
         <source>Connection closed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KPromeGuestNoticeDlg</name>
+    <message>
+        <source>It&apos;s recommended to log in, you can enjoy multi-end synchronization and account encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your data will be saved in the guest account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Guest account data cannot be migrated to another account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are not currently logged in and will user WPS as a guest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your data will be stored in the guest account.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Sign in</translation>
+    </message>
+    <message>
+        <source>Guest account data is only saved locally, no cloud backup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The one who uses WPS on the same device may view your data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your data cannot be synchronized on multiple ends.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We recommend that you sign in first to protect your privacy better.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation>Sign in</translation>
+    </message>
+    <message>
+        <source>You are not currently logged in and will user Kingsoft PDF as a guest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are about to use WPS as a guest</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9631,17 +9702,6 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <message>
         <source>Operation canceled</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KPromeGuestNoticeDlg</name>
-    <message>
-        <source>Sign in</source>
-        <translation>Sign in</translation>
-    </message>
-    <message>
-        <source>Login Now</source>
-        <translation>Sign in</translation>
     </message>
 </context>
 <context>
