@@ -36638,6 +36638,10 @@ p, li { white-space: pre-wrap; }
         <source>Fonts in missing documents on this computer</source>
         <translation>На этом компьютере нет шрифта, используемого в документе.</translation>
     </message>
+    <message>
+        <source>View more</source>
+        <translation>Просмотреть далее</translation>
+    </message>
 </context>
 <context>
     <name>KxRecentFileListCommand</name>
@@ -39195,6 +39199,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>It is not supported for Data Encryption/Decryption on this platform.</source>
         <translation>Текущая система не поддерживает шифрование/расшифровку данных.</translation>
+    </message>
+</context>
+<context>
+    <name>KxLearningTip</name>
+    <message>
+        <source>Use Tips</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
