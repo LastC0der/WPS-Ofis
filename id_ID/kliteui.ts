@@ -182,6 +182,25 @@
     </message>
 </context>
 <context>
+    <name>KAppLoadWindow</name>
+    <message>
+        <source>OK</source>
+        <translation>OKE</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation>Latar Belakang</translation>
+    </message>
+    <message>
+        <source>Load failed</source>
+        <translation>Gagal membaca</translation>
+    </message>
+    <message>
+        <source>Loading %1, please wait</source>
+        <translation>Memuat %1. Harap Tunggu.</translation>
+    </message>
+</context>
+<context>
     <name>KGuideUpgradeVipDlg</name>
     <message>
         <source>OK</source>
