@@ -43443,7 +43443,7 @@ Boşlukları</translation>
     </message>
     <message>
         <source>Edit Theme</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Düzenle</translation>
     </message>
     <message>
         <source>Bring 
@@ -58279,7 +58279,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Edit Theme</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Düzenle</translation>
     </message>
     <message>
         <source>Show Grid</source>
