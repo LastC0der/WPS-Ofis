@@ -2495,30 +2495,30 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>metin</translation>
     </message>
 </context>
 <context>
     <name>KxPdfNewPrintDialog</name>
     <message>
         <source>CM</source>
-        <translation type="unfinished"/>
+        <translation>cm</translation>
     </message>
     <message>
         <source>MM</source>
-        <translation type="unfinished"/>
+        <translation>mm</translation>
     </message>
     <message>
         <source>row</source>
-        <translation type="unfinished"/>
+        <translation>Satır</translation>
     </message>
     <message>
         <source>INCH</source>
-        <translation type="unfinished"/>
+        <translation>inç</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"/>
+        <translation>Sol</translation>
     </message>
     <message>
         <source>odd event page:</source>
@@ -7935,7 +7935,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>(Headings)</source>
-        <translation type="unfinished"/>
+        <translation>(Başlıklar)</translation>
     </message>
 </context>
 <context>
@@ -8222,7 +8222,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kesik Kenarlı Tablo Seç</translation>
     </message>
 </context>
 <context>
@@ -9171,7 +9171,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"/>
+        <translation>Genko Ayarı</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -9555,7 +9555,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Envelopes</source>
-        <translation type="unfinished"/>
+        <translation>Zarflar</translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -13335,7 +13335,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source> (Headings)</source>
-        <translation type="unfinished"/>
+        <translation> (Başlıklar)</translation>
     </message>
 </context>
 <context>
