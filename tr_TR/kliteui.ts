@@ -189,7 +189,7 @@
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan</translation>
     </message>
     <message>
         <source>Load failed</source>
@@ -885,11 +885,11 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tür</translation>
     </message>
     <message>
         <source>Modified</source>
