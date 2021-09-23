@@ -3053,7 +3053,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Balloons</source>
-        <translation type="unfinished"/>
+        <translation>Balonlar</translation>
     </message>
     <message>
         <source>Language</source>
@@ -3153,7 +3153,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>File Locations</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Konumları</translation>
     </message>
     <message>
         <source>File encryption options for this document:</source>
@@ -5987,7 +5987,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>Rumuz</translation>
     </message>
     <message>
         <source>Orientation setting does not work for some reasons, such as too little column width. Please adjust your settings.</source>
@@ -17611,7 +17611,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -19341,7 +19341,7 @@ Changes</source>
     </message>
     <message>
         <source>Xie De</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Düzenleyici</translation>
     </message>
     <message>
         <source>Text Speech</source>
@@ -21903,7 +21903,7 @@ Protection</source>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"/>
+        <translation>Farklı kaydet</translation>
     </message>
     <message>
         <source>Print directly</source>
@@ -23726,7 +23726,7 @@ Açık/Kapalı</translation>
     <name>KxWpsMainWindow</name>
     <message>
         <source>Key</source>
-        <translation type="unfinished"/>
+        <translation>Parola</translation>
     </message>
     <message>
         <source>Command name</source>
@@ -30401,7 +30401,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Header</source>
@@ -30501,7 +30501,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"/>
+        <translation>9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -31102,7 +31102,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>Rumuz</translation>
     </message>
     <message>
         <source>Use the drop-down lists to choose the field from your database that corresponds to the address information Mail Merge expects (listed on the left.)</source>
@@ -31233,7 +31233,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>Rumuz</translation>
     </message>
 </context>
 <context>
@@ -32404,7 +32404,7 @@ Number</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -32669,7 +32669,7 @@ Number</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation>Çevrimiçi Yazı Tipleri</translation>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -32805,7 +32805,7 @@ Number</source>
     </message>
     <message>
         <source>Xie De</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Düzenleyici</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -37015,11 +37015,11 @@ Numarası</translation>
     </message>
     <message>
         <source>dark</source>
-        <translation type="unfinished"/>
+        <translation>Koyu</translation>
     </message>
     <message>
         <source>light</source>
-        <translation type="unfinished"/>
+        <translation>Açık</translation>
     </message>
     <message>
         <source>tableStyle</source>
