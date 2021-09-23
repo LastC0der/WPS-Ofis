@@ -346,7 +346,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;aydamlık</translation>
     </message>
     <message>
         <source>Source From File</source>
@@ -1001,7 +1001,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Use the most &amp;recently print settings</source>
-        <translation type="unfinished"/>
+        <translation>&amp;En son yazdırma ayarlarını kullanın</translation>
     </message>
     <message>
         <source>Apply when working</source>
@@ -3783,7 +3783,7 @@ Check</source>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Saydamlık</translation>
     </message>
     <message>
         <source>UnLocked</source>
@@ -5966,7 +5966,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayt</translation>
     </message>
     <message>
         <source>Title</source>
@@ -10035,7 +10035,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayt</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -13264,7 +13264,7 @@ Template</source>
     </message>
     <message>
         <source>Hyperlink Color</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Rengi</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -15848,7 +15848,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tür</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -16200,7 +16200,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation>Çevrimiçi Yazı Tipleri</translation>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -16340,7 +16340,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Xie De</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Düzenleyici</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -18026,7 +18026,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Xie De</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Düzenleyici</translation>
     </message>
     <message>
         <source>Text Speech</source>
@@ -21176,7 +21176,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -23837,7 +23837,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Mouse Over</source>
-        <translation type="unfinished"/>
+        <translation>Fare Üzerine Geldiğinde</translation>
     </message>
     <message>
         <source>Action on mouse over</source>
@@ -24234,7 +24234,7 @@ Animation</source>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayt</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -25381,11 +25381,11 @@ Yapısı</translation>
     <name>KMacWppPrintDiag</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayt</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -25448,18 +25448,18 @@ Yapısı</translation>
     </message>
     <message>
         <source>Hyperlink Color</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Rengi</translation>
     </message>
     <message>
         <source>Change Hyperlink Color</source>
-        <translation type="unfinished"/>
+        <translation>Köprü Rengini Değiştir</translation>
     </message>
 </context>
 <context>
     <name>KxWppLaserPenTriggerItem</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk</translation>
     </message>
 </context>
 <context>
@@ -25482,11 +25482,11 @@ Yapısı</translation>
     </message>
     <message>
         <source>Accent1</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu1</translation>
     </message>
     <message>
         <source>Accent2</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu2</translation>
     </message>
     <message>
         <source>Accent3</source>
@@ -25543,7 +25543,7 @@ Yapısı</translation>
     <name>KxDlgMovieOptions</name>
     <message>
         <source>File:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya:</translation>
     </message>
     <message>
         <source>Movie Options</source>
@@ -25667,7 +25667,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uzaklaştır</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
@@ -26252,7 +26252,7 @@ Would you like to open this file?
     </message>
     <message>
         <source>Slide </source>
-        <translation>Slayt</translation>
+        <translation>Slayt </translation>
     </message>
     <message>
         <source>Custom Shows“</source>
@@ -29434,7 +29434,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayt</translation>
     </message>
     <message>
         <source>Solid</source>
