@@ -1455,7 +1455,7 @@
     </message>
     <message>
         <source>Default Paragraph Font</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Paragraf Yazı Tipi</translation>
     </message>
     <message>
         <source>Dot-dash underline</source>
@@ -1483,7 +1483,7 @@
     </message>
     <message>
         <source>Don&apos;t suppress line numbers</source>
-        <translation type="unfinished"/>
+        <translation>Satır numaralarını göster</translation>
     </message>
     <message>
         <source>Custom Page Numbers (Margins)</source>
@@ -1548,15 +1548,15 @@
     </message>
     <message>
         <source>Heading 1</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 3</translation>
     </message>
     <message>
         <source>Spell Check: On</source>
@@ -1572,7 +1572,7 @@
     </message>
     <message>
         <source>Suppress line numbers</source>
-        <translation type="unfinished"/>
+        <translation>Satır numaralarını gösterme</translation>
     </message>
     <message>
         <source>42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5</source>
@@ -1933,7 +1933,7 @@
     </message>
     <message>
         <source>Headings</source>
-        <translation type="unfinished"/>
+        <translation>Başlıklar</translation>
     </message>
     <message>
         <source>Reached the beginning of the comments.</source>
@@ -4288,7 +4288,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>root directory</source>
@@ -4752,7 +4752,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Heading text</source>
-        <translation type="unfinished"/>
+        <translation>Başlık metni</translation>
     </message>
     <message>
         <source>width</source>
@@ -5223,7 +5223,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>Default Paragraph Font</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Paragraf Yazı Tipi</translation>
     </message>
     <message>
         <source>height</source>
@@ -5357,7 +5357,9 @@ This change will affect all the new documents based on the %s template.</source>
         <source>Heading1...........................1
   Heading2.........................33
     Heading3.......................5</source>
-        <translation type="unfinished"/>
+        <translation>Başlık1...........................1
+  Başlık2.........................33
+    Başlık3.......................5</translation>
     </message>
     <message>
         <source>Above/below</source>
@@ -5902,7 +5904,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
@@ -9894,7 +9896,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>+Heading</source>
-        <translation type="unfinished"/>
+        <translation>+Başlık</translation>
     </message>
 </context>
 <context>
@@ -13487,7 +13489,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kesik Kenarlı Tablo Seç</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -14514,7 +14516,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Row</source>
-        <translation type="unfinished"/>
+        <translation>Satır</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -14526,39 +14528,39 @@ Değiştir</translation>
     </message>
     <message>
         <source>Show 1 Level Contents</source>
-        <translation type="unfinished"/>
+        <translation>1 Düzey İçeriği Göster</translation>
     </message>
     <message>
         <source>Show 2 Level Contents</source>
-        <translation type="unfinished"/>
+        <translation>2 Düzey İçeriği Göster</translation>
     </message>
     <message>
         <source>Show 3 Level Contents</source>
-        <translation type="unfinished"/>
+        <translation>3 Düzey İçeriği Göster</translation>
     </message>
     <message>
         <source>Show 4 Level Contents</source>
-        <translation type="unfinished"/>
+        <translation>4 Düzey İçeriği Göster</translation>
     </message>
     <message>
         <source>Show 5 Level Contents</source>
-        <translation type="unfinished"/>
+        <translation>5 Düzey İçeriği Göster</translation>
     </message>
     <message>
         <source>Show 6 Level Contents</source>
-        <translation type="unfinished"/>
+        <translation>6 Düzey İçeriği Göster</translation>
     </message>
     <message>
         <source>Show 7 Level Contents</source>
-        <translation type="unfinished"/>
+        <translation>7 Düzey İçeriği Göster</translation>
     </message>
     <message>
         <source>Show 8 Level Contents</source>
-        <translation type="unfinished"/>
+        <translation>8 Düzey İçeriği Göster</translation>
     </message>
     <message>
         <source>Show 9 Level Contents</source>
-        <translation type="unfinished"/>
+        <translation>9 Düzey İçeriği Göster</translation>
     </message>
     <message>
         <source>1 pt</source>
@@ -14802,7 +14804,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numaraları</translation>
     </message>
     <message>
         <source>Footer Outside</source>
@@ -15362,7 +15364,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"/>
+        <translation>Genko Ayarı</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -16324,7 +16326,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -16843,7 +16845,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Envelopes</source>
-        <translation type="unfinished"/>
+        <translation>Zarflar</translation>
     </message>
     <message>
         <source>Standard Error</source>
@@ -16987,7 +16989,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kesik Kenarlı Tablo Seç</translation>
     </message>
     <message>
         <source>Header Outside</source>
@@ -20983,7 +20985,7 @@ Click to follow this link</source>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"/>
+        <translation>Genko Ayarı</translation>
     </message>
     <message>
         <source>Mark Index Entry</source>
@@ -21701,7 +21703,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>ClearFormatting</source>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirmeyi Temizle</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -21895,7 +21897,7 @@ Protection</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>Please make a selection first.</source>
@@ -23711,7 +23713,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Headings</source>
-        <translation type="unfinished"/>
+        <translation>Başlıklar</translation>
     </message>
     <message>
         <source>Phonetic</source>
@@ -24035,7 +24037,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kesik Kenarlı Tablo Seç</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -24102,15 +24104,15 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Insert Above</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Ekle</translation>
     </message>
     <message>
         <source>Insert Below</source>
-        <translation type="unfinished"/>
+        <translation>Alta Ekle</translation>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Ekle</translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -24316,7 +24318,7 @@ Böl</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kesik Kenarlı Tablo Seç</translation>
     </message>
     <message>
         <source>Align Top Right</source>
@@ -24653,7 +24655,7 @@ Böl</translation>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numaraları</translation>
     </message>
     <message>
         <source>Page 
@@ -24711,7 +24713,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"/>
+        <translation>Genko Ayarı</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -24777,7 +24779,7 @@ Yönü</translation>
     </message>
     <message>
         <source>Edit Theme</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Düzenle</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -30283,7 +30285,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
 </context>
 <context>
@@ -30513,7 +30515,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>+Heading</source>
-        <translation type="unfinished"/>
+        <translation>+Başlık</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
@@ -31482,7 +31484,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Verify that an envelopes is loaded before printing.</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırmadan önce zarfları yazıcı tepsisine yerleştirin.</translation>
     </message>
     <message>
         <source>&amp;Print</source>
@@ -31510,11 +31512,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Envelopes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zarflar</translation>
     </message>
     <message>
         <source>Envelopes</source>
-        <translation type="unfinished"/>
+        <translation>Zarflar</translation>
     </message>
     <message>
         <source>E-pos&amp;tage Properties</source>
@@ -31803,7 +31805,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Envelopes</source>
-        <translation type="unfinished"/>
+        <translation>Zarflar</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -32011,11 +32013,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Pick formatting to apply</source>
-        <translation type="unfinished"/>
+        <translation>Uygulanacak biçimlendirmeyi seçin</translation>
     </message>
     <message>
         <source>Clear Format</source>
-        <translation type="unfinished"/>
+        <translation>Biçimi Temizle</translation>
     </message>
     <message>
         <source>Show Previews</source>
@@ -32066,7 +32068,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"/>
+        <translation>Genko Ayarı</translation>
     </message>
     <message>
         <source>Border</source>
@@ -32176,11 +32178,11 @@ Ekle</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation type="unfinished"/>
+        <translation>SmartArt</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"/>
+        <translation>Kesmeler</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -33725,7 +33727,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>+Heading</source>
-        <translation type="unfinished"/>
+        <translation>+Başlık</translation>
     </message>
     <message>
         <source>Chinese Bahao</source>
@@ -34001,7 +34003,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>Search options:</source>
@@ -34789,7 +34791,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Paragraf Yazı Tipi</translation>
     </message>
     <message>
         <source>Single line spacing</source>
@@ -34927,7 +34929,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>+Heading</source>
-        <translation type="unfinished"/>
+        <translation>+Başlık</translation>
     </message>
     <message>
         <source>Chinese Bahao</source>
@@ -34970,7 +34972,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>Do you want to replace the selected table of figures?</source>
@@ -36513,7 +36515,7 @@ Ekle</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation type="unfinished"/>
+        <translation>SmartArt</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -36709,7 +36711,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Envelopes</source>
-        <translation type="unfinished"/>
+        <translation>Zarflar</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -37356,7 +37358,7 @@ Temizle</translation>
     <name>wordtools</name>
     <message>
         <source>Smart Rearrange</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı Yeniden Düzenleme</translation>
     </message>
     <message>
         <source>Convert Paragraph Indent to Space</source>
@@ -37364,7 +37366,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Rearrange Paragraphs</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafları Yeniden Düzenle</translation>
     </message>
     <message>
         <source>Indent Paragraph by 2 Characters</source>
@@ -37400,7 +37402,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
-        <translation type="unfinished"/>
+        <translation>Boş Paragraf Bölme Moduna Geç</translation>
     </message>
 </context>
 <context>
@@ -38903,39 +38905,39 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Heading 1</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 3</translation>
     </message>
     <message>
         <source>Heading 4</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 4</translation>
     </message>
     <message>
         <source>Heading 5</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 5</translation>
     </message>
     <message>
         <source>Heading 6</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 6</translation>
     </message>
     <message>
         <source>Heading 7</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 7</translation>
     </message>
     <message>
         <source>Heading 8</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 8</translation>
     </message>
     <message>
         <source>Heading 9</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 9</translation>
     </message>
     <message>
         <source>Insert Page Number</source>
@@ -40472,7 +40474,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Heading %1</source>
-        <translation type="unfinished"/>
+        <translation>Başlık %1</translation>
     </message>
 </context>
 <context>
@@ -43375,7 +43377,7 @@ Try one or more of the following:
     <name>KxTpStyleFormatWidget</name>
     <message>
         <source>Valid styles</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli stiller</translation>
     </message>
     <message>
         <source>All styles</source>
@@ -43802,7 +43804,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Caption Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Resim Yazısı Numaralandırma</translation>
     </message>
     <message>
         <source>Us&amp;e separator:</source>
@@ -43990,7 +43992,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
 </context>
 <context>
@@ -44001,7 +44003,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Heading</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
 </context>
 <context>
@@ -45297,7 +45299,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Headings</source>
-        <translation type="unfinished"/>
+        <translation>Başlıklar</translation>
     </message>
     <message>
         <source>&lt;&lt;Selection in document&gt;&gt;</source>
@@ -45474,7 +45476,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
@@ -45623,27 +45625,27 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxComposeParaFormatCommand</name>
     <message>
         <source>Heading 1</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 3</translation>
     </message>
     <message>
         <source>Heading 4</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 4</translation>
     </message>
     <message>
         <source>Heading 5</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 5</translation>
     </message>
     <message>
         <source>Heading 6</source>
-        <translation type="unfinished"/>
+        <translation>Başlık 6</translation>
     </message>
 </context>
 <context>
@@ -47261,7 +47263,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kesik Kenarlı Tablo Seç</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -48519,7 +48521,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
-        <translation type="unfinished"/>
+        <translation>Kesik Kenarlı Tablo Seç</translation>
     </message>
     <message>
         <source>Align Top Right</source>
@@ -48793,7 +48795,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numaraları</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -48845,7 +48847,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"/>
+        <translation>Genko Ayarı</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -48901,7 +48903,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Edit Theme</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Düzenle</translation>
     </message>
     <message>
         <source>Pattern</source>
