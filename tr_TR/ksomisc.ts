@@ -662,11 +662,11 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>S&amp;how</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Göster</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayt</translation>
     </message>
     <message>
         <source>PPTX Presentation</source>
