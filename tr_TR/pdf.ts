@@ -262,19 +262,19 @@
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya:</translation>
     </message>
     <message>
         <source>Font:</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Metin:</translation>
     </message>
     <message>
         <source>level</source>
@@ -290,11 +290,11 @@
     </message>
     <message>
         <source>Horizontal:</source>
-        <translation type="unfinished"/>
+        <translation>Yatay:</translation>
     </message>
     <message>
         <source>Transparency:</source>
-        <translation type="unfinished"/>
+        <translation>Saydamlık:</translation>
     </message>
     <message>
         <source>AllPages</source>
@@ -302,11 +302,11 @@
     </message>
     <message>
         <source>exp:1,3,5-9</source>
-        <translation type="unfinished"/>
+        <translation>örnek:1,3,5-9</translation>
     </message>
     <message>
         <source>Apply:</source>
-        <translation type="unfinished"/>
+        <translation>Uygula:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -314,7 +314,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Save to a custom watermark that can be quickly called</source>
@@ -354,7 +354,7 @@
     </message>
     <message>
         <source>Vertical:</source>
-        <translation type="unfinished"/>
+        <translation>Dikey:</translation>
     </message>
     <message>
         <source>rotate-45°</source>
@@ -434,7 +434,7 @@
     </message>
     <message>
         <source>Bro&amp;wse</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gözat</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -450,7 +450,7 @@
     </message>
     <message>
         <source>underline</source>
-        <translation>altı çizili</translation>
+        <translation>Altı Çizili</translation>
     </message>
     <message>
         <source>Re&amp;lativePageProportion:</source>
@@ -462,7 +462,7 @@
     </message>
     <message>
         <source>Ver&amp;tical:</source>
-        <translation type="unfinished"/>
+        <translation>Dik&amp;ey:</translation>
     </message>
     <message>
         <source>Watermark&amp;Settings:</source>
@@ -535,7 +535,7 @@
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>AllPages</source>
@@ -2952,7 +2952,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>INCH</source>
@@ -3394,11 +3394,11 @@ input 5-9,means extract page 5 to 9</source>
     <name>KxPdfEncryptDialog</name>
     <message>
         <source>OK</source>
-        <translation>Tamam</translation>
+        <translation>Doğrula</translation>
     </message>
     <message>
         <source>key</source>
-        <translation type="unfinished"/>
+        <translation>Parola</translation>
     </message>
     <message>
         <source>copy</source>
@@ -3447,7 +3447,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>strong</source>
-        <translation type="unfinished"/>
+        <translation>Taşkın</translation>
     </message>
     <message>
         <source>formAndAnnotations</source>
@@ -3487,7 +3487,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>general</source>
-        <translation>genel</translation>
+        <translation>Genel</translation>
     </message>
     <message>
         <source>key inconsistent</source>
@@ -3502,11 +3502,11 @@ Please modify and try again</source>
     <name>KxPdfEncryptDlgWidget</name>
     <message>
         <source>OK</source>
-        <translation>Tamam</translation>
+        <translation>Doğrula</translation>
     </message>
     <message>
         <source>key</source>
-        <translation>anahtar</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <source>copy</source>
@@ -3973,7 +3973,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>Your membership has expired</source>
@@ -4393,7 +4393,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Extract:</source>
-        <translation type="unfinished"/>
+        <translation>Ayıkla:</translation>
     </message>
 </context>
 <context>
@@ -5063,7 +5063,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfCaEncryptDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>add</source>
@@ -5090,7 +5090,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfCaImportDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -5101,7 +5101,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfCaTipDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5191,7 +5191,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -5644,7 +5644,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>Single Page</source>
@@ -5956,7 +5956,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SaveAs</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>FormFilling Check</source>
@@ -6160,7 +6160,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Çokgen</translation>
     </message>
     <message>
         <source>AddSplitLine</source>
@@ -6548,11 +6548,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>DeleteImage</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Sil</translation>
     </message>
     <message>
         <source>DeletePages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları Sil</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -7033,7 +7033,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SaveAs</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>Kingsoft PDF Homepage</source>
@@ -7195,7 +7195,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfCaDetailDlg</name>
     <message>
         <source>key</source>
-        <translation type="unfinished"/>
+        <translation>Parola</translation>
     </message>
     <message>
         <source>User</source>
@@ -7234,23 +7234,23 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfCheckboxesSet</name>
     <message>
         <source>red</source>
-        <translation type="unfinished"/>
+        <translation>Kırmızı</translation>
     </message>
     <message>
         <source>blue</source>
-        <translation type="unfinished"/>
+        <translation>Mavi</translation>
     </message>
     <message>
         <source>pink</source>
-        <translation type="unfinished"/>
+        <translation>Pembe</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>Siyah</translation>
     </message>
     <message>
         <source>green</source>
-        <translation type="unfinished"/>
+        <translation>Yeşil</translation>
     </message>
     <message>
         <source>purple</source>
@@ -7258,34 +7258,34 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>yellow</source>
-        <translation type="unfinished"/>
+        <translation>Sarı</translation>
     </message>
 </context>
 <context>
     <name>KxPdfNewColorModel</name>
     <message>
         <source>red</source>
-        <translation type="unfinished"/>
+        <translation>Kırmızı</translation>
     </message>
     <message>
         <source>blue</source>
-        <translation type="unfinished"/>
+        <translation>Mavi</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>Siyah</translation>
     </message>
     <message>
         <source>green</source>
-        <translation type="unfinished"/>
+        <translation>Yeşil</translation>
     </message>
     <message>
         <source>lake blue</source>
-        <translation type="unfinished"/>
+        <translation>Göl Mavisi</translation>
     </message>
     <message>
         <source>yellow</source>
-        <translation type="unfinished"/>
+        <translation>Sarı</translation>
     </message>
     <message>
         <source>Recent Colors</source>
@@ -7462,7 +7462,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Xie De</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Düzenleyici</translation>
     </message>
     <message>
         <source>Account Upgrade</source>
@@ -7792,11 +7792,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"/>
+        <translation>Mavi</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"/>
+        <translation>Pembe</translation>
     </message>
     <message>
         <source>[bookmark]Untitled</source>
@@ -7804,7 +7804,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"/>
+        <translation>Yeşil</translation>
     </message>
     <message>
         <source>Bookmark Auto Line break</source>
@@ -8296,7 +8296,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SaveAs</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
 </context>
 <context>
@@ -8860,7 +8860,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation>Çevrimiçi Yazı Tipleri</translation>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>Link Preview</source>
@@ -8904,7 +8904,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Xie De</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Düzenleyici</translation>
     </message>
     <message>
         <source>Text Speech</source>
@@ -10731,7 +10731,7 @@ Pencere</translation>
     <name>ongmani.ct_graffiti</name>
     <message>
         <source>Tool</source>
-        <translation type="unfinished"/>
+        <translation>Araç</translation>
     </message>
 </context>
 <context>
@@ -13430,7 +13430,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfImageOpacitySelector</name>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Saydamlık</translation>
     </message>
 </context>
 <context>
