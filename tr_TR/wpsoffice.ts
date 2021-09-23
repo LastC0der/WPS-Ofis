@@ -552,7 +552,7 @@
     </message>
     <message>
         <source>Privacy Policies</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik İlkeleri</translation>
     </message>
 </context>
 <context>
@@ -7333,7 +7333,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Your data will be saved in the guest account</source>
-        <translation type="unfinished"/>
+        <translation>Verileriniz misafir hesabına kaydedilecek</translation>
     </message>
     <message>
         <source>Guest account data cannot be migrated to another account</source>
