@@ -2310,7 +2310,7 @@ Please choose a different file name.</source>
     <name>KQingEnterpriseUserRightsDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
@@ -2471,7 +2471,7 @@ Please choose a different file name.</source>
     <name>KDrag2ImDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>link</source>
@@ -3690,7 +3690,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the previous line</source>
-        <translation type="unfinished"/>
+        <translation>İmleci önceki satıra taşı</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
@@ -10193,11 +10193,11 @@ have libgstreamer-plugins-base installed.</source>
     <name>KOtherCloudTransTabWidget</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya Yükle</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
 </context>
 <context>
@@ -10445,7 +10445,7 @@ Time for upgrade: %1</source>
     <name>KOtherCloudTransDelegate</name>
     <message>
         <source>Download failed</source>
-        <translation type="unfinished"/>
+        <translation>İndirilemedi</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -10587,7 +10587,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>WPS customer service.</source>
-        <translation type="unfinished"/>
+        <translation>WPS müşteri hizmetleri.</translation>
     </message>
 </context>
 <context>
