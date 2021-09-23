@@ -6064,7 +6064,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>size:</source>
-        <translation>boyut:</translation>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <source>Original file has finished backing up</source>
@@ -40494,7 +40494,7 @@ Center</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -40747,7 +40747,7 @@ Center</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation>Çevrimiçi Yazı Tipleri</translation>
+        <translation>Bulut Yazı Tipleri</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -43988,11 +43988,11 @@ Başlıkları</translation>
     <name>KxEtListobjectTableStyleCommand</name>
     <message>
         <source>dark</source>
-        <translation type="unfinished"/>
+        <translation>Koyu</translation>
     </message>
     <message>
         <source>light</source>
-        <translation type="unfinished"/>
+        <translation>Açık</translation>
     </message>
     <message>
         <source>tableStyle</source>
