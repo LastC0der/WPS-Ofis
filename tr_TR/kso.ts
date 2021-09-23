@@ -2634,7 +2634,7 @@ Used to show steps toward a goal</source>
     </message>
     <message>
         <source>Headings</source>
-        <translation type="unfinished"/>
+        <translation>Başlıklar</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
@@ -24284,7 +24284,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>(Headings)</source>
-        <translation type="unfinished"/>
+        <translation>(Başlıklar)</translation>
     </message>
 </context>
 <context>
@@ -29875,7 +29875,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>+Heading</source>
-        <translation type="unfinished"/>
+        <translation>+Başlık</translation>
     </message>
     <message>
         <source>This is the heading theme font for Asian text. The current document theme defines which font is used.</source>
@@ -36628,7 +36628,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source> (Headings)</source>
-        <translation type="unfinished"/>
+        <translation> (Başlıklar)</translation>
     </message>
     <message>
         <source>Show theme Fonts</source>
@@ -36643,7 +36643,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source> (Headings)</source>
-        <translation type="unfinished"/>
+        <translation> (Başlıklar)</translation>
     </message>
 </context>
 <context>
@@ -37819,7 +37819,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"/>
+        <translation>Kaydetme Biçimini Onayla</translation>
     </message>
     <message>
         <source>Save As</source>
