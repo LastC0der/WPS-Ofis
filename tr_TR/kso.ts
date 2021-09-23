@@ -306,7 +306,7 @@
     </message>
     <message>
         <source>&amp;Transparency:</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;aydamlık:</translation>
     </message>
     <message>
         <source>ucTransparentcy</source>
@@ -629,7 +629,7 @@
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;aydamlık</translation>
     </message>
     <message>
         <source>Offs&amp;et Y</source>
@@ -684,7 +684,7 @@
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;aydamlık</translation>
     </message>
 </context>
 <context>
@@ -815,7 +815,7 @@
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;aydamlık</translation>
     </message>
     <message>
         <source>&amp;Compound type</source>
@@ -870,7 +870,7 @@
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;aydamlık</translation>
     </message>
 </context>
 <context>
@@ -933,7 +933,7 @@
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;aydamlık</translation>
     </message>
 </context>
 <context>
@@ -1055,7 +1055,7 @@
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;aydamlık</translation>
     </message>
     <message>
         <source>&amp;Brightness</source>
@@ -1363,7 +1363,7 @@ Please check your data and make sure that the reference is valid and the workshe
     </message>
     <message>
         <source>En Space</source>
-        <translation type="unfinished"/>
+        <translation>Kısa Boşluk</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -1412,7 +1412,7 @@ Please check your data and make sure that the reference is valid and the workshe
     </message>
     <message>
         <source>Solid diamond</source>
-        <translation type="unfinished"/>
+        <translation>Dolu elmas</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
@@ -1424,7 +1424,7 @@ Please check your data and make sure that the reference is valid and the workshe
     </message>
     <message>
         <source>Registered</source>
-        <translation type="unfinished"/>
+        <translation>Kayıtlı</translation>
     </message>
     <message>
         <source>Cycle Diagram
@@ -5033,7 +5033,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Whole-Iamge,Touch</source>
-        <translation type="unfinished"/>
+        <translation>Tam yansıma, bitişik</translation>
     </message>
     <message>
         <source>Sink1</source>
@@ -5374,7 +5374,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Three-seater</source>
-        <translation type="unfinished"/>
+        <translation>Üç kişilik</translation>
     </message>
     <message>
         <source>12-Point Star</source>
@@ -6243,7 +6243,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Two-seater</source>
-        <translation type="unfinished"/>
+        <translation>İki kişilik</translation>
     </message>
     <message>
         <source>Flowchart: Punched Tape</source>
@@ -6723,7 +6723,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Strong</source>
-        <translation type="unfinished"/>
+        <translation>Taşkın</translation>
     </message>
     <message>
         <source>SunSet</source>
@@ -6805,7 +6805,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Loose Embedded</source>
-        <translation type="unfinished"/>
+        <translation>Hafif İçe Basık</translation>
     </message>
     <message>
         <source>Lightning Bolt</source>
@@ -8871,7 +8871,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Whole-Iamge,8 Pt Offset</source>
-        <translation type="unfinished"/>
+        <translation>Tam yansıma, 8 nk uzaklık</translation>
     </message>
     <message>
         <source>Group</source>
@@ -8880,7 +8880,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Whole-Iamge,4 Pt Offset</source>
-        <translation type="unfinished"/>
+        <translation>Tam yansıma, 4 nk uzaklık</translation>
     </message>
     <message>
         <source>Smiley Face</source>
@@ -10181,7 +10181,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Enter Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarasını Girin</translation>
     </message>
     <message>
         <source>To activate WPS need to get the system UAC (user account control) allows, please try again.</source>
@@ -14027,7 +14027,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Subtract Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekilleri Çıkar</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
@@ -14452,7 +14452,7 @@ Ekle</translation>
     </message>
     <message>
         <source> Development</source>
-        <translation type="unfinished"/>
+        <translation>Geliştirme</translation>
     </message>
     <message>
         <source>Access Files</source>
@@ -15200,7 +15200,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Ignore (&amp;I)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yoksay</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -17329,7 +17329,7 @@ Check path and filename.</source>
     <name>KxLinksObjectContextHelper</name>
     <message>
         <source>---</source>
-        <translation type="unfinished"/>
+        <translation>---</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -20123,7 +20123,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the previous line</source>
-        <translation type="unfinished"/>
+        <translation>İmleci önceki satıra taşı</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
@@ -20469,7 +20469,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Saydamlık</translation>
     </message>
     <message>
         <source>Color &amp;1:</source>
@@ -20537,7 +20537,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Peacock</source>
-        <translation type="unfinished"/>
+        <translation>Tavus Kuşu</translation>
     </message>
     <message>
         <source>&amp;Two colors</source>
@@ -21461,7 +21461,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>TABEL</source>
-        <translation type="unfinished"/>
+        <translation>TABLO</translation>
     </message>
     <message>
         <source>Radar</source>
@@ -21512,7 +21512,7 @@ Check path and filename.</source>
     <message>
         <source>Data Label</source>
         <comment>CHART_DataLabel</comment>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketi</translation>
     </message>
     <message>
         <source>Delete Value Axis</source>
@@ -21546,11 +21546,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>DATA LABEL</source>
-        <translation type="unfinished"/>
+        <translation>VERİ ETİKETİ</translation>
     </message>
     <message>
         <source>Data Label</source>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketi</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -24111,7 +24111,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>SaveAs</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -24170,7 +24170,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>SaveAs</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>Right Template</source>
@@ -24257,7 +24257,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>SaveAs</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>Always allowed</source>
@@ -25211,7 +25211,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>&amp;Insert Picture...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Resim Ekle...</translation>
     </message>
     <message>
         <source>Sho&amp;w</source>
@@ -26879,7 +26879,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"/>
+        <translation>Farklı kaydet</translation>
     </message>
 </context>
 <context>
@@ -30108,7 +30108,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Solid diamond</source>
-        <translation type="unfinished"/>
+        <translation>Dolu elmas</translation>
     </message>
     <message>
         <source>Zig zag</source>
@@ -31916,11 +31916,11 @@ yazılamadı</translation>
     <name>KSpecialCharInfos</name>
     <message>
         <source>En Space</source>
-        <translation type="unfinished"/>
+        <translation>Kısa Boşluk</translation>
     </message>
     <message>
         <source>Registered</source>
-        <translation type="unfinished"/>
+        <translation>Kayıtlı</translation>
     </message>
     <message>
         <source>Nonbreaking Space</source>
@@ -32078,7 +32078,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Enter Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarasını Girin</translation>
     </message>
 </context>
 <context>
@@ -32124,7 +32124,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Enter Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarasını Girin</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
@@ -32614,7 +32614,7 @@ Please check your system settings and ensure that the temporary directory under 
     <name>KxChartStyleModel</name>
     <message>
         <source>style</source>
-        <translation>stil</translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>More</source>
@@ -33245,7 +33245,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Template</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Excel 97/2000/XP/2003 Şablonu</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
@@ -36846,7 +36846,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Please input department name</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen departman adını girin</translation>
     </message>
     <message>
         <source>Clear All Selected</source>
