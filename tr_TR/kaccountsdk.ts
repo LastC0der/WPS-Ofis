@@ -602,7 +602,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Sign In</source>
-        <translation type="unfinished"/>
+        <translation>Oturum Aç</translation>
     </message>
     <message>
         <source>Legal Commercial License.</source>
