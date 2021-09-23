@@ -47,11 +47,11 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"/>
+        <translation>Açık</translation>
     </message>
     <message>
         <source>Recovery options</source>
-        <translation type="unfinished"/>
+        <translation>Kurtarma seçenekleri</translation>
     </message>
     <message>
         <source>Automatically switch the appearance with the system, restart the application to take effect</source>
@@ -71,11 +71,11 @@
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Kısayollar</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gözat...</translation>
     </message>
     <message>
         <source>In order to ensure the best appearance, please restart the application</source>
@@ -95,11 +95,11 @@
     </message>
     <message>
         <source>File Locations</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Konumları</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>When creating a new work area:</source>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Genel</translation>
     </message>
     <message>
         <source>Chinese (Simplified)</source>
@@ -536,7 +536,7 @@
     <name>KPrivacyPolicyDialog</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"/>
+        <translation>%1</translation>
     </message>
     <message>
         <source>and</source>
@@ -1094,7 +1094,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Enter Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarasını Girin</translation>
     </message>
     <message>
         <source>To activate WPS need to get the system UAC (user account control) allows, please try again.</source>
@@ -1173,7 +1173,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>SaveAs</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>Text Files</source>
@@ -3123,7 +3123,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the previous line</source>
-        <translation type="unfinished"/>
+        <translation>İmleci önceki satıra taşı</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
@@ -3872,11 +3872,11 @@ Please verify the correct file name was given.</source>
     <name>KPreferencesHelpWidget</name>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"/>
+        <translation>Koyu</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"/>
+        <translation>Açık</translation>
     </message>
     <message>
         <source>To switch to dark mode, select Mac menu  &gt; System Preferences &gt; General &gt; Dark mode</source>
@@ -6873,7 +6873,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Load Plugin Failed,</source>
-        <translation type="unfinished"/>
+        <translation>Eklenti Yüklenemedi,</translation>
     </message>
 </context>
 <context>
@@ -6896,7 +6896,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Load Plugin Failed,</source>
-        <translation type="unfinished"/>
+        <translation>Eklenti Yüklenemedi,</translation>
     </message>
 </context>
 <context>
@@ -6935,7 +6935,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Download Failed</source>
-        <translation type="unfinished"/>
+        <translation>İndirilemedi</translation>
     </message>
     <message>
         <source>The account is offline. Please login again</source>
@@ -6996,7 +6996,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Enter Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarasını Girin</translation>
     </message>
     <message>
         <source>Purchase WPS Office for Enterprise</source>
@@ -7050,7 +7050,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Enter Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarasını Girin</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
@@ -7353,7 +7353,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Guest account data is only saved locally, no cloud backup</source>
@@ -9159,7 +9159,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
@@ -9549,15 +9549,15 @@ p, li { white-space: pre-wrap; }
     <name>KPreferencesTabWidget</name>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Kısayollar</translation>
     </message>
     <message>
         <source>File Locations</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Konumları</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Genel</translation>
     </message>
 </context>
 <context>
