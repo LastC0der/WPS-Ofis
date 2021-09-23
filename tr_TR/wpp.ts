@@ -2459,7 +2459,7 @@ Check</source>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Düzen</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Addins(*.ppam; *.ppa)</source>
@@ -2575,7 +2575,7 @@ Check</source>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Koru</translation>
     </message>
     <message>
         <source>OpenDocument Presentation(*.odp)|*.odp</source>
@@ -3043,7 +3043,7 @@ Check</source>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Sil</translation>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.MP4;*.m4v;*.mp4v;*.3gp2;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob;*.webm</source>
@@ -3113,7 +3113,7 @@ Check</source>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil</translation>
     </message>
     <message>
         <source>No Style, Table Grid</source>
@@ -3847,7 +3847,7 @@ Check</source>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation type="unfinished"/>
+        <translation>SmartArt</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6563,27 +6563,27 @@ Body: Thread</source>
     </message>
     <message>
         <source>Themed Style 2 - Accent 1</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 2 - Vurgu 1</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 2</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 2 - Vurgu 2</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 3</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 2 - Vurgu 3</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 4</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 2 - Vurgu 4</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 5</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 2 - Vurgu 5</translation>
     </message>
     <message>
         <source>Themed Style 2 - Accent 6</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 2 - Vurgu 6</translation>
     </message>
     <message>
         <source>[No Sound]</source>
@@ -6632,27 +6632,27 @@ Body: Thread</source>
     </message>
     <message>
         <source>Themed Style 1 - Accent 1</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 1 - Vurgu 1</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 2</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 1 - Vurgu 2</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 3</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 1 - Vurgu 3</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 4</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 1 - Vurgu 4</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 5</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 1 - Vurgu 5</translation>
     </message>
     <message>
         <source>Themed Style 1 - Accent 6</source>
-        <translation type="unfinished"/>
+        <translation>Tema Uygulanmış Stil 1 - Vurgu 6</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -6784,7 +6784,7 @@ Body: Descend</source>
     </message>
     <message>
         <source>Explosion</source>
-        <translation type="unfinished"/>
+        <translation>Patlama</translation>
     </message>
     <message>
         <source>time revolution</source>
@@ -12926,7 +12926,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Düzen</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -13022,7 +13022,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Koru</translation>
     </message>
     <message>
         <source>Movies and Sounds</source>
@@ -13219,7 +13219,7 @@ Template</source>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Resmini Kaydet</translation>
     </message>
     <message>
         <source>Play Movie</source>
@@ -13873,7 +13873,7 @@ Master</source>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Sil</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -19839,7 +19839,7 @@ Master</source>
     </message>
     <message>
         <source>Edit Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Düzenle</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -19859,15 +19859,15 @@ Master</source>
     </message>
     <message>
         <source>Edit Theme</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Düzenle</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Düzen</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Koru</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -19889,7 +19889,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Resmini Kaydet</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -19901,7 +19901,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Sil</translation>
     </message>
 </context>
 <context>
@@ -19972,15 +19972,15 @@ Kapat</translation>
     </message>
     <message>
         <source>Insert Above</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Ekle</translation>
     </message>
     <message>
         <source>Insert Below</source>
-        <translation type="unfinished"/>
+        <translation>Alta Ekle</translation>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Ekle</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -20309,7 +20309,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>: Shape </source>
-        <translation type="unfinished"/>
+        <translation>: Şekil </translation>
     </message>
     <message>
         <source>Whoosh</source>
@@ -20321,7 +20321,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Explosion</source>
-        <translation type="unfinished"/>
+        <translation>Patlama</translation>
     </message>
     <message>
         <source>Play Across Slieds</source>
@@ -22680,7 +22680,7 @@ Ekle</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation type="unfinished"/>
+        <translation>SmartArt</translation>
     </message>
     <message>
         <source>Link LocalVideo</source>
@@ -23485,15 +23485,15 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Insert Above</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Ekle</translation>
     </message>
     <message>
         <source>Insert Below</source>
-        <translation type="unfinished"/>
+        <translation>Alta Ekle</translation>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Ekle</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -23883,7 +23883,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Düzen</translation>
     </message>
     <message>
         <source>&amp;Footer</source>
@@ -24215,7 +24215,7 @@ Animation</source>
     </message>
     <message>
         <source>Transition control</source>
-        <translation type="unfinished"/>
+        <translation>Geçiş denetimi</translation>
     </message>
     <message>
         <source>EffectOptions</source>
@@ -24342,7 +24342,7 @@ Animation</source>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation type="unfinished"/>
+        <translation>SmartArt</translation>
     </message>
     <message>
         <source>Charts</source>
@@ -24447,7 +24447,7 @@ Düzenleri</translation>
     </message>
     <message>
         <source>Edit Theme</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Düzenle</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -24469,7 +24469,7 @@ Template</source>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Resmini Kaydet</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -27547,11 +27547,11 @@ Düzeni</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Düzen</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Koru</translation>
     </message>
     <message>
         <source>Close Master View</source>
@@ -27568,7 +27568,7 @@ Master</source>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Sil</translation>
     </message>
 </context>
 <context>
@@ -32792,15 +32792,15 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Insert Above</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Ekle</translation>
     </message>
     <message>
         <source>Insert Below</source>
-        <translation type="unfinished"/>
+        <translation>Alta Ekle</translation>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Ekle</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -33541,7 +33541,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Edit Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Düzenle</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -33553,15 +33553,15 @@ Düzeni</translation>
     </message>
     <message>
         <source>Edit Theme</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Düzenle</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Düzen</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Öğeyi Koru</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -33619,7 +33619,7 @@ Düzenleri</translation>
     </message>
     <message>
         <source>Edit Theme</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Düzenle</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -33641,7 +33641,7 @@ Template</source>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Resmini Kaydet</translation>
     </message>
     <message>
         <source>Design Templates</source>
