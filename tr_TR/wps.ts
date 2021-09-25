@@ -30281,7 +30281,7 @@ Pencere</translation>
     </message>
     <message>
         <source>: (Colon)</source>
-        <translation type="unfinished"/>
+        <translation>: (İki nokta)</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -38116,7 +38116,7 @@ Temizle</translation>
     </message>
     <message>
         <source>&amp;Heading:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlık:</translation>
     </message>
     <message>
         <source>Current &amp;page</source>
