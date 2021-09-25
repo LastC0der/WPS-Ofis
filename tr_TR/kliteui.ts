@@ -774,7 +774,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Big Icon</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Simge</translation>
     </message>
     <message>
         <source>Detail View</source>
@@ -793,7 +793,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Yükle</translation>
     </message>
     <message>
         <source>Ignore</source>
