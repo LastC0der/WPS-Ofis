@@ -1992,7 +1992,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Insert Media</source>
-        <translation type="unfinished"/>
+        <translation>Medya Ekle</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -2000,7 +2000,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Insert Sound</source>
-        <translation type="unfinished"/>
+        <translation>Ses Ekle</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -26477,7 +26477,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Insert Sound</source>
-        <translation type="unfinished"/>
+        <translation>Ses Ekle</translation>
     </message>
     <message>
         <source>Sound Files(*.wav)</source>
