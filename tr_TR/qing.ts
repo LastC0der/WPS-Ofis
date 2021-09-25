@@ -3094,7 +3094,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ogham</source>
-        <translation type="unfinished"/>
+        <translation>Ogham</translation>
     </message>
     <message>
         <source>Oriya</source>
@@ -4155,7 +4155,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılar</translation>
     </message>
     <message>
         <source>%1 messages @me</source>
