@@ -2584,7 +2584,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılar</translation>
     </message>
     <message>
         <source>Select Picture</source>
@@ -2592,7 +2592,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>---Translate Selection---</source>
-        <translation type="unfinished"/>
+        <translation>---Seçimi Çevir---</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
@@ -2613,7 +2613,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Dotted grid</source>
-        <translation type="unfinished"/>
+        <translation>Noktalı kılavuz</translation>
     </message>
     <message>
         <source>Vietnamese</source>
@@ -2785,7 +2785,7 @@ Download the XML expansion pack?</source>
     </message>
     <message>
         <source>New Menu</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Menü</translation>
     </message>
     <message>
         <source>Curve Up</source>
@@ -2802,7 +2802,7 @@ Please save the file and create share link</source>
     </message>
     <message>
         <source>: (Colon)</source>
-        <translation type="unfinished"/>
+        <translation>: (İki nokta)</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -6037,7 +6037,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Coarse Cloth</source>
-        <translation type="unfinished"/>
+        <translation>Kaba Kumaş</translation>
     </message>
     <message>
         <source>Isometric Lft-Down</source>
@@ -6869,7 +6869,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Right Brace</source>
-        <translation type="unfinished"/>
+        <translation>Sağ Ayraç</translation>
     </message>
     <message>
         <source>HightLight%1</source>
@@ -7053,31 +7053,31 @@ Ekle</translation>
     <message>
         <source>Right Brace</source>
         <comment>DRAWING2STR_RIGHT_BRACE</comment>
-        <translation type="unfinished"/>
+        <translation>Sağ Ayraç</translation>
     </message>
     <message>
         <source>color1</source>
-        <translation type="unfinished"/>
+        <translation>Renk 1</translation>
     </message>
     <message>
         <source>color2</source>
-        <translation type="unfinished"/>
+        <translation>Renk 2</translation>
     </message>
     <message>
         <source>color3</source>
-        <translation type="unfinished"/>
+        <translation>Renk 3</translation>
     </message>
     <message>
         <source>color4</source>
-        <translation type="unfinished"/>
+        <translation>Renk 4</translation>
     </message>
     <message>
         <source>color5</source>
-        <translation type="unfinished"/>
+        <translation>Renk 5</translation>
     </message>
     <message>
         <source>color6</source>
-        <translation type="unfinished"/>
+        <translation>Renk 6</translation>
     </message>
     <message>
         <source>ForwardDiagonal</source>
@@ -7359,7 +7359,7 @@ Line-type: %3</source>
     <message>
         <source>Right Brace</source>
         <comment>DRAWING2_TOOLTIP_RIGHT_BRACE</comment>
-        <translation type="unfinished"/>
+        <translation>Sağ Ayraç</translation>
     </message>
     <message>
         <source>7-Point Star</source>
@@ -13258,7 +13258,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert Sound</source>
-        <translation type="unfinished"/>
+        <translation>Ses Ekle</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -15378,7 +15378,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılar</translation>
     </message>
     <message>
         <source>&amp;Template</source>
@@ -16856,7 +16856,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Template Name</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Adı</translation>
     </message>
     <message>
         <source>Template Type</source>
@@ -18752,7 +18752,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ogham</source>
-        <translation type="unfinished"/>
+        <translation>Ogham</translation>
     </message>
     <message>
         <source>Oriya</source>
@@ -21058,7 +21058,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ogham</source>
-        <translation type="unfinished"/>
+        <translation>Ogham</translation>
     </message>
     <message>
         <source>Oriya</source>
@@ -24237,11 +24237,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Yükle</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>Unknown Origin</source>
@@ -24637,7 +24637,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Template Name</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Adı</translation>
     </message>
     <message>
         <source>Template Type</source>
@@ -24727,7 +24727,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>PPT Presentation</source>
-        <translation type="unfinished"/>
+        <translation>PPT Sunumu</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation.</source>
@@ -25188,11 +25188,11 @@ Ortalama</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Yükle</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -25473,7 +25473,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılar</translation>
     </message>
     <message>
         <source>You are about to visit a third-party website</source>
@@ -26238,11 +26238,11 @@ Ortalama</translation>
     </message>
     <message>
         <source>Custom Location</source>
-        <translation type="unfinished"/>
+        <translation>Özel Konum</translation>
     </message>
     <message>
         <source>Big Icon</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Simge</translation>
     </message>
     <message>
         <source>Detail View</source>
@@ -26454,11 +26454,11 @@ Ortalama</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Yükle</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>Set Default</source>
@@ -27413,7 +27413,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>25 Point</source>
-        <translation type="unfinished"/>
+        <translation>25 Nokta</translation>
     </message>
     <message>
         <source>5 Point</source>
@@ -29280,7 +29280,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Contact Email:gch@wps.cn</source>
-        <translation type="unfinished"/>
+        <translation>İletişim E-postası:gch@wps.cn</translation>
     </message>
 </context>
 <context>
@@ -30228,7 +30228,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Dotted grid</source>
-        <translation type="unfinished"/>
+        <translation>Noktalı kılavuz</translation>
     </message>
     <message>
         <source>Trellis</source>
@@ -31979,7 +31979,7 @@ yazılamadı</translation>
     <name>KPinKeyVerifyDlg</name>
     <message>
         <source>install</source>
-        <translation type="unfinished"/>
+        <translation>yükle</translation>
     </message>
     <message>
         <source>cert not valid yet</source>
@@ -33198,7 +33198,7 @@ Please check your system settings and ensure that the temporary directory under 
     <name>KxAddTemplateModel</name>
     <message>
         <source>Template Name</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Adı</translation>
     </message>
     <message>
         <source>Template Type</source>
@@ -36748,7 +36748,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Add...</source>
-        <translation type="unfinished"/>
+        <translation>Ekle...</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -37939,7 +37939,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Contact Email:gch@wps.cn</source>
-        <translation type="unfinished"/>
+        <translation>İletişim E-postası:gch@wps.cn</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
