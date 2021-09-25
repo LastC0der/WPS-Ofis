@@ -2670,7 +2670,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ogham</source>
-        <translation type="unfinished"/>
+        <translation>Ogham</translation>
     </message>
     <message>
         <source>Oriya</source>
@@ -5766,7 +5766,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Contact Email:gch@wps.cn</source>
-        <translation type="unfinished"/>
+        <translation>İletişim E-postası:gch@wps.cn</translation>
     </message>
 </context>
 <context>
@@ -9403,7 +9403,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Contact Email:gch@wps.cn</source>
-        <translation type="unfinished"/>
+        <translation>İletişim E-postası:gch@wps.cn</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
