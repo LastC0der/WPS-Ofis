@@ -107,11 +107,11 @@
     </message>
     <message>
         <source>Author:</source>
-        <translation type="unfinished"/>
+        <translation>Yazar :</translation>
     </message>
     <message>
         <source>author:</source>
-        <translation type="unfinished"/>
+        <translation>Yazar :</translation>
     </message>
     <message>
         <source>Accepted</source>
@@ -442,7 +442,7 @@
     </message>
     <message>
         <source>&amp;Apply:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygula:</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -618,7 +618,7 @@
     </message>
     <message>
         <source>Fit Auto</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <source>Disignal</source>
@@ -4317,15 +4317,15 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Created:</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturma Tarihi:</translation>
     </message>
     <message>
         <source>Creator:</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturan:</translation>
     </message>
     <message>
         <source>Author:</source>
-        <translation type="unfinished"/>
+        <translation>Yazar:</translation>
     </message>
     <message>
         <source>Document Properties</source>
@@ -5900,7 +5900,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>anticlockwise rotation</source>
-        <translation type="unfinished"/>
+        <translation>Saat yönünün tersine</translation>
     </message>
     <message>
         <source>BatchEmbedDocument</source>
@@ -6744,7 +6744,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Open Comment</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Açıklamayı Aç</translation>
     </message>
     <message>
         <source>TestNewPageFile</source>
@@ -14888,7 +14888,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>隐藏页面背景</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa arka planını gizle</translation>
     </message>
     <message>
         <source>装订：</source>
