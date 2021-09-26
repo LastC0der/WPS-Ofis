@@ -1137,7 +1137,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis</translation>
     </message>
     <message>
         <source>%1%2</source>
@@ -1766,7 +1766,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Durdur</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -1818,7 +1818,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>At</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
@@ -1884,7 +1884,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Durdur</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -1924,7 +1924,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>At</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
@@ -3369,7 +3369,7 @@ Check path and filename.</source>
     <name>KLogoutOverDevLimitDlg</name>
     <message>
         <source>WPS</source>
-        <translation>WPS</translation>
+        <translation>WPS Ofis</translation>
     </message>
     <message>
         <source>Personal Center - Online Devices</source>
@@ -5785,7 +5785,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
