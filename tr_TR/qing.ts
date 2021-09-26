@@ -3626,7 +3626,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı kaydır</translation>
     </message>
     <message>
         <source>Clear recent searches</source>
@@ -3678,7 +3678,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bad HTTP request</source>
-        <translation type="unfinished"/>
+        <translation>Hatalı HTTP İsteği</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -3797,7 +3797,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı kaydır</translation>
     </message>
     <message>
         <source>Scroll right</source>
@@ -6892,7 +6892,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Network unreachable</source>
-        <translation type="unfinished"/>
+        <translation>Ağa erişilemiyor</translation>
     </message>
     <message>
         <source>The address is not available</source>
@@ -8115,7 +8115,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Network unreachable</source>
-        <translation type="unfinished"/>
+        <translation>Ağa erişilemiyor</translation>
     </message>
     <message>
         <source>Operation on socket is not supported</source>
@@ -9789,7 +9789,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Creator:</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturan:</translation>
     </message>
 </context>
 <context>
