@@ -4024,7 +4024,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Format Code</source>
-        <translation type="unfinished"/>
+        <translation>Biçim Kodu</translation>
     </message>
     <message>
         <source>Fraction</source>
@@ -10527,7 +10527,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Edit permission</source>
-        <translation type="unfinished"/>
+        <translation>İzni düzenle</translation>
     </message>
     <message>
         <source>You already have %1 of this document</source>
@@ -14047,7 +14047,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Change Series</source>
-        <translation type="unfinished"/>
+        <translation>Seriyi Değiştir</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -14092,7 +14092,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>MPEG-2 TS Video File (*.m2ts;*.m2t;*.ts;*.tts)</source>
-        <translation type="unfinished"/>
+        <translation>MPEG-2 TS Video Dosyası (*.m2ts;*.m2t;*.ts;*.tts)</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -16919,7 +16919,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Edit Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzni Düzenle</translation>
     </message>
     <message>
         <source>Read Permission</source>
@@ -18497,7 +18497,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Process Arrows</source>
-        <translation type="unfinished"/>
+        <translation>İşlem Okları</translation>
     </message>
     <message>
         <source>Use to compare or show the relationship between two ideas. Each of the first two lines of Level 1 text corresponds to text at the top of one side of the center point. Emphasizes Level 2 text, which is limited to four shapes on each side of the center point. The balance tips towards the side with the most shapes containing Level 2 text. Unused text does not appear, but remains available if you switch layouts. </source>
@@ -20059,7 +20059,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı kaydır</translation>
     </message>
     <message>
         <source>Clear recent searches</source>
@@ -20111,7 +20111,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bad HTTP request</source>
-        <translation type="unfinished"/>
+        <translation>Hatalı HTTP İsteği</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -20903,7 +20903,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Created:</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturma Tarihi:</translation>
     </message>
     <message>
         <source>&amp;Author:</source>
@@ -21086,7 +21086,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Hiragana</source>
-        <translation type="unfinished"/>
+        <translation>Hiragana</translation>
     </message>
     <message>
         <source>Cyrillic</source>
@@ -21890,27 +21890,27 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Hundreds</source>
-        <translation type="unfinished"/>
+        <translation>Yüzler</translation>
     </message>
     <message>
         <source>Change Series</source>
-        <translation type="unfinished"/>
+        <translation>Seriyi Değiştir</translation>
     </message>
     <message>
         <source>Series 1</source>
-        <translation type="unfinished"/>
+        <translation>Seri 1</translation>
     </message>
     <message>
         <source>Series 2</source>
-        <translation type="unfinished"/>
+        <translation>Seri 2</translation>
     </message>
     <message>
         <source>Series 3</source>
-        <translation type="unfinished"/>
+        <translation>Seri 3</translation>
     </message>
     <message>
         <source>Series 4</source>
-        <translation type="unfinished"/>
+        <translation>Seri 4</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -21952,7 +21952,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>MINOR GRIDLINES</source>
-        <translation type="unfinished"/>
+        <translation>İKİNCİL KILAVUZ ÇİZGİLERİ</translation>
     </message>
     <message>
         <source>Change Style</source>
@@ -22751,7 +22751,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı kaydır</translation>
     </message>
     <message>
         <source>Scroll right</source>
@@ -22952,7 +22952,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı kaydır</translation>
     </message>
     <message>
         <source>Scroll right</source>
@@ -29603,7 +29603,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Edit Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzni Düzenle</translation>
     </message>
     <message>
         <source>Copy Permission</source>
@@ -30948,7 +30948,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Network unreachable</source>
-        <translation type="unfinished"/>
+        <translation>Ağa erişilemiyor</translation>
     </message>
     <message>
         <source>The address is not available</source>
@@ -33615,7 +33615,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Network unreachable</source>
-        <translation type="unfinished"/>
+        <translation>Ağa erişilemiyor</translation>
     </message>
     <message>
         <source>Operation on socket is not supported</source>
@@ -36250,11 +36250,11 @@ This file may be renamed, deleted or moved.</source>
     <name>KxDlgCheckPermissions</name>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygula</translation>
     </message>
     <message>
         <source>Add &amp;Users</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kullanıcı Ekle</translation>
     </message>
     <message>
         <source>User Name:</source>
@@ -36262,7 +36262,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Edit Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzni Düzenle</translation>
     </message>
     <message>
         <source>Read Permission</source>
