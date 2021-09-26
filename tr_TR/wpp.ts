@@ -23914,7 +23914,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"/>
+        <translation>&amp;At</translation>
     </message>
 </context>
 <context>
@@ -28307,7 +28307,7 @@ Master</source>
     <name>KxDlgEmbedPrivateFonts</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Text Label</source>
