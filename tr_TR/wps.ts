@@ -3641,7 +3641,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Enable Live Pre&amp;view</source>
-        <translation>&amp;Canlı Önizlemeyi Etkinleştir</translation>
+        <translation>&amp;Canlı Önizlemeyi etkinleştir</translation>
     </message>
     <message>
         <source>No tab hang &amp;indent</source>
