@@ -17414,7 +17414,7 @@ Filtre</translation>
     </message>
     <message>
         <source>Double underline</source>
-        <translation type="unfinished"/>
+        <translation>Altı Çift Çizili</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -17454,7 +17454,7 @@ Filtre</translation>
     </message>
     <message>
         <source>Double accounting</source>
-        <translation type="unfinished"/>
+        <translation>Uzak Çift</translation>
     </message>
     <message>
         <source>Thai Helper</source>
@@ -19618,7 +19618,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -25996,11 +25996,11 @@ Trig</translation>
     </message>
     <message>
         <source>Quick Styles</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Stiller</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Stilleri</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -40578,7 +40578,7 @@ Center</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
@@ -40936,7 +40936,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>PDF Merge</source>
@@ -54865,7 +54865,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Quick Styles</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Stiller</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -58561,7 +58561,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
