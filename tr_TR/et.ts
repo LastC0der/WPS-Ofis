@@ -12375,7 +12375,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo ve Özet Grafik Sihirbazı</translation>
     </message>
     <message>
         <source>Field thr&amp;ee:</source>
@@ -15292,7 +15292,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>For&amp;mula:</source>
@@ -21980,7 +21980,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
@@ -32300,7 +32300,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>内容
@@ -43886,7 +43886,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Merge Sheet</source>
@@ -45540,7 +45540,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Show data in &amp;hidden rows and columns</source>
@@ -48485,7 +48485,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Recombine SameName Sheet Tips</source>
@@ -48614,7 +48614,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Açılan Liste Ekle</translation>
     </message>
     <message>
         <source>Select choices drop down from cells</source>
@@ -49981,7 +49981,7 @@ Repeat Item Labels</source>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="unfinished"/>
+        <translation>Değişikliklerinizi atmak ve en son sürümü düzenlemek için At&apos;ı tıklayın.</translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
@@ -49997,7 +49997,7 @@ Repeat Item Labels</source>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"/>
+        <translation>&amp;At</translation>
     </message>
 </context>
 <context>
@@ -50531,7 +50531,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Paste into the continuous area, including the hidden cells</source>
@@ -51443,7 +51443,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>&amp;Data Range:</source>
@@ -52428,28 +52428,28 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxDlgSLCustomLineWeight</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSLEditSingle</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSLVertCustomValSetting</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSplitSheet</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Export to:</source>
@@ -52472,14 +52472,14 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxDuplicateBaseDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
     <name>KxTraditionalRuleDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Format cells that are GREATER THAN:</source>
