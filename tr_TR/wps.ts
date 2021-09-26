@@ -6335,7 +6335,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Apply to:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygulama yeri:</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -7903,7 +7903,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Apply All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü&amp;nü Uygula...</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -28301,7 +28301,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Apply to:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygulama yeri:</translation>
     </message>
     <message>
         <source>Presets</source>
