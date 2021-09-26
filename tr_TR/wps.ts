@@ -1693,7 +1693,7 @@
     </message>
     <message>
         <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%s&quot; değişikliklerini atıp en son sürümü yüklemek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Left</source>
@@ -7833,7 +7833,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -8206,7 +8206,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama Sekmesi</translation>
     </message>
     <message>
         <source>Replace contents identified by WPS AI Assistant?</source>
@@ -10940,7 +10940,7 @@ if you want to replace selected result, please click the replace button</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama Sekmesi</translation>
     </message>
     <message>
         <source>Cannot create automatic table of contents since no heading style or outline level has been set. </source>
@@ -26653,7 +26653,7 @@ Design Mode</source>
     <name>KxContentListEntriesDlg</name>
     <message>
         <source>Wps</source>
-        <translation>Wps</translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>Display name cannot be blank.</source>
@@ -39916,7 +39916,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Remember my choice, and don&apos;t prompt me again.</source>
@@ -40373,7 +40373,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>dialog</source>
-        <translation type="unfinished"/>
+        <translation>iletişim kutusu</translation>
     </message>
     <message>
         <source>&amp;Password</source>
@@ -41067,7 +41067,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>dialog</source>
-        <translation type="unfinished"/>
+        <translation>iletişim kutusu</translation>
     </message>
 </context>
 <context>
@@ -43709,7 +43709,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>dialog</source>
-        <translation type="unfinished"/>
+        <translation>iletişim kutusu</translation>
     </message>
 </context>
 <context>
@@ -44305,7 +44305,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>dialog</source>
-        <translation type="unfinished"/>
+        <translation>iletişim kutusu</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -45421,14 +45421,14 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxWpsDlgSendMail</name>
     <message>
         <source>dialog</source>
-        <translation type="unfinished"/>
+        <translation>iletişim kutusu</translation>
     </message>
 </context>
 <context>
     <name>SendByClientConfigWidget</name>
     <message>
         <source>dialog</source>
-        <translation type="unfinished"/>
+        <translation>iletişim kutusu</translation>
     </message>
     <message>
         <source>SendMail</source>
