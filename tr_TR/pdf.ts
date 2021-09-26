@@ -9379,7 +9379,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Chinese Transition</source>
