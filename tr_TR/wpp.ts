@@ -2815,7 +2815,7 @@ Check</source>
     </message>
     <message>
         <source>MPEG-2 TS Video File (*.m2ts;*.m2t;*.ts;*.tts)</source>
-        <translation type="unfinished"/>
+        <translation>MPEG-2 TS Video Dosyası (*.m2ts;*.m2t;*.ts;*.tts)</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -24238,7 +24238,7 @@ Animation</source>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygula</translation>
     </message>
     <message>
         <source>Include on slide</source>
@@ -24697,7 +24697,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>On clic&amp;k</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tıklayınca</translation>
     </message>
     <message>
         <source>With Previous</source>
@@ -25720,7 +25720,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Start &amp;After Previous</source>
-        <translation type="unfinished"/>
+        <translation>Öncekinden Sonr&amp;a Başlat</translation>
     </message>
 </context>
 <context>
@@ -27012,7 +27012,7 @@ Gizle</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygula</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -27636,7 +27636,7 @@ Master</source>
     <name>KxDlgWppColorScheme</name>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygula</translation>
     </message>
     <message>
         <source>&amp;Color schemes</source>
