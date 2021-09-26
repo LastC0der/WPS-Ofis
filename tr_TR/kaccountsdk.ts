@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation type="unfinished"/>
+        <translation>Proxy sunucu kullanma</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy ayarları</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation type="unfinished"/>
+        <translation>Proxy sunucu kullanma</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy ayarları</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
@@ -585,7 +585,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>I am personal user</source>
@@ -824,7 +824,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy ayarları</translation>
     </message>
     <message>
         <source>Password:</source>
