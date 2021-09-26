@@ -1810,7 +1810,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>At</translation>
     </message>
     <message>
         <source>Undo Clip</source>
@@ -3007,7 +3007,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Are you satisfied with the result?</source>
@@ -3304,7 +3304,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -3892,7 +3892,7 @@ Input 1-10 to insert from page 1 to page 10</source>
     </message>
     <message>
         <source>Discard Changes</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri At</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is VIP function, please login</source>
@@ -4045,7 +4045,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>SecondStep</source>
@@ -4140,7 +4140,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>新增运营弹框标题新增运营弹框标题</source>
@@ -4537,7 +4537,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Custom page</source>
@@ -4915,7 +4915,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>At</translation>
     </message>
     <message>
         <source>Yes (&amp;Y)</source>
@@ -5195,7 +5195,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>FontStyle</source>
@@ -7342,7 +7342,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
@@ -9662,7 +9662,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>内容
@@ -9679,7 +9679,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>upgrade VIP</source>
@@ -9787,7 +9787,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>ResizePage(A)</source>
@@ -9829,7 +9829,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>upgrade VIP</source>
@@ -11250,7 +11250,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>I got it</source>
@@ -11446,7 +11446,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>ZoomIn</source>
@@ -11796,7 +11796,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>My excerpt</source>
@@ -11850,7 +11850,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -12430,7 +12430,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Please enter the certificate password to delete the certificate</source>
@@ -12804,7 +12804,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>At</translation>
     </message>
 </context>
 <context>
@@ -12941,7 +12941,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Export</source>
@@ -13108,7 +13108,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
@@ -13171,7 +13171,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Certificate I added</source>
@@ -13666,7 +13666,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Search Tip</source>
@@ -13719,7 +13719,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfCaDetailDlgWidget</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>common info</source>
@@ -13730,21 +13730,21 @@ Deleted pages can not be recovered</source>
     <name>KxPdfCaEncryptDlgWidget</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCaImportDlgWidget</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCaSetDlgWidget</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>confirm</source>
@@ -13759,7 +13759,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfClipPageTipWidget</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>clip page is editing, return clip rect for operation</source>
@@ -13794,28 +13794,28 @@ Deleted pages can not be recovered</source>
     <name>KxPdfCompressTipsDialogWidget</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCorrectTipsDialogWidget</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
     <name>KxPdfMaskLayer</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
     <name>KxPdfNewPrintPopupTipsWidget</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>所选打印机遇到未知错误，请检查修复后再试！所选打印机遇到未知错误，请检查修复后再试！</source>
@@ -13834,7 +13834,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfOperatePopupType2Dlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>新增运营弹框标题新增运营弹框标题</source>
@@ -13845,7 +13845,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfPageInfoDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Unable to get chapter</source>
@@ -13860,7 +13860,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfPayFunctionTipsDialogUi</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>longin</source>
@@ -13871,7 +13871,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfUpdateNewsLayout</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>TryNow</source>
@@ -14900,7 +14900,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Manual page turning for double-sided printing</source>
@@ -15149,7 +15149,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>CheckBox</source>
@@ -15271,7 +15271,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>upgrade VIP</source>
@@ -15321,7 +15321,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Please log in WPS account.</source>
@@ -15394,7 +15394,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>ConfirmOk</source>
@@ -15425,7 +15425,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -15448,7 +15448,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
@@ -15480,7 +15480,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>cancel</source>
