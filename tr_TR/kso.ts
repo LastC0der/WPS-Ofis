@@ -2409,7 +2409,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama oturumu kapatmayı denediğinde hata oluştu. Hata kodu: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Inflate Top</source>
@@ -3141,7 +3141,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Command &amp;Bars:</source>
@@ -10154,7 +10154,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>issue number:</source>
@@ -10232,7 +10232,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation type="unfinished"/>
+        <translation>Proxy sunucu kullanma</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
@@ -10252,7 +10252,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy ayarları</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
@@ -10709,7 +10709,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Document password:</source>
@@ -10732,7 +10732,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>browse...</source>
@@ -11547,7 +11547,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Durdur</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -11599,7 +11599,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>At</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
@@ -12295,7 +12295,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Durdur</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -12335,7 +12335,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>At</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
@@ -12585,7 +12585,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Try the Professional version now to enjoy a greater number of services and features</source>
@@ -15216,7 +15216,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>At</translation>
     </message>
     <message>
         <source>Yes (&amp;Y)</source>
@@ -15343,7 +15343,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Copy link succeeded!</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı kopyalandı.</translation>
     </message>
     <message>
         <source>Link has been created, login and use it!</source>
@@ -15689,7 +15689,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>please insert the USB Key to verify</source>
@@ -22979,11 +22979,11 @@ This file may be renamed, deleted or moved.</source>
     <name>KMessageBox</name>
     <message>
         <source>WPS</source>
-        <translation>WPS</translation>
+        <translation>WPS Ofis</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>内容
@@ -26403,7 +26403,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Make outward document</source>
@@ -27075,7 +27075,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Local speech engine has been closed.</source>
-        <translation type="unfinished"/>
+        <translation>Yerel konuşma motoru kapatıldı.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -27178,7 +27178,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Email:</source>
@@ -27251,7 +27251,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy ayarları</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -29299,7 +29299,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
@@ -29932,7 +29932,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Loading, please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Yükleniyor, lütfen bekleyin…</translation>
     </message>
 </context>
 <context>
@@ -36387,7 +36387,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -36713,7 +36713,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>I know</source>
@@ -37727,14 +37727,14 @@ p, li { white-space: pre-wrap; }
     <name>DlgWebviewDocSecurity</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDownloadAndUploadFile</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -37745,7 +37745,7 @@ p, li { white-space: pre-wrap; }
     <name>creditsDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
@@ -38970,7 +38970,7 @@ p, li { white-space: pre-wrap; }
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Geri Yükle</translation>
     </message>
 </context>
 <context>
