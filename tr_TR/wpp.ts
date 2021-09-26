@@ -178,7 +178,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Border Preview</source>
-        <translation type="unfinished"/>
+        <translation>Kenarlık Önizleme</translation>
     </message>
     <message>
         <source>Source From &amp;Texture</source>
@@ -10712,11 +10712,11 @@ Araçları</translation>
     </message>
     <message>
         <source>Quick Styles</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Stiller</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Stilleri</translation>
     </message>
     <message>
         <source>Right</source>
@@ -12890,7 +12890,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Show / Hide Ink Markup</source>
@@ -16433,7 +16433,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>PDF Merge</source>
@@ -21260,7 +21260,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
@@ -23339,7 +23339,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Slide Library</source>
@@ -25679,7 +25679,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>&amp;Effect Options...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Efekt Seçenekleri...</translation>
     </message>
     <message>
         <source>View Slide &amp;Layout</source>
@@ -30016,7 +30016,7 @@ Slide</source>
     </message>
     <message>
         <source>Quick Styles</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Stiller</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -32697,7 +32697,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
