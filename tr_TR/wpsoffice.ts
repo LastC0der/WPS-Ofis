@@ -3059,7 +3059,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı kaydır</translation>
     </message>
     <message>
         <source>Clear recent searches</source>
@@ -3111,7 +3111,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bad HTTP request</source>
-        <translation type="unfinished"/>
+        <translation>Hatalı HTTP İsteği</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -3342,7 +3342,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı kaydır</translation>
     </message>
     <message>
         <source>Scroll right</source>
@@ -6513,7 +6513,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>Network unreachable</source>
-        <translation type="unfinished"/>
+        <translation>Ağa erişilemiyor</translation>
     </message>
     <message>
         <source>The address is not available</source>
@@ -7666,7 +7666,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Network unreachable</source>
-        <translation type="unfinished"/>
+        <translation>Ağa erişilemiyor</translation>
     </message>
     <message>
         <source>Operation on socket is not supported</source>
