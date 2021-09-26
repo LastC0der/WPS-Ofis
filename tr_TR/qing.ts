@@ -936,7 +936,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation type="unfinished"/>
+        <translation>Proxy sunucu kullanma</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
@@ -956,7 +956,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy ayarları</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
@@ -1072,7 +1072,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Cancel upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya yüklemeyi iptal et</translation>
     </message>
 </context>
 <context>
@@ -1168,7 +1168,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Durdur</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -1220,7 +1220,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>At</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
@@ -2021,7 +2021,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Durdur</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -2061,7 +2061,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>At</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
@@ -3850,7 +3850,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Cancel upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya yüklemeyi iptal et</translation>
     </message>
 </context>
 <context>
@@ -7314,7 +7314,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy ayarları</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -7528,7 +7528,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Cancel Upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya Yüklemeyi İptal Et</translation>
     </message>
     <message>
         <source>WPS Cloud File</source>
@@ -7555,7 +7555,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Cancel Upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya Yüklemeyi İptal Et</translation>
     </message>
     <message>
         <source>upgrade super vip for upload exceeding file</source>
@@ -8218,7 +8218,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel Upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya Yüklemeyi İptal Et</translation>
     </message>
     <message>
         <source>Member %1 cloud space was full,increase cloud space for continue synchronization</source>
@@ -8230,7 +8230,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya yüklemeyi iptal et</translation>
     </message>
 </context>
 <context>
@@ -9774,7 +9774,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Cancel Upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya Yüklemeyi İptal Et</translation>
     </message>
 </context>
 <context>
@@ -10959,7 +10959,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo ve Özet Grafik Sihirbazı</translation>
     </message>
     <message>
         <source>New Function Coming</source>
@@ -10992,7 +10992,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo ve Özet Grafik Sihirbazı</translation>
     </message>
     <message>
         <source>Auto Update</source>
@@ -11224,7 +11224,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo ve Özet Grafik Sihirbazı</translation>
     </message>
     <message>
         <source>Notice</source>
@@ -11317,7 +11317,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>cancel upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya yüklemeyi iptal et</translation>
     </message>
 </context>
 <context>
@@ -11436,7 +11436,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo ve Özet Grafik Sihirbazı</translation>
     </message>
     <message>
         <source>The function of automatically updating to Super member</source>
