@@ -716,7 +716,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Enable Smooth Scroll (&amp;M)</source>
-        <translation>Düzgün Kaydır&amp;mayı Etkinleştir</translation>
+        <translation>Düzgün Kaydır&amp;mayı etkinleştir</translation>
     </message>
     <message>
         <source>Fi&amp;xed decimal</source>
@@ -1216,7 +1216,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Detect and prompt for appropriate number format</source>
-        <translation>Uygun sayı biçimini algılar ve sorar.</translation>
+        <translation>Uygun sayı biçimini algıla ve sor</translation>
     </message>
     <message>
         <source>General and Save</source>
@@ -1308,7 +1308,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Enable Live Preview (&amp;P)</source>
-        <translation>&amp;Canlı Önizlemeyi Etkinleştir</translation>
+        <translation>&amp;Canlı Önizlemeyi etkinleştir</translation>
     </message>
     <message>
         <source>&amp;Formula bar</source>
@@ -1692,7 +1692,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>&amp;Gridlines</source>
-        <translation>&amp;Kılavuz Çizgileri</translation>
+        <translation>&amp;Kılavuz çizgileri</translation>
     </message>
     <message>
         <source>File encryption options for this workbook</source>
@@ -14521,7 +14521,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>&amp;Gridlines</source>
-        <translation>&amp;Kılavuz Çizgileri</translation>
+        <translation>&amp;Kılavuz çizgileri</translation>
     </message>
 </context>
 <context>
@@ -29625,11 +29625,11 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     <name>etongmani.mainwindow.commands</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>En Büyük</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>En Küçük</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -29673,7 +29673,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Count</source>
-        <translation>Sayım</translation>
+        <translation>Sayıları Say</translation>
     </message>
     <message>
         <source>Minisite</source>
