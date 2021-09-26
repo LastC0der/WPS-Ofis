@@ -1092,7 +1092,7 @@
     </message>
     <message>
         <source>Double underline</source>
-        <translation type="unfinished"/>
+        <translation>Altı çift çizili</translation>
     </message>
     <message>
         <source>Custom Text Boxes</source>
@@ -2285,7 +2285,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Wave double underline</source>
-        <translation type="unfinished"/>
+        <translation>Çift dalgalı alt çizgi</translation>
     </message>
     <message>
         <source>No underline</source>
@@ -2685,7 +2685,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Double underline</source>
-        <translation type="unfinished"/>
+        <translation>Altı çift çizili</translation>
     </message>
     <message>
         <source>Match c&amp;ontractions(yo-on, sokunon)</source>
@@ -14077,11 +14077,11 @@ Değiştir</translation>
     </message>
     <message>
         <source>Quick Styles</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Stiller</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Stilleri</translation>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
@@ -16174,7 +16174,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Align Text Right</source>
@@ -32478,7 +32478,7 @@ Number</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>PDF Merge</source>
@@ -32880,7 +32880,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>PDF Merge</source>
@@ -37950,7 +37950,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -47390,7 +47390,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Quick Styles</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Stiller</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -52532,7 +52532,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
