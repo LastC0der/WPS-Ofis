@@ -985,11 +985,11 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Enable &amp;live preview</source>
-        <translation>Önizlemeyi &amp;Etkinleştir</translation>
+        <translation>Önizlemeyi &amp;etkinleştir</translation>
     </message>
     <message>
         <source>&amp;Settings...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ayarlar...</translation>
     </message>
     <message>
         <source>&amp;Smart Backup</source>
