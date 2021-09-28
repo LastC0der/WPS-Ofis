@@ -161,7 +161,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Do not &amp;import column (skip)</source>
-        <translation>Süt&amp;unu içeri aktarma (atla)</translation>
+        <translation>Süt&amp;unu içe aktarma (atla)</translation>
     </message>
     <message>
         <source>Start import at &amp;row: </source>
@@ -4881,11 +4881,11 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>The content does not conform to the preset limits</source>
-        <translation type="unfinished"/>
+        <translation>İçerik önceden belirlenmiş sınırlara uymuyor</translation>
     </message>
     <message>
         <source> The content does not conform to the preset limits</source>
-        <translation type="unfinished"/>
+        <translation>İçerik önceden belirlenmiş sınırlara uymuyor</translation>
     </message>
     <message>
         <source>This data source contains no visible tables</source>
@@ -10428,7 +10428,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>Import Text File</source>
-        <translation>Metin Dosyasını İçeri Aktar</translation>
+        <translation>Metin Dosyasını İçe Aktar</translation>
     </message>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
@@ -11746,7 +11746,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Upper Case Chinese number</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Harf Çince numarası</translation>
     </message>
     <message>
         <source>is the text whose number of characters you want to find.</source>
@@ -13392,7 +13392,7 @@ silinecek, yalnızca bir satır kalacak.
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Kullanıcı Geri Bildirimi</translation>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Page &amp;P &amp;A</source>
@@ -13448,7 +13448,7 @@ silinecek, yalnızca bir satır kalacak.
     </message>
     <message>
         <source>Text Import Wizard - Step %d of 3</source>
-        <translation>Metin İçeri Aktarma Sihirbazı - Adım %d / 3</translation>
+        <translation>Metin İçe Aktarma Sihirbazı - Adım %d / 3</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
@@ -14540,7 +14540,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yok, Kılavuz Yok</translation>
     </message>
     <message>
         <source>Banded Columns</source>
@@ -14564,7 +14564,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"/>
+        <translation>Tema Stili</translation>
     </message>
     <message>
         <source>Last Row</source>
@@ -14627,7 +14627,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yok, Kılavuz Yok</translation>
     </message>
     <message>
         <source>Banded Columns</source>
@@ -14667,7 +14667,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"/>
+        <translation>Tema Stili</translation>
     </message>
     <message>
         <source>Last Row</source>
@@ -15999,7 +15999,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Contains</source>
-        <translation>içerir</translation>
+        <translation>İçerir</translation>
     </message>
     <message>
         <source>Does not begin with &quot;%1&quot;</source>
@@ -16179,7 +16179,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Next Year</source>
-        <translation type="unfinished"/>
+        <translation>Gelecek Yıl</translation>
     </message>
     <message>
         <source>&amp;Label Filter</source>
@@ -16986,7 +16986,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Import Text File</source>
-        <translation>Metin Dosyasını İçeri Aktar</translation>
+        <translation>Metin Dosyasını İçe Aktar</translation>
     </message>
     <message>
         <source>Unhide Rows</source>
@@ -17259,7 +17259,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"/>
+        <translation>Boşluk</translation>
     </message>
     <message>
         <source>Erase Border</source>
@@ -18210,7 +18210,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"/>
+        <translation>Boşluk</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -20869,7 +20869,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"/>
+        <translation>Önayar</translation>
     </message>
     <message>
         <source>Custom Settings</source>
@@ -21292,7 +21292,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"/>
+        <translation>Gruplandırma</translation>
     </message>
     <message>
         <source>&amp;Number of days</source>
@@ -21315,7 +21315,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Parola:</translation>
     </message>
     <message>
         <source>&amp;Username:</source>
@@ -21725,7 +21725,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>binary</source>
-        <translation type="unfinished"/>
+        <translation>ikili</translation>
     </message>
     <message>
         <source>column</source>
@@ -26665,7 +26665,7 @@ Trig</translation>
     </message>
     <message>
         <source>Text Import Wizard - Step %1 of 3</source>
-        <translation>Metin İçeri Aktarma Sihirbazı - Adım %1 / 3</translation>
+        <translation>Metin İçe Aktarma Sihirbazı - Adım %1 / 3</translation>
     </message>
     <message>
         <source>General</source>
@@ -29725,7 +29725,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Show Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Görev Bölmesini Göster</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -29781,7 +29781,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Ribbon Classic Menu</source>
-        <translation type="unfinished"/>
+        <translation>Şerit Klasik Menü</translation>
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
@@ -30432,7 +30432,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Contains</source>
-        <translation>içerir</translation>
+        <translation>İçerir</translation>
     </message>
     <message>
         <source>November</source>
@@ -30532,7 +30532,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Next Year</source>
-        <translation type="unfinished"/>
+        <translation>Gelecek Yıl</translation>
     </message>
 </context>
 <context>
@@ -31204,7 +31204,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>space</source>
-        <translation type="unfinished"/>
+        <translation>Boşluk</translation>
     </message>
     <message>
         <source>N&amp;umber</source>
@@ -42928,7 +42928,7 @@ found a solution.</source>
     </message>
     <message>
         <source>Side</source>
-        <translation type="unfinished"/>
+        <translation>Yüz</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -43104,7 +43104,7 @@ Yakınlaştırma</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlangıç stili:</translation>
     </message>
 </context>
 <context>
@@ -47817,7 +47817,7 @@ Document</source>
     </message>
     <message>
         <source>Entire &amp;column</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tüm sütun</translation>
     </message>
 </context>
 <context>
@@ -47858,7 +47858,7 @@ Document</source>
     <name>KxConstraintDlg</name>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"/>
+        <translation>Tamsayı</translation>
     </message>
     <message>
         <source>Constraint must be a number, simple reference, or formula with a numeric value.</source>
@@ -47866,7 +47866,7 @@ Document</source>
     </message>
     <message>
         <source>Binary</source>
-        <translation type="unfinished"/>
+        <translation>İkili</translation>
     </message>
     <message>
         <source>Cell Reference box is empty or contents are not valid.</source>
@@ -47889,7 +47889,7 @@ Document</source>
     <name>KxSolverParaDlg</name>
     <message>
         <source>integer</source>
-        <translation type="unfinished"/>
+        <translation>tamsayı</translation>
     </message>
     <message>
         <source>Problem to solve not specified.</source>
@@ -47913,7 +47913,7 @@ Document</source>
     </message>
     <message>
         <source>binary</source>
-        <translation type="unfinished"/>
+        <translation>ikili</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -48036,7 +48036,7 @@ Document</source>
     </message>
     <message>
         <source>Theme Cell</source>
-        <translation type="unfinished"/>
+        <translation>Temalı Hücre Stilleri</translation>
     </message>
     <message>
         <source>Good bad And moderate</source>
@@ -48157,15 +48157,15 @@ OLE DB Query</source>
     <name>KxEditConnectionPropertiesDlg</name>
     <message>
         <source>Connection name cannot be empty or blank.</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı adı boş bırakılamaz veya boşluklardan oluşamaz.</translation>
     </message>
     <message>
         <source>Connection or Command Text is empty.</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı veya Komut Metni boş.</translation>
     </message>
     <message>
         <source>Unsupported connection type.</source>
-        <translation type="unfinished"/>
+        <translation>Desteklenmeyen bağlantı türü.</translation>
     </message>
     <message>
         <source>Connection string or SQL has errors. WPS Spreadsheets can not import the data.</source>
@@ -49618,7 +49618,7 @@ Repeat Item Labels</source>
     </message>
     <message>
         <source>Advanced Text Import Settings</source>
-        <translation>Gelişmiş Metin İçeri Aktarma Ayarları</translation>
+        <translation>Gelişmiş Metin İçe Aktarma Ayarları</translation>
     </message>
     <message>
         <source>Settings used to recognize numeric data</source>
@@ -51796,7 +51796,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     </message>
     <message>
         <source>Advanced Text Import Settings</source>
-        <translation>Gelişmiş Metin İçeri Aktarma Ayarları</translation>
+        <translation>Gelişmiş Metin İçe Aktarma Ayarları</translation>
     </message>
     <message>
         <source>Data Type Identification</source>
