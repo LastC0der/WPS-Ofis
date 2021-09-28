@@ -1338,7 +1338,7 @@
     </message>
     <message>
         <source>Space </source>
-        <translation type="unfinished"/>
+        <translation>Boşluk </translation>
     </message>
     <message>
         <source>Tables</source>
@@ -5259,7 +5259,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>The spelling check is complete.</source>
@@ -5535,7 +5535,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Match Case</source>
-        <translation type="unfinished"/>
+        <translation>Büyük/Küçük Harf Eşleştir</translation>
     </message>
     <message>
         <source>Bullet:</source>
@@ -6828,11 +6828,11 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"/>
+        <translation>Tema Stili</translation>
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yok, Kılavuz Yok</translation>
     </message>
     <message>
         <source>Last Row</source>
@@ -6931,11 +6931,11 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"/>
+        <translation>Tema Stili</translation>
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yok, Kılavuz Yok</translation>
     </message>
     <message>
         <source>Last Row</source>
@@ -9026,7 +9026,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Match Case</source>
-        <translation type="unfinished"/>
+        <translation>Büyük/Küçük Harf Eşleştir</translation>
     </message>
     <message>
         <source>Col&amp;umn Break</source>
@@ -9038,7 +9038,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>, Match Case</source>
-        <translation type="unfinished"/>
+        <translation>, Büyük/Küçük Harf Eşleştir</translation>
     </message>
     <message>
         <source>, Match Byte</source>
@@ -10368,7 +10368,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>&amp;Space</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Boşluk</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -19188,7 +19188,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Show Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Görev Bölmesini Göster</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -19254,7 +19254,7 @@ Changes</source>
     </message>
     <message>
         <source>Ribbon Classic Menu</source>
-        <translation type="unfinished"/>
+        <translation>Şerit Klasik Menü</translation>
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
@@ -19968,7 +19968,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Placeholder</source>
-        <translation type="unfinished"/>
+        <translation>Yer Tutucu</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
@@ -20747,7 +20747,7 @@ Changes</source>
     </message>
     <message>
         <source>Rename Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer İşaretini Yeniden Adlandır</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -33947,7 +33947,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Match Case</source>
-        <translation type="unfinished"/>
+        <translation>Büyük/Küçük Harf Eşleştir</translation>
     </message>
     <message>
         <source>Section</source>
@@ -35916,7 +35916,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>Fit Width</source>
@@ -35924,15 +35924,15 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Uzaklaştır</translation>
     </message>
     <message>
         <source>Actual Size</source>
-        <translation type="unfinished"/>
+        <translation>Gerçek Boyut</translation>
     </message>
     <message>
         <source>LastPage</source>
-        <translation type="unfinished"/>
+        <translation>Son Sayfa</translation>
     </message>
     <message>
         <source>Export To OFD</source>
@@ -35940,7 +35940,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>FirstPage</source>
-        <translation type="unfinished"/>
+        <translation>İlk Sayfa</translation>
     </message>
     <message>
         <source>PageNumber</source>
@@ -35979,7 +35979,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Print Order:</source>
-        <translation>Yazdırma Düzeni:</translation>
+        <translation>Yazdırma Sırası:</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -36078,7 +36078,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Begin style:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlangıç stili:</translation>
     </message>
 </context>
 <context>
@@ -39050,7 +39050,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>1.5 Space</source>
-        <translation type="unfinished"/>
+        <translation>1.5 Boşluk</translation>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -39541,15 +39541,15 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>LastPage</source>
-        <translation type="unfinished"/>
+        <translation>Son Sayfa</translation>
     </message>
     <message>
         <source>Actual Size(Ctrl+0)</source>
-        <translation type="unfinished"/>
+        <translation>Gerçek Boyut(Ctrl+0)</translation>
     </message>
     <message>
         <source>FirstPage</source>
-        <translation type="unfinished"/>
+        <translation>İlk Sayfa</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -40022,39 +40022,39 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Level 1</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 1</translation>
     </message>
     <message>
         <source>Level 2</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 2</translation>
     </message>
     <message>
         <source>Level 3</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 3</translation>
     </message>
     <message>
         <source>Level 4</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 4</translation>
     </message>
     <message>
         <source>Level 5</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 5</translation>
     </message>
     <message>
         <source>Level 6</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 6</translation>
     </message>
     <message>
         <source>Level 7</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 7</translation>
     </message>
     <message>
         <source>Level 8</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 8</translation>
     </message>
     <message>
         <source>Level 9</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 9</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -40180,7 +40180,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"/>
+        <translation>Dışarı Aktar</translation>
     </message>
     <message>
         <source>Split and Merge</source>
@@ -40203,7 +40203,7 @@ If unnecessary, please click Cancel.</source>
     <name>KxWpsDDEServer</name>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
 </context>
 <context>
@@ -40377,7 +40377,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Password</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Parola</translation>
     </message>
 </context>
 <context>
@@ -40427,7 +40427,7 @@ If unnecessary, please click Cancel.</source>
     <name>KxDlgAdjustNumberingIndent</name>
     <message>
         <source>Space</source>
-        <translation type="unfinished"/>
+        <translation>Boşluk</translation>
     </message>
     <message>
         <source>Text position(&amp;T):</source>
@@ -52875,7 +52875,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Print Order:</source>
-        <translation>Yazdırma Düzeni:</translation>
+        <translation>Yazdırma Sırası:</translation>
     </message>
     <message>
         <source>One Page</source>
