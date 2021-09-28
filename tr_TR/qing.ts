@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"/>
+        <translation>Boşluk</translation>
     </message>
     <message>
         <source>Media Record</source>
@@ -3408,7 +3408,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -9746,7 +9746,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
@@ -9991,7 +9991,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
     <message>
         <source>Fix now</source>
@@ -10023,7 +10023,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KSyncFolderSuccessWidget</name>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
 </context>
 <context>
