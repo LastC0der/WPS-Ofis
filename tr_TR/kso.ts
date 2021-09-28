@@ -585,7 +585,7 @@
     </message>
     <message>
         <source>Gradient Path</source>
-        <translation type="unfinished"/>
+        <translation>Yol Gradyanı</translation>
     </message>
     <message>
         <source>Foreground</source>
@@ -811,7 +811,7 @@
     </message>
     <message>
         <source>Gradient Path</source>
-        <translation type="unfinished"/>
+        <translation>Yol Gradyanı</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
@@ -2196,7 +2196,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>Trademark</source>
-        <translation type="unfinished"/>
+        <translation>Ticari Marka</translation>
     </message>
     <message>
         <source>Part of %s trial version</source>
@@ -2233,7 +2233,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"/>
+        <translation>Telif Hakkı</translation>
     </message>
     <message>
         <source>Custom CommandBar %ld</source>
@@ -2684,7 +2684,7 @@ Download the XML expansion pack?</source>
     </message>
     <message>
         <source>Em Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire</translation>
     </message>
     <message>
         <source>Custom Shows</source>
@@ -2704,7 +2704,7 @@ Download the XML expansion pack?</source>
     </message>
     <message>
         <source>En Dash</source>
-        <translation type="unfinished"/>
+        <translation>Tire</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
@@ -3016,7 +3016,7 @@ Please save the file and create share link</source>
     </message>
     <message>
         <source>Em Space</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Boşluk</translation>
     </message>
     <message>
         <source>Mongolian;Braille;Yi Radicals</source>
@@ -3308,7 +3308,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"/>
+        <translation>Boşluk</translation>
     </message>
     <message>
         <source>Media Record</source>
@@ -5354,7 +5354,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Micro Green</source>
-        <translation type="unfinished"/>
+        <translation>Limon Yeşili</translation>
     </message>
     <message>
         <source>Left-Down Corner Perspective</source>
@@ -6392,7 +6392,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Matt Effect</source>
-        <translation type="unfinished"/>
+        <translation>Mat</translation>
     </message>
     <message>
         <source>Action Button: Home</source>
@@ -6951,7 +6951,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Left Brace</source>
-        <translation type="unfinished"/>
+        <translation>Sol Ayraç</translation>
     </message>
     <message>
         <source>Not Equal</source>
@@ -7345,7 +7345,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Powder </source>
-        <translation type="unfinished"/>
+        <translation>Pudra</translation>
     </message>
     <message>
         <source>Flowchart: Alternate Process</source>
@@ -7777,7 +7777,7 @@ Line-type: %3</source>
     <message>
         <source>Left Brace</source>
         <comment>DRAWING2STR_LEFT_BRACE</comment>
-        <translation type="unfinished"/>
+        <translation>Sol Ayraç</translation>
     </message>
     <message>
         <source>LargeGrid</source>
@@ -8742,7 +8742,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Inner Down</source>
-        <translation type="unfinished"/>
+        <translation>İç Alt</translation>
     </message>
     <message>
         <source>Inner Left</source>
@@ -9095,7 +9095,7 @@ Line-type: %3</source>
     <message>
         <source>Horizontal Scroll</source>
         <comment>DRAWING2_TOOLTIP_HORIZONTAL_SCROLL</comment>
-        <translation type="unfinished"/>
+        <translation>Yatay Kaydırma</translation>
     </message>
     <message>
         <source>Heavy Dot Line</source>
@@ -9540,15 +9540,15 @@ Line-type: %3</source>
     <message>
         <source>Left Brace</source>
         <comment>DRAWING2_TOOLTIP_LEFT_BRACE</comment>
-        <translation type="unfinished"/>
+        <translation>Sol Ayraç</translation>
     </message>
     <message>
         <source>Traditional1</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel1</translation>
     </message>
     <message>
         <source>Traditional2</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel2</translation>
     </message>
     <message>
         <source>Warm Rough</source>
@@ -16236,7 +16236,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&amp;Presets</source>
-        <translation type="unfinished"/>
+        <translation>İlk &amp;Ayarlar</translation>
     </message>
     <message>
         <source>Turn Down</source>
@@ -19841,7 +19841,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -20262,7 +20262,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Concourse</source>
-        <translation type="unfinished"/>
+        <translation>Kalabalık</translation>
     </message>
     <message>
         <source>Dragon</source>
@@ -20505,7 +20505,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Desert</source>
-        <translation type="unfinished"/>
+        <translation>Çöl</translation>
     </message>
     <message>
         <source>GoldII</source>
@@ -24390,7 +24390,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Warm Effect</source>
-        <translation type="unfinished"/>
+        <translation>Sıcak</translation>
     </message>
     <message>
         <source>Special</source>
@@ -26562,7 +26562,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Selected Users</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Kullanıcılar</translation>
     </message>
     <message>
         <source>User ID</source>
@@ -31936,11 +31936,11 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Trademark</source>
-        <translation type="unfinished"/>
+        <translation>Ticari Marka</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"/>
+        <translation>Telif Hakkı</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -31960,15 +31960,15 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Em Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire</translation>
     </message>
     <message>
         <source>En Dash</source>
-        <translation type="unfinished"/>
+        <translation>Tire</translation>
     </message>
     <message>
         <source>Em Space</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Boşluk</translation>
     </message>
     <message>
         <source>Single Opening Quote</source>
@@ -33014,7 +33014,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>&amp;Password</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Parola</translation>
     </message>
     <message>
         <source>Offline login management</source>
@@ -33237,7 +33237,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>import templates</source>
-        <translation type="unfinished"/>
+        <translation>Şablonları İçe Aktar</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
@@ -33850,7 +33850,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Opeartion</source>
-        <translation type="unfinished"/>
+        <translation>İşlem</translation>
     </message>
     <message>
         <source>Application detail</source>
@@ -36294,7 +36294,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Add User</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Ekle</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -36624,7 +36624,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KxGalleryFontComboBox</name>
     <message>
         <source> (Body)</source>
-        <translation type="unfinished"/>
+        <translation> (Gövde)</translation>
     </message>
     <message>
         <source> (Headings)</source>
@@ -36639,7 +36639,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KxGallerySyFontComboBox</name>
     <message>
         <source> (Body)</source>
-        <translation type="unfinished"/>
+        <translation> (Gövde)</translation>
     </message>
     <message>
         <source> (Headings)</source>
@@ -36717,7 +36717,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
     <message>
         <source>upgrade package</source>
@@ -36818,11 +36818,11 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Add User</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Ekle</translation>
     </message>
     <message>
         <source>Selected Users</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Kullanıcılar</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -38029,7 +38029,7 @@ p, li { white-space: pre-wrap; }
     <name>KxGalleryShapesCommand</name>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"/>
+        <translation>Önayar</translation>
     </message>
 </context>
 <context>
@@ -38132,7 +38132,7 @@ p, li { white-space: pre-wrap; }
     <name>KxEditOutwardMembersDlg</name>
     <message>
         <source>Phone number is invalid!</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz telefon numarası.</translation>
     </message>
     <message>
         <source>Edit Forward Recievers</source>
