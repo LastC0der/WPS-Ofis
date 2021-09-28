@@ -277,7 +277,7 @@
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"/>
+        <translation>Boşluk</translation>
     </message>
     <message>
         <source>Media Record</source>
@@ -2841,7 +2841,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -3447,7 +3447,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
     <message>
         <source>Open Now</source>
