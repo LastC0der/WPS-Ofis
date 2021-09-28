@@ -1186,7 +1186,7 @@
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>Title</source>
@@ -2562,7 +2562,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum</translation>
     </message>
     <message>
         <source>ShrinkBigsize</source>
@@ -3045,7 +3045,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"/>
+        <translation>Boşluk</translation>
     </message>
     <message>
         <source>HSplitLine</source>
@@ -4645,7 +4645,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Image File (*.jpg *.png *.bmp)</source>
-        <translation type="unfinished"/>
+        <translation>Resim Dosyası (*.jpg *.png *.bmp)</translation>
     </message>
     <message>
         <source>Cloud synchronization description</source>
@@ -5308,7 +5308,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>2 pt</source>
-        <translation type="unfinished"/>
+        <translation>2 nk</translation>
     </message>
     <message>
         <source>4 pt</source>
@@ -6296,7 +6296,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>LastPage</source>
-        <translation type="unfinished"/>
+        <translation>Son Sayfa</translation>
     </message>
     <message>
         <source>SetDefTCB</source>
@@ -6392,7 +6392,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FirstPage</source>
-        <translation type="unfinished"/>
+        <translation>İlk Sayfa</translation>
     </message>
     <message>
         <source>ApplyOtherPage</source>
@@ -7289,26 +7289,26 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Recent Colors</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan Renkler</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCaItemWidget</name>
     <message>
         <source>set</source>
-        <translation type="unfinished"/>
+        <translation>Ayarla</translation>
     </message>
     <message>
         <source>delete</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>export</source>
-        <translation type="unfinished"/>
+        <translation>Dışarı Aktar</translation>
     </message>
     <message>
         <source>remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>SIGNATURE</source>
@@ -7393,7 +7393,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Show Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Görev Bölmesini Göster</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -7421,7 +7421,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Ribbon Classic Menu</source>
-        <translation type="unfinished"/>
+        <translation>Şerit Klasik Menü</translation>
     </message>
     <message>
         <source>DeleteBackGround</source>
@@ -7715,7 +7715,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TextStyle</source>
-        <translation type="unfinished"/>
+        <translation>Metin Stili</translation>
     </message>
     <message>
         <source>Sign out</source>
@@ -8629,7 +8629,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>试试勾选“使用双面打印”，方便快捷</source>
-        <translation type="unfinished"/>
+        <translation>&quot;İki Yüze de Yazdır&quot; &apos;ı seçmeyi deneyin, hızlı ve kullanışlıdır</translation>
     </message>
 </context>
 <context>
@@ -9391,7 +9391,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>LastPage</source>
-        <translation type="unfinished"/>
+        <translation>Son Sayfa</translation>
     </message>
     <message>
         <source>Play Back</source>
@@ -9431,7 +9431,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>FirstPage</source>
-        <translation type="unfinished"/>
+        <translation>İlk Sayfa</translation>
     </message>
     <message>
         <source>Section</source>
@@ -10155,7 +10155,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>SelfDef</source>
-        <translation type="unfinished"/>
+        <translation>Özelleştir</translation>
     </message>
     <message>
         <source>AddWaterM</source>
@@ -10724,7 +10724,7 @@ Pencere</translation>
     </message>
     <message>
         <source>TextStyle</source>
-        <translation type="unfinished"/>
+        <translation>Metin Stili</translation>
     </message>
 </context>
 <context>
@@ -10799,7 +10799,7 @@ Pencere</translation>
     </message>
     <message>
         <source>TextStyle</source>
-        <translation type="unfinished"/>
+        <translation>Metin Stili</translation>
     </message>
 </context>
 <context>
@@ -12051,7 +12051,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Actual Size</source>
-        <translation type="unfinished"/>
+        <translation>Gerçek Boyut</translation>
     </message>
     <message>
         <source>WholeWordsSearch</source>
@@ -12945,7 +12945,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"/>
+        <translation>Dışarı Aktar</translation>
     </message>
     <message>
         <source>Do not remind again</source>
@@ -13331,7 +13331,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfGalleryFontComboBox</name>
     <message>
         <source> (Body)</source>
-        <translation type="unfinished"/>
+        <translation> (Gövde)</translation>
     </message>
     <message>
         <source> (Headings)</source>
@@ -15064,7 +15064,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>页边距设置提示</source>
-        <translation type="unfinished"/>
+        <translation>Kenar Boşlukları</translation>
     </message>
     <message>
         <source>记住以下设置</source>
