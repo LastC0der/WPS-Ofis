@@ -322,7 +322,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Gradient Path</source>
-        <translation type="unfinished"/>
+        <translation>Yol Gradyanı</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
@@ -477,7 +477,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"/>
+        <translation>Ana hat görünümü</translation>
     </message>
     <message>
         <source>Smart Backup</source>
@@ -1289,7 +1289,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"/>
+        <translation>Ana hat görünümü</translation>
     </message>
     <message>
         <source>File open password:</source>
@@ -1500,7 +1500,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"/>
+        <translation>Ana hat görünümü</translation>
     </message>
     <message>
         <source>File open password:</source>
@@ -1843,7 +1843,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Görünümü</translation>
     </message>
     <message>
         <source>Color Scheme</source>
@@ -3105,7 +3105,7 @@ Check</source>
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yok, Kılavuz Yok</translation>
     </message>
     <message>
         <source>Banded Columns</source>
@@ -5999,7 +5999,7 @@ Body: Rise Up</source>
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yok, Kılavuz Yok</translation>
     </message>
     <message>
         <source>Dissolve</source>
@@ -17965,7 +17965,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Ribbon Classic Menu</source>
-        <translation type="unfinished"/>
+        <translation>Şerit Klasik Menü</translation>
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
@@ -18514,7 +18514,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"/>
+        <translation>Ana hat görünümü</translation>
     </message>
     <message>
         <source>Num&amp;ber of copies:</source>
@@ -22577,7 +22577,7 @@ Pencere</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlangıç stili:</translation>
     </message>
 </context>
 <context>
@@ -25389,15 +25389,15 @@ Yapısı</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished"/>
+        <translation>Ana hat görünümü</translation>
     </message>
     <message>
         <source>Black and white</source>
-        <translation type="unfinished"/>
+        <translation>Siyah beyaz</translation>
     </message>
     <message>
         <source>Print color:</source>
@@ -33023,7 +33023,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Printing Order</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma Sırası</translation>
     </message>
     <message>
         <source>Print</source>
@@ -33031,7 +33031,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Görünümü</translation>
     </message>
     <message>
         <source>Frame Slides</source>
