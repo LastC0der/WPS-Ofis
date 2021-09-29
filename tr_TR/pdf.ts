@@ -199,7 +199,7 @@
     </message>
     <message>
         <source>Vertical Line</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Çizgi</translation>
     </message>
     <message>
         <source>Width(T):</source>
@@ -410,7 +410,7 @@
     </message>
     <message>
         <source>Mult Row:</source>
-        <translation type="unfinished"/>
+        <translation>Çok satırlı filigran:</translation>
     </message>
     <message>
         <source>Fo&amp;nt:</source>
@@ -602,7 +602,7 @@
     </message>
     <message>
         <source>General Settings</source>
-        <translation type="unfinished"/>
+        <translation>Genel Ayarlar</translation>
     </message>
     <message>
         <source>Night</source>
@@ -1190,15 +1190,15 @@
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Dosya Seç</translation>
     </message>
     <message>
         <source>Edit link</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıyı düzenle</translation>
     </message>
     <message>
         <source>meter</source>
-        <translation type="unfinished"/>
+        <translation>m</translation>
     </message>
     <message>
         <source>The current document is encoded incorrectly, and the converted content may be garbled</source>
@@ -2626,11 +2626,11 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>current view</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Görünüm</translation>
     </message>
     <message>
         <source>current page</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Sayfa</translation>
     </message>
     <message>
         <source>OnlyFront</source>
@@ -3331,7 +3331,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Edit Link</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıyı Düzenle</translation>
     </message>
     <message>
         <source>Jump To Page:</source>
@@ -5420,7 +5420,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>12 pt</source>
-        <translation type="unfinished"/>
+        <translation>12 nk</translation>
     </message>
     <message>
         <source>14 pt</source>
@@ -5496,7 +5496,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Edit Link</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıyı Düzenle</translation>
     </message>
     <message>
         <source>Bg_Yangpizhi</source>
@@ -5896,7 +5896,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Fit Height</source>
-        <translation type="unfinished"/>
+        <translation>Yüksekliği Sığdır</translation>
     </message>
     <message>
         <source>anticlockwise rotation</source>
@@ -8945,7 +8945,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"/>
+        <translation>Çevir</translation>
     </message>
     <message>
         <source>Translate selected text</source>
@@ -9117,7 +9117,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Taşı</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -9145,7 +9145,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Taşı</translation>
     </message>
     <message>
         <source>COM 
@@ -10167,7 +10167,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>OutputDir</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Dizini:</translation>
     </message>
     <message>
         <source>Extracted</source>
@@ -10470,7 +10470,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Taşı</translation>
     </message>
     <message>
         <source>Page
@@ -10479,7 +10479,7 @@ Navigation</source>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Taşı</translation>
     </message>
     <message>
         <source>Show Navigator</source>
@@ -10524,7 +10524,7 @@ Görüntüle</translation>
     </message>
     <message>
         <source>StatusBar</source>
-        <translation type="unfinished"/>
+        <translation>Durum Çubuğu</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -12098,7 +12098,7 @@ Pencere</translation>
     <name>KxPdfEditLinkDialog</name>
     <message>
         <source>Edit Link</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıyı Düzenle</translation>
     </message>
     <message>
         <source>(%1 pages in total)</source>
@@ -15210,7 +15210,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>OutputDir</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Dizini:</translation>
     </message>
     <message>
         <source>PageExtract</source>
