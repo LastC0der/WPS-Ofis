@@ -1889,7 +1889,7 @@
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"/>
+        <translation>Sürekli</translation>
     </message>
     <message>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
@@ -6395,7 +6395,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"/>
+        <translation>Sürekli</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -6549,7 +6549,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"/>
+        <translation>Sürekli</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 32767.</source>
@@ -16590,7 +16590,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"/>
+        <translation>Sürekli Okuma</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
@@ -24872,7 +24872,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"/>
+        <translation>Sürekli</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
@@ -42441,7 +42441,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"/>
+        <translation>Sürekli</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
@@ -48997,7 +48997,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"/>
+        <translation>Sürekli</translation>
     </message>
     <message>
         <source>Text Wrapping Break</source>
