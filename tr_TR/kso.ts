@@ -1012,7 +1012,7 @@
     </message>
     <message>
         <source>Ro&amp;tation</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Döndürme</translation>
     </message>
     <message>
         <source>&amp;Best scale for slide show</source>
@@ -5741,7 +5741,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Goldenrod</source>
-        <translation type="unfinished"/>
+        <translation>Altın Başak</translation>
     </message>
     <message>
         <source>Down Curved Arrow</source>
@@ -8635,7 +8635,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Wireframe </source>
-        <translation type="unfinished"/>
+        <translation>Tel Çerçeve</translation>
     </message>
     <message>
         <source>WordArt: Triangle Inverted</source>
@@ -9592,7 +9592,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>LightGreen</source>
-        <translation type="unfinished"/>
+        <translation>Açık Yeşil</translation>
     </message>
     <message>
         <source>LightCoral</source>
@@ -11721,7 +11721,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Light Purple</source>
-        <translation type="unfinished"/>
+        <translation>Açık Mor</translation>
     </message>
     <message>
         <source>Today</source>
@@ -12703,11 +12703,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"/>
+        <translation>Proje</translation>
     </message>
     <message>
         <source>Purpose</source>
-        <translation type="unfinished"/>
+        <translation>Amaç</translation>
     </message>
     <message>
         <source>Record Date</source>
@@ -13716,7 +13716,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"/>
+        <translation>Çevir</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
@@ -14521,7 +14521,7 @@ File: %s
     </message>
     <message>
         <source>Office Files</source>
-        <translation type="unfinished"/>
+        <translation>Ofis Dosyaları</translation>
     </message>
     <message>
         <source>The expiration date is not valid. Enter a date between tomorrow and 2100/12/31.</source>
@@ -20879,11 +20879,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Project</source>
-        <translation type="unfinished"/>
+        <translation>Proje</translation>
     </message>
     <message>
         <source>Purpose</source>
-        <translation type="unfinished"/>
+        <translation>Amaç</translation>
     </message>
     <message>
         <source>Sa&amp;ve preview picture</source>
@@ -27281,7 +27281,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Durum</translation>
     </message>
     <message>
         <source>Type of encryption</source>
@@ -27300,15 +27300,15 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Durum</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Parola</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigran</translation>
     </message>
     <message>
         <source>Rejected</source>
