@@ -1638,7 +1638,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>PaperCheck loading failed.</source>
-        <translation>PaperCheck loading failed.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 page</source>
