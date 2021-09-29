@@ -10385,7 +10385,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Abort (&amp;A)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Durdur</translation>
     </message>
     <message>
         <source>Retry (&amp;R)</source>
@@ -13118,7 +13118,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Windows Media Audio File(wma) (*.wma;*.wax)</source>
-        <translation type="unfinished"/>
+        <translation>Windows Media Ses Dosyası(wma) (*.wma;*.wax)</translation>
     </message>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.mp2;*.m3u)</source>
@@ -13134,7 +13134,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Windows Media Video File(wmv) (*.wmv;*.wvx)</source>
-        <translation type="unfinished"/>
+        <translation>Windows Media Ses Dosyası(wmv) (*.wmv;*.wvx)</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
@@ -13842,7 +13842,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>*.wmv;*.wvx</source>
-        <translation type="unfinished"/>
+        <translation>*.wmv;*.wvx</translation>
     </message>
     <message>
         <source>*.flv;*.f4v</source>
@@ -13871,7 +13871,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod</source>
-        <translation type="unfinished"/>
+        <translation>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod</translation>
     </message>
     <message>
         <source>Update Link</source>
@@ -15208,7 +15208,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Abort (&amp;A)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Durdur</translation>
     </message>
     <message>
         <source>Retry (&amp;R)</source>
