@@ -7411,7 +7411,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>local</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli cihaz</translation>
     </message>
     <message>
         <source>Continue to sync</source>
@@ -11399,7 +11399,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"/>
+        <translation>Parola</translation>
     </message>
     <message>
         <source>QQ friends</source>
@@ -11410,7 +11410,7 @@ Free Space: about %1 MB</source>
     <name>KDeviceListViewDelegate</name>
     <message>
         <source>local</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli cihaz</translation>
     </message>
 </context>
 <context>
