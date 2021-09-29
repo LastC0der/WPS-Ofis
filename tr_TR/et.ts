@@ -7164,7 +7164,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"/>
+        <translation>Yerel</translation>
     </message>
     <message>
         <source>Month</source>
@@ -9933,7 +9933,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"/>
+        <translation>Çevir</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
