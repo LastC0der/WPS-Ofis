@@ -809,7 +809,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Slide show</source>
-        <translation type="unfinished"/>
+        <translation>Slayt gösterisi</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -2447,7 +2447,7 @@ Check</source>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"/>
+        <translation>Çevir</translation>
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
@@ -10472,7 +10472,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Gösterisi</translation>
     </message>
     <message>
         <source>Stacked</source>
@@ -13151,7 +13151,7 @@ Template</source>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Gösterisi</translation>
     </message>
     <message>
         <source>Delete Equation</source>
@@ -14866,7 +14866,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Gösterisi</translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -18170,7 +18170,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Gösterisi</translation>
     </message>
     <message>
         <source>Equation Tool</source>
@@ -21000,7 +21000,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Gösterisi</translation>
     </message>
     <message>
         <source>Add Effects</source>
@@ -21519,7 +21519,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Gösterisi</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -22205,7 +22205,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Gösterisi</translation>
     </message>
 </context>
 <context>
@@ -22260,7 +22260,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Gösterisi</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
