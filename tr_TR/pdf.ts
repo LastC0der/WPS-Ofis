@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>Furcation</source>
-        <translation type="unfinished"/>
+        <translation>Kesişim</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -282,7 +282,7 @@
     </message>
     <message>
         <source>point</source>
-        <translation type="unfinished"/>
+        <translation>Nokta</translation>
     </message>
     <message>
         <source>sixlines</source>
@@ -766,7 +766,7 @@
     </message>
     <message>
         <source>NormalSetting</source>
-        <translation type="unfinished"/>
+        <translation>Genel</translation>
     </message>
     <message>
         <source>Clip TB Anim</source>
@@ -1714,7 +1714,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Do you want to keep your ink annotations?</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep ek açıklamalarınızı saklamak istiyor musunuz?</translation>
     </message>
     <message>
         <source>The split rect width and height below 0.15cm</source>
@@ -2111,7 +2111,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>The current document need to be saved before compressed.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli belgenin sıkıştırılmadan önce kaydedilmesi gerekir.</translation>
     </message>
     <message>
         <source>because the file is not surpported or  damaged.</source>
@@ -2538,7 +2538,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Even pages only</source>
-        <translation type="unfinished"/>
+        <translation>Çift numaralı sayfalar</translation>
     </message>
     <message>
         <source>PIXEL</source>
@@ -4907,7 +4907,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Abort (&amp;A)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Durdur</translation>
     </message>
     <message>
         <source>Retry (&amp;R)</source>
@@ -5868,7 +5868,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Cloudy</source>
-        <translation type="unfinished"/>
+        <translation>Bulutlu</translation>
     </message>
     <message>
         <source>LineSpace</source>
@@ -6276,7 +6276,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FoldAllNote</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Notları Katla</translation>
     </message>
     <message>
         <source>RMunuOcrExtractImage</source>
@@ -6564,7 +6564,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"/>
+        <translation>Sürekli okuma</translation>
     </message>
     <message>
         <source>EditExit</source>
@@ -9483,7 +9483,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"/>
+        <translation>Sürekli Okuma</translation>
     </message>
     <message>
         <source>Go to Page</source>
@@ -11396,7 +11396,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Furcation</source>
-        <translation type="unfinished"/>
+        <translation>Kesişim</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -11998,7 +11998,7 @@ Pencere</translation>
     <name>KxPdfSelectAll</name>
     <message>
         <source>Select all text</source>
-        <translation type="unfinished"/>
+        <translation>Tüm metni seç</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -12240,7 +12240,7 @@ Pencere</translation>
     <name>KxPdfOutlineWidget</name>
     <message>
         <source>Delete a bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer işaretini sil</translation>
     </message>
     <message>
         <source>Save the current view as a bookmark</source>
@@ -12644,7 +12644,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>FoldAllNote</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Notları Katla</translation>
     </message>
     <message>
         <source>UnFoldAllNote</source>
@@ -12800,7 +12800,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Do you want to keep your ink annotations?</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep ek açıklamalarınızı saklamak istiyor musunuz?</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -14800,7 +14800,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>Even pages only</source>
-        <translation type="unfinished"/>
+        <translation>Çift numaralı sayfalar</translation>
     </message>
     <message>
         <source>PIXEL</source>
@@ -15068,7 +15068,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>记住以下设置</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki ayarları kaydedin</translation>
     </message>
     <message>
         <source>system printing service exception</source>
@@ -15294,7 +15294,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Printing: </source>
