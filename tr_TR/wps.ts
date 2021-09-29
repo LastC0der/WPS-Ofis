@@ -8662,7 +8662,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>template file</source>
@@ -15014,7 +15014,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Taşı</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -15222,7 +15222,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Taşı</translation>
     </message>
     <message>
         <source>Hide Lower Limit</source>
@@ -16182,7 +16182,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"/>
+        <translation>Çevir</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
@@ -19864,7 +19864,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Current page</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sayfa</translation>
     </message>
     <message>
         <source>Boo&amp;kmark</source>
@@ -20043,7 +20043,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Current page</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sayfa</translation>
     </message>
     <message>
         <source>Boo&amp;kmark</source>
@@ -21735,7 +21735,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"/>
+        <translation>Çevir</translation>
     </message>
     <message>
         <source>Light List Accent 1</source>
@@ -30113,11 +30113,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Taşı</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Taşı</translation>
     </message>
     <message>
         <source>Document Views</source>
@@ -32892,7 +32892,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"/>
+        <translation>Çevir</translation>
     </message>
     <message>
         <source>Translate selected text</source>
@@ -34255,7 +34255,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Taşı</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -34277,7 +34277,7 @@ Changes</source>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Taşı</translation>
     </message>
     <message>
         <source>Track Changes Options...</source>
@@ -36943,11 +36943,11 @@ Numarası</translation>
     <name>KxInsertCitationDlg</name>
     <message>
         <source>Year</source>
-        <translation type="unfinished"/>
+        <translation>Yıl</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"/>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>Author</source>
@@ -38758,7 +38758,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Current page</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sayfa</translation>
     </message>
     <message>
         <source>From current page</source>
@@ -41074,7 +41074,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsInsertDocBarcodeDlg</name>
     <message>
         <source>title</source>
-        <translation type="unfinished"/>
+        <translation>başlık</translation>
     </message>
     <message>
         <source>%1 cannot exceed %2 words.</source>
@@ -51817,7 +51817,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Taşı</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -51825,7 +51825,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Taşı</translation>
     </message>
     <message>
         <source>Document Views</source>
