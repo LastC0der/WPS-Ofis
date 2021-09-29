@@ -1151,7 +1151,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"/>
+        <translation>Parola</translation>
     </message>
     <message>
         <source>No password</source>
@@ -1322,7 +1322,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"/>
+        <translation>Parola</translation>
     </message>
     <message>
         <source>Have no account?</source>
