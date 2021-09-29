@@ -1889,7 +1889,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Windows Media Audio File(wma) (*.wma;*.wax)</source>
-        <translation type="unfinished"/>
+        <translation>Windows Media Ses Dosyası(wma) (*.wma;*.wax)</translation>
     </message>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.mp2;*.m3u)</source>
@@ -1897,7 +1897,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Windows Media Video File(wmv) (*.wmv;*.wvx)</source>
-        <translation type="unfinished"/>
+        <translation>Windows Media Ses Dosyası(wmv) (*.wmv;*.wvx)</translation>
     </message>
     <message>
         <source>Gallery Library</source>
@@ -1921,7 +1921,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Insert Slide Number</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Numarası Ekle</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation(*.ppt)</source>
@@ -4111,11 +4111,11 @@ Check</source>
     </message>
     <message>
         <source>After Previous</source>
-        <translation type="unfinished"/>
+        <translation>Öncekinden Sonra</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"/>
+        <translation>Özel Animasyon</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -4123,7 +4123,7 @@ Check</source>
     </message>
     <message>
         <source>&amp;Font Size</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Boy&amp;utu</translation>
     </message>
     <message>
         <source>Center Revolve</source>
@@ -5278,7 +5278,7 @@ Check</source>
     <message>
         <source>Custom Animation</source>
         <comment>wpp_CustomAnimation_DisplayName</comment>
-        <translation type="unfinished"/>
+        <translation>Özel Animasyon</translation>
     </message>
     <message>
         <source>Set up Show</source>
@@ -11211,7 +11211,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Numarası Ekle</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -11781,7 +11781,7 @@ Araçları</translation>
     </message>
     <message>
         <source>White Screen</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz Ekran</translation>
     </message>
     <message>
         <source>Above</source>
@@ -14455,7 +14455,7 @@ Slide</source>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"/>
+        <translation>Özel Animasyon</translation>
     </message>
     <message>
         <source>QRCode</source>
@@ -20305,7 +20305,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"/>
+        <translation>Özel Animasyon</translation>
     </message>
     <message>
         <source>: Shape </source>
@@ -20952,11 +20952,11 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>After Previous</source>
-        <translation type="unfinished"/>
+        <translation>Öncekinden Sonra</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"/>
+        <translation>Özel Animasyon</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -23910,7 +23910,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Do you want to keep your ink annotations?</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep ek açıklamalarınızı saklamak istiyor musunuz?</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
@@ -24673,7 +24673,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>After Previous</source>
-        <translation type="unfinished"/>
+        <translation>Öncekinden Sonra</translation>
     </message>
     <message>
         <source>Pat&amp;h:</source>
@@ -33397,7 +33397,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="unfinished"/>
+        <translation>Özel Animasyon</translation>
     </message>
     <message>
         <source>Transition</source>
