@@ -1676,7 +1676,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>33 %</source>
-        <translation type="unfinished"/>
+        <translation>% 33</translation>
     </message>
     <message>
         <source>50 %</source>
@@ -2745,7 +2745,7 @@ Check</source>
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation type="unfinished"/>
+        <translation>Özel Gösteriler</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
@@ -4217,7 +4217,7 @@ Check</source>
     </message>
     <message>
         <source>Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Sekizgen</translation>
     </message>
     <message>
         <source>Strips</source>
@@ -4650,7 +4650,7 @@ Check</source>
     </message>
     <message>
         <source>Trapezoid</source>
-        <translation type="unfinished"/>
+        <translation>Yamuk</translation>
     </message>
     <message>
         <source>Spiral Out</source>
@@ -4798,7 +4798,7 @@ Check</source>
     <message>
         <source>Descend</source>
         <comment>wpp_sAnimExitEffectTextAscend</comment>
-        <translation type="unfinished"/>
+        <translation>Azalan</translation>
     </message>
     <message>
         <source>From Top</source>
@@ -5004,7 +5004,7 @@ Check</source>
     </message>
     <message>
         <source>Descend</source>
-        <translation type="unfinished"/>
+        <translation>Azalan</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
@@ -5214,11 +5214,11 @@ Check</source>
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation type="unfinished"/>
+        <translation>Özel Gösteriler</translation>
     </message>
     <message>
         <source>Follow Text and Lines Scheme Color</source>
-        <translation type="unfinished"/>
+        <translation>Metin ve Çizgi Düzen Rengini Kullan</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -5228,11 +5228,11 @@ Check</source>
     <message>
         <source>Slide Transition</source>
         <comment>wpp_SlideTransition_DisplayName</comment>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi</translation>
     </message>
     <message>
         <source>Spiral Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Sarmal</translation>
     </message>
     <message>
         <source>Float</source>
@@ -5704,7 +5704,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi</translation>
     </message>
     <message>
         <source>The slide you selected to print does not exist. Please select another one.</source>
@@ -6829,7 +6829,7 @@ Body: Descend</source>
     <message>
         <source>Default Design</source>
         <comment>WpDefaultDesign</comment>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Tasarım</translation>
     </message>
     <message>
         <source>ClipArt Placeholder</source>
@@ -7083,7 +7083,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Title, Content and 2 Content</source>
-        <translation type="unfinished"/>
+        <translation>Başlık, İçerik ve 2 İçerik</translation>
     </message>
     <message>
         <source>Checkerboard Down</source>
@@ -7252,7 +7252,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Descend</source>
-        <translation type="unfinished"/>
+        <translation>Azalan</translation>
     </message>
     <message>
         <source>Slide Transition: No Transiton
@@ -7423,7 +7423,7 @@ Body: Unfold</source>
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation type="unfinished"/>
+        <translation>Özel Gösteriler</translation>
     </message>
     <message>
         <source>Drum Roll</source>
@@ -7886,15 +7886,15 @@ Body: Spinner</source>
     </message>
     <message>
         <source>Title, Media Clip and Text</source>
-        <translation type="unfinished"/>
+        <translation>Başlık, Medya Klibi ve Metin</translation>
     </message>
     <message>
         <source>Default Design</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Tasarım</translation>
     </message>
     <message>
         <source>Title and Content</source>
-        <translation type="unfinished"/>
+        <translation>Başlık ve İçerik</translation>
     </message>
     <message>
         <source>Sorry, you can not load the %1 add-in for some reason.</source>
@@ -7933,7 +7933,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi</translation>
     </message>
     <message>
         <source>Drag-and-Drop</source>
@@ -8508,7 +8508,7 @@ Ekle</translation>
     </message>
     <message>
         <source>2 cm</source>
-        <translation type="unfinished"/>
+        <translation>2 cm</translation>
     </message>
     <message>
         <source>3 cm</source>
@@ -10360,7 +10360,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Genişlet</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -12878,7 +12878,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Genişlet</translation>
     </message>
     <message>
         <source>Clear WordArt</source>
@@ -13861,7 +13861,7 @@ Master</source>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi</translation>
     </message>
     <message>
         <source>Outside End</source>
@@ -14194,7 +14194,7 @@ Slide</source>
     </message>
     <message>
         <source>Permission Protected</source>
-        <translation type="unfinished"/>
+        <translation>Koruma açık</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
@@ -15241,7 +15241,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi</translation>
     </message>
     <message>
         <source>Map</source>
@@ -19774,7 +19774,7 @@ Gösterileri</translation>
     </message>
     <message>
         <source>Title and Content</source>
-        <translation type="unfinished"/>
+        <translation>Başlık ve İçerik</translation>
     </message>
 </context>
 <context>
@@ -22268,7 +22268,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi</translation>
     </message>
 </context>
 <context>
@@ -24097,11 +24097,11 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Bulleted</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşaretli</translation>
     </message>
     <message>
         <source>Numbered</source>
-        <translation type="unfinished"/>
+        <translation>Numaralı</translation>
     </message>
     <message>
         <source>Bullet and Numbering</source>
@@ -24439,7 +24439,7 @@ Düzenleri</translation>
     </message>
     <message>
         <source>Custom Size</source>
-        <translation type="unfinished"/>
+        <translation>Özel Boyut</translation>
     </message>
     <message>
         <source>Reset Slide</source>
@@ -24525,7 +24525,7 @@ Slide Master</source>
     </message>
     <message>
         <source>Custom Size</source>
-        <translation type="unfinished"/>
+        <translation>Özel Boyut</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -25614,7 +25614,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Sound Options</source>
-        <translation type="unfinished"/>
+        <translation>Ses Seçenekleri</translation>
     </message>
 </context>
 <context>
@@ -26693,7 +26693,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Follow Text and Lines Scheme Color</source>
-        <translation type="unfinished"/>
+        <translation>Metin ve Çizgi Düzen Rengini Kullan</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
@@ -33848,11 +33848,12 @@ Settings</source>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="unfinished"/>
+        <translation>Slayt
+Geçişi</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi</translation>
     </message>
 </context>
 <context>
