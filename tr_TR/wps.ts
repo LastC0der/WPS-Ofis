@@ -1990,11 +1990,11 @@
     </message>
     <message>
         <source>Bulleted</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşaretli</translation>
     </message>
     <message>
         <source>Numbered</source>
-        <translation type="unfinished"/>
+        <translation>Numaralı</translation>
     </message>
     <message>
         <source>Engrave</source>
@@ -2757,7 +2757,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Default JS developer environment(&amp;Y)</source>
-        <translation type="unfinished"/>
+        <translation>Varsa&amp;yılan JS geliştirici ortamı</translation>
     </message>
     <message>
         <source>&amp;Paper orientation:</source>
@@ -17483,7 +17483,7 @@ Break</source>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>Paste Previous Content</source>
@@ -17657,7 +17657,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Permission Protected</source>
-        <translation type="unfinished"/>
+        <translation>Koruma açık</translation>
     </message>
     <message>
         <source>ReadingView Text Context Menu</source>
@@ -18736,7 +18736,7 @@ Screen</source>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>Geogebra</source>
