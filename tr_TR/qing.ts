@@ -3773,11 +3773,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Line up</source>
-        <translation type="unfinished"/>
+        <translation>Bir sıra yukarı</translation>
     </message>
     <message>
         <source>Line down</source>
-        <translation type="unfinished"/>
+        <translation>Bir sıra aşağı</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -9694,7 +9694,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>Q3MainWindow</name>
     <message>
         <source>Line up</source>
-        <translation type="unfinished"/>
+        <translation>Hizala</translation>
     </message>
     <message>
         <source>Customize...</source>
