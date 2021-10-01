@@ -1906,7 +1906,7 @@ Notice that doing so exposes you to risks of virus infection and hacking.</sourc
     </message>
     <message>
         <source>Website Navigation Page</source>
-        <translation type="unfinished"/>
+        <translation>Web Sitesi Gezinti Sayfası</translation>
     </message>
     <message>
         <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
@@ -1914,7 +1914,7 @@ Notice that doing so exposes you to risks of virus infection and hacking.</sourc
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Web sitesi gezinti sayfasının kilidini aç</translation>
     </message>
 </context>
 <context>
