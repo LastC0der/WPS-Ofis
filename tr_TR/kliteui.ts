@@ -590,7 +590,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Private Space</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Alan</translation>
     </message>
     <message>
         <source>Middle Icon</source>
