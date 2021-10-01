@@ -808,7 +808,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>&amp;Smart</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Akıllı</translation>
     </message>
     <message>
         <source>Extra print setting</source>
@@ -820,7 +820,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>The selected scale will be applied to the new table</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen ölçek yeni tabloya uygulanacaktır</translation>
     </message>
     <message>
         <source>&amp;Document tab</source>
@@ -912,7 +912,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Default JS developer environment(&amp;Y)</source>
-        <translation type="unfinished"/>
+        <translation>Varsa&amp;yılan JS geliştirici ortamı</translation>
     </message>
     <message>
         <source>Auto Filter</source>
@@ -1124,7 +1124,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Workbook (*.xls)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Excel 97/2000/XP/2003 Çalışma Kitabı (*.xls)</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
@@ -41753,7 +41753,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -50457,7 +50457,7 @@ Summary</source>
     <name>KxDlgGroupOutlineSettings</name>
     <message>
         <source>Summary rows &amp;below detail</source>
-        <translation type="unfinished"/>
+        <translation>Ay&amp;rıntı altında özet satırlar</translation>
     </message>
     <message>
         <source>Direction</source>
