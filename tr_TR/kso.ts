@@ -2688,7 +2688,7 @@ Download the XML expansion pack?</source>
     </message>
     <message>
         <source>Custom Shows</source>
-        <translation type="unfinished"/>
+        <translation>Özel Gösteriler</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -4079,33 +4079,33 @@ Used to show hierarchical relationships</source>
     <name>KxThemeFontGalleryModelItem</name>
     <message>
         <source>A</source>
-        <translation type="unfinished"/>
+        <translation>A</translation>
     </message>
     <message>
         <source>a</source>
-        <translation type="unfinished"/>
+        <translation>a</translation>
     </message>
 </context>
 <context>
     <name>KxThemesGalleryModelItem</name>
     <message>
         <source>A</source>
-        <translation type="unfinished"/>
+        <translation>A</translation>
     </message>
     <message>
         <source>a</source>
-        <translation type="unfinished"/>
+        <translation>a</translation>
     </message>
 </context>
 <context>
     <name>diagramConversion</name>
     <message>
         <source>G</source>
-        <translation type="unfinished"/>
+        <translation>G</translation>
     </message>
     <message>
         <source>S</source>
-        <translation type="unfinished"/>
+        <translation>S</translation>
     </message>
     <message>
         <source>SmartArt graphics can be displayed in previous versions, but not edited, in versions prior to WPS 2016. Any cell references previously applied to this diagram will be removed.</source>
@@ -4168,7 +4168,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Content Title</source>
-        <translation type="unfinished"/>
+        <translation>İçerik Başlığı</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -6029,7 +6029,7 @@ Ekle</translation>
     <message>
         <source>Trapezoid</source>
         <comment>DRAWING2_TOOLTIP_TRAPEZOID</comment>
-        <translation type="unfinished"/>
+        <translation>Yamuk</translation>
     </message>
     <message>
         <source>Circle Arrow</source>
@@ -6093,7 +6093,7 @@ Ekle</translation>
     <message>
         <source>Octagon</source>
         <comment>DRAWING2_TOOLTIP_OCTAGON</comment>
-        <translation type="unfinished"/>
+        <translation>Sekizgen</translation>
     </message>
     <message>
         <source>DarkOliveGreen</source>
@@ -6523,7 +6523,7 @@ Ekle</translation>
     <message>
         <source>Trapezoid</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRAPEZOID</comment>
-        <translation type="unfinished"/>
+        <translation>Yamuk</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -6692,16 +6692,16 @@ Ekle</translation>
     </message>
     <message>
         <source>LargeCheckerBoard</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dama Tahtası</translation>
     </message>
     <message>
         <source>Explosion 2</source>
         <comment>DRAWING2_TOOLTIP_EXPLOSION_2</comment>
-        <translation type="unfinished"/>
+        <translation>Patlama 2</translation>
     </message>
     <message>
         <source>Chocolate</source>
-        <translation type="unfinished"/>
+        <translation>Çikolata</translation>
     </message>
     <message>
         <source>Curved Down Arrow</source>
@@ -6715,11 +6715,11 @@ Ekle</translation>
     </message>
     <message>
         <source>Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Sekizgen</translation>
     </message>
     <message>
         <source>Left-Far Right-Near</source>
-        <translation type="unfinished"/>
+        <translation>Sola Soldur</translation>
     </message>
     <message>
         <source>Strong</source>
@@ -7133,7 +7133,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Explosion 2</source>
-        <translation type="unfinished"/>
+        <translation>Patlama 2</translation>
     </message>
     <message>
         <source>Cube</source>
@@ -8084,7 +8084,7 @@ Line-type: %3</source>
     <message>
         <source>Octagon</source>
         <comment>DRAWING2STR_OCTAGON</comment>
-        <translation type="unfinished"/>
+        <translation>Sekizgen</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -9250,7 +9250,7 @@ Line-type: %3</source>
     <message>
         <source>Explosion 2</source>
         <comment>DRAWING2STR_EXPLOSION_2</comment>
-        <translation type="unfinished"/>
+        <translation>Patlama 2</translation>
     </message>
     <message>
         <source>Thick-Thin </source>
@@ -9268,7 +9268,7 @@ Line-type: %3</source>
     <message>
         <source>Trapezoid</source>
         <comment>DRAWING2STR_TRAPEZOID</comment>
-        <translation type="unfinished"/>
+        <translation>Yamuk</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -16417,7 +16417,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Apply Time:</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru Tarihi:</translation>
     </message>
     <message>
         <source>&amp;Search</source>
@@ -21787,11 +21787,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>SERIES LINE</source>
-        <translation type="unfinished"/>
+        <translation>SERİ ÇİZGİSİ</translation>
     </message>
     <message>
         <source>LEADER LINE</source>
-        <translation type="unfinished"/>
+        <translation>ÖNCÜ ÇİZGİ</translation>
     </message>
     <message>
         <source>TRENDLINE</source>
@@ -21878,7 +21878,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Leader Line</source>
-        <translation type="unfinished"/>
+        <translation>Öncü Çizgi</translation>
     </message>
     <message>
         <source>Up-Bars</source>
@@ -26062,7 +26062,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Private Space</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Alan</translation>
     </message>
     <message>
         <source>Middle Icon</source>
@@ -26732,7 +26732,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüsü</translation>
     </message>
 </context>
 <context>
@@ -26871,7 +26871,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Private Space</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Alan</translation>
     </message>
     <message>
         <source>My Circle</source>
@@ -27868,7 +27868,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Error while reading: %1</source>
-        <translation type="unfinished"/>
+        <translation>Okunurken hata oluştu: %1</translation>
     </message>
     <message>
         <source>Error loading private key, %1</source>
@@ -29338,7 +29338,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>&amp;Curved</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eğri</translation>
     </message>
     <message>
         <source>&amp;Straight</source>
@@ -30505,7 +30505,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>IVTTS - failed to create speech for the text.</source>
-        <translation type="unfinished"/>
+        <translation>IVTTS - metin için konuşma oluşturulamadı.</translation>
     </message>
     <message>
         <source>IVTTS - failed to read text.</source>
@@ -30727,7 +30727,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Private Space</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Alan</translation>
     </message>
     <message>
         <source>My Circle</source>
@@ -33846,7 +33846,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Apply Time:</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru Tarihi:</translation>
     </message>
     <message>
         <source>Opeartion</source>
@@ -34149,7 +34149,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Invalid HTTP chunked body</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz HTTP yığın gövdesi</translation>
     </message>
     <message>
         <source>Host %1 found</source>
