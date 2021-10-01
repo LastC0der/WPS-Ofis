@@ -4869,7 +4869,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Error while reading: %1</source>
-        <translation type="unfinished"/>
+        <translation>Okunurken hata oluştu: %1</translation>
     </message>
     <message>
         <source>Error loading private key, %1</source>
@@ -8056,7 +8056,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Invalid HTTP chunked body</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz HTTP yığın gövdesi</translation>
     </message>
     <message>
         <source>Host %1 found</source>
