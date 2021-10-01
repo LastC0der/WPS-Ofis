@@ -13762,7 +13762,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Cannot find object.</source>
-        <translation type="unfinished"/>
+        <translation>Nesne bulunamıyor.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find any data to replace. Check if your search formatting and criteria are defined correctly. If you are sure that matching data exists in this workbook, it may be on a protected sheet. WPS Spreadsheets cannot replace data on a protected worksheet.</source>
@@ -17345,7 +17345,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation type="unfinished"/>
+        <translation>Arkadaşlara tavsiye edin</translation>
     </message>
     <message>
         <source>Angle Counterclockwise</source>
@@ -29813,7 +29813,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Göster</translation>
     </message>
     <message>
         <source>Ever Sheet</source>
@@ -32978,7 +32978,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>R&amp;esume</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;evam Et</translation>
     </message>
     <message>
         <source>The error check is complete for the entire sheet.</source>
@@ -38946,7 +38946,7 @@ Source</source>
     </message>
     <message>
         <source>Labels</source>
-        <translation type="unfinished"/>
+        <translation>Etiketler</translation>
     </message>
     <message>
         <source>Field Buttons</source>
@@ -38958,7 +38958,7 @@ Source</source>
     </message>
     <message>
         <source>List Formulas</source>
-        <translation type="unfinished"/>
+        <translation>Formülleri Listele</translation>
     </message>
     <message>
         <source>Values</source>
@@ -40292,7 +40292,7 @@ Center</source>
     </message>
     <message>
         <source>Clea&amp;r</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;izle</translation>
     </message>
     <message>
         <source>Double</source>
@@ -40843,7 +40843,7 @@ Center</source>
     </message>
     <message>
         <source>More Color Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk Düzeni</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
@@ -41172,7 +41172,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Labels</source>
-        <translation type="unfinished"/>
+        <translation>Etiketler</translation>
     </message>
     <message>
         <source>Select</source>
@@ -41180,7 +41180,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>List Formulas</source>
-        <translation type="unfinished"/>
+        <translation>Formülleri Listele</translation>
     </message>
     <message>
         <source>Values</source>
@@ -43239,7 +43239,7 @@ Yakınlaştırma</translation>
     </message>
     <message>
         <source>Image Control</source>
-        <translation type="unfinished"/>
+        <translation>Resim Denetimi</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
@@ -43255,7 +43255,7 @@ Yakınlaştırma</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Parlaklık:</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -43330,7 +43330,7 @@ Yakınlaştırma</translation>
     </message>
     <message>
         <source>Pagination Settings</source>
-        <translation type="unfinished"/>
+        <translation>Sayfalandırma Ayarları</translation>
     </message>
     <message>
         <source>Align</source>
@@ -43411,7 +43411,7 @@ Boşlukları</translation>
     </message>
     <message>
         <source>More Color Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk Düzeni</translation>
     </message>
     <message>
         <source>No Zoom</source>
@@ -43626,7 +43626,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Sort options</source>
-        <translation type="unfinished"/>
+        <translation>Sıralama seçenekleri</translation>
     </message>
     <message>
         <source>&amp;Manual (you can drag items to rearrange them)</source>
@@ -43634,7 +43634,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Mo&amp;re Options...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diğer Seçenekler...</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -45478,7 +45478,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Clea&amp;r</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;izle</translation>
     </message>
     <message>
         <source>Description</source>
@@ -47192,7 +47192,7 @@ Document</source>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konu:</translation>
     </message>
     <message>
         <source>&amp;Remove Link</source>
@@ -48663,7 +48663,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Sort Options</source>
-        <translation type="unfinished"/>
+        <translation>Sıralama Seçenekleri</translation>
     </message>
     <message>
         <source>&amp;Sort by alphabet</source>
@@ -49346,7 +49346,7 @@ Repeat Item Labels</source>
     <name>KxExportPDFDlg</name>
     <message>
         <source>Save PDF File</source>
-        <translation type="unfinished"/>
+        <translation>PDF dosyasını kaydet</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
@@ -52316,7 +52316,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxWidgetPatterns</name>
     <message>
         <source>Clea&amp;r</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;izle</translation>
     </message>
     <message>
         <source>Sample</source>
@@ -58239,7 +58239,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>More Color Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk Düzeni</translation>
     </message>
     <message>
         <source>No Zoom</source>
@@ -59528,7 +59528,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>More Color Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk Düzeni</translation>
     </message>
     <message>
         <source>Solver</source>
