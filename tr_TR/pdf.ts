@@ -2913,7 +2913,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Delete Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları Sil</translation>
     </message>
     <message>
         <source>bottom</source>
@@ -3154,7 +3154,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Delete Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları Sil</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4741,7 +4741,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Only change current page</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca geçerli sayfayı ayarla</translation>
     </message>
     <message>
         <source>The original page is processed after segmentation</source>
@@ -5292,7 +5292,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Dot</source>
-        <translation type="unfinished"/>
+        <translation>Nokta</translation>
     </message>
     <message>
         <source>FormFillingDate Point</source>
@@ -5776,7 +5776,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Delete Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları Sil</translation>
     </message>
     <message>
         <source>RightMenuPdf2Office</source>
@@ -6656,7 +6656,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Resmi Görüntüle</translation>
     </message>
     <message>
         <source>Encrypt</source>
@@ -7441,7 +7441,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Göster</translation>
     </message>
     <message>
         <source>Tab_Postil</source>
@@ -8249,7 +8249,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation type="unfinished"/>
+        <translation>Arkadaşlara tavsiye edin</translation>
     </message>
     <message>
         <source>HyperLink</source>
@@ -9423,7 +9423,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>WPS Ofis Yeni Özellikler</translation>
+        <translation>Yeni özellikler</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -10475,7 +10475,8 @@ input 1,6, means extract page 1 and 6</source>
     <message>
         <source>Page
 Navigation</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa
+Gezintisi</translation>
     </message>
     <message>
         <source>Place on Left</source>
@@ -11458,7 +11459,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Küçük Resim</translation>
     </message>
 </context>
 <context>
@@ -12333,7 +12334,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation type="unfinished"/>
+        <translation>Arkadaşlara tavsiye edin</translation>
     </message>
     <message>
         <source>Annotate</source>
@@ -12368,7 +12369,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation type="unfinished"/>
+        <translation>Arkadaşlara tavsiye edin</translation>
     </message>
     <message>
         <source>Form Filling</source>
@@ -12399,7 +12400,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Resim</translation>
     </message>
     <message>
         <source>Zoom Out Thumbnail</source>
@@ -15118,7 +15119,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>下：</source>
-        <translation type="unfinished"/>
+        <translation>Alt Kenar Boşluğu:</translation>
     </message>
     <message>
         <source>左：</source>
