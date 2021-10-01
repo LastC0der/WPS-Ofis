@@ -5664,7 +5664,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Permission Protected</source>
-        <translation type="unfinished"/>
+        <translation>Koruma açık</translation>
     </message>
     <message>
         <source>TranslationAll</source>
