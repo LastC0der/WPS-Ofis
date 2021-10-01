@@ -828,7 +828,7 @@
     </message>
     <message>
         <source>Fit text</source>
-        <translation type="unfinished"/>
+        <translation>Metni sığdır</translation>
     </message>
     <message>
         <source>Arabic(Algeria);Arabic(Bahrain);Arabic(Egypt);Arabic(Iraq);Arabic(Jordan);Arabic(Kuwait);Arabic(Lebanon);Arabic(Libya);Arabic(Morocco);Arabic(Oman);Arabic(Qatar);Arabic(Saudi Arabia);Arabic(Syria);Arabic(Tunisia);Arabic(United Arab Emirates);Arabic(Yemen);Spanish(Argentina);Spanish(Bolivia);Spanish(Chile);Spanish(Colombia);Spanish(Costa Rica);Spanish(Dominican Republic);Spanish(Ecuador);Spanish(El Salvador);Spain Language(Guatemala);Spanish(Honduras);Spanish(Mexico);Spanish(Nicaragua);Spanish(Panama);Spanish(Paraguay);Spanish(Peru);Spanish(Puerto Rico);Spanish(International Style);Spanish(Traditional Language);Spanish(Uruguay);Spanish(Venezuela);Bulgarian;The Burmese;Danish;Dutch(Belgium);Dutch(Netherlands);Irish Bengali(Bangladesh):5121;15361;3073;2049;11265;13313;12289;4097;6145;8193;16385;1025;10241;7169;14337;9217;11274;16394;13322;9226;5130;7178;12298;17418;4106;18442;2058;19466;6154;15370;10250;20490;3082;1034;14346;8202;1093;1026;1109;1030;2067;1043;2108</source>
@@ -2713,7 +2713,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished"/>
+        <translation>Değiştirme iz&amp;ni</translation>
     </message>
     <message>
         <source>Discern &amp;person(only effective in Chinese)</source>
@@ -2997,7 +2997,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Show revisions in balloons</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltmeleri balonlarda göster</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
@@ -4600,7 +4600,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>90%</source>
-        <translation>%90</translation>
+        <translation>90%</translation>
     </message>
     <message>
         <source>95%</source>
@@ -4825,7 +4825,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished"/>
+        <translation>Seçili bölümlere</translation>
     </message>
     <message>
         <source>The value must not be blank.</source>
@@ -16306,7 +16306,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>WPS Ofis Yeni Özellikler</translation>
+        <translation>Yeni özellikler</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -17254,7 +17254,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama</translation>
     </message>
     <message>
         <source>Professional</source>
@@ -17433,7 +17433,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Fit Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Sığdır</translation>
     </message>
     <message>
         <source>Split Window</source>
@@ -20662,35 +20662,35 @@ Changes</source>
     </message>
     <message>
         <source>Table List 1</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Liste 1</translation>
     </message>
     <message>
         <source>Table List 2</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Liste 2</translation>
     </message>
     <message>
         <source>Table List 3</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Liste 3</translation>
     </message>
     <message>
         <source>Table List 4</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Liste 4</translation>
     </message>
     <message>
         <source>Table List 5</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Liste 5</translation>
     </message>
     <message>
         <source>Table List 6</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Liste 6</translation>
     </message>
     <message>
         <source>Table List 7</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Liste 7</translation>
     </message>
     <message>
         <source>Table List 8</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Liste 8</translation>
     </message>
     <message>
         <source>Format Frame</source>
@@ -24739,7 +24739,7 @@ Yönü</translation>
     </message>
     <message>
         <source>More Color Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk Düzeni</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -28784,7 +28784,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltmeleri Balonlarda Göster</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
@@ -32767,7 +32767,7 @@ Number</source>
     </message>
     <message>
         <source>More Color Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk Düzeni</translation>
     </message>
     <message>
         <source>Change Num</source>
@@ -34030,7 +34030,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"/>
+        <translation>Göz Koruma Modu</translation>
     </message>
     <message>
         <source>I have a suggestion</source>
@@ -34383,11 +34383,11 @@ Sayısı</translation>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation type="unfinished"/>
+        <translation>Hata Denetimi</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltmeleri Balonlarda Göster</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
@@ -34395,7 +34395,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Previous Change</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Değişiklik</translation>
     </message>
     <message>
         <source>Language</source>
@@ -34407,11 +34407,11 @@ Sayısı</translation>
     </message>
     <message>
         <source>Hide Source Documents</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Belgeleri Gizle</translation>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Adını Değiştir...</translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -38415,7 +38415,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Sort Options</source>
-        <translation type="unfinished"/>
+        <translation>Sıralama Seçenekleri</translation>
     </message>
     <message>
         <source>So&amp;rt column only</source>
@@ -42221,7 +42221,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Cus&amp;tomize...</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;zelleştir...</translation>
     </message>
     <message>
         <source>Custom &amp;List</source>
@@ -48867,7 +48867,7 @@ Efektler</translation>
     </message>
     <message>
         <source>More Color Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk Düzeni</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -52664,7 +52664,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltmeleri Balonlarda Göster</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
@@ -52676,7 +52676,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Previous Change</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Değişiklik</translation>
     </message>
     <message>
         <source>Language</source>
@@ -52684,11 +52684,11 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"/>
+        <translation>Gözden Geçirme Bölmesi</translation>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Adını Değiştir...</translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -53426,7 +53426,7 @@ to Email</source>
     </message>
     <message>
         <source>More Color Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk Düzeni</translation>
     </message>
     <message>
         <source>Text Speech</source>
