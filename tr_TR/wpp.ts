@@ -2407,7 +2407,7 @@ Check</source>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Ayarları</translation>
     </message>
     <message>
         <source>Select Audio On This Slide</source>
@@ -3409,7 +3409,7 @@ Check</source>
     </message>
     <message>
         <source>Elbow</source>
-        <translation type="unfinished"/>
+        <translation>Dirsek</translation>
     </message>
     <message>
         <source>End: </source>
@@ -3445,7 +3445,7 @@ Check</source>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"/>
+        <translation>Notlar</translation>
     </message>
     <message>
         <source>Path:</source>
@@ -4401,7 +4401,7 @@ Check</source>
     </message>
     <message>
         <source>Next slide</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki slayt</translation>
     </message>
     <message>
         <source>To Top Left</source>
@@ -6855,7 +6855,7 @@ Body: Unfold</source>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Ayarları</translation>
     </message>
     <message>
         <source>Push Up</source>
@@ -11156,7 +11156,7 @@ Araçları</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Slayt</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
@@ -11199,7 +11199,7 @@ Araçları</translation>
     <name>wpp_textbean</name>
     <message>
         <source>&lt;#&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;#&gt;</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -11219,7 +11219,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Ayarları</translation>
     </message>
     <message>
         <source>&lt;date/time&gt;</source>
@@ -12849,7 +12849,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Ayarları</translation>
     </message>
     <message>
         <source>Web Preview</source>
@@ -12998,7 +12998,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>WPS Ofis Yeni Özellikler</translation>
+        <translation>Yeni özellikler</translation>
     </message>
     <message>
         <source>Use Destination Theme</source>
@@ -16308,7 +16308,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>More Color Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk Düzeni</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
@@ -22737,7 +22737,7 @@ Music</source>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Ayarları</translation>
     </message>
     <message>
         <source>Package File</source>
@@ -22882,7 +22882,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Next slide</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki slayt</translation>
     </message>
     <message>
         <source>Switch Screen</source>
@@ -23821,7 +23821,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Next slide</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki slayt</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -23833,7 +23833,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Ayarları</translation>
     </message>
     <message>
         <source>Mouse Over</source>
@@ -24419,7 +24419,7 @@ Düzenleri</translation>
     </message>
     <message>
         <source>More Color Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Renk Düzeni</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -25097,7 +25097,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"/>
+        <translation>Notlar</translation>
     </message>
     <message>
         <source>Print</source>
@@ -25983,7 +25983,7 @@ Bölmesi</translation>
     <name>KxExportOFDDlg</name>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"/>
+        <translation>Notlar</translation>
     </message>
     <message>
         <source>All slides in current presentation are hidden.</source>
@@ -26066,11 +26066,11 @@ Bölmesi</translation>
     <name>KxExportPDFDlg</name>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"/>
+        <translation>Notlar</translation>
     </message>
     <message>
         <source>Save PDF File</source>
-        <translation type="unfinished"/>
+        <translation>PDF dosyasını kaydet</translation>
     </message>
     <message>
         <source>All slides in current presentation are hidden.</source>
@@ -26924,7 +26924,7 @@ Gizle</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Slayt</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
@@ -27863,7 +27863,7 @@ Master</source>
     </message>
     <message>
         <source>Next Slide</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Slayt</translation>
     </message>
     <message>
         <source>Slide Title</source>
@@ -29767,7 +29767,7 @@ Ekle</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Slayt</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -33236,7 +33236,7 @@ Music</source>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Ayarları</translation>
     </message>
     <message>
         <source>Insert File Object</source>
