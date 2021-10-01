@@ -2038,7 +2038,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>Next Slide</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Slayt</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -7159,7 +7159,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Down Arc</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı Yay</translation>
     </message>
     <message>
         <source>YellowGreen</source>
@@ -7640,7 +7640,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Dovetail Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Çentikli Sağ Ok</translation>
     </message>
     <message>
         <source>Violet</source>
@@ -7906,7 +7906,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Right Angle Up Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Bükülü Ok</translation>
     </message>
     <message>
         <source>Lightning Bolt</source>
@@ -10389,7 +10389,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Retry (&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeniden Dene</translation>
     </message>
     <message>
         <source>Yes (&amp;Y)</source>
@@ -16405,7 +16405,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>File Name:</source>
-        <translation type="unfinished"/>
+        <translation>Belge Adı:</translation>
     </message>
     <message>
         <source>My Permission Apply</source>
@@ -19253,7 +19253,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Custom Combination</source>
-        <translation type="unfinished"/>
+        <translation>Özel Birleşim</translation>
     </message>
     <message>
         <source>Volume-High-Low-Close</source>
@@ -19321,7 +19321,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Series name</source>
-        <translation type="unfinished"/>
+        <translation>Seri adı</translation>
     </message>
     <message>
         <source>X Y(Scatter)</source>
@@ -19496,7 +19496,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Custom Combination</source>
-        <translation type="unfinished"/>
+        <translation>Özel Birleşim</translation>
     </message>
     <message>
         <source>Volume-High-Low-Close</source>
@@ -19564,7 +19564,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Series name</source>
-        <translation type="unfinished"/>
+        <translation>Seri adı</translation>
     </message>
     <message>
         <source>X Y(Scatter)</source>
@@ -19615,7 +19615,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Dot</source>
-        <translation type="unfinished"/>
+        <translation>Nokta</translation>
     </message>
     <message>
         <source>Plus</source>
@@ -19667,7 +19667,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Remove Opening Bracket</source>
-        <translation type="unfinished"/>
+        <translation>Açılış Ayracını Kaldır</translation>
     </message>
     <message>
         <source>Right Triangle</source>
@@ -21704,7 +21704,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>ERROR BAR</source>
-        <translation type="unfinished"/>
+        <translation>HATA ÇUBUĞU</translation>
     </message>
     <message>
         <source>Reset To Match Style</source>
@@ -21763,7 +21763,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Error Bar</source>
-        <translation type="unfinished"/>
+        <translation>Hata Çubuğu</translation>
     </message>
     <message>
         <source>Up/Down Bars</source>
@@ -22692,11 +22692,11 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Popular Commands</source>
-        <translation type="unfinished"/>
+        <translation>Popüler Komutlar</translation>
     </message>
     <message>
         <source>Cus&amp;tomize...</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;zelleştir...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -22928,11 +22928,11 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Line up</source>
-        <translation type="unfinished"/>
+        <translation>Bir sıra yukarı</translation>
     </message>
     <message>
         <source>Line down</source>
-        <translation type="unfinished"/>
+        <translation>Bir sıra aşağı</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -23911,7 +23911,7 @@ Possible reasons:
     </message>
     <message>
         <source>ALIGNMENT</source>
-        <translation type="unfinished"/>
+        <translation>HİZALAMA</translation>
     </message>
     <message>
         <source>COLOR SATURATION</source>
@@ -24123,7 +24123,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>File Name:</source>
-        <translation type="unfinished"/>
+        <translation>Belge Adı:</translation>
     </message>
     <message>
         <source>Apply Permissions:</source>
@@ -25366,7 +25366,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Popular Commands</source>
-        <translation type="unfinished"/>
+        <translation>Popüler Komutlar</translation>
     </message>
     <message>
         <source>&amp;Add &gt;&gt;</source>
@@ -25435,7 +25435,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yedeklemeyi Görüntüle</translation>
     </message>
 </context>
 <context>
@@ -25512,7 +25512,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Co&amp;ntrast:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Karşıtlık:</translation>
     </message>
     <message>
         <source>Crop from</source>
@@ -25528,7 +25528,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Image control</source>
-        <translation type="unfinished"/>
+        <translation>Resim denetimi</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
@@ -25536,7 +25536,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Parlaklık:</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -26150,7 +26150,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Restore</source>
@@ -26198,7 +26198,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Küçük Resim</translation>
     </message>
     <message>
         <source>Super Icon</source>
@@ -26242,7 +26242,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Big Icon</source>
-        <translation>Büyük Simge</translation>
+        <translation>&amp;Büyük Simgeler</translation>
     </message>
     <message>
         <source>Detail View</source>
@@ -27770,7 +27770,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -29615,7 +29615,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>File Name:</source>
-        <translation>Dosya Adı:</translation>
+        <translation>Belge Adı:</translation>
     </message>
     <message>
         <source>Print Permission</source>
@@ -29955,7 +29955,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>LABELS</source>
-        <translation type="unfinished"/>
+        <translation>ETİKETLER</translation>
     </message>
     <message>
         <source>NUMBER</source>
@@ -31433,7 +31433,7 @@ Document</source>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konu:</translation>
     </message>
     <message>
         <source>&amp;Remove Link</source>
@@ -34494,7 +34494,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -35305,7 +35305,7 @@ Please check network</source>
     </message>
     <message>
         <source>Recivers</source>
-        <translation type="unfinished"/>
+        <translation>Alıcılar</translation>
     </message>
     <message>
         <source>&amp;Submit</source>
@@ -36915,7 +36915,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>Q3MainWindow</name>
     <message>
         <source>Line up</source>
-        <translation type="unfinished"/>
+        <translation>Hizala</translation>
     </message>
     <message>
         <source>Customize...</source>
@@ -37565,7 +37565,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -38077,7 +38077,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -38634,7 +38634,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -38712,7 +38712,7 @@ p, li { white-space: pre-wrap; }
     <name>KDrawButton</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -38723,7 +38723,7 @@ p, li { white-space: pre-wrap; }
     <name>KDrawCheckBox</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -38734,7 +38734,7 @@ p, li { white-space: pre-wrap; }
     <name>KDrawComboBox</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -38745,7 +38745,7 @@ p, li { white-space: pre-wrap; }
     <name>KDrawMenu</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -38756,7 +38756,7 @@ p, li { white-space: pre-wrap; }
     <name>KDrawTreeCtrl</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -38767,7 +38767,7 @@ p, li { white-space: pre-wrap; }
     <name>KTooltipCtrl</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Recommended save as specify format</source>
