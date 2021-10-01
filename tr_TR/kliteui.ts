@@ -686,7 +686,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Restore</source>
@@ -742,7 +742,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Küçük Resim</translation>
     </message>
     <message>
         <source>Super Icon</source>
@@ -774,7 +774,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Big Icon</source>
-        <translation>Büyük Simge</translation>
+        <translation>&amp;Büyük Simgeler</translation>
     </message>
     <message>
         <source>Detail View</source>
@@ -908,7 +908,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1009,7 +1009,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1146,7 +1146,7 @@ please wait</source>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1195,7 +1195,7 @@ please wait</source>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
@@ -1219,7 +1219,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1263,7 +1263,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1308,7 +1308,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KDrawButton</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1319,7 +1319,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KDrawCheckBox</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1330,7 +1330,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KDrawComboBox</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1341,7 +1341,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KDrawMenu</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1352,7 +1352,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KDrawTreeCtrl</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1363,7 +1363,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KSwitchButton</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -1374,7 +1374,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KTooltipCtrl</name>
     <message>
         <source>Default Font</source>
-        <translation>Varsayılan Yazı Tipi</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <source>Recommended save as specify format</source>
