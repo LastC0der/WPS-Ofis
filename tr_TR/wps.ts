@@ -15487,7 +15487,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert Bullet</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşareti Ekle</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -16821,7 +16821,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Delete Row</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sil</translation>
     </message>
     <message>
         <source>OnlineDiagram</source>
@@ -26510,7 +26510,7 @@ Düzen</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Denetimler</translation>
     </message>
     <message>
         <source>Control 
@@ -30841,7 +30841,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Insert Bullet</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşareti Ekle</translation>
     </message>
     <message>
         <source>Height</source>
@@ -31829,7 +31829,7 @@ Ekle</translation>
     </message>
     <message>
         <source>InsertProcesson_Mind</source>
-        <translation type="unfinished"/>
+        <translation>Zihin eşlemesi ekle</translation>
     </message>
     <message>
         <source>Quick Parts</source>
@@ -32594,7 +32594,7 @@ Number</source>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"/>
+        <translation>Haberler</translation>
     </message>
     <message>
         <source>Save</source>
@@ -33108,7 +33108,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"/>
+        <translation>Haberler</translation>
     </message>
     <message>
         <source>View</source>
@@ -36735,7 +36735,7 @@ Ekle</translation>
     </message>
     <message>
         <source>InsertProcesson_Mind</source>
-        <translation type="unfinished"/>
+        <translation>Zihin eşlemesi ekle</translation>
     </message>
     <message>
         <source>Quick Parts</source>
@@ -39943,7 +39943,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Denetimler</translation>
     </message>
     <message>
         <source>Command Button</source>
@@ -49561,7 +49561,7 @@ Düzen</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Denetimler</translation>
     </message>
     <message>
         <source>Command Button</source>
