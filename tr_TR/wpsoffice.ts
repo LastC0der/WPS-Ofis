@@ -831,7 +831,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Local file</source>
-        <translation type="unfinished"/>
+        <translation>Yerel dosya</translation>
     </message>
     <message>
         <source>locally connected</source>
