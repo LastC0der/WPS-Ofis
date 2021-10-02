@@ -626,7 +626,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Local file</source>
-        <translation type="unfinished"/>
+        <translation>Yerel dosya</translation>
     </message>
     <message>
         <source>locally connected</source>
@@ -4042,7 +4042,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>app.wps.cn</source>
-        <translation type="unfinished"/>
+        <translation>app.wps.cn</translation>
     </message>
     <message>
         <source>Download failed. The file does not exist.</source>
