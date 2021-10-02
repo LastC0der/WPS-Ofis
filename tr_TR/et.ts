@@ -5863,7 +5863,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>One or more of the specified values is not a valid percentile.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen değerlerden biri veya daha fazlası geçerli bir yüzdelik dilim değil.</translation>
     </message>
     <message>
         <source>One or more of the specified values is not a valid percentage.</source>
@@ -7082,11 +7082,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Degrees_freedom 1</source>
-        <translation type="unfinished"/>
+        <translation>Serb_derecesi 1</translation>
     </message>
     <message>
         <source>Degrees_freedom 2</source>
-        <translation type="unfinished"/>
+        <translation>Serb_derecesi 2</translation>
     </message>
     <message>
         <source>is a parameter to the distribution and must be greater than 0.</source>
@@ -7139,7 +7139,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Group_separator</source>
-        <translation type="unfinished"/>
+        <translation>Grup_ayırıcı</translation>
     </message>
     <message>
         <source>Guess</source>
@@ -7147,7 +7147,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>I_num</source>
-        <translation type="unfinished"/>
+        <translation>Karm_sayı</translation>
     </message>
     <message>
         <source>is an optional array of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
@@ -7208,7 +7208,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>To_a1</source>
-        <translation type="unfinished"/>
+        <translation>Hdf_a1</translation>
     </message>
     <message>
         <source>Topic</source>
@@ -7241,7 +7241,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Number_chosen</source>
-        <translation type="unfinished"/>
+        <translation>Sayı_seçilen</translation>
     </message>
     <message>
         <source>Y_num</source>
@@ -7277,7 +7277,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Type_num</source>
-        <translation type="unfinished"/>
+        <translation>Tür_num</translation>
     </message>
     <message>
         <source>is the length of the text string that contains the characters you want to extract.</source>
@@ -7354,7 +7354,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>Start_date</source>
         <comment>TX_ParaInfo_384</comment>
-        <translation type="unfinished"/>
+        <translation>Başlangıç_tarihi</translation>
     </message>
     <message>
         <source>is either the label of the column in double quotation marks or a number that represents the column&apos;s position in the list.</source>
@@ -7569,7 +7569,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Lookup_array</source>
-        <translation type="unfinished"/>
+        <translation>Aranan_dizi</translation>
     </message>
     <message>
         <source>Start_num</source>
@@ -7579,7 +7579,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>Weekend</source>
         <comment>TX_ParaInfo_386</comment>
-        <translation type="unfinished"/>
+        <translation>Hafta Sonu</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -7634,7 +7634,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>Instance_num</source>
-        <translation type="unfinished"/>
+        <translation>Yineleme_sayısı</translation>
     </message>
     <message>
         <source>is the second range or array of numbers.</source>
@@ -7662,7 +7662,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>Y_resolution</source>
-        <translation type="unfinished"/>
+        <translation>Y_çözünürlük</translation>
     </message>
     <message>
         <source>is a number: rank in the list sorted descending = 0 or omitted; rank in the list sorted ascending = any nonzero value.</source>
@@ -7914,7 +7914,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>Calc_save</source>
-        <translation type="unfinished"/>
+        <translation>Hesapla_kaydet</translation>
     </message>
     <message>
         <source>There are condition formats in the range. The condition formats will be modified if continuing.</source>
@@ -7943,7 +7943,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>Field_name</source>
-        <translation type="unfinished"/>
+        <translation>Alan_adı</translation>
     </message>
     <message>
         <source>Old_text</source>
@@ -8020,7 +8020,7 @@ Kaldır</translation>
     <message>
         <source>Display_type</source>
         <comment>TX_ParaInfo_401</comment>
-        <translation type="unfinished"/>
+        <translation>Görüntü Modu</translation>
     </message>
     <message>
         <source>%d duplicates are found, which have been deleted; Only keep %d unique value.</source>
@@ -8052,7 +8052,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>Module_text</source>
-        <translation type="unfinished"/>
+        <translation>Modül_metni</translation>
     </message>
     <message>
         <source>is a parameter to distribution, a positive number.</source>
@@ -8092,7 +8092,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Add_logical</source>
-        <translation type="unfinished"/>
+        <translation>Ekle_mantıksal</translation>
     </message>
     <message>
         <source>is the value to be found in the first row of the table and can be a value, a reference, or a text string.</source>
@@ -8143,7 +8143,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Number_times</source>
-        <translation type="unfinished"/>
+        <translation>Sayı_kere</translation>
     </message>
     <message>
         <source>Formula_text</source>
@@ -10247,11 +10247,11 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Macro_type</source>
-        <translation type="unfinished"/>
+        <translation>Makro_türü</translation>
     </message>
     <message>
         <source>Macro_text</source>
-        <translation type="unfinished"/>
+        <translation>Makro_metin</translation>
     </message>
     <message>
         <source>A named range you specified cannot be found.</source>
@@ -10284,7 +10284,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Error_val</source>
-        <translation type="unfinished"/>
+        <translation>Hata_değer</translation>
     </message>
     <message>
         <source>Row_num</source>
@@ -10305,7 +10305,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Directory_text</source>
-        <translation type="unfinished"/>
+        <translation>Rehber_metni</translation>
     </message>
     <message>
         <source>To_reference</source>
@@ -10313,7 +10313,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Return_type</source>
-        <translation type="unfinished"/>
+        <translation>Dönüş_türü</translation>
     </message>
     <message>
         <source>[Disabled]</source>
@@ -10349,11 +10349,11 @@ Kaldır</translation>
     </message>
     <message>
         <source>Start_date</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç_tarihi</translation>
     </message>
     <message>
         <source>Start_char</source>
-        <translation type="unfinished"/>
+        <translation>Başlat_kar</translation>
     </message>
     <message>
         <source>is an array or a reference to cells that contain numbers for which you want to calculate the internal rate of return.</source>
@@ -10397,20 +10397,20 @@ Kaldır</translation>
     </message>
     <message>
         <source>Match_case</source>
-        <translation type="unfinished"/>
+        <translation>Eşleştir_büyükküçük</translation>
     </message>
     <message>
         <source>Macro_type</source>
         <comment>TX_ParaInfo_307</comment>
-        <translation type="unfinished"/>
+        <translation>Makro_türü</translation>
     </message>
     <message>
         <source>Match_text</source>
-        <translation type="unfinished"/>
+        <translation>Eşleştir_metin</translation>
     </message>
     <message>
         <source>Match_type</source>
-        <translation type="unfinished"/>
+        <translation>Eşleştir_tür</translation>
     </message>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const = TRUE or omitted; b is set equal to 1 if Const = FALSE.</source>
@@ -10444,11 +10444,11 @@ Kaldır</translation>
     </message>
     <message>
         <source>Function_help</source>
-        <translation type="unfinished"/>
+        <translation>İşlev_yardım</translation>
     </message>
     <message>
         <source>Function_text</source>
-        <translation type="unfinished"/>
+        <translation>İşlev_metni</translation>
     </message>
     <message>
         <source>Sorry, you has no permission to read &quot;%s&quot;. 
@@ -10925,7 +10925,7 @@ Ekle</translation>
     </message>
     <message>
         <source>is the text you want to replace Old_text.</source>
-        <translation type="unfinished"/>
+        <translation>Eski_metin ile değiştirmek istediğiniz metin.</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -10953,7 +10953,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Width_num</source>
-        <translation type="unfinished"/>
+        <translation>Genişlik_num</translation>
     </message>
     <message>
         <source>Not force the coefficient to be 0</source>
@@ -11024,7 +11024,7 @@ Sil</translation>
     </message>
     <message>
         <source>To_ref_type</source>
-        <translation type="unfinished"/>
+        <translation>Hdf_başv_türü</translation>
     </message>
     <message>
         <source>is the range of cells that contains the conditions you specify. The range includes a column label and one cell below the label for a condition.</source>
@@ -11101,11 +11101,11 @@ Sil</translation>
     </message>
     <message>
         <source>Route_logical</source>
-        <translation type="unfinished"/>
+        <translation>Gönder_mantıksal</translation>
     </message>
     <message>
         <source>Cell_ref</source>
-        <translation type="unfinished"/>
+        <translation>Hücre_başv</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
@@ -11113,7 +11113,7 @@ Sil</translation>
     </message>
     <message>
         <source>Help_ref</source>
-        <translation type="unfinished"/>
+        <translation>Yardım_ref</translation>
     </message>
     <message>
         <source>is the position (from the largest) in the array or cell range of the value to return</source>
@@ -11121,7 +11121,7 @@ Sil</translation>
     </message>
     <message>
         <source>Number_f</source>
-        <translation type="unfinished"/>
+        <translation>Başarısızlık_s</translation>
     </message>
     <message>
         <source>Number_s</source>
@@ -11145,7 +11145,7 @@ Sil</translation>
     </message>
     <message>
         <source>End_num</source>
-        <translation type="unfinished"/>
+        <translation>Son_sayı</translation>
     </message>
     <message>
         <source>include empty blank</source>
@@ -11508,7 +11508,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>is the value that is returned if Logical_test is TRUE.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal_sınama DOĞRU olduğunda gelen değerdir.</translation>
     </message>
     <message>
         <source>Ignore_print_area</source>
@@ -11550,7 +11550,7 @@ Koru</translation>
     </message>
     <message>
         <source>From_a1</source>
-        <translation type="unfinished"/>
+        <translation>Kynk_a1</translation>
     </message>
     <message>
         <source>is the width, in number of columns, that you want the result to be, the same width as Reference if omitted.</source>
@@ -11558,11 +11558,11 @@ Koru</translation>
     </message>
     <message>
         <source>Standard_height</source>
-        <translation type="unfinished"/>
+        <translation>Standart_yükseklik</translation>
     </message>
     <message>
         <source>ignore_empty</source>
-        <translation type="unfinished"/>
+        <translation>Boşları_yoksay</translation>
     </message>
     <message>
         <source>is a positive number specifying the number of times to repeat text.</source>
@@ -11574,7 +11574,7 @@ Koru</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"/>
+        <translation>Hafta Sonu</translation>
     </message>
     <message>
         <source>is the expected number value, a positive number.</source>
@@ -11628,7 +11628,7 @@ Koru</translation>
     </message>
     <message>
         <source>Population_s</source>
-        <translation type="unfinished"/>
+        <translation>B_popülasyon</translation>
     </message>
     <message>
         <source>is the number of the characters in Old_text that you want to replace with New_text.</source>
@@ -11788,11 +11788,11 @@ Denetimi</translation>
     </message>
     <message>
         <source>Max_range</source>
-        <translation type="unfinished"/>
+        <translation>En_büyük_aralık</translation>
     </message>
     <message>
         <source>X_range</source>
-        <translation type="unfinished"/>
+        <translation>X_aralığı</translation>
     </message>
     <message>
         <source>is an array or cell range of numeric dependent data points and can be numbers or names, arrays, or references that contain numbers.</source>
@@ -11880,7 +11880,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Document_text</source>
-        <translation type="unfinished"/>
+        <translation>Belge_adı</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11901,7 +11901,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Print_to_file</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya_yazdır</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
@@ -12216,7 +12216,7 @@ Denetimi</translation>
     <message>
         <source>Info_type</source>
         <comment>TX_ParaInfo_240</comment>
-        <translation type="unfinished"/>
+        <translation>Bilgi_türü</translation>
     </message>
     <message>
         <source>Integral upper bound</source>
@@ -12297,7 +12297,7 @@ Denetimi</translation>
     <message>
         <source>Module_text</source>
         <comment>TX_ParaInfo_347</comment>
-        <translation type="unfinished"/>
+        <translation>Modül_metni</translation>
     </message>
     <message>
         <source>Upper Case RMB</source>
@@ -17054,7 +17054,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Delete Row</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sil</translation>
     </message>
     <message>
         <source>Cell Fill Color</source>
@@ -18158,7 +18158,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Move to Rows</source>
-        <translation type="unfinished"/>
+        <translation>Satıra Taşı</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -20275,7 +20275,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Delete Row</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sil</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -22388,7 +22388,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ARGUMENT(name_text, data_type_num, reference)</source>
-        <translation type="unfinished"/>
+        <translation>BAĞIMSIZ_DEĞİŞKEN(ad_metni, veri_türü_num, başvuru)</translation>
     </message>
     <message>
         <source>Returns the length of a text string.</source>
@@ -22404,7 +22404,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ON.DATA(document_text, macro_text)</source>
-        <translation type="unfinished"/>
+        <translation>VERİYOLLANINCA(belge_adı, makro_metin)</translation>
     </message>
     <message>
         <source>CALCULATION(type_num, iter, max_num, max_change, update, precision, date_1904, calc_save, save_values, alt_exp, alt_form)</source>
@@ -22412,7 +22412,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>FREAD(file_num, num_chars)</source>
-        <translation type="unfinished"/>
+        <translation>DOSYA_OKU(dosya_no, sayı_karakterler)</translation>
     </message>
     <message>
         <source>REPLACEB(old_text,start_num,num_bytes,new_text)</source>
@@ -22436,7 +22436,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>DOCUMENTS(type_num, match_text)</source>
-        <translation type="unfinished"/>
+        <translation>BELGELER(tür_sayısı,eşleştir_metin)</translation>
     </message>
     <message>
         <source>Returns the inverse of the one-tailed probability of the chi-squared distribution.</source>
@@ -22480,7 +22480,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>FORMAT.NUMBER(format_text)</source>
-        <translation type="unfinished"/>
+        <translation>BİÇİM.SAYI(biçim_metin)</translation>
     </message>
     <message>
         <source>ZOOM(magnification)</source>
@@ -22564,7 +22564,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
-        <translation type="unfinished"/>
+        <translation>TABLO.ÜZERİNDE(tablo_metni,makro_metin,etkinleş_mantıksal)</translation>
     </message>
     <message>
         <source>STANDARDIZE(x,mean,standard_dev)</source>
@@ -22592,7 +22592,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>GET.TOOLBAR(type_num, bar_id)</source>
-        <translation type="unfinished"/>
+        <translation>AL.ARAÇ.ÇUBUĞU(tür_num, çubuk_no)</translation>
     </message>
     <message>
         <source>GET.WINDOW(type_num, window_text)</source>
@@ -22604,7 +22604,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ROW.HEIGHT(height_num, reference, standard_height, type_num)</source>
-        <translation type="unfinished"/>
+        <translation>SATIR.YÜKSEKLİK(yükseklik_num, başvuru, standart_yükseklik, tür_num)</translation>
     </message>
     <message>
         <source>GETPIVOTDATA(data_field, pivot_table, field, item,…)</source>
@@ -23085,7 +23085,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
-        <translation>HİPERGEOMDAĞ(başarı_örnekleme,sayı_örnek,b_popülasyon,sayı_pop)</translation>
+        <translation>HİPERGEOMDAĞ(başarı_örnekleme, sayı_örnek, b_popülasyon, sayı_pop)</translation>
     </message>
     <message>
         <source>Returns the net present value for a schedule of crash flows.</source>
@@ -23173,7 +23173,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>TEXTJOIN(delimiter,ignore_empty,text1,[text2],...)</source>
-        <translation type="unfinished"/>
+        <translation>METİNBİRLEŞTİR(sınırlayıcı, boşları_yoksay, metin1, [metin2], …)</translation>
     </message>
     <message>
         <source>GET.DOCUMENT(type_num, name_text)</source>
@@ -23318,7 +23318,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>FILE.CLOSE(save_logical, route_logical)</source>
-        <translation type="unfinished"/>
+        <translation>DOSYA.KAPAT(sakla_mantıksal, gönder_mantıksal)</translation>
     </message>
     <message>
         <source>LOWER(text)</source>
@@ -23597,7 +23597,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SAVE.AS(document_text, type_num, prot_pwd, backup, write_res_pwd, read_only_rec)</source>
-        <translation type="unfinished"/>
+        <translation>KAYDET.YENİADLA(belge_metni, tür_num, yazım_şifresi, yedekle, yazım_şifresi, salt_okunur_kayıt)</translation>
     </message>
     <message>
         <source>Extract data stored in a PivotTable</source>
@@ -23837,7 +23837,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>NEGBINOMDIST(number_f,number_s,probability_s)</source>
-        <translation>NEGBİNOMDAĞ(başarısızlık_s,başarı_sayısı,başarı_olasılığı)</translation>
+        <translation>NEGBİNOMDAĞ(başarısızlık_s, başarı_sayısı, başarı_olasılığı)</translation>
     </message>
     <message>
         <source>RTD(progID, server, topic1, [topic2], ...)</source>
@@ -24318,7 +24318,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>GET.NOTE(cell_ref, start_char, num_chars)</source>
-        <translation type="unfinished"/>
+        <translation>AL.NOT(hücre_başv, başlat_kar, sayı_karakterler)</translation>
     </message>
     <message>
         <source>Returns a value from the list of arguments based on the given index number.</source>
@@ -24574,7 +24574,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ALERT(message_text, type_num, help_ref)</source>
-        <translation type="unfinished"/>
+        <translation>UYARI(ileti_metni, tür_num, yardım_ref)</translation>
     </message>
     <message>
         <source>DB(cost,salvage,life,period,month)</source>
@@ -24768,7 +24768,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</source>
-        <translation type="unfinished"/>
+        <translation>SÜTUN.GENİŞLİĞİ(genişlik_num, başvuru, standart, tür_num, standart_num)</translation>
     </message>
     <message>
         <source>Counts the number of empty cells in a specified range of cells.</source>
@@ -24780,7 +24780,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>FOR(counter_text, start_num, end_num, step_num)</source>
-        <translation type="unfinished"/>
+        <translation>İÇİN(sayıcı_metin, başlangıç_sayısı, son_sayı, adım_no)</translation>
     </message>
     <message>
         <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
@@ -24836,7 +24836,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the negative binomial distribution, the probability that there will be Number_f failures before the Number_s-th success, with Probability_s probability of a success.</source>
-        <translation type="unfinished"/>
+        <translation>Bir başarının negatif binom dağılımını, yani Başarı_sayısı kadar başarıdan önce Başarısızlık_s kadar başarısızlık olması olasılığını Başarı_olasılığı kadar olasılıkla verir.</translation>
     </message>
     <message>
         <source>AVERAGEA(number1,number2,...)</source>
@@ -25032,7 +25032,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>NAMES(document_text, type_num, match_text)</source>
-        <translation type="unfinished"/>
+        <translation>ADLAR(belge_adı, tür_sayısı, eşleştir_metin)</translation>
     </message>
     <message>
         <source>Returns the inverse of the F probability distribution.</source>
@@ -25301,7 +25301,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>MAXIFS(max_range,criteria_range,criteria,...)</source>
-        <translation type="unfinished"/>
+        <translation>ÇOKEĞERMAK(en_büyük_aralık, ölçüt_aralığı, ölçüt, ...)</translation>
     </message>
     <message>
         <source>Returns the k-th smallest value in a data set. For example, the fourth smallest number if k equals four.</source>
@@ -29594,7 +29594,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"/>
+        <translation>Hafta Sonu</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -38692,7 +38692,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"/>
+        <translation>Haberler</translation>
     </message>
     <message>
         <source>View</source>
@@ -39280,7 +39280,7 @@ imlecinizi düzenleme kutusuna yerleştirip Resim Biçimlendir düğmesine tıkl
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarası</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -39338,7 +39338,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Number must be greater than zero.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı sıfırdan büyük olmalı.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -40682,7 +40682,7 @@ Center</source>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"/>
+        <translation>Haberler</translation>
     </message>
     <message>
         <source>Save</source>
@@ -41777,7 +41777,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>InsertProcesson_Mind</source>
-        <translation type="unfinished"/>
+        <translation>Zihin eşlemesi ekle</translation>
     </message>
     <message>
         <source>Insert New Equation</source>
@@ -46890,7 +46890,7 @@ Değer: </translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Denetimler</translation>
     </message>
     <message>
         <source>Control 
@@ -47240,7 +47240,7 @@ Document</source>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Denetimler</translation>
     </message>
     <message>
         <source>Command Button</source>
@@ -54551,7 +54551,7 @@ Biçimlendir</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"/>
+        <translation>Hafta Sonu</translation>
     </message>
     <message>
         <source>Center Across</source>
@@ -59315,7 +59315,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Denetimler</translation>
     </message>
     <message>
         <source>Command Button</source>
