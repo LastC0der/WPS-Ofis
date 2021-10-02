@@ -2754,7 +2754,7 @@ Check</source>
     <message>
         <source>Speaker Notes</source>
         <comment>WpPrintWays_SpeakerNotes</comment>
-        <translation type="unfinished"/>
+        <translation>Konuşmacı Notları</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro Enabled Presentation Template(*.potm)</source>
@@ -2900,7 +2900,7 @@ Check</source>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"/>
+        <translation>Konuşmacı Notları</translation>
     </message>
     <message>
         <source>1 Slide</source>
@@ -4196,7 +4196,7 @@ Check</source>
     </message>
     <message>
         <source>&amp;4 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;4 Tekerlek Teli</translation>
     </message>
     <message>
         <source>Spring</source>
@@ -4758,7 +4758,7 @@ Check</source>
     </message>
     <message>
         <source>Stairs Down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı Merdiven</translation>
     </message>
     <message>
         <source>Split Vertical Out</source>
@@ -7467,7 +7467,7 @@ Gövde: Yakınlaştır</translation>
     </message>
     <message>
         <source>Cover Down</source>
-        <translation type="unfinished"/>
+        <translation>Kapla Aşağı Doğru</translation>
     </message>
     <message>
         <source>Cover Left</source>
@@ -7761,7 +7761,7 @@ Body: Spinner</source>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"/>
+        <translation>Konuşmacı Notları</translation>
     </message>
     <message>
         <source>PresetLayout</source>
@@ -8638,7 +8638,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"/>
+        <translation>Konuşmacı Notları</translation>
     </message>
 </context>
 <context>
@@ -10440,7 +10440,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="unfinished"/>
+        <translation>Sunum Aracı</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -11266,7 +11266,7 @@ Araçları</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"/>
+        <translation>Haberler</translation>
     </message>
     <message>
         <source>None</source>
@@ -11614,7 +11614,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Cover Down</source>
-        <translation type="unfinished"/>
+        <translation>Kapla Aşağı Doğru</translation>
     </message>
     <message>
         <source>Cover Left</source>
@@ -12367,7 +12367,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Insert Bullet</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşareti Ekle</translation>
     </message>
     <message>
         <source>Format Chart Title</source>
@@ -13458,7 +13458,7 @@ Master</source>
     </message>
     <message>
         <source>Delete Row</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sil</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -13696,7 +13696,7 @@ Master</source>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"/>
+        <translation>Konuşmacı Notları</translation>
     </message>
     <message>
         <source>Straight Segment</source>
@@ -13996,7 +13996,7 @@ Master</source>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"/>
+        <translation>Animasyon</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -14846,7 +14846,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="unfinished"/>
+        <translation>Sunum Aracı</translation>
     </message>
     <message>
         <source>Rotate Mode</source>
@@ -16131,7 +16131,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"/>
+        <translation>Haberler</translation>
     </message>
     <message>
         <source>Save</source>
@@ -16490,7 +16490,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="unfinished"/>
+        <translation>Sunum Aracı</translation>
     </message>
     <message>
         <source>DocerThemeColor</source>
@@ -19614,7 +19614,8 @@ Gizle</translation>
     <message>
         <source>Speaker
 Notes</source>
-        <translation type="unfinished"/>
+        <translation>Konuşmacı
+Notları</translation>
     </message>
     <message>
         <source>Slide Show Mode</source>
@@ -20443,7 +20444,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Insert Bullet</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşareti Ekle</translation>
     </message>
     <message>
         <source>Height</source>
@@ -21373,7 +21374,8 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="unfinished"/>
+        <translation>Sunum 
+Aracı</translation>
     </message>
 </context>
 <context>
@@ -21391,7 +21393,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"/>
+        <translation>Haberler</translation>
     </message>
     <message>
         <source>Open</source>
@@ -21411,7 +21413,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"/>
+        <translation>Animasyon</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -22813,7 +22815,7 @@ Music</source>
     </message>
     <message>
         <source>InsertProcesson_Mind</source>
-        <translation type="unfinished"/>
+        <translation>Zihin eşlemesi ekle</translation>
     </message>
     <message>
         <source>Insert New Equation</source>
@@ -24158,7 +24160,7 @@ Dönüştür</translation>
     <name>ongmani.ct_animation</name>
     <message>
         <source>Animation</source>
-        <translation type="unfinished"/>
+        <translation>Animasyon</translation>
     </message>
     <message>
         <source>Auto, interval:</source>
@@ -24461,7 +24463,8 @@ Template</source>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="unfinished"/>
+        <translation>Sunum 
+Aracı</translation>
     </message>
     <message>
         <source>Slide Size</source>
@@ -25214,7 +25217,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Denetimler</translation>
     </message>
     <message>
         <source>Control 
@@ -25739,7 +25742,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Denetimler</translation>
     </message>
     <message>
         <source>Command Button</source>
@@ -25947,7 +25950,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source> Minute</source>
-        <translation type="unfinished"/>
+        <translation>Dakika</translation>
     </message>
     <message>
         <source>Being converted</source>
@@ -25955,7 +25958,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"/>
+        <translation>Saniye</translation>
     </message>
     <message>
         <source>Start converting</source>
@@ -26928,7 +26931,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"/>
+        <translation>Konuşmacı Notları</translation>
     </message>
 </context>
 <context>
@@ -32701,7 +32704,8 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="unfinished"/>
+        <translation>Sunum 
+Aracı</translation>
     </message>
     <message>
         <source>Translate to Document</source>
@@ -33444,7 +33448,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Denetimler</translation>
     </message>
     <message>
         <source>Command Button</source>
@@ -33637,7 +33641,8 @@ Template</source>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="unfinished"/>
+        <translation>Sunum 
+Aracı</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
@@ -33838,7 +33843,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="unfinished"/>
+        <translation>Konuşmacı Notları</translation>
     </message>
     <message>
         <source>Slide Show
