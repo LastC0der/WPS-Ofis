@@ -5791,7 +5791,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Level 1,Level 2,Level 3,Level 4,Level 5,Level 6,Level 7,Level 8,Level 9,Body text</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 1, Düzey 2, Düzey 3, Düzey 4, Düzey 5, Düzey 6, Düzey 7, Düzey 8, Düzey 9, Gövde metni</translation>
     </message>
     <message>
         <source>Start at must be between %d and %d for this format.</source>
