@@ -4748,7 +4748,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Light Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>İnce Yatay</translation>
     </message>
     <message>
         <source>Heading text</source>
@@ -5631,7 +5631,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Diagram</source>
-        <translation type="unfinished"/>
+        <translation>Diyagram</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
@@ -8687,7 +8687,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>PDF İmzası</translation>
     </message>
 </context>
 <context>
@@ -9794,7 +9794,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Demote</source>
-        <translation type="unfinished"/>
+        <translation>Düzeyini Düşür</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -10099,7 +10099,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı %1 ile %2 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -15949,7 +15949,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşaretleri ve Numaralandırma</translation>
     </message>
     <message>
         <source>Matrix Alignment</source>
@@ -17898,7 +17898,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Demote</source>
-        <translation type="unfinished"/>
+        <translation>Düzeyini Düşür</translation>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
@@ -18860,7 +18860,7 @@ Screen</source>
     </message>
     <message>
         <source>Insert New Equation</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Denklem Ekle</translation>
     </message>
     <message>
         <source>NewChart Axis</source>
@@ -18968,7 +18968,7 @@ Screen</source>
     </message>
     <message>
         <source>Image Preview Float</source>
-        <translation type="unfinished"/>
+        <translation>Kayan Görüntü Önizleme</translation>
     </message>
     <message>
         <source>View Field Codes</source>
@@ -21051,7 +21051,7 @@ Click to follow this link</source>
     </message>
     <message>
         <source>Demote</source>
-        <translation type="unfinished"/>
+        <translation>Düzeyini Düşür</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -21536,7 +21536,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşaretleri ve Numaralandırma</translation>
     </message>
     <message>
         <source>Merge to Different New Document</source>
@@ -22646,11 +22646,11 @@ Protection</source>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Yapılamaz</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation type="unfinished"/>
+        <translation>Geri Alınamaz</translation>
     </message>
     <message>
         <source>Increase Line Space</source>
@@ -31841,7 +31841,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert New Equation</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Denklem Ekle</translation>
     </message>
     <message>
         <source>Form Field Options</source>
@@ -32330,7 +32330,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert New Equation</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Denklem Ekle</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
@@ -32386,11 +32386,11 @@ Number</source>
     </message>
     <message>
         <source>Roaming File</source>
-        <translation type="unfinished"/>
+        <translation>Dolaşım Dosyası</translation>
     </message>
     <message>
         <source>Sharing File</source>
-        <translation type="unfinished"/>
+        <translation>Benimle Paylaşılan Dosyalar</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -36747,7 +36747,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert New Equation</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Denklem Ekle</translation>
     </message>
     <message>
         <source>Form Field Options</source>
@@ -36842,11 +36842,11 @@ Numarası</translation>
     </message>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Tayvan)</translation>
     </message>
     <message>
         <source>Chinese(PRC)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (ÇHC)</translation>
     </message>
 </context>
 <context>
@@ -38789,7 +38789,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Roaming File</source>
-        <translation type="unfinished"/>
+        <translation>Dolaşım Dosyası</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -42201,7 +42201,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşaretleri ve Numaralandırma</translation>
     </message>
     <message>
         <source>This point forward</source>
@@ -45058,7 +45058,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>The macros in this project are disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Bu projedeki makrolar devre dışı bırakıldı.</translation>
     </message>
 </context>
 <context>
@@ -46009,7 +46009,7 @@ Converting allows you to use all the new features of Word and reduces the size o
     <name>KxWpsSectionListCommand</name>
     <message>
         <source>Section %1</source>
-        <translation type="unfinished"/>
+        <translation>Bölüm %1</translation>
     </message>
 </context>
 <context>
@@ -53260,7 +53260,7 @@ to Email</source>
     </message>
     <message>
         <source>Demote</source>
-        <translation type="unfinished"/>
+        <translation>Düzeyini Düşür</translation>
     </message>
     <message>
         <source>Expand</source>
