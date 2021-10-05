@@ -1935,19 +1935,19 @@ Tek bir bölge seçin ve ardından bu komutu yeniden uygulayın.</translation>
     </message>
     <message>
         <source>Qtr1</source>
-        <translation>Çey1</translation>
+        <translation>Çyr1</translation>
     </message>
     <message>
         <source>Qtr2</source>
-        <translation>Çey2</translation>
+        <translation>Çyr2</translation>
     </message>
     <message>
         <source>Qtr3</source>
-        <translation>Çey3</translation>
+        <translation>Çyr3</translation>
     </message>
     <message>
         <source>Qtr4</source>
-        <translation>Çey4</translation>
+        <translation>Çyr4</translation>
     </message>
     <message>
         <source>Sum=</source>
@@ -7042,7 +7042,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaDesc_547</comment>
-        <translation type="unfinished"/>
+        <translation>eklentinin üzerinde çalışması gereken sunucunun adıdır. Adı çift tırnak içine alın. Eklenti yerel çalışıyorsa boş dize kullanın.</translation>
     </message>
     <message>
         <source> Edit</source>
@@ -7062,11 +7062,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>#NUM!</source>
-        <translation type="unfinished"/>
+        <translation>#SAYI!</translation>
     </message>
     <message>
         <source>#REF!</source>
-        <translation type="unfinished"/>
+        <translation>#BAŞV!</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -7779,7 +7779,7 @@ Korumasını Kaldır</translation>
     <message>
         <source>is the number of characters to use.</source>
         <comment>TX_ParaDesc_450</comment>
-        <translation type="unfinished"/>
+        <translation>kullanılacak karakter sayısı.</translation>
     </message>
     <message>
         <source>start_date and end_date are the two dates between which you want to know the number of days.</source>
@@ -7886,7 +7886,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>#NAME?</source>
-        <translation type="unfinished"/>
+        <translation>#AD?</translation>
     </message>
     <message>
         <source>#NULL!</source>
@@ -8617,7 +8617,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
-        <translation type="unfinished"/>
+        <translation>eklentinin üzerinde çalışması gereken sunucunun adıdır. Adı çift tırnak içine alın. Eklenti yerel çalışıyorsa boş dize kullanın.</translation>
     </message>
     <message>
         <source>is the decimal representation of the binary number you want to compute</source>
@@ -9578,7 +9578,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı 1 ile 32767 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>degrees of freedom</source>
@@ -10034,7 +10034,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>#VALUE!</source>
-        <translation type="unfinished"/>
+        <translation>#DEĞER!</translation>
     </message>
     <message>
         <source>Value</source>
@@ -12474,7 +12474,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı 10 ile 400 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>The measurement must be between 2.6 mm and 558.8 mm.</source>
@@ -12530,7 +12530,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı %1 ile %2 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>Settings Saved</source>
@@ -12838,11 +12838,11 @@ Denetimi</translation>
     <message>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
         <comment>et_sNumberOutof1and32767</comment>
-        <translation type="unfinished"/>
+        <translation>Sayı 1 ile 32767 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı 10 ile 400 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
@@ -13420,7 +13420,7 @@ silinecek, yalnızca bir satır kalacak.
     </message>
     <message>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı 1 ile 32767 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>A range with the title &quot;%s&quot; already exists. Please enter a new title for the range.</source>
@@ -13904,7 +13904,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
         <comment>et_sErrorBadZoom</comment>
-        <translation type="unfinished"/>
+        <translation>Sayı 10 ile 400 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %s.
@@ -14738,7 +14738,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı 10 ile 400 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -20873,7 +20873,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Custom Settings</source>
-        <translation type="unfinished"/>
+        <translation>Özel Ayarlar</translation>
     </message>
     <message>
         <source>Last Custom Setting</source>
@@ -22800,7 +22800,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>RELREF(reference, rel_to_ref)</source>
-        <translation type="unfinished"/>
+        <translation>GÖRECELİREF(başv, başv_türüne)</translation>
     </message>
     <message>
         <source>POWER(number,power)</source>
@@ -25004,7 +25004,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>SET.NAME(name_text, value)</source>
-        <translation type="unfinished"/>
+        <translation>SAPTA.AD(ad_metni, değer)</translation>
     </message>
     <message>
         <source>ACCRINTM(issue,settlement,rate,par,basis)</source>
@@ -25658,7 +25658,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>NORM.S.INV(probability)</source>
-        <translation type="unfinished"/>
+        <translation>NORM.S.TERS(olasılık)</translation>
     </message>
     <message>
         <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
@@ -28136,7 +28136,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Image Preview Float</source>
-        <translation type="unfinished"/>
+        <translation>Kayan Görüntü Önizleme</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -29219,7 +29219,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>PivotTable field name already exists.</source>
-        <translation type="unfinished"/>
+        <translation>Bu adda bir Özet Tablo alanı zaten var.</translation>
     </message>
     <message>
         <source>% of Row Total</source>
@@ -29254,11 +29254,11 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>The number must be between 0 and 127. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı 0 ile 127 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>The number must be between -1 and 1048576. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı -1 ile 1048576 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>A PivotTable report with that name already exists on the destination sheet.</source>
@@ -29282,7 +29282,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>The number must be between 0 and 255. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı 0 ile 255 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
 </context>
 <context>
@@ -30779,7 +30779,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Command t&amp;ext:</source>
-        <translation type="unfinished"/>
+        <translation>Komut &amp;metni:</translation>
     </message>
     <message>
         <source>Command &amp;type:</source>
@@ -31681,7 +31681,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>&amp;Reset All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Sıfı&amp;rla</translation>
     </message>
     <message>
         <source>&amp;Change</source>
@@ -33618,15 +33618,15 @@ Shape</source>
     </message>
     <message>
         <source>#NUM!</source>
-        <translation type="unfinished"/>
+        <translation>#SAYI!</translation>
     </message>
     <message>
         <source>#REF!</source>
-        <translation type="unfinished"/>
+        <translation>#BAŞV!</translation>
     </message>
     <message>
         <source>#NAME?</source>
-        <translation type="unfinished"/>
+        <translation>#AD?</translation>
     </message>
     <message>
         <source>#NULL!</source>
@@ -33646,7 +33646,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>#VALUE!</source>
-        <translation type="unfinished"/>
+        <translation>#DEĞER!</translation>
     </message>
     <message>
         <source>A PivotTable report cannot overlap a table or XML mapping.</source>
@@ -37002,7 +37002,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 32767. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Ölçü 1 ile 32767 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -39303,7 +39303,10 @@ imlecinizi düzenleme kutusuna yerleştirip Resim Biçimlendir düğmesine tıkl
 
 To replace existing picture, press OK.
 To keep existing picture, press Cancel.</source>
-        <translation type="unfinished"/>
+        <translation>%1 öğesinin her bölümüne yalnızca bir resim eklenebilir.
+
+Varolan resmi değiştirmek için Tamam&apos;ı tıklayın.
+Varolan resmi korumak için İptal&apos;i tıklayın.</translation>
     </message>
     <message>
         <source>Number of Pages</source>
@@ -40474,11 +40477,11 @@ Center</source>
     </message>
     <message>
         <source>Roaming File</source>
-        <translation type="unfinished"/>
+        <translation>Dolaşım Dosyası</translation>
     </message>
     <message>
         <source>Sharing File</source>
-        <translation type="unfinished"/>
+        <translation>Benimle Paylaşılan Dosyalar</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -41781,7 +41784,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Insert New Equation</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Denklem Ekle</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -42312,7 +42315,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Names Scoped to Work&amp;sheet</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma &amp;Sayfası Kapsamındaki Adlar</translation>
     </message>
     <message>
         <source> - Reference location:</source>
@@ -42459,7 +42462,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Reset All Comments</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Açıklamaları Sıfırla</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -43775,7 +43778,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçenekler...</translation>
     </message>
     <message>
         <source>New Web query</source>
@@ -43787,7 +43790,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Import(&amp;I)</source>
@@ -43803,7 +43806,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"/>
+        <translation>Arkaya</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -45142,7 +45145,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>English(Philippines)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Filipinler)</translation>
     </message>
     <message>
         <source>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</source>
@@ -45150,11 +45153,11 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Chinese(HongKong)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Hong Kong)</translation>
     </message>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Tayvan)</translation>
     </message>
 </context>
 <context>
@@ -46812,7 +46815,7 @@ Değer: </translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı %1 ile %2 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
     <message>
         <source>No Changes</source>
@@ -48891,7 +48894,7 @@ Result</source>
     </message>
     <message>
         <source>Roaming File</source>
-        <translation type="unfinished"/>
+        <translation>Dolaşım Dosyası</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -49718,7 +49721,7 @@ Repeat Item Labels</source>
     </message>
     <message>
         <source>Sort &amp;options</source>
-        <translation type="unfinished"/>
+        <translation>Sır&amp;alama seçenekleri</translation>
     </message>
     <message>
         <source>&amp;Top to Bottom</source>
@@ -52937,7 +52940,7 @@ hücreler turuncu arka planda ayarlanacaktır.</translation>
     </message>
     <message>
         <source>The number must be between  %1 and %2. Try again by entering a number in this range.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı %1 ile %2 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
     </message>
 </context>
 <context>
