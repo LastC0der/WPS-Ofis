@@ -1342,7 +1342,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Roaming File</source>
-        <translation type="unfinished"/>
+        <translation>Dolaşım Dosyası</translation>
     </message>
     <message>
         <source>duplicate file name</source>
@@ -2041,7 +2041,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılanları Geri Yükle</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2321,7 +2321,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4784,7 +4784,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
@@ -5236,7 +5236,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>File size limit,</source>
-        <translation type="unfinished"/>
+        <translation>Dosya boyutu sınırı,</translation>
     </message>
     <message>
         <source>Upload error</source>
@@ -6336,7 +6336,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
@@ -7585,7 +7585,7 @@ yazılamadı</translation>
     <name>KCloudDiskInitGuideDlg</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Failed to load, please</source>
@@ -7596,7 +7596,7 @@ yazılamadı</translation>
     <name>LinkErrorWidget</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8347,7 +8347,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>HTTP request failed</source>
-        <translation type="unfinished"/>
+        <translation>HTTP isteği başarısız oldu</translation>
     </message>
     <message>
         <source>Proxy requires authentication</source>
@@ -10208,7 +10208,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
 </context>
 <context>
@@ -10316,7 +10316,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
 </context>
 <context>
