@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
     <message>
         <source>Width(T) :</source>
@@ -1988,11 +1988,11 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Yapılamaz</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation type="unfinished"/>
+        <translation>Geri Alınamaz</translation>
     </message>
     <message>
         <source>The Signal PDF Can not Insert Files</source>
@@ -2200,7 +2200,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>retry</source>
-        <translation>yeniden dene</translation>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>CustomDirectory</source>
@@ -5067,7 +5067,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>add</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -5109,7 +5109,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
     <message>
         <source>can&apos;t open file</source>
@@ -5320,7 +5320,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>8 pt</source>
-        <translation type="unfinished"/>
+        <translation>8 nk</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -5924,7 +5924,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Area Highlight</source>
-        <translation>Alanı Vurgula</translation>
+        <translation>Alan Vurgusu</translation>
     </message>
     <message>
         <source>DeleteEraserMenu</source>
@@ -6931,7 +6931,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfWaterMarkGalleryModelPaintItem</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
 </context>
 <context>
@@ -7045,7 +7045,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Custom settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
@@ -7116,7 +7116,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Area Highlight</source>
-        <translation type="unfinished"/>
+        <translation>Alan Vurgusu</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -7158,7 +7158,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfCaMgrTabWidget</name>
     <message>
         <source>add</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
 </context>
 <context>
@@ -7223,7 +7223,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SIGNATURE</source>
-        <translation type="unfinished"/>
+        <translation>İMZA</translation>
     </message>
     <message>
         <source>Version</source>
@@ -7254,7 +7254,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>purple</source>
-        <translation type="unfinished"/>
+        <translation>Mor</translation>
     </message>
     <message>
         <source>yellow</source>
@@ -7312,7 +7312,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SIGNATURE</source>
-        <translation type="unfinished"/>
+        <translation>İMZA</translation>
     </message>
 </context>
 <context>
@@ -8625,7 +8625,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>进行手动翻页双面打印？</source>
-        <translation type="unfinished"/>
+        <translation>Çift taraflı yazdırma için sayfayı elle çevirmek ister misiniz?</translation>
     </message>
     <message>
         <source>试试勾选“使用双面打印”，方便快捷</source>
@@ -9243,7 +9243,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Area Highlight</source>
-        <translation type="unfinished"/>
+        <translation>Alan Vurgusu</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -9283,7 +9283,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Pointer Options</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçi Seçenekleri</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -9315,7 +9315,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>EditImageLayer</source>
-        <translation type="unfinished"/>
+        <translation>Resim Katmanını Düzenle</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
@@ -9911,7 +9911,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
     <message>
         <source>ReplaceFalse</source>
@@ -10319,7 +10319,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>HighLight</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula</translation>
     </message>
     <message>
         <source>Annotation Filter</source>
@@ -10644,7 +10644,7 @@ Pencere</translation>
     <name>ongmani.ct_postil</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin</translation>
     </message>
     <message>
         <source>Stamp</source>
@@ -11088,7 +11088,7 @@ Pencere</translation>
     <name>KxPdfSearchTableWidget</name>
     <message>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>metin</translation>
     </message>
 </context>
 <context>
@@ -11317,7 +11317,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>İmza</translation>
     </message>
 </context>
 <context>
@@ -11793,7 +11793,7 @@ Pencere</translation>
     <name>KxPdfExcerptExportingDlg</name>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -12443,7 +12443,7 @@ Pencere</translation>
     </message>
     <message>
         <source>confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
 </context>
 <context>
@@ -13373,14 +13373,14 @@ Deleted pages can not be recovered</source>
     <name>KxPdfAnnoShapeWidget</name>
     <message>
         <source>Stroke Color</source>
-        <translation type="unfinished"/>
+        <translation>Fırça Rengi</translation>
     </message>
 </context>
 <context>
     <name>KxPdfReadingShapeWidget</name>
     <message>
         <source>Stroke Color</source>
-        <translation type="unfinished"/>
+        <translation>Fırça Rengi</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -13749,7 +13749,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
     <message>
         <source>encrypt</source>
@@ -14154,7 +14154,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
 </context>
 <context>
@@ -14521,7 +14521,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
 </context>
 <context>
@@ -14869,7 +14869,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>预览：</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme:</translation>
     </message>
     <message>
         <source>printer exception</source>
@@ -14893,7 +14893,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>装订：</source>
-        <translation type="unfinished"/>
+        <translation>Bağlama:</translation>
     </message>
     <message>
         <source>LandScape</source>
@@ -15033,7 +15033,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>自动居中</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Ortala</translation>
     </message>
     <message>
         <source>Custom...</source>
@@ -15403,7 +15403,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
     <message>
         <source>Content</source>
