@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Transactions</source>
@@ -39,7 +39,7 @@
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"/>
+        <translation>10 dakika</translation>
     </message>
     <message>
         <source>Order Error</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
     <message>
         <source>Leave us a message，We will contact you as soon as possible.</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Continue to Buy</source>
@@ -154,7 +154,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
     <message>
         <source>Purchase Error</source>
@@ -336,7 +336,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
     <message>
         <source>Try again</source>
@@ -539,7 +539,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"/>
+        <translation>10 dakika</translation>
     </message>
     <message>
         <source>Super VIP</source>
@@ -555,7 +555,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Coupons</source>
-        <translation type="unfinished"/>
+        <translation>Kuponlar</translation>
     </message>
     <message>
         <source>WPS VIP</source>
@@ -594,7 +594,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Middle Icon</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Orta Boyutlu Simgeler</translation>
     </message>
     <message>
         <source>%1 Path is not exist.Please check that the path is valid</source>
@@ -606,11 +606,11 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Title Save</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation>Dosya Adı</translation>
+        <translation>Belge Adı</translation>
     </message>
     <message>
         <source>File Type</source>
@@ -618,7 +618,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Small Icon</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Sim&amp;geler</translation>
     </message>
     <message>
         <source>Original file path</source>
