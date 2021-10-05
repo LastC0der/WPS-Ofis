@@ -549,7 +549,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>metin</translation>
     </message>
     <message>
         <source>Login</source>
@@ -685,7 +685,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Invalid argument</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz bağımsız değişken</translation>
     </message>
     <message>
         <source>Please use the enterprise administrator account login</source>
@@ -701,7 +701,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation type="unfinished"/>
+        <translation>Yanlış parola</translation>
     </message>
     <message>
         <source>Server error</source>
@@ -725,7 +725,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Your operation is too fast. Please try again later</source>
-        <translation type="unfinished"/>
+        <translation>İşleminiz çok hızlı. Lütfen daha sonra tekrar deneyiniz</translation>
     </message>
     <message>
         <source>Account suspected of irregularities, has been disabled</source>
@@ -753,7 +753,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>User not active</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı etkin değil</translation>
     </message>
     <message>
         <source>Invalid role</source>
@@ -761,7 +761,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>User not exists</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı yok</translation>
     </message>
     <message>
         <source>Invalid account</source>
@@ -862,7 +862,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
@@ -1063,7 +1063,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Forget password</source>
-        <translation type="unfinished"/>
+        <translation>Parolayı unut</translation>
     </message>
     <message>
         <source>Continue with Facebook</source>
@@ -1075,7 +1075,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Invalid argument</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz bağımsız değişken</translation>
     </message>
     <message>
         <source>Lots resources</source>
@@ -1099,7 +1099,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation type="unfinished"/>
+        <translation>Yanlış parola</translation>
     </message>
     <message>
         <source>Server error</source>
@@ -1187,11 +1187,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>User not active</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı etkin değil</translation>
     </message>
     <message>
         <source>User not exists</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı yok</translation>
     </message>
     <message>
         <source>Waiting...</source>
@@ -1294,7 +1294,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Forget password</source>
-        <translation type="unfinished"/>
+        <translation>Parolayı unut</translation>
     </message>
     <message>
         <source>Login WPS, you can</source>
@@ -1464,7 +1464,7 @@ Easy mobile office.</source>
     <name>KLoginWin_New</name>
     <message>
         <source>Invalid argument</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz bağımsız değişken</translation>
     </message>
     <message>
         <source>Network Diagnosis</source>
@@ -1484,7 +1484,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation type="unfinished"/>
+        <translation>Yanlış parola</translation>
     </message>
     <message>
         <source>Account Login</source>
@@ -1540,7 +1540,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Your operation is too fast. Please try again later</source>
-        <translation type="unfinished"/>
+        <translation>İşleminiz çok hızlı. Lütfen daha sonra tekrar deneyiniz</translation>
     </message>
     <message>
         <source>Account suspected of irregularities, has been disabled</source>
@@ -1596,7 +1596,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>User not active</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı etkin değil</translation>
     </message>
     <message>
         <source>Invalid role</source>
@@ -1604,7 +1604,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>User not exists</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı yok</translation>
     </message>
     <message>
         <source>Invalid account</source>
@@ -1672,14 +1672,14 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Error Message</source>
-        <translation type="unfinished"/>
+        <translation>Hata Mesajı</translation>
     </message>
 </context>
 <context>
     <name>KNewLoginWin</name>
     <message>
         <source>Invalid argument</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz bağımsız değişken</translation>
     </message>
     <message>
         <source>Network Diagnosis</source>
@@ -1691,7 +1691,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation type="unfinished"/>
+        <translation>Yanlış parola</translation>
     </message>
     <message>
         <source>Server error</source>
@@ -1723,7 +1723,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Your operation is too fast. Please try again later</source>
-        <translation type="unfinished"/>
+        <translation>İşleminiz çok hızlı. Lütfen daha sonra tekrar deneyiniz</translation>
     </message>
     <message>
         <source>Account suspected of irregularities, has been disabled</source>
@@ -1755,7 +1755,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>User not active</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı etkin değil</translation>
     </message>
     <message>
         <source>Invalid role</source>
@@ -1763,7 +1763,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>User not exists</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı yok</translation>
     </message>
     <message>
         <source>Invalid account</source>
@@ -1815,7 +1815,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Error Message</source>
-        <translation type="unfinished"/>
+        <translation>Hata Mesajı</translation>
     </message>
 </context>
 <context>
@@ -2104,7 +2104,7 @@ Easy mobile office.</source>
     <name>KAccountDemoMainWindow</name>
     <message>
         <source>Configure File(*.xml)</source>
-        <translation type="unfinished"/>
+        <translation>Yapılandırma Dosyası(*.xml)</translation>
     </message>
 </context>
 <context>
