@@ -1904,7 +1904,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılanları Geri Yükle</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3415,7 +3415,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin</translation>
     </message>
     <message>
         <source>Sync</source>
@@ -4313,7 +4313,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
@@ -5967,7 +5967,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
@@ -8036,7 +8036,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>HTTP request failed</source>
-        <translation type="unfinished"/>
+        <translation>HTTP isteği başarısız oldu</translation>
     </message>
     <message>
         <source>Proxy requires authentication</source>
