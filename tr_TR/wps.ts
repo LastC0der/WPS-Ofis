@@ -19351,11 +19351,11 @@ Changes</source>
     </message>
     <message>
         <source>Account Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Hesap Yükseltme</translation>
     </message>
     <message>
         <source>Cloud Space</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Alanı</translation>
     </message>
     <message>
         <source>PDFCompress</source>
@@ -19363,11 +19363,11 @@ Changes</source>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Araçları</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -33176,7 +33176,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Araçları</translation>
     </message>
     <message>
         <source>Options</source>
