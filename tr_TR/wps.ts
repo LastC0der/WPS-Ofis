@@ -4608,7 +4608,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>TOC</source>
@@ -6159,7 +6159,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>Top</source>
@@ -8426,7 +8426,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>From current page</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sayfadan</translation>
     </message>
     <message>
         <source>Apply to: </source>
@@ -8477,7 +8477,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>From current page</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sayfadan</translation>
     </message>
     <message>
         <source>Apply to: </source>
@@ -8802,7 +8802,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>Down</source>
@@ -17149,7 +17149,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Object Menu List</source>
-        <translation type="unfinished"/>
+        <translation>Nesne Menü Listesi</translation>
     </message>
     <message>
         <source>Downgrade Content Entry</source>
@@ -17217,7 +17217,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Delete Object</source>
-        <translation type="unfinished"/>
+        <translation>Nesneyi Sil</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
@@ -19825,14 +19825,14 @@ Boyacısı</translation>
     <name>KxWpsTabsDlg</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToOFD</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>To:</source>
@@ -20011,7 +20011,7 @@ Boyacısı</translation>
     <name>kdlgExportToPDF</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>To:</source>
@@ -21929,15 +21929,15 @@ Protection</source>
     </message>
     <message>
         <source>Table Simple 1</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Basit 1</translation>
     </message>
     <message>
         <source>Table Simple 2</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Basit 2</translation>
     </message>
     <message>
         <source>Table Simple 3</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Basit 3</translation>
     </message>
     <message>
         <source>InsertAfter</source>
@@ -34630,15 +34630,15 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Tayvan)</translation>
     </message>
     <message>
         <source>Chinese (PRC)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (ÇHC)</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (ABD)</translation>
     </message>
 </context>
 <context>
@@ -35912,7 +35912,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Fit Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya Sığdır</translation>
     </message>
     <message>
         <source>Zoom In</source>
@@ -38762,7 +38762,7 @@ Temizle</translation>
     </message>
     <message>
         <source>From current page</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sayfadan</translation>
     </message>
     <message>
         <source>To current page</source>
@@ -38945,7 +38945,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>From current &amp;page</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli &amp;sayfadan</translation>
     </message>
     <message>
         <source>Examples:</source>
@@ -39178,7 +39178,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Delete Object</source>
-        <translation type="unfinished"/>
+        <translation>Nesneyi Sil</translation>
     </message>
 </context>
 <context>
@@ -40153,15 +40153,15 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Tayvan)</translation>
     </message>
     <message>
         <source>Chinese (PRC)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (ÇHC)</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (ABD)</translation>
     </message>
 </context>
 <context>
@@ -45006,15 +45006,15 @@ Try one or more of the following:
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Tayvan)</translation>
     </message>
     <message>
         <source>Chinese (PRC)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (ÇHC)</translation>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (ABD)</translation>
     </message>
 </context>
 <context>
