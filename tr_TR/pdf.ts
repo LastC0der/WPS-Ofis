@@ -7466,11 +7466,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Account Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Hesap Yükseltme</translation>
     </message>
     <message>
         <source>Cloud Space</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Alanı</translation>
     </message>
     <message>
         <source>PDFCompress</source>
