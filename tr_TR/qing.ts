@@ -1738,7 +1738,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"/>
+        <translation>Ağ hatası.</translation>
     </message>
     <message>
         <source>yesterday</source>
@@ -2102,7 +2102,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü seç</translation>
     </message>
     <message>
         <source>iOS</source>
@@ -2668,7 +2668,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Fit page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya sığdır</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -6746,7 +6746,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Invalid entity value.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz varlık değeri.</translation>
     </message>
     <message>
         <source>Encoding %1 is unsupported</source>
@@ -6964,7 +6964,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>WPS Cloud Service %1</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Hizmeti %1</translation>
     </message>
     <message>
         <source> and so on %1 files</source>
@@ -7949,7 +7949,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not get array data</source>
-        <translation type="unfinished"/>
+        <translation>Dizi verileri alınamadı</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
@@ -8355,7 +8355,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Authentication required</source>
-        <translation type="unfinished"/>
+        <translation>Kimlik doğrulaması gerekiyor</translation>
     </message>
     <message>
         <source>SSL handshake failed</source>
@@ -8630,7 +8630,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Network error.</source>
-        <translation type="unfinished"/>
+        <translation>Ağ hatası.</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -8699,7 +8699,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud Service</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Hizmeti</translation>
     </message>
     <message>
         <source>Go Premium to get more cloud storage</source>
@@ -8756,7 +8756,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS cloud service</source>
-        <translation type="unfinished"/>
+        <translation>WPS bulut hizmeti</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9015,7 +9015,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Authentication required</source>
-        <translation type="unfinished"/>
+        <translation>Kimlik doğrulaması gerekiyor</translation>
     </message>
     <message>
         <source>Error parsing authentication request from proxy</source>
@@ -9310,7 +9310,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS cloud service</source>
-        <translation type="unfinished"/>
+        <translation>WPS bulut hizmeti</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9705,7 +9705,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KPayGuideWidget</name>
     <message>
         <source>WPS cloud service</source>
-        <translation type="unfinished"/>
+        <translation>WPS bulut hizmeti</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9720,14 +9720,14 @@ have libgstreamer-plugins-base installed.</source>
     <name>KPrivateFolderCommonWebDlg</name>
     <message>
         <source>WPS cloud service</source>
-        <translation type="unfinished"/>
+        <translation>WPS bulut hizmeti</translation>
     </message>
 </context>
 <context>
     <name>KTransGuideBubble</name>
     <message>
         <source>WPS Cloud Service</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Hizmeti</translation>
     </message>
     <message>
         <source>and so on %1 files</source>
@@ -9738,7 +9738,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KUploadLimitBubbleP7</name>
     <message>
         <source>WPS Cloud Service</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Hizmeti</translation>
     </message>
     <message>
         <source>Manage cloud space</source>
