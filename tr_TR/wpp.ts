@@ -3433,7 +3433,7 @@ Check</source>
     </message>
     <message>
         <source>Glide</source>
-        <translation type="unfinished"/>
+        <translation>Süzülme</translation>
     </message>
     <message>
         <source>Heart</source>
@@ -4397,7 +4397,7 @@ Check</source>
     <message>
         <source>Glide</source>
         <comment>wpp_sAnimExitEffectTextGlide</comment>
-        <translation type="unfinished"/>
+        <translation>Süzülme</translation>
     </message>
     <message>
         <source>Next slide</source>
@@ -18034,11 +18034,11 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Account Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Hesap Yükseltme</translation>
     </message>
     <message>
         <source>Cloud Space</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Alanı</translation>
     </message>
     <message>
         <source>PDFCompress</source>
@@ -18046,11 +18046,11 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Araçları</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması</translation>
     </message>
     <message>
         <source>Options</source>
@@ -21473,7 +21473,7 @@ Aracı</translation>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Araçları</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -27682,7 +27682,7 @@ Master</source>
     </message>
     <message>
         <source>Fullscreen(16:9)</source>
-        <translation type="unfinished"/>
+        <translation>Tam ekran(16:9)</translation>
     </message>
     <message>
         <source>Banner</source>
@@ -27730,7 +27730,7 @@ Master</source>
     </message>
     <message>
         <source>Fullscreen(4:3)</source>
-        <translation type="unfinished"/>
+        <translation>Tam ekran(4:3)</translation>
     </message>
     <message>
         <source>W&amp;idth:</source>
@@ -33221,7 +33221,7 @@ Music</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması</translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
