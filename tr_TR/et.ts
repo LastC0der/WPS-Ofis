@@ -6921,7 +6921,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Base</source>
-        <translation type="unfinished"/>
+        <translation>Taban</translation>
     </message>
     <message>
         <source>Beta</source>
@@ -8234,7 +8234,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Lower Case Chinese number</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Harf Çince numarası</translation>
     </message>
     <message>
         <source>is any value or expression that can be evaluated to TRUE or FALSE.</source>
@@ -11484,7 +11484,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>The octal number to convert</source>
-        <translation type="unfinished"/>
+        <translation>Dönüştürülecek sekizlik sayı</translation>
     </message>
     <message>
         <source>Drop-down box</source>
@@ -15967,7 +15967,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>This Month</source>
-        <translation type="unfinished"/>
+        <translation>Bu Ay</translation>
     </message>
     <message>
         <source>Does not end with &quot;%1&quot;</source>
@@ -16127,7 +16127,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>This Quarter</source>
-        <translation type="unfinished"/>
+        <translation>Bu Çeyrek</translation>
     </message>
     <message>
         <source>Is before &quot;%1&quot;</source>
@@ -16143,7 +16143,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Next Quarter</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Çeyrek</translation>
     </message>
     <message>
         <source>Custom Filter</source>
@@ -20581,7 +20581,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Object Menu List</source>
-        <translation type="unfinished"/>
+        <translation>Nesne Menü Listesi</translation>
     </message>
     <message>
         <source>Primary Minor Vertial</source>
@@ -20662,7 +20662,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Delete Object</source>
-        <translation type="unfinished"/>
+        <translation>Nesneyi Sil</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
@@ -25763,7 +25763,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the discount rate for a security.</source>
-        <translation type="unfinished"/>
+        <translation>!Menkul kıymet için indirim oranını döndürür.</translation>
     </message>
     <message>
         <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
@@ -29469,7 +29469,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>This month</source>
-        <translation type="unfinished"/>
+        <translation>Bu ay</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -29481,7 +29481,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"/>
+        <translation>Son %10</translation>
     </message>
     <message>
         <source>Values</source>
@@ -30364,7 +30364,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Third Quarter</source>
-        <translation type="unfinished"/>
+        <translation>Üçüncü Çeyrek</translation>
     </message>
     <message>
         <source>All Date</source>
@@ -30400,7 +30400,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>This Month</source>
-        <translation type="unfinished"/>
+        <translation>Bu Ay</translation>
     </message>
     <message>
         <source>October</source>
@@ -30500,15 +30500,15 @@ Boyacısı</translation>
     </message>
     <message>
         <source>This Quarter</source>
-        <translation type="unfinished"/>
+        <translation>Bu Çeyrek</translation>
     </message>
     <message>
         <source>Last Quarter</source>
-        <translation type="unfinished"/>
+        <translation>Son Çeyrek</translation>
     </message>
     <message>
         <source>Next Quarter</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Çeyrek</translation>
     </message>
     <message>
         <source>Custom Filter</source>
@@ -30520,7 +30520,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Fourth Quarter</source>
-        <translation type="unfinished"/>
+        <translation>Dördüncü Çeyrek</translation>
     </message>
     <message>
         <source>Greater</source>
@@ -32955,7 +32955,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>Please select one or more columns that contain duplicates.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen yinelenenleri içeren bir veya daha fazla sütun seçin.</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates</source>
@@ -45045,7 +45045,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>English(United States)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (ABD)</translation>
     </message>
     <message>
         <source>Number is used for general display of numbers.Currency and Accounting offer specialized formatting for monetary value.</source>
@@ -46756,7 +46756,7 @@ Değer: </translation>
     </message>
     <message>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sil</translation>
     </message>
     <message>
         <source>If the value in a PivotTable cell is affected by two or more calculated items, the value is determined by last formula in the solve order.</source>
@@ -46819,11 +46819,11 @@ Değer: </translation>
     </message>
     <message>
         <source>No Changes</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklik Yok</translation>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çift yönlü yazdırma</translation>
     </message>
 </context>
 <context>
@@ -48424,14 +48424,14 @@ OLE DB Query</source>
     <name>KxEtChartObjectsCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir tamsayı değil.</translation>
     </message>
 </context>
 <context>
     <name>KxEtZoomCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir tamsayı değil.</translation>
     </message>
 </context>
 <context>
@@ -48733,7 +48733,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Export to Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya Aktar</translation>
     </message>
     <message>
         <source>Export to Book</source>
@@ -52404,7 +52404,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KOptionColorShowWidget</name>
     <message>
         <source>Choose the font color as a sort on:</source>
-        <translation type="unfinished"/>
+        <translation>Sıralama olarak yazı tipi rengini seçin:</translation>
     </message>
     <message>
         <source>No Fill</source>
@@ -52416,11 +52416,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Choose the cell color as a sort on:</source>
-        <translation type="unfinished"/>
+        <translation>Sıralama olarak hücre rengini seçin:</translation>
     </message>
     <message>
         <source>Choose the cell icon as a sort on:</source>
-        <translation type="unfinished"/>
+        <translation>Sıralama olarak hücre simgesini seçin:</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -52468,7 +52468,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>different new sheet</source>
-        <translation type="unfinished"/>
+        <translation>farklı yeni sayfa</translation>
     </message>
 </context>
 <context>
@@ -59603,11 +59603,11 @@ Okuma</translation>
     </message>
     <message>
         <source>Export to Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya Aktar</translation>
     </message>
     <message>
         <source>Export to Book</source>
-        <translation type="unfinished"/>
+        <translation>Kitaba Aktar</translation>
     </message>
     <message>
         <source>Filter Analysis</source>
