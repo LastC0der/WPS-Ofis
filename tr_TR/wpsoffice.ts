@@ -2213,7 +2213,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Fit page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya sığdır</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -3502,7 +3502,7 @@ Check path and filename.</source>
     <name>KPromeTabCloseOtherWidget</name>
     <message>
         <source>all</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>right</source>
@@ -3513,7 +3513,7 @@ Check path and filename.</source>
     <name>KQingLoginProtocolDlg</name>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>ve</translation>
     </message>
     <message>
         <source>Disagree agreement</source>
@@ -3568,7 +3568,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Join the experience improvement plan</source>
-        <translation type="unfinished"/>
+        <translation>Deneyim geliştirme planına katılın</translation>
     </message>
     <message>
         <source>License Agreement</source>
@@ -6367,7 +6367,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>Invalid entity value.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz varlık değeri.</translation>
     </message>
     <message>
         <source>Encoding %1 is unsupported</source>
@@ -7500,7 +7500,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not get array data</source>
-        <translation type="unfinished"/>
+        <translation>Dizi verileri alınamadı</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
@@ -8044,7 +8044,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Authentication required</source>
-        <translation type="unfinished"/>
+        <translation>Kimlik doğrulaması gerekiyor</translation>
     </message>
     <message>
         <source>SSL handshake failed</source>
@@ -8551,7 +8551,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Authentication required</source>
-        <translation type="unfinished"/>
+        <translation>Kimlik doğrulaması gerekiyor</translation>
     </message>
     <message>
         <source>Error parsing authentication request from proxy</source>
@@ -9110,7 +9110,7 @@ Swiftly create a blank tab of the same type with Ctrl+N</source>
     <name>KxDlgTrialReminder</name>
     <message>
         <source>WPS Office Trial Reminder</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Deneme Sürümü Hatırlatıcısı</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;To buy the WPS office, can continue to normal use after the probation period&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -9415,7 +9415,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Trial period is over.You will enter the preview mode that offer a unnormal funtion of WPS Office.If need to continue to use,please buy the WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Deneme süresi bitti. WPS Ofis&apos;in normal olmayan bir işlevini sunan önizleme moduna gireceksiniz. Kullanmaya devam etmeniz gerekiyorsa lütfen WPS Ofis&apos;i satın alın&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Buy Now</source>
