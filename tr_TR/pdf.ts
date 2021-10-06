@@ -4458,7 +4458,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>Odd and even pages</source>
@@ -8591,7 +8591,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>%1 days</source>
-        <translation type="unfinished"/>
+        <translation>%1 gün</translation>
     </message>
 </context>
 <context>
@@ -9643,7 +9643,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Delete Object</source>
-        <translation type="unfinished"/>
+        <translation>Nesneyi Sil</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -11992,7 +11992,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Merge and Split</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir ve Böl</translation>
     </message>
 </context>
 <context>
@@ -12024,7 +12024,7 @@ Pencere</translation>
     <name>QObject</name>
     <message>
         <source>Fit Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya Sığdır</translation>
     </message>
     <message>
         <source>Cur page num</source>
@@ -12032,7 +12032,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
-        <translation type="unfinished"/>
+        <translation>En Son Yazı Tipleri</translation>
     </message>
     <message>
         <source>FullTextSearch</source>
