@@ -1416,7 +1416,7 @@ Please check your data and make sure that the reference is valid and the workshe
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir tamsayı değil.</translation>
     </message>
     <message>
         <source>Cannot install this file, because the security certificate has some problems. This XML expansion pack may won&apos;t run as expecte.For more information, please contact your administrator.</source>
@@ -2976,7 +2976,7 @@ Please save the file and create share link</source>
     </message>
     <message>
         <source>Chinese (PRC)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (ÇHC)</translation>
     </message>
     <message>
         <source>Cascade Down</source>
@@ -3044,7 +3044,7 @@ Please save the file and create share link</source>
     </message>
     <message>
         <source>English (United States)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (ABD)</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
@@ -3781,7 +3781,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Base</source>
-        <translation type="unfinished"/>
+        <translation>Taban</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -3829,7 +3829,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Units</source>
-        <translation type="unfinished"/>
+        <translation>Birim</translation>
     </message>
     <message>
         <source>Years</source>
@@ -5513,7 +5513,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>Hexagon</source>
         <comment>DRAWING2_TOOLTIP_HEXAGON</comment>
-        <translation type="unfinished"/>
+        <translation>Altıgen</translation>
     </message>
     <message>
         <source>OutlinedDiamond</source>
@@ -5761,7 +5761,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>SaddleBrown</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Kahverengi</translation>
     </message>
     <message>
         <source>Dot Dash Line</source>
@@ -5893,7 +5893,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>Hexagon</source>
         <comment>DRAWING2STR_HEXAGON</comment>
-        <translation type="unfinished"/>
+        <translation>Altıgen</translation>
     </message>
     <message>
         <source>Action Button: Movie</source>
@@ -6814,15 +6814,15 @@ Ekle</translation>
     </message>
     <message>
         <source>Colored Paper 1</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Kağıt 1</translation>
     </message>
     <message>
         <source>Colored Paper 2</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Kağıt 2</translation>
     </message>
     <message>
         <source>Colored Paper 3</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Kağıt 3</translation>
     </message>
     <message>
         <source>Line Callout 2 (No Border)</source>
@@ -8969,7 +8969,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Radial Diagram</source>
-        <translation type="unfinished"/>
+        <translation>Radyal Diyagram</translation>
     </message>
     <message>
         <source>Left Horn</source>
@@ -9365,7 +9365,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Hexagon</source>
-        <translation type="unfinished"/>
+        <translation>Altıgen</translation>
     </message>
     <message>
         <source>ModerateLine-</source>
@@ -11805,7 +11805,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Recent Fonts</source>
-        <translation type="unfinished"/>
+        <translation>En Son Yazı Tipleri</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12675,11 +12675,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
+        <translation>Ofis</translation>
     </message>
     <message>
         <source>Document Issuing level</source>
-        <translation type="unfinished"/>
+        <translation>Belge Verme düzeyi</translation>
     </message>
     <message>
         <source>Source</source>
@@ -12687,7 +12687,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"/>
+        <translation>Hedef</translation>
     </message>
     <message>
         <source>Document organization or issuer signature</source>
@@ -13320,7 +13320,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Delete Point</source>
-        <translation type="unfinished"/>
+        <translation>Noktayı Sil</translation>
     </message>
     <message>
         <source>*.mid;*.midi;*.rmi</source>
@@ -16290,7 +16290,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>Document Id:</source>
@@ -16373,7 +16373,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>Approve passed</source>
@@ -16440,7 +16440,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>Document Id:</source>
@@ -16641,7 +16641,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Fit page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya sığdır</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -16763,7 +16763,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>Public Template</source>
@@ -17474,7 +17474,7 @@ Check path and filename.</source>
     <name>KxDlgUserRightTemplate</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>Batch Delete</source>
@@ -17529,14 +17529,14 @@ Check path and filename.</source>
     <name>KxTabsDlg</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
 </context>
 <context>
     <name>kso_smartart</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>TÜMÜ</translation>
     </message>
     <message>
         <source>Gear</source>
@@ -18665,7 +18665,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Vertical Bending Process</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Döndürme İşlemi</translation>
     </message>
     <message>
         <source>Add Assistant</source>
@@ -20282,7 +20282,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
+        <translation>Ofis</translation>
     </message>
     <message>
         <source>Origin</source>
@@ -20851,7 +20851,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Document Issuing level</source>
-        <translation type="unfinished"/>
+        <translation>Belge Verme düzeyi</translation>
     </message>
     <message>
         <source>Source</source>
@@ -20887,7 +20887,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Sa&amp;ve preview picture</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme &amp;resmini kaydet</translation>
     </message>
     <message>
         <source>&amp;Manager:</source>
@@ -21366,7 +21366,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Small Form Variants</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Form Değişiklikleri</translation>
     </message>
 </context>
 <context>
@@ -23333,7 +23333,7 @@ Possible reasons:
     </message>
     <message>
         <source>Join the experience improvement plan</source>
-        <translation type="unfinished"/>
+        <translation>Deneyim geliştirme planına katılın</translation>
     </message>
     <message>
         <source>License Agreement</source>
@@ -24311,7 +24311,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çift yönlü yazdırma</translation>
     </message>
     <message>
         <source>Flip on long edge</source>
@@ -25319,7 +25319,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
-        <translation type="unfinished"/>
+        <translation>JPEG Dosya Değişim Biçimi(*.jpg *.jpeg *.jpe)</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(GIF)(*.gif)</source>
@@ -26190,7 +26190,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.ppt)|*.ppt</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.ppt)|*.ppt</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
@@ -27519,7 +27519,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1%2%3click here to view more details.%4</source>
-        <translation type="unfinished"/>
+        <translation>%1%2%3daha fazla ayrıntı görüntülemek için burayı tıklayın.%4</translation>
     </message>
     <message>
         <source>security warning: macros have been disabled</source>
@@ -27817,7 +27817,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Radial Diagram</source>
-        <translation type="unfinished"/>
+        <translation>Radyal Diyagram</translation>
     </message>
     <message>
         <source>Venn Diagram</source>
@@ -29174,7 +29174,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>English(United States)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (ABD)</translation>
     </message>
     <message>
         <source>English(New Zealand)</source>
@@ -29827,7 +29827,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir tamsayı değil.</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
@@ -30319,7 +30319,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Additional settings:</source>
-        <translation type="unfinished"/>
+        <translation>Ek ayarlar:</translation>
     </message>
     <message>
         <source>&amp;Restrict permission to this document</source>
@@ -30708,7 +30708,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Invalid entity value.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz varlık değeri.</translation>
     </message>
     <message>
         <source>Encoding %1 is unsupported</source>
@@ -32939,7 +32939,7 @@ Please check your system settings and ensure that the temporary directory under 
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir tamsayı değil.</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -32950,7 +32950,7 @@ Please check your system settings and ensure that the temporary directory under 
     <name>KxEditWordArtTextDlg</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir tamsayı değil.</translation>
     </message>
     <message>
         <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
@@ -32965,14 +32965,14 @@ Please check your system settings and ensure that the temporary directory under 
     <name>KxFontSizeComboboxCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir tamsayı değil.</translation>
     </message>
 </context>
 <context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir tamsayı değil.</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -33430,7 +33430,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Could not get array data</source>
-        <translation type="unfinished"/>
+        <translation>Dizi verileri alınamadı</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
@@ -34137,7 +34137,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Authentication required</source>
-        <translation type="unfinished"/>
+        <translation>Kimlik doğrulaması gerekiyor</translation>
     </message>
     <message>
         <source>SSL handshake failed</source>
@@ -35450,7 +35450,7 @@ Please check network</source>
     </message>
     <message>
         <source>Authentication required</source>
-        <translation type="unfinished"/>
+        <translation>Kimlik doğrulaması gerekiyor</translation>
     </message>
     <message>
         <source>Error parsing authentication request from proxy</source>
@@ -36814,7 +36814,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Please input group name</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen grup adını girin</translation>
     </message>
     <message>
         <source>Add User</source>
@@ -37395,7 +37395,7 @@ you can use the login!</source>
     <name>KxDlgTrialReminder</name>
     <message>
         <source>WPS Office Trial Reminder</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Deneme Sürümü Hatırlatıcısı</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;To buy the WPS office, can continue to normal use after the probation period&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -37951,7 +37951,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Trial period is over.You will enter the preview mode that offer a unnormal funtion of WPS Office.If need to continue to use,please buy the WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Deneme süresi bitti. WPS Ofis&apos;in normal olmayan bir işlevini sunan önizleme moduna gireceksiniz. Kullanmaya devam etmeniz gerekiyorsa lütfen WPS Ofis&apos;i satın alın&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Buy Now</source>
