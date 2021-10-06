@@ -1909,7 +1909,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>MP4 Audio (*.m4a)</source>
-        <translation type="unfinished"/>
+        <translation>MP4 Ses (*.m4a)</translation>
     </message>
     <message>
         <source>Remove Smart Animation</source>
@@ -2714,7 +2714,7 @@ Check</source>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.ppt)|*.ppt</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.ppt)|*.ppt</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -2905,7 +2905,7 @@ Check</source>
     <message>
         <source>1 Slide</source>
         <comment>WpPrintWays_1Slide</comment>
-        <translation type="unfinished"/>
+        <translation>1 Slayt</translation>
     </message>
     <message>
         <source>All Files</source>
@@ -4168,7 +4168,7 @@ Check</source>
     </message>
     <message>
         <source>8 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>8 Tekerlek Teli</translation>
     </message>
     <message>
         <source>2 Spokes</source>
@@ -4184,7 +4184,7 @@ Check</source>
     </message>
     <message>
         <source>&amp;8 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;8 Tekerlek Teli</translation>
     </message>
     <message>
         <source>&amp;2 Spokes</source>
@@ -5549,7 +5549,7 @@ Check</source>
     </message>
     <message>
         <source>Hexagon</source>
-        <translation type="unfinished"/>
+        <translation>Altıgen</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
@@ -10077,7 +10077,7 @@ Boyacısı</translation>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayttan</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -10485,7 +10485,7 @@ Efektleri</translation>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayttan</translation>
     </message>
     <message>
         <source>Slide(From Outline)</source>
@@ -10593,7 +10593,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Model Essay</source>
-        <translation type="unfinished"/>
+        <translation>Model Denemesi</translation>
     </message>
     <message>
         <source>Rotate all text 270°</source>
@@ -13748,7 +13748,7 @@ Master</source>
     </message>
     <message>
         <source>Object Menu List</source>
-        <translation type="unfinished"/>
+        <translation>Nesne Menü Listesi</translation>
     </message>
     <message>
         <source>Arrow Options</source>
@@ -13817,7 +13817,7 @@ Master</source>
     </message>
     <message>
         <source>Delete Object</source>
-        <translation type="unfinished"/>
+        <translation>Nesneyi Sil</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
@@ -14154,7 +14154,7 @@ Master</source>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayttan</translation>
     </message>
     <message>
         <source>ExtendObjectTrigger</source>
@@ -14895,7 +14895,7 @@ Yapısı</translation>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayttan</translation>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
@@ -14915,7 +14915,7 @@ Slide</source>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint 97-2003 Gösterisi</translation>
     </message>
     <message>
         <source>New From Online Templates</source>
@@ -16063,7 +16063,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint 97-2003 Gösterisi</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
@@ -16630,7 +16630,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Model Essay</source>
-        <translation type="unfinished"/>
+        <translation>Model Denemesi</translation>
     </message>
     <message>
         <source>Document Permission</source>
@@ -21354,7 +21354,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Model Essay</source>
-        <translation type="unfinished"/>
+        <translation>Model Denemesi</translation>
     </message>
     <message>
         <source>File Collect</source>
@@ -22919,7 +22919,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"/>
+        <translation>Hedef</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -22982,7 +22982,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"/>
+        <translation>Hedef</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -23389,7 +23389,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Model Essay</source>
-        <translation type="unfinished"/>
+        <translation>Model Denemesi</translation>
     </message>
     <message>
         <source>Buy Subscription</source>
@@ -26491,7 +26491,7 @@ Esc					End of the slide show</source>
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir tamsayı değil.</translation>
     </message>
 </context>
 <context>
@@ -27253,7 +27253,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Model Essay</source>
-        <translation type="unfinished"/>
+        <translation>Model Denemesi</translation>
     </message>
 </context>
 <context>
@@ -29723,7 +29723,7 @@ Ekle</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayttan</translation>
     </message>
     <message>
         <source>Keep Only Text</source>
@@ -29824,7 +29824,7 @@ Ekle</translation>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayttan</translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -30869,7 +30869,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint 97-2003 Gösterisi</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
