@@ -434,19 +434,19 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     <name>KRecentvisitContainter</name>
     <message>
         <source>et</source>
-        <translation type="unfinished"/>
+        <translation>XLS</translation>
     </message>
     <message>
         <source>all</source>
-        <translation type="unfinished"/>
+        <translation>TÜMÜ</translation>
     </message>
     <message>
         <source>pdf</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>wpp</source>
-        <translation type="unfinished"/>
+        <translation>PPT</translation>
     </message>
     <message>
         <source>wps</source>
