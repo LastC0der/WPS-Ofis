@@ -6894,7 +6894,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması</translation>
     </message>
     <message>
         <source>Upholding Fixed</source>
@@ -17984,7 +17984,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması</translation>
     </message>
     <message>
         <source>Alternating Picture Circles</source>
@@ -27801,7 +27801,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması</translation>
     </message>
     <message>
         <source>Used to show foundation-based relationships</source>
