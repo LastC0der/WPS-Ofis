@@ -5263,7 +5263,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>The spelling check is complete.</source>
-        <translation type="unfinished"/>
+        <translation>Yazım denetimi tamamlandı.</translation>
     </message>
     <message>
         <source>For &amp;which endnote:</source>
@@ -16474,7 +16474,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Format Legend</source>
-        <translation type="unfinished"/>
+        <translation>Göstergeyi Biçimlendir</translation>
     </message>
     <message>
         <source>Convert to Footnote</source>
@@ -18652,7 +18652,7 @@ Screen</source>
     </message>
     <message>
         <source>Cloud Page</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Sayfası</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -36959,7 +36959,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>item(s) in list</source>
@@ -40420,7 +40420,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Fields:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alanlar:</translation>
     </message>
 </context>
 <context>
