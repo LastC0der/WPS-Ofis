@@ -7259,7 +7259,7 @@ to
     </message>
     <message>
         <source>Connected to host</source>
-        <translation type="unfinished"/>
+        <translation>Connected to host</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
@@ -7991,7 +7991,7 @@ This file may be renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Connected to host</source>
-        <translation type="unfinished"/>
+        <translation>Connected to host</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
