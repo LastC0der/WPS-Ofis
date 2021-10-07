@@ -10275,7 +10275,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>AreaHighLight</source>
@@ -12080,7 +12080,7 @@ Pencere</translation>
     </message>
     <message>
         <source>All Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Yazı Tipleri</translation>
     </message>
     <message>
         <source>Zoom Level</source>
