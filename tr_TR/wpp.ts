@@ -657,7 +657,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytlar</translation>
     </message>
     <message>
         <source>Support different levels of password protection,click &apos;advance&apos; to choose different encryption types.</source>
@@ -1552,7 +1552,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytlar</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -2244,7 +2244,7 @@ Check</source>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytlar</translation>
     </message>
     <message>
         <source>Delete All Markup In This Presentation</source>
@@ -4405,11 +4405,11 @@ Check</source>
     </message>
     <message>
         <source>To Top Left</source>
-        <translation type="unfinished"/>
+        <translation>Sol Üste</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"/>
+        <translation>Formüller</translation>
     </message>
     <message>
         <source>English(U.S.)</source>
@@ -4426,7 +4426,7 @@ Check</source>
     </message>
     <message>
         <source>A3 Paper(297x420 mm)</source>
-        <translation type="unfinished"/>
+        <translation>A3 Kağıt(297x420 mm)</translation>
     </message>
     <message>
         <source>The length of the folder path bellow is %d, but it cannot be longer than 255. Please modify it.
@@ -4498,7 +4498,7 @@ Check</source>
     </message>
     <message>
         <source>The spelling check is complete.</source>
-        <translation type="unfinished"/>
+        <translation>Yazım denetimi tamamlandı.</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -8726,7 +8726,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"/>
+        <translation>Romen</translation>
     </message>
     <message>
         <source>Union</source>
@@ -9163,7 +9163,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"/>
+        <translation>Romen</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -9644,7 +9644,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"/>
+        <translation>Romen</translation>
     </message>
     <message>
         <source>Width</source>
@@ -10031,7 +10031,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"/>
+        <translation>Romen</translation>
     </message>
     <message>
         <source>Slide</source>
@@ -10724,7 +10724,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"/>
+        <translation>Romen</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11845,7 +11845,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"/>
+        <translation>Romen</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -13123,7 +13123,7 @@ Template</source>
     </message>
     <message>
         <source>Format Legend</source>
-        <translation type="unfinished"/>
+        <translation>Göstergeyi Biçimlendir</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -14935,7 +14935,7 @@ Slide</source>
     </message>
     <message>
         <source>Cloud Page</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Sayfası</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -18542,7 +18542,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytlar</translation>
     </message>
     <message>
         <source>Cust&amp;om show:</source>
@@ -24684,7 +24684,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytlar</translation>
     </message>
     <message>
         <source>Timing</source>
@@ -27698,11 +27698,11 @@ Master</source>
     </message>
     <message>
         <source>L&amp;andscape</source>
-        <translation type="unfinished"/>
+        <translation>Ya&amp;tay</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytlar</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -27710,15 +27710,15 @@ Master</source>
     </message>
     <message>
         <source>P&amp;ortrait</source>
-        <translation type="unfinished"/>
+        <translation>Di&amp;key</translation>
     </message>
     <message>
         <source>A3 Paper(297x420 mm)</source>
-        <translation type="unfinished"/>
+        <translation>A3 Kağıt(297x420 mm)</translation>
     </message>
     <message>
         <source>&amp;Number slides from:</source>
-        <translation type="unfinished"/>
+        <translation>Slayt başlangıç &amp;numarası:</translation>
     </message>
     <message>
         <source>A4 Paper(210x297 mm)</source>
@@ -28440,7 +28440,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxWppVpSlideNormal</name>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytlar</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -28958,7 +28958,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"/>
+        <translation>Romen</translation>
     </message>
     <message>
         <source>Width</source>
@@ -29434,7 +29434,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"/>
+        <translation>Romen</translation>
     </message>
     <message>
         <source>Slide</source>
@@ -33048,7 +33048,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytlar</translation>
     </message>
     <message>
         <source>Portrait</source>
