@@ -6649,7 +6649,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Available &amp;fields:</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılabilir &amp;alanlar:</translation>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box. All fields will be listed in the left list box. Select the fields needed to be imported there, and the selected fields will be listed in the right list box.</source>
@@ -7926,7 +7926,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is a number specifying the type of Roman numeral you want.</source>
-        <translation type="unfinished"/>
+        <translation>istediğiniz Romen rakamının türünü belirten bir sayıdır.</translation>
     </message>
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
@@ -13826,7 +13826,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Number is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı geçerli değil.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -13987,7 +13987,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Input error, the value must be an Integer between 1 and 10000.</source>
-        <translation type="unfinished"/>
+        <translation>Giriş hatası, değer 1 ile 10000 arasında bir Tamsayı olmalıdır.</translation>
     </message>
     <message>
         <source>does not contain</source>
@@ -15147,7 +15147,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Axis Labels</source>
-        <translation type="unfinished"/>
+        <translation>Axis Labels</translation>
     </message>
 </context>
 <context>
@@ -15308,7 +15308,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>&amp;Fields:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alanlar:</translation>
     </message>
 </context>
 <context>
@@ -19903,7 +19903,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Format Legend</source>
-        <translation type="unfinished"/>
+        <translation>Göstergeyi Biçimlendir</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -27878,7 +27878,7 @@ Ekran</translation>
     </message>
     <message>
         <source>Cloud Page</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Sayfası</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -36622,7 +36622,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Remove Trailing Space</source>
@@ -36765,7 +36765,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı T&amp;aşı</translation>
     </message>
     <message>
         <source>Show Report Filter Buttons On Chart</source>
@@ -36789,7 +36789,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Drag fields between areas below</source>
-        <translation type="unfinished"/>
+        <translation>Alanları aşağıdaki bölgeler arasında sürükleyin</translation>
     </message>
     <message>
         <source>Hide Value Field Buttons On Chart</source>
@@ -46065,7 +46065,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert &amp;blank line after each item</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Her öğeden sonra boş satır ekle</translation>
     </message>
     <message>
         <source>Base &amp;item:</source>
@@ -46748,7 +46748,7 @@ Değer: </translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı T&amp;aşı</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
