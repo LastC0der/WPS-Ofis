@@ -5927,11 +5927,11 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     <name>QWorkspace</name>
     <message>
         <source>&amp;Move</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Taşı</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Boyut</translation>
     </message>
     <message>
         <source>Close</source>
@@ -7260,7 +7260,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Connected to host</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayara bağlandı</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
@@ -7992,7 +7992,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Connected to host</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayara bağlandı</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
