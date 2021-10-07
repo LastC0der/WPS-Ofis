@@ -32926,7 +32926,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Connected to host</source>
-        <translation type="unfinished"/>
+        <translation>Connected to host</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
@@ -34189,7 +34189,7 @@ Please reinstall WPS Office!</translation>
     </message>
     <message>
         <source>Connected to host</source>
-        <translation type="unfinished"/>
+        <translation>Connected to host</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
