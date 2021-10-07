@@ -5013,7 +5013,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="unfinished"/>
+        <translation>Romen</translation>
     </message>
     <message>
         <source>Rough</source>
@@ -6384,7 +6384,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Groove</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Söndür</translation>
     </message>
     <message>
         <source>Up Perspective</source>
@@ -8639,7 +8639,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>WordArt: Triangle Inverted</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Ters Üçgen</translation>
     </message>
     <message>
         <source>MostRightMostBig</source>
@@ -12224,7 +12224,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>All Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Yazı Tipleri</translation>
     </message>
     <message>
         <source>the application occurs errors, please reinstall the certification application environment</source>
@@ -23399,7 +23399,7 @@ Possible reasons:
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı T&amp;aşı</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
@@ -29524,11 +29524,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>QWorkspace</name>
     <message>
         <source>&amp;Move</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Taşı</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Boyut</translation>
     </message>
     <message>
         <source>Close</source>
@@ -32823,7 +32823,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Connected to host</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayara bağlandı</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
@@ -33838,7 +33838,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Application time</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama zamanı</translation>
     </message>
     <message>
         <source>Accepted</source>
@@ -34085,7 +34085,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Connected to host</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayara bağlandı</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
