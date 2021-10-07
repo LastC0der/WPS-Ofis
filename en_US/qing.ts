@@ -7683,7 +7683,7 @@ to
     </message>
     <message>
         <source>Connected to host</source>
-        <translation type="unfinished"/>
+        <translation>Connected to host</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
@@ -8295,7 +8295,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Connected to host</source>
-        <translation type="unfinished"/>
+        <translation>Connected to host</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
