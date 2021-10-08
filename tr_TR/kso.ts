@@ -866,7 +866,7 @@
     </message>
     <message>
         <source>Enter 0% to 100 % of value</source>
-        <translation type="unfinished"/>
+        <translation>%0 ile %100 arasında bir değer girin.</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
@@ -2518,7 +2518,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>New Command</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Komut</translation>
     </message>
     <message>
         <source>As tenths (%s)</source>
@@ -4479,7 +4479,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>DocumentCode:</source>
-        <translation type="unfinished"/>
+        <translation>Belge Kodu:</translation>
     </message>
 </context>
 <context>
@@ -5045,7 +5045,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Slope</source>
-        <translation type="unfinished"/>
+        <translation>Eğim</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5662,7 +5662,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>WordArt: Arch Up Curve</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Yay Yukarı Eğri</translation>
     </message>
     <message>
         <source>WordArt: Deflate Top</source>
@@ -6755,7 +6755,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Up Arc</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Yay</translation>
     </message>
     <message>
         <source>32-Point Star</source>
@@ -7486,7 +7486,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Inverted Trapezoid</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı Soldur</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
@@ -9952,7 +9952,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Tabloid</source>
-        <translation>Tabloid</translation>
+        <translation>Tabloit</translation>
     </message>
     <message>
         <source>A4 (210 x 297 mm, 8.26 x 11.7 inches)</source>
@@ -11587,7 +11587,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Tü&amp;müne Hayır</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -12327,7 +12327,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Tü&amp;müne Hayır</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -13254,7 +13254,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Ekle</translation>
     </message>
     <message>
         <source>Insert Sound</source>
@@ -13511,7 +13511,7 @@ Ekle</translation>
     </message>
     <message>
         <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
-        <translation type="unfinished"/>
+        <translation>MIDI Dosyası(midi) (*.mid;*.midi;*.rmi)</translation>
     </message>
     <message>
         <source>Format Text Box</source>
@@ -15425,7 +15425,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Re&amp;set</source>
-        <translation type="unfinished"/>
+        <translation>Sı&amp;fırla</translation>
     </message>
     <message>
         <source>W&amp;idth</source>
@@ -15551,7 +15551,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Te&amp;xt direction</source>
-        <translation type="unfinished"/>
+        <translation>Met&amp;in yönü</translation>
     </message>
     <message>
         <source>Wide Margins</source>
@@ -15635,7 +15635,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Text c&amp;ustom angle</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;zel açı</translation>
     </message>
     <message>
         <source>Enter 0 to 55.88 cm of value</source>
@@ -15740,7 +15740,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter -100% to 100% of value</source>
-        <translation type="unfinished"/>
+        <translation>-%100 ile %100 arasında bir değer girin.</translation>
     </message>
     <message>
         <source>S&amp;mall Caps</source>
@@ -15983,7 +15983,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Li&amp;ne spacing:</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;atır aralığı:</translation>
     </message>
     <message>
         <source>General</source>
@@ -16358,7 +16358,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Watermark Protect</source>
-        <translation type="unfinished"/>
+        <translation>Filigran Koruması</translation>
     </message>
     <message>
         <source>Application date:</source>
@@ -16716,7 +16716,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>2019</source>
-        <translation type="unfinished"/>
+        <translation>2019</translation>
     </message>
     <message>
         <source>Skin</source>
@@ -16724,7 +16724,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Color Scheme</source>
@@ -17580,7 +17580,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show hierarchical relationships progressing across groups. Can also be used to group or list information.</source>
-        <translation type="unfinished"/>
+        <translation>Gruplar arasında ilerleyen hiyerarşik ilişkileri göstermek için kullanın. Bilgileri gruplandırmak veya listelemek için de kullanılabilir.</translation>
     </message>
     <message>
         <source>Basic Pyramid</source>
@@ -17680,7 +17680,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show interlocking ideas. Each of the first three lines of Level 1 text corresponds to a gear shape, and their corresponding Level 2 text appears in rectangles next to the gear shape. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>Birbirine kenetlenmiş görüşleri göstermek için kullanın. Düzey 1 metninin ilk üç satırının her biri bir dişli şekline karşılık gelir ve karşılık gelen Düzey 2 metni dişli şeklinin yanında dikdörtgen şekilleri içinde görüntülenir. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Simple Fill</source>
@@ -18012,7 +18012,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show proportional, interconnected, or hierarchical relationships with the largest component on the bottom and narrowing up. Level 1 text appears in the pyramid segments and Level 2 text appears in shapes alongside each segment.</source>
-        <translation type="unfinished"/>
+        <translation>Orantılı, birbirine bağlı veya hiyerarşik ilişkileri en büyük bileşen en üstte olacak ve aşağıya doğru daralan şekilde göstermek için kullanın. Düzey 1 metni piramit kesimlerinin içinde, Düzey 2 metni de her bir kesimin yanındaki şekillerde görüntülenir.</translation>
     </message>
     <message>
         <source>Basic Block List</source>
@@ -18205,7 +18205,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape, and its Level 2 text corresponds to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>Dairede merkezi bir görüşle ilişkiyi göstermek için kullanın. Düzey 1 metninin ilk satırı merkezi şekle ve bunun Düzey 2 metni de bunu çevreleyen dairesel şekillere karşılık gelir. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Use to show a progression, a timeline, or sequential steps in a task, process, or workflow, or to emphasize movement or direction. Can be used to emphasize information in the starting shape. Works best with Level 1 text only.</source>
@@ -19197,7 +19197,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Create Combination Charts.</source>
-        <translation type="unfinished"/>
+        <translation>Grafik kombinasyonları oluşturun.</translation>
     </message>
     <message>
         <source>Line with Markers</source>
@@ -19444,7 +19444,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Create Combination Charts.</source>
-        <translation type="unfinished"/>
+        <translation>Grafik kombinasyonları oluşturun.</translation>
     </message>
     <message>
         <source>Line with Markers</source>
@@ -19901,15 +19901,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı kaydır</translation>
     </message>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya kaydır</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"/>
+        <translation>Sola kaydır</translation>
     </message>
     <message>
         <source>Move the cursor to the start of the block</source>
@@ -20099,7 +20099,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa kaydır</translation>
     </message>
     <message>
         <source>No Guesses Found</source>
@@ -20194,7 +20194,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Apex</source>
-        <translation type="unfinished"/>
+        <translation>Zirve</translation>
     </message>
     <message>
         <source>Flow</source>
@@ -20234,7 +20234,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Adjacency</source>
-        <translation type="unfinished"/>
+        <translation>Bitişiklik</translation>
     </message>
     <message>
         <source>Office Theme</source>
@@ -20250,7 +20250,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Angles</source>
-        <translation type="unfinished"/>
+        <translation>Açılar</translation>
     </message>
     <message>
         <source>Aspect</source>
@@ -20358,7 +20358,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Apothecary</source>
-        <translation type="unfinished"/>
+        <translation>Eczane</translation>
     </message>
     <message>
         <source>Executive</source>
@@ -21110,7 +21110,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Currency Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Para Birimi Simgeleri</translation>
     </message>
     <message>
         <source>Malayalam</source>
@@ -22727,15 +22727,15 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı kaydır</translation>
     </message>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya kaydır</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"/>
+        <translation>Sola kaydır</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -22755,7 +22755,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa kaydır</translation>
     </message>
     <message>
         <source>Left edge</source>
@@ -22916,15 +22916,15 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı kaydır</translation>
     </message>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya kaydır</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"/>
+        <translation>Sola kaydır</translation>
     </message>
     <message>
         <source>Line up</source>
@@ -22956,7 +22956,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa kaydır</translation>
     </message>
     <message>
         <source>Left edge</source>
@@ -23041,7 +23041,7 @@ This file may be renamed, deleted or moved.</source>
     <name>kso_filter</name>
     <message>
         <source>Zip</source>
-        <translation type="unfinished"/>
+        <translation>Zip</translation>
     </message>
     <message>
         <source>Word XML Document</source>
@@ -23054,7 +23054,7 @@ This file may be renamed, deleted or moved.</source>
     <message>
         <source>Chinese Office Software Document Format</source>
         <comment>_WpioDesc_UOF3</comment>
-        <translation type="unfinished"/>
+        <translation>Çince Ofis Yazılımı Belge Biçimi</translation>
     </message>
     <message>
         <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
@@ -23087,7 +23087,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Chinese Office Software Document Format 2.0</source>
-        <translation type="unfinished"/>
+        <translation>Çince Ofis Yazılımı Belge Biçimi 2.0</translation>
     </message>
     <message>
         <source>Uniform Office Text Format</source>
@@ -23138,11 +23138,11 @@ Possible reasons:
     </message>
     <message>
         <source>OFD Format</source>
-        <translation type="unfinished"/>
+        <translation>OFD Biçimi</translation>
     </message>
     <message>
         <source>PDF Format</source>
-        <translation type="unfinished"/>
+        <translation>PDF Biçimi</translation>
     </message>
     <message>
         <source>WPS Writer Documents</source>
@@ -23151,11 +23151,11 @@ Possible reasons:
     <message>
         <source>WPS Presentation Files</source>
         <comment>_KsoLinuxOleDpsFile</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum Dosyaları</translation>
     </message>
     <message>
         <source>Microsoft Excel Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Excel Çalışma Kitabı</translation>
     </message>
     <message>
         <source>Microsoft Word Macro-Enabled Document</source>
@@ -23171,7 +23171,7 @@ Possible reasons:
     </message>
     <message>
         <source>Chinese Office Software Document Format</source>
-        <translation type="unfinished"/>
+        <translation>Çince Ofis Yazılımı Belge Biçimi</translation>
     </message>
     <message>
         <source>Public Custom Document Format</source>
@@ -23547,7 +23547,7 @@ Possible reasons:
     </message>
     <message>
         <source>&amp;Macro name:</source>
-        <translation type="unfinished"/>
+        <translation>Mak&amp;ro adı:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -24965,7 +24965,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Insi&amp;de Base</source>
-        <translation type="unfinished"/>
+        <translation>İç &amp;Taban</translation>
     </message>
     <message>
         <source>&amp;Inside End</source>
@@ -25082,7 +25082,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Forecast</source>
-        <translation type="unfinished"/>
+        <translation>Tahmin</translation>
     </message>
     <message>
         <source>periods</source>
@@ -26182,11 +26182,11 @@ Ortalama</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.doc)|*.doc</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.doc)|*.doc</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.xls)|*.xls</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.xls)|*.xls</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.ppt)|*.ppt</source>
@@ -26226,7 +26226,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -28437,7 +28437,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Day %1 is outside the range %2..%3.</source>
-        <translation type="unfinished"/>
+        <translation>%1 günü, %2..%3 aralığının dışında.</translation>
     </message>
     <message>
         <source>%1 contains octets which are disallowed in the requested encoding %2.</source>
@@ -29124,7 +29124,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Cannot register this control.</source>
-        <translation type="unfinished"/>
+        <translation>Bu denetimin kaydı yapılamıyor.</translation>
     </message>
 </context>
 <context>
@@ -29143,34 +29143,34 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Cannot register this control.</source>
-        <translation type="unfinished"/>
+        <translation>Bu denetimin kaydı yapılamıyor.</translation>
     </message>
 </context>
 <context>
     <name>KxFormatGroupContentChartNumber</name>
     <message>
         <source>Malay(Malaysia)</source>
-        <translation type="unfinished"/>
+        <translation>Malay dili (Malezya)</translation>
     </message>
     <message>
         <source>English(United Kingdom)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Birleşik Krallık)</translation>
     </message>
     <message>
         <source>Vietnamese(Vietnam)</source>
-        <translation type="unfinished"/>
+        <translation>Vietnam dili (Vietnam)</translation>
     </message>
     <message>
         <source>Thai Buddhist</source>
-        <translation type="unfinished"/>
+        <translation>Tay Budist</translation>
     </message>
     <message>
         <source>Portuguese(Brazil)</source>
-        <translation type="unfinished"/>
+        <translation>Portekizce (Brezilya)</translation>
     </message>
     <message>
         <source>English(Malaysia)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Malezya)</translation>
     </message>
     <message>
         <source>English(United States)</source>
@@ -29178,67 +29178,67 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>English(New Zealand)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Yeni Zelanda)</translation>
     </message>
     <message>
         <source>Russian(Russia)</source>
-        <translation type="unfinished"/>
+        <translation>Rusça (Rusya)</translation>
     </message>
     <message>
         <source>Portuguese(Portugal)</source>
-        <translation type="unfinished"/>
+        <translation>Portekizce (Portekiz)</translation>
     </message>
     <message>
         <source>English(Australia)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Avustralya)</translation>
     </message>
     <message>
         <source>English(Canada)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Kanada)</translation>
     </message>
     <message>
         <source>Hindi(India)</source>
-        <translation type="unfinished"/>
+        <translation>Hintçe (Hindistan)</translation>
     </message>
     <message>
         <source>English(Indonesia)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Endonezya)</translation>
     </message>
     <message>
         <source>Indonesian(Indonesia)</source>
-        <translation type="unfinished"/>
+        <translation>Endonezya dili (Endonezya)</translation>
     </message>
     <message>
         <source>Thai(Thailand)</source>
-        <translation type="unfinished"/>
+        <translation>Tay dili (Tayland)</translation>
     </message>
     <message>
         <source>Chinese(Simple)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Basit)</translation>
     </message>
     <message>
         <source>Japanese Year</source>
-        <translation type="unfinished"/>
+        <translation>Japon Yılı</translation>
     </message>
     <message>
         <source>Spanish(Spain)</source>
-        <translation type="unfinished"/>
+        <translation>İspanyolca (İspanya)</translation>
     </message>
     <message>
         <source>Japanese(Japan)</source>
-        <translation type="unfinished"/>
+        <translation>Japonca (Japonya)</translation>
     </message>
     <message>
         <source>Western</source>
-        <translation type="unfinished"/>
+        <translation>Batı</translation>
     </message>
     <message>
         <source>Chinese(HongKong S.A.R)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Hong Kong Ö.İ.B.)</translation>
     </message>
     <message>
         <source>Chinese(Taiwan China)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Tayvan Çin)</translation>
     </message>
     <message>
         <source>English(Philippines)</source>
@@ -29427,7 +29427,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Select Font</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Seç</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
@@ -30920,7 +30920,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Network error</source>
-        <translation type="unfinished"/>
+        <translation>Ağ hatası</translation>
     </message>
     <message>
         <source>Unsupported socket operation</source>
@@ -33511,7 +33511,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Unable to enable autocommit</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik tamamlama işlemi etkinleştirilemiyor</translation>
     </message>
     <message>
         <source>Unable to connect - Driver doesn&apos;t support all needed functionality</source>
@@ -33870,7 +33870,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Watermark protect</source>
-        <translation type="unfinished"/>
+        <translation>Filigran Koruması</translation>
     </message>
     <message>
         <source>Protect type</source>
@@ -35333,7 +35333,7 @@ Please check network</source>
     </message>
     <message>
         <source>Watermark Protect</source>
-        <translation type="unfinished"/>
+        <translation>Filigran Koruması</translation>
     </message>
     <message>
         <source>Outward Application</source>
@@ -36533,11 +36533,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>QTabBar</name>
     <message>
         <source>Scroll Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Kaydır</translation>
     </message>
     <message>
         <source>Scroll Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Kaydır</translation>
     </message>
 </context>
 <context>
@@ -37191,7 +37191,7 @@ Please check your network your firewall configuration</source>
     <name>KAxServer</name>
     <message>
         <source>Do you want to save changes to the file?</source>
-        <translation type="unfinished"/>
+        <translation>Dosyadaki değişiklikleri kaydetmek istiyor musunuz?</translation>
     </message>
 </context>
 <context>
