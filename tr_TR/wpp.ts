@@ -829,7 +829,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Cloud Sync</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Eşitleme</translation>
     </message>
     <message>
         <source>View Clo&amp;ud backup</source>
@@ -901,7 +901,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -2256,11 +2256,11 @@ Check</source>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.pptx;*.ppt)|*.ppt</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.pptx;*.ppt)|*.ppt</translation>
     </message>
     <message>
         <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
-        <translation type="unfinished"/>
+        <translation>MIDI Dosyası(midi) (*.mid;*.midi;*.rmi)</translation>
     </message>
     <message>
         <source>Text Shadow</source>
@@ -2322,7 +2322,7 @@ Check</source>
     </message>
     <message>
         <source>Master Layout...</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Düzen...</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -3767,7 +3767,7 @@ Check</source>
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished"/>
+        <translation>Slayt %d</translation>
     </message>
     <message>
         <source>Lighten</source>
@@ -6316,7 +6316,7 @@ Body: Compress</source>
     </message>
     <message>
         <source>Body: Descend</source>
-        <translation type="unfinished"/>
+        <translation>Gövde: Azalan</translation>
     </message>
     <message>
         <source>3d map</source>
@@ -11626,7 +11626,7 @@ Araçları</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi</translation>
     </message>
     <message>
         <source>Primary Colors</source>
@@ -11985,7 +11985,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"/>
+        <translation>Prova Zamanları</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
@@ -12487,7 +12487,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"/>
+        <translation>Sürdür</translation>
     </message>
     <message>
         <source>Text To Diagram</source>
@@ -13087,7 +13087,7 @@ Template</source>
     </message>
     <message>
         <source>Inside Base</source>
-        <translation>İç Temel</translation>
+        <translation>İç Taban</translation>
     </message>
     <message>
         <source>Manage Credentials</source>
@@ -13397,7 +13397,7 @@ Template</source>
     </message>
     <message>
         <source>Convert Markup to Object</source>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirmeyi Nesneye Dönüştür</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -14089,7 +14089,8 @@ Master</source>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonu 
+Kontrolü</translation>
     </message>
     <message>
         <source>Change Background Picture</source>
@@ -14587,7 +14588,7 @@ Slide</source>
     </message>
     <message>
         <source>New File Menu</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Dosya Menüsü</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -14927,7 +14928,8 @@ Slide</source>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonu 
+Kontrolü</translation>
     </message>
     <message>
         <source>Slide Miniature</source>
@@ -16180,7 +16182,8 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonu 
+Kontrolü</translation>
     </message>
     <message>
         <source>Setting Link</source>
@@ -17885,7 +17888,8 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonu 
+Kontrolü</translation>
     </message>
     <message>
         <source>Video Tools</source>
@@ -19574,7 +19578,8 @@ Boyutu</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonu 
+Kontrolü</translation>
     </message>
     <message>
         <source>Rehearse 
@@ -21900,7 +21905,7 @@ Comment</source>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonu Kontrolü</translation>
     </message>
     <message>
         <source>Slide %1 of %2</source>
@@ -24181,7 +24186,8 @@ Dönüştür</translation>
     <message>
         <source>Custom
 Animation</source>
-        <translation type="unfinished"/>
+        <translation>Özel
+Animasyon</translation>
     </message>
     <message>
         <source>Transition</source>
@@ -24848,7 +24854,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>&amp;Animate gridline and legend</source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz çizgisine ve göstergeye &amp;animasyon ekle</translation>
     </message>
     <message>
         <source>&amp;Group Chart:</source>
@@ -26167,7 +26173,7 @@ Bölmesi</translation>
     <name>Dlgtypography</name>
     <message>
         <source>Cannot &amp;end line:</source>
-        <translation type="unfinished"/>
+        <translation>Satır &amp;sonunda olamaz:</translation>
     </message>
     <message>
         <source>Typography</source>
@@ -26191,7 +26197,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Cannot &amp;start line:</source>
-        <translation type="unfinished"/>
+        <translation>Satır &amp;başında olamaz:</translation>
     </message>
 </context>
 <context>
@@ -26202,7 +26208,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Slide %d</source>
-        <translation type="unfinished"/>
+        <translation>Slayt %d</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -26210,22 +26216,22 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Slide%d</source>
-        <translation type="unfinished"/>
+        <translation>Slayt%d</translation>
     </message>
 </context>
 <context>
     <name>wpp_player</name>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"/>
+        <translation>Araçlar</translation>
     </message>
     <message>
         <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
-        <translation type="unfinished"/>
+        <translation>Yenilik·Araştırma·Müşteri·Sonuç·Samimiyet WPS Office 2010</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"/>
+        <translation>Prova Zamanları</translation>
     </message>
     <message>
         <source>Opening %s
@@ -26918,7 +26924,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"/>
+        <translation>Prova Zamanları</translation>
     </message>
     <message>
         <source>Hide Slide</source>
@@ -28735,7 +28741,7 @@ Bölmesi</translation>
     <name>KxPackageBaseCommand</name>
     <message>
         <source>The file was not saved. Please save the file before the packaging operation.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya kaydedilmedi. Lütfen paketleme işleminden önce dosyayı kaydedin.</translation>
     </message>
 </context>
 <context>
@@ -32661,7 +32667,8 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonu 
+Kontrolü</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -32722,7 +32729,7 @@ Aracı</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonu Kontrolü</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -33418,7 +33425,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>CustomAnimations</source>
-        <translation type="unfinished"/>
+        <translation>Özel Animasyon</translation>
     </message>
     <message>
         <source>EffectOptions</source>
@@ -33747,7 +33754,8 @@ Subordinate</source>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonu 
+Kontrolü</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -33811,11 +33819,12 @@ Okuma</translation>
     <name>rainbow.ct_slideshow</name>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"/>
+        <translation>Cep Telefonu 
+Kontrolü</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="unfinished"/>
+        <translation>Prova Zamanları</translation>
     </message>
     <message>
         <source>Start Slide Show</source>
