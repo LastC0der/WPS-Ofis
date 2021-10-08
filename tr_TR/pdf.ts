@@ -1178,7 +1178,7 @@
     </message>
     <message>
         <source>OK(F)</source>
-        <translation>Tamam(F)</translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>No(N)</source>
@@ -1472,7 +1472,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Cancle(C)</source>
-        <translation type="unfinished"/>
+        <translation>İ&amp;ptal</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2329,7 +2329,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.pdf)|*.pdf</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.pdf)|*.pdf</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -3573,7 +3573,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>OK(F)</source>
-        <translation>Tamam(F)</translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>ConveWord</source>
@@ -10039,7 +10039,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>OK(F)</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Open Directory(W)</source>
@@ -11529,7 +11529,7 @@ Pencere</translation>
     <name>KxPdfDiSignatureTreeWidget</name>
     <message>
         <source>OK(F)</source>
-        <translation>Tamam(F)</translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Document location: %1 pages</source>
@@ -11560,11 +11560,11 @@ Pencere</translation>
     <name>KxPdfMeasureScaleDialog</name>
     <message>
         <source>OK(F)</source>
-        <translation>Tamam(F)</translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancle(C)</source>
-        <translation type="unfinished"/>
+        <translation>İ&amp;ptal</translation>
     </message>
     <message>
         <source>Input error</source>
@@ -11716,11 +11716,11 @@ Pencere</translation>
     <name>KxPdfPagePropertyDialog</name>
     <message>
         <source>Ok(F)</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel(C)</source>
-        <translation type="unfinished"/>
+        <translation>İ&amp;ptal</translation>
     </message>
     <message>
         <source>transverse</source>
