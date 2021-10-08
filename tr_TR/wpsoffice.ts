@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>Cloud Sync</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Eşitleme</translation>
     </message>
     <message>
         <source>&amp;Open backup file</source>
@@ -139,7 +139,7 @@
     </message>
     <message>
         <source>English (US)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (ABD)</translation>
     </message>
     <message>
         <source>Save Converted PDF Files to:</source>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>Chinese (Simplified)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Basitleştirilmiş)</translation>
     </message>
 </context>
 <context>
@@ -859,7 +859,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Tabloid</source>
-        <translation>Tabloid</translation>
+        <translation>Tabloit</translation>
     </message>
     <message>
         <source>A4 (210 x 297 mm, 8.26 x 11.7 inches)</source>
@@ -1233,7 +1233,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>ET/Excel Files</source>
-        <translation type="unfinished"/>
+        <translation>ET/Excel Dosyaları</translation>
     </message>
     <message>
         <source>Recorded and saved videos can be found here</source>
@@ -1296,7 +1296,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Hatası</translation>
     </message>
     <message>
         <source>Checking for update...</source>
@@ -1806,7 +1806,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Tü&amp;müne Hayır</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -1916,7 +1916,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Tü&amp;müne Hayır</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -2901,15 +2901,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı kaydır</translation>
     </message>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya kaydır</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"/>
+        <translation>Sola kaydır</translation>
     </message>
     <message>
         <source>Move the cursor to the start of the block</source>
@@ -3099,7 +3099,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa kaydır</translation>
     </message>
     <message>
         <source>No Guesses Found</source>
@@ -3306,15 +3306,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı kaydır</translation>
     </message>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya kaydır</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"/>
+        <translation>Sola kaydır</translation>
     </message>
     <message>
         <source>Line up</source>
@@ -3346,7 +3346,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa kaydır</translation>
     </message>
     <message>
         <source>Left edge</source>
@@ -3419,11 +3419,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Sync</source>
-        <translation type="unfinished"/>
+        <translation>Eşitle</translation>
     </message>
     <message>
         <source>Sync now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi eşitle</translation>
     </message>
     <message>
         <source>Image</source>
@@ -5407,7 +5407,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Day %1 is outside the range %2..%3.</source>
-        <translation type="unfinished"/>
+        <translation>%1 günü, %2..%3 aralığının dışında.</translation>
     </message>
     <message>
         <source>%1 contains octets which are disallowed in the requested encoding %2.</source>
@@ -5885,7 +5885,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>Select Font</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Seç</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
@@ -6485,7 +6485,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>Network error</source>
-        <translation type="unfinished"/>
+        <translation>Ağ hatası</translation>
     </message>
     <message>
         <source>Unsupported socket operation</source>
@@ -7581,7 +7581,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Unable to enable autocommit</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik tamamlama işlemi etkinleştirilemiyor</translation>
     </message>
     <message>
         <source>Unable to connect - Driver doesn&apos;t support all needed functionality</source>
@@ -8836,11 +8836,11 @@ All Rights Reserved.</source>
     <name>QTabBar</name>
     <message>
         <source>Scroll Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Kaydır</translation>
     </message>
     <message>
         <source>Scroll Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Kaydır</translation>
     </message>
 </context>
 <context>
