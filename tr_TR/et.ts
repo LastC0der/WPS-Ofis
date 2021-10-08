@@ -17397,7 +17397,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>SpecialWords</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -18575,7 +18575,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>FilterColumn</source>
-        <translation type="unfinished"/>
+        <translation>Sütuna Göre Filtrele</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
@@ -18761,7 +18761,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>FilterColumnByFirstRow</source>
-        <translation type="unfinished"/>
+        <translation>Sütunu İlk Satıra Göre Filtrele</translation>
     </message>
     <message>
         <source>Running Total In</source>
@@ -18769,7 +18769,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>FilterColumnByTitleRow</source>
-        <translation type="unfinished"/>
+        <translation>Sütunu Satır Başlığına Göre Filtrele</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -18777,7 +18777,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>SpecialWords</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -52520,7 +52520,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>&amp;Row height:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Satır yüksekliği:</translation>
     </message>
 </context>
 <context>
