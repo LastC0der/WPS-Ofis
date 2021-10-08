@@ -1384,7 +1384,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Cloud Sync</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Eşitleme</translation>
     </message>
     <message>
         <source>&amp;Automatic</source>
@@ -1392,7 +1392,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>View Clo&amp;ud backup</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;ulut yedeklemesini görüntüle</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -1472,7 +1472,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Workbook (*.xlsx)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Excel 2007/2010 Çalışma Kitabı (*.xlsx)</translation>
     </message>
     <message>
         <source>View &amp;local backup</source>
@@ -1536,7 +1536,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Disable all Data Connections</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Veri Bağlantılarını Devre Dışı Bırak</translation>
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
@@ -1592,7 +1592,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>&amp;Enable Cloud backup</source>
-        <translation type="unfinished"/>
+        <translation>Bulut yedeklemesini &amp;etkinleştir</translation>
     </message>
     <message>
         <source>Backup Setting</source>
@@ -1640,7 +1640,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Large File Backup Notice</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Dosya Yedekleme Bildirimi</translation>
     </message>
     <message>
         <source>Filter search settings</source>
@@ -2584,7 +2584,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     </message>
     <message>
         <source>The picture is too large and will be truncated.</source>
-        <translation type="unfinished"/>
+        <translation>Resim çok büyük ve sığmayan kısımlar kesilecek.</translation>
     </message>
     <message>
         <source>This workbook cannot use any other format of cells.</source>
@@ -2912,7 +2912,7 @@ Değer</translation>
     </message>
     <message>
         <source>Common Files(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|Chinese Office Document Format(*.uos)|*.uos|All Files(*.*)|*.*||</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Dosyalar(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos|WPS Elektronik Tablo Dosyaları(*.et)|*.et|WPS Elektronik Tablo Dosyaları(*.etx)|*.etx|Microsoft Excel Dosyaları(*.xls)|*.xls|Microsoft Excel 2007/2010 Dosyaları(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|Çince Ofis Belge Biçimi(*.uos)|*.uos|Tüm Dosyalar(*.*)|*.*||</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
@@ -3258,11 +3258,11 @@ Bu alanı raporda kullanmak için Tamam&apos;a tıklayın, sonra da alanı satı
     </message>
     <message>
         <source>Field Not Found.</source>
-        <translation type="unfinished"/>
+        <translation>Alan Bulunamadı.</translation>
     </message>
     <message>
         <source>Common Files(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb;|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|All Files(*.*)|*.*||</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Dosyalar(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Elektronik Tablo Dosyaları(*.et)|*.et|Microsoft Excel Dosyaları(*.xls)|*.xls|Microsoft Excel 2007/2010 Dosyaları(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|Tüm Dosyalar(*.*)|*.*||</translation>
     </message>
     <message>
         <source>This file is locked. Try it again later.</source>
@@ -3439,7 +3439,7 @@ Grubu çözmek için satır veya sütun alanında olduğundan emin olun, gruplan
     </message>
     <message>
         <source>The slicer can not be used properly.</source>
-        <translation type="unfinished"/>
+        <translation>Dilimleyici düzgün kullanılamıyor.</translation>
     </message>
     <message>
         <source>It&apos;s not a valid Integer.</source>
@@ -3524,7 +3524,7 @@ Formüllerinizdeki hücre başvuruları, aralık adları, tanımlı adlar veya b
     </message>
     <message>
         <source>Delete entire sheet row?</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa satırının tamamı silinsin mi?</translation>
     </message>
     <message>
         <source>All Files(*.*)| *.*</source>
@@ -3576,7 +3576,7 @@ Değer</translation>
     </message>
     <message>
         <source>Converting to Linked Data Types (Press ESC to cancel)</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantılı Veri Türlerine Dönüştürülüyor (İptal etmek için ESC tuşuna basın)</translation>
     </message>
     <message>
         <source>Count</source>
@@ -3943,7 +3943,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>Refreshing Linked Data Types (Press ESC to cancel)</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantılı Veri Türleri Yenileniyor (İptal etmek için ESC tuşuna basın)</translation>
     </message>
     <message>
         <source>Con&amp;vert XX to 20XX</source>
@@ -4055,7 +4055,7 @@ Bunun nedenleri şunları içerebilir:
     </message>
     <message>
         <source>Cannot insert data because you&apos;ve reached the end of the sheet.</source>
-        <translation type="unfinished"/>
+        <translation>Sayfanın sonuna ulaştığınız için veri eklenemiyor.</translation>
     </message>
     <message>
         <source>Source reference area overlaps with target area.</source>
@@ -4782,7 +4782,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Null Error</source>
-        <translation type="unfinished"/>
+        <translation>Boşluk Hatası</translation>
     </message>
     <message>
         <source>XML Files</source>
@@ -4790,7 +4790,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>All Files(*.*)|*.*||</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Dosyalar(*.*)|*.*||</translation>
     </message>
     <message>
         <source>Cell Value</source>
@@ -5615,7 +5615,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>No Column has been selected.</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir Sütun seçilmedi.</translation>
     </message>
     <message>
         <source>Column</source>
@@ -7638,7 +7638,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>is the second range or array of numbers.</source>
-        <translation type="unfinished"/>
+        <translation>ikinci sayı aralığı veya dizisidir.</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the beginning of the sheet?</source>
@@ -9283,7 +9283,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>Rel_to_ref</source>
-        <translation type="unfinished"/>
+        <translation>Başv_türüne</translation>
     </message>
     <message>
         <source>Type_num</source>
@@ -9905,7 +9905,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
-        <translation type="unfinished"/>
+        <translation>dağılımın standart sapması, pozitif bir sayı.</translation>
     </message>
     <message>
         <source>Sample Standard Deviation</source>
@@ -11619,12 +11619,12 @@ Koru</translation>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
         <comment>TX_ParaDesc_265</comment>
-        <translation type="unfinished"/>
+        <translation>dağılımın standart sapması, pozitif bir sayı.</translation>
     </message>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
         <comment>TX_ParaDesc_371</comment>
-        <translation type="unfinished"/>
+        <translation>dağılımın standart sapması, pozitif bir sayı.</translation>
     </message>
     <message>
         <source>Population_s</source>
@@ -11946,7 +11946,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is a number: for Sunday = 1 through Saturday = 7, use 1; for Monday = 1 through Sunday = 7, use 2; for Monday = 0 through Sunday = 6, use 3.</source>
-        <translation type="unfinished"/>
+        <translation>bir sayı: Pazar = 1&apos;den Cumartesi = 7&apos;ye ise, 1&apos;i kullanın; Pazartesi = 1&apos;den Pazar = 7&apos;ye ise, 2&apos;yi kullanın; Pazartesi = 0&apos;dan Pazar = 6&apos;ya ise, 3&apos;ü kullanın.</translation>
     </message>
     <message>
         <source>You already have a file named &apos;%1&apos;. Do you want to replace it with this one?</source>
@@ -14789,7 +14789,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Tabloid</source>
-        <translation type="unfinished"/>
+        <translation>Tabloit</translation>
     </message>
     <message>
         <source>Letter_CN</source>
@@ -19859,7 +19859,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Inside Base</source>
-        <translation>İç Temel</translation>
+        <translation>İç Taban</translation>
     </message>
     <message>
         <source>Manage Credentials</source>
@@ -21152,7 +21152,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Text c&amp;ustom angle</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;zel açı</translation>
     </message>
     <message>
         <source>Enter 0 to 55.88 cm of value</source>
@@ -21753,7 +21753,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Change Constraint</source>
-        <translation type="unfinished"/>
+        <translation>Kısıtlamayı Değiştir</translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>
@@ -21897,7 +21897,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi</translation>
     </message>
     <message>
         <source>Stop chosen when the maximum time limit was reached.</source>
@@ -27540,7 +27540,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Desen</translation>
     </message>
     <message>
         <source>Delete Columns</source>
@@ -27576,7 +27576,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>New File Menu</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Dosya Menüsü</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -28156,7 +28156,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Light Mode</source>
-        <translation type="unfinished"/>
+        <translation>Açık Mod</translation>
     </message>
     <message>
         <source>NewChart LegendEntry</source>
@@ -32660,7 +32660,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Show items for which the label</source>
-        <translation type="unfinished"/>
+        <translation>Etiketine göre öğeleri göster</translation>
     </message>
     <message>
         <source>does not begin with</source>
@@ -36308,7 +36308,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -36411,7 +36411,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Set Highlight Duplicates</source>
-        <translation type="unfinished"/>
+        <translation>Ayarla</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -39551,7 +39551,7 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>You have interrupted the Find All command. Do you want to continue searching?</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Bul komutu kesildi. Aramaya devem etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find any data to replace.Check if your search formatting and criteria are defined correctly.If you are sure that matching data exists in this workbook, it may be in a protected sheet.WPS Spreadsheets cannot replace data on protected sheet.</source>
@@ -40465,7 +40465,8 @@ Center</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation>Okuma Düzeni</translation>
+        <translation>Okuma 
+Düzeni</translation>
     </message>
     <message>
         <source>Share</source>
@@ -41235,7 +41236,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"/>
+        <translation>Verileri Yenile</translation>
     </message>
     <message>
         <source>PivotTable Wizard</source>
@@ -41374,8 +41375,7 @@ Düzenle</translation>
     <message>
         <source>Reading
 Layout</source>
-        <translation>Okuma
-Düzeni</translation>
+        <translation>Okuma Düzeni</translation>
     </message>
     <message>
         <source>View
@@ -41453,7 +41453,7 @@ Other Window</source>
     </message>
     <message>
         <source>Light Mode</source>
-        <translation type="unfinished"/>
+        <translation>Açık Mod</translation>
     </message>
     <message>
         <source>Night Mode</source>
@@ -41855,7 +41855,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"/>
+        <translation>Verileri Yenile</translation>
     </message>
     <message>
         <source>Refresh All</source>
@@ -44852,7 +44852,7 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.xls)|*.xls</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.xls)|*.xls</translation>
     </message>
     <message>
         <source>Query Files(*.iqy)</source>
@@ -45021,27 +45021,27 @@ This backup will be saved to (%s)</source>
     <name>KxNumberWidget</name>
     <message>
         <source>Malay(Malaysia)</source>
-        <translation type="unfinished"/>
+        <translation>Malay dili (Malezya)</translation>
     </message>
     <message>
         <source>English(United Kingdom)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Birleşik Krallık)</translation>
     </message>
     <message>
         <source>Vietnamese(Vietnam)</source>
-        <translation type="unfinished"/>
+        <translation>Vietnam dili (Vietnam)</translation>
     </message>
     <message>
         <source>Thai Buddhist</source>
-        <translation type="unfinished"/>
+        <translation>Tay Budist</translation>
     </message>
     <message>
         <source>Portuguese(Brazil)</source>
-        <translation type="unfinished"/>
+        <translation>Portekizce (Brezilya)</translation>
     </message>
     <message>
         <source>English(Malaysia)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Malezya)</translation>
     </message>
     <message>
         <source>English(United States)</source>
@@ -45053,7 +45053,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>English(New Zealand)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Yeni Zelanda)</translation>
     </message>
     <message>
         <source>Accounting formats line up the currency symbols and decimal points in a column.</source>
@@ -45061,11 +45061,11 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Russian(Russia)</source>
-        <translation type="unfinished"/>
+        <translation>Rusça (Rusya)</translation>
     </message>
     <message>
         <source>Portuguese(Portugal)</source>
-        <translation type="unfinished"/>
+        <translation>Portekizce (Portekiz)</translation>
     </message>
     <message>
         <source>Type the number format code,using one of the existing codes as a starting point.</source>
@@ -45073,11 +45073,11 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>English(Australia)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Avustralya)</translation>
     </message>
     <message>
         <source>English(Canada)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Kanada)</translation>
     </message>
     <message>
         <source>Special formats are useful for tracking list and database values.</source>
@@ -45089,27 +45089,27 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Hindi(India)</source>
-        <translation type="unfinished"/>
+        <translation>Hintçe (Hindistan)</translation>
     </message>
     <message>
         <source>English(Indonesia)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Endonezya)</translation>
     </message>
     <message>
         <source>Indonesian(Indonesia)</source>
-        <translation type="unfinished"/>
+        <translation>Endonezya dili (Endonezya)</translation>
     </message>
     <message>
         <source>Thai(Thailand)</source>
-        <translation type="unfinished"/>
+        <translation>Tay dili (Tayland)</translation>
     </message>
     <message>
         <source>Chinese(Simple)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Basit)</translation>
     </message>
     <message>
         <source>Japanese Year</source>
-        <translation type="unfinished"/>
+        <translation>Japon Yılı</translation>
     </message>
     <message>
         <source>&amp;Use 1000 separator ( %1)</source>
@@ -45117,7 +45117,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Spanish(Spain)</source>
-        <translation type="unfinished"/>
+        <translation>İspanyolca (İspanya)</translation>
     </message>
     <message>
         <source>Time formats display date and time serial numbers as time values.</source>
@@ -45125,7 +45125,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Japanese(Japan)</source>
-        <translation type="unfinished"/>
+        <translation>Japonca (Japonya)</translation>
     </message>
     <message>
         <source>Date formats display date and time serial numbers as date values.</source>
@@ -45133,15 +45133,15 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Western</source>
-        <translation type="unfinished"/>
+        <translation>Batı</translation>
     </message>
     <message>
         <source>Chinese(HongKong S.A.R)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Hong Kong Ö.İ.B.)</translation>
     </message>
     <message>
         <source>Chinese(Taiwan China)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Tayvan Çin)</translation>
     </message>
     <message>
         <source>English(Philippines)</source>
@@ -45228,7 +45228,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Choose a set of a icons to represent the values in the selected cells.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili hücrelerdeki değerleri temsil etmek için bir simge kümesi seçin.</translation>
     </message>
     <message>
         <source>3 Flags</source>
@@ -45264,7 +45264,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Add a colored data bar to represent the value in a cell. The higher the value, the longer the bar.</source>
-        <translation type="unfinished"/>
+        <translation>Hücredeki değeri temsil eden renkli bir veri çubuğu ekleyin. Değer arttıkça, çubuğun uzunluğu da artar.</translation>
     </message>
     <message>
         <source>Green-White-Red Color Scale</source>
@@ -45335,7 +45335,8 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation>Okuma Düzeni</translation>
+        <translation>Okuma 
+Düzeni</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -45343,7 +45344,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Open from Cloud</source>
-        <translation type="unfinished"/>
+        <translation>Buluttan Aç</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -45477,7 +45478,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>&amp;Macro name:</source>
-        <translation type="unfinished"/>
+        <translation>Mak&amp;ro adı:</translation>
     </message>
     <message>
         <source>Clea&amp;r</source>
@@ -47092,7 +47093,7 @@ Düzenleyicisi</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
-        <translation type="unfinished"/>
+        <translation>Mak&amp;ro adı:</translation>
     </message>
     <message>
         <source>Shortcut &amp;key:</source>
@@ -48269,7 +48270,7 @@ Do you want to proceed with changes to the connection in this workbook?</source>
     </message>
     <message>
         <source>It compares the contents by rows after clicking OK.</source>
-        <translation type="unfinished"/>
+        <translation>Tamam&apos;ı tıkladıktan sonra içerikleri satırlara göre karşılaştırır.</translation>
     </message>
     <message>
         <source>Identify duplicated &amp;strings of more than 15 numbers (bank card, etc.)</source>
@@ -52795,7 +52796,7 @@ Please unfreeze pane.</source>
     <name>KxRevisionHighlightChangesDlg</name>
     <message>
         <source>Today:</source>
-        <translation type="unfinished"/>
+        <translation>Bugün:</translation>
     </message>
     <message>
         <source>Invalid data value. Please try again.</source>
@@ -58524,7 +58525,8 @@ Boyutu</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation>Okuma Düzeni</translation>
+        <translation>Okuma 
+Düzeni</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -58623,7 +58625,8 @@ Boyutu</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation>Okuma Düzeni</translation>
+        <translation>Okuma 
+Düzeni</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
