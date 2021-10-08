@@ -19,7 +19,7 @@
     </message>
     <message>
         <source>Transactions</source>
-        <translation type="unfinished"/>
+        <translation>Hareketler</translation>
     </message>
     <message>
         <source>Customer Service</source>
@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>Welcome to WPS VIP family.</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP ailesine hoş geldiniz.</translation>
     </message>
     <message>
         <source>Welcome to Docer VIP family.</source>
@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>Order Error</source>
-        <translation type="unfinished"/>
+        <translation>Sipariş Hatası</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"/>
+        <translation>Sürdür</translation>
     </message>
     <message>
         <source>Try again.</source>
@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>Order Error</source>
-        <translation type="unfinished"/>
+        <translation>Sipariş Hatası</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -142,7 +142,7 @@
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Hatası</translation>
     </message>
     <message>
         <source>Common Payment Issues</source>
@@ -300,7 +300,7 @@
     </message>
     <message>
         <source>Order Error</source>
-        <translation type="unfinished"/>
+        <translation>Sipariş Hatası</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -328,7 +328,7 @@
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Hatası</translation>
     </message>
     <message>
         <source>Privacy policies</source>
@@ -726,7 +726,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Cloud Sync</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Eşitleme</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
@@ -754,7 +754,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Save File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Kaydet</translation>
     </message>
     <message>
         <source>View Menu</source>
@@ -766,7 +766,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi</translation>
     </message>
     <message>
         <source>Forward</source>
