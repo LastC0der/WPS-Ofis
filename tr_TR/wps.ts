@@ -1872,7 +1872,7 @@
     </message>
     <message>
         <source>Numbering Style</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma Stili</translation>
     </message>
     <message>
         <source>This operation will delete all the elements in the table. Do you want to continue?</source>
@@ -3301,7 +3301,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Cloud Sync</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Eşitleme</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -3317,7 +3317,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>View Clo&amp;ud backup</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;ulut yedeklemesini görüntüle</translation>
     </message>
     <message>
         <source>Drawing &amp;objects</source>
@@ -3589,7 +3589,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Enable Cloud backup</source>
-        <translation type="unfinished"/>
+        <translation>Bulut yedeklemesini &amp;etkinleştir</translation>
     </message>
     <message>
         <source>Backup Setting</source>
@@ -5407,7 +5407,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>Search Up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
@@ -5547,7 +5547,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Business Phone</source>
-        <translation type="unfinished"/>
+        <translation>İş Telefonu</translation>
     </message>
     <message>
         <source>Presume there are 20 pages of the current document. Field code:NumPages</source>
@@ -5555,7 +5555,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Search Down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı</translation>
     </message>
     <message>
         <source>Input a correct number.</source>
@@ -5880,7 +5880,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
-        <translation type="unfinished"/>
+        <translation>Seçili içindekiler tablosunu değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>The selected paper is too small, Genko is invalid.</source>
@@ -7537,7 +7537,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Tabloid</source>
-        <translation>Tabloid</translation>
+        <translation>Tabloit</translation>
     </message>
     <message>
         <source>Letter_CN</source>
@@ -9786,7 +9786,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Outlining Tools</source>
-        <translation type="unfinished"/>
+        <translation>Anahat Araçları</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
@@ -10209,7 +10209,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Text c&amp;ustom angle:</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;zel açı:</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -10217,7 +10217,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Te&amp;xt direction:</source>
-        <translation type="unfinished"/>
+        <translation>Met&amp;in yönü:</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -11198,7 +11198,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>WPS Online Security Document Format(*.doc)|*.doc</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.doc)|*.doc</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
@@ -11535,7 +11535,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation type="unfinished"/>
+        <translation>Metni Yaslanmış Hizala</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -12133,7 +12133,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation type="unfinished"/>
+        <translation>Metni Yaslanmış Hizala</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
@@ -12691,7 +12691,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation type="unfinished"/>
+        <translation>Metni Yaslanmış Hizala</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -13143,7 +13143,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation type="unfinished"/>
+        <translation>Metni Yaslanmış Hizala</translation>
     </message>
     <message>
         <source>Official Material</source>
@@ -13646,7 +13646,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation type="unfinished"/>
+        <translation>Metni Yaslanmış Hizala</translation>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
@@ -13742,7 +13742,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"/>
+        <translation>Eşit Yükseklik</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
@@ -14113,7 +14113,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation type="unfinished"/>
+        <translation>Metni Yaslanmış Hizala</translation>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
@@ -14209,7 +14209,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"/>
+        <translation>Eşit Yükseklik</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
@@ -14852,7 +14852,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation type="unfinished"/>
+        <translation>Metni Yaslanmış Hizala</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -16418,7 +16418,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Inside Base</source>
-        <translation>İç Temel</translation>
+        <translation>İç Taban</translation>
     </message>
     <message>
         <source>Delete Page Numbers</source>
@@ -17513,7 +17513,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation type="unfinished"/>
+        <translation>Metni Yaslanmış Hizala</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -17769,7 +17769,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>XMLMapping</source>
-        <translation type="unfinished"/>
+        <translation>XML Eşleme</translation>
     </message>
     <message>
         <source>Split or Merge</source>
@@ -18178,7 +18178,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>New File Menu</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Dosya Menüsü</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
@@ -18880,7 +18880,7 @@ Screen</source>
     </message>
     <message>
         <source>Compose View</source>
-        <translation type="unfinished"/>
+        <translation>Yazma modu</translation>
     </message>
     <message>
         <source>Show Comments</source>
@@ -18988,7 +18988,7 @@ Screen</source>
     </message>
     <message>
         <source>Light Mode</source>
-        <translation type="unfinished"/>
+        <translation>Açık Mod</translation>
     </message>
     <message>
         <source>NewChart LegendEntry</source>
@@ -20131,7 +20131,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alıcı Ekle</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
@@ -26502,7 +26502,7 @@ Düzen</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"/>
+        <translation>XML Şeması</translation>
     </message>
     <message>
         <source>XML Mapping Pane</source>
@@ -26532,7 +26532,7 @@ Properties</source>
     </message>
     <message>
         <source>XmlMapping</source>
-        <translation type="unfinished"/>
+        <translation>XML Eşleme</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -28071,7 +28071,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alıcı Ekle</translation>
     </message>
     <message>
         <source>9 Pages</source>
@@ -30248,7 +30248,7 @@ Ekran</translation>
     </message>
     <message>
         <source>Light Mode</source>
-        <translation type="unfinished"/>
+        <translation>Açık Mod</translation>
     </message>
     <message>
         <source>Night Mode</source>
@@ -30574,7 +30574,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Align Text Justify</source>
-        <translation type="unfinished"/>
+        <translation>Metni Yaslanmış Hizala</translation>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
@@ -31052,7 +31052,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Business phone</source>
-        <translation type="unfinished"/>
+        <translation>İş telefonu</translation>
     </message>
     <message>
         <source>First name</source>
@@ -31179,7 +31179,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Business phone</source>
-        <translation type="unfinished"/>
+        <translation>İş telefonu</translation>
     </message>
     <message>
         <source>First name</source>
@@ -34178,7 +34178,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Light Mode</source>
-        <translation type="unfinished"/>
+        <translation>Açık Mod</translation>
     </message>
     <message>
         <source>ReviewTime</source>
@@ -34359,7 +34359,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Accept Format Changes in Document</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Biçim Değişikliklerini Kabul Et</translation>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
@@ -39387,7 +39387,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alıcı Ekle</translation>
     </message>
     <message>
         <source>failed to write distribution log!</source>
@@ -40294,7 +40294,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Use a style to format text typed into the empty control</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;oş denetime girilen metni biçimlendirmek için stil kullan</translation>
     </message>
     <message>
         <source>Contents cannot be &amp;edited</source>
@@ -40625,7 +40625,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Güvenlik Belge Biçimi</translation>
     </message>
     <message>
         <source>delete this row</source>
@@ -40824,7 +40824,7 @@ Do you still want to insert the manual content?</source>
     </message>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
-        <translation type="unfinished"/>
+        <translation>Seçili içindekiler tablosunu değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Cannot create automatic table of contents since no heading style or outline level has been set. 
@@ -42275,7 +42275,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Do you want to delete all bookmarks?</source>
-        <translation type="unfinished"/>
+        <translation>Tüm yer imlerini silmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>The bookmark name cannot start with numbers, symbols, special characters and also cannot contain spaces.</source>
@@ -43010,7 +43010,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alıcı Ekle</translation>
     </message>
     <message>
         <source>Save PDF File As</source>
@@ -43988,7 +43988,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
-        <translation type="unfinished"/>
+        <translation>Seçili içindekiler tablosunu değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -44155,7 +44155,7 @@ Try one or more of the following:
     <name>KxWidgetTpXMLMapping</name>
     <message>
         <source>XmlMapping</source>
-        <translation type="unfinished"/>
+        <translation>XML Eşleme</translation>
     </message>
     <message>
         <source>custom xmlparts:</source>
@@ -44320,7 +44320,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>&amp;Macro name:</source>
-        <translation type="unfinished"/>
+        <translation>Mak&amp;ro adı:</translation>
     </message>
     <message>
         <source>&amp;Description:</source>
@@ -47486,7 +47486,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"/>
+        <translation>Eşit Yükseklik</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -49553,7 +49553,7 @@ Düzen</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"/>
+        <translation>XML Şeması</translation>
     </message>
     <message>
         <source>XML Mapping Pane</source>
@@ -49577,7 +49577,7 @@ Düzen</translation>
     </message>
     <message>
         <source>XmlMapping</source>
-        <translation type="unfinished"/>
+        <translation>XML Eşleme</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -52644,7 +52644,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Accept Format Changes in Document</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Biçim Değişikliklerini Kabul Et</translation>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
@@ -53248,7 +53248,7 @@ to Email</source>
     </message>
     <message>
         <source>Outlining Tools</source>
-        <translation type="unfinished"/>
+        <translation>Anahat Araçları</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
