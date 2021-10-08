@@ -206,7 +206,7 @@
     </message>
     <message>
         <source>Sync</source>
-        <translation type="unfinished"/>
+        <translation>Eşitle</translation>
     </message>
     <message>
         <source>MenuCount:</source>
