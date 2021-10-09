@@ -1292,7 +1292,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Yükle</translation>
     </message>
     <message>
         <source>Network Error</source>
@@ -2946,7 +2946,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Yükle</translation>
     </message>
     <message>
         <source>JavaScript Confirm - %1</source>
@@ -4692,7 +4692,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>New Tab</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Sekme</translation>
     </message>
     <message>
         <source>Here are shortcuts you can use frequently</source>
@@ -9028,7 +9028,7 @@ Swiftly create a blank tab of the same type with Command+N</source>
     </message>
     <message>
         <source>NewTab</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Sekme</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
