@@ -1202,7 +1202,7 @@
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Date</source>
@@ -1750,7 +1750,7 @@ Used to show foundation-based relationships</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Value should be not greater than %s.</source>
@@ -4591,7 +4591,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Cube</source>
@@ -6214,7 +6214,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Canvas</source>
@@ -19145,7 +19145,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Combo</source>
@@ -19229,7 +19229,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>OnlineChart</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Grafik</translation>
     </message>
     <message>
         <source>Bar Of Pie</source>
@@ -19946,7 +19946,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Yükle</translation>
     </message>
     <message>
         <source>JavaScript Confirm - %1</source>
@@ -21453,11 +21453,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Point</source>
-        <translation type="unfinished"/>
+        <translation>Nokta</translation>
     </message>
     <message>
         <source>TABEL</source>
@@ -22037,7 +22037,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Close all tabs or current tab</source>
-        <translation type="unfinished"/>
+        <translation>Tüm sekmeleri veya geçerli sekmeyi kapat</translation>
     </message>
     <message>
         <source>Please log on to use document source trace function.</source>
@@ -22628,7 +22628,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Main Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Ana Sekmeler</translation>
     </message>
     <message>
         <source>&amp;Choose commands from:</source>
@@ -22636,27 +22636,27 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Customizations:</source>
-        <translation type="unfinished"/>
+        <translation>Özelleştirmeler:</translation>
     </message>
     <message>
         <source>File Menu</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Menüsü</translation>
     </message>
     <message>
         <source>File menu</source>
-        <translation type="unfinished"/>
+        <translation>Dosya menüsü</translation>
     </message>
     <message>
         <source>All Commands</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Komutlar</translation>
     </message>
     <message>
         <source>All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sekmeler</translation>
     </message>
     <message>
         <source>Rena&amp;me...</source>
-        <translation type="unfinished"/>
+        <translation>Ye&amp;niden Adlandır...</translation>
     </message>
     <message>
         <source>New Tab</source>
@@ -22672,7 +22672,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Ne&amp;w Tab</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeni Sekme</translation>
     </message>
     <message>
         <source>Reset all customizations</source>
@@ -22680,7 +22680,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Commands Not in the Ribbon</source>
-        <translation type="unfinished"/>
+        <translation>Şeritte Olmayan Komutlar</translation>
     </message>
     <message>
         <source>&amp;New Group</source>
@@ -22716,7 +22716,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Reset only selected Ribbon tab</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca seçili Şerit sekmesini sıfırla</translation>
     </message>
 </context>
 <context>
@@ -27491,7 +27491,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>security warning: JS macros have been disabled</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik uyarısı: JS makroları devre dışı bırakıldı</translation>
     </message>
     <message>
         <source>send report</source>
@@ -31052,7 +31052,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KxDebuggerDlg</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Temizle</translation>
     </message>
 </context>
 <context>
@@ -31077,7 +31077,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KStatusBackupCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>After closing, when WPS is unexpectedly closed, unsaved documents will be at risk of losing data. It is recommended to turn on backup.</source>
@@ -31860,7 +31860,7 @@ yazılamadı</translation>
     <name>KxUserShortcutsDlg</name>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Press new shortcut key</source>
@@ -37988,7 +37988,7 @@ p, li { white-space: pre-wrap; }
     <name>KxRunMacroDlg</name>
     <message>
         <source>JS Macros</source>
-        <translation type="unfinished"/>
+        <translation>JS Makroları</translation>
     </message>
     <message>
         <source>VB Macros</source>
