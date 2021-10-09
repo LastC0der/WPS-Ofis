@@ -2530,7 +2530,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>QRcode</source>
-        <translation type="unfinished"/>
+        <translation>Karekod</translation>
     </message>
     <message>
         <source>phoneCode</source>
@@ -3513,7 +3513,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Yükle</translation>
     </message>
     <message>
         <source>JavaScript Confirm - %1</source>
@@ -3876,7 +3876,7 @@ Check path and filename.</source>
     <name>KUserInfoLoginedWidget</name>
     <message>
         <source>day</source>
-        <translation type="unfinished"/>
+        <translation>Gün</translation>
     </message>
     <message>
         <source>Upgrade to VIP</source>
