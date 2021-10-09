@@ -778,7 +778,7 @@
     </message>
     <message>
         <source>Always close alll tabs</source>
-        <translation type="unfinished"/>
+        <translation>Her zaman tüm sekmeleri kapat</translation>
     </message>
     <message>
         <source>No inquiries</source>
@@ -1291,7 +1291,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Do you want to close the current tab or all tabs?</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sekmeyi mi yoksa tüm sekmeleri mi kapatmak istiyorsunuz?</translation>
     </message>
     <message>
         <source>Cannot open a document to be signed as read-only.</source>
@@ -5908,7 +5908,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Split and Merge</source>
-        <translation type="unfinished"/>
+        <translation>Böl ve Birleştir</translation>
     </message>
     <message>
         <source>Annotate</source>
@@ -5948,7 +5948,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>annotation toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Açıklama araç kutusu</translation>
     </message>
     <message>
         <source>FloatZoomOut</source>
@@ -9251,7 +9251,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Yükle</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -10012,7 +10012,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Close all tabs</source>
-        <translation type="unfinished"/>
+        <translation>Tüm sekmeleri kapat</translation>
     </message>
     <message>
         <source>Always close all tags</source>
@@ -10271,7 +10271,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -12342,7 +12342,7 @@ Pencere</translation>
     </message>
     <message>
         <source>annotation toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Açıklama araç kutusu</translation>
     </message>
     <message>
         <source>I don&apos;t like the Highlight, because...</source>
@@ -15456,7 +15456,7 @@ For example, 1,3,5-12.</source>
     <name>KxPdfReadingToolboxWidget</name>
     <message>
         <source>Close Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Araç Kutusunu Kapat</translation>
     </message>
 </context>
 <context>
