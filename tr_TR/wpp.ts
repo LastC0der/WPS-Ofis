@@ -1876,7 +1876,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>WPS Macro Editor</source>
-        <translation type="unfinished"/>
+        <translation>WPS Makro Düzenleyici</translation>
     </message>
     <message>
         <source>Edit Chart Datasource</source>
@@ -2182,7 +2182,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>JS Macros</source>
-        <translation type="unfinished"/>
+        <translation>JS Makroları</translation>
     </message>
     <message>
         <source>VB Macros</source>
@@ -5478,7 +5478,7 @@ Check</source>
     </message>
     <message>
         <source>Uneditable images (QR code, etc.)</source>
-        <translation type="unfinished"/>
+        <translation>Düzenlenemez görüntüler (karekod, vb.)</translation>
     </message>
     <message>
         <source>&amp;Two Spin</source>
@@ -7964,7 +7964,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Down</source>
@@ -8133,7 +8133,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>AutoShapes</source>
@@ -9106,7 +9106,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Font</source>
@@ -9295,7 +9295,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Center</source>
@@ -9975,7 +9975,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -10198,7 +10198,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Center</source>
@@ -10688,7 +10688,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Font</source>
@@ -10804,7 +10804,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Center</source>
@@ -11693,7 +11693,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -11869,7 +11869,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Match Brackets to Argument Height</source>
-        <translation type="unfinished"/>
+        <translation>Ayraçları Bağımsız Değişken Yüksekliğiyle Eşleştir</translation>
     </message>
     <message>
         <source>Edit Data</source>
@@ -12335,7 +12335,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -14122,7 +14122,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>WPS Macro Editor</source>
-        <translation type="unfinished"/>
+        <translation>WPS Makro Düzenleyici</translation>
     </message>
     <message>
         <source>No authentication status</source>
@@ -14436,7 +14436,7 @@ Slide</source>
     </message>
     <message>
         <source>JS Macros</source>
-        <translation type="unfinished"/>
+        <translation>JS Makroları</translation>
     </message>
     <message>
         <source>NewChart ChartArea</source>
@@ -14448,7 +14448,7 @@ Slide</source>
     </message>
     <message>
         <source>Split and Merge</source>
-        <translation type="unfinished"/>
+        <translation>Böl ve Birleştir</translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -14460,7 +14460,7 @@ Slide</source>
     </message>
     <message>
         <source>QRCode</source>
-        <translation type="unfinished"/>
+        <translation>Karekod</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -14766,7 +14766,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
-        <translation type="unfinished"/>
+        <translation>Barkod Ekle</translation>
     </message>
     <message>
         <source>Font Missing</source>
@@ -17299,7 +17299,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -17451,7 +17451,7 @@ Aralığı</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Can Up</source>
@@ -18741,7 +18741,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Glow</source>
@@ -18809,7 +18809,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -18935,7 +18935,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -19100,7 +19100,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Height</source>
@@ -19413,7 +19413,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Font</source>
@@ -19457,7 +19457,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -20709,7 +20709,7 @@ Görüntüsü</translation>
     <name>ongmani.ct_orgchart</name>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Text</source>
@@ -20817,7 +20817,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Choice</source>
@@ -22456,7 +22456,7 @@ Sayfa</translation>
     </message>
     <message>
         <source>WPS Macro Editor</source>
-        <translation type="unfinished"/>
+        <translation>WPS Makro Düzenleyici</translation>
     </message>
     <message>
         <source>Grid and
@@ -22494,7 +22494,7 @@ Master</source>
     </message>
     <message>
         <source>JS Macros</source>
-        <translation type="unfinished"/>
+        <translation>JS Makroları</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -22752,7 +22752,7 @@ Music</source>
     </message>
     <message>
         <source>More Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Özellikler</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -25219,7 +25219,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>WPS Macro Editor</source>
-        <translation type="unfinished"/>
+        <translation>WPS Makro Düzenleyici</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -25253,7 +25253,7 @@ Properties</source>
     </message>
     <message>
         <source>JS Macros</source>
-        <translation type="unfinished"/>
+        <translation>JS Makroları</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -25283,7 +25283,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>JS Control Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>JS Denetim Araç Kutusu</translation>
     </message>
     <message>
         <source>Develop Language</source>
@@ -29376,7 +29376,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Find</source>
@@ -29597,7 +29597,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Center</source>
@@ -30010,7 +30010,7 @@ Slide</source>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Font</source>
@@ -30078,7 +30078,7 @@ Slide</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -31216,7 +31216,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -31344,7 +31344,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Can Up</source>
@@ -31692,7 +31692,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Text</source>
@@ -31788,7 +31788,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Choice</source>
@@ -31895,7 +31895,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -32044,7 +32044,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>Height</source>
@@ -32300,7 +32300,7 @@ Sıkıştır</translation>
     <name>rainbow.ct_drawingtool_vml</name>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Size</source>
@@ -32464,7 +32464,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Çizgi</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -33146,7 +33146,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Sound</source>
