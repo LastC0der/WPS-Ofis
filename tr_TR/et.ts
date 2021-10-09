@@ -16356,7 +16356,9 @@ You may still need to manually update any references to this name used in VBA co
         <source>Select fields from the left list, then click &quot;Add to the list&quot;.
 Click &quot;Add to the list&quot; after setting up sorting condition in the right list. 
 Notice: if the second operand queries the number as text, single quotes should be added at both the beginning and the ending manually.</source>
-        <translation type="unfinished"/>
+        <translation>Soldaki listeden alanları seçin ve ardından &quot;Listeye ekle&quot;yi tıklayın.
+Sağdaki listede sıralama koşulunu ayarladıktan sonra &quot;Listeye ekle&quot;yi tıklayın.
+Uyarı: İkinci işlenen sayıyı metin olarak sorgularsa, hem başına hem de sonuna manuel olarak tek tırnak eklenmelidir.</translation>
     </message>
     <message>
         <source>Link failed, the connect string must not be empty!</source>
@@ -17591,7 +17593,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>InvisibleWords</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez karakterler</translation>
     </message>
     <message>
         <source>Rotate Text Down</source>
@@ -17901,7 +17903,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>SingleQuotes</source>
-        <translation type="unfinished"/>
+        <translation>Tek tırnak</translation>
     </message>
     <message>
         <source>Above Average</source>
@@ -19549,7 +19551,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>InvisibleWords</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez karakterler</translation>
     </message>
     <message>
         <source>Product</source>
@@ -20605,7 +20607,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>SingleQuotes</source>
-        <translation type="unfinished"/>
+        <translation>Tek tırnak</translation>
     </message>
     <message>
         <source>Table Columns to the Left</source>
