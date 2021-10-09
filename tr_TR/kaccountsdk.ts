@@ -1441,7 +1441,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Sync login info failed,check you network and retry</source>
@@ -1504,7 +1504,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>QrCode login</source>
-        <translation type="unfinished"/>
+        <translation>Giriş yapmak için tara</translation>
     </message>
     <message>
         <source>Login via QQ</source>
