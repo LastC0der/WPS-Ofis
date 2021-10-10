@@ -806,7 +806,7 @@
     </message>
     <message>
         <source>Record last Position</source>
-        <translation>Son Konumu Kaydet</translation>
+        <translation>Son okuma pozisyonunu hatırla</translation>
     </message>
 </context>
 <context>
@@ -960,7 +960,7 @@
     </message>
     <message>
         <source>Unable to find the watermark source file you specified, please re-select</source>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz filigran kaynak dosyası bulunamadı, lütfen yeniden seçin.</translation>
     </message>
     <message>
         <source>PDF water mark is VIP exclusive privilege</source>
@@ -1063,7 +1063,7 @@
     </message>
     <message>
         <source>Reply to current comment</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Yorumu Yanıtla</translation>
     </message>
     <message>
         <source>Add a comment...</source>
@@ -1202,7 +1202,7 @@
     </message>
     <message>
         <source>The current document is encoded incorrectly, and the converted content may be garbled</source>
-        <translation type="unfinished"/>
+        <translation>Belge kodlama hatası. Dönüştürme içeriği bozabilir.</translation>
     </message>
     <message>
         <source>pound</source>
@@ -2248,7 +2248,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>OpenDirectory</source>
-        <translation type="unfinished"/>
+        <translation>Dizini Aç</translation>
     </message>
     <message>
         <source>Please enter a valid page range</source>
@@ -3202,7 +3202,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Pop up the shortcut menu</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol Menüsü</translation>
     </message>
     <message>
         <source>Common Shortcuts</source>
@@ -5524,7 +5524,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>EditeText</source>
-        <translation type="unfinished"/>
+        <translation>Metni Düzenle</translation>
     </message>
     <message>
         <source>HandMenuTool</source>
@@ -5540,7 +5540,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ExitReadingMode</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Modundan Çık</translation>
     </message>
     <message>
         <source>document authentication</source>
@@ -7077,7 +7077,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Scan2PDF</source>
-        <translation type="unfinished"/>
+        <translation>Tarayıcıdan yeni</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
@@ -8186,7 +8186,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelikler</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -9966,7 +9966,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Doc cant select for scan file, please convert to word</source>
-        <translation type="unfinished"/>
+        <translation>Bu belge yalnızca resimler içerir, metin seçilemez. Bir Word belgesine dönüştürdükten sonra düzenlenecek metni seçebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -10353,7 +10353,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Invalid page number</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz sayfa numarası.</translation>
     </message>
 </context>
 <context>
@@ -12969,7 +12969,7 @@ Please batches operations</source>
     <name>KxPdfNewPageNumberWidget</name>
     <message>
         <source>Invalid page number</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz sayfa numarası.</translation>
     </message>
 </context>
 <context>
@@ -13820,7 +13820,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>所选打印机遇到未知错误，请检查修复后再试！所选打印机遇到未知错误，请检查修复后再试！</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen yazıcı bilinmeyen bir hatayla karşılaştı, lütfen kontrol edin ve yeniden deneyin!</translation>
     </message>
     <message>
         <source>打印机不可用</source>
@@ -14301,7 +14301,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Hide the left navigation pane</source>
-        <translation>Sol gezinti bölmesini gizle</translation>
+        <translation>Gezinti Bölmesini Gizle</translation>
     </message>
 </context>
 <context>
@@ -14424,7 +14424,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfCorrectTipsDialog</name>
     <message>
         <source>Correct immediately</source>
-        <translation type="unfinished"/>
+        <translation>Hemen düzelt</translation>
     </message>
     <message>
         <source>Corrects offset misalignment during scanning</source>
@@ -14435,7 +14435,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfReadingGraffitiWidthSelector</name>
     <message>
         <source>Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Genişliği</translation>
     </message>
 </context>
 <context>
@@ -14449,28 +14449,28 @@ Deleted pages can not be recovered</source>
     <name>KxpdfShapeLineWidthWidget</name>
     <message>
         <source>Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Genişliği</translation>
     </message>
 </context>
 <context>
     <name>KxPdfAnnoLineTypeSelector</name>
     <message>
         <source>Line Shape</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Şekli</translation>
     </message>
 </context>
 <context>
     <name>KxPdfReadingLineTypeSelector</name>
     <message>
         <source>Line Shape</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Şekli</translation>
     </message>
 </context>
 <context>
     <name>KxPdfHtml2PdfErrorDialog</name>
     <message>
         <source>Page not responding</source>
-        <translation type="unfinished"/>
+        <translation>Sunucu yanıt vermiyor.</translation>
     </message>
     <message>
         <source>ReCreate</source>
