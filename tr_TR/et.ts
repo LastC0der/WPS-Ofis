@@ -4306,7 +4306,7 @@ Lütfen dosya yolunu kısaltmayı deneyin veya dosyayı masaüstüne taşıyıp 
     </message>
     <message>
         <source>Recovery</source>
-        <translation type="unfinished"/>
+        <translation>Kurtarma</translation>
     </message>
     <message>
         <source>Decrease</source>
@@ -4659,19 +4659,19 @@ WPS Elektronik Tablolar&apos;ın aynı örneğinde düzenleyip yeniden yerleşti
     </message>
     <message>
         <source>History sheet cannot be renamed.</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş sayfası yeniden adlandırılamaz.</translation>
     </message>
     <message>
         <source>There is insufficient memory available to complete operation. </source>
-        <translation type="unfinished"/>
+        <translation>İşlemi tamamlamak için yeterli bellek yok.</translation>
     </message>
     <message>
         <source>The operation will effect a large number of cells and it may take several minutes to complete. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>İşlem çok sayıda hücreyi etkileyecek ve tamamlanması birkaç dakika sürebilir. Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <source>&amp;Ignore Error</source>
-        <translation type="unfinished"/>
+        <translation>Hatayı Yoksay</translation>
     </message>
     <message>
         <source>Max</source>
@@ -4715,7 +4715,7 @@ WPS Elektronik Tablolar&apos;ın aynı örneğinde düzenleyip yeniden yerleşti
     </message>
     <message>
         <source>The PivotTable report was saved without the underlying data. Use the Refresh Data Command to update the report.</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo raporu bağlı olduğu veri olmadan kaydedildi. Raporu güncelleştirmek için Veriyi Yenile komutunu seçin.</translation>
     </message>
     <message>
         <source>StdDev of %s</source>
@@ -4742,7 +4742,7 @@ Devam etmek ve sığacak kadar veriyi içe aktarmak için Tamam&apos;ı tıklay�
     </message>
     <message>
         <source>This workboot cannot use any other fonts.</source>
-        <translation type="unfinished"/>
+        <translation>Bu çalışma önyüklemesi başka yazı tiplerini kullanamaz.</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
@@ -4810,7 +4810,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>A value is not available to the formula or function.</source>
-        <translation type="unfinished"/>
+        <translation>Formül veya işlev için bir değer mevcut değil.</translation>
     </message>
     <message>
         <source>WpsReserved_CellImgList sheet cannot be renamed.</source>
@@ -4839,7 +4839,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source> A value is not available to the formula or function.</source>
-        <translation type="unfinished"/>
+        <translation> Formül veya işlev için bir değer mevcut değil.</translation>
     </message>
     <message>
         <source>Derivatives Forward</source>
@@ -4857,11 +4857,11 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>DataSource in WPS Presentation</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunumunda Veri Kaynağı</translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. To create a PivotTable report, you must use data that is organized as a list with labeled columns. If you are changing of name of a PivotTable field, you must type a new name for the field.</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo alan adı geçerli değil. Özet Tablo raporu oluşturmak için etiketli sütunlarla liste olarak düzenlenmiş veriler kullanılmalıdır. Bir Özet Tablo alanının adını değiştiriyorsanız, alan için yeni bir ad yazmalısınız.</translation>
     </message>
     <message>
         <source>[Compatibility Mode]</source>
@@ -4873,11 +4873,11 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>My Data Sources</source>
-        <translation type="unfinished"/>
+        <translation>Veri Kaynaklarım</translation>
     </message>
     <message>
         <source>Your changes on sheet &apos;%s&apos;:</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%s&apos; çalışma sayfasında değiştirdikleriniz:</translation>
     </message>
     <message>
         <source>The content does not conform to the preset limits</source>
@@ -4889,7 +4889,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>This data source contains no visible tables</source>
-        <translation type="unfinished"/>
+        <translation>Bu veri kaynağı görünür tablolar içermiyor</translation>
     </message>
     <message>
         <source>• Function(s) %s is/are used in %s 
@@ -4922,11 +4922,11 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş</translation>
     </message>
     <message>
         <source>The date you entered is not a valid date. Please try again.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiğiniz tarih geçerli bir tarih değil. Lütfen bir daha deneyin.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
@@ -4936,7 +4936,9 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
         <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
 • To save it on the Clipboard so that you can paste it later, click Yes.
 • To delete it from the Clipboard and free memory, click No.</source>
-        <translation type="unfinished"/>
+        <translation>Pano üstündeki bilgi miktarı çok büyük. Bu bilgileri daha sonra başka bir programa yapıştırabilmek ister misiniz?
+• Daha sonra yapıştırabilmek amacıyla Pano&apos;ya kaydetmek için Evet&apos;e tıklayın.
+• Pano&apos;dan silmek ve belleği boşaltmak için Hayır&apos;a tıklayın.</translation>
     </message>
     <message>
         <source>AutoFilter Analysis</source>
@@ -40515,7 +40517,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Document History</source>
-        <translation type="unfinished"/>
+        <translation>Belge Geçmişi</translation>
     </message>
     <message>
         <source>Screen Recording</source>
@@ -42433,7 +42435,7 @@ Okuma</translation>
     </message>
     <message>
         <source>This data source contains no visible tables.</source>
-        <translation type="unfinished"/>
+        <translation>Bu veri kaynağı görünür tablolar içermiyor.</translation>
     </message>
 </context>
 <context>
@@ -45748,7 +45750,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Ignore Error</source>
-        <translation type="unfinished"/>
+        <translation>Hatayı Yoksay</translation>
     </message>
 </context>
 <context>
