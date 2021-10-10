@@ -2887,7 +2887,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelikler</translation>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
@@ -9781,11 +9781,11 @@ have libgstreamer-plugins-base installed.</source>
     <name>KDocHistoryDlg</name>
     <message>
         <source>Document History</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş</translation>
     </message>
     <message>
         <source>Docment History</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş</translation>
     </message>
     <message>
         <source>Creator:</source>
