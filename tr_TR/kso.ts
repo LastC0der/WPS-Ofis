@@ -17201,7 +17201,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelikler</translation>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
