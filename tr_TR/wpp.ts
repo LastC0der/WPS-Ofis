@@ -21202,7 +21202,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Document History</source>
-        <translation type="unfinished"/>
+        <translation>Belge Geçmişi</translation>
     </message>
     <message>
         <source>Screen Recording</source>
