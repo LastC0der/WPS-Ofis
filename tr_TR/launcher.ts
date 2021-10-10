@@ -3,7 +3,7 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS Sunu</translation>
+        <translation>WPS Sunum</translation>
     </message>
     <message>
         <source>WPS Writer</source>
