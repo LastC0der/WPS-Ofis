@@ -2463,7 +2463,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelikler</translation>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
