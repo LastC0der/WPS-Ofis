@@ -7708,7 +7708,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>XML File</source>
-        <translation type="unfinished"/>
+        <translation>XML Dosyası</translation>
     </message>
     <message>
         <source>is the number of characters to use.</source>
@@ -11356,7 +11356,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>Operation field</source>
-        <translation type="unfinished"/>
+        <translation>İşlem alanı</translation>
     </message>
     <message>
         <source>is the payment made each period and cannot change over the life of the investment.</source>
@@ -15110,7 +15110,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Names in &amp;workbook:</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma kitabın&amp;daki adlar:</translation>
     </message>
     <message>
         <source>&amp;Command</source>
@@ -19916,7 +19916,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Chinese Separator</source>
-        <translation type="unfinished"/>
+        <translation>Çince Ayırıcı</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -22754,7 +22754,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns TRUE if one string is exactly equal to another string (EXACTLY means case-sensitive); returns FALSE otherwise.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dize tam olarak başka bir dizeye eşitse DOĞRU döndürür (TAM OLARAK büyük/küçük harfe duyarlı anlamına gelir); aksi halde YANLIŞ döndürür.</translation>
     </message>
     <message>
         <source>Returns the remainder after a number is divided by a divisor.</source>
@@ -23823,7 +23823,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Customizing</source>
-        <translation type="unfinished"/>
+        <translation>Özelleştirme</translation>
     </message>
     <message>
         <source>PEARSON(array1,array2)</source>
@@ -23875,7 +23875,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a random integer between the two numbers you specified.</source>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz iki sayı arasında rastgele bir tam sayı döndürür.</translation>
     </message>
     <message>
         <source>FREQUENCY(data_array,bins_array)</source>
@@ -25063,7 +25063,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Extract the phonetic character of the text string.</source>
-        <translation type="unfinished"/>
+        <translation>Metin dizesinin fonetik karakterini ayıklayın.</translation>
     </message>
     <message>
         <source>PROB(x_range,prob_range,lower_limit,upper_limit)</source>
@@ -25656,7 +25656,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen sayıda işgünü önce veya sonraki bir tarihin seri numarasını özel hafta sonu parametreleriyle verir.</translation>
     </message>
     <message>
         <source>DOLLARDE(fractional_dollar, fraction)</source>
@@ -28892,7 +28892,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arapça</translation>
     </message>
     <message>
         <source>French</source>
@@ -28912,7 +28912,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"/>
+        <translation>Kore dili</translation>
     </message>
     <message>
         <source>Telugu</source>
@@ -29791,7 +29791,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
-        <translation>Şerit Düğmesi Ortalanmış</translation>
+        <translation>Şerit Ortaya Hizalama</translation>
     </message>
     <message>
         <source>WordArt Compatibility Mode</source>
@@ -39390,7 +39390,7 @@ Varolan resmi korumak için İptal&apos;i tıklayın.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>Export Chart as Picture</source>
@@ -42310,7 +42310,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Names Scoped to Work&amp;book</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma &amp;Kitabı Kapsamındaki Adlar</translation>
     </message>
     <message>
         <source>Names &amp;with Errors</source>
@@ -46342,7 +46342,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Constraint Precision:</source>
-        <translation type="unfinished"/>
+        <translation>Kısıtlama Hassasiyeti:</translation>
     </message>
     <message>
         <source>Random Seed:</source>
@@ -48328,7 +48328,7 @@ Do you want to proceed with changes to the connection in this workbook?</source>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Renk Belirt:</translation>
     </message>
     <message>
         <source>Export To:</source>
@@ -49602,7 +49602,7 @@ Repeat Item Labels</source>
     </message>
     <message>
         <source>Sample Size must be a positive integer number.</source>
-        <translation type="unfinished"/>
+        <translation>Örnek Boyutu pozitif bir tam sayı olmalıdır.</translation>
     </message>
     <message>
         <source>Max Feasible Solutions must be a positive integer number.</source>
@@ -49830,7 +49830,7 @@ Repeat Item Labels</source>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Renk Belirt:</translation>
     </message>
     <message>
         <source>Export To:</source>
@@ -51431,7 +51431,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Renk Belirt:</translation>
     </message>
     <message>
         <source>Export To:</source>
@@ -52705,7 +52705,7 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>File Name:</source>
