@@ -19230,7 +19230,7 @@ Changes</source>
     </message>
     <message>
         <source>Elements</source>
-        <translation type="unfinished"/>
+        <translation>Öğeler</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
@@ -19242,7 +19242,7 @@ Changes</source>
     </message>
     <message>
         <source>Ribbon Auto Show/Hide</source>
-        <translation type="unfinished"/>
+        <translation>Şeridi Otomatik Göster/Gizle</translation>
     </message>
     <message>
         <source>Cloud File Management</source>
@@ -19258,11 +19258,11 @@ Changes</source>
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Şerit Ortaya Hizalama</translation>
     </message>
     <message>
         <source>WordArt Compatibility Mode</source>
-        <translation type="unfinished"/>
+        <translation>WordArt - Uyumluluk Modu</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
