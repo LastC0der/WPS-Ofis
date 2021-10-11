@@ -3880,7 +3880,7 @@ Check</source>
     </message>
     <message>
         <source>By 3rd Level paragraphs</source>
-        <translation type="unfinished"/>
+        <translation>3. Düzey paragraflara göre</translation>
     </message>
     <message>
         <source>Select a Program to Launch</source>
@@ -4314,7 +4314,7 @@ Check</source>
     </message>
     <message>
         <source>By 1st Level paragraphs</source>
-        <translation type="unfinished"/>
+        <translation>1. Düzey paragraflara göre</translation>
     </message>
     <message>
         <source>Collapse</source>
@@ -4448,7 +4448,7 @@ Check</source>
     </message>
     <message>
         <source>With Previous</source>
-        <translation type="unfinished"/>
+        <translation>Öncekiyle Birlikte</translation>
     </message>
     <message>
         <source>6 Point Star</source>
@@ -4456,11 +4456,11 @@ Check</source>
     </message>
     <message>
         <source>By 4th Level paragraphs</source>
-        <translation type="unfinished"/>
+        <translation>4. Düzey paragraflara göre</translation>
     </message>
     <message>
         <source>By 5th Level paragraphs</source>
-        <translation type="unfinished"/>
+        <translation>5. Düzey paragraflara göre</translation>
     </message>
     <message>
         <source>Cannot locate the path. Please input a full path.</source>
@@ -4592,7 +4592,7 @@ Check</source>
     </message>
     <message>
         <source>By 2nd Level paragraphs</source>
-        <translation type="unfinished"/>
+        <translation>2. Düzey paragraflara göre</translation>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
@@ -4935,7 +4935,7 @@ Check</source>
     </message>
     <message>
         <source>Paragraphs of 6 to 9 levels</source>
-        <translation type="unfinished"/>
+        <translation>6 ila 9 düzeyli paragraflar</translation>
     </message>
     <message>
         <source>Change Line Color</source>
@@ -15767,7 +15767,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Sessiz</translation>
     </message>
     <message>
         <source>Begin</source>
@@ -15775,7 +15775,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Hight</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek</translation>
     </message>
     <message>
         <source>Play Audio Across Page</source>
@@ -16969,11 +16969,11 @@ Düzen</translation>
     </message>
     <message>
         <source>mute</source>
-        <translation type="unfinished"/>
+        <translation>Sessiz</translation>
     </message>
     <message>
         <source>hight</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek</translation>
     </message>
     <message>
         <source>hidden when stop</source>
@@ -16989,7 +16989,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Start:</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç:</translation>
     </message>
     <message>
         <source>Loop until stopped</source>
@@ -17957,7 +17957,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Ribbon Auto Show/Hide</source>
-        <translation type="unfinished"/>
+        <translation>Şeridi Otomatik Göster/Gizle</translation>
     </message>
     <message>
         <source>Cloud File Management</source>
@@ -17973,7 +17973,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Şerit Ortaya Hizalama</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -20966,7 +20966,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>Speed:</source>
@@ -20974,7 +20974,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Start:</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç:</translation>
     </message>
     <message>
         <source>Property:</source>
@@ -20982,7 +20982,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>With Previous</source>
-        <translation type="unfinished"/>
+        <translation>Öncekiyle Birlikte</translation>
     </message>
     <message>
         <source>AutoPreview</source>
@@ -24710,7 +24710,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>With Previous</source>
-        <translation type="unfinished"/>
+        <translation>Öncekiyle Birlikte</translation>
     </message>
     <message>
         <source>Total Playing Time:</source>
