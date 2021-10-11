@@ -3246,7 +3246,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Ctrl+H or U</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+H veya U</translation>
     </message>
     <message>
         <source>Roll back the mouse wheel,&apos;-&apos;or Ctrl + &apos;-&apos;</source>
@@ -3265,7 +3265,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Tip</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>DownloadNow</source>
@@ -3300,7 +3300,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -7319,7 +7319,7 @@ Input 5-9 page 5 to page 9</source>
     <name>Form</name>
     <message>
         <source>tip</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <source>Form</source>
@@ -7338,7 +7338,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfCaTipDlgWidget</name>
     <message>
         <source>tip</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -7413,7 +7413,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Ribbon Auto Show/Hide</source>
-        <translation type="unfinished"/>
+        <translation>Şeridi Otomatik Göster/Gizle</translation>
     </message>
     <message>
         <source>UpdatePageNumber</source>
@@ -7727,7 +7727,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Ribbon center alignment</source>
-        <translation type="unfinished"/>
+        <translation>Şerit Ortaya Hizalama</translation>
     </message>
 </context>
 <context>
