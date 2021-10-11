@@ -2646,7 +2646,7 @@ Used to show steps toward a goal</source>
     </message>
     <message>
         <source>Trellis</source>
-        <translation type="unfinished"/>
+        <translation>Kafes</translation>
     </message>
     <message>
         <source>Using the latest XML expansion pack from the following locations, the effect of this document will be the best:
@@ -3149,7 +3149,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>Begin &amp;Group</source>
@@ -13969,7 +13969,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Change Shape Name</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Adını Değiştir</translation>
     </message>
     <message>
         <source>Very Loose</source>
@@ -17447,7 +17447,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>Are you sure to reset Quick Access Toolbar to return to the default state?</source>
@@ -17459,7 +17459,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"/>
+        <translation>Ayırıcı</translation>
     </message>
     <message>
         <source>Move down</source>
@@ -18649,7 +18649,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Grouped List</source>
-        <translation type="unfinished"/>
+        <translation>Gruplandırılmış Liste</translation>
     </message>
     <message>
         <source>Detailed Process</source>
@@ -18780,7 +18780,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Basitleştirilmiş Çince</translation>
     </message>
     <message>
         <source>Demi Bold</source>
@@ -18788,7 +18788,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arapça</translation>
     </message>
     <message>
         <source>Hebrew</source>
@@ -18804,7 +18804,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"/>
+        <translation>Kore dili</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -23971,7 +23971,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>My Computer</source>
@@ -24901,7 +24901,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"/>
+        <translation>Ayırıcı</translation>
     </message>
     <message>
         <source>.(period)</source>
@@ -26626,7 +26626,7 @@ Ortalama</translation>
     <name>KxSpeakToolbar</name>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Sessiz</translation>
     </message>
     <message>
         <source>Play</source>
@@ -29797,7 +29797,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Apply State</source>
-        <translation type="unfinished"/>
+        <translation>Onay Durumu</translation>
     </message>
     <message>
         <source>Operation</source>
@@ -30232,7 +30232,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Trellis</source>
-        <translation type="unfinished"/>
+        <translation>Kafes</translation>
     </message>
     <message>
         <source>Dashed horizontal</source>
@@ -35096,7 +35096,7 @@ Please check network</source>
     </message>
     <message>
         <source>ZWJ Zero width joiner</source>
-        <translation type="unfinished"/>
+        <translation>ZWJ Sıfır uzunluğundaki bağlantı karakteri</translation>
     </message>
     <message>
         <source>LRM Left-to-right mark</source>
@@ -36752,7 +36752,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>The file has already existed. Do you want to continue?</source>
@@ -39415,7 +39415,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxCroppingScalesGalleryModelItem</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translation type="unfinished"/>
+        <translation>Serbest</translation>
     </message>
 </context>
 <context>
