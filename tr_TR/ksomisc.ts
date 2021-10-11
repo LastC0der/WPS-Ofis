@@ -374,7 +374,7 @@
     <name>KPageChangeVersion</name>
     <message>
         <source>Tip</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <source>Switch Version</source>
@@ -417,7 +417,7 @@
     <name>KPageFileAsso</name>
     <message>
         <source>Tip</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
