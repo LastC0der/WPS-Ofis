@@ -3122,7 +3122,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Basitleştirilmiş Çince</translation>
     </message>
     <message>
         <source>Demi Bold</source>
@@ -3130,7 +3130,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arapça</translation>
     </message>
     <message>
         <source>Hebrew</source>
@@ -3146,7 +3146,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"/>
+        <translation>Kore dili</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -4330,7 +4330,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>My Computer</source>
@@ -8910,7 +8910,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>ZWJ Zero width joiner</source>
-        <translation type="unfinished"/>
+        <translation>ZWJ Sıfır uzunluğundaki bağlantı karakteri</translation>
     </message>
     <message>
         <source>LRM Left-to-right mark</source>
@@ -9372,7 +9372,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Continue download</source>
-        <translation type="unfinished"/>
+        <translation>İndirmeye devam et</translation>
     </message>
 </context>
 <context>
