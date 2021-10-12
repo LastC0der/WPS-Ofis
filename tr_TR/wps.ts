@@ -3105,7 +3105,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Print only the data from a form</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca &amp;formdaki verileri yazdır</translation>
     </message>
     <message>
         <source>days (Range 7-120)</source>
@@ -6682,7 +6682,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ortala</translation>
     </message>
     <message>
         <source>&amp;Decimal</source>
@@ -7875,7 +7875,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazdır</translation>
     </message>
     <message>
         <source>DocumentField Properties</source>
@@ -7970,7 +7970,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ortala</translation>
     </message>
     <message>
         <source>multiple, 2, 0.06, 132, 0.5</source>
@@ -9892,7 +9892,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>+Body Asian</source>
-        <translation type="unfinished"/>
+        <translation>+Asya Gövde</translation>
     </message>
     <message>
         <source>+Heading</source>
@@ -15206,7 +15206,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation type="unfinished"/>
+        <translation>Değişikliği Kabul Et</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -20763,11 +20763,11 @@ Changes</source>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation type="unfinished"/>
+        <translation>Değişikliği Kabul Et</translation>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation type="unfinished"/>
+        <translation>Kaydı Durdur</translation>
     </message>
     <message>
         <source>Microsoft Office address book(*.mdb) | *.mdb; |</source>
@@ -28453,7 +28453,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ortala</translation>
     </message>
     <message>
         <source>Exactly</source>
@@ -28712,7 +28712,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation type="unfinished"/>
+        <translation>Değişikliği Kabul Et</translation>
     </message>
     <message>
         <source>0.25 pt</source>
@@ -30499,7 +30499,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>+Body Asian</source>
-        <translation type="unfinished"/>
+        <translation>+Asya Gövde</translation>
     </message>
     <message>
         <source>9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -31488,7 +31488,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazdır</translation>
     </message>
     <message>
         <source>&amp;Delivery address:</source>
@@ -33659,7 +33659,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>+Body Asian</source>
-        <translation type="unfinished"/>
+        <translation>+Asya Gövde</translation>
     </message>
     <message>
         <source>Chinese Chuhao</source>
@@ -34269,7 +34269,7 @@ Changes</source>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation type="unfinished"/>
+        <translation>Değişikliği Kabul Et</translation>
     </message>
     <message>
         <source>Official Proofing</source>
@@ -34869,7 +34869,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>+Body Asian</source>
-        <translation type="unfinished"/>
+        <translation>+Asya Gövde</translation>
     </message>
     <message>
         <source>Chinese Chuhao</source>
@@ -37678,7 +37678,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation type="unfinished"/>
+        <translation>Kaydı Durdur</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -38285,7 +38285,7 @@ Temizle</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ortala</translation>
     </message>
 </context>
 <context>
@@ -52591,7 +52591,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation type="unfinished"/>
+        <translation>Değişikliği Kabul Et</translation>
     </message>
     <message>
         <source>Track Changes Options...</source>
