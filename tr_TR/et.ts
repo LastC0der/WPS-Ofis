@@ -8082,7 +8082,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation type="unfinished"/>
+        <translation>Kaydı Durdur</translation>
     </message>
     <message>
         <source>is the value for which to return the double factorial.</source>
@@ -8098,7 +8098,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the value to be found in the first row of the table and can be a value, a reference, or a text string.</source>
-        <translation type="unfinished"/>
+        <translation>tablonun ilk satırında bulunması gereken değerdir ve bir değer, başvuru veya metin olabilir.</translation>
     </message>
     <message>
         <source>Values</source>
@@ -8154,11 +8154,11 @@ Aktar</translation>
     </message>
     <message>
         <source>is a parameter to the distribution, a positive number.</source>
-        <translation type="unfinished"/>
+        <translation>dağılım parametresi, pozitif bir sayı.</translation>
     </message>
     <message>
         <source>Click to follow the link.</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıyı takip etmek için tıklayın.</translation>
     </message>
     <message>
         <source>Value_if_true</source>
@@ -8166,7 +8166,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Data Field</source>
-        <translation type="unfinished"/>
+        <translation>Veri Alanı</translation>
     </message>
     <message>
         <source>The Value must be a decimal number, numeric expression, or reference to a cell containing decimal numbers.</source>
@@ -41906,7 +41906,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Worksheet Menu Bar</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Sayfası Menü Çubuğu</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -41914,7 +41914,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation type="unfinished"/>
+        <translation>Kaydı Durdur</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -51049,7 +51049,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>&amp;Print settings</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;azıcı ayarları</translation>
     </message>
     <message>
         <source>Include in view</source>
@@ -51473,7 +51473,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     <name>classics.record_macro</name>
     <message>
         <source>Stop Recording</source>
-        <translation type="unfinished"/>
+        <translation>Kaydı Durdur</translation>
     </message>
     <message>
         <source>Relative References</source>
