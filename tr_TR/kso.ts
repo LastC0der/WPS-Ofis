@@ -9847,7 +9847,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazdır</translation>
     </message>
     <message>
         <source>A3 (297 x 420 mm)</source>
@@ -15496,7 +15496,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ortala</translation>
     </message>
     <message>
         <source>&amp;Decimal</source>
@@ -21310,7 +21310,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Box Drawing</source>
-        <translation type="unfinished"/>
+        <translation>Kutu Çizimi</translation>
     </message>
     <message>
         <source>Gujarati</source>
@@ -24933,7 +24933,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ortala</translation>
     </message>
     <message>
         <source>&amp;Y value</source>
@@ -29871,7 +29871,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>+Body Asian</source>
-        <translation type="unfinished"/>
+        <translation>+Asya Gövde</translation>
     </message>
     <message>
         <source>+Heading</source>
@@ -30355,7 +30355,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>&amp;Print content</source>
-        <translation type="unfinished"/>
+        <translation>İçeriği ya&amp;zdır</translation>
     </message>
 </context>
 <context>
@@ -36406,7 +36406,7 @@ p, li { white-space: pre-wrap; }
     <name>compressPictures</name>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazdır</translation>
     </message>
     <message>
         <source>&amp;Web/Screen</source>
