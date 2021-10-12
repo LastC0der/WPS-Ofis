@@ -545,7 +545,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Use the following &amp;print settings:</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı&amp;daki yazdırma ayarlarını kullan:</translation>
     </message>
     <message>
         <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
@@ -3421,7 +3421,7 @@ Check</source>
     </message>
     <message>
         <source>In To Screen &amp;Center</source>
-        <translation type="unfinished"/>
+        <translation>Ekran &amp;Merkezine</translation>
     </message>
     <message>
         <source>Float</source>
@@ -5470,7 +5470,7 @@ Check</source>
     </message>
     <message>
         <source>Out From Screen &amp;Center</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Merkezinden &amp;Dışarı</translation>
     </message>
     <message>
         <source>Slide transition loss</source>
@@ -5914,7 +5914,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Sıralayıcısı</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -11777,7 +11777,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Sıralayıcısı</translation>
     </message>
     <message>
         <source>White Screen</source>
@@ -21828,7 +21828,7 @@ Comment</source>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Sıralayıcısı</translation>
     </message>
     <message>
         <source>Reading View</source>
@@ -22475,7 +22475,7 @@ Window</source>
     </message>
     <message>
         <source>Tile Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Döşe</translation>
     </message>
     <message>
         <source>Arrange
@@ -23705,7 +23705,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Sıralayıcısı</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -23725,7 +23725,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation type="unfinished"/>
+        <translation>Kaydı Durdur</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -30610,7 +30610,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Sıralayıcısı</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -30640,7 +30640,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Tile Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Döşe</translation>
     </message>
     <message>
         <source>Switch Windows</source>
