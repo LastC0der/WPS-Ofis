@@ -754,7 +754,7 @@
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazdır</translation>
     </message>
     <message>
         <source>A3 (297 x 420 mm)</source>
