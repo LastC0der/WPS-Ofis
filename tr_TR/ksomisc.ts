@@ -475,7 +475,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>File Associations</source>
-        <translation type="unfinished"/>
+        <translation>Dosya ilişkilendirmeleri</translation>
     </message>
     <message>
         <source>&amp;Compatible with third-party software</source>
@@ -515,7 +515,8 @@ These operations can be undone. </source>
     <message>
         <source> Failed to register WPS Presentation
 </source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunumu kaydedilemedi
+</translation>
     </message>
     <message>
         <source> Registering MSO2Pdf Plugins failed
@@ -726,11 +727,11 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft Excel Chart</source>
-        <translation>Microsoft Ofis Grafiği</translation>
+        <translation>Microsoft Excel Grafiği</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazdır</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Slide</source>
@@ -750,7 +751,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft Excel SLK File</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Excel SLK Dosyası</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Add-In</source>
@@ -1089,7 +1090,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Clearing backup files completed.</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme dosyalarının temizlenmesi tamamlandı.</translation>
     </message>
 </context>
 <context>
@@ -1287,7 +1288,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Launch WPS Office.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i başlatın.</translation>
     </message>
     <message>
         <source>WPS Office.lnk</source>
@@ -1307,7 +1308,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Configure WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i yapılandırın</translation>
     </message>
     <message>
         <source>Uninstall.lnk</source>
@@ -1408,7 +1409,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Click here to browse backup files</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme dosyalarına göz atmak için burayı tıklayın</translation>
     </message>
     <message>
         <source>WPS &amp;Writer Backup Files</source>
@@ -1537,7 +1538,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Content-based feature</source>
-        <translation type="unfinished"/>
+        <translation>İçerik tabanlı özellik</translation>
     </message>
     <message>
         <source>View Pirvacy Policy</source>
@@ -1678,7 +1679,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     <name>KFunctionCustomization</name>
     <message>
         <source>Disable online resource recommend.</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi kaynak önerisini devre dışı bırakın.</translation>
     </message>
     <message>
         <source>Function Customization</source>
@@ -1767,7 +1768,8 @@ Please use administrator account to relaunch &quot;Configuration Tools&quot;.</s
     <message>
         <source>WPS Office offers multiple sets of interface schemes with different themes.
 The button icon, command group and task window position of each scheme are different. If you want a novel interface, you can choose the Modern Theme (WPS Office 2012 theme and WPS Office 2013 theme); if you are used to Office product, you can choose the Classic Theme.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office, farklı temalara sahip birden çok arayüz şeması seti sunar.
+Her şemanın düğme simgesi, komut grubu ve görev penceresi konumu farklıdır. Yeni bir arayüz istiyorsanız Modern Temayı (WPS Ofis 2012 teması ve WPS Ofis 2013 teması) seçebilirsiniz; Ofis ürününe alışkınsanız Klasik Temayı seçebilirsiniz.</translation>
     </message>
     <message>
         <source>Dream Blue</source>
@@ -1791,7 +1793,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Classic Theme</source>
-        <translation type="unfinished"/>
+        <translation>Klasik Tema</translation>
     </message>
 </context>
 <context>
