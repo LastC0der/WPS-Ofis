@@ -2388,7 +2388,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Report: Merged %d workbook(s), with %d failed.</source>
-        <translation>Rapor: %d ile birleştirilen %d çalışma kitabı başarısız oldu.</translation>
+        <translation>Rapor: %d çalışma kitabı birleştirildi, %d başarısız oldu.</translation>
     </message>
     <message>
         <source>Varp of %s</source>
@@ -3818,7 +3818,7 @@ Aksi takdirde, bu paylaşılan çalışma kitabını yalnızca yeni bir dosya ol
     <message>
         <source>Report: Merged %d worksheet(s). Generated %d workbook(s)</source>
         <comment>TX_MERGESHEET_REPORT_Recombine_Result_Succeed</comment>
-        <translation>Rapor: %d çalışma sayfası başarıyla birleştirildi. %d çalışma kitabı oluşturuldu.</translation>
+        <translation>Rapor: %d çalışma sayfası birleştirildi. %d çalışma kitabı oluşturuldu</translation>
     </message>
     <message>
         <source>Value Not Available Error</source>
@@ -4140,7 +4140,7 @@ Bunun nedenleri şunları içerebilir:
     </message>
     <message>
         <source>Report: Merged %d workbook(s), with %d failed. Data: %d row(s)</source>
-        <translation>Rapor: %d ile birleştirilen %d çalışma kitabı başarısız oldu. Veri: %d satır</translation>
+        <translation>Rapor: %d çalışma kitabı birleştirildi, %d başarısız oldu. Veri: %d satır</translation>
     </message>
     <message>
         <source>Max</source>
@@ -4606,7 +4606,7 @@ Eylem</translation>
     </message>
     <message>
         <source>The worksheet range for the table data must be on the same sheet as the table being created.</source>
-        <translation type="unfinished"/>
+        <translation>Tablo verilerinin çalışma sayfası aralığı, oluşturulan tabloyla aynı sayfada olmalıdır.</translation>
     </message>
     <message>
         <source>Use Automatic Scaling</source>
@@ -4614,20 +4614,21 @@ Eylem</translation>
     </message>
     <message>
         <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfasındaki tüm hücreleri geçerli çalışma sayfasına yapıştırmak için, ilk hücreye (A1 veya R1C1) yapıştırmanız gerekir.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tabloları aradığınız verileri bulamıyor. Lütfen arama seçeneklerinizi kontrol edin.</translation>
     </message>
     <message>
         <source>Document has been locked by another application, do you want to open it as read-only?
 (%s)</source>
-        <translation type="unfinished"/>
+        <translation>Belge başka bir uygulama tarafından kilitlendi, salt okunur olarak açmak ister misiniz?
+(%s)</translation>
     </message>
     <message>
         <source>Converting this query range to a list query range may cause some macro code and/or formulas not to function properly. Do you still want to perform the conversion?</source>
-        <translation type="unfinished"/>
+        <translation>Bu sorgu aralığının liste sorgu aralığına dönüştürülmesi veri bazı makro kodunun ve/veya formüllerinin çalışmamasına neden olabilir. Dönüştürmeyi yine de gerçekleştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -4758,11 +4759,11 @@ Devam etmek ve sığacak kadar veriyi içe aktarmak için Tamam&apos;ı tıklay�
     </message>
     <message>
         <source>Array constants cannot be used under conditional formatting.</source>
-        <translation type="unfinished"/>
+        <translation>Dizi sabitleri koşullu biçimlendirme altında kullanılamaz.</translation>
     </message>
     <message>
         <source>Trail Solution</source>
-        <translation type="unfinished"/>
+        <translation>İz Çözümü</translation>
     </message>
     <message>
         <source>[%s]%s:
@@ -4774,11 +4775,13 @@ Bu komutu korumalı bir sayfada kullanamazsınız. Korumayı kaldırmak için, A
         <source>You are no longer connected to this file. Another user may have removed you from the user list, or replaced it.
 
 To preserve the unsaved work, click OK, and save the shared workbook with a different name. Then you can reopen the original shared workbook, and merge in you changes from the copy of the workbook that you saved.</source>
-        <translation type="unfinished"/>
+        <translation>Artık bu dosyaya bağlı değilsiniz. Başka bir kullanıcı sizi dosyadan kaldırmış veya dosyanın üstüne kaydetmiş olabilir.
+
+Kaydedilmeyen işlerin korunması için Tamam&apos;a tıklayın ve paylaşılan çalışma kitabını farklı bir adla kaydedin. Sonra, paylaşılan özgün çalışma kitabını yeniden açabilir ve kaydettiğiniz çalışma kitabının kopyasında bulunan değişikliklerinizle birleştirebilirsiniz.</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; you specified is unsupported format. Please click OK and specify another file type in the Save As dialog box.</source>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz &quot;%s&quot; dosyası desteklenmeyen biçimde. Lütfen Tamam&apos;ı tıklayın ve Farklı Kaydet iletişim kutusunda başka bir dosya türü belirtin.</translation>
     </message>
     <message>
         <source>Null Error</source>
@@ -4794,11 +4797,11 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Cell Value</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Değeri</translation>
     </message>
     <message>
         <source>Report: Merged %d workbook(s).</source>
-        <translation type="unfinished"/>
+        <translation>Rapor: %d çalışma kitabı birleştirildi.</translation>
     </message>
     <message>
         <source>Averages,standard deviations,and variances are not supported when a PivotTable report has calculated items.</source>
@@ -4815,7 +4818,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     <message>
         <source>WpsReserved_CellImgList sheet cannot be renamed.</source>
         <comment>TX_RenameSheet_Error_CellImgListSheet</comment>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfası WpsReserved_CellImgList yeniden adlandırılamaz.</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
@@ -4823,7 +4826,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>System error: &quot;%s&quot;. </source>
-        <translation type="unfinished"/>
+        <translation>Sistem hatası: &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>Reference is invalid.</source>
@@ -4831,7 +4834,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Change Source: </source>
-        <translation type="unfinished"/>
+        <translation>Kaynağı Değiştir: </translation>
     </message>
     <message>
         <source>(blank)</source>
@@ -4894,11 +4897,12 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     <message>
         <source>• Function(s) %s is/are used in %s 
 </source>
-        <translation type="unfinished"/>
+        <translation>• %s işlevi %s içinde kullanılıyor 
+</translation>
     </message>
     <message>
         <source>Failed to paste! The source data contains merge cells.</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştırma başarısız oldu. Kaynak veriler birleştirilmiş hücreler içerir.</translation>
     </message>
     <message>
         <source>Solver Engine</source>
@@ -4906,15 +4910,15 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
-        <translation type="unfinished"/>
+        <translation>Bu çalışma kitabına şu anda başka bir çalışma kitabı başvuruda bulunuyor, bu yüzden kapatılamıyor.</translation>
     </message>
     <message>
         <source>There are too many blank cells in WPS Spreadsheets and part of them have been deleted.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tablolarında çok fazla boş hücre var ve bunların bir kısmı silinmiş.</translation>
     </message>
     <message>
         <source> The formula or function used is dividing by zero or empty cells.</source>
-        <translation type="unfinished"/>
+        <translation> Kullanılan formül veya fonksiyon sıfıra veya boş hücrelere bölüyor.</translation>
     </message>
     <message>
         <source>Cannot hide the (All) item of a Report Filter field.</source>
@@ -4942,27 +4946,27 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>AutoFilter Analysis</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Filtre Analizi</translation>
     </message>
     <message>
         <source>Command not available: The workbook has started revision.</source>
-        <translation type="unfinished"/>
+        <translation>Komut kullanılamıyor: Çalışma kitabı düzeltmeye başladı.</translation>
     </message>
     <message>
         <source>The selection contains multiple data values. Only the data in the upper-left corner will be kept when merging into one cell.</source>
-        <translation type="unfinished"/>
+        <translation>Seçim, birden çok veri değeri içeriyor. Bir hücreye birleştirildiğinde yalnızca sol üst köşedeki değerler korunur.</translation>
     </message>
     <message>
         <source>This document can&apos;t be shared, it must be saved as another format before be shared.</source>
-        <translation type="unfinished"/>
+        <translation>Bu belge paylaşılamaz, paylaşılmadan önce başka bir biçimde kaydedilmelidir.</translation>
     </message>
     <message>
         <source>Column Labels</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Etiketleri</translation>
     </message>
     <message>
         <source>Worksheet in %s</source>
-        <translation type="unfinished"/>
+        <translation>%s içinde çalışma sayfası</translation>
     </message>
     <message>
         <source>Try again after closing some programs or web pages. </source>
@@ -4974,19 +4978,19 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>The Trace Precedents command requires that the active cell contains a formula which includes valid references.</source>
-        <translation type="unfinished"/>
+        <translation>Etkileyenleri İzle komutu, etkin hücrenin geçerli başvurular içeren bir formül içermesini gerektirir.</translation>
     </message>
     <message>
         <source>Integer Tolerance</source>
-        <translation type="unfinished"/>
+        <translation>Tamsayı Toleransı</translation>
     </message>
     <message>
         <source>Operand needs to be followed by a right bracket.</source>
-        <translation type="unfinished"/>
+        <translation>İşlenenin ardından bir kapanış parantezinin gelmesi gerekir.</translation>
     </message>
     <message>
         <source>Caution: You are attempting to save a shared workbook that is also protected with a password. Portions of the file that include the revision record will be encrypted. To ensure the security of the file, unshare the workbook or delete the revision record from the document. Do you want to save the file?</source>
-        <translation type="unfinished"/>
+        <translation>Dikkat: Parola ilke korunmuş paylaşılan bir çalışma kitabını kaydetmeye çalışıyorsunuz. Değişiklik geçmişi de dahil dosyanın bazı bölümleri şifrelenmeyecek. Dosyanızın güvenliğinden emin olmaya yardım etmek için, çalışma kitabının paylaşımını kaldırın veya değişiklik geçmişini belgeden silin. Dosyayı kaydetmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Total</source>
@@ -5007,23 +5011,23 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Calculation is incomplete. Recalculate before saving?</source>
-        <translation type="unfinished"/>
+        <translation>Hesaplama tamamlanamadı. Kaydetmeden önce yeniden hesaplansın mı?</translation>
     </message>
     <message>
         <source>Sum of %s</source>
-        <translation type="unfinished"/>
+        <translation>%s toplamı</translation>
     </message>
     <message>
         <source>The changes to %s - %s encounter conflicts:</source>
-        <translation type="unfinished"/>
+        <translation>%s - %s olarak yapılan değişiklikler çakışmalara neden olur:</translation>
     </message>
     <message>
         <source>Invalid Cell Reference Error</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz Hücre Başvurusu Hatası</translation>
     </message>
     <message>
         <source>Cannot move subtotals or block totals</source>
-        <translation type="unfinished"/>
+        <translation>Alt toplamlar veya blok toplamları taşınamaz</translation>
     </message>
     <message>
         <source>DefaultChartCustom</source>
@@ -5031,15 +5035,15 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source> Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</source>
-        <translation type="unfinished"/>
+        <translation> Hücreleri taşıma veya silme işlemi geçersiz hücre başvurusuna sebep oldu veya fonksiyon başvuru hatası döndürüyor.</translation>
     </message>
     <message>
         <source>Failed: Cannot merge dialog sheet</source>
-        <translation type="unfinished"/>
+        <translation>Başarısız: İletişim sayfası birleştirilemiyor</translation>
     </message>
     <message>
         <source>Common Files(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|Chinese Office Document Format(*.uos)|*.uos|All Files(*.*)|*.*||</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Dosyalar(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos|WPS Elektronik Tablo Dosyaları(*.et)|*.et|Microsoft Excel Dosyaları(*.xls)|*.xls|Microsoft Excel 2007/2010 Dosyaları(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|Çince Ofis Belge Biçimi(*.uos)|*.uos|Tüm Dosyalar(*.*)|*.*||</translation>
     </message>
     <message>
         <source>WPS Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the Copy and Paste commands to insert the data into the other worksheets of the workbook.</source>
@@ -5047,7 +5051,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>The formula or function used is dividing by zero or empty cells.</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılan formül veya fonksiyon sıfıra veya boş hücrelere bölüyor.</translation>
     </message>
     <message>
         <source>Copy Formul&amp;a from Left</source>
@@ -5094,7 +5098,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     <message>
         <source>Report: Merged %d worksheet(s), with %d failed. Generated %d workbook(s)</source>
         <comment>TX_MERGESHEET_REPORT_Recombine_Result_Failed</comment>
-        <translation type="unfinished"/>
+        <translation>Rapor: %d çalışma sayfası birleştirildi, %d başarısız oldu. %d çalışma kitabı oluşturuldu</translation>
     </message>
     <message>
         <source>Error replacing target file. </source>
@@ -5106,7 +5110,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
     </message>
     <message>
         <source>Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</source>
-        <translation type="unfinished"/>
+        <translation>Hücreleri taşıma veya silme işlemi geçersiz hücre başvurusuna sebep oldu veya fonksiyon başvuru hatası döndürüyor.</translation>
     </message>
     <message>
         <source>Processor(s)</source>
@@ -14009,7 +14013,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tabloları aradığınız verileri bulamıyor. Lütfen arama seçeneklerinizi kontrol edin.</translation>
     </message>
     <message>
         <source>Sort and Display</source>
@@ -15754,7 +15758,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Not allowed to refer a readonly RMS document</source>
-        <translation type="unfinished"/>
+        <translation>Salt okunur bir RMS belgesine başvurmaya izin verilmiyor</translation>
     </message>
     <message>
         <source>Error: Undefined or non-rectangular name</source>
@@ -15762,7 +15766,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Currently there is a data source being updated, is it interrupted and closed?</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda güncellenmekte olan bir veri kaynağı var, kesintiye uğradı ve kapatıldı mı?</translation>
     </message>
     <message>
         <source>Not applicable</source>
@@ -15770,7 +15774,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>The cache has been cleared. Need to get cloud document data</source>
-        <translation type="unfinished"/>
+        <translation>Önbellek temizlendi. Lütfen Bulut belge verilerini edinin.</translation>
     </message>
     <message>
         <source>Warning: Open source to update values</source>
@@ -15790,7 +15794,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Cloud document data updated</source>
-        <translation type="unfinished"/>
+        <translation>Bulut belge verilerinin güncellemeleri var.</translation>
     </message>
     <message>
         <source>Error: Worksheet not found</source>
@@ -15798,7 +15802,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>(document was moved)</source>
-        <translation type="unfinished"/>
+        <translation>(Belge taşınır)</translation>
     </message>
     <message>
         <source>Worksheet</source>
@@ -39542,11 +39546,11 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tabloları aradığınız verileri bulamıyor. Lütfen arama seçeneklerinizi kontrol edin.</translation>
     </message>
     <message>
         <source>For&amp;mat</source>
-        <translation type="unfinished"/>
+        <translation>Biçi&amp;m</translation>
     </message>
     <message>
         <source>F&amp;ill Color</source>
@@ -39566,7 +39570,7 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>No objects found.</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir nesne bulunamadı.</translation>
     </message>
 </context>
 <context>
