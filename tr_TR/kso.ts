@@ -1844,7 +1844,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>Japanese (Japan)</source>
-        <translation type="unfinished"/>
+        <translation>Japonca (Japonya)</translation>
     </message>
     <message>
         <source>Recent workbooks</source>
@@ -6147,7 +6147,7 @@ Ekle</translation>
     </message>
     <message>
         <source>WordArt: Curve Up</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Eğri Yukarı</translation>
     </message>
     <message>
         <source>Chord</source>
@@ -6751,7 +6751,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Typing</source>
-        <translation type="unfinished"/>
+        <translation>Yazı</translation>
     </message>
     <message>
         <source>Up Arc</source>
@@ -8973,7 +8973,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Left Horn</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Doğru Kıvır</translation>
     </message>
     <message>
         <source>Soft Edge</source>
@@ -10894,7 +10894,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Can&apos;t save document</source>
-        <translation type="unfinished"/>
+        <translation>Belge kaydedilemiyor</translation>
     </message>
     <message>
         <source>Failed to open this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Server Transform API mismatch: %1.)</source>
@@ -13503,7 +13503,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Typing</source>
-        <translation type="unfinished"/>
+        <translation>Yazı</translation>
     </message>
     <message>
         <source>Rotate Left 90º</source>
@@ -13532,7 +13532,7 @@ Ekle</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -13541,7 +13541,7 @@ Ekle</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Resimler(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -14436,7 +14436,7 @@ Ekle</translation>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>Kingsoft PDF</source>
@@ -14709,11 +14709,11 @@ You can choose Read-only button to open it as read-only.</source>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>MyComputer</source>
-        <translation>MyComputer</translation>
+        <translation>Bilgisayarım</translation>
     </message>
     <message>
         <source>Verifying your logon information for opening content with restricted permission</source>
@@ -16153,7 +16153,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Expend Vision</source>
-        <translation type="unfinished"/>
+        <translation>Görüş alanını genişlet</translation>
     </message>
     <message>
         <source>Enter 0 to 120 Degres  of value</source>
@@ -16248,7 +16248,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Expend Vision</source>
-        <translation type="unfinished"/>
+        <translation>Görüş alanını genişlet</translation>
     </message>
     <message>
         <source>Default R&amp;otation</source>
@@ -16555,7 +16555,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Short side</source>
-        <translation type="unfinished"/>
+        <translation>Kısa taraf</translation>
     </message>
     <message>
         <source>Collate</source>
@@ -18293,7 +18293,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Picture Strips</source>
-        <translation type="unfinished"/>
+        <translation>Resim Şeritleri</translation>
     </message>
     <message>
         <source>Staggered Process</source>
@@ -29734,7 +29734,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk Seç</translation>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
@@ -29963,7 +29963,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>VERTICAL ERROR BAR</source>
-        <translation type="unfinished"/>
+        <translation>DİKEY HATA ÇUBUĞU</translation>
     </message>
     <message>
         <source>HORIZONTAL ERROR BAR</source>
@@ -33375,7 +33375,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Could not start transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamadı</translation>
     </message>
     <message>
         <source>Error opening database</source>
@@ -33398,27 +33398,27 @@ share with your friends</source>
     </message>
     <message>
         <source>Could not describe statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade açıklanamıyor</translation>
     </message>
     <message>
         <source>Could not describe input statement</source>
-        <translation type="unfinished"/>
+        <translation>Giriş ifadesi tanımlanamadı</translation>
     </message>
     <message>
         <source>Could not allocate statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade ayrılamıyor</translation>
     </message>
     <message>
         <source>Unable to write BLOB</source>
-        <translation type="unfinished"/>
+        <translation>BLOB yazılamıyor</translation>
     </message>
     <message>
         <source>Could not start transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamadı</translation>
     </message>
     <message>
         <source>Unable to close statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade kapatılamıyor</translation>
     </message>
     <message>
         <source>Could not get query info</source>
@@ -33438,7 +33438,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Could not prepare statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade hazırlanamadı</translation>
     </message>
     <message>
         <source>Could not fetch next item</source>
@@ -33446,7 +33446,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Could not get statement info</source>
-        <translation type="unfinished"/>
+        <translation>İfade bilgisi alınamadı</translation>
     </message>
     <message>
         <source>Unable to create BLOB</source>
@@ -35495,7 +35495,7 @@ Please check network</source>
     <name>QOCIResult</name>
     <message>
         <source>Unable to alloc statement</source>
-        <translation type="unfinished"/>
+        <translation>ifade ayrılamıyor</translation>
     </message>
     <message>
         <source>Unable to goto next</source>
@@ -36156,7 +36156,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>Unknown Format Source.</source>
@@ -36480,7 +36480,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Smoothness</source>
-        <translation type="unfinished"/>
+        <translation>Düzgünlük</translation>
     </message>
     <message>
         <source>Artistic Effects</source>
@@ -36861,7 +36861,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Unable to store statement results</source>
-        <translation type="unfinished"/>
+        <translation>İfade sonuçları depolanamıyor</translation>
     </message>
     <message>
         <source>Unable to execute next query</source>
