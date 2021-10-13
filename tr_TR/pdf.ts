@@ -2670,7 +2670,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>split print</source>
@@ -13533,7 +13533,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfFillSignColorButton</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk Seç</translation>
     </message>
 </context>
 <context>
