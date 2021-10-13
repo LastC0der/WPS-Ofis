@@ -1362,7 +1362,7 @@
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>From text</source>
@@ -2212,7 +2212,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>%s Medium Full</source>
-        <translation type="unfinished"/>
+        <translation>%s yüklenemedi ve disk dolu. Lütfen diskteki gereksiz dosyaları (geçici dosyalar gibi) temizleyin ve yeniden deneyin.</translation>
     </message>
     <message>
         <source>Headers</source>
@@ -6525,7 +6525,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>Apply(&amp;A)</source>
@@ -10014,7 +10014,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Customize Numbered List</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırılmış Listeyi Özelleştir</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
@@ -18648,7 +18648,7 @@ Navigation</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation type="unfinished"/>
+        <translation>Tam Ekran</translation>
     </message>
     <message>
         <source>Cloud Page</source>
@@ -20535,27 +20535,27 @@ To follow this link, please hold down Ctrl and click.</source>
     </message>
     <message>
         <source>Colorful Grid Accent 1</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Kılavuz Vurgu  1</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 2</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Kılavuz Vurgu  2</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 3</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Kılavuz Vurgu  3</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 4</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Kılavuz Vurgu  4</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 5</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Kılavuz Vurgu  5</translation>
     </message>
     <message>
         <source>Colorful Grid Accent 6</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Kılavuz Vurgu  6</translation>
     </message>
     <message>
         <source>Track 
@@ -21266,7 +21266,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Typing</source>
-        <translation type="unfinished"/>
+        <translation>Yazı</translation>
     </message>
     <message>
         <source>UnHold</source>
@@ -21764,7 +21764,7 @@ Denetimi</translation>
     <message>
         <source>Typing</source>
         <comment>TxVersion_Typing</comment>
-        <translation type="unfinished"/>
+        <translation>Yazı</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -22261,7 +22261,7 @@ Protection</source>
     <message>
         <source>Typing</source>
         <comment>TxVersion_Key_Overtype</comment>
-        <translation type="unfinished"/>
+        <translation>Yazı</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
@@ -31476,7 +31476,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>O&amp;mit</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;ok</translation>
     </message>
     <message>
         <source>&amp;Return address:</source>
@@ -31963,7 +31963,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
 </context>
 <context>
@@ -34602,7 +34602,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Japanese (Japan)</source>
-        <translation type="unfinished"/>
+        <translation>Japonca (Japonya)</translation>
     </message>
     <message>
         <source>Date and Time (xsd:dateTime)</source>
@@ -36136,7 +36136,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>As&amp;cending</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;rtan</translation>
     </message>
     <message>
         <source>&amp;Ascending</source>
@@ -36211,7 +36211,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Add S&amp;chema...</source>
-        <translation type="unfinished"/>
+        <translation>Ş&amp;ema Ekle...</translation>
     </message>
     <message>
         <source> Full path: </source>
@@ -36322,7 +36322,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Add Schema...</source>
-        <translation type="unfinished"/>
+        <translation>Şem&amp;a Ekle...</translation>
     </message>
     <message>
         <source>Schemas</source>
@@ -38577,7 +38577,7 @@ Temizle</translation>
     </message>
     <message>
         <source>&amp;Snap objects to grid</source>
-        <translation type="unfinished"/>
+        <translation>Nesneleri &amp;kılavuza uydur</translation>
     </message>
 </context>
 <context>
@@ -40145,7 +40145,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Japanese (Japan)</source>
-        <translation type="unfinished"/>
+        <translation>Japonca (Japonya)</translation>
     </message>
     <message>
         <source>Vietnamese</source>
@@ -41996,7 +41996,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>Footnote number (formatted)</source>
@@ -43876,7 +43876,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"/>
+        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
 </context>
 <context>
@@ -43887,7 +43887,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished"/>
+        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
 </context>
 <context>
@@ -44494,7 +44494,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>&amp;Schemes</source>
@@ -44994,7 +44994,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Japanese (Japan)</source>
-        <translation type="unfinished"/>
+        <translation>Japonca (Japonya)</translation>
     </message>
     <message>
         <source>Vietnamese</source>
@@ -45218,7 +45218,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxWpsDlgAskFieldName</name>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
 </context>
 <context>
