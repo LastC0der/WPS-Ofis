@@ -4221,7 +4221,7 @@ Check</source>
     </message>
     <message>
         <source>Strips</source>
-        <translation type="unfinished"/>
+        <translation>Şeritler</translation>
     </message>
     <message>
         <source>Subtle</source>
@@ -5430,7 +5430,7 @@ Check</source>
     <message>
         <source>Strips</source>
         <comment>wpp_sAnimExitEffectTextStrips</comment>
-        <translation type="unfinished"/>
+        <translation>Şeritler</translation>
     </message>
     <message>
         <source>The numbers in the selection are dynamically transformed.</source>
@@ -6611,7 +6611,7 @@ Body: Thread</source>
     </message>
     <message>
         <source>Typing</source>
-        <translation type="unfinished"/>
+        <translation>Yazı</translation>
     </message>
     <message>
         <source>Unfold</source>
@@ -6751,7 +6751,7 @@ Body: Descend</source>
     </message>
     <message>
         <source>Strips Right-Up</source>
-        <translation type="unfinished"/>
+        <translation>Sağ Yukarıya Doğru Soyarak</translation>
     </message>
     <message>
         <source>city silhouette</source>
@@ -6921,7 +6921,7 @@ Body: Unfold</source>
     </message>
     <message>
         <source>Strips Right-Down</source>
-        <translation type="unfinished"/>
+        <translation>Sağ Aşağıya Doğru Soyarak</translation>
     </message>
     <message>
         <source>Boomerang And Exit</source>
@@ -6999,7 +6999,7 @@ Fifth level</source>
     </message>
     <message>
         <source>Strips Left-Up</source>
-        <translation type="unfinished"/>
+        <translation>Sol Yukarı Doğru Soyarak</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
@@ -7093,7 +7093,9 @@ Fifth level</source>
         <source>Slide Transition: Strips Right-Down
 Title: Circle
 Body: Fade</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi: Sağ Aşağıya Doğru Soyarak
+Başlık: Daire
+Gövde: Solarak</translation>
     </message>
     <message>
         <source>(%d slides)</source>
@@ -7649,7 +7651,7 @@ Gövde: Yakınlaştır</translation>
     </message>
     <message>
         <source>Strips Left-Down</source>
-        <translation type="unfinished"/>
+        <translation>Sol Aşağıya Doğru Soyarak</translation>
     </message>
     <message>
         <source>pleasant garden</source>
@@ -11594,19 +11596,19 @@ Araçları</translation>
     </message>
     <message>
         <source>Strips 1</source>
-        <translation type="unfinished"/>
+        <translation>Şeritler 1</translation>
     </message>
     <message>
         <source>Strips 2</source>
-        <translation type="unfinished"/>
+        <translation>Şeritler 2</translation>
     </message>
     <message>
         <source>Strips 3</source>
-        <translation type="unfinished"/>
+        <translation>Şeritler 3</translation>
     </message>
     <message>
         <source>Strips 4</source>
-        <translation type="unfinished"/>
+        <translation>Şeritler 4</translation>
     </message>
     <message>
         <source>Thick Outline</source>
