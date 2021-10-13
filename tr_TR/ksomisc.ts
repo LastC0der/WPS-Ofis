@@ -807,7 +807,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Macro-Enabled Show</source>
@@ -1648,7 +1648,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>Kingsoft PDF Standalone</source>
