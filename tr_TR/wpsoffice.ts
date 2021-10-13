@@ -2174,7 +2174,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Short side</source>
-        <translation type="unfinished"/>
+        <translation>Kısa taraf</translation>
     </message>
     <message>
         <source>Collate</source>
@@ -5998,7 +5998,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk Seç</translation>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
@@ -7445,7 +7445,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not start transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamadı</translation>
     </message>
     <message>
         <source>Error opening database</source>
@@ -7468,27 +7468,27 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not describe statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade açıklanamadı</translation>
     </message>
     <message>
         <source>Could not describe input statement</source>
-        <translation type="unfinished"/>
+        <translation>Giriş ifadesi tanımlanamadı</translation>
     </message>
     <message>
         <source>Could not allocate statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade ayrılamıyor</translation>
     </message>
     <message>
         <source>Unable to write BLOB</source>
-        <translation type="unfinished"/>
+        <translation>BLOB yazılamıyor</translation>
     </message>
     <message>
         <source>Could not start transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamadı</translation>
     </message>
     <message>
         <source>Unable to close statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade kapatılamıyor</translation>
     </message>
     <message>
         <source>Could not get query info</source>
@@ -7508,7 +7508,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not prepare statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade hazırlanamadı</translation>
     </message>
     <message>
         <source>Could not fetch next item</source>
@@ -7516,7 +7516,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not get statement info</source>
-        <translation type="unfinished"/>
+        <translation>İfade bilgisi alınamıyor</translation>
     </message>
     <message>
         <source>Unable to create BLOB</source>
@@ -7796,7 +7796,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Official Document</source>
@@ -7823,7 +7823,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS PDF</source>
@@ -8581,7 +8581,7 @@ This file may be renamed, deleted or moved.</source>
     <name>QOCIResult</name>
     <message>
         <source>Unable to alloc statement</source>
-        <translation type="unfinished"/>
+        <translation>ifade ayrılamıyor</translation>
     </message>
     <message>
         <source>Unable to goto next</source>
@@ -8880,7 +8880,7 @@ All Rights Reserved.</source>
     </message>
     <message>
         <source>Unable to store statement results</source>
-        <translation type="unfinished"/>
+        <translation>İfade sonuçları depolanamıyor</translation>
     </message>
     <message>
         <source>Unable to execute next query</source>
