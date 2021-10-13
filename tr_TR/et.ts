@@ -5047,7 +5047,7 @@ Kaydedilmeyen işlerin korunması için Tamam&apos;a tıklayın ve paylaşılan 
     </message>
     <message>
         <source>WPS Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the Copy and Paste commands to insert the data into the other worksheets of the workbook.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tabloları, hedef çalışma kitabının satırları veya sütunları çalışma kitabından daha az olduğu için çalışma sayfasını hedef çalışma kitabına ekleyemez. Verileri hedef çalışma kitabına taşımak veya kopyalamak istiyorsanız, lütfen kaynak verileri seçin ve ardından verileri çalışma kitabının diğer çalışma sayfalarına eklemek için Kopyala ve Yapıştır komutlarını kullanın.</translation>
     </message>
     <message>
         <source>The formula or function used is dividing by zero or empty cells.</source>
@@ -14834,7 +14834,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Input query &amp;statement directly</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu &amp;ifadesini doğrudan girin</translation>
     </message>
     <message>
         <source>Explanation</source>
@@ -50004,7 +50004,7 @@ Repeat Item Labels</source>
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Farklı Kaydet</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
@@ -51309,7 +51309,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>&amp;Save As</source>
-        <translation type="unfinished"/>
+        <translation>Farklı &amp;Kaydet</translation>
     </message>
     <message>
         <source>Other users may have submmitted some changes which cannot be identified by WPS Spreadsheets. To save the file and discard the changes, click Continue; to save a copy of the current file, click Save As.</source>
