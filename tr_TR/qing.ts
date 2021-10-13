@@ -2629,7 +2629,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Short side</source>
-        <translation type="unfinished"/>
+        <translation>Kısa taraf</translation>
     </message>
     <message>
         <source>Collate</source>
@@ -4235,7 +4235,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>View failed tasks</source>
-        <translation type="unfinished"/>
+        <translation>Başarısız görevleri görüntüle</translation>
     </message>
     <message>
         <source>Uploaded file version conflict</source>
@@ -6367,7 +6367,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk Seç</translation>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
@@ -6453,7 +6453,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Select Location</source>
-        <translation type="unfinished"/>
+        <translation>Konum Seç</translation>
     </message>
     <message>
         <source>No pemission in %1</source>
@@ -7894,7 +7894,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not start transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamadı</translation>
     </message>
     <message>
         <source>Error opening database</source>
@@ -7917,27 +7917,27 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not describe statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade açıklanamadı</translation>
     </message>
     <message>
         <source>Could not describe input statement</source>
-        <translation type="unfinished"/>
+        <translation>Giriş ifadesi tanımlanamadı</translation>
     </message>
     <message>
         <source>Could not allocate statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade ayrılamıyor</translation>
     </message>
     <message>
         <source>Unable to write BLOB</source>
-        <translation type="unfinished"/>
+        <translation>BLOB yazılamıyor</translation>
     </message>
     <message>
         <source>Could not start transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamadı</translation>
     </message>
     <message>
         <source>Unable to close statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade kapatılamıyor</translation>
     </message>
     <message>
         <source>Could not get query info</source>
@@ -7957,7 +7957,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not prepare statement</source>
-        <translation type="unfinished"/>
+        <translation>İfade hazırlanamıyor</translation>
     </message>
     <message>
         <source>Could not fetch next item</source>
@@ -7965,7 +7965,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not get statement info</source>
-        <translation type="unfinished"/>
+        <translation>İfade bilgisi alınamadı</translation>
     </message>
     <message>
         <source>Unable to create BLOB</source>
@@ -9180,7 +9180,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>QOCIResult</name>
     <message>
         <source>Unable to alloc statement</source>
-        <translation type="unfinished"/>
+        <translation>ifade ayrılamıyor</translation>
     </message>
     <message>
         <source>Unable to goto next</source>
@@ -9468,7 +9468,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Select Location</source>
-        <translation type="unfinished"/>
+        <translation>Konum Seç</translation>
     </message>
     <message>
         <source>Cleanup</source>
@@ -9640,7 +9640,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unable to store statement results</source>
-        <translation type="unfinished"/>
+        <translation>İfade sonuçları depolanamıyor</translation>
     </message>
     <message>
         <source>Unable to execute next query</source>
@@ -10352,7 +10352,7 @@ Time for upgrade: %1</source>
     <name>KCustomCacheHelper</name>
     <message>
         <source>Select Location</source>
-        <translation type="unfinished"/>
+        <translation>Konum Seç</translation>
     </message>
     <message>
         <source>No pemission in %1</source>
@@ -11181,7 +11181,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Select Location</source>
-        <translation type="unfinished"/>
+        <translation>Konum Seç</translation>
     </message>
     <message>
         <source>Sometimes,bubble when transfer is failed(Recommend)</source>
