@@ -4833,39 +4833,39 @@ Please verify the correct file name was given.</source>
     <name>QSslSocket</name>
     <message>
         <source>Error creating SSL session: %1</source>
-        <translation type="unfinished"/>
+        <translation>SSL oturumu oluşturulurken hata oluştu: %1</translation>
     </message>
     <message>
         <source>Error creating SSL session, %1</source>
-        <translation type="unfinished"/>
+        <translation>SSL oturumu oluşturulurken hata oluştu, %1</translation>
     </message>
     <message>
         <source>Cannot provide a certificate with no key, %1</source>
-        <translation type="unfinished"/>
+        <translation>Anahtarsız sertifika verilemez, %1</translation>
     </message>
     <message>
         <source>Unable to write data: %1</source>
-        <translation type="unfinished"/>
+        <translation>Veri yazılamıyor: %1</translation>
     </message>
     <message>
         <source>Error during SSL handshake: %1</source>
-        <translation type="unfinished"/>
+        <translation>SSL anlaşması sırasında hata: %1</translation>
     </message>
     <message>
         <source>Error loading local certificate, %1</source>
-        <translation type="unfinished"/>
+        <translation>Yerel sertifika yüklenirken hata oluştu, %1</translation>
     </message>
     <message>
         <source>Invalid or empty cipher list (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz veya boş şifre listesi (%1)</translation>
     </message>
     <message>
         <source>Private key does not certificate public key, %1</source>
-        <translation type="unfinished"/>
+        <translation>Özel anahtar, genel anahtarı sertifikalandırmıyor, %1</translation>
     </message>
     <message>
         <source>Error creating SSL context (%1)</source>
-        <translation type="unfinished"/>
+        <translation>SSL bağlamı oluşturulurken hata oluştu (%1)</translation>
     </message>
     <message>
         <source>Error while reading: %1</source>
@@ -4873,18 +4873,18 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Error loading private key, %1</source>
-        <translation type="unfinished"/>
+        <translation>Özel anahtar yüklenirken hata oluştu, %1</translation>
     </message>
 </context>
 <context>
     <name>QLocalSocket</name>
     <message>
         <source>%1: Connection error</source>
-        <translation type="unfinished"/>
+        <translation>%1: Bağlantı hatası</translation>
     </message>
     <message>
         <source>%1: Connection refused</source>
-        <translation type="unfinished"/>
+        <translation>%1: Bağlantı reddedildi</translation>
     </message>
     <message>
         <source>%1: Unknown error %2</source>
@@ -4892,19 +4892,19 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1: Socket access error</source>
-        <translation type="unfinished"/>
+        <translation>%1: Yuva erişim hatası</translation>
     </message>
     <message>
         <source>%1: Socket resource error</source>
-        <translation type="unfinished"/>
+        <translation>%1: Yuva kaynağı hatası</translation>
     </message>
     <message>
         <source>%1: The socket operation is not supported</source>
-        <translation>%1: Soket işlemi desteklenmiyor</translation>
+        <translation>%1: Yuva işlemi desteklenmiyor</translation>
     </message>
     <message>
         <source>%1: Invalid name</source>
-        <translation type="unfinished"/>
+        <translation>%1: Geçersiz ad</translation>
     </message>
     <message>
         <source>%1: Unknown error</source>
