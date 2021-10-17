@@ -3232,7 +3232,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekme</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -5411,7 +5411,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>To Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa</translation>
     </message>
     <message>
         <source>Isometric Right-Up</source>
@@ -7188,7 +7188,7 @@ Ekle</translation>
     <message>
         <source>Round Diagonal Corner Rectangle</source>
         <comment>DRAWING2_TOOLTIP_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"/>
+        <translation>Çapraz Köşeleri Yuvarlatılmış Dikdörtgen</translation>
     </message>
     <message>
         <source>WordArt: Fade Down</source>
@@ -8042,7 +8042,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Round Single Corner Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Tek Köşesi Yuvarlatılmış Dikdörtgen</translation>
     </message>
     <message>
         <source>Chevron</source>
@@ -8051,7 +8051,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Round Diagonal Corner Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz Köşeleri Yuvarlatılmış Dikdörtgen</translation>
     </message>
     <message>
         <source>Inner Left-UP Corner</source>
@@ -8071,7 +8071,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>SkyBlue</source>
-        <translation type="unfinished"/>
+        <translation>Gök Mavisi</translation>
     </message>
     <message>
         <source>Off-Axis 1 Left</source>
@@ -8147,7 +8147,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>DeepSkyBlue</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Gök Mavisi</translation>
     </message>
     <message>
         <source>spacing</source>
@@ -8910,7 +8910,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>LightSkyBlue</source>
-        <translation type="unfinished"/>
+        <translation>Açık Gök Mavisi</translation>
     </message>
     <message>
         <source>Action Button: Document</source>
@@ -13813,7 +13813,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Your Text Here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya Metninizi Yazın</translation>
     </message>
     <message>
         <source>The server application, source file, or item cannot be found, or returned an unknown error. You may need to reinstall the server application</source>
@@ -14684,7 +14684,7 @@ You can choose Read-only button to open it as read-only.</source>
     </message>
     <message>
         <source>Data transfer completed, thanks for your support.</source>
-        <translation type="unfinished"/>
+        <translation>Veri aktarımı tamamlandı, desteğiniz için teşekkürler.</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -15488,7 +15488,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Cl&amp;ear</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Temizle</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -15623,7 +15623,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Dummy&amp;Button</source>
-        <translation type="unfinished"/>
+        <translation>Kukla &amp;Düğme</translation>
     </message>
     <message>
         <source>Rotate all text 270°</source>
@@ -22109,7 +22109,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlardan yeni</translation>
     </message>
     <message>
         <source>
@@ -22169,7 +22169,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlardan yeni</translation>
     </message>
     <message>
         <source>Open File Management to remove some or all of your recent documents.</source>
@@ -22612,7 +22612,7 @@ This file may be renamed, deleted or moved.</source>
     <name>KxOptionsRibbonTabsTab</name>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekme</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -24206,7 +24206,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"/>
+        <translation>İşlem</translation>
     </message>
     <message>
         <source>User Name:	%1</source>
@@ -24280,7 +24280,7 @@ Please verify the correct file name was given.</source>
     <name>KxGalleryModelThemeFontItem</name>
     <message>
         <source>Body</source>
-        <translation type="unfinished"/>
+        <translation>Gövde</translation>
     </message>
     <message>
         <source>(Headings)</source>
@@ -24602,7 +24602,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"/>
+        <translation>İşlem</translation>
     </message>
     <message>
         <source>Receiver Phone:</source>
@@ -24669,7 +24669,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Setting</source>
-        <translation>Ayar</translation>
+        <translation>İzin Bilgileri</translation>
     </message>
     <message>
         <source>User Name:	%1</source>
@@ -27289,7 +27289,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"/>
+        <translation>İşlem</translation>
     </message>
 </context>
 <context>
@@ -28875,7 +28875,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"/>
+        <translation>İşlem</translation>
     </message>
     <message>
         <source>User Name:	%1</source>
@@ -29801,7 +29801,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"/>
+        <translation>İşlem</translation>
     </message>
     <message>
         <source>wait for approve</source>
@@ -32808,7 +32808,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Connection refused for data connection</source>
-        <translation type="unfinished"/>
+        <translation>Veri bağlantısı için bağlantı reddedildi</translation>
     </message>
     <message>
         <source>Login failed:
@@ -39052,7 +39052,7 @@ p, li { white-space: pre-wrap; }
     <name>KxWordArtInsertCommand</name>
     <message>
         <source>Your text here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya metninizi yazın</translation>
     </message>
 </context>
 <context>
