@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekme</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -7675,7 +7675,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Connection refused for data connection</source>
-        <translation type="unfinished"/>
+        <translation>Veri bağlantısı için bağlantı reddedildi</translation>
     </message>
     <message>
         <source>Login failed:
