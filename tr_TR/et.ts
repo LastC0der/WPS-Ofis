@@ -5128,7 +5128,7 @@ Kaydedilmeyen işlerin korunması için Tamam&apos;a tıklayın ve paylaşılan 
     </message>
     <message>
         <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
-        <translation type="unfinished"/>
+        <translation>Seçiminiz bir formül, birleştirilmiş hücre, veri doğrulama veya kilitli hücre içerdiğinde değerleri dolduramadık. Bu özellikleri seçiminizden kaldırın ve Hızlı Doldurma düğmesini yeniden tıklayın.</translation>
     </message>
     <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
@@ -5172,7 +5172,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Whole Slicer</source>
-        <translation type="unfinished"/>
+        <translation>Dilimleyicinin Tamamı</translation>
     </message>
     <message>
         <source>InsideHorizontal</source>
@@ -5264,7 +5264,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Modify Slicer Style</source>
-        <translation type="unfinished"/>
+        <translation>Dilimleyici Stilini Değiştir</translation>
     </message>
     <message>
         <source>Shaded</source>
@@ -5431,7 +5431,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Duplicates do not support reference to other workbooks or worksheets.</source>
-        <translation type="unfinished"/>
+        <translation>Yinelemeler, diğer çalışma kitaplarına veya çalışma sayfalarına başvuruyu desteklemez.</translation>
     </message>
     <message>
         <source>Light</source>
@@ -5451,11 +5451,11 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Changed name &apos;%s&apos; from &apos;%s&apos; to &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%s&apos; adı &apos;%s&apos; iken &apos;%s&apos; olarak değiştirildi</translation>
     </message>
     <message>
         <source>Delete the %s column</source>
-        <translation type="unfinished"/>
+        <translation>%s sütununu sil</translation>
     </message>
     <message>
         <source>Column</source>
@@ -5517,7 +5517,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>The value for the maximum must be greater than the value for the midpoint.</source>
-        <translation type="unfinished"/>
+        <translation>Üst sınır değeri orta nokta değerinden büyük olmalıdır.</translation>
     </message>
     <message>
         <source>Enter a value.</source>
@@ -5525,7 +5525,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>The value for the midpoint must be greater than the value for the minimum.</source>
-        <translation type="unfinished"/>
+        <translation>Orta nokta değeri alt sınır değerinden büyük olmalıdır.</translation>
     </message>
     <message>
         <source>&lt;blank&gt;</source>
@@ -5565,7 +5565,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Enter a whole number between 1 and 100.</source>
-        <translation type="unfinished"/>
+        <translation>1 ile 100 arasında bir tamsayı girin.</translation>
     </message>
     <message>
         <source>Column</source>
@@ -5577,7 +5577,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>No same value data found in the selected area.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alanda aynı değer verisi bulunamadı.</translation>
     </message>
     <message>
         <source>Name Change</source>
@@ -5662,11 +5662,11 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>The specified Longest Bar value is not a valid percentage.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen En Uzun Çubuk değeri geçerli bir yüzde değeri değil.</translation>
     </message>
     <message>
         <source>The specified Longest Bar value is not a valid percentile.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen En Uzun Çubuk değeri geçerli bir yüzdebirlik değeri değil.</translation>
     </message>
     <message>
         <source>row %s</source>
@@ -5674,7 +5674,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Enter a whole number between 1 and 1000.</source>
-        <translation type="unfinished"/>
+        <translation>1 ile 1000 arasında bir tamsayı girin.</translation>
     </message>
     <message>
         <source>This operation requires the merged cells to be identically sized.</source>
@@ -12603,7 +12603,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekme</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -27862,7 +27862,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlardan yeni</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -30697,7 +30697,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Password Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Parola Şifreleme</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -30709,7 +30709,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Report File</source>
-        <translation type="unfinished"/>
+        <translation>Rapor Dosyası</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
@@ -30717,7 +30717,8 @@ Boyacısı</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation>İzinleri Görüntüle</translation>
+        <translation>İzinleri 
+Görüntüle</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -30741,15 +30742,15 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>Backup and Recover</source>
-        <translation type="unfinished"/>
+        <translation>Yedekle ve Kurtar</translation>
     </message>
     <message>
         <source>Create Online Document</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Belge Oluştur</translation>
     </message>
     <message>
         <source>File Information</source>
@@ -30797,7 +30798,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Connection type:</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı türü:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -30809,15 +30810,15 @@ Güvenliği</translation>
     </message>
     <message>
         <source>&amp;Connection:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bağlantı:</translation>
     </message>
     <message>
         <source>Connection &amp;file:</source>
-        <translation type="unfinished"/>
+        <translation>Ba&amp;ğlantı dosyası:</translation>
     </message>
     <message>
         <source>Connection &amp;name:</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı a&amp;dı:</translation>
     </message>
     <message>
         <source>Default</source>
@@ -31056,7 +31057,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>OceanBlue</source>
-        <translation type="unfinished"/>
+        <translation>Okyanus Mavisi</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
@@ -31088,7 +31089,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>IceBlue</source>
-        <translation type="unfinished"/>
+        <translation>Buz Mavisi</translation>
     </message>
 </context>
 <context>
@@ -31103,7 +31104,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>On Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağda</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -31111,7 +31112,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Smallest to Largest</source>
-        <translation type="unfinished"/>
+        <translation>En Küçükten En Büyüğe</translation>
     </message>
     <message>
         <source>Column %1</source>
@@ -31123,7 +31124,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>On Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Altta</translation>
     </message>
     <message>
         <source>Column</source>
@@ -31131,7 +31132,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>On Top</source>
-        <translation type="unfinished"/>
+        <translation>Üstte</translation>
     </message>
     <message>
         <source>Row %1</source>
@@ -31147,7 +31148,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>On Left</source>
-        <translation type="unfinished"/>
+        <translation>Solda</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -31155,7 +31156,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Largest to Smallest</source>
-        <translation type="unfinished"/>
+        <translation>En Büyükten En Küçüğe</translation>
     </message>
     <message>
         <source>The sort reference is invalid due to one of the possible reasons below: 
@@ -31163,11 +31164,15 @@ Güvenliği</translation>
 %1 The first Sort By box is blank. 
 %2 There are two same sort references. 
 %3 The sort reference you entered is not within the current selection.</source>
-        <translation type="unfinished"/>
+        <translation>Sıralama başvurusu aşağıdaki olası nedenlerden biri nedeniyle geçersiz: 
+
+%1 İlk Sıralama Ölçütü kutusu boştur.
+%2 İki aynı sıralama referansı vardır. 
+%3 Girdiğiniz sıralama başvurusu geçerli seçim içinde değildir.</translation>
     </message>
     <message>
         <source>Sort On</source>
-        <translation type="unfinished"/>
+        <translation>Sıralama Koşulu</translation>
     </message>
     <message>
         <source>(%1) %2</source>
@@ -31175,7 +31180,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Conditional Formatting Icon</source>
-        <translation type="unfinished"/>
+        <translation>Koşullu Biçimlendirme Simgesi</translation>
     </message>
     <message>
         <source>Cell Color</source>
@@ -31183,18 +31188,18 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Custom List...</source>
-        <translation type="unfinished"/>
+        <translation>Özel Liste...</translation>
     </message>
     <message>
         <source>Cell Icon</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Simgesi</translation>
     </message>
 </context>
 <context>
     <name>KxEtSplitColumnsDlg</name>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekme</translation>
     </message>
     <message>
         <source>Data</source>
@@ -31202,15 +31207,15 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Setting(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>Sütunları El İle Böl</translation>
     </message>
     <message>
         <source>&amp;Back</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Geri</translation>
     </message>
     <message>
         <source>Enter up to %1 characters</source>
-        <translation type="unfinished"/>
+        <translation>En fazla %1 karakter girin</translation>
     </message>
     <message>
         <source>space</source>
@@ -31218,19 +31223,19 @@ Güvenliği</translation>
     </message>
     <message>
         <source>N&amp;umber</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sayı</translation>
     </message>
     <message>
         <source>data preview</source>
-        <translation type="unfinished"/>
+        <translation>Veri Önizleme</translation>
     </message>
     <message>
         <source>Treat consecutive delimiters as one(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ardışık sınırlayıcıları tek olarak kabul et</translation>
     </message>
     <message>
         <source>&amp;After keywords</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar kelimelerden &amp;sonra</translation>
     </message>
     <message>
         <source>&quot;(Data within double quotes are not separated)</source>
@@ -31342,7 +31347,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>&amp;English</source>
-        <translation type="unfinished"/>
+        <translation>&amp;İngilizce</translation>
     </message>
     <message>
         <source>Split by the following keywords :</source>
@@ -31366,19 +31371,19 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Column data types and previews</source>
-        <translation type="unfinished"/>
+        <translation>Sütun veri türleri ve önizlemeleri</translation>
     </message>
     <message>
         <source>Pre-keyword(&amp;F)</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar kelimeden &amp;önce</translation>
     </message>
     <message>
         <source>Chine&amp;se</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çince</translation>
     </message>
     <message>
         <source>Input separator(&amp;I):</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ınırlayıcı Girin:</translation>
     </message>
 </context>
 <context>
@@ -31397,7 +31402,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Column Title</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Başlığı</translation>
     </message>
     <message>
         <source>Series</source>
@@ -31409,7 +31414,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Date Axis</source>
-        <translation type="unfinished"/>
+        <translation>Tarih Ekseni</translation>
     </message>
 </context>
 <context>
@@ -31436,11 +31441,11 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Column Chart</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Grafik</translation>
     </message>
     <message>
         <source>Cannot generate a preview, the field selected have too much items.</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme oluşturulamıyor, seçilen alanda çok fazla öğe var.</translation>
     </message>
     <message>
         <source>Pie Chart</source>
@@ -31452,11 +31457,11 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Column Stack Chart</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Yığın Grafiği</translation>
     </message>
     <message>
         <source>Move to Summary List</source>
-        <translation type="unfinished"/>
+        <translation>Özet Listesine Taşı</translation>
     </message>
     <message>
         <source>Move to Category List</source>
@@ -31464,7 +31469,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>You cannot create a PivotChart with there data, Please check the reference range is valid.</source>
-        <translation type="unfinished"/>
+        <translation>Oradaki verilerle Özet Grafik oluşturamazsınız, Lütfen başvuru aralığının geçerli olup olmadığını kontrol edin.</translation>
     </message>
 </context>
 <context>
@@ -31487,7 +31492,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Column Title</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Başlığı</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -31495,11 +31500,11 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Cannot generate a preview, the field selected have too much items.</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme oluşturulamıyor, seçilen alanda çok fazla öğe var.</translation>
     </message>
     <message>
         <source>Report Table Preview:</source>
-        <translation type="unfinished"/>
+        <translation>Rapor Tablosu Önizlemesi:</translation>
     </message>
     <message>
         <source>Row Title</source>
@@ -31507,11 +31512,11 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Move to Summary List</source>
-        <translation type="unfinished"/>
+        <translation>Özet Listesine Taşı</translation>
     </message>
     <message>
         <source>Cannot generate PivotTable, the field selected have too much items.</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo oluşturulamıyor, seçilen alanda çok fazla öğe var.</translation>
     </message>
     <message>
         <source>Move to Category List</source>
@@ -31519,7 +31524,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with there data, Please check the reference range is valid.</source>
-        <translation type="unfinished"/>
+        <translation>Oradaki verilerle bir Özet Tablo oluşturamazsınız, Lütfen başvuru aralığının geçerli olup olmadığını kontrol edin.</translation>
     </message>
     <message>
         <source>Report Table Preview: (Too much data, only show part of them)</source>
@@ -31605,7 +31610,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>This mode is for VIP only. Please sign in first.</source>
-        <translation type="unfinished"/>
+        <translation>Bu mod yalnızca VIP içindir. Lütfen önce oturum açın.</translation>
     </message>
     <message>
         <source>VIP advanced mode trial has expired. Become a VIP to renew.</source>
@@ -31613,7 +31618,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>This mode is for VIP only. Enable it by becoming a VIP.</source>
-        <translation type="unfinished"/>
+        <translation>Bu mod sadece VIP içindir. VIP olarak etkinleştirin.</translation>
     </message>
 </context>
 <context>
@@ -31671,11 +31676,11 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Cl&amp;ose</source>
-        <translation type="unfinished"/>
+        <translation>Ka&amp;pat</translation>
     </message>
     <message>
         <source>&amp;Make Unconstrained Variables Non-Negative</source>
-        <translation type="unfinished"/>
+        <translation>Kısıtlanmamış Değişkenleri Negatif Olmayan &amp;Yap</translation>
     </message>
     <message>
         <source>Se&amp;t Objective:</source>
@@ -31687,7 +31692,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Briefly</source>
-        <translation type="unfinished"/>
+        <translation>Kısaca</translation>
     </message>
     <message>
         <source>&amp;Reset All</source>
@@ -31953,7 +31958,7 @@ n</translation>
     </message>
     <message>
         <source>Orie&amp;ntation</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yönlendirme</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -32065,7 +32070,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Online Chart</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Grafik</translation>
     </message>
     <message>
         <source>Linear Forecast</source>
@@ -32121,7 +32126,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Reset Style</source>
-        <translation type="unfinished"/>
+        <translation>Stili Sıfırla</translation>
     </message>
     <message>
         <source>PrimaryMajorVertical</source>
@@ -32235,7 +32240,8 @@ Düzen</translation>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation type="unfinished"/>
+        <translation>Grafiği 
+Taşı</translation>
     </message>
     <message>
         <source>AboveChart</source>
@@ -39052,7 +39058,7 @@ Buttons</source>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"/>
+        <translation>İşlem</translation>
     </message>
     <message>
         <source>Calculated Items</source>
@@ -39060,7 +39066,8 @@ Buttons</source>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation type="unfinished"/>
+        <translation>Grafiği 
+Taşı</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -40959,7 +40966,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>Wps CloudForm</source>
@@ -40967,7 +40974,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Password Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Parola Şifreleme</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
@@ -41577,7 +41584,7 @@ Preview</source>
     </message>
     <message>
         <source>Online Chart</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Grafik</translation>
     </message>
     <message>
         <source>Control 
@@ -42627,7 +42634,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
@@ -45816,7 +45823,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select a &amp;Connection:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bağlantı Seçin:</translation>
     </message>
     <message>
         <source>Workbook Tables</source>
@@ -46466,7 +46473,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"/>
+        <translation>(Yok)</translation>
     </message>
     <message>
         <source>Dimension</source>
@@ -48955,7 +48962,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>document set</source>
@@ -49298,7 +49305,7 @@ Repeat Item Labels</source>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>Password to protect pe&amp;rmission settings</source>
@@ -51320,7 +51327,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     <name>KxAfDisplayFilterConditions</name>
     <message>
         <source>Cell Icon</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Simgesi</translation>
     </message>
     <message>
         <source>font color</source>
@@ -55784,7 +55791,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlardan yeni</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -55820,7 +55827,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Backup and Recover</source>
-        <translation type="unfinished"/>
+        <translation>Yedekle ve Kurtar</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
