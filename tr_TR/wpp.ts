@@ -941,7 +941,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>&amp;Enable Cloud backup</source>
@@ -1632,7 +1632,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
@@ -3244,7 +3244,7 @@ Check</source>
     </message>
     <message>
         <source>Body</source>
-        <translation type="unfinished"/>
+        <translation>Gövde</translation>
     </message>
     <message>
         <source>Down</source>
@@ -3592,7 +3592,7 @@ Check</source>
     </message>
     <message>
         <source>To Right</source>
-        <translation>Sağat</translation>
+        <translation>Sağa</translation>
     </message>
     <message>
         <source>Out To Screen Bottom</source>
@@ -14922,7 +14922,7 @@ Slide</source>
     </message>
     <message>
         <source>New From Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -16023,7 +16023,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Password Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Parola Şifreleme</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -16035,7 +16035,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Report File</source>
-        <translation type="unfinished"/>
+        <translation>Rapor Dosyası</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
@@ -16103,11 +16103,11 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>Backup and Recover</source>
-        <translation type="unfinished"/>
+        <translation>Yedekle ve Kurtar</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
@@ -16446,7 +16446,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>Share Play</source>
@@ -16458,7 +16458,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Password Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Parola Şifreleme</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
@@ -16523,7 +16523,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>New From Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>PDF To Word</source>
@@ -16739,7 +16739,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Online Chart</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Grafik</translation>
     </message>
     <message>
         <source>Linear Forecast</source>
@@ -16795,7 +16795,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Reset Style</source>
-        <translation type="unfinished"/>
+        <translation>Stili Sıfırla</translation>
     </message>
     <message>
         <source>PrimaryMajorVertical</source>
@@ -18124,7 +18124,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -18156,7 +18156,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>setting</source>
-        <translation type="unfinished"/>
+        <translation>ayar</translation>
     </message>
     <message>
         <source>BringForward</source>
@@ -19742,7 +19742,7 @@ Gösterileri</translation>
     <name>KxWppNewSlidesGalleryModel</name>
     <message>
         <source>Body</source>
-        <translation type="unfinished"/>
+        <translation>Gövde</translation>
     </message>
     <message>
         <source>More</source>
@@ -22103,7 +22103,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>Edit
@@ -22648,7 +22648,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Online Chart</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Grafik</translation>
     </message>
     <message>
         <source>InsertNewChart2</source>
@@ -26858,7 +26858,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>document set</source>
@@ -30873,7 +30873,7 @@ Kapat</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlardan yeni</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
@@ -30917,7 +30917,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Backup and Recover</source>
-        <translation type="unfinished"/>
+        <translation>Yedekle ve Kurtar</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
