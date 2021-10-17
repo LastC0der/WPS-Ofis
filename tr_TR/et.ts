@@ -39393,7 +39393,7 @@ Varolan resmi korumak için İptal&apos;i tıklayın.</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Export Chart</source>
