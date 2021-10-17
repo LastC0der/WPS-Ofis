@@ -956,7 +956,7 @@
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"/>
+        <translation>italik</translation>
     </message>
     <message>
         <source>Unable to find the watermark source file you specified, please re-select</source>
@@ -2933,7 +2933,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Page Unit</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Birimi</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -3787,7 +3787,7 @@ Inserted pages must delete by yourself.</source>
     </message>
     <message>
         <source>Sample: 1,8,1-10</source>
-        <translation type="unfinished"/>
+        <translation>Örnek: 1,8,1-10</translation>
     </message>
     <message>
         <source>A1 (594x841mm)</source>
@@ -4385,7 +4385,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Security Method:</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik Yöntemi:</translation>
     </message>
     <message>
         <source>No Protection</source>
@@ -7069,7 +7069,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Report File</source>
-        <translation type="unfinished"/>
+        <translation>Rapor Dosyası</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
@@ -7828,15 +7828,15 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>İtalik</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"/>
+        <translation>Mor</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"/>
+        <translation>Sarı</translation>
     </message>
     <message>
         <source>Insert BookMark (&amp;B)</source>
@@ -7931,7 +7931,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfGalleryModelThemeFontItem</name>
     <message>
         <source>Body</source>
-        <translation type="unfinished"/>
+        <translation>Gövde</translation>
     </message>
     <message>
         <source>(Headings)</source>
@@ -9279,7 +9279,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Zoom Slider</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştırma Kaydırıcısı</translation>
     </message>
     <message>
         <source>Pointer Options</source>
@@ -12614,7 +12614,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>Signature</source>
