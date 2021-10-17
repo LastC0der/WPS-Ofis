@@ -592,7 +592,7 @@
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Subtituted font</source>
@@ -892,19 +892,19 @@
     </message>
     <message>
         <source>Thick-thin medium gap</source>
-        <translation type="unfinished"/>
+        <translation>Kalın-ince orta boşluk</translation>
     </message>
     <message>
         <source>No Page break before</source>
-        <translation type="unfinished"/>
+        <translation>Önce sayfa sonu yapma</translation>
     </message>
     <message>
         <source>No widow/orphan control</source>
-        <translation type="unfinished"/>
+        <translation>Tek kalan satırları önleme</translation>
     </message>
     <message>
         <source>Keep with next</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki ile birlikte tut</translation>
     </message>
     <message>
         <source>Don&apos;t allow text to wrap in the middle of a word</source>
@@ -916,7 +916,7 @@
     </message>
     <message>
         <source>Text snaps to character grid</source>
-        <translation type="unfinished"/>
+        <translation>Metni karakter kılavuzuna uydur</translation>
     </message>
     <message>
         <source>(Print Preview)</source>
@@ -968,15 +968,15 @@
     </message>
     <message>
         <source>Sample Text</source>
-        <translation type="unfinished"/>
+        <translation>Örnek Metin</translation>
     </message>
     <message>
         <source>Single wavy</source>
-        <translation type="unfinished"/>
+        <translation>Tek dalgalı</translation>
     </message>
     <message>
         <source>Double wavy</source>
-        <translation type="unfinished"/>
+        <translation>Çift dalgalı</translation>
     </message>
     <message>
         <source>Repeating section controls can only be inserted around entire paragraphs or rows.</source>
@@ -1259,11 +1259,11 @@
     </message>
     <message>
         <source>Unit: cm</source>
-        <translation type="unfinished"/>
+        <translation>Birim: cm</translation>
     </message>
     <message>
         <source>Unit: mm</source>
-        <translation type="unfinished"/>
+        <translation>Birim: mm</translation>
     </message>
     <message>
         <source>Italic</source>
