@@ -789,7 +789,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     <name>KLiteUpdateMessageDlg</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Install</source>
@@ -812,14 +812,14 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     <name>KVipUpgradeLeftWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
     <name>KVipUpgradeRightWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Issue invoice</source>
