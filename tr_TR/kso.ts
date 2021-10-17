@@ -5219,7 +5219,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>DarkViolet</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Mor</translation>
     </message>
     <message>
         <source>WordArt: Can Down</source>
@@ -7192,7 +7192,7 @@ Ekle</translation>
     </message>
     <message>
         <source>WordArt: Fade Down</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Aşağı Soldur</translation>
     </message>
     <message>
         <source>WordArt: Fade Left</source>
@@ -27612,14 +27612,14 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KComponentCollegeBubble</name>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
     <name>KxEditTemplateDlg</name>
     <message>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>İsim</translation>
     </message>
     <message>
         <source>Template Name can&apos;t be empty.</source>
@@ -37316,7 +37316,7 @@ you can use the login!</source>
     <name>KxDlgHttpAuthentication</name>
     <message>
         <source>Require Http authentication</source>
-        <translation type="unfinished"/>
+        <translation>Http kimlik doğrulaması gerektir</translation>
     </message>
     <message>
         <source>Enter your username and password to sign in.</source>
@@ -39401,7 +39401,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxSerchCtrl</name>
     <message>
         <source>Please enter name to search</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen aramak için isim girin</translation>
     </message>
 </context>
 <context>
