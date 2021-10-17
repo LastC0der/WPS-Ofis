@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Subtituted font</source>
@@ -21903,7 +21903,7 @@ Comment</source>
     </message>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
