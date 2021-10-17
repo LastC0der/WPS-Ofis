@@ -6654,7 +6654,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Cl&amp;ear</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Temizle</translation>
     </message>
     <message>
         <source>Leader</source>
@@ -8286,7 +8286,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan</translation>
     </message>
     <message>
         <source>Edit Citation</source>
@@ -15792,7 +15792,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Zoom Slider</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştırma Kaydırıcısı</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -18594,7 +18594,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -18635,7 +18635,7 @@ Navigation</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlardan yeni</translation>
     </message>
     <message>
         <source>Restart Numbering</source>
@@ -19467,11 +19467,11 @@ Changes</source>
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation type="unfinished"/>
+        <translation>PDF Birleştir</translation>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -20155,7 +20155,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
@@ -24516,7 +24516,7 @@ Böl</translation>
     </message>
     <message>
         <source>Password Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Parola Şifreleme</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -24528,7 +24528,7 @@ Böl</translation>
     </message>
     <message>
         <source>Report File</source>
-        <translation type="unfinished"/>
+        <translation>Rapor Dosyası</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
@@ -24568,11 +24568,11 @@ Böl</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>Backup and Recover</source>
-        <translation type="unfinished"/>
+        <translation>Yedekle ve Kurtar</translation>
     </message>
     <message>
         <source>Export coding library for trace</source>
@@ -26234,7 +26234,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Online Chart</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Grafik</translation>
     </message>
     <message>
         <source>Linear Forecast</source>
@@ -26294,7 +26294,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Reset Style</source>
-        <translation type="unfinished"/>
+        <translation>Stili Sıfırla</translation>
     </message>
     <message>
         <source>PrimaryMajorVertical</source>
@@ -30399,7 +30399,7 @@ Pencere</translation>
     <name>KxOfficialTemplateTabBar</name>
     <message>
         <source>Body</source>
-        <translation type="unfinished"/>
+        <translation>Gövde</translation>
     </message>
     <message>
         <source>Page</source>
@@ -32482,11 +32482,11 @@ Number</source>
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation type="unfinished"/>
+        <translation>PDF Birleştir</translation>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
@@ -32888,7 +32888,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDF Split</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -32904,7 +32904,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Password Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Parola Şifreleme</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
@@ -34528,7 +34528,7 @@ Sil</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>Document view</source>
@@ -36481,7 +36481,7 @@ Sonu</translation>
     </message>
     <message>
         <source>Online Chart</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Grafik</translation>
     </message>
     <message>
         <source>IconLibrary</source>
@@ -37147,7 +37147,7 @@ Numarası</translation>
     </message>
     <message>
         <source>keyword</source>
-        <translation type="unfinished"/>
+        <translation>anahtar sözcük</translation>
     </message>
     <message>
         <source>result</source>
@@ -38842,7 +38842,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Document Permission</source>
-        <translation type="unfinished"/>
+        <translation>Belge İzni</translation>
     </message>
     <message>
         <source>document set</source>
@@ -45876,14 +45876,14 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxWpsSpecifiedWordArtInsertCommand</name>
     <message>
         <source>Your text here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya metninizi yazın</translation>
     </message>
 </context>
 <context>
     <name>KxWpsWordArtInsertCommand</name>
     <message>
         <source>Your text here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya metninizi yazın</translation>
     </message>
 </context>
 <context>
@@ -48708,7 +48708,7 @@ Efektler</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlardan yeni</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -48728,7 +48728,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Backup and Recover</source>
-        <translation type="unfinished"/>
+        <translation>Yedekle ve Kurtar</translation>
     </message>
 </context>
 <context>
