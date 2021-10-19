@@ -730,7 +730,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz dosya adı, lütfen doğru dosya adını girin</translation>
     </message>
     <message>
         <source>can&apos;t find the file</source>
