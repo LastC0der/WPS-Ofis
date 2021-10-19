@@ -2370,7 +2370,7 @@ Check</source>
     </message>
     <message>
         <source>Set Multipicture Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Çoklu Resim Döndürmeyi Ayarla</translation>
     </message>
     <message>
         <source>Pause Audio</source>
@@ -7639,7 +7639,7 @@ Gövde: Yakınlaştır</translation>
     </message>
     <message>
         <source>Table Placeholder</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Yer Tutucusu</translation>
     </message>
     <message>
         <source>Format WordArt</source>
@@ -8574,7 +8574,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Enter 0.1 cm to 5.079 cm of value</source>
-        <translation type="unfinished"/>
+        <translation>0.1 cm ile 5.079 cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
@@ -10212,7 +10212,7 @@ Ekle</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"/>
+        <translation>Baştan</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -10866,7 +10866,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Clear WordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt&apos;ı Temizle</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -12884,7 +12884,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Clear WordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt&apos;ı Temizle</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -14602,7 +14602,7 @@ Slide</source>
     </message>
     <message>
         <source>WPS Online Template</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Şablonu</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -18853,7 +18853,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Clear WordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt&apos;ı Temizle</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -19599,11 +19599,11 @@ Timings</source>
     <message>
         <source>From
 Beginning</source>
-        <translation type="unfinished"/>
+        <translation>Baştan</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"/>
+        <translation>Baştan</translation>
     </message>
     <message>
         <source>Manual</source>
@@ -21842,7 +21842,7 @@ Comment</source>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"/>
+        <translation>Baştan</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -29607,7 +29607,7 @@ Ekle</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"/>
+        <translation>Baştan</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -30112,7 +30112,7 @@ Slide</source>
     </message>
     <message>
         <source>Clear WordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt&apos;ı Temizle</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -33834,7 +33834,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="unfinished"/>
+        <translation>Baştan</translation>
     </message>
     <message>
         <source>Set Up</source>
