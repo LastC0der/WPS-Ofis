@@ -233,7 +233,7 @@
     </message>
     <message>
         <source>Enter -100% to 100%  of value</source>
-        <translation>-%100 ile %100 arasında bir değer girin.</translation>
+        <translation>-%100 ile %100 arasında bir değer girin</translation>
     </message>
     <message>
         <source>&amp;Brightness</source>
@@ -252,7 +252,7 @@
     </message>
     <message>
         <source>Enter 0% to 400%  of value</source>
-        <translation>%0 ile %400 arasında bir değer girin.</translation>
+        <translation>%0 ile %400 arasında bir değer girin</translation>
     </message>
     <message>
         <source>&amp;Saturation</source>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>Enter -100% to 100%  of value</source>
-        <translation>-%100 ile %100 arasında bir değer girin.</translation>
+        <translation>-%100 ile %100 arasında bir değer girin</translation>
     </message>
     <message>
         <source>Sharpness</source>
@@ -842,7 +842,7 @@
     </message>
     <message>
         <source>&amp;Blur</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bulanıklık</translation>
     </message>
     <message>
         <source>&amp;Size</source>
@@ -866,7 +866,7 @@
     </message>
     <message>
         <source>Enter 0% to 100 % of value</source>
-        <translation>%0 ile %100 arasında bir değer girin.</translation>
+        <translation>%0 ile %100 arasında bir değer girin</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
@@ -889,7 +889,7 @@
     </message>
     <message>
         <source>&amp;Blur</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bulanıklık</translation>
     </message>
     <message>
         <source>&amp;Size</source>
@@ -2915,7 +2915,7 @@ Please save the file and create share link</source>
     </message>
     <message>
         <source>An error occurred while importing this file %s.</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosyayı içeri aktarırken bir hata oluştu %s.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the &apos;%s&apos; toolbar?</source>
@@ -4341,7 +4341,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>XOR Encryption</source>
-        <translation type="unfinished"/>
+        <translation>XOR Şifreleme</translation>
     </message>
 </context>
 <context>
@@ -4823,7 +4823,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Azure</source>
-        <translation type="unfinished"/>
+        <translation>Açık Gök Mavisi</translation>
     </message>
     <message>
         <source>Black</source>
@@ -4839,7 +4839,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Chair</source>
-        <translation type="unfinished"/>
+        <translation>Sandalye</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -4847,7 +4847,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Chord</source>
-        <translation type="unfinished"/>
+        <translation>Akor</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -6033,7 +6033,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Circle Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlak Ok</translation>
     </message>
     <message>
         <source>Coarse Cloth</source>
@@ -6041,12 +6041,12 @@ Ekle</translation>
     </message>
     <message>
         <source>Isometric Lft-Down</source>
-        <translation type="unfinished"/>
+        <translation>İzometrik Aşağı Sol</translation>
     </message>
     <message>
         <source>Snip Single Corner Rectangle</source>
         <comment>DRAWING2_TOOLTIP_SNIP_SINGLE_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"/>
+        <translation>Tek Köşesi Kesik Dikdörtgen</translation>
     </message>
     <message>
         <source>Circle Point</source>
@@ -6058,12 +6058,12 @@ Ekle</translation>
     </message>
     <message>
         <source>Double Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Çift Ok</translation>
     </message>
     <message>
         <source>Snip Same Side Corner Rectangle</source>
         <comment>DRAWING2_TOOLTIP_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"/>
+        <translation>Aynı Yan Köşeleri Kesik Dikdörtgen</translation>
     </message>
     <message>
         <source>Double Brace</source>
@@ -6152,7 +6152,7 @@ Ekle</translation>
     <message>
         <source>Chord</source>
         <comment>DRAWING2_TOOLTIP_CHORD</comment>
-        <translation type="unfinished"/>
+        <translation>Akor</translation>
     </message>
     <message>
         <source>Curved Ribbon3</source>
@@ -6169,7 +6169,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Up And Down Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı ve Aşağı Ok</translation>
     </message>
     <message>
         <source>Diagonal Stripe</source>
@@ -6316,7 +6316,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Fillet Right Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Dolu Sağ Ok</translation>
     </message>
     <message>
         <source>Circular Arrow</source>
@@ -6461,7 +6461,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Laptop</source>
-        <translation type="unfinished"/>
+        <translation>Laptop</translation>
     </message>
     <message>
         <source>Flowchart: Summing Junction</source>
@@ -6831,7 +6831,7 @@ Ekle</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate-Deflate</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Söndür Şişir Söndür</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -7196,7 +7196,7 @@ Ekle</translation>
     </message>
     <message>
         <source>WordArt: Fade Left</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Sola Soldur</translation>
     </message>
     <message>
         <source>ColorOutLine-</source>
@@ -7421,7 +7421,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>WordArt: Deflate Bottom</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Altı Söndür</translation>
     </message>
     <message>
         <source>Action Button: Help</source>
@@ -7748,7 +7748,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>WordArt: Inflate</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Şişir</translation>
     </message>
     <message>
         <source>LargeConfetti</source>
@@ -8164,7 +8164,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Snip Same Side Corner Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Aynı Yan Köşeleri Kesik Dikdörtgen</translation>
     </message>
     <message>
         <source>Regular Pentagon</source>
@@ -8425,7 +8425,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>DimGray</source>
-        <translation type="unfinished"/>
+        <translation>Soluk Gri</translation>
     </message>
     <message>
         <source>Multimedia</source>
@@ -8697,7 +8697,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>WordArt: Can Up</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Kutu Yukarı</translation>
     </message>
     <message>
         <source>WordArt: Curve2</source>
@@ -8941,7 +8941,7 @@ Line-type: %3</source>
     <message>
         <source>Chair</source>
         <comment>DRAWINGSTR_CHAIR1</comment>
-        <translation type="unfinished"/>
+        <translation>Sandalye</translation>
     </message>
     <message>
         <source>Up Arrow</source>
@@ -9198,7 +9198,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Snip Single Corner Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Tek Köşesi Kesik Dikdörtgen</translation>
     </message>
     <message>
         <source>Flowchart: Collate</source>
@@ -9207,7 +9207,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>PatternWeave</source>
-        <translation type="unfinished"/>
+        <translation>Örgü</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Pour</source>
@@ -9398,7 +9398,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>WordArt: Fade Right</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Sağa Soldur</translation>
     </message>
     <message>
         <source>Old Cotton Fabric</source>
@@ -11337,7 +11337,7 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Satın Al</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -12067,11 +12067,11 @@ Always take this action.</source>
     </message>
     <message>
         <source>Baby Blue</source>
-        <translation type="unfinished"/>
+        <translation>Bebek Mavisi</translation>
     </message>
     <message>
         <source>Share as a link for comments</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar için bağlantı olarak paylaş</translation>
     </message>
     <message>
         <source>the document is not encrypted by national-secret algorithm, please use normal version to open</source>
@@ -12148,7 +12148,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz dosya adı, lütfen doğru dosya adını girin</translation>
     </message>
     <message>
         <source>Document Translation</source>
@@ -15740,7 +15740,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter -100% to 100% of value</source>
-        <translation>-%100 ile %100 arasında bir değer girin.</translation>
+        <translation>-%100 ile %100 arasında bir değer girin</translation>
     </message>
     <message>
         <source>S&amp;mall Caps</source>
@@ -16256,7 +16256,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter 0 to 120 Degres  of value</source>
-        <translation>0 ile 120 arasında Derece değeri girin.</translation>
+        <translation>0 ile 120 arasında Derece değeri girin</translation>
     </message>
     <message>
         <source>Turn Up</source>
@@ -16779,11 +16779,11 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Template Name:</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Adı:</translation>
     </message>
     <message>
         <source>Template Type:</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Türü:</translation>
     </message>
     <message>
         <source>&amp;Search</source>
@@ -16860,7 +16860,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Template Type</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Türü</translation>
     </message>
     <message>
         <source>Edit Template</source>
@@ -17510,11 +17510,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Template Name:</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Adı:</translation>
     </message>
     <message>
         <source>Template Type:</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Türü:</translation>
     </message>
     <message>
         <source>Template Id:</source>
@@ -17596,7 +17596,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Vertical Circle List</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Daire Listesi</translation>
     </message>
     <message>
         <source>Use to show data that relates to a central idea or theme. The top Level 1 text appears in the center. Level 2 text appears in surrounding shapes. Can contain up to seven Level 2 shapes. Unused text does not appear, but remains available if you switch layouts. Works best with small amounts of text.</source>
@@ -17708,7 +17708,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Chevron List</source>
-        <translation type="unfinished"/>
+        <translation>Köşeli Çift Ayraç Listesi</translation>
     </message>
     <message>
         <source>Use to show a series of pictures. Can contain up to eight Level 1 pictures. Unused text and pictures do not appear, but remain available if you switch layouts. Works best with small amounts of text.</source>
@@ -21206,7 +21206,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Geometric Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Geometrik Şekiller</translation>
     </message>
     <message>
         <source>Bopomofo</source>
@@ -24641,7 +24641,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Template Type</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Türü</translation>
     </message>
     <message>
         <source>User Dept:	%1</source>
@@ -26194,7 +26194,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz dosya adı, lütfen doğru dosya adını girin</translation>
     </message>
     <message>
         <source>Thumbnail</source>
@@ -27946,7 +27946,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1: Datagram too large</source>
-        <translation type="unfinished"/>
+        <translation>%1: Veri birimi çok büyük</translation>
     </message>
     <message>
         <source>%1: Remote closed</source>
@@ -29750,7 +29750,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>&amp;Basic colors</source>
-        <translation type="unfinished"/>
+        <translation>Temel renkler:</translation>
     </message>
     <message>
         <source>&amp;Custom colors</source>
@@ -33187,7 +33187,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Choose XML Expansion Pack</source>
-        <translation type="unfinished"/>
+        <translation>XML Genişletme Paketini Seç</translation>
     </message>
     <message>
         <source>One or more XML expansion packs are available for this file. Choose one from the list below.</source>
@@ -33202,7 +33202,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Template Type</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Türü</translation>
     </message>
     <message>
         <source>Template Id</source>
@@ -37407,7 +37407,7 @@ you can use the login!</source>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Satın Al</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -37415,7 +37415,11 @@ you can use the login!</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;You can try the WPS Office for 30 days&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;WPS Ofis&apos;i 30 gün boyunca deneyebilirsiniz&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -37955,7 +37959,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Satın Al</translation>
     </message>
     <message>
         <source>preview mode</source>
