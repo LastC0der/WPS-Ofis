@@ -317,7 +317,7 @@
     </message>
     <message>
         <source>Please do not turn off your computer</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bilgisayarınızı kapatmayın</translation>
     </message>
     <message>
         <source>Please wait...</source>
@@ -421,7 +421,7 @@
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Microsoft Office 2003 ile uyumlu</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2007</source>
@@ -1977,7 +1977,7 @@ Notice that doing so exposes you to risks of virus infection and hacking.</sourc
     </message>
     <message>
         <source>New document tips</source>
-        <translation type="unfinished"/>
+        <translation>Yeni belge ipuçları</translation>
     </message>
 </context>
 </TS>
