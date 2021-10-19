@@ -19615,7 +19615,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Clear WordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt&apos;ı Temizle</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -26142,7 +26142,7 @@ Trig</translation>
     </message>
     <message>
         <source>Clear WordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt&apos;ı Temizle</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -27598,7 +27598,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Şablonu</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -27614,7 +27614,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
-        <translation>WPS Elektronik Tablo Şablonları</translation>
+        <translation>WPS Elektronik Tablo Şablonları (*.ett)</translation>
     </message>
     <message>
         <source>Document Slimming</source>
@@ -54991,7 +54991,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Clear WordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt&apos;ı Temizle</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -55715,7 +55715,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation>Microsoft Excel 97-2003 Şablonları</translation>
+        <translation>Microsoft Excel 97-2003 Şablonları (*.xlt)</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
@@ -55735,7 +55735,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
-        <translation>WPS Elektronik Tablo Şablonları</translation>
+        <translation>WPS Elektronik Tablo Şablonları (*.ett)</translation>
     </message>
     <message>
         <source>User Feedback</source>
