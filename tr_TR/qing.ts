@@ -5385,7 +5385,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1: Datagram too large</source>
-        <translation type="unfinished"/>
+        <translation>%1: Veri birimi çok büyük</translation>
     </message>
     <message>
         <source>%1: Remote closed</source>
@@ -6383,7 +6383,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Basic colors</source>
-        <translation type="unfinished"/>
+        <translation>Temel renkler:</translation>
     </message>
     <message>
         <source>&amp;Custom colors</source>
