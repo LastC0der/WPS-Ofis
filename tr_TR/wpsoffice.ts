@@ -1588,7 +1588,7 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Satın Al</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -4415,7 +4415,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Share as a link for comments</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar için bağlantı olarak paylaş</translation>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
@@ -4916,7 +4916,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1: Datagram too large</source>
-        <translation type="unfinished"/>
+        <translation>%1: Veri birimi çok büyük</translation>
     </message>
     <message>
         <source>%1: Remote closed</source>
@@ -6014,7 +6014,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>&amp;Basic colors</source>
-        <translation type="unfinished"/>
+        <translation>Temel renkler:</translation>
     </message>
     <message>
         <source>&amp;Custom colors</source>
@@ -9122,7 +9122,7 @@ Swiftly create a blank tab of the same type with Ctrl+N</source>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Satın Al</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -9130,7 +9130,11 @@ Swiftly create a blank tab of the same type with Ctrl+N</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;You can try the WPS Office for 30 days&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;WPS Ofis&apos;i 30 gün boyunca deneyebilirsiniz&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -9223,7 +9227,7 @@ Exit login panel will lead to exiting WPS 2019.</source>
     <name>KPromeLoginMenu</name>
     <message>
         <source>My Coupon</source>
-        <translation type="unfinished"/>
+        <translation>Kuponum</translation>
     </message>
     <message>
         <source>My Subscriptions</source>
@@ -9419,7 +9423,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Satın Al</translation>
     </message>
     <message>
         <source>preview mode</source>
