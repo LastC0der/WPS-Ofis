@@ -18206,7 +18206,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Şablonu</translation>
     </message>
     <message>
         <source>Official Doc Layout</source>
@@ -18291,11 +18291,11 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Browse by Footnote</source>
-        <translation type="unfinished"/>
+        <translation>Dipnota Göre Gözat</translation>
     </message>
     <message>
         <source>Online Picture Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Galeri</translation>
     </message>
     <message>
         <source>NewChart DataTable</source>
