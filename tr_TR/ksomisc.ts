@@ -130,7 +130,7 @@
     </message>
     <message>
         <source>Successful switch to </source>
-        <translation>Başarıyla geçiş </translation>
+        <translation>Başarılı geçiş</translation>
     </message>
     <message>
         <source>Switch window manage mode</source>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Hesabı Sil</translation>
     </message>
     <message>
         <source>2, Click delete my account.</source>
@@ -220,11 +220,11 @@
     </message>
     <message>
         <source>After deleting the data, some documents may not be opened and some functions will not be available.</source>
-        <translation type="unfinished"/>
+        <translation>Veriler silindikten sonra bazı belgeler açılmayabilir ve bazı işlevler kullanılamayabilir.</translation>
     </message>
     <message>
         <source>Are you sure to delete the data?</source>
-        <translation type="unfinished"/>
+        <translation>Verileri silmek istediğinizden emin misiniz?</translation>
     </message>
 </context>
 <context>
@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>The settings you have changed require restarting WPS to take effect. Click OK to apply changes and close this window, or click Cancel to undo the changes.</source>
-        <translation type="unfinished"/>
+        <translation>Değiştirdiğiniz ayarların etkili olması için WPS&apos;nin yeniden başlatılması gerekir. Değişiklikleri uygulamak ve bu pencereyi kapatmak için Tamam&apos;a tıklayın veya değişiklikleri geri almak için İptal&apos;e tıklayın.</translation>
     </message>
 </context>
 <context>
@@ -254,7 +254,7 @@
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>ve</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>I have read and agree with WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i okudum ve kabul ediyorum</translation>
     </message>
     <message>
         <source>Kingsoft Pdf Configuration Tools</source>
@@ -270,7 +270,7 @@
     </message>
     <message>
         <source>License agreement</source>
-        <translation type="unfinished"/>
+        <translation>Lisans sözleşmesi</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik ilkesi</translation>
     </message>
 </context>
 <context>
@@ -289,11 +289,11 @@
     </message>
     <message>
         <source>Switch to Classic Interface</source>
-        <translation type="unfinished"/>
+        <translation>Klasik Arayüze Geç</translation>
     </message>
     <message>
         <source>Classic Interface</source>
-        <translation type="unfinished"/>
+        <translation>Klasik Arayüz</translation>
     </message>
     <message>
         <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
@@ -301,7 +301,7 @@
     </message>
     <message>
         <source>Successfully switch to </source>
-        <translation type="unfinished"/>
+        <translation>Başarıyla geçiş</translation>
     </message>
     <message>
         <source>In Classic interface, files opened by Writer, Spreadsheet, and Presentation will be shown in different windows rather than sharing one window. And Working Area feature is not supported.</source>
@@ -309,11 +309,11 @@
     </message>
     <message>
         <source>Start WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS&apos;yi başlat</translation>
     </message>
     <message>
         <source>Switching to Classic Interface</source>
-        <translation type="unfinished"/>
+        <translation>Klasik Arayüze Geçiş</translation>
     </message>
     <message>
         <source>Please do not turn off your computer</source>
@@ -321,7 +321,7 @@
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bekleyin...</translation>
     </message>
 </context>
 <context>
@@ -336,7 +336,7 @@
     </message>
     <message>
         <source>WPS Cloud is working. Please exit at tray and continue.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut çalışıyor. Lütfen tepsiden çıkın ve devam edin.</translation>
     </message>
 </context>
 <context>
@@ -410,7 +410,7 @@
     </message>
     <message>
         <source>Version switch will complete after restarting.</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm değişimi, yeniden başlatıldıktan sonra tamamlanacaktır.</translation>
     </message>
 </context>
 <context>
@@ -425,11 +425,11 @@
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2007</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Microsoft Office 2007 ile uyumlu</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2010</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Microsoft Office 2010 ile uyumlu</translation>
     </message>
     <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
@@ -479,11 +479,11 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>&amp;Compatible with third-party software</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Üçüncü taraf yazılımlarla uyumlu</translation>
     </message>
     <message>
         <source>Pict&amp;ure Files(*.jpg, *.png, *.gif,...)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Resim Dosyaları(*.jpg, *.png, *.gif,...)</translation>
     </message>
     <message>
         <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
@@ -491,15 +491,15 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>&amp;OFD Files(*.ofd)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OFD Dosyaları(*.ofd)</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunumu yeni belgelerini varsayılan olarak *.pp&amp;tx biçiminde kaydet</translation>
     </message>
     <message>
         <source>Compat Setting</source>
-        <translation type="unfinished"/>
+        <translation>Uyumluluk Ayarı</translation>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
@@ -510,7 +510,7 @@ These operations can be undone. </source>
     <name>KPageRebuild</name>
     <message>
         <source>Reset Repair</source>
-        <translation type="unfinished"/>
+        <translation>Onarımı Sıfırla</translation>
     </message>
     <message>
         <source> Failed to register WPS Presentation
@@ -521,25 +521,28 @@ These operations can be undone. </source>
     <message>
         <source> Registering MSO2Pdf Plugins failed
 </source>
-        <translation type="unfinished"/>
+        <translation>MSO2Pdf Eklentileri kaydedilemedi
+</translation>
     </message>
     <message>
         <source>To solve the above problems, you need to reinstall WPS Office. 
 </source>
-        <translation type="unfinished"/>
+        <translation>Yukarıdaki sorunları çözmek için WPS Ofis&apos;i yeniden yüklemeniz gerekir.
+</translation>
     </message>
     <message>
         <source>Register components</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenleri kaydet</translation>
     </message>
     <message>
         <source> Failed to register WPS Writer
 </source>
-        <translation type="unfinished"/>
+        <translation> WPS Writer kaydedilemedi
+</translation>
     </message>
     <message>
         <source>Failed to reset toolbars, please reinstall WPS Office.</source>
-        <translation type="unfinished"/>
+        <translation>Araç çubukları sıfırlanamadı, lütfen WPS Ofis&apos;i yeniden yükleyin.</translation>
     </message>
     <message>
         <source>If toolbar buttons are mixed up, please close all WPS Office applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
@@ -1562,7 +1565,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Hesabı Sil</translation>
     </message>
     <message>
         <source>Privacy settings allow you to contorl your data according to your choice</source>
@@ -1574,7 +1577,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanıcı Lisans Sözleşmesi</translation>
     </message>
     <message>
         <source>To use &quot;Picture to Text&quot;, &quot;PDF to Word&quot; and &quot;Template Recommend&quot;, enable privacy settings</source>
@@ -1785,7 +1788,7 @@ Her şemanın düğme simgesi, komut grubu ve görev penceresi konumu farklıdı
     </message>
     <message>
         <source>New Blue Theme</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Mavi Tema</translation>
     </message>
     <message>
         <source>&amp;Change Scheme</source>
@@ -1843,11 +1846,11 @@ Her şemanın düğme simgesi, komut grubu ve görev penceresi konumu farklıdı
     </message>
     <message>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>Hesabı Sil</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanıcı Lisans Sözleşmesi</translation>
     </message>
     <message>
         <source>Network error, please try again later.</source>
@@ -1947,7 +1950,7 @@ Notice that doing so exposes you to risks of virus infection and hacking.</sourc
     </message>
     <message>
         <source>Version switch will complete after restarting.</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm değişimi, yeniden başlatıldıktan sonra tamamlanacaktır.</translation>
     </message>
 </context>
 <context>
