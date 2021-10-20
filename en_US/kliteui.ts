@@ -1418,7 +1418,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     <name>KSevenDaysFreeWidget</name>
     <message>
         <source>Free trial for 7 days</source>
-        <translation type="unfinished"/>
+        <translation>7 gün boyunca ücretsiz deneme</translation>
     </message>
 </context>
 </TS>
