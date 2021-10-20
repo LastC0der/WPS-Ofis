@@ -10492,7 +10492,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Lisans Sözleşmesi</translation>
     </message>
     <message>
         <source>Technical Support</source>
@@ -23337,7 +23337,7 @@ Possible reasons:
     </message>
     <message>
         <source>License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Lisans Sözleşmesi</translation>
     </message>
     <message>
         <source>WPS Office End-User License Agreement</source>
@@ -37831,7 +37831,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recommended save as specify format</source>
-        <translation type="unfinished"/>
+        <translation>%1 biçiminde kaydetme önerilir</translation>
     </message>
     <message>
         <source>Don&apos;t check file format</source>
@@ -38775,7 +38775,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recommended save as specify format</source>
-        <translation type="unfinished"/>
+        <translation>%1 biçiminde kaydetme önerilir</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
