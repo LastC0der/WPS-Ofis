@@ -1950,7 +1950,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>The group has been closed.</source>
-        <translation type="unfinished"/>
+        <translation>Grup kapatıldı.</translation>
     </message>
     <message>
         <source>request_data_format_error</source>
@@ -7148,7 +7148,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Deleting file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya siliniyor</translation>
     </message>
 </context>
 <context>
@@ -8657,7 +8657,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Tencent Backup success</source>
-        <translation type="unfinished"/>
+        <translation>Tencent Yedekleme başarısı</translation>
     </message>
     <message>
         <source>Backup success</source>
@@ -11353,7 +11353,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Deleting file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya siliniyor</translation>
     </message>
 </context>
 <context>
@@ -11387,7 +11387,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>abcdef</source>
-        <translation type="unfinished"/>
+        <translation>abcdef</translation>
     </message>
     <message>
         <source>File Share</source>
@@ -11421,7 +11421,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Failed to get device, please</source>
-        <translation type="unfinished"/>
+        <translation>Cihaz alınamadı, lütfen</translation>
     </message>
 </context>
 <context>
@@ -11440,11 +11440,11 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>The function of automatically updating to Super member</source>
-        <translation type="unfinished"/>
+        <translation>Süper üyeye otomatik olarak güncelleme işlevi</translation>
     </message>
     <message>
         <source>All files under the selected folder will be downloaded to your computer and kept up to date</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen klasör altındaki tüm dosyalar bilgisayarınıza indirilecek ve güncel tutulacaktır.</translation>
     </message>
 </context>
 <context>
@@ -11551,7 +11551,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>WPS Cloud is working. Please exit at tray and continue.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut çalışıyor. Lütfen tepsiden çıkın ve devam edin.</translation>
     </message>
 </context>
 <context>
@@ -11583,7 +11583,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>save as...</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet...</translation>
     </message>
 </context>
 <context>
@@ -11616,7 +11616,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Account had been logouted</source>
-        <translation type="unfinished"/>
+        <translation>Hesaptan çıkış yapıldı</translation>
     </message>
 </context>
 <context>
