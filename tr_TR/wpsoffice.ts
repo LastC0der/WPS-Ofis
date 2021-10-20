@@ -559,7 +559,7 @@
     <name>KGDPRAgreementAskWidget</name>
     <message>
         <source>, </source>
-        <translation type="unfinished"/>
+        <translation>, </translation>
     </message>
     <message>
         <source>Accept &amp;&amp; Continue</source>
@@ -575,11 +575,11 @@
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanıcı Lisans Sözleşmesi</translation>
     </message>
     <message>
         <source>Exit WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS&apos;den Çık</translation>
     </message>
 </context>
 <context>
@@ -3525,7 +3525,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Lisans Sözleşmesi</translation>
     </message>
     <message>
         <source>Privacy Agreement</source>
@@ -3572,7 +3572,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>License Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Lisans Sözleşmesi</translation>
     </message>
     <message>
         <source>WPS Office End-User License Agreement</source>
