@@ -1290,7 +1290,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Account had been logouted</source>
-        <translation type="unfinished"/>
+        <translation>Hesaptan çıkış yapıldı</translation>
     </message>
 </context>
 <context>
@@ -1378,7 +1378,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Recommended save as specify format</source>
-        <translation type="unfinished"/>
+        <translation>%1 biçiminde kaydetme önerilir</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
