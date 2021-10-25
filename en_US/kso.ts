@@ -30571,7 +30571,7 @@ OUTLINE</translation>
     </message>
     <message>
         <source>Presentation:</source>
-        <translation type="unfinished"/>
+        <translation>Sunum:</translation>
     </message>
     <message>
         <source>Mail Merge</source>
