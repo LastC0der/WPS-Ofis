@@ -747,7 +747,7 @@
     </message>
     <message>
         <source>Size Of End Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş Oku boyutu</translation>
     </message>
     <message>
         <source>Type Of End Arrow</source>
@@ -1998,7 +1998,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Zigzag</source>
-        <translation type="unfinished"/>
+        <translation>Zigzag</translation>
     </message>
     <message>
         <source>Venn diagram
@@ -6856,7 +6856,7 @@ Ekle</translation>
     </message>
     <message>
         <source>ZigZag</source>
-        <translation type="unfinished"/>
+        <translation>Zigzag</translation>
     </message>
     <message>
         <source>Right Arrow</source>
@@ -8783,7 +8783,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Heptagon</source>
-        <translation type="unfinished"/>
+        <translation>Yedigen</translation>
     </message>
     <message>
         <source>Heavy Dot Dash Line</source>
@@ -10854,7 +10854,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Create security document offline is not suppoted.</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik belgesinin çevrimdışı oluşturulması desteklenmez.</translation>
     </message>
     <message>
         <source>Sorry, You has no print screen permission for this document!</source>
@@ -15595,7 +15595,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Borderless</source>
-        <translation type="unfinished"/>
+        <translation>Kenarlıksız</translation>
     </message>
     <message>
         <source>Narrow Margins</source>
@@ -17287,7 +17287,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Create New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör Oluştur</translation>
     </message>
     <message>
         <source>Symlink to File</source>
@@ -17299,7 +17299,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılı Görünüm</translation>
     </message>
 </context>
 <context>
@@ -18752,11 +18752,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ogham</source>
-        <translation>Ogham</translation>
+        <translation>Ogham alfabesi</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"/>
+        <translation>Oriya dili</translation>
     </message>
     <message>
         <source>Runic</source>
@@ -21058,11 +21058,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ogham</source>
-        <translation>Ogham</translation>
+        <translation>Ogham alfabesi</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"/>
+        <translation>Oriya dili</translation>
     </message>
     <message>
         <source>Runic</source>
@@ -23095,7 +23095,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
-        <translation type="unfinished"/>
+        <translation>Yazar, değişiklik yapmanız gerekmedikçe bunu salt okunur olarak açmanızı istiyor. Salt okunur olarak açılsın mı?</translation>
     </message>
     <message>
         <source>The document is created by Microsoft Office 95 or earlier version, please convert it to Microsoft Office 97 or later version and try again.</source>
@@ -24062,11 +24062,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Create New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör Oluştur</translation>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılı Görünüm</translation>
     </message>
     <message>
         <source>%1
@@ -24386,7 +24386,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Neutral</source>
-        <translation type="unfinished"/>
+        <translation>Nötr</translation>
     </message>
     <message>
         <source>Warm Effect</source>
@@ -25992,7 +25992,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Geri Yükle</translation>
     </message>
     <message>
         <source>Maximize</source>
@@ -26008,7 +26008,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekranı Kapla</translation>
     </message>
     <message>
         <source>Restore Down</source>
@@ -26246,7 +26246,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılı Görünüm</translation>
     </message>
     <message>
         <source>Search Title</source>
@@ -29400,7 +29400,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekranı Kapla</translation>
     </message>
 </context>
 <context>
@@ -29568,7 +29568,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekranı Kapla</translation>
     </message>
     <message>
         <source>Restore Down</source>
@@ -29879,7 +29879,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>This is the heading theme font for Asian text. The current document theme defines which font is used.</source>
-        <translation type="unfinished"/>
+        <translation>Bu, Asya metni için başlık teması yazı tipidir. Geçerli belge teması, hangi yazı tipinin kullanıldığını tanımlar.</translation>
     </message>
 </context>
 <context>
@@ -30892,7 +30892,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation type="unfinished"/>
+        <translation>İzin reddedildi</translation>
     </message>
     <message>
         <source>Connection refused</source>
@@ -34834,7 +34834,7 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>Unable to bind parameters</source>
-        <translation type="unfinished"/>
+        <translation>Parametreler bağlanamıyor</translation>
     </message>
     <message>
         <source>Unable to reset statement</source>
@@ -35355,14 +35355,14 @@ Please check network</source>
     <name>KxFormatOption_ChartText</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>METİN SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
     <name>KxFormatOption_Text</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>METİN SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
@@ -36231,7 +36231,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation type="unfinished"/>
+        <translation>İzin reddedildi</translation>
     </message>
     <message>
         <source>No space left on device</source>
