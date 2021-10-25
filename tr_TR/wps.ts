@@ -2777,7 +2777,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
-        <translation>S&amp;ağ tıklandığında Mini Araç Çubuğunu göster</translation>
+        <translation>S&amp;ağ tıklamada Mini Araç Çubuğunu göster</translation>
     </message>
     <message>
         <source>Capitalize names of days of the &amp;week</source>
@@ -2901,7 +2901,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation>Seçim so&amp;nrasında Mini Araç Çubuğunu göster</translation>
+        <translation>Seçimde Mini Araç Çubuğunu &amp;Göster</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
@@ -10261,7 +10261,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Borderless</source>
-        <translation type="unfinished"/>
+        <translation>Kenarlıksız</translation>
     </message>
     <message>
         <source>D&amp;o not rotate text</source>
@@ -16053,7 +16053,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert Argument After</source>
-        <translation type="unfinished"/>
+        <translation>Sonuna Bağımsız Değişken Ekle</translation>
     </message>
     <message>
         <source>ComposeKit</source>
@@ -16109,7 +16109,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşım Web Sayfası Oluştur</translation>
     </message>
     <message>
         <source>Open Chinese Spelling Check</source>
@@ -17001,7 +17001,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Dosya güvenliği</translation>
     </message>
     <message>
         <source>Format Series Lines</source>
@@ -18319,7 +18319,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşım Web Sayfası Oluştur</translation>
     </message>
     <message>
         <source>Comment Text Context Menu</source>
@@ -28780,7 +28780,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Highlighter Pen</source>
-        <translation type="unfinished"/>
+        <translation>Vurgulayıcı Kalem</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -28792,7 +28792,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Ball Pen</source>
-        <translation type="unfinished"/>
+        <translation>Tükenmez Kalem</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
@@ -28959,11 +28959,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Highlighter Pen</source>
-        <translation type="unfinished"/>
+        <translation>Vurgulayıcı Kalem</translation>
     </message>
     <message>
         <source>Ball Pen</source>
-        <translation type="unfinished"/>
+        <translation>Tükenmez Kalem</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -32494,7 +32494,7 @@ Number</source>
     </message>
     <message>
         <source>Translate selected text</source>
-        <translation type="unfinished"/>
+        <translation>Seçili metni çevir</translation>
     </message>
     <message>
         <source>OneStep Save</source>
@@ -32563,7 +32563,7 @@ Number</source>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik Dosyasını Görüntüle</translation>
     </message>
     <message>
         <source>Paper Typeset</source>
@@ -32864,7 +32864,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Oluştur ve Paylaş</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -32896,7 +32896,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Translate selected text</source>
-        <translation type="unfinished"/>
+        <translation>Seçili metni çevir</translation>
     </message>
     <message>
         <source>Document Translate</source>
@@ -37942,7 +37942,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Oluştur ve Paylaş</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
@@ -38002,7 +38002,7 @@ Temizle</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik Dosyasını Görüntüle</translation>
     </message>
     <message>
         <source>Buy Subscription</source>
@@ -43094,14 +43094,14 @@ Try one or more of the following:
     <name>KxWpsFormatOption_ChartText</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>METİN SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFormatOption_Text</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>METİN SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
@@ -50725,11 +50725,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Highlighter Pen</source>
-        <translation type="unfinished"/>
+        <translation>Vurgulayıcı Kalem</translation>
     </message>
     <message>
         <source>Ball Pen</source>
-        <translation type="unfinished"/>
+        <translation>Tükenmez Kalem</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -52568,7 +52568,7 @@ Ekle</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik Dosyasını Görüntüle</translation>
     </message>
 </context>
 <context>
