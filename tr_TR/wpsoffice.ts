@@ -2549,7 +2549,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Create New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör Oluştur</translation>
     </message>
     <message>
         <source>Symlink to File</source>
@@ -2561,7 +2561,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılı Görünüm</translation>
     </message>
 </context>
 <context>
@@ -2670,11 +2670,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ogham</source>
-        <translation>Ogham</translation>
+        <translation>Ogham alfabesi</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"/>
+        <translation>Oriya dili</translation>
     </message>
     <message>
         <source>Runic</source>
@@ -3758,11 +3758,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Create New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör Oluştur</translation>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılı Görünüm</translation>
     </message>
     <message>
         <source>%1
@@ -4301,7 +4301,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Geri Yükle</translation>
     </message>
     <message>
         <source>Maximize</source>
@@ -4317,7 +4317,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekranı Kapla</translation>
     </message>
     <message>
         <source>Restore Down</source>
@@ -5971,7 +5971,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekranı Kapla</translation>
     </message>
     <message>
         <source>Restore Down</source>
@@ -6457,7 +6457,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>Permission denied</source>
-        <translation type="unfinished"/>
+        <translation>İzin reddedildi</translation>
     </message>
     <message>
         <source>Connection refused</source>
@@ -8328,7 +8328,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Unable to bind parameters</source>
-        <translation type="unfinished"/>
+        <translation>Parametreler bağlanamıyor</translation>
     </message>
     <message>
         <source>Unable to reset statement</source>
@@ -8794,7 +8794,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation type="unfinished"/>
+        <translation>İzin reddedildi</translation>
     </message>
     <message>
         <source>No space left on device</source>
