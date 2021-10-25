@@ -928,7 +928,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
-        <translation>S&amp;ağ tıklandığında Mini Araç Çubuğunu göster</translation>
+        <translation>S&amp;ağ tıklamada Mini Araç Çubuğunu göster</translation>
     </message>
     <message>
         <source>Horizon&amp;tal scroll bar</source>
@@ -1004,7 +1004,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation>Seçim so&amp;nrasında Mini Araç Çubuğunu göster</translation>
+        <translation>Seçimde Mini Araç Çubuğunu &amp;Göster</translation>
     </message>
     <message>
         <source>Sheet ta&amp;bs</source>
@@ -19554,7 +19554,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Insert Argument After</source>
-        <translation type="unfinished"/>
+        <translation>Sonuna Bağımsız Değişken Ekle</translation>
     </message>
     <message>
         <source>InvisibleWords</source>
@@ -20426,7 +20426,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Dosya güvenliği</translation>
     </message>
     <message>
         <source>Insert Row Before</source>
@@ -21126,7 +21126,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Borderless</source>
-        <translation type="unfinished"/>
+        <translation>Kenarlıksız</translation>
     </message>
     <message>
         <source>Narrow Margins</source>
@@ -26285,7 +26285,7 @@ Trig</translation>
     <name>et_et_styles</name>
     <message>
         <source>Bad</source>
-        <translation type="unfinished"/>
+        <translation>Kötü</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -26293,7 +26293,7 @@ Trig</translation>
     </message>
     <message>
         <source>Good</source>
-        <translation type="unfinished"/>
+        <translation>İyi</translation>
     </message>
     <message>
         <source>Note</source>
@@ -26419,7 +26419,7 @@ Trig</translation>
     </message>
     <message>
         <source>Neutral</source>
-        <translation type="unfinished"/>
+        <translation>Nötr</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -28880,7 +28880,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"/>
+        <translation>Oriya dili</translation>
     </message>
     <message>
         <source>Tamil</source>
@@ -40677,7 +40677,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik Dosyasını Görüntüle</translation>
     </message>
     <message>
         <source>File Collect</source>
@@ -40938,7 +40938,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Oluştur ve Paylaş</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -45418,7 +45418,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>View File Safe </source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik Dosyasını Görüntüle </translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -48062,7 +48062,7 @@ Document</source>
     </message>
     <message>
         <source>Good bad And moderate</source>
-        <translation type="unfinished"/>
+        <translation>İyi, Kötü ve Nötr</translation>
     </message>
     <message>
         <source>User Define</source>
@@ -48070,7 +48070,7 @@ Document</source>
     </message>
     <message>
         <source>Data and Model</source>
-        <translation type="unfinished"/>
+        <translation>Veriler ve Model</translation>
     </message>
 </context>
 <context>
@@ -50352,14 +50352,14 @@ Summary</source>
     <name>KxEtFormatOption_ChartText</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>METİN SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
     <name>KxEtFormatOption_Text</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>METİN SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
@@ -58624,7 +58624,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik Dosyasını Görüntüle</translation>
     </message>
 </context>
 <context>
