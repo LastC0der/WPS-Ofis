@@ -6308,7 +6308,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Translate selected text</source>
-        <translation type="unfinished"/>
+        <translation>Seçili metni çevir</translation>
     </message>
     <message>
         <source>FreeText</source>
@@ -8949,7 +8949,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Translate selected text</source>
-        <translation type="unfinished"/>
+        <translation>Seçili metni çevir</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
@@ -9371,7 +9371,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Ball Pen</source>
-        <translation type="unfinished"/>
+        <translation>Tükenmez Kalem</translation>
     </message>
     <message>
         <source>Compared Side by Side</source>
@@ -9399,7 +9399,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Translate selected text</source>
-        <translation type="unfinished"/>
+        <translation>Seçili metni çevir</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -9599,7 +9599,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Dosya güvenliği</translation>
     </message>
     <message>
         <source>ShortcutToolbar</source>
@@ -14594,7 +14594,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfMiniToolBarPopupWidget</name>
     <message>
         <source>Translate selected text</source>
-        <translation type="unfinished"/>
+        <translation>Seçili metni çevir</translation>
     </message>
     <message>
         <source>Translate selected</source>
