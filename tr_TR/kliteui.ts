@@ -778,7 +778,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılı Görünüm</translation>
     </message>
     <message>
         <source>Search Title</source>
