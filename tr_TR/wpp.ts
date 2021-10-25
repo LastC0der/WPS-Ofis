@@ -625,7 +625,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
-        <translation>S&amp;ağ tıklandığında Mini Araç Çubuğunu göster</translation>
+        <translation>S&amp;ağ tıklamada Mini Araç Çubuğunu göster</translation>
     </message>
     <message>
         <source>Default print setting for this document</source>
@@ -665,7 +665,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>Seçimde Mini Araç Çubuğunu &amp;Göster</translation>
     </message>
     <message>
         <source>Start with:</source>
@@ -801,7 +801,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytları çerçe&amp;vele</translation>
     </message>
     <message>
         <source>Compatibility options</source>
@@ -1202,7 +1202,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer Belgesine Çevir</translation>
     </message>
     <message>
         <source>Slides(&amp;P):</source>
@@ -1321,7 +1321,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Onayla:</translation>
     </message>
     <message>
         <source>Notes pages</source>
@@ -1389,7 +1389,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytları çerçe&amp;vele</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
@@ -1532,7 +1532,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Onayla:</translation>
     </message>
     <message>
         <source>Notes pages</source>
@@ -1588,7 +1588,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytları çerçe&amp;vele</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
@@ -1872,7 +1872,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>AddPlaceholder</source>
-        <translation type="unfinished"/>
+        <translation>Yer Tutucu Ekle</translation>
     </message>
     <message>
         <source>WPS Macro Editor</source>
@@ -2232,7 +2232,7 @@ Check</source>
     </message>
     <message>
         <source>Insert Movie from File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyadan Film Ekle</translation>
     </message>
     <message>
         <source>Delete Section</source>
@@ -2966,7 +2966,7 @@ Check</source>
     </message>
     <message>
         <source>Insert Background Music</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Müziği Ekle</translation>
     </message>
     <message>
         <source>Play Animation</source>
@@ -3814,7 +3814,7 @@ Check</source>
     <message>
         <source>Light Speed</source>
         <comment>wpp_sAnimExitEffectTextLightSpeed</comment>
-        <translation type="unfinished"/>
+        <translation>Işık Hızı</translation>
     </message>
     <message>
         <source>Click to hide contents</source>
@@ -4298,7 +4298,7 @@ Check</source>
     </message>
     <message>
         <source>Light Speed</source>
-        <translation type="unfinished"/>
+        <translation>Işık Hızı</translation>
     </message>
     <message>
         <source>Packaging. Please wait...</source>
@@ -4306,7 +4306,7 @@ Check</source>
     </message>
     <message>
         <source>Zigzag</source>
-        <translation type="unfinished"/>
+        <translation>Zigzag</translation>
     </message>
     <message>
         <source>5 Point Star</source>
@@ -4646,7 +4646,7 @@ Check</source>
     </message>
     <message>
         <source>Style Emphasis</source>
-        <translation type="unfinished"/>
+        <translation>Stil Vurgusu</translation>
     </message>
     <message>
         <source>Trapezoid</source>
@@ -4682,7 +4682,7 @@ Check</source>
     </message>
     <message>
         <source>Add Entrance Effect</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Efekti Ekle</translation>
     </message>
     <message>
         <source>Flip</source>
@@ -5910,7 +5910,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>Fade Smoothly</source>
-        <translation type="unfinished"/>
+        <translation>Yavaşça Karartma</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -6235,7 +6235,7 @@ Body: Peek In</source>
     </message>
     <message>
         <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım şablonu birden çok kalıp içeriyor. WPS Sunusu şablondaki ilk ana şablonu uyguladı. Diğer kalıpları daha sonra kullanmak üzere sunuya kopyalamak istiyor musunuz?</translation>
     </message>
     <message>
         <source>The following features cannot be saved in macro-free workbooks:
@@ -6334,7 +6334,7 @@ Body: Compress</source>
     </message>
     <message>
         <source>Custom Property</source>
-        <translation type="unfinished"/>
+        <translation>Özel Özellik</translation>
     </message>
     <message>
         <source>business calculation</source>
@@ -6695,7 +6695,9 @@ Body: Random Bars</source>
         <source>Slide Transition: Fade Smoothly
 Title: Ease In
 Body: Custom</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi: Yavaşça Karartma
+Başlık: İçe Uydur
+Gövde: Özel</translation>
     </message>
     <message>
         <source>To continue saving as a WPS Presentation, you must convert all diagrams either to SmartArt graphics or to shapes.
@@ -7547,7 +7549,7 @@ Gövde: Yakınlaştır</translation>
     </message>
     <message>
         <source>Date Placeholder</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yer Tutucusu</translation>
     </message>
     <message>
         <source>Medium Style 2 - Accent 1</source>
@@ -11046,7 +11048,7 @@ Araçları</translation>
     <name>classics.formatting</name>
     <message>
         <source>108</source>
-        <translation type="unfinished"/>
+        <translation>108</translation>
     </message>
     <message>
         <source>110</source>
@@ -12831,7 +12833,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Insert Argument After</source>
-        <translation type="unfinished"/>
+        <translation>Sonuna Bağımsız Değişken Ekle</translation>
     </message>
     <message>
         <source>Remove All Sections</source>
@@ -12855,7 +12857,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Oluştur ve Paylaş</translation>
     </message>
     <message>
         <source>Duplicate Layout</source>
@@ -12871,7 +12873,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Ball Pen</source>
-        <translation type="unfinished"/>
+        <translation>Tükenmez Kalem</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -12896,7 +12898,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Show / Hide Ink Markup</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep İşaretlemesini Göster / Gizle</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -13601,7 +13603,7 @@ Master</source>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Dosya güvenliği</translation>
     </message>
     <message>
         <source>Format Series Lines</source>
@@ -14096,7 +14098,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Change Background Picture</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Resmini Değiştir</translation>
     </message>
     <message>
         <source>Setting Link</source>
@@ -14696,7 +14698,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Oluştur ve Paylaş</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
@@ -14728,7 +14730,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Show / Hide Ink Markup</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep İşaretlemesini Göster / Gizle</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -15197,7 +15199,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>MailFeedBack</source>
-        <translation type="unfinished"/>
+        <translation>Posta Geri Bildirimi</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
@@ -16418,7 +16420,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Web Preview</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Oluştur ve Paylaş</translation>
     </message>
     <message>
         <source>Enter the access code</source>
@@ -18552,7 +18554,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Cust&amp;om show:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Özel Gösteri:</translation>
     </message>
     <message>
         <source>Print range</source>
@@ -21357,7 +21359,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik Dosyasını Görüntüle</translation>
     </message>
     <message>
         <source>Model Essay</source>
@@ -22257,7 +22259,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Click to change slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytları değiştirmek için tıklayın</translation>
     </message>
     <message>
         <source>AutoPreview</source>
@@ -23392,7 +23394,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik Dosyasını Görüntüle</translation>
     </message>
     <message>
         <source>Model Essay</source>
@@ -24209,7 +24211,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>Click to change slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytları değiştirmek için tıklayın</translation>
     </message>
     <message>
         <source>Smart Animation</source>
@@ -24272,7 +24274,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>Notes and Handouts</source>
-        <translation type="unfinished"/>
+        <translation>Notlar ve Dinleyici Notları</translation>
     </message>
     <message>
         <source>&amp;Page number</source>
@@ -25179,7 +25181,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Package has been completed</source>
-        <translation type="unfinished"/>
+        <translation>Paket tamamlandı</translation>
     </message>
 </context>
 <context>
@@ -25884,7 +25886,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekli Sınırla</translation>
     </message>
     <message>
         <source>All Organization Chart</source>
@@ -27231,14 +27233,14 @@ Gizle</translation>
     <name>KxWppFormatOption_ChartText</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>METİN SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatOption_Text</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>METİN SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
@@ -28109,7 +28111,7 @@ Master</source>
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer Belgesine Çevir</translation>
     </message>
     <message>
         <source>Open File</source>
@@ -32763,7 +32765,7 @@ Aracı</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik Dosyasını Görüntüle</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -33700,7 +33702,7 @@ Slide Master</source>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekli Sınırla</translation>
     </message>
     <message>
         <source>All Organization Chart</source>
