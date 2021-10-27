@@ -875,7 +875,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>&lt;qt&gt;Do you want to overwrite it?&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Üzerine yazmak istiyor musunuz?&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Executive (7.5 x 10 inches, 191 x 254 mm)</source>
@@ -6528,7 +6528,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     <name>QNetworkAccessFtpBackend</name>
     <message>
         <source>No suitable proxy found</source>
-        <translation type="unfinished"/>
+        <translation>Uygun proxy bulunamadı</translation>
     </message>
     <message>
         <source>Error while downloading %1: %2</source>
@@ -6551,7 +6551,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     <name>QNetworkAccessHttpBackend</name>
     <message>
         <source>No suitable proxy found</source>
-        <translation type="unfinished"/>
+        <translation>Uygun proxy bulunamadı</translation>
     </message>
 </context>
 <context>
@@ -6566,7 +6566,7 @@ Bu hata tekrar tekrar oluşursa, lütfen bize bir hata raporu gönderin.</transl
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Lisans</translation>
     </message>
 </context>
 <context>
@@ -6668,7 +6668,7 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
     </message>
     <message>
         <source>Moves the window out of the way</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi kullanım alanı dışına taşır</translation>
     </message>
     <message>
         <source>Restore down</source>
@@ -6686,11 +6686,11 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
     <name>KPromeSkin</name>
     <message>
         <source>Clear (Default)</source>
-        <translation type="unfinished"/>
+        <translation>Temizle (Varsayılan)</translation>
     </message>
     <message>
         <source>Clear (Black)</source>
-        <translation type="unfinished"/>
+        <translation>Temizle (Siyah)</translation>
     </message>
     <message>
         <source>classic</source>
@@ -6778,11 +6778,11 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
     </message>
     <message>
         <source>Macros are not supported in this version of WPS Office. Please purchase WPS Office to use macros.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;in bu sürümünde makrolar desteklenmez. Makroları kullanmak için lütfen WPS Ofis satın alın.</translation>
     </message>
     <message>
         <source>LEARN MORE</source>
-        <translation type="unfinished"/>
+        <translation>DAHA FAZLA BİLGİ</translation>
     </message>
 </context>
 <context>
