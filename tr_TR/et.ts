@@ -9208,7 +9208,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the second data set.</source>
-        <translation type="unfinished"/>
+        <translation>ikinci veri kümesidir.</translation>
     </message>
     <message>
         <source>Options</source>
@@ -9662,7 +9662,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the range or array of values to trim and average.</source>
-        <translation type="unfinished"/>
+        <translation>kırpılıp ortalaması alınacak değerler dizisi veya aralığıdır.</translation>
     </message>
     <message>
         <source>is a schedule of payment dates that corresponds to the cash flow payments.</source>
@@ -10807,7 +10807,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>value_if_na</source>
-        <translation type="unfinished"/>
+        <translation>değer_eğer_yok</translation>
     </message>
     <message>
         <source>is the probability associated with the two-tailed Student&apos;s t-distribution, a number between 0 and 1 inclusive.</source>
@@ -13483,11 +13483,11 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
-        <translation type="unfinished"/>
+        <translation>Standart yazı tipi ve yazı tipi boyutundaki değişiklikler, siz yeni bir Çalışma Kitabı oluşturana kadar geçerli olmayacaktır.</translation>
     </message>
     <message>
         <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.etx;*.uos)</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Dosyalar(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.etx;*.uos)</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
@@ -13672,7 +13672,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.uos)</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Dosyalar(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.uos)</translation>
     </message>
     <message>
         <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.etx)</source>
@@ -29272,7 +29272,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>A PivotTable report with that name already exists on the destination sheet.</source>
-        <translation type="unfinished"/>
+        <translation>Hedef sayfada aynı ada sahip bir Özet Tablo raporu zaten var.</translation>
     </message>
     <message>
         <source>PivotTable name is not valid.</source>
@@ -37083,7 +37083,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
-        <translation type="unfinished"/>
+        <translation>Standart yazı tipi ve yazı tipi boyutundaki değişiklikler, siz yeni bir Çalışma Kitabı oluşturana kadar geçerli olmayacaktır.</translation>
     </message>
     <message>
         <source>Please select a dictionary first.</source>
@@ -39473,7 +39473,7 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>Clear &amp;Replace Format</source>
-        <translation type="unfinished"/>
+        <translation>Biçim &amp;Değiştir&apos;i Temizle</translation>
     </message>
     <message>
         <source>Clea&amp;r Find Format</source>
@@ -46337,7 +46337,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Show Iteration Results</source>
-        <translation type="unfinished"/>
+        <translation>Yineleme Sonuçlarını Göster</translation>
     </message>
     <message>
         <source>Integer Constraints:</source>
@@ -50945,7 +50945,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
-        <translation type="unfinished"/>
+        <translation>Seçtiğiniz belge biçimi, bu belgenin orijinal biçimiyle uyumlu değil, bu nedenle belgeyi yeni bir modda kaydetmeye mi karar veriyorsunuz?</translation>
     </message>
 </context>
 <context>
@@ -51393,7 +51393,7 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>The fourth step: Preview</source>
-        <translation type="unfinished"/>
+        <translation>Dördüncü adım: Önizleme</translation>
     </message>
 </context>
 <context>
