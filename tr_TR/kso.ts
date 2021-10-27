@@ -2208,7 +2208,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>Small confetti</source>
-        <translation type="unfinished"/>
+        <translation>Küçük konfeti</translation>
     </message>
     <message>
         <source>Narrow horizontal</source>
@@ -6182,7 +6182,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Double Dot Dash Line</source>
-        <translation type="unfinished"/>
+        <translation>Çift Noktalı Kesik Çizgi</translation>
     </message>
     <message>
         <source>Left-Down Offset</source>
@@ -6380,7 +6380,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Greeen</source>
-        <translation type="unfinished"/>
+        <translation>Yeşil</translation>
     </message>
     <message>
         <source>Groove</source>
@@ -8093,7 +8093,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="unfinished"/>
+        <translation>Nesne Biçimlendir</translation>
     </message>
     <message>
         <source>Equiaxial Up</source>
@@ -8112,7 +8112,7 @@ Line-type: %3</source>
     <message>
         <source>L-Shape</source>
         <comment>DRAWING2_TOOLTIP_L_SHAPE</comment>
-        <translation type="unfinished"/>
+        <translation>L Şekli</translation>
     </message>
     <message>
         <source>Flowchart: Data</source>
@@ -9461,7 +9461,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>L-Shape</source>
-        <translation type="unfinished"/>
+        <translation>L Şekli</translation>
     </message>
     <message>
         <source>Line</source>
@@ -9968,7 +9968,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>&lt;qt&gt;Do you want to overwrite it?&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Üzerine yazmak istiyor musunuz?&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Executive (7.5 x 10 inches, 191 x 254 mm)</source>
@@ -10519,7 +10519,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Permission Warning</source>
-        <translation type="unfinished"/>
+        <translation>İzin Bilgileri</translation>
     </message>
     <message>
         <source>Verifying failed, please check your network.</source>
@@ -10586,7 +10586,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished"/>
+        <translation>Reddedildi</translation>
     </message>
 </context>
 <context>
@@ -12192,7 +12192,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Overtype</source>
-        <translation type="unfinished"/>
+        <translation>Üzerine Yaz</translation>
     </message>
     <message>
         <source>WPS Office is not your default office software, set to the default software that allows you to work more convenient</source>
@@ -15780,7 +15780,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Latin text f&amp;ont:</source>
-        <translation type="unfinished"/>
+        <translation>Lati&amp;nce metin yazı tipi:</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
@@ -15943,7 +15943,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>First line</source>
-        <translation type="unfinished"/>
+        <translation>İlk satır</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -15995,7 +15995,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation type="unfinished"/>
+        <translation>Latince metnin s&amp;özcüğün ortasına kaydırılmasına izin ver</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -16342,7 +16342,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished"/>
+        <translation>Reddedildi</translation>
     </message>
     <message>
         <source>Approve Status:</source>
@@ -27312,7 +27312,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished"/>
+        <translation>Reddedildi</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -27755,7 +27755,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Diagram Style Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Diyagram Stil Galerisi</translation>
     </message>
 </context>
 <context>
@@ -30192,7 +30192,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Small confetti</source>
-        <translation type="unfinished"/>
+        <translation>Küçük konfeti</translation>
     </message>
     <message>
         <source>Narrow horizontal</source>
@@ -30963,7 +30963,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>QNetworkAccessFtpBackend</name>
     <message>
         <source>No suitable proxy found</source>
-        <translation type="unfinished"/>
+        <translation>Uygun proxy bulunamadı</translation>
     </message>
     <message>
         <source>Error while downloading %1: %2</source>
@@ -30986,7 +30986,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>QNetworkAccessHttpBackend</name>
     <message>
         <source>No suitable proxy found</source>
-        <translation type="unfinished"/>
+        <translation>Uygun proxy bulunamadı</translation>
     </message>
 </context>
 <context>
@@ -31001,7 +31001,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Lisans</translation>
     </message>
 </context>
 <context>
@@ -31264,7 +31264,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Moves the window out of the way</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi kullanım alanı dışına taşır</translation>
     </message>
     <message>
         <source>Restore down</source>
@@ -31643,11 +31643,11 @@ Document</source>
     </message>
     <message>
         <source>Macros are not supported in this version of WPS Office. Please purchase WPS Office to use macros.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;in bu sürümünde makrolar desteklenmez. Makroları kullanmak için lütfen WPS Ofis satın alın.</translation>
     </message>
     <message>
         <source>LEARN MORE</source>
-        <translation type="unfinished"/>
+        <translation>DAHA FAZLA BİLGİ</translation>
     </message>
 </context>
 <context>
@@ -33842,7 +33842,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished"/>
+        <translation>Kabul Edildi</translation>
     </message>
     <message>
         <source>Apply Time:</source>
@@ -33858,7 +33858,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished"/>
+        <translation>Reddedildi</translation>
     </message>
     <message>
         <source>Password protect</source>
@@ -33988,7 +33988,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished"/>
+        <translation>Kabul Edildi</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -33996,7 +33996,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished"/>
+        <translation>Reddedildi</translation>
     </message>
     <message>
         <source>Apply Reason can&apos;t be empty!</source>
@@ -39281,7 +39281,7 @@ Properties</source>
     <name>KxMBRejectDlg</name>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished"/>
+        <translation>Reddedildi</translation>
     </message>
 </context>
 <context>
