@@ -670,7 +670,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>&lt;qt&gt;Do you want to overwrite it?&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Üzerine yazmak istiyor musunuz?&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Executive (7.5 x 10 inches, 191 x 254 mm)</source>
@@ -1698,7 +1698,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Upload failed. Please click &apos;Continue&apos; to upload the file again.</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme başarısız. Dosyayı yeniden yüklemek için lütfen &apos;Devam&apos;ı tıklayın.</translation>
     </message>
     <message>
         <source>Network Error</source>
@@ -1934,7 +1934,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Download failed. Downloading files larger than 30M is currently not supported.</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme başarısız. 30 Mb&apos;dan büyük dosyaların indirilmesi şu anda desteklenmemektedir.</translation>
     </message>
     <message>
         <source>file does not exist</source>
@@ -1966,7 +1966,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Upload failed. File name or path is too long. Please rename or save to another location.</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme başarısız. Dosya adı veya yolu çok uzun. Lütfen yeniden adlandırın veya başka bir konuma kaydedin.</translation>
     </message>
     <message>
         <source>file size too large</source>
@@ -6926,7 +6926,7 @@ Please verify the correct file name was given.</source>
     <name>QNetworkAccessFtpBackend</name>
     <message>
         <source>No suitable proxy found</source>
-        <translation type="unfinished"/>
+        <translation>Uygun proxy bulunamadı</translation>
     </message>
     <message>
         <source>Error while downloading %1: %2</source>
@@ -6949,7 +6949,7 @@ Please verify the correct file name was given.</source>
     <name>QNetworkAccessHttpBackend</name>
     <message>
         <source>No suitable proxy found</source>
-        <translation type="unfinished"/>
+        <translation>Uygun proxy bulunamadı</translation>
     </message>
 </context>
 <context>
@@ -7112,7 +7112,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Moves the window out of the way</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi kullanım alanı dışına taşır</translation>
     </message>
     <message>
         <source>Restore down</source>
@@ -8638,7 +8638,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Download failed. Downloading files larger than 30M is currently not supported.</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme başarısız. 30 Mb&apos;dan büyük dosyaların indirilmesi şu anda desteklenmemektedir.</translation>
     </message>
 </context>
 <context>
@@ -9521,7 +9521,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Before proceeding, please make sure there is no file being uploaded in cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>Devam etmeden önce lütfen bulut diske yüklenen dosya olmadığından emin olun.</translation>
     </message>
     <message>
         <source>To Retain the files that had been downloaded. Please do not check the option if you are on public Computer</source>
@@ -11134,7 +11134,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Smart backup location files that can be accessed on your phone</source>
-        <translation type="unfinished"/>
+        <translation>Telefonunuzdan erişilebilen akıllı yedekleme konumu dosyaları</translation>
     </message>
     <message>
         <source>Add share file to WPS cloud doc menu item on the right menu</source>
