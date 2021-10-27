@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>Completed</source>
-        <translation type="unfinished"/>
+        <translation>Tamamlandı</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"/>
+        <translation>İptal Edildi</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -115,7 +115,7 @@
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished"/>
+        <translation>Kabul Edildi</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished"/>
+        <translation>Reddedildi</translation>
     </message>
     <message>
         <source>modify date:</source>
@@ -466,7 +466,7 @@
     </message>
     <message>
         <source>Watermark&amp;Settings:</source>
-        <translation type="unfinished"/>
+        <translation>Filigran &amp;Ayarları:</translation>
     </message>
 </context>
 <context>
@@ -2702,7 +2702,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>i got it</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
     <message>
         <source>auto center</source>
@@ -2925,7 +2925,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>out of print range</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma aralığının dışında</translation>
     </message>
     <message>
         <source>PageMargin</source>
@@ -2988,7 +2988,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>out of print range</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma aralığının dışında</translation>
     </message>
     <message>
         <source>bottom:</source>
@@ -3707,7 +3707,7 @@ Inserted pages must delete by yourself.</source>
     </message>
     <message>
         <source>Odd pages In range</source>
-        <translation type="unfinished"/>
+        <translation>Aralıktaki tek sayfalar</translation>
     </message>
     <message>
         <source>Default blank page</source>
@@ -8150,7 +8150,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Text Markup</source>
-        <translation type="unfinished"/>
+        <translation>Metin İşaretleme</translation>
     </message>
     <message>
         <source>Select</source>
@@ -10652,11 +10652,11 @@ Pencere</translation>
     </message>
     <message>
         <source>Text Markup</source>
-        <translation type="unfinished"/>
+        <translation>Metin İşaretleme</translation>
     </message>
     <message>
         <source>Text Marks</source>
-        <translation type="unfinished"/>
+        <translation>Metin İşaretleri</translation>
     </message>
     <message>
         <source>Attachment</source>
@@ -10706,7 +10706,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Text Markup</source>
-        <translation type="unfinished"/>
+        <translation>Metin İşaretleme</translation>
     </message>
     <message>
         <source>TextBox</source>
@@ -11878,11 +11878,11 @@ Pencere</translation>
     </message>
     <message>
         <source>Text Markup</source>
-        <translation type="unfinished"/>
+        <translation>Metin İşaretleme</translation>
     </message>
     <message>
         <source>Text Marks</source>
-        <translation type="unfinished"/>
+        <translation>Metin İşaretleri</translation>
     </message>
     <message>
         <source>Attachment</source>
@@ -12585,7 +12585,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Text Markup</source>
-        <translation type="unfinished"/>
+        <translation>Metin İşaretleme</translation>
     </message>
     <message>
         <source>Offline Management</source>
@@ -14117,7 +14117,7 @@ Deleted pages can not be recovered</source>
     <name>ongmani.ct_pagemanager</name>
     <message>
         <source>Text Markup</source>
-        <translation type="unfinished"/>
+        <translation>Metin İşaretleme</translation>
     </message>
     <message>
         <source>PageMgr</source>
@@ -14997,7 +14997,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>长边翻转</source>
-        <translation type="unfinished"/>
+        <translation>Uzun kenardan çevir</translation>
     </message>
     <message>
         <source>DoubleSide</source>
@@ -15005,11 +15005,11 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>页面设置：</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Yapısı:</translation>
     </message>
     <message>
         <source>小册子子集：</source>
-        <translation type="unfinished"/>
+        <translation>Kitapçık Alt Kümesi:</translation>
     </message>
     <message>
         <source>内容设置：</source>
@@ -15017,11 +15017,11 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>短边翻转</source>
-        <translation type="unfinished"/>
+        <translation>Kısa kenardan çevir</translation>
     </message>
     <message>
         <source>out of print range</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma aralığının dışında</translation>
     </message>
     <message>
         <source>Property</source>
@@ -15041,7 +15041,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>所有页面</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <source>default printer</source>
@@ -15053,7 +15053,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>份数：</source>
-        <translation type="unfinished"/>
+        <translation>Kopya Sayısı:</translation>
     </message>
     <message>
         <source>no printer detected</source>
@@ -15077,7 +15077,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>页面顺序：</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa sırası:</translation>
     </message>
     <message>
         <source>OnlyBehind</source>
@@ -15089,7 +15089,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>每张页数：</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa/Yaprak:</translation>
     </message>
     <message>
         <source>Enter page numbers and/or page ranges separated by commas. 
@@ -15107,7 +15107,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>打印</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>Try checking print on both sides,convenient and quick</source>
@@ -15115,7 +15115,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>上：</source>
-        <translation type="unfinished"/>
+        <translation>Üst Kenar Boşluğu:</translation>
     </message>
     <message>
         <source>下：</source>
@@ -15234,7 +15234,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>我知道了</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
 </context>
 <context>
@@ -15245,7 +15245,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Resume Delivery</source>
-        <translation type="unfinished"/>
+        <translation>Teslimatı Sürdür</translation>
     </message>
     <message>
         <source>high-quality resources, come and deliver!</source>
@@ -15253,7 +15253,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Delivery</source>
-        <translation type="unfinished"/>
+        <translation>Teslim</translation>
     </message>
 </context>
 <context>
@@ -15349,7 +15349,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Save changes to &apos;XXXX&apos; before closing?</source>
-        <translation type="unfinished"/>
+        <translation>Kapatmadan önce değişiklikler &apos;X&apos; olarak kaydedilsin mi?</translation>
     </message>
 </context>
 <context>
@@ -15364,19 +15364,19 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Completed</source>
-        <translation type="unfinished"/>
+        <translation>Tamamlandı</translation>
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"/>
+        <translation>İptal Edildi</translation>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished"/>
+        <translation>Kabul Edildi</translation>
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="unfinished"/>
+        <translation>Reddedildi</translation>
     </message>
 </context>
 <context>
