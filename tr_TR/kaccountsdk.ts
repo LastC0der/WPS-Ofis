@@ -858,7 +858,7 @@ Easy mobile office.</source>
     <name>KNetworkErrDlg</name>
     <message>
         <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Sayfa yüklenemedi,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;ağınızı kontrol edin&lt;/a&gt; ve yeniden deneyin&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -934,7 +934,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Sayfa yükleme zaman aşımı,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;ağınızı kontrol edin&lt;/a&gt; ve yeniden deneyin&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
