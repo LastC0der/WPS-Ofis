@@ -26377,7 +26377,7 @@ Esc					End of the slide show</source>
     <name>KxWppSelectShapeFilterDelegate</name>
     <message>
         <source>Clear Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtreyi Temizle</translation>
     </message>
     <message>
         <source>Select This</source>
@@ -26388,7 +26388,7 @@ Esc					End of the slide show</source>
     <name>KxWppSelectShapeFilterListView</name>
     <message>
         <source>Clear Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtreyi Temizle</translation>
     </message>
     <message>
         <source>Select This</source>
@@ -26399,7 +26399,7 @@ Esc					End of the slide show</source>
     <name>KxWppSelectShapeFilterWidget</name>
     <message>
         <source>Clear Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtreyi Temizle</translation>
     </message>
 </context>
 <context>
@@ -26750,7 +26750,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
-        <translation type="unfinished"/>
+        <translation>Seçtiğiniz belge biçimi, bu belgenin orijinal biçimiyle uyumlu değil, bu nedenle belgeyi yeni bir modda kaydetmeye mi karar veriyorsunuz?</translation>
     </message>
 </context>
 <context>
@@ -28182,7 +28182,7 @@ Master</source>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation type="unfinished"/>
+        <translation>Latince metnin s&amp;özcüğün ortasına kaydırılmasına izin ver</translation>
     </message>
     <message>
         <source>All&amp;ow hanging punctuation</source>
