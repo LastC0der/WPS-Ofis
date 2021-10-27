@@ -1277,7 +1277,7 @@
     <message>
         <source>WPS Writer has finished searching the document.</source>
         <comment>_TxFind_FinishSearchingDoc2</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Writer belgeyi aramayı tamamladı.</translation>
     </message>
     <message>
         <source> Page Number: %s   Page: %d/%d   Sec: %d/%d</source>
@@ -1314,7 +1314,7 @@
     </message>
     <message>
         <source> Do you want to continue searching from the end?</source>
-        <translation type="unfinished"/>
+        <translation>Aramaya sondan devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>JobTitle</source>
@@ -1540,7 +1540,7 @@
     </message>
     <message>
         <source>WPS Writer has finished searching the document.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer belgeyi aramayı tamamladı.</translation>
     </message>
     <message>
         <source>Address</source>
@@ -1811,7 +1811,7 @@
     </message>
     <message>
         <source>First line</source>
-        <translation type="unfinished"/>
+        <translation>İlk satır</translation>
     </message>
     <message>
         <source>Company</source>
@@ -5295,7 +5295,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>WPS Writer has finished searching the document.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer belgeyi aramayı tamamladı.</translation>
     </message>
     <message>
         <source>Text &amp;Format:</source>
@@ -18996,7 +18996,7 @@ Screen</source>
     </message>
     <message>
         <source>Table Column Context Menu</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Sütunu Bağlam Menüsü</translation>
     </message>
     <message>
         <source>More Symbols</source>
@@ -25697,7 +25697,7 @@ Numarası</translation>
     </message>
     <message>
         <source>First line</source>
-        <translation type="unfinished"/>
+        <translation>İlk satır</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -25813,7 +25813,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation type="unfinished"/>
+        <translation>Latince metnin s&amp;özcüğün ortasına kaydırılmasına izin ver</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -28134,7 +28134,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Latince metin yazı tipi:</translation>
     </message>
     <message>
         <source>&amp;All caps</source>
@@ -30439,7 +30439,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Latince metin yazı tipi:</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
@@ -45759,7 +45759,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
-        <translation type="unfinished"/>
+        <translation>Seçtiğiniz belge biçimi, bu belgenin orijinal biçimiyle uyumlu değil, bu nedenle belgeyi yeni bir modda kaydetmeye mi karar veriyorsunuz?</translation>
     </message>
 </context>
 <context>
