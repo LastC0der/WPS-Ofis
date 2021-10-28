@@ -50460,7 +50460,7 @@ Summary</source>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlık:</translation>
     </message>
     <message>
         <source>Show &amp;items with no data last</source>
