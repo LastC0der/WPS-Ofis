@@ -3194,7 +3194,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sunum</translation>
     </message>
     <message>
         <source>Login for Free</source>
@@ -3225,7 +3225,7 @@ Check path and filename.</source>
     <name>KPromeSubPage</name>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>Mind Map</source>
@@ -3237,7 +3237,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sunum</translation>
     </message>
     <message>
         <source>Document</source>
@@ -4478,7 +4478,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation type="unfinished"/>
+        <translation>Tarih değiştirildi</translation>
     </message>
 </context>
 <context>
@@ -4537,7 +4537,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation type="unfinished"/>
+        <translation>Tarih değiştirildi</translation>
     </message>
 </context>
 <context>
@@ -8581,7 +8581,7 @@ This file may be renamed, deleted or moved.</source>
     <name>QOCIResult</name>
     <message>
         <source>Unable to alloc statement</source>
-        <translation>ifade ayrılamıyor</translation>
+        <translation>İfade ayrılamıyor</translation>
     </message>
     <message>
         <source>Unable to goto next</source>
@@ -8605,7 +8605,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Unable to bind value</source>
-        <translation type="unfinished"/>
+        <translation>Değer bağlanamıyor</translation>
     </message>
 </context>
 <context>
@@ -8668,7 +8668,7 @@ This file may be renamed, deleted or moved.</source>
     <name>KFlowMindLoadingWidget</name>
     <message>
         <source>Loading webpage, please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Web sayfası yükleniyor, lütfen bekleyin...</translation>
     </message>
 </context>
 <context>
@@ -8741,7 +8741,7 @@ This file may be renamed, deleted or moved.</source>
     <name>QPSQLDriver</name>
     <message>
         <source>Unable to subscribe</source>
-        <translation type="unfinished"/>
+        <translation>Abone olunamıyor</translation>
     </message>
     <message>
         <source>Could not begin transaction</source>
@@ -8761,7 +8761,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Unable to unsubscribe</source>
-        <translation type="unfinished"/>
+        <translation>Abonelikten çıkılamıyor</translation>
     </message>
 </context>
 <context>
@@ -8790,7 +8790,7 @@ This file may be renamed, deleted or moved.</source>
     <name>QIODevice</name>
     <message>
         <source>No such file or directory</source>
-        <translation type="unfinished"/>
+        <translation>Böyle bir dosya veya dizin yok</translation>
     </message>
     <message>
         <source>Permission denied</source>
@@ -8798,7 +8798,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>No space left on device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt&apos;ta yer kalmadı</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -8814,15 +8814,16 @@ This file may be renamed, deleted or moved.</source>
     <message>
         <source>Copyright © 1988-2020 Kingsoft Office Corporation.
 All Rights Reserved.</source>
-        <translation type="unfinished"/>
+        <translation>Telif Hakkı © 1988-2020 Kingsoft Office Corporation.
+Tüm Hakları Saklıdır.</translation>
     </message>
     <message>
         <source>Check for Update</source>
-        <translation type="unfinished"/>
+        <translation>Güncellemeyi Denetle</translation>
     </message>
     <message>
         <source>Version </source>
-        <translation type="unfinished"/>
+        <translation>Sürüm</translation>
     </message>
 </context>
 <context>
@@ -8908,7 +8909,7 @@ All Rights Reserved.</source>
     </message>
     <message>
         <source>Unable to bind value</source>
-        <translation type="unfinished"/>
+        <translation>Değer bağlanamıyor</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
