@@ -2794,7 +2794,8 @@ Download the XML expansion pack?</source>
     <message>
         <source>The file is modified
 Please save the file and create share link</source>
-        <translation type="unfinished"/>
+        <translation>Dosya değiştirildi
+Lütfen dosyayı kaydedin ve paylaşım bağlantısı oluşturun</translation>
     </message>
     <message>
         <source>An error occurred on printer &quot;%s&quot; !</source>
@@ -3965,7 +3966,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>&amp;Text axis</source>
-        <translation type="unfinished"/>
+        <translation>Metin ek&amp;seni</translation>
     </message>
 </context>
 <context>
@@ -21994,7 +21995,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sunum</translation>
     </message>
     <message>
         <source>Login for Free</source>
@@ -25263,7 +25264,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlık:</translation>
     </message>
     <message>
         <source>&amp;Open from File...</source>
@@ -26311,7 +26312,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation type="unfinished"/>
+        <translation>Tarih değiştirildi</translation>
     </message>
 </context>
 <context>
@@ -26370,7 +26371,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation type="unfinished"/>
+        <translation>Tarih değiştirildi</translation>
     </message>
 </context>
 <context>
@@ -35495,7 +35496,7 @@ Please check network</source>
     <name>QOCIResult</name>
     <message>
         <source>Unable to alloc statement</source>
-        <translation>ifade ayrılamıyor</translation>
+        <translation>İfade ayrılamıyor</translation>
     </message>
     <message>
         <source>Unable to goto next</source>
@@ -35519,7 +35520,7 @@ Please check network</source>
     </message>
     <message>
         <source>Unable to bind value</source>
-        <translation type="unfinished"/>
+        <translation>Değer bağlanamıyor</translation>
     </message>
 </context>
 <context>
@@ -36037,7 +36038,7 @@ This file may be renamed, deleted or moved.</source>
     <name>QPSQLDriver</name>
     <message>
         <source>Unable to subscribe</source>
-        <translation type="unfinished"/>
+        <translation>Abone olunamıyor</translation>
     </message>
     <message>
         <source>Could not begin transaction</source>
@@ -36057,7 +36058,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Unable to unsubscribe</source>
-        <translation type="unfinished"/>
+        <translation>Abonelikten çıkılamıyor</translation>
     </message>
 </context>
 <context>
@@ -36227,7 +36228,7 @@ This file may be renamed, deleted or moved.</source>
     <name>QIODevice</name>
     <message>
         <source>No such file or directory</source>
-        <translation type="unfinished"/>
+        <translation>Böyle bir dosya veya dizin yok</translation>
     </message>
     <message>
         <source>Permission denied</source>
@@ -36235,7 +36236,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>No space left on device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt&apos;ta yer kalmadı</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -36372,7 +36373,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlık:</translation>
     </message>
     <message>
         <source>Change Icon</source>
@@ -36889,7 +36890,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Unable to bind value</source>
-        <translation type="unfinished"/>
+        <translation>Değer bağlanamıyor</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
