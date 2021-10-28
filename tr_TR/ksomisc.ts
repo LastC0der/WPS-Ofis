@@ -678,7 +678,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sunum</translation>
     </message>
     <message>
         <source>PPT Presentation</source>
