@@ -484,19 +484,19 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     <name>QObject</name>
     <message>
         <source>DOC</source>
-        <translation type="unfinished"/>
+        <translation>DOC</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>PPTX</source>
-        <translation type="unfinished"/>
+        <translation>PPTX</translation>
     </message>
     <message>
         <source>XLSX</source>
-        <translation type="unfinished"/>
+        <translation>XLSX</translation>
     </message>
     <message>
         <source>Folder</source>
