@@ -45472,7 +45472,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlık:</translation>
     </message>
     <message>
         <source>Caption</source>
