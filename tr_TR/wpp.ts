@@ -1960,7 +1960,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Numarası</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
@@ -2306,7 +2306,7 @@ Check</source>
     </message>
     <message>
         <source>PNG Portable Network Graphics Format(*.png)</source>
-        <translation type="unfinished"/>
+        <translation>PNG Taşınabilir Ağ Grafik Biçimi (*.png)</translation>
     </message>
     <message>
         <source>Copy of </source>
@@ -6023,7 +6023,7 @@ Body: Rise Up</source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sunum</translation>
     </message>
     <message>
         <source>Slide Transition: Wedge
@@ -7806,7 +7806,7 @@ Body: Spinner</source>
     <message>
         <source>Presentation</source>
         <comment>WP_DEFAULT_PRESNAME</comment>
-        <translation type="unfinished"/>
+        <translation>Sunum</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
@@ -12197,7 +12197,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Numarası</translation>
     </message>
     <message>
         <source>Import Templates</source>
@@ -22666,7 +22666,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Numarası</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -26717,21 +26717,21 @@ Esc					End of the slide show</source>
     <name>wppclassics.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sunum</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sunum</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sunum</translation>
     </message>
 </context>
 <context>
@@ -27792,7 +27792,7 @@ Master</source>
     </message>
     <message>
         <source>&amp;Slides size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Slayt boyutu</translation>
     </message>
     <message>
         <source>B5(ISO) Paper(176x250 mm)</source>
@@ -33170,7 +33170,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Numarası</translation>
     </message>
     <message>
         <source>Clip Art</source>
