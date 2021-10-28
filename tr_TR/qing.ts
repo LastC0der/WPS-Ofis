@@ -1326,7 +1326,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Old Private Space</source>
-        <translation type="unfinished"/>
+        <translation>Özel Alan</translation>
     </message>
     <message>
         <source>No operation authority</source>
@@ -4815,7 +4815,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation type="unfinished"/>
+        <translation>Tarih değiştirildi</translation>
     </message>
 </context>
 <context>
@@ -4874,7 +4874,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation type="unfinished"/>
+        <translation>Tarih değiştirildi</translation>
     </message>
 </context>
 <context>
@@ -9180,7 +9180,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>QOCIResult</name>
     <message>
         <source>Unable to alloc statement</source>
-        <translation>ifade ayrılamıyor</translation>
+        <translation>İfade ayrılamıyor</translation>
     </message>
     <message>
         <source>Unable to goto next</source>
@@ -9204,7 +9204,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unable to bind value</source>
-        <translation type="unfinished"/>
+        <translation>Değer bağlanamıyor</translation>
     </message>
 </context>
 <context>
@@ -9479,7 +9479,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>QPSQLDriver</name>
     <message>
         <source>Unable to subscribe</source>
-        <translation type="unfinished"/>
+        <translation>Abone olunamıyor</translation>
     </message>
     <message>
         <source>Could not begin transaction</source>
@@ -9499,7 +9499,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unable to unsubscribe</source>
-        <translation type="unfinished"/>
+        <translation>Abonelikten çıkılamıyor</translation>
     </message>
 </context>
 <context>
@@ -9559,7 +9559,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>QIODevice</name>
     <message>
         <source>No such file or directory</source>
-        <translation type="unfinished"/>
+        <translation>Böyle bir dosya veya dizin yok</translation>
     </message>
     <message>
         <source>Permission denied</source>
@@ -9567,7 +9567,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>No space left on device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt&apos;ta yer kalmadı</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -9668,7 +9668,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unable to bind value</source>
-        <translation type="unfinished"/>
+        <translation>Değer bağlanamıyor</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
