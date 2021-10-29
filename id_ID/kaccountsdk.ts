@@ -667,6 +667,18 @@ Easy mobile office.</source>
         <translation>Widget</translation>
     </message>
     <message>
+        <source>Try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check order</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Checking payment...</source>
         <translation>Memeriksa pembayaran…</translation>
     </message>
@@ -876,6 +888,10 @@ Easy mobile office.</source>
     <message>
         <source>Page load timeout,check you network and retry</source>
         <translation>Waktu pemuatan halaman habis, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1179,6 +1195,10 @@ Easy mobile office.</source>
         <translation>Tidak ada nama pengguna</translation>
     </message>
     <message>
+        <source>Online Service User Agreement</source>
+        <translation>Perjanjian Pengguna Layanan Online</translation>
+    </message>
+    <message>
         <source>Continue with Twitter</source>
         <translation>Lanjutkan dengan Twitter</translation>
     </message>
@@ -1249,6 +1269,10 @@ Easy mobile office.</source>
     <message>
         <source>Register now</source>
         <translation>Daftar sekarang</translation>
+    </message>
+    <message>
+        <source>I agree to the %1</source>
+        <translation>Saya menyetujui %1</translation>
     </message>
     <message>
         <source>Login too frequently, please retry after %1 seconds</source>
@@ -1381,6 +1405,104 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KPayStateDlg</name>
+    <message>
+        <source>Please wait a few minutes</source>
+        <translation>Harap tunggu beberapa menit</translation>
+    </message>
+    <message>
+        <source>You can download unlimted templates.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment timeout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get your personal customization now.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can use PDF conversion unlimited.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment successful!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have become WPS Premium user.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Checking payment...</source>
+        <translation>Memeriksa pembayaran…</translation>
+    </message>
+    <message>
+        <source>Payment failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneEnhance</name>
+    <message>
+        <source>Cloud storage</source>
+        <translation>Penyimpanan Cloud</translation>
+    </message>
+    <message>
+        <source>Files repair</source>
+        <translation>Perbaikan file</translation>
+    </message>
+    <message>
+        <source>Start Your Free Trial</source>
+        <translation>Mulai Uji Coba Gratis Anda</translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation>PDF ke Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Picture to text(OCR)</source>
+        <translation>Gambar ke teks(OCR)</translation>
+    </message>
+    <message>
+        <source>Sign in as WPS Standard</source>
+        <translation>Masuk sebagai WPS Standar</translation>
+    </message>
+    <message>
+        <source>Welcome to try our 7-day WPS Premium Trial</source>
+        <translation>Selamat datang di Uji Coba Gratis 7 hari WPS Premium</translation>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation>Pengguna Masuk</translation>
+    </message>
+    <message>
+        <source>Product Key</source>
+        <translation>Kunci Produk</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation>Pengguna Premium</translation>
+    </message>
+    <message>
+        <source>Edit text/images in PDF</source>
+        <translation>Edit teks/gambar di PDF</translation>
+    </message>
+    <message>
+        <source>Sign in and unlock 80+ exclusive benefits only available in WPS Premium</source>
+        <translation>Masuk dan dapatkan lebih dari 80 fitur eksklusif yang hanya tersedia di WPS Premium</translation>
+    </message>
+</context>
+<context>
     <name>KBindingAccountDialog</name>
     <message>
         <source>Proxy &amp;Setting</source>
@@ -1431,6 +1553,10 @@ Easy mobile office.</source>
     <message>
         <source>Service timeout</source>
         <translation>Sesi layanan sudah habis.</translation>
+    </message>
+    <message>
+        <source> or refer to the </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
@@ -1861,6 +1987,10 @@ Easy mobile office.</source>
         <translation>Pengambilan pengguna gagal</translation>
     </message>
     <message>
+        <source>request failed, please retry later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select user failed</source>
         <translation>Pemilihan pengguna gagal</translation>
     </message>
@@ -1963,6 +2093,25 @@ Easy mobile office.</source>
     <message>
         <source>Welcome to use WPS Office</source>
         <translation>Selamat Datang di WPS Office</translation>
+    </message>
+</context>
+<context>
+    <name>KFeedbackPopupWidget</name>
+    <message>
+        <source>Forgot the password</source>
+        <translation>Lupa kata sandi</translation>
+    </message>
+    <message>
+        <source>Sign-in failed</source>
+        <translation>Proses masuk gagal</translation>
+    </message>
+    <message>
+        <source>Other questions or feedback</source>
+        <translation>Masalah atau Usulan Lain</translation>
+    </message>
+    <message>
+        <source>Select your question type:</source>
+        <translation>Pilih jenis pertanyaan Anda:</translation>
     </message>
 </context>
 <context>
