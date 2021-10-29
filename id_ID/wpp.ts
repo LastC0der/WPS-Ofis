@@ -854,6 +854,10 @@ Misalnya, 1,3,5-9.</translation>
         <translation>Lanjutan (&amp;L)</translation>
     </message>
     <message>
+        <source>Default &amp;insert images of original size</source>
+        <translation>Default gambar sisipan berukuran asli</translation>
+    </message>
+    <message>
         <source>Enable &amp;timing backup</source>
         <translation>Aktifkan autocadang (&amp;t)</translation>
     </message>
@@ -872,6 +876,10 @@ Misalnya, 1,3,5-9.</translation>
     <message>
         <source>Max U&amp;ndo/Redo:</source>
         <translation>Langkah batalkan/ulangi(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;entries</source>
+        <translation>entri (&amp;e)</translation>
     </message>
     <message>
         <source>&amp;Open backup file</source>
@@ -896,6 +904,10 @@ Misalnya, 1,3,5-9.</translation>
     <message>
         <source>Show &amp;windows in taskbar</source>
         <translation>Tampilkan jendela di bar tugas (&amp;j)</translation>
+    </message>
+    <message>
+        <source>Not Read Compa&amp;tibility Data</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Backup Center</source>
@@ -1806,6 +1818,10 @@ Misalnya, 1,3,5-9.</translation>
         <translation>Penggaris</translation>
     </message>
     <message>
+        <source>Draw outter borders</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Microsoft PowerPoint Presentation Templates(*.potx; *.potm)</source>
         <translation>Templat Presentasi Microsoft PowerPoint(*.potx; *.potm)</translation>
     </message>
@@ -1918,6 +1934,10 @@ Misalnya, 1,3,5-9.</translation>
         <translation>Hapus Animasi Pintar</translation>
     </message>
     <message>
+        <source>Cannot get outline from this file. There might be error in its data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Notes Layout</source>
         <translation>Tata Letak Catatan</translation>
     </message>
@@ -1995,6 +2015,10 @@ Misalnya, 1,3,5-9.</translation>
     <message>
         <source>Insert Media</source>
         <translation>Sisipkan Media</translation>
+    </message>
+    <message>
+        <source>Insert Outline</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -2310,6 +2334,10 @@ Check</source>
         <translation>Format PNG Portable Network Graphics(*.png)</translation>
     </message>
     <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Copy of </source>
         <translation type="unfinished"/>
     </message>
@@ -2321,6 +2349,10 @@ Check</source>
         <source>Delete Comment</source>
         <translation>Hapus 
 Komentar</translation>
+    </message>
+    <message>
+        <source>Paste Animation</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Master Layout...</source>
@@ -2355,6 +2387,10 @@ Komentar</translation>
         <translation>Gambar</translation>
     </message>
     <message>
+        <source>/WPS Capture/WPS Capture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Table Style</source>
         <translation>Gaya Tabel</translation>
     </message>
@@ -2373,6 +2409,10 @@ Komentar</translation>
     <message>
         <source>Set Multipicture Rotation</source>
         <translation>Atur Rotasi Multi Gambar</translation>
+    </message>
+    <message>
+        <source>Erase Table</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pause Audio</source>
@@ -2433,6 +2473,11 @@ Tindakan</translation>
     <message>
         <source>Distribute Rows Evenly</source>
         <translation>Distribusikan Baris Secara Merata</translation>
+    </message>
+    <message>
+        <source>When saved as a text file, only the text content in the slide will be retained, and other content will be lost.
+Are you sure you want to save it in this format ?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Media Files(*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)|*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
@@ -2577,6 +2622,10 @@ Baru</translation>
         <translation>Subskrip</translation>
     </message>
     <message>
+        <source>All Outline(*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Insert New Title Master</source>
         <translation>Sisipkan Master Judul Baru</translation>
     </message>
@@ -2669,6 +2718,10 @@ Baru</translation>
     <message>
         <source>Save as Picture</source>
         <translation>Simpan sebagai Gambar</translation>
+    </message>
+    <message>
+        <source>Text content(*.txt)|*.txt</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Web Media Video(*.webm)|*.webm</source>
@@ -2788,6 +2841,10 @@ Pembicara</translation>
         <source>Set Up Show</source>
         <translation>Setel 
 Tampilan</translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Presentation Files(*.hppt)|*.hppt</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.
@@ -2910,6 +2967,10 @@ Tampilan</translation>
         <translation>Halaman Web File Tunggal (*.mht, *.mhtml)</translation>
     </message>
     <message>
+        <source>WuKuang Normal Encrypted Presentation Files(*.pppt)|*.pppt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
         <translation>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</translation>
     </message>
@@ -3022,6 +3083,10 @@ Komentar</translation>
         <translation>File Audio Windows(wav) (*.wav)</translation>
     </message>
     <message>
+        <source>Microsoft PowerPoint XML Presentation(*.xml)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>New Blank Presentation</source>
         <comment>WP_NewBlankFileHint</comment>
         <translation>Presentasi Kosong Baru</translation>
@@ -3082,6 +3147,14 @@ Komentar</translation>
         <translation>Setelah</translation>
     </message>
     <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation>&amp;Font default untuk wilayah matematika:</translation>
+    </message>
+    <message>
         <source>Before</source>
         <translation>Sebelum</translation>
     </message>
@@ -3090,8 +3163,20 @@ Komentar</translation>
         <translation>Batal</translation>
     </message>
     <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation>P&amp;isahkan baris dengan operator biner dan relasional:</translation>
+    </message>
+    <message>
         <source>Duplicate</source>
         <translation>Duplikat</translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation>Kurangi uk&amp;uran pecahan bersarang dalam persamaan tampilan</translation>
     </message>
     <message>
         <source>General</source>
@@ -6240,6 +6325,15 @@ Isi: Intip</translation>
         <translation>Judul Saja</translation>
     </message>
     <message>
+        <source>The following features cannot be saved in macro-free workbooks:
+ · VB project
+ · JS project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>No Animation</source>
         <comment>WP_ANIMATIONTYPE_NONE_TIP</comment>
         <translation>Tanpa Animasi</translation>
@@ -6435,6 +6529,11 @@ For this to work, keep the capitalization the same.</source>
     <message>
         <source>Simplified Chinese to Traditional Chinese, converting...</source>
         <translation>Cina Modern ke Cina Tradisional, mengonversi...</translation>
+    </message>
+    <message>
+        <source>
+ Do you continue to save it as HTML format?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comb Horizontal</source>
@@ -6718,6 +6817,10 @@ Isi: Utas</translation>
     <message>
         <source>No Slide Using</source>
         <translation>Tidak Ada Slide yang Digunakan</translation>
+    </message>
+    <message>
+        <source>Formulas will become uneditable pictures in this version of WPS Presentation (slide %1)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Title: Brush On Underline</source>
@@ -7467,6 +7570,12 @@ Isi: Larutkan Dalam</translation>
         <translation>Judul dan Konten di atas Teks</translation>
     </message>
     <message>
+        <source>The following features of your presentation are not going to be saved in HTML format:
+
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Title: Zoom
 Body: Zoom</source>
         <translation>Judul: Zoom
@@ -7742,6 +7851,11 @@ Catatan</translation>
         <translation>Lucuti Kiri Bawah</translation>
     </message>
     <message>
+        <source>WPS Presentation cannot open this file, because the password is not correct.
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>pleasant garden</source>
         <translation>kebun yang menyenangkan</translation>
     </message>
@@ -7851,6 +7965,10 @@ Isi: Pemutar</translation>
     <message>
         <source>Dark Style 2</source>
         <translation>Gaya Gelap 2</translation>
+    </message>
+    <message>
+        <source>Modify Theme</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fade In And Dim</source>
@@ -10129,6 +10247,10 @@ Panduan</translation>
         <translation>Gunakan Ulang Slide</translation>
     </message>
     <message>
+        <source>Docer Bullet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Align</source>
         <translation>Rata</translation>
     </message>
@@ -11396,6 +11518,10 @@ Tindakan</translation>
         <translation>Hapus</translation>
     </message>
     <message>
+        <source>Frame From Up</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cover</source>
         <translation>Sampul</translation>
     </message>
@@ -11484,6 +11610,10 @@ Tindakan</translation>
         <translation>Tutup Kanan</translation>
     </message>
     <message>
+        <source>Plane Left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Blinds</source>
         <translation>Tirai</translation>
     </message>
@@ -11552,6 +11682,14 @@ Tindakan</translation>
         <translation>Tutup Atas</translation>
     </message>
     <message>
+        <source>Plane Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cube From Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Wipe Right</source>
         <translation>Hapus ke Kanan</translation>
     </message>
@@ -11590,6 +11728,10 @@ Tindakan</translation>
     <message>
         <source>CheckerBoard</source>
         <translation>Papan main dam</translation>
+    </message>
+    <message>
+        <source>Cube From Up</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
@@ -11728,6 +11870,10 @@ Tindakan</translation>
         <translation>Kerangka Tebal</translation>
     </message>
     <message>
+        <source>Frame From Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cover Down</source>
         <translation>Tutup Bawah</translation>
     </message>
@@ -11746,6 +11892,14 @@ Tindakan</translation>
     <message>
         <source>Primary Colors</source>
         <translation>Warna Pokok</translation>
+    </message>
+    <message>
+        <source>Frame From Down</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Frame From Left</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wheel 1</source>
@@ -11770,6 +11924,14 @@ Tindakan</translation>
     <message>
         <source>Wipe Up</source>
         <translation>Hapus ke Atas</translation>
+    </message>
+    <message>
+        <source>Cube From Down</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cube From Left</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Square Shaows</source>
@@ -13309,6 +13471,10 @@ Baru</translation>
         <translation>Tab Tengah</translation>
     </message>
     <message>
+        <source>LaserPen and SpotLight</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Underline</source>
         <translation>Garis bawah</translation>
     </message>
@@ -13683,6 +13849,10 @@ Teks</translation>
         <translation>Warna Tinta</translation>
     </message>
     <message>
+        <source>Keep Picture Only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Left Hang</source>
         <translation>Menggantung di Kiri</translation>
     </message>
@@ -13722,6 +13892,14 @@ Teks</translation>
     <message>
         <source>View File Safe</source>
         <translation>Lihat File Aman</translation>
+    </message>
+    <message>
+        <source>Webshape Min</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webshape Max</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Series Lines</source>
@@ -14168,6 +14346,10 @@ Slide</translation>
         <translation>Gaya</translation>
     </message>
     <message>
+        <source>Opening animation video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Tools</source>
         <translation>Alat</translation>
     </message>
@@ -14371,6 +14553,10 @@ Slide</source>
         <translation>Klip Seni</translation>
     </message>
     <message>
+        <source>Phonetic OneKey</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Screen Recorder</source>
         <translation type="unfinished"/>
     </message>
@@ -14421,6 +14607,10 @@ Slide</source>
     <message>
         <source>Complete symbol</source>
         <translation>Simbol</translation>
+    </message>
+    <message>
+        <source>Phonetic Symbol</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Note</source>
@@ -14980,6 +15170,10 @@ Halaman</translation>
         <translation>Mode Rotasi</translation>
     </message>
     <message>
+        <source>Audio library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Delete Note In Current Slide</source>
         <translation>Hapus Catatan di Slide Saat Ini</translation>
     </message>
@@ -15104,6 +15298,10 @@ Ponsel</translation>
     <message>
         <source>Select All</source>
         <translation>Pilih Semua</translation>
+    </message>
+    <message>
+        <source>EduTools</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Security</source>
@@ -19724,6 +19922,10 @@ Gambar</translation>
         <translation>Kontrol Ponsel</translation>
     </message>
     <message>
+        <source>Use Presenter View</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rehearse 
 Timings</source>
         <translation>Latih Pengaturan 
@@ -19757,6 +19959,10 @@ Awal</translation>
         <translation>Setel</translation>
     </message>
     <message>
+        <source>Slide Show Location</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Hide Slide</source>
         <translation>Sembunyikan 
 Slide</translation>
@@ -19766,6 +19972,10 @@ Slide</translation>
 Notes</source>
         <translation>Catatan 
 Pembicara</translation>
+    </message>
+    <message>
+        <source>Multi Monitor</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Slide Show Mode</source>
@@ -19793,6 +20003,10 @@ Kustom</translation>
     <message>
         <source>Slide Show Settings</source>
         <translation>Pengaturan Tayangan Slide</translation>
+    </message>
+    <message>
+        <source>Show On:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22078,6 +22292,10 @@ Membaca</translation>
         <translation>Slide %1 dari %2</translation>
     </message>
     <message>
+        <source>Resume timer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Slide %1</source>
         <translation>Slide %1</translation>
     </message>
@@ -22122,16 +22340,16 @@ Membaca</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Screen camera</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>End of Slide Show</source>
         <translation>Akhir Presentasi</translation>
     </message>
     <message>
         <source>Arrow</source>
         <translation>Panah</translation>
-    </message>
-    <message>
-        <source>Resume timer</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Eraser</source>
@@ -22143,10 +22361,6 @@ Membaca</translation>
     </message>
     <message>
         <source>Ink shape</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Screen camera</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -22342,6 +22556,10 @@ Dokumen</translation>
         <translation>Silakan Pilih Program yang Akan Diluncurkan</translation>
     </message>
     <message>
+        <source>Run %1 &amp;macro</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Presentations</source>
         <translation>Semua Presentasi</translation>
     </message>
@@ -22531,6 +22749,10 @@ Langsung</translation>
         <translation>Lanskap</translation>
     </message>
     <message>
+        <source>Print Ways</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Print What</source>
         <translation>Cetak apa</translation>
     </message>
@@ -22597,10 +22819,6 @@ Berikutnya</translation>
     <message>
         <source>Print Copies:</source>
         <translation>Cetak Salinan:</translation>
-    </message>
-    <message>
-        <source>Print Ways</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -24389,6 +24607,10 @@ Kustom</translation>
         <translation>Suara:</translation>
     </message>
     <message>
+        <source>AnimationPainter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Preview</source>
         <translation>Pratampil</translation>
     </message>
@@ -24419,6 +24641,10 @@ Kustom</translation>
     <message>
         <source>Speed and sound</source>
         <translation>Kecepatan dan suara</translation>
+    </message>
+    <message>
+        <source>Animation Painter</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -24591,6 +24817,10 @@ Kustom</translation>
         <translation>Magic</translation>
     </message>
     <message>
+        <source>Picture background and mask</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Background</source>
         <translation>Latar Belakang</translation>
     </message>
@@ -24681,6 +24911,10 @@ Slide</translation>
 Slide Master</source>
         <translation>Edit 
 Master Slide</translation>
+    </message>
+    <message>
+        <source>Picture Mask</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stand Screen(4:3)</source>
@@ -27225,6 +27459,17 @@ Pembicara</translation>
     </message>
 </context>
 <context>
+    <name>KxWppBulletScreenCtrl</name>
+    <message>
+        <source>Preparing for BulletScreen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BulletScreen Load Failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgBackground</name>
     <message>
         <source>Template Background</source>
@@ -27438,6 +27683,25 @@ Pembicara</translation>
     <message>
         <source>Select Involved Template</source>
         <translation>Pilih Templat yang Dipakai</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppReuseSlidesListView</name>
+    <message>
+        <source>Apply theme to selected slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert slide</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Apply theme to all slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert all slides</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -29089,6 +29353,13 @@ Yakin tutup?</translation>
     <message>
         <source>The name &quot;%1&quot; is already in use. Please modify the name by changing at least 1 of the first 20 characters of &quot;%2&quot;.</source>
         <translation>Nama &quot;%1&quot; sudah digunakan. Silakan ubah namanya minimal dengan 1 dari 20 karakter pertama &quot;%2&quot;.</translation>
+    </message>
+</context>
+<context>
+    <name>ReuseSlidesTitle</name>
+    <message>
+        <source>In this pane, you can select one or more slides of other presentations and import them into the current presentation without opening other documents directly</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
