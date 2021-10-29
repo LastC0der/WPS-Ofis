@@ -658,6 +658,18 @@ Easy mobile office.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check order</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Checking payment...</source>
         <translation type="unfinished"/>
     </message>
@@ -866,6 +878,10 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1170,6 +1186,10 @@ Easy mobile office.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Online Service User Agreement</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Continue with Twitter</source>
         <translation type="unfinished"/>
     </message>
@@ -1239,6 +1259,10 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Register now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>I agree to the %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1372,6 +1396,104 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KPayStateDlg</name>
+    <message>
+        <source>Please wait a few minutes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can download unlimted templates.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment timeout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get your personal customization now.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can use PDF conversion unlimited.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment successful!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have become WPS Premium user.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Checking payment...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneEnhance</name>
+    <message>
+        <source>Cloud storage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Files repair</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start Your Free Trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Picture to text(OCR)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in as WPS Standard</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Welcome to try our 7-day WPS Premium Trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Product Key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit text/images in PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in and unlock 80+ exclusive benefits only available in WPS Premium</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KBindingAccountDialog</name>
     <message>
         <source>Proxy &amp;Setting</source>
@@ -1421,6 +1543,10 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Service timeout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> or refer to the </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1852,6 +1978,10 @@ Easy mobile office.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>request failed, please retry later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select user failed</source>
         <translation type="unfinished"/>
     </message>
@@ -1953,6 +2083,25 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Welcome to use WPS Office</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KFeedbackPopupWidget</name>
+    <message>
+        <source>Forgot the password</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign-in failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Other questions or feedback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select your question type:</source>
         <translation type="unfinished"/>
     </message>
 </context>
