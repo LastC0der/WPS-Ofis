@@ -58,6 +58,10 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Language:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Menu bar:</source>
         <translation type="unfinished"/>
     </message>
@@ -954,6 +958,10 @@ Elija un nombre de fichero diferente.</translation>
         <translation>Limpie el espacio de Cloud.</translation>
     </message>
     <message>
+        <source>Upgrade vip expansion to 365G.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>New version is available, please lookup cloudfile state.</source>
         <translation type="unfinished"/>
     </message>
@@ -1067,6 +1075,10 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Please save again</source>
+        <translation>Vuelva a guardar</translation>
+    </message>
+    <message>
+        <source>Upgrade vip, upload up to %1 of files.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1151,8 +1163,20 @@ Elija un nombre de fichero diferente.</translation>
         <translation>Abrir</translation>
     </message>
     <message>
+        <source>Kingsoft PDF Professional</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Kingsoft PDF</source>
         <translation>WPS PDF</translation>
+    </message>
+    <message>
+        <source>You have opened some dialog boxes. To exit your account, please close them first, and then close all open files.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dialog and Files Still Open</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS/Word Files</source>
@@ -3272,6 +3296,10 @@ Compruebe la ruta y el nombre del fichero.</translation>
         <translation>Presentación en blanco</translation>
     </message>
     <message>
+        <source>Star Items</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Blank Document</source>
         <translation>Documento en blanco</translation>
     </message>
@@ -3297,6 +3325,15 @@ Compruebe la ruta y el nombre del fichero.</translation>
     <message>
         <source>Blank Presentation</source>
         <translation>Presentación en blanco</translation>
+    </message>
+    <message>
+        <source>Cannot open file, unsupported file format!
+(%1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open tip</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Blank Document</source>
@@ -3381,11 +3418,19 @@ Compruebe la ruta y el nombre del fichero.</translation>
         <translation>WPS Office</translation>
     </message>
     <message>
+        <source>2. You can also log back in, login complete will automatically go off-line the earliest login device</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Personal Center - Online Devices</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>You can resolve the issue by:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The number of login devices under your account has reached the maximum limit, the current device is automatically offline</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3395,6 +3440,10 @@ Compruebe la ruta y el nombre del fichero.</translation>
     <message>
         <source>Feedback</source>
         <translation>Comentario</translation>
+    </message>
+    <message>
+        <source>Sign back in</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4081,7 +4130,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Edit text in PDF</source>
-        <translation type="unfinished"/>
+        <translation>Editar texto en PDF</translation>
     </message>
     <message>
         <source>Cloud storage</source>
@@ -4760,6 +4809,10 @@ Verifique que el nombre del fichero es correcto.</translation>
     <message>
         <source>Save</source>
         <translation>Guardar</translation>
+    </message>
+    <message>
+        <source>Open File Cloud Disk Location</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Opening file...</source>
@@ -5869,8 +5922,18 @@ Si el error se produce repetidamente, envíenos un informe de error.</translatio
         <translation>Recargar archivo</translation>
     </message>
     <message>
+        <source>Sorry! A problem has occurred</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>Comentario</translation>
+    </message>
+    <message>
+        <source>WPS Office crashed for some reasons.
+To continue your work, you need to reopen your files. Please be aware that unsaved changes might be lost.
+Sorry for the inconvenience.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto Backup enabled; If there is a backup file of this document, the last backup file will be loaded</source>
@@ -6707,6 +6770,10 @@ Puede verlos en el Centro de copias de seguridad.</translation>
         <translation>Borrar (predeterminado)</translation>
     </message>
     <message>
+        <source>2019gov</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Clear (Black)</source>
         <translation>Borrar (beta oscuro)</translation>
     </message>
@@ -6892,7 +6959,7 @@ a
     </message>
     <message>
         <source>Load Plugin Failed,</source>
-        <translation type="unfinished"/>
+        <translation>La carga de un complemento ha fallado. Haga clic </translation>
     </message>
 </context>
 <context>
@@ -6903,7 +6970,7 @@ a
     </message>
     <message>
         <source> to tell us the details.</source>
-        <translation type="unfinished"/>
+        <translation> para ver los comentarios.</translation>
     </message>
     <message>
         <source>loading plugin...</source>
@@ -6911,11 +6978,11 @@ a
     </message>
     <message>
         <source>Contact Customer Service</source>
-        <translation>Contáctenos</translation>
+        <translation>aquí</translation>
     </message>
     <message>
         <source>Load Plugin Failed,</source>
-        <translation type="unfinished"/>
+        <translation>La carga de un complemento ha fallado. Haga clic </translation>
     </message>
 </context>
 <context>
@@ -7165,6 +7232,10 @@ a
         <source>close</source>
         <translation>Cerrar</translation>
     </message>
+    <message>
+        <source>No longer the default display (the docer mall updates the template, picture and other materials from time to time)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KPromeTabMenu</name>
@@ -7371,7 +7442,7 @@ a
     </message>
     <message>
         <source>Your data will be stored in the guest account.</source>
-        <translation type="unfinished"/>
+        <translation>Los datos se almacenarán en la cuenta de invitado.</translation>
     </message>
     <message>
         <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
@@ -7387,15 +7458,15 @@ a
     </message>
     <message>
         <source>The one who uses WPS on the same device may view your data.</source>
-        <translation type="unfinished"/>
+        <translation>Es posible que el usuario que utilice WPS en el mismo dispositivo pueda ver sus datos.</translation>
     </message>
     <message>
         <source>Your data cannot be synchronized on multiple ends.</source>
-        <translation type="unfinished"/>
+        <translation>Los datos no se pueden sincronizar en varios extremos.</translation>
     </message>
     <message>
         <source>We recommend that you sign in first to protect your privacy better.</source>
-        <translation type="unfinished"/>
+        <translation>Le recomendamos que primero inicie la sesión para proteger mejor su privacidad.</translation>
     </message>
     <message>
         <source>Login Now</source>
@@ -7407,7 +7478,7 @@ a
     </message>
     <message>
         <source>You are about to use WPS as a guest</source>
-        <translation type="unfinished"/>
+        <translation>Está a punto de utilizar WPS como invitado</translation>
     </message>
 </context>
 <context>
@@ -7882,6 +7953,10 @@ Compruebe la instalación de Gstreamer y asegúrese de la instalación delibgstr
         <source>New Document</source>
         <translation>Nuevo documento</translation>
     </message>
+    <message>
+        <source>New Document From Template</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KStartupFeatureGuideDlg</name>
@@ -7979,6 +8054,14 @@ Puede que este archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>Kingsoft PDF</source>
         <translation>WPS PDF</translation>
+    </message>
+    <message>
+        <source>WPS flow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS mind</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS et</source>
@@ -8971,6 +9054,13 @@ All Rights Reserved.</source>
     </message>
 </context>
 <context>
+    <name>KCirclePage</name>
+    <message>
+        <source>loading</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QUdpSocket</name>
     <message>
         <source>This platform does not support IPv6</source>
@@ -9058,6 +9148,10 @@ Swiftly create a blank tab of the same type with Command+N</source>
     <message>
         <source>NewTab</source>
         <translation>Nueva ficha</translation>
+    </message>
+    <message>
+        <source>DocerTab</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -9499,6 +9593,25 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KStartupPollingWindow</name>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>All-in-One Office Suite with PDF Editor</source>
+        <translation>paquete de Office todo en uno con un editor de PDF</translation>
+    </message>
+    <message>
+        <source>Get Started</source>
+        <translation>Comenzar</translation>
+    </message>
+    <message>
+        <source>All-in-One Mode</source>
+        <translation>Modo Todo en uno</translation>
+    </message>
+</context>
+<context>
     <name>AudioOutput</name>
     <message>
         <source>&lt;html&gt;The audio playback device &lt;b&gt;%1&lt;/b&gt; does not work.&lt;br/&gt;Falling back to &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</source>
@@ -9574,6 +9687,13 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KPromeTempLoginWidget</name>
+    <message>
+        <source>Login Temporarily</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KLoginStatusTipWidget</name>
     <message>
         <source>Login abnormally</source>
@@ -9619,6 +9739,11 @@ p, li { white-space: pre-wrap; }
         <source>WPS after-sales service</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Scan the code to follow for exclusive services
+Customer service hotline:</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KRateGuideDlg</name>
@@ -9637,12 +9762,27 @@ p, li { white-space: pre-wrap; }
         <source>reload</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Failed to connect to internet,please try again.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
         <translation>Superior</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeStandaloneMoreMenu</name>
+    <message>
+        <source>report</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>feed back</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9857,6 +9997,20 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <message>
         <source>Find templates, check documents, find application and enjoy privileges, all in your office start page.</source>
         <translation>Busque plantillas y aplicaciones, y disfrute de privilegios, todo ello desde la página de inicio.</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeTabWebAppMenu</name>
+    <message>
+        <source>refresh page</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KInfoCenterJsApi</name>
+    <message>
+        <source>Mail Address has been copied to system Clipboard:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
