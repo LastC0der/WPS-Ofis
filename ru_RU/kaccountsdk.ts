@@ -666,6 +666,18 @@ Easy mobile office.</source>
         <translation>Мини-приложение</translation>
     </message>
     <message>
+        <source>Try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check order</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Checking payment...</source>
         <translation>Проверка оплаты...</translation>
     </message>
@@ -875,6 +887,10 @@ Easy mobile office.</source>
     <message>
         <source>Page load timeout,check you network and retry</source>
         <translation>Истекло время ожидания загрузки страницы. Проверьте сетевое подключение и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1178,6 +1194,10 @@ Easy mobile office.</source>
         <translation>Отсутствует имя пользователя</translation>
     </message>
     <message>
+        <source>Online Service User Agreement</source>
+        <translation>Соглашение об обслуживании в Интернете</translation>
+    </message>
+    <message>
         <source>Continue with Twitter</source>
         <translation>Продолжить с Twitter</translation>
     </message>
@@ -1248,6 +1268,10 @@ Easy mobile office.</source>
     <message>
         <source>Register now</source>
         <translation>Зарегистрируйтесь прямо сейчас</translation>
+    </message>
+    <message>
+        <source>I agree to the %1</source>
+        <translation>Я принимаю %1</translation>
     </message>
     <message>
         <source>Login too frequently, please retry after %1 seconds</source>
@@ -1380,6 +1404,104 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KPayStateDlg</name>
+    <message>
+        <source>Please wait a few minutes</source>
+        <translation>Подождите несколько минут</translation>
+    </message>
+    <message>
+        <source>You can download unlimted templates.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment timeout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get your personal customization now.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can use PDF conversion unlimited.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment successful!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have become WPS Premium user.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Checking payment...</source>
+        <translation>Проверка оплаты...</translation>
+    </message>
+    <message>
+        <source>Payment failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneEnhance</name>
+    <message>
+        <source>Cloud storage</source>
+        <translation>Хранилище Cloud</translation>
+    </message>
+    <message>
+        <source>Files repair</source>
+        <translation>Восстановление файлов</translation>
+    </message>
+    <message>
+        <source>Start Your Free Trial</source>
+        <translation>Начать бесплатный пробный период</translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation>PDF в Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Picture to text(OCR)</source>
+        <translation>Изображение в текст (OCR)</translation>
+    </message>
+    <message>
+        <source>Sign in as WPS Standard</source>
+        <translation>Войти как пользователь WPS Standard</translation>
+    </message>
+    <message>
+        <source>Welcome to try our 7-day WPS Premium Trial</source>
+        <translation>Вас приветствует 7-дневная пробная версия WPS Premium</translation>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation>Пользователь, выполнивший вход</translation>
+    </message>
+    <message>
+        <source>Product Key</source>
+        <translation>Ключ продукта</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation>Пользователь Premium</translation>
+    </message>
+    <message>
+        <source>Edit text/images in PDF</source>
+        <translation>Редактирование текста и изображений в PDF</translation>
+    </message>
+    <message>
+        <source>Sign in and unlock 80+ exclusive benefits only available in WPS Premium</source>
+        <translation>Войдите в учетную запись и разблокируйте более 80 эксклюзивных преимуществ, доступных только в WPS Premium</translation>
+    </message>
+</context>
+<context>
     <name>KBindingAccountDialog</name>
     <message>
         <source>Proxy &amp;Setting</source>
@@ -1430,6 +1552,10 @@ Easy mobile office.</source>
     <message>
         <source>Service timeout</source>
         <translation>Время ожидания службы истекло.</translation>
+    </message>
+    <message>
+        <source> or refer to the </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
@@ -1860,6 +1986,10 @@ Easy mobile office.</source>
         <translation>Не удалось выполнить действие &quot;Получить данные пользователей&quot;</translation>
     </message>
     <message>
+        <source>request failed, please retry later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select user failed</source>
         <translation>Не удалось выполнить действие &quot;Выбрать пользователя&quot;</translation>
     </message>
@@ -1962,6 +2092,25 @@ Easy mobile office.</source>
     <message>
         <source>Welcome to use WPS Office</source>
         <translation>Добро пожаловать в WPS Office</translation>
+    </message>
+</context>
+<context>
+    <name>KFeedbackPopupWidget</name>
+    <message>
+        <source>Forgot the password</source>
+        <translation>Не помню пароль</translation>
+    </message>
+    <message>
+        <source>Sign-in failed</source>
+        <translation>Не удалось войти</translation>
+    </message>
+    <message>
+        <source>Other questions or feedback</source>
+        <translation>Другие проблемы или рекомендации</translation>
+    </message>
+    <message>
+        <source>Select your question type:</source>
+        <translation>Выберите тип вопроса.</translation>
     </message>
 </context>
 <context>
