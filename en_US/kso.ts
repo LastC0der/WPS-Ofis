@@ -1508,6 +1508,11 @@ cycle</translation>
         <translation>Nonbreaking Space</translation>
     </message>
     <message>
+        <source>Enter network password to connect to:%1</source>
+        <translation>Connect to %1
+Enter your credentials</translation>
+    </message>
+    <message>
         <source>Load on Demand</source>
         <translation>Load on Demand</translation>
     </message>
@@ -1810,6 +1815,10 @@ To create a PivotTable report, you must use data that is organized as a list wit
 If you are changing the name of a PivotTable field, you must type a new name for the field.</translation>
     </message>
     <message>
+        <source>The XML extension package security settings have been disabled, which will facilitate solution development but allow for the running of unsafe XML extension package components. Do you re-enable the XML extension package security settings?</source>
+        <translation>XML expansion pack security has been disabled. This makes development of the solution easier but allows unsafe XML expansion pack components to run. Are you sure you want to re-enable XML expansion pack security?</translation>
+    </message>
+    <message>
         <source>Indigo</source>
         <translation>Indigo</translation>
     </message>
@@ -1872,6 +1881,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Orange</source>
         <translation>Orange</translation>
+    </message>
+    <message>
+        <source>%1
+Please carefully identify the website to ensure that it is trustworthy and safe, so as not to disturb you by sending irrelevant content, or Because unsafe operations cause you losses. If you trust it, it will have the right to display its web page information in WPS application and access document content and computer resources.</source>
+        <translation>%1
+Please carefully identify the website to ensure that it is trustworthy and safe, so you will not be disturbed by irrelevant content sent by the website, or suffer losses due to unsafe operations. If you trust the website, it will have the right to display its web page information in WPS application and access document content and computer resources.</translation>
     </message>
     <message>
         <source>Paused</source>
@@ -10075,7 +10090,19 @@ Please choose a different file name.</source>
         <translation>More...</translation>
     </message>
     <message>
+        <source>Scan Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Image Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Scanner Automatically Adapt</source>
+        <translation>Scanner Adaptive</translation>
+    </message>
+    <message>
+        <source>Scan Dpi:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10089,6 +10116,10 @@ Please choose a different file name.</source>
     <message>
         <source>Searching...</source>
         <translation>Searching...</translation>
+    </message>
+    <message>
+        <source>Searched</source>
+        <translation>Search complete.</translation>
     </message>
     <message>
         <source>Scanner Setup</source>
@@ -10142,6 +10173,13 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
 </context>
 <context>
+    <name>KWpsAddonAuthDlg</name>
+    <message>
+        <source>NO</source>
+        <translation>No</translation>
+    </message>
+</context>
+<context>
     <name>CheckInDlg</name>
     <message>
         <source>OK</source>
@@ -10174,12 +10212,36 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation>Add</translation>
     </message>
     <message>
+        <source>Label as classified</source>
+        <translation>Mark as Confidential</translation>
+    </message>
+    <message>
+        <source>who to infrom:</source>
+        <translation>Notification Range:</translation>
+    </message>
+    <message>
+        <source>change time:</source>
+        <translation>Changed At:</translation>
+    </message>
+    <message>
+        <source>lift person:</source>
+        <translation>Confidentiality Exempted By:</translation>
+    </message>
+    <message>
+        <source>setup time:</source>
+        <translation>Confidentiality Confirmed At:</translation>
+    </message>
+    <message>
         <source>document name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>type of encryption:</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>issue copy number:</source>
+        <translation>Issued Copies:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10194,16 +10256,64 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>classification setup based on:</source>
+        <translation>Confidentiality Basis:</translation>
+    </message>
+    <message>
         <source>draft time:</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>issue person:</source>
+        <translation>Issued By:</translation>
+    </message>
+    <message>
+        <source>unit name:</source>
+        <translation>Unit Name:</translation>
+    </message>
+    <message>
+        <source>lift time:</source>
+        <translation>Confidentiality Exempted At:</translation>
     </message>
     <message>
         <source>issue time:</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>desc of inform:</source>
+        <translation>Notification Description:</translation>
+    </message>
+    <message>
+        <source>change person:</source>
+        <translation>Changed By:</translation>
+    </message>
+    <message>
+        <source>level of calssification:</source>
+        <translation>Confidentiality Level:</translation>
+    </message>
+    <message>
         <source>drafter:</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>resson:</source>
+        <translation>Issue:</translation>
+    </message>
+    <message>
+        <source>decrypt person:</source>
+        <translation>Canceled By:</translation>
+    </message>
+    <message>
+        <source>issue opinion:</source>
+        <translation>Issuing Comments:</translation>
+    </message>
+    <message>
+        <source>decrypt time:</source>
+        <translation>Canceled At:</translation>
+    </message>
+    <message>
+        <source>setup person:</source>
+        <translation>Confidentiality Confirmed By:</translation>
     </message>
 </context>
 <context>
@@ -10460,6 +10570,10 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation>About WPS Spreadsheets</translation>
     </message>
     <message>
+        <source>Probation period %1 days - Due time %2 </source>
+        <translation>Trial Period: %1 Days - Expiration Date: %2</translation>
+    </message>
+    <message>
         <source>About WPS Presentation(Kingsoft Kylin WPS)</source>
         <translation>About WPS Presentation (Kingsoft Kylin WPS)</translation>
     </message>
@@ -10474,6 +10588,10 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>Part of %1 activation version</source>
         <translation>Part of %1 activation version</translation>
+    </message>
+    <message>
+        <source>%1-%2year%3month%4day Expired</source>
+        <translation>Expired on %1-%2-%3-%4</translation>
     </message>
     <message>
         <source>Part of %1</source>
@@ -10498,6 +10616,10 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>About WPS Writer(Kingsoft Kylin WPS)</source>
         <translation>About WPS Writer (Kingsoft Kylin WPS)</translation>
+    </message>
+    <message>
+        <source>Due time %1</source>
+        <translation>Expiration Date: %1</translation>
     </message>
     <message>
         <source>License information should be based on authorized documents issued by kingsoft office or authorized information displayed in WPS + enterprise management.</source>
@@ -10743,6 +10865,14 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>Dialog</source>
         <translation>Dialog</translation>
+    </message>
+    <message>
+        <source>Watermark protection, the watermark is composed of the name of the enterprise, the outsider and the production time</source>
+        <translation>Watermark protection. The watermark is composed of the enterprise name, the sender of the outward document, and the production time.</translation>
+    </message>
+    <message>
+        <source>Make Ourward Document</source>
+        <translation>Make Outward Document</translation>
     </message>
     <message>
         <source>Document password:</source>
@@ -11057,6 +11187,10 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation>OK</translation>
     </message>
     <message>
+        <source>The network connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
+        <translation>An exception occurred while connecting to the network and the offline password cannot be changed. Check the network and try again later.</translation>
+    </message>
+    <message>
         <source>Import succeeded.</source>
         <translation type="unfinished"/>
     </message>
@@ -11081,6 +11215,14 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Please click broswer button to import</source>
+        <translation>Click the browser button to import</translation>
+    </message>
+    <message>
+        <source>The server connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
+        <translation>An exception occurred while connecting to the server. You cannot perform the %1 operation on the offline password. Try again later.</translation>
+    </message>
+    <message>
         <source>You have enter two different passwords.</source>
         <translation>You have enter two different passwords.</translation>
     </message>
@@ -11089,8 +11231,24 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>setted</source>
+        <translation>Settings</translation>
+    </message>
+    <message>
+        <source>Please enter a new password again</source>
+        <translation>Enter the new password again</translation>
+    </message>
+    <message>
         <source>Please enter current offline password</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Modify password successfully</source>
+        <translation>Password changed successfully.</translation>
+    </message>
+    <message>
+        <source>Offline secret key has been successfully cached to your local computer.</source>
+        <translation>The offline key has been successfully cached to your local computer.</translation>
     </message>
     <message>
         <source>Failed to modify password</source>
@@ -11111,6 +11269,14 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>Current password can&apos;t be empty.</source>
         <translation>Current password cannot be empty.</translation>
+    </message>
+    <message>
+        <source>When there is no network, the encrypted document can be opened by verifying the offline password of the current account.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The original offline password input wrong</source>
+        <translation>The original offline password entered is wrong.</translation>
     </message>
     <message>
         <source>Invalid import path, please readjust the file path.</source>
@@ -11455,6 +11621,18 @@ After expiration, some features will not work properly. Please renew now.</sourc
         <translation>Print</translation>
     </message>
     <message>
+        <source>distribute unit</source>
+        <translation>Issuer</translation>
+    </message>
+    <message>
+        <source>people info</source>
+        <translation>Personnel Info</translation>
+    </message>
+    <message>
+        <source>strictly confidential</source>
+        <translation>Strictly Confidential</translation>
+    </message>
+    <message>
         <source>Browse</source>
         <translation>Browse</translation>
     </message>
@@ -11471,6 +11649,10 @@ After expiration, some features will not work properly. Please renew now.</sourc
         <translation>Cancel</translation>
     </message>
     <message>
+        <source>File level</source>
+        <translation>File Confidentiality Level:</translation>
+    </message>
+    <message>
         <source>public</source>
         <translation type="unfinished"/>
     </message>
@@ -11483,8 +11665,28 @@ After expiration, some features will not work properly. Please renew now.</sourc
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>recieve unit</source>
+        <translation>Recipient Unit</translation>
+    </message>
+    <message>
+        <source>confidential</source>
+        <translation>Confidential</translation>
+    </message>
+    <message>
         <source>ofd file</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>distribution settings</source>
+        <translation>Distribution Settings</translation>
+    </message>
+    <message>
+        <source>sy info setting</source>
+        <translation>Source Info</translation>
+    </message>
+    <message>
+        <source>Knowledgeable range</source>
+        <translation>Notification Range:</translation>
     </message>
 </context>
 <context>
@@ -11605,6 +11807,10 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <message>
         <source>Restore Defaults</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open in read-only</source>
+        <translation>Open as Read-Only</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -11841,8 +12047,16 @@ After expiration, some features will not work properly. Please renew now.</sourc
         <translation>AutoBackup</translation>
     </message>
     <message>
+        <source>printing left %1 copies, the current setting exceeds the limit, please input again</source>
+        <translation>%1 copies left for printing. The current setting exceeds the limit. Please enter again.</translation>
+    </message>
+    <message>
         <source>Recent Fonts</source>
         <translation>Recent Fonts</translation>
+    </message>
+    <message>
+        <source>local font, click available</source>
+        <translation>Click to use the available local fonts</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12109,6 +12323,10 @@ Always take this action.</translation>
         <translation>Baby Blue</translation>
     </message>
     <message>
+        <source>do not has current document&apos;s printing right</source>
+        <translation>You do not have the printing permission for the current file.</translation>
+    </message>
+    <message>
         <source>Share as a link for comments</source>
         <translation type="unfinished"/>
     </message>
@@ -12301,6 +12519,10 @@ Always take this action.</translation>
     <message>
         <source>Write error writing to %1: %2</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>must be 6-16 chars(case-sensitive)</source>
+        <translation>It must contain 6 to 16 characters (case-sensitive).</translation>
     </message>
     <message>
         <source>Manage Duplicates</source>
@@ -13153,6 +13375,10 @@ To select names from the Address book, click the Read or Change button.</transla
         <translation>QuickTime Movie File (*.mov)</translation>
     </message>
     <message>
+        <source>Insert JdeControl</source>
+        <translation>Insert JDE Control</translation>
+    </message>
+    <message>
         <source>Insert Freeform</source>
         <translation>Insert Freeform</translation>
     </message>
@@ -13253,6 +13479,10 @@ Picture</translation>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxHorizontal</comment>
         <translation>Insert Text Box</translation>
+    </message>
+    <message>
+        <source>Unidentifiable sound format.</source>
+        <translation>Unidentifiable audio format.</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -13734,6 +13964,10 @@ Picture</translation>
         <translation>Coloring By Fan Color</translation>
     </message>
     <message>
+        <source>Insert AutoShape</source>
+        <translation>Insert AutoShapes</translation>
+    </message>
+    <message>
         <source>Convert To Smartart Graphic</source>
         <translation>Convert To Smartart Graphic</translation>
     </message>
@@ -14050,6 +14284,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>Clear Picture Frame</translation>
     </message>
     <message>
+        <source>Highlight Color</source>
+        <translation>Highlight</translation>
+    </message>
+    <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
         <translation>Cannot find the specified file. Make sure the path and filename are correct.</translation>
     </message>
@@ -14095,6 +14333,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>Ungroup</translation>
     </message>
     <message>
+        <source>Reset Crop</source>
+        <translation>Reset Shape and Size</translation>
+    </message>
+    <message>
         <source>Change Series</source>
         <translation>Change Series</translation>
     </message>
@@ -14114,6 +14356,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Bring In Front Of Text</source>
         <translation>Bring In Front of Text</translation>
+    </message>
+    <message>
+        <source>Unidentifiable movie format.</source>
+        <translation>Unidentifiable video format.</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -14467,6 +14713,10 @@ Picture</translation>
         <translation>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this document.</translation>
     </message>
     <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
+        <translation>This software can only be used by an individual user for personal purpose only. It cannot be used for commercial purposes such as production, business and others. ||This software includes: The FreeType Project, with its free authorization granted based on the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for the conversion between simplified Chinese and traditional Chinese provided by Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology; Hunspell Spell Checker, and the Hunspell source code is the open source code applicable for multiple licenses: the MPL 1.1, GPL 2.0, and LGPL 2.1; Sqlite3, according to its free commercial license, using its data to store and read open source code.</translation>
+    </message>
+    <message>
         <source>WPS Simulation Error Recovery Help</source>
         <translation>WPS Simulation Error Recovery Help</translation>
     </message>
@@ -14609,6 +14859,10 @@ File: %s
     <message>
         <source>Network transfer failed! Error code: %d</source>
         <translation>Network transfer failed! Error code: %d</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot inert a file into self. (%1)</source>
+        <translation>WPS Writer cannot insert a document into the document itself. (%1)</translation>
     </message>
     <message>
         <source>WPS SpreadSheet</source>
@@ -14841,6 +15095,22 @@ You can click the button to recover files you work on.</translation>
     <message>
         <source>Are you sure you want to remove the user?</source>
         <translation>Are you sure you want to remove the user?</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <translation>%s Errors occurred during the backup operation. Try the following operations: 
+•Check if the backup directory has the write permission, or change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the content to the new file; 
+•Discard the changes to this file.
+(%s)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
@@ -15090,6 +15360,19 @@ Do you want to open it using a different set of credentials?</translation>
         <translation>Restricted Access</translation>
     </message>
     <message>
+        <source>%s Errors occur when backup is running! Please try the  following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <translation>%s Errors occurred during the backup operation. Try the following operations:
+•Check if the backup directory has the write permission, or change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the content to the new file; 
+•Discard the changes to this file.</translation>
+    </message>
+    <message>
         <source>WPS Presentation has encountered a problem and needs to close.</source>
         <translation>WPS Presentation has encountered a problem and needs to close.</translation>
     </message>
@@ -15167,6 +15450,10 @@ This position may not be safe.</translation>
     <message>
         <source>Text Or Property</source>
         <translation>Text Or Property</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
+        <translation>This software includes: The FreeType Project, with its free authorization granted based on the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for the conversion between simplified Chinese and traditional Chinese provided by Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology; Hunspell Spell Checker, and the Hunspell source code is the open source code applicable for multiple licenses: the MPL 1.1, GPL 2.0, and LGPL 2.1; Founder fonts to be used in WPS Office Linux, with the official authorization from Founder; Sqlite3, according to its free commercial license, using its data to store and read open source code.</translation>
     </message>
     <message>
         <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
@@ -15785,6 +16072,10 @@ Login to use it.</translation>
         <source>please input USB Key password</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>verify PIN</source>
+        <translation>Verify PIN</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgFont</name>
@@ -16275,6 +16566,14 @@ Login to use it.</translation>
     <message>
         <source>Narrow Vision</source>
         <translation>Narrow field of view</translation>
+    </message>
+    <message>
+        <source>Right Angle Ae&amp;xs</source>
+        <translation>Right Angle Axes (X)</translation>
+    </message>
+    <message>
+        <source>Auto&amp;scale</source>
+        <translation>Auto Scale (S)</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -17448,6 +17747,10 @@ Check path and filename.</source>
     <message>
         <source>Source file</source>
         <translation>Source file</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found.,,,,,,,,, The linked information will not be updated.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19350,6 +19653,10 @@ Check path and filename.</source>
         <translation>100% Stacked Bar</translation>
     </message>
     <message>
+        <source>Pie of 3d</source>
+        <translation>3-D Pie</translation>
+    </message>
+    <message>
         <source>Volume-Open-High-Low-Close</source>
         <translation>Volume-Open-High-Low-Close</translation>
     </message>
@@ -19444,6 +19751,10 @@ Check path and filename.</source>
     <message>
         <source>Stacked Column</source>
         <translation>Stacked Column</translation>
+    </message>
+    <message>
+        <source>DsOnlineChart</source>
+        <translation>Animate Chart</translation>
     </message>
     <message>
         <source>OnlineSmartChart</source>
@@ -22314,6 +22625,10 @@ This file may be renamed, deleted or moved.</translation>
         <translation>Stacked Area - Clustered Column</translation>
     </message>
     <message>
+        <source>3DPie</source>
+        <translation>3-D Pie</translation>
+    </message>
+    <message>
         <source>Combo</source>
         <translation>Combo</translation>
     </message>
@@ -22324,6 +22639,14 @@ This file may be renamed, deleted or moved.</translation>
     <message>
         <source>Stock</source>
         <translation>Stock</translation>
+    </message>
+    <message>
+        <source>2-D Area</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Line</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open-High-Low-Close</source>
@@ -22374,6 +22697,18 @@ This file may be renamed, deleted or moved.</translation>
         <translation>Bubble</translation>
     </message>
     <message>
+        <source>2-D Column</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2-D Pie</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Bar Of Pie</source>
         <translation>Bar of Pie</translation>
     </message>
@@ -22384,6 +22719,10 @@ This file may be renamed, deleted or moved.</translation>
     <message>
         <source>Volume-High-Low-Close</source>
         <translation>Volume-High-Low-Close</translation>
+    </message>
+    <message>
+        <source>3-D Pie</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Doughnut</source>
@@ -23222,6 +23561,10 @@ Possible reasons:
         <translation>WPS Office Outward Document</translation>
     </message>
     <message>
+        <source>WPS Writer Official Template</source>
+        <translation>WPS Official Document Template</translation>
+    </message>
+    <message>
         <source>%1 outward document  applicant : %2  approver : %3</source>
         <translation>%1 Outward Document  Applicant : %2  Approver : %3</translation>
     </message>
@@ -23365,6 +23708,10 @@ Please enter another name.</translation>
         <translation>Microsoft Word Document</translation>
     </message>
     <message>
+        <source>WPS Writer Official Document</source>
+        <translation>WPS Official Document</translation>
+    </message>
+    <message>
         <source>XML Files</source>
         <translation>XML Files</translation>
     </message>
@@ -23446,6 +23793,13 @@ Please enter another name.</translation>
     <message>
         <source>Privacy Agreement</source>
         <translation>Privacy Policy</translation>
+    </message>
+</context>
+<context>
+    <name>KxImageToPDFOneCommand</name>
+    <message>
+        <source>pic</source>
+        <translation>Image-only Version</translation>
     </message>
 </context>
 <context>
@@ -23582,6 +23936,10 @@ Please enter another name.</translation>
     <message>
         <source>Login</source>
         <translation>Sign in</translation>
+    </message>
+    <message>
+        <source>The network connection has been restored to normal. To ensure the normal use of the function, please log in to the account %1 before encrypting the document.</source>
+        <translation>The network connection has been restored to normal. To ensure the normal use of the feature, sign in with the account %1 before encrypting the document.</translation>
     </message>
 </context>
 <context>
@@ -24324,6 +24682,10 @@ Please verify the correct file name was given.</source>
         <translation>Open</translation>
     </message>
     <message>
+        <source>If WPS client is already running, you need to restart it to take effect.</source>
+        <translation>If the WPS client is already opened, you need to restart WPS to take effect.</translation>
+    </message>
+    <message>
         <source>Allow</source>
         <translation>&amp;Allow</translation>
     </message>
@@ -24338,6 +24700,14 @@ Please verify the correct file name was given.</source>
     <message>
         <source>Uninstall</source>
         <translation>Uninstall</translation>
+    </message>
+    <message>
+        <source>Confirm that the add-on &quot;%1&quot; is allowed to run in the WPS client?</source>
+        <translation>Confirm to allow the add-in &quot;%1&quot; to run in the WPS client?</translation>
+    </message>
+    <message>
+        <source>Confirm that &quot;%1&quot; delete WPS Addon &quot;%2&quot; is allowed?</source>
+        <translation>Confirm to allow &quot;%1&quot; to delete WPS add-in &quot;%2&quot;?</translation>
     </message>
     <message>
         <source>Unknown Origin</source>
@@ -24364,12 +24734,28 @@ Please verify the correct file name was given.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>F4Repeat</source>
+        <translation>Redo</translation>
+    </message>
+    <message>
         <source>Save as</source>
         <translation>Save as</translation>
     </message>
     <message>
+        <source>Please make sure that the site is trusted, it has the right to display its web page information in WPS and access your document contentand computer resources.</source>
+        <translation>Make sure that the site is trusted and it has the right to display its web page information in WPS and access your document content and computer resources.</translation>
+    </message>
+    <message>
         <source>Allowed this time</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Confirm to add WPS Addon &quot;%1&quot;?</source>
+        <translation>Confirm to add the WPS add-in &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <source>This add-on is a third-party program, can add new features to WPS, But it has access to your document content, computer resources.</source>
+        <translation>This add-in is a third-party program that can add new features to WPS, but it has access to your document content and computer resources.</translation>
     </message>
 </context>
 <context>
@@ -24444,6 +24830,10 @@ Please verify the correct file name was given.</source>
     <message>
         <source>Comment:</source>
         <translation>Comment:</translation>
+    </message>
+    <message>
+        <source>&amp;Fast Print</source>
+        <translation>Fast Print (&amp;F)</translation>
     </message>
     <message>
         <source>Printer</source>
@@ -24787,12 +25177,88 @@ Please verify the correct file name was given.</source>
         <translation>Tips</translation>
     </message>
     <message>
+        <source>You cannot issue this document because you are not the issuer. Contact your administrator to solve the problem.</source>
+        <translation>You cannot issue this document because you are not the issuer. Contact the administrator to issue the document.</translation>
+    </message>
+    <message>
+        <source>confirm decrypt classification success!</source>
+        <translation>Reviewed successfully. The confidentiality is canceled.</translation>
+    </message>
+    <message>
+        <source>confirm lift classification success!</source>
+        <translation>Reviewed successfully. The document is exempted from confidentiality.</translation>
+    </message>
+    <message>
         <source>Cannot issue</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>withdraw issued doc success!</source>
+        <translation>You have successfully recalled the issued document, and the document is restored to the confirmed confidential state.</translation>
+    </message>
+    <message>
+        <source>submit change classification success!</source>
+        <translation>Submitted to relevant personnel for change review.</translation>
+    </message>
+    <message>
+        <source>Cannot setup classification level</source>
+        <translation>Failed to confirm the confidentiality level.</translation>
+    </message>
+    <message>
+        <source>withdraw issue success</source>
+        <translation>The issued document is recalled successfully.</translation>
+    </message>
+    <message>
+        <source>You cannot lift the classification for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
+        <translation>You cannot cancel the confidentiality level for this document because you are not the drafter or the person in charge. Contact the administrator to cancel the confidentiality level.</translation>
+    </message>
+    <message>
+        <source>You cannot change the classification level for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
+        <translation>You cannot change the confidentiality level for this document because you are not the drafter or the person in charge. Contact the administrator to change the confidentiality level.</translation>
+    </message>
+    <message>
+        <source>label classification success!</source>
+        <translation>The document has been marked as confidential. Submit it to relevant personnel for confidentiality confirmation review.</translation>
+    </message>
+    <message>
         <source>Cannot lift classification</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You cannot setup the classification level for this document because you are not the person responsible. You can contact your administrator for setting.</source>
+        <translation>You cannot confirm the confidentiality level for this document because you are not the person in charge. Contact the administrator to confirm the confidentiality level.</translation>
+    </message>
+    <message>
+        <source>signed classification success!</source>
+        <translation>Reviewed successfully. The document is already issued.</translation>
+    </message>
+    <message>
+        <source>Cannot remove classification</source>
+        <translation>Failed to exempt the document from confidentiality.</translation>
+    </message>
+    <message>
+        <source>this document has applying %1, can not operate %2.</source>
+        <translation>%1 applied by the current document has not been reviewed. Perform %2 operations after review.</translation>
+    </message>
+    <message>
+        <source>Cannot withdraw issued</source>
+        <translation>Failed to issue the recalled document.</translation>
+    </message>
+    <message>
+        <source>setup classification success!</source>
+        <translation>Reviewed successfully. The confidentiality level of the document is confirmed.</translation>
+    </message>
+    <message>
+        <source>You cannot label the classification level for this document because you are not the drafter. You can contact your administrator for labeling.</source>
+        <translation>You cannot set the confidentiality level for this document because you are not the drafter. Contact the administrator to set the confidentiality level.</translation>
+    </message>
+    <message>
+        <source>You cannot remove the classification for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
+        <translation>You cannot exempt the document from confidentiality because you are not the drafter or the person in charge. Contact the administrator to exempt the document from confidentiality.</translation>
+    </message>
+    <message>
+        <source>submit lift classification success!</source>
+        <translation>Submitted to relevant personnel for confidentiality exemption review.</translation>
     </message>
     <message>
         <source>Cannot change classification level</source>
@@ -24801,6 +25267,18 @@ Please verify the correct file name was given.</source>
     <message>
         <source>You cannot withdraw issue because you are not the issuer.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>confirm change classification success!</source>
+        <translation>Reviewed successfully. The confidentiality level is changed.</translation>
+    </message>
+    <message>
+        <source>Cannot label classification level</source>
+        <translation>Failed to mark it as confidential.</translation>
+    </message>
+    <message>
+        <source>submit decrypt classification success!</source>
+        <translation>Submitted to relevant personnel for cancellation review.</translation>
     </message>
 </context>
 <context>
@@ -25455,6 +25933,10 @@ Average</translation>
     <message>
         <source>Customize the Quick Access Toolbar</source>
         <translation>Customize the Quick Access Toolbar</translation>
+    </message>
+    <message>
+        <source>Macro name</source>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -26492,10 +26974,65 @@ Average</translation>
     </message>
 </context>
 <context>
+    <name>KxOutwardDocTableModelV2</name>
+    <message>
+        <source>Made</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation>Time</translation>
+    </message>
+    <message>
+        <source>nothing</source>
+        <translation>None</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Status</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Password</translation>
+    </message>
+    <message>
+        <source>ToBeReviewed</source>
+        <translation>Pending Review</translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation>Watermark</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>Disapproved</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation>Unknown</translation>
+    </message>
+    <message>
+        <source>Reviewed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expired</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Protect Type</source>
+        <translation>Protection Type</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgChooseOutwardDocV2</name>
     <message>
         <source>Make</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>=+new</source>
+        <translation>=+New</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -26947,6 +27484,10 @@ Average</translation>
         <translation>Open</translation>
     </message>
     <message>
+        <source>Cannot open this object.</source>
+        <translation>No apps that support opening the current object are found.</translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
@@ -26957,6 +27498,14 @@ Average</translation>
     <message>
         <source>Warning</source>
         <translation>Warning</translation>
+    </message>
+    <message>
+        <source>WPS Office cannot open this object. Link to this object might be invalid or changed.</source>
+        <translation>WPS Office cannot open the current object. Link to this object might be invalid or changed.</translation>
+    </message>
+    <message>
+        <source>WPS Office cannot open this object. You can open it on your computer with other apps. To save your changes, please insert it after changing it with other apps.</source>
+        <translation>WPS Office does not support opening the current object. You can open it on your computer with third-party apps. To save the changes made to the object, insert the object again after changing it using third-party apps.</translation>
     </message>
 </context>
 <context>
@@ -27382,6 +27931,14 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
         <translation>Time</translation>
     </message>
     <message>
+        <source>Level of classification</source>
+        <translation>Confidentiality Level</translation>
+    </message>
+    <message>
+        <source>People</source>
+        <translation>Personnel</translation>
+    </message>
+    <message>
         <source>Status</source>
         <translation>Status</translation>
     </message>
@@ -27392,41 +27949,6 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
     <message>
         <source>Operation</source>
         <translation>Operation</translation>
-    </message>
-</context>
-<context>
-    <name>KxOutwardDocTableModelV2</name>
-    <message>
-        <source>Time</source>
-        <translation>Time</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Status</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation>Password</translation>
-    </message>
-    <message>
-        <source>Watermark</source>
-        <translation>Watermark</translation>
-    </message>
-    <message>
-        <source>Rejected</source>
-        <translation>Disapproved</translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation>Unknown</translation>
-    </message>
-    <message>
-        <source>Expired</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Protect Type</source>
-        <translation>Protection Type</translation>
     </message>
 </context>
 <context>
@@ -27556,6 +28078,10 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
         <translation>Both local and Cloud backup have been modified</translation>
     </message>
     <message>
+        <source>This file has been opened as read-only. Enable edit?</source>
+        <translation>This file is currently in read-only mode. Enable edit?</translation>
+    </message>
+    <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
         <translation>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</translation>
     </message>
@@ -27570,6 +28096,14 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
     <message>
         <source>The document which was not saved upon last exit has now been restored(If you do not need the restored file, close it directly and reopen the original document).</source>
         <translation>The document which was not saved the last time,now has been restored</translation>
+    </message>
+    <message>
+        <source>check key word</source>
+        <translation>View Details</translation>
+    </message>
+    <message>
+        <source>You can only edit under read-only mode since other users are editing this file.</source>
+        <translation>You can only edit under read-only mode since other users are editing this document.</translation>
     </message>
     <message>
         <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.</source>
@@ -27652,8 +28186,16 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
         <translation>The VBA library has not been installed.If you want to start the macro function,</translation>
     </message>
     <message>
+        <source>find some keywords</source>
+        <translation>The file has been checked for confidentiality level. Result: a total of</translation>
+    </message>
+    <message>
         <source>There was an error in the backup replay process, and some backup content may have been lost.</source>
         <translation>An error occurred while resuming the backup. Some backup content may be lost.</translation>
+    </message>
+    <message>
+        <source>To change this file from server, please check out first.</source>
+        <translation>To modify this server document, you must check it out.</translation>
     </message>
     <message>
         <source>checkout</source>
@@ -27845,8 +28387,16 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
         <translation>Tips</translation>
     </message>
     <message>
+        <source>Are you sure to withdraw issue?</source>
+        <translation>After the issued document is recalled, it will be restored to the confirmed confidential state. Are you sure you want to recall the issued document?</translation>
+    </message>
+    <message>
         <source>can not operate</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>this document has applying %1, can not withdraw issue.</source>
+        <translation>%1 applied by this document is not reviewed. Review it before you recall issued documents or perform related operations.</translation>
     </message>
 </context>
 <context>
@@ -27984,8 +28534,28 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
         <translation>Password Protection</translation>
     </message>
     <message>
+        <source>SupportType_Office</source>
+        <translation>Supported by Office Software</translation>
+    </message>
+    <message>
+        <source>not support yet</source>
+        <translation>Not supported</translation>
+    </message>
+    <message>
         <source>OutwardType_WaterMark</source>
         <translation>Watermark Protection</translation>
+    </message>
+    <message>
+        <source>OutwardType_PasswordAndWatermark</source>
+        <translation>Password &amp; Watermark Protection</translation>
+    </message>
+    <message>
+        <source>SupportType_Wps</source>
+        <translation>Supported by WPS Security Version Only</translation>
+    </message>
+    <message>
+        <source>NoProtect</source>
+        <translation>None</translation>
     </message>
     <message>
         <source>description</source>
@@ -27998,6 +28568,14 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
     <message>
         <source>open password:</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>watermark:</source>
+        <translation>Show Watermark:</translation>
+    </message>
+    <message>
+        <source>Support Type</source>
+        <translation>Supported Types</translation>
     </message>
     <message>
         <source>Authorize Id</source>
@@ -28052,6 +28630,56 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>%1: Remote closed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxGalleryFontComboBox</name>
+    <message>
+        <source>Hide theme fonts</source>
+        <translation>Click to hide theme fonts</translation>
+    </message>
+    <message>
+        <source> (Body)</source>
+        <translation> (Body)</translation>
+    </message>
+    <message>
+        <source> (Headings)</source>
+        <translation> (Headings)</translation>
+    </message>
+    <message>
+        <source>Show theme fonts</source>
+        <translation>Click to show theme fonts</translation>
+    </message>
+    <message>
+        <source>Show theme Fonts</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KXBlackTipWidget</name>
+    <message>
+        <source>%1Not again for this file%2</source>
+        <translation>%1Don&apos;t remind me again in this document%2</translation>
+    </message>
+    <message>
+        <source>Takes too long to open? Slim the file to clear invalid data.</source>
+        <translation>Files take forever to open? We recommend that you slim the file, which will not affect data or formulas.</translation>
+    </message>
+    <message>
+        <source>Feeling slow? Clear invalid data with File Slimming feature.</source>
+        <translation>Slow operations? Slow to save files? We recommend that you slim the file, which will not affect data or formulas.</translation>
+    </message>
+    <message>
+        <source>This notice will stop popping out. To use File Slimming, find it in Special Features.</source>
+        <translation>Don&apos;t remind me again in this document. To use File Slimming, find it in Special Features.</translation>
+    </message>
+    <message>
+        <source>Not again for this file</source>
+        <translation>Don&apos;t remind me again in this document</translation>
+    </message>
+    <message>
+        <source>Slim list</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -30021,6 +30649,10 @@ OUTLINE</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly. </source>
+        <translation>Having Caps Lock on may cause you to enter your password incorrectly.</translation>
+    </message>
+    <message>
         <source>You cannot copy from the password.</source>
         <translation type="unfinished"/>
     </message>
@@ -30848,6 +31480,268 @@ OUTLINE</translation>
     </message>
 </context>
 <context>
+    <name>KxChartTypeItem</name>
+    <message>
+        <source>Use this chart type to:
+• Show values relative to a center point.
+
+Use it when:
+• Categories are not directly comparable.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the relationship of parts to a whole over time or categories.
+• Highlight the magnitude of change over time.
+• Draw attention to the total value across a trend.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of values: Volume, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The order of categories is not important.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show how parts of a whole change over time.
+
+Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
+        <translation>Use this chart type to:
+• Show how parts of a whole change over time.
+
+Consider using a stacked area chart because stacked line charts can be hard to read.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentages that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• Category order is important.
+• To highlight the magnitude of change over time.</source>
+        <translation>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• To highlight the magnitude of change over time.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of price values: Open, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents a set of x, y pairs based on a formula.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it when:
+• Numbers equal 100%.
+• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• The range of values in the chart varies widely.
+• You have mixed types of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• The data represents separate measurements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least three sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• You have a third value that can be used to determine the relative size of the bubble.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole across categories.
+• Show how parts of a whole change over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• You have mixed types of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentage that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are few data points.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Show the change to the percentage that each value contributes over time.
+
+Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are many data points.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have three series of price values: High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The chart shows duration.
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole.
+• Show how parts of a whole change over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have five series of values: Volume, Open, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents a set of x, y pairs based on a formula.</translation>
+    </message>
+</context>
+<context>
     <name>QProcess</name>
     <message>
         <source>Error writing to process</source>
@@ -31175,6 +32069,10 @@ Become a VIP for unlimited use of this feature.</source>
     <message>
         <source>Login</source>
         <translation>Sign in</translation>
+    </message>
+    <message>
+        <source>Custom toolbar needs to login.</source>
+        <translation>The current operation is only valid on this computer. It can be synchronized to other devices after you sign in.</translation>
     </message>
 </context>
 <context>
@@ -31656,6 +32554,22 @@ Document</translation>
         <source>Retry</source>
         <translation>Retry</translation>
     </message>
+    <message>
+        <source>Ofd preview is being generated.</source>
+        <translation>Generating preview...</translation>
+    </message>
+    <message>
+        <source>Preview Ofd Failed! Please Click Retry.</source>
+        <translation>Failed to generate a preview. Click to try again.</translation>
+    </message>
+    <message>
+        <source>%1 Done</source>
+        <translation>%1 pages done</translation>
+    </message>
+    <message>
+        <source>Cancel Preview</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlglineSpacing</name>
@@ -31981,6 +32895,10 @@ to
         <translation>Retry</translation>
     </message>
     <message>
+        <source>loaded failed</source>
+        <translation>Loading failed. Click to try again.</translation>
+    </message>
+    <message>
         <source>Online resource deployment failed</source>
         <translation>Failed to deploy online resources.</translation>
     </message>
@@ -32081,8 +32999,16 @@ to
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>server not %1, please try later</source>
+        <translation>The service is not %1. Please try again later.</translation>
+    </message>
+    <message>
         <source>cert not valid yet</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>insert USB Key success</source>
+        <translation>USB drive inserted successfully.</translation>
     </message>
     <message>
         <source>USB Key will be locked when the remaining count is zero.</source>
@@ -32093,12 +33019,32 @@ to
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>validate cert Fail</source>
+        <translation>Certificate validation failed.</translation>
+    </message>
+    <message>
+        <source>cert holded</source>
+        <translation>The certificate has been frozen. Contact the administrator.</translation>
+    </message>
+    <message>
         <source>unknow error, please make sure install correctly and try later</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>startup</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB Key has been locked, need deblocking, please contact the manager</source>
+        <translation>The USB drive is locked and needs to be unlocked before it can be used. Please contact the administrator.</translation>
+    </message>
+    <message>
+        <source>cert not trust</source>
+        <translation>The certificate is not trusted.</translation>
+    </message>
+    <message>
+        <source>your PC is linking more than one USB Key</source>
+        <translation>Your PC is connected with multiple USB drives.</translation>
     </message>
     <message>
         <source>please insert the USB Key</source>
@@ -32111,6 +33057,10 @@ to
     <message>
         <source>Invalid password, please retry. remaining count:[%1]</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>cert has expired, please contact the manager to update the cert</source>
+        <translation>The certificate has expired. Contact the administrator to update the certificate.</translation>
     </message>
 </context>
 <context>
@@ -32255,6 +33205,25 @@ to
     </message>
 </context>
 <context>
+    <name>KxPermissionLoginTipDlg</name>
+    <message>
+        <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline verification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
+        <translation>An exception occurred while connecting to the network and the encrypted document cannot be operated. Check the network and try again later.</translation>
+    </message>
+    <message>
+        <source>Abnormal network connection</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QSocks5SocketEngine</name>
     <message>
         <source>Network operation timed out</source>
@@ -32395,6 +33364,12 @@ Continue printing?</translation>
         <translation>All Files(*.*)|*.*|PDF Files(*.pdf)|*.pdf|Postscript Files(*.ps)|*.ps</translation>
     </message>
     <message>
+        <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
+If the problem still exists, you can print a test page by right-clicking the printer icon in system and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
+        <translation>WPS Office cannot start the print job. Check if the printer is turned on and online.
+If the problem still exists, you can print a test page by setting the printer properties in the system to check whether your printer has been installed correctly.</translation>
+    </message>
+    <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <translation>Unable to find the cups library, make sure you have installed!</translation>
     </message>
@@ -32441,6 +33416,49 @@ Continue printing?</translation>
     <message>
         <source>close</source>
         <translation>Close</translation>
+    </message>
+</context>
+<context>
+    <name>KxGetVbaRightsDialog</name>
+    <message>
+        <source>upgrated, refresh</source>
+        <translation>Upgraded successfully. Refresh</translation>
+    </message>
+    <message>
+        <source>Get VBA Permission</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dialog</source>
+        <translation>Dialog</translation>
+    </message>
+    <message>
+        <source>I know</source>
+        <translation>Got it</translation>
+    </message>
+    <message>
+        <source>How to Get</source>
+        <translation>How to Enable Macros</translation>
+    </message>
+    <message>
+        <source>upgrade package</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The current package %1 does not support macro. After upgrading the package (to Commercial / Advanced Commercial), you can obtain the installation permission of VBA.</source>
+        <translation>The current package %1 does not support enabling macros. After upgrading the package (to Commercial/Advanced Commercial), you can obtain the installation permission of VBA support library.</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation>PushButton</translation>
+    </message>
+    <message>
+        <source>The current package %1 does not support macro. Please contact the super administrator %2 to upgrade the packagefor obtaining the installation permission of VBA.</source>
+        <translation>The current package %1 does not support enabling macros. Contact the enterprise&apos;s super administrator %2 to upgrade the package and obtain the installation permission of VBA support library.</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Text Label</translation>
     </message>
 </context>
 <context>
@@ -32719,6 +33737,10 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>style</source>
         <translation>Style</translation>
+    </message>
+    <message>
+        <source>System Style</source>
+        <translation>Built-in Style</translation>
     </message>
     <message>
         <source>More</source>
@@ -33115,6 +34137,10 @@ Please check your system settings and ensure that the temporary directory under 
         <translation>Offline management</translation>
     </message>
     <message>
+        <source>Import Cache offline key in this computer</source>
+        <translation>Import offline key file to this computer</translation>
+    </message>
+    <message>
         <source>&amp;Password</source>
         <translation>Manage Offline &amp;Password</translation>
     </message>
@@ -33368,6 +34394,14 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Blank Document</source>
         <translation>Blank Document</translation>
+    </message>
+    <message>
+        <source>Excel Template Macro Enabled</source>
+        <translation>Excel Template with Macro Enabled (*.xltm)</translation>
+    </message>
+    <message>
+        <source>PowerPoint Template Macro Enabled</source>
+        <translation>PowerPoint Template with Macro Enabled (*.potm)</translation>
     </message>
     <message>
         <source>PowerPoint Template</source>
@@ -34431,6 +35465,25 @@ Please reinstall WPS Office!</translation>
     </message>
 </context>
 <context>
+    <name>KxAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation>Pending Activation</translation>
+    </message>
+    <message>
+        <source>%1-day used</source>
+        <translation>%1 days left</translation>
+    </message>
+    <message>
+        <source>%1-day trial</source>
+        <translation>Trial days left: %1</translation>
+    </message>
+    <message>
+        <source>trial unlimited</source>
+        <translation>Trial Mode</translation>
+    </message>
+</context>
+<context>
     <name>KUserCenterMenuCommand</name>
     <message>
         <source>You have signed in WPS Office.</source>
@@ -34912,6 +35965,17 @@ The settings will take effect after restarting WPS Office.</translation>
     </message>
 </context>
 <context>
+    <name>KxPluginPathDlg</name>
+    <message>
+        <source>If you cancel this download, to protect data, the file will not open. Sure to cancel?</source>
+        <translation>If you cancel this download, to protect data, the file will not open. Are you sure you want to cancel the download?</translation>
+    </message>
+    <message>
+        <source>Download Moji plugin failed. The file will be closed to prent data loss. Please check your network and retry download.</source>
+        <translation>Failed to download the ink plug-in. The file will be closed to prevent data loss. Check your network and try to download it again.</translation>
+    </message>
+</context>
+<context>
     <name>QMainWindow</name>
     <message>
         <source>Next Document</source>
@@ -35250,6 +36314,10 @@ Please check your network connection.</translation>
         <source>Task window location</source>
         <translation>Task window location</translation>
     </message>
+    <message>
+        <source>online taskpane</source>
+        <translation>Taskpane</translation>
+    </message>
 </context>
 <context>
     <name>kxServiceExpireTipCommand</name>
@@ -35334,6 +36402,21 @@ Please check your network connection.</translation>
     <message>
         <source>unexpected end</source>
         <translation>Unexpected end</translation>
+    </message>
+</context>
+<context>
+    <name>KPPDOptionsEditor</name>
+    <message>
+        <source>There are conflicting options.The changes can only be applied after the conflict has been resolved.</source>
+        <translation>There are conflicting options. All conflicts must be resolved before your changes can be applied.</translation>
+    </message>
+    <message>
+        <source>Property</source>
+        <translation>Property</translation>
+    </message>
+    <message>
+        <source>This option has conflict with other option.</source>
+        <translation>This option has conflict with other options.</translation>
     </message>
 </context>
 <context>
@@ -35529,6 +36612,17 @@ Please check your network connection.</translation>
     </message>
 </context>
 <context>
+    <name>KxHistoryDisplayDlg</name>
+    <message>
+        <source>View classification</source>
+        <translation>View Confidentiality</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>Document Name:</translation>
+    </message>
+</context>
+<context>
     <name>QHttpSocketEngine</name>
     <message>
         <source>Proxy connection refused</source>
@@ -35647,6 +36741,10 @@ Please check your network connection.</translation>
         <translation>User name:</translation>
     </message>
     <message>
+        <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
+        <translation>Failed to import the offline key, because you have no offline permission for any document.</translation>
+    </message>
+    <message>
         <source>User account:</source>
         <translation>User account:</translation>
     </message>
@@ -35685,6 +36783,14 @@ Please check your network connection.</translation>
     <message>
         <source>User department:</source>
         <translation>User department:</translation>
+    </message>
+    <message>
+        <source>Import offline data successfully.</source>
+        <translation>Offline key imported successfully.</translation>
+    </message>
+    <message>
+        <source>The file format is incorrect or the file is corrupt and the file cannot be imported. Please contact the administrator.</source>
+        <translation>The file cannot be imported because the file format is incorrect or the file is corrupt. Contact the administrator.</translation>
     </message>
 </context>
 <context>
@@ -36320,6 +37426,10 @@ This file may be renamed, deleted or moved.</translation>
         <source>Please enter the document password again</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>The current password cannot be empty</source>
+        <translation>The current password cannot be empty.</translation>
+    </message>
 </context>
 <context>
     <name>KxScreenSaverCenterButton</name>
@@ -36493,6 +37603,33 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Change Icon</source>
         <translation>Change Icon</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineManagement</name>
+    <message>
+        <source>The offline account %1 is inconsistent with the login account %2, please use the login account to verify</source>
+        <translation>The offline account %1 is inconsistent with the signed-in account %2. Use the signed-in account for verification.</translation>
+    </message>
+    <message>
+        <source>Please close all security document before log out.</source>
+        <translation>Please close all security documents before signing out.</translation>
+    </message>
+    <message>
+        <source>Verification Exception Hint</source>
+        <translation>Verification Exception Alert</translation>
+    </message>
+    <message>
+        <source>Offline verfication</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
+        <translation>The signed-in account %1 is inconsistent with the offline account %2. Use the offline account for verification.</translation>
+    </message>
+    <message>
+        <source>Login Exception Hint</source>
+        <translation>Sign-in Exception Alert</translation>
     </message>
 </context>
 <context>
@@ -36726,6 +37863,25 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
 </context>
 <context>
+    <name>KxEtCollectionFormWidget</name>
+    <message>
+        <source>Immediate experience</source>
+        <translation>Experience it now</translation>
+    </message>
+    <message>
+        <source>Support multi-person filling, mobile submission, automatic data aggregation</source>
+        <translation>Support multi-person filling, submission through mobile phones, and automatic data aggregation</translation>
+    </message>
+    <message>
+        <source>View brief</source>
+        <translation>View Introduction</translation>
+    </message>
+    <message>
+        <source>%1Not remind%2</source>
+        <translation>%1Do not remind me again%2</translation>
+    </message>
+</context>
+<context>
     <name>QUndoModel</name>
     <message>
         <source>&lt;empty&gt;</source>
@@ -36736,21 +37892,6 @@ Become a VIP for unlimited use of this feature.</source>
     <name>QNetworkAccessCacheBackend</name>
     <message>
         <source>Error opening %1</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxGalleryFontComboBox</name>
-    <message>
-        <source> (Body)</source>
-        <translation> (Body)</translation>
-    </message>
-    <message>
-        <source> (Headings)</source>
-        <translation> (Headings)</translation>
-    </message>
-    <message>
-        <source>Show theme Fonts</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -36822,33 +37963,6 @@ Become a VIP for unlimited use of this feature.</source>
     <message>
         <source>&amp;Preview</source>
         <translation>&amp;Preview</translation>
-    </message>
-</context>
-<context>
-    <name>KxGetVbaRightsDialog</name>
-    <message>
-        <source>Get VBA Permission</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>I know</source>
-        <translation>Got it</translation>
-    </message>
-    <message>
-        <source>upgrade package</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation>PushButton</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Text Label</translation>
     </message>
 </context>
 <context>
@@ -37140,6 +38254,17 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
 </context>
 <context>
+    <name>KxMakeOutwardDocEntranceCommand</name>
+    <message>
+        <source>You don&apos;t have outgoing permissions for this document(docid: %1). Please contact the administrator.</source>
+        <translation>You do not have the permission to issue the outward document (document ID: %1). Contact the administrator.</translation>
+    </message>
+    <message>
+        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
+        <translation>You have no outward application of file with watermark protection, or your last application has expired.</translation>
+    </message>
+</context>
+<context>
     <name>KxMakeOutwardDocCommand</name>
     <message>
         <source>Current document has unsaved changes, please make outward document after saving changes.</source>
@@ -37154,8 +38279,28 @@ Become a VIP for unlimited use of this feature.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>This document can not make outward document</source>
+        <translation>This document cannot be used to make an outward document.</translation>
+    </message>
+    <message>
         <source>Open file</source>
         <translation>Open file</translation>
+    </message>
+    <message>
+        <source>Can not make outward document</source>
+        <translation>Failed to make an outward document.</translation>
+    </message>
+    <message>
+        <source>The outgoing document has been made successfully.</source>
+        <translation>Outward document made successfully.</translation>
+    </message>
+    <message>
+        <source>You haven&apos;t makeoutward permission of document. If you want to make outward document, please contact the administrator.</source>
+        <translation>You do not have the permission to issue an outward document. Contact the administrator to issue an outward document.</translation>
+    </message>
+    <message>
+        <source>Your document is in the form of attachment, unable to make outward document.</source>
+        <translation>Your document is in the form of attachment and cannot be used to make an outward document.</translation>
     </message>
 </context>
 <context>
@@ -37248,6 +38393,33 @@ Please check your network and firewall configuration.</translation>
     <message>
         <source>CHART OPTIONS</source>
         <translation>CHART OPTIONS</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionLoginTipDlgV2</name>
+    <message>
+        <source>This document has private document protection turned on, log in to the document owner account or authorized account to open the document.</source>
+        <translation>This document has enabled private document protection. Sign in with the document owner account or authorized account to open the document.</translation>
+    </message>
+    <message>
+        <source>Login Account</source>
+        <translation>Login Account</translation>
+    </message>
+    <message>
+        <source>This document is protected by account access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>turned on private document protection.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The document was</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Log in the authorized account to open the document.</source>
+        <translation>Sign in with this account or the authorized account to open the document.</translation>
     </message>
 </context>
 <context>
@@ -37373,13 +38545,6 @@ Please check your network and firewall configuration.</translation>
     </message>
 </context>
 <context>
-    <name>KxHistoryDisplayDlg</name>
-    <message>
-        <source>Document Name:</source>
-        <translation>Document Name:</translation>
-    </message>
-</context>
-<context>
     <name>KDateEdit</name>
     <message>
         <source>%1-%2-%3</source>
@@ -37456,17 +38621,6 @@ Login to use it.</translation>
     <message>
         <source>Username:</source>
         <translation>Username:</translation>
-    </message>
-</context>
-<context>
-    <name>KxOfflineManagement</name>
-    <message>
-        <source>Please close all security document before log out.</source>
-        <translation>Please close all security documents before signing out.</translation>
-    </message>
-    <message>
-        <source>Offline verfication</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37637,17 +38791,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxPermissionLoginTipDlg</name>
-    <message>
-        <source>Offline verification</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Abnormal network connection</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxServerDownTipDlg</name>
     <message>
         <source>Offline verification</source>
@@ -37663,6 +38806,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Change Theme Color</source>
         <translation>Change Theme Colors</translation>
+    </message>
+</context>
+<context>
+    <name>KxDevelopLanguageTipWidget</name>
+    <message>
+        <source>Set JS as default. You can change it to VB. When opening VB-only files, the environment is still VB.</source>
+        <translation>Set JS as default. You can switch it to VB. When opening VB-only files, the VB environment is used by default.</translation>
     </message>
 </context>
 <context>
@@ -37872,25 +39022,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxPermissionLoginTipDlgV2</name>
-    <message>
-        <source>Login Account</source>
-        <translation>Login Account</translation>
-    </message>
-    <message>
-        <source>This document is protected by account access</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>turned on private document protection.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The document was</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxChartToolsHelper</name>
     <message>
         <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
@@ -37899,6 +39030,28 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
         <translation>Failed to change chart type. the data chosen cannot be changed into this chart type.</translation>
+    </message>
+</context>
+<context>
+    <name>KxMBRejectDlg</name>
+    <message>
+        <source>You sure reject the application? Please brief the reason.</source>
+        <translation>Are you sure you want to reject the review? Please describe the reasons for rejection.</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>Disapproved</translation>
+    </message>
+</context>
+<context>
+    <name>KxSetMBCommand</name>
+    <message>
+        <source>Your document is in the form of attachment, unable to set mb.</source>
+        <translation>Your document is in the attachment form and cannot be marked as confidential.</translation>
+    </message>
+    <message>
+        <source>This document can not set MB</source>
+        <translation>This document cannot be marked as confidential.</translation>
     </message>
 </context>
 <context>
@@ -38167,6 +39320,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Project is unviewable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Project Locked</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -38665,6 +39822,10 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Document is setted edit password</source>
+        <translation>The editing password is set for the document.</translation>
+    </message>
+    <message>
         <source>(Recommended)</source>
         <translation>(Recommended)</translation>
     </message>
@@ -39137,17 +40298,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KPPDOptionsEditor</name>
-    <message>
-        <source>Property</source>
-        <translation>Property</translation>
-    </message>
-    <message>
-        <source>This option has conflict with other option.</source>
-        <translation>This option has conflict with other options.</translation>
-    </message>
-</context>
-<context>
     <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
     <message>
         <source>Property</source>
@@ -39169,7 +40319,14 @@ p, li { white-space: pre-wrap; }
     <name>KxLearningTip</name>
     <message>
         <source>Use Tips</source>
-        <translation type="unfinished"/>
+        <translation>View explains</translation>
+    </message>
+</context>
+<context>
+    <name>KxColorSnapperWidget</name>
+    <message>
+        <source>Failed to initialize the Color snapper,the feature is not supported by current system.</source>
+        <translation>Failed to initialize the color picker because this feature is not supported by the current system.</translation>
     </message>
 </context>
 <context>
@@ -39184,6 +40341,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Button </source>
         <translation>Button </translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaQuestionButton</name>
+    <message>
+        <source>how to enable</source>
+        <translation>How to Enable Macros</translation>
     </message>
 </context>
 <context>
@@ -39216,6 +40380,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Copies:</source>
         <translation>Copies:</translation>
+    </message>
+</context>
+<context>
+    <name>QCalendarEdit</name>
+    <message>
+        <source>please select date</source>
+        <translation>Select a date</translation>
     </message>
 </context>
 <context>
@@ -39372,6 +40543,10 @@ PROPERTIES</translation>
         <source>FeedBack</source>
         <translation>Feedback</translation>
     </message>
+    <message>
+        <source>mail subject</source>
+        <translation>WPS Feedback</translation>
+    </message>
 </context>
 <context>
     <name>KxFeedbackCommand</name>
@@ -39396,13 +40571,6 @@ PROPERTIES</translation>
     <message>
         <source>Custom Group</source>
         <translation>Custom Group</translation>
-    </message>
-</context>
-<context>
-    <name>KxMBRejectDlg</name>
-    <message>
-        <source>Rejected</source>
-        <translation>Disapproved</translation>
     </message>
 </context>
 <context>
@@ -39435,13 +40603,6 @@ PROPERTIES</translation>
     <message>
         <source>Recently Shapes</source>
         <translation>Recently Used Shapes</translation>
-    </message>
-</context>
-<context>
-    <name>KxMakeOutwardDocEntranceCommand</name>
-    <message>
-        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
-        <translation>You have no outward application of file with watermark protection, or your last application has expired.</translation>
     </message>
 </context>
 <context>
@@ -39620,10 +40781,10 @@ Share it to friends</translation>
     </message>
 </context>
 <context>
-    <name>KXBlackTipWidget</name>
+    <name>KxDocSecurityLoadingWidget</name>
     <message>
-        <source>Slim list</source>
-        <translation type="unfinished"/>
+        <source>Loading. Please wait...</source>
+        <translation>Loading... Please wait.</translation>
     </message>
 </context>
 <context>
