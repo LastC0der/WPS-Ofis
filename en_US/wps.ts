@@ -1017,6 +1017,10 @@
         <translation>Reflection</translation>
     </message>
     <message>
+        <source>The top/bottom margins are too large for the page height in some sections.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cannot Load this Add-In.</source>
         <translation>Cannot Load this Add-In.</translation>
     </message>
@@ -1073,6 +1077,10 @@
     <message>
         <source>Recorded %d too few data fields.</source>
         <translation>Record %d contained too few data fields.</translation>
+    </message>
+    <message>
+        <source>Switching column/row will result in the following changes in the table, sure to continue?</source>
+        <translation>Switching column/row will result in the following changes in the spreadsheet. Continue with this operation?</translation>
     </message>
     <message>
         <source>Condensed by </source>
@@ -1871,6 +1879,10 @@
         <translation>Current</translation>
     </message>
     <message>
+        <source>Custom </source>
+        <translation>Row Spacing</translation>
+    </message>
+    <message>
         <source>Numbering Style</source>
         <translation>Numbering Style</translation>
     </message>
@@ -2090,6 +2102,12 @@ Do you want to replace it?</translation>
     <message>
         <source> Ln: %d   Col: %d</source>
         <translation> Ln: %d   Col: %d</translation>
+    </message>
+    <message>
+        <source>
+· Delete all %s</source>
+        <translation>
+· Delete %s</translation>
     </message>
     <message>
         <source>Top</source>
@@ -3089,6 +3107,10 @@ Do you want to replace it?</translation>
         <translation>Display the &amp;tab bar at the top of document</translation>
     </message>
     <message>
+        <source>Document fields(&amp;Z):</source>
+        <translation>Official Document Domain Mark (&amp;Z):</translation>
+    </message>
+    <message>
         <source>Taskb&amp;ar</source>
         <translation>Taskb&amp;ar</translation>
     </message>
@@ -3185,6 +3207,10 @@ Do you want to replace it?</translation>
         <translation>Ribbon options</translation>
     </message>
     <message>
+        <source>Show Document Fields Without Background</source>
+        <translation>Show Official Document Domain (No Shading)</translation>
+    </message>
+    <message>
         <source>Co&amp;lor:</source>
         <translation>Co&amp;lor:</translation>
     </message>
@@ -3279,6 +3305,10 @@ Do you want to replace it?</translation>
     <message>
         <source>&amp;Option...</source>
         <translation>&amp;Option...</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission</source>
+        <translation>Printing Permission (&amp;R)</translation>
     </message>
     <message>
         <source>Show c&amp;rop marks</source>
@@ -3433,6 +3463,10 @@ Do you want to replace it?</translation>
         <translation>Match cho-on &amp;used for vowels</translation>
     </message>
     <message>
+        <source>Permit to add co&amp;mments</source>
+        <translation>Allow Adding Comments (&amp;M)</translation>
+    </message>
+    <message>
         <source>Default &amp;paragraph style:</source>
         <translation>Default &amp;paragraph style:</translation>
     </message>
@@ -3537,6 +3571,10 @@ Do you want to replace it?</translation>
         <translation>Unformatted text</translation>
     </message>
     <message>
+        <source>Formatted text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Login Now</source>
         <translation>Sign in</translation>
     </message>
@@ -3571,6 +3609,10 @@ Do you want to replace it?</translation>
     <message>
         <source>Document Permission</source>
         <translation>Document Permission</translation>
+    </message>
+    <message>
+        <source>Use CTRL + Click t&amp;o follow hyperlink</source>
+        <translation>Use CTRL + Click to follow hyperlink (&amp;O)</translation>
     </message>
     <message>
         <source>Print hidden text</source>
@@ -3842,8 +3884,24 @@ Do you want to replace it?</translation>
         <translation>Order</translation>
     </message>
     <message>
+        <source>Secret &amp;Level:</source>
+        <translation>Confidentiality Level (&amp;P):</translation>
+    </message>
+    <message>
         <source>&amp;Telegram:</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Post &amp;Unit:</source>
+        <translation>Issuer (&amp;D):</translation>
+    </message>
+    <message>
+        <source>Public Release</source>
+        <translation>Make Public</translation>
+    </message>
+    <message>
+        <source>Publication &amp;levels:</source>
+        <translation>Publish Hierarchy (&amp;L):</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3852,6 +3910,14 @@ Do you want to replace it?</translation>
     <message>
         <source>Informed</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>UrgencyPlus</source>
+        <translation>Urgent</translation>
+    </message>
+    <message>
+        <source>Inform</source>
+        <translation>Notification</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -3870,8 +3936,20 @@ Do you want to replace it?</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>TopSecret</source>
+        <translation>Strictly Confidential</translation>
+    </message>
+    <message>
         <source>GB0626-2005</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resolution</source>
+        <translation>Decision</translation>
+    </message>
+    <message>
+        <source>Custom &amp;Fields:</source>
+        <translation>Custom Field (&amp;U):</translation>
     </message>
     <message>
         <source>Barcode Production &amp;Unit:</source>
@@ -3882,31 +3960,91 @@ Do you want to replace it?</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Request Instruction</source>
+        <translation>Request for Instruction</translation>
+    </message>
+    <message>
+        <source>Urgency2</source>
+        <translation>Usual</translation>
+    </message>
+    <message>
+        <source>Barcode &amp;Version:</source>
+        <translation>QR Code Version Identifier (&amp;V):</translation>
+    </message>
+    <message>
         <source>AgencyNumber</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Minutes Of Meeting</source>
+        <translation>Meeting Minutes</translation>
+    </message>
+    <message>
+        <source>&amp;Document:</source>
+        <translation>Official Document (&amp;F):</translation>
     </message>
     <message>
         <source>Notification</source>
         <translation>Notification</translation>
     </message>
     <message>
+        <source>Offical Reply</source>
+        <translation>Response</translation>
+    </message>
+    <message>
         <source>Decision</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Written &amp;Date:</source>
+        <translation>Document Generation Date (&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
         <translation>&amp;Title:</translation>
     </message>
     <message>
+        <source>SubmitTo &amp;Unit:</source>
+        <translation>Principal Receiver (&amp;S):</translation>
+    </message>
+    <message>
         <source>yyyy-MM-dd</source>
         <translation>yyyy-MM-dd</translation>
+    </message>
+    <message>
+        <source>Urgency</source>
+        <translation>Urgent Delivery</translation>
+    </message>
+    <message>
+        <source>&amp;Journals:</source>
+        <translation>Official Document Type or Journal Name (&amp;J):</translation>
+    </message>
+    <message>
+        <source>Document Barcode Information</source>
+        <translation>Official Document QR Code Info</translation>
+    </message>
+    <message>
+        <source>MostUrgency</source>
+        <translation>Most Urgent</translation>
+    </message>
+    <message>
+        <source>Express</source>
+        <translation>Extra Urgent</translation>
     </message>
     <message>
         <source>Please input letters and numbers</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>&amp;SecrecyPeriod:</source>
+        <translation>Confidentiality period (&amp;E):</translation>
+    </message>
+    <message>
         <source>Specified Range</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Urgency Level:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3916,6 +4054,10 @@ Do you want to replace it?</translation>
     <message>
         <source>Document &amp;Id:</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Barcode &amp;Id:</source>
+        <translation>QR Code ID (&amp;N):</translation>
     </message>
 </context>
 <context>
@@ -6738,8 +6880,20 @@ Cancel:	Return to the dialog.</translation>
         <translation>Right</translation>
     </message>
     <message>
+        <source>Place integral limits to the &amp;side</source>
+        <translation>Place integral limits to the side (&amp;S)</translation>
+    </message>
+    <message>
+        <source>Rig&amp;ht align wrapped lines</source>
+        <translation>Right align wrapped lines (&amp;H)</translation>
+    </message>
+    <message>
         <source>Duplicate operators for subtraction as:</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Place n-ary limi&amp;ts to the side</source>
+        <translation>Place n-ary limits to the side (&amp;T)</translation>
     </message>
     <message>
         <source>Before</source>
@@ -6752,6 +6906,14 @@ Cancel:	Return to the dialog.</translation>
     <message>
         <source>Center</source>
         <translation>Center</translation>
+    </message>
+    <message>
+        <source>&amp;Justification:</source>
+        <translation>Alignment (&amp;J):</translation>
+    </message>
+    <message>
+        <source>Math margins are added to paragraph margins.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When copying an equation,</source>
@@ -6770,6 +6932,10 @@ Cancel:	Return to the dialog.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>&amp;Use the following settings for math on its own line.</source>
+        <translation>Use the following settings for math on its own line (&amp;U).</translation>
+    </message>
+    <message>
         <source>When building up integrals,</source>
         <translation type="unfinished"/>
     </message>
@@ -6782,12 +6948,32 @@ Cancel:	Return to the dialog.</translation>
         <translation>&amp;Defaults ...</translation>
     </message>
     <message>
+        <source>Display Math</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>For math that wraps to a new line:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>General</source>
         <translation>General</translation>
     </message>
     <message>
+        <source>Place n-ary limits directly abo&amp;ve and below</source>
+        <translation> Place n-ary limits directly above and below (&amp;V)</translation>
+    </message>
+    <message>
         <source>Equation Options</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Indent wrapped lines by:</source>
+        <translation>Indent wrapped lines by (&amp;I):</translation>
+    </message>
+    <message>
+        <source>Place integral limits centered above and belo&amp;w</source>
+        <translation>Place integral limits centered above and below (&amp;W)</translation>
     </message>
     <message>
         <source>When building up other n-ary operators,</source>
@@ -7840,6 +8026,10 @@ use buttons to apply borders</translation>
         <translation>Dialog</translation>
     </message>
     <message>
+        <source>Add Unit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select All</source>
         <translation>Select All</translation>
     </message>
@@ -7851,8 +8041,16 @@ use buttons to apply borders</translation>
         <translation>OK</translation>
     </message>
     <message>
+        <source>Do you want to delete the selected units?</source>
+        <translation>Are you sure you want to delete the selected units?</translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Cancel</translation>
+    </message>
+    <message>
+        <source>Error Tips</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7949,6 +8147,10 @@ use buttons to apply borders</translation>
         <translation>pt, 2, 0, 1584, 6</translation>
     </message>
     <message>
+        <source>%1 Alignment and Spacing</source>
+        <translation>Alignment and Spacing of %1</translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
@@ -7963,6 +8165,14 @@ use buttons to apply borders</translation>
     <message>
         <source>1.5 Lines</source>
         <translation>1.5 Lines</translation>
+    </message>
+    <message>
+        <source>Alignment of %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Minimum distance between baselines:</source>
+        <translation>Minimum Distance Between Baselines (&amp;M):</translation>
     </message>
     <message>
         <source>Row Spacing</source>
@@ -8238,6 +8448,10 @@ use buttons to apply borders</translation>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
+    <message>
+        <source>Are you sure to delete page number template?</source>
+        <translation>Are you sure you want to delete the page number template?</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsOfficialSettings</name>
@@ -8362,8 +8576,16 @@ use buttons to apply borders</translation>
         <translation>Edit</translation>
     </message>
     <message>
+        <source>This deletion cannot be undone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Sure to delete this template?</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot rename, delete or edit this template. You may have opened it in another application or file tab.</source>
+        <translation>Failed to rename, delete or edit this template. You may have opened it in another application or tab page.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8390,16 +8612,32 @@ use buttons to apply borders</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>New Name:</source>
+        <translation>Template Name:</translation>
+    </message>
+    <message>
         <source>My Official Template</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This template has been tampered with and cannot be entered into design mode for editing. It is recommended that you delete it and redesign.</source>
+        <translation>This template has been tampered with and cannot be edited in design mode. It is recommended that you delete it and redesign.</translation>
     </message>
     <message>
         <source>Template Occupied</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Import Template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>New Template</source>
         <translation>New Permission Template</translation>
+    </message>
+    <message>
+        <source>Template Corrupt</source>
+        <translation>The template is corrupt.</translation>
     </message>
 </context>
 <context>
@@ -8525,6 +8763,11 @@ use buttons to apply borders</translation>
     <message>
         <source>Official Doc Layout</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This is a WPS Official document. It will be opened in 
+ &quot;Official Doc Layout&quot; mode to keep its original layout.</source>
+        <translation>This is a WPS official document. It is opened in Official Document Layout to keep its original layout.</translation>
     </message>
     <message>
         <source>Don&apos;t ask again</source>
@@ -10506,6 +10749,18 @@ This change will affect all new documents based on the %1 template.</translation
         <translation>Show</translation>
     </message>
     <message>
+        <source>TemplateName:</source>
+        <translation>Name:</translation>
+    </message>
+    <message>
+        <source>New Official Page Number Template</source>
+        <translation>New Official Document Page No. Template</translation>
+    </message>
+    <message>
+        <source>Insert into the document when create</source>
+        <translation>Insert page numbers into this document when creating the document</translation>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
@@ -10514,8 +10769,24 @@ This change will affect all new documents based on the %1 template.</translation
         <translation>Font Size:</translation>
     </message>
     <message>
+        <source>ShowFirstPage:</source>
+        <translation>First Page No:</translation>
+    </message>
+    <message>
         <source>Preview:</source>
         <translation>Preview:</translation>
+    </message>
+    <message>
+        <source>WhiteSpaceSize:</source>
+        <translation>White Space Size:</translation>
+    </message>
+    <message>
+        <source>RLDistance:</source>
+        <translation>Distance from Left/Right Edge:</translation>
+    </message>
+    <message>
+        <source>TopDistance:</source>
+        <translation>Distance from Edge:</translation>
     </message>
 </context>
 <context>
@@ -10916,6 +11187,10 @@ If you want to replace selected records only, please click Replace in the naviga
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Mail Config</source>
+        <translation>Email Configuration</translation>
+    </message>
+    <message>
         <source>&amp;Cancel</source>
         <translation>&amp;Cancel</translation>
     </message>
@@ -10930,6 +11205,10 @@ If you want to replace selected records only, please click Replace in the naviga
     <message>
         <source>%1(Disabled)</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Send mail b&amp;y</source>
+        <translation>Send emails using the following client (&amp;Y)</translation>
     </message>
 </context>
 <context>
@@ -10953,6 +11232,10 @@ If you want to replace selected records only, please click Replace in the naviga
     <message>
         <source>Cannot create automatic table of contents since no heading style or outline level has been set. </source>
         <translation>Failed to create table of contents automatically. No heading styles or outline levels have been set.</translation>
+    </message>
+    <message>
+        <source>The following preview content is generated by WPS Intelligent Identification, do you want to insert?</source>
+        <translation>The following preview directory is generated by WPS Intelligent Document Recognition. Insert the directory?</translation>
     </message>
 </context>
 <context>
@@ -10994,6 +11277,10 @@ Do you still want to open this file?
 
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
 (%s)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation>Text/Word Format(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
     </message>
     <message>
         <source>The following features cannot be saved in macro-free workbooks:
@@ -11068,6 +11355,10 @@ Possible reasons:
         <translation>templates</translation>
     </message>
     <message>
+        <source>WuKuang Core Encrypted Document Files(*.hdoc)|*.hdoc</source>
+        <translation>Core Encrypted File Format(*.hdoc)|*.hdoc</translation>
+    </message>
+    <message>
         <source>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
         <translation>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</translation>
     </message>
@@ -11076,6 +11367,10 @@ Possible reasons:
 • Extended orientation</source>
         <translation>
 • Extended orientation</translation>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <translation>Page breaks pasted in formulas will be lost.</translation>
     </message>
     <message>
         <source>Errors occur when WPS Writer is opening this file.
@@ -11130,6 +11425,10 @@ Please try one of the following.
 (%s)</source>
         <translation>WPS Writer cannot open this file, because the password is not correct.
 (%s)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation>Text/Word Format(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
     </message>
     <message>
         <source>Graphic objects cannot be placed in a text box, label annotations, footnotes or endnotes.</source>
@@ -11188,6 +11487,14 @@ Do you want to continue?</translation>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <translation>OFD Format(*.ofd)|*.ofd</translation>
+    </message>
+    <message>
+        <source>Normal Template Damaged</source>
+        <translation>The template file is corrupted.</translation>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Document Files(*.pdoc)|*.pdoc</source>
+        <translation>Normal Encrypted File Format(*.pdoc)|*.pdoc</translation>
     </message>
     <message>
         <source>Opening this document will execute the SQL command below:
@@ -11276,6 +11583,10 @@ If you are trying to open the file from your recently used file list on the File
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
+        <translation>Paragraph marks or break characters pasted in math objects will be lost.</translation>
+    </message>
+    <message>
         <source>
 •Make sure this file is recognizable format.
 (%s)</source>
@@ -11290,6 +11601,10 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
         <translation>These changes you made will affect the common template %s. Do you want to save them?</translation>
+    </message>
+    <message>
+        <source>Pasting drawn objects in math will be lost.</source>
+        <translation>Drawing objects pasted in formulas will be lost.</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -13334,6 +13649,10 @@ Pane</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>HVFont Size</source>
+        <translation>Landscape/Portrait Font Size</translation>
+    </message>
+    <message>
         <source>online wps style</source>
         <translation type="unfinished"/>
     </message>
@@ -13581,8 +13900,20 @@ Replace</source>
 Replace</translation>
     </message>
     <message>
+        <source>Search Computer</source>
+        <translation>Local Search</translation>
+    </message>
+    <message>
         <source>Text Identification</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smart Official</source>
+        <translation>Smart Official Document Conversion</translation>
+    </message>
+    <message>
+        <source>Official Font Name</source>
+        <translation>Font</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -14726,6 +15057,10 @@ Effects</translation>
         <translation>Equal Height</translation>
     </message>
     <message>
+        <source>Search Material</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Restrict Editing</source>
         <translation>Restrict Editing</translation>
     </message>
@@ -14941,6 +15276,10 @@ Painter</source>
     <message>
         <source>Right Border</source>
         <translation>Right Border</translation>
+    </message>
+    <message>
+        <source>Accept Formatting Changes</source>
+        <translation>Accept Format Changes</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -15171,6 +15510,10 @@ Painter</source>
         <translation>Add Shape Before</translation>
     </message>
     <message>
+        <source>Reject Formating Changes</source>
+        <translation>Reject Format Changes</translation>
+    </message>
+    <message>
         <source>Format Frame</source>
         <translation>Format Frame</translation>
     </message>
@@ -15358,6 +15701,10 @@ Add-Ins</source>
     <message>
         <source>Relative to Page</source>
         <translation>Relative to Page</translation>
+    </message>
+    <message>
+        <source>Column Alignment</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Table</source>
@@ -15722,6 +16069,14 @@ Diagonal Line in Cell</source>
         <translation>Axis Title</translation>
     </message>
     <message>
+        <source>VFont Size</source>
+        <translation>Portrait Font Size</translation>
+    </message>
+    <message>
+        <source>HFont Size</source>
+        <translation>Landscape Font Size</translation>
+    </message>
+    <message>
         <source>Secondary Major Horizontal</source>
         <translation>Secondary Major Horizontal</translation>
     </message>
@@ -15753,6 +16108,10 @@ Diagonal Line in Cell</source>
         <source>Bottom</source>
         <comment>OMathMatOrEqArr</comment>
         <translation>Bottom</translation>
+    </message>
+    <message>
+        <source>Line Spacing:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -16349,6 +16708,10 @@ Diagonal Line in Cell</source>
         <translation>Arrow Style</translation>
     </message>
     <message>
+        <source>Matrix Spacing...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Restrict Permission by People</source>
         <translation>Restrict Permission by People</translation>
     </message>
@@ -16613,6 +16976,10 @@ Diagonal Line in Cell</source>
         <translation>Center Tab</translation>
     </message>
     <message>
+        <source>Border Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Watermark</source>
         <translation>Watermark</translation>
     </message>
@@ -16651,6 +17018,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>View Historical Backup</source>
         <translation>View Backup</translation>
+    </message>
+    <message>
+        <source>Expand to Object Width</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoPoint</source>
@@ -16746,6 +17117,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Left Tab</source>
         <translation>Left Tab</translation>
+    </message>
+    <message>
+        <source>Equation Array Spacing...</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Secondary Minor Vertial</source>
@@ -17110,6 +17485,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Align Left</source>
         <translation>Align Left</translation>
+    </message>
+    <message>
+        <source>Align at =</source>
+        <translation>Align at</translation>
     </message>
     <message>
         <source>Character Shading</source>
@@ -17554,6 +17933,10 @@ Break</source>
         <translation>Browse by Page</translation>
     </message>
     <message>
+        <source>Center Algin</source>
+        <translation>Center</translation>
+    </message>
+    <message>
         <source>Print 
 Directly</source>
         <translation>Print 
@@ -17760,6 +18143,10 @@ Directly</translation>
         <translation>Editing is limited</translation>
     </message>
     <message>
+        <source>Document Barcode Properties</source>
+        <translation>QR Code Properties</translation>
+    </message>
+    <message>
         <source>Clip Art</source>
         <translation>Clip Art</translation>
     </message>
@@ -17782,6 +18169,10 @@ Directly</translation>
     <message>
         <source>0.8 pt</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Multi Equations Popup Menu</source>
+        <translation>Math Equation</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -18073,6 +18464,10 @@ Directly</translation>
         <translation>Task Window</translation>
     </message>
     <message>
+        <source>TpConfidentialityLevelKeyWord</source>
+        <translation>Check Confidentiality Level Keywords</translation>
+    </message>
+    <message>
         <source>Rename</source>
         <translation>Rename</translation>
     </message>
@@ -18137,6 +18532,10 @@ Directly</translation>
         <translation>Print Setup</translation>
     </message>
     <message>
+        <source>Right Algin</source>
+        <translation>Align Right</translation>
+    </message>
+    <message>
         <source>Drop Caps</source>
         <translation>Drop Caps</translation>
     </message>
@@ -18155,6 +18554,10 @@ Directly</translation>
     <message>
         <source>Switch to previous window</source>
         <translation>Switch to previous window</translation>
+    </message>
+    <message>
+        <source>Left Algin</source>
+        <translation>Align Left</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -18737,6 +19140,10 @@ Screen</source>
         <translation>Text Context Menu</translation>
     </message>
     <message>
+        <source>page number recommend style</source>
+        <translation>Template Page No.</translation>
+    </message>
+    <message>
         <source>Drag Context Menu</source>
         <translation>Drag Context Menu</translation>
     </message>
@@ -18981,6 +19388,10 @@ Screen</source>
         <translation>Click to turn on/off Reviewing function</translation>
     </message>
     <message>
+        <source>Align Adjustify</source>
+        <translation>Justify Alignment</translation>
+    </message>
+    <message>
         <source>Signature</source>
         <translation>Sign</translation>
     </message>
@@ -19019,6 +19430,10 @@ Screen</source>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
         <translation>Microsoft Word 97-2003 Document (*.doc)</translation>
+    </message>
+    <message>
+        <source>Global Center Algin</source>
+        <translation>Centered as a Group</translation>
     </message>
     <message>
         <source>Done Comment</source>
@@ -20997,6 +21412,10 @@ Picture</translation>
         <translation>&apos; is not available on your system. Do you want to use this font anyway?</translation>
     </message>
     <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</source>
+        <translation>All WPS Writer Documents (*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</translation>
+    </message>
+    <message>
         <source>Add Horizontal Border</source>
         <translation>Add Horizontal Border</translation>
     </message>
@@ -21268,6 +21687,10 @@ Check</source>
         <translation>Click to edit header</translation>
     </message>
     <message>
+        <source>Give the file some content before transfer. Or you can open another file and try again.</source>
+        <translation>Failed to convert an empty document. Fill in the content or open another document and try again.</translation>
+    </message>
+    <message>
         <source>Insert AutoText</source>
         <translation>Insert AutoText</translation>
     </message>
@@ -21294,6 +21717,10 @@ Check</source>
         <translation>Formatted</translation>
     </message>
     <message>
+        <source>Ofd Print Preview Fit Page</source>
+        <translation>Fit Page</translation>
+    </message>
+    <message>
         <source>Search</source>
         <translation>Search</translation>
     </message>
@@ -21312,6 +21739,10 @@ Check</source>
     <message>
         <source>Format line number</source>
         <translation>Format line number</translation>
+    </message>
+    <message>
+        <source>FontName And FontSize</source>
+        <translation>Font And Font Size</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -21340,6 +21771,10 @@ Check</source>
     <message>
         <source>Insert Table Element</source>
         <translation>Insert Table Element</translation>
+    </message>
+    <message>
+        <source>Put Custom Line Spacing</source>
+        <translation>Row Spacing</translation>
     </message>
     <message>
         <source>Set Xml Mapping</source>
@@ -21400,6 +21835,10 @@ Check</source>
     <message>
         <source>&quot;Two Pages&quot;,-4</source>
         <translation>&quot;Two Pages&quot;,-4</translation>
+    </message>
+    <message>
+        <source>Custom Page Size</source>
+        <translation>Custom Size</translation>
     </message>
     <message>
         <source>Increase Indentation</source>
@@ -21970,6 +22409,10 @@ Protection</translation>
         <translation>Print directly</translation>
     </message>
     <message>
+        <source>Ofd Print Preview Fit Width</source>
+        <translation>Fit Width</translation>
+    </message>
+    <message>
         <source>Subscript</source>
         <translation>Subscript</translation>
     </message>
@@ -21984,6 +22427,10 @@ Protection</translation>
     <message>
         <source>Bullets</source>
         <translation>Bullets</translation>
+    </message>
+    <message>
+        <source>Insert Official Glossary</source>
+        <translation>Insert Official Document Elements</translation>
     </message>
     <message>
         <source>Table Simple 1</source>
@@ -22293,6 +22740,10 @@ Protection</translation>
         <translation>Double Click To Hide Blank Area</translation>
     </message>
     <message>
+        <source>Insert Document Barcode</source>
+        <translation>Insert Official Document QR Code</translation>
+    </message>
+    <message>
         <source>Change List Level</source>
         <translation>Change List Level</translation>
     </message>
@@ -22400,6 +22851,10 @@ Protection</translation>
     <message>
         <source>Light Shading Accent 6</source>
         <translation>Light Shading Accent 6</translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt; |</source>
+        <translation>All WPS Writer Documents (*.wps; *.wpt)</translation>
     </message>
     <message>
         <source>Open Xml Map</source>
@@ -22618,6 +23073,10 @@ Protection</translation>
         <translation>Update Fields Index</translation>
     </message>
     <message>
+        <source>OfficialToNormal</source>
+        <translation>Official Document to Common Document</translation>
+    </message>
+    <message>
         <source>Paste Source Formatting</source>
         <translation>Paste Source Formatting</translation>
     </message>
@@ -22780,6 +23239,12 @@ Protection</translation>
         <translation>Double-click to edit footer</translation>
     </message>
     <message>
+        <source>Your file is under protection. Please do the following to unprotect it and retry:
+Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quot;.</source>
+        <translation>Your document is under protection. Complete the following steps to cancel protection and try again:
+Go to Review - Task Pane - Editing Restrictions, and click &quot;Stop Protection&quot;.</translation>
+    </message>
+    <message>
         <source>Translate to Traditional Chinese</source>
         <translation>Translate to Traditional Chinese</translation>
     </message>
@@ -22794,6 +23259,10 @@ Protection</translation>
     <message>
         <source>Edit Comment</source>
         <translation>Edit Comment</translation>
+    </message>
+    <message>
+        <source>Transpose Table</source>
+        <translation>Switch Row/Column</translation>
     </message>
     <message>
         <source>Clear Line Space</source>
@@ -22822,6 +23291,10 @@ Protection</translation>
     <message>
         <source>After Spacing: %.2f Lines</source>
         <translation>After Spacing: %.2f Lines</translation>
+    </message>
+    <message>
+        <source>Modify Document Barcode</source>
+        <translation>Modify Official Document QR Code</translation>
     </message>
     <message>
         <source>RTF Format(*.rtf) | *.rtf; |</source>
@@ -24464,6 +24937,10 @@ Table</translation>
         <translation>Feedback and Product</translation>
     </message>
     <message>
+        <source>New Wps Document</source>
+        <translation>New Text</translation>
+    </message>
+    <message>
         <source>Print</source>
         <translation>Print</translation>
     </message>
@@ -24602,6 +25079,10 @@ Table</translation>
     <message>
         <source>About WPS Writer</source>
         <translation>About WPS Writer</translation>
+    </message>
+    <message>
+        <source>ExportToPpt</source>
+        <translation>Output as PPTX</translation>
     </message>
     <message>
         <source>View Permissions</source>
@@ -25756,6 +26237,10 @@ Number</translation>
         <translation>&amp;Before:</translation>
     </message>
     <message>
+        <source>Official Line Interval</source>
+        <translation>Row Spacing</translation>
+    </message>
+    <message>
         <source>ch, 2, 0, 316.8, 0.5</source>
         <translation>ch, 2, 0, 316.8, 0.5</translation>
     </message>
@@ -26775,6 +27260,10 @@ Mode</translation>
     <message>
         <source>select all</source>
         <translation>Select All</translation>
+    </message>
+    <message>
+        <source>Management keyword</source>
+        <translation>Manage Keywords</translation>
     </message>
 </context>
 <context>
@@ -27890,6 +28379,10 @@ Pane</translation>
     <message>
         <source>Merge to Different New Document</source>
         <translation>Merge to Different New Document</translation>
+    </message>
+    <message>
+        <source>Open fol&amp;der after merge</source>
+        <translation>Open new document directory after merge (&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
@@ -30203,6 +30696,10 @@ View</translation>
         <translation>Move to Left</translation>
     </message>
     <message>
+        <source>ComposeAssist</source>
+        <translation>Writing Mode</translation>
+    </message>
+    <message>
         <source>Document Views</source>
         <translation>View of Document</translation>
     </message>
@@ -30341,6 +30838,543 @@ Screen</source>
         <source>New
 Window</source>
         <translation>New Window</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.proxycommands</name>
+    <message>
+        <source>Proofread Wrong</source>
+        <translation>Wrong Word Correction</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Help</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>News</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Save</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>Bulk Delete</translation>
+    </message>
+    <message>
+        <source>HeaderFooterGroup</source>
+        <translation>Header and Footer Group</translation>
+    </message>
+    <message>
+        <source>Quick</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Share</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation>Table</translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation>Insert Pictures from Phone</translation>
+    </message>
+    <message>
+        <source>Shortcut Setting</source>
+        <translation>Shortcut Setting</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <comment>Menu</comment>
+        <translation>Screenshot</translation>
+    </message>
+    <message>
+        <source>document authentication</source>
+        <translation>Document authentication</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>Show Toolbar</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Files Repair</translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation>Hardware Encryption</translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation>Setting Link</translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation>Feedback</translation>
+    </message>
+    <message>
+        <source>Picture Style</source>
+        <translation>Picture Styles</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Online Picture</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translation>Add Picture Frame</translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation>Cloud Fonts</translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation>Online Chart</translation>
+    </message>
+    <message>
+        <source>Core Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File Send</source>
+        <translation>Send to mobile</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation>Share File</translation>
+    </message>
+    <message>
+        <source>All Comments</source>
+        <translation>All Comments</translation>
+    </message>
+    <message>
+        <source>Proofread Leader</source>
+        <translation>Leader Correction</translation>
+    </message>
+    <message>
+        <source>Sentence Translation</source>
+        <translation>Sentence Translation</translation>
+    </message>
+    <message>
+        <source>Output Voice</source>
+        <translation>Export Voice</translation>
+    </message>
+    <message>
+        <source>Ornamentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation>Document History</translation>
+    </message>
+    <message>
+        <source>New Doc Recommend</source>
+        <translation>You may like</translation>
+    </message>
+    <message>
+        <source>Split or Merge</source>
+        <translation>Split or Merge</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>Online Pictures</translation>
+    </message>
+    <message>
+        <source>Set Language</source>
+        <translation>Set Language</translation>
+    </message>
+    <message>
+        <source>Change Color</source>
+        <translation>Change Color</translation>
+    </message>
+    <message>
+        <source>PDF To Excel</source>
+        <translation>PDF to Excel</translation>
+    </message>
+    <message>
+        <source>Cover Pages</source>
+        <translation>Cover Pages</translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation>Send E-mail</translation>
+    </message>
+    <message>
+        <source>Share documents.</source>
+        <translation>Share documents.</translation>
+    </message>
+    <message>
+        <source>New Doc Gallery</source>
+        <translation>Gallery</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation>Help Center</translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation>Ever Sheet</translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation>AutoShapes</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>Donate</translation>
+    </message>
+    <message>
+        <source>More Color Schemes</source>
+        <translation>More Color Schemes</translation>
+    </message>
+    <message>
+        <source>Change Num</source>
+        <translation>Change Number</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation>Footer</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation>Header</translation>
+    </message>
+    <message>
+        <source>ShortThemeColor</source>
+        <translation>Theme Color</translation>
+    </message>
+    <message>
+        <source>Proofread Repeate</source>
+        <translation>Reduplicative Word Correction</translation>
+    </message>
+    <message>
+        <source>ShortBatchDelete</source>
+        <translation>Delete</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Rename</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Hide current window when screenshot</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>Shapes</translation>
+    </message>
+    <message>
+        <source>PDF To PPT</source>
+        <translation>PDF to PPT</translation>
+    </message>
+    <message>
+        <source>Xie De</source>
+        <translation>Cloud Editor</translation>
+    </message>
+    <message>
+        <source>Insert Symbol</source>
+        <translation>Insert Symbol</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>Text 
+Speech</translation>
+    </message>
+    <message>
+        <source>PDFCompress</source>
+        <translation>PDF Compress</translation>
+    </message>
+    <message>
+        <source>Proofread</source>
+        <translation>Proofread</translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation>Send Pictures</translation>
+    </message>
+    <message>
+        <source>Online TableStyle</source>
+        <translation>Online Table Styles</translation>
+    </message>
+    <message>
+        <source>PaperFormat</source>
+        <translation>Paper layout</translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation>Picture to PDF</translation>
+    </message>
+    <message>
+        <source>My Picture</source>
+        <translation>My Picture</translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation>Share To QQ</translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation>Share</translation>
+    </message>
+    <message>
+        <source>AutoFindContents</source>
+        <translation>Automatic Identification of Contents</translation>
+    </message>
+    <message>
+        <source>Online Picture Gallery</source>
+        <translation>Gallery</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation>Create Link and Share</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>Insert Online Pictures</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation>Document Encryption</translation>
+    </message>
+    <message>
+        <source>Send By E-mail</source>
+        <translation>Send By E-mail</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation>Open from 
+Cloud Docs</translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation>Merge PDF</translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation>Split PDF</translation>
+    </message>
+    <message>
+        <source>Translate</source>
+        <translation>Translate</translation>
+    </message>
+    <message>
+        <source>Translate selected text</source>
+        <translation>Translate selected text</translation>
+    </message>
+    <message>
+        <source>Document Translate</source>
+        <translation>Document Translate</translation>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation>Password Encryption</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Check User 
+Permissions</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation>Account Encryption</translation>
+    </message>
+    <message>
+        <source>ShortChart</source>
+        <translation>Chart</translation>
+    </message>
+    <message>
+        <source>ShortWordArt</source>
+        <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>Decryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation>Encryption</translation>
+    </message>
+    <message>
+        <source>Xie De Menu</source>
+        <translation>Create file to share by QQ or WeChat</translation>
+    </message>
+    <message>
+        <source>DocerThemeColor</source>
+        <translation>DocerThemeColor</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>Comment</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>Translation</translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation>Full-Text Speech</translation>
+    </message>
+    <message>
+        <source>DocerWordArt</source>
+        <translation>DocerWordArt</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF to Word</translation>
+    </message>
+    <message>
+        <source>DocerTableStyle</source>
+        <translation>Table Style</translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation>Global Search</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Feedback</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation>Save to 
+Cloud Docs</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>Lucky Money</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>Screenshot</translation>
+    </message>
+    <message>
+        <source>PaperCheck</source>
+        <translation>Plagiarism Checker</translation>
+    </message>
+    <message>
+        <source>DocerChart</source>
+        <translation>DocerChart</translation>
+    </message>
+    <message>
+        <source>DocumentContentStudioHint</source>
+        <translation>Extract</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation>Convert All Pictures in the Document</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation>Convert Selected Picture</translation>
+    </message>
+    <message>
+        <source>OnlineDiagram</source>
+        <translation>Org Chart</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Online Pictures</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>Auto Backup</translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation>Share</translation>
+    </message>
+    <message>
+        <source>DocumentContentStudio</source>
+        <translation>Batch Extraction</translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation>Share To Wechat</translation>
+    </message>
+    <message>
+        <source>GroupSending</source>
+        <translation>Send to group</translation>
+    </message>
+    <message>
+        <source>ProcessOnEntry</source>
+        <translation>New Process</translation>
+    </message>
+    <message>
+        <source>Add or view comments in your document.</source>
+        <translation>Add or view comments in your document.</translation>
+    </message>
+    <message>
+        <source>Insert Comment</source>
+        <translation>Insert Comment</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Check My 
+Permission</translation>
+    </message>
+    <message>
+        <source>Proofread Sens</source>
+        <translation>Sensitive Word Correction</translation>
+    </message>
+    <message>
+        <source>Proofread Punc</source>
+        <translation>Punctuation Correction</translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation>Selection Speech</translation>
+    </message>
+    <message>
+        <source>Document Permission</source>
+        <translation>Document Permission</translation>
+    </message>
+    <message>
+        <source>Scan to Mobile</source>
+        <translation>Scan to Mobile</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation>From Phone</translation>
+    </message>
+    <message>
+        <source>Normal Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Online Textbox</source>
+        <translation>Template Text Box</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Export to Picture</translation>
+    </message>
+    <message>
+        <source>IconLibrary</source>
+        <translation>Icon Library</translation>
+    </message>
+    <message>
+        <source>More Online Charts</source>
+        <translation>More Online Charts</translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation>Share to Microblog Webpage</translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation>Share to Microblog</translation>
+    </message>
+    <message>
+        <source>Materials</source>
+        <translation>Shapes</translation>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation>WPS Microblog Layout</translation>
     </message>
 </context>
 <context>
@@ -31491,6 +32525,10 @@ Pane</translation>
         <source>Error. Unknown op code for conditional.</source>
         <translation>Error. Unknown op code for conditional.</translation>
     </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsFormatProperty_FillAndLine</name>
@@ -31518,8 +32556,32 @@ Pane</translation>
         <translation>Done</translation>
     </message>
     <message>
+        <source>Document had been protected</source>
+        <translation>There are editing restrictions on this document. Disable the editing restrictions in the right sidebar and import again.</translation>
+    </message>
+    <message>
+        <source>No export permissions, please use another system user account and try again</source>
+        <translation>No export permissions. Switch to another system user account and try again.</translation>
+    </message>
+    <message>
+        <source>UnImport</source>
+        <translation>Import failed.</translation>
+    </message>
+    <message>
+        <source>template(s) failed import;</source>
+        <translation> templates failed to be imported.</translation>
+    </message>
+    <message>
+        <source>ImportFaildList_</source>
+        <translation>Import Failure List_</translation>
+    </message>
+    <message>
         <source>templates</source>
         <translation>templates</translation>
+    </message>
+    <message>
+        <source>No read and write permissions, please turn it on in &quot;Properties&quot; - &quot;Permissions&quot;, or use another system user account and try again</source>
+        <translation>No read/write permissions. Enable the permissions in &quot;Properties&quot; - &quot;Permissions&quot;, or switch to another system user account and try again.</translation>
     </message>
     <message>
         <source>importing:</source>
@@ -31530,8 +32592,28 @@ Pane</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>succeeded</source>
+        <translation> templates imported successfully.</translation>
+    </message>
+    <message>
+        <source>template(s) failed import</source>
+        <translation> templates failed to be imported.</translation>
+    </message>
+    <message>
         <source>Failed to copy file</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>GotoNew</source>
+        <translation>Go to Create</translation>
+    </message>
+    <message>
+        <source>succeeded import</source>
+        <translation>Imported</translation>
+    </message>
+    <message>
+        <source>Not a Official Document</source>
+        <translation>Documents saved in non-official document writing mode are not supported.</translation>
     </message>
 </context>
 <context>
@@ -32034,6 +33116,10 @@ to a Word XML document.</translation>
         <source>Form</source>
         <translation>Grid</translation>
     </message>
+    <message>
+        <source>error details</source>
+        <translation>Error Reason</translation>
+    </message>
 </context>
 <context>
     <name>KxMergeToEmailDlg</name>
@@ -32050,8 +33136,20 @@ to a Word XML document.</translation>
         <translation>Number is invalid.</translation>
     </message>
     <message>
+        <source>Email application is not available. Please choose anther email application</source>
+        <translation>The mail client is invalid. Please select again.</translation>
+    </message>
+    <message>
         <source>WPS Writer</source>
         <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Email account is not available. Please reconfigure another account</source>
+        <translation>The mail account is invalid. Please select again.</translation>
+    </message>
+    <message>
+        <source>Email account has not been configured. Please setup an email account</source>
+        <translation>Email not configured. Configure the Email before use.</translation>
     </message>
 </context>
 <context>
@@ -32081,12 +33179,38 @@ to a Word XML document.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Searching, Has Searched %1Content</source>
+        <translation>Searching...%1 items found.</translation>
+    </message>
+    <message>
+        <source>End Search</source>
+        <translation>Close Search</translation>
+    </message>
+    <message>
+        <source>Found %1</source>
+        <translation>%1 items found.</translation>
+    </message>
+    <message>
+        <source>Quickly find local documents
+Support title, content</source>
+        <translation>Quickly find local documents
+Support finding the title and body</translation>
+    </message>
+    <message>
         <source>PushButton</source>
         <translation>PushButton</translation>
     </message>
     <message>
+        <source>TypeFilter:</source>
+        <translation>File Type:</translation>
+    </message>
+    <message>
         <source>TextLabel</source>
         <translation>Text Label</translation>
+    </message>
+    <message>
+        <source>Search Path:</source>
+        <translation>Search Folder:</translation>
     </message>
 </context>
 <context>
@@ -32247,6 +33371,10 @@ Break</source>
         <translation>Remove Table Of Contents</translation>
     </message>
     <message>
+        <source>Bottom Line Script(Multi Angency)</source>
+        <translation>Descending Article (Multi-Institution)</translation>
+    </message>
+    <message>
         <source>Separating Line</source>
         <translation type="unfinished"/>
     </message>
@@ -32268,6 +33396,18 @@ Picture</translation>
         <translation>WPSArt</translation>
     </message>
     <message>
+        <source>Document Parts</source>
+        <translation>Official Document Parts</translation>
+    </message>
+    <message>
+        <source>Top Line Script(Multi Angency)</source>
+        <translation>Ascending Article (Multi-Institution)</translation>
+    </message>
+    <message>
+        <source>2 Rows Editions</source>
+        <translation>Dual-Row Edition Mark</translation>
+    </message>
+    <message>
         <source>Breaks</source>
         <translation>Breaks</translation>
     </message>
@@ -32278,6 +33418,10 @@ Picture</translation>
     <message>
         <source>Letter</source>
         <translation>Letter</translation>
+    </message>
+    <message>
+        <source>Insert Vertical</source>
+        <translation>Insert Portrait Page</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -32294,6 +33438,10 @@ Picture</translation>
     <message>
         <source>From File</source>
         <translation>From File</translation>
+    </message>
+    <message>
+        <source>Top Line</source>
+        <translation>Top Divider</translation>
     </message>
     <message>
         <source>Insert Watermark</source>
@@ -32332,6 +33480,10 @@ Picture</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Normal Line</source>
+        <translation>Common Divider</translation>
+    </message>
+    <message>
         <source>Multi-line Text</source>
         <translation>Multi-line Text</translation>
     </message>
@@ -32363,6 +33515,14 @@ Picture</translation>
         <source>Draw Table</source>
         <translation>Draw 
 Table</translation>
+    </message>
+    <message>
+        <source>Single Row Edition</source>
+        <translation>Single-Row Edition Mark</translation>
+    </message>
+    <message>
+        <source>Insert Horizontal</source>
+        <translation>Insert Landscape Page</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -32429,6 +33589,10 @@ Table</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>5 points Star Line</source>
+        <translation>5-Point Star Divider</translation>
+    </message>
+    <message>
         <source>DocumentField</source>
         <translation>Document Field</translation>
     </message>
@@ -32437,6 +33601,14 @@ Table</translation>
 Number</source>
         <translation>Page
 Number</translation>
+    </message>
+    <message>
+        <source>Top Line Script(Single Angency)</source>
+        <translation>Ascending Article (Single-Institution)</translation>
+    </message>
+    <message>
+        <source>Bottom Line Script(Single Angency)</source>
+        <translation>Descending Article (Single-Institution)</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -32676,523 +33848,6 @@ Cloud Docs</translation>
     <message>
         <source>Document security</source>
         <translation>Document security</translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.proxycommands</name>
-    <message>
-        <source>Help</source>
-        <translation>Help</translation>
-    </message>
-    <message>
-        <source>News</source>
-        <translation>News</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Save</translation>
-    </message>
-    <message>
-        <source>Batch Delete</source>
-        <translation>Bulk Delete</translation>
-    </message>
-    <message>
-        <source>HeaderFooterGroup</source>
-        <translation>Header and Footer Group</translation>
-    </message>
-    <message>
-        <source>Quick</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share</source>
-        <translation>Share</translation>
-    </message>
-    <message>
-        <source>Table</source>
-        <translation>Table</translation>
-    </message>
-    <message>
-        <source>Insert Pictures From Phone</source>
-        <translation>Insert Pictures from Phone</translation>
-    </message>
-    <message>
-        <source>Shortcut Setting</source>
-        <translation>Shortcut Setting</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <comment>Menu</comment>
-        <translation>Screenshot</translation>
-    </message>
-    <message>
-        <source>document authentication</source>
-        <translation>Document authentication</translation>
-    </message>
-    <message>
-        <source>Show Toolbar</source>
-        <translation>Show Toolbar</translation>
-    </message>
-    <message>
-        <source>Document Fix</source>
-        <translation>Files Repair</translation>
-    </message>
-    <message>
-        <source>Hardware Encryption</source>
-        <translation>Hardware Encryption</translation>
-    </message>
-    <message>
-        <source>Setting Link</source>
-        <translation>Setting Link</translation>
-    </message>
-    <message>
-        <source>Feedback and Advice</source>
-        <translation>Feedback</translation>
-    </message>
-    <message>
-        <source>Picture Style</source>
-        <translation>Picture Styles</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Online Picture</translation>
-    </message>
-    <message>
-        <source>Add Picture Frame</source>
-        <translation>Add Picture Frame</translation>
-    </message>
-    <message>
-        <source>Online Fonts</source>
-        <translation>Cloud Fonts</translation>
-    </message>
-    <message>
-        <source>Online Chart</source>
-        <translation>Online Chart</translation>
-    </message>
-    <message>
-        <source>Core Encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>File Send</source>
-        <translation>Send to mobile</translation>
-    </message>
-    <message>
-        <source>Link Preview</source>
-        <translation>Share File</translation>
-    </message>
-    <message>
-        <source>All Comments</source>
-        <translation>All Comments</translation>
-    </message>
-    <message>
-        <source>Sentence Translation</source>
-        <translation>Sentence Translation</translation>
-    </message>
-    <message>
-        <source>Output Voice</source>
-        <translation>Export Voice</translation>
-    </message>
-    <message>
-        <source>Ornamentation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document History</source>
-        <translation>Document History</translation>
-    </message>
-    <message>
-        <source>New Doc Recommend</source>
-        <translation>You may like</translation>
-    </message>
-    <message>
-        <source>Split or Merge</source>
-        <translation>Split or Merge</translation>
-    </message>
-    <message>
-        <source>Online Picture</source>
-        <translation>Online Pictures</translation>
-    </message>
-    <message>
-        <source>Set Language</source>
-        <translation>Set Language</translation>
-    </message>
-    <message>
-        <source>Change Color</source>
-        <translation>Change Color</translation>
-    </message>
-    <message>
-        <source>PDF To Excel</source>
-        <translation>PDF to Excel</translation>
-    </message>
-    <message>
-        <source>Cover Pages</source>
-        <translation>Cover Pages</translation>
-    </message>
-    <message>
-        <source>Send E-mail</source>
-        <translation>Send E-mail</translation>
-    </message>
-    <message>
-        <source>Share documents.</source>
-        <translation>Share documents.</translation>
-    </message>
-    <message>
-        <source>New Doc Gallery</source>
-        <translation>Gallery</translation>
-    </message>
-    <message>
-        <source>Help And QA</source>
-        <translation>Help Center</translation>
-    </message>
-    <message>
-        <source>Ever Sheet</source>
-        <translation>Ever Sheet</translation>
-    </message>
-    <message>
-        <source>AutoShapes</source>
-        <translation>AutoShapes</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation>Donate</translation>
-    </message>
-    <message>
-        <source>More Color Schemes</source>
-        <translation>More Color Schemes</translation>
-    </message>
-    <message>
-        <source>Change Num</source>
-        <translation>Change Number</translation>
-    </message>
-    <message>
-        <source>Footer</source>
-        <translation>Footer</translation>
-    </message>
-    <message>
-        <source>Header</source>
-        <translation>Header</translation>
-    </message>
-    <message>
-        <source>ShortThemeColor</source>
-        <translation>Theme Color</translation>
-    </message>
-    <message>
-        <source>ShortBatchDelete</source>
-        <translation>Delete</translation>
-    </message>
-    <message>
-        <source>Rename</source>
-        <translation>Rename</translation>
-    </message>
-    <message>
-        <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Hide current window when screenshot</translation>
-    </message>
-    <message>
-        <source>Shapes</source>
-        <translation>Shapes</translation>
-    </message>
-    <message>
-        <source>PDF To PPT</source>
-        <translation>PDF to PPT</translation>
-    </message>
-    <message>
-        <source>Xie De</source>
-        <translation>Cloud Editor</translation>
-    </message>
-    <message>
-        <source>Insert Symbol</source>
-        <translation>Insert Symbol</translation>
-    </message>
-    <message>
-        <source>Text Speech</source>
-        <translation>Text 
-Speech</translation>
-    </message>
-    <message>
-        <source>PDFCompress</source>
-        <translation>PDF Compress</translation>
-    </message>
-    <message>
-        <source>Proofread</source>
-        <translation>Proofread</translation>
-    </message>
-    <message>
-        <source>Send pictures</source>
-        <translation>Send Pictures</translation>
-    </message>
-    <message>
-        <source>Online TableStyle</source>
-        <translation>Online Table Styles</translation>
-    </message>
-    <message>
-        <source>PaperFormat</source>
-        <translation>Paper layout</translation>
-    </message>
-    <message>
-        <source>Photo2Pdf</source>
-        <translation>Picture to PDF</translation>
-    </message>
-    <message>
-        <source>My Picture</source>
-        <translation>My Picture</translation>
-    </message>
-    <message>
-        <source>Share To QQ</source>
-        <translation>Share To QQ</translation>
-    </message>
-    <message>
-        <source>File Share</source>
-        <translation>Share</translation>
-    </message>
-    <message>
-        <source>AutoFindContents</source>
-        <translation>Automatic Identification of Contents</translation>
-    </message>
-    <message>
-        <source>Online Picture Gallery</source>
-        <translation>Gallery</translation>
-    </message>
-    <message>
-        <source>Web Preview</source>
-        <translation>Create Link and Share</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation>Insert Online Pictures</translation>
-    </message>
-    <message>
-        <source>Document Encryption</source>
-        <translation>Document Encryption</translation>
-    </message>
-    <message>
-        <source>Send By E-mail</source>
-        <translation>Send By E-mail</translation>
-    </message>
-    <message>
-        <source>Open from Cloud Docs</source>
-        <translation>Open from 
-Cloud Docs</translation>
-    </message>
-    <message>
-        <source>PDF Merge</source>
-        <translation>Merge PDF</translation>
-    </message>
-    <message>
-        <source>PDF Split</source>
-        <translation>Split PDF</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation>Translate</translation>
-    </message>
-    <message>
-        <source>Translate selected text</source>
-        <translation>Translate selected text</translation>
-    </message>
-    <message>
-        <source>Document Translate</source>
-        <translation>Document Translate</translation>
-    </message>
-    <message>
-        <source>Password Encryption</source>
-        <translation>Password Encryption</translation>
-    </message>
-    <message>
-        <source>Check Users Permissions</source>
-        <translation>Check User 
-Permissions</translation>
-    </message>
-    <message>
-        <source>Account Encryption</source>
-        <translation>Account Encryption</translation>
-    </message>
-    <message>
-        <source>ShortChart</source>
-        <translation>Chart</translation>
-    </message>
-    <message>
-        <source>ShortWordArt</source>
-        <translation>WordArt</translation>
-    </message>
-    <message>
-        <source>Decryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Encryption</source>
-        <translation>Encryption</translation>
-    </message>
-    <message>
-        <source>Xie De Menu</source>
-        <translation>Create file to share by QQ or WeChat</translation>
-    </message>
-    <message>
-        <source>DocerThemeColor</source>
-        <translation>DocerThemeColor</translation>
-    </message>
-    <message>
-        <source>Comment</source>
-        <translation>Comment</translation>
-    </message>
-    <message>
-        <source>Translation</source>
-        <translation>Translation</translation>
-    </message>
-    <message>
-        <source>Full-Text Speech</source>
-        <translation>Full-Text Speech</translation>
-    </message>
-    <message>
-        <source>DocerWordArt</source>
-        <translation>DocerWordArt</translation>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation>PDF to Word</translation>
-    </message>
-    <message>
-        <source>DocerTableStyle</source>
-        <translation>Table Style</translation>
-    </message>
-    <message>
-        <source>Global Search</source>
-        <translation>Global Search</translation>
-    </message>
-    <message>
-        <source>Feedback</source>
-        <translation>Feedback</translation>
-    </message>
-    <message>
-        <source>Save to Cloud Docs</source>
-        <translation>Save to 
-Cloud Docs</translation>
-    </message>
-    <message>
-        <source>WpsPackagePlugin</source>
-        <translation>Lucky Money</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation>Screenshot</translation>
-    </message>
-    <message>
-        <source>PaperCheck</source>
-        <translation>Plagiarism Checker</translation>
-    </message>
-    <message>
-        <source>DocerChart</source>
-        <translation>DocerChart</translation>
-    </message>
-    <message>
-        <source>DocumentContentStudioHint</source>
-        <translation>Extract</translation>
-    </message>
-    <message>
-        <source>Photo2PdfConvertAll</source>
-        <translation>Convert All Pictures in the Document</translation>
-    </message>
-    <message>
-        <source>Photo2PdfConvertOne</source>
-        <translation>Convert Selected Picture</translation>
-    </message>
-    <message>
-        <source>OnlineDiagram</source>
-        <translation>Org Chart</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Online Pictures</translation>
-    </message>
-    <message>
-        <source>Backup Center</source>
-        <translation>Auto Backup</translation>
-    </message>
-    <message>
-        <source>Collaboration</source>
-        <translation>Share</translation>
-    </message>
-    <message>
-        <source>DocumentContentStudio</source>
-        <translation>Batch Extraction</translation>
-    </message>
-    <message>
-        <source>Share To Wechat</source>
-        <translation>Share To Wechat</translation>
-    </message>
-    <message>
-        <source>GroupSending</source>
-        <translation>Send to group</translation>
-    </message>
-    <message>
-        <source>ProcessOnEntry</source>
-        <translation>New Process</translation>
-    </message>
-    <message>
-        <source>Add or view comments in your document.</source>
-        <translation>Add or view comments in your document.</translation>
-    </message>
-    <message>
-        <source>Insert Comment</source>
-        <translation>Insert Comment</translation>
-    </message>
-    <message>
-        <source>Check Mine Permission</source>
-        <translation>Check My 
-Permission</translation>
-    </message>
-    <message>
-        <source>Selection Speech</source>
-        <translation>Selection Speech</translation>
-    </message>
-    <message>
-        <source>Document Permission</source>
-        <translation>Document Permission</translation>
-    </message>
-    <message>
-        <source>Scan to Mobile</source>
-        <translation>Scan to Mobile</translation>
-    </message>
-    <message>
-        <source>From Phone</source>
-        <translation>From Phone</translation>
-    </message>
-    <message>
-        <source>Normal Encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Online Textbox</source>
-        <translation>Template Text Box</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation>Export to Picture</translation>
-    </message>
-    <message>
-        <source>IconLibrary</source>
-        <translation>Icon Library</translation>
-    </message>
-    <message>
-        <source>More Online Charts</source>
-        <translation>More Online Charts</translation>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation>Share to Microblog Webpage</translation>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation>Share to Microblog</translation>
-    </message>
-    <message>
-        <source>Materials</source>
-        <translation>Shapes</translation>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation>WPS Microblog Layout</translation>
     </message>
 </context>
 <context>
@@ -35146,6 +35801,10 @@ Cancel:	Return to the dialog.</translation>
         <translation>None</translation>
     </message>
     <message>
+        <source>File Size(Low)</source>
+        <translation>File Size (Larger to Smaller)</translation>
+    </message>
+    <message>
         <source>The search key string cannot be empty</source>
         <translation type="unfinished"/>
     </message>
@@ -35158,8 +35817,28 @@ Cancel:	Return to the dialog.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Open file by local</source>
+        <translation>Open Original File in Local</translation>
+    </message>
+    <message>
         <source>All Type</source>
         <translation>All Types</translation>
+    </message>
+    <message>
+        <source>No search cache file exists locally</source>
+        <translation>No cache file found locally.</translation>
+    </message>
+    <message>
+        <source>Search parameter error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The search string is not valid</source>
+        <translation>The search keyword is invalid.</translation>
+    </message>
+    <message>
+        <source>Update Time(Up)</source>
+        <translation>Update Time (Furthest to Closest)</translation>
     </message>
     <message>
         <source>Click to select folder</source>
@@ -35172,6 +35851,26 @@ Cancel:	Return to the dialog.</translation>
     <message>
         <source>The search path is not valid</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Update Time(Low)</source>
+        <translation>Update Time (Closest to Furthest)</translation>
+    </message>
+    <message>
+        <source>Limit 20 words in the current input box</source>
+        <translation>Enter up to 20 characters in the current input box</translation>
+    </message>
+    <message>
+        <source>File Size(Up)</source>
+        <translation>File Size (Smaller to Larger)</translation>
+    </message>
+    <message>
+        <source>Search cache process failed</source>
+        <translation>The process for cache searching failed.</translation>
+    </message>
+    <message>
+        <source>Search Content Title,no more than 20 words</source>
+        <translation>Search the article title. You can enter up to 20 characters.</translation>
     </message>
 </context>
 <context>
@@ -35970,6 +36669,10 @@ Cancel:	Return to the dialog.</translation>
         <translation>Save</translation>
     </message>
     <message>
+        <source>Save the designed template to &quot;My Official Templates&quot; in &quot;Format&quot;</source>
+        <translation>Save the design to &quot;My Templates&quot; in &quot;Format&quot;</translation>
+    </message>
+    <message>
         <source>Element Configure</source>
         <translation type="unfinished"/>
     </message>
@@ -36032,6 +36735,14 @@ Cancel:	Return to the dialog.</translation>
         <translation>Last Page</translation>
     </message>
     <message>
+        <source>OfdPrintPreviewSettings</source>
+        <translation>Settings</translation>
+    </message>
+    <message>
+        <source>PrevPage</source>
+        <translation>Previous Page</translation>
+    </message>
+    <message>
         <source>Export To OFD</source>
         <translation type="unfinished"/>
     </message>
@@ -36073,6 +36784,10 @@ Cancel:	Return to the dialog.</translation>
     <message>
         <source>Print</source>
         <translation>Print</translation>
+    </message>
+    <message>
+        <source>PrintMode</source>
+        <translation>Mode</translation>
     </message>
     <message>
         <source>Print Order:</source>
@@ -36625,6 +37340,10 @@ Picture</translation>
     <message>
         <source>Chart Gallery</source>
         <translation>Chart Gallery</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>Official Document QR Code</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -37182,6 +37901,21 @@ Number</translation>
     <message>
         <source>I, II, III...</source>
         <translation>I, II, III...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckingTips</name>
+    <message>
+        <source>stop</source>
+        <translation>Stop Checking</translation>
+    </message>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>clkw checking tips</source>
+        <translation>Check Confidentiality Level Keywords</translation>
     </message>
 </context>
 <context>
@@ -37765,6 +38499,10 @@ Table</translation>
         <translation>Forms</translation>
     </message>
     <message>
+        <source>Ofd Print Preview</source>
+        <translation>OFD Effect Preview</translation>
+    </message>
+    <message>
         <source>Document Fix</source>
         <translation>Files Repair</translation>
     </message>
@@ -38225,6 +38963,53 @@ Cloud Docs</translation>
     <message>
         <source>Current &amp;page</source>
         <translation>Current &amp;page</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsMailSenderTestDlg</name>
+    <message>
+        <source>&amp;Done</source>
+        <translation>Done (&amp;D)</translation>
+    </message>
+    <message>
+        <source>WPS Mail Merge Test Mail</source>
+        <translation>WPS Mail Merge-Test Mail</translation>
+    </message>
+    <message>
+        <source>Send test Email</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login to SMTP server</source>
+        <translation>Sign in to mail server</translation>
+    </message>
+    <message>
+        <source>Account setup successful</source>
+        <translation>Account setting test succeeded.</translation>
+    </message>
+    <message>
+        <source>.Please trying using independent password</source>
+        <translation>. Try using the authorization code to sign in to the mailbox.</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Cancel</translation>
+    </message>
+    <message>
+        <source>Receiving this mail means your configuration is successful. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Test failed.Please check the information.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are all set for the group mail feature.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are sending testing mail through WPS mail merge feature. </source>
+        <translation>You are sending a testing mail using WPS Mail Merge.</translation>
     </message>
 </context>
 <context>
@@ -38855,6 +39640,57 @@ Cloud Docs</translation>
     </message>
 </context>
 <context>
+    <name>classics.ofd_print_preview</name>
+    <message>
+        <source>NextPage(Ctrl+PageDown)</source>
+        <translation>Next Page (Ctrl+PageDown)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Close</translation>
+    </message>
+    <message>
+        <source>Close Ofd Preview</source>
+        <translation>Close OFD Preview</translation>
+    </message>
+    <message>
+        <source>Zoom Out(Ctrl+-)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PrevPage(Ctrl+PageUp)</source>
+        <translation>Previous Page (Ctrl+PageUp)</translation>
+    </message>
+    <message>
+        <source>Fit Width(Ctrl+8)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>LastPage</source>
+        <translation>Last Page</translation>
+    </message>
+    <message>
+        <source>Actual Size(Ctrl+0)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FirstPage</source>
+        <translation>First Page</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>Export to OFD</translation>
+    </message>
+    <message>
+        <source>Zoom In(Ctrl++)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fit Page(Ctrl+9)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxSmartPageNumDeleteCommand</name>
     <message>
         <source>Current section</source>
@@ -38875,6 +39711,21 @@ Cloud Docs</translation>
     <message>
         <source>Entire document</source>
         <translation>Entire document</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpConfidentialityLevelKeyWord</name>
+    <message>
+        <source>total result</source>
+        <translation>Results</translation>
+    </message>
+    <message>
+        <source>check</source>
+        <translation>Recheck</translation>
+    </message>
+    <message>
+        <source>operate keywords</source>
+        <translation>Manage Keywords</translation>
     </message>
 </context>
 <context>
@@ -39184,6 +40035,55 @@ Permissions</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_official_print</name>
+    <message>
+        <source>Finalize</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge</source>
+        <translation>Merge</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Print</translation>
+    </message>
+    <message>
+        <source>Split</source>
+        <translation>Split</translation>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Export</translation>
+    </message>
+    <message>
+        <source>Split and Merge</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Official to Ordinary</source>
+        <translation>Official Document to Common Document
+</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>Export to OFD</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>Export to PDF</translation>
+    </message>
+    <message>
+        <source>Mail Merge</source>
+        <translation>Mail 
+Merge</translation>
+    </message>
+</context>
+<context>
     <name>KxEquationAlignmentAndSpacingDlg</name>
     <message>
         <source>Array</source>
@@ -39273,6 +40173,10 @@ Permissions</translation>
     <message>
         <source>Clear</source>
         <translation>Clear</translation>
+    </message>
+    <message>
+        <source>Insert Ink Shape</source>
+        <translation>Insert Handwritten Comment</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -39632,45 +40536,6 @@ Permissions</translation>
     </message>
 </context>
 <context>
-    <name>classics.ofd_print_preview</name>
-    <message>
-        <source>Close</source>
-        <translation>Close</translation>
-    </message>
-    <message>
-        <source>Zoom Out(Ctrl+-)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fit Width(Ctrl+8)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>LastPage</source>
-        <translation>Last Page</translation>
-    </message>
-    <message>
-        <source>Actual Size(Ctrl+0)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>FirstPage</source>
-        <translation>First Page</translation>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation>Export to OFD</translation>
-    </message>
-    <message>
-        <source>Zoom In(Ctrl++)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fit Page(Ctrl+9)</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>ongmani.ct_headerfooter</name>
     <message>
         <source>Close</source>
@@ -39679,6 +40544,14 @@ Permissions</translation>
     <message>
         <source>HeaderFooterGroup</source>
         <translation>Header and Footer Group</translation>
+    </message>
+    <message>
+        <source>Docer Header</source>
+        <translation>Template Header/Footer</translation>
+    </message>
+    <message>
+        <source>Docer Footer</source>
+        <translation>Template Header/Footer</translation>
     </message>
     <message>
         <source>Switch between
@@ -39708,6 +40581,10 @@ Header</translation>
         <source>Insert Picture</source>
         <translation>Insert 
 Picture</translation>
+    </message>
+    <message>
+        <source>Docer HeaderFooterGroup</source>
+        <translation>Template Set</translation>
     </message>
     <message>
         <source>Edit Footer</source>
@@ -39867,6 +40744,14 @@ Number</translation>
     <message>
         <source>Close</source>
         <translation>Close</translation>
+    </message>
+    <message>
+        <source>Email Config</source>
+        <translation>Email Configuration</translation>
+    </message>
+    <message>
+        <source>MailConfig</source>
+        <translation>Email Configuration</translation>
     </message>
     <message>
         <source>First Record</source>
@@ -40296,42 +41181,6 @@ Endnote</translation>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_official_print</name>
-    <message>
-        <source>Merge</source>
-        <translation>Merge</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation>Print</translation>
-    </message>
-    <message>
-        <source>Split</source>
-        <translation>Split</translation>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation>Export</translation>
-    </message>
-    <message>
-        <source>Split and Merge</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation>Export to OFD</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation>Export to PDF</translation>
-    </message>
-    <message>
-        <source>Mail Merge</source>
-        <translation>Mail 
-Merge</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsDDEServer</name>
     <message>
         <source>Paste</source>
@@ -40502,6 +41351,14 @@ Merge</translation>
     <message>
         <source>Port:</source>
         <translation>Port:</translation>
+    </message>
+    <message>
+        <source>S&amp;MTP Server</source>
+        <translation>SMTP Server (&amp;M)</translation>
+    </message>
+    <message>
+        <source>Sender &amp;Name</source>
+        <translation>Email Address (&amp;N)</translation>
     </message>
     <message>
         <source>dialog</source>
@@ -40704,6 +41561,10 @@ Merge</translation>
         <translation>level secret</translation>
     </message>
     <message>
+        <source>WPS Writer Official Document (*.uot)</source>
+        <translation>WPS Official Document (*.uot)</translation>
+    </message>
+    <message>
         <source>Official Fonts</source>
         <translation type="unfinished"/>
     </message>
@@ -40841,6 +41702,10 @@ Merge</translation>
     <message>
         <source>Header outside</source>
         <translation>Header outside</translation>
+    </message>
+    <message>
+        <source>Add Custom PageNum</source>
+        <translation>Custom Page No.</translation>
     </message>
 </context>
 <context>
@@ -41219,8 +42084,28 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation>title</translation>
     </message>
     <message>
+        <source>%1 cannot include &quot;^&quot; and &quot;|&quot;, which used as seperator.</source>
+        <translation>%1 cannot contain &quot;^&quot; and &quot;|&quot;, which are used as separators.</translation>
+    </message>
+    <message>
+        <source>document id</source>
+        <translation>Issuing No.</translation>
+    </message>
+    <message>
+        <source>The barcode id must contain 8 to 20 characters or digits.</source>
+        <translation>The QR Code ID must contain 8 to 20 letters or digits.</translation>
+    </message>
+    <message>
+        <source>journals</source>
+        <translation>Official Document Type or Journal Name</translation>
+    </message>
+    <message>
         <source>%1 cannot exceed %2 words.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>custom field</source>
+        <translation>Custom Field</translation>
     </message>
     <message>
         <source>barcode Id</source>
@@ -41231,12 +42116,24 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>barcode date</source>
+        <translation>QR Code Creation Date</translation>
+    </message>
+    <message>
+        <source>publish level</source>
+        <translation>Publish Hierarchy</translation>
+    </message>
+    <message>
         <source>written date</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>secret period</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The length of %1 has to between %2 and %3</source>
+        <translation>The length of %1 must be between %2 and %3 characters.</translation>
     </message>
 </context>
 <context>
@@ -41281,8 +42178,44 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Support multiple unit name entered at the same time, seperated by comma.</source>
+        <translation>Support entering multiple unit names at the same time, separated by commas (,).</translation>
+    </message>
+    <message>
+        <source>The unit cannot include &quot;^&quot; and &quot;|&quot;, which used as seperator.</source>
+        <translation>The unit cannot include &quot;^&quot; and &quot;|&quot;, which are used as separators.</translation>
+    </message>
+    <message>
+        <source>Delete Units</source>
+        <translation>Delete Unit</translation>
+    </message>
+    <message>
+        <source>The barcode creator unit you entered is longer than %1 characters, which does not comply with the Standard for Using 2D Barcodes in Official Documents. Continue?</source>
+        <translation>The length of the QR Code Producer you entered exceeds %1 characters, which does not comply with the Standard for Using QR Code in Official Documents. Continue to enter it?</translation>
+    </message>
+    <message>
+        <source>submit to</source>
+        <translation>Principal Receiver</translation>
+    </message>
+    <message>
         <source>The length of each unit has to between %1 and %2</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The length of unit names cannot exceed 256 bytes.</source>
+        <translation>The length of the unit name cannot exceed 128 characters.</translation>
+    </message>
+    <message>
+        <source>barcode unit</source>
+        <translation>QR Code Producer</translation>
+    </message>
+    <message>
+        <source>The unit name cannot contain comma</source>
+        <translation>The unit name cannot contain commas.</translation>
+    </message>
+    <message>
+        <source>The name of adding unit has existed in the list, please enter a different name.</source>
+        <translation>You have already added this unit name. Please enter again.</translation>
     </message>
 </context>
 <context>
@@ -41357,6 +42290,10 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation>Protect method or property is invalid due to the protected document.</translation>
     </message>
     <message>
+        <source>Scanner No Paper.</source>
+        <translation>The scanner is out of paper.</translation>
+    </message>
+    <message>
         <source>Unprotect method or property is invalid due to the unprotected document.</source>
         <translation>Unprotect method or property is invalid due to the unprotected document.</translation>
     </message>
@@ -41367,6 +42304,10 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Cannot set or get column spacing at the end of text.</source>
         <translation>Cannot set or get column spacing at the end of text.</translation>
+    </message>
+    <message>
+        <source>Scanner Document Feeder Jammed.</source>
+        <translation>Paper is jammed in the scanner&apos;s feeder.</translation>
     </message>
     <message>
         <source>The Based On style name does not exist or is of an incorrect type.</source>
@@ -41383,6 +42324,14 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
         <translation>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</translation>
+    </message>
+    <message>
+        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
+        <translation>Invalid scanner data (Papers exceed the maximum thickness or multiple papers overlap).</translation>
+    </message>
+    <message>
+        <source>No SANE library.</source>
+        <translation>An error occurred while loading the SANE system library.</translation>
     </message>
     <message>
         <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
@@ -41419,6 +42368,10 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Preview Mode is unactivated.</source>
         <translation>Preview Mode is unactivated.</translation>
+    </message>
+    <message>
+        <source>%1 Pages Scanned.</source>
+        <translation>%1 pages scanned. Insert it now?</translation>
     </message>
     <message>
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
@@ -41680,6 +42633,157 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
 </context>
 <context>
+    <name>MailSendErrorConvert</name>
+    <message>
+        <source>Identified as junk mail,rejected by server</source>
+        <translation>This mail was identified as spam and rejected by the server.</translation>
+    </message>
+    <message>
+        <source>MAIL_TEXT_TOO_LARGE</source>
+        <translation>The length of the mail body exceeds the limit.</translation>
+    </message>
+    <message>
+        <source>Host not found</source>
+        <translation>Host not found</translation>
+    </message>
+    <message>
+        <source>MAIL_UNKNOWN_RECIPIENT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File not found:%1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_TOO_MANY_RECIPIENTS</source>
+        <translation>The number of recipients exceeds the limit.</translation>
+    </message>
+    <message>
+        <source>MAIL_ACCESS_DENIED</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_DISK_FULL</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid smtp server port</source>
+        <translation>Invalid SMTP server port.</translation>
+    </message>
+    <message>
+        <source>MAIL_BAD_RECIPTYPE</source>
+        <translation>Unknown sending type.</translation>
+    </message>
+    <message>
+        <source>554 HL:IHU</source>
+        <translation>The sender IP is temporarily suspended due to the sending of spam or unusual connection behaviors.</translation>
+    </message>
+    <message>
+        <source>421 HL:IFC</source>
+        <translation>The connection is temporarily prohibited due to a large number of mails sent in a short period of time.</translation>
+    </message>
+    <message>
+        <source>451 MI:SFQ</source>
+        <translation>The number of mails sent within 15 minutes exceeds the limit.</translation>
+    </message>
+    <message>
+        <source>Local user only</source>
+        <translation>SMTP server only supports local users as the sender.</translation>
+    </message>
+    <message>
+        <source>DNS error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>550 RP:TRC</source>
+        <translation>The number of recipients accumulated exceeds the limit. No longer accept mails from this sender today.</translation>
+    </message>
+    <message>
+        <source>451 RP:QRC</source>
+        <translation>Mail sending is temporarily prohibited because the number of recipients accumulated in a short period of time exceeds the limit.</translation>
+    </message>
+    <message>
+        <source>Illegal Attachment</source>
+        <translation>An attachment of this type is not allowed.</translation>
+    </message>
+    <message>
+        <source>authentication failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mail client load failed</source>
+        <translation>Failed to load the mail client.</translation>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_WRITE_FAILURE</source>
+        <translation>Failed to write the attachment.</translation>
+    </message>
+    <message>
+        <source>MAIL_NETWORK_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_INSUFFICIENT_MEMORY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_NO_MESSAGES</source>
+        <translation>No mail info available.</translation>
+    </message>
+    <message>
+        <source>IP is rejected, smtp auth error limit exceed</source>
+        <translation>Connection is temporarily prohibited due to excessive IP verification failures.</translation>
+    </message>
+    <message>
+        <source>MAIL_USER_ABORT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid User</source>
+        <translation>The requested user does not exist.</translation>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_OPEN_FAILURE</source>
+        <translation>Failed to open the attachment.</translation>
+    </message>
+    <message>
+        <source>MAIL_LOGON_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_NOT_FOUND</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_NOT_SUPPORTED</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_SUCCESS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_TOO_MANY_FILES</source>
+        <translation>The number of attachments exceeds the limit.</translation>
+    </message>
+    <message>
+        <source>MAIL_INVALID_MESSAGE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User not found</source>
+        <translation>Recipient address is invalid.</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgUpdateTableOfContents</name>
     <message>
         <source>Update &amp;page numbers only</source>
@@ -41699,77 +42803,6 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
 </context>
 <context>
-    <name>MailSendErrorConvert</name>
-    <message>
-        <source>Host not found</source>
-        <translation>Host not found</translation>
-    </message>
-    <message>
-        <source>MAIL_UNKNOWN_RECIPIENT</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>File not found:%1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_ACCESS_DENIED</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_DISK_FULL</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Login failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DNS error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>authentication failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_NETWORK_FAILURE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_INSUFFICIENT_MEMORY</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_USER_ABORT</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_LOGON_FAILURE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_ATTACHMENT_NOT_FOUND</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_NOT_SUPPORTED</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_SUCCESS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_INVALID_MESSAGE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_FAILURE</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxWpsOfficialNewCustomPageNumDlg</name>
     <message>
         <source>Please enter a number between 1% and 2%</source>
@@ -41780,8 +42813,16 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>OfficialPageNum</source>
+        <translation>Official Document Page No.</translation>
+    </message>
+    <message>
         <source>Please enter a Chinese font size or a number between 1% and 2%</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>There is a page number template with the same name, please modify the name</source>
+        <translation>A page number template with the same name already exists. Rename the template.</translation>
     </message>
 </context>
 <context>
@@ -42232,6 +43273,21 @@ Try one or more of the following:
     </message>
 </context>
 <context>
+    <name>KxOfficialTemplateBeginerDialog</name>
+    <message>
+        <source>Start Design</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use the toolbar on the right to design your own official document template.</source>
+        <translation>You can design each element in the toolbar on the right side, including adding, deleting, and editing content.</translation>
+    </message>
+    <message>
+        <source>Beginner Guide</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgBookmarkSelection</name>
     <message>
         <source>Select Place in Document</source>
@@ -42289,6 +43345,25 @@ Try one or more of the following:
     <message>
         <source>Vertical</source>
         <translation>Vertical Text Box</translation>
+    </message>
+</context>
+<context>
+    <name>KxPageElementsWidgetSignature</name>
+    <message>
+        <source>PersonalSeal</source>
+        <translation>Personal Seal</translation>
+    </message>
+    <message>
+        <source>NoSeal</source>
+        <translation>No Seal</translation>
+    </message>
+    <message>
+        <source>Seal Width:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RoundSeal</source>
+        <translation>Official Seal</translation>
     </message>
 </context>
 <context>
@@ -42507,6 +43582,21 @@ Try one or more of the following:
     </message>
 </context>
 <context>
+    <name>KxWpsOfficialAddPageNumWarningDlg</name>
+    <message>
+        <source>The same attribute page number template %1 already exists and cannot be created</source>
+        <translation>The page number template %1 with the same attribute already exists. Creation failed.</translation>
+    </message>
+    <message>
+        <source>Cannot create page number template</source>
+        <translation>Failed to create the page number template.</translation>
+    </message>
+    <message>
+        <source>You can customize up to 99 document page number templates. Please delete some templates and try again</source>
+        <translation>You can save up to 99 official document page number templates. Delete some templates and try again.</translation>
+    </message>
+</context>
+<context>
     <name>KxStyleShortCutBindDlg</name>
     <message>
         <source>Invalid Input.</source>
@@ -42519,6 +43609,21 @@ Try one or more of the following:
     <message>
         <source>Do you want to overwrite the shortcut of [%1]? </source>
         <translation>Do you want to overwrite the shortcut of [%1]? </translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialImportWaringDlg</name>
+    <message>
+        <source>Aleady selected</source>
+        <translation>You have selected</translation>
+    </message>
+    <message>
+        <source>more can be imported</source>
+        <translation> more templates.</translation>
+    </message>
+    <message>
+        <source>templates, up to</source>
+        <translation> templates. You can import up to</translation>
     </message>
 </context>
 <context>
@@ -43359,6 +44464,18 @@ TOC</translation>
         <translation>Sure to delete all recerivers you have added?</translation>
     </message>
     <message>
+        <source>input chinese sy info tips part1</source>
+        <translation>Digits and letters are allowed. You can enter up to</translation>
+    </message>
+    <message>
+        <source>input chinese sy info tips part2</source>
+        <translation> characters.</translation>
+    </message>
+    <message>
+        <source>sy_normal</source>
+        <translation>Specify Watermark</translation>
+    </message>
+    <message>
         <source>please input key word to search info of receivers:</source>
         <translation>Search receivers by keywords:</translation>
     </message>
@@ -43367,8 +44484,32 @@ TOC</translation>
         <translation>Search</translation>
     </message>
     <message>
+        <source>sytype</source>
+        <translation>Type</translation>
+    </message>
+    <message>
+        <source>input normal sy info tips part1</source>
+        <translation>Digits and letters are allowed. You can enter up to</translation>
+    </message>
+    <message>
+        <source>input normal sy info tips part2</source>
+        <translation> characters.</translation>
+    </message>
+    <message>
+        <source>chinese_sy_info</source>
+        <translation>Chinese Watermark Info</translation>
+    </message>
+    <message>
         <source>receivers:</source>
         <translation>Receivers:</translation>
+    </message>
+    <message>
+        <source>normal_sy_info</source>
+        <translation>Non-Chinese Watermark Info</translation>
+    </message>
+    <message>
+        <source>self_sy_info</source>
+        <translation>Watermark Info:</translation>
     </message>
     <message>
         <source>add receiver</source>
@@ -43505,6 +44646,13 @@ TOC</translation>
     <message>
         <source>The Key word is aready exit!</source>
         <translation>Keyword already exists.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialDelCustomPageNumDlg</name>
+    <message>
+        <source>The %1 page number template will be deleted, and the existing page numbers in the document will not be deleted.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -43868,6 +45016,14 @@ TOC</translation>
         <source>dialog</source>
         <translation>dialog</translation>
     </message>
+    <message>
+        <source>Send Completed</source>
+        <translation>Send Complete</translation>
+    </message>
+    <message>
+        <source>All &amp;ReSend</source>
+        <translation>Resend All (&amp;R)</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsWidgetChildShapePosition</name>
@@ -44003,6 +45159,45 @@ TOC</translation>
     </message>
 </context>
 <context>
+    <name>KxComposeParaFormatCommand</name>
+    <message>
+        <source>Format Alignment Center</source>
+        <translation>Align Center</translation>
+    </message>
+    <message>
+        <source>Heading 1</source>
+        <translation>Heading 1</translation>
+    </message>
+    <message>
+        <source>Heading 2</source>
+        <translation>Heading 2</translation>
+    </message>
+    <message>
+        <source>Heading 3</source>
+        <translation>Heading 3</translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <translation>Heading 4</translation>
+    </message>
+    <message>
+        <source>Heading 5</source>
+        <translation>Heading 5</translation>
+    </message>
+    <message>
+        <source>Heading 6</source>
+        <translation>Heading 6</translation>
+    </message>
+    <message>
+        <source>Format Alignment Right</source>
+        <translation>Align Right</translation>
+    </message>
+    <message>
+        <source>Format Alignment Left</source>
+        <translation>Align Left</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsXMLSchemaLibraryDlg</name>
     <message>
         <source>Cannot Install the xml Extend or the xml schema.</source>
@@ -44030,6 +45225,14 @@ TOC</translation>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
         <translation>The font %1 isn&apos;t available on your system, so a substitute is being displayed. Do you want to use this font anyway?</translation>
+    </message>
+    <message>
+        <source>%1 is invalid font size.</source>
+        <translation>%1 is an invalid font size.</translation>
+    </message>
+    <message>
+        <source>When the smart number setting is turned on, the official document master will change the format when you write the corresponding number and press Enter.</source>
+        <translation>When the smart number setting is turned on, the official document writing feature will change the format when you write the corresponding number and press Enter.</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -44296,6 +45499,17 @@ Recipients</translation>
     </message>
 </context>
 <context>
+    <name>KSearchFileItemDelegate</name>
+    <message>
+        <source>OpenByLocalApp</source>
+        <translation>Open From Local</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>Preview</translation>
+    </message>
+</context>
+<context>
     <name>KxConvertTabletoTextDlg</name>
     <message>
         <source>You must type a character for the custom separator.</source>
@@ -44471,6 +45685,29 @@ Recipients</translation>
     </message>
 </context>
 <context>
+    <name>KxOfficialLaunchingWidget</name>
+    <message>
+        <source>OfficialTools</source>
+        <translation>Official Document Tools</translation>
+    </message>
+    <message>
+        <source>Official Master is Launching!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OfficialCorrect</source>
+        <translation>Official Document Correction</translation>
+    </message>
+    <message>
+        <source>OfficialMaterial</source>
+        <translation>Official Document Material</translation>
+    </message>
+    <message>
+        <source>OfficialRender</source>
+        <translation>National Standard Layout</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgWpsRecordMacro</name>
     <message>
         <source>Record Macro</source>
@@ -44563,6 +45800,10 @@ Recipients</translation>
     <message>
         <source>Unaccessible file location</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Failed to save file</source>
+        <translation>Failed to save the file.</translation>
     </message>
     <message>
         <source>The number must not be nil</source>
@@ -44812,6 +46053,10 @@ Recipients</translation>
         <source>Transfering</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Official to ordinary file</source>
+        <translation>Official Document to Common Document</translation>
+    </message>
 </context>
 <context>
     <name>KxGoPremiumDlg</name>
@@ -44992,6 +46237,23 @@ Recipients</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsApplication</name>
+    <message>
+        <source>WPS Writer cannot save Normal.dotm.
+Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
+        <translation>WPS Text cannot save Normal.dotm.
+Click OK to discard unsaved content and close this process. If you don&apos;t want to close it, click Cancel.</translation>
+    </message>
+    <message>
+        <source>Official Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
+        <translation>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsODTLineSpacingWidget</name>
     <message>
         <source>Double</source>
@@ -45130,18 +46392,45 @@ Recipients</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsOfficialNumberingModel</name>
+    <message>
+        <source>GalleryOfficalOutlineNumbering</source>
+        <translation>Official Document Multilevel No.</translation>
+    </message>
+    <message>
+        <source>GalleryOfficialNumbering</source>
+        <translation>Official Document No.</translation>
+    </message>
+</context>
+<context>
     <name>KxTpWpsConfidentialityLevelKeyWordWidget</name>
     <message>
         <source>No data</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>&amp;expandAll</source>
+        <translation>Expand All (&amp;E)</translation>
+    </message>
+    <message>
         <source>This document has no confidential keywords</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>,But did not complete the full text check</source>
+        <translation>, but did not complete the full-text check</translation>
+    </message>
+    <message>
         <source>total check result:</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;collapseAll</source>
+        <translation>Collapse All (&amp;C)</translation>
+    </message>
+    <message>
+        <source>date already deleted!</source>
+        <translation>Date already deleted.</translation>
     </message>
 </context>
 <context>
@@ -45224,13 +46513,6 @@ Recipients</translation>
     <message>
         <source>dialogstest</source>
         <translation>dialogstest</translation>
-    </message>
-</context>
-<context>
-    <name>KxPageElementsWidgetSignature</name>
-    <message>
-        <source>Seal Width:</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45318,13 +46600,6 @@ schema that matches the namespace already specified; or click Cancel, and remove
     <message>
         <source>you must provide the URI name of the schema.</source>
         <translation>You must supply a URI for this Schema before it can be added.</translation>
-    </message>
-</context>
-<context>
-    <name>KxOfficialLaunchingWidget</name>
-    <message>
-        <source>Official Master is Launching!</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45551,6 +46826,13 @@ schema that matches the namespace already specified; or click Cancel, and remove
     </message>
 </context>
 <context>
+    <name>KxPageElementTextEditValidator</name>
+    <message>
+        <source>No more than %1 characters</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWpsReadingDivisionListCommand</name>
     <message>
         <source>One column</source>
@@ -45582,12 +46864,24 @@ schema that matches the namespace already specified; or click Cancel, and remove
         <source>dialog</source>
         <translation>dialog</translation>
     </message>
+    <message>
+        <source>Sending Mail With WPS</source>
+        <translation>Sending an Email with WPS</translation>
+    </message>
+    <message>
+        <source>&amp;Stop sendemail</source>
+        <translation>Stop Sending (&amp;S)</translation>
+    </message>
 </context>
 <context>
     <name>SendByClientConfigWidget</name>
     <message>
         <source>dialog</source>
         <translation>dialog</translation>
+    </message>
+    <message>
+        <source>&amp;Account</source>
+        <translation>Use the following account to send the mail (&amp;A)</translation>
     </message>
     <message>
         <source>SendMail</source>
@@ -45599,6 +46893,49 @@ schema that matches the namespace already specified; or click Cancel, and remove
     <message>
         <source>(No entry)</source>
         <translation>(No entry)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsMaintainCmptPrompt</name>
+    <message>
+        <source>You are saving an old-format document as a new format.
+
+While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</source>
+        <translation>You are about to save an old-format document as a new format.
+
+This may affect the effects of some graphics and paragraphs, but after saving it as a new format, you can use more features.</translation>
+    </message>
+    <message>
+        <source>Save as a new format</source>
+        <translation> Save As New Format</translation>
+    </message>
+    <message>
+        <source>Save new format</source>
+        <translation>Save New Format</translation>
+    </message>
+    <message>
+        <source>MaintainCompatibilityPrompt</source>
+        <translation>Maintain Compatibility Prompt</translation>
+    </message>
+    <message>
+        <source>Do not remind me again.</source>
+        <translation>Do not remind me again.</translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to the newest file format.
+
+While you'll get to use all the new features in Word, some minor layout
+changes are possible. If you prefer not to upgrade, press cancel an
+check the maintain compatibility checkbox.</source>
+        <translation>Your document will be upgraded to the newest file format.
+
+While you&apos;ll get to use all the new features in WPS Writer, some minor layout
+changes are possible. If you prefer not to upgrade, press cancel and
+check the maintain compatibility checkbox.</translation>
+    </message>
+    <message>
+        <source>Do not ask me again.</source>
+        <translation>Do not ask me again.</translation>
     </message>
 </context>
 <context>
@@ -45733,6 +47070,18 @@ schema that matches the namespace already specified; or click Cancel, and remove
         <translation>No keyword found. This document is not a confidentiality level document.</translation>
     </message>
     <message>
+        <source>The thesaurus is empty, please add keywords</source>
+        <translation>The thesaurus is empty. Add keywords first.</translation>
+    </message>
+    <message>
+        <source>Add keywords</source>
+        <translation>Add Keywords</translation>
+    </message>
+    <message>
+        <source>Inverse selection</source>
+        <translation>Invert Selection</translation>
+    </message>
+    <message>
         <source>select all</source>
         <translation>Select All</translation>
     </message>
@@ -45746,13 +47095,6 @@ schema that matches the namespace already specified; or click Cancel, and remove
     <message>
         <source>Attachment: 1.xxxxxxxxxx</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KSearchFileItemDelegate</name>
-    <message>
-        <source>Preview</source>
-        <translation>Preview</translation>
     </message>
 </context>
 <context>
@@ -45781,30 +47123,18 @@ schema that matches the namespace already specified; or click Cancel, and remove
     </message>
 </context>
 <context>
-    <name>KxComposeParaFormatCommand</name>
+    <name>KxWpsEquationOptionsDlg</name>
     <message>
-        <source>Heading 1</source>
-        <translation>Heading 1</translation>
+        <source>This change will affect all new documents based on the NORMAL template.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Heading 2</source>
-        <translation>Heading 2</translation>
+        <source>Save failed.</source>
+        <translation>An error occurred. Change failed.</translation>
     </message>
     <message>
-        <source>Heading 3</source>
-        <translation>Heading 3</translation>
-    </message>
-    <message>
-        <source>Heading 4</source>
-        <translation>Heading 4</translation>
-    </message>
-    <message>
-        <source>Heading 5</source>
-        <translation>Heading 5</translation>
-    </message>
-    <message>
-        <source>Heading 6</source>
-        <translation>Heading 6</translation>
+        <source>Template is missing.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45957,6 +47287,13 @@ schema that matches the namespace already specified; or click Cancel, and remove
     </message>
 </context>
 <context>
+    <name>KxWpsOfficialNewDocumentDlg</name>
+    <message>
+        <source>New Empty</source>
+        <translation>New Blank Official Document</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgNewLabel</name>
     <message>
         <source>New Label</source>
@@ -46046,13 +47383,6 @@ schema that matches the namespace already specified; or click Cancel, and remove
     </message>
 </context>
 <context>
-    <name>KxDlgCheckingTips</name>
-    <message>
-        <source>checking now,plz wait...</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxDlgCheckingTips2</name>
     <message>
         <source>checking now,plz wait...</source>
@@ -46120,21 +47450,6 @@ Converting allows you to use all the new features of WPS Writer and reduces the 
     </message>
 </context>
 <context>
-    <name>KxWpsMailSenderTestDlg</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation>&amp;Cancel</translation>
-    </message>
-    <message>
-        <source>Receiving this mail means your configuration is successful. </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Test failed.Please check the information.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxDlgUnProtectDocument</name>
     <message>
         <source>&amp;Password:</source>
@@ -46182,6 +47497,21 @@ Converting allows you to use all the new features of WPS Writer and reduces the 
     </message>
 </context>
 <context>
+    <name>KxDocElementsWidget</name>
+    <message>
+        <source>Edition:</source>
+        <translation>Version Elements:</translation>
+    </message>
+    <message>
+        <source>IU_unit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Header:</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>wps_field_parser_autotext</name>
     <message>
         <source>Error! No autotext entry supplied</source>
@@ -46216,6 +47546,13 @@ Converting allows you to use all the new features of WPS Writer and reduces the 
     <message>
         <source>The number must be between %1 and %2.</source>
         <translation>The number must be between %1 and %2.</translation>
+    </message>
+</context>
+<context>
+    <name>KxCreateContentsToolTip</name>
+    <message>
+        <source>click &quot;Create Navigation&quot;, show document structure.</source>
+        <translation>Click &quot;Create Directory Navigation&quot; to display the document structure.</translation>
     </message>
 </context>
 <context>
@@ -46254,13 +47591,6 @@ Converting allows you to use all the new features of WPS Writer and reduces the 
     </message>
 </context>
 <context>
-    <name>KxWpsEquationOptionsDlg</name>
-    <message>
-        <source>Template is missing.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxWpsRestartPageNumCommand</name>
     <message>
         <source>Restart Page Number</source>
@@ -46272,44 +47602,6 @@ Converting allows you to use all the new features of WPS Writer and reduces the 
     <message>
         <source>The measurement must be between %1 and %2.</source>
         <translation>The measurement must be between %1 and %2.</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgWpsMaintainCmptPrompt</name>
-    <message>
-        <source>MaintainCompatibilityPrompt</source>
-        <translation>Maintain Compatibility Prompt</translation>
-    </message>
-    <message>
-        <source>Do not remind me again.</source>
-        <translation>Do not remind me again.</translation>
-    </message>
-    <message>
-        <source>Your document will be upgraded to the newest file format.
-
-While you'll get to use all the new features in Word, some minor layout
-changes are possible. If you prefer not to upgrade, press cancel an
-check the maintain compatibility checkbox.</source>
-        <translation>Your document will be upgraded to the newest file format.
-
-While you&apos;ll get to use all the new features in WPS Writer, some minor layout
-changes are possible. If you prefer not to upgrade, press cancel and
-check the maintain compatibility checkbox.</translation>
-    </message>
-    <message>
-        <source>Do not ask me again.</source>
-        <translation>Do not ask me again.</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsApplication</name>
-    <message>
-        <source>Official Document</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
-        <translation>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</translation>
     </message>
 </context>
 <context>
@@ -46345,6 +47637,13 @@ check the maintain compatibility checkbox.</translation>
     <message>
         <source>Advanced find</source>
         <translation>Advanced lookup</translation>
+    </message>
+</context>
+<context>
+    <name>KeyWordCheckEntryButton</name>
+    <message>
+        <source>Classified check</source>
+        <translation>Check Confidentiality Level</translation>
     </message>
 </context>
 <context>
@@ -46420,13 +47719,6 @@ represent the receiver</translation>
     </message>
 </context>
 <context>
-    <name>KxDocElementsWidget</name>
-    <message>
-        <source>Header:</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxWpsDuplexPrintCombobox</name>
     <message>
         <source>Duplex Print:</source>
@@ -46459,13 +47751,6 @@ represent the receiver</translation>
     <message>
         <source>Click here to insert pictures.</source>
         <translation>Click here to insert pictures.</translation>
-    </message>
-</context>
-<context>
-    <name>KxOfficialTemplateBeginerDialog</name>
-    <message>
-        <source>Beginner Guide</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
