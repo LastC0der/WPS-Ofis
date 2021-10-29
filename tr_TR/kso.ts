@@ -1505,6 +1505,10 @@ cycle</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Enter network password to connect to:%1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Load on Demand</source>
         <translation type="unfinished"/>
     </message>
@@ -1803,6 +1807,10 @@ If you are changing the name of a PivotTable field, you must type a new name for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The XML extension package security settings have been disabled, which will facilitate solution development but allow for the running of unsafe XML extension package components. Do you re-enable the XML extension package security settings?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Indigo</source>
         <translation>Çivit</translation>
     </message>
@@ -1865,6 +1873,11 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Orange</source>
         <translation>Turuncu</translation>
+    </message>
+    <message>
+        <source>%1
+Please carefully identify the website to ensure that it is trustworthy and safe, so as not to disturb you by sending irrelevant content, or Because unsafe operations cause you losses. If you trust it, it will have the right to display its web page information in WPS application and access document content and computer resources.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paused</source>
@@ -10045,7 +10058,19 @@ Please choose a different file name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Scan Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Image Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Scanner Automatically Adapt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan Dpi:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10058,6 +10083,10 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Searching...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Searched</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10110,6 +10139,13 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
 </context>
 <context>
+    <name>KWpsAddonAuthDlg</name>
+    <message>
+        <source>NO</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>CheckInDlg</name>
     <message>
         <source>OK</source>
@@ -10142,11 +10178,35 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation>Ekle</translation>
     </message>
     <message>
+        <source>Label as classified</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>who to infrom:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>change time:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>lift person:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>setup time:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>document name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>type of encryption:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>issue copy number:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10162,7 +10222,23 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>classification setup based on:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>draft time:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>issue person:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>unit name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>lift time:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10170,7 +10246,39 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>desc of inform:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>change person:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>level of calssification:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>drafter:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>resson:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>decrypt person:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>issue opinion:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>decrypt time:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>setup person:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -10428,6 +10536,10 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation>WPS Elektronik Tablolar Hakkında</translation>
     </message>
     <message>
+        <source>Probation period %1 days - Due time %2 </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>About WPS Presentation(Kingsoft Kylin WPS)</source>
         <translation type="unfinished"/>
     </message>
@@ -10441,6 +10553,10 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Part of %1 activation version</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1-%2year%3month%4day Expired</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10466,6 +10582,10 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>About WPS Writer(Kingsoft Kylin WPS)</source>
         <translation>WPS Writer Hakkında(Kingsoft Kylin WPS)</translation>
+    </message>
+    <message>
+        <source>Due time %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>License information should be based on authorized documents issued by kingsoft office or authorized information displayed in WPS + enterprise management.</source>
@@ -10711,6 +10831,14 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>Dialog</source>
         <translation>İletişim Kutusu</translation>
+    </message>
+    <message>
+        <source>Watermark protection, the watermark is composed of the name of the enterprise, the outsider and the production time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Make Ourward Document</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document password:</source>
@@ -11025,6 +11153,10 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation>Tamam</translation>
     </message>
     <message>
+        <source>The network connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Import succeeded.</source>
         <translation type="unfinished"/>
     </message>
@@ -11049,6 +11181,14 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Please click broswer button to import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The server connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>You have enter two different passwords.</source>
         <translation type="unfinished"/>
     </message>
@@ -11057,7 +11197,23 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>setted</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter a new password again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Please enter current offline password</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Modify password successfully</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline secret key has been successfully cached to your local computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -11079,6 +11235,14 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>Current password can&apos;t be empty.</source>
         <translation>Geçerli parola boş olamaz.</translation>
+    </message>
+    <message>
+        <source>When there is no network, the encrypted document can be opened by verifying the offline password of the current account.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The original offline password input wrong</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invalid import path, please readjust the file path.</source>
@@ -11419,6 +11583,18 @@ After expiration, some features will not work properly. Please renew now.</sourc
         <translation>Yazdır</translation>
     </message>
     <message>
+        <source>distribute unit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>people info</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>strictly confidential</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Browse</source>
         <translation>Gözat</translation>
     </message>
@@ -11435,6 +11611,10 @@ After expiration, some features will not work properly. Please renew now.</sourc
         <translation>İptal</translation>
     </message>
     <message>
+        <source>File level</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>public</source>
         <translation type="unfinished"/>
     </message>
@@ -11447,7 +11627,27 @@ After expiration, some features will not work properly. Please renew now.</sourc
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>recieve unit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>confidential</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ofd file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>distribution settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>sy info setting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Knowledgeable range</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -11569,6 +11769,10 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <message>
         <source>Restore Defaults</source>
         <translation>Varsayılanları Geri Yükle</translation>
+    </message>
+    <message>
+        <source>Open in read-only</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -11805,8 +12009,16 @@ After expiration, some features will not work properly. Please renew now.</sourc
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>printing left %1 copies, the current setting exceeds the limit, please input again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Recent Fonts</source>
         <translation>En Son Yazı Tipleri</translation>
+    </message>
+    <message>
+        <source>local font, click available</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
@@ -12071,6 +12283,10 @@ Always take this action.</source>
         <translation>Bebek Mavisi</translation>
     </message>
     <message>
+        <source>do not has current document&apos;s printing right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Share as a link for comments</source>
         <translation>Yorumlar için bağlantı olarak paylaş</translation>
     </message>
@@ -12261,6 +12477,10 @@ Always take this action.</source>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>must be 6-16 chars(case-sensitive)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -13106,6 +13326,10 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation>QuickTime Film Dosyası (*.mov)</translation>
     </message>
     <message>
+        <source>Insert JdeControl</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Insert Freeform</source>
         <translation type="unfinished"/>
     </message>
@@ -13206,6 +13430,10 @@ Ekle</translation>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxHorizontal</comment>
         <translation>Metin Kutusu Ekle</translation>
+    </message>
+    <message>
+        <source>Unidentifiable sound format.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reflection</source>
@@ -13687,6 +13915,10 @@ Ekle</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Insert AutoShape</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Convert To Smartart Graphic</source>
         <translation type="unfinished"/>
     </message>
@@ -14002,6 +14234,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Highlight Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
         <translation type="unfinished"/>
     </message>
@@ -14047,6 +14283,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>Grubu Çöz</translation>
     </message>
     <message>
+        <source>Reset Crop</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Change Series</source>
         <translation>Seriyi Değiştir</translation>
     </message>
@@ -14066,6 +14306,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Bring In Front Of Text</source>
         <translation>Metnin Önüne Getir</translation>
+    </message>
+    <message>
+        <source>Unidentifiable movie format.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -14419,6 +14663,10 @@ Ekle</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Simulation Error Recovery Help</source>
         <translation type="unfinished"/>
     </message>
@@ -14555,6 +14803,10 @@ File: %s
     </message>
     <message>
         <source>Network transfer failed! Error code: %d</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Writer cannot inert a file into self. (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -14773,6 +15025,16 @@ You can click the button to recover files you work on.</source>
     </message>
     <message>
         <source>Are you sure you want to remove the user?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%s Errors occur when backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -15011,6 +15273,15 @@ Do you want to open it using a different set of credentials?</source>
         <translation>Kısıtlı Erişim</translation>
     </message>
     <message>
+        <source>%s Errors occur when backup is running! Please try the  following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Presentation has encountered a problem and needs to close.</source>
         <translation type="unfinished"/>
     </message>
@@ -15087,6 +15358,10 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Text Or Property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -15704,6 +15979,10 @@ you can manage,delete,reshare the link</source>
         <source>please input USB Key password</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>verify PIN</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgFont</name>
@@ -16193,6 +16472,14 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Narrow Vision</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right Angle Ae&amp;xs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto&amp;scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -17366,6 +17653,10 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Source file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found.,,,,,,,,, The linked information will not be updated.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -19269,6 +19560,10 @@ Check path and filename.</source>
         <translation>%100 Yığılmış Çubuk</translation>
     </message>
     <message>
+        <source>Pie of 3d</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Volume-Open-High-Low-Close</source>
         <translation>İşlem Hacmi-Açılış-Yüksek-Düşük-Kapanış</translation>
     </message>
@@ -19363,6 +19658,10 @@ Check path and filename.</source>
     <message>
         <source>Stacked Column</source>
         <translation>Yığılmış Sütun</translation>
+    </message>
+    <message>
+        <source>DsOnlineChart</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OnlineSmartChart</source>
@@ -22227,6 +22526,10 @@ This file may be renamed, deleted or moved.</source>
         <translation>Yığılmış Alan - Kümelenmiş Sütun</translation>
     </message>
     <message>
+        <source>3DPie</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Combo</source>
         <translation>Birleşik</translation>
     </message>
@@ -22237,6 +22540,14 @@ This file may be renamed, deleted or moved.</source>
     <message>
         <source>Stock</source>
         <translation>Hisse Senedi</translation>
+    </message>
+    <message>
+        <source>2-D Area</source>
+        <translation>2-B Alan</translation>
+    </message>
+    <message>
+        <source>2-D Line</source>
+        <translation>2-B Çizgi</translation>
     </message>
     <message>
         <source>Open-High-Low-Close</source>
@@ -22287,6 +22598,18 @@ This file may be renamed, deleted or moved.</source>
         <translation>Kabarcık</translation>
     </message>
     <message>
+        <source>2-D Column</source>
+        <translation>2-B Sütun</translation>
+    </message>
+    <message>
+        <source>2-D Bar</source>
+        <translation>2-B Çubuk</translation>
+    </message>
+    <message>
+        <source>2-D Pie</source>
+        <translation>2-B Pasta</translation>
+    </message>
+    <message>
         <source>Bar Of Pie</source>
         <translation>Pasta Çubuğu</translation>
     </message>
@@ -22297,6 +22620,10 @@ This file may be renamed, deleted or moved.</source>
     <message>
         <source>Volume-High-Low-Close</source>
         <translation>İşlem Hacmi-Yüksek-Düşük-Kapanış</translation>
+    </message>
+    <message>
+        <source>3-D Pie</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Doughnut</source>
@@ -23129,6 +23456,10 @@ Possible reasons:
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>WPS Writer Official Template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>%1 outward document  applicant : %2  approver : %3</source>
         <translation type="unfinished"/>
     </message>
@@ -23270,6 +23601,10 @@ Possible reasons:
         <translation>Microsoft Word Belgesi</translation>
     </message>
     <message>
+        <source>WPS Writer Official Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>XML Files</source>
         <translation>XML Dosyaları</translation>
     </message>
@@ -23351,6 +23686,13 @@ Possible reasons:
     <message>
         <source>Privacy Agreement</source>
         <translation>Gizlilik Sözleşmesi</translation>
+    </message>
+</context>
+<context>
+    <name>KxImageToPDFOneCommand</name>
+    <message>
+        <source>pic</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -23487,6 +23829,10 @@ Possible reasons:
     <message>
         <source>Login</source>
         <translation>Oturum aç</translation>
+    </message>
+    <message>
+        <source>The network connection has been restored to normal. To ensure the normal use of the function, please log in to the account %1 before encrypting the document.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -24229,6 +24575,10 @@ Please verify the correct file name was given.</source>
         <translation>Aç</translation>
     </message>
     <message>
+        <source>If WPS client is already running, you need to restart it to take effect.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Allow</source>
         <translation type="unfinished"/>
     </message>
@@ -24243,6 +24593,14 @@ Please verify the correct file name was given.</source>
     <message>
         <source>Uninstall</source>
         <translation>Kaldır</translation>
+    </message>
+    <message>
+        <source>Confirm that the add-on &quot;%1&quot; is allowed to run in the WPS client?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Confirm that &quot;%1&quot; delete WPS Addon &quot;%2&quot; is allowed?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown Origin</source>
@@ -24269,11 +24627,27 @@ Please verify the correct file name was given.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>F4Repeat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Save as</source>
         <translation>Farklı kaydet</translation>
     </message>
     <message>
+        <source>Please make sure that the site is trusted, it has the right to display its web page information in WPS and access your document contentand computer resources.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Allowed this time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Confirm to add WPS Addon &quot;%1&quot;?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This add-on is a third-party program, can add new features to WPS, But it has access to your document content, computer resources.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -24349,6 +24723,10 @@ Please verify the correct file name was given.</source>
     <message>
         <source>Comment:</source>
         <translation>Açıklama:</translation>
+    </message>
+    <message>
+        <source>&amp;Fast Print</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Printer</source>
@@ -24692,11 +25070,87 @@ Please verify the correct file name was given.</source>
         <translation>İpuçları</translation>
     </message>
     <message>
+        <source>You cannot issue this document because you are not the issuer. Contact your administrator to solve the problem.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>confirm decrypt classification success!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>confirm lift classification success!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cannot issue</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>withdraw issued doc success!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>submit change classification success!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot setup classification level</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>withdraw issue success</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You cannot lift the classification for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You cannot change the classification level for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>label classification success!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cannot lift classification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You cannot setup the classification level for this document because you are not the person responsible. You can contact your administrator for setting.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>signed classification success!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot remove classification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>this document has applying %1, can not operate %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot withdraw issued</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>setup classification success!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You cannot label the classification level for this document because you are not the drafter. You can contact your administrator for labeling.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You cannot remove the classification for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>submit lift classification success!</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -24705,6 +25159,18 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>You cannot withdraw issue because you are not the issuer.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>confirm change classification success!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot label classification level</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>submit decrypt classification success!</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -25360,6 +25826,10 @@ Ortalama</translation>
     <message>
         <source>Customize the Quick Access Toolbar</source>
         <translation>Hızlı Erişim Araç Çubuğunu Özelleştir</translation>
+    </message>
+    <message>
+        <source>Macro name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -26397,9 +26867,64 @@ Ortalama</translation>
     </message>
 </context>
 <context>
+    <name>KxOutwardDocTableModelV2</name>
+    <message>
+        <source>Made</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>nothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Durum</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Parola</translation>
+    </message>
+    <message>
+        <source>ToBeReviewed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation>Filigran</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>Reddedildi</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation>Bilinmeyen</translation>
+    </message>
+    <message>
+        <source>Reviewed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expired</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Protect Type</source>
+        <translation>Koruma Türü</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgChooseOutwardDocV2</name>
     <message>
         <source>Make</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>=+new</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -26852,6 +27377,10 @@ Ortalama</translation>
         <translation>Aç</translation>
     </message>
     <message>
+        <source>Cannot open this object.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
@@ -26861,6 +27390,14 @@ Ortalama</translation>
     </message>
     <message>
         <source>Warning</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Office cannot open this object. Link to this object might be invalid or changed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Office cannot open this object. You can open it on your computer with other apps. To save your changes, please insert it after changing it with other apps.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -27281,6 +27818,14 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Level of classification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>People</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Status</source>
         <translation>Durum</translation>
     </message>
@@ -27291,41 +27836,6 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Operation</source>
         <translation>İşlem</translation>
-    </message>
-</context>
-<context>
-    <name>KxOutwardDocTableModelV2</name>
-    <message>
-        <source>Time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Durum</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation>Parola</translation>
-    </message>
-    <message>
-        <source>Watermark</source>
-        <translation>Filigran</translation>
-    </message>
-    <message>
-        <source>Rejected</source>
-        <translation>Reddedildi</translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation>Bilinmeyen</translation>
-    </message>
-    <message>
-        <source>Expired</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Protect Type</source>
-        <translation>Koruma Türü</translation>
     </message>
 </context>
 <context>
@@ -27455,6 +27965,10 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>This file has been opened as read-only. Enable edit?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
         <translation type="unfinished"/>
     </message>
@@ -27468,6 +27982,14 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored(If you do not need the restored file, close it directly and reopen the original document).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>check key word</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can only edit under read-only mode since other users are editing this file.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -27551,7 +28073,15 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>find some keywords</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>There was an error in the backup replay process, and some backup content may have been lost.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To change this file from server, please check out first.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -27744,7 +28274,15 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Are you sure to withdraw issue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>can not operate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>this document has applying %1, can not withdraw issue.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -27883,7 +28421,27 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>SupportType_Office</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>not support yet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OutwardType_WaterMark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OutwardType_PasswordAndWatermark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SupportType_Wps</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NoProtect</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -27896,6 +28454,14 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>open password:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>watermark:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Support Type</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -27951,6 +28517,56 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1: Remote closed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxGalleryFontComboBox</name>
+    <message>
+        <source>Hide theme fonts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> (Body)</source>
+        <translation> (Gövde)</translation>
+    </message>
+    <message>
+        <source> (Headings)</source>
+        <translation> (Başlıklar)</translation>
+    </message>
+    <message>
+        <source>Show theme fonts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show theme Fonts</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KXBlackTipWidget</name>
+    <message>
+        <source>%1Not again for this file%2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Takes too long to open? Slim the file to clear invalid data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Feeling slow? Clear invalid data with File Slimming feature.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This notice will stop popping out. To use File Slimming, find it in Special Features.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Not again for this file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Slim list</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -29917,6 +30533,10 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>You cannot copy from the password.</source>
         <translation type="unfinished"/>
     </message>
@@ -30744,6 +31364,297 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KxChartTypeItem</name>
+    <message>
+        <source>Use this chart type to:
+• Show values relative to a center point.
+
+Use it when:
+• Categories are not directly comparable.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the relationship of parts to a whole over time or categories.
+• Highlight the magnitude of change over time.
+• Draw attention to the total value across a trend.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of values: Volume, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The order of categories is not important.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show how parts of a whole change over time.
+
+Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• Bir bütünün parçalarının zaman içindeki değişimini gösterme.
+
+Yığılmış çizgi grafiklerini okumak zor olabildiğinden yığılmış alan grafiği kullanmayı düşünün.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentages that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• Category order is important.
+• To highlight the magnitude of change over time.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• Zaman içindeki (yıl, ay ve gün) veya kategoriler içindeki eğilimleri gösterme.
+
+Kullanıldığı durumlar:
+• Kategorilerin sırası önemli olduğunda.
+• Zaman içindeki değişimin büyüklüğünü vurgulamak için.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of price values: Open, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• En az iki değer kümesini veya değer çiftini karşılaştırma.
+
+Kullanıldığı durumlar:
+• Birçok veri noktası bulunduğunda.
+• Veriler bir formüle bağlı olan bir x,y çiftleri kümesini temsil ettiğinde.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it when:
+• Numbers equal 100%.
+• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• The range of values in the chart varies widely.
+• You have mixed types of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• The data represents separate measurements.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• En az iki değer kümesini veya değer çiftini karşılaştırma.
+• Değer kümeleri arasındaki ilişkiyi gösterme.
+
+Kullanıldığı durumlar:
+• Veriler ayrı ölçümleri temsil ettiğinde.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least three sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• You have a third value that can be used to determine the relative size of the bubble.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole across categories.
+• Show how parts of a whole change over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents separate measurements.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• En az iki değer kümesini veya değer çiftini karşılaştırma.
+
+Kullanıldığı durumlar:
+• Birkaç veri noktası bulunduğunda.
+• Veriler ayrı ölçümleri temsil ettiğinde.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• You have mixed types of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentage that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are few data points.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• Zaman içindeki (yıl, ay ve gün) veya kategoriler içindeki eğilimleri gösterme.
+
+Kullanıldığı durumlar:
+• Kategorilerin sırası önemli olduğunda.
+• Birkaç veri noktası bulunduğunda.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Show the change to the percentage that each value contributes over time.
+
+Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• Bir bütüne yapılan katkının yüzdesini zamana veya kategorilere göre gösterme.
+• Her değerin yaptığı katkının yüzdesindeki değişikliği zamana göre görüntüleme.
+
+Yığılmış çizgi grafiklerini okumak zor olabildiğinden %100 yığılmış alan grafiği kullanmayı düşünün.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are many data points.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• Zaman içindeki (yıl, ay ve gün) veya kategoriler içindeki eğilimleri gösterme.
+
+Kullanıldığı durumlar:
+• Kategorilerin sırası önemli olduğunda.
+• Birçok veri noktası bulunduğunda.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have three series of price values: High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The chart shows duration.
+• The category text is long.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole.
+• Show how parts of a whole change over time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have five series of values: Volume, Open, High, Low, Close.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents separate measurements.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• En az iki değer kümesini veya değer çiftini karşılaştırma.
+
+Kullanıldığı durumlar:
+• Birçok veri noktası bulunduğunda.
+• Veriler ayrı ölçümleri temsil ettiğinde.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation>Bu grafik türünün kullanım amacı:
+• En az iki değer kümesini veya değer çiftini karşılaştırma.
+
+Kullanıldığı durumlar:
+• Birkaç veri noktası bulunduğunda.
+• Veriler bir formüle bağlı olan bir x,y çiftleri kümesini temsil ettiğinde.</translation>
+    </message>
+</context>
+<context>
     <name>QProcess</name>
     <message>
         <source>Error writing to process</source>
@@ -31072,6 +31983,10 @@ Become a VIP for unlimited use of this feature.</source>
     <message>
         <source>Login</source>
         <translation>Oturum aç</translation>
+    </message>
+    <message>
+        <source>Custom toolbar needs to login.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -31551,6 +32466,22 @@ Document</source>
         <source>Retry</source>
         <translation>Yeniden Dene</translation>
     </message>
+    <message>
+        <source>Ofd preview is being generated.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Preview Ofd Failed! Please Click Retry.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 Done</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel Preview</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlglineSpacing</name>
@@ -31883,6 +32814,10 @@ yazılamadı</translation>
         <translation>Yeniden Dene</translation>
     </message>
     <message>
+        <source>loaded failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Online resource deployment failed</source>
         <translation type="unfinished"/>
     </message>
@@ -31983,7 +32918,15 @@ yazılamadı</translation>
         <translation>yükle</translation>
     </message>
     <message>
+        <source>server not %1, please try later</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>cert not valid yet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>insert USB Key success</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -31995,11 +32938,31 @@ yazılamadı</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>validate cert Fail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>cert holded</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>unknow error, please make sure install correctly and try later</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>startup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB Key has been locked, need deblocking, please contact the manager</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>cert not trust</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>your PC is linking more than one USB Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -32012,6 +32975,10 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Invalid password, please retry. remaining count:[%1]</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>cert has expired, please contact the manager to update the cert</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -32157,6 +33124,25 @@ yazılamadı</translation>
     </message>
 </context>
 <context>
+    <name>KxPermissionLoginTipDlg</name>
+    <message>
+        <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline verification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Abnormal network connection</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QSocks5SocketEngine</name>
     <message>
         <source>Network operation timed out</source>
@@ -32297,6 +33283,11 @@ Yazdırmaya devam edilsin mi?</translation>
         <translation>Tüm Dosyalar(*.*)|*.*|PDF Dosyaları(*.pdf)|*.pdf|PostScript Dosyaları(*.ps)|*.ps</translation>
     </message>
     <message>
+        <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
+If the problem still exists, you can print a test page by right-clicking the printer icon in system and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <translation type="unfinished"/>
     </message>
@@ -32343,6 +33334,49 @@ Yazdırmaya devam edilsin mi?</translation>
     <message>
         <source>close</source>
         <translation>Kapat</translation>
+    </message>
+</context>
+<context>
+    <name>KxGetVbaRightsDialog</name>
+    <message>
+        <source>upgrated, refresh</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get VBA Permission</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dialog</source>
+        <translation>İletişim Kutusu</translation>
+    </message>
+    <message>
+        <source>I know</source>
+        <translation>Anladım</translation>
+    </message>
+    <message>
+        <source>How to Get</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>upgrade package</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The current package %1 does not support macro. After upgrading the package (to Commercial / Advanced Commercial), you can obtain the installation permission of VBA.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The current package %1 does not support macro. Please contact the super administrator %2 to upgrade the packagefor obtaining the installation permission of VBA.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -32616,6 +33650,10 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>style</source>
         <translation>Stil</translation>
+    </message>
+    <message>
+        <source>System Style</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More</source>
@@ -33014,6 +34052,10 @@ Please check your system settings and ensure that the temporary directory under 
         <translation>Çevrimdışı yönetim</translation>
     </message>
     <message>
+        <source>Import Cache offline key in this computer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;Password</source>
         <translation>&amp;Parola</translation>
     </message>
@@ -33266,6 +34308,14 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Blank Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Excel Template Macro Enabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PowerPoint Template Macro Enabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -34328,6 +35378,25 @@ Please reinstall WPS Office!</source>
     </message>
 </context>
 <context>
+    <name>KxAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1-day used</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1-day trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>trial unlimited</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KUserCenterMenuCommand</name>
     <message>
         <source>You have signed in WPS Office.</source>
@@ -34805,6 +35874,17 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
 </context>
 <context>
+    <name>KxPluginPathDlg</name>
+    <message>
+        <source>If you cancel this download, to protect data, the file will not open. Sure to cancel?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Download Moji plugin failed. The file will be closed to prent data loss. Please check your network and retry download.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QMainWindow</name>
     <message>
         <source>Next Document</source>
@@ -35141,6 +36221,10 @@ Please check network</source>
         <source>Task window location</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>online taskpane</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>kxServiceExpireTipCommand</name>
@@ -35224,6 +36308,21 @@ Please check network</source>
     </message>
     <message>
         <source>unexpected end</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KPPDOptionsEditor</name>
+    <message>
+        <source>There are conflicting options.The changes can only be applied after the conflict has been resolved.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Property</source>
+        <translation>Özellik</translation>
+    </message>
+    <message>
+        <source>This option has conflict with other option.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -35420,6 +36519,17 @@ Please check network</source>
     </message>
 </context>
 <context>
+    <name>KxHistoryDisplayDlg</name>
+    <message>
+        <source>View classification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>Belge Adı:</translation>
+    </message>
+</context>
+<context>
     <name>QHttpSocketEngine</name>
     <message>
         <source>Proxy connection refused</source>
@@ -35538,6 +36648,10 @@ Please check network</source>
         <translation>Kullanıcı adı:</translation>
     </message>
     <message>
+        <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>User account:</source>
         <translation>Kullanıcı hesabı:</translation>
     </message>
@@ -35575,6 +36689,14 @@ Please check network</source>
     </message>
     <message>
         <source>User department:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Import offline data successfully.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The file format is incorrect or the file is corrupt and the file cannot be imported. Please contact the administrator.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -36209,6 +37331,10 @@ This file may be renamed, deleted or moved.</source>
         <source>Please enter the document password again</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>The current password cannot be empty</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxScreenSaverCenterButton</name>
@@ -36377,6 +37503,33 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Change Icon</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxOfflineManagement</name>
+    <message>
+        <source>The offline account %1 is inconsistent with the login account %2, please use the login account to verify</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please close all security document before log out.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Verification Exception Hint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline verfication</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login Exception Hint</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -36608,6 +37761,25 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
 </context>
 <context>
+    <name>KxEtCollectionFormWidget</name>
+    <message>
+        <source>Immediate experience</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Support multi-person filling, mobile submission, automatic data aggregation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View brief</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1Not remind%2</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QUndoModel</name>
     <message>
         <source>&lt;empty&gt;</source>
@@ -36618,21 +37790,6 @@ Become a VIP for unlimited use of this feature.</source>
     <name>QNetworkAccessCacheBackend</name>
     <message>
         <source>Error opening %1</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxGalleryFontComboBox</name>
-    <message>
-        <source> (Body)</source>
-        <translation> (Gövde)</translation>
-    </message>
-    <message>
-        <source> (Headings)</source>
-        <translation> (Başlıklar)</translation>
-    </message>
-    <message>
-        <source>Show theme Fonts</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -36704,33 +37861,6 @@ Become a VIP for unlimited use of this feature.</source>
     <message>
         <source>&amp;Preview</source>
         <translation>&amp;Önizleme</translation>
-    </message>
-</context>
-<context>
-    <name>KxGetVbaRightsDialog</name>
-    <message>
-        <source>Get VBA Permission</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>İletişim Kutusu</translation>
-    </message>
-    <message>
-        <source>I know</source>
-        <translation>Anladım</translation>
-    </message>
-    <message>
-        <source>upgrade package</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37024,6 +38154,17 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
 </context>
 <context>
+    <name>KxMakeOutwardDocEntranceCommand</name>
+    <message>
+        <source>You don&apos;t have outgoing permissions for this document(docid: %1). Please contact the administrator.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxMakeOutwardDocCommand</name>
     <message>
         <source>Current document has unsaved changes, please make outward document after saving changes.</source>
@@ -37038,7 +38179,27 @@ Become a VIP for unlimited use of this feature.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>This document can not make outward document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Open file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Can not make outward document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The outgoing document has been made successfully.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You haven&apos;t makeoutward permission of document. If you want to make outward document, please contact the administrator.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your document is in the form of attachment, unable to make outward document.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -37128,6 +38289,33 @@ Please check your network your firewall configuration</source>
     <message>
         <source>CHART OPTIONS</source>
         <translation>GRAFİK SEÇENEKLERİ</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionLoginTipDlgV2</name>
+    <message>
+        <source>This document has private document protection turned on, log in to the document owner account or authorized account to open the document.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login Account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This document is protected by account access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>turned on private document protection.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The document was</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Log in the authorized account to open the document.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37253,13 +38441,6 @@ Please check your network your firewall configuration</source>
     </message>
 </context>
 <context>
-    <name>KxHistoryDisplayDlg</name>
-    <message>
-        <source>Document Name:</source>
-        <translation>Belge Adı:</translation>
-    </message>
-</context>
-<context>
     <name>KDateEdit</name>
     <message>
         <source>%1-%2-%3</source>
@@ -37334,17 +38515,6 @@ you can use the login!</source>
     <message>
         <source>Username:</source>
         <translation>Kullanıcı adı:</translation>
-    </message>
-</context>
-<context>
-    <name>KxOfflineManagement</name>
-    <message>
-        <source>Please close all security document before log out.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Offline verfication</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37519,17 +38689,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxPermissionLoginTipDlg</name>
-    <message>
-        <source>Offline verification</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Abnormal network connection</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxServerDownTipDlg</name>
     <message>
         <source>Offline verification</source>
@@ -37544,6 +38703,13 @@ p, li { white-space: pre-wrap; }
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Change Theme Color</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxDevelopLanguageTipWidget</name>
+    <message>
+        <source>Set JS as default. You can change it to VB. When opening VB-only files, the environment is still VB.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -37754,25 +38920,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxPermissionLoginTipDlgV2</name>
-    <message>
-        <source>Login Account</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This document is protected by account access</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>turned on private document protection.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The document was</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxChartToolsHelper</name>
     <message>
         <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
@@ -37780,6 +38927,28 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxMBRejectDlg</name>
+    <message>
+        <source>You sure reject the application? Please brief the reason.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>Reddedildi</translation>
+    </message>
+</context>
+<context>
+    <name>KxSetMBCommand</name>
+    <message>
+        <source>Your document is in the form of attachment, unable to set mb.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This document can not set MB</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -38049,6 +39218,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Project is unviewable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Project Locked</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -38546,6 +39719,10 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Document is setted edit password</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>(Recommended)</source>
         <translation type="unfinished"/>
     </message>
@@ -39018,17 +40195,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KPPDOptionsEditor</name>
-    <message>
-        <source>Property</source>
-        <translation>Özellik</translation>
-    </message>
-    <message>
-        <source>This option has conflict with other option.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
     <message>
         <source>Property</source>
@@ -39054,6 +40220,13 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxColorSnapperWidget</name>
+    <message>
+        <source>Failed to initialize the Color snapper,the feature is not supported by current system.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWordArtInsertCommand</name>
     <message>
         <source>Your text here</source>
@@ -39064,6 +40237,13 @@ p, li { white-space: pre-wrap; }
     <name>KChartElementCommand</name>
     <message>
         <source>Button </source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxVbaQuestionButton</name>
+    <message>
+        <source>how to enable</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -39097,6 +40277,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Copies:</source>
         <translation>Kopya:</translation>
+    </message>
+</context>
+<context>
+    <name>QCalendarEdit</name>
+    <message>
+        <source>please select date</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39252,6 +40439,10 @@ Properties</source>
         <source>FeedBack</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>mail subject</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxFeedbackCommand</name>
@@ -39276,13 +40467,6 @@ Properties</source>
     <message>
         <source>Custom Group</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxMBRejectDlg</name>
-    <message>
-        <source>Rejected</source>
-        <translation>Reddedildi</translation>
     </message>
 </context>
 <context>
@@ -39314,13 +40498,6 @@ Properties</source>
     <name>KxShapesGalleryModel</name>
     <message>
         <source>Recently Shapes</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxMakeOutwardDocEntranceCommand</name>
-    <message>
-        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -39495,9 +40672,9 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KXBlackTipWidget</name>
+    <name>KxDocSecurityLoadingWidget</name>
     <message>
-        <source>Slim list</source>
+        <source>Loading. Please wait...</source>
         <translation type="unfinished"/>
     </message>
 </context>
