@@ -1017,6 +1017,10 @@
         <translation>Reflexo</translation>
     </message>
     <message>
+        <source>The top/bottom margins are too large for the page height in some sections.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cannot Load this Add-In.</source>
         <translation>Não é Possível Carregar este Suplemento.</translation>
     </message>
@@ -1073,6 +1077,10 @@
     <message>
         <source>Recorded %d too few data fields.</source>
         <translation>O registo %d continha campos de dados insuficientes.</translation>
+    </message>
+    <message>
+        <source>Switching column/row will result in the following changes in the table, sure to continue?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Condensed by </source>
@@ -1872,6 +1880,10 @@ de Rosto</translation>
         <translation>Atual</translation>
     </message>
     <message>
+        <source>Custom </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Numbering Style</source>
         <translation>Estilo de Numeração</translation>
     </message>
@@ -2091,6 +2103,11 @@ Deseja substitui-lo?</translation>
     <message>
         <source> Ln: %d   Col: %d</source>
         <translation> Ln: %d   Col: %d</translation>
+    </message>
+    <message>
+        <source>
+· Delete all %s</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top</source>
@@ -3090,6 +3107,10 @@ Deseja substitui-lo?</translation>
         <translation>Apresen&amp;tar a barra de separadores na parte superior do documento</translation>
     </message>
     <message>
+        <source>Document fields(&amp;Z):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Taskb&amp;ar</source>
         <translation>B&amp;arra de tarefas</translation>
     </message>
@@ -3186,6 +3207,10 @@ Deseja substitui-lo?</translation>
         <translation>Opções do friso</translation>
     </message>
     <message>
+        <source>Show Document Fields Without Background</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Co&amp;lor:</source>
         <translation>Co&amp;r:</translation>
     </message>
@@ -3280,6 +3305,10 @@ Deseja substitui-lo?</translation>
     <message>
         <source>&amp;Option...</source>
         <translation>&amp;Opção...</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show c&amp;rop marks</source>
@@ -3434,6 +3463,10 @@ Deseja substitui-lo?</translation>
         <translation>Cho-on usado para as vo&amp;gais</translation>
     </message>
     <message>
+        <source>Permit to add co&amp;mments</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Default &amp;paragraph style:</source>
         <translation>Estilo de &amp;parágrafo predefinido:</translation>
     </message>
@@ -3538,6 +3571,10 @@ Deseja substitui-lo?</translation>
         <translation>Texto não formatado</translation>
     </message>
     <message>
+        <source>Formatted text</source>
+        <translation>Texto formatado</translation>
+    </message>
+    <message>
         <source>Login Now</source>
         <translation>Iniciar Sessão Agora</translation>
     </message>
@@ -3572,6 +3609,10 @@ Deseja substitui-lo?</translation>
     <message>
         <source>Document Permission</source>
         <translation>Permissão do Documento</translation>
+    </message>
+    <message>
+        <source>Use CTRL + Click t&amp;o follow hyperlink</source>
+        <translation>Utilizar CTRL + clique p&amp;ara seguir hiperligação</translation>
     </message>
     <message>
         <source>Print hidden text</source>
@@ -3843,7 +3884,23 @@ Deseja substitui-lo?</translation>
         <translation>Ordenar</translation>
     </message>
     <message>
+        <source>Secret &amp;Level:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;Telegram:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Post &amp;Unit:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Public Release</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Publication &amp;levels:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3852,6 +3909,14 @@ Deseja substitui-lo?</translation>
     </message>
     <message>
         <source>Informed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>UrgencyPlus</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Inform</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3871,7 +3936,19 @@ Deseja substitui-lo?</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>TopSecret</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>GB0626-2005</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resolution</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom &amp;Fields:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3883,7 +3960,27 @@ Deseja substitui-lo?</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Request Instruction</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Urgency2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Barcode &amp;Version:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>AgencyNumber</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Minutes Of Meeting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Document:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3891,7 +3988,15 @@ Deseja substitui-lo?</translation>
         <translation>notificar</translation>
     </message>
     <message>
+        <source>Offical Reply</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Decision</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Written &amp;Date:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3899,15 +4004,47 @@ Deseja substitui-lo?</translation>
         <translation>&amp;Título:</translation>
     </message>
     <message>
+        <source>SubmitTo &amp;Unit:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>yyyy-MM-dd</source>
         <translation>aaaa-MM-dd</translation>
+    </message>
+    <message>
+        <source>Urgency</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Journals:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Barcode Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MostUrgency</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Express</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please input letters and numbers</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>&amp;SecrecyPeriod:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Specified Range</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Urgency Level:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3916,6 +4053,10 @@ Deseja substitui-lo?</translation>
     </message>
     <message>
         <source>Document &amp;Id:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Barcode &amp;Id:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6739,8 +6880,20 @@ Cancelar:	Regressar à caixa de diálogo.</translation>
         <translation>Direita</translation>
     </message>
     <message>
+        <source>Place integral limits to the &amp;side</source>
+        <translation>Colocar os limites dos integrais ao &amp;lado</translation>
+    </message>
+    <message>
+        <source>Rig&amp;ht align wrapped lines</source>
+        <translation>Ali&amp;nhar linhas moldadas à direita</translation>
+    </message>
+    <message>
         <source>Duplicate operators for subtraction as:</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Place n-ary limi&amp;ts to the side</source>
+        <translation>Colocar limi&amp;tes de operadores n-ários ao lado</translation>
     </message>
     <message>
         <source>Before</source>
@@ -6753,6 +6906,14 @@ Cancelar:	Regressar à caixa de diálogo.</translation>
     <message>
         <source>Center</source>
         <translation>Centrar</translation>
+    </message>
+    <message>
+        <source>&amp;Justification:</source>
+        <translation>&amp;Justificação:</translation>
+    </message>
+    <message>
+        <source>Math margins are added to paragraph margins.</source>
+        <translation>Foram adicionadas margens de símbolos matemáticos às margens de parágrafo.</translation>
     </message>
     <message>
         <source>When copying an equation,</source>
@@ -6771,6 +6932,10 @@ Cancelar:	Regressar à caixa de diálogo.</translation>
         <translation>&amp;Margem esquerda:</translation>
     </message>
     <message>
+        <source>&amp;Use the following settings for math on its own line.</source>
+        <translation>&amp;Utilize as definições seguintes para símbolos matemáticos na sua própria linha.</translation>
+    </message>
+    <message>
         <source>When building up integrals,</source>
         <translation>Ao criar integrais,</translation>
     </message>
@@ -6783,12 +6948,32 @@ Cancelar:	Regressar à caixa de diálogo.</translation>
         <translation>Predefinições...</translation>
     </message>
     <message>
+        <source>Display Math</source>
+        <translation>Apresentar símbolos matemáticos</translation>
+    </message>
+    <message>
+        <source>For math that wraps to a new line:</source>
+        <translation>Para símbolos matemáticos que são moldados para uma nova linha:</translation>
+    </message>
+    <message>
         <source>General</source>
         <translation>Geral</translation>
     </message>
     <message>
+        <source>Place n-ary limits directly abo&amp;ve and below</source>
+        <translation>Colocar limites de operadores n-ários em ci&amp;ma e em baixo</translation>
+    </message>
+    <message>
         <source>Equation Options</source>
         <translation>Opções de equação</translation>
+    </message>
+    <message>
+        <source>&amp;Indent wrapped lines by:</source>
+        <translation>&amp;Avançar linhas moldadas em:</translation>
+    </message>
+    <message>
+        <source>Place integral limits centered above and belo&amp;w</source>
+        <translation>Colocar os limites dos integrais centrados em cima e em baix&amp;o</translation>
     </message>
     <message>
         <source>When building up other n-ary operators,</source>
@@ -7841,6 +8026,10 @@ utilize os botões</translation>
         <translation>Caixa de diálogo</translation>
     </message>
     <message>
+        <source>Add Unit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select All</source>
         <translation>Selecionar Tudo</translation>
     </message>
@@ -7852,8 +8041,16 @@ utilize os botões</translation>
         <translation>OK</translation>
     </message>
     <message>
+        <source>Do you want to delete the selected units?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Error Tips</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7950,6 +8147,10 @@ utilize os botões</translation>
         <translation>pt, 2, 0, 1584, 6</translation>
     </message>
     <message>
+        <source>%1 Alignment and Spacing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
@@ -7964,6 +8165,14 @@ utilize os botões</translation>
     <message>
         <source>1.5 Lines</source>
         <translation>1,5 Linhas</translation>
+    </message>
+    <message>
+        <source>Alignment of %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Minimum distance between baselines:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Row Spacing</source>
@@ -8239,6 +8448,10 @@ utilize os botões</translation>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
+    <message>
+        <source>Are you sure to delete page number template?</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsOfficialSettings</name>
@@ -8363,7 +8576,15 @@ utilize os botões</translation>
         <translation>Editar</translation>
     </message>
     <message>
+        <source>This deletion cannot be undone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Sure to delete this template?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot rename, delete or edit this template. You may have opened it in another application or file tab.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8391,7 +8612,15 @@ utilize os botões</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>New Name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>My Official Template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This template has been tampered with and cannot be entered into design mode for editing. It is recommended that you delete it and redesign.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8399,8 +8628,16 @@ utilize os botões</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Import Template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>New Template</source>
         <translation>Novo Modelo de Permissão</translation>
+    </message>
+    <message>
+        <source>Template Corrupt</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8525,6 +8762,11 @@ utilize os botões</translation>
     </message>
     <message>
         <source>Official Doc Layout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This is a WPS Official document. It will be opened in 
+ &quot;Official Doc Layout&quot; mode to keep its original layout.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10505,6 +10747,18 @@ Esta alteração afetará todos os novos documentos baseados no modelo %1.</tran
         <translation>Mostrar</translation>
     </message>
     <message>
+        <source>TemplateName:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Official Page Number Template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert into the document when create</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
@@ -10513,8 +10767,24 @@ Esta alteração afetará todos os novos documentos baseados no modelo %1.</tran
         <translation>Tamanho do tipo de letra:</translation>
     </message>
     <message>
+        <source>ShowFirstPage:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Preview:</source>
         <translation>Pré-visualização:</translation>
+    </message>
+    <message>
+        <source>WhiteSpaceSize:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RLDistance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TopDistance:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10915,6 +11185,10 @@ Se pretender substituir apenas os registos selecionados, clique em Substituir na
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Mail Config</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;Cancel</source>
         <translation>&amp;Cancelar</translation>
     </message>
@@ -10928,6 +11202,10 @@ Se pretender substituir apenas os registos selecionados, clique em Substituir na
     </message>
     <message>
         <source>%1(Disabled)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Send mail b&amp;y</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -10952,6 +11230,10 @@ Se pretender substituir apenas os registos selecionados, clique em Substituir na
     <message>
         <source>Cannot create automatic table of contents since no heading style or outline level has been set. </source>
         <translation>Falha ao criar o índice automaticamente. Não foram definidos quaisquer estilos de cabeçalho ou níveis de destaque.</translation>
+    </message>
+    <message>
+        <source>The following preview content is generated by WPS Intelligent Identification, do you want to insert?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10993,6 +11275,10 @@ Ainda pretende abrir este ficheiro?
 
 Repare que alguns ficheiros poderão conter vírus de macros e, possivelmente, levar a cabo outras ações prejudiciais. Se não confiar neste ficheiro, não o abra.
 (%s)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The following features cannot be saved in macro-free workbooks:
@@ -11067,6 +11353,10 @@ Razões possíveis:
         <translation>modelos</translation>
     </message>
     <message>
+        <source>WuKuang Core Encrypted Document Files(*.hdoc)|*.hdoc</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
         <translation>A permissão de &quot;%s&quot; encontra-se atualmente restringida. Os ficheiros com permissão restrita não podem ser inseridos neste documento.</translation>
     </message>
@@ -11075,6 +11365,10 @@ Razões possíveis:
 • Extended orientation</source>
         <translation>
 • Orientação expandida</translation>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Errors occur when WPS Writer is opening this file.
@@ -11129,6 +11423,10 @@ Proceda de uma das seguintes formas.
 (%s)</source>
         <translation>O WPS Writer não consegue abrir este ficheiro, porque a palavra-passe não está correta.
 (%s)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Graphic objects cannot be placed in a text box, label annotations, footnotes or endnotes.</source>
@@ -11187,6 +11485,14 @@ Deseja continuar?</translation>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <translation>Formato OFD (*.ofd)|*.ofd</translation>
+    </message>
+    <message>
+        <source>Normal Template Damaged</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Document Files(*.pdoc)|*.pdoc</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Opening this document will execute the SQL command below:
@@ -11275,6 +11581,10 @@ Se está a tentar abrir o ficheiro a partir da sua lista de ficheiros utilizados
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>
 •Make sure this file is recognizable format.
 (%s)</source>
@@ -11289,6 +11599,10 @@ Se está a tentar abrir o ficheiro a partir da sua lista de ficheiros utilizados
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
         <translation>Estas alterações efetuadas afetarão o modelo comum %s. Deseja guardá-las?</translation>
+    </message>
+    <message>
+        <source>Pasting drawn objects in math will be lost.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -13330,6 +13644,10 @@ Seleção</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>HVFont Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>online wps style</source>
         <translation type="unfinished"/>
     </message>
@@ -13577,7 +13895,19 @@ Replace</source>
 Substituir</translation>
     </message>
     <message>
+        <source>Search Computer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Text Identification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smart Official</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Official Font Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -14720,6 +15050,10 @@ do Texto</translation>
         <translation>Altura Igual</translation>
     </message>
     <message>
+        <source>Search Material</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Restrict Editing</source>
         <translation>Restingir Edição</translation>
     </message>
@@ -14935,6 +15269,10 @@ Painter</source>
     <message>
         <source>Right Border</source>
         <translation>Limite Direito</translation>
+    </message>
+    <message>
+        <source>Accept Formatting Changes</source>
+        <translation>Aceitar Alterações de Formato</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -15166,6 +15504,10 @@ Impressão</translation>
         <translation>Inserir forma antes de</translation>
     </message>
     <message>
+        <source>Reject Formating Changes</source>
+        <translation>Rejeitar Acções de Formatação</translation>
+    </message>
+    <message>
         <source>Format Frame</source>
         <translation>Formatar Moldura</translation>
     </message>
@@ -15354,6 +15696,10 @@ Add-Ins</source>
     <message>
         <source>Relative to Page</source>
         <translation>Relativamente à Página</translation>
+    </message>
+    <message>
+        <source>Column Alignment</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Table</source>
@@ -15720,6 +16066,14 @@ Página</translation>
         <translation>Título do Eixo</translation>
     </message>
     <message>
+        <source>VFont Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>HFont Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Secondary Major Horizontal</source>
         <translation>Horizontal Principal Secundário</translation>
     </message>
@@ -15751,6 +16105,10 @@ Página</translation>
         <source>Bottom</source>
         <comment>OMathMatOrEqArr</comment>
         <translation>Inferior</translation>
+    </message>
+    <message>
+        <source>Line Spacing:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -16350,6 +16708,10 @@ e Rodapé</translation>
         <translation>Estilo de Seta</translation>
     </message>
     <message>
+        <source>Matrix Spacing...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Restrict Permission by People</source>
         <translation>Restringir Permissão por Pessoa</translation>
     </message>
@@ -16614,6 +16976,10 @@ e Rodapé</translation>
         <translation>Centrar Separador</translation>
     </message>
     <message>
+        <source>Border Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Watermark</source>
         <translation>Marca 
 de Água</translation>
@@ -16653,6 +17019,10 @@ de Água</translation>
     <message>
         <source>View Historical Backup</source>
         <translation>Ver Cópia de Segurança do Histórico</translation>
+    </message>
+    <message>
+        <source>Expand to Object Width</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoPoint</source>
@@ -16748,6 +17118,10 @@ de Água</translation>
     <message>
         <source>Left Tab</source>
         <translation>Separador Esquerdo</translation>
+    </message>
+    <message>
+        <source>Equation Array Spacing...</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Secondary Minor Vertial</source>
@@ -17112,6 +17486,10 @@ de Água</translation>
     <message>
         <source>Align Left</source>
         <translation>Alinhar à Esquerda</translation>
+    </message>
+    <message>
+        <source>Align at =</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Character Shading</source>
@@ -17558,6 +17936,10 @@ Break</source>
         <translation>Ver por Página</translation>
     </message>
     <message>
+        <source>Center Algin</source>
+        <translation>Alinhar ao centro</translation>
+    </message>
+    <message>
         <source>Print 
 Directly</source>
         <translation>Imprimir 
@@ -17769,6 +18151,10 @@ Alterações</translation>
         <translation>Edição limitada</translation>
     </message>
     <message>
+        <source>Document Barcode Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Clip Art</source>
         <translation>Clip Art</translation>
     </message>
@@ -17790,6 +18176,10 @@ Alterações</translation>
     </message>
     <message>
         <source>0.8 pt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Multi Equations Popup Menu</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -18082,6 +18472,10 @@ Alterações</translation>
         <translation>Janela de Tarefas</translation>
     </message>
     <message>
+        <source>TpConfidentialityLevelKeyWord</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rename</source>
         <translation>Mudar o nome</translation>
     </message>
@@ -18147,6 +18541,10 @@ Inteiro</translation>
         <translation>Configurar Impressão</translation>
     </message>
     <message>
+        <source>Right Algin</source>
+        <translation>Alinhar à direita</translation>
+    </message>
+    <message>
         <source>Drop Caps</source>
         <translation>Capitulares</translation>
     </message>
@@ -18165,6 +18563,10 @@ Inteiro</translation>
     <message>
         <source>Switch to previous window</source>
         <translation>Mudar para janela anterior</translation>
+    </message>
+    <message>
+        <source>Left Algin</source>
+        <translation>Alinhar à esquerda</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -18746,6 +19148,10 @@ Screen</source>
         <translation>Menu de Contexto do Texto</translation>
     </message>
     <message>
+        <source>page number recommend style</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Drag Context Menu</source>
         <translation>Arrastar Menu de Contexto</translation>
     </message>
@@ -18992,6 +19398,10 @@ Ortográfica</translation>
         <translation>Clicar para ativar/desativar função de Revisão</translation>
     </message>
     <message>
+        <source>Align Adjustify</source>
+        <translation>Alinhar e justificar</translation>
+    </message>
+    <message>
         <source>Signature</source>
         <translation>Assinatura</translation>
     </message>
@@ -19030,6 +19440,10 @@ Ortográfica</translation>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
         <translation>Documento do Microsoft Word 97-2003 (*.doc)</translation>
+    </message>
+    <message>
+        <source>Global Center Algin</source>
+        <translation>Alinhar ao centro global</translation>
     </message>
     <message>
         <source>Done Comment</source>
@@ -21011,6 +21425,10 @@ Changes</source>
         <translation>&apos; não está disponível no seu sistema. Deseja utilizar este tipo de letra mesmo assim?</translation>
     </message>
     <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Add Horizontal Border</source>
         <translation>Adicionar Limite Horizontal</translation>
     </message>
@@ -21283,6 +21701,10 @@ Check</source>
         <translation>Clicar para editar cabeçalho</translation>
     </message>
     <message>
+        <source>Give the file some content before transfer. Or you can open another file and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Insert AutoText</source>
         <translation>Inserir Texto Automático</translation>
     </message>
@@ -21309,6 +21731,10 @@ Check</source>
         <translation>Formatado</translation>
     </message>
     <message>
+        <source>Ofd Print Preview Fit Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Search</source>
         <translation>Procurar</translation>
     </message>
@@ -21327,6 +21753,10 @@ Check</source>
     <message>
         <source>Format line number</source>
         <translation>Formatar número de linha</translation>
+    </message>
+    <message>
+        <source>FontName And FontSize</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Symbol</source>
@@ -21355,6 +21785,10 @@ Check</source>
     <message>
         <source>Insert Table Element</source>
         <translation>Inserir Elemento de Tabela</translation>
+    </message>
+    <message>
+        <source>Put Custom Line Spacing</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Xml Mapping</source>
@@ -21415,6 +21849,10 @@ Check</source>
     <message>
         <source>&quot;Two Pages&quot;,-4</source>
         <translation>&quot;Duas Páginas&quot;,-4</translation>
+    </message>
+    <message>
+        <source>Custom Page Size</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Increase Indentation</source>
@@ -21986,6 +22424,10 @@ Estilo</translation>
         <translation>Imprimir diretamente</translation>
     </message>
     <message>
+        <source>Ofd Print Preview Fit Width</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Subscript</source>
         <translation>Inferior à linha</translation>
     </message>
@@ -22000,6 +22442,10 @@ Estilo</translation>
     <message>
         <source>Bullets</source>
         <translation>Marcas de Lista</translation>
+    </message>
+    <message>
+        <source>Insert Official Glossary</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Table Simple 1</source>
@@ -22309,6 +22755,10 @@ Estilo</translation>
         <translation>Ocultar Espaço em Branco</translation>
     </message>
     <message>
+        <source>Insert Document Barcode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Change List Level</source>
         <translation>Alterar Nível de Lista</translation>
     </message>
@@ -22416,6 +22866,10 @@ Estilo</translation>
     <message>
         <source>Light Shading Accent 6</source>
         <translation>Sombreado Claro - Destaque 6</translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt; |</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Xml Map</source>
@@ -22634,6 +23088,10 @@ Estilo</translation>
         <translation>Atualizar Índice de Campos</translation>
     </message>
     <message>
+        <source>OfficialToNormal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Paste Source Formatting</source>
         <translation>Colar Formatação de Origem</translation>
     </message>
@@ -22796,6 +23254,11 @@ Estilo</translation>
         <translation>Fazer duplo clique para editar rodapé</translation>
     </message>
     <message>
+        <source>Your file is under protection. Please do the following to unprotect it and retry:
+Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quot;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Translate to Traditional Chinese</source>
         <translation>Traduzir para Chinês Tradicional</translation>
     </message>
@@ -22810,6 +23273,10 @@ Estilo</translation>
     <message>
         <source>Edit Comment</source>
         <translation>Editar Comentário</translation>
+    </message>
+    <message>
+        <source>Transpose Table</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear Line Space</source>
@@ -22838,6 +23305,10 @@ Estilo</translation>
     <message>
         <source>After Spacing: %.2f Lines</source>
         <translation>Espaçamento à Direita: %.2f Linhas</translation>
+    </message>
+    <message>
+        <source>Modify Document Barcode</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RTF Format(*.rtf) | *.rtf; |</source>
@@ -24475,6 +24946,10 @@ Células</translation>
         <translation>Comentários e Informações do Produto</translation>
     </message>
     <message>
+        <source>New Wps Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Print</source>
         <translation>Imprimir</translation>
     </message>
@@ -24614,6 +25089,10 @@ Arquivos</translation>
     <message>
         <source>About WPS Writer</source>
         <translation>Acerca do WPS Writer</translation>
+    </message>
+    <message>
+        <source>ExportToPpt</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Permissions</source>
@@ -25770,6 +26249,10 @@ Página</translation>
         <translation>Ante&amp;s:</translation>
     </message>
     <message>
+        <source>Official Line Interval</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ch, 2, 0, 316.8, 0.5</source>
         <translation>ch, 2, 0, 316.8, 0.5</translation>
     </message>
@@ -26777,6 +27260,10 @@ do Modo de Estrutura</translation>
     <message>
         <source>select all</source>
         <translation>selecionar tudo</translation>
+    </message>
+    <message>
+        <source>Management keyword</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -27892,6 +28379,10 @@ Seleção</translation>
     <message>
         <source>Merge to Different New Document</source>
         <translation>Intercalar para Outro Novo Documento</translation>
+    </message>
+    <message>
+        <source>Open fol&amp;der after merge</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Modify...</source>
@@ -30203,6 +30694,10 @@ leitura</translation>
         <translation>Colocar à Esquerda</translation>
     </message>
     <message>
+        <source>ComposeAssist</source>
+        <translation>Assistente de escrita</translation>
+    </message>
+    <message>
         <source>Document Views</source>
         <translation>Vistas de documento</translation>
     </message>
@@ -30344,6 +30839,543 @@ Inteiro</translation>
 Window</source>
         <translation>Nova 
 Janela</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.proxycommands</name>
+    <message>
+        <source>Proofread Wrong</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Ajuda</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>Notícias</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Guardar</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>Eliminação em Massa</translation>
+    </message>
+    <message>
+        <source>HeaderFooterGroup</source>
+        <translation>Grupo de cabeçalhos e rodapés</translation>
+    </message>
+    <message>
+        <source>Quick</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Partilhar</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation>Tabela</translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation>Inserir Imagens a Partir do Telemóvel</translation>
+    </message>
+    <message>
+        <source>Shortcut Setting</source>
+        <translation>Definição de Atalho</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <comment>Menu</comment>
+        <translation>Captura de Ecrã</translation>
+    </message>
+    <message>
+        <source>document authentication</source>
+        <translation>Autenticação de documento</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>Mostrar Barra de Ferramentas</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Reparo de 
+Arquivos</translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation>Encriptação por Hardware</translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation>Ligação da Definição</translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation>Comentários e Recomendações</translation>
+    </message>
+    <message>
+        <source>Picture Style</source>
+        <translation>Estilo da Imagem</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Inserir Imagens Online</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translation>Adicionar Moldura da Imagem</translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation>Tipos de Letra Online</translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation>Gráfico Online</translation>
+    </message>
+    <message>
+        <source>Core Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File Send</source>
+        <translation>Enviar para dispositivo móvel</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation>Pré-visualização de Ligação</translation>
+    </message>
+    <message>
+        <source>All Comments</source>
+        <translation>Todos os Comentários</translation>
+    </message>
+    <message>
+        <source>Proofread Leader</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sentence Translation</source>
+        <translation>Tradução de frase</translation>
+    </message>
+    <message>
+        <source>Output Voice</source>
+        <translation>Voz de Saída</translation>
+    </message>
+    <message>
+        <source>Ornamentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation>Histórico de Documentos</translation>
+    </message>
+    <message>
+        <source>New Doc Recommend</source>
+        <translation>Pode gostar</translation>
+    </message>
+    <message>
+        <source>Split or Merge</source>
+        <translation>Dividir ou Juntar</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>Imagem Online</translation>
+    </message>
+    <message>
+        <source>Set Language</source>
+        <translation>Definir Idioma</translation>
+    </message>
+    <message>
+        <source>Change Color</source>
+        <translation>Alterar Cor</translation>
+    </message>
+    <message>
+        <source>PDF To Excel</source>
+        <translation>PDF em Excel</translation>
+    </message>
+    <message>
+        <source>Cover Pages</source>
+        <translation>Páginas de Rosto</translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation>Enviar E-mail</translation>
+    </message>
+    <message>
+        <source>Share documents.</source>
+        <translation>Partilhar Documentos com Outras Pessoas</translation>
+    </message>
+    <message>
+        <source>New Doc Gallery</source>
+        <translation>Galeria</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation>Ajuda e PR</translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation>Folha Ever</translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation>Formas Automáticas</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>Doar</translation>
+    </message>
+    <message>
+        <source>More Color Schemes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Num</source>
+        <translation>Alterar Número</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation>Rodapé</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation>Cabeçalho</translation>
+    </message>
+    <message>
+        <source>ShortThemeColor</source>
+        <translation>Cor do Tema</translation>
+    </message>
+    <message>
+        <source>Proofread Repeate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ShortBatchDelete</source>
+        <translation>Eliminar</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Mudar o nome</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Ocultar Janela Atual ao Capturar o Ecrã</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>Formas</translation>
+    </message>
+    <message>
+        <source>PDF To PPT</source>
+        <translation>PDF em PPT</translation>
+    </message>
+    <message>
+        <source>Xie De</source>
+        <translation>Xie De</translation>
+    </message>
+    <message>
+        <source>Insert Symbol</source>
+        <translation>Inserir Símbolo</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>Texto em Voz</translation>
+    </message>
+    <message>
+        <source>PDFCompress</source>
+        <translation>Compressão de PDF</translation>
+    </message>
+    <message>
+        <source>Proofread</source>
+        <translation>Verificação Linguística</translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation>Enviar imagens</translation>
+    </message>
+    <message>
+        <source>Online TableStyle</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PaperFormat</source>
+        <translation>Esquema do papel</translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation>Converter em ficheiro PDF</translation>
+    </message>
+    <message>
+        <source>My Picture</source>
+        <translation>A Minha Imagem</translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation>Partilhar no QQ</translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation>Partilha de Ficheiro</translation>
+    </message>
+    <message>
+        <source>AutoFindContents</source>
+        <translation>Identificação Automática do Conteúdo</translation>
+    </message>
+    <message>
+        <source>Online Picture Gallery</source>
+        <translation>Galeria</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation>Criar Ligação e Partilhar</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>Inserir imagem online</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation>Encriptação de Documento</translation>
+    </message>
+    <message>
+        <source>Send By E-mail</source>
+        <translation>Enviar por E-mail</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation>Abrir a partir dos Documentos na Nuvem</translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation>Unir PDF</translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation>Dividir PDF</translation>
+    </message>
+    <message>
+        <source>Translate</source>
+        <translation>Traduzir</translation>
+    </message>
+    <message>
+        <source>Translate selected text</source>
+        <translation>Traduzir texto selecionado</translation>
+    </message>
+    <message>
+        <source>Document Translate</source>
+        <translation>Tradução de Documentos</translation>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation>Encriptação por Palavra-passe</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Verificar as Permissões 
+de Utilizador</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation>Encriptação de Conta</translation>
+    </message>
+    <message>
+        <source>ShortChart</source>
+        <translation>Gráfico</translation>
+    </message>
+    <message>
+        <source>ShortWordArt</source>
+        <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>Decryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation>Encriptação</translation>
+    </message>
+    <message>
+        <source>Xie De Menu</source>
+        <translation>Menu Xie De</translation>
+    </message>
+    <message>
+        <source>DocerThemeColor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>Comentário</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>Tradução</translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation>Texto Completo em Voz</translation>
+    </message>
+    <message>
+        <source>DocerWordArt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF em 
+Word</translation>
+    </message>
+    <message>
+        <source>DocerTableStyle</source>
+        <translation>Estilo de Tabela</translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation>Pesquisa Global</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Comentários</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation>Guardar nos Documentos na Nuvem</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>Plug-in do Pacote WPS</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>Captura de Ecrã</translation>
+    </message>
+    <message>
+        <source>PaperCheck</source>
+        <translation>Verificação de Papel</translation>
+    </message>
+    <message>
+        <source>DocerChart</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DocumentContentStudioHint</source>
+        <translation>Extrair</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation>Converter Todas as Imagens no Documento</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation>Converter Imagem Selecionada</translation>
+    </message>
+    <message>
+        <source>OnlineDiagram</source>
+        <translation>Diagrama Online</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Imagens Online</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>Cópia de Segurança Automática</translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation>Colaboração</translation>
+    </message>
+    <message>
+        <source>DocumentContentStudio</source>
+        <translation>Extração em lote</translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation>Partilhar no Wechat</translation>
+    </message>
+    <message>
+        <source>GroupSending</source>
+        <translation>Enviar para grupo</translation>
+    </message>
+    <message>
+        <source>ProcessOnEntry</source>
+        <translation>Processar na Entrada</translation>
+    </message>
+    <message>
+        <source>Add or view comments in your document.</source>
+        <translation>Adicione ou veja comentários no seu documento.</translation>
+    </message>
+    <message>
+        <source>Insert Comment</source>
+        <translation>Inserir Comentário</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Verificar a Minha 
+Permissão</translation>
+    </message>
+    <message>
+        <source>Proofread Sens</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Punc</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation>Voz de Seleção</translation>
+    </message>
+    <message>
+        <source>Document Permission</source>
+        <translation>Permissão do Documento</translation>
+    </message>
+    <message>
+        <source>Scan to Mobile</source>
+        <translation>Digitalizar para
+dispositivo móvel</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation>A partir do Telemóvel</translation>
+    </message>
+    <message>
+        <source>Normal Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Online Textbox</source>
+        <translation>Caixa de texto de modelo</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Exportar Como Imagem</translation>
+    </message>
+    <message>
+        <source>IconLibrary</source>
+        <translation>Biblioteca de Ícones</translation>
+    </message>
+    <message>
+        <source>More Online Charts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation>Partilhar na Página Web do Microblogue</translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation>Partilhar no Microblogue</translation>
+    </message>
+    <message>
+        <source>Materials</source>
+        <translation>Materiais</translation>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation>Esquema Microblogue do WPS</translation>
     </message>
 </context>
 <context>
@@ -31496,6 +32528,10 @@ Seleção</translation>
         <source>Error. Unknown op code for conditional.</source>
         <translation>Erro. Código op desconhecido para a condição.</translation>
     </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsFormatProperty_FillAndLine</name>
@@ -31523,8 +32559,32 @@ Seleção</translation>
         <translation>Concluído</translation>
     </message>
     <message>
+        <source>Document had been protected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No export permissions, please use another system user account and try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>UnImport</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>template(s) failed import;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ImportFaildList_</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>templates</source>
         <translation>modelos</translation>
+    </message>
+    <message>
+        <source>No read and write permissions, please turn it on in &quot;Properties&quot; - &quot;Permissions&quot;, or use another system user account and try again</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>importing:</source>
@@ -31535,7 +32595,27 @@ Seleção</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>succeeded</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>template(s) failed import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Failed to copy file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>GotoNew</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>succeeded import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Not a Official Document</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -32040,6 +33120,10 @@ a um documento XML do Word.</translation>
         <source>Form</source>
         <translation>Grelha</translation>
     </message>
+    <message>
+        <source>error details</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxMergeToEmailDlg</name>
@@ -32056,8 +33140,20 @@ a um documento XML do Word.</translation>
         <translation>O número é inválido.</translation>
     </message>
     <message>
+        <source>Email application is not available. Please choose anther email application</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Writer</source>
         <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Email account is not available. Please reconfigure another account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Email account has not been configured. Please setup an email account</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -32087,12 +33183,37 @@ a um documento XML do Word.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Searching, Has Searched %1Content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>End Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Found %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Quickly find local documents
+Support title, content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PushButton</source>
         <translation>Botão de Comando</translation>
     </message>
     <message>
+        <source>TypeFilter:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>TextLabel</source>
         <translation>TextLabel</translation>
+    </message>
+    <message>
+        <source>Search Path:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -32254,6 +33375,10 @@ em Texto</translation>
         <translation>Remover Índice</translation>
     </message>
     <message>
+        <source>Bottom Line Script(Multi Angency)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Separating Line</source>
         <translation type="unfinished"/>
     </message>
@@ -32274,6 +33399,18 @@ em Texto</translation>
         <translation>WPSArt</translation>
     </message>
     <message>
+        <source>Document Parts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Top Line Script(Multi Angency)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2 Rows Editions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Breaks</source>
         <translation>Quebras</translation>
     </message>
@@ -32284,6 +33421,10 @@ em Texto</translation>
     <message>
         <source>Letter</source>
         <translation>Carta</translation>
+    </message>
+    <message>
+        <source>Insert Vertical</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shapes</source>
@@ -32300,6 +33441,10 @@ em Texto</translation>
     <message>
         <source>From File</source>
         <translation>Do Ficheiro</translation>
+    </message>
+    <message>
+        <source>Top Line</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Watermark</source>
@@ -32338,6 +33483,10 @@ em Texto</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Normal Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Multi-line Text</source>
         <translation>Texto com Várias Linhas</translation>
     </message>
@@ -32368,6 +33517,14 @@ em Texto</translation>
     <message>
         <source>Draw Table</source>
         <translation>Desenhar Tabela</translation>
+    </message>
+    <message>
+        <source>Single Row Edition</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Horizontal</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Summary</source>
@@ -32435,6 +33592,10 @@ de Água</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>5 points Star Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>DocumentField</source>
         <translation>Campo de Documento</translation>
     </message>
@@ -32443,6 +33604,14 @@ de Água</translation>
 Number</source>
         <translation>Número de
 Página</translation>
+    </message>
+    <message>
+        <source>Top Line Script(Single Angency)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bottom Line Script(Single Angency)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>From Phone</source>
@@ -32687,523 +33856,6 @@ dispositivo móvel</translation>
     <message>
         <source>Document security</source>
         <translation>Segurança do documento</translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.proxycommands</name>
-    <message>
-        <source>Help</source>
-        <translation>Ajuda</translation>
-    </message>
-    <message>
-        <source>News</source>
-        <translation>Notícias</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Guardar</translation>
-    </message>
-    <message>
-        <source>Batch Delete</source>
-        <translation>Eliminação em Massa</translation>
-    </message>
-    <message>
-        <source>HeaderFooterGroup</source>
-        <translation>Grupo de cabeçalhos e rodapés</translation>
-    </message>
-    <message>
-        <source>Quick</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share</source>
-        <translation>Partilhar</translation>
-    </message>
-    <message>
-        <source>Table</source>
-        <translation>Tabela</translation>
-    </message>
-    <message>
-        <source>Insert Pictures From Phone</source>
-        <translation>Inserir Imagens a Partir do Telemóvel</translation>
-    </message>
-    <message>
-        <source>Shortcut Setting</source>
-        <translation>Definição de Atalho</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <comment>Menu</comment>
-        <translation>Captura de Ecrã</translation>
-    </message>
-    <message>
-        <source>document authentication</source>
-        <translation>Autenticação de documento</translation>
-    </message>
-    <message>
-        <source>Show Toolbar</source>
-        <translation>Mostrar Barra de Ferramentas</translation>
-    </message>
-    <message>
-        <source>Document Fix</source>
-        <translation>Reparo de 
-Arquivos</translation>
-    </message>
-    <message>
-        <source>Hardware Encryption</source>
-        <translation>Encriptação por Hardware</translation>
-    </message>
-    <message>
-        <source>Setting Link</source>
-        <translation>Ligação da Definição</translation>
-    </message>
-    <message>
-        <source>Feedback and Advice</source>
-        <translation>Comentários e Recomendações</translation>
-    </message>
-    <message>
-        <source>Picture Style</source>
-        <translation>Estilo da Imagem</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Inserir Imagens Online</translation>
-    </message>
-    <message>
-        <source>Add Picture Frame</source>
-        <translation>Adicionar Moldura da Imagem</translation>
-    </message>
-    <message>
-        <source>Online Fonts</source>
-        <translation>Tipos de Letra Online</translation>
-    </message>
-    <message>
-        <source>Online Chart</source>
-        <translation>Gráfico Online</translation>
-    </message>
-    <message>
-        <source>Core Encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>File Send</source>
-        <translation>Enviar para dispositivo móvel</translation>
-    </message>
-    <message>
-        <source>Link Preview</source>
-        <translation>Pré-visualização de Ligação</translation>
-    </message>
-    <message>
-        <source>All Comments</source>
-        <translation>Todos os Comentários</translation>
-    </message>
-    <message>
-        <source>Sentence Translation</source>
-        <translation>Tradução de frase</translation>
-    </message>
-    <message>
-        <source>Output Voice</source>
-        <translation>Voz de Saída</translation>
-    </message>
-    <message>
-        <source>Ornamentation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document History</source>
-        <translation>Histórico de Documentos</translation>
-    </message>
-    <message>
-        <source>New Doc Recommend</source>
-        <translation>Pode gostar</translation>
-    </message>
-    <message>
-        <source>Split or Merge</source>
-        <translation>Dividir ou Juntar</translation>
-    </message>
-    <message>
-        <source>Online Picture</source>
-        <translation>Imagem Online</translation>
-    </message>
-    <message>
-        <source>Set Language</source>
-        <translation>Definir Idioma</translation>
-    </message>
-    <message>
-        <source>Change Color</source>
-        <translation>Alterar Cor</translation>
-    </message>
-    <message>
-        <source>PDF To Excel</source>
-        <translation>PDF em Excel</translation>
-    </message>
-    <message>
-        <source>Cover Pages</source>
-        <translation>Páginas de Rosto</translation>
-    </message>
-    <message>
-        <source>Send E-mail</source>
-        <translation>Enviar E-mail</translation>
-    </message>
-    <message>
-        <source>Share documents.</source>
-        <translation>Partilhar Documentos com Outras Pessoas</translation>
-    </message>
-    <message>
-        <source>New Doc Gallery</source>
-        <translation>Galeria</translation>
-    </message>
-    <message>
-        <source>Help And QA</source>
-        <translation>Ajuda e PR</translation>
-    </message>
-    <message>
-        <source>Ever Sheet</source>
-        <translation>Folha Ever</translation>
-    </message>
-    <message>
-        <source>AutoShapes</source>
-        <translation>Formas Automáticas</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation>Doar</translation>
-    </message>
-    <message>
-        <source>More Color Schemes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Num</source>
-        <translation>Alterar Número</translation>
-    </message>
-    <message>
-        <source>Footer</source>
-        <translation>Rodapé</translation>
-    </message>
-    <message>
-        <source>Header</source>
-        <translation>Cabeçalho</translation>
-    </message>
-    <message>
-        <source>ShortThemeColor</source>
-        <translation>Cor do Tema</translation>
-    </message>
-    <message>
-        <source>ShortBatchDelete</source>
-        <translation>Eliminar</translation>
-    </message>
-    <message>
-        <source>Rename</source>
-        <translation>Mudar o nome</translation>
-    </message>
-    <message>
-        <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Ocultar Janela Atual ao Capturar o Ecrã</translation>
-    </message>
-    <message>
-        <source>Shapes</source>
-        <translation>Formas</translation>
-    </message>
-    <message>
-        <source>PDF To PPT</source>
-        <translation>PDF em PPT</translation>
-    </message>
-    <message>
-        <source>Xie De</source>
-        <translation>Xie De</translation>
-    </message>
-    <message>
-        <source>Insert Symbol</source>
-        <translation>Inserir Símbolo</translation>
-    </message>
-    <message>
-        <source>Text Speech</source>
-        <translation>Texto em Voz</translation>
-    </message>
-    <message>
-        <source>PDFCompress</source>
-        <translation>Compressão de PDF</translation>
-    </message>
-    <message>
-        <source>Proofread</source>
-        <translation>Verificação Linguística</translation>
-    </message>
-    <message>
-        <source>Send pictures</source>
-        <translation>Enviar imagens</translation>
-    </message>
-    <message>
-        <source>Online TableStyle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PaperFormat</source>
-        <translation>Esquema do papel</translation>
-    </message>
-    <message>
-        <source>Photo2Pdf</source>
-        <translation>Converter em ficheiro PDF</translation>
-    </message>
-    <message>
-        <source>My Picture</source>
-        <translation>A Minha Imagem</translation>
-    </message>
-    <message>
-        <source>Share To QQ</source>
-        <translation>Partilhar no QQ</translation>
-    </message>
-    <message>
-        <source>File Share</source>
-        <translation>Partilha de Ficheiro</translation>
-    </message>
-    <message>
-        <source>AutoFindContents</source>
-        <translation>Identificação Automática do Conteúdo</translation>
-    </message>
-    <message>
-        <source>Online Picture Gallery</source>
-        <translation>Galeria</translation>
-    </message>
-    <message>
-        <source>Web Preview</source>
-        <translation>Criar Ligação e Partilhar</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation>Inserir imagem online</translation>
-    </message>
-    <message>
-        <source>Document Encryption</source>
-        <translation>Encriptação de Documento</translation>
-    </message>
-    <message>
-        <source>Send By E-mail</source>
-        <translation>Enviar por E-mail</translation>
-    </message>
-    <message>
-        <source>Open from Cloud Docs</source>
-        <translation>Abrir a partir dos Documentos na Nuvem</translation>
-    </message>
-    <message>
-        <source>PDF Merge</source>
-        <translation>Unir PDF</translation>
-    </message>
-    <message>
-        <source>PDF Split</source>
-        <translation>Dividir PDF</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation>Traduzir</translation>
-    </message>
-    <message>
-        <source>Translate selected text</source>
-        <translation>Traduzir texto selecionado</translation>
-    </message>
-    <message>
-        <source>Document Translate</source>
-        <translation>Tradução de Documentos</translation>
-    </message>
-    <message>
-        <source>Password Encryption</source>
-        <translation>Encriptação por Palavra-passe</translation>
-    </message>
-    <message>
-        <source>Check Users Permissions</source>
-        <translation>Verificar as Permissões 
-de Utilizador</translation>
-    </message>
-    <message>
-        <source>Account Encryption</source>
-        <translation>Encriptação de Conta</translation>
-    </message>
-    <message>
-        <source>ShortChart</source>
-        <translation>Gráfico</translation>
-    </message>
-    <message>
-        <source>ShortWordArt</source>
-        <translation>WordArt</translation>
-    </message>
-    <message>
-        <source>Decryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Encryption</source>
-        <translation>Encriptação</translation>
-    </message>
-    <message>
-        <source>Xie De Menu</source>
-        <translation>Menu Xie De</translation>
-    </message>
-    <message>
-        <source>DocerThemeColor</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Comment</source>
-        <translation>Comentário</translation>
-    </message>
-    <message>
-        <source>Translation</source>
-        <translation>Tradução</translation>
-    </message>
-    <message>
-        <source>Full-Text Speech</source>
-        <translation>Texto Completo em Voz</translation>
-    </message>
-    <message>
-        <source>DocerWordArt</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation>PDF em 
-Word</translation>
-    </message>
-    <message>
-        <source>DocerTableStyle</source>
-        <translation>Estilo de Tabela</translation>
-    </message>
-    <message>
-        <source>Global Search</source>
-        <translation>Pesquisa Global</translation>
-    </message>
-    <message>
-        <source>Feedback</source>
-        <translation>Comentários</translation>
-    </message>
-    <message>
-        <source>Save to Cloud Docs</source>
-        <translation>Guardar nos Documentos na Nuvem</translation>
-    </message>
-    <message>
-        <source>WpsPackagePlugin</source>
-        <translation>Plug-in do Pacote WPS</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation>Captura de Ecrã</translation>
-    </message>
-    <message>
-        <source>PaperCheck</source>
-        <translation>Verificação de Papel</translation>
-    </message>
-    <message>
-        <source>DocerChart</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DocumentContentStudioHint</source>
-        <translation>Extrair</translation>
-    </message>
-    <message>
-        <source>Photo2PdfConvertAll</source>
-        <translation>Converter Todas as Imagens no Documento</translation>
-    </message>
-    <message>
-        <source>Photo2PdfConvertOne</source>
-        <translation>Converter Imagem Selecionada</translation>
-    </message>
-    <message>
-        <source>OnlineDiagram</source>
-        <translation>Diagrama Online</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Imagens Online</translation>
-    </message>
-    <message>
-        <source>Backup Center</source>
-        <translation>Cópia de Segurança Automática</translation>
-    </message>
-    <message>
-        <source>Collaboration</source>
-        <translation>Colaboração</translation>
-    </message>
-    <message>
-        <source>DocumentContentStudio</source>
-        <translation>Extração em lote</translation>
-    </message>
-    <message>
-        <source>Share To Wechat</source>
-        <translation>Partilhar no Wechat</translation>
-    </message>
-    <message>
-        <source>GroupSending</source>
-        <translation>Enviar para grupo</translation>
-    </message>
-    <message>
-        <source>ProcessOnEntry</source>
-        <translation>Processar na Entrada</translation>
-    </message>
-    <message>
-        <source>Add or view comments in your document.</source>
-        <translation>Adicione ou veja comentários no seu documento.</translation>
-    </message>
-    <message>
-        <source>Insert Comment</source>
-        <translation>Inserir Comentário</translation>
-    </message>
-    <message>
-        <source>Check Mine Permission</source>
-        <translation>Verificar a Minha 
-Permissão</translation>
-    </message>
-    <message>
-        <source>Selection Speech</source>
-        <translation>Voz de Seleção</translation>
-    </message>
-    <message>
-        <source>Document Permission</source>
-        <translation>Permissão do Documento</translation>
-    </message>
-    <message>
-        <source>Scan to Mobile</source>
-        <translation>Digitalizar para
-dispositivo móvel</translation>
-    </message>
-    <message>
-        <source>From Phone</source>
-        <translation>A partir do Telemóvel</translation>
-    </message>
-    <message>
-        <source>Normal Encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Online Textbox</source>
-        <translation>Caixa de texto de modelo</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation>Exportar Como Imagem</translation>
-    </message>
-    <message>
-        <source>IconLibrary</source>
-        <translation>Biblioteca de Ícones</translation>
-    </message>
-    <message>
-        <source>More Online Charts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation>Partilhar na Página Web do Microblogue</translation>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation>Partilhar no Microblogue</translation>
-    </message>
-    <message>
-        <source>Materials</source>
-        <translation>Materiais</translation>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation>Esquema Microblogue do WPS</translation>
     </message>
 </context>
 <context>
@@ -35160,6 +35812,10 @@ Cancelar:	Regressar à caixa de diálogo.</translation>
         <translation>Nenhum</translation>
     </message>
     <message>
+        <source>File Size(Low)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The search key string cannot be empty</source>
         <translation type="unfinished"/>
     </message>
@@ -35172,8 +35828,28 @@ Cancelar:	Regressar à caixa de diálogo.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Open file by local</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Type</source>
         <translation>Todos os Tipos</translation>
+    </message>
+    <message>
+        <source>No search cache file exists locally</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search parameter error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The search string is not valid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Update Time(Up)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click to select folder</source>
@@ -35185,6 +35861,26 @@ Cancelar:	Regressar à caixa de diálogo.</translation>
     </message>
     <message>
         <source>The search path is not valid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Update Time(Low)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Limit 20 words in the current input box</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File Size(Up)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search cache process failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search Content Title,no more than 20 words</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -35984,6 +36680,10 @@ Cancelar:	Regressar à caixa de diálogo.</translation>
         <translation>Guardar</translation>
     </message>
     <message>
+        <source>Save the designed template to &quot;My Official Templates&quot; in &quot;Format&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Element Configure</source>
         <translation type="unfinished"/>
     </message>
@@ -36046,6 +36746,14 @@ Cancelar:	Regressar à caixa de diálogo.</translation>
         <translation>Última Página</translation>
     </message>
     <message>
+        <source>OfdPrintPreviewSettings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PrevPage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Export To OFD</source>
         <translation type="unfinished"/>
     </message>
@@ -36087,6 +36795,10 @@ Cancelar:	Regressar à caixa de diálogo.</translation>
     <message>
         <source>Print</source>
         <translation>Imprimir</translation>
+    </message>
+    <message>
+        <source>PrintMode</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print Order:</source>
@@ -36639,6 +37351,10 @@ Rosto</translation>
     <message>
         <source>Chart Gallery</source>
         <translation>Galeria de Gráficos</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fields</source>
@@ -37197,6 +37913,21 @@ Página</translation>
     <message>
         <source>I, II, III...</source>
         <translation>I, II, III...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckingTips</name>
+    <message>
+        <source>stop</source>
+        <translation>parar</translation>
+    </message>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>clkw checking tips</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37779,6 +38510,10 @@ Estilo de Tabela</translation>
         <translation>Formas</translation>
     </message>
     <message>
+        <source>Ofd Print Preview</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Document Fix</source>
         <translation>Reparo de 
 Arquivos</translation>
@@ -38240,6 +38975,53 @@ para PDF</translation>
     <message>
         <source>Current &amp;page</source>
         <translation>Página atual (&amp;P)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsMailSenderTestDlg</name>
+    <message>
+        <source>&amp;Done</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Mail Merge Test Mail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Send test Email</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login to SMTP server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account setup successful</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>.Please trying using independent password</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Cancelar</translation>
+    </message>
+    <message>
+        <source>Receiving this mail means your configuration is successful. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Test failed.Please check the information.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are all set for the group mail feature.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are sending testing mail through WPS mail merge feature. </source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38870,6 +39652,57 @@ para PDF</translation>
     </message>
 </context>
 <context>
+    <name>classics.ofd_print_preview</name>
+    <message>
+        <source>NextPage(Ctrl+PageDown)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fechar</translation>
+    </message>
+    <message>
+        <source>Close Ofd Preview</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Zoom Out(Ctrl+-)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PrevPage(Ctrl+PageUp)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fit Width(Ctrl+8)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>LastPage</source>
+        <translation>Última Página</translation>
+    </message>
+    <message>
+        <source>Actual Size(Ctrl+0)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FirstPage</source>
+        <translation>Primeira Página</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>Exportar para OFD</translation>
+    </message>
+    <message>
+        <source>Zoom In(Ctrl++)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fit Page(Ctrl+9)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxSmartPageNumDeleteCommand</name>
     <message>
         <source>Current section</source>
@@ -38890,6 +39723,21 @@ para PDF</translation>
     <message>
         <source>Entire document</source>
         <translation>Todo o documento</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpConfidentialityLevelKeyWord</name>
+    <message>
+        <source>total result</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>check</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>operate keywords</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39199,6 +40047,54 @@ Permissões</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_official_print</name>
+    <message>
+        <source>Finalize</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge</source>
+        <translation>Juntar</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Imprimir</translation>
+    </message>
+    <message>
+        <source>Split</source>
+        <translation>Dividir</translation>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Exportar</translation>
+    </message>
+    <message>
+        <source>Split and Merge</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Official to Ordinary</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>Exportar para OFD</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>Exportar para PDF</translation>
+    </message>
+    <message>
+        <source>Mail Merge</source>
+        <translation>Juntar 
+Correio</translation>
+    </message>
+</context>
+<context>
     <name>KxEquationAlignmentAndSpacingDlg</name>
     <message>
         <source>Array</source>
@@ -39288,6 +40184,10 @@ Permissões</translation>
     <message>
         <source>Clear</source>
         <translation>Limpar</translation>
+    </message>
+    <message>
+        <source>Insert Ink Shape</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -39647,45 +40547,6 @@ Permissões</translation>
     </message>
 </context>
 <context>
-    <name>classics.ofd_print_preview</name>
-    <message>
-        <source>Close</source>
-        <translation>Fechar</translation>
-    </message>
-    <message>
-        <source>Zoom Out(Ctrl+-)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fit Width(Ctrl+8)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>LastPage</source>
-        <translation>Última Página</translation>
-    </message>
-    <message>
-        <source>Actual Size(Ctrl+0)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>FirstPage</source>
-        <translation>Primeira Página</translation>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation>Exportar para OFD</translation>
-    </message>
-    <message>
-        <source>Zoom In(Ctrl++)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fit Page(Ctrl+9)</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>ongmani.ct_headerfooter</name>
     <message>
         <source>Close</source>
@@ -39694,6 +40555,14 @@ Permissões</translation>
     <message>
         <source>HeaderFooterGroup</source>
         <translation>Grupo de cabeçalhos e rodapés</translation>
+    </message>
+    <message>
+        <source>Docer Header</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Docer Footer</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch between
@@ -39722,6 +40591,10 @@ Anterior</translation>
     <message>
         <source>Insert Picture</source>
         <translation>Inserir Imagem</translation>
+    </message>
+    <message>
+        <source>Docer HeaderFooterGroup</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Footer</source>
@@ -39881,6 +40754,14 @@ Página</translation>
     <message>
         <source>Close</source>
         <translation>Fechar</translation>
+    </message>
+    <message>
+        <source>Email Config</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MailConfig</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First Record</source>
@@ -40300,42 +41181,6 @@ Nota de Fim</translation>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_official_print</name>
-    <message>
-        <source>Merge</source>
-        <translation>Juntar</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation>Imprimir</translation>
-    </message>
-    <message>
-        <source>Split</source>
-        <translation>Dividir</translation>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation>Exportar</translation>
-    </message>
-    <message>
-        <source>Split and Merge</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation>Exportar para OFD</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation>Exportar para PDF</translation>
-    </message>
-    <message>
-        <source>Mail Merge</source>
-        <translation>Juntar 
-Correio</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsDDEServer</name>
     <message>
         <source>Paste</source>
@@ -40506,6 +41351,14 @@ Correio</translation>
     <message>
         <source>Port:</source>
         <translation>Porta:</translation>
+    </message>
+    <message>
+        <source>S&amp;MTP Server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sender &amp;Name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>dialog</source>
@@ -40708,6 +41561,10 @@ Correio</translation>
         <translation>nível secreto</translation>
     </message>
     <message>
+        <source>WPS Writer Official Document (*.uot)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Official Fonts</source>
         <translation type="unfinished"/>
     </message>
@@ -40845,6 +41702,10 @@ Correio</translation>
     <message>
         <source>Header outside</source>
         <translation>Cabeçalho exterior</translation>
+    </message>
+    <message>
+        <source>Add Custom PageNum</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41223,7 +42084,27 @@ Selecione partes do documento e escolha os utilizadores que as podem editar livr
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>%1 cannot include &quot;^&quot; and &quot;|&quot;, which used as seperator.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>document id</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The barcode id must contain 8 to 20 characters or digits.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>journals</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>%1 cannot exceed %2 words.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>custom field</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -41235,11 +42116,23 @@ Selecione partes do documento e escolha os utilizadores que as podem editar livr
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>barcode date</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>publish level</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>written date</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>secret period</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The length of %1 has to between %2 and %3</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -41285,7 +42178,43 @@ Selecione partes do documento e escolha os utilizadores que as podem editar livr
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Support multiple unit name entered at the same time, seperated by comma.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The unit cannot include &quot;^&quot; and &quot;|&quot;, which used as seperator.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete Units</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The barcode creator unit you entered is longer than %1 characters, which does not comply with the Standard for Using 2D Barcodes in Official Documents. Continue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>submit to</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The length of each unit has to between %1 and %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The length of unit names cannot exceed 256 bytes.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>barcode unit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The unit name cannot contain comma</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The name of adding unit has existed in the list, please enter a different name.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -41361,6 +42290,10 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
         <translation>A propriedade ou o método de proteção é inválido devido ao documento protegido.</translation>
     </message>
     <message>
+        <source>Scanner No Paper.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Unprotect method or property is invalid due to the unprotected document.</source>
         <translation>A propriedade ou o método de desproteção é inválido devido ao documento desprotegido.</translation>
     </message>
@@ -41371,6 +42304,10 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
     <message>
         <source>Cannot set or get column spacing at the end of text.</source>
         <translation>Não é possível definir nem obter o espaçamento entre colunas no fim do texto.</translation>
+    </message>
+    <message>
+        <source>Scanner Document Feeder Jammed.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The Based On style name does not exist or is of an incorrect type.</source>
@@ -41387,6 +42324,14 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
     <message>
         <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
         <translation>O WPS Writer não consegue desativar o modo de estruturação porque o texto do marcador de posição num controlo de conteúdo contém itens inválidos. O texto do marcador de posição contém itens como, por exemplo, objetos flutuantes, marcas de revisão ou controlos de conteúdo. Remova estes itens do texto do marcador de posição e tente novamente.</translation>
+    </message>
+    <message>
+        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No SANE library.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
@@ -41423,6 +42368,10 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
     <message>
         <source>Preview Mode is unactivated.</source>
         <translation>O Modo de Pré-visualização não está ativado.</translation>
+    </message>
+    <message>
+        <source>%1 Pages Scanned.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
@@ -41684,26 +42633,15 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
     </message>
 </context>
 <context>
-    <name>KxDlgUpdateTableOfContents</name>
-    <message>
-        <source>Update &amp;page numbers only</source>
-        <translation>Atualizar só os números de &amp;página</translation>
-    </message>
-    <message>
-        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
-        <translation>O WPS Writer está a atualizar o índice. Selecione uma das seguintes opções:</translation>
-    </message>
-    <message>
-        <source>Update Table of Contents</source>
-        <translation>Atualizar Índice</translation>
-    </message>
-    <message>
-        <source>Update &amp;entire table</source>
-        <translation>Atualizar &amp;todo o índice</translation>
-    </message>
-</context>
-<context>
     <name>MailSendErrorConvert</name>
+    <message>
+        <source>Identified as junk mail,rejected by server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_TEXT_TOO_LARGE</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <source>Host not found</source>
         <translation>Sistema anfitrião desconhecido</translation>
@@ -41714,6 +42652,10 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
     </message>
     <message>
         <source>File not found:%1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_TOO_MANY_RECIPIENTS</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -41729,11 +42671,55 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Invalid smtp server port</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_BAD_RECIPTYPE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>554 HL:IHU</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>421 HL:IFC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>451 MI:SFQ</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Local user only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>DNS error</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>550 RP:TRC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>451 RP:QRC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Illegal Attachment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>authentication failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mail client load failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_WRITE_FAILURE</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -41745,7 +42731,23 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>MAIL_NO_MESSAGES</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IP is rejected, smtp auth error limit exceed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>MAIL_USER_ABORT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid User</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_OPEN_FAILURE</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -41765,12 +42767,39 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>MAIL_TOO_MANY_FILES</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>MAIL_INVALID_MESSAGE</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>MAIL_FAILURE</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User not found</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxDlgUpdateTableOfContents</name>
+    <message>
+        <source>Update &amp;page numbers only</source>
+        <translation>Atualizar só os números de &amp;página</translation>
+    </message>
+    <message>
+        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
+        <translation>O WPS Writer está a atualizar o índice. Selecione uma das seguintes opções:</translation>
+    </message>
+    <message>
+        <source>Update Table of Contents</source>
+        <translation>Atualizar Índice</translation>
+    </message>
+    <message>
+        <source>Update &amp;entire table</source>
+        <translation>Atualizar &amp;todo o índice</translation>
     </message>
 </context>
 <context>
@@ -41784,7 +42813,15 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>OfficialPageNum</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Please enter a Chinese font size or a number between 1% and 2%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>There is a page number template with the same name, please modify the name</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -42236,6 +43273,21 @@ Experimente um ou mais dos seguintes procedimentos:
     </message>
 </context>
 <context>
+    <name>KxOfficialTemplateBeginerDialog</name>
+    <message>
+        <source>Start Design</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use the toolbar on the right to design your own official document template.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Beginner Guide</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgBookmarkSelection</name>
     <message>
         <source>Select Place in Document</source>
@@ -42293,6 +43345,25 @@ Experimente um ou mais dos seguintes procedimentos:
     <message>
         <source>Vertical</source>
         <translation>Caixa de Texto Vertical</translation>
+    </message>
+</context>
+<context>
+    <name>KxPageElementsWidgetSignature</name>
+    <message>
+        <source>PersonalSeal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NoSeal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Seal Width:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RoundSeal</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -42511,6 +43582,21 @@ Experimente um ou mais dos seguintes procedimentos:
     </message>
 </context>
 <context>
+    <name>KxWpsOfficialAddPageNumWarningDlg</name>
+    <message>
+        <source>The same attribute page number template %1 already exists and cannot be created</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot create page number template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can customize up to 99 document page number templates. Please delete some templates and try again</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxStyleShortCutBindDlg</name>
     <message>
         <source>Invalid Input.</source>
@@ -42523,6 +43609,21 @@ Experimente um ou mais dos seguintes procedimentos:
     <message>
         <source>Do you want to overwrite the shortcut of [%1]? </source>
         <translation>Pretende substituir o atalho de [%1]? </translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialImportWaringDlg</name>
+    <message>
+        <source>Aleady selected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>more can be imported</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>templates, up to</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -43355,6 +44456,18 @@ Experimente um ou mais dos seguintes procedimentos:
         <translation>Tem a certeza de que pretende eliminar todos os destinatários adicionados?</translation>
     </message>
     <message>
+        <source>input chinese sy info tips part1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>input chinese sy info tips part2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>sy_normal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>please input key word to search info of receivers:</source>
         <translation>introduza a palavra-chave de pesquisa de informações dos destinatários:</translation>
     </message>
@@ -43363,8 +44476,32 @@ Experimente um ou mais dos seguintes procedimentos:
         <translation>procurar</translation>
     </message>
     <message>
+        <source>sytype</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>input normal sy info tips part1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>input normal sy info tips part2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>chinese_sy_info</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>receivers:</source>
         <translation>destinatários:</translation>
+    </message>
+    <message>
+        <source>normal_sy_info</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>self_sy_info</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>add receiver</source>
@@ -43501,6 +44638,13 @@ Experimente um ou mais dos seguintes procedimentos:
     <message>
         <source>The Key word is aready exit!</source>
         <translation>A palavra-chave já existe.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialDelCustomPageNumDlg</name>
+    <message>
+        <source>The %1 page number template will be deleted, and the existing page numbers in the document will not be deleted.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -43864,6 +45008,14 @@ Experimente um ou mais dos seguintes procedimentos:
         <source>dialog</source>
         <translation>caixa de diálogo</translation>
     </message>
+    <message>
+        <source>Send Completed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All &amp;ReSend</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsWidgetChildShapePosition</name>
@@ -43999,6 +45151,45 @@ Experimente um ou mais dos seguintes procedimentos:
     </message>
 </context>
 <context>
+    <name>KxComposeParaFormatCommand</name>
+    <message>
+        <source>Format Alignment Center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Heading 1</source>
+        <translation>Cabeçalho 1</translation>
+    </message>
+    <message>
+        <source>Heading 2</source>
+        <translation>Cabeçalho 2</translation>
+    </message>
+    <message>
+        <source>Heading 3</source>
+        <translation>Cabeçalho 3</translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <translation>Cabeçalho 4</translation>
+    </message>
+    <message>
+        <source>Heading 5</source>
+        <translation>Cabeçalho 5</translation>
+    </message>
+    <message>
+        <source>Heading 6</source>
+        <translation>Cabeçalho 6</translation>
+    </message>
+    <message>
+        <source>Format Alignment Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format Alignment Left</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWpsXMLSchemaLibraryDlg</name>
     <message>
         <source>Cannot Install the xml Extend or the xml schema.</source>
@@ -44026,6 +45217,14 @@ Experimente um ou mais dos seguintes procedimentos:
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
         <translation>Este tipo de letra %1 não está disponível no seu sistema. O texto será apresentado num tipo de letra substituto. Pretende utilizá-lo mesmo assim?</translation>
+    </message>
+    <message>
+        <source>%1 is invalid font size.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>When the smart number setting is turned on, the official document master will change the format when you write the corresponding number and press Enter.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -44291,6 +45490,17 @@ Experimente um ou mais dos seguintes procedimentos:
     </message>
 </context>
 <context>
+    <name>KSearchFileItemDelegate</name>
+    <message>
+        <source>OpenByLocalApp</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>Pré-visualizar</translation>
+    </message>
+</context>
+<context>
     <name>KxConvertTabletoTextDlg</name>
     <message>
         <source>You must type a character for the custom separator.</source>
@@ -44466,6 +45676,29 @@ Experimente um ou mais dos seguintes procedimentos:
     </message>
 </context>
 <context>
+    <name>KxOfficialLaunchingWidget</name>
+    <message>
+        <source>OfficialTools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Official Master is Launching!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OfficialCorrect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OfficialMaterial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OfficialRender</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgWpsRecordMacro</name>
     <message>
         <source>Record Macro</source>
@@ -44557,6 +45790,10 @@ Experimente um ou mais dos seguintes procedimentos:
     <name>KxMergeToDiffNewDocDlg</name>
     <message>
         <source>Unaccessible file location</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Failed to save file</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -44807,6 +46044,10 @@ Experimente um ou mais dos seguintes procedimentos:
         <source>Transfering</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Official to ordinary file</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxGoPremiumDlg</name>
@@ -44987,6 +46228,22 @@ Experimente um ou mais dos seguintes procedimentos:
     </message>
 </context>
 <context>
+    <name>KxWpsApplication</name>
+    <message>
+        <source>WPS Writer cannot save Normal.dotm.
+Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Official Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
+        <translation>A imagem inserida é apresentada de forma incompleta. Pretende ajustar automaticamente o espaçamento entre linhas com base no tamanho da imagem?</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsODTLineSpacingWidget</name>
     <message>
         <source>Double</source>
@@ -45125,9 +46382,24 @@ Experimente um ou mais dos seguintes procedimentos:
     </message>
 </context>
 <context>
+    <name>KxWpsOfficialNumberingModel</name>
+    <message>
+        <source>GalleryOfficalOutlineNumbering</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>GalleryOfficialNumbering</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxTpWpsConfidentialityLevelKeyWordWidget</name>
     <message>
         <source>No data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;expandAll</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -45135,7 +46407,19 @@ Experimente um ou mais dos seguintes procedimentos:
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>,But did not complete the full text check</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>total check result:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;collapseAll</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>date already deleted!</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -45219,13 +46503,6 @@ Experimente um ou mais dos seguintes procedimentos:
     <message>
         <source>dialogstest</source>
         <translation>dialogstest</translation>
-    </message>
-</context>
-<context>
-    <name>KxPageElementsWidgetSignature</name>
-    <message>
-        <source>Seal Width:</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45313,13 +46590,6 @@ esquema que corresponda ao espaço de nomes já especificado; ou clique em Cance
     <message>
         <source>you must provide the URI name of the schema.</source>
         <translation>Tem de fornecer um URI para este Esquema para poder adicioná-lo.</translation>
-    </message>
-</context>
-<context>
-    <name>KxOfficialLaunchingWidget</name>
-    <message>
-        <source>Official Master is Launching!</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45546,6 +46816,13 @@ esquema que corresponda ao espaço de nomes já especificado; ou clique em Cance
     </message>
 </context>
 <context>
+    <name>KxPageElementTextEditValidator</name>
+    <message>
+        <source>No more than %1 characters</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWpsReadingDivisionListCommand</name>
     <message>
         <source>One column</source>
@@ -45577,12 +46854,24 @@ esquema que corresponda ao espaço de nomes já especificado; ou clique em Cance
         <source>dialog</source>
         <translation>caixa de diálogo</translation>
     </message>
+    <message>
+        <source>Sending Mail With WPS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Stop sendemail</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>SendByClientConfigWidget</name>
     <message>
         <source>dialog</source>
         <translation>caixa de diálogo</translation>
+    </message>
+    <message>
+        <source>&amp;Account</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SendMail</source>
@@ -45594,6 +46883,47 @@ esquema que corresponda ao espaço de nomes já especificado; ou clique em Cance
     <message>
         <source>(No entry)</source>
         <translation>(Sem entradas)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsMaintainCmptPrompt</name>
+    <message>
+        <source>You are saving an old-format document as a new format.
+
+While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save as a new format</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save new format</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MaintainCompatibilityPrompt</source>
+        <translation>Aviso para Manter Compatibilidade</translation>
+    </message>
+    <message>
+        <source>Do not remind me again.</source>
+        <translation>Não voltar a lembrar-me.</translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to the newest file format.
+
+While you'll get to use all the new features in Word, some minor layout
+changes are possible. If you prefer not to upgrade, press cancel an
+check the maintain compatibility checkbox.</source>
+        <translation>O seu documento será atualizado para o formato de ficheiro mais recente.
+
+Enquanto utiliza as novas funcionalidades no WPS Writer, 
+isto pode causar mudanças secundárias no esquema. Se preferir não atualizar, 
+prima cancelar e selecione a caixa de verificação de manutenção de compatibilidade.</translation>
+    </message>
+    <message>
+        <source>Do not ask me again.</source>
+        <translation>Não voltar a perguntar</translation>
     </message>
 </context>
 <context>
@@ -45728,6 +47058,18 @@ esquema que corresponda ao espaço de nomes já especificado; ou clique em Cance
         <translation>Documento não suporta Localizar Palavra-passe. Não é um documento de nível de confidencialidade!</translation>
     </message>
     <message>
+        <source>The thesaurus is empty, please add keywords</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add keywords</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Inverse selection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>select all</source>
         <translation>selecionar tudo</translation>
     </message>
@@ -45741,13 +47083,6 @@ esquema que corresponda ao espaço de nomes já especificado; ou clique em Cance
     <message>
         <source>Attachment: 1.xxxxxxxxxx</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KSearchFileItemDelegate</name>
-    <message>
-        <source>Preview</source>
-        <translation>Pré-visualizar</translation>
     </message>
 </context>
 <context>
@@ -45776,30 +47111,18 @@ esquema que corresponda ao espaço de nomes já especificado; ou clique em Cance
     </message>
 </context>
 <context>
-    <name>KxComposeParaFormatCommand</name>
+    <name>KxWpsEquationOptionsDlg</name>
     <message>
-        <source>Heading 1</source>
-        <translation>Cabeçalho 1</translation>
+        <source>This change will affect all new documents based on the NORMAL template.</source>
+        <translation>Esta alteração irá afetar todos os novos documentos baseados no modelo NORMAL.</translation>
     </message>
     <message>
-        <source>Heading 2</source>
-        <translation>Cabeçalho 2</translation>
+        <source>Save failed.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Heading 3</source>
-        <translation>Cabeçalho 3</translation>
-    </message>
-    <message>
-        <source>Heading 4</source>
-        <translation>Cabeçalho 4</translation>
-    </message>
-    <message>
-        <source>Heading 5</source>
-        <translation>Cabeçalho 5</translation>
-    </message>
-    <message>
-        <source>Heading 6</source>
-        <translation>Cabeçalho 6</translation>
+        <source>Template is missing.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45952,6 +47275,13 @@ esquema que corresponda ao espaço de nomes já especificado; ou clique em Cance
     </message>
 </context>
 <context>
+    <name>KxWpsOfficialNewDocumentDlg</name>
+    <message>
+        <source>New Empty</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgNewLabel</name>
     <message>
         <source>New Label</source>
@@ -46041,13 +47371,6 @@ esquema que corresponda ao espaço de nomes já especificado; ou clique em Cance
     </message>
 </context>
 <context>
-    <name>KxDlgCheckingTips</name>
-    <message>
-        <source>checking now,plz wait...</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxDlgCheckingTips2</name>
     <message>
         <source>checking now,plz wait...</source>
@@ -46115,21 +47438,6 @@ A conversão permite-lhe utilizar todas as funcionalidades novas do WPS Writer. 
     </message>
 </context>
 <context>
-    <name>KxWpsMailSenderTestDlg</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation>&amp;Cancelar</translation>
-    </message>
-    <message>
-        <source>Receiving this mail means your configuration is successful. </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Test failed.Please check the information.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxDlgUnProtectDocument</name>
     <message>
         <source>&amp;Password:</source>
@@ -46177,6 +47485,21 @@ A conversão permite-lhe utilizar todas as funcionalidades novas do WPS Writer. 
     </message>
 </context>
 <context>
+    <name>KxDocElementsWidget</name>
+    <message>
+        <source>Edition:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IU_unit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Header:</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>wps_field_parser_autotext</name>
     <message>
         <source>Error! No autotext entry supplied</source>
@@ -46215,6 +47538,13 @@ a Lado</translation>
     </message>
 </context>
 <context>
+    <name>KxCreateContentsToolTip</name>
+    <message>
+        <source>click &quot;Create Navigation&quot;, show document structure.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
@@ -46250,13 +47580,6 @@ a Lado</translation>
     </message>
 </context>
 <context>
-    <name>KxWpsEquationOptionsDlg</name>
-    <message>
-        <source>Template is missing.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxWpsRestartPageNumCommand</name>
     <message>
         <source>Restart Page Number</source>
@@ -46268,44 +47591,6 @@ a Lado</translation>
     <message>
         <source>The measurement must be between %1 and %2.</source>
         <translation>A medida tem de estar entre %1 e %2.</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgWpsMaintainCmptPrompt</name>
-    <message>
-        <source>MaintainCompatibilityPrompt</source>
-        <translation>Aviso para Manter Compatibilidade</translation>
-    </message>
-    <message>
-        <source>Do not remind me again.</source>
-        <translation>Não voltar a lembrar-me.</translation>
-    </message>
-    <message>
-        <source>Your document will be upgraded to the newest file format.
-
-While you'll get to use all the new features in Word, some minor layout
-changes are possible. If you prefer not to upgrade, press cancel an
-check the maintain compatibility checkbox.</source>
-        <translation>O seu documento será atualizado para o formato de ficheiro mais recente.
-
-Enquanto utiliza as novas funcionalidades no WPS Writer, 
-isto pode causar mudanças secundárias no esquema. Se preferir não atualizar, 
-prima cancelar e selecione a caixa de verificação de manutenção de compatibilidade.</translation>
-    </message>
-    <message>
-        <source>Do not ask me again.</source>
-        <translation>Não voltar a perguntar</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsApplication</name>
-    <message>
-        <source>Official Document</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
-        <translation>A imagem inserida é apresentada de forma incompleta. Pretende ajustar automaticamente o espaçamento entre linhas com base no tamanho da imagem?</translation>
     </message>
 </context>
 <context>
@@ -46341,6 +47626,13 @@ prima cancelar e selecione a caixa de verificação de manutenção de compatibi
     <message>
         <source>Advanced find</source>
         <translation>Pesquisa Avançada</translation>
+    </message>
+</context>
+<context>
+    <name>KeyWordCheckEntryButton</name>
+    <message>
+        <source>Classified check</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46416,13 +47708,6 @@ representar o conteúdo das informações do destinatário</translation>
     </message>
 </context>
 <context>
-    <name>KxDocElementsWidget</name>
-    <message>
-        <source>Header:</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxWpsDuplexPrintCombobox</name>
     <message>
         <source>Duplex Print:</source>
@@ -46455,13 +47740,6 @@ representar o conteúdo das informações do destinatário</translation>
     <message>
         <source>Click here to insert pictures.</source>
         <translation>Clique aqui para inserir imagens.</translation>
-    </message>
-</context>
-<context>
-    <name>KxOfficialTemplateBeginerDialog</name>
-    <message>
-        <source>Beginner Guide</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
