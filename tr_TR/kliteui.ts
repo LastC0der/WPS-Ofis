@@ -238,7 +238,15 @@
         <translation>İptal</translation>
     </message>
     <message>
+        <source>success</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Waiting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>waiting</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -507,6 +515,10 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The company&apos;s files can only be saved to that company</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Dropbox</source>
         <translation type="unfinished"/>
     </message>
@@ -677,6 +689,10 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
         <translation>Bilgisayar</translation>
     </message>
     <message>
+        <source>Shares received of cloud disk</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>There is an extension of the data in the document</source>
         <translation type="unfinished"/>
     </message>
@@ -705,7 +721,15 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>ShareFolder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Folder is not exist</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Group Space of cloud disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1058,6 +1082,10 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>File exceeds %1 upload limit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Please clean up files in time</source>
         <translation type="unfinished"/>
     </message>
@@ -1089,6 +1117,13 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Authorize again</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KLiteQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1389,6 +1424,13 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KPromeIconThemeMgr</name>
     <message>
         <source>2019default</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KLiteWaitingWidget</name>
+    <message>
+        <source>resource loading...</source>
         <translation type="unfinished"/>
     </message>
 </context>
