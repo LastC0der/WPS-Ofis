@@ -238,8 +238,16 @@
         <translation>Отмена</translation>
     </message>
     <message>
+        <source>success</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Waiting</source>
         <translation>Ожидание</translation>
+    </message>
+    <message>
+        <source>waiting</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Warning</source>
@@ -340,7 +348,7 @@
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Повторить попытку</translation>
     </message>
     <message>
         <source>Purchase Error</source>
@@ -406,11 +414,11 @@
     </message>
     <message>
         <source>The file already exists. Do you want to overwrite it?</source>
-        <translation type="unfinished"/>
+        <translation>Файл уже существует. Перезаписать его?</translation>
     </message>
     <message>
         <source>Confirm upload</source>
-        <translation type="unfinished"/>
+        <translation>Подтвердить отправку</translation>
     </message>
 </context>
 <context>
@@ -504,6 +512,10 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Google</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The company&apos;s files can only be saved to that company</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -677,6 +689,10 @@ Save the data and restart the WPS software to enable this feature.</source>
         <translation>Компьютер</translation>
     </message>
     <message>
+        <source>Shares received of cloud disk</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>There is an extension of the data in the document</source>
         <translation>В документе имеется расширение данных</translation>
     </message>
@@ -705,8 +721,16 @@ Save the data and restart the WPS software to enable this feature.</source>
         <translation>Сохранить как</translation>
     </message>
     <message>
+        <source>ShareFolder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Folder is not exist</source>
         <translation>Папка не существует</translation>
+    </message>
+    <message>
+        <source>Group Space of cloud disk</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My Company</source>
@@ -1058,6 +1082,10 @@ Save the data and restart the WPS software to enable this feature.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>File exceeds %1 upload limit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Please clean up files in time</source>
         <translation type="unfinished"/>
     </message>
@@ -1077,18 +1105,25 @@ Save the data and restart the WPS software to enable this feature.</source>
     <name>KThirdCloudErrorPage</name>
     <message>
         <source>Authorized sign-in is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Недействительный авторизованный вход.</translation>
     </message>
     <message>
         <source>Failed to load the file list.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось загрузить список файлов.</translation>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Повторить попытку</translation>
     </message>
     <message>
         <source>Authorize again</source>
+        <translation>Авторизовать еще раз</translation>
+    </message>
+</context>
+<context>
+    <name>KLiteQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1096,7 +1131,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     <name>KThirdCloudLoadingPage</name>
     <message>
         <source>Loading the file list for you...</source>
-        <translation type="unfinished"/>
+        <translation>Загрузка списка файлов для вас...</translation>
     </message>
 </context>
 <context>
@@ -1169,11 +1204,11 @@ please wait</source>
     </message>
     <message>
         <source>File Name(N):</source>
-        <translation type="unfinished"/>
+        <translation>Имя файла(N):</translation>
     </message>
     <message>
         <source>File Type(T):</source>
-        <translation type="unfinished"/>
+        <translation>Тип файла(T):</translation>
     </message>
 </context>
 <context>
@@ -1391,6 +1426,13 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <message>
         <source>2019default</source>
         <translation>2019 Beauty</translation>
+    </message>
+</context>
+<context>
+    <name>KLiteWaitingWidget</name>
+    <message>
+        <source>resource loading...</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
