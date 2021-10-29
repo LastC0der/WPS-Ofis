@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr_TR">
+<TS version="2.1">
 <context>
     <name>KPreferencesWidget</name>
     <message>
@@ -57,6 +57,10 @@
     </message>
     <message>
         <source>Automatically switch the appearance with the system, restart the application to take effect</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Language:</source>
         <translation></translation>
     </message>
     <message>
@@ -953,6 +957,10 @@ Please choose a different file name.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Upgrade vip expansion to 365G.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>New version is available, please lookup cloudfile state.</source>
         <translation></translation>
     </message>
@@ -1068,6 +1076,10 @@ Please choose a different file name.</source>
         <source>Please save again</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Upgrade vip, upload up to %1 of files.</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>QDateTimeEdit</name>
@@ -1150,7 +1162,19 @@ Please choose a different file name.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Kingsoft PDF Professional</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Kingsoft PDF</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>You have opened some dialog boxes. To exit your account, please close them first, and then close all open files.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dialog and Files Still Open</source>
         <translation></translation>
     </message>
     <message>
@@ -3268,6 +3292,10 @@ Check path and filename.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Star Items</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Blank Document</source>
         <translation></translation>
     </message>
@@ -3292,6 +3320,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Blank Presentation</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cannot open file, unsupported file format!
+(%1)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Open tip</source>
         <translation></translation>
     </message>
     <message>
@@ -3377,6 +3414,10 @@ Check path and filename.</source>
         <translation></translation>
     </message>
     <message>
+        <source>2. You can also log back in, login complete will automatically go off-line the earliest login device</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Personal Center - Online Devices</source>
         <translation></translation>
     </message>
@@ -3385,11 +3426,19 @@ Check path and filename.</source>
         <translation></translation>
     </message>
     <message>
+        <source>The number of login devices under your account has reached the maximum limit, the current device is automatically offline</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>WPS Account is already offline on the current device</source>
         <translation></translation>
     </message>
     <message>
         <source>Feedback</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign back in</source>
         <translation></translation>
     </message>
 </context>
@@ -4752,6 +4801,10 @@ Please verify the correct file name was given.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Open File Cloud Disk Location</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Opening file...</source>
         <translation></translation>
     </message>
@@ -5863,7 +5916,17 @@ If this error occurs repeatedly, please send us an error report.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Sorry! A problem has occurred</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Feedback</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Office crashed for some reasons.
+To continue your work, you need to reopen your files. Please be aware that unsaved changes might be lost.
+Sorry for the inconvenience.</source>
         <translation></translation>
     </message>
     <message>
@@ -6699,6 +6762,10 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
         <translation></translation>
     </message>
     <message>
+        <source>2019gov</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Clear (Black)</source>
         <translation></translation>
     </message>
@@ -7147,6 +7214,10 @@ to
     <name>KDocerFakeBtnTabMenu</name>
     <message>
         <source>close</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>No longer the default display (the docer mall updates the template, picture and other materials from time to time)</source>
         <translation></translation>
     </message>
 </context>
@@ -7855,6 +7926,10 @@ have libgstreamer-plugins-base installed.</source>
         <source>New Document</source>
         <translation></translation>
     </message>
+    <message>
+        <source>New Document From Template</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KStartupFeatureGuideDlg</name>
@@ -7950,6 +8025,14 @@ This file may be renamed, deleted or moved.</source>
     <name>KPromeStartPageSubPage</name>
     <message>
         <source>Kingsoft PDF</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS flow</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS mind</source>
         <translation></translation>
     </message>
     <message>
@@ -8943,6 +9026,13 @@ All Rights Reserved.</source>
     </message>
 </context>
 <context>
+    <name>KCirclePage</name>
+    <message>
+        <source>loading</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>QUdpSocket</name>
     <message>
         <source>This platform does not support IPv6</source>
@@ -9027,6 +9117,10 @@ Swiftly create a blank tab of the same type with Command+N</source>
     </message>
     <message>
         <source>NewTab</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DocerTab</source>
         <translation></translation>
     </message>
     <message>
@@ -9456,6 +9550,25 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KStartupPollingWindow</name>
+    <message>
+        <source>WPS Office</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>All-in-One Office Suite with PDF Editor</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Get Started</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>All-in-One Mode</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>AudioOutput</name>
     <message>
         <source>&lt;html&gt;The audio playback device &lt;b&gt;%1&lt;/b&gt; does not work.&lt;br/&gt;Falling back to &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</source>
@@ -9531,6 +9644,13 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KPromeTempLoginWidget</name>
+    <message>
+        <source>Login Temporarily</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KLoginStatusTipWidget</name>
     <message>
         <source>Login abnormally</source>
@@ -9576,6 +9696,11 @@ p, li { white-space: pre-wrap; }
         <source>WPS after-sales service</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Scan the code to follow for exclusive services
+Customer service hotline:</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KRateGuideDlg</name>
@@ -9594,11 +9719,26 @@ p, li { white-space: pre-wrap; }
         <source>reload</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Failed to connect to internet,please try again.</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KPromeStandaloneMoreMenu</name>
+    <message>
+        <source>report</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>feed back</source>
         <translation></translation>
     </message>
 </context>
@@ -9813,6 +9953,20 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KPromeBackupManager</name>
     <message>
         <source>Find templates, check documents, find application and enjoy privileges, all in your office start page.</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KPromeTabWebAppMenu</name>
+    <message>
+        <source>refresh page</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KInfoCenterJsApi</name>
+    <message>
+        <source>Mail Address has been copied to system Clipboard:</source>
         <translation></translation>
     </message>
 </context>

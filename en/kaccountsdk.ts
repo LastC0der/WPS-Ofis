@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr_TR">
+<TS version="2.1">
 <context>
     <name>KAccountMessageContentDlg</name>
     <message>
@@ -660,6 +660,18 @@ Easy mobile office.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Try again</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Check order</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Checking payment...</source>
         <translation></translation>
     </message>
@@ -868,6 +880,10 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Page load timeout,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
         <translation></translation>
     </message>
     <message>
@@ -1172,6 +1188,10 @@ Easy mobile office.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Online Service User Agreement</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Continue with Twitter</source>
         <translation></translation>
     </message>
@@ -1241,6 +1261,10 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Register now</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>I agree to the %1</source>
         <translation></translation>
     </message>
     <message>
@@ -1374,6 +1398,104 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KPayStateDlg</name>
+    <message>
+        <source>Please wait a few minutes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>You can download unlimted templates.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Payment timeout</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Get your personal customization now.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>You can use PDF conversion unlimited.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Payment successful!</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Fill in</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>You have become WPS Premium user.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Checking payment...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Payment failed</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneEnhance</name>
+    <message>
+        <source>Cloud storage</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Files repair</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Start Your Free Trial</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture to text(OCR)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign in as WPS Standard</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Welcome to try our 7-day WPS Premium Trial</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Product Key</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit text/images in PDF</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign in and unlock 80+ exclusive benefits only available in WPS Premium</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KBindingAccountDialog</name>
     <message>
         <source>Proxy &amp;Setting</source>
@@ -1423,6 +1545,10 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Service timeout</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source> or refer to the </source>
         <translation></translation>
     </message>
     <message>
@@ -1854,6 +1980,10 @@ Easy mobile office.</source>
         <translation></translation>
     </message>
     <message>
+        <source>request failed, please retry later.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Select user failed</source>
         <translation></translation>
     </message>
@@ -1955,6 +2085,25 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Welcome to use WPS Office</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KFeedbackPopupWidget</name>
+    <message>
+        <source>Forgot the password</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign-in failed</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Other questions or feedback</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Select your question type:</source>
         <translation></translation>
     </message>
 </context>

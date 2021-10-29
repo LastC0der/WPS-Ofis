@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr_TR">
+<TS version="2.1">
 <context>
     <name>KVipOpeningWidget</name>
     <message>
@@ -240,7 +240,15 @@
         <translation></translation>
     </message>
     <message>
+        <source>success</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Waiting</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>waiting</source>
         <translation></translation>
     </message>
     <message>
@@ -508,6 +516,10 @@ Save the data and restart the WPS software to enable this feature.</source>
         <translation></translation>
     </message>
     <message>
+        <source>The company&apos;s files can only be saved to that company</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Dropbox</source>
         <translation></translation>
     </message>
@@ -678,6 +690,10 @@ Save the data and restart the WPS software to enable this feature.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Shares received of cloud disk</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>There is an extension of the data in the document</source>
         <translation></translation>
     </message>
@@ -706,7 +722,15 @@ Save the data and restart the WPS software to enable this feature.</source>
         <translation></translation>
     </message>
     <message>
+        <source>ShareFolder</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Folder is not exist</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Group Space of cloud disk</source>
         <translation></translation>
     </message>
     <message>
@@ -1059,6 +1083,10 @@ Save the data and restart the WPS software to enable this feature.</source>
         <translation></translation>
     </message>
     <message>
+        <source>File exceeds %1 upload limit</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Please clean up files in time</source>
         <translation></translation>
     </message>
@@ -1090,6 +1118,13 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Authorize again</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KLiteQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
         <translation></translation>
     </message>
 </context>
@@ -1390,6 +1425,13 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KPromeIconThemeMgr</name>
     <message>
         <source>2019default</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KLiteWaitingWidget</name>
+    <message>
+        <source>resource loading...</source>
         <translation></translation>
     </message>
 </context>

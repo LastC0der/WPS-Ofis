@@ -684,6 +684,10 @@ If this is correct, choose Next. If not, choose the data type that best describe
         <translation></translation>
     </message>
     <message>
+        <source>Open directly by default:Content style is complete, but opening may fail</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Ad&amp;vanced...</source>
         <translation></translation>
     </message>
@@ -757,6 +761,10 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
     <message>
         <source>DEFAULT option for merge single column cells:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Keep cache for</source>
         <translation></translation>
     </message>
     <message>
@@ -1000,6 +1008,10 @@ If this is correct, choose Next. If not, choose the data type that best describe
         <translation></translation>
     </message>
     <message>
+        <source>Default insert images of &amp;original size</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Microsoft Excel 97-2003 Workbook (*.xls)</source>
         <translation></translation>
     </message>
@@ -1104,6 +1116,10 @@ If this is correct, choose Next. If not, choose the data type that best describe
         <translation></translation>
     </message>
     <message>
+        <source>Keep files cache</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Edit settings</source>
         <translation></translation>
     </message>
@@ -1205,6 +1221,14 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
     <message>
         <source>Taskb&amp;ar</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Fix &amp;interval</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable Bl&amp;ue background</source>
         <translation></translation>
     </message>
     <message>
@@ -1348,6 +1372,10 @@ If this is correct, choose Next. If not, choose the data type that best describe
         <translation></translation>
     </message>
     <message>
+        <source>Never show dialog when open html file</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Default document &amp;format to save:</source>
         <translation></translation>
     </message>
@@ -1464,6 +1492,10 @@ If this is correct, choose Next. If not, choose the data type that best describe
         <translation></translation>
     </message>
     <message>
+        <source>Open in simple mode:Can open to view the content, but the opening speed is slow, elements such as styles may be lost</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Calculation</source>
         <translation></translation>
     </message>
@@ -1525,6 +1557,10 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
     <message>
         <source>Formulas which &amp;omit cells in a region</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Folder:</source>
         <translation></translation>
     </message>
     <message>
@@ -1712,31 +1748,7 @@ If this is correct, choose Next. If not, choose the data type that best describe
         <translation></translation>
     </message>
     <message>
-        <source>Keep files cache</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Default insert images of &amp;original size</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Never show dialog when open html file</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Open directly by default:Content style is complete, but opening may fail</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Open in simple mode:Can open to view the content, but the opening speed is slow, elements such as styles may be lost</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>&amp;High quality printing</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Keep cache for</source>
         <translation></translation>
     </message>
     <message>
@@ -1970,6 +1982,10 @@ Try entering some sample data before performing Smart Fill.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Formulas or rich data types in the header row will be removed and converted to static text. Do you want to continue?</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>(ALL)</source>
         <translation></translation>
     </message>
@@ -2196,6 +2212,10 @@ There are several possible reasons:
         <translation></translation>
     </message>
     <message>
+        <source>Cannot insert data because there&apos;s a merged cell in the way.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>PivotTable %s  had some incorrect data,it had been deleted</source>
         <translation></translation>
     </message>
@@ -2290,6 +2310,10 @@ Please try one of the following.
         <translation></translation>
     </message>
     <message>
+        <source>Instead of selecting a table header,select a cell with text in the table to convert to a data type.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Ambiguous name detected: %s</source>
         <translation></translation>
     </message>
@@ -2347,6 +2371,10 @@ Please try one of the following.
         <translation></translation>
     </message>
     <message>
+        <source>The current table is in the workbook protection state, unable to export the chart temporarily.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>When a cell is updated by more than one formula,</source>
         <translation></translation>
     </message>
@@ -2376,6 +2404,10 @@ Please try one of the following.
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The table slicer could not be copied from one workbook to another. Please select the entire table and slicer to try again.</source>
         <translation></translation>
     </message>
     <message>
@@ -2497,6 +2529,10 @@ Please try one of the following.
         <translation></translation>
     </message>
     <message>
+        <source>We cannot convert into this data type.This is because the cell is blank,contains a formula,or it has already been converted into this data type.Try selecting another cell with just text or numbers,or select another data type.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <translation></translation>
@@ -2614,6 +2650,10 @@ Please try one of the following.
     </message>
     <message>
         <source>(Exclusive)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause target range contains a formula, merged cell, data validation, locked cell or pivot table.Remove those features from target range and click the Flash Fill button again.</source>
         <translation></translation>
     </message>
     <message>
@@ -2806,6 +2846,10 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     </message>
     <message>
         <source>Show Field List</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cannot create an outline.</source>
         <translation></translation>
     </message>
     <message>
@@ -3179,6 +3223,10 @@ If you want to use this field in the report,click OK,and then move the field to 
         <translation></translation>
     </message>
     <message>
+        <source> Field Not Found.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>You can create a PivotTable based on source data with more than 16384 columns. Reduce the number of columns and try again.</source>
         <translation></translation>
     </message>
@@ -3333,6 +3381,14 @@ Simplify the PivotTable report or check the macro for errors, and then try the o
         <translation></translation>
     </message>
     <message>
+        <source>A table header-line overlap one or more formula(s).</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Can&apos;t insert new cells because it would push non-empty cells off the end of the worksheet.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>%s File Not Exist</source>
         <comment>TX_DuplicateItemsMgr_File_Not_Exist</comment>
         <translation></translation>
@@ -3477,6 +3533,11 @@ Check that the cell references, range names, defined names and links to other wo
     <message>
         <source>New
 Value</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot open this file, because the password is not correct.
+</source>
         <translation></translation>
     </message>
     <message>
@@ -3783,6 +3844,10 @@ If you are trying to open the file from your recently used file list on the File
         <translation></translation>
     </message>
     <message>
+        <source>The PasteLink Operator is forbidden in Pivot Table.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Cannot edit PivotTable in group edit mode.</source>
         <translation></translation>
     </message>
@@ -3821,6 +3886,10 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>The PivotTable report will not fit on the sheet. Do you want to show as much as possible?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>We are unable to replace matches in read-only Rich Data.</source>
         <translation></translation>
     </message>
     <message>
@@ -3877,6 +3946,10 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>The file &quot;%s&quot; to be saved has the same name with an open file. Please choose a different name, or close another workbook with the same name first.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The current worksheet has no outline and cannot display the outline symbol. Whether to create an outline?</source>
         <translation></translation>
     </message>
     <message>
@@ -4020,6 +4093,10 @@ Reasons for this can include:
     </message>
     <message>
         <source>%s is a reserved name.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cannot insert data because a table is in the way.</source>
         <translation></translation>
     </message>
     <message>
@@ -4220,6 +4297,10 @@ Please try to shorten the file path, or move the file to the desktop, and reopen
         <translation></translation>
     </message>
     <message>
+        <source>A table total-line overlap one or more formula(s).</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •The current version of WPS Spreadsheets does not support this file&apos;s permission control level, please update to the latest version.
@@ -4286,6 +4367,10 @@ Please try one of the following.
     </message>
     <message>
         <source>The field you are moving cannot be placed in that PivotTable area.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Field Not Found Error</source>
         <translation></translation>
     </message>
     <message>
@@ -5089,11 +5174,19 @@ This backup will be saved to (%s)</source>
         <translation></translation>
     </message>
     <message>
+        <source>Hovered Unselected Item with Data</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Grand Total Row</source>
         <translation></translation>
     </message>
     <message>
         <source>This style name already exists.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hovered Selected Item with Data</source>
         <translation></translation>
     </message>
     <message>
@@ -5173,6 +5266,10 @@ This backup will be saved to (%s)</source>
         <translation></translation>
     </message>
     <message>
+        <source>Unselected Item with Data</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Table Style</source>
         <translation></translation>
     </message>
@@ -5194,6 +5291,10 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Column Subheading 3</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hovered Unselected Item with no Data</source>
         <translation></translation>
     </message>
     <message>
@@ -5229,11 +5330,23 @@ This backup will be saved to (%s)</source>
         <translation></translation>
     </message>
     <message>
+        <source>Unselected Item with no Data</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Selected Item with no Data</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Header Row</source>
         <translation></translation>
     </message>
     <message>
         <source>Underline</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Selected Item with Data</source>
         <translation></translation>
     </message>
     <message>
@@ -5261,6 +5374,10 @@ This backup will be saved to (%s)</source>
         <translation></translation>
     </message>
     <message>
+        <source>Hovered Selected Item with no Data</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Enter a table style name.</source>
         <translation></translation>
     </message>
@@ -5270,6 +5387,10 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Set as default table style for this document</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source></source>
         <translation></translation>
     </message>
 </context>
@@ -6797,6 +6918,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
         <translation></translation>
     </message>
     <message>
+        <source>Hide White Space</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Base</source>
         <translation></translation>
     </message>
@@ -6882,6 +7007,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Year</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Yld </source>
         <translation></translation>
     </message>
     <message>
@@ -7218,6 +7347,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Workbook is protected and cannot be changed.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>is the number or string specifying when weekends occur.</source>
         <translation></translation>
     </message>
     <message>
@@ -7909,6 +8042,10 @@ Please make sure the selected regions are continuous cells.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Settlement </source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Date of issue</source>
         <translation></translation>
     </message>
@@ -8267,6 +8404,10 @@ Data</source>
     </message>
     <message>
         <source>Octal number</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>is the security&apos;s maturity date, expressed as a serial date number. </source>
         <translation></translation>
     </message>
     <message>
@@ -8724,6 +8865,10 @@ Data</source>
         <translation></translation>
     </message>
     <message>
+        <source>Extract &lt;b&gt;%1&lt;/b&gt; to grid</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Number</source>
         <translation></translation>
     </message>
@@ -8753,6 +8898,10 @@ Data</source>
     </message>
     <message>
         <source>Degrees of freedom</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ref1,ref2,... are 1 to 253 ranges or references for which you want the aggregate.</source>
         <translation></translation>
     </message>
     <message>
@@ -9058,6 +9207,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
         <translation></translation>
     </message>
     <message>
+        <source>is the security&apos;s price per $100 face value.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Help_topic</source>
         <translation></translation>
     </message>
@@ -9072,6 +9225,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the second data set.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Package</source>
         <translation></translation>
     </message>
     <message>
@@ -9432,6 +9589,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the number for which you want the square root.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The Modification of DDE or OLE has Failed.</source>
         <translation></translation>
     </message>
     <message>
@@ -9869,6 +10030,10 @@ There are several possible reasons:
         <translation></translation>
     </message>
     <message>
+        <source>number1, number2, ... are 1 to 255 numeric arguments corresponding to a population.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>The upper limit of the integrated ERF</source>
         <translation></translation>
     </message>
@@ -9975,6 +10140,10 @@ There are several possible reasons:
         <translation></translation>
     </message>
     <message>
+        <source>Frequency </source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Insert_logical</source>
         <translation></translation>
     </message>
@@ -10002,6 +10171,10 @@ There are several possible reasons:
     </message>
     <message>
         <source>Expression</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>is the string representing the number you want to convert.</source>
         <translation></translation>
     </message>
     <message>
@@ -10046,6 +10219,10 @@ There are several possible reasons:
         <translation></translation>
     </message>
     <message>
+        <source>is the number 1 to 19 that specifies the summary funcion for the aggregate.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Criteria</source>
         <translation></translation>
     </message>
@@ -10079,8 +10256,16 @@ There are several possible reasons:
         <translation></translation>
     </message>
     <message>
+        <source>is a decimal number.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>is the security&apos;s annual coupon rate.</source>
         <comment>TX_ParaDesc_490</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>is the security&apos;s settlement date, expressed as a serial date number.  </source>
         <translation></translation>
     </message>
     <message>
@@ -10099,6 +10284,10 @@ There are several possible reasons:
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_007</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>is the integer to use the denominator os the fraction.</source>
         <translation></translation>
     </message>
     <message>
@@ -10151,6 +10340,10 @@ There are several possible reasons:
         <translation></translation>
     </message>
     <message>
+        <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Row_num</source>
         <translation></translation>
     </message>
@@ -10198,6 +10391,10 @@ There are several possible reasons:
     <message>
         <source>Protect 
 Sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>number1, number2, ... are 1 to 255 numeric arguments corresponding to a sample of a population.</source>
         <translation></translation>
     </message>
     <message>
@@ -10431,6 +10628,10 @@ Continue ?</source>
         <translation></translation>
     </message>
     <message>
+        <source>Coupon </source>
+        <translation></translation>
+    </message>
+    <message>
         <source>is the set of probabilities associated with values in X_range, values between 0 and 1 and excluding 0.</source>
         <translation></translation>
     </message>
@@ -10460,6 +10661,10 @@ Continue ?</source>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_076</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>is the character used as the group separator in the string.</source>
         <translation></translation>
     </message>
     <message>
@@ -10664,6 +10869,10 @@ Continue ?</source>
         <translation></translation>
     </message>
     <message>
+        <source>is the number 0 to 7 that specifies the value to ignore for the aggregate.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Bottom</source>
         <comment>TX_ParaInfo_009</comment>
         <translation></translation>
@@ -10688,6 +10897,10 @@ Continue ?</source>
     </message>
     <message>
         <source>Coefficients</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ignore nothing</source>
         <translation></translation>
     </message>
     <message>
@@ -10716,6 +10929,10 @@ Continue ?</source>
     </message>
     <message>
         <source>is the value that is returned if Logical_test is TRUE. If omitted, TRUE is returned. You can nest up to seven IF functions.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>is the number of nonweekend and non-holiday days before or after start_date.</source>
         <translation></translation>
     </message>
     <message>
@@ -10831,6 +11048,10 @@ Continue ?</source>
         <translation></translation>
     </message>
     <message>
+        <source>Maturity </source>
+        <translation></translation>
+    </message>
+    <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a reference to a cell, formula, or value.</source>
         <translation></translation>
     </message>
@@ -10852,6 +11073,10 @@ Continue ?</source>
     </message>
     <message>
         <source>Connections</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>We need help with this text. Click the ? icon to resolve (Ctrl+Shift+F5)</source>
         <translation></translation>
     </message>
     <message>
@@ -10938,6 +11163,14 @@ Background</source>
         <translation></translation>
     </message>
     <message>
+        <source>A string to be URL encoded.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>is the character used as the decimal separator in the string.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>is the row number in table_array from which the matching value should be returned. The first row of values in the table is row 1.</source>
         <translation></translation>
     </message>
@@ -10991,6 +11224,10 @@ Background</source>
     </message>
     <message>
         <source>Redemption</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please don&apos;t select entire row or entire column.</source>
         <translation></translation>
     </message>
     <message>
@@ -11052,6 +11289,10 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>Menu_ref</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>is a number expressed as a fraction.</source>
         <translation></translation>
     </message>
     <message>
@@ -11533,6 +11774,10 @@ Workbook</source>
         <translation></translation>
     </message>
     <message>
+        <source>Show White Space</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Center section </source>
         <translation></translation>
     </message>
@@ -11889,6 +12134,10 @@ Workbook</source>
         <translation></translation>
     </message>
     <message>
+        <source>is a reference to the cell you want to test. Reference can be a cell reference, a formula, or a name that refers to a cell.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>is the text in which you want to search for Find_text.</source>
         <translation></translation>
     </message>
@@ -12013,6 +12262,10 @@ Workbook</source>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>is the number of coupon payments per year. </source>
         <translation></translation>
     </message>
     <message>
@@ -13710,6 +13963,10 @@ the category you want, and then choose the other options.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Could not get data. Verify that the network link is normal or that the URL is correct</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Rotated up %d Degrees</source>
         <translation></translation>
     </message>
@@ -14051,6 +14308,10 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <name>KxStyleDlg</name>
     <message>
         <source>, </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source></source>
         <translation></translation>
     </message>
 </context>
@@ -14752,6 +15013,10 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <translation></translation>
     </message>
     <message>
+        <source>Please enter the content of the split rules</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Split by Character type(space,number,symbol,letter,Chinese characters)</source>
         <translation></translation>
     </message>
@@ -14773,6 +15038,10 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Please delete the content to 1000 characters</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>do spliting</source>
         <translation></translation>
     </message>
     <message>
@@ -14830,7 +15099,27 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <translation></translation>
     </message>
     <message>
+        <source>Return button location</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Directory save to</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>*This operation does not support undo.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Return Directory</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Cancel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Don&apos;t need to return button</source>
         <translation></translation>
     </message>
     <message>
@@ -15402,6 +15691,10 @@ file,click OK.</source>
         <translation></translation>
     </message>
     <message>
+        <source>The non-null value on the right of the blank cell</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Set the fill content:</source>
         <translation></translation>
     </message>
@@ -15410,7 +15703,15 @@ file,click OK.</source>
         <translation></translation>
     </message>
     <message>
+        <source>The non-null value below the blank cell</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Cancel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The non-null value above the blank cell</source>
         <translation></translation>
     </message>
     <message>
@@ -15422,7 +15723,15 @@ file,click OK.</source>
         <translation></translation>
     </message>
     <message>
+        <source>The non-null value on the left of the blank cell</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Fill value</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please enter a string to insert</source>
         <translation></translation>
     </message>
 </context>
@@ -15458,6 +15767,10 @@ file,click OK.</source>
     </message>
     <message>
         <source>row title</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Diagonal Header</source>
         <translation></translation>
     </message>
 </context>
@@ -16213,6 +16526,20 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation></translation>
     </message>
     <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Fail to open file.There may be one of the following problems:
+ 
+1.The file format or database you selected is unsupported. 
+ 
+2.Current file has been opened. 
+
+3.The required database engine has not been installed.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Descending</source>
         <translation></translation>
     </message>
@@ -16226,6 +16553,10 @@ Notice: if the second operand queries the number as text, single quotes should b
     </message>
     <message>
         <source>Sort by</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>All Files(*)|*|All Data Sources(*.csv,*.prn,*.txt)|*.csv;*.prn;*.txt|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt</source>
         <translation></translation>
     </message>
     <message>
@@ -18440,6 +18771,10 @@ merged into one workbook</source>
         <translation></translation>
     </message>
     <message>
+        <source>Identify Text in Picture</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Remove Field</source>
         <translation></translation>
     </message>
@@ -18891,6 +19226,14 @@ into multiple worksheets</source>
         <translation></translation>
     </message>
     <message>
+        <source>Increase Argument Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Object</source>
         <translation></translation>
     </message>
@@ -18940,6 +19283,10 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>Hide All Field Buttons on Chart</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SmartChart Webshape Add</source>
         <translation></translation>
     </message>
     <message>
@@ -19295,6 +19642,10 @@ merged into one worksheet</source>
         <translation></translation>
     </message>
     <message>
+        <source>Show Data Type Card</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Error Checking</source>
         <translation></translation>
     </message>
@@ -19433,11 +19784,19 @@ merged into one worksheet</source>
         <translation></translation>
     </message>
     <message>
+        <source>SmartChart Webshape Color</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>AutoFit Column Width</source>
         <translation></translation>
     </message>
     <message>
         <source>Date Filters</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SmartChart Webshape Style</source>
         <translation></translation>
     </message>
     <message>
@@ -19595,6 +19954,10 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Cascade</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
         <translation></translation>
     </message>
     <message>
@@ -19791,6 +20154,10 @@ with same name in workbooks</source>
         <translation></translation>
     </message>
     <message>
+        <source>Stretch N-ary character</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>PivotChart Options</source>
         <translation></translation>
     </message>
@@ -19824,6 +20191,10 @@ with same name in workbooks</source>
         <translation></translation>
     </message>
     <message>
+        <source>Right Format Painter Popup</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>View Historical Backup</source>
         <translation></translation>
     </message>
@@ -19833,6 +20204,10 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>AutoPoint</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
         <translation></translation>
     </message>
     <message>
@@ -20013,6 +20388,10 @@ OLE DB Query</source>
         <translation></translation>
     </message>
     <message>
+        <source>SmartChart Webshape Recommended</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation></translation>
     </message>
@@ -20102,6 +20481,10 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Show Values As</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Webshape Flush</source>
         <translation></translation>
     </message>
     <message>
@@ -20219,6 +20602,10 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Pick from Drop-down List</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Webshape Del</source>
         <translation></translation>
     </message>
     <message>
@@ -20427,6 +20814,10 @@ OLE DB Query</source>
         <translation></translation>
     </message>
     <message>
+        <source>Remove Subscript</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Delete Series</source>
         <translation></translation>
     </message>
@@ -20565,19 +20956,11 @@ OLE DB Query</source>
         <translation></translation>
     </message>
     <message>
-        <source>Centered as group</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Smart Split Columns</source>
         <translation></translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Identify Text in Picture</source>
         <translation></translation>
     </message>
     <message>
@@ -21128,6 +21511,10 @@ OLE DB Query</source>
         <source>&amp;Username:</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Data Source:</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>customfilterdlg</name>
@@ -21218,6 +21605,10 @@ OLE DB Query</source>
         <translation></translation>
     </message>
     <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Preparing for exporting PDF file...</source>
         <translation></translation>
     </message>
@@ -21235,6 +21626,10 @@ OLE DB Query</source>
     </message>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
         <translation></translation>
     </message>
     <message>
@@ -21338,6 +21733,10 @@ OLE DB Query</source>
     </message>
     <message>
         <source>integer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Date axis reference is not valid.</source>
         <translation></translation>
     </message>
     <message>
@@ -21483,6 +21882,10 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Locked</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Location reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
         <translation></translation>
     </message>
     <message>
@@ -21754,6 +22157,10 @@ OLE DB Query</source>
         <translation></translation>
     </message>
     <message>
+        <source>Date axis reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Data source reference is not valid.</source>
         <translation></translation>
     </message>
@@ -21767,10 +22174,6 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Stop chosen when the maximum number of integer subproblems was reached.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Location reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
         <translation></translation>
     </message>
 </context>
@@ -22151,6 +22554,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>NOW()</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns the next coupon date after settlement date.</source>
         <translation></translation>
     </message>
     <message>
@@ -22904,6 +23311,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>INDEX(array,row_num,column_num)</source>
         <translation></translation>
     </message>
@@ -23038,6 +23449,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>CUMIPMT(rate, nper, pv, start_period, end_period, type)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns the price per $100 face value of a security that pays interest at maturity.</source>
         <translation></translation>
     </message>
     <message>
@@ -23368,6 +23783,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the number of days in the coupon period that contains the settlement date.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
         <translation></translation>
     </message>
@@ -23617,6 +24036,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Customizing</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Extracts a value from a field of a given record.</source>
         <translation></translation>
     </message>
     <message>
@@ -24065,6 +24488,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns total covariance, the average of the products of deviations for each data point pair.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>SELECTION()</source>
         <translation></translation>
     </message>
@@ -24137,6 +24564,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>TODAY()</source>
         <translation></translation>
     </message>
@@ -24146,6 +24577,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>DIALOGBOX(dialog_ref)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns simple covariance, the average of the products of deviations for each data point pair.</source>
         <translation></translation>
     </message>
     <message>
@@ -24266,6 +24701,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>ON.KEY(key_text, macro_text)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns the previous coupon date before the settlement date.</source>
         <translation></translation>
     </message>
     <message>
@@ -24731,6 +25170,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Calculates variance  based on the entire population(ignores logical values and text in the population).</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</source>
         <translation></translation>
     </message>
@@ -24908,6 +25351,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the Macauley modified duration for a security with an assumed par value of $100.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
         <translation></translation>
     </message>
@@ -24949,6 +25396,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number.</source>
         <translation></translation>
     </message>
     <message>
@@ -25017,6 +25468,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction.</source>
         <translation></translation>
     </message>
     <message>
@@ -25196,11 +25651,19 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
+        <source>Returns the discount rate for a security.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>HEX2DEC(number)</source>
         <translation></translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
         <translation></translation>
     </message>
     <message>
@@ -25437,19 +25900,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
-        <source>Returns the next coupon date after settlement date.</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>NORM.INV(probability,mean,standard_dev)</source>
         <translation></translation>
     </message>
     <message>
         <source>DOLLARFR(decimal_dollar, fraction)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters.</source>
         <translation></translation>
     </message>
     <message>
@@ -25462,10 +25917,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Returns the number of days in the coupon period that contains the settlement date.</source>
         <translation></translation>
     </message>
     <message>
@@ -25502,22 +25953,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
-        <source>Returns total covariance, the average of the products of deviations for each data point pair.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Returns simple covariance, the average of the products of deviations for each data point pair.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Returns the previous coupon date before the settlement date.</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
         <translation></translation>
     </message>
@@ -25542,31 +25977,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation></translation>
     </message>
     <message>
-        <source>Calculates variance  based on the entire population(ignores logical values and text in the population).</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>NORM.S.DIST(z,cumulative)</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Returns the Macauley modified duration for a security with an assumed par value of $100.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Returns the discount rate for a security.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
         <translation></translation>
     </message>
     <message>
@@ -25606,6 +26017,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Paste</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Recently 
+Used</source>
         <translation></translation>
     </message>
     <message>
@@ -25661,6 +26077,11 @@ Manager</source>
     </message>
     <message>
         <source>Error Checking</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Math and
+Trig</source>
         <translation></translation>
     </message>
     <message>
@@ -25728,16 +26149,6 @@ Reference</source>
     <message>
         <source>Recalculate
 Workbook</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Recently 
-Used</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Math and
-Trig</source>
         <translation></translation>
     </message>
 </context>
@@ -26779,6 +27190,14 @@ Trig</source>
         <translation></translation>
     </message>
     <message>
+        <source>JdeControl Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Merge Tables</source>
         <translation></translation>
     </message>
@@ -26873,6 +27292,10 @@ Directly</source>
         <translation></translation>
     </message>
     <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Merge workbooks</source>
         <translation></translation>
     </message>
@@ -26894,6 +27317,10 @@ Directly</source>
     </message>
     <message>
         <source>ExtendObjectTrigger</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
         <translation></translation>
     </message>
     <message>
@@ -26953,6 +27380,10 @@ Directly</source>
         <translation></translation>
     </message>
     <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Microsoft Excel Files</source>
         <translation></translation>
     </message>
@@ -26970,6 +27401,10 @@ Directly</source>
     </message>
     <message>
         <source>Link Preview</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
         <translation></translation>
     </message>
     <message>
@@ -27050,6 +27485,10 @@ Directly</source>
     </message>
     <message>
         <source>Enable Macro</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
         <translation></translation>
     </message>
     <message>
@@ -27150,6 +27589,10 @@ Directly</source>
         <translation></translation>
     </message>
     <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Column</source>
         <translation></translation>
     </message>
@@ -27194,6 +27637,10 @@ Directly</source>
         <translation></translation>
     </message>
     <message>
+        <source>Query Enterprise</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>JS Macros</source>
         <translation></translation>
     </message>
@@ -27207,6 +27654,10 @@ Directly</source>
     </message>
     <message>
         <source>Normal</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Skill</source>
         <translation></translation>
     </message>
     <message>
@@ -27227,6 +27678,10 @@ Directly</source>
     </message>
     <message>
         <source>Task Window</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
         <translation></translation>
     </message>
     <message>
@@ -27258,6 +27713,10 @@ Directly</source>
         <translation></translation>
     </message>
     <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Full Screen</source>
         <translation></translation>
     </message>
@@ -27286,11 +27745,19 @@ Directly</source>
         <translation></translation>
     </message>
     <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Horizontal Text Box</source>
         <translation></translation>
     </message>
     <message>
         <source>Font Color</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
         <translation></translation>
     </message>
     <message>
@@ -27362,11 +27829,19 @@ Directly</source>
         <translation></translation>
     </message>
     <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Hyperlink</source>
         <translation></translation>
     </message>
     <message>
         <source>Properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
         <translation></translation>
     </message>
     <message>
@@ -27455,6 +27930,10 @@ Directly</source>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DocerFeature</source>
         <translation></translation>
     </message>
     <message>
@@ -27604,6 +28083,10 @@ with same name in workbooks</source>
         <translation></translation>
     </message>
     <message>
+        <source>Equation Group Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Header Row</source>
         <translation></translation>
     </message>
@@ -27617,6 +28100,10 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>NewChart UpBar</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>setting MB</source>
         <translation></translation>
     </message>
     <message>
@@ -27650,6 +28137,10 @@ Screen</source>
     </message>
     <message>
         <source>Fetch duplicates</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Smart Organize</source>
         <translation></translation>
     </message>
     <message>
@@ -27710,6 +28201,10 @@ Screen</source>
     </message>
     <message>
         <source>Other Formats</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>To Float Picture</source>
         <translation></translation>
     </message>
     <message>
@@ -27805,7 +28300,19 @@ Screen</source>
         <translation></translation>
     </message>
     <message>
+        <source>Smart Chart Ai</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>DocumentContentStudio</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
         <translation></translation>
     </message>
     <message>
@@ -27886,6 +28393,10 @@ Comment</source>
         <translation></translation>
     </message>
     <message>
+        <source>Equation Array Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>PasteAsValues</source>
         <translation></translation>
     </message>
@@ -27907,6 +28418,10 @@ Comment</source>
     </message>
     <message>
         <source>Column Header</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
         <translation></translation>
     </message>
     <message>
@@ -29907,6 +30422,10 @@ On/Off</source>
         <translation></translation>
     </message>
     <message>
+        <source>Num2Text</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Custom task window</source>
         <translation></translation>
     </message>
@@ -29919,6 +30438,10 @@ On/Off</source>
         <translation></translation>
     </message>
     <message>
+        <source>EtTools</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>InsertDate</source>
         <translation></translation>
     </message>
@@ -29928,6 +30451,10 @@ On/Off</source>
     </message>
     <message>
         <source>Backup Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text2Num</source>
         <translation></translation>
     </message>
     <message>
@@ -32100,6 +32627,10 @@ t</source>
         <translation></translation>
     </message>
     <message>
+        <source>security warning: JS macros and automatic update links have been disabled.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>WPS Spreadsheets has turned on Manual Recalculation, in which calculation result will not immediately reflect data change.</source>
         <translation></translation>
     </message>
@@ -33252,6 +33783,10 @@ Shape</source>
         <translation></translation>
     </message>
     <message>
+        <source>Record JS Macro</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Macro &quot;%1&quot; already exists, please change the name.</source>
         <translation></translation>
     </message>
@@ -33630,6 +34165,10 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>&amp;From:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
         <translation></translation>
     </message>
     <message>
@@ -35227,6 +35766,10 @@ Slicers can&apos;t be used in this version, please update to latest version of W
         <translation></translation>
     </message>
     <message>
+        <source>Convert Text in Picture</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Rotate Right 90°</source>
         <translation></translation>
     </message>
@@ -35305,6 +35848,10 @@ Pictures</source>
     </message>
     <message>
         <source>Equal Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
         <translation></translation>
     </message>
     <message>
@@ -35402,6 +35949,10 @@ Picture</source>
     </message>
     <message>
         <source>Picture Outline</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
         <translation></translation>
     </message>
     <message>
@@ -36121,6 +36672,10 @@ Data</source>
         <translation></translation>
     </message>
     <message>
+        <source>Split Merge</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Consolidate</source>
         <translation></translation>
     </message>
@@ -36191,6 +36746,11 @@ with same name in workbooks</source>
         <translation></translation>
     </message>
     <message>
+        <source>Refresh 
+All</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation></translation>
     </message>
@@ -36253,11 +36813,6 @@ with same name in workbooks</source>
     <message>
         <source>Text to
  Columns</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Refresh 
-All</source>
         <translation></translation>
     </message>
     <message>
@@ -36336,6 +36891,10 @@ All</source>
         <translation></translation>
     </message>
     <message>
+        <source>Remove Space</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Fill Blank Cells</source>
         <translation></translation>
     </message>
@@ -36365,6 +36924,22 @@ All</source>
     </message>
     <message>
         <source>Catalog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Batch Div</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Batch Add</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Batch Sub</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Batch Mul</source>
         <translation></translation>
     </message>
     <message>
@@ -36708,6 +37283,10 @@ All</source>
         <translation></translation>
     </message>
     <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart WPS Spreadsheets.</source>
         <translation></translation>
     </message>
@@ -36729,6 +37308,10 @@ All</source>
     </message>
     <message>
         <source>The measurement must be between 1 and 32767. Try again by entering a number in this range.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
         <translation></translation>
     </message>
     <message>
@@ -36864,6 +37447,10 @@ All</source>
         <translation></translation>
     </message>
     <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>&amp;Timing Backup</source>
         <translation></translation>
     </message>
@@ -36873,10 +37460,6 @@ All</source>
     </message>
     <message>
         <source>File Path: WPS CloudFile\Cloud BackUp</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
         <translation></translation>
     </message>
 </context>
@@ -38633,6 +39216,11 @@ Headers</source>
         <translation></translation>
     </message>
     <message>
+        <source>Move 
+PivotTable</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>PivotTable Name:</source>
         <translation></translation>
     </message>
@@ -38801,11 +39389,6 @@ Buttons</source>
     </message>
     <message>
         <source>Hide All</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Move 
-PivotTable</source>
         <translation></translation>
     </message>
 </context>
@@ -39211,6 +39794,11 @@ This also allows workbook merging.</source>
         <translation></translation>
     </message>
     <message>
+        <source>WPS Spreadsheets cannot find any data to replace.
+Number of values that were not replaced because they are in read-only rich data: %1</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>All Formats(&amp;C)</source>
         <translation></translation>
     </message>
@@ -39244,6 +39832,11 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Font &amp;And Fill Color</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has completed its search and has made %1 replacements.
+Number of values that were not replaced because they are in read-only rich data: %2</source>
         <translation></translation>
     </message>
     <message>
@@ -39326,6 +39919,10 @@ This also allows workbook merging.</source>
     <name>KxFormatCellsDlg</name>
     <message>
         <source>Font</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Format Slicer Element</source>
         <translation></translation>
     </message>
     <message>
@@ -40685,6 +41282,10 @@ Center</source>
         <translation></translation>
     </message>
     <message>
+        <source>Ds Webshape Export</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>ShortWordArt</source>
         <translation></translation>
     </message>
@@ -40734,6 +41335,10 @@ Center</source>
     </message>
     <message>
         <source>Feedback</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ds Webshape Edit</source>
         <translation></translation>
     </message>
     <message>
@@ -40794,6 +41399,14 @@ Center</source>
     </message>
     <message>
         <source>GroupSending</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
         <translation></translation>
     </message>
     <message>
@@ -41106,6 +41719,11 @@ Side by Side</source>
         <translation></translation>
     </message>
     <message>
+        <source>Page Break 
+Preview</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Cascade</source>
         <translation></translation>
     </message>
@@ -41174,11 +41792,6 @@ Window</source>
     </message>
     <message>
         <source>Worksheet Options</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Page Break 
-Preview</source>
         <translation></translation>
     </message>
     <message>
@@ -42688,6 +43301,11 @@ View</source>
         <translation></translation>
     </message>
     <message>
+        <source>Page Break
+Preview</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Previous
 Page</source>
         <translation></translation>
@@ -42720,11 +43338,6 @@ Page</source>
     </message>
     <message>
         <source>More Setup</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Page Break
-Preview</source>
         <translation></translation>
     </message>
     <message>
@@ -43101,6 +43714,11 @@ Preview</source>
         <translation></translation>
     </message>
     <message>
+        <source>Print
+Area</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Rotate Right 90°</source>
         <translation></translation>
     </message>
@@ -43122,6 +43740,10 @@ Preview</source>
     </message>
     <message>
         <source>Orientation</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Printing Settings</source>
         <translation></translation>
     </message>
     <message>
@@ -43236,11 +43858,6 @@ Backward</source>
     </message>
     <message>
         <source>Align Top</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Print
-Area</source>
         <translation></translation>
     </message>
     <message>
@@ -44223,18 +44840,13 @@ Table Style</source>
     </message>
 </context>
 <context>
-    <name>KxSlicerSettingDlg</name>
-    <message>
-        <source>Filter control name already in use. Enter a unique name.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Filter control name is not valid.</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>et_et_persist</name>
+    <message>
+        <source>The following features of your workbook are not going to be saved in UOF Spreadsheets:
+
+</source>
+        <translation></translation>
+    </message>
     <message>
         <source>Microsoft Excel 97-2003 Workbook(*.xls)</source>
         <translation></translation>
@@ -44278,6 +44890,11 @@ Table Style</source>
     </message>
     <message>
         <source> · VB project
+</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source> · JS project
 </source>
         <translation></translation>
     </message>
@@ -44394,6 +45011,11 @@ Table Style</source>
         <translation></translation>
     </message>
     <message>
+        <source>
+ Do you continue to save it as UOF Spreadsheets ?</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-free workbook, click Yes.</source>
         <translation></translation>
@@ -44449,6 +45071,10 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source> · Comment
 </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Spreadsheets Files(*.pxls)|*.pxls</source>
         <translation></translation>
     </message>
     <message>
@@ -44519,6 +45145,10 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.xls)|*.xls</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Spreadsheets Files(*.hxls)|*.hxls</source>
         <translation></translation>
     </message>
     <message>
@@ -44672,6 +45302,17 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>WPS Spreadsheets has detected that &apos;%1&apos; is a SYLK file, but cannot load it. Either the file has errors or it is not a SYLK file format. Click OK to try to open the file in a differenct format.</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxSlicerSettingDlg</name>
+    <message>
+        <source>Filter control name already in use. Enter a unique name.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Filter control name is not valid.</source>
         <translation></translation>
     </message>
 </context>
@@ -46081,6 +46722,10 @@ p, li { white-space: pre-wrap; }
         <source>Ctrl+W</source>
         <translation></translation>
     </message>
+    <message>
+        <source>You can choose from three different ways to connect to your chosen data source.</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>PreviewPage</name>
@@ -46444,6 +47089,18 @@ Value: </source>
     </message>
     <message>
         <source>Cancel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
         <translation></translation>
     </message>
     <message>
@@ -48426,6 +49083,22 @@ Result</source>
     </message>
 </context>
 <context>
+    <name>KxSelectODBCDSN</name>
+    <message>
+        <source>%1)
+SQL State: %2
+Error: %3
+%4
+</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Connection error:
+</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxAddInsDlg</name>
     <message>
         <source>does not contain a new Automation Server.</source>
@@ -48668,17 +49341,17 @@ Result</source>
         <translation></translation>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Repeat All 
 Item Labels</source>
         <translation></translation>
     </message>
     <message>
         <source>Report Layout</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Do Not 
-Repeat Item Labels</source>
         <translation></translation>
     </message>
 </context>
@@ -48936,6 +49609,10 @@ Repeat Item Labels</source>
         <translation></translation>
     </message>
     <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Password to protect pe&amp;rmission settings</source>
         <translation></translation>
     </message>
@@ -49087,11 +49764,23 @@ Repeat Item Labels</source>
         <translation></translation>
     </message>
     <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation></translation>
+    </message>
+    <message>
         <source>volume traded, high price, low price, closing price. </source>
         <translation></translation>
     </message>
     <message>
         <source>To create a combination chart, select at least two series of data.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
         <translation></translation>
     </message>
     <message>
@@ -50031,6 +50720,25 @@ Summary</source>
     </message>
 </context>
 <context>
+    <name>KxBackupSettingTipWidgetBase</name>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgSlicerSetting</name>
     <message>
         <source>Use Custo&amp;m Lists when sorting</source>
@@ -50335,6 +51043,14 @@ Do you want to change to Manual?</source>
     </message>
 </context>
 <context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxInsertFieldItemDlg</name>
     <message>
         <source>Insert Calculated Item In &quot;%1&quot;</source>
@@ -50432,6 +51148,10 @@ Do you want to change to Manual?</source>
     <name>ongmani.ct_equationtools</name>
     <message>
         <source>Equation Symbols</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Accent</source>
         <translation></translation>
     </message>
     <message>
@@ -50541,14 +51261,6 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>The name that you entered is not valid.</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KxSelectODBCDSN</name>
-    <message>
-        <source>Connection error:
-</source>
         <translation></translation>
     </message>
 </context>
@@ -50736,6 +51448,21 @@ Do you want to change to Manual?</source>
     </message>
 </context>
 <context>
+    <name>KxSLVertCustomValSettingDlg</name>
+    <message>
+        <source>Sparkline Vertical Axis Setting</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enter the minimum value for the vertical axis</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enter the maximum value for the vertical axis</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxChangeRangePasswordDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
@@ -50852,6 +51579,21 @@ Click OK, and then select a single cell in the Get The Value From The Following 
         <translation></translation>
     </message>
     <message>
+        <source>The model Loaded fail...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>There is no recommend chart according to your selection range, may be:
+
+There is no number as well as the text cannot be summaried.
+Data cross different sheets.
+Contain large ammount of cells.
+Include defined names.
+
+Alternativly, you can click the left-side pane if you want to switch to other chart type.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>The model is Loading...</source>
         <translation></translation>
     </message>
@@ -50953,6 +51695,14 @@ Click OK, and then select a single cell in the Get The Value From The Following 
     </message>
     <message>
         <source>font color</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Filter Conditions</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cell back ground color</source>
         <translation></translation>
     </message>
 </context>
@@ -51059,7 +51809,23 @@ Click OK, and then select a single cell in the Get The Value From The Following 
         <translation></translation>
     </message>
     <message>
+        <source>Whole line comparison</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please choose sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Alignment Type:</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Add File</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Same cell comparison</source>
         <translation></translation>
     </message>
     <message>
@@ -51076,6 +51842,17 @@ Click OK, and then select a single cell in the Get The Value From The Following 
     </message>
     <message>
         <source>New Worksheet</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSLCustomLineWeight</name>
+    <message>
+        <source>&amp;Enter the sparkline weight</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dialog</source>
         <translation></translation>
     </message>
 </context>
@@ -51326,6 +52103,14 @@ Need expand the cells under the selection and batch merge the same cells?</sourc
         <translation></translation>
     </message>
     <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>The specified path does not exist, enter a valid one please.</source>
         <translation></translation>
     </message>
@@ -51381,13 +52166,6 @@ Need expand the cells under the selection and batch merge the same cells?</sourc
     </message>
     <message>
         <source>&amp;After current sheet</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KxBackupSettingTipWidgetBase</name>
-    <message>
-        <source>What is Auto Roaming</source>
         <translation></translation>
     </message>
 </context>
@@ -51754,6 +52532,17 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxSLEditDateDlg</name>
+    <message>
+        <source>Select the range that contains the data values for the Sparkline data</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sparkline Date Range</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxEtFormatProperty_SizePro</name>
     <message>
         <source>POSITION AND LAYOUT</source>
@@ -51792,6 +52581,17 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>The cell currently being evaluated contains a constant.</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSLEditSingle</name>
+    <message>
+        <source>Select a source &amp;data range for the sparkline</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dialog</source>
         <translation></translation>
     </message>
 </context>
@@ -51944,7 +52744,15 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <translation></translation>
     </message>
     <message>
+        <source>Assign %1 Macro</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>All Open Workbooks</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>%1 &amp;Macro name</source>
         <translation></translation>
     </message>
     <message>
@@ -52061,20 +52869,6 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Automatic</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgSLCustomLineWeight</name>
-    <message>
-        <source>Dialog</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgSLEditSingle</name>
-    <message>
-        <source>Dialog</source>
         <translation></translation>
     </message>
 </context>
@@ -52396,13 +53190,6 @@ Please unfreeze pane.</source>
     </message>
 </context>
 <context>
-    <name>KxSLEditDateDlg</name>
-    <message>
-        <source>Sparkline Date Range</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>KxBackgroundQueryMonitorUI</name>
     <message>
         <source>Status</source>
@@ -52472,17 +53259,6 @@ Please unfreeze pane.</source>
     <name>KxSLHiddenEmptyCellSettingDlg</name>
     <message>
         <source>Hidden And Empty Cell Settings</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KxSLVertCustomValSettingDlg</name>
-    <message>
-        <source>Enter the minimum value for the vertical axis</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Enter the maximum value for the vertical axis</source>
         <translation></translation>
     </message>
 </context>
@@ -53100,6 +53876,13 @@ Note that data links can be used to access and share confidential information wi
     </message>
 </context>
 <context>
+    <name>KxSLEditSingleDlg</name>
+    <message>
+        <source>Edit Sparkline Data</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxPivotSortDlg</name>
     <message>
         <source>Sort (%1)</source>
@@ -53494,6 +54277,13 @@ Comment</source>
     <name>KxEtFormulaBar</name>
     <message>
         <source>Formula Bar</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxSLCustomLineWeightDlg</name>
+    <message>
+        <source>Sparkline Weight</source>
         <translation></translation>
     </message>
 </context>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr_TR">
+<TS version="2.1">
 <context>
     <name>KUpDate</name>
     <message>
@@ -9,6 +9,14 @@
     </message>
     <message>
         <source>HTTP</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Association settings when upgrading: </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Check the file association during the upgrade, automatic repair is opened by default with WPS</source>
         <translation></translation>
     </message>
     <message>
@@ -45,6 +53,10 @@
     </message>
     <message>
         <source>Update Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Upgrade package download acceleration:</source>
         <translation></translation>
     </message>
     <message>
@@ -128,6 +140,10 @@
     </message>
     <message>
         <source>Start WPS</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Switching WPS Office to %1</source>
         <translation></translation>
     </message>
     <message>
@@ -422,6 +438,10 @@
         <translation></translation>
     </message>
     <message>
+        <source>Check the check boxes below, the specified files will be opened by %1 Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
         <translation></translation>
     </message>
@@ -434,12 +454,20 @@
         <translation></translation>
     </message>
     <message>
+        <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
         <translation></translation>
     </message>
     <message>
         <source>The option &quot;Compatible with third-party software&quot;
 needs restarting Windows to take effect.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Open the following software with Kingsoft PDF by default:</source>
         <translation></translation>
     </message>
     <message>
@@ -456,7 +484,15 @@ These operations can be undone. </source>
         <translation></translation>
     </message>
     <message>
+        <source>Pdf Document(*.pdf)</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>eBooks(*.epub, *.mobi)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>If you choose the options below, document objects embedded will be opened by %1 which can also be embedded into the third-part software or system like IE browser and OA.</source>
         <translation></translation>
     </message>
     <message>
@@ -492,6 +528,10 @@ These operations can be undone. </source>
         <translation></translation>
     </message>
     <message>
+        <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>&amp;OFD Files(*.ofd)</source>
         <translation></translation>
     </message>
@@ -517,6 +557,10 @@ These operations can be undone. </source>
     <message>
         <source> Failed to register WPS Presentation
 </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>If toolbar buttons are mixed up, please close all %1 applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
         <translation></translation>
     </message>
     <message>
@@ -582,6 +626,14 @@ These operations can be undone. </source>
         <translation></translation>
     </message>
     <message>
+        <source>The loss of components in the system registry may cause errors to occur when using %1, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>%1 if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source> WPS PDF not found
 </source>
         <translation></translation>
@@ -600,6 +652,11 @@ These operations can be undone. </source>
     </message>
     <message>
         <source> WPS Presentation not found
+</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Pdf
 </source>
         <translation></translation>
     </message>
@@ -1116,6 +1173,10 @@ These operations can be undone. </source>
         <translation></translation>
     </message>
     <message>
+        <source>Disable DEP date execution prevention (Need reboot)(&amp;C)</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>No Receive push messages (&amp;R)</source>
         <translation></translation>
     </message>
@@ -1243,6 +1304,10 @@ These operations can be undone. </source>
         <translation></translation>
     </message>
     <message>
+        <source>Use WPS Official to edit and play presentations.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Uninstall KingSoft PDF</source>
         <translation></translation>
     </message>
@@ -1315,6 +1380,14 @@ These operations can be undone. </source>
         <translation></translation>
     </message>
     <message>
+        <source>Link to network to update Kingsoft PDF</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Cloud USB Drive</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Use WPS Spreadsheets to analyze and manage data.</source>
         <translation></translation>
     </message>
@@ -1331,6 +1404,10 @@ These operations can be undone. </source>
     <name>KMainDlg</name>
     <message>
         <source>E&amp;xit</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>If you encounter any errors when using %1, such as program running or toolbar errors, please close all %1 applications and click the Start Repairing button below.We will do our utmost to repair the applicationsand restore them to the default state.</source>
         <translation></translation>
     </message>
     <message>
@@ -1364,11 +1441,20 @@ We will do our utmost to repair the applications and restore them to the default
     </message>
     <message>
         <source>General Repair/Configuration Tools
+You can fix the errors encountered when using %1 or make advanced settings here.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>General Repair/Configuration Tools
 You can fix the errors encountered when using WPS Office or make advanced settings here.</source>
         <translation></translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>%1 General Repair/Configuration Tools</source>
         <translation></translation>
     </message>
     <message>
@@ -1388,6 +1474,10 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>Clear Backup Files</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>To protect document security, %1 has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
         <translation></translation>
     </message>
     <message>
@@ -1639,6 +1729,10 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>Use WPS PDF to read and edit pdf.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
         <translation></translation>
     </message>
     <message>

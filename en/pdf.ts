@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr_TR">
+<TS version="2.1">
 <context>
     <name>KxPdfCommentPropertyDialog</name>
     <message>
@@ -100,6 +100,10 @@
         <translation></translation>
     </message>
     <message>
+        <source>start(S):</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Furcation</source>
         <translation></translation>
     </message>
@@ -128,10 +132,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Width(T) :</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>LineWidth:</source>
         <translation></translation>
     </message>
@@ -148,6 +148,10 @@
         <translation></translation>
     </message>
     <message>
+        <source>Width(T):</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>line width(T):</source>
         <translation></translation>
     </message>
@@ -161,6 +165,10 @@
     </message>
     <message>
         <source>End(E):</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>end(E):</source>
         <translation></translation>
     </message>
     <message>
@@ -201,10 +209,6 @@
     </message>
     <message>
         <source>Vertical Line</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Width(T):</source>
         <translation></translation>
     </message>
     <message>
@@ -691,6 +695,10 @@
         <translation></translation>
     </message>
     <message>
+        <source>Auto Select</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Fit Width</source>
         <translation></translation>
     </message>
@@ -724,6 +732,10 @@
     </message>
     <message>
         <source>Multi Progress Tips</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable Association Protection</source>
         <translation></translation>
     </message>
     <message>
@@ -764,6 +776,10 @@
     </message>
     <message>
         <source>Close options</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AssociateSetting</source>
         <translation></translation>
     </message>
     <message>
@@ -925,6 +941,10 @@
         <translation></translation>
     </message>
     <message>
+        <source>Edit WaterMark</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Update WaterMark</source>
         <translation></translation>
     </message>
@@ -965,6 +985,10 @@
         <translation></translation>
     </message>
     <message>
+        <source>watermark export failed!</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>PDF water mark is VIP exclusive privilege</source>
         <translation></translation>
     </message>
@@ -974,6 +998,10 @@
     </message>
     <message>
         <source>input 30 means rotate 30 degrees to the left</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cannot find the current custom watermark save location, please check whether the current login account is the original account</source>
         <translation></translation>
     </message>
     <message>
@@ -1002,6 +1030,10 @@
     </message>
     <message>
         <source>Image file is too large, please select a picture smaller than 20M.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>There are more than 20. Please delete them and add them later</source>
         <translation></translation>
     </message>
     <message>
@@ -2284,6 +2316,10 @@ The operation is irrevocable</source>
         <translation></translation>
     </message>
     <message>
+        <source>The Function is Exclusive</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>All Pictures(*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif)|*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif</source>
         <translation></translation>
     </message>
@@ -2330,6 +2366,10 @@ The operation is irrevocable</source>
         <translation></translation>
     </message>
     <message>
+        <source>The Function is Exclusive functions of enterprise,You don&apos;t have The Authorization</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>WPS Online Security Document Format(*.pdf)|*.pdf</source>
         <translation></translation>
     </message>
@@ -2342,6 +2382,10 @@ The operation is irrevocable</source>
         <translation></translation>
     </message>
     <message>
+        <source>Entered the form filling mode, click the document line, box and other positions to start filling.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Can&apos;t Redo</source>
         <translation></translation>
     </message>
@@ -2351,6 +2395,10 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Failed to add attachment</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>certificate file (*.pfx;*.p12)|*.pfx;*.p12|</source>
         <translation></translation>
     </message>
 </context>
@@ -2839,6 +2887,11 @@ The operation is irrevocable</source>
         <translation></translation>
     </message>
     <message>
+        <source>Enter page numbers and/or page ranges separated by commas. 
+For example, 1,3,5-12.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>WPS Spreadsheets</source>
         <translation></translation>
     </message>
@@ -2996,6 +3049,10 @@ The operation is irrevocable</source>
         <source>bottom:</source>
         <translation></translation>
     </message>
+    <message>
+        <source>The current printer has a margin limit. The setting is invalid.</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>AIOCR2PDFSatisfactionDlg</name>
@@ -3109,6 +3166,10 @@ The operation is irrevocable</source>
         <translation></translation>
     </message>
     <message>
+        <source>scan is completed or scan more pages?</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>continue to scan reverse page</source>
         <translation></translation>
     </message>
@@ -3121,6 +3182,14 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Reset</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>If you need to change the default software, you can modify it through the open method in the file properties.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Protect PDF files to open with WPS by default</source>
         <translation></translation>
     </message>
     <message>
@@ -3212,6 +3281,14 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Left click,&apos;N&apos;,space,right or down arrow,enter or page down</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ctrl + Roll back the mouse wheel or Ctrl + &apos;-&apos;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ctrl + Roll forward the mouse wheel or Ctrl + &apos;+&apos;</source>
         <translation></translation>
     </message>
     <message>
@@ -3428,6 +3505,10 @@ Please modify and try again</source>
         <translation></translation>
     </message>
     <message>
+        <source>Please keep the password properly. A forgotten password cannot be restored.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>insert delete pages</source>
         <translation></translation>
     </message>
@@ -3633,7 +3714,15 @@ Inserted pages must delete by yourself.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Insert Pages From Images</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>InsertImage is a VIP privilege</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>MoreScannerOpt</source>
         <translation></translation>
     </message>
     <message>
@@ -3641,11 +3730,27 @@ Inserted pages must delete by yourself.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Insert Pages From File</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Pages From Scan</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Only insert 5 pages</source>
         <translation></translation>
     </message>
     <message>
+        <source>Can&apos;t get date from scanner, the operation is terminated</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Unable to process the file, please make sure it&apos;s valid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Pages From Clipborad</source>
         <translation></translation>
     </message>
     <message>
@@ -3665,7 +3770,15 @@ Inserted pages must delete by yourself.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Select Scaner</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Is Inserting</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert 5 or more scanPages  is enterprise authority privilege</source>
         <translation></translation>
     </message>
     <message>
@@ -3930,11 +4043,19 @@ upgrade to WPS VIP?</source>
         <translation></translation>
     </message>
     <message>
+        <source>Login WPS account to get a complete functional experience</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Text query has been moved here</source>
         <translation></translation>
     </message>
     <message>
         <source>edit image is VIP function, please upgrade VIP</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>InvoicePrint has been Upgraded to BillMgr</source>
         <translation></translation>
     </message>
     <message>
@@ -3947,6 +4068,10 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Save As(Trial)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>edit content is VIP function, please upgrade VIP</source>
         <translation></translation>
     </message>
     <message>
@@ -3971,6 +4096,10 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Why pay to edit text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The invoice printing function can be executed in the BillMgr</source>
         <translation></translation>
     </message>
     <message>
@@ -4118,6 +4247,10 @@ log in to save changes?</source>
         <translation></translation>
     </message>
     <message>
+        <source>Open Directory(R)</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Export Directory:</source>
         <translation></translation>
     </message>
@@ -4131,6 +4264,10 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Exported successfully</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Exported failed, please retry</source>
         <translation></translation>
     </message>
 </context>
@@ -4311,6 +4448,10 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Allowed</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SaveAsPermission:</source>
         <translation></translation>
     </message>
     <message>
@@ -4555,6 +4696,10 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Apply range</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Embedding signatures/stamp in documents, this operation cannot be undone, do you want to continue?</source>
         <translation></translation>
     </message>
     <message>
@@ -5072,6 +5217,10 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>please select ca for encrypt pdf file</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>cancel</source>
         <translation></translation>
     </message>
@@ -5095,6 +5244,10 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>you can select ca where added before to encrypt pdf file</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>cancel</source>
         <translation></translation>
     </message>
@@ -5106,7 +5259,23 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>CA encrypt tip</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Cancel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>some ca has imported,cannt import again.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>cannt import ca used to digital ca.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The file is encrypt by ca,please install ca or connect the auth to get ca file.</source>
         <translation></translation>
     </message>
     <message>
@@ -5114,7 +5283,23 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>install ca</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>the operation will be delete local ca file also,please confirm the ca dosnt has other use.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>can&apos;t open file</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>imported tip</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Encrypt list has expire ca,please remove it.</source>
         <translation></translation>
     </message>
 </context>
@@ -5505,6 +5690,10 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>Pages From Pic</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Pages From Doc</source>
         <translation></translation>
     </message>
@@ -5550,6 +5739,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Paste Comment</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Pages From Clipboard</source>
         <translation></translation>
     </message>
     <message>
@@ -5661,6 +5854,10 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>PdfElectronicInvoicePrint</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Update Watermark</source>
         <translation></translation>
     </message>
@@ -5681,6 +5878,10 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>OcrExtractText2Word</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>AnnotManagement</source>
         <translation></translation>
     </message>
@@ -5690,6 +5891,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FormFillingDate Backslash</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Translate Pane</source>
         <translation></translation>
     </message>
     <message>
@@ -5926,6 +6131,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Area Highlight</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OcrExtractScrawl</source>
         <translation></translation>
     </message>
     <message>
@@ -6253,6 +6462,10 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>Pages From Scan</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Form Filling</source>
         <translation></translation>
     </message>
@@ -6397,7 +6610,19 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>FindFunctions</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>ApplyOtherPage</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PdfInvoiceAssist</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>BatchPrint</source>
         <translation></translation>
     </message>
     <message>
@@ -6514,6 +6739,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FreeText22</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OcrExtractText2Excel</source>
         <translation></translation>
     </message>
     <message>
@@ -6733,6 +6962,10 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>TextContentQuery</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Bg_Huyan</source>
         <translation></translation>
     </message>
@@ -6810,6 +7043,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SaveAsAttachment</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>addnewcatalog</source>
         <translation></translation>
     </message>
     <message>
@@ -6910,6 +7147,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>CustomClipPage</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OCRExtractText</source>
         <translation></translation>
     </message>
     <message>
@@ -7026,6 +7267,10 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>NewClipboardFile</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>NewBlankFile</source>
         <translation></translation>
     </message>
@@ -7090,11 +7335,19 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>Kingsoft PDF Website</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation></translation>
     </message>
     <message>
         <source>NewFromMD</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>NewHtml2PdfFile</source>
         <translation></translation>
     </message>
     <message>
@@ -7173,6 +7426,14 @@ Input 5-9 page 5 to page 9</source>
         <source>open</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Enable the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Add the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxPdfCaSetDlg</name>
@@ -7185,11 +7446,23 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>annot</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>print</source>
         <translation></translation>
     </message>
     <message>
         <source>insert and delete page</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>form and annot</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>use this ca encrypt pdf:</source>
         <translation></translation>
     </message>
 </context>
@@ -7216,7 +7489,27 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>Lisence</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>End Time</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Issuer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Start Time:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>End Time:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Start Time</source>
         <translation></translation>
     </message>
     <message>
@@ -7224,7 +7517,15 @@ Input 5-9 page 5 to page 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>ENCRYPT</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>SIGNATURE</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>purpose:</source>
         <translation></translation>
     </message>
     <message>
@@ -7302,6 +7603,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>delete</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>detail</source>
         <translation></translation>
     </message>
     <message>
@@ -8949,6 +9254,10 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
         <translation></translation>
     </message>
     <message>
+        <source>TranslateSelectedPane</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Translate selected text</source>
         <translation></translation>
     </message>
@@ -8966,6 +9275,10 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Full-Text Speech</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>TranslateSelectedFollow</source>
         <translation></translation>
     </message>
     <message>
@@ -9286,6 +9599,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Word Count</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>pdfconvertword</source>
         <translation></translation>
     </message>
     <message>
@@ -9710,6 +10027,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>The document could not be saved. %1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The document could not be saved. The file may be read-only, or opend by another user.</source>
         <translation></translation>
     </message>
 </context>
@@ -10256,6 +10577,10 @@ input 1,6, means extract page 1 and 6</source>
         <translation></translation>
     </message>
     <message>
+        <source>Batch Deletion</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>All Author</source>
         <translation></translation>
     </message>
@@ -10285,6 +10610,10 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Annotation</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FileAttachment</source>
         <translation></translation>
     </message>
     <message>
@@ -10325,6 +10654,10 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>TextCommentBox</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Close Annotation Panel</source>
         <translation></translation>
     </message>
 </context>
@@ -10424,6 +10757,10 @@ input 1,6, means extract page 1 and 6</source>
         <translation></translation>
     </message>
     <message>
+        <source>Are you sure to save the modification of current document?</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Upgrade to VIP</source>
         <translation></translation>
     </message>
@@ -10432,7 +10769,166 @@ input 1,6, means extract page 1 and 6</source>
         <translation></translation>
     </message>
     <message>
+        <source>You are using &quot;%1&quot; member function, please upgrade to member</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Current document is a scanning document, only able to add text, &quot;Add text&quot; is member function, please upgrade to member</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Login now</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCaAddDlg</name>
+    <message>
+        <source>Scan</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>next</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please enter department name</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>You can add certificates in two ways:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please reenter passwords</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please enter company name</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ca file:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ca name:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ca used:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please enter more than six passwords</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Encrypt data</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Wrong password. Please re-enter.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>encrypt:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>please click browse to select ca file</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Wrong path, Please re-enter.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Create a new certificate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please enter email address</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>company:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>pwd again:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Invalid save path, Please adjust it.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>email:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>country:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>finish</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please input ca name</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>previous</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use existing certificate file</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ca pwd:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>department:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Encrypt ca</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ca password:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1024 bit RSA</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>2048 bit RSA</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>To create a new certificate,fill the following information</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>please input ca password</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Two different password entries</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Browse and select the certificate and enter the certificate password</source>
         <translation></translation>
     </message>
 </context>
@@ -11011,61 +11507,6 @@ Window</source>
     </message>
 </context>
 <context>
-    <name>KxPdfCaAddDlg</name>
-    <message>
-        <source>next</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Please enter department name</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>You can add certificates in two ways:</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Wrong password. Please re-enter.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Create a new certificate</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>email:</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>finish</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Use existing certificate file</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>department:</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>1024 bit RSA</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>2048 bit RSA</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Browse and select the certificate and enter the certificate password</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>kxpdfhtml2pdftipwidgetui</name>
     <message>
         <source>open</source>
@@ -11103,6 +11544,18 @@ Window</source>
     <name>KxPdfSplitPrintDialog</name>
     <message>
         <source>Please add a divider</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Longitudinal split</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>immediately split</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Auto align center line (hold Alt to unalign)</source>
         <translation></translation>
     </message>
     <message>
@@ -11255,6 +11708,17 @@ Window</source>
     </message>
 </context>
 <context>
+    <name>KxPdfCopyPageExtractPageDialog</name>
+    <message>
+        <source>IsCopying %1%</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Is Copying</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxPdfOpenUnsignedCopyTask</name>
     <message>
         <source>-copy</source>
@@ -11285,6 +11749,10 @@ Window</source>
     </message>
     <message>
         <source>Verify all the signatures(A)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Signature List</source>
         <translation></translation>
     </message>
     <message>
@@ -11582,6 +12050,14 @@ Window</source>
         <translation></translation>
     </message>
     <message>
+        <source>The current document has used the &quot;%1&quot; member function, you need member rights to save the modification</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>VIP rights ineffective?</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Save(S)</source>
         <translation></translation>
     </message>
@@ -11595,6 +12071,10 @@ Window</source>
     </message>
     <message>
         <source>closing Doc,Whether to save the current changes?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
         <translation></translation>
     </message>
 </context>
@@ -11788,7 +12268,15 @@ Window</source>
         <translation></translation>
     </message>
     <message>
+        <source>During data export:</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Excerpt export failed, please try again.</source>
         <translation></translation>
     </message>
     <message>
@@ -12115,6 +12603,37 @@ Window</source>
     </message>
 </context>
 <context>
+    <name>KxPdfPageSelectWidget</name>
+    <message>
+        <source>even pages</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>portrait pages</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>landscape pages</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>odd pages</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please enter a valid page number</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Total%1Pages</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>all pages</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxPdfPlayPointerOptionsUI</name>
     <message>
         <source>HighlighterPen</source>
@@ -12244,6 +12763,14 @@ Window</source>
         <translation></translation>
     </message>
     <message>
+        <source>Save the current view as a catalog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete a catalog</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>The document has no catalog</source>
         <translation></translation>
     </message>
@@ -12256,6 +12783,10 @@ Window</source>
         <translation></translation>
     </message>
     <message>
+        <source>Collapse All Catalog</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Outline Search</source>
         <translation></translation>
     </message>
@@ -12265,6 +12796,10 @@ Window</source>
     </message>
     <message>
         <source>Catalogue</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Expand All Catalog</source>
         <translation></translation>
     </message>
     <message>
@@ -12315,6 +12850,21 @@ Window</source>
     <name>KPdfTaskCommonButton</name>
     <message>
         <source>The current file is not saved, save it and then operate it?</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfAnnotationView</name>
+    <message>
+        <source>The comment has been hidden. Click the &quot;Show Comment&quot; function to display the content of the comment hidden in the text.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Is Deleteing</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Confirm</source>
         <translation></translation>
     </message>
 </context>
@@ -12418,6 +12968,10 @@ Window</source>
         <translation></translation>
     </message>
     <message>
+        <source>delete ca</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Wrong password. Please re-enter.</source>
         <translation></translation>
     </message>
@@ -12442,6 +12996,17 @@ Window</source>
     <name>KxPdfCompressTipsDialog</name>
     <message>
         <source>The Compressed size is %1,decrease %2.</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfPasteInsertPageDialog</name>
+    <message>
+        <source>IsPasting %1%</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Is Pasting</source>
         <translation></translation>
     </message>
 </context>
@@ -12552,6 +13117,13 @@ Window</source>
     </message>
 </context>
 <context>
+    <name>KxPdfBubbleGuideWidget</name>
+    <message>
+        <source>Function move hint</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>pdf_pdfshell</name>
     <message>
         <source>Kingsoft PDF</source>
@@ -12658,7 +13230,23 @@ Window</source>
         <translation></translation>
     </message>
     <message>
+        <source>Step 2: Check [Enable Association Protection] in &quot;Association Settings&quot;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Protected PDF files are opened with WPS by default.&lt;br/&gt;If you need to change the default software, you can modify it by opening the file properties.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>How to turn on associated protection?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable WPS PDF association protection</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Step 1: Go to the PDF component and click the [Settings] button in the upper right corner</source>
         <translation></translation>
     </message>
 </context>
@@ -12771,6 +13359,10 @@ Please batches operations</source>
         <translation></translation>
     </message>
     <message>
+        <source>Is using the &quot;Delete Page&quot; membership privilege, non-member users can delete 5 pages for free</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>move page is VIP function, save modify need upgrade VIP</source>
         <translation></translation>
     </message>
@@ -12784,6 +13376,14 @@ Please batches operations</source>
     </message>
     <message>
         <source>%1year%2mon%3day</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Is using the &quot;insert page&quot; membership privilege, non-member users can insert 5 pages for free</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Using PDF %1 member function</source>
         <translation></translation>
     </message>
     <message>
@@ -12901,6 +13501,10 @@ Please batches operations</source>
         <translation></translation>
     </message>
     <message>
+        <source>disignautre</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Signed time of signature:</source>
         <translation></translation>
     </message>
@@ -12948,11 +13552,19 @@ Please batches operations</source>
         <translation></translation>
     </message>
     <message>
+        <source>Excerpt data export</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>My excerpt</source>
         <translation></translation>
     </message>
     <message>
         <source>取消</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>导出</source>
         <translation></translation>
     </message>
 </context>
@@ -13102,6 +13714,10 @@ Please batches operations</source>
         <source>Dialog</source>
         <translation></translation>
     </message>
+    <message>
+        <source>add ca</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KFullScreenCommand</name>
@@ -13159,6 +13775,10 @@ Please batches operations</source>
     <name>KxPdfCAManagementDlgWidget</name>
     <message>
         <source>Trusted certificate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ca manager</source>
         <translation></translation>
     </message>
     <message>
@@ -13292,6 +13912,10 @@ Deleted pages can not be recovered</source>
         <translation></translation>
     </message>
     <message>
+        <source>immediately crop</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>OddPages</source>
         <translation></translation>
     </message>
@@ -13308,6 +13932,10 @@ Deleted pages can not be recovered</source>
         <translation></translation>
     </message>
     <message>
+        <source>Document cropping in progress</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>input 1,3 means add watermark in no.1 and no.3</source>
         <translation></translation>
     </message>
@@ -13316,6 +13944,37 @@ Deleted pages can not be recovered</source>
     <name>common.mainwindow.commands.Help</name>
     <message>
         <source>Kingsoft PDF Help</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfWaterMarkGalleryModel</name>
+    <message>
+        <source>click is to delete watermark</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>click is to edit watermark</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>complete</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>delete watermark</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>manage</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Drag adjustment order</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Custom</source>
         <translation></translation>
     </message>
 </context>
@@ -13426,6 +14085,13 @@ Deleted pages can not be recovered</source>
     </message>
 </context>
 <context>
+    <name>KxPdfAttachmentTreeView</name>
+    <message>
+        <source>The attachment %1 already exists, sure to replace it?</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KTaskModeGuideWidget</name>
     <message>
         <source>Open Highlight &amp;&amp; Markup</source>
@@ -13491,6 +14157,17 @@ Deleted pages can not be recovered</source>
     </message>
 </context>
 <context>
+    <name>kpdfBuidNotesPainter</name>
+    <message>
+        <source>Print Notes preView</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Now is building the Notes preView. Please Wait...</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxPdfAttachmentTreeViewModel</name>
     <message>
         <source>Embedded</source>
@@ -13498,6 +14175,13 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Page %1</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCaDeleteDlg</name>
+    <message>
+        <source>Please enter certificate password</source>
         <translation></translation>
     </message>
 </context>
@@ -13555,6 +14239,21 @@ Deleted pages can not be recovered</source>
     </message>
 </context>
 <context>
+    <name>KxPdfCompleteClipPageCommand</name>
+    <message>
+        <source>Clip Page is VIP function, please upgrade VIP</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clip Page is VIP exclusive privilege</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KSignatureListWidget</name>
     <message>
         <source>Synchronize to cloud</source>
@@ -13576,6 +14275,10 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>PDFToWord_L</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ImgPDF</source>
         <translation></translation>
     </message>
     <message>
@@ -13623,6 +14326,10 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Verify the signature result</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Signature attribute</source>
         <translation></translation>
     </message>
     <message>
@@ -13697,24 +14404,21 @@ Deleted pages can not be recovered</source>
     </message>
 </context>
 <context>
-    <name>KxPdfCompleteClipPageCommand</name>
-    <message>
-        <source>Cancle</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Clip Page is VIP exclusive privilege</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>KxPdfCaDetailDlgWidget</name>
     <message>
         <source>Dialog</source>
         <translation></translation>
     </message>
     <message>
+        <source>details info</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>common info</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ca details</source>
         <translation></translation>
     </message>
 </context>
@@ -13724,11 +14428,19 @@ Deleted pages can not be recovered</source>
         <source>Dialog</source>
         <translation></translation>
     </message>
+    <message>
+        <source>ca encrypt</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxPdfCaImportDlgWidget</name>
     <message>
         <source>Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ca import</source>
         <translation></translation>
     </message>
 </context>
@@ -13992,7 +14704,19 @@ Deleted pages can not be recovered</source>
         <translation></translation>
     </message>
     <message>
+        <source>CA name</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>purpose</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>no content</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Deadline Time</source>
         <translation></translation>
     </message>
 </context>
@@ -14031,13 +14755,48 @@ Deleted pages can not be recovered</source>
     </message>
 </context>
 <context>
+    <name>KRbSignature</name>
+    <message>
+        <source>local signature</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Synchronous success</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Synchronization failure</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>cloud signature</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>In the synchronous</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxPdfLdpGuideDialog</name>
     <message>
         <source>No more reminders</source>
         <translation></translation>
     </message>
     <message>
+        <source>It is recommended to turn on protection. The protected PDF file is opened by WPS by default.</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Turn on protection</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Why protect?</source>
         <translation></translation>
     </message>
 </context>
@@ -14233,6 +14992,13 @@ Deleted pages can not be recovered</source>
     </message>
 </context>
 <context>
+    <name>Tips</name>
+    <message>
+        <source>Please add pictures below 18M</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KPdfCorrectExitCommand</name>
     <message>
         <source>IsRecovering %1%</source>
@@ -14240,25 +15006,6 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Is Recovering</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KRbSignature</name>
-    <message>
-        <source>Synchronous success</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Synchronization failure</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>In the synchronous</source>
         <translation></translation>
     </message>
 </context>
@@ -14299,21 +15046,6 @@ Deleted pages can not be recovered</source>
     <name>KxPdfExcerptCatalogTreeWidget</name>
     <message>
         <source>DocumentExcerpt</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfWaterMarkGalleryModel</name>
-    <message>
-        <source>complete</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>manage</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Custom</source>
         <translation></translation>
     </message>
 </context>
@@ -14375,6 +15107,22 @@ Deleted pages can not be recovered</source>
     <name>KxPdfPageAnnotWidget</name>
     <message>
         <source>Page %1</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfBackupRestoreDlg</name>
+    <message>
+        <source>Can&apos;t Find File.
+For File Lost or Path Changed!</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>No file found!</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>(BackupFile)</source>
         <translation></translation>
     </message>
 </context>
@@ -14487,31 +15235,9 @@ Deleted pages can not be recovered</source>
     </message>
 </context>
 <context>
-    <name>KxPdfBackupRestoreDlg</name>
-    <message>
-        <source>No file found!</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>(BackupFile)</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>KSignatureDeleteButton</name>
     <message>
         <source>Clear Signature</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfAnnotationView</name>
-    <message>
-        <source>Is Deleteing</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Confirm</source>
         <translation></translation>
     </message>
 </context>
@@ -14625,28 +15351,6 @@ Deleted pages can not be recovered</source>
     </message>
 </context>
 <context>
-    <name>KxPdfCopyPageExtractPageDialog</name>
-    <message>
-        <source>Is Copying</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPageSelectWidget</name>
-    <message>
-        <source>Please enter a valid page number</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Total%1Pages</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>all pages</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>KxPdfLoginCommand</name>
     <message>
         <source>If you have purchased subscription, 
@@ -14690,6 +15394,13 @@ please sign in to use WPS Office.</source>
     </message>
 </context>
 <context>
+    <name>KxEbookFontWidget</name>
+    <message>
+        <source>AutoFont</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxPdfCustomCommand</name>
     <message>
         <source>Bookmark Shortcut key changed to Ctrl + B</source>
@@ -14704,9 +15415,9 @@ please sign in to use WPS Office.</source>
     </message>
 </context>
 <context>
-    <name>kpdfBuidNotesPainter</name>
+    <name>KxPdfScanDialog</name>
     <message>
-        <source>Now is building the Notes preView. Please Wait...</source>
+        <source>The scanner may be in operation, are you sure to stop scanning and close the dialog?</source>
         <translation></translation>
     </message>
 </context>
