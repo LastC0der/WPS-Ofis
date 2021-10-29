@@ -3140,7 +3140,7 @@ Used to show hierarchical relationships</translation>
     <name>QWidget</name>
     <message>
         <source>*</source>
-        <translation type="unfinished"/>
+        <translation>*</translation>
     </message>
 </context>
 <context>
@@ -3238,7 +3238,7 @@ Used to show hierarchical relationships</translation>
     <name>QShortcut</name>
     <message>
         <source>+</source>
-        <translation type="unfinished"/>
+        <translation>+</translation>
     </message>
     <message>
         <source>No</source>
