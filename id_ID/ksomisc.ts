@@ -10,6 +10,14 @@
         <translation>HTTP</translation>
     </message>
     <message>
+        <source>Association settings when upgrading: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check the file association during the upgrade, automatic repair is opened by default with WPS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Do not use proxy</source>
         <translation>Jangan gunakan proksi</translation>
     </message>
@@ -44,6 +52,10 @@
     <message>
         <source>Update Settings</source>
         <translation>Perbarui Pengaturan</translation>
+    </message>
+    <message>
+        <source>Upgrade package download acceleration:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Internet Connection:</source>
@@ -127,6 +139,10 @@
     <message>
         <source>Start WPS</source>
         <translation>Luncurkan WPS</translation>
+    </message>
+    <message>
+        <source>Switching WPS Office to %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Successful switch to </source>
@@ -420,6 +436,10 @@
         <translation>Tips</translation>
     </message>
     <message>
+        <source>Check the check boxes below, the specified files will be opened by %1 Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
         <translation>Kompatibel dengan Microsoft Office 2003 (&amp;K)</translation>
     </message>
@@ -432,6 +452,10 @@
         <translation>Kompatibel dengan Microsoft Office 2010 (&amp;K)</translation>
     </message>
     <message>
+        <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
         <translation>WPS Office akan menyimpan dokumen terkait dalam format yang dipilih berikut. Dokumen lainnya akan disimpan dalam format WPS Office.</translation>
     </message>
@@ -440,6 +464,10 @@
 needs restarting Windows to take effect.</source>
         <translation>Opsi &quot;Kompatibel dengan perangkat lunak pihak ketiga&quot;
 perlu restart Windows agar bisa diterapkan.</translation>
+    </message>
+    <message>
+        <source>Open the following software with Kingsoft PDF by default:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Here you can set WPS Office Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. 
@@ -456,8 +484,16 @@ Operasi ini dapat dibatalkan. </translation>
         <translation>Presentasi Microsoft PowerPoint (file *.ppt, *.pot, *.pps, *.pptx) (&amp;P)</translation>
     </message>
     <message>
+        <source>Pdf Document(*.pdf)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>eBooks(*.epub, *.mobi)</source>
         <translation>E-book (*.epub, *.mobi)</translation>
+    </message>
+    <message>
+        <source>If you choose the options below, document objects embedded will be opened by %1 which can also be embedded into the third-part software or system like IE browser and OA.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
@@ -492,6 +528,10 @@ Operasi ini dapat dibatalkan. </translation>
         <translation>Buku Kerja Microsoft Excel (file *.xls, *.xlt, *.xlsx) (&amp;E)</translation>
     </message>
     <message>
+        <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;OFD Files(*.ofd)</source>
         <translation type="unfinished"/>
     </message>
@@ -519,6 +559,10 @@ Operasi ini dapat dibatalkan. </translation>
 </source>
         <translation> Gagal mendaftarkan WPS Presentation
 </translation>
+    </message>
+    <message>
+        <source>If toolbar buttons are mixed up, please close all %1 applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> Registering MSO2Pdf Plugins failed
@@ -588,6 +632,14 @@ Operasi ini dapat dibatalkan. </translation>
         <translation>Jika WPS Office dimatikan atau bagian dari fungsionalitas plug-in tidak tersedia, mungkin karena penginstalan plug-in belum selesai. Klik tombol di bawah untuk mencoba memperbaikinya. Restart WPS setelah efek.</translation>
     </message>
     <message>
+        <source>The loss of components in the system registry may cause errors to occur when using %1, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source> WPS PDF not found
 </source>
         <translation type="unfinished"/>
@@ -609,6 +661,11 @@ Operasi ini dapat dibatalkan. </translation>
 </source>
         <translation> WPS Presentation tidak ditemukan
 </translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Pdf
+</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> Failed to register WPS Spreadsheets
@@ -1126,6 +1183,10 @@ Operasi ini dapat dibatalkan. </translation>
         <translation>WPS Office Cloud</translation>
     </message>
     <message>
+        <source>Disable DEP date execution prevention (Need reboot)(&amp;C)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>No Receive push messages (&amp;R)</source>
         <translation type="unfinished"/>
     </message>
@@ -1253,6 +1314,10 @@ Operasi ini dapat dibatalkan. </translation>
         <translation>WPS Photo</translation>
     </message>
     <message>
+        <source>Use WPS Official to edit and play presentations.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Uninstall KingSoft PDF</source>
         <translation type="unfinished"/>
     </message>
@@ -1325,6 +1390,14 @@ Operasi ini dapat dibatalkan. </translation>
         <translation>Uninstall.lnk</translation>
     </message>
     <message>
+        <source>Link to network to update Kingsoft PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Cloud USB Drive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Use WPS Spreadsheets to analyze and manage data.</source>
         <translation>Gunakan WPS Spreadsheets untuk menganalisis dan mengelola data.</translation>
     </message>
@@ -1342,6 +1415,10 @@ Operasi ini dapat dibatalkan. </translation>
     <message>
         <source>E&amp;xit</source>
         <translation>Keluar (&amp;e)</translation>
+    </message>
+    <message>
+        <source>If you encounter any errors when using %1, such as program running or toolbar errors, please close all %1 applications and click the Start Repairing button below.We will do our utmost to repair the applicationsand restore them to the default state.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
@@ -1375,6 +1452,11 @@ Kami akan melakukan yang terbaik untuk memperbaiki aplikasi dan memulihkannya ke
     </message>
     <message>
         <source>General Repair/Configuration Tools
+You can fix the errors encountered when using %1 or make advanced settings here.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General Repair/Configuration Tools
 You can fix the errors encountered when using WPS Office or make advanced settings here.</source>
         <translation>Alat Perbaikan/Konfigurasi Umum
 Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau membuat pengaturan lanjutan di sini.</translation>
@@ -1382,6 +1464,10 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     <message>
         <source>WPS Office Configuration Tools</source>
         <translation>Alat Konfigurasi WPS Office</translation>
+    </message>
+    <message>
+        <source>%1 General Repair/Configuration Tools</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start &amp;Repairing</source>
@@ -1401,6 +1487,10 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     <message>
         <source>Clear Backup Files</source>
         <translation>Hapus File Cadangan</translation>
+    </message>
+    <message>
+        <source>To protect document security, %1 has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The clearing operation may not affect your original files. But please make sure there are no files need to be recovered before clearing them. Please check the check boxes that you need to clear separately and then click Start Clearing button.</source>
@@ -1652,6 +1742,10 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     <message>
         <source>Use WPS PDF to read and edit pdf.</source>
         <translation>Gunakan WPS PDF untuk membaca dan mengedit file PDF.</translation>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Office</source>
