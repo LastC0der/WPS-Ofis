@@ -238,8 +238,16 @@
         <translation>Cancel</translation>
     </message>
     <message>
+        <source>success</source>
+        <translation>Converted successfully.</translation>
+    </message>
+    <message>
         <source>Waiting</source>
         <translation>Pending</translation>
+    </message>
+    <message>
+        <source>waiting</source>
+        <translation>Please wait.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -507,6 +515,10 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <translation>Google</translation>
     </message>
     <message>
+        <source>The company&apos;s files can only be saved to that company</source>
+        <translation>The enterprise&apos;s files can only be saved to that enterprise.</translation>
+    </message>
+    <message>
         <source>Dropbox</source>
         <translation>Dropbox</translation>
     </message>
@@ -677,6 +689,10 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <translation>Computer</translation>
     </message>
     <message>
+        <source>Shares received of cloud disk</source>
+        <translation>Received Sharing</translation>
+    </message>
+    <message>
         <source>There is an extension of the data in the document</source>
         <translation>Extended data exists in the file. It is recommended to save the file as %1, otherwise changing the extended data again will not be supported.</translation>
     </message>
@@ -705,8 +721,16 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <translation>Save to</translation>
     </message>
     <message>
+        <source>ShareFolder</source>
+        <translation>Shared Folder</translation>
+    </message>
+    <message>
         <source>Folder is not exist</source>
         <translation>Folder is not exist</translation>
+    </message>
+    <message>
+        <source>Group Space of cloud disk</source>
+        <translation>My Teams</translation>
     </message>
     <message>
         <source>My Company</source>
@@ -1058,6 +1082,10 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <translation>Upgrade VIP to enjoy %1 cloud space and upload file to %2 at most</translation>
     </message>
     <message>
+        <source>File exceeds %1 upload limit</source>
+        <translation>File not synchronized. The file size exceeds the %1 upload limit.</translation>
+    </message>
+    <message>
         <source>Please clean up files in time</source>
         <translation type="unfinished"/>
     </message>
@@ -1090,6 +1118,13 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <message>
         <source>Authorize again</source>
         <translation>Authorize again</translation>
+    </message>
+</context>
+<context>
+    <name>KLiteQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
+        <translation>If you have any questions, please call WPS Customer Service %1, or scan the Customer Service QR code on the left side.</translation>
     </message>
 </context>
 <context>
@@ -1391,6 +1426,13 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     <message>
         <source>2019default</source>
         <translation>2019 Beauty</translation>
+    </message>
+</context>
+<context>
+    <name>KLiteWaitingWidget</name>
+    <message>
+        <source>resource loading...</source>
+        <translation>Loading resource...</translation>
     </message>
 </context>
 <context>
