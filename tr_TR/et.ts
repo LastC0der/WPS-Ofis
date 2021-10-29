@@ -683,6 +683,10 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
         <translation>Filtre gizli alanına yapıştırmak için VARSAYILAN seçenek:</translation>
     </message>
     <message>
+        <source>Open directly by default:Content style is complete, but opening may fail</source>
+        <translation>Varsayılan olarak doğrudan aç: İçerik stili tamamlandı, ancak açılış başarısız olabilir</translation>
+    </message>
+    <message>
         <source>Ad&amp;vanced...</source>
         <translation>&amp;Gelişmiş...</translation>
     </message>
@@ -757,6 +761,10 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     <message>
         <source>DEFAULT option for merge single column cells:</source>
         <translation>Tek sütun hücrelerini birleştirmek için VARSAYILAN seçenek:</translation>
+    </message>
+    <message>
+        <source>Keep cache for</source>
+        <translation>Önbelleği</translation>
     </message>
     <message>
         <source>Cloud backup</source>
@@ -999,6 +1007,10 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
         <translation>İle Başlar:</translation>
     </message>
     <message>
+        <source>Default insert images of &amp;original size</source>
+        <translation>Varsayılan olarak, &amp;orijinal boyuttaki görüntüleri ekleyin</translation>
+    </message>
+    <message>
         <source>Microsoft Excel 97-2003 Workbook (*.xls)</source>
         <translation>Microsoft Excel 97-2003 Çalışma Kitabı (*.xls)</translation>
     </message>
@@ -1103,6 +1115,10 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
         <translation>Yedekleme modu:</translation>
     </message>
     <message>
+        <source>Keep files cache</source>
+        <translation>Dosyaları önbelleğe al</translation>
+    </message>
+    <message>
         <source>Edit settings</source>
         <translation>Ayarları düzenle</translation>
     </message>
@@ -1205,6 +1221,14 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     <message>
         <source>Taskb&amp;ar</source>
         <translation>&amp;Görev Çubuğu</translation>
+    </message>
+    <message>
+        <source>Fix &amp;interval</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable Bl&amp;ue background</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Microsoft Excel Workbook (*.xlsx)</source>
@@ -1347,6 +1371,10 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
         <translation>Büyük &amp;harf ile yazılmış sözcükleri yoksay</translation>
     </message>
     <message>
+        <source>Never show dialog when open html file</source>
+        <translation>Html dosyasını açarken hiçbir zaman iletişim kutusunu gösterme</translation>
+    </message>
+    <message>
         <source>Default document &amp;format to save:</source>
         <translation>Kaydetmek için varsayılan belge &amp;biçimi:</translation>
     </message>
@@ -1463,6 +1491,10 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
         <translation>Filtre aralığının altındaki alanı &amp;kontrol edin</translation>
     </message>
     <message>
+        <source>Open in simple mode:Can open to view the content, but the opening speed is slow, elements such as styles may be lost</source>
+        <translation>Basit modda aç: İçeriği görüntülemek için açılabilir, ancak açma hızı yavaştır, stiller gibi öğeler kaybolabilir</translation>
+    </message>
+    <message>
         <source>Calculation</source>
         <translation>Hesaplama</translation>
     </message>
@@ -1525,6 +1557,10 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     <message>
         <source>Formulas which &amp;omit cells in a region</source>
         <translation>B&amp;ölgedeki hücreleri yok sayan formüller</translation>
+    </message>
+    <message>
+        <source>Folder:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error &amp;indicator color:</source>
@@ -1711,32 +1747,8 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
         <translation>Gelişmiş düğmesi, farklı şifreleme türleri arasından seçim yapmanızı sağlar.</translation>
     </message>
     <message>
-        <source>Keep files cache</source>
-        <translation>Dosyaları önbelleğe al</translation>
-    </message>
-    <message>
-        <source>Default insert images of &amp;original size</source>
-        <translation>Varsayılan olarak, &amp;orijinal boyuttaki görüntüleri ekleyin</translation>
-    </message>
-    <message>
-        <source>Never show dialog when open html file</source>
-        <translation>Html dosyasını açarken hiçbir zaman iletişim kutusunu gösterme</translation>
-    </message>
-    <message>
-        <source>Open directly by default:Content style is complete, but opening may fail</source>
-        <translation>Varsayılan olarak doğrudan aç: İçerik stili tamamlandı, ancak açılış başarısız olabilir</translation>
-    </message>
-    <message>
-        <source>Open in simple mode:Can open to view the content, but the opening speed is slow, elements such as styles may be lost</source>
-        <translation>Basit modda aç: İçeriği görüntülemek için açılabilir, ancak açma hızı yavaştır, stiller gibi öğeler kaybolabilir</translation>
-    </message>
-    <message>
         <source>&amp;High quality printing</source>
         <translation>&amp;Yüksek kaliteli baskı</translation>
-    </message>
-    <message>
-        <source>Keep cache for</source>
-        <translation>Önbelleği</translation>
     </message>
     <message>
         <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
@@ -1970,6 +1982,10 @@ Akıllı Doldurma işlemini gerçekleştirmeden önce bazı örnek veriler girme
     <message>
         <source>This operation will cause some merged cells to unmerge. Do you wish to continue?</source>
         <translation>Bu işlem, birleştirilmiş hücrelerin bazılarının ayrılmasına neden olacaktır. Devam etmek istiyor musunuz?</translation>
+    </message>
+    <message>
+        <source>Formulas or rich data types in the header row will be removed and converted to static text. Do you want to continue?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(ALL)</source>
@@ -2207,6 +2223,10 @@ Bunun birçok nedeni olabilir:
         <translation>Bu komutu, birleştirilmiş hücreler içeren bir liste veya aralıkta kullanamazsınız.</translation>
     </message>
     <message>
+        <source>Cannot insert data because there&apos;s a merged cell in the way.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PivotTable %s  had some incorrect data,it had been deleted</source>
         <translation>Özet Tablo %s bazı yanlış veriler içeriyor ve silinecek.</translation>
     </message>
@@ -2314,6 +2334,10 @@ Lütfen aşağıdakilerden birini deneyin.
 (%s)</translation>
     </message>
     <message>
+        <source>Instead of selecting a table header,select a cell with text in the table to convert to a data type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Ambiguous name detected: %s</source>
         <translation>Belirsiz ad algılandı: %s</translation>
     </message>
@@ -2371,6 +2395,10 @@ Lütfen aşağıdakilerden birini deneyin.
         <translation>Bu komut paylaşılan bir çalışma kitabında kullanılamaz.</translation>
     </message>
     <message>
+        <source>The current table is in the workbook protection state, unable to export the chart temporarily.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>When a cell is updated by more than one formula,</source>
         <translation>Bir hücre birden fazla formül tarafından güncelleştirildiği zaman,</translation>
     </message>
@@ -2401,6 +2429,10 @@ Lütfen aşağıdakilerden birini deneyin.
     <message>
         <source>This command cannot be used on a protected sheet.</source>
         <translation>Bu komut, korumalı bir sayfada kullanılamaz.</translation>
+    </message>
+    <message>
+        <source>The table slicer could not be copied from one workbook to another. Please select the entire table and slicer to try again.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make sure there is enough space on this disk, or try to save file to another disk. </source>
@@ -2519,6 +2551,10 @@ Lütfen aşağıdakilerden birini deneyin.
     <message>
         <source>0.001f</source>
         <translation>0.001f</translation>
+    </message>
+    <message>
+        <source>We cannot convert into this data type.This is because the cell is blank,contains a formula,or it has already been converted into this data type.Try selecting another cell with just text or numbers,or select another data type.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
@@ -2643,6 +2679,10 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     <message>
         <source>(Exclusive)</source>
         <translation>(Özel Kullanım)</translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause target range contains a formula, merged cell, data validation, locked cell or pivot table.Remove those features from target range and click the Flash Fill button again.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter choice content.</source>
@@ -2846,6 +2886,10 @@ Veya, son boş olmayan hücreleri yeni bir konuma taşıyıp yeniden deneyebilir
     <message>
         <source>Show Field List</source>
         <translation>Alan Listesini Göster</translation>
+    </message>
+    <message>
+        <source>Cannot create an outline.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Old
@@ -3233,6 +3277,10 @@ Bu alanı raporda kullanmak için Tamam&apos;a tıklayın, sonra da alanı satı
         <translation>Hedef Hücre Bölümü</translation>
     </message>
     <message>
+        <source> Field Not Found.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>You can create a PivotTable based on source data with more than 16384 columns. Reduce the number of columns and try again.</source>
         <translation>16384&apos;den fazla sütuna sahip olan kaynak verilerini temel alan bir Özet Tablo oluşturamazsınız. Sütun sayısını azaltın ve yeniden deneyin.</translation>
     </message>
@@ -3396,6 +3444,14 @@ Simplify the PivotTable report or check the macro for errors, and then try the o
 Özet Tabloyu basitleştirin veya hatalar için makroyu denetleyin, sonra işlemi yeniden deneyin.</translation>
     </message>
     <message>
+        <source>A table header-line overlap one or more formula(s).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Can&apos;t insert new cells because it would push non-empty cells off the end of the worksheet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>%s File Not Exist</source>
         <comment>TX_DuplicateItemsMgr_File_Not_Exist</comment>
         <translation>%s dosyası mevcut değil.</translation>
@@ -3547,6 +3603,11 @@ Formüllerinizdeki hücre başvuruları, aralık adları, tanımlı adlar veya b
 Value</source>
         <translation>Yeni
 Değer</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot open this file, because the password is not correct.
+</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are attempting to create a chart by useing a PivotTable report in another workbok. This will result in a static chart that cannot be updated. To create a PivotChart report, or a chart that dynamically updates like the PivotTbale report, the chart must be located in the same workbook as its associated PivotTable report.</source>
@@ -3857,6 +3918,10 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
         <translation>Genel Toplam</translation>
     </message>
     <message>
+        <source>The PasteLink Operator is forbidden in Pivot Table.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cannot edit PivotTable in group edit mode.</source>
         <translation>Grup düzenleme modunda Özet Tablo düzenlenemez.</translation>
     </message>
@@ -3896,6 +3961,10 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     <message>
         <source>The PivotTable report will not fit on the sheet. Do you want to show as much as possible?</source>
         <translation>Özet Tablo raporu bu sayfaya sığmayacak. Raporun olabildiğince büyük bir kısmının görüntülenmesini ister misiniz?</translation>
+    </message>
+    <message>
+        <source>We are unable to replace matches in read-only Rich Data.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Lock Cell</source>
@@ -3952,6 +4021,10 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     <message>
         <source>The file &quot;%s&quot; to be saved has the same name with an open file. Please choose a different name, or close another workbook with the same name first.</source>
         <translation>Kaydedilecek &quot;%s&quot; dosyası, açık bir dosyayla aynı ada sahip. Lütfen farklı bir ad seçin veya önce aynı ada sahip başka bir çalışma kitabını kapatın.</translation>
+    </message>
+    <message>
+        <source>The current worksheet has no outline and cannot display the outline symbol. Whether to create an outline?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear Filter from Slicers</source>
@@ -4105,6 +4178,10 @@ Bunun nedenleri şunları içerebilir:
     <message>
         <source>%s is a reserved name.</source>
         <translation>%s ayrılmış bir addır.</translation>
+    </message>
+    <message>
+        <source>Cannot insert data because a table is in the way.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Constraint</source>
@@ -4313,6 +4390,10 @@ Lütfen dosya yolunu kısaltmayı deneyin veya dosyayı masaüstüne taşıyıp 
         <translation>Azalt</translation>
     </message>
     <message>
+        <source>A table total-line overlap one or more formula(s).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •The current version of WPS Spreadsheets does not support this file's permission control level, please update to the latest version.
@@ -4392,6 +4473,10 @@ Lütfen aşağıdakilerden birini deneyin.
     <message>
         <source>The field you are moving cannot be placed in that PivotTable area.</source>
         <translation>Taşımakta olduğunuz alan, bu Özet Tablo alanına yerleştirilemez.</translation>
+    </message>
+    <message>
+        <source>Field Not Found Error</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove &quot;%s&quot;</source>
@@ -5215,12 +5300,20 @@ This backup will be saved to (%s)</source>
         <translation>Satır Alt Başlığı 3</translation>
     </message>
     <message>
+        <source>Hovered Unselected Item with Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Grand Total Row</source>
         <translation>Genel Toplam Satırı</translation>
     </message>
     <message>
         <source>This style name already exists.</source>
         <translation>Bu stil adı zaten var.</translation>
+    </message>
+    <message>
+        <source>Hovered Selected Item with Data</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Double Underline</source>
@@ -5299,6 +5392,10 @@ This backup will be saved to (%s)</source>
         <translation>Bu belge için varsayılan dilimleyici stili olarak ayarla</translation>
     </message>
     <message>
+        <source>Unselected Item with Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Table Style</source>
         <translation>Tablo Stili</translation>
     </message>
@@ -5321,6 +5418,10 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Column Subheading 3</source>
         <translation>Sütun Alt Başlığı 3</translation>
+    </message>
+    <message>
+        <source>Hovered Unselected Item with no Data</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsideVertical</source>
@@ -5355,12 +5456,24 @@ This backup will be saved to (%s)</source>
         <translation>Toplam Satırı</translation>
     </message>
     <message>
+        <source>Unselected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Selected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Header Row</source>
         <translation>Üst Bilgi Satırı</translation>
     </message>
     <message>
         <source>Underline</source>
         <translation>Altı Çizili</translation>
+    </message>
+    <message>
+        <source>Selected Item with Data</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Modify PivotTable Style</source>
@@ -5387,6 +5500,10 @@ This backup will be saved to (%s)</source>
         <translation>Yeni Tablo Stili</translation>
     </message>
     <message>
+        <source>Hovered Selected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Enter a table style name.</source>
         <translation>Tablo stili adı girin.</translation>
     </message>
@@ -5397,6 +5514,10 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Set as default table style for this document</source>
         <translation>Bu belge için varsayılan tablo stili olarak ayarla</translation>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6926,6 +7047,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
         <translation>#Yok</translation>
     </message>
     <message>
+        <source>Hide White Space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Base</source>
         <translation>Taban</translation>
     </message>
@@ -7012,6 +7137,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>Year</source>
         <translation>Yıl</translation>
+    </message>
+    <message>
+        <source>Yld </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>text</source>
@@ -7347,6 +7476,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Workbook is protected and cannot be changed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the number or string specifying when weekends occur.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8041,6 +8174,10 @@ Kaldır</translation>
         <translation>mantıksal_sınama YANLIŞ olduğunda gelen değer. Atlanırsa, YANLIŞ gelir.</translation>
     </message>
     <message>
+        <source>Settlement </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Date of issue</source>
         <translation type="unfinished"/>
     </message>
@@ -8400,6 +8537,10 @@ Aktar</translation>
     </message>
     <message>
         <source>Octal number</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the security&apos;s maturity date, expressed as a serial date number. </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8857,6 +8998,10 @@ Aktar</translation>
         <translation>Araç_mantıksal</translation>
     </message>
     <message>
+        <source>Extract &lt;b&gt;%1&lt;/b&gt; to grid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Sayı</translation>
     </message>
@@ -8886,6 +9031,10 @@ Aktar</translation>
     </message>
     <message>
         <source>Degrees of freedom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ref1,ref2,... are 1 to 253 ranges or references for which you want the aggregate.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9194,6 +9343,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
         <translation>Son_dönem</translation>
     </message>
     <message>
+        <source>is the security&apos;s price per $100 face value.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Help_topic</source>
         <translation type="unfinished"/>
     </message>
@@ -9209,6 +9362,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the second data set.</source>
         <translation>ikinci veri kümesidir.</translation>
+    </message>
+    <message>
+        <source>Package</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options</source>
@@ -9568,6 +9725,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the number for which you want the square root.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Modification of DDE or OLE has Failed.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10011,6 +10172,10 @@ Bunun çeşitli nedenleri olabilir:
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>number1, number2, ... are 1 to 255 numeric arguments corresponding to a population.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The upper limit of the integrated ERF</source>
         <translation type="unfinished"/>
     </message>
@@ -10117,6 +10282,10 @@ Bunun çeşitli nedenleri olabilir:
         <translation>değer1, değer2, ...  en az 1 en fazla 255 bağımsız değişkendir, her biri farklı türdeki çeşitli verileri taşıyabilir ya da bunlara başvurabilir, fakat yalnızca sayılar dikkate alınır.</translation>
     </message>
     <message>
+        <source>Frequency </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Insert_logical</source>
         <translation>Ekle_mantıksal</translation>
     </message>
@@ -10144,6 +10313,10 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Expression</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the string representing the number you want to convert.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10188,6 +10361,10 @@ Bunun çeşitli nedenleri olabilir:
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>is the number 1 to 19 that specifies the summary funcion for the aggregate.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Criteria</source>
         <translation>Ölçüt</translation>
     </message>
@@ -10221,9 +10398,17 @@ Bunun çeşitli nedenleri olabilir:
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>is a decimal number.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the security&apos;s annual coupon rate.</source>
         <comment>TX_ParaDesc_490</comment>
         <translation>menkul kıymetin yıllık kupon oranı.</translation>
+    </message>
+    <message>
+        <source>is the security&apos;s settlement date, expressed as a serial date number.  </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is the text you want to search.</source>
@@ -10242,6 +10427,10 @@ Bunun çeşitli nedenleri olabilir:
         <source>Array</source>
         <comment>TX_ParaInfo_007</comment>
         <translation>Dizi</translation>
+    </message>
+    <message>
+        <source>is the integer to use the denominator os the fraction.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is the actual cells to be used to find the average.</source>
@@ -10293,6 +10482,10 @@ Bunun çeşitli nedenleri olabilir:
         <translation>Hata_değer</translation>
     </message>
     <message>
+        <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Row_num</source>
         <translation>Satır_num</translation>
     </message>
@@ -10342,6 +10535,10 @@ Bunun çeşitli nedenleri olabilir:
 Sheet</source>
         <translation>Sayfayı 
 Koru</translation>
+    </message>
+    <message>
+        <source>number1, number2, ... are 1 to 255 numeric arguments corresponding to a sample of a population.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unprotect 
@@ -10577,6 +10774,10 @@ Devam ?</translation>
         <translation>sayısal bağımlı veri noktaları dizisi veya hücre aralığıdır ve sayı, ad, dizi ya da sayı içeren başvuru olabilir.</translation>
     </message>
     <message>
+        <source>Coupon </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the set of probabilities associated with values in X_range, values between 0 and 1 and excluding 0.</source>
         <translation type="unfinished"/>
     </message>
@@ -10607,6 +10808,10 @@ Devam ?</translation>
         <source>Text</source>
         <comment>TX_ParaInfo_076</comment>
         <translation>Metin</translation>
+    </message>
+    <message>
+        <source>is the character used as the group separator in the string.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Holidays</source>
@@ -10814,6 +11019,10 @@ Devam ?</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>is the number 0 to 7 that specifies the value to ignore for the aggregate.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Bottom</source>
         <comment>TX_ParaInfo_009</comment>
         <translation>Alt</translation>
@@ -10839,6 +11048,10 @@ Devam ?</translation>
     <message>
         <source>Coefficients</source>
         <translation>Katsayılar</translation>
+    </message>
+    <message>
+        <source>Ignore nothing</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is text that represents a date in a WPS Spreadsheets date format, between 1/1/1900 (Windows) or 1/1/1904 (Macintosh) and 12/31/9999.</source>
@@ -10867,6 +11080,10 @@ Devam ?</translation>
     <message>
         <source>is the value that is returned if Logical_test is TRUE. If omitted, TRUE is returned. You can nest up to seven IF functions.</source>
         <translation>mantıksal_sınama DOĞRU olduğunda gelen değer. Atlanırsa, DOĞRU gelir. En çok yedi eğer fonksiyonunu iç içe geçirebilirsiniz.</translation>
+    </message>
+    <message>
+        <source>is the number of nonweekend and non-holiday days before or after start_date.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Value 1%1value 2%1… are 1 to 30 plural numbers, used to calculate the product.</source>
@@ -10982,6 +11199,10 @@ Ekle</translation>
         <translation>Başv_metni</translation>
     </message>
     <message>
+        <source>Maturity </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a reference to a cell, formula, or value.</source>
         <translation>sınamak istediğiniz hücreye yapılan başvuru. Başvuru bir hücre başvurusu, bir formül ya da hücreye başvuran bir ad olabilir.</translation>
     </message>
@@ -11004,6 +11225,10 @@ Ekle</translation>
     <message>
         <source>Connections</source>
         <translation>Bağlantılar</translation>
+    </message>
+    <message>
+        <source>We need help with this text. Click the ? icon to resolve (Ctrl+Shift+F5)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selecting Range</source>
@@ -11090,6 +11315,14 @@ Sil</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>A string to be URL encoded.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the character used as the decimal separator in the string.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the row number in table_array from which the matching value should be returned. The first row of values in the table is row 1.</source>
         <translation>uyuşan değerin verileceği tablo_dizisi&apos;ndeki sütun sayısı. Tablodaki ilk değer sütunu sütun 1&apos;dir.</translation>
     </message>
@@ -11144,6 +11377,10 @@ Sil</translation>
     <message>
         <source>Redemption</source>
         <translation>Teminat</translation>
+    </message>
+    <message>
+        <source>Please don&apos;t select entire row or entire column.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Column_num</source>
@@ -11206,6 +11443,10 @@ The values which can be typed here is restricted by other users.</source>
     <message>
         <source>Menu_ref</source>
         <translation>Menü_başv</translation>
+    </message>
+    <message>
+        <source>is a number expressed as a fraction.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Inserting cell picture will overwrite the original content in it. Continue?</source>
@@ -11689,6 +11930,10 @@ Koru</translation>
         <translation>Sonuç_vektör</translation>
     </message>
     <message>
+        <source>Show White Space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Center section </source>
         <translation>Orta bölüm</translation>
     </message>
@@ -12046,6 +12291,10 @@ Denetimi</translation>
         <translation>AİÇVERİMORANI işlevinin sonucuna yakın olarak tahmin edilen sayı; atlanırsa 0,1 (yüzde 10).</translation>
     </message>
     <message>
+        <source>is a reference to the cell you want to test. Reference can be a cell reference, a formula, or a name that refers to a cell.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the text in which you want to search for Find_text.</source>
         <translation>Bul_metin&apos;de kullanılan metin.</translation>
     </message>
@@ -12170,6 +12419,10 @@ Denetimi</translation>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the number of coupon payments per year. </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -13880,6 +14133,10 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Could not get data. Verify that the network link is normal or that the URL is correct</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rotated up %d Degrees</source>
         <translation>%d derece yukarı döndürüldü</translation>
     </message>
@@ -14225,6 +14482,10 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>, </source>
         <translation>, </translation>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14925,6 +15186,10 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Please enter the content of the split rules</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Split by Character type(space,number,symbol,letter,Chinese characters)</source>
         <translation type="unfinished"/>
     </message>
@@ -14946,6 +15211,10 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Please delete the content to 1000 characters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>do spliting</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -15003,8 +15272,28 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Return button location</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Directory save to</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>*This operation does not support undo.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Return Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Don&apos;t need to return button</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Directory</source>
@@ -15581,6 +15870,10 @@ tıklayın.</translation>
         <translation>Tamam</translation>
     </message>
     <message>
+        <source>The non-null value on the right of the blank cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Set the fill content:</source>
         <translation type="unfinished"/>
     </message>
@@ -15589,8 +15882,16 @@ tıklayın.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The non-null value below the blank cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>İptal</translation>
+    </message>
+    <message>
+        <source>The non-null value above the blank cell</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The selected area contains the pivot table, please select again</source>
@@ -15601,7 +15902,15 @@ tıklayın.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The non-null value on the left of the blank cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Fill value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter a string to insert</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -15637,6 +15946,10 @@ tıklayın.</translation>
     </message>
     <message>
         <source>row title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Diagonal Header</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -16395,6 +16708,20 @@ Uyarı: İkinci işlenen sayıyı metin olarak sorgularsa, hem başına hem de s
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fail to open file.There may be one of the following problems:
+ 
+1.The file format or database you selected is unsupported. 
+ 
+2.Current file has been opened. 
+
+3.The required database engine has not been installed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Descending</source>
         <translation>Azalan</translation>
     </message>
@@ -16409,6 +16736,10 @@ Uyarı: İkinci işlenen sayıyı metin olarak sorgularsa, hem başına hem de s
     <message>
         <source>Sort by</source>
         <translation>Sıralama ölçütü</translation>
+    </message>
+    <message>
+        <source>All Files(*)|*|All Data Sources(*.csv,*.prn,*.txt)|*.csv;*.prn;*.txt|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>greater than</source>
@@ -18639,6 +18970,10 @@ merged into one workbook</source>
         <translation>Metin İçeri Aktarma Düzeni</translation>
     </message>
     <message>
+        <source>Identify Text in Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Remove Field</source>
         <translation type="unfinished"/>
     </message>
@@ -19092,6 +19427,14 @@ Görüntüsü</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Increase Argument Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Object</source>
         <translation>Nesne</translation>
     </message>
@@ -19142,6 +19485,10 @@ Görüntüsü</translation>
     <message>
         <source>Hide All Field Buttons on Chart</source>
         <translation>Grafikte Tüm Alan Düğmelerini Gizle</translation>
+    </message>
+    <message>
+        <source>SmartChart Webshape Add</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top and Thick Bottom Border</source>
@@ -19496,6 +19843,10 @@ merged into one worksheet</source>
         <translation>Hücreleri Birleştir</translation>
     </message>
     <message>
+        <source>Show Data Type Card</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Error Checking</source>
         <translation>Hata Denetimi</translation>
     </message>
@@ -19634,12 +19985,20 @@ merged into one worksheet</source>
         <translation>Sırayı Değiştir</translation>
     </message>
     <message>
+        <source>SmartChart Webshape Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>AutoFit Column Width</source>
         <translation>Sütun Genişliğine Otomatik Sığdır</translation>
     </message>
     <message>
         <source>Date Filters</source>
         <translation>Tarih Filtreleri</translation>
+    </message>
+    <message>
+        <source>SmartChart Webshape Style</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Picture</source>
@@ -19797,6 +20156,10 @@ merged into one worksheet</source>
     <message>
         <source>Cascade</source>
         <translation>Basamakla</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subtotals</source>
@@ -19993,6 +20356,10 @@ with same name in workbooks</source>
         <translation>Kesilen Hücreleri Ekle</translation>
     </message>
     <message>
+        <source>Stretch N-ary character</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PivotChart Options</source>
         <translation>Özet Grafik Seçenekleri</translation>
     </message>
@@ -20026,6 +20393,10 @@ with same name in workbooks</source>
         <translation>Küçük Kılavuz Çizgileri Ekle</translation>
     </message>
     <message>
+        <source>Right Format Painter Popup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>View Historical Backup</source>
         <translation>Yedeği Görüntüle</translation>
     </message>
@@ -20035,6 +20406,10 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>AutoPoint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -20216,6 +20591,10 @@ OLE DB Query</source>
         <translation>Grafik Öğeleri</translation>
     </message>
     <message>
+        <source>SmartChart Webshape Recommended</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation>Grubu Çöz</translation>
     </message>
@@ -20306,6 +20685,10 @@ OLE DB Query</source>
     <message>
         <source>Show Values As</source>
         <translation>Değer Gösterimi</translation>
+    </message>
+    <message>
+        <source>Webshape Flush</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Standard Width</source>
@@ -20423,6 +20806,10 @@ OLE DB Query</source>
     <message>
         <source>Pick from Drop-down List</source>
         <translation>Aşağı Açılan Listeden Al</translation>
+    </message>
+    <message>
+        <source>Webshape Del</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View File Safe</source>
@@ -20630,6 +21017,10 @@ OLE DB Query</source>
         <translation>Ayrıntıları Göster</translation>
     </message>
     <message>
+        <source>Remove Subscript</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Delete Series</source>
         <translation type="unfinished"/>
     </message>
@@ -20768,20 +21159,12 @@ OLE DB Query</source>
         <translation>Özet Tablo</translation>
     </message>
     <message>
-        <source>Centered as group</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Smart Split Columns</source>
         <translation>Akıllı Bölme Sütunları</translation>
     </message>
     <message>
         <source>Macro</source>
         <translation>Makro</translation>
-    </message>
-    <message>
-        <source>Identify Text in Picture</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Grab Screen</source>
@@ -21331,6 +21714,10 @@ OLE DB Query</source>
         <source>&amp;Username:</source>
         <translation>&amp;Kullanıcı Adı:</translation>
     </message>
+    <message>
+        <source>Data Source:</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>customfilterdlg</name>
@@ -21421,6 +21808,10 @@ OLE DB Query</source>
         <translation>Kapat</translation>
     </message>
     <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>PDF dosyası dışa aktarılmak için hazırlanıyor...</translation>
     </message>
@@ -21439,6 +21830,10 @@ OLE DB Query</source>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
         <translation>WPS Elektronik Tablolar PDF&apos;ye dışa aktarmaya çalışırken bir hatayla karşılaştı.</translation>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -21542,6 +21937,10 @@ OLE DB Query</source>
     <message>
         <source>integer</source>
         <translation>tamsayı</translation>
+    </message>
+    <message>
+        <source>Date axis reference is not valid.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Constraint</source>
@@ -21688,6 +22087,10 @@ OLE DB Query</source>
     <message>
         <source>Locked</source>
         <translation>Kilitli</translation>
+    </message>
+    <message>
+        <source>Location reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Number</source>
@@ -21958,6 +22361,10 @@ OLE DB Query</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Date axis reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Data source reference is not valid.</source>
         <translation type="unfinished"/>
     </message>
@@ -21971,10 +22378,6 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Stop chosen when the maximum number of integer subproblems was reached.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Location reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -22362,6 +22765,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>NOW()</source>
         <translation>ŞİMDİ()</translation>
+    </message>
+    <message>
+        <source>Returns the next coupon date after settlement date.</source>
+        <translation>Mutabakat tarihinden sonraki kupon tarihini döndürür.</translation>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
@@ -23114,6 +23521,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>DURAKLA(araç_mantıksal)</translation>
     </message>
     <message>
+        <source>Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters.</source>
+        <translation>Belirtilen sayıda işgünü önce veya sonraki bir tarihin seri numarasını özel hafta sonu parametreleriyle verir.</translation>
+    </message>
+    <message>
         <source>INDEX(array,row_num,column_num)</source>
         <translation>İNDİS(dizi, satır_num, sütun_num)</translation>
     </message>
@@ -23249,6 +23660,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>CUMIPMT(rate, nper, pv, start_period, end_period, type)</source>
         <translation>TOPÖDENENFAİZ(fiyat, dönem_sayısı, bd, başlangıç_dönemi, bitiş_dönemi, tür)</translation>
+    </message>
+    <message>
+        <source>Returns the price per $100 face value of a security that pays interest at maturity.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DATE(year,month,day)</source>
@@ -23578,6 +23993,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>DOĞRU()</translation>
     </message>
     <message>
+        <source>Returns the number of days in the coupon period that contains the settlement date.</source>
+        <translation>Mutabakat tarihini içeren kupon dönemindeki gün sayısını döndürür.</translation>
+    </message>
+    <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
         <translation type="unfinished"/>
     </message>
@@ -23828,6 +24247,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Customizing</source>
         <translation>Özelleştirme</translation>
+    </message>
+    <message>
+        <source>Extracts a value from a field of a given record.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PEARSON(array1,array2)</source>
@@ -24275,6 +24698,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>FDAĞ(x, serb_derecesi1, serb_derecesi2)</translation>
     </message>
     <message>
+        <source>Returns total covariance, the average of the products of deviations for each data point pair.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>SELECTION()</source>
         <translation>SEÇİM()</translation>
     </message>
@@ -24347,6 +24774,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>Bir metin dizesi içinde belirtilen karakterin veya dizenin ilk bulunan konumunu, soldan sağa doğru okuyarak (büyük / küçük harfe duyarlı değildir) döndürür. Çift baytlı karakter setiyle (DBCS) kullanın.</translation>
     </message>
     <message>
+        <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
+        <translation>Mutabakat ve vade tarihleri arasındaki ödenebilir kupon sayısını döndürür.</translation>
+    </message>
+    <message>
         <source>TODAY()</source>
         <translation>BUGÜN()</translation>
     </message>
@@ -24356,6 +24787,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>DIALOGBOX(dialog_ref)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Returns simple covariance, the average of the products of deviations for each data point pair.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -24477,6 +24912,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>ON.KEY(key_text, macro_text)</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Returns the previous coupon date before the settlement date.</source>
+        <translation>Mutabakat tarihinden önceki kupon tarihini döndürür.</translation>
     </message>
     <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
@@ -24941,6 +25380,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Calculates variance  based on the entire population(ignores logical values and text in the population).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</source>
         <translation>SEÇENEKLER.GENEL(R1C1_modu, dde_açık, toplam_bilgisi, ipuçları, son_dosyalar, eski_menüler, kullanıcı_bilgisi, yazı_tipi_adı, yazı_tipi_boyutu, varsayılan_yer, diğer_yer, tablo_num, etkinleştir_alt)</translation>
     </message>
@@ -25118,6 +25561,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>KUPONGÜNBD(mutabakat, vade, sıklık, [temel])</translation>
     </message>
     <message>
+        <source>Returns the Macauley modified duration for a security with an assumed par value of $100.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
         <translation type="unfinished"/>
     </message>
@@ -25159,6 +25606,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -25227,6 +25678,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -25406,12 +25861,20 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>SERİTARİH(başlangıç_tarihi, ay_sayısı)</translation>
     </message>
     <message>
+        <source>Returns the discount rate for a security.</source>
+        <translation>!Menkul kıymet için indirim oranını döndürür.</translation>
+    </message>
+    <message>
         <source>HEX2DEC(number)</source>
         <translation>HEX2DEC(sayı)</translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
         <translation>Arama ve Başvuru</translation>
+    </message>
+    <message>
+        <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
+        <translation>Başvurunun formül içeren bir hücreye yapılıp yapılmadığını denetler ve DOĞRU ya da YANLIŞ değerini döndürür.</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -25647,20 +26110,12 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Returns the next coupon date after settlement date.</source>
-        <translation>Mutabakat tarihinden sonraki kupon tarihini döndürür.</translation>
-    </message>
-    <message>
         <source>NORM.INV(probability,mean,standard_dev)</source>
         <translation>NORM.TERS(olasılık, ortalama, standart_sapma)</translation>
     </message>
     <message>
         <source>DOLLARFR(decimal_dollar, fraction)</source>
         <translation>LİRAKES(ondalık_para, payda)</translation>
-    </message>
-    <message>
-        <source>Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters.</source>
-        <translation>Belirtilen sayıda işgünü önce veya sonraki bir tarihin seri numarasını özel hafta sonu parametreleriyle verir.</translation>
     </message>
     <message>
         <source>DOLLARDE(fractional_dollar, fraction)</source>
@@ -25673,10 +26128,6 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
         <translation>KUPONSAYI(mutabakat, vade, sıklık, [temel])</translation>
-    </message>
-    <message>
-        <source>Returns the number of days in the coupon period that contains the settlement date.</source>
-        <translation>Mutabakat tarihini içeren kupon dönemindeki gün sayısını döndürür.</translation>
     </message>
     <message>
         <source>XOR(logical1,logical2,...)</source>
@@ -25712,22 +26163,6 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>NORM.DAĞ(x, ortalama, standart_sapma, kümülatif)</translation>
     </message>
     <message>
-        <source>Returns total covariance, the average of the products of deviations for each data point pair.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Returns the number of coupons payable between the settlement date and maturity date.</source>
-        <translation>Mutabakat ve vade tarihleri arasındaki ödenebilir kupon sayısını döndürür.</translation>
-    </message>
-    <message>
-        <source>Returns simple covariance, the average of the products of deviations for each data point pair.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Returns the previous coupon date before the settlement date.</source>
-        <translation>Mutabakat tarihinden önceki kupon tarihini döndürür.</translation>
-    </message>
-    <message>
         <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
         <translation>KUPONGÜNSKT(mutabakat, vade, sıklık, [temel])</translation>
     </message>
@@ -25752,32 +26187,8 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
         <translation>KOVARYANS.P(dizi1, dizi2)</translation>
     </message>
     <message>
-        <source>Calculates variance  based on the entire population(ignores logical values and text in the population).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>NORM.S.DIST(z,cumulative)</source>
         <translation>NORM.S.DAĞ(z, kümülatif)</translation>
-    </message>
-    <message>
-        <source>Returns the Macauley modified duration for a security with an assumed par value of $100.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Returns the discount rate for a security.</source>
-        <translation>!Menkul kıymet için indirim oranını döndürür.</translation>
-    </message>
-    <message>
-        <source>Returns TRUE if the reference is to a cell that contains a formula and FALSE otherwise.</source>
-        <translation>Başvurunun formül içeren bir hücreye yapılıp yapılmadığını denetler ve DOĞRU ya da YANLIŞ değerini döndürür.</translation>
     </message>
     <message>
         <source>AGGREGATE(function_num,options,ref1,[ref2],...)</source>
@@ -25817,6 +26228,12 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Paste</source>
         <translation>Yapıştır</translation>
+    </message>
+    <message>
+        <source>Recently 
+Used</source>
+        <translation>Son 
+Kullanılan</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
@@ -25877,6 +26294,12 @@ Düzenle</translation>
     <message>
         <source>Error Checking</source>
         <translation>Hata Denetimi</translation>
+    </message>
+    <message>
+        <source>Math and
+Trig</source>
+        <translation>Mat ve
+Trig</translation>
     </message>
     <message>
         <source>Function Library</source>
@@ -25948,18 +26371,6 @@ Başvuru</translation>
 Workbook</source>
         <translation>Çalışma Kitabını
 Yeniden Hesapla</translation>
-    </message>
-    <message>
-        <source>Recently 
-Used</source>
-        <translation>Son 
-Kullanılan</translation>
-    </message>
-    <message>
-        <source>Math and
-Trig</source>
-        <translation>Mat ve
-Trig</translation>
     </message>
 </context>
 <context>
@@ -27001,6 +27412,14 @@ Göre Böl</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>JdeControl Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Merge Tables</source>
         <translation>Tabloları Birleştir</translation>
     </message>
@@ -27096,6 +27515,10 @@ Yazdır</translation>
         <translation>Özet Tablo Stili Seçenekleri</translation>
     </message>
     <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Merge workbooks</source>
         <translation>Çalışma kitaplarını birleştir</translation>
     </message>
@@ -27118,6 +27541,10 @@ Yazdır</translation>
     <message>
         <source>ExtendObjectTrigger</source>
         <translation>Kapsam Nesnesini Düzenle</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PivotTable Context Menu</source>
@@ -27176,6 +27603,10 @@ Yazdır</translation>
         <translation>Koruma açık</translation>
     </message>
     <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Microsoft Excel Files</source>
         <translation>Microsoft Excel Dosyaları (*.xlsx)</translation>
     </message>
@@ -27194,6 +27625,10 @@ Yazdır</translation>
     <message>
         <source>Link Preview</source>
         <translation>Paylaşım Bağlantısı Oluştur</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Editing is limited</source>
@@ -27274,6 +27709,10 @@ Dondur</translation>
     </message>
     <message>
         <source>Enable Macro</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -27375,6 +27814,10 @@ Görüntüsü</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Column</source>
         <translation>Sütun</translation>
     </message>
@@ -27419,6 +27862,10 @@ Görüntüsü</translation>
         <translation>Son Dosya Listesi</translation>
     </message>
     <message>
+        <source>Query Enterprise</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>JS Macros</source>
         <translation>JS Makroları</translation>
     </message>
@@ -27433,6 +27880,10 @@ Görüntüsü</translation>
     <message>
         <source>Normal</source>
         <translation>Normal</translation>
+    </message>
+    <message>
+        <source>WPS Skill</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OLE Object</source>
@@ -27454,6 +27905,10 @@ Düzeni</translation>
     <message>
         <source>Task Window</source>
         <translation>Görev Penceresi</translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rename</source>
@@ -27482,6 +27937,10 @@ Düzeni</translation>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
         <translation>Microsoft Excel 97-2003 Şablonları (*.xlt)</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Full Screen</source>
@@ -27513,12 +27972,20 @@ Göre Böl</translation>
         <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Horizontal Text Box</source>
         <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Font Color</source>
         <translation>Yazı Tipi Rengi</translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contents</source>
@@ -27589,12 +28056,20 @@ Göre Böl</translation>
         <translation>Yeni Dosya Menüsü</translation>
     </message>
     <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Hyperlink</source>
         <translation>Köprü</translation>
     </message>
     <message>
         <source>Properties</source>
         <translation>Özellikler</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -27683,6 +28158,10 @@ Göre Böl</translation>
     <message>
         <source>Save a Copy of the Document</source>
         <translation>Belgenin Bir Kopyasını Kaydet</translation>
+    </message>
+    <message>
+        <source>DocerFeature</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name Box</source>
@@ -27833,6 +28312,10 @@ with same name in workbooks</source>
 çalışma sayfalarını birleştir</translation>
     </message>
     <message>
+        <source>Equation Group Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Header Row</source>
         <translation>Üst Bilgi Satırı</translation>
     </message>
@@ -27846,6 +28329,10 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>NewChart UpBar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>setting MB</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -27881,6 +28368,10 @@ Ekran</translation>
     <message>
         <source>Fetch duplicates</source>
         <translation>Yinelenenleri getir</translation>
+    </message>
+    <message>
+        <source>Smart Organize</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -27941,6 +28432,10 @@ Ekran</translation>
     <message>
         <source>Other Formats</source>
         <translation>Diğer Biçimler</translation>
+    </message>
+    <message>
+        <source>To Float Picture</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enterprise Query</source>
@@ -28035,8 +28530,20 @@ Ekran</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Smart Chart Ai</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>DocumentContentStudio</source>
         <translation>Toplu Ayıklama</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -28117,6 +28624,10 @@ Açıklama</translation>
         <translation>Yazım Denetimi</translation>
     </message>
     <message>
+        <source>Equation Array Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PasteAsValues</source>
         <translation>Değer Olarak Yapıştır</translation>
     </message>
@@ -28139,6 +28650,10 @@ Açıklama</translation>
     <message>
         <source>Column Header</source>
         <translation>Sütun Üst Bilgisi</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -30155,6 +30670,10 @@ Aktar</translation>
         <translation>Hesap Bilgileri</translation>
     </message>
     <message>
+        <source>Num2Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Custom task window</source>
         <translation type="unfinished"/>
     </message>
@@ -30167,6 +30686,10 @@ Aktar</translation>
         <translation>Şanslı Para</translation>
     </message>
     <message>
+        <source>EtTools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>InsertDate</source>
         <translation>Tarihi Gir</translation>
     </message>
@@ -30177,6 +30700,10 @@ Aktar</translation>
     <message>
         <source>Backup Center</source>
         <translation>Otomatik Yedekleme</translation>
+    </message>
+    <message>
+        <source>Text2Num</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical Center</source>
@@ -32364,6 +32891,10 @@ Taşı</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>security warning: JS macros and automatic update links have been disabled.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Spreadsheets has turned on Manual Recalculation, in which calculation result will not immediately reflect data change.</source>
         <translation type="unfinished"/>
     </message>
@@ -33520,6 +34051,10 @@ Shape</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Record JS Macro</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Macro &quot;%1&quot; already exists, please change the name.</source>
         <translation type="unfinished"/>
     </message>
@@ -33900,6 +34435,10 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>&amp;From:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -35500,6 +36039,10 @@ Ekle</translation>
         <translation>2.25 nk</translation>
     </message>
     <message>
+        <source>Convert Text in Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rotate Right 90°</source>
         <translation>90° Sağa Döndür</translation>
     </message>
@@ -35581,6 +36124,10 @@ Sıkıştır</translation>
     <message>
         <source>Equal Size</source>
         <translation>Eşit Boyut</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture to PDF</source>
@@ -35678,6 +36225,10 @@ Picture</source>
     <message>
         <source>Picture Outline</source>
         <translation>Resim Anahattı</translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Settings</source>
@@ -36404,6 +36955,10 @@ Filtre</translation>
 Göre Böl</translation>
     </message>
     <message>
+        <source>Split Merge</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Consolidate</source>
         <translation>Birleştir</translation>
     </message>
@@ -36476,6 +37031,12 @@ with same name in workbooks</source>
         <translation>Bağlantılar</translation>
     </message>
     <message>
+        <source>Refresh 
+All</source>
+        <translation>Tümünü 
+Yenile</translation>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation>Grubu Çöz</translation>
     </message>
@@ -36541,12 +37102,6 @@ Yönet</translation>
  Columns</source>
         <translation>Metni Sütunlara 
 Dönüştür</translation>
-    </message>
-    <message>
-        <source>Refresh 
-All</source>
-        <translation>Tümünü 
-Yenile</translation>
     </message>
     <message>
         <source>Highlight duplicates2</source>
@@ -36626,6 +37181,10 @@ Birleştir</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Remove Space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Fill Blank Cells</source>
         <translation type="unfinished"/>
     </message>
@@ -36655,6 +37214,22 @@ Birleştir</translation>
     </message>
     <message>
         <source>Catalog</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Div</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Add</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Sub</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Mul</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -36998,6 +37573,10 @@ Birleştir</translation>
         <translation>Klasör Seç:</translation>
     </message>
     <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart WPS Spreadsheets.</source>
         <translation type="unfinished"/>
     </message>
@@ -37020,6 +37599,10 @@ Birleştir</translation>
     <message>
         <source>The measurement must be between 1 and 32767. Try again by entering a number in this range.</source>
         <translation>Ölçü 1 ile 32767 arasında olmalıdır. Bu aralıkta bir sayı girerek bir daha deneyin.</translation>
+    </message>
+    <message>
+        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -37154,6 +37737,10 @@ Birleştir</translation>
         <translation>Şeridi Özelleştir</translation>
     </message>
     <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;Timing Backup</source>
         <translation>&amp;Zamanlamalı Yedekleme</translation>
     </message>
@@ -37163,10 +37750,6 @@ Birleştir</translation>
     </message>
     <message>
         <source>File Path: WPS CloudFile\Cloud BackUp</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -38925,6 +39508,11 @@ Headers</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Move 
+PivotTable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PivotTable Name:</source>
         <translation>Özet Tablo Adı:</translation>
     </message>
@@ -39009,7 +39597,7 @@ Listesi</translation>
     </message>
     <message>
         <source>Labels And Values</source>
-        <translation type="unfinished"/>
+        <translation>Etiketler ve Değerler</translation>
     </message>
     <message>
         <source>Clear Filters</source>
@@ -39046,7 +39634,7 @@ Buttons</source>
     </message>
     <message>
         <source>Enable Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi Etkinleştir</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -39096,11 +39684,6 @@ Taşı</translation>
     <message>
         <source>Hide All</source>
         <translation>Tümünü Gizle</translation>
-    </message>
-    <message>
-        <source>Move 
-PivotTable</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39512,6 +40095,11 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
         <translation>Formüller</translation>
     </message>
     <message>
+        <source>WPS Spreadsheets cannot find any data to replace.
+Number of values that were not replaced because they are in read-only rich data: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Formats(&amp;C)</source>
         <translation type="unfinished"/>
     </message>
@@ -39546,6 +40134,11 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     <message>
         <source>Font &amp;And Fill Color</source>
         <translation>Yazı Tipi &amp;ve Dolgu Rengi</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has completed its search and has made %1 replacements.
+Number of values that were not replaced because they are in read-only rich data: %2</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>0 cell found</source>
@@ -39628,6 +40221,10 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     <message>
         <source>Font</source>
         <translation>Yazı Tipi</translation>
+    </message>
+    <message>
+        <source>Format Slicer Element</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Border</source>
@@ -40990,6 +41587,10 @@ Kontrol Et</translation>
         <translation>Grafik</translation>
     </message>
     <message>
+        <source>Ds Webshape Export</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ShortWordArt</source>
         <translation>WordArt</translation>
     </message>
@@ -41040,6 +41641,10 @@ Kontrol Et</translation>
     <message>
         <source>Feedback</source>
         <translation>Geri Bildirim</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Edit</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enterprise Query</source>
@@ -41100,6 +41705,14 @@ Kontrol Et</translation>
     <message>
         <source>GroupSending</source>
         <translation>Gruba gönder</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add or view comments in your document.</source>
@@ -41222,7 +41835,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Labels And Values</source>
-        <translation type="unfinished"/>
+        <translation>Etiketler ve Değerler</translation>
     </message>
     <message>
         <source>Solve Order</source>
@@ -41234,7 +41847,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Calculated Fields</source>
-        <translation type="unfinished"/>
+        <translation>Hesaplanan Alanlar</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
@@ -41250,7 +41863,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Enable Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi Etkinleştir</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -41414,6 +42027,12 @@ Görüntüle</translation>
         <translation>Koyu Mod</translation>
     </message>
     <message>
+        <source>Page Break 
+Preview</source>
+        <translation>Sayfa Sonu
+Önizleme</translation>
+    </message>
+    <message>
         <source>Cascade</source>
         <translation>Basamakla</translation>
     </message>
@@ -41486,12 +42105,6 @@ Pencere</translation>
     <message>
         <source>Worksheet Options</source>
         <translation>Çalışma Sayfası Seçenekleri</translation>
-    </message>
-    <message>
-        <source>Page Break 
-Preview</source>
-        <translation>Sayfa Sonu
-Önizleme</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -43020,6 +43633,12 @@ Görünüm</translation>
         <translation>Harmanla</translation>
     </message>
     <message>
+        <source>Page Break
+Preview</source>
+        <translation>Sayfa Sonu
+Önizleme</translation>
+    </message>
+    <message>
         <source>Previous
 Page</source>
         <translation>Önceki 
@@ -43056,12 +43675,6 @@ Sayfa</translation>
     <message>
         <source>More Setup</source>
         <translation>Diğer Ayarlar</translation>
-    </message>
-    <message>
-        <source>Page Break
-Preview</source>
-        <translation>Sayfa Sonu
-Önizleme</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
@@ -43439,6 +44052,12 @@ Boşlukları</translation>
         <translation>Yakınlaştırma Yok</translation>
     </message>
     <message>
+        <source>Print
+Area</source>
+        <translation>Yazdırma
+Alanı</translation>
+    </message>
+    <message>
         <source>Rotate Right 90°</source>
         <translation>90° Sağa Döndür</translation>
     </message>
@@ -43461,6 +44080,10 @@ Boşlukları</translation>
     <message>
         <source>Orientation</source>
         <translation>Yönlendirme</translation>
+    </message>
+    <message>
+        <source>Printing Settings</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Theme</source>
@@ -43578,12 +44201,6 @@ Gönder</translation>
     <message>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
-    </message>
-    <message>
-        <source>Print
-Area</source>
-        <translation>Yazdırma
-Alanı</translation>
     </message>
     <message>
         <source>Breaks</source>
@@ -44567,18 +45184,13 @@ Temizle</translation>
     </message>
 </context>
 <context>
-    <name>KxSlicerSettingDlg</name>
-    <message>
-        <source>Filter control name already in use. Enter a unique name.</source>
-        <translation>Filtre denetimi adı zaten kullanılıyor. Benzersiz bir ad girin.</translation>
-    </message>
-    <message>
-        <source>Filter control name is not valid.</source>
-        <translation>Filtre denetimi adı geçerli değil.</translation>
-    </message>
-</context>
-<context>
     <name>et_et_persist</name>
+    <message>
+        <source>The following features of your workbook are not going to be saved in UOF Spreadsheets:
+
+</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <source>Microsoft Excel 97-2003 Workbook(*.xls)</source>
         <translation>Microsoft Excel 97-2003 Çalışma Kitabı(*.xls)</translation>
@@ -44623,6 +45235,11 @@ Temizle</translation>
     </message>
     <message>
         <source> · VB project
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> · JS project
 </source>
         <translation type="unfinished"/>
     </message>
@@ -44744,6 +45361,11 @@ Temizle</translation>
         <translation>Microsoft Excel Çalışma Kitabı(*.xls; *.xlt)</translation>
     </message>
     <message>
+        <source>
+ Do you continue to save it as UOF Spreadsheets ?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-free workbook, click Yes.</source>
         <translation type="unfinished"/>
@@ -44801,6 +45423,10 @@ To continue saving as a macro-free workbook, click Yes.</source>
 </source>
         <translation> · Açıklama
 </translation>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Spreadsheets Files(*.pxls)|*.pxls</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The author would like you to open &quot;%s&quot; as read-only unless you need to make changes. Open as read-only?</source>
@@ -44871,6 +45497,10 @@ To continue saving as a macro-free workbook, click Yes.</source>
     <message>
         <source>WPS Online Security Document Format(*.xls)|*.xls</source>
         <translation>WPS Çevrimiçi Güvenlik Belge Biçimi(*.xls)|*.xls</translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Spreadsheets Files(*.hxls)|*.hxls</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Query Files(*.iqy)</source>
@@ -45026,6 +45656,17 @@ This backup will be saved to (%s)</source>
     <message>
         <source>WPS Spreadsheets has detected that &apos;%1&apos; is a SYLK file, but cannot load it. Either the file has errors or it is not a SYLK file format. Click OK to try to open the file in a differenct format.</source>
         <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxSlicerSettingDlg</name>
+    <message>
+        <source>Filter control name already in use. Enter a unique name.</source>
+        <translation>Filtre denetimi adı zaten kullanılıyor. Benzersiz bir ad girin.</translation>
+    </message>
+    <message>
+        <source>Filter control name is not valid.</source>
+        <translation>Filtre denetimi adı geçerli değil.</translation>
     </message>
 </context>
 <context>
@@ -46441,6 +47082,10 @@ p, li { white-space: pre-wrap; }
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
+    <message>
+        <source>You can choose from three different ways to connect to your chosen data source.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PreviewPage</name>
@@ -46811,6 +47456,18 @@ Değer: </translation>
     <message>
         <source>Cancel</source>
         <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
@@ -48797,6 +49454,22 @@ Result</source>
     </message>
 </context>
 <context>
+    <name>KxSelectODBCDSN</name>
+    <message>
+        <source>%1)
+SQL State: %2
+Error: %3
+%4
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Connection error:
+</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxAddInsDlg</name>
     <message>
         <source>does not contain a new Automation Server.</source>
@@ -49040,17 +49713,17 @@ Kontrol Et</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Repeat All 
 Item Labels</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Report Layout</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Do Not 
-Repeat Item Labels</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -49308,6 +49981,10 @@ Repeat Item Labels</source>
         <translation>Belge İzni</translation>
     </message>
     <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Password to protect pe&amp;rmission settings</source>
         <translation>İzin ayarlarını korumak için &amp;parola</translation>
     </message>
@@ -49459,11 +50136,23 @@ Repeat Item Labels</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>volume traded, high price, low price, closing price. </source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>To create a combination chart, select at least two series of data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -50405,6 +51094,25 @@ Summary</source>
     </message>
 </context>
 <context>
+    <name>KxBackupSettingTipWidgetBase</name>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgSlicerSetting</name>
     <message>
         <source>Use Custo&amp;m Lists when sorting</source>
@@ -50712,6 +51420,14 @@ Do you want to change to Manual?</source>
     </message>
 </context>
 <context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxInsertFieldItemDlg</name>
     <message>
         <source>Insert Calculated Item In &quot;%1&quot;</source>
@@ -50810,6 +51526,10 @@ Do you want to change to Manual?</source>
     <message>
         <source>Equation Symbols</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Accent</source>
+        <translation>Vurgu</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -50918,14 +51638,6 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>The name that you entered is not valid.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxSelectODBCDSN</name>
-    <message>
-        <source>Connection error:
-</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -51113,6 +51825,21 @@ Do you want to change to Manual?</source>
     </message>
 </context>
 <context>
+    <name>KxSLVertCustomValSettingDlg</name>
+    <message>
+        <source>Sparkline Vertical Axis Setting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter the minimum value for the vertical axis</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter the maximum value for the vertical axis</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxChangeRangePasswordDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
@@ -51230,6 +51957,21 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
         <translation>Tüm Grafikler</translation>
     </message>
     <message>
+        <source>The model Loaded fail...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>There is no recommend chart according to your selection range, may be:
+
+There is no number as well as the text cannot be summaried.
+Data cross different sheets.
+Contain large ammount of cells.
+Include defined names.
+
+Alternativly, you can click the left-side pane if you want to switch to other chart type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The model is Loading...</source>
         <translation>Model Yükleniyor...</translation>
     </message>
@@ -51331,6 +52073,14 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     </message>
     <message>
         <source>font color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Filter Conditions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cell back ground color</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -51437,7 +52187,23 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Whole line comparison</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please choose sheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Alignment Type:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Add File</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Same cell comparison</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -51455,6 +52221,17 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     <message>
         <source>New Worksheet</source>
         <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxDlgSLCustomLineWeight</name>
+    <message>
+        <source>&amp;Enter the sparkline weight</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dialog</source>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
@@ -51707,6 +52484,14 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The specified path does not exist, enter a valid one please.</source>
         <translation type="unfinished"/>
     </message>
@@ -51762,13 +52547,6 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     </message>
     <message>
         <source>&amp;After current sheet</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxBackupSettingTipWidgetBase</name>
-    <message>
-        <source>What is Auto Roaming</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -52136,6 +52914,17 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxSLEditDateDlg</name>
+    <message>
+        <source>Select the range that contains the data values for the Sparkline data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sparkline Date Range</source>
+        <translation>Mini Grafik Tarih Aralığı</translation>
+    </message>
+</context>
+<context>
     <name>KxEtFormatProperty_SizePro</name>
     <message>
         <source>POSITION AND LAYOUT</source>
@@ -52175,6 +52964,17 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The cell currently being evaluated contains a constant.</source>
         <translation>Şu anda değerlendirilen hücre bir sabit içeriyor.</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSLEditSingle</name>
+    <message>
+        <source>Select a source &amp;data range for the sparkline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dialog</source>
+        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
@@ -52326,7 +53126,15 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <translation>Değiştir</translation>
     </message>
     <message>
+        <source>Assign %1 Macro</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Open Workbooks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 &amp;Macro name</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -52444,20 +53252,6 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Automatic</source>
         <translation>Otomatik</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgSLCustomLineWeight</name>
-    <message>
-        <source>Dialog</source>
-        <translation>İletişim Kutusu</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgSLEditSingle</name>
-    <message>
-        <source>Dialog</source>
-        <translation>İletişim Kutusu</translation>
     </message>
 </context>
 <context>
@@ -52778,13 +53572,6 @@ Please unfreeze pane.</source>
     </message>
 </context>
 <context>
-    <name>KxSLEditDateDlg</name>
-    <message>
-        <source>Sparkline Date Range</source>
-        <translation>Mini Grafik Tarih Aralığı</translation>
-    </message>
-</context>
-<context>
     <name>KxBackgroundQueryMonitorUI</name>
     <message>
         <source>Status</source>
@@ -52854,17 +53641,6 @@ Please unfreeze pane.</source>
     <name>KxSLHiddenEmptyCellSettingDlg</name>
     <message>
         <source>Hidden And Empty Cell Settings</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxSLVertCustomValSettingDlg</name>
-    <message>
-        <source>Enter the minimum value for the vertical axis</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enter the maximum value for the vertical axis</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -53483,6 +54259,13 @@ Note that data links can be used to access and share confidential information wi
     </message>
 </context>
 <context>
+    <name>KxSLEditSingleDlg</name>
+    <message>
+        <source>Edit Sparkline Data</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPivotSortDlg</name>
     <message>
         <source>Sort (%1)</source>
@@ -53880,6 +54663,13 @@ Düzenle</translation>
     <message>
         <source>Formula Bar</source>
         <translation>Formül Çubuğu</translation>
+    </message>
+</context>
+<context>
+    <name>KxSLCustomLineWeightDlg</name>
+    <message>
+        <source>Sparkline Weight</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
