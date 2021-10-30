@@ -19891,7 +19891,7 @@ Gösterileri</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bir &amp;klasör seçin:</translation>
     </message>
     <message>
         <source>Auto&amp;Backup file location:</source>
