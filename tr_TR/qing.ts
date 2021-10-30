@@ -578,7 +578,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>B1 (707 x 1000 mm)</source>
@@ -3415,7 +3415,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>İbranice</translation>
     </message>
     <message>
         <source>Myanmar</source>
@@ -7441,7 +7441,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Upgrade Vip</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
     <message>
         <source>Come from %1</source>
@@ -7873,7 +7873,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>Proxy Setting</source>
@@ -10733,7 +10733,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>VIP&apos;i Yükseltin</translation>
     </message>
 </context>
 <context>
@@ -11067,7 +11067,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -11082,7 +11082,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>TextLabel</source>
