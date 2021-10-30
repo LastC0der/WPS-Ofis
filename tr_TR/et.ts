@@ -29427,7 +29427,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>İbranice</translation>
     </message>
     <message>
         <source>Korean</source>
@@ -32301,15 +32301,15 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"/>
+        <translation>Orta</translation>
     </message>
     <message>
         <source>Left Middle</source>
-        <translation type="unfinished"/>
+        <translation>Sol Orta</translation>
     </message>
     <message>
         <source>Center Middle</source>
-        <translation type="unfinished"/>
+        <translation>Merkez Orta</translation>
     </message>
     <message>
         <source>Top Centered</source>
@@ -32865,7 +32865,7 @@ Taşı</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>The current html file is large, and direct opening may fail. </source>
@@ -44638,7 +44638,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>custom</source>
-        <translation type="unfinished"/>
+        <translation>özel</translation>
     </message>
     <message>
         <source>medium</source>
