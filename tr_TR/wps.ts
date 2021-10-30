@@ -4329,7 +4329,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>Insert an AutoText entry</source>
@@ -10463,7 +10463,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"/>
+        <translation>Orta</translation>
     </message>
     <message>
         <source>T&amp;ext margin:</source>
@@ -19829,11 +19829,11 @@ Changes</source>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Araçları</translation>
     </message>
     <message>
         <source>Quick Retrieve</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Al</translation>
     </message>
     <message>
         <source>member Center</source>
@@ -24836,7 +24836,7 @@ Böl</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
 </context>
 <context>
@@ -26462,7 +26462,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Right Middle</source>
-        <translation type="unfinished"/>
+        <translation>Sağ Orta</translation>
     </message>
     <message>
         <source>Middle Centered</source>
@@ -26478,15 +26478,15 @@ Numarası</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"/>
+        <translation>Orta</translation>
     </message>
     <message>
         <source>Left Middle</source>
-        <translation type="unfinished"/>
+        <translation>Sol Orta</translation>
     </message>
     <message>
         <source>Center Middle</source>
-        <translation type="unfinished"/>
+        <translation>Merkez Orta</translation>
     </message>
     <message>
         <source>Top Centered</source>
@@ -33104,7 +33104,7 @@ Support title, content</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>TypeFilter:</source>
@@ -33852,7 +33852,7 @@ Number</source>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Araçları</translation>
     </message>
     <message>
         <source>Add-Ins</source>
@@ -34106,7 +34106,7 @@ Number</source>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"/>
+        <translation>Orta</translation>
     </message>
     <message>
         <source>Applied to the entire document</source>
@@ -36543,7 +36543,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Quit Full Screen</source>
-        <translation>Tam Ekrandan Çık</translation>
+        <translation>Tam Ekranı Kapat</translation>
     </message>
     <message>
         <source>Zoom Out</source>
