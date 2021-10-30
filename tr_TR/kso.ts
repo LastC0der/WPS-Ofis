@@ -9890,7 +9890,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>B1 (707 x 1000 mm)</source>
@@ -14321,7 +14321,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>More AutoShapes</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Otomatik Şekil</translation>
     </message>
     <message>
         <source>Format WordArt</source>
@@ -15662,7 +15662,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>Do&amp;cument</source>
@@ -16689,7 +16689,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Apply Id:</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama Kimliği:</translation>
     </message>
     <message>
         <source>File Name:</source>
@@ -16768,7 +16768,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Apply Id:</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama Kimliği:</translation>
     </message>
     <message>
         <source>Approved</source>
@@ -19084,7 +19084,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>İbranice</translation>
     </message>
     <message>
         <source>Myanmar</source>
@@ -23122,7 +23122,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Right Middle</source>
-        <translation type="unfinished"/>
+        <translation>Sağ Orta</translation>
     </message>
     <message>
         <source>Middle Centered</source>
@@ -23138,15 +23138,15 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"/>
+        <translation>Orta</translation>
     </message>
     <message>
         <source>Left Middle</source>
-        <translation type="unfinished"/>
+        <translation>Sol Orta</translation>
     </message>
     <message>
         <source>Center Middle</source>
-        <translation type="unfinished"/>
+        <translation>Merkez Orta</translation>
     </message>
     <message>
         <source>Top Centered</source>
@@ -23169,7 +23169,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>T&amp;op:</source>
-        <translation type="unfinished"/>
+        <translation>Üs&amp;t:</translation>
     </message>
     <message>
         <source>Bottom centered</source>
@@ -23197,7 +23197,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="unfinished"/>
+        <translation>Orta</translation>
     </message>
     <message>
         <source>Resize autoshape to fit &amp;text</source>
@@ -27474,7 +27474,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Clear Invalid File</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz dosyaların kayıtlarını temizle</translation>
     </message>
 </context>
 <context>
@@ -32113,7 +32113,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Disable Title Switching in Task Window</source>
-        <translation type="unfinished"/>
+        <translation>Görev Penceresinde Başlık Değiştirmeyi Devre Dışı Bırak</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -33368,7 +33368,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>The current package %1 does not support macro. Please contact the super administrator %2 to upgrade the packagefor obtaining the installation permission of VBA.</source>
@@ -34877,7 +34877,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Apply Id:</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama Kimliği:</translation>
     </message>
     <message>
         <source>No protect</source>
@@ -35351,7 +35351,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Apply id:</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama Kimliği:</translation>
     </message>
     <message>
         <source>Passowrd:</source>
@@ -36091,7 +36091,7 @@ Please check network</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>Add Trendline</source>
@@ -36354,7 +36354,7 @@ Please check network</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>You can import a clip art only when the category is custom</source>
@@ -38529,7 +38529,7 @@ you can use the login!</source>
     </message>
     <message>
         <source>pushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
 </context>
 <context>
