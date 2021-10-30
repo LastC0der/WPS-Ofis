@@ -787,7 +787,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>B1 (707 x 1000 mm)</source>
@@ -2734,7 +2734,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>İbranice</translation>
     </message>
     <message>
         <source>Myanmar</source>
