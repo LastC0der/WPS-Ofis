@@ -1224,11 +1224,11 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Fix &amp;interval</source>
-        <translation type="unfinished"/>
+        <translation>Zamanlanmış Yedekleme Aralığı (&amp;I)</translation>
     </message>
     <message>
         <source>Enable Bl&amp;ue background</source>
-        <translation type="unfinished"/>
+        <translation>Mavi Üzerine Beyaz Metin (&amp;U)</translation>
     </message>
     <message>
         <source>Microsoft Excel Workbook (*.xlsx)</source>
@@ -1560,7 +1560,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Folder:</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme Konumu:</translation>
     </message>
     <message>
         <source>Error &amp;indicator color:</source>
@@ -1985,7 +1985,7 @@ Akıllı Doldurma işlemini gerçekleştirmeden önce bazı örnek veriler girme
     </message>
     <message>
         <source>Formulas or rich data types in the header row will be removed and converted to static text. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Üst bilgi satırındaki formüller veya zengin veri türleri kaldırılacak ve statik metne dönüştürülecek. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>(ALL)</source>
@@ -2224,7 +2224,7 @@ Bunun birçok nedeni olabilir:
     </message>
     <message>
         <source>Cannot insert data because there&apos;s a merged cell in the way.</source>
-        <translation type="unfinished"/>
+        <translation>Birleştirilmiş hücre tarafından engellendiğinden veriler eklenemiyor.</translation>
     </message>
     <message>
         <source>PivotTable %s  had some incorrect data,it had been deleted</source>
@@ -37590,7 +37590,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bir &amp;klasör seçin:</translation>
     </message>
     <message>
         <source>Auto&amp;Backup file location:</source>
