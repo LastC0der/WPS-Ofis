@@ -893,7 +893,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>File encryption options for this document</source>
@@ -2560,7 +2560,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>Notes Pages (1 slide per page)</source>
@@ -18276,19 +18276,19 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Araçları</translation>
     </message>
     <message>
         <source>Special Feature</source>
-        <translation type="unfinished"/>
+        <translation>Özel Özellik</translation>
     </message>
     <message>
         <source>Quick Retrieve</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Al</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişim Menüsü</translation>
     </message>
     <message>
         <source>member Center</source>
@@ -21720,7 +21720,7 @@ Aracı</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Araçları</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -21728,7 +21728,7 @@ Aracı</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişim Menüsü</translation>
     </message>
     <message>
         <source>Add-Ins</source>
