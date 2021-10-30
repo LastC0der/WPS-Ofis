@@ -13857,7 +13857,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Official Font Name</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -16652,7 +16652,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Matrix Spacing...</source>
-        <translation type="unfinished"/>
+        <translation>Matris Aralığı...</translation>
     </message>
     <message>
         <source>Restrict Permission by People</source>
@@ -33513,7 +33513,7 @@ Number</source>
     </message>
     <message>
         <source>Bottom Line Script(Single Angency)</source>
-        <translation type="unfinished"/>
+        <translation>Azalan Makale (Tek Kurumlu)</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -43304,7 +43304,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>&amp;Bulleted</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Madde İşaretli</translation>
     </message>
     <message>
         <source>&amp;Numbered</source>
@@ -46983,7 +46983,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Screen: %1</source>
-        <translation type="unfinished"/>
+        <translation>Ekran: %1</translation>
     </message>
 </context>
 <context>
