@@ -516,7 +516,7 @@
     </message>
     <message>
         <source>PageRange</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa aralığı:</translation>
     </message>
     <message>
         <source>ThereAre</source>
@@ -563,7 +563,7 @@
     </message>
     <message>
         <source>PageRange</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa aralığı:</translation>
     </message>
     <message>
         <source>PageRange Error!</source>
@@ -814,7 +814,7 @@
     </message>
     <message>
         <source>Speed of Wheel</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma Hızı</translation>
     </message>
     <message>
         <source>Default CursorType</source>
@@ -1242,7 +1242,7 @@
     </message>
     <message>
         <source>The current file is not saved, save it and then operate it?</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli dosya kaydedilmedi. Bu işlemden önce kaydetmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>All Pictures(*.jpg;*.jpeg;*.jpe;*.png;*.bmp)|*.jpg;*.jpeg;*.jpe;*.png;*.bmp</source>
@@ -1250,11 +1250,11 @@
     </message>
     <message>
         <source>The current document needs to be saved to use eraser.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli belgenin silinmeden önce kaydedilmesi gerekir.</translation>
     </message>
     <message>
         <source>The current document need to be saved before splitpage.</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları bölmeden önce mevcut belgeyi kaydedin.</translation>
     </message>
     <message>
         <source>Continue Find</source>
@@ -1464,7 +1464,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>return clip current page</source>
-        <translation type="unfinished"/>
+        <translation>Kırpma alanını döndür</translation>
     </message>
     <message>
         <source>You have selected too many insertion points(&gt;50). Please batches operations</source>
@@ -1609,7 +1609,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>custom</source>
-        <translation type="unfinished"/>
+        <translation>özel</translation>
     </message>
     <message>
         <source>Type3 fonts are not supported for editing text.</source>
@@ -2206,7 +2206,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>custom</source>
-        <translation type="unfinished"/>
+        <translation>özel</translation>
     </message>
     <message>
         <source>centimeter</source>
@@ -2742,7 +2742,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Document And Notes</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler ve Notlar</translation>
     </message>
     <message>
         <source>page direction:</source>
@@ -2907,7 +2907,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Try checking print on both sides,convenient and quick</source>
-        <translation type="unfinished"/>
+        <translation>&quot;İki Yüze de Yazdır&quot;ı seçmeyi deneyin, hızlı ve kullanışlıdır</translation>
     </message>
     <message>
         <source>AddNumber tip</source>
@@ -3689,7 +3689,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
 </context>
 <context>
@@ -3816,7 +3816,7 @@ Inserted pages must delete by yourself.</source>
     </message>
     <message>
         <source>Insert Direction:</source>
-        <translation type="unfinished"/>
+        <translation>Yön Ekle:</translation>
     </message>
     <message>
         <source>Odd pages In range</source>
@@ -4166,7 +4166,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4212,7 +4212,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -4231,7 +4231,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
 </context>
 <context>
@@ -4292,7 +4292,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4311,7 +4311,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Parola</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4362,7 +4362,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar Sözcükler:</translation>
     </message>
     <message>
         <source>OfflinePermission:</source>
@@ -4580,7 +4580,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -4798,7 +4798,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>Preview of black and white</source>
@@ -4857,7 +4857,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>custom</source>
-        <translation type="unfinished"/>
+        <translation>özel</translation>
     </message>
     <message>
         <source>ApplyTo</source>
@@ -4877,7 +4877,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>PageRange</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa aralığı:</translation>
     </message>
     <message>
         <source>Input 1,3 page 1 and 3
@@ -4901,7 +4901,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -4970,7 +4970,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -5325,7 +5325,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Folder delete will cause excerpt delete, please be attention</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen klasör silme işleminin alıntıları da sileceğini unutmayın</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -5761,7 +5761,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Auto Wheel</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Kaydırma</translation>
     </message>
     <message>
         <source>OpenAttachment</source>
@@ -5773,11 +5773,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Yakınlaştır</translation>
+        <translation>Uzaklaştır</translation>
     </message>
     <message>
         <source>ZoomOut</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>SignatureProperty</source>
@@ -6265,7 +6265,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Uzaklaştır</translation>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>BookMark</source>
@@ -6569,7 +6569,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin ekle</translation>
     </message>
     <message>
         <source>RightMenuPdf2PPT</source>
@@ -6917,7 +6917,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>View Mode</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm Modu</translation>
     </message>
     <message>
         <source>InsertText</source>
@@ -6933,11 +6933,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>GraffitiEraserPartType</source>
-        <translation type="unfinished"/>
+        <translation>Bölüm</translation>
     </message>
     <message>
         <source>BatchDelete</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Olarak Sil</translation>
     </message>
     <message>
         <source>NextPage</source>
@@ -7472,7 +7472,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı</translation>
     </message>
     <message>
         <source>value</source>
@@ -7807,7 +7807,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Quick Retrieve</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Al</translation>
     </message>
     <message>
         <source>UpdateBackGround</source>
@@ -7815,7 +7815,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişim Menüsü</translation>
     </message>
     <message>
         <source>member Center</source>
@@ -7847,7 +7847,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Üye Yükseltme</translation>
     </message>
     <message>
         <source>Tab_Protect</source>
@@ -8542,7 +8542,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Edit Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Düzenle</translation>
     </message>
     <message>
         <source>EditImage</source>
@@ -8682,7 +8682,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Next option</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki öğe</translation>
     </message>
     <message>
         <source>Input searching content</source>
@@ -8877,7 +8877,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>clicked login</source>
-        <translation type="unfinished"/>
+        <translation>Giriş yapmak için tıklayın</translation>
     </message>
 </context>
 <context>
@@ -8993,7 +8993,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>ReplacePageCancelBtn</source>
@@ -9069,7 +9069,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>fixedFile</source>
-        <translation type="unfinished"/>
+        <translation>Listeye düzelt</translation>
     </message>
     <message>
         <source>unfixedFile</source>
@@ -9077,7 +9077,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Clear Invalid File</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz dosyaların kayıtlarını temizle</translation>
     </message>
 </context>
 <context>
@@ -9102,7 +9102,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Edit Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Düzenle</translation>
     </message>
     <message>
         <source>Edit Tool</source>
@@ -9975,7 +9975,7 @@ Eklentileri</translation>
     <name>KPdfMessageBox</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -9992,7 +9992,7 @@ Eklentileri</translation>
     <name>KxPdfGuideUpVipDialogUi</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -10000,21 +10000,21 @@ Eklentileri</translation>
     </message>
     <message>
         <source>upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
 </context>
 <context>
     <name>KxPdfInputWatermarkSettingsNameDialog</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
 </context>
 <context>
     <name>KxPdfMessageBoxDialogWidget</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Message</source>
@@ -10025,7 +10025,7 @@ Eklentileri</translation>
     <name>KxPdfMessageDialog</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>The document could not be saved. %1</source>
@@ -10040,7 +10040,7 @@ Eklentileri</translation>
     <name>KxPdfOrgPageLoginDialogUi</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Login</source>
@@ -10052,11 +10052,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri At</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>Move page is WPS membership function,Do you 
@@ -10068,7 +10068,7 @@ log in to save changes?</source>
     <name>KxPdfOrgPageUpVipDialogUi</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Move page is WPS membership function,will you 
@@ -10081,7 +10081,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri At</translation>
     </message>
     <message>
         <source>Upgrade VIP</source>
@@ -10089,7 +10089,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
 </context>
 <context>
@@ -10154,14 +10154,14 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
 </context>
 <context>
     <name>KxPdfPromptLoginDialog</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Login</source>
@@ -10275,7 +10275,7 @@ upgrade to WPS VIP?</source>
     <name>KxPdfScanFileSelectDialog</name>
     <message>
         <source>Hint</source>
-        <translation>İpucu</translation>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>ConvertToword</source>
@@ -10294,7 +10294,7 @@ upgrade to WPS VIP?</source>
     <name>KxPdfSignPromptDialog</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>btnOk</source>
@@ -10528,7 +10528,7 @@ and then use the page extraction function, there is no need to manually enter th
     </message>
     <message>
         <source>PageRange</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa aralığı:</translation>
     </message>
     <message>
         <source>PageToPDF</source>
@@ -10705,7 +10705,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Highlight Area</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu Alanı</translation>
     </message>
     <message>
         <source>Highlighter</source>
@@ -11254,7 +11254,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Edit Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Düzenle</translation>
     </message>
     <message>
         <source>Edit Tool</source>
@@ -11351,7 +11351,7 @@ Pencere</translation>
     </message>
     <message>
         <source>custom</source>
-        <translation type="unfinished"/>
+        <translation>özel</translation>
     </message>
     <message>
         <source>square</source>
@@ -11580,7 +11580,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>split print</source>
@@ -11911,7 +11911,7 @@ Pencere</translation>
     </message>
     <message>
         <source>ZoomOut</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -12090,7 +12090,7 @@ Pencere</translation>
     <name>KxPdfTemplatesPrintDialog</name>
     <message>
         <source>choose paper(A4)</source>
-        <translation type="unfinished"/>
+        <translation>Kağıt Seç (A4)</translation>
     </message>
     <message>
         <source>print</source>
@@ -12831,7 +12831,7 @@ Pencere</translation>
     </message>
     <message>
         <source>ZoomOut</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>PreviousPage</source>
@@ -12858,7 +12858,7 @@ Pencere</translation>
     <name>KPdfTaskCommonButton</name>
     <message>
         <source>The current file is not saved, save it and then operate it?</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli dosya kaydedilmedi. Bu işlemden önce kaydetmek istiyor musunuz?</translation>
     </message>
 </context>
 <context>
@@ -12896,7 +12896,7 @@ Pencere</translation>
     </message>
     <message>
         <source>I don&apos;t like the Highlight, because...</source>
-        <translation type="unfinished"/>
+        <translation>Vurgulamayı sevmiyorum, çünkü...</translation>
     </message>
     <message>
         <source>FeedBack</source>
@@ -13420,7 +13420,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Quit Full Screen</source>
-        <translation>Tam Ekrandan Çık</translation>
+        <translation>Tam Ekranı Kapat</translation>
     </message>
     <message>
         <source>Quit Full Screen(Esc)</source>
@@ -13527,7 +13527,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -13910,7 +13910,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -13984,7 +13984,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel filigran</translation>
     </message>
 </context>
 <context>
@@ -14065,7 +14065,7 @@ Deleted pages can not be recovered</source>
     <name>KPdfOpenUnsignedCopyCommand</name>
     <message>
         <source>Is Openning copy</source>
-        <translation type="unfinished"/>
+        <translation>Açılış Kopyası</translation>
     </message>
 </context>
 <context>
@@ -14143,7 +14143,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Select Kingsoft PDF As Default PDF Handler</source>
@@ -14359,7 +14359,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -14492,7 +14492,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"/>
+        <translation>Basma Düğmesi</translation>
     </message>
     <message>
         <source>You can Free Experience</source>
@@ -14847,7 +14847,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
     <message>
         <source>click for update</source>
@@ -15660,7 +15660,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>Document And Notes</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler ve Notlar</translation>
     </message>
     <message>
         <source>i got it</source>
@@ -15822,7 +15822,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Try checking print on both sides,convenient and quick</source>
-        <translation type="unfinished"/>
+        <translation>&quot;İki Yüze de Yazdır&quot;ı seçmeyi deneyin, hızlı ve kullanışlıdır</translation>
     </message>
     <message>
         <source>上：</source>
@@ -15876,7 +15876,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -15930,7 +15930,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>PageRange</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Aralığı:</translation>
     </message>
 </context>
 <context>
@@ -15971,7 +15971,7 @@ For example, 1,3,5-12.</source>
     <name>KxPdfDeleteWaterMarkWarningDialogWidget</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Text</source>
@@ -15987,7 +15987,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
 </context>
 <context>
