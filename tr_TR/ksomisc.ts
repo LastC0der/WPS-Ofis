@@ -441,15 +441,15 @@
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
-        <translation>&amp;Microsoft Office 2003 ile uyumlu</translation>
+        <translation>&amp;Microsoft Ofis 2003 ile uyumlu</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2007</source>
-        <translation>&amp;Microsoft Office 2007 ile uyumlu</translation>
+        <translation>&amp;Microsoft Ofis 2007 ile uyumlu</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2010</source>
-        <translation>&amp;Microsoft Office 2010 ile uyumlu</translation>
+        <translation>&amp;Microsoft Ofis 2010 ile uyumlu</translation>
     </message>
     <message>
         <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
@@ -1865,7 +1865,7 @@ Please use administrator account to relaunch &quot;Configuration Tools&quot;.</s
     <message>
         <source>WPS Office offers multiple sets of interface schemes with different themes.
 The button icon, command group and task window position of each scheme are different. If you want a novel interface, you can choose the Modern Theme (WPS Office 2012 theme and WPS Office 2013 theme); if you are used to Office product, you can choose the Classic Theme.</source>
-        <translation>WPS Office, farklı temalara sahip birden çok arayüz şeması seti sunar.
+        <translation>WPS Ofis, farklı temalara sahip birden çok arayüz şeması seti sunar.
 Her şemanın düğme simgesi, komut grubu ve görev penceresi konumu farklıdır. Yeni bir arayüz istiyorsanız Modern Temayı (WPS Ofis 2012 teması ve WPS Ofis 2013 teması) seçebilirsiniz; Ofis ürününe alışkınsanız Klasik Temayı seçebilirsiniz.</translation>
     </message>
     <message>
