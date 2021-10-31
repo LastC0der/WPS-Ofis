@@ -26465,7 +26465,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
-        <translation>Yenilik·Araştırma·Müşteri·Sonuç·Samimiyet WPS Office 2010</translation>
+        <translation>Yenilik·Araştırma·Müşteri·Sonuç·Samimiyet WPS Ofis 2010</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
