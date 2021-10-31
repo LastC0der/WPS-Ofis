@@ -8897,7 +8897,7 @@ This file may be renamed, deleted or moved.</source>
     <message>
         <source>Copyright © 1988-2020 Kingsoft Office Corporation.
 All Rights Reserved.</source>
-        <translation>Telif Hakkı © 1988-2020 Kingsoft Office Corporation.
+        <translation>Telif Hakkı © 1988-2020 Kingsoft Ofis Şirketi.
 Tüm Hakları Saklıdır.</translation>
     </message>
     <message>
@@ -9205,7 +9205,7 @@ Swiftly create a blank tab of the same type with Ctrl+N</source>
     <name>KxDlgTrialReminder</name>
     <message>
         <source>WPS Office Trial Reminder</source>
-        <translation>WPS Office Deneme Sürümü Hatırlatıcısı</translation>
+        <translation>WPS Ofis Deneme Sürümü Hatırlatıcısı</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;To buy the WPS office, can continue to normal use after the probation period&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -9559,7 +9559,7 @@ p, li { white-space: pre-wrap; }
     <name>KStartupPollingWindow</name>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis</translation>
     </message>
     <message>
         <source>All-in-One Office Suite with PDF Editor</source>
