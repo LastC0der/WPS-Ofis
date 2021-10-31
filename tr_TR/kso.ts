@@ -38566,7 +38566,7 @@ you can use the login!</source>
     <name>KxDlgTrialReminder</name>
     <message>
         <source>WPS Office Trial Reminder</source>
-        <translation>WPS Office Deneme Sürümü Hatırlatıcısı</translation>
+        <translation>WPS Ofis Deneme Sürümü Hatırlatıcısı</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;To buy the WPS office, can continue to normal use after the probation period&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
