@@ -730,7 +730,7 @@
     </message>
     <message>
         <source>Multi Progress Tips</source>
-        <translation type="unfinished"/>
+        <translation>Çoklu İlerleme İpuçları</translation>
     </message>
     <message>
         <source>Enable Association Protection</source>
@@ -1403,7 +1403,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>kilometre</source>
-        <translation type="unfinished"/>
+        <translation>km</translation>
     </message>
     <message>
         <source>Continue Convert</source>
@@ -3765,7 +3765,7 @@ Inserted pages must delete by yourself.</source>
     </message>
     <message>
         <source>Please select insert file.</source>
-        <translation type="unfinished"/>
+        <translation>Eklenecek dosyayı seçin.</translation>
     </message>
     <message>
         <source>Select Scaner</source>
@@ -4940,7 +4940,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Make sure to permanently delete the existing watermark</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut filigranı kalıcı olarak silmek için onaylansın mı?</translation>
     </message>
 </context>
 <context>
@@ -5701,7 +5701,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>EditImage</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Düzenle</translation>
     </message>
     <message>
         <source>EditLayer</source>
@@ -6425,7 +6425,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Copy Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Kopyala</translation>
     </message>
     <message>
         <source>Image Rotate Right</source>
@@ -6749,7 +6749,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>addimage</source>
-        <translation type="unfinished"/>
+        <translation>Resim Ekle</translation>
     </message>
     <message>
         <source>MoveToPrev</source>
@@ -6865,7 +6865,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>UnFoldAllNote</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Notları Aç</translation>
     </message>
     <message>
         <source>BorderColor</source>
@@ -7113,7 +7113,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PdfEraserMenu</source>
-        <translation type="unfinished"/>
+        <translation>Silgi</translation>
     </message>
     <message>
         <source>Close All Comment</source>
@@ -8546,7 +8546,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>EditImage</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Düzenle</translation>
     </message>
     <message>
         <source>I have a suggestion</source>
@@ -8566,7 +8566,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>AddImage</source>
-        <translation type="unfinished"/>
+        <translation>Resim Ekle</translation>
     </message>
     <message>
         <source>Edit PDF</source>
@@ -9386,7 +9386,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>EditImage</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Düzenle</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -11343,7 +11343,7 @@ Pencere</translation>
     </message>
     <message>
         <source>kilometre</source>
-        <translation type="unfinished"/>
+        <translation>km</translation>
     </message>
     <message>
         <source>angle:%1</source>
@@ -13221,7 +13221,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>UnFoldAllNote</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Notları Aç</translation>
     </message>
     <message>
         <source>DeleteNote</source>
@@ -13807,7 +13807,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>New messages</source>
-        <translation type="unfinished"/>
+        <translation>Yeni mesajlar</translation>
     </message>
 </context>
 <context>
@@ -14540,7 +14540,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>确定</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
