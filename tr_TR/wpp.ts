@@ -817,7 +817,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"/>
+        <translation>Büyük &amp;harf ile yazılmış sözcükleri yoksay</translation>
     </message>
     <message>
         <source>Initia&amp;ls:</source>
@@ -3401,7 +3401,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
     <message>
         <source>Whip</source>
@@ -3669,7 +3669,7 @@ Are you sure you want to save it in this format ?</source>
     <message>
         <source>Wave</source>
         <comment>wpp_sAnimEffectWave</comment>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
     <message>
         <source>Invalid Input.</source>
@@ -11895,7 +11895,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -13474,7 +13474,7 @@ Template</source>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation type="unfinished"/>
+        <translation>Suluboya Fırçası</translation>
     </message>
     <message>
         <source>Left Tab</source>
@@ -21424,7 +21424,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Screen Recording</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Kaydedici</translation>
     </message>
     <message>
         <source>PDF To Excel</source>
@@ -22199,7 +22199,7 @@ Comment</source>
     </message>
     <message>
         <source>Ink shape</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep şekli</translation>
     </message>
 </context>
 <context>
@@ -28509,11 +28509,11 @@ Master</source>
     <name>KxEditLinksDlg</name>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"/>
+        <translation>Gözat</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Dosyalar(*.*)|*.*</translation>
     </message>
 </context>
 <context>
@@ -28539,7 +28539,7 @@ Master</source>
     <name>KxCheckSpellingDlg</name>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"/>
+        <translation>Her zaman düzeltme &amp;öner</translation>
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
@@ -28547,7 +28547,7 @@ Master</source>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"/>
+        <translation>Büyük &amp;harf ile yazılmış sözcükleri yoksay</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
