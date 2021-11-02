@@ -342,7 +342,7 @@
     </message>
     <message>
         <source>Num Lock</source>
-        <translation type="unfinished"/>
+        <translation>Num Lock</translation>
     </message>
     <message>
         <source>Number Lock</source>
@@ -3745,7 +3745,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>JavaScript Alert - %1</source>
-        <translation type="unfinished"/>
+        <translation>JavaScript Uyarısı - %1</translation>
     </message>
     <message>
         <source>Scroll down</source>
@@ -3850,15 +3850,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the start of the document</source>
-        <translation type="unfinished"/>
+        <translation>İmleci belgenin başına taşı</translation>
     </message>
     <message>
         <source>Move the cursor to the next character</source>
-        <translation type="unfinished"/>
+        <translation>İmleci bir sonraki karaktere taşı</translation>
     </message>
     <message>
         <source>JavaScript Prompt - %1</source>
-        <translation type="unfinished"/>
+        <translation>JavaScript İstemi - %1</translation>
     </message>
     <message>
         <source>Copy Link</source>
