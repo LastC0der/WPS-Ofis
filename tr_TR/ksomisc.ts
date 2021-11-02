@@ -499,7 +499,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer yeni belgelerini varsayılan olarak *.&amp;docx biçiminde kaydet</translation>
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by WPS Office Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
