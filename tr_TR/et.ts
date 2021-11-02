@@ -6183,7 +6183,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>File Slimming</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Sıkıştırma</translation>
     </message>
     <message>
         <source>filename</source>
@@ -6211,7 +6211,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>&quot;File slimming&quot; finished! Successfully reduced</source>
-        <translation type="unfinished"/>
+        <translation>Dosya sıkıştırma tamamlandı. Boyutu küçültüldü</translation>
     </message>
     <message>
         <source>Change the path</source>
@@ -6219,7 +6219,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>No need slimming</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırmaya gerek yok</translation>
     </message>
     <message>
         <source>File size:</source>
@@ -6227,7 +6227,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>&quot;File slimming&quot; may cause data loss,backup the original file can preserve the original data, it is recommended to keep this option is checked</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Sıkıştırma veri kaybına neden olabilir. Orijinal dosyayı yedekleyin, orijinal verileri koruyabilir. Bu seçeneği işaretli tutmanız önerilir</translation>
     </message>
     <message>
         <source>Open the backup file location</source>
@@ -6235,15 +6235,15 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Backup the original files</source>
-        <translation type="unfinished"/>
+        <translation>Orijinal dosyaları yedekle</translation>
     </message>
     <message>
         <source>When your document contains hidden data or format, will cause the file size is too large,&quot;file slimming&quot; feature can help you reduce the file size.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dosyanın boyutu, gizli veri veya biçim içerdiğinde gereksiz yere büyüyebilir. &quot;Dosya Sıkıştırma&quot; dosyayı küçültmenize yardımcı olabilir.</translation>
     </message>
     <message>
         <source>The current file:</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli dosya:</translation>
     </message>
     <message>
         <source>No backup files!</source>
@@ -15828,7 +15828,7 @@ tıklayın.</translation>
     </message>
     <message>
         <source>Failed to save the source files. Do you want to continue slimming?</source>
-        <translation type="unfinished"/>
+        <translation>Orijinal dosya kaydedilemedi. Sıkıştırmaya devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>This file has been modified, please confirm that you want to save.</source>
@@ -15836,15 +15836,15 @@ tıklayın.</translation>
     </message>
     <message>
         <source>No neeed slimming</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırmaya gerek yok</translation>
     </message>
     <message>
         <source>Backup source file failed. Do you want to continue slimming?</source>
-        <translation type="unfinished"/>
+        <translation>Orijinal dosya yedeklenemedi. Sıkıştırmaya devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>%1 Select another file %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 Başka bir dosya seç %2</translation>
     </message>
     <message>
         <source>Empty Cells</source>
@@ -41129,7 +41129,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Screen Recording</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Kaydedici</translation>
     </message>
     <message>
         <source>Special Tools</source>
@@ -50952,15 +50952,15 @@ Item Labels</source>
     <name>KxSpellCheckDlg</name>
     <message>
         <source>Ignore words with num&amp;bers</source>
-        <translation type="unfinished"/>
+        <translation>Ra&amp;kam içeren sözcükleri yoksay</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"/>
+        <translation>Her zaman düzeltme &amp;öner</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"/>
+        <translation>Büyük &amp;harf ile yazılmış sözcükleri yoksay</translation>
     </message>
     <message>
         <source>(No Suggestions)</source>
@@ -54319,7 +54319,7 @@ Note that data links can be used to access and share confidential information wi
     <name>KxEtFileListOfOpenDlg</name>
     <message>
         <source>%1 Select another file %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 Başka bir dosya seç %2</translation>
     </message>
 </context>
 <context>
