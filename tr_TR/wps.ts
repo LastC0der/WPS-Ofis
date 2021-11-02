@@ -800,7 +800,7 @@
     </message>
     <message>
         <source>Pound</source>
-        <translation type="unfinished"/>
+        <translation>Libre</translation>
     </message>
     <message>
         <source>Right</source>
@@ -29191,7 +29191,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
     <message>
         <source>Final</source>
@@ -29343,7 +29343,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation type="unfinished"/>
+        <translation>Suluboya Fırçası</translation>
     </message>
     <message>
         <source>Reject Shown Changes in Document</source>
@@ -29406,7 +29406,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
     <message>
         <source>Close</source>
@@ -29466,11 +29466,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation type="unfinished"/>
+        <translation>Suluboya Fırçası</translation>
     </message>
     <message>
         <source>Ink Operation</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep İşlemi</translation>
     </message>
     <message>
         <source>Ink Color</source>
@@ -29478,11 +29478,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Ink Shape</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep Şekli</translation>
     </message>
     <message>
         <source>Ink Style</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep Stili</translation>
     </message>
 </context>
 <context>
@@ -33588,7 +33588,7 @@ Number</source>
     </message>
     <message>
         <source>Screen Recording</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Kaydedici</translation>
     </message>
     <message>
         <source>Send File</source>
@@ -43589,7 +43589,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"/>
+        <translation>Her zaman düzeltme &amp;öner</translation>
     </message>
     <message>
         <source>No default custom dictionary is found. Please select a custom dictionary in the list and proceed again.</source>
@@ -43601,7 +43601,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"/>
+        <translation>Büyük &amp;harf ile yazılmış sözcükleri yoksay</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
@@ -51959,7 +51959,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
     <message>
         <source>Close</source>
@@ -52019,11 +52019,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation type="unfinished"/>
+        <translation>Suluboya Fırçası</translation>
     </message>
     <message>
         <source>Ink Operation</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep İşlemi</translation>
     </message>
     <message>
         <source>Ink Color</source>
@@ -52031,11 +52031,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Ink Shape</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep Şekli</translation>
     </message>
     <message>
         <source>Ink Style</source>
-        <translation type="unfinished"/>
+        <translation>Mürekkep Stili</translation>
     </message>
 </context>
 <context>
