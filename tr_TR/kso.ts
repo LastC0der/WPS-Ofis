@@ -545,7 +545,7 @@
     </message>
     <message>
         <source>Enter -1584 to 1584 pounds of the Value</source>
-        <translation type="unfinished"/>
+        <translation>-1584 ile 1584 libre arasında bir değer girin</translation>
     </message>
     <message>
         <source>Rotate &amp;with shape</source>
@@ -668,7 +668,7 @@
     </message>
     <message>
         <source>Enter 0 to 150 Pounds of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 150 libre arasında bir değer girin</translation>
     </message>
     <message>
         <source>Enter 0% to 100% of value</source>
@@ -791,7 +791,7 @@
     </message>
     <message>
         <source>Enter 0 to 1584 Pounds of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 1584 libre arasında bir değer girin</translation>
     </message>
     <message>
         <source>C&amp;ap type</source>
@@ -854,7 +854,7 @@
     </message>
     <message>
         <source>Enter 0 to 100 Pounds of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 100 libre arasında bir değer girin</translation>
     </message>
     <message>
         <source>content_reflection</source>
@@ -905,7 +905,7 @@
     </message>
     <message>
         <source>Enter 0 to 100 Pounds of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 100 libre arasında bir değer girin</translation>
     </message>
     <message>
         <source>Enter 0% to 100% of value</source>
@@ -925,7 +925,7 @@
     </message>
     <message>
         <source>Enter 0 to 200 Pounds of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 200 libre arasında bir değer girin</translation>
     </message>
     <message>
         <source>Enter 0 to 359 Degrees of value</source>
@@ -1258,7 +1258,7 @@
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
     <message>
         <source>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -3542,7 +3542,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Num Lock</source>
-        <translation type="unfinished"/>
+        <translation>Num Lock</translation>
     </message>
     <message>
         <source>Number Lock</source>
@@ -4966,7 +4966,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Linen</source>
-        <translation type="unfinished"/>
+        <translation>Keten Rengi</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -5241,7 +5241,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Division</source>
-        <translation type="unfinished"/>
+        <translation>Bölüm</translation>
     </message>
     <message>
         <source>WordArt: Cascade Up</source>
@@ -5320,7 +5320,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>Division</source>
         <comment>DRAWING2_TOOLTIP_DIVISION</comment>
-        <translation type="unfinished"/>
+        <translation>Bölüm</translation>
     </message>
     <message>
         <source>Inverted Triangle</source>
@@ -5372,7 +5372,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Left-Down Corner Perspective</source>
-        <translation type="unfinished"/>
+        <translation>Sol-Aşağı Köşe Perspektifi</translation>
     </message>
     <message>
         <source>Right Collar</source>
@@ -5405,7 +5405,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>No Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Ok Yok</translation>
     </message>
     <message>
         <source>No Bevel</source>
@@ -5429,7 +5429,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Isometric Right-Up</source>
-        <translation type="unfinished"/>
+        <translation>İzometrik Yukarı Sağ</translation>
     </message>
     <message>
         <source>Most Left Most Big</source>
@@ -5522,7 +5522,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>Wave</source>
         <comment>DRAWING2_TOOLTIP_WAVE</comment>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
     <message>
         <source>Hexagon</source>
@@ -5771,7 +5771,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Leather</source>
-        <translation type="unfinished"/>
+        <translation>Deri</translation>
     </message>
     <message>
         <source>SaddleBrown</source>
@@ -6415,7 +6415,7 @@ Ekle</translation>
     </message>
     <message>
         <source>WordArt: Fade Up</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Yukarı Soldur</translation>
     </message>
     <message>
         <source>Text Emboss</source>
@@ -7570,7 +7570,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Aquamarine</source>
-        <translation type="unfinished"/>
+        <translation>Deniz Mavisi</translation>
     </message>
     <message>
         <source>Half Frame</source>
@@ -8174,7 +8174,7 @@ Line-type: %3</source>
     <message>
         <source>Wave</source>
         <comment>DRAWING2STR_WAVE</comment>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
     <message>
         <source>Snip Same Side Corner Rectangle</source>
@@ -9225,7 +9225,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>WordArt: Arch Down Pour</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Aşağı Yay Yayarak</translation>
     </message>
     <message>
         <source>Explosion 1</source>
@@ -10486,11 +10486,11 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Ignore (&amp;I)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yoksay</translation>
     </message>
     <message>
         <source>Save(&amp;S)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Evet</translation>
     </message>
     <message>
         <source>Abort (&amp;A)</source>
@@ -10668,7 +10668,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Verifying...please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Doğrulanıyor...lütfen bekleyin...</translation>
     </message>
     <message>
         <source>Auth permission</source>
@@ -11946,7 +11946,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>CapsLock: On</source>
-        <translation type="unfinished"/>
+        <translation>CapsLock: Açık</translation>
     </message>
     <message>
         <source>Local backup on</source>
@@ -16338,7 +16338,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter 0 to 1584 Pounds of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 1584 libre arasında bir değer girin</translation>
     </message>
     <message>
         <source>&amp;Material</source>
@@ -16417,7 +16417,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter -40000 to 4000 Pounds of value</source>
-        <translation type="unfinished"/>
+        <translation>-40000 ile 4000 libre arasında bir değer girin</translation>
     </message>
     <message>
         <source>&amp;Presets</source>
@@ -16516,7 +16516,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter -40000 to 4000 Pounds of value</source>
-        <translation type="unfinished"/>
+        <translation>-40000 ile 4000 libre arasında bir değer girin</translation>
     </message>
     <message>
         <source>Hight(% of base)</source>
@@ -16567,7 +16567,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter 0 to 100 Pounds of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 100 libre arasında bir değer girin</translation>
     </message>
 </context>
 <context>
@@ -20197,7 +20197,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>JavaScript Alert - %1</source>
-        <translation type="unfinished"/>
+        <translation>JavaScript Uyarısı - %1</translation>
     </message>
     <message>
         <source>Scroll down</source>
@@ -20302,15 +20302,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the start of the document</source>
-        <translation type="unfinished"/>
+        <translation>İmleci belgenin başına taşı</translation>
     </message>
     <message>
         <source>Move the cursor to the next character</source>
-        <translation type="unfinished"/>
+        <translation>İmleci bir sonraki karaktere taşı</translation>
     </message>
     <message>
         <source>JavaScript Prompt - %1</source>
-        <translation type="unfinished"/>
+        <translation>JavaScript İstemi - %1</translation>
     </message>
     <message>
         <source>Copy Link</source>
@@ -26629,7 +26629,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Folder Select</source>
-        <translation type="unfinished"/>
+        <translation>Konum</translation>
     </message>
     <message>
         <source>Report View</source>
@@ -28555,11 +28555,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Feeling slow? Clear invalid data with File Slimming feature.</source>
-        <translation type="unfinished"/>
+        <translation>İşlemler yavaş mı? Dosya kaydetme yavaş mı? Verileri veya formülleri etkilemeyecek şekilde dosyayı sıkıştırmanızı öneririz.</translation>
     </message>
     <message>
         <source>This notice will stop popping out. To use File Slimming, find it in Special Features.</source>
-        <translation type="unfinished"/>
+        <translation>Bu belgede bana bir daha hatırlatma. Dosya Sıkıştırmayı Özel Özellikler&apos;e bulabilirsiniz.</translation>
     </message>
     <message>
         <source>Not again for this file</source>
@@ -32097,7 +32097,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Hide TaskPane</source>
-        <translation type="unfinished"/>
+        <translation>Görev Bölmesini Gizle</translation>
     </message>
     <message>
         <source>Enable Title Switching in Task Window</source>
@@ -35821,7 +35821,7 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>Custom Color</source>
-        <translation type="unfinished"/>
+        <translation>Özel Renk</translation>
     </message>
     <message>
         <source>Recent Colors</source>
