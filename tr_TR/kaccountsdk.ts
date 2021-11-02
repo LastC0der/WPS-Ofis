@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Hizmet şartları</translation>
     </message>
 </context>
 <context>
