@@ -340,7 +340,7 @@
     </message>
     <message>
         <source>Privacy policies</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik ilkeleri</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -368,7 +368,7 @@
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Hizmet şartları</translation>
     </message>
     <message>
         <source>No network connection, please check whether the network connection is normal first.</source>
@@ -710,7 +710,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Folder Select</source>
-        <translation type="unfinished"/>
+        <translation>Konum</translation>
     </message>
     <message>
         <source>Report View</source>
@@ -821,11 +821,11 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Yoksay</translation>
     </message>
     <message>
         <source>Remind me tomorrow</source>
-        <translation type="unfinished"/>
+        <translation>Bana yarın hatırlat</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -859,7 +859,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Privacy policies</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik ilkeleri</translation>
     </message>
     <message>
         <source>Resume now</source>
@@ -867,7 +867,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Hizmet şartları</translation>
     </message>
 </context>
 <context>
@@ -1215,7 +1215,7 @@ please wait</source>
     <name>KLoadingTipsLiteUI</name>
     <message>
         <source>Network Error,Load Failed!</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Hatası, indirilemedi!</translation>
     </message>
     <message>
         <source>Loading the Data Recovery Master.Please wait...</source>
