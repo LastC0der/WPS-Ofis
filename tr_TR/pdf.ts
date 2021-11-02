@@ -1238,7 +1238,7 @@
     </message>
     <message>
         <source>pound</source>
-        <translation type="unfinished"/>
+        <translation>lb</translation>
     </message>
     <message>
         <source>The current file is not saved, save it and then operate it?</source>
@@ -2186,7 +2186,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>pound</source>
-        <translation type="unfinished"/>
+        <translation>lb</translation>
     </message>
     <message>
         <source>millimeter</source>
@@ -7835,7 +7835,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Tab_Home</source>
-        <translation type="unfinished"/>
+        <translation>Giriş</translation>
     </message>
     <message>
         <source>Tab_Page</source>
@@ -9844,7 +9844,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation type="unfinished"/>
+        <translation>Suluboya Fırçası</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -11335,7 +11335,7 @@ Pencere</translation>
     </message>
     <message>
         <source>pound</source>
-        <translation type="unfinished"/>
+        <translation> lb</translation>
     </message>
     <message>
         <source>millimeter</source>
@@ -12669,7 +12669,7 @@ Pencere</translation>
     </message>
     <message>
         <source>WatercolorPen</source>
-        <translation type="unfinished"/>
+        <translation>Suluboya Kalemi</translation>
     </message>
 </context>
 <context>
@@ -13022,11 +13022,11 @@ Pencere</translation>
     <name>KCreatePdfMainWidget</name>
     <message>
         <source>From multiple files</source>
-        <translation type="unfinished"/>
+        <translation>Birden çok dosyadan</translation>
     </message>
     <message>
         <source>Network Error,Load Failed!</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Hatası, indirilemedi!</translation>
     </message>
     <message>
         <source>New blank page</source>
@@ -13034,7 +13034,7 @@ Pencere</translation>
     </message>
     <message>
         <source>From web</source>
-        <translation type="unfinished"/>
+        <translation>Web&apos;den</translation>
     </message>
     <message>
         <source>Convert Microsoft Office files and pictures into PDF</source>
@@ -13042,11 +13042,11 @@ Pencere</translation>
     </message>
     <message>
         <source>From single file</source>
-        <translation type="unfinished"/>
+        <translation>Tek dosyadan</translation>
     </message>
     <message>
         <source>From scanner</source>
-        <translation>From scanner</translation>
+        <translation>Tarayıcıdan</translation>
     </message>
     <message>
         <source>Convert an Office file (.docx, .xlsx, .ppt, .jpg, etc.) to a PDF.</source>
@@ -13065,7 +13065,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Screen Recording</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Kaydedici</translation>
     </message>
     <message>
         <source>PDF2PPT</source>
@@ -13455,7 +13455,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>No modification is allowed in this document.</source>
-        <translation type="unfinished"/>
+        <translation> Bu belge herhangi bir değişikliğe izin vermez.</translation>
     </message>
     <message>
         <source>This document allows you to fill in forms, signatures, and annotations, but prohibit any other modifications.</source>
