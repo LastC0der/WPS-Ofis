@@ -2340,7 +2340,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Page %d</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa %d</translation>
     </message>
     <message>
         <source>PDF Files (*.pdf)|*.pdf|</source>
