@@ -11608,7 +11608,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Characters</source>
-        <translation type="unfinished"/>
+        <translation>Karakter</translation>
     </message>
     <message>
         <source>Reveral</source>
@@ -19931,7 +19931,7 @@ Gösterileri</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>Please do not upload secret files to Cloud.</source>
@@ -19947,7 +19947,7 @@ Gösterileri</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme dosyalarını &quot;%1&quot; konumuna kaydetme izniniz yok.</translation>
     </message>
     <message>
         <source>&amp;Timing Backup</source>
@@ -28236,7 +28236,7 @@ Master</source>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçili Tasarımları Değiştir</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
@@ -28322,7 +28322,7 @@ Master</source>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçili Tasarımları Değiştir</translation>
     </message>
 </context>
 <context>
