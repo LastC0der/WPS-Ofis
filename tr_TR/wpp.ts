@@ -1021,7 +1021,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>My CloudDocument</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerim</translation>
     </message>
     <message>
         <source>Le&amp;ft of slide</source>
@@ -1847,7 +1847,7 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Searching to the whole file is completed.</source>
         <comment>WP_REPLACE_FINISH</comment>
-        <translation type="unfinished"/>
+        <translation>Dosyanın tamamı arandı.</translation>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz</source>
@@ -1901,7 +1901,7 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
         <comment>WP_REPLACEALL_NOTFOUND</comment>
-        <translation type="unfinished"/>
+        <translation>Dosyanın tamamı arandı ve arama öğesi bulunamadı.</translation>
     </message>
     <message>
         <source>Windows Media Audio File(wma) (*.wma;*.wax)</source>
@@ -2156,7 +2156,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed.</source>
-        <translation type="unfinished"/>
+        <translation>Dosyanın tamamı arandı.</translation>
     </message>
     <message>
         <source>*.m2ts;*.m2t;*.ts;*.tts</source>
@@ -2672,7 +2672,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
-        <translation type="unfinished"/>
+        <translation>Dosyanın tamamı arandı ve arama öğesi bulunamadı.</translation>
     </message>
     <message>
         <source>Update Link</source>
@@ -2706,7 +2706,7 @@ Are you sure you want to save it in this format ?</source>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
         <comment>WP_REPLACE_NOTFOUND</comment>
-        <translation type="unfinished"/>
+        <translation>Dosyanın tamamı arandı ve arama öğesi bulunamadı.</translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -2794,7 +2794,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Searching to the whole file is completed, and has replaced %i items.</source>
-        <translation type="unfinished"/>
+        <translation>Dosyanın tamamı arandı ve %i öğeleri değiştirildi.</translation>
     </message>
     <message>
         <source>Custom Shows</source>
