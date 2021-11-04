@@ -684,7 +684,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Reset plugins</source>
-        <translation type="unfinished"/>
+        <translation>Eklentileri sıfırla</translation>
     </message>
 </context>
 <context>
@@ -1300,7 +1300,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Repair WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i Onarın</translation>
     </message>
     <message>
         <source>WPS Photo</source>
@@ -1415,7 +1415,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici hesabı kullanmıyorsunuz. Bazı özellikler kullanılamaz.</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
@@ -1498,7 +1498,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Please choose the type of backup files to be cleared.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen temizlenecek yedekleme dosyalarının türünü seçin.</translation>
     </message>
     <message>
         <source>Click here to browse backup files</source>
@@ -1545,7 +1545,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>WPS 2019.lnk</source>
-        <translation type="unfinished"/>
+        <translation>WPS 2019.lnk</translation>
     </message>
     <message>
         <source>Kingsoft PDF Tools</source>
