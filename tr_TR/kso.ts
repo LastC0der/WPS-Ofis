@@ -2039,7 +2039,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Yer İşaretleri</translation>
     </message>
     <message>
         <source>File not found</source>
@@ -9505,7 +9505,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Venn Diagram</source>
-        <translation type="unfinished"/>
+        <translation>Venn Diyagramı</translation>
     </message>
     <message>
         <source>Double Bracket</source>
@@ -14198,7 +14198,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Reroute Connectors</source>
-        <translation type="unfinished"/>
+        <translation>Bağlayıcıları Yeniden Yönlendir</translation>
     </message>
     <message>
         <source>Change Shape Name</source>
@@ -14950,7 +14950,7 @@ You can choose Read-only button to open it as read-only.</source>
     </message>
     <message>
         <source>System and Exception Information File</source>
-        <translation type="unfinished"/>
+        <translation>Sistem ve Özel Durum Bilgi Dosyası</translation>
     </message>
     <message>
         <source>Document</source>
@@ -15303,7 +15303,7 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source>Save as Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopya olarak Kaydet</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -15586,7 +15586,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Weibo</source>
-        <translation type="unfinished"/>
+        <translation>Weibo</translation>
     </message>
     <message>
         <source>Click to open the link</source>
@@ -28360,7 +28360,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Venn Diagram</source>
-        <translation type="unfinished"/>
+        <translation>Venn Diyagramı</translation>
     </message>
     <message>
         <source>Used to show hierarchical relationships</source>
@@ -30440,7 +30440,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxFontDlg</name>
     <message>
         <source>+Body</source>
-        <translation type="unfinished"/>
+        <translation>+Gövde</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
@@ -30604,7 +30604,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>LEGEND OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>GÖSTERGE SEÇENEKLERİ</translation>
     </message>
     <message>
         <source>SERIES OPTIONS</source>
@@ -38090,7 +38090,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>QUdpSocket</name>
     <message>
         <source>This platform does not support IPv6</source>
-        <translation type="unfinished"/>
+        <translation>Bu platform IPv6&apos;yı desteklemiyor</translation>
     </message>
 </context>
 <context>
