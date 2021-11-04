@@ -6681,7 +6681,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PageNumber</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarası</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -7903,7 +7903,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PageNumber</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarası</translation>
     </message>
     <message>
         <source>Launch Online Metting</source>
@@ -9114,7 +9114,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>PageNumber</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarası</translation>
     </message>
     <message>
         <source>Edit PDF</source>
@@ -12394,7 +12394,7 @@ Pencere</translation>
     </message>
     <message>
         <source>PageNumber</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarası</translation>
     </message>
     <message>
         <source>TextBox</source>
