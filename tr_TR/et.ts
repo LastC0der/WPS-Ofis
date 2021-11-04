@@ -15219,7 +15219,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>characters</source>
-        <translation type="unfinished"/>
+        <translation>karakter</translation>
     </message>
     <message>
         <source>*The data on the right may be replaced.</source>
@@ -37706,7 +37706,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>Size of the selected dictionary must be less than 10MB.</source>
@@ -49184,7 +49184,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>The merging will keep all the original content, formulas and formats.</source>
-        <translation type="unfinished"/>
+        <translation>Birleştirmeden sonra tüm orijinal içeriği, formülleri ve biçimleri koruyacaktır.</translation>
     </message>
     <message>
         <source>Please enter a valid path</source>
@@ -50918,7 +50918,7 @@ Item Labels</source>
     </message>
     <message>
         <source>PDF2Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
 </context>
 <context>
