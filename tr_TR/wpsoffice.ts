@@ -9036,7 +9036,7 @@ Tüm Hakları Saklıdır.</translation>
     <name>QUdpSocket</name>
     <message>
         <source>This platform does not support IPv6</source>
-        <translation type="unfinished"/>
+        <translation>Bu platform IPv6&apos;yı desteklemiyor</translation>
     </message>
 </context>
 <context>
