@@ -774,7 +774,7 @@
     </message>
     <message>
         <source>Close options</source>
-        <translation type="unfinished"/>
+        <translation>Kapanış Seçenekleri</translation>
     </message>
     <message>
         <source>AssociateSetting</source>
@@ -1959,7 +1959,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>WPSFile(*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm)|*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm</source>
-        <translation type="unfinished"/>
+        <translation>Text/Word biçimi (*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm)|*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm</translation>
     </message>
     <message>
         <source>The current PDF document is a picture or scanning part. Please use the intelligent extraction function.</source>
@@ -2036,7 +2036,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Because the file does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Çünkü dosya yok.</translation>
     </message>
     <message>
         <source>Kingsoft PDF cannot open this file (%s)!</source>
@@ -2065,7 +2065,7 @@ The operation is irrevocable</source>
     <message>
         <source>Encryption will take effect after the document is saved</source>
         <comment>_Pdf_Waring_Key_Effect_Need_Save</comment>
-        <translation type="unfinished"/>
+        <translation>Belge kaydedildikten sonra şifreleme yürürlüğe girecek</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -2954,7 +2954,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Restore Default</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılanı Geri Yükle</translation>
     </message>
     <message>
         <source>PIXEL</source>
@@ -4565,7 +4565,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Scan Setting</source>
-        <translation type="unfinished"/>
+        <translation>Tarama Ayarı</translation>
     </message>
     <message>
         <source>No WaterMark</source>
@@ -4833,7 +4833,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Delete the original page</source>
-        <translation type="unfinished"/>
+        <translation>Orijinal sayfayı sil</translation>
     </message>
     <message>
         <source>AllPages</source>
@@ -4978,7 +4978,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Metni Etiketi</translation>
     </message>
 </context>
 <context>
@@ -6641,7 +6641,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
-        <translation type="unfinished"/>
+        <translation>Yakala ve Karşılaştır</translation>
     </message>
     <message>
         <source>InterceptSelectedPage</source>
@@ -7964,7 +7964,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>Personal Center</source>
@@ -8063,7 +8063,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>DO NOT COPY</source>
-        <translation type="unfinished"/>
+        <translation>KOPYALAMAYIN</translation>
     </message>
     <message>
         <source>TOP SECRET</source>
@@ -8365,7 +8365,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>The report was successful,thank you for your feedback.</source>
-        <translation type="unfinished"/>
+        <translation>Rapor gönderildi, geri bildiriminiz için teşekkür ederiz.</translation>
     </message>
     <message>
         <source>the copy was successful</source>
@@ -8718,7 +8718,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Previous option</source>
-        <translation type="unfinished"/>
+        <translation>Önceki öğe</translation>
     </message>
 </context>
 <context>
@@ -9267,7 +9267,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
-        <translation type="unfinished"/>
+        <translation>Yakala ve Karşılaştır</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -10396,7 +10396,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>DO NOT COPY</source>
-        <translation type="unfinished"/>
+        <translation>KOPYALAMAYIN</translation>
     </message>
     <message>
         <source>The following characters cannot be used /:*?&quot; &lt;&gt;|</source>
@@ -10420,7 +10420,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>ExMode</source>
-        <translation type="unfinished"/>
+        <translation>Ayıklama Modu:</translation>
     </message>
     <message>
         <source>Please input valid page number!</source>
@@ -11133,7 +11133,7 @@ Pencere</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Metni Etiketi</translation>
     </message>
 </context>
 <context>
@@ -12564,7 +12564,7 @@ Pencere</translation>
     </message>
     <message>
         <source>P&amp;ercent:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yüzde:</translation>
     </message>
     <message>
         <source>All Fonts</source>
@@ -13093,7 +13093,7 @@ Pencere</translation>
     </message>
     <message>
         <source>PDF2Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>PDF2Excel</source>
@@ -15309,7 +15309,7 @@ For File Lost or Path Changed!</source>
     </message>
     <message>
         <source>PDF2Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
@@ -15676,7 +15676,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>方向：</source>
-        <translation type="unfinished"/>
+        <translation>Yön:</translation>
     </message>
     <message>
         <source>should not be smaller than</source>
@@ -15688,7 +15688,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>奇偶页面：</source>
-        <translation type="unfinished"/>
+        <translation>Tek veya Çift Sayfalar:</translation>
     </message>
     <message>
         <source>隐藏部分设置</source>
@@ -15910,7 +15910,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>ExMode</source>
-        <translation type="unfinished"/>
+        <translation>Ayıklama Modu:</translation>
     </message>
     <message>
         <source>Delete After Abstract</source>
