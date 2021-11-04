@@ -139,7 +139,7 @@
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>English (US)</source>
@@ -5444,7 +5444,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>The attribute %1 cannot appear on %2, when it is a child of %3.</source>
-        <translation type="unfinished"/>
+        <translation>%1 özniteliği, %3&apos;ün alt öğesi olduğunda, %2&apos;de görünemez.</translation>
     </message>
     <message>
         <source>The attribute %1 can only appear on the first %2 element.</source>
@@ -7871,7 +7871,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Official Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Resmi Belge</translation>
     </message>
     <message>
         <source>WPS PDF</source>
