@@ -3979,7 +3979,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Document:</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Belge (&amp;F):</translation>
     </message>
     <message>
         <source>Notification</source>
@@ -5260,7 +5260,7 @@ This change will affect all the new documents based on the %s template.</source>
     <message>
         <source>This is not a valid number.</source>
         <comment>wps_sNotValidFontSize</comment>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>The word contains unallowable characters. Cannot process it.</source>
@@ -5906,7 +5906,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
@@ -6500,7 +6500,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Characters</source>
-        <translation type="unfinished"/>
+        <translation>Karakter</translation>
     </message>
     <message>
         <source>Headers and footers</source>
@@ -7330,7 +7330,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>DO NOT COPY</source>
-        <translation type="unfinished"/>
+        <translation>KOPYALAMAYIN</translation>
     </message>
     <message>
         <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
@@ -7342,7 +7342,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>(Has successfully added pictures)</source>
-        <translation type="unfinished"/>
+        <translation>(Resimleri başarıyla ekledi)</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -11512,7 +11512,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Belge</translation>
     </message>
     <message>
         <source>The file you opened is read-only, or is locked by another application.
@@ -13581,7 +13581,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>New Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Resmi Belge</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -24947,7 +24947,7 @@ Böl</translation>
     </message>
     <message>
         <source>New Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Resmi Belge</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -31389,7 +31389,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yedekleme</translation>
     </message>
     <message>
         <source>All Opened Documents</source>
@@ -31417,7 +31417,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme dosyalarını &quot;%1&quot; konumuna kaydetme izniniz yok.</translation>
     </message>
     <message>
         <source>&amp;Timing Backup</source>
@@ -31536,7 +31536,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -33112,7 +33112,7 @@ Support title, content</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Metni Etiketi</translation>
     </message>
     <message>
         <source>Search Path:</source>
@@ -34339,7 +34339,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>1.5 line spacing</source>
@@ -35545,7 +35545,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>1.5 line spacing</source>
@@ -39311,7 +39311,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Object snapping</source>
-        <translation type="unfinished"/>
+        <translation>Nesne hizalaması</translation>
     </message>
     <message>
         <source>line, 2, 0.01, 109.24, 0.5</source>
@@ -41765,7 +41765,7 @@ Do you want to remove the ignored exceptions?</source>
     </message>
     <message>
         <source>You may only fill in forms in this region.</source>
-        <translation type="unfinished"/>
+        <translation>Sadece bu bölgedeki formları doldurabilirsiniz.</translation>
     </message>
     <message>
         <source>You may format text only with certain styles.</source>
@@ -43945,7 +43945,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
@@ -45649,7 +45649,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>Browse Folder</source>
@@ -46083,7 +46083,7 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
     </message>
     <message>
         <source>Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Belge</translation>
     </message>
     <message>
         <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
@@ -46460,7 +46460,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Belge</translation>
     </message>
 </context>
 <context>
@@ -47016,7 +47016,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %1.</source>
@@ -47156,7 +47156,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>About WPS Official Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Resmi Belge Hakkında</translation>
     </message>
 </context>
 <context>
