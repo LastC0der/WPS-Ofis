@@ -34503,7 +34503,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Green Pri&amp;nt:</source>
-        <translation type="unfinished"/>
+        <translation>Yeşil &amp;Baskı:</translation>
     </message>
     <message>
         <source>Number of &amp;copies:</source>
