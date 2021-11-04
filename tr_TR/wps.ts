@@ -5492,7 +5492,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>(not matched)</source>
-        <translation type="unfinished"/>
+        <translation>(eşleşmedi)</translation>
     </message>
     <message>
         <source>Heading1...........................1
@@ -10118,7 +10118,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>+Body</source>
-        <translation type="unfinished"/>
+        <translation>+Gövde</translation>
     </message>
     <message>
         <source>Number must be between 1 and 10.</source>
@@ -10578,7 +10578,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>rd4</source>
-        <translation type="unfinished"/>
+        <translation>rd4</translation>
     </message>
     <message>
         <source>rd5</source>
@@ -21921,7 +21921,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Delete page number</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa numarasını sil</translation>
     </message>
     <message>
         <source>Memory Typing</source>
@@ -28530,7 +28530,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Pri&amp;nt:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazdır:</translation>
     </message>
     <message>
         <source>6 Pages</source>
@@ -28546,7 +28546,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Green Pri&amp;nt:</source>
-        <translation type="unfinished"/>
+        <translation>Yeşil &amp;Baskı:</translation>
     </message>
     <message>
         <source>How to solve problems of the printer?</source>
@@ -31451,7 +31451,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>+Body</source>
-        <translation type="unfinished"/>
+        <translation>+Gövde</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
@@ -34165,7 +34165,7 @@ Number</source>
     </message>
     <message>
         <source>+Body</source>
-        <translation type="unfinished"/>
+        <translation>+Gövde</translation>
     </message>
     <message>
         <source>Right</source>
@@ -35375,7 +35375,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>+Body</source>
-        <translation type="unfinished"/>
+        <translation>+Gövde</translation>
     </message>
     <message>
         <source>Style</source>
@@ -36230,7 +36230,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Merge Documents</source>
-        <translation type="unfinished"/>
+        <translation>Belgeleri Birleştir</translation>
     </message>
     <message>
         <source>Compare Documents</source>
@@ -36652,7 +36652,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>PageNumber</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarası</translation>
     </message>
     <message>
         <source>NextPage</source>
@@ -46510,7 +46510,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxMatchFieldsDlg</name>
     <message>
         <source>(Not matched)</source>
-        <translation type="unfinished"/>
+        <translation>(Eşleşmedi)</translation>
     </message>
 </context>
 <context>
@@ -46554,18 +46554,18 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxBookmarkSelectionDlg</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Yer İşaretleri</translation>
     </message>
 </context>
 <context>
     <name>KxHyperlinkWpsPage</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Yer İşaretleri</translation>
     </message>
     <message>
         <source>Top of document</source>
-        <translation type="unfinished"/>
+        <translation>Belgenin başı</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -46595,7 +46595,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Delete page number</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa numarasını sil</translation>
     </message>
     <message>
         <source>Rebuild page number</source>
@@ -46610,7 +46610,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Delete Page Number</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarasını Sil</translation>
     </message>
 </context>
 <context>
@@ -46621,7 +46621,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Delete Page Number</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarasını Sil</translation>
     </message>
 </context>
 <context>
@@ -47034,7 +47034,7 @@ check the maintain compatibility checkbox.</source>
     <name>KxSmartPageNumDeleteAllInOfficial</name>
     <message>
         <source>Delete Page Number</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarasını Sil</translation>
     </message>
 </context>
 <context>
