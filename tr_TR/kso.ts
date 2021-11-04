@@ -2486,7 +2486,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Printing %d page of %d</source>
-        <translation type="unfinished"/>
+        <translation>%d sayfanın %d sayfası yazdırılıyor</translation>
     </message>
     <message>
         <source>Section</source>
