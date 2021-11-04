@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Metni Etiketi</translation>
     </message>
 </context>
 <context>
@@ -635,7 +635,7 @@ we will make continuous improvements</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Metni Etiketi</translation>
     </message>
     <message>
         <source>Login and use, synchronize data between computer and mobile,
@@ -1358,7 +1358,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Metni Etiketi</translation>
     </message>
 </context>
 <context>
@@ -2187,7 +2187,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Metni Etiketi</translation>
     </message>
 </context>
 <context>
