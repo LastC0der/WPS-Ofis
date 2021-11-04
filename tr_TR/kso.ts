@@ -2833,7 +2833,7 @@ Lütfen dosyayı kaydedin ve paylaşım bağlantısı oluşturun</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>You are currently viewing this document in multiple windows. If you wanna attach XML expansion, you must close all other windows first to ensure that you view this document only in one window.</source>
@@ -6245,7 +6245,7 @@ Ekle</translation>
     <message>
         <source>Action Button: Back or Previous</source>
         <comment>DRAWING2STR_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Geri veya Önceki</translation>
     </message>
     <message>
         <source>Center</source>
@@ -7351,7 +7351,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Action Button: Back or Previous</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Geri veya Önceki</translation>
     </message>
     <message>
         <source>Right Curved Arrow</source>
@@ -7607,7 +7607,7 @@ Line-type: %3</source>
     <message>
         <source>Action Button: Back or Previous</source>
         <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Geri veya Önceki</translation>
     </message>
     <message>
         <source>Trapezoid</source>
@@ -7633,7 +7633,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Brackets</source>
-        <translation type="unfinished"/>
+        <translation>Ayraçlar</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -10569,7 +10569,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>WPS Official Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Resmi Belge</translation>
     </message>
     <message>
         <source>About WPS Office</source>
@@ -10621,7 +10621,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>About WPS Official Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Resmi Belge Hakkında</translation>
     </message>
     <message>
         <source>About WPS Office(Kingsoft Kylin WPS)</source>
@@ -11107,7 +11107,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Sorry, you don&apos;t have read permission of this document(%1).</source>
-        <translation type="unfinished"/>
+        <translation>Üzgünüz, bu belgeyi okuma izniniz yok(%1).</translation>
     </message>
     <message>
         <source>Can&apos;t save this document</source>
@@ -14016,7 +14016,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Ekle</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
@@ -14227,7 +14227,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Insert Line</source>
         <comment>DgUil_KSO_Cmd_InsertLine</comment>
-        <translation type="unfinished"/>
+        <translation>Çizgi Ekle</translation>
     </message>
     <message>
         <source>Clear Picture Frame</source>
@@ -19979,7 +19979,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Brackets</source>
-        <translation type="unfinished"/>
+        <translation>Ayraçlar</translation>
     </message>
     <message>
         <source>Fraction</source>
@@ -20021,7 +20021,7 @@ Check path and filename.</source>
     <message>
         <source>Brackets</source>
         <comment>OMATH_DELIMITER_BRACKETS</comment>
-        <translation type="unfinished"/>
+        <translation>Ayraçlar</translation>
     </message>
     <message>
         <source>Remove Enclosing Characters</source>
@@ -25663,7 +25663,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Metni Etiketi</translation>
     </message>
 </context>
 <context>
@@ -26693,7 +26693,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme Merkezi</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
@@ -29038,7 +29038,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The attribute %1 cannot appear on %2, when it is a child of %3.</source>
-        <translation type="unfinished"/>
+        <translation>%1 özniteliği, %3&apos;ün alt öğesi olduğunda, %2&apos;de görünemez.</translation>
     </message>
     <message>
         <source>The attribute %1 can only appear on the first %2 element.</source>
@@ -31186,7 +31186,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>IVTTS - failed to destroy TTS session.</source>
-        <translation type="unfinished"/>
+        <translation>IVTTS - TTS oturumu yok edilemedi.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign output callback.</source>
@@ -33376,7 +33376,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Metni Etiketi</translation>
     </message>
 </context>
 <context>
@@ -40540,7 +40540,7 @@ Properties</source>
     <name>KxBackupCenterButton</name>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme Merkezi</translation>
     </message>
 </context>
 <context>
@@ -40590,7 +40590,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxThemeFontsGalleryCommand</name>
     <message>
         <source>Change Theme Font</source>
-        <translation type="unfinished"/>
+        <translation>Tema Yazı Tipini Değiştir</translation>
     </message>
 </context>
 <context>
