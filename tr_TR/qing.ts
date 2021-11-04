@@ -3626,7 +3626,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme Merkezi</translation>
     </message>
     <message>
         <source>My Download Backup</source>
@@ -6254,7 +6254,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>The attribute %1 cannot appear on %2, when it is a child of %3.</source>
-        <translation type="unfinished"/>
+        <translation>%1 özniteliği, %3&apos;ün alt öğesi olduğunda, %2&apos;de görünemez.</translation>
     </message>
     <message>
         <source>The attribute %1 can only appear on the first %2 element.</source>
