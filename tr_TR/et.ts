@@ -26720,7 +26720,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Page %d of %d</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa %d / %d</translation>
     </message>
     <message>
         <source>Comma</source>
@@ -26947,7 +26947,7 @@ Yeniden Hesapla</translation>
     <message>
         <source>Page %d of %d</source>
         <comment>TX_PageNumberString2_</comment>
-        <translation type="unfinished"/>
+        <translation>Sayfa %d / %d</translation>
     </message>
     <message>
         <source>Linked Cell</source>
