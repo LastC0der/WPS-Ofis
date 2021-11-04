@@ -5734,7 +5734,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Page%d</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa %d</translation>
     </message>
     <message>
         <source>Insert Worksheet</source>
@@ -26807,7 +26807,7 @@ Yeniden Hesapla</translation>
     <message>
         <source>Page %d</source>
         <comment>TX_PageNumberString1_</comment>
-        <translation type="unfinished"/>
+        <translation>Sayfa %d</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -26859,7 +26859,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Page %d</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa %d</translation>
     </message>
     <message>
         <source>RowLevel</source>
