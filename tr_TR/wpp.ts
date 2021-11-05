@@ -28240,7 +28240,7 @@ Master</source>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Geniş Önizlemeleri Göster</translation>
     </message>
 </context>
 <context>
