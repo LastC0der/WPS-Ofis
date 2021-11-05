@@ -18232,7 +18232,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Merkezi</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
@@ -30929,7 +30929,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Merkezi</translation>
     </message>
     <message>
         <source>Ever Sheet</source>
