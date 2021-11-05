@@ -13856,7 +13856,8 @@ The operation is irrevocable</source>
     <message>
         <source>Are you sure to terminate the delete operation? 
 Deleted pages can not be recovered</source>
-        <translation type="unfinished"/>
+        <translation>Silme işlemini sonlandıracak mısınız? 
+Silinen sayfalar kurtarılamaz</translation>
     </message>
 </context>
 <context>
