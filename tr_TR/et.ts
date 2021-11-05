@@ -6199,7 +6199,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Need slimming content:</source>
-        <translation type="unfinished"/>
+        <translation>İçeriğin sıkıştırılması gerekiyor:</translation>
     </message>
     <message>
         <source>10,257KB</source>
@@ -15816,7 +15816,7 @@ tıklayın.</translation>
     </message>
     <message>
         <source>Slimming...</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırılıyor...</translation>
     </message>
     <message>
         <source>Duplicate styles</source>
@@ -27782,7 +27782,7 @@ Dondur</translation>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Merkezi</translation>
     </message>
     <message>
         <source>NewChart DownBar</source>
@@ -28093,7 +28093,8 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Document Slimming</source>
-        <translation type="unfinished"/>
+        <translation>Belge 
+Sıkıştırma</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -41173,7 +41174,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Document Slimming</source>
-        <translation type="unfinished"/>
+        <translation>Belge Sıkıştırma</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -41218,7 +41219,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>RB_Document Slimming</source>
-        <translation type="unfinished"/>
+        <translation>Belge Sıkıştırma</translation>
     </message>
     <message>
         <source>XiuTang H5</source>
@@ -41446,7 +41447,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Merkezi</translation>
     </message>
     <message>
         <source>Ever Sheet</source>
