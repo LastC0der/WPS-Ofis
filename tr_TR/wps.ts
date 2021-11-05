@@ -1128,7 +1128,7 @@
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"/>
+        <translation>Kapak Sayfaları</translation>
     </message>
     <message>
         <source>Col #%d spacing</source>
@@ -1438,7 +1438,7 @@
     </message>
     <message>
         <source>Custom Quick Parts</source>
-        <translation type="unfinished"/>
+        <translation>Özel Hızlı Parçalar</translation>
     </message>
     <message>
         <source>Outlook is not installed or configured correctly, sending failed.</source>
@@ -2131,7 +2131,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Quick Parts</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Bölümler</translation>
     </message>
     <message>
         <source>%s cannot be applied here.</source>
@@ -2318,7 +2318,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Custom Cover Pages</source>
-        <translation type="unfinished"/>
+        <translation>Özel Kapak Sayfaları</translation>
     </message>
     <message>
         <source>Dashed long heavy underline</source>
@@ -5047,7 +5047,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Yer İşareti</translation>
     </message>
     <message>
         <source>(1-%s)</source>
@@ -10634,7 +10634,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"/>
+        <translation>Metni Tabloya Dönüştür</translation>
     </message>
 </context>
 <context>
@@ -17471,7 +17471,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"/>
+        <translation>Metni Tabloya Dönüştür</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -17848,7 +17848,7 @@ Diagonal Line in Cell</source>
     <message>
         <source>Page 
 Break</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Sonu</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
@@ -18492,7 +18492,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>TpXMLMapping</source>
-        <translation type="unfinished"/>
+        <translation>XML Eşleme</translation>
     </message>
     <message>
         <source>Switch to previous window</source>
@@ -21720,7 +21720,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Set Xml Mapping</source>
-        <translation type="unfinished"/>
+        <translation>XML Eşlemesini Ayarla</translation>
     </message>
     <message>
         <source>Create a New Chapter</source>
@@ -23095,7 +23095,7 @@ Protection</source>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"/>
+        <translation>Metni Tabloya Dönüştür</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -25499,7 +25499,8 @@ Bölmesi</translation>
     <message>
         <source>Cover
 Pages</source>
-        <translation type="unfinished"/>
+        <translation>Kapak
+Sayfaları</translation>
     </message>
     <message>
         <source>Header and
@@ -25517,7 +25518,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"/>
+        <translation>Kapak Sayfaları</translation>
     </message>
     <message>
         <source>Show/Hide Section Navigation</source>
@@ -26989,7 +26990,8 @@ Düzen</translation>
     </message>
     <message>
         <source>XML Mapping Pane</source>
-        <translation type="unfinished"/>
+        <translation>XML Eşleme 
+Bölmesi</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -30913,7 +30915,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"/>
+        <translation>Kapak Sayfaları</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -32657,7 +32659,7 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Page 
 Break</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Sonu</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -32702,7 +32704,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"/>
+        <translation>Kapak Sayfaları</translation>
     </message>
     <message>
         <source>Breaks</source>
@@ -32910,7 +32912,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Quick Parts</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Bölümler</translation>
     </message>
     <message>
         <source>From Scanner</source>
@@ -32932,7 +32934,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"/>
+        <translation>Metni Tabloya Dönüştür</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -33139,7 +33141,7 @@ Support title, content</source>
     </message>
     <message>
         <source>Show Previews</source>
-        <translation type="unfinished"/>
+        <translation>Önizlemeleri Göster</translation>
     </message>
     <message>
         <source>New Style...</source>
@@ -33488,7 +33490,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"/>
+        <translation>Metni Tabloya Dönüştür</translation>
     </message>
     <message>
         <source>Single Agency</source>
@@ -37202,7 +37204,8 @@ Sonu</translation>
     <message>
         <source>Cover
 Pages</source>
-        <translation type="unfinished"/>
+        <translation>Kapak
+Sayfaları</translation>
     </message>
     <message>
         <source>Reset Form Fields</source>
@@ -37231,7 +37234,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"/>
+        <translation>Kapak Sayfaları</translation>
     </message>
     <message>
         <source>Breaks</source>
@@ -37271,7 +37274,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"/>
+        <translation>Sayı</translation>
     </message>
     <message>
         <source>- Page -</source>
@@ -37455,7 +37458,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Quick Parts</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Bölümler</translation>
     </message>
     <message>
         <source>From Scanner</source>
@@ -37477,7 +37480,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"/>
+        <translation>Metni Tabloya Dönüştür</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -38823,7 +38826,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Headin&amp;g:</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;aşlık:</translation>
     </message>
     <message>
         <source>Page ra&amp;nge</source>
@@ -38847,7 +38850,7 @@ Temizle</translation>
     </message>
     <message>
         <source>&amp;Italic</source>
-        <translation type="unfinished"/>
+        <translation>İ&amp;talik</translation>
     </message>
     <message>
         <source>&amp;Heading:</source>
@@ -38917,7 +38920,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Yer İşareti</translation>
     </message>
     <message>
         <source>Previous Graphic</source>
@@ -41706,7 +41709,7 @@ Replace with a manual table?</source>
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"/>
+        <translation>Kapak Sayfaları</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
@@ -45664,7 +45667,7 @@ Try one or more of the following:
     <name>KxCoverPageCommand</name>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"/>
+        <translation>Kapak Sayfaları</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
@@ -46875,7 +46878,7 @@ check the maintain compatibility checkbox.</source>
     <name>KxSyReceiverTableModel</name>
     <message>
         <source>number</source>
-        <translation type="unfinished"/>
+        <translation>Sayı</translation>
     </message>
     <message>
         <source>receivername</source>
@@ -50406,7 +50409,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"/>
+        <translation>Kapak Sayfaları</translation>
     </message>
     <message>
         <source>Page Number Format</source>
@@ -50835,7 +50838,8 @@ Düzen</translation>
     </message>
     <message>
         <source>XML Mapping Pane</source>
-        <translation type="unfinished"/>
+        <translation>XML Eşleme 
+Bölmesi</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -53461,7 +53465,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"/>
+        <translation>Metni Tabloya Dönüştür</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -53521,8 +53525,7 @@ Ekle</translation>
     <message>
         <source>Page 
 Break</source>
-        <translation>Sayfa 
-Sonu</translation>
+        <translation>Sayfa Sonu</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -53735,7 +53738,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation type="unfinished"/>
+        <translation>Metni Tabloya Dönüştür</translation>
     </message>
     <message>
         <source>WordArt</source>
