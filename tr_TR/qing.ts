@@ -9798,11 +9798,11 @@ have libgstreamer-plugins-base installed.</source>
     <name>QUnicodeControlCharacterMenu</name>
     <message>
         <source>RLE Start of right-to-left embedding</source>
-        <translation type="unfinished"/>
+        <translation>RLE Sağdan sola ekleme başlangıcı</translation>
     </message>
     <message>
         <source>ZWSP Zero width space</source>
-        <translation type="unfinished"/>
+        <translation>ZWSP Sıfır genişlik boşluk</translation>
     </message>
     <message>
         <source>Insert Unicode control character</source>
@@ -9810,23 +9810,23 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>LRO Start of left-to-right override</source>
-        <translation type="unfinished"/>
+        <translation>LRO Soldan sağa geçersiz kılma başlangıcı</translation>
     </message>
     <message>
         <source>LRE Start of left-to-right embedding</source>
-        <translation type="unfinished"/>
+        <translation>LRE Soldan sağa ekleme başlangıcı</translation>
     </message>
     <message>
         <source>RLM Right-to-left mark</source>
-        <translation type="unfinished"/>
+        <translation>RLM Sağdan sola işareti</translation>
     </message>
     <message>
         <source>PDF Pop directional formatting</source>
-        <translation>PDF Pop yönlü biçimlendirme</translation>
+        <translation>PDF Yönlü biçimlendirmeyi aç</translation>
     </message>
     <message>
         <source>ZWNJ Zero width non-joiner</source>
-        <translation type="unfinished"/>
+        <translation>ZWNJ Sıfır uzunluğundaki bölme karakteri</translation>
     </message>
     <message>
         <source>RLO Start of right-to-left override</source>
@@ -9838,7 +9838,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>LRM Left-to-right mark</source>
-        <translation type="unfinished"/>
+        <translation>LRM Soldan sağa işareti</translation>
     </message>
 </context>
 <context>
@@ -9849,7 +9849,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Request cancelled</source>
-        <translation type="unfinished"/>
+        <translation>İstek iptal edildi</translation>
     </message>
     <message>
         <source>Cannot show URL</source>
