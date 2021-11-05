@@ -6005,7 +6005,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Merkezi</translation>
     </message>
     <message>
         <source>Bg_Normal</source>
@@ -9201,7 +9201,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Merkezi</translation>
     </message>
     <message>
         <source>ElectronicInvoicePrint</source>
