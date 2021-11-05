@@ -19334,7 +19334,7 @@ Screen</source>
     </message>
     <message>
         <source>Signature</source>
-        <translation>İşaret</translation>
+        <translation>İmza</translation>
     </message>
     <message>
         <source>Floating Picture</source>
@@ -25139,8 +25139,7 @@ Böl</translation>
     <message>
         <source>Page 
 Break</source>
-        <translation>Sayfa 
-Sonu</translation>
+        <translation>Sayfa Sonu</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -33260,8 +33259,7 @@ Support title, content</source>
     <message>
         <source>Page 
 Break</source>
-        <translation>Sayfa 
-Sonu</translation>
+        <translation>Sayfa Sonu</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -37170,8 +37168,7 @@ Hayır:	Şablona kaydetme;
     <message>
         <source>Page 
 Break</source>
-        <translation>Sayfa 
-Sonu</translation>
+        <translation>Sayfa Sonu</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -53251,8 +53248,7 @@ Kapat</translation>
     <message>
         <source>Page 
 Break</source>
-        <translation>Sayfa 
-Sonu</translation>
+        <translation>Sayfa Sonu</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
