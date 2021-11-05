@@ -14530,7 +14530,7 @@ Slide</source>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Merkezi</translation>
     </message>
     <message>
         <source>End show</source>
@@ -16493,7 +16493,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Help And QA</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Merkezi</translation>
     </message>
     <message>
         <source>Ever Sheet</source>
