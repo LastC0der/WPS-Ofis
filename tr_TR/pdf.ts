@@ -7057,7 +7057,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Signature</source>
-        <translation>İşaret</translation>
+        <translation>İmza</translation>
     </message>
     <message>
         <source>CorrectionFluidRoundCap</source>
