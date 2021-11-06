@@ -4259,7 +4259,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Close the currently opened document before sign out</source>
-        <translation type="unfinished"/>
+        <translation>Oturumu kapatmadan önce açılan belgeyi kapatın</translation>
     </message>
     <message>
         <source>&amp;Open On Website</source>
