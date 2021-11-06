@@ -4665,7 +4665,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Am&amp;ount</source>
-        <translation type="unfinished"/>
+        <translation>Mi&amp;ktar:</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
@@ -7556,7 +7556,7 @@ Gövde: Yakınlaştır</translation>
     </message>
     <message>
         <source>Title and Vertical Text</source>
-        <translation type="unfinished"/>
+        <translation>Başlık ve Dikey Metin</translation>
     </message>
     <message>
         <source>Used in This Presentation</source>
@@ -26022,7 +26022,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="unfinished"/>
+        <translation>Kodu Görüntüle</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -29731,7 +29731,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Pano</translation>
     </message>
     <message>
         <source>Paste Picture</source>
