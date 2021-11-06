@@ -2335,7 +2335,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Instead of selecting a table header,select a cell with text in the table to convert to a data type.</source>
-        <translation type="unfinished"/>
+        <translation>Bir elektronik tablo başlığı seçmek yerine, bir veri türüne dönüştürmek için elektronik tabloda metin içeren bir hücre seçin.</translation>
     </message>
     <message>
         <source>Ambiguous name detected: %s</source>
@@ -2396,7 +2396,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>The current table is in the workbook protection state, unable to export the chart temporarily.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli çalışma kitabı korumalı modda ve grafik dışa aktarılamıyor.</translation>
     </message>
     <message>
         <source>When a cell is updated by more than one formula,</source>
@@ -2432,7 +2432,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>The table slicer could not be copied from one workbook to another. Please select the entire table and slicer to try again.</source>
-        <translation type="unfinished"/>
+        <translation>Tablo dilimleyiciler bir çalışma kitabından diğerine kopyalanamaz. Tüm tabloyu ve dilimleyicileri seçerek tekrar deneyin.</translation>
     </message>
     <message>
         <source>Make sure there is enough space on this disk, or try to save file to another disk. </source>
@@ -2554,7 +2554,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>We cannot convert into this data type.This is because the cell is blank,contains a formula,or it has already been converted into this data type.Try selecting another cell with just text or numbers,or select another data type.</source>
-        <translation type="unfinished"/>
+        <translation>Bu veri türüne dönüştüremiyoruz. Bunun nedeni hücrenin boş olması, bir formül içermesi veya zaten bu veri türüne dönüştürülmüş olmasıdır. Yalnızca metin veya sayılar içeren başka bir hücre seçmeyi deneyin veya başka bir veri türü seçin.</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
@@ -2682,7 +2682,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     </message>
     <message>
         <source>We didn&apos;t fill in values bacause target range contains a formula, merged cell, data validation, locked cell or pivot table.Remove those features from target range and click the Flash Fill button again.</source>
-        <translation type="unfinished"/>
+        <translation>Hedef aralık bir formül, birleştirilmiş hücre, veri doğrulama, kilitli hücre veya özet tablo içerdiğinden değerleri doldurmadık. Bu özellikleri hedef aralıktan kaldırın ve Hızlı Doldur düğmesini tekrar tıklayın.</translation>
     </message>
     <message>
         <source>Please enter choice content.</source>
@@ -2889,7 +2889,7 @@ Veya, son boş olmayan hücreleri yeni bir konuma taşıyıp yeniden deneyebilir
     </message>
     <message>
         <source>Cannot create an outline.</source>
-        <translation type="unfinished"/>
+        <translation>Ana hat oluşturulamıyor.</translation>
     </message>
     <message>
         <source>Old
@@ -3278,7 +3278,7 @@ Bu alanı raporda kullanmak için Tamam&apos;a tıklayın, sonra da alanı satı
     </message>
     <message>
         <source> Field Not Found.</source>
-        <translation type="unfinished"/>
+        <translation>Hesaplama hatası: geçersiz içerik başvurusu.</translation>
     </message>
     <message>
         <source>You can create a PivotTable based on source data with more than 16384 columns. Reduce the number of columns and try again.</source>
@@ -3409,7 +3409,7 @@ Formülü hesaplanmış alan için değiştirmek isterseniz Tamam&apos;a tıklay
     </message>
     <message>
         <source>Simplex LP</source>
-        <translation type="unfinished"/>
+        <translation>Simplex LP</translation>
     </message>
     <message>
         <source>Move %s Up</source>
@@ -3445,11 +3445,11 @@ Simplify the PivotTable report or check the macro for errors, and then try the o
     </message>
     <message>
         <source>A table header-line overlap one or more formula(s).</source>
-        <translation type="unfinished"/>
+        <translation>Formüllerden en az biri üst bilgi satırına başvuruda bulunuyor. Üst bilgi satırının kapatılması bu formüllerin beklenmeyen sonuçlar döndürmesine neden olabilir. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Can&apos;t insert new cells because it would push non-empty cells off the end of the worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Boş olmayan hücreleri çalışma sayfasının sonuna iteceği için yeni hücreler eklenemiyor. Bu hücreler boş görünebilir ancak formül içerebilirler, biçimlendirmeleri veya boş değerleri olabilir. Eklemek istediğiniz içerik için yeterli sayıda satır ve sütun silip tekrar deneyin.</translation>
     </message>
     <message>
         <source>%s File Not Exist</source>
@@ -3607,7 +3607,8 @@ Değer</translation>
     <message>
         <source>WPS Spreadsheets cannot open this file, because the password is not correct.
 </source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tablolar, parola doğru olmadığı için bu dosyayı açamıyor.
+</translation>
     </message>
     <message>
         <source>You are attempting to create a chart by useing a PivotTable report in another workbok. This will result in a static chart that cannot be updated. To create a PivotChart report, or a chart that dynamically updates like the PivotTbale report, the chart must be located in the same workbook as its associated PivotTable report.</source>
@@ -3919,7 +3920,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>The PasteLink Operator is forbidden in Pivot Table.</source>
-        <translation type="unfinished"/>
+        <translation>Özet tabloya bağlantı yapıştırılamıyor.</translation>
     </message>
     <message>
         <source>Cannot edit PivotTable in group edit mode.</source>
@@ -3964,7 +3965,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>We are unable to replace matches in read-only Rich Data.</source>
-        <translation type="unfinished"/>
+        <translation>Salt okunur Zengin Veri türündeki eşleşmeler değiştirilemiyor.</translation>
     </message>
     <message>
         <source>&amp;Lock Cell</source>
@@ -4024,7 +4025,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>The current worksheet has no outline and cannot display the outline symbol. Whether to create an outline?</source>
-        <translation type="unfinished"/>
+        <translation>Etkin çalışma sayfasında seviyelendirme olmadığından seviyelendirme simgeleri gösterilemiyor. Seviyelendirme oluşturulsun mu?</translation>
     </message>
     <message>
         <source>Clear Filter from Slicers</source>
@@ -4181,7 +4182,7 @@ Bunun nedenleri şunları içerebilir:
     </message>
     <message>
         <source>Cannot insert data because a table is in the way.</source>
-        <translation type="unfinished"/>
+        <translation>Tablo tarafından engellendiğinden veriler eklenemiyor.</translation>
     </message>
     <message>
         <source>Constraint</source>
@@ -4391,7 +4392,7 @@ Lütfen dosya yolunu kısaltmayı deneyin veya dosyayı masaüstüne taşıyıp 
     </message>
     <message>
         <source>A table total-line overlap one or more formula(s).</source>
-        <translation type="unfinished"/>
+        <translation>Bir veya daha fazla formül ya da ad toplam satırına başvuruyor. Toplam satırının kapatılması bu formüllerin veya adların beklenmeyen sonuçlar döndürmesine neden olabilir. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
@@ -4476,7 +4477,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Field Not Found Error</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz içerik başvurusu</translation>
     </message>
     <message>
         <source>Remove &quot;%s&quot;</source>
@@ -4615,8 +4616,9 @@ Lütfen önce Microsoft Excel ile açın ve &quot;Kaydet&quot; i çalıştırın
     <message>
         <source>No Changes were found with the specified properties.
 To highlight all changes, uncheck the When, Who, and Where options.</source>
-        <translation>Belirtilen özelliklerde hiçbir değişiklik yok.
-Tüm değişiklikleri vurgulamak için, Ne Zaman, Kim ve Nerede seçeneklerini temizleyin.</translation>
+        <translation>Belirtilen özelliklerde değişiklik bulunamadı.
+
+Tüm değişiklikleri vurgulamak için Ne Zaman, Kim ve Nerede seçeneklerinin işaretini kaldırın.</translation>
     </message>
     <message>
         <source>The number format you entered is invalid.</source>
@@ -4634,7 +4636,9 @@ Tüm değişiklikleri vurgulamak için, Ne Zaman, Kim ve Nerede seçeneklerini t
         <source>No track changes were found with the specified properties.
 
 To highlight all track changes, uncheck the When, Who, and Where options.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen özelliklerde iz değişikliği bulunamadı.
+
+Tüm iz değişikliklerini vurgulamak için Ne Zaman, Kim ve Nerede seçeneklerinin işaretini kaldırın.</translation>
     </message>
     <message>
         <source>Forming Answer Report...</source>
@@ -4832,7 +4836,7 @@ Devam etmek ve sığacak kadar veriyi içe aktarmak için Tamam&apos;ı tıklay�
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -7598,7 +7602,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>period for which you want to find interest.</source>
         <comment>TX_ParaDesc_200</comment>
-        <translation type="unfinished"/>
+        <translation>faiz bulmak istediğiniz dönem.</translation>
     </message>
     <message>
         <source>is your guess for what the rate will be; if omitted, Guess =0.1 (10 percent).</source>
@@ -9389,11 +9393,11 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>The selected area contains the pivot table, please select again</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alan özet tabloyu içerir, lütfen yeniden seçin</translation>
     </message>
     <message>
         <source>is the security&apos;s issue date, expressed as a serial date number.</source>
-        <translation type="unfinished"/>
+        <translation>menkul kıymetin çıkış tarihi, tarih seri numarası cinsinden.</translation>
     </message>
     <message>
         <source>Xy_series</source>
@@ -10109,11 +10113,11 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>period for which you want to find interest.</source>
-        <translation type="unfinished"/>
+        <translation>faiz bulmak istediğiniz dönem.</translation>
     </message>
     <message>
         <source>is a probability associated with the chi-squared distribution, a value between 0 and 1 inclusive.</source>
-        <translation type="unfinished"/>
+        <translation>kikare dağılımı ile ilişkili olasılık; 0 ile 1 arasında (bunlar dahil) bir değer.</translation>
     </message>
     <message>
         <source>is the date the asset is purchased.</source>
@@ -11008,7 +11012,7 @@ Devam ?</translation>
     <message>
         <source>is the security&apos;s issue date, expressed as a serial date number.</source>
         <comment>TX_ParaDesc_468</comment>
-        <translation type="unfinished"/>
+        <translation>menkul kıymetin çıkış tarihi, tarih seri numarası cinsinden.</translation>
     </message>
     <message>
         <source>value_if_na</source>
@@ -15207,7 +15211,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>The selected area contains the pivot table, please select again</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alan özet tabloyu içerir, lütfen yeniden seçin</translation>
     </message>
     <message>
         <source>Please delete the content to 1000 characters</source>
@@ -15250,7 +15254,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>The selected area contains the pivot table, please select again</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alan özet tabloyu içerir, lütfen yeniden seçin</translation>
     </message>
 </context>
 <context>
@@ -15716,7 +15720,7 @@ tıklayın.</translation>
     </message>
     <message>
         <source>SpreadSheets</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
 </context>
 <context>
@@ -15895,7 +15899,7 @@ tıklayın.</translation>
     </message>
     <message>
         <source>The selected area contains the pivot table, please select again</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alan özet tabloyu içerir, lütfen yeniden seçin</translation>
     </message>
     <message>
         <source>Please delete the content to 1000 characters</source>
@@ -15934,7 +15938,7 @@ tıklayın.</translation>
     </message>
     <message>
         <source>The selected area contains the pivot table, please select again</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alan özet tabloyu içerir, lütfen yeniden seçin</translation>
     </message>
     <message>
         <source>column title</source>
@@ -22202,7 +22206,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>When Simplex LP is used, this means Solver has found a global optimal solution.</source>
-        <translation type="unfinished"/>
+        <translation>Simplex LP kullanıldığında, bu Çözücünün genel olarak en uygun çözüm bulduğu anlamına gelir.</translation>
     </message>
     <message>
         <source>Solver can not find a point for which all Constraints are satisfied.</source>
@@ -48581,7 +48585,7 @@ Document</source>
     </message>
     <message>
         <source>Select the LP Simplex engine for linear Solver Problems.</source>
-        <translation type="unfinished"/>
+        <translation>Doğrusal Çözücü Problemleri için LP Simplex motorunu seçin.</translation>
     </message>
     <message>
         <source>Select the IPOPT Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
@@ -48605,7 +48609,7 @@ Document</source>
     </message>
     <message>
         <source>Simplex LP</source>
-        <translation type="unfinished"/>
+        <translation>Simplex LP</translation>
     </message>
     <message>
         <source>Variable Cells must be on the active sheet.</source>
@@ -50942,7 +50946,7 @@ Item Labels</source>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
     <message>
         <source>To leave the links as they are, click Continue.</source>
@@ -51247,7 +51251,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
 </context>
 <context>
@@ -53082,7 +53086,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
     <message>
         <source>&amp;Break Links</source>
@@ -54106,7 +54110,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>SpreadSheets</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Update</source>
@@ -54256,7 +54260,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>SpreadSheets</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
 </context>
 <context>
@@ -54284,7 +54288,7 @@ Note that data links can be used to access and share confidential information wi
     <name>KxEtRoundCommand</name>
     <message>
         <source>The selected area contains the pivot table, please select again.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alan özet tabloyu içerir, lütfen yeniden seçin.</translation>
     </message>
     <message>
         <source>Please select a valid range.</source>
@@ -54889,7 +54893,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Pano</translation>
     </message>
     <message>
         <source>Percent Style</source>
