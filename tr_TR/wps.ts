@@ -48253,7 +48253,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Pano</translation>
     </message>
     <message>
         <source>Shading Color</source>
