@@ -13648,7 +13648,7 @@ Please batches operations</source>
     <name>kxPdfLogoutCommand</name>
     <message>
         <source>Close the currently opened document before sign out</source>
-        <translation type="unfinished"/>
+        <translation>Oturumu kapatmadan önce açılan belgeleri kapatın.</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -15505,7 +15505,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>more function</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Ayarlar</translation>
     </message>
     <message>
         <source>last used printer</source>
