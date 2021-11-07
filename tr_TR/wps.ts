@@ -8821,7 +8821,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>XMLExtend Pack Instruction List(*.xml)</source>
-        <translation type="unfinished"/>
+        <translation>XML genişletme paketi bildirimi (*.xml)</translation>
     </message>
     <message>
         <source>All Word Documents</source>
@@ -19150,7 +19150,7 @@ Screen</source>
     </message>
     <message>
         <source>XMLStructure</source>
-        <translation type="unfinished"/>
+        <translation>XML Yapısı</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -27094,7 +27094,8 @@ Design Mode</source>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"/>
+        <translation>XML 
+Yapısı</translation>
     </message>
     <message>
         <source>Develop Language</source>
@@ -33505,7 +33506,8 @@ Ekle</translation>
     <message>
         <source>Page
 Number</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa
+Numarası</translation>
     </message>
     <message>
         <source>Top Line Script(Single Angency)</source>
@@ -42783,7 +42785,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <name>KxWpsStatusPageNumberInfoCommand</name>
     <message>
         <source>Page Num: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarası: %1</translation>
     </message>
 </context>
 <context>
@@ -47526,7 +47528,7 @@ Converting allows you to use all the new features of Word and reduces the size o
     <name>KxWpsStatusWordCountInfoCommand</name>
     <message>
         <source>Words: </source>
-        <translation>Sözcük:</translation>
+        <translation>Sözcük: </translation>
     </message>
 </context>
 <context>
@@ -50913,7 +50915,8 @@ Eklentileri</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"/>
+        <translation>XML 
+Yapısı</translation>
     </message>
     <message>
         <source>View Code</source>
