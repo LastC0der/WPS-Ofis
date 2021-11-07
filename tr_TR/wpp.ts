@@ -11444,7 +11444,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Words</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük</translation>
     </message>
     <message>
         <source>Double Outline</source>
@@ -26808,7 +26808,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Ca&amp;ncel</source>
-        <translation type="unfinished"/>
+        <translation>İpta&amp;l</translation>
     </message>
     <message>
         <source>Thesaurus</source>
