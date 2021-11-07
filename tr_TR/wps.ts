@@ -10797,7 +10797,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Words</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük</translation>
     </message>
     <message>
         <source>Top Margin:</source>
@@ -10813,7 +10813,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Words/Line:</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük/Satır:</translation>
     </message>
     <message>
         <source>Left Margin:</source>
@@ -18946,7 +18946,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Operation Document</source>
-        <translation type="unfinished"/>
+        <translation>Belge İşlemi</translation>
     </message>
     <message>
         <source>Xie De Menu</source>
@@ -19445,7 +19445,7 @@ Screen</source>
     </message>
     <message>
         <source>Words</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük</translation>
     </message>
     <message>
         <source>Asian characters</source>
@@ -28824,7 +28824,7 @@ Kaydır</translation>
     <name>KxDlgTableProperties</name>
     <message>
         <source>&amp;Row</source>
-        <translation type="unfinished"/>
+        <translation>Satı&amp;r</translation>
     </message>
     <message>
         <source>Size</source>
@@ -28965,7 +28965,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Rows 1-4:</source>
-        <translation type="unfinished"/>
+        <translation>Satırlar 1-4:</translation>
     </message>
     <message>
         <source>Allow row to brea&amp;k across pages</source>
@@ -42474,7 +42474,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Ca&amp;ncel</source>
-        <translation type="unfinished"/>
+        <translation>İpta&amp;l</translation>
     </message>
     <message>
         <source>Thesaurus</source>
@@ -45504,7 +45504,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Row %1</source>
-        <translation type="unfinished"/>
+        <translation>Satır %1</translation>
     </message>
 </context>
 <context>
@@ -47145,7 +47145,7 @@ check the maintain compatibility checkbox.</source>
     <name>KxWpsStatusRowInfoCommand</name>
     <message>
         <source>Row: %1</source>
-        <translation type="unfinished"/>
+        <translation>Satır: %1</translation>
     </message>
 </context>
 <context>
@@ -47526,7 +47526,7 @@ Converting allows you to use all the new features of Word and reduces the size o
     <name>KxWpsStatusWordCountInfoCommand</name>
     <message>
         <source>Words: </source>
-        <translation type="unfinished"/>
+        <translation>Sözcük:</translation>
     </message>
 </context>
 <context>
