@@ -34551,7 +34551,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     <name>KxDlgImportCustomList</name>
     <message>
         <source>&amp;Row</source>
-        <translation type="unfinished"/>
+        <translation>Satı&amp;r</translation>
     </message>
     <message>
         <source>Import lists from</source>
@@ -49275,7 +49275,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Ca&amp;ncel</source>
-        <translation type="unfinished"/>
+        <translation>İpta&amp;l</translation>
     </message>
     <message>
         <source>Thesaurus</source>
