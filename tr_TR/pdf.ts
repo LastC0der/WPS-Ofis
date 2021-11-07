@@ -1488,7 +1488,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Please enter the correct page,complete the jump page.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen geçerli bir sayfa numarası girin.</translation>
     </message>
     <message>
         <source>The size of the inserted image is too large.</source>
@@ -8710,7 +8710,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>No more matches found!</source>
-        <translation type="unfinished"/>
+        <translation>Başka eşleşme bulunamadı.</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -14260,7 +14260,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>Clip Page is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Kırp WPS Premium ayrıcalığıdır</translation>
     </message>
 </context>
 <context>
@@ -14489,7 +14489,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>Clip Page is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Kırp WPS Premium ayrıcalığıdır</translation>
     </message>
     <message>
         <source>PushButton</source>
