@@ -15226,7 +15226,7 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source>Outlook Items</source>
-        <translation type="unfinished"/>
+        <translation>Outlook Öğeleri</translation>
     </message>
     <message>
         <source>Cancel Save</source>
@@ -21737,7 +21737,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Expon</source>
-        <translation type="unfinished"/>
+        <translation>Üstel</translation>
     </message>
     <message>
         <source>LABEL</source>
@@ -25352,7 +25352,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Label Contains</source>
-        <translation type="unfinished"/>
+        <translation>Etiket İçeriği</translation>
     </message>
     <message>
         <source>Ab&amp;ove</source>
