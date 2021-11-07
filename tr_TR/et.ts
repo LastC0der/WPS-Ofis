@@ -13405,7 +13405,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Select %d record(s), accept changes %d record(s), reject changes %d record(s)</source>
-        <translation type="unfinished"/>
+        <translation>%d kayıt seç, değişiklikleri kabul et %d kayıt, değişiklikleri reddet %d kayıt</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
@@ -21564,15 +21564,15 @@ OLE DB Query</source>
     <name>KxDlgConsolidate</name>
     <message>
         <source>df</source>
-        <translation type="unfinished"/>
+        <translation>df</translation>
     </message>
     <message>
         <source>asd</source>
-        <translation type="unfinished"/>
+        <translation>asd</translation>
     </message>
     <message>
         <source>fas</source>
-        <translation type="unfinished"/>
+        <translation>fas</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -21580,7 +21580,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>asdf</source>
-        <translation type="unfinished"/>
+        <translation>asdf</translation>
     </message>
     <message>
         <source>All r&amp;eferences:</source>
