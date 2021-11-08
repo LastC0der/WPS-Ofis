@@ -13517,7 +13517,7 @@ Ekle</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Metin</translation>
     </message>
     <message>
         <source>Combine Shapes</source>
@@ -14142,7 +14142,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Add Text</source>
@@ -22103,7 +22103,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Change Chart Layout</source>
