@@ -4237,7 +4237,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Apply Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzin İçin Başvur</translation>
     </message>
     <message>
         <source>Approve Status:	%1</source>
@@ -4926,7 +4926,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Mainframe</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayar</translation>
     </message>
     <message>
         <source>Open Arrow</source>
@@ -7746,7 +7746,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>WordArt: Circle Pour</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Çember Yayarak</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -7754,11 +7754,11 @@ Line-type: %3</source>
     </message>
     <message>
         <source>FreeForm</source>
-        <translation type="unfinished"/>
+        <translation>Serbest Form</translation>
     </message>
     <message>
         <source>Freeform</source>
-        <translation type="unfinished"/>
+        <translation>Serbest Form</translation>
     </message>
     <message>
         <source>WordArt: Inflate</source>
@@ -9922,7 +9922,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma aralığı</translation>
     </message>
     <message>
         <source>File exists</source>
@@ -10142,7 +10142,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KWpsAddonAuthDlg</name>
     <message>
         <source>NO</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
 </context>
 <context>
@@ -10593,7 +10593,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>yyyy-MM-dd</source>
-        <translation type="unfinished"/>
+        <translation>yyyy-AA-gg</translation>
     </message>
     <message>
         <source>WPSPlus</source>
@@ -10617,7 +10617,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Technical Support</source>
-        <translation type="unfinished"/>
+        <translation>Teknik Destek</translation>
     </message>
     <message>
         <source>About WPS Official Document</source>
@@ -10636,7 +10636,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Apply Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzin İçin Başvur</translation>
     </message>
     <message>
         <source>Permission Warning</source>
@@ -12996,7 +12996,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>yyyy-MM-dd</source>
-        <translation type="unfinished"/>
+        <translation>yyyy-AA-gg</translation>
     </message>
     <message>
         <source>Document carbon copy organization</source>
@@ -14401,7 +14401,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Insert Smartart Graphic</source>
-        <translation type="unfinished"/>
+        <translation>SmartArt Grafiği Ekle</translation>
     </message>
     <message>
         <source>Toggle 3-D</source>
@@ -15689,7 +15689,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>So&amp;l</translation>
     </message>
     <message>
         <source>&amp;Width</source>
@@ -15752,11 +15752,11 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>So&amp;l</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağ</translation>
     </message>
     <message>
         <source>Tab stops to be cleared:</source>
@@ -16815,11 +16815,11 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma aralığı</translation>
     </message>
     <message>
         <source>Color Mode</source>
@@ -18208,7 +18208,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show proportional, interconnected, or hierarchical relationships. Text appears in the rectangular shapes on top of the pyramid background.</source>
-        <translation type="unfinished"/>
+        <translation>Orantılı, birbirine bağlı veya hiyerarşik ilişkileri göstermek için kullanın. Metin, piramit arka planın en üstünde dikdörtgen şekiller içinde görüntülenir.</translation>
     </message>
     <message>
         <source>Matrix</source>
@@ -18292,7 +18292,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bending Picture Caption List</source>
-        <translation type="unfinished"/>
+        <translation>Dönen Resim Yazısı Listesi</translation>
     </message>
     <message>
         <source>Text Cycle</source>
@@ -21223,7 +21223,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Whether or not</source>
-        <translation type="unfinished"/>
+        <translation>Gerekli veya değil</translation>
     </message>
     <message>
         <source>Accessed:</source>
@@ -23770,7 +23770,7 @@ Possible reasons:
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -23941,7 +23941,7 @@ Possible reasons:
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>So&amp;l</translation>
     </message>
     <message>
         <source>T&amp;op Right</source>
@@ -23949,7 +23949,7 @@ Possible reasons:
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağ</translation>
     </message>
     <message>
         <source>&amp;Show the legend without overlapping the chart</source>
@@ -25344,7 +25344,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağ</translation>
     </message>
     <message>
         <source>&amp;Value</source>
@@ -27184,7 +27184,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Voice Speed</source>
-        <translation type="unfinished"/>
+        <translation>Ses Hızı</translation>
     </message>
     <message>
         <source>Voice Pitch</source>
@@ -28193,7 +28193,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Apply Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzin İçin Başvur</translation>
     </message>
     <message>
         <source>Offline Permission:</source>
@@ -29694,7 +29694,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Biçimlendirilmemiş metin</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Presentation.</source>
@@ -30204,7 +30204,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Apply Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzin İçin Başvur</translation>
     </message>
     <message>
         <source>Apply Information:</source>
@@ -34219,7 +34219,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekle</translation>
     </message>
 </context>
 <context>
