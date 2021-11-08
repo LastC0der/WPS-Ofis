@@ -27974,7 +27974,7 @@ por hoja</translation>
     </message>
     <message>
         <source>Equation Large Operator Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Büyük İşleç İşlevi</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
