@@ -610,7 +610,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma aralığı</translation>
     </message>
     <message>
         <source>File exists</source>
@@ -2882,11 +2882,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma aralığı</translation>
     </message>
     <message>
         <source>Color Mode</source>
@@ -3510,7 +3510,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Cloud Backup</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Yedeklemesi</translation>
     </message>
     <message>
         <source>Share</source>
