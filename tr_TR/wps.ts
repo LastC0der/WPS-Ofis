@@ -9616,11 +9616,11 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -9845,7 +9845,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -11662,7 +11662,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
@@ -11983,7 +11983,7 @@ Açık</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -12216,7 +12216,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>In Line with Text</source>
@@ -12561,7 +12561,7 @@ Açık</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -12782,7 +12782,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>In Line With Text</source>
@@ -13009,7 +13009,8 @@ Kaydır</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -13099,7 +13100,7 @@ Açık</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -13278,7 +13279,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>In Line with Text</source>
@@ -13521,7 +13522,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Right-to-Left</source>
@@ -14040,7 +14041,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -14204,7 +14205,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Stacked</source>
@@ -14515,11 +14516,11 @@ Değiştir</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -14691,7 +14692,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -15195,8 +15196,7 @@ Değiştir</translation>
     <message>
         <source>Format
 Painter</source>
-        <translation>Biçim
-Boyacısı</translation>
+        <translation>Biçim Boyacısı</translation>
     </message>
     <message>
         <source>Corner Point</source>
@@ -15678,11 +15678,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Delete Table</source>
@@ -16848,7 +16848,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -19593,8 +19593,7 @@ Screen</source>
     <message>
         <source>Format
 Painter</source>
-        <translation>Biçim
-Boyacısı</translation>
+        <translation>Biçim Boyacısı</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
@@ -19729,7 +19728,7 @@ Changes</source>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Linux Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -20008,7 +20007,7 @@ Açıklama</translation>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Windows Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -24234,7 +24233,8 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
@@ -24272,7 +24272,7 @@ Dönüştür</translation>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Linux Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -24328,12 +24328,13 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Windows Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -24416,7 +24417,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
@@ -25187,7 +25188,7 @@ Break</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -27667,7 +27668,7 @@ Açık</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -27909,7 +27910,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -29680,7 +29681,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -29887,7 +29888,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -30165,7 +30166,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -30379,7 +30380,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -33699,7 +33700,8 @@ Numarası</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -33898,7 +33900,8 @@ Numarası</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -37987,7 +37990,7 @@ Numarası</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
@@ -38455,7 +38458,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -39967,7 +39970,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Mail Merge</source>
@@ -47827,7 +47830,7 @@ Açık</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -48048,7 +48051,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>In Line with Text</source>
@@ -48263,7 +48266,8 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -48307,11 +48311,11 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Clear Style</source>
@@ -48746,7 +48750,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -48870,7 +48874,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -50123,7 +50127,7 @@ Efektler</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -51108,7 +51112,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Left Alignment</source>
@@ -51332,7 +51336,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -51667,7 +51671,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -51848,7 +51852,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>In Line with Text</source>
@@ -52227,7 +52231,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -52426,7 +52430,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -52680,7 +52684,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -52878,7 +52882,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -54234,7 +54238,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
