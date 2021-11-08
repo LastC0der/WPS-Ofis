@@ -819,7 +819,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma aralığı</translation>
     </message>
     <message>
         <source>File exists</source>
@@ -2170,11 +2170,11 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma aralığı</translation>
     </message>
     <message>
         <source>Color Mode</source>
