@@ -509,7 +509,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Cloud backup</source>
-        <translation type="unfinished"/>
+        <translation>Bulut yedeklemesi</translation>
     </message>
     <message>
         <source>Keep cache for 90 &amp;days</source>
@@ -689,7 +689,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kısayollar</translation>
     </message>
     <message>
         <source>Shortcuts</source>
@@ -853,7 +853,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Default &amp;insert images of original size</source>
-        <translation type="unfinished"/>
+        <translation>Görüntüler&amp;i varsayılan olarak orijinal boyutlarında ekle</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -1842,7 +1842,7 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Insert Smartart Graphic</source>
         <comment>WpINSERTSMARTART</comment>
-        <translation type="unfinished"/>
+        <translation>SmartArt Grafiği Ekle</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed.</source>
@@ -7608,7 +7608,7 @@ Gövde: Yakınlaştır</translation>
     </message>
     <message>
         <source>Please Enter Your Title Here</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen Başlığınızı Buraya Girin</translation>
     </message>
     <message>
         <source>Other Sound...</source>
@@ -13341,7 +13341,7 @@ Template</source>
     </message>
     <message>
         <source>Scribble</source>
-        <translation type="unfinished"/>
+        <translation>Karalama</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -13826,7 +13826,7 @@ Master</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Right Tab</source>
@@ -18732,7 +18732,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Pr&amp;eview</source>
@@ -18756,7 +18756,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma aralığı</translation>
     </message>
     <message>
         <source>Colla&amp;te</source>
@@ -20569,7 +20569,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Freeform</source>
-        <translation type="unfinished"/>
+        <translation>Serbest Form</translation>
     </message>
     <message>
         <source>video</source>
@@ -21263,19 +21263,19 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>More Option</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Seçenek</translation>
     </message>
     <message>
         <source>Entrance</source>
-        <translation type="unfinished"/>
+        <translation>Giriş</translation>
     </message>
     <message>
         <source>Freeform</source>
-        <translation type="unfinished"/>
+        <translation>Serbest Form</translation>
     </message>
     <message>
         <source>Scribble</source>
-        <translation type="unfinished"/>
+        <translation>Karalama</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -23454,7 +23454,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Formatted Text</source>
