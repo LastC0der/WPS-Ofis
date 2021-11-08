@@ -8247,11 +8247,11 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -8455,7 +8455,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -9569,7 +9569,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Stacked</source>
@@ -9774,7 +9774,8 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -9830,7 +9831,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -10304,11 +10305,11 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Vertical direction</source>
@@ -10594,7 +10595,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Slide Show</source>
@@ -11054,7 +11055,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Stacked</source>
@@ -11238,7 +11239,7 @@ Araçları</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Vertical direction</source>
@@ -12449,11 +12450,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Increase Level</source>
@@ -13297,7 +13298,7 @@ Template</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -15227,7 +15228,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Notes Pane</source>
-        <translation type="unfinished"/>
+        <translation>Not Bölmesi</translation>
     </message>
     <message>
         <source>Focus Node</source>
@@ -17639,7 +17640,7 @@ Açık</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -17862,7 +17863,7 @@ Shape</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -18212,7 +18213,7 @@ Kontrolü</translation>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Linux Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -18413,7 +18414,7 @@ Kontrolü</translation>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Windows Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -19081,7 +19082,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -19298,7 +19299,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -19485,7 +19486,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -19651,7 +19652,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -19731,7 +19732,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -21107,7 +21108,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -21537,7 +21538,8 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -23383,7 +23385,8 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>IntranetVersion Online Templates</source>
@@ -23413,7 +23416,7 @@ Dönüştür</translation>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Linux Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -23441,12 +23444,13 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Windows Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -23596,7 +23600,8 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -23734,7 +23739,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Vertical direction</source>
@@ -23979,7 +23984,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Slide Master View</source>
@@ -26234,11 +26239,11 @@ Bölmesi</translation>
     </message>
     <message>
         <source>All slides in current presentation are hidden.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sunumdaki tüm slaytlar gizlenir.</translation>
     </message>
     <message>
         <source>Current slide has marked as hidden.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli slayt gizli olarak işaretlendi.</translation>
     </message>
     <message>
         <source>Save OFD File</source>
@@ -26246,7 +26251,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>The selected slides are hidden.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen slaytlar gizlenir.</translation>
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
@@ -26262,7 +26267,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>All slides in this range are hidden.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen aralıktaki tüm slaytlar gizlenir.</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd||</source>
@@ -26321,7 +26326,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>All slides in current presentation are hidden.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sunumdaki tüm slaytlar gizlenir.</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -26329,11 +26334,11 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Current slide has marked as hidden.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli slayt gizli olarak işaretlendi.</translation>
     </message>
     <message>
         <source>The selected slides are hidden.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen slaytlar gizlenir.</translation>
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
@@ -26353,7 +26358,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>All slides in this range are hidden.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen aralıktaki tüm slaytlar gizlenir.</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
@@ -29743,7 +29748,8 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -29852,11 +29858,11 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Vertical direction</source>
@@ -30092,7 +30098,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Stacked</source>
@@ -30437,7 +30443,7 @@ Slide</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -31162,7 +31168,8 @@ Kapat</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -31611,7 +31618,7 @@ Düzen</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -31808,7 +31815,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -32131,7 +32138,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -32230,7 +32237,8 @@ Düzen</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim  Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -32315,7 +32323,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -32472,7 +32480,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -32855,7 +32863,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -33012,7 +33020,8 @@ Aracı</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
