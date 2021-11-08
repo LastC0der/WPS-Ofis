@@ -17720,7 +17720,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin Olarak Yapıştır</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -17761,11 +17761,11 @@ Filtre</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -18089,7 +18089,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>More Border Colors</source>
-        <translation>Diğer Kenarlık Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
@@ -19015,7 +19015,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin Olarak Yapıştır</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Format UnitLabel</source>
@@ -19121,7 +19121,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Çizgi Deseni</translation>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>SpecialWords</source>
@@ -19141,11 +19141,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -20155,7 +20155,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation>Özet Tablo Seçenekleri</translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -20291,7 +20291,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -26489,11 +26489,11 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -26609,7 +26609,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -27520,7 +27520,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Equation Accent Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu İşlevi</translation>
     </message>
     <message>
         <source>Merge workbooks</source>
@@ -27532,7 +27532,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Clear rejection of entry restrictions</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Reddi Kısıtlamalarını Temizle</translation>
     </message>
     <message>
         <source>Add Picture Frame</source>
@@ -28061,7 +28061,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Equation BorderBox Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Kenarlık İşlevi</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -28630,7 +28630,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Equation Array Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Dizi İşlevi</translation>
     </message>
     <message>
         <source>PasteAsValues</source>
@@ -29934,7 +29934,8 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>Error Value </source>
@@ -29958,7 +29959,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin Olarak Yapıştır</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -29991,7 +29992,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     <message>
         <source>WeChat Customer Service</source>
         <comment>Linux Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -30099,12 +30100,13 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Windows Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Empty Cell</source>
@@ -30376,7 +30378,7 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     <message>
         <source>WeChat Customer Service</source>
         <comment>Linux Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -30644,7 +30646,7 @@ Aktar</translation>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Windows Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -33683,7 +33685,7 @@ Açık</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Çizgi Deseni</translation>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -33691,7 +33693,7 @@ Açık</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -33902,7 +33904,7 @@ Shape</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -34739,7 +34741,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Çizgi Deseni</translation>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -34747,11 +34749,11 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -34951,7 +34953,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -35378,7 +35380,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -35510,7 +35512,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -35653,7 +35655,8 @@ Ekle</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -35709,7 +35712,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -35813,7 +35816,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Graphic Fill</source>
@@ -36013,7 +36016,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Çizgi Deseni</translation>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -36025,7 +36028,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -36201,7 +36204,7 @@ Picture</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -36427,7 +36430,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Çizgi Deseni</translation>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -36439,7 +36442,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -36577,7 +36580,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -38366,7 +38369,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Çizgi Deseni</translation>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -38374,7 +38377,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -38510,7 +38513,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -39218,7 +39221,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation>Özet Tablo Seçenekleri</translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Displa&amp;y item labels when no fields are in the values area</source>
@@ -39394,7 +39397,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation>Özet Tablo Seçenekleri</translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Restore Window</source>
@@ -39426,7 +39429,8 @@ Okuma</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -40291,11 +40295,11 @@ Number of values that were not replaced because they are in read-only rich data:
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Center</source>
@@ -40329,7 +40333,8 @@ Ortala</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation>Birleştir ve Ortala</translation>
+        <translation>Birleştir ve 
+Ortala</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -41247,7 +41252,8 @@ Düzeni</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -41856,7 +41862,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation>Özet Tablo Seçenekleri</translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -42487,7 +42493,8 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation>Dış Veri</translation>
+        <translation>Dış 
+Veri</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -42588,7 +42595,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -44238,7 +44245,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>Lis&amp;teye ekle</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -44246,7 +44253,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>&amp;Add to the list</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Listeye ekle</translation>
     </message>
     <message>
         <source>Advanced Query</source>
@@ -46056,7 +46063,8 @@ Düzeni</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -47616,7 +47624,8 @@ Properties</source>
     </message>
     <message>
         <source>Relative References</source>
-        <translation>Göreli Başvurular</translation>
+        <translation>Göreli 
+Başvurular</translation>
     </message>
     <message>
         <source>Exit
@@ -48775,7 +48784,8 @@ Document</source>
     </message>
     <message>
         <source>External Data</source>
-        <translation>Dış Veri</translation>
+        <translation>Dış 
+Veri</translation>
     </message>
     <message>
         <source>Edit
@@ -48827,7 +48837,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>More Border Colors</source>
-        <translation>Diğer Kenarlık Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
 </context>
 <context>
@@ -52270,7 +52280,8 @@ Alternativly, you can click the left-side pane if you want to switch to other ch
     </message>
     <message>
         <source>Relative References</source>
-        <translation>Göreli Başvurular</translation>
+        <translation>Göreli 
+Başvurular</translation>
     </message>
 </context>
 <context>
@@ -53322,11 +53333,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>changeLinkDlg</name>
     <message>
         <source>ChangeLink</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıyı Değiştir</translation>
     </message>
     <message>
         <source>ChangeLink into:</source>
-        <translation type="unfinished"/>
+        <translation>Şu bağlantıları değiştir</translation>
     </message>
 </context>
 <context>
@@ -54901,7 +54912,8 @@ Düzenle</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>Error Value </source>
@@ -54961,7 +54973,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin Olarak Yapıştır</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -54985,11 +54997,11 @@ Düzenle</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Diğer Yazı Tipi Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -55291,7 +55303,7 @@ Ortala</translation>
     </message>
     <message>
         <source>More Border Colors</source>
-        <translation>Diğer Kenarlık Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
@@ -55734,7 +55746,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -55822,7 +55834,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -56594,7 +56606,8 @@ Başvuru</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
@@ -57052,7 +57065,7 @@ Taşı</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Çizgi Deseni</translation>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -57060,7 +57073,7 @@ Taşı</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -57261,7 +57274,7 @@ Taşı</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -57552,7 +57565,7 @@ Taşı</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -57680,7 +57693,7 @@ Taşı</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -57811,7 +57824,8 @@ Taşı</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Biçim  Boyacısı</translation>
+        <translation>Biçim 
+Boyacısı</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -57867,7 +57881,7 @@ Taşı</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Çizgi Deseni</translation>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -57879,7 +57893,7 @@ Taşı</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -58012,7 +58026,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -58209,7 +58223,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Çizgi Deseni</translation>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
@@ -58221,7 +58235,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -58357,7 +58371,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -58642,7 +58656,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Line Pattern</source>
-        <translation>Çizgi Deseni</translation>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -58650,7 +58664,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Diğer Dolgu Renkleri</translation>
+        <translation>Diğer Renkler</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -58790,7 +58804,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Çizgi Stili</translation>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -58945,7 +58959,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation>Özet Tablo Seçenekleri</translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -59403,7 +59417,8 @@ Düzeni</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF&apos;ye 
+Aktar</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -60170,7 +60185,8 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translation>Göreli Başvurular</translation>
+        <translation>Göreli 
+Başvurular</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -60265,7 +60281,8 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation>Dış Veri</translation>
+        <translation>Dış 
+Veri</translation>
     </message>
     <message>
         <source>Banded Rows</source>
