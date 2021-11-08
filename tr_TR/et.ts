@@ -16713,7 +16713,7 @@ Uyarı: İkinci işlenen sayıyı metin olarak sorgularsa, hem başına hem de s
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Dosyalar(*.*)|*.*|Tüm Veri Kaynakları(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Veritabanları(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Veritabanları(*.dbc)|*.dbc|DBase Dosyaları(*.dbf)|*.dbf|Excel Dosyaları(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Elektronik Tablo Dosyaları(*.et)|*.et|CSV Metin Dosyaları(*.csv)|*.csv|PRN Metin Dosyaları(*.prn)|*.prn|Metin Dosyaları(*.txt)|*.txt|Ofis Veritabanı Bağlantıları(*.odc)|*.odc|Microsoft Veri bağlantıları(*.udl)|*.udl|ODBC Dosya DSN&apos;leri(*.dsn)|*.dsn|Sorgu Dosyası(*.dqy)|*.dqy</translation>
     </message>
     <message>
         <source>Fail to open file.There may be one of the following problems:
@@ -19544,7 +19544,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekran görüntüsü alırken geçerli pencereyi gizle</translation>
     </message>
     <message>
         <source>% Difference From</source>
@@ -27421,7 +27421,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>SplitMerge</source>
-        <translation type="unfinished"/>
+        <translation>Belgeyi Böl/Birleştir</translation>
     </message>
     <message>
         <source>Merge Tables</source>
@@ -27450,7 +27450,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>document authentication</source>
-        <translation type="unfinished"/>
+        <translation>Belge doğrulama</translation>
     </message>
     <message>
         <source>Timing Backup Menu</source>
@@ -27608,7 +27608,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Equation Delimiter Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Parantez İşlevi</translation>
     </message>
     <message>
         <source>Microsoft Excel Files</source>
@@ -27632,7 +27632,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Equation Normal Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Matematik Denklemi</translation>
     </message>
     <message>
         <source>Editing is limited</source>
@@ -27758,7 +27758,7 @@ Dondur</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation>Microsoft Excel 97-2003 Dosyaları</translation>
+        <translation>Microsoft Excel 97-2003 Dosyaları (*.xls)</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -27912,7 +27912,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Equation Matrix Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Matris İşlevi</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -28073,7 +28073,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Equation Limit Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Limit İşlevi</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -28150,7 +28150,7 @@ Sıkıştırma</translation>
     </message>
     <message>
         <source>NewChart DropLine</source>
-        <translation type="unfinished"/>
+        <translation>İzdüşüm Çizgileri</translation>
     </message>
     <message>
         <source>Image Preview</source>
@@ -28248,7 +28248,7 @@ Doldurma</translation>
     </message>
     <message>
         <source>NewChart DataLabels</source>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketleri</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -28260,11 +28260,11 @@ Doldurma</translation>
     </message>
     <message>
         <source>NewChart HighLowLine</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek-Alçak Çizgileri</translation>
     </message>
     <message>
         <source>InsertLatex</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX Ekle</translation>
     </message>
     <message>
         <source>Recent File Management</source>
@@ -28318,7 +28318,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Equation Group Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Grup İşlevi</translation>
     </message>
     <message>
         <source>Header Row</source>
@@ -28338,7 +28338,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>setting MB</source>
-        <translation type="unfinished"/>
+        <translation>Gizli Olarak İşaretle</translation>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
@@ -28367,8 +28367,7 @@ with same name in workbooks</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Tam 
-Ekran</translation>
+        <translation>Tam Ekran</translation>
     </message>
     <message>
         <source>Fetch duplicates</source>
@@ -28544,11 +28543,11 @@ Ekran</translation>
     </message>
     <message>
         <source>Equation Function Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>İşlevler</translation>
     </message>
     <message>
         <source>Equation Fraction Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Kesir İşlevi</translation>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -28658,7 +28657,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Equation Bar Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi İşlevi</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -28674,7 +28673,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
-        <translation type="unfinished"/>
+        <translation>Göz Koruma (Gece) Modu</translation>
     </message>
     <message>
         <source>Fetch unique values</source>
@@ -28690,7 +28689,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>NewChart LegendEntry</source>
-        <translation type="unfinished"/>
+        <translation>Gösterge Girişi</translation>
     </message>
     <message>
         <source>Show Formulas</source>
@@ -41361,7 +41360,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Geri Bildirim ve Öneriler</translation>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -41489,7 +41488,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekran görüntüsü alırken geçerli pencereyi gizle</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -42058,8 +42057,7 @@ Preview</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Tam 
-Ekran</translation>
+        <translation>Tam Ekran</translation>
     </message>
     <message>
         <source>Security</source>
@@ -56498,7 +56496,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation>Microsoft Excel 97-2003 Dosyaları</translation>
+        <translation>Microsoft Excel 97-2003 Dosyaları (*.xls)</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -56639,7 +56637,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
-        <translation>Microsoft Excel 2007-2010 Dosyaları</translation>
+        <translation>Microsoft Excel 2007-2010 Dosyaları (*.xlsx)</translation>
     </message>
 </context>
 <context>
