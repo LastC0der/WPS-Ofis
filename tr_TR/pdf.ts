@@ -7755,7 +7755,7 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Linux Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -7911,7 +7911,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>WeChat Customer Service</source>
-        <translation>WeChat&apos;te WPS Müşteri Hizmetleri</translation>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Maximize Window</source>
@@ -7928,7 +7928,7 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>WeChat Customer Service</source>
         <comment>Windows Version</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Recharge</source>
