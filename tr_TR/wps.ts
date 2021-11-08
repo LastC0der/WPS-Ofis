@@ -2962,7 +2962,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kısayollar</translation>
     </message>
     <message>
         <source>Cut and paste options</source>
@@ -3314,7 +3314,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Insertions:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eklemeler:</translation>
     </message>
     <message>
         <source>Ob&amp;ject anchors</source>
@@ -3550,7 +3550,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Default insert images of original size(&amp;J)</source>
-        <translation>Varsayılan &amp;orijinal boyuttaki görüntüleri ekle</translation>
+        <translation>Görüntüleri varsayılan olarak ori&amp;jinal boyutlarında ekle</translation>
     </message>
     <message>
         <source>Treat as equal</source>
@@ -6332,7 +6332,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>So&amp;l</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
@@ -6384,7 +6384,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağ</translation>
     </message>
     <message>
         <source>&amp;Three</source>
@@ -6779,11 +6779,11 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>So&amp;l</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağ</translation>
     </message>
     <message>
         <source>Tab stops to be cleared:</source>
@@ -8112,7 +8112,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -13224,7 +13224,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Gradyan</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -17411,7 +17411,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Right Tab</source>
@@ -19302,7 +19302,7 @@ Screen</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Track Changes Context Menu</source>
@@ -22093,7 +22093,7 @@ Denetimi</translation>
     <message>
         <source>Unformatted Text</source>
         <comment>TxHint_PasteText</comment>
-        <translation>Biçimlendirilmemiş Metin</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Create Text Box</source>
@@ -23027,7 +23027,7 @@ Protection</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -23059,7 +23059,7 @@ Protection</source>
     </message>
     <message>
         <source>Insert SmartArt Graphic</source>
-        <translation type="unfinished"/>
+        <translation>SmartArt Grafiği Ekle</translation>
     </message>
     <message>
         <source>Dark List Accent 1</source>
@@ -24345,7 +24345,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -28504,7 +28504,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Colla&amp;te</source>
@@ -28778,7 +28778,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>So&amp;l</translation>
     </message>
     <message>
         <source>Width and spacing</source>
@@ -28786,7 +28786,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağ</translation>
     </message>
     <message>
         <source>&amp;Three</source>
@@ -28837,7 +28837,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>So&amp;l</translation>
     </message>
     <message>
         <source>&amp;None</source>
@@ -36291,7 +36291,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Insert Content Control</source>
-        <translation type="unfinished"/>
+        <translation>&amp;İçerik Denetimi Ekle</translation>
     </message>
     <message>
         <source>&amp;Map to Selected Content Control</source>
@@ -36709,15 +36709,15 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Yönlendirme</translation>
     </message>
     <message>
         <source>Print Order</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma Sırası</translation>
     </message>
     <message>
         <source>Printer</source>
@@ -38119,11 +38119,11 @@ Temizle</translation>
     </message>
     <message>
         <source>Delete Soft Return</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sonunu Sil</translation>
     </message>
     <message>
         <source>Convert Soft Return to Return</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sonunu Paragraf Sonuna Dönüştür</translation>
     </message>
     <message>
         <source>Insert Blank Paragraphs</source>
@@ -38596,7 +38596,7 @@ Temizle</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>So&amp;l</translation>
     </message>
     <message>
         <source>%, 1, 1, 100, 1</source>
@@ -38612,7 +38612,7 @@ Temizle</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağ</translation>
     </message>
     <message>
         <source>&amp;Width</source>
@@ -39025,7 +39025,7 @@ Temizle</translation>
     <name>KxWidgetLayout</name>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>So&amp;l</translation>
     </message>
     <message>
         <source>Wrapping style</source>
@@ -39037,7 +39037,7 @@ Temizle</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağ</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
@@ -41263,7 +41263,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <source>&amp;Address fields</source>
@@ -43083,7 +43083,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <source>For &amp;which caption:</source>
@@ -43548,7 +43548,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <source>Footnote and Endnote</source>
@@ -48551,7 +48551,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Biçimlendirilmemiş Metin</translation>
+        <translation>Yalnızca Metni Koru</translation>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -54163,11 +54163,11 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Print Order</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma Sırası</translation>
     </message>
     <message>
         <source>Printer</source>
