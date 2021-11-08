@@ -16074,7 +16074,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekran görüntüsü alırken geçerli pencereyi gizle</translation>
     </message>
     <message>
         <source>Square</source>
@@ -17919,7 +17919,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Geri Bildirim ve Öneriler</translation>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>MoreFontFill</source>
@@ -17983,7 +17983,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>ExtendObjectTrigger</source>
-        <translation type="unfinished"/>
+        <translation>Kapsam Nesnesini Düzenle</translation>
     </message>
     <message>
         <source>Vertical Page Position. Click to Open &quot;Go To&quot; dialog.</source>
@@ -18424,7 +18424,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekran görüntüsü alırken geçerli pencereyi gizle</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -18484,7 +18484,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>NewChart Gridline</source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Collapse</source>
@@ -18713,7 +18713,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>NewChart DropLine</source>
-        <translation type="unfinished"/>
+        <translation>İzdüşüm Çizgileri</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -18922,7 +18922,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>NewChart HighLowLine</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek-Alçak Çizgileri</translation>
     </message>
     <message>
         <source>structure</source>
@@ -18934,7 +18934,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>InsertLatex</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX Ekle</translation>
     </message>
     <message>
         <source>ShortSymbol</source>
@@ -19398,7 +19398,7 @@ Screen</source>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
-        <translation type="unfinished"/>
+        <translation>Göz Koruma (Gece) Modu</translation>
     </message>
     <message>
         <source>Light Mode</source>
@@ -19406,7 +19406,7 @@ Screen</source>
     </message>
     <message>
         <source>NewChart LegendEntry</source>
-        <translation type="unfinished"/>
+        <translation>Gösterge Girişi</translation>
     </message>
     <message>
         <source>Table Column Context Menu</source>
@@ -19597,7 +19597,7 @@ Painter</source>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Geri Bildirim ve Öneriler</translation>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Show Taskpane</source>
@@ -30832,7 +30832,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Geri Bildirim ve Öneriler</translation>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Picture Style</source>
@@ -30980,7 +30980,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekran görüntüsü alırken geçerli pencereyi gizle</translation>
     </message>
     <message>
         <source>Shapes</source>
