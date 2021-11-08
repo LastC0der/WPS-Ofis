@@ -1008,7 +1008,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Default insert images of &amp;original size</source>
-        <translation>Varsayılan olarak, &amp;orijinal boyuttaki görüntüleri ekleyin</translation>
+        <translation>Görüntüleri varsayılan olarak &amp;orijinal boyutlarında ekle</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Workbook (*.xls)</source>
@@ -8728,7 +8728,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Find_text</source>
@@ -34468,7 +34468,7 @@ Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürü
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>Print what</source>
