@@ -12674,7 +12674,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekran görüntüsü alırken geçerli pencereyi gizle</translation>
     </message>
     <message>
         <source>Last Viewed</source>
@@ -14402,7 +14402,7 @@ Slide</source>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation>Simge Kitaplığı</translation>
+        <translation>Simge Kütüphanesi</translation>
     </message>
     <message>
         <source>Link Preview</source>
@@ -14667,7 +14667,7 @@ Slide</source>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekran görüntüsü alırken geçerli pencereyi gizle</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -14675,7 +14675,7 @@ Slide</source>
     </message>
     <message>
         <source>NewChart LeadLine</source>
-        <translation type="unfinished"/>
+        <translation>Öncü Çizgiler</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -15014,7 +15014,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>NewChart HighLowLine</source>
-        <translation>Yüksek-Düşük Çizgiler</translation>
+        <translation>Yüksek-Alçak Çizgileri</translation>
     </message>
     <message>
         <source>Object Formatting</source>
@@ -15030,7 +15030,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>InsertLatex</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX Ekle</translation>
     </message>
     <message>
         <source>ShortSymbol</source>
@@ -15434,7 +15434,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>NewChart LegendEntry</source>
-        <translation type="unfinished"/>
+        <translation>Gösterge Girişi</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
@@ -16394,7 +16394,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Geri Bildirim ve Öneriler</translation>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -16538,7 +16538,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekran görüntüsü alırken geçerli pencereyi gizle</translation>
     </message>
     <message>
         <source>PDF To PPT</source>
