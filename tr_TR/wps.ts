@@ -10451,7 +10451,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Text c&amp;ustom angle:</source>
-        <translation>Ö&amp;zel açı:</translation>
+        <translation>Metin ö&amp;zel açısı:</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -10503,7 +10503,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Borderless</source>
-        <translation>Kenarlıksız</translation>
+        <translation>Kenar boşluğu yok</translation>
     </message>
     <message>
         <source>D&amp;o not rotate text</source>
@@ -10535,11 +10535,11 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Enter 0 to 55.88 cm of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 55,88 cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>Widening Margins</source>
-        <translation type="unfinished"/>
+        <translation>Kenar Boşluklarını Genişlet</translation>
     </message>
 </context>
 <context>
@@ -17827,7 +17827,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Document Collaboration</source>
-        <translation type="unfinished"/>
+        <translation>Belge İşbirliği</translation>
     </message>
     <message>
         <source>Local Search</source>
@@ -17852,7 +17852,7 @@ Break</source>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Yakalama ve OCR</translation>
     </message>
     <message>
         <source>Page Number. Click to open &quot;Go To&quot; dialog.</source>
@@ -17923,7 +17923,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>MoreFontFill</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Metin Dolgusu</translation>
     </message>
     <message>
         <source>Reading View</source>
@@ -18023,7 +18023,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>NewChart SeriesLine</source>
-        <translation type="unfinished"/>
+        <translation>Seri Çizgisi</translation>
     </message>
     <message>
         <source>Table Text</source>
@@ -18035,7 +18035,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>File Send</source>
-        <translation type="unfinished"/>
+        <translation>Cep telefonuna gönder</translation>
     </message>
     <message>
         <source>Permission Protected</source>
@@ -18059,7 +18059,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Stili</translation>
     </message>
     <message>
         <source>IconLibrary</source>
@@ -18396,7 +18396,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>QRCode</source>
-        <translation>Karekod</translation>
+        <translation>QR Kodu</translation>
     </message>
     <message>
         <source>Manual Contents Popup Menu</source>
@@ -18528,7 +18528,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Send pictures</source>
-        <translation type="unfinished"/>
+        <translation>Resim Gönder</translation>
     </message>
     <message>
         <source>Options</source>
@@ -18540,11 +18540,11 @@ Yazdır</translation>
     </message>
     <message>
         <source>Online TableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Tablo Stilleri</translation>
     </message>
     <message>
         <source>MoreFill</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -18564,7 +18564,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>MoreOutline</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Ana Hatlar</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
@@ -18765,7 +18765,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlar</translation>
     </message>
     <message>
         <source>Unlock Field</source>
@@ -18842,7 +18842,7 @@ Sıkıştır</translation>
     <message>
         <source>Screen Grab Ocr</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Ekran Yakalama ve OCR</translation>
     </message>
     <message>
         <source>Line StatusBar</source>
@@ -18938,11 +18938,11 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>ShortSymbol</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <source>ShortWordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Operation Document</source>
@@ -19008,7 +19008,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>NewChart UpBar</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı-Çubukları</translation>
     </message>
     <message>
         <source>Toc
@@ -19029,7 +19029,8 @@ Navigation</source>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Önizleyici</translation>
     </message>
     <message>
         <source>Header Area Context Menu</source>
@@ -19066,7 +19067,7 @@ Screen</source>
     </message>
     <message>
         <source>DocerTableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Stili</translation>
     </message>
     <message>
         <source>Footer Area Context Menu</source>
@@ -19090,7 +19091,7 @@ Screen</source>
     </message>
     <message>
         <source>MoreEffects</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Efektler</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -19210,7 +19211,7 @@ Screen</source>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -19278,7 +19279,7 @@ Screen</source>
     </message>
     <message>
         <source>NewChart PlotArea</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Alanı</translation>
     </message>
     <message>
         <source>Page Section. Click to Open &quot;Go To&quot; dialog.</source>
@@ -19318,7 +19319,7 @@ Screen</source>
     </message>
     <message>
         <source>NewChart Series</source>
-        <translation type="unfinished"/>
+        <translation>Seriler</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -19342,7 +19343,7 @@ Screen</source>
     </message>
     <message>
         <source>MoreFontOutline</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Metin Anahatları</translation>
     </message>
     <message>
         <source>Design Library</source>
@@ -20139,7 +20140,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>My Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Aboneliklerim</translation>
     </message>
     <message>
         <source>Format 
@@ -29147,7 +29148,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation type="unfinished"/>
+        <translation>Resim Önizleyici</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -30860,7 +30861,7 @@ Pencere</translation>
     </message>
     <message>
         <source>File Send</source>
-        <translation type="unfinished"/>
+        <translation>Cep telefonuna gönder</translation>
     </message>
     <message>
         <source>Link Preview</source>
@@ -31013,7 +31014,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Send pictures</source>
-        <translation type="unfinished"/>
+        <translation>Resim Gönder</translation>
     </message>
     <message>
         <source>Online TableStyle</source>
@@ -31202,7 +31203,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation>İşbirliği</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -33595,7 +33596,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Cep telefonuna gönder</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -37746,7 +37747,7 @@ Numarası</translation>
     </message>
     <message>
         <source>tableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Hazır Stiller</translation>
     </message>
     <message>
         <source>medium</source>
