@@ -298,7 +298,7 @@
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"/>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>System Request</source>
@@ -2791,7 +2791,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>QRcode</source>
-        <translation>Karekod</translation>
+        <translation>QR Kodu</translation>
     </message>
     <message>
         <source>phoneCode</source>
@@ -12430,7 +12430,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Copy QRCode Successed!</source>
-        <translation type="unfinished"/>
+        <translation>QR Kodu Başarıyla Kopyalandı!</translation>
     </message>
     <message>
         <source>Scan the QR code by cell phone, you can share the file</source>
