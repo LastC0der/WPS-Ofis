@@ -457,7 +457,7 @@
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"/>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>System Request</source>
