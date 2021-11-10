@@ -968,7 +968,7 @@
     </message>
     <message>
         <source>Enter 0 to 5963.92 cm of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 5963,92 cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>Scale &amp;Height</source>
@@ -3498,7 +3498,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"/>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>System Request</source>
@@ -12144,7 +12144,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"/>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>you have logout, please login wps account and then retry again!</source>
@@ -15607,7 +15607,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Creating QRCode...</source>
-        <translation type="unfinished"/>
+        <translation>QR Kodu Oluşturuluyor...</translation>
     </message>
     <message>
         <source>Copy QRCode succeeded!</source>
@@ -15697,7 +15697,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter 0cm to 5963.92cm  of value</source>
-        <translation type="unfinished"/>
+        <translation>0 cm ile 5963,92 cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
@@ -15871,7 +15871,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Borderless</source>
-        <translation>Kenarlıksız</translation>
+        <translation>Kenar boşluğu yok</translation>
     </message>
     <message>
         <source>Narrow Margins</source>
@@ -15915,11 +15915,11 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter 0 to 55.88 cm of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 55,88 cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>Widening Margins</source>
-        <translation type="unfinished"/>
+        <translation>Kenar Boşluklarını Genişlet</translation>
     </message>
 </context>
 <context>
@@ -17637,7 +17637,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Kilit</translation>
     </message>
     <message>
         <source>Type</source>
@@ -23565,7 +23565,7 @@ Possible reasons:
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tablo Dosyaları (*.et)</translation>
     </message>
     <message>
         <source>Failed to overwrite the current document, choose another file name.</source>
@@ -28112,7 +28112,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxRnTpTitle</name>
     <message>
         <source>lock</source>
-        <translation type="unfinished"/>
+        <translation>Panelin kilidini aç</translation>
     </message>
     <message>
         <source>(page to doc area)</source>
@@ -28128,7 +28128,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>unlock</source>
-        <translation type="unfinished"/>
+        <translation>Kilit paneli</translation>
     </message>
     <message>
         <source>(page to task pane)</source>
@@ -29633,7 +29633,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Text with Font and Table Formatting.</source>
-        <translation type="unfinished"/>
+        <translation>Pano içeriği, Yazı Tipi ve Tablo Biçimlendirmeli Metin olarak eklenecektir.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Presentation Slide.</source>
@@ -34373,7 +34373,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>&lt;b&gt;Scroll Lock On&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Scroll Lock Açık&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -35702,7 +35702,7 @@ Please check network</source>
     </message>
     <message>
         <source>2.Open WPS Office, scan the QRCode on your computer</source>
-        <translation type="unfinished"/>
+        <translation>2.WPS Ofis&apos;i açın ve bilgisayarınızda QR Kodunu tarayın.</translation>
     </message>
 </context>
 <context>
@@ -38219,7 +38219,7 @@ Click to retry, or try it later~</source>
     </message>
     <message>
         <source>Scan QRCode</source>
-        <translation type="unfinished"/>
+        <translation>QR Kodunu Tara</translation>
     </message>
     <message>
         <source>copy link</source>
@@ -38232,7 +38232,8 @@ Click to retry, or try it later~</source>
     <message>
         <source>Scan the QRCode
 send document link to mobile</source>
-        <translation type="unfinished"/>
+        <translation>QR Kodu tara
+belge bağlantısını cep telefonuna gönder.</translation>
     </message>
     <message>
         <source>Create link failedT_T
