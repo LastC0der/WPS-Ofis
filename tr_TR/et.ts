@@ -5613,7 +5613,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>No unique value data found after deduplicated in the selected area.</source>
-        <translation type="unfinished"/>
+        <translation>Tekilleştirmeden sonra seçili alanda ayıklanacak değer verisi bulunamadı.</translation>
     </message>
     <message>
         <source>Please select a single row or column to operate.</source>
@@ -5763,15 +5763,15 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Please make sure there are as many columns in both selected ranges.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen iki alanın sütununun aynı olup olmadığını kontrol edin.</translation>
     </message>
     <message>
         <source>The value you entered is not a number, date, time, or string.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiğiniz değer geçerli bir sayı, tarih, saat veya dize değil.</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation>Tablo Stili</translation>
+        <translation>Tablo Stili </translation>
     </message>
     <message>
         <source>Worksheet Rename</source>
@@ -5812,7 +5812,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>InvalidColumn</source>
         <comment>TX_MergeRangeData_InvalidColumn</comment>
-        <translation type="unfinished"/>
+        <translation>Aralık 2&apos;nin sütun miktarının, aralık 1&apos;den daha büyük olduğundan emin olun.</translation>
     </message>
     <message>
         <source>Change the cell %s from &quot;%s&quot; to &quot;%s&quot;</source>
@@ -5852,7 +5852,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Part of the data extraction was lost because the extracted data was outside the maximum range of the worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Ayıklanan veriler çalışma sayfasının en fazla aralığının dışında olduğundan, veri ayıklamanın bir bölümü kaybolur.</translation>
     </message>
     <message>
         <source>cell %s</source>
@@ -5876,7 +5876,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>There is a lot of data to be processed, which may take a long time. Please confirm whether to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Büyük verilerin işlenmesi gerekiyor ve bu uzun zaman alıyor. Devam etmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Enter a formula.</source>
@@ -5896,7 +5896,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>The data in the %s that needs to be compared has been protected.</source>
-        <translation type="unfinished"/>
+        <translation>%s içinde karşılaştırılması gereken veriler zaten korunuyor.</translation>
     </message>
     <message>
         <source>Insert the %s row</source>
@@ -5904,7 +5904,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>The ranges you selected overlap each other. Please reselect.</source>
-        <translation>Seçtiğiniz aralıklar birbiriyle örtüşüyor. Lütfen yeniden seçin.</translation>
+        <translation>Seçilen veriler yinelenen alana sahip olamaz. Lütfen tekrar seçin.</translation>
     </message>
     <message>
         <source>The specified Minimum value is not a valid percentile.</source>
@@ -5928,7 +5928,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Please make sure that the selected ranges have the same headers.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen seçili alanın aynı başlıklara sahip olduğundan emin olun.</translation>
     </message>
     <message>
         <source>columns %s</source>
@@ -5994,7 +5994,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>One or more of the specified values is not a valid percentile.</source>
-        <translation>Belirtilen değerlerden biri veya daha fazlası geçerli bir yüzdelik dilim değil.</translation>
+        <translation>Belirtilen bir veya daha fazla değer geçerli yüzdelik dilim değil.</translation>
     </message>
     <message>
         <source>One or more of the specified values is not a valid percentage.</source>
@@ -6030,7 +6030,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Number of repeat</source>
-        <translation type="unfinished"/>
+        <translation>Yineleme sayısı</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -6156,7 +6156,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>&amp;Only Format As Table</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yalnızca Tablo Olarak Biçimlendir</translation>
     </message>
     <message>
         <source>Format As Table</source>
@@ -11817,7 +11817,7 @@ Koru</translation>
     </message>
     <message>
         <source>is a positive number specifying the number of times to repeat text.</source>
-        <translation type="unfinished"/>
+        <translation>metnin kaç kez yineleneceğini belirten sayı.</translation>
     </message>
     <message>
         <source>PivotChart Option</source>
@@ -14349,7 +14349,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>All Files(*.*)|*.*|All WPS Spreadsheets Files(*.et;*.ett;*.uos)|*.et;*.ett;*.uos|All Excel Files(*.xlsx;*.xlsm;*.xlsb;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc)|*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Dosyalar(*.*)|*.*|Tüm WPS Elektronik Tablo Dosyaları(*.et;*.ett;*.uos)|*.et;*.ett;*.uos|Tüm Excel Dosyaları(*.xlsx;*.xlsm;*.xlsb;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc)|*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc</translation>
     </message>
     <message>
         <source>Value must be between %d and %d.</source>
@@ -19182,7 +19182,8 @@ Eklentileri</translation>
     <message>
         <source>Split a worksheet 
 into multiple worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları İçeriğe 
+Göre Böl</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -21410,11 +21411,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Number of C&amp;olumns:</source>
-        <translation type="unfinished"/>
+        <translation>Süt&amp;un Sayısı:</translation>
     </message>
     <message>
         <source>Enter 0 to 5963.92 cm of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 5963,92 cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
@@ -21422,7 +21423,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Enter 1 to 20000 of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 20000 arasında bir değer girin</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -21513,7 +21514,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Borderless</source>
-        <translation>Kenarlıksız</translation>
+        <translation>Kenar boşluğu yok</translation>
     </message>
     <message>
         <source>Narrow Margins</source>
@@ -21521,7 +21522,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Auto &amp;Fit</source>
-        <translation type="unfinished"/>
+        <translation>Şekli metin sığacak şekilde &amp;boyutlandır</translation>
     </message>
     <message>
         <source>&amp;Columns...</source>
@@ -21553,11 +21554,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Enter 0 to 55.88 cm of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 55,88 cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>Widening Margins</source>
-        <translation type="unfinished"/>
+        <translation>Kenar Boşluklarını Genişlet</translation>
     </message>
 </context>
 <context>
@@ -27437,7 +27438,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Yakalama ve OCR</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -27548,7 +27549,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen Öğeler Eklemeyi Reddet</translation>
     </message>
     <message>
         <source>PivotTable Context Menu</source>
@@ -27620,7 +27621,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>TableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Stili</translation>
     </message>
     <message>
         <source>IconLibrary</source>
@@ -27717,7 +27718,7 @@ Dondur</translation>
     </message>
     <message>
         <source>Equation Script Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Betik işlevi</translation>
     </message>
     <message>
         <source>Select Shape</source>
@@ -27819,7 +27820,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Equation Operator Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>İşleç İşlevi</translation>
     </message>
     <message>
         <source>Column</source>
@@ -27887,7 +27888,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>WPS Skill</source>
-        <translation type="unfinished"/>
+        <translation>Beceriler</translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -27895,7 +27896,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>QRCode</source>
-        <translation>Karekod</translation>
+        <translation>QR Kodu</translation>
     </message>
     <message>
         <source>Data Market</source>
@@ -27944,7 +27945,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Equation Radical Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Radikal İşlev</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -27977,7 +27978,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Equation Large Operator Popup Menu</source>
-        <translation type="unfinished"/>
+        <translation>Büyük İşleç İşlevi</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -27989,7 +27990,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>HelpDocSearch</source>
-        <translation type="unfinished"/>
+        <translation>Ara</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -28005,7 +28006,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Send pictures</source>
-        <translation type="unfinished"/>
+        <translation>Resim Gönder</translation>
     </message>
     <message>
         <source>Reset Shape and Size</source>
@@ -28013,11 +28014,11 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Online TableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Tablo Stilleri</translation>
     </message>
     <message>
         <source>MoreFill</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgular</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -28041,7 +28042,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>MoreOutline</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Ana Hatlar</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
@@ -28138,7 +28139,7 @@ Sıkıştırma</translation>
     </message>
     <message>
         <source>Online Picture Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Resim Galerisi</translation>
     </message>
     <message>
         <source>NewChart DataTable</source>
@@ -28166,7 +28167,7 @@ Sıkıştırma</translation>
     </message>
     <message>
         <source>DocerFeature</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı Asistan</translation>
     </message>
     <message>
         <source>Name Box</source>
@@ -28198,7 +28199,7 @@ Sıkıştırma</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Şablonlar</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -28236,7 +28237,7 @@ Doldurma</translation>
     <message>
         <source>Screen Grab Ocr</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Ekran Yakalama ve OCR</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -28272,11 +28273,11 @@ Doldurma</translation>
     </message>
     <message>
         <source>ShortSymbol</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <source>ShortWordArt</source>
-        <translation type="unfinished"/>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Clear Filter from Slicers</source>
@@ -28334,7 +28335,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>NewChart UpBar</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı-Çubukları</translation>
     </message>
     <message>
         <source>setting MB</source>
@@ -28350,7 +28351,8 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation type="unfinished"/>
+        <translation>Resim 
+Önizleyici</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -28375,7 +28377,7 @@ Screen</source>
     </message>
     <message>
         <source>Smart Organize</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik Tablo Düzenleme ve Güzelleştirme</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -28395,11 +28397,11 @@ Screen</source>
     </message>
     <message>
         <source>DocerTableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Stili</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation>WPS Elektronik Tablo Dosyaları</translation>
+        <translation>WPS Elektronik Tablo Dosyaları (*.et)</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -28411,7 +28413,7 @@ Screen</source>
     </message>
     <message>
         <source>MoreEffects</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Efektler</translation>
     </message>
     <message>
         <source>Security</source>
@@ -28439,7 +28441,7 @@ Screen</source>
     </message>
     <message>
         <source>To Float Picture</source>
-        <translation type="unfinished"/>
+        <translation>Yüzen Resim için</translation>
     </message>
     <message>
         <source>Enterprise Query</source>
@@ -28475,7 +28477,7 @@ Screen</source>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation>Tablo Olarak Biçimlendir</translation>
+        <translation>Tablo Stili</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -28527,7 +28529,7 @@ Screen</source>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation>İşbirliği</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Smart Proofing</source>
@@ -28535,7 +28537,7 @@ Screen</source>
     </message>
     <message>
         <source>Smart Chart Ai</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı Analitik</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -28621,7 +28623,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>NewChart Series</source>
-        <translation>Dizi</translation>
+        <translation>Seriler</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -28641,7 +28643,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>MoreFontOutline</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Metin Anahatları</translation>
     </message>
     <message>
         <source>Design Library</source>
@@ -41146,7 +41148,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Cep telefonuna gönder</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -41335,7 +41337,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Yakalama ve OCR</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -41392,7 +41394,7 @@ Aktar</translation>
     </message>
     <message>
         <source>File Send</source>
-        <translation type="unfinished"/>
+        <translation>Cep telefonuna gönder</translation>
     </message>
     <message>
         <source>IconLibrary</source>
@@ -41517,7 +41519,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Send pictures</source>
-        <translation type="unfinished"/>
+        <translation>Resim Gönder</translation>
     </message>
     <message>
         <source>Online TableStyle</source>
@@ -41702,7 +41704,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation>İşbirliği</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -42620,7 +42622,7 @@ Okuma</translation>
     <name>etContentPosition</name>
     <message>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Ki&amp;lit</translation>
     </message>
     <message>
         <source>PROPERTY</source>
@@ -43325,11 +43327,11 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Horizontal stripe</source>
-        <translation type="unfinished"/>
+        <translation>Yatay şerit</translation>
     </message>
     <message>
         <source>Thin Horizontal stripe</source>
-        <translation type="unfinished"/>
+        <translation>İnce Yatay şerit</translation>
     </message>
     <message>
         <source>6.5% Gray</source>
@@ -44644,7 +44646,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>tableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Stili</translation>
     </message>
     <message>
         <source>custom</source>
@@ -45283,7 +45285,7 @@ Temizle</translation>
     </message>
     <message>
         <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format, any of the permission will be removed. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli dosya, yalnızca biçim WPS Elektronik Tabloları olduğunda korunabilen izinle kısıtlanır. Dosya geçerli biçimde kaydedilirse, izinlerin tümü kaldırılacaktır. Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
@@ -56609,7 +56611,7 @@ Aktar</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation>WPS Elektronik Tablo Dosyaları</translation>
+        <translation>WPS Elektronik Tablo Dosyaları (*.et)</translation>
     </message>
     <message>
         <source>Backup Management</source>
