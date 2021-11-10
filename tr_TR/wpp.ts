@@ -186,7 +186,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Enter 0cm to 55.88cm of the Value</source>
-        <translation type="unfinished"/>
+        <translation>0cm ile 55,88cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>&amp;Background</source>
@@ -3365,7 +3365,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Kilit</translation>
     </message>
     <message>
         <source>None</source>
@@ -8694,7 +8694,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Enter 0.1 cm to 5.079 cm of value</source>
-        <translation>0.1 cm ile 5.079 cm arasında bir değer girin</translation>
+        <translation>0,1 cm ile 5,079 cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
@@ -14247,7 +14247,7 @@ Master</source>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Yakalama ve OCR</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -14370,7 +14370,7 @@ Slide</source>
     </message>
     <message>
         <source>NewChart SeriesLine</source>
-        <translation type="unfinished"/>
+        <translation>Seri Çizgisi</translation>
     </message>
     <message>
         <source>Table Cell</source>
@@ -14378,7 +14378,7 @@ Slide</source>
     </message>
     <message>
         <source>File Send</source>
-        <translation type="unfinished"/>
+        <translation>Cep telefonuna gönder</translation>
     </message>
     <message>
         <source>Permission Protected</source>
@@ -14450,11 +14450,11 @@ Slide</source>
     </message>
     <message>
         <source>MoreFontEffects</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Metin Efektleri</translation>
     </message>
     <message>
         <source>New Doc Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Beğenebilirsin</translation>
     </message>
     <message>
         <source>ActiveX Control</source>
@@ -14615,7 +14615,7 @@ Slide</source>
     </message>
     <message>
         <source>ShortThemeColor</source>
-        <translation type="unfinished"/>
+        <translation>Tema Rengi</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -14655,7 +14655,7 @@ Slide</source>
     </message>
     <message>
         <source>QRCode</source>
-        <translation>Karekod</translation>
+        <translation>QR Kodu</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -14739,7 +14739,7 @@ Slide</source>
     </message>
     <message>
         <source>Send pictures</source>
-        <translation type="unfinished"/>
+        <translation>Resim Gönder</translation>
     </message>
     <message>
         <source>Reset Shape and Size</source>
@@ -14751,7 +14751,7 @@ Slide</source>
     </message>
     <message>
         <source>MoreFill</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dolgu</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -14767,7 +14767,7 @@ Slide</source>
     </message>
     <message>
         <source>MoreOutline</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Ana Hatlar</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
@@ -14970,7 +14970,7 @@ Yapısı</translation>
     <message>
         <source>Screen Grab Ocr</source>
         <comment>Menu</comment>
-        <translation type="unfinished"/>
+        <translation>Ekran Yakalama ve OCR</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -15034,7 +15034,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>ShortSymbol</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <source>ShortWordArt</source>
@@ -15111,7 +15111,7 @@ Slide</source>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation type="unfinished"/>
+        <translation>Resim Önizleyici</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
@@ -15168,7 +15168,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>MoreEffects</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Efektler</translation>
     </message>
     <message>
         <source>Slide Background</source>
@@ -15338,7 +15338,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>NewChart PlotArea</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Alanı</translation>
     </message>
     <message>
         <source>Change Node Num</source>
@@ -15386,7 +15386,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>MoreFontOutline</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Metin Anahatları</translation>
     </message>
     <message>
         <source>Design Library</source>
@@ -16418,7 +16418,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>File Send</source>
-        <translation type="unfinished"/>
+        <translation>Cep telefonuna gönder</translation>
     </message>
     <message>
         <source>Slide Layout</source>
@@ -16571,7 +16571,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Send pictures</source>
-        <translation type="unfinished"/>
+        <translation>Resim Gönder</translation>
     </message>
     <message>
         <source>Online TableStyle</source>
@@ -16796,7 +16796,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Collaboration</source>
-        <translation>İşbirliği</translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
@@ -17287,7 +17287,7 @@ Düzen</translation>
     </message>
     <message>
         <source>MoreFontEffects</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Metin Efektleri</translation>
     </message>
     <message>
         <source>Ring Outside</source>
@@ -21433,7 +21433,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Cep telefonuna gönder</translation>
     </message>
     <message>
         <source>Donate</source>
