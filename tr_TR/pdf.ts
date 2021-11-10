@@ -2818,7 +2818,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Property</source>
-        <translation type="unfinished"/>
+        <translation>Özellikler</translation>
     </message>
     <message>
         <source>[The print template] function has been migrated to the [File-Print] menu.</source>
