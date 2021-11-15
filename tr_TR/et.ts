@@ -2424,7 +2424,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source> There are some empty string before and after this content, which may cause calculation errors!</source>
-        <translation> İçerikte boş dizeler var! Hesaplama hatalarına neden olabilir.</translation>
+        <translation>İçerikte boş dizeler var! Hesaplama hatalarına neden olabilir.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
@@ -2742,8 +2742,8 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
 2.Or,change the order of calculation by using the solve Order command.</source>
         <translation>Bazı Özet Tablo hücrelerinde döngüsel başvuru bulunamaz.
 
-1. Formüllerden hiçbirinin kendi hücrelerine başvurmadığından emin olmak için hesaplanmış alanları ve öğe formüllerini denetleyin.
-2. Veya Çözüm Sırası komutunu kullanarak hesaplama sırasını değiştirin.</translation>
+• Formüllerden hiçbirinin kendi hücrelerine başvurmadığından emin olmak için hesaplanmış alanları ve öğe formüllerini denetleyin.
+• Veya Çözüm Sırası komutunu kullanarak hesaplama sırasını değiştirin.</translation>
     </message>
     <message>
         <source>Max Integer Solutions</source>
@@ -2781,7 +2781,7 @@ Geri almadan devam edilsin mi?</translation>
     </message>
     <message>
         <source>There are some empty string before and after this content</source>
-        <translation>Bu içeriğin öncesinde ve sonrasında bazı boş dizeler var.</translation>
+        <translation>İçerikte boş dizeler var! Hesaplama hatalarına neden olabilir.</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -2982,11 +2982,11 @@ Değer</translation>
     </message>
     <message>
         <source>Trun on the PivotTable Field List to work with the PivotTable</source>
-        <translation>Özet Tablo ile çalışmak için Özet Tablo Alan Listesini etkinleştirin.</translation>
+        <translation>Özet Grafik ile çalışmak için Özet Tablo Alan Listesini etkinleştirin.</translation>
     </message>
     <message>
         <source>Count Nums</source>
-        <translation>Sayı Adedi</translation>
+        <translation>Sayıları Say</translation>
     </message>
     <message>
         <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
@@ -3178,7 +3178,7 @@ Bağlantıları onarmak için bir sayfa seçin ve sonra Bağlantıları Düzenle
     </message>
     <message>
         <source>Count Nums=</source>
-        <translation>Sayı Adedi=</translation>
+        <translation>Sayıları Say=</translation>
     </message>
     <message>
         <source>Highlighting Data</source>
@@ -4052,7 +4052,7 @@ Bunun nedenleri şunları içerebilir:
     <message>
         <source>Count Nums</source>
         <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNTNUMS</comment>
-        <translation>Sayı Adedi</translation>
+        <translation>Sayıları Say</translation>
     </message>
     <message>
         <source>Cannot extend list or database.</source>
@@ -14478,7 +14478,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Drop Column Fields Here</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Alanlarını Buraya Bırakın</translation>
     </message>
 </context>
 <context>
@@ -14508,7 +14508,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>tall</source>
-        <translation type="unfinished"/>
+        <translation>uzun</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
@@ -14536,7 +14536,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Sca&amp;le with document</source>
-        <translation type="unfinished"/>
+        <translation>Belgeyle ölçeklen&amp;dir</translation>
     </message>
     <message>
         <source>D&amp;ifferent first page</source>
