@@ -1976,8 +1976,8 @@ Tek bir bölge seçin ve ardından bu komutu yeniden uygulayın.</translation>
     <message>
         <source>Smart fill cannot be performed without a sample. 
 Try entering some sample data before performing Smart Fill.</source>
-        <translation>Akıllı doldurma örnek olmadan yapılamaz. 
-Akıllı Doldurma işlemini gerçekleştirmeden önce bazı örnek veriler girmeyi deneyin.</translation>
+        <translation>Hızlı doldurma örnek olmadan yapılamaz. 
+Hızlı Doldurma işlemini gerçekleştirmeden önce bazı örnek veriler girmeyi deneyin. </translation>
     </message>
     <message>
         <source>This operation will cause some merged cells to unmerge. Do you wish to continue?</source>
@@ -2424,7 +2424,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source> There are some empty string before and after this content, which may cause calculation errors!</source>
-        <translation> Bu içeriğin öncesinde ve sonrasında bazı boş dizeler var ve bu da hesaplama hatalarına neden olabilir!</translation>
+        <translation> İçerikte boş dizeler var! Hesaplama hatalarına neden olabilir.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
@@ -4770,7 +4770,7 @@ WPS Elektronik Tablolar&apos;ın aynı örneğinde düzenleyip yeniden yerleşti
     </message>
     <message>
         <source>The data will not be saved with other pivot tables that share the same source data with this PivotTable.</source>
-        <translation>Veriler, bu raporun kullandığı veri kaynağını kullanan diğer Özet Tablo raporları ile birlikte kaydedilecek.</translation>
+        <translation>Veriler, bu raporun kullandığı veri kaynağını kullanan diğer Özet Tablo raporları ile birlikte kaydedilmeyecek.</translation>
     </message>
     <message>
         <source>Connecting to %s</source>
@@ -22243,7 +22243,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>A macro is currently recording. Click to stop recording.</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda bir makro kaydediliyor. Kaydı durdurmak için tıklayın.</translation>
     </message>
     <message>
         <source>Context</source>
