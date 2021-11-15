@@ -969,7 +969,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Password to &amp;modify:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değiştirme parolası:</translation>
     </message>
     <message>
         <source>Default HomePage(&amp;Y):</source>
