@@ -4149,7 +4149,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Lower</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Harf</translation>
     </message>
     <message>
         <source>THREE</source>
@@ -4161,7 +4161,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Upper</source>
-        <translation type="unfinished"/>
+        <translation>Büyük Harf</translation>
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
@@ -8710,7 +8710,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Position: </source>
-        <translation type="unfinished"/>
+        <translation>Konum: </translation>
     </message>
     <message>
         <source>From current page</source>
@@ -13482,7 +13482,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Paragraph Tools</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Araçları</translation>
     </message>
     <message>
         <source>Official Font</source>
@@ -20310,11 +20310,11 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Conf&amp;irm:</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla:</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished"/>
+        <translation>İzin ayarlarını korumak için &amp;parola</translation>
     </message>
     <message>
         <source>Free printing</source>
@@ -20485,7 +20485,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Conf&amp;irm:</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla:</translation>
     </message>
     <message>
         <source>Free printing</source>
@@ -20581,7 +20581,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished"/>
+        <translation>İzin ayarlarını korumak için &amp;parola</translation>
     </message>
 </context>
 <context>
@@ -22586,7 +22586,7 @@ Protection</source>
     </message>
     <message>
         <source>Merge to Printer</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcıya Birleştir</translation>
     </message>
     <message>
         <source>Insert Building Block</source>
@@ -22723,7 +22723,7 @@ Protection</source>
     </message>
     <message>
         <source>Border Left</source>
-        <translation type="unfinished"/>
+        <translation>Kenarlık Sol</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
@@ -22970,7 +22970,7 @@ Protection</source>
     </message>
     <message>
         <source>Merge to Email</source>
-        <translation type="unfinished"/>
+        <translation>E-postaya Birleştir</translation>
     </message>
     <message>
         <source>Uncollated(Print page by page)</source>
@@ -40041,7 +40041,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Style &amp;based on:</source>
-        <translation type="unfinished"/>
+        <translation>Stil &amp;kaynağı:</translation>
     </message>
     <message>
         <source>Modify Style</source>
@@ -40716,7 +40716,8 @@ Numarası</translation>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation type="unfinished"/>
+        <translation>Önceki 
+Kayıt</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
@@ -40724,7 +40725,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Merge to Email</source>
-        <translation type="unfinished"/>
+        <translation>E-postaya Birleştir</translation>
     </message>
 </context>
 <context>
@@ -41236,7 +41237,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Password</source>
-        <translation>&amp;Parola</translation>
+        <translation>Çevrimdışı &amp;Parolayı Yönet</translation>
     </message>
 </context>
 <context>
@@ -41318,7 +41319,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Number position(&amp;P):</source>
-        <translation type="unfinished"/>
+        <translation>N&amp;umara konumu:</translation>
     </message>
 </context>
 <context>
@@ -41329,7 +41330,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Level%1</source>
-        <translation type="unfinished"/>
+        <translation>Düzey%1</translation>
     </message>
     <message>
         <source>Heading %1</source>
@@ -41351,7 +41352,7 @@ If unnecessary, please click Cancel.</source>
     <name>KxLineStyleWidget</name>
     <message>
         <source>Style</source>
-        <translation type="unfinished"/>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>Distance</source>
@@ -41359,7 +41360,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Uzunluk</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -41464,7 +41465,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>A macro is currently recording. Click to stop recording.</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda bir makro kaydediliyor. Kaydı durdurmak için tıklayın.</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 File(*.wpsx)</source>
@@ -43743,15 +43744,16 @@ Try one or more of the following:
     </message>
     <message>
         <source>Previous Record</source>
-        <translation type="unfinished"/>
+        <translation>Önceki 
+Kayıt</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcıya Birleştir</translation>
     </message>
     <message>
         <source>Merge to Email</source>
-        <translation type="unfinished"/>
+        <translation>E-postaya Birleştir</translation>
     </message>
 </context>
 <context>
@@ -43947,7 +43949,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Merge to Printer</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcıya Birleştir</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -48292,7 +48294,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Paragraph Tools</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Araçları</translation>
     </message>
     <message>
         <source>Sagittate Bullet </source>
@@ -54500,11 +54502,12 @@ Different New Document</source>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation type="unfinished"/>
+        <translation>Önceki 
+Kayıt</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcıya Birleştir</translation>
     </message>
     <message>
         <source>View
@@ -54513,7 +54516,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Merge to Email</source>
-        <translation type="unfinished"/>
+        <translation>E-postaya Birleştir</translation>
     </message>
     <message>
         <source>Merge
