@@ -346,7 +346,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation>Önizleme</translation>
+        <translation>Önizleme:</translation>
     </message>
     <message>
         <source>rotate45°</source>
@@ -630,7 +630,7 @@
     </message>
     <message>
         <source>Load page effect</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme sayfasının etkisi:</translation>
     </message>
     <message>
         <source>Doc read options</source>
@@ -1197,7 +1197,7 @@
     </message>
     <message>
         <source>Copying text</source>
-        <translation type="unfinished"/>
+        <translation>Metni kopyala</translation>
     </message>
     <message>
         <source>You have selected too many erase pages(&gt;1). Please batches operations</source>
@@ -1331,7 +1331,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Are you sure to delete the selected page?The operation is irrevocable</source>
-        <translation type="unfinished"/>
+        <translation>Seçili sayfaları silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.</translation>
     </message>
     <message>
         <source>because the file is not surpported or damaged.</source>
@@ -1701,11 +1701,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>The document is Picture, You can only add text.</source>
-        <translation type="unfinished"/>
+        <translation>Belge bir resimdir ve yalnızca metin eklenmesine izin verir.</translation>
     </message>
     <message>
         <source>The signature cannot be verified.</source>
-        <translation type="unfinished"/>
+        <translation>İmza doğrulanamıyor.</translation>
     </message>
     <message>
         <source>The current document need to be saved before corrected.</source>
@@ -2224,7 +2224,7 @@ The operation is irrevocable</source>
     <name>KxPdfToConvertTxtDialog</name>
     <message>
         <source>p</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>to</source>
@@ -3366,7 +3366,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Download failed, please check the network status.</source>
-        <translation type="unfinished"/>
+        <translation>İndirme başarısız oldu, lütfen ağı kontrol edin</translation>
     </message>
 </context>
 <context>
@@ -6093,7 +6093,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ApplyMultiPage</source>
-        <translation type="unfinished"/>
+        <translation>Birden Çok Sayfaya Uygula</translation>
     </message>
     <message>
         <source>Measure Scale</source>
@@ -6957,7 +6957,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Blank Pages</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sayfa</translation>
     </message>
     <message>
         <source>TextContentQuery</source>
@@ -8334,7 +8334,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Copying text</source>
-        <translation type="unfinished"/>
+        <translation>Metni kopyala</translation>
     </message>
     <message>
         <source>The text was copied successfully and saved to the clipboard</source>
@@ -8388,7 +8388,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Copying text</source>
-        <translation type="unfinished"/>
+        <translation>Metni kopyala</translation>
     </message>
 </context>
 <context>
@@ -8439,7 +8439,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Paragraph Tools</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Araçları</translation>
     </message>
     <message>
         <source>TranslationAll</source>
@@ -8835,11 +8835,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Signature property</source>
-        <translation type="unfinished"/>
+        <translation>İmza özelliği</translation>
     </message>
     <message>
         <source>The signature cannot be verified.</source>
-        <translation type="unfinished"/>
+        <translation>İmza doğrulanamıyor.</translation>
     </message>
     <message>
         <source>Autograph</source>
@@ -13475,15 +13475,15 @@ Please batches operations</source>
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished"/>
+        <translation>Sebep</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>Konum</translation>
     </message>
     <message>
         <source>Signature property</source>
-        <translation type="unfinished"/>
+        <translation>İmza özelliği</translation>
     </message>
     <message>
         <source>Signature time</source>
@@ -14383,7 +14383,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>The current document is a scan-type file, and it is not possible to search all the text. You can convert the file into a searchable and copyable PDF file through &lt;font color=#417FF9&gt;scan recognition&lt;/font&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli belge taranmış bir kopyadır ve metin aramayı desteklemiyor. Dosyayı,  &lt;font color=#417FF9&gt;Tarama Tanıma&lt;/font&gt; aracılığıyla aranabilir ve kopyalanabilir bir PDF dosyasına dönüştürebilirsiniz.</translation>
     </message>
     <message>
         <source>Recognition</source>
@@ -15266,7 +15266,7 @@ For File Lost or Path Changed!</source>
     <name>KSignatureLockButton</name>
     <message>
         <source>fixed to list</source>
-        <translation type="unfinished"/>
+        <translation>Listeye sabitlendi</translation>
     </message>
     <message>
         <source>unfixed from list</source>
