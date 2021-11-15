@@ -187,7 +187,7 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Parola:</translation>
     </message>
     <message>
         <source>Address:</source>
