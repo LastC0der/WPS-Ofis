@@ -34057,7 +34057,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>&amp;Password</source>
-        <translation>&amp;Parola</translation>
+        <translation>Çevrimdışı &amp;Parolayı Yönet</translation>
     </message>
     <message>
         <source>Offline login management</source>
