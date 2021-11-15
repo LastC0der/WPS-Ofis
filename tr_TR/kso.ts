@@ -525,7 +525,7 @@
     </message>
     <message>
         <source>Enter  0% to 100% of the Value</source>
-        <translation type="unfinished"/>
+        <translation>%0 ile %100 arasında bir değer girin</translation>
     </message>
     <message>
         <source>Top left</source>
@@ -1031,7 +1031,7 @@
     </message>
     <message>
         <source>Enter -100% to 100% of the Value</source>
-        <translation type="unfinished"/>
+        <translation>Değerin -%100 ila %100&apos;ünü girin</translation>
     </message>
     <message>
         <source>&amp;Color</source>
@@ -1039,7 +1039,7 @@
     </message>
     <message>
         <source>Enter  0% to 100% of the Value</source>
-        <translation type="unfinished"/>
+        <translation>%0 ile %100 arasında bir değer girin</translation>
     </message>
     <message>
         <source>P&amp;osition</source>
@@ -8707,7 +8707,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>DarkUpwardDiagonal</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Yukarı Köşegen</translation>
     </message>
     <message>
         <source>WordArt: Can Up</source>
@@ -10722,7 +10722,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Current Chart Name</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Grafik Adı</translation>
     </message>
     <message>
         <source>TextLabelForGroupChart</source>
@@ -10749,7 +10749,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Current Chart Name</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Grafik Adı</translation>
     </message>
     <message>
         <source>TextLabelForGroupChart</source>
@@ -16120,7 +16120,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Expanded</source>
-        <translation type="unfinished"/>
+        <translation>Genişletilmiş</translation>
     </message>
 </context>
 <context>
@@ -20574,7 +20574,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Median</source>
-        <translation type="unfinished"/>
+        <translation>Ortanca</translation>
     </message>
     <message>
         <source>Module</source>
@@ -21458,7 +21458,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Basic Georgian</source>
-        <translation type="unfinished"/>
+        <translation>Basit Gürcüce</translation>
     </message>
     <message>
         <source>Myanmar</source>
@@ -21514,7 +21514,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Canadian Aboriginal Syllabics</source>
-        <translation type="unfinished"/>
+        <translation>Kanada Aborjin Heceleri</translation>
     </message>
     <message>
         <source>Specials</source>
@@ -34834,7 +34834,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>ShareToWeixin</source>
-        <translation type="unfinished"/>
+        <translation>WeChat&apos;te paylaş</translation>
     </message>
     <message>
         <source>H5Share_Defaut_Tips</source>
