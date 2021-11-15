@@ -28757,7 +28757,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Expanded</source>
-        <translation type="unfinished"/>
+        <translation>Genişletilmiş</translation>
     </message>
     <message>
         <source>Double strikethrou&amp;gh</source>
