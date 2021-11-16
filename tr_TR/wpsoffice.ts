@@ -3803,7 +3803,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Recent Places</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan Yerler</translation>
     </message>
     <message>
         <source>Create New Folder</source>
