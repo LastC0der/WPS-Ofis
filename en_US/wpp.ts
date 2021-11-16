@@ -22130,6 +22130,10 @@ Sorter</translation>
         <translation>Vertical Text Box</translation>
     </message>
     <message>
+        <source>Annote As Pdf</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation>Text Box</translation>
     </message>
