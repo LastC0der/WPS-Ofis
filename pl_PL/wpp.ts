@@ -22148,6 +22148,10 @@ notatek</translation>
         <translation>Pionowo</translation>
     </message>
     <message>
+        <source>Annote As Pdf</source>
+        <translation>Utwórz adnotację jako PDF</translation>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation>Pole tekstowe</translation>
     </message>
