@@ -22147,6 +22147,10 @@ Diapositivos</translation>
         <translation>Vertical</translation>
     </message>
     <message>
+        <source>Annote As Pdf</source>
+        <translation>Anotar como PDF</translation>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation>Caixa de Texto</translation>
     </message>
