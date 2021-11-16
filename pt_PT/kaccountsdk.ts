@@ -621,6 +621,10 @@ makes documents beautiful</source>
         <translation>Obter versão Premium?</translation>
     </message>
     <message>
+        <source>Sign in User</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Free 7-day trial</source>
         <translation>Avaliação gratuita
 durante 7 dias</translation>
@@ -642,6 +646,10 @@ durante 7 dias</translation>
 we will make continuous improvements</source>
         <translation>Agradecemos o seu suporte.
 Apostamos no melhoramento contínuo</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1079,6 +1087,41 @@ Easy mobile office.</source>
     <message>
         <source>LoginTitle</source>
         <translation>Título de Início de Sessão</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdLoginWidgetDlg</name>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Do you want to close it</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Google</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FaceBook</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>It is trying to sign in with </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DropBox</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Twitter</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1539,61 +1582,6 @@ Easy mobile office.</source>
     <message>
         <source>Ctrl+F5</source>
         <translation>Ctrl+F5</translation>
-    </message>
-</context>
-<context>
-    <name>KNetworkDnsErrDlg</name>
-    <message>
-        <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation>Tempo limite do serviço excedido. Volte a tentar ou consulte</translation>
-    </message>
-    <message>
-        <source>Page load timeout,check you network and retry</source>
-        <translation>Tempo limite de carregamento da página excedido; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Service timeout</source>
-        <translation>Tempo limite do serviço excedido.</translation>
-    </message>
-    <message>
-        <source> or refer to the </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Network error,check you network and retry</source>
-        <translation>Erro de rede; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation>O pedido excedeu o tempo limite. Tente novamente ao clicar no botão para atualizar antes de verificar as definições de DNS.</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancelar</translation>
-    </message>
-    <message>
-        <source>An error occurred,check you network and retry</source>
-        <translation>Ocorreu um erro; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Atualizar</translation>
-    </message>
-    <message>
-        <source>Sync login info failed,check you network and retry</source>
-        <translation>Falha ao sincronizar informações de início de sessão; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation>Não é possível aceder ao servidor de Contas do WPS; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>DNS Settings document</source>
-        <translation>Documento de Definições de DNS</translation>
-    </message>
-    <message>
-        <source>Page load failed,check you network and retry</source>
-        <translation>Falha ao carregar página; verifique a rede e volte a tentar</translation>
     </message>
 </context>
 <context>
@@ -2094,6 +2082,65 @@ Easy mobile office.</source>
     <message>
         <source>Welcome to use WPS Office</source>
         <translation>Bem-vindo ao WPS Office</translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkDnsErrDlg</name>
+    <message>
+        <source>Page load timeout,check you network and retry</source>
+        <translation>Tempo limite de carregamento da página excedido; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>Service timeout</source>
+        <translation>Tempo limite do serviço excedido.</translation>
+    </message>
+    <message>
+        <source>Diagnosing tool</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> or refer to the </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Network error,check you network and retry</source>
+        <translation>Erro de rede; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
+        <translation>O pedido excedeu o tempo limite. Tente novamente ao clicar no botão para atualizar antes de verificar as definições de DNS.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>An error occurred,check you network and retry</source>
+        <translation>Ocorreu um erro; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Atualizar</translation>
+    </message>
+    <message>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation>Falha ao sincronizar informações de início de sessão; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation>Não é possível aceder ao servidor de Contas do WPS; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>DNS Settings document</source>
+        <translation>Documento de Definições de DNS</translation>
+    </message>
+    <message>
+        <source>Page load failed,check you network and retry</source>
+        <translation>Falha ao carregar página; verifique a rede e volte a tentar</translation>
     </message>
 </context>
 <context>
