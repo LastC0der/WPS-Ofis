@@ -44800,7 +44800,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Chart Title</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Başlığı</translation>
     </message>
     <message>
         <source>carry on</source>
