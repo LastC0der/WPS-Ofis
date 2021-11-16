@@ -22148,6 +22148,10 @@ de diapositives</translation>
         <translation>Vertical</translation>
     </message>
     <message>
+        <source>Annote As Pdf</source>
+        <translation>Annoter comme PDF</translation>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation>Zone de texte</translation>
     </message>
