@@ -1502,7 +1502,7 @@ cycle</source>
     </message>
     <message>
         <source>Nonbreaking Space</source>
-        <translation type="unfinished"/>
+        <translation>Bölünemez Boşluk</translation>
     </message>
     <message>
         <source>Enter network password to connect to:%1</source>
@@ -4962,7 +4962,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Khaki</source>
-        <translation type="unfinished"/>
+        <translation>Haki</translation>
     </message>
     <message>
         <source>Linen</source>
@@ -13545,7 +13545,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Delete Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekli Sil</translation>
     </message>
     <message>
         <source>Delete Point</source>
@@ -17055,7 +17055,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Public Template</source>
-        <translation type="unfinished"/>
+        <translation>Genel Şablon</translation>
     </message>
     <message>
         <source>Add Permission Template</source>
@@ -17079,7 +17079,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Personal Template</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Şablon</translation>
     </message>
 </context>
 <context>
@@ -17129,7 +17129,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Choose outward password</source>
-        <translation type="unfinished"/>
+        <translation>Harici şifreyi seçin</translation>
     </message>
 </context>
 <context>
@@ -17160,7 +17160,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Public Template</source>
-        <translation type="unfinished"/>
+        <translation>Genel Şablon</translation>
     </message>
     <message>
         <source>Clear Checked</source>
@@ -17180,7 +17180,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Personal Template</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Şablon</translation>
     </message>
 </context>
 <context>
@@ -17774,7 +17774,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Clear Search</source>
-        <translation type="unfinished"/>
+        <translation>Aramayı Temizle</translation>
     </message>
     <message>
         <source>&amp;New UserRight Template</source>
@@ -17786,7 +17786,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Public Template</source>
-        <translation type="unfinished"/>
+        <translation>Genel Şablon</translation>
     </message>
     <message>
         <source>Search</source>
@@ -17794,11 +17794,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>My User Right Template</source>
-        <translation type="unfinished"/>
+        <translation>İzin Şablonlarım</translation>
     </message>
     <message>
         <source>Template Desc:</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Açıklaması:</translation>
     </message>
     <message>
         <source>Template Name:</source>
@@ -17814,7 +17814,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Personal Template</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Şablon</translation>
     </message>
 </context>
 <context>
@@ -18084,7 +18084,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show proportional, interconnected, or hierarchical relationships with the largest component on the top and narrowing down. Level 1 text appears in the pyramid segments and Level 2 text appears in shapes alongside each segment.</source>
-        <translation type="unfinished"/>
+        <translation>Orantılı, birbirine bağlı veya hiyerarşik ilişkileri en büyük bileşen en üstte olacak ve aşağıya doğru daralan şekilde göstermek için kullanın. Düzey 1 metni piramit kesimlerinin içinde, Düzey 2 metni de her bir kesimin yanındaki şekillerde görüntülenir.</translation>
     </message>
     <message>
         <source>Use to show hierarchical relationships progressing from top to bottom and grouped hierarchically. Emphasizes heading or level 1 text. The first line of Level 1 text appears in the shape at the beginning of the hierarchy, and all subsequent lines of Level 1 text appear to the left of the long rectangles.</source>
@@ -25032,7 +25032,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Public Template</source>
-        <translation type="unfinished"/>
+        <translation>Genel Şablon</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -25056,7 +25056,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Personal Template</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Şablon</translation>
     </message>
 </context>
 <context>
@@ -32590,11 +32590,11 @@ Document</source>
     </message>
     <message>
         <source>Clear selected recievers</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alıcıları temizle</translation>
     </message>
     <message>
         <source>Clear Search</source>
-        <translation type="unfinished"/>
+        <translation>Aramayı Temizle</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -32622,7 +32622,7 @@ Document</source>
     </message>
     <message>
         <source>Enterprise Recievers List</source>
-        <translation type="unfinished"/>
+        <translation>Kurumsal Alıcı Listesi</translation>
     </message>
 </context>
 <context>
@@ -32749,7 +32749,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Trusted File Link</source>
-        <translation type="unfinished"/>
+        <translation>Güvenilir Dosya Bağlantısı</translation>
     </message>
     <message>
         <source>TrustCenter</source>
@@ -32765,15 +32765,15 @@ yazılamadı</translation>
     </message>
     <message>
         <source>File link settings</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Bağlantısı Ayarları</translation>
     </message>
     <message>
         <source>Adjust the security level for opening files that might contain macro viruses and specify the names of trusted macro developers.</source>
-        <translation type="unfinished"/>
+        <translation>Makro virüsleri içerebilecek dosyaları açmak için güvenlik düzeyini ayarlayın ve güvenilir makro geliştiricilerinin adlarını belirtin.</translation>
     </message>
     <message>
         <source>Macros &amp;Security...</source>
-        <translation type="unfinished"/>
+        <translation>Makro &amp;Güvenliği...</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
@@ -32785,7 +32785,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Macro security</source>
-        <translation type="unfinished"/>
+        <translation>Makro güvenliği</translation>
     </message>
 </context>
 <context>
@@ -32838,7 +32838,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Here you can change the color of the editing area.</source>
-        <translation type="unfinished"/>
+        <translation>Burada düzenleme alanının rengini değiştirebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -32860,7 +32860,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Nonbreaking Space</source>
-        <translation type="unfinished"/>
+        <translation>Bölünemez Boşluk</translation>
     </message>
     <message>
         <source>Single Closing Quote</source>
@@ -33425,7 +33425,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <name>KxSelectApproverDlg</name>
     <message>
         <source>You has already sumbited one apply for this document.</source>
-        <translation type="unfinished"/>
+        <translation>Bu belge için zaten bir başvuruda bulundunuz.</translation>
     </message>
     <message>
         <source>Your Apply has sumbited, please wait.</source>
@@ -34253,7 +34253,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Public Template</source>
-        <translation type="unfinished"/>
+        <translation>Genel Şablon</translation>
     </message>
     <message>
         <source>Maintainer Name : </source>
@@ -34269,7 +34269,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Personal Template</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Şablon</translation>
     </message>
 </context>
 <context>
@@ -34473,11 +34473,11 @@ share with your friends</source>
     </message>
     <message>
         <source>Could not get query info</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu bilgisi alınamadı</translation>
     </message>
     <message>
         <source>Could not find array</source>
-        <translation type="unfinished"/>
+        <translation>Dizi bulunamadı</translation>
     </message>
     <message>
         <source>Could not get array data</source>
@@ -34485,7 +34485,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Unable to execute query</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu yürütülemiyor</translation>
     </message>
     <message>
         <source>Could not prepare statement</source>
@@ -34493,7 +34493,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Could not fetch next item</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki öğe getirilemedi</translation>
     </message>
     <message>
         <source>Could not get statement info</source>
@@ -34501,11 +34501,11 @@ share with your friends</source>
     </message>
     <message>
         <source>Unable to create BLOB</source>
-        <translation type="unfinished"/>
+        <translation>BLOB oluşturulamıyor</translation>
     </message>
     <message>
         <source>Unable to read BLOB</source>
-        <translation type="unfinished"/>
+        <translation>BLOB okunamıyor</translation>
     </message>
 </context>
 <context>
@@ -34516,7 +34516,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Unable to open database &apos;</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanı açılamıyor</translation>
     </message>
     <message>
         <source>Unable to connect</source>
@@ -34528,7 +34528,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -34539,11 +34539,11 @@ share with your friends</source>
     </message>
     <message>
         <source>Unable to initialize</source>
-        <translation type="unfinished"/>
+        <translation>Başlatılamıyor</translation>
     </message>
     <message>
         <source>Unable to logon</source>
-        <translation type="unfinished"/>
+        <translation>Oturum açılamıyor</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
@@ -34551,7 +34551,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -34589,7 +34589,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Error to open database</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanını açma hatası</translation>
     </message>
     <message>
         <source>Unable to rollback Transaction</source>
@@ -34597,7 +34597,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -34620,7 +34620,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -37996,15 +37996,15 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Unable to execute next query</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki sorgu yürütülemiyor</translation>
     </message>
     <message>
         <source>Unable to bind outvalues</source>
-        <translation type="unfinished"/>
+        <translation>Dış değerler bağlanamıyor</translation>
     </message>
     <message>
         <source>Unable to store next result</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki sonuç kaydedilemiyor</translation>
     </message>
     <message>
         <source>Unable to fetch data</source>
@@ -38016,7 +38016,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Unable to store result</source>
-        <translation type="unfinished"/>
+        <translation>Sonuç kaydedilemiyor</translation>
     </message>
     <message>
         <source>Unable to bind value</source>
@@ -38024,7 +38024,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Unable to execute query</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu yürütülemiyor</translation>
     </message>
     <message>
         <source>Unable to reset statement</source>
@@ -38039,7 +38039,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Unable to fetch results</source>
-        <translation type="unfinished"/>
+        <translation>Sonuçlar alınamadı</translation>
     </message>
 </context>
 <context>
@@ -38076,14 +38076,14 @@ Become a VIP for unlimited use of this feature.</source>
     <name>DownloadBubbleWidget</name>
     <message>
         <source>Download failed due to possible network problems. Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Olası ağ sorunları nedeniyle indirme başarısız oldu. Lütfen daha sonra yeniden deneyin.</translation>
     </message>
 </context>
 <context>
     <name>KPluginFailureTipWidget</name>
     <message>
         <source>Download failed due to possible network problems. Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Olası ağ sorunları nedeniyle indirme başarısız oldu. Lütfen daha sonra yeniden deneyin.</translation>
     </message>
 </context>
 <context>
@@ -38467,7 +38467,7 @@ Please check your network your firewall configuration</source>
     </message>
     <message>
         <source>The toolbar name must not be blank.</source>
-        <translation type="unfinished"/>
+        <translation>Araç çubuğu adı boş bırakılmamalıdır.</translation>
     </message>
     <message>
         <source>Are you sure to delete the &apos;%1&apos; toolbar?</source>
@@ -40324,7 +40324,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Choose outward password</source>
-        <translation type="unfinished"/>
+        <translation>Harici şifreyi seçin</translation>
     </message>
     <message>
         <source>&amp;make outward doc</source>
