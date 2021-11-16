@@ -22133,6 +22133,10 @@ Sorter</source>
         <translation>Вертикальная</translation>
     </message>
     <message>
+        <source>Annote As Pdf</source>
+        <translation>Аннотировать как PDF</translation>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation>Надпись</translation>
     </message>
