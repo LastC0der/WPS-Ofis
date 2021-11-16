@@ -615,6 +615,10 @@ makes documents beautiful</source>
         <translation></translation>
     </message>
     <message>
+        <source>Sign in User</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Free 7-day trial</source>
         <translation></translation>
     </message>
@@ -633,6 +637,10 @@ makes documents beautiful</source>
     <message>
         <source>Thanks for your trust and support to WPS,
 we will make continuous improvements</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Premium User</source>
         <translation></translation>
     </message>
     <message>
@@ -1070,6 +1078,41 @@ Easy mobile office.</source>
     <name>LoginTitleHeadBar</name>
     <message>
         <source>LoginTitle</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KThirdLoginWidgetDlg</name>
+    <message>
+        <source>Close</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source> Do you want to close it</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Google</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FaceBook</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>It is trying to sign in with </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DropBox</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Twitter</source>
         <translation></translation>
     </message>
 </context>
@@ -1530,61 +1573,6 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Ctrl+F5</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KNetworkDnsErrDlg</name>
-    <message>
-        <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Page load timeout,check you network and retry</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Service timeout</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source> or refer to the </source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Network error,check you network and retry</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>An error occurred,check you network and retry</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Sync login info failed,check you network and retry</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>DNS Settings document</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Page load failed,check you network and retry</source>
         <translation></translation>
     </message>
 </context>
@@ -2085,6 +2073,65 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Welcome to use WPS Office</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkDnsErrDlg</name>
+    <message>
+        <source>Page load timeout,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Service timeout</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Diagnosing tool</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source> or refer to the </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Network error,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>An error occurred,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DNS Settings document</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Page load failed,check you network and retry</source>
         <translation></translation>
     </message>
 </context>

@@ -21930,6 +21930,10 @@ Sorter</source>
         <translation></translation>
     </message>
     <message>
+        <source>Annote As Pdf</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation></translation>
     </message>
