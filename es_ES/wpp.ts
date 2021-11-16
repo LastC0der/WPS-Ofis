@@ -22136,6 +22136,10 @@ de notas</translation>
         <translation>Vertical</translation>
     </message>
     <message>
+        <source>Annote As Pdf</source>
+        <translation>Anotar como PDF</translation>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation>Cuadro de texto</translation>
     </message>
