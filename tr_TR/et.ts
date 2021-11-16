@@ -3797,7 +3797,7 @@ Değer</translation>
     </message>
     <message>
         <source>he value is set by the formula with the last solve order.</source>
-        <translation>Değer son çözüm sırasına sahip olan formül tarafından ayarlanır.</translation>
+        <translation>Değer son çözüm sırasına sahip olan formül tarafından belirlenir.</translation>
     </message>
     <message>
         <source>Please try again later, or save file to another disk. </source>
@@ -4025,7 +4025,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>The current worksheet has no outline and cannot display the outline symbol. Whether to create an outline?</source>
-        <translation>Etkin çalışma sayfasında seviyelendirme olmadığından seviyelendirme simgeleri gösterilemiyor. Seviyelendirme oluşturulsun mu?</translation>
+        <translation>Etkin çalışma sayfasında anahat olmadığından anahat simgeleri gösterilemiyor. Anahat oluşturulsun mu?</translation>
     </message>
     <message>
         <source>Clear Filter from Slicers</source>
@@ -4072,7 +4072,7 @@ Bunun nedenleri şunları içerebilir:
     </message>
     <message>
         <source>Fields with calculated items can not be placed in the filter area.</source>
-        <translation>Hesaplanan öğelerin bulunduğu alanlar filtre alanına yerleştirilemez.</translation>
+        <translation>Hesaplanmış öğeler içeren alanlar filtre alanına yerleştirilemez.</translation>
     </message>
     <message>
         <source>New styles cannot be added in shared workbooks.</source>
@@ -4104,7 +4104,7 @@ Bunun nedenleri şunları içerebilir:
     </message>
     <message>
         <source>This Operation cannot be used on a security document.</source>
-        <translation>Bu İşlem bir güvenlik belgesinde kullanılamaz.</translation>
+        <translation>Bu işlem bir güvenlik belgesi üzerinde gerçekleştirilemez.</translation>
     </message>
     <message>
         <source>Max of %s</source>
@@ -4121,7 +4121,7 @@ Bunun nedenleri şunları içerebilir:
     </message>
     <message>
         <source>Some documents are already open. You cannot save the security document! Please close the the other documents and try again.</source>
-        <translation>Bazı belgeler zaten açıkken bir güvenlik belgesini açamazsınız. Lütfen açılan belgeleri kapatın ve yeniden deneyin.</translation>
+        <translation>Bazı belgeler zaten açıkken bir güvenlik belgesini kaydedemezsiniz. Lütfen açılan belgeleri kapatın ve yeniden deneyin.</translation>
     </message>
     <message>
         <source>Show &amp;Calculation Steps</source>
@@ -4145,7 +4145,7 @@ Bunun nedenleri şunları içerebilir:
     </message>
     <message>
         <source>In the selected area, there is no cell to be filled, and smart fill fails.</source>
-        <translation>Seçilen alanda doldurulacak hücre yok ve akıllı doldurma başarısız oluyor.</translation>
+        <translation>Seçilen alanda doldurulacak hücre yok ve hızlı doldurma başarısız oluyor.</translation>
     </message>
     <message>
         <source>To change the solve order for multiple calculated items or fields,</source>
@@ -4231,7 +4231,7 @@ Bunun nedenleri şunları içerebilir:
     </message>
     <message>
         <source>There are some empty string</source>
-        <translation>Bazı boş dizeler var</translation>
+        <translation>İçerikte boş dizeler var!</translation>
     </message>
     <message>
         <source>Action
@@ -4305,7 +4305,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     </message>
     <message>
         <source>%s is not item of this field!</source>
-        <translation>%s bu alanın bir öğesi değil!</translation>
+        <translation>&apos;%s&apos; bu alanın bir öğesi değil!</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
@@ -4328,7 +4328,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     </message>
     <message>
         <source>The destination range contains data, Would you like to replace it?</source>
-        <translation>Hedef aralık veri içeriyor, Değiştirmek ister misiniz?</translation>
+        <translation>Hedef aralık veri içerir. Değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>The Document was saved successfully, but WPS cannot re-open it because of a sharing violation.
@@ -4372,7 +4372,7 @@ Lütfen dosya yolunu kısaltmayı deneyin veya dosyayı masaüstüne taşıyıp 
     </message>
     <message>
         <source>Must enter a number between 0 and 100. Please enter a number for this range and try again.</source>
-        <translation>0 ile 100 arasında bir sayı girmelisiniz. Lütfen bu aralık için bir sayı girin ve yeniden deneyin.</translation>
+        <translation>0 ile 100 arasında bir sayı girilmelidir. Lütfen bu aralık içinde bir sayı girin ve yeniden deneyin.</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -4441,10 +4441,10 @@ Lütfen aşağıdakilerden birini deneyin.
 3.Calculated Fields
 4.Custom Items</source>
         <translation>Bu Özet Tablo raporu en az bir diğer Özet Tablo raporuyla aynı verileri temel alıyor. Özet Tablo raporunu temizlemek, tüm Özet Tablo raporlarından aşağıda belirtenlerin kaldırılmasına neden olur:
-1.Gruplandırma
-2.Hesaplanan Öğeler
-3.Hesaplanan Alanlar
-4.Özel Öğeler</translation>
+•Gruplandırma
+•Hesaplanan Öğeler
+•Hesaplanan Alanlar
+•Özel Öğeler</translation>
     </message>
     <message>
         <source>Seconds</source>
