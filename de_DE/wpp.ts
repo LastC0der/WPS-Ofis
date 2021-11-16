@@ -22099,6 +22099,10 @@ Sorter</source>
         <translation>Vertikal</translation>
     </message>
     <message>
+        <source>Annote As Pdf</source>
+        <translation>Als PDF kommentieren</translation>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation>Textfeld</translation>
     </message>
