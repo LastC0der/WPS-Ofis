@@ -14112,7 +14112,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Sharpen/Soften</source>
-        <translation type="unfinished"/>
+        <translation>Netleştir/Bulanıklaştır</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -21903,12 +21903,12 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Change Data Label Size</source>
-        <translation type="unfinished"/>
+        <translation>Veri Etiketi Boyutunu Değiştir</translation>
     </message>
     <message>
         <source>Change Formatting</source>
         <comment>CHART_DELETE_DRAWING_AREA</comment>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirmeyi Değiştir</translation>
     </message>
     <message>
         <source>Legend</source>
@@ -21920,7 +21920,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Marker</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleyici</translation>
     </message>
     <message>
         <source>per. Mov. Avg.</source>
@@ -21932,7 +21932,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Trun on the PivotChart Field List to work with the PivotChart.</source>
-        <translation type="unfinished"/>
+        <translation>Özet Grafik ile çalışmak için Özet Grafik Alan Listesi&apos;ni açın.</translation>
     </message>
     <message>
         <source>Category Axis Title</source>
@@ -21944,11 +21944,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>SERIES</source>
-        <translation type="unfinished"/>
+        <translation>SERİLER</translation>
     </message>
     <message>
         <source>Change Chart Style</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Stilini Değiştir</translation>
     </message>
     <message>
         <source>Series</source>
@@ -21956,7 +21956,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Change Chart Color</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Rengini Değiştir</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -22000,7 +22000,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Chart Template Files(*.crtx)|*.crtx</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Şablon Dosyaları (*.crtx)|*.crtx</translation>
     </message>
     <message>
         <source>ERROR BAR</source>
@@ -22017,7 +22017,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>HIGH_LOW LINE</source>
-        <translation type="unfinished"/>
+        <translation>YÜKSEK_DÜŞÜK ÇİZGİSİ</translation>
     </message>
     <message>
         <source>1st Qtr</source>
@@ -22218,7 +22218,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Character Style</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Stili</translation>
     </message>
     <message>
         <source>Save Chart Template</source>
@@ -24210,19 +24210,19 @@ Possible reasons:
     </message>
     <message>
         <source>ALT TEXT</source>
-        <translation type="unfinished"/>
+        <translation>ALTERNATİF METİN</translation>
     </message>
     <message>
         <source>COLOR TONE</source>
-        <translation type="unfinished"/>
+        <translation>RENK TONU</translation>
     </message>
     <message>
         <source>3-D FORMAT</source>
-        <translation type="unfinished"/>
+        <translation>3-B BİÇİMİ</translation>
     </message>
     <message>
         <source>MARKER</source>
-        <translation type="unfinished"/>
+        <translation>IŞARETLEYİCİ</translation>
     </message>
     <message>
         <source>SHADOW</source>
@@ -24246,7 +24246,7 @@ Possible reasons:
     </message>
     <message>
         <source>SHARPEN/SOFTEN</source>
-        <translation type="unfinished"/>
+        <translation>NETLEŞTİR/BULANIKLAŞTIR</translation>
     </message>
     <message>
         <source>TEXTBOX</source>
@@ -24262,7 +24262,7 @@ Possible reasons:
     </message>
     <message>
         <source>COLOR SATURATION</source>
-        <translation type="unfinished"/>
+        <translation>RENK DOYGUNLUĞU</translation>
     </message>
 </context>
 <context>
@@ -24405,7 +24405,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Recent Places</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan Yerler</translation>
     </message>
     <message>
         <source>Create New Folder</source>
@@ -26759,7 +26759,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>MARKER</source>
-        <translation type="unfinished"/>
+        <translation>IŞARETLEYİCİ</translation>
     </message>
 </context>
 <context>
