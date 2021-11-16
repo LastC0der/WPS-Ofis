@@ -8680,11 +8680,11 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not get query info</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu bilgisi alınamadı</translation>
     </message>
     <message>
         <source>Could not find array</source>
-        <translation type="unfinished"/>
+        <translation>Dizi bulunamadı</translation>
     </message>
     <message>
         <source>Could not get array data</source>
@@ -8692,7 +8692,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu yürütülemiyor</translation>
     </message>
     <message>
         <source>Could not prepare statement</source>
@@ -8700,7 +8700,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Could not fetch next item</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki öğe getirilemedi</translation>
     </message>
     <message>
         <source>Could not get statement info</source>
@@ -8708,11 +8708,11 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Unable to create BLOB</source>
-        <translation type="unfinished"/>
+        <translation>BLOB oluşturulamıyor</translation>
     </message>
     <message>
         <source>Unable to read BLOB</source>
-        <translation type="unfinished"/>
+        <translation>BLOB okunamıyor</translation>
     </message>
 </context>
 <context>
@@ -8723,7 +8723,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Unable to open database &apos;</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanı açılamıyor</translation>
     </message>
     <message>
         <source>Unable to connect</source>
@@ -8735,7 +8735,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -8746,11 +8746,11 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Unable to initialize</source>
-        <translation type="unfinished"/>
+        <translation>Başlatılamıyor</translation>
     </message>
     <message>
         <source>Unable to logon</source>
-        <translation type="unfinished"/>
+        <translation>Oturum açılamıyor</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
@@ -8758,7 +8758,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -8796,7 +8796,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Error to open database</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanını açma hatası</translation>
     </message>
     <message>
         <source>Unable to rollback Transaction</source>
@@ -8804,7 +8804,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -8827,7 +8827,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation type="unfinished"/>
+        <translation>İşlem başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -10596,15 +10596,15 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unable to execute next query</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki sorgu yürütülemiyor</translation>
     </message>
     <message>
         <source>Unable to bind outvalues</source>
-        <translation type="unfinished"/>
+        <translation>Dış değerler bağlanamıyor</translation>
     </message>
     <message>
         <source>Unable to store next result</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki sonuç kaydedilemiyor</translation>
     </message>
     <message>
         <source>Unable to fetch data</source>
@@ -10616,7 +10616,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unable to store result</source>
-        <translation type="unfinished"/>
+        <translation>Sonuç kaydedilemiyor</translation>
     </message>
     <message>
         <source>Unable to bind value</source>
@@ -10624,7 +10624,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unable to execute query</source>
-        <translation type="unfinished"/>
+        <translation>Sorgu yürütülemiyor</translation>
     </message>
     <message>
         <source>Unable to reset statement</source>
@@ -10639,7 +10639,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unable to fetch results</source>
-        <translation type="unfinished"/>
+        <translation>Sonuçlar alınamadı</translation>
     </message>
 </context>
 <context>
