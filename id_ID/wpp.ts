@@ -22167,6 +22167,10 @@ Catatan</translation>
         <translation>Vertikal</translation>
     </message>
     <message>
+        <source>Annote As Pdf</source>
+        <translation>Anotasi Sebagai PDF</translation>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation>Kotak Teks</translation>
     </message>
