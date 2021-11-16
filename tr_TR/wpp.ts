@@ -22011,6 +22011,10 @@ Sorter</source>
         <translation>Dikey Metin Kutusu</translation>
     </message>
     <message>
+        <source>Annote As Pdf</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Text Box</source>
         <translation>Metin Kutusu</translation>
     </message>
