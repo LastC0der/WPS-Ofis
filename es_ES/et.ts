@@ -12121,7 +12121,7 @@ ortografía</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
-        <translation>es un valor lógico: para encontrar la coincidencia más cercana en la fila superior (ordenada de forma ascendente) = FALSO u omitido; para encontrar coincidencia exacta =VERDADERO.</translation>
+        <translation>es un valor lógico: para encontrar la coincidencia más cercana en la primera columna (ordenada de forma ascendente) = VERDADERO u omitido; para encontrar coincidencia exacta = FALSO.</translation>
     </message>
     <message>
         <source>Margins you set do not fit for the paper size you specified.</source>
