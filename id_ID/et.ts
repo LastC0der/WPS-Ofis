@@ -12169,7 +12169,7 @@ Ejaan</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
-        <translation>adalah nilai logika: untuk menemukan kecocokan terdekat di baris teratas (disortir dalam urutan naik) = FALSE atau dihilangkan; menemukan yang sama persis = TRUE.</translation>
+        <translation>adalah nilai logis: untuk mendapatkan kecocokan terdekat pada kolom pertama (diurutkan dalam urutan menaik) = TRUE atau dihilangkan; mendapatkan kecocokan yang tepat = FALSE.</translation>
     </message>
     <message>
         <source>Margins you set do not fit for the paper size you specified.</source>
