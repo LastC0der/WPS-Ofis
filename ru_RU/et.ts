@@ -12163,7 +12163,7 @@ Workbook</source>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
-        <translation>логическое значение, определяющее, точно (ЛОЖЬ) или приближенно (ИСТИНА или отсутствие значения) должен производиться поиск в верхней строке (отсортированной по возрастанию).</translation>
+        <translation>логическое значение, определяющее, точно (ЛОЖЬ) или приближенно (ИСТИНА или отсутствие значения) должен производиться поиск в первом столбце (отсортированном по возрастанию).</translation>
     </message>
     <message>
         <source>Margins you set do not fit for the paper size you specified.</source>
