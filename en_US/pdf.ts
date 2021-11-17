@@ -10404,7 +10404,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>DO NOT COPY</source>
-        <translation>Copy Prohibited</translation>
+        <translation>DO NOT COPY</translation>
     </message>
     <message>
         <source>The following characters cannot be used /:*?&quot; &lt;&gt;|</source>
@@ -10440,7 +10440,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>TOP SECRET</source>
-        <translation>Top Secret</translation>
+        <translation>TOP SECRET</translation>
     </message>
     <message>
         <source>Delete After Abstract</source>
@@ -10508,7 +10508,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>CONFIDENTIAL</source>
-        <translation>Confidential</translation>
+        <translation>CONFIDENTIAL</translation>
     </message>
     <message>
         <source>Custom define</source>
