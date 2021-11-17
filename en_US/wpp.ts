@@ -10446,7 +10446,7 @@ Picture</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Insert Picture To Multiple Slides</translation>
+        <translation>Insert Picture to Multiple Slides</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -10772,7 +10772,7 @@ Effects</translation>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation>Replace Font</translation>
+        <translation>Replace Fonts</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -16618,7 +16618,7 @@ Control</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Insert Picture To Multiple Slides</translation>
+        <translation>Insert Picture to Multiple Slides</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -16902,7 +16902,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation>Bulk Font Setting</translation>
+        <translation>Batch Font Settings</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -16951,7 +16951,7 @@ Permissions</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
-        <translation>Custom Text font</translation>
+        <translation>Customize Text Formats</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -22065,7 +22065,7 @@ Picture</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Insert Picture To Multiple Slides</translation>
+        <translation>Insert Picture to Multiple Slides</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -22131,7 +22131,7 @@ Sorter</translation>
     </message>
     <message>
         <source>Annote As Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Annotate in PDF format</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -23059,7 +23059,7 @@ Music</source>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Insert Picture To Multiple Slides</translation>
+        <translation>Insert Picture to Multiple Slides</translation>
     </message>
     <message>
         <source>Object</source>
@@ -26925,7 +26925,7 @@ Esc					End of the slide show</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Insert Picture To Multiple Slides</translation>
+        <translation>Insert Picture to Multiple Slides</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
