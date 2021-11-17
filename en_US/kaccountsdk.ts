@@ -622,7 +622,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Sign in User</source>
-        <translation type="unfinished"/>
+        <translation>Sign in User</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
@@ -648,7 +648,7 @@ we will make continuous improvements</translation>
     </message>
     <message>
         <source>Premium User</source>
-        <translation type="unfinished"/>
+        <translation>Premium User</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -994,7 +994,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>SslHandshakeFailedError</source>
-        <translation>SslHandshakeFailedError</translation>
+        <translation>Service in local might have some errors, please contact us to fix it.</translation>
     </message>
     <message>
         <source>ProxyTimeoutError</source>
@@ -1010,7 +1010,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>RemoteHostClosedError</source>
-        <translation>RemoteHostClosedError</translation>
+        <translation>Server disconnected. Please try again.</translation>
     </message>
     <message>
         <source>ContentReSendError</source>
@@ -1018,7 +1018,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>ContentAccessDenied</source>
-        <translation>ContentAccessDenied</translation>
+        <translation>Access to remote content denied. Please try again.</translation>
     </message>
     <message>
         <source>ProxyNotFoundError</source>
@@ -1038,7 +1038,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>UnknownNetworkError</source>
-        <translation>UnknownNetworkError</translation>
+        <translation>Unknown network error. Please try again.</translation>
     </message>
     <message>
         <source>TimeoutError</source>
@@ -1074,11 +1074,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Login time out</source>
-        <translation>Login time out</translation>
+        <translation>Your sessions has timed out. Please try again.</translation>
     </message>
     <message>
         <source>ConnectionRefusedError</source>
-        <translation>ConnectionRefusedError</translation>
+        <translation>Server disconnected. Please try again.</translation>
     </message>
 </context>
 <context>
@@ -1092,35 +1092,35 @@ Easy mobile office.</source>
     <name>KThirdLoginWidgetDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source> Do you want to close it</source>
-        <translation type="unfinished"/>
+        <translation> account.If you close this page, the sign-in will be discontinued.</translation>
     </message>
     <message>
         <source>Google</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>FaceBook</source>
-        <translation type="unfinished"/>
+        <translation>Facebook</translation>
     </message>
     <message>
         <source>It is trying to sign in with </source>
-        <translation type="unfinished"/>
+        <translation>You are signing in with </translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>DropBox</source>
-        <translation type="unfinished"/>
+        <translation>Dropbox</translation>
     </message>
     <message>
         <source>Twitter</source>
-        <translation type="unfinished"/>
+        <translation>Twitter</translation>
     </message>
 </context>
 <context>
@@ -1163,11 +1163,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Please enter a valid email address</source>
-        <translation>Please enter a valid email address</translation>
+        <translation>Invalid e-mail address.Please try again.</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Wrong password</translation>
+        <translation>Wrong password. Please check it and try again. Or just reset password.</translation>
     </message>
     <message>
         <source>Server error</source>
@@ -1183,7 +1183,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>There is no account for the email you entered</source>
-        <translation>There is no account for the email you entered</translation>
+        <translation>No account found with that email address. Please check it and try again.</translation>
     </message>
     <message>
         <source>Remember Me</source>
@@ -1498,11 +1498,11 @@ Easy mobile office.</source>
     <name>KStartupGuidePaneEnhance</name>
     <message>
         <source>Cloud storage</source>
-        <translation type="unfinished"/>
+        <translation>Cloud storage</translation>
     </message>
     <message>
         <source>Files repair</source>
-        <translation type="unfinished"/>
+        <translation>Files repair</translation>
     </message>
     <message>
         <source>Start Your Free Trial</source>
@@ -1510,11 +1510,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF to Word/Excel/PPT</translation>
     </message>
     <message>
         <source>Picture to text(OCR)</source>
-        <translation>Picture to Text (OCR)</translation>
+        <translation>Picture to text(OCR)</translation>
     </message>
     <message>
         <source>Sign in as WPS Standard</source>
@@ -1526,7 +1526,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Sign in User</source>
-        <translation type="unfinished"/>
+        <translation>Sign in User</translation>
     </message>
     <message>
         <source>Product Key</source>
@@ -1534,11 +1534,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Premium User</source>
-        <translation type="unfinished"/>
+        <translation>Premium User</translation>
     </message>
     <message>
         <source>Edit text/images in PDF</source>
-        <translation type="unfinished"/>
+        <translation>Edit text/images in PDF</translation>
     </message>
     <message>
         <source>Sign in and unlock 80+ exclusive benefits only available in WPS Premium</source>
@@ -2095,7 +2095,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Diagnosing tool</source>
-        <translation type="unfinished"/>
+        <translation>Diagnose network</translation>
     </message>
     <message>
         <source> or refer to the </source>
@@ -2119,7 +2119,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
-        <translation type="unfinished"/>
+        <translation>Request timeout. Click Refresh and try again.</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -2135,7 +2135,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation>DNS Settings document</translation>
+        <translation>DNS configuration instruction</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
