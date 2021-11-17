@@ -12167,7 +12167,7 @@ połączenia</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
-        <translation>wartość logiczna: aby znaleźć najlepsze dopasowanie w górnym wierszu (posortowanym w kolejności rosnącej) = FAŁSZ lub pominięte; aby znaleźć dokładne dopasowanie = PRAWDA.</translation>
+        <translation>jest wartością logiczną: znaleźć najbliższe dopasowanie w pierwszej kolumnie (posortowane w porządku rosnącym) = TRUE lub pominięte; znaleźć dokładne dopasowanie = FALSE.</translation>
     </message>
     <message>
         <source>Margins you set do not fit for the paper size you specified.</source>
