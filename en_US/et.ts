@@ -12171,7 +12171,7 @@ Workbook</source>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
-        <translation>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</translation>
+        <translation>is a logical value: to find the closest match in the first column (sorted in ascending order) = TRUE or omitted; find an exact match = FALSE.</translation>
     </message>
     <message>
         <source>Margins you set do not fit for the paper size you specified.</source>
