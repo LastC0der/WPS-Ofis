@@ -9148,7 +9148,7 @@ Swiftly create a blank tab of the same type with Command+N</source>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>Novo Separador</translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>DocerTab</source>
@@ -9165,8 +9165,8 @@ Swiftly create a blank tab of the same type with Command+N</source>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>Novo Separador
-Criar um separador vazio com Ctrl+N</translation>
+        <translation>Novo
+Crie um novo separador do documento com Ctrl+N</translation>
     </message>
 </context>
 <context>
