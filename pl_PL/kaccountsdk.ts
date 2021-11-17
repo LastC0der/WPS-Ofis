@@ -622,7 +622,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Sign in User</source>
-        <translation type="unfinished"/>
+        <translation>Użytkownik zalogowany</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
@@ -649,7 +649,7 @@ będziemy wprowadzać ciągłe ulepszenia</translation>
     </message>
     <message>
         <source>Premium User</source>
-        <translation type="unfinished"/>
+        <translation>Użytkownik Premium</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1093,35 +1093,35 @@ Easy mobile office.</source>
     <name>KThirdLoginWidgetDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source> Do you want to close it</source>
-        <translation type="unfinished"/>
+        <translation>. Jeśli zamkniesz tę stronę, logowanie zostanie przerwane.</translation>
     </message>
     <message>
         <source>Google</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>FaceBook</source>
-        <translation type="unfinished"/>
+        <translation>Facebook</translation>
     </message>
     <message>
         <source>It is trying to sign in with </source>
-        <translation type="unfinished"/>
+        <translation>Logujesz się za pomocą konta </translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>DropBox</source>
-        <translation type="unfinished"/>
+        <translation>Dropbox</translation>
     </message>
     <message>
         <source>Twitter</source>
-        <translation type="unfinished"/>
+        <translation>Twitter</translation>
     </message>
 </context>
 <context>
@@ -2096,11 +2096,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Diagnosing tool</source>
-        <translation type="unfinished"/>
+        <translation>Diagnozuj sieć</translation>
     </message>
     <message>
         <source> or refer to the </source>
-        <translation type="unfinished"/>
+        <translation> lub przeczytaj </translation>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
@@ -2120,7 +2120,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
-        <translation type="unfinished"/>
+        <translation>Przekroczenie czasu żądania. Kliknij przycisk Odśwież i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -2136,7 +2136,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation>dokument z ustawieniami DNS</translation>
+        <translation>instrukcję konfiguracji DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
