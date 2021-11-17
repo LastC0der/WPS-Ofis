@@ -9146,7 +9146,7 @@ Swiftly create a blank tab of the same type with Command+N</source>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>Nowa karta</translation>
+        <translation>Nowy</translation>
     </message>
     <message>
         <source>DocerTab</source>
@@ -9163,8 +9163,8 @@ Swiftly create a blank tab of the same type with Command+N</source>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>Nowa karta
-Aby utworzyć pustą kartę, naciśnij klawisze Ctrl+N</translation>
+        <translation>Nowy
+Utwórz nową kartę dokumentu za pomocą kombinacji klawiszy Ctrl+N</translation>
     </message>
 </context>
 <context>
