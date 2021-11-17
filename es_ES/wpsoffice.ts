@@ -9147,7 +9147,7 @@ Swiftly create a blank tab of the same type with Command+N</source>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>Nueva ficha</translation>
+        <translation>Nuevo</translation>
     </message>
     <message>
         <source>DocerTab</source>
@@ -9164,8 +9164,8 @@ Swiftly create a blank tab of the same type with Command+N</source>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>Nueva ficha
-Cree una ficha en blanco con Ctrl+N</translation>
+        <translation>Nuevo
+Crea una nueva pestaña de documento con Ctrl+N</translation>
     </message>
 </context>
 <context>
