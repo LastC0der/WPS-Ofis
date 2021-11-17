@@ -4477,7 +4477,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Field Not Found Error</source>
-        <translation>Geçersiz içerik başvurusu</translation>
+        <translation>Geçersiz içerik başvurusu.</translation>
     </message>
     <message>
         <source>Remove &quot;%s&quot;</source>
@@ -26694,7 +26694,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
 </context>
 <context>
@@ -35581,7 +35581,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -41760,7 +41760,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -42434,7 +42434,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Equation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Düzenleyicisi</translation>
     </message>
     <message>
         <source>DocerResourceShop</source>
@@ -42446,7 +42446,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
     <message>
         <source>Links</source>
