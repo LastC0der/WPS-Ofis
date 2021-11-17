@@ -2556,7 +2556,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Uploading document...</source>
-        <translation type="unfinished"/>
+        <translation>Uploading file</translation>
     </message>
     <message>
         <source>Upload failed</source>
