@@ -9116,7 +9116,7 @@ Swiftly create a blank tab of the same type with Command+N</source>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>New Tab</translation>
+        <translation>New</translation>
     </message>
     <message>
         <source>DocerTab</source>
@@ -9133,8 +9133,8 @@ Swiftly create a blank tab of the same type with Command+N</source>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>New Tab
-Create a blank tab with Ctrl+N</translation>
+        <translation>New
+Create a new document tab with Ctrl+N</translation>
     </message>
 </context>
 <context>
