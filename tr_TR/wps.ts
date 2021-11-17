@@ -12316,7 +12316,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -14804,7 +14804,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
     <message>
         <source>Break Forward Link</source>
@@ -31263,7 +31263,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -32962,7 +32962,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Equation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Düzenleyicisi</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -37509,7 +37509,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Equation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Düzenleyicisi</translation>
     </message>
     <message>
         <source>DocerResourceShop</source>
@@ -37521,7 +37521,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
     <message>
         <source>File</source>
