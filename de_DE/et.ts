@@ -12131,7 +12131,7 @@ Verbindungen</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
-        <translation>gibt an, ob eine genaue Übereinstimmung gefunden werden soll: WAHR = aus der aufsteigend sortierten Reihenfolge der Werte wird der Wert zurückgegeben, der am dichtesten am gesuchten Wert liegt; FALSCH = es wird eine genaue Übereinstimmung gesucht!</translation>
+        <translation>ist ein logischer Wert: Suche nach der nächsten Übereinstimmung in der ersten Spalte (aufsteigend sortiert) = WAHR oder weggelassen; Suche nach einer genauen Übereinstimmung = FALSCH.</translation>
     </message>
     <message>
         <source>Margins you set do not fit for the paper size you specified.</source>
