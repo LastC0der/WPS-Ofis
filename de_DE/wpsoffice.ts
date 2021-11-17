@@ -9146,7 +9146,7 @@ Swiftly create a blank tab of the same type with Command+N</source>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>Neue Registerkarte</translation>
+        <translation>Neu</translation>
     </message>
     <message>
         <source>DocerTab</source>
@@ -9163,8 +9163,8 @@ Swiftly create a blank tab of the same type with Command+N</source>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>Neue Registerkarte
-Erstellen Sie mit Strg+N eine leere Registerkarte</translation>
+        <translation>Neu
+Mit Strg+N eine neue Dokumentregisterkarte erstellen</translation>
     </message>
 </context>
 <context>
