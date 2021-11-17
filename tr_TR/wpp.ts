@@ -10772,7 +10772,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
 </context>
 <context>
@@ -11164,7 +11164,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
 </context>
 <context>
@@ -14064,7 +14064,7 @@ Master</source>
     </message>
     <message>
         <source>Online Video</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Video</translation>
     </message>
     <message>
         <source>Enter the access code</source>
@@ -16860,7 +16860,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -23036,7 +23036,7 @@ Music</source>
     </message>
     <message>
         <source>3DPresentation</source>
-        <translation type="unfinished"/>
+        <translation>3D Sunum</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -23060,7 +23060,7 @@ Music</source>
     </message>
     <message>
         <source>Local Video</source>
-        <translation type="unfinished"/>
+        <translation>Yerel Video</translation>
     </message>
     <message>
         <source>insert partialzoom</source>
@@ -23082,7 +23082,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Equation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Düzenleyicisi</translation>
     </message>
     <message>
         <source>DocerResourceShop</source>
@@ -23090,11 +23090,11 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Online Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Metin Kutusu</translation>
     </message>
     <message>
         <source>Online Video</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Video</translation>
     </message>
     <message>
         <source>Images</source>
