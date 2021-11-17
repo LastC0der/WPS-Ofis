@@ -9147,7 +9147,7 @@ Swiftly create a blank tab of the same type with Command+N</source>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>Nouvel onglet</translation>
+        <translation>Nouveau</translation>
     </message>
     <message>
         <source>DocerTab</source>
@@ -9164,8 +9164,8 @@ Swiftly create a blank tab of the same type with Command+N</source>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>Nouvel onglet
-Créez un onglet vide avec la commande Ctrl+N</translation>
+        <translation>Nouveau
+Créer un onglet de document avec la commande Ctrl+N</translation>
     </message>
 </context>
 <context>
