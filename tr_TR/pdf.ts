@@ -4038,7 +4038,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>edit member prompt</source>
-        <translation type="unfinished"/>
+        <translation>Premium bir özellik kullanıyorsunuz.</translation>
     </message>
     <message>
         <source>Login WPS account to get a complete functional experience</source>
