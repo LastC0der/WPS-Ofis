@@ -12171,7 +12171,7 @@ orthographique</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
-        <translation>est une valeur logique : pour trouver la valeur la plus proche dans la ligne du haut (tri par ordre croissant) = FAUX ou si cette valeur est omise ; pour trouver une valeur exactement identique = VRAI.</translation>
+        <translation>est une valeur logique : pour trouver la correspondance la plus proche dans la première colonne (tri par ordre croissant) = TRUE ou omis ; pour trouver une correspondance exacte = FALSE.</translation>
     </message>
     <message>
         <source>Margins you set do not fit for the paper size you specified.</source>
