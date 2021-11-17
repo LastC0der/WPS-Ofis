@@ -34901,7 +34901,7 @@ Comment</translation>
     </message>
     <message>
         <source>Annote As Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Annotate in PDF format</translation>
     </message>
     <message>
         <source>Text Box</source>
