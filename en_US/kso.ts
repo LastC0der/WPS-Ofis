@@ -3717,7 +3717,7 @@ Used to show hierarchical relationships</translation>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation>Bulk Font Setting</translation>
+        <translation>Batch Font Settings</translation>
     </message>
     <message>
         <source>Chinese Font</source>
@@ -3737,7 +3737,7 @@ Used to show hierarchical relationships</translation>
     </message>
     <message>
         <source>Seleted Slide</source>
-        <translation>Seleted Slide</translation>
+        <translation>Selected Slide</translation>
     </message>
 </context>
 <context>
@@ -4214,7 +4214,7 @@ Used to show hierarchical relationships</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
-        <translation>Custom Text Format</translation>
+        <translation>Customize Text Formats</translation>
     </message>
 </context>
 <context>
