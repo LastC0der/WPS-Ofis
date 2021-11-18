@@ -15068,7 +15068,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Executive</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici</translation>
     </message>
     <message>
         <source>Legal_CN</source>
@@ -19589,7 +19589,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştirme Kodunu Girin</translation>
     </message>
     <message>
         <source>Fill Series</source>
@@ -30743,7 +30743,7 @@ Aktar</translation>
     </message>
     <message>
         <source>enterprise Center</source>
-        <translation>kurumsal Merkez</translation>
+        <translation>Kurumsal Merkez</translation>
     </message>
     <message>
         <source>Center Across</source>
