@@ -1584,7 +1584,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     <name>QObject</name>
     <message>
         <source>PPTX Presentation</source>
-        <translation type="unfinished"/>
+        <translation>PPTX Sunumu</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -1592,11 +1592,11 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>PPT Presentation</source>
-        <translation type="unfinished"/>
+        <translation>PPT Sunumu</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Belge</translation>
     </message>
     <message>
         <source>New Spreedsheet</source>
