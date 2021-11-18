@@ -1247,7 +1247,7 @@
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Gizli</translation>
     </message>
     <message>
         <source> Do you want to search the other part of the document?</source>
@@ -2814,7 +2814,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Gizli</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -15416,7 +15416,7 @@ Painter</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürümü Değiştir</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -17899,7 +17899,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Belge</translation>
     </message>
     <message>
         <source>Reset Character Format</source>
@@ -20132,7 +20132,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Online Editing</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Düzenleme</translation>
     </message>
     <message>
         <source>Buy Subscription</source>
@@ -20150,7 +20150,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Manager Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici Görev Bölmesi</translation>
     </message>
     <message>
         <source>Text Tool</source>
@@ -24893,7 +24893,7 @@ Böl</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Belge</translation>
     </message>
     <message>
         <source>Hardware Encryption</source>
@@ -24913,7 +24913,7 @@ Böl</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürümü Değiştir</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -49879,7 +49879,7 @@ Efektler</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Belge</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -49891,7 +49891,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürümü Değiştir</translation>
     </message>
     <message>
         <source>New Blank Document</source>
