@@ -7730,7 +7730,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Executive</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici</translation>
     </message>
     <message>
         <source>Legal_CN</source>
@@ -16102,7 +16102,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştirme Kodunu Girin</translation>
     </message>
     <message>
         <source>Insert Row Above</source>
@@ -20096,7 +20096,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>enterprise Center</source>
-        <translation type="unfinished"/>
+        <translation>Kurumsal Merkez</translation>
     </message>
     <message>
         <source>Delete Contents Entry</source>
