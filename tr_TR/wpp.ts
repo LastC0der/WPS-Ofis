@@ -5879,7 +5879,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>&amp;End Time</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bitiş Zamanı</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12260,7 +12260,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürümü Değiştir</translation>
     </message>
     <message>
         <source>IntranetVersion Online Templates</source>
@@ -14607,7 +14607,7 @@ Slide</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Gizli</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -16136,7 +16136,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürümü Değiştir</translation>
     </message>
     <message>
         <source>File Package</source>
@@ -18498,7 +18498,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Online Editing</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Düzenleme</translation>
     </message>
     <message>
         <source>Buy Subscription</source>
@@ -18510,7 +18510,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Manager Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici Görev Bölmesi</translation>
     </message>
     <message>
         <source>Text Tool</source>
@@ -31044,7 +31044,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürümü Değiştir</translation>
     </message>
     <message>
         <source>File Package</source>
