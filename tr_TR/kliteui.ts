@@ -890,7 +890,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Search Fail Text</source>
-        <translation type="unfinished"/>
+        <translation>Arama araçları başlatılamadı</translation>
     </message>
     <message>
         <source>Search Waiting Text</source>
