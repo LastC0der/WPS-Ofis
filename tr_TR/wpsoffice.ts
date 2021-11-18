@@ -779,7 +779,8 @@
     <message>
         <source>%1 already exists.
 Do you want to overwrite it?</source>
-        <translation type="unfinished"/>
+        <translation>%1 zaten var.
+Üzerine yazmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>A1 (594 x 841 mm)</source>
@@ -823,7 +824,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>File exists</source>
-        <translation type="unfinished"/>
+        <translation>Dosya var</translation>
     </message>
     <message>
         <source>Write %1 file</source>
@@ -871,7 +872,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Executive</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -3159,7 +3160,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Go Forward</source>
-        <translation type="unfinished"/>
+        <translation>İleri Git</translation>
     </message>
     <message>
         <source>Page down</source>
@@ -3179,7 +3180,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Go Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri Git</translation>
     </message>
     <message>
         <source>Open in New Window</source>
@@ -3191,7 +3192,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the end of the document</source>
-        <translation type="unfinished"/>
+        <translation>İmleci belgenin sonuna taşı</translation>
     </message>
     <message>
         <source>Hide Spelling and Grammar</source>
@@ -3998,7 +3999,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Go Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri Git</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
@@ -6085,7 +6086,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;lfa kanalı:</translation>
     </message>
 </context>
 <context>
