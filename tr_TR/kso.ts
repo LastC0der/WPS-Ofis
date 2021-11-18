@@ -1458,11 +1458,11 @@ cycle</source>
     </message>
     <message>
         <source>New document</source>
-        <translation type="unfinished"/>
+        <translation>Yeni belge</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Belge</translation>
     </message>
     <message>
         <source>Failed to unintall Add-In</source>
@@ -2144,7 +2144,7 @@ için kullanılır</translation>
     <message>
         <source>New Document</source>
         <comment>kso_NewDocment_DisplayName</comment>
-        <translation type="unfinished"/>
+        <translation>Yeni Belge</translation>
     </message>
     <message>
         <source>Recent documents</source>
@@ -18389,7 +18389,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Vertical Accent List</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Vurgu Listesi</translation>
     </message>
     <message>
         <source>Radial List</source>
@@ -27031,7 +27031,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Search Fail Text</source>
-        <translation type="unfinished"/>
+        <translation>Arama araçları başlatılamadı</translation>
     </message>
     <message>
         <source>Search Waiting Text</source>
@@ -28735,7 +28735,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Attribute %1 cannot appear on the element %2. Only %3 is allowed, and the standard attributes.</source>
-        <translation type="unfinished"/>
+        <translation>%2 öğesinde %1 özniteliği görüntülenemez. Yalnızca %3&apos;e ve standart özniteliklere izin verilir.</translation>
     </message>
     <message>
         <source>Only one %1-element can appear.</source>
@@ -32106,7 +32106,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Setting Center</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Dock left</source>
@@ -32220,7 +32220,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Voice Mode</source>
-        <translation type="unfinished"/>
+        <translation>Ses Modu</translation>
     </message>
     <message>
         <source>Export sound file</source>
@@ -36830,7 +36830,7 @@ Please check network</source>
     </message>
     <message>
         <source>Current type:</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli tür:</translation>
     </message>
     <message>
         <source>&amp;Convert to:</source>
