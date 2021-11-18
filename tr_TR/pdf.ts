@@ -7492,7 +7492,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>End Time</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş Zamanı</translation>
     </message>
     <message>
         <source>Issuer</source>
@@ -7504,7 +7504,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>End Time:</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş Zamanı:</translation>
     </message>
     <message>
         <source>Start Time</source>
@@ -8004,7 +8004,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Online Editing</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Düzenleme</translation>
     </message>
     <message>
         <source>Buy Subscription</source>
@@ -8016,7 +8016,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Manager Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici Görev Bölmesi</translation>
     </message>
     <message>
         <source>TextStyle</source>
@@ -9438,7 +9438,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürümü Değiştir</translation>
     </message>
     <message>
         <source>IntranetVersion Online Templates</source>
