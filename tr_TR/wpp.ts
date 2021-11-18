@@ -12698,7 +12698,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştirme Kodunu Girin</translation>
     </message>
     <message>
         <source>Insert Row Above</source>
@@ -18486,7 +18486,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>enterprise Center</source>
-        <translation type="unfinished"/>
+        <translation>Kurumsal Merkez</translation>
     </message>
     <message>
         <source>Insert Comment</source>
