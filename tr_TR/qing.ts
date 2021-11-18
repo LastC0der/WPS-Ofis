@@ -570,7 +570,8 @@
     <message>
         <source>%1 already exists.
 Do you want to overwrite it?</source>
-        <translation type="unfinished"/>
+        <translation>%1 zaten var.
+Üzerine yazmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>A1 (594 x 841 mm)</source>
@@ -614,7 +615,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>File exists</source>
-        <translation type="unfinished"/>
+        <translation>Dosya var</translation>
     </message>
     <message>
         <source>Write %1 file</source>
@@ -662,7 +663,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Executive</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -3983,7 +3984,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Go Forward</source>
-        <translation type="unfinished"/>
+        <translation>İleri Git</translation>
     </message>
     <message>
         <source>Page down</source>
@@ -4003,7 +4004,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Go Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri Git</translation>
     </message>
     <message>
         <source>Open in New Window</source>
@@ -4015,7 +4016,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the end of the document</source>
-        <translation type="unfinished"/>
+        <translation>İmleci belgenin sonuna taşı</translation>
     </message>
     <message>
         <source>Hide Spelling and Grammar</source>
@@ -4925,7 +4926,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Go Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri Git</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
@@ -6801,7 +6802,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;lfa kanalı:</translation>
     </message>
 </context>
 <context>
@@ -8189,7 +8190,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>upgrade vip for upload %1 exceeding file</source>
-        <translation type="unfinished"/>
+        <translation>%1M&apos;yi aşan belgeleri yüklemek için premium&apos;a geçin.</translation>
     </message>
     <message>
         <source>Cancel Upload</source>
@@ -9346,7 +9347,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Keep data for next use</source>
-        <translation type="unfinished"/>
+        <translation>Verileri bir sonraki kullanım için sakla.</translation>
     </message>
     <message>
         <source>Cloud document cache and file backups that will keep you on your native</source>
@@ -11901,7 +11902,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>From WPS--share by %1</source>
-        <translation type="unfinished"/>
+        <translation>WPS&apos;den--paylaşın %1</translation>
     </message>
     <message>
         <source>
