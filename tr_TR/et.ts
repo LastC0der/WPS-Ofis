@@ -2211,12 +2211,12 @@ Bunun birçok nedeni olabilir:
     <message>
         <source>%s File Open Failed</source>
         <comment>TX_DuplicateItemsMgr_File_Open_Failed</comment>
-        <translation>%s Dosyası Açılamadı</translation>
+        <translation>%s dosyası açılamadı.</translation>
     </message>
     <message>
         <source>Has No Duplicate Data</source>
         <comment>TX_DuplicateItemsMgr_Has_No_Duplicate_Data</comment>
-        <translation>Yinelenen Verileri Yok</translation>
+        <translation>Yinelenen veri yok.</translation>
     </message>
     <message>
         <source>You cannot use this command on a list or range that contains merged cells.</source>
@@ -2586,7 +2586,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     <message>
         <source>%s Sheet Is Empty</source>
         <comment>TX_DuplicateItemsMgr_Sheet_Is_Empty</comment>
-        <translation>%s Sayfası Boş</translation>
+        <translation>%s çalışma sayfası boş.</translation>
     </message>
     <message>
         <source>Inconsistent Formula</source>
@@ -4607,7 +4607,7 @@ Lütfen önce Microsoft Excel ile açın ve &quot;Kaydet&quot; i çalıştırın
     </message>
     <message>
         <source>Failed: Cannot merge security files</source>
-        <translation>Başarısız: Güvenlik dosyaları birleştirilemez</translation>
+        <translation>Başarısız: Güvenli dosyalar birleştirilemiyor</translation>
     </message>
     <message>
         <source>(previous)</source>
@@ -4672,7 +4672,7 @@ Eylem</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet</source>
-        <translation>Bu komutu korumalı bir sayfada kullanamazsınız</translation>
+        <translation>Bu komutu korumalı bir sayfada kullanamazsınız. Bu komutu kullanmak için önce sayfanın korumasını kaldırmalısınız (İnceleme sekmesi, Değişiklikler grubu, Sayfa Korumasını Kaldır düğmesi). Parola girmeniz istenebilir.</translation>
     </message>
     <message>
         <source>%s Sheet Type UnSupport</source>
@@ -5170,7 +5170,7 @@ Kaydedilmeyen işlerin korunması için Tamam&apos;a tıklayın ve paylaşılan 
     <message>
         <source>Data Out of Range</source>
         <comment>TX_DuplicateItemsMgr_Data_Out_Of_Range</comment>
-        <translation>Veriler Aralığın Dışında</translation>
+        <translation>Veriler aralık dışında.</translation>
     </message>
     <message>
         <source>Duplicate%s</source>
@@ -5217,7 +5217,7 @@ Kaydedilmeyen işlerin korunması için Tamam&apos;a tıklayın ve paylaşılan 
     </message>
     <message>
         <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
-        <translation>Seçiminiz bir formül, birleştirilmiş hücre, veri doğrulama veya kilitli hücre içerdiğinde değerleri dolduramadık. Bu özellikleri seçiminizden kaldırın ve Hızlı Doldurma düğmesini yeniden tıklayın.</translation>
+        <translation>Seçim formül, birleştirilmiş hücreler, veri doğrulama veya kilitli hücreler içerdiğinden doldurulamıyor. Lütfen bu verileri kaldırın ve yeniden deneyin.</translation>
     </message>
     <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
@@ -11968,7 +11968,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
-        <translation type="unfinished"/>
+        <translation>Seçim formül, birleştirilmiş hücreler, veri doğrulama veya kilitli hücreler içerdiğinden doldurulamıyor. Lütfen bu verileri kaldırın ve yeniden deneyin.</translation>
     </message>
     <message>
         <source> is an optional lower bound to the interval of x. If omitted, lower bound fo the X range = 0.</source>
@@ -16743,7 +16743,7 @@ Uyarı: İkinci işlenen sayıyı metin olarak sorgularsa, hem başına hem de s
     </message>
     <message>
         <source>All Files(*)|*|All Data Sources(*.csv,*.prn,*.txt)|*.csv;*.prn;*.txt|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Dosyalar(*)|*|Desteklenen Tüm Veritabanı Dosyaları (*.csv,*.prn,*.txt)|*.csv;*.prn;*.txt|CSV Metin Dosyaları(*.csv)|*.csv|PRN Metin Dosyaları(*.prn)|*.prn|Metin Dosyaları(*.txt)|*.txt</translation>
     </message>
     <message>
         <source>greater than</source>
@@ -22625,7 +22625,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>The document is WPS security document, please open it in the wps client which support this format. If you edit it by using &apos;stop protecting&apos;, the content of this document will be destoryed. Please note.</source>
-        <translation type="unfinished"/>
+        <translation>WPS güvenlik belgeleri diğer belgelerin referansı olamaz.</translation>
     </message>
     <message>
         <source>Missing an END.IF function.</source>
@@ -34198,7 +34198,7 @@ Shape</source>
 Slicers can&apos;t be used in this version, please update to latest version of WPS Office.</source>
         <translation>Bu şekil bir dilimleyiciyi gösterir. 
 
-Dilimleyiciler bu sürümde desteklenmez. Lütfen WPS Ofis&apos;in en son sürümüne güncelleyin.</translation>
+Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son sürümüne güncelleyin.</translation>
     </message>
     <message>
         <source>#DIV/0!</source>
