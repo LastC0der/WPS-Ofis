@@ -250,7 +250,7 @@
     </message>
     <message>
         <source>Pica</source>
-        <translation>Pika</translation>
+        <translation>Resim</translation>
     </message>
     <message>
         <source>inch</source>
@@ -1149,7 +1149,7 @@
     </message>
     <message>
         <source>Keep</source>
-        <translation type="unfinished"/>
+        <translation>Koru</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -1173,7 +1173,7 @@
     </message>
     <message>
         <source>pica</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>yard</source>
@@ -1185,11 +1185,11 @@
     </message>
     <message>
         <source>TwoTimesSpeedScrollDown</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı Kaydır (2x Hız)</translation>
     </message>
     <message>
         <source>Complete Clip</source>
-        <translation type="unfinished"/>
+        <translation>Kırpma</translation>
     </message>
     <message>
         <source>This file is signatured and can&apos;t edit.</source>
@@ -1516,7 +1516,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Saving file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya kaydediliyor</translation>
     </message>
     <message>
         <source>TranslateAll load Fail</source>
@@ -3524,7 +3524,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>Please input 6-126 byte password.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen 6-128 baytlık bir parola girin.</translation>
     </message>
     <message>
         <source>strong</source>
@@ -4281,7 +4281,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>新增运营弹框标题新增运营弹框标题</source>
-        <translation type="unfinished"/>
+        <translation>İşlem madde işareti kutusu başlığı ekle</translation>
     </message>
 </context>
 <context>
@@ -4358,7 +4358,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Scanning Copy:</source>
-        <translation type="unfinished"/>
+        <translation>Tarama Kopyası:</translation>
     </message>
     <message>
         <source>Keywords:</source>
@@ -4802,7 +4802,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Preview of black and white</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Beyaz</translation>
     </message>
     <message>
         <source>CheckBox</source>
@@ -5709,7 +5709,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>StatusBar Slider Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek</translation>
     </message>
     <message>
         <source>EditeText</source>
@@ -6117,7 +6117,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula ve İşaretle</translation>
     </message>
     <message>
         <source>FormFilling Date</source>
@@ -6481,7 +6481,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>AddBackGround</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Ekle</translation>
     </message>
     <message>
         <source>Align Text Right</source>
@@ -6597,7 +6597,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>EmbedDocument</source>
-        <translation type="unfinished"/>
+        <translation>Belgeyi ekle</translation>
     </message>
     <message>
         <source>Zoom In Thumbnails</source>
@@ -7867,7 +7867,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>AddBackGround</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Ekle</translation>
     </message>
     <message>
         <source>Graffiti</source>
@@ -7980,7 +7980,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>enterprise Center</source>
-        <translation type="unfinished"/>
+        <translation>Kurumsal Merkez</translation>
     </message>
     <message>
         <source>Vip Privilege</source>
@@ -9242,7 +9242,7 @@ Okuma</translation>
     </message>
     <message>
         <source>AddBackGround</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Ekle</translation>
     </message>
     <message>
         <source>StampTool</source>
@@ -9548,11 +9548,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula ve İşaretle</translation>
     </message>
     <message>
         <source>annotate</source>
-        <translation type="unfinished"/>
+        <translation>Açıklama eklemeye izin ver</translation>
     </message>
     <message>
         <source>Area Highlight</source>
@@ -9580,7 +9580,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştirme Kodunu Girin</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -10123,7 +10123,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Saving file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya kaydediliyor</translation>
     </message>
 </context>
 <context>
@@ -12516,7 +12516,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Cur page num</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa:%1</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
@@ -12888,7 +12888,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Annotate</source>
-        <translation type="unfinished"/>
+        <translation>Vurgula ve İşaretle</translation>
     </message>
     <message>
         <source>annotation toolbox</source>
@@ -13213,7 +13213,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>ReplyNote</source>
-        <translation type="unfinished"/>
+        <translation>Yanıtla</translation>
     </message>
     <message>
         <source>FoldAllNote</source>
@@ -13397,7 +13397,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Keep</source>
-        <translation type="unfinished"/>
+        <translation>Koru</translation>
     </message>
     <message>
         <source>Do you want to keep your ink annotations?</source>
@@ -13607,7 +13607,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Saving file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya kaydediliyor</translation>
     </message>
     <message>
         <source>Portable Network Picture*.png</source>
@@ -14552,7 +14552,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>新增运营弹框标题新增运营弹框标题</source>
-        <translation type="unfinished"/>
+        <translation>İşlem madde işareti kutusu başlığı ekle</translation>
     </message>
 </context>
 <context>
@@ -14622,11 +14622,11 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KxPdfVipPrivilegeCommand</name>
     <message>
         <source>User Center</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Merkezi</translation>
     </message>
     <message>
         <source>Enterprise Center</source>
-        <translation type="unfinished"/>
+        <translation>Kurumsal Merkez</translation>
     </message>
 </context>
 <context>
