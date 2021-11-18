@@ -5951,7 +5951,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Attribute %1 cannot appear on the element %2. Only %3 is allowed, and the standard attributes.</source>
-        <translation type="unfinished"/>
+        <translation>%2 öğesinde %1 özniteliği görüntülenemez. Yalnızca %3&apos;e ve standart özniteliklere izin verilir.</translation>
     </message>
     <message>
         <source>Only one %1-element can appear.</source>
