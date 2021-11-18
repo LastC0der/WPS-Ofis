@@ -7748,11 +7748,11 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>The date you specified in End Date is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş Tarihi&apos;nde belirttiğiniz tarih geçersiz.</translation>
     </message>
     <message>
         <source>The date you specified in End Time is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş Zamanı&apos;nda belirttiğiniz tarih geçersiz.</translation>
     </message>
     <message>
         <source>The first number</source>
@@ -7760,7 +7760,7 @@ Korumasını Kaldır</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
-        <translation type="unfinished"/>
+        <translation>gelecekteki ödemeler dizisinin şu anda olduğu toplu tutar.</translation>
     </message>
     <message>
         <source>Ignore error values, nested SUBTOTAL and AGGREGATE functions</source>
@@ -8840,7 +8840,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is a logical value for the function to return; the cumulative distribution function = TRUE; the probability density function = FALSE.</source>
-        <translation type="unfinished"/>
+        <translation>işlevin vereceği mantıksal değer; kümülatif dağılım işlevi = DOĞRU; olasılık yoğunluğu işlevi = YANLIŞ.</translation>
     </message>
     <message>
         <source>Height</source>
@@ -8848,20 +8848,20 @@ Aktar</translation>
     </message>
     <message>
         <source>You must enter a valid reference you want to go to, or type a valid name for the selection.</source>
-        <translation type="unfinished"/>
+        <translation>Gitmek istediğiniz geçerli bir başvuru girmelisiniz veya seçili kısım için geçerli bir isim vermelisiniz.</translation>
     </message>
     <message>
         <source>The End Time contains an error now. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş Zamanı şimdi bir hata içeriyor. Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Gizli</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
         <comment>TX_ParaDesc_202</comment>
-        <translation type="unfinished"/>
+        <translation>gelecekteki ödemeler dizisinin şu anda olduğu toplu tutar.</translation>
     </message>
     <message>
         <source>is the value to round.</source>
@@ -12487,7 +12487,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>is a logical value: for the cumulative distribution function, use TRUE; for the probability density function, use FALSE.</source>
-        <translation type="unfinished"/>
+        <translation>mantıksal değer: kümülatif dağılım fonksiyonu için DOĞRU&apos;yu; olasılık yoğunluk fonksiyonu için YANLIŞ&apos;ı kullanın.</translation>
     </message>
     <message>
         <source>Switch to %s</source>
@@ -13250,7 +13250,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açma parolası ve izin parolası farklı olmalıdır, lütfen yeniden girin.</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
@@ -18907,7 +18907,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürümü Değiştir</translation>
     </message>
     <message>
         <source>Cells (Entire Row/Entire Column)</source>
@@ -30780,11 +30780,12 @@ Aktar</translation>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"/>
+        <translation>Birleştir ve 
+Ortala</translation>
     </message>
     <message>
         <source>Online Editing</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Düzenleme</translation>
     </message>
     <message>
         <source>Buy Subscription</source>
@@ -30802,7 +30803,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Manager Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici Görev Bölmesi</translation>
     </message>
     <message>
         <source>Text Tool</source>
@@ -30893,7 +30894,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Year To Date</source>
-        <translation type="unfinished"/>
+        <translation>Yılbaşından Bugüne</translation>
     </message>
     <message>
         <source>Value Filter</source>
@@ -30913,7 +30914,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>All Date</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Tarih</translation>
     </message>
     <message>
         <source>Not Begins With</source>
@@ -30953,7 +30954,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>First Quarter</source>
-        <translation type="unfinished"/>
+        <translation>İlk Çeyrek</translation>
     </message>
     <message>
         <source>Top 10</source>
@@ -31041,7 +31042,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Select Field:</source>
-        <translation type="unfinished"/>
+        <translation>Alan Seçin:</translation>
     </message>
     <message>
         <source>This Quarter</source>
@@ -31148,7 +31149,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürümü Değiştir</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
@@ -46146,7 +46147,7 @@ Aktar</translation>
     </message>
     <message>
         <source>&amp;MacroIn</source>
-        <translation type="unfinished"/>
+        <translation>Makro y&amp;eri</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
@@ -50068,7 +50069,7 @@ Item Labels</source>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açma parolası ve izin parolası farklı olmalıdır, lütfen yeniden girin.</translation>
     </message>
     <message>
         <source>PDF File(*%1)|*%1</source>
@@ -52485,7 +52486,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     <name>KxExportOFDDlg</name>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açma parolası ve izin parolası farklı olmalıdır, lütfen yeniden girin.</translation>
     </message>
     <message>
         <source>Save OFD File</source>
@@ -56462,7 +56463,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürümü Değiştir</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
