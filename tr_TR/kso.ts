@@ -6611,7 +6611,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Purple</source>
-        <translation type="unfinished"/>
+        <translation>Mor</translation>
     </message>
     <message>
         <source>&quot;No&quot; Symbol</source>
@@ -9882,7 +9882,8 @@ Line-type: %3</source>
     <message>
         <source>%1 already exists.
 Do you want to overwrite it?</source>
-        <translation type="unfinished"/>
+        <translation>%1 zaten var.
+Üzerine yazmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>A1 (594 x 841 mm)</source>
@@ -9926,7 +9927,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>File exists</source>
-        <translation type="unfinished"/>
+        <translation>Dosya var</translation>
     </message>
     <message>
         <source>Write %1 file</source>
@@ -9974,7 +9975,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Executive</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -20435,7 +20436,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Go Forward</source>
-        <translation type="unfinished"/>
+        <translation>İleri Git</translation>
     </message>
     <message>
         <source>Page down</source>
@@ -20455,7 +20456,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Go Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri Git</translation>
     </message>
     <message>
         <source>Open in New Window</source>
@@ -20467,7 +20468,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the end of the document</source>
-        <translation type="unfinished"/>
+        <translation>İmleci belgenin sonuna taşı</translation>
     </message>
     <message>
         <source>Hide Spelling and Grammar</source>
@@ -20662,7 +20663,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Executive</source>
-        <translation type="unfinished"/>
+        <translation>Yönetici</translation>
     </message>
     <message>
         <source>Elemental</source>
@@ -21024,7 +21025,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;lfa kanalı:</translation>
     </message>
 </context>
 <context>
@@ -21634,7 +21635,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Arabic Presentation Forms-B</source>
-        <translation type="unfinished"/>
+        <translation>Arapça Sunu Formları-B</translation>
     </message>
     <message>
         <source>Gurmukhi</source>
@@ -24939,7 +24940,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Go Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri Git</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
@@ -29641,7 +29642,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
-        <translation type="unfinished"/>
+        <translation>Pano içeriğini bir OLE Nesnesi olarak ekler.</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
@@ -30375,7 +30376,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;lfa kanalı:</translation>
     </message>
 </context>
 <context>
@@ -32242,7 +32243,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Put below ribbon</source>
-        <translation type="unfinished"/>
+        <translation>En alta taşı</translation>
     </message>
     <message>
         <source>&amp;More Commands...</source>
@@ -34822,7 +34823,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>ShareToQzone</source>
-        <translation type="unfinished"/>
+        <translation>Qzone&apos;da Paylaş</translation>
     </message>
     <message>
         <source>Share to:</source>
@@ -36429,7 +36430,7 @@ Please check network</source>
     </message>
     <message>
         <source>Add from enterprise &amp;Table</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş listesinden &amp;ekle</translation>
     </message>
     <message>
         <source>Watermark Protect</source>
