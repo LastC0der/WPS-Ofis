@@ -14219,7 +14219,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Everyone</source>
-        <translation type="unfinished"/>
+        <translation>Herkes</translation>
     </message>
     <message>
         <source>Exporting page %d...</source>
