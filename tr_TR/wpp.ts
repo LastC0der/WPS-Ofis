@@ -6108,7 +6108,7 @@ Body: Rise Up</source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation>Sunum</translation>
+        <translation>Sunu</translation>
     </message>
     <message>
         <source>Slide Transition: Wedge
@@ -7924,7 +7924,7 @@ Body: Spinner</source>
     <message>
         <source>Presentation</source>
         <comment>WP_DEFAULT_PRESNAME</comment>
-        <translation>Sunum</translation>
+        <translation>Sunu</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
@@ -14260,7 +14260,7 @@ Master</source>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation>Yeni Sunum</translation>
+        <translation>Yeni Sunu</translation>
     </message>
     <message>
         <source>document authentication</source>
@@ -16108,7 +16108,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation>Yeni Sunum</translation>
+        <translation>Yeni Sunu</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -26960,21 +26960,21 @@ Esc					End of the slide show</source>
     <name>wppclassics.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation>Sunum</translation>
+        <translation>Sunu</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation>Sunum</translation>
+        <translation>Sunu</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation>Sunum</translation>
+        <translation>Sunu</translation>
     </message>
 </context>
 <context>
@@ -31024,7 +31024,7 @@ Kapat</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation>Yeni Sunum</translation>
+        <translation>Yeni Sunu</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
