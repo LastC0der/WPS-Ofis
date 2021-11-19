@@ -2092,11 +2092,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Everyone</source>
-        <translation type="unfinished"/>
+        <translation>Herkes</translation>
     </message>
     <message>
         <source>Level %d</source>
-        <translation type="unfinished"/>
+        <translation>Düzey %d</translation>
     </message>
     <message>
         <source> Ln: %d   Col: %d</source>
@@ -3558,7 +3558,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Asian Typography</source>
-        <translation type="unfinished"/>
+        <translation>Asya Tipografisi</translation>
     </message>
     <message>
         <source>&amp;Highlight</source>
@@ -3570,7 +3570,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Formatted text</source>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirilmiş metin</translation>
     </message>
     <message>
         <source>Login Now</source>
@@ -41816,7 +41816,7 @@ Do you want to remove the ignored exceptions?</source>
     </message>
     <message>
         <source>Everyone</source>
-        <translation type="unfinished"/>
+        <translation>Herkes</translation>
     </message>
     <message>
         <source>You are allowed to modify the document and records will be shown in Tracked changes way.</source>
