@@ -735,7 +735,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation>Sunum</translation>
+        <translation>Sunu</translation>
     </message>
     <message>
         <source>PPT Presentation</source>
@@ -1588,7 +1588,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>New Presentation</source>
-        <translation>Yeni Sunum</translation>
+        <translation>Yeni Sunu</translation>
     </message>
     <message>
         <source>PPT Presentation</source>
