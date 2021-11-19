@@ -3219,7 +3219,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation>Sunum</translation>
+        <translation>Sunu</translation>
     </message>
     <message>
         <source>Login for Free</source>
@@ -3262,7 +3262,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation>Sunum</translation>
+        <translation>Sunu</translation>
     </message>
     <message>
         <source>Document</source>
@@ -3285,7 +3285,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Blank Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sunu</translation>
     </message>
     <message>
         <source>Star Items</source>
@@ -3316,7 +3316,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Blank Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sunu</translation>
     </message>
     <message>
         <source>Cannot open file, unsupported file format!
