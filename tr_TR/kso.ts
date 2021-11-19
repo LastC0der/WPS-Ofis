@@ -1438,7 +1438,7 @@ cycle</source>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation>Yeni Sunum</translation>
+        <translation>Yeni Sunu</translation>
     </message>
     <message>
         <source>Light Yellow</source>
@@ -1722,7 +1722,7 @@ Used to show foundation-based relationships</source>
     </message>
     <message>
         <source>Blank Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sunu</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
@@ -2056,7 +2056,7 @@ için kullanılır</translation>
     <message>
         <source>New Presentation</source>
         <comment>kso_NewPresent_DisplayName</comment>
-        <translation>Yeni Sunum</translation>
+        <translation>Yeni Sunu</translation>
     </message>
     <message>
         <source>DoorOpen</source>
@@ -15267,7 +15267,7 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source>Everyone</source>
-        <translation type="unfinished"/>
+        <translation>Herkes</translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -15710,7 +15710,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Enter -5963.92cm to 5963.92cm  of value</source>
-        <translation type="unfinished"/>
+        <translation>-5963,92cm ile 5963,92cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>&amp;Height</source>
@@ -16284,7 +16284,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Asian Typograp&amp;hy</source>
-        <translation type="unfinished"/>
+        <translation>Asya Tipogra&amp;fisi</translation>
     </message>
     <message>
         <source>&amp;Indents and Spacing</source>
@@ -20794,7 +20794,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Chrome</source>
-        <translation type="unfinished"/>
+        <translation>Krom</translation>
     </message>
     <message>
         <source>Coffee</source>
@@ -22295,7 +22295,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation>Sunum</translation>
+        <translation>Sunu</translation>
     </message>
     <message>
         <source>Login for Free</source>
@@ -34293,7 +34293,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Blank Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Boş Sunu</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
@@ -37601,7 +37601,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>D&amp;elete cropped areas of pictures</source>
-        <translation type="unfinished"/>
+        <translation>R&amp;esimlerin kırpılmış alanlarını sil</translation>
     </message>
 </context>
 <context>
@@ -37927,7 +37927,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Dynamic Link Lib(*.dll)</source>
-        <translation type="unfinished"/>
+        <translation>Dinamik Bağlantı Kitaplığı(*.dll)</translation>
     </message>
     <message>
         <source>Icon Files(*.ico)</source>
