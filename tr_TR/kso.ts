@@ -4030,7 +4030,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>L&amp;inked to source</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kaynağa bağlı</translation>
     </message>
     <message>
         <source>Accounting</source>
@@ -4285,7 +4285,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Cancel apply</source>
-        <translation type="unfinished"/>
+        <translation>Başvuruyu İptal Et</translation>
     </message>
     <message>
         <source>Apply Dept:	%1</source>
@@ -30403,7 +30403,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Apply Date</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru Tarihi</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -30411,7 +30411,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Cancel Apply</source>
-        <translation type="unfinished"/>
+        <translation>Başvuruyu İptal Et</translation>
     </message>
     <message>
         <source>Apply State</source>
@@ -30569,11 +30569,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>MARKER OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>İŞARETÇİ SEÇENEKLERİ</translation>
     </message>
     <message>
         <source>DATALABEL OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>VERİ ETİKETİ SEÇENEKLERİ</translation>
     </message>
     <message>
         <source>LABELS</source>
@@ -30589,11 +30589,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>HORIZONTAL ERROR BAR</source>
-        <translation type="unfinished"/>
+        <translation>YATAY HATA ÇUBUĞU</translation>
     </message>
     <message>
         <source>DATATABLE OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>VERİ TABLOSU SEÇENEKLERİ</translation>
     </message>
     <message>
         <source>TRENDLINE OPTIONS</source>
@@ -30609,7 +30609,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>SERIES OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>SERİ SEÇENEKLERİ</translation>
     </message>
 </context>
 <context>
@@ -34716,7 +34716,7 @@ share with your friends</source>
     </message>
     <message>
         <source>Apply Date</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru Tarihi</translation>
     </message>
     <message>
         <source>Apply Id</source>
