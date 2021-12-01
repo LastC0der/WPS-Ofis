@@ -3777,7 +3777,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>P&amp;ercent:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yüzde:</translation>
     </message>
     <message>
         <source>&amp;Smart Backup</source>
@@ -18095,7 +18095,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Smart Paste Menu</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı Yapıştırma Menüsü</translation>
     </message>
     <message>
         <source>0.2 pt</source>
@@ -22686,7 +22686,7 @@ Protection</source>
     </message>
     <message>
         <source>Change List Level</source>
-        <translation type="unfinished"/>
+        <translation>Liste Düzeyini Değiştir</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -26599,7 +26599,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"/>
+        <translation>Karakter</translation>
     </message>
     <message>
         <source>Outside Margin</source>
@@ -31488,7 +31488,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Not Italic</source>
-        <translation type="unfinished"/>
+        <translation>İtalik Değil</translation>
     </message>
     <message>
         <source>Bold Italic</source>
@@ -39487,7 +39487,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"/>
+        <translation>Karakter</translation>
     </message>
     <message>
         <source>F&amp;ormat</source>
@@ -40029,7 +40029,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"/>
+        <translation>Karakter</translation>
     </message>
     <message>
         <source>F&amp;ormat</source>
@@ -44518,7 +44518,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>P&amp;ercent:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yüzde:</translation>
     </message>
     <message>
         <source>Zoom Level</source>
