@@ -10795,7 +10795,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Please enter department name</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bölüm adını girin</translation>
     </message>
     <message>
         <source>You can add certificates in two ways:</source>
