@@ -2568,7 +2568,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Dark upward diagonal</source>
-        <translation type="unfinished"/>
+        <translation>Koyu yukarı köşegen</translation>
     </message>
     <message>
         <source>CJK Miscellaneous;Enclosed CJK Letters and Months;CJK Compatibility;Hangul;Surrogates;CJK Unified Ideographs;CJK Radicals Supplement;Kangxi Radicals;Ideographic Description;</source>
@@ -2677,7 +2677,7 @@ Download the XML expansion pack?</source>
     </message>
     <message>
         <source>Value should be between %s and %s.</source>
-        <translation type="unfinished"/>
+        <translation>Değer %s ile %s arasında olmalıdır.</translation>
     </message>
     <message>
         <source>Initializing the printer...</source>
@@ -9578,7 +9578,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Light bulb</source>
-        <translation type="unfinished"/>
+        <translation>Ampul</translation>
     </message>
     <message>
         <source>VerticalS Scroll</source>
@@ -16974,7 +16974,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Show single page</source>
-        <translation type="unfinished"/>
+        <translation>Tek sayfayı göster</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -17091,7 +17091,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Please enter department name</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bölüm adını girin</translation>
     </message>
     <message>
         <source>User &amp;Group</source>
@@ -17103,7 +17103,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Please enter group name</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen grup adını girin</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -21583,7 +21583,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ethiopic</source>
-        <translation type="unfinished"/>
+        <translation>Etiyopyalı</translation>
     </message>
     <message>
         <source>Tibetan</source>
@@ -28047,7 +28047,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>security warning: macros have been disabled</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik uyarısı: Makrolar devre dışı bırakıldı</translation>
     </message>
     <message>
         <source>%1 Try %3 Document Repair %4 Repair the error encoding. %2</source>
@@ -29565,7 +29565,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Enhanced Metafile.</source>
-        <translation type="unfinished"/>
+        <translation>Pano içeriği, Gelişmiş Meta Dosyası olarak eklenecektir.</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Spreadsheets.</source>
@@ -30508,7 +30508,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
-        <translation type="unfinished"/>
+        <translation>Caps Lock tuşunun etkin olması, parolanızı yanlış girmenize neden olabilir.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -30834,7 +30834,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Dark upward diagonal</source>
-        <translation type="unfinished"/>
+        <translation>Koyu yukarı köşegen</translation>
     </message>
     <message>
         <source>Select Picture</source>
@@ -31845,7 +31845,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Unable to initialize broadcast socket</source>
-        <translation type="unfinished"/>
+        <translation>Yayın soketi başlatılamıyor</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -31998,7 +31998,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>After closing, when WPS is unexpectedly closed, unsaved documents will be at risk of losing data. It is recommended to turn on backup.</source>
-        <translation type="unfinished"/>
+        <translation>Kapattıktan sonra, WPS beklenmedik bir şekilde kapatıldığında, kaydedilmemiş belgeler veri kaybetme riskiyle karşı karşıya kalacaktır. Yedeklemeyi açmanız önerilir.</translation>
     </message>
     <message>
         <source>Keep on</source>
@@ -32006,7 +32006,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Are you sure to close local backup?</source>
-        <translation type="unfinished"/>
+        <translation>Yerel yedeklemeyi kapattığınızdan emin misiniz?</translation>
     </message>
 </context>
 <context>
@@ -32017,7 +32017,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Please enter department name</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bölüm adını girin</translation>
     </message>
     <message>
         <source>User &amp;Group</source>
@@ -32037,7 +32037,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Please enter group name</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen grup adını girin</translation>
     </message>
     <message>
         <source>Grant Department Permssion</source>
@@ -35447,7 +35447,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation type="unfinished"/>
+        <translation>XML bildirimi okunurken kodlama bildirimi veya bağımsız bildirim bekleniyor</translation>
     </message>
     <message>
         <source>no error occurred</source>
@@ -36861,7 +36861,8 @@ Please check network</source>
     <message>
         <source>Plug in a USB Key to hardware encrypt the file's open access. 
 Password protection and document permissions will become invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Dosyanın açık erişimini donanımsal olarak şifrelemek için bir USB Anahtarı takın. 
+Parola koruması ve belge izinleri geçersiz hale gelecek.</translation>
     </message>
     <message>
         <source>Redetect</source>
@@ -37978,7 +37979,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Please input department name</source>
-        <translation>Lütfen departman adını girin</translation>
+        <translation>Lütfen bölüm adını girin</translation>
     </message>
     <message>
         <source>Clear All Selected</source>
