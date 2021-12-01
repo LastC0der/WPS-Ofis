@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>QWidget</name>
     <message>
@@ -2994,7 +2994,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Show single page</source>
-        <translation type="unfinished"/>
+        <translation>Tek sayfayı göster</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -7330,7 +7330,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Unable to initialize broadcast socket</source>
-        <translation type="unfinished"/>
+        <translation>Yayın soketi başlatılamıyor</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -9248,7 +9248,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation type="unfinished"/>
+        <translation>XML bildirimi okunurken kodlama bildirimi veya bağımsız bildirim bekleniyor</translation>
     </message>
     <message>
         <source>no error occurred</source>
