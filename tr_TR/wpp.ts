@@ -629,7 +629,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Default print setting for this document</source>
-        <translation type="unfinished"/>
+        <translation>Bu belge için varsayılan yazdırma ayarı</translation>
     </message>
     <message>
         <source>Inches</source>
@@ -29078,7 +29078,7 @@ Bölmesi</translation>
     <name>KxWppStatusZoomOptionGalleryModel</name>
     <message>
         <source>P&amp;ercent:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yüzde:</translation>
     </message>
     <message>
         <source>Zoom Level</source>
