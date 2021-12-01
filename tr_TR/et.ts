@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>KxDlgTextToColumns</name>
     <message>
@@ -21341,7 +21341,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>character</source>
-        <translation type="unfinished"/>
+        <translation>karakter</translation>
     </message>
     <message>
         <source>&amp;Standard column width:</source>
@@ -32897,11 +32897,11 @@ Taşı</translation>
     </message>
     <message>
         <source>This workbook has referred to data on other workbooks. Update to get the latest data ?</source>
-        <translation type="unfinished"/>
+        <translation>Bu çalışma kitabı diğer çalışma kitaplarındaki verilere atıfta bulundu. En son verileri almak için güncelleştirilsin mi?</translation>
     </message>
     <message>
         <source>security warning: JS macros and automatic update links have been disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik uyarısı: JS makroları ve otomatik güncelleme bağlantıları devre dışı bırakıldı.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has turned on Manual Recalculation, in which calculation result will not immediately reflect data change.</source>
@@ -32909,7 +32909,7 @@ Taşı</translation>
     </message>
     <message>
         <source>security warning: macros have been disabled</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik uyarısı: Makrolar devre dışı bırakıldı</translation>
     </message>
     <message>
         <source>enable macros</source>
@@ -32921,11 +32921,11 @@ Taşı</translation>
     </message>
     <message>
         <source>Enable Content</source>
-        <translation type="unfinished"/>
+        <translation>İçeriği Etkinleştir</translation>
     </message>
     <message>
         <source>security warning: Macros and automatic update links have been disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Güvenlik uyarısı: Makrolar ve otomatik güncelleme bağlantıları devre dışı bırakıldı.</translation>
     </message>
 </context>
 <context>
@@ -33157,7 +33157,7 @@ Taşı</translation>
     </message>
     <message>
         <source>Show items for which the date</source>
-        <translation type="unfinished"/>
+        <translation>Şu tarihli öğeleri göster:</translation>
     </message>
     <message>
         <source>Whole Days</source>
@@ -33273,7 +33273,8 @@ Taşı</translation>
     <message>
         <source>Use ? represent a single character
 Use * represent any number of character</source>
-        <translation type="unfinished"/>
+        <translation>? tek bir karakteri temsil eder
+* herhangi bir sayıda karakteri temsil eder</translation>
     </message>
 </context>
 <context>
