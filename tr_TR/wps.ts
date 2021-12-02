@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
 <context>
     <name>KxDlgEncloseCharacters</name>
     <message>
@@ -34548,7 +34548,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation type="unfinished"/>
+        <translation>Ara&amp;nan:</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -34573,7 +34573,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Re&amp;place</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;eğiştir</translation>
     </message>
     <message>
         <source>find result</source>
