@@ -2679,7 +2679,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Yunanca</translation>
     </message>
     <message>
         <source>Khmer</source>
@@ -2719,7 +2719,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"/>
+        <translation>Malayalamca</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
