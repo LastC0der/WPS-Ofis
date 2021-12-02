@@ -21540,7 +21540,7 @@ Click to follow this link</source>
     </message>
     <message>
         <source>Insert Number</source>
-        <translation type="unfinished"/>
+        <translation>Sayı Ekle</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -32730,7 +32730,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert Number</source>
-        <translation type="unfinished"/>
+        <translation>Sayı Ekle</translation>
     </message>
     <message>
         <source>File Object</source>
