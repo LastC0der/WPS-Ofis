@@ -3352,7 +3352,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"/>
+        <translation>Tayca</translation>
     </message>
     <message>
         <source>Black</source>
