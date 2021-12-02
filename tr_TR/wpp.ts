@@ -10272,7 +10272,7 @@ Slide</source>
     </message>
     <message>
         <source>Align Text Thai Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Tayca Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>Collapse All</source>
@@ -10895,7 +10895,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Align Text Thai Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Tayca Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>0.5 pt</source>
