@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
 <context>
     <name>QWidget</name>
     <message>
@@ -3360,7 +3360,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Yunanca</translation>
     </message>
     <message>
         <source>Khmer</source>
@@ -3400,7 +3400,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"/>
+        <translation>Malayalamca</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
