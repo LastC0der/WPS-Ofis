@@ -22335,7 +22335,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Basitleştirilmiş Çince&apos;ye Dönüştür</translation>
+        <translation>Basitleştirilmiş</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -24260,7 +24260,7 @@ Aktar</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Sözlüğe &amp;Ekle</translation>
     </message>
     <message>
         <source>&amp;Options</source>
