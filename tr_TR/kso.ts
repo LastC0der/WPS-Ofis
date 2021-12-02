@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
 <context>
     <name>ContentChartErrorBarOptions</name>
     <message>
@@ -9522,7 +9522,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Work station</source>
-        <translation type="unfinished"/>
+        <translation>İş istasyonu</translation>
     </message>
     <message>
         <source>SolidDiamond</source>
@@ -15520,7 +15520,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>&amp;Automatic update</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otomatik güncelleme</translation>
     </message>
     <message>
         <source>Options for selected link</source>
@@ -15528,7 +15528,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Source file:</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak dosya:</translation>
     </message>
     <message>
         <source>Loc&amp;ked</source>
@@ -27135,7 +27135,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Personal</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel</translation>
     </message>
 </context>
 <context>
@@ -33453,7 +33453,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <name>KxMailFeedBackDlg</name>
     <message>
         <source>Abnormal exit</source>
-        <translation type="unfinished"/>
+        <translation>Olağandışı çıkış</translation>
     </message>
     <message>
         <source>If options folow are empty, the email will only send the auto-generated error log report.</source>
