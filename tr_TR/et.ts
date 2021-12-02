@@ -29389,7 +29389,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"/>
+        <translation>Tayca</translation>
     </message>
     <message>
         <source>Greek</source>
