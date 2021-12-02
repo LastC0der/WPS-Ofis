@@ -4153,7 +4153,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>THREE</source>
-        <translation type="unfinished"/>
+        <translation>ÜÇ</translation>
     </message>
     <message>
         <source>PrintDate</source>
@@ -8353,7 +8353,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Show changes</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri göster</translation>
     </message>
     <message>
         <source>&amp;Character level</source>
@@ -25457,11 +25457,11 @@ Kenarlıkları</translation>
     <name>ongmani.ct_section</name>
     <message>
         <source>One</source>
-        <translation type="unfinished"/>
+        <translation>Bir</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation type="unfinished"/>
+        <translation>İki</translation>
     </message>
     <message>
         <source>Size</source>
@@ -25477,7 +25477,7 @@ Kenarlıkları</translation>
     </message>
     <message>
         <source>Three</source>
-        <translation type="unfinished"/>
+        <translation>Üç</translation>
     </message>
     <message>
         <source>Different First Page</source>
@@ -37536,7 +37536,7 @@ Numarası</translation>
     <name>KxSortOptionsDlg</name>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"/>
+        <translation>Tayca</translation>
     </message>
     <message>
         <source>Chinese(Macao S.A.R)</source>
@@ -50022,11 +50022,11 @@ Efektler</translation>
     <name>rainbow.ct_pagelayout</name>
     <message>
         <source>One</source>
-        <translation type="unfinished"/>
+        <translation>Bir</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation type="unfinished"/>
+        <translation>İki</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -50070,7 +50070,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Three</source>
-        <translation type="unfinished"/>
+        <translation>Üç</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -50375,11 +50375,11 @@ Kaydır</translation>
     <name>rainbow.ct_section</name>
     <message>
         <source>One</source>
-        <translation type="unfinished"/>
+        <translation>Bir</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation type="unfinished"/>
+        <translation>İki</translation>
     </message>
     <message>
         <source>Link to Previous Footer</source>
@@ -50391,7 +50391,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Three</source>
-        <translation type="unfinished"/>
+        <translation>Üç</translation>
     </message>
     <message>
         <source>Different First Page</source>
