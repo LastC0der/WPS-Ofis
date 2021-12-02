@@ -15304,7 +15304,7 @@ Painter</source>
     </message>
     <message>
         <source>Add to Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Sözlüğe Ekle</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -35198,7 +35198,7 @@ Sil</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Basitleştirilmiş Çince&apos;ye Dönüştür</translation>
+        <translation>Basitleştirilmiş</translation>
     </message>
     <message>
         <source>Reject Format Changes in Document</source>
@@ -39246,7 +39246,7 @@ Temizle</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Sözlüğe &amp;Ekle</translation>
     </message>
     <message>
         <source>&amp;Options</source>
