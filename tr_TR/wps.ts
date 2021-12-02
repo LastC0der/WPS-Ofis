@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>KxDlgEncloseCharacters</name>
     <message>
@@ -11845,7 +11845,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Align Text Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
@@ -12439,7 +12439,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Align Text Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
@@ -13001,7 +13001,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Align Text Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
@@ -13454,7 +13454,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Align Text Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
@@ -13510,7 +13510,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Align Text Thai Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Tayca Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>Numbering</source>
@@ -13973,7 +13973,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Align Text Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
@@ -14372,7 +14372,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Dolgu</translation>
     </message>
     <message>
         <source>Font</source>
@@ -14440,7 +14440,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Align Text Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
@@ -15159,7 +15159,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Align Text Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>Delete Content Entry</source>
@@ -17839,7 +17839,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Align Text Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>Footnotes Context Menu</source>
@@ -31603,7 +31603,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Align Text Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
