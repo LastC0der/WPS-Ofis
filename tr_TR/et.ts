@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
 <context>
     <name>KxDlgTextToColumns</name>
     <message>
@@ -9280,7 +9280,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Holidays</source>
-        <translation type="unfinished"/>
+        <translation>Tatiller</translation>
     </message>
     <message>
         <source>is the number you want to round and convert to text.</source>
@@ -26466,7 +26466,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Align Text Thai Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Tayca Dağıtılmış Metni Hizala</translation>
     </message>
     <message>
         <source>0.5 pt</source>
@@ -29393,7 +29393,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Yunanca</translation>
     </message>
     <message>
         <source>Khmer</source>
@@ -29413,7 +29413,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"/>
+        <translation>Malayalamca</translation>
     </message>
     <message>
         <source>Arabic</source>
@@ -29421,15 +29421,15 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"/>
+        <translation>Fransızca</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"/>
+        <translation>Almanca</translation>
     </message>
     <message>
         <source>Mongolian</source>
-        <translation type="unfinished"/>
+        <translation>Moğolca</translation>
     </message>
     <message>
         <source>Hebrew</source>
@@ -38816,7 +38816,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation type="unfinished"/>
+        <translation>Ara&amp;nan:</translation>
     </message>
     <message>
         <source>&amp;Comments</source>
@@ -38848,7 +38848,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Re&amp;place</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;eğiştir</translation>
     </message>
     <message>
         <source>&amp;Search for a function:</source>
