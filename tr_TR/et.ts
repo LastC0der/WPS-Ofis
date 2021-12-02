@@ -43134,8 +43134,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>Basitleştirilmiş Çinceye 
-Dönüştür</translation>
+        <translation>Basitleştirilmiş</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -46633,7 +46632,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Sözlüğe &amp;Ekle</translation>
     </message>
     <message>
         <source>Cancel</source>
