@@ -3726,7 +3726,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Add To Dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Sözlüğe Ekle</translation>
     </message>
     <message>
         <source>Delete to the start of the word</source>
