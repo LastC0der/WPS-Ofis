@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>ContentChartErrorBarOptions</name>
     <message>
@@ -1856,7 +1856,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>Recent workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Son kullanılan çalışma kitapları</translation>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
@@ -6314,7 +6314,7 @@ Ekle</translation>
     <message>
         <source>Action Button: Beginning</source>
         <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BEGINNING</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Başlangıç</translation>
     </message>
     <message>
         <source>Earth1</source>
@@ -9308,7 +9308,7 @@ Line-type: %3</source>
     <message>
         <source>Action Button: Beginning</source>
         <comment>DRAWING2STR_ACTION_BUTTON_BEGINNING</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Başlangıç</translation>
     </message>
     <message>
         <source>Baseline Offset</source>
@@ -9670,7 +9670,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Action Button: Beginning</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Başlangıç</translation>
     </message>
     <message>
         <source>Long Dash Line</source>
@@ -17865,7 +17865,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bending Picture Accent List</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme Resim Vurgu Listesi</translation>
     </message>
     <message>
         <source>Hierarchy List</source>
@@ -19029,7 +19029,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Yunanca</translation>
     </message>
     <message>
         <source>Khmer</source>
@@ -19069,7 +19069,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"/>
+        <translation>Malayalamca</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -21415,7 +21415,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"/>
+        <translation>Malayalamca</translation>
     </message>
     <message>
         <source>Extended Bopomofo</source>
@@ -21451,7 +21451,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Mongolian</source>
-        <translation type="unfinished"/>
+        <translation>Moğolca</translation>
     </message>
     <message>
         <source>Hangul</source>
@@ -30430,7 +30430,8 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxFormatProperty_FillAndLine</name>
     <message>
         <source>Text Fill &amp; Outline</source>
-        <translation type="unfinished"/>
+        <translation>METİN DOLGUSU 
+&amp; ANA HAT</translation>
     </message>
     <message>
         <source>Fill &amp; Line</source>
@@ -33395,7 +33396,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Modify Trusted Location</source>
-        <translation type="unfinished"/>
+        <translation>Güvenilir Konumu Değiştir</translation>
     </message>
     <message>
         <source>Add Trusted Location</source>
@@ -33560,7 +33561,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Hide Task Window</source>
-        <translation type="unfinished"/>
+        <translation>Görev Penceresini Gizle</translation>
     </message>
     <message>
         <source>Show Task Window</source>
@@ -35360,7 +35361,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Apply date:</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru Tarihi:</translation>
     </message>
 </context>
 <context>
@@ -38174,7 +38175,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Outward document is created, open now?</source>
-        <translation type="unfinished"/>
+        <translation>Dış belge oluşturuldu. Şimdi açılsın mı?</translation>
     </message>
     <message>
         <source>The document was made successfully</source>
