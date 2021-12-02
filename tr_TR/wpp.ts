@@ -25182,31 +25182,31 @@ Yapısı</translation>
     </message>
     <message>
         <source>Source File:</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Dosya:</translation>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıları Düzenle</translation>
     </message>
     <message>
         <source>&amp;Open Source</source>
-        <translation type="unfinished"/>
+        <translation>Kaynağı &amp;Aç</translation>
     </message>
     <message>
         <source>&amp;Atuo Update</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otomatik Güncelleştirme</translation>
     </message>
     <message>
         <source>&amp;Break Link</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıyı &amp;Kes</translation>
     </message>
     <message>
         <source>&amp;Change Source...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kaynağı Değiştir...</translation>
     </message>
     <message>
         <source>&amp;Update Values</source>
-        <translation type="unfinished"/>
+        <translation>Değerleri &amp;Güncelleştir</translation>
     </message>
 </context>
 <context>
@@ -25232,7 +25232,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Re&amp;place:</source>
-        <translation type="unfinished"/>
+        <translation>Değiştiril&amp;en:</translation>
     </message>
     <message>
         <source>Replace &amp;with:</source>
