@@ -3161,7 +3161,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you wish to delete %1 &quot;%2&quot;?&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;%1 &quot;%2&quot; silmek istediğinizden emin misiniz?&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Find Directory</source>
@@ -7061,7 +7061,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Expected character data.</source>
-        <translation type="unfinished"/>
+        <translation>Beklenen karakter verileri.</translation>
     </message>
     <message>
         <source>Standalone accepts only yes or no.</source>
