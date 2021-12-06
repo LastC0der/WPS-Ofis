@@ -2823,7 +2823,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>The first slide has no background music. Do you want to add it?</source>
-        <translation type="unfinished"/>
+        <translation>İlk slaytta arka plan müziği yok. Eklemek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -6207,7 +6207,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Animasyon Şemaları</translation>
     </message>
     <message>
         <source>Move objects and individual letters.
@@ -12134,7 +12134,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Animasyon Şemaları</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -12834,7 +12834,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Change Link Source</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Kaynağını Değiştir</translation>
     </message>
     <message>
         <source>Delete Columns</source>
@@ -14376,7 +14376,7 @@ Slide</source>
     </message>
     <message>
         <source>Table Cell</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Hücresi</translation>
     </message>
     <message>
         <source>File Send</source>
@@ -15324,7 +15324,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Video Exporting</source>
-        <translation type="unfinished"/>
+        <translation>Video Dışa Aktarma</translation>
     </message>
     <message>
         <source>New From Design Template</source>
@@ -16059,7 +16059,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"/>
+        <translation>Grafik</translation>
     </message>
     <message>
         <source>Update</source>
@@ -16146,7 +16146,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Eğitim</translation>
     </message>
     <message>
         <source>Share as PDF</source>
@@ -21573,7 +21573,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Video Exporting</source>
-        <translation type="unfinished"/>
+        <translation>Video Dışa Aktarma</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -22031,7 +22031,7 @@ Comment</source>
     </message>
     <message>
         <source>Video Exporting</source>
-        <translation type="unfinished"/>
+        <translation>Video Dışa Aktarma</translation>
     </message>
     <message>
         <source>File Collect</source>
@@ -22422,7 +22422,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="unfinished"/>
+        <translation>Animasyon Şemaları</translation>
     </message>
     <message>
         <source>Apply to Master</source>
@@ -22608,7 +22608,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Printer Name</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcı Adı</translation>
     </message>
     <message>
         <source>Previous
@@ -24543,7 +24543,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>Do not show on title &amp;slide</source>
-        <translation type="unfinished"/>
+        <translation>Başlık &amp;slaydında gösterme</translation>
     </message>
     <message>
         <source>Appl&amp;y to All</source>
@@ -24911,7 +24911,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Stop Playing</source>
-        <translation type="unfinished"/>
+        <translation>Yürütmeyi Durdur</translation>
     </message>
     <message>
         <source>Text Animation</source>
@@ -31054,7 +31054,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Eğitim</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -33047,7 +33047,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Video Exporting</source>
-        <translation type="unfinished"/>
+        <translation>Video Dışa Aktarma</translation>
     </message>
     <message>
         <source>View File Safe</source>
