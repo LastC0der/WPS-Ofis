@@ -7755,7 +7755,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş</translation>
     </message>
     <message>
         <source>Clean cloud disk cache files</source>
@@ -8252,7 +8252,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş</translation>
     </message>
     <message>
         <source>Mobile phone associate succeeded</source>
