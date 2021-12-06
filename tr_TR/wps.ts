@@ -16740,7 +16740,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numarasını Gösterme</translation>
     </message>
     <message>
         <source>Curved Connector</source>
@@ -24921,7 +24921,7 @@ Böl</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Eğitim</translation>
     </message>
     <message>
         <source>Share as PDF</source>
@@ -25312,7 +25312,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numarasını Gösterme</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -49899,7 +49899,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Eğitim</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -50248,7 +50248,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numarasını Gösterme</translation>
     </message>
     <message>
         <source>Selection Pane</source>
