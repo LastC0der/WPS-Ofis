@@ -4652,7 +4652,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş</translation>
     </message>
 </context>
 <context>
