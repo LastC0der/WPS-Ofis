@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>ContentChartErrorBarOptions</name>
     <message>
@@ -5338,7 +5338,7 @@ Used to show hierarchical relationships</source>
     <message>
         <source>Half Frame</source>
         <comment>DRAWING2_TOOLTIP_HALF_FRAME</comment>
-        <translation type="unfinished"/>
+        <translation>Yarım Çerçeve</translation>
     </message>
     <message>
         <source>NavajoWhite</source>
@@ -5622,7 +5622,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Action Button: End</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Son</translation>
     </message>
     <message>
         <source>Triple Line</source>
@@ -6501,7 +6501,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Light1</source>
-        <translation type="unfinished"/>
+        <translation>Açık1</translation>
     </message>
     <message>
         <source>Light2</source>
@@ -7574,7 +7574,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Half Frame</source>
-        <translation type="unfinished"/>
+        <translation>Yarım Çerçeve</translation>
     </message>
     <message>
         <source>OrangeRed</source>
@@ -8304,7 +8304,7 @@ Line-type: %3</source>
     <message>
         <source>Action Button: End</source>
         <comment>DRAWING2STR_ACTION_BUTTON_END</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Son</translation>
     </message>
     <message>
         <source>Stripes</source>
@@ -8974,7 +8974,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Tilt Left Down</source>
-        <translation type="unfinished"/>
+        <translation>Sola Aşağı Eğ</translation>
     </message>
     <message>
         <source>Equal</source>
@@ -9371,7 +9371,7 @@ Line-type: %3</source>
     <message>
         <source>Action Button: End</source>
         <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_END</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Son</translation>
     </message>
     <message>
         <source>Star And Flag</source>
@@ -9594,7 +9594,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>RoyalBlue</source>
-        <translation type="unfinished"/>
+        <translation>Kraliyet Mavisi</translation>
     </message>
     <message>
         <source>Dash Line-Point</source>
@@ -15856,7 +15856,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&amp;Do not Autofit</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Sığ&amp;dırma</translation>
     </message>
     <message>
         <source>Text &amp;margin</source>
@@ -17141,7 +17141,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Template Desc</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Açıklaması</translation>
     </message>
     <message>
         <source>Template Name</source>
@@ -17482,7 +17482,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you wish to delete %1 &quot;%2&quot;?&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;%1 &quot;%2&quot; silmek istediğinizden emin misiniz?&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Find Directory</source>
@@ -18814,7 +18814,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show a progression, a timeline, or sequential steps in a task, process, or workflow. Works well for illustrating both Level 1 and Level 2 text.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında ilerlemeyi, zaman çizelgesini veya sıralı adımları göstermek için kullanın. Hem Düzey 1 hem de Düzey 2 metnini göstermek için iyi sonuç verir.</translation>
     </message>
     <message>
         <source>Use to show multiple groups of information or steps and sub-steps in a task, process, or workflow. Level 1 text corresponds to the top horizontal shapes, and Level 2 text corresponds to vertical sub-steps under each related top level shape.</source>
@@ -18826,7 +18826,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Vertical Picture Accent List</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Resim Vurgu Listesi</translation>
     </message>
     <message>
         <source>Accent Process</source>
@@ -21427,7 +21427,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Miscellaneous Technical</source>
-        <translation type="unfinished"/>
+        <translation>Teknik Semboller</translation>
     </message>
     <message>
         <source>Latin-1 Supplement</source>
@@ -21531,7 +21531,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Miscellaneous Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Çeşitli Semboller</translation>
     </message>
     <message>
         <source>Yi Radicals</source>
@@ -25013,7 +25013,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Template Desc</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Açıklaması</translation>
     </message>
     <message>
         <source>Template Name</source>
@@ -29638,7 +29638,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Data of Kingsoft Presentation Slide.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum Slaytı</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
@@ -31219,7 +31219,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Expected character data.</source>
-        <translation type="unfinished"/>
+        <translation>Beklenen karakter verileri.</translation>
     </message>
     <message>
         <source>Standalone accepts only yes or no.</source>
@@ -33310,7 +33310,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Printing progress:</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma ilerlemesi:</translation>
     </message>
 </context>
 <context>
@@ -37118,7 +37118,7 @@ Parola koruması ve belge izinleri geçersiz hale gelecek.</translation>
     </message>
     <message>
         <source>The encryption service will </source>
-        <translation type="unfinished"/>
+        <translation>Şifreleme hizmeti </translation>
     </message>
 </context>
 <context>
@@ -38931,7 +38931,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
-        <translation type="unfinished"/>
+        <translation>Grafik türü değiştirilemedi. Seçilen veriler bu grafik türüne değiştirilemez.</translation>
     </message>
 </context>
 <context>
@@ -40672,7 +40672,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxRecentFilePageCommand</name>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; klasörü bulunamadı. Silinmiş, taşınmış ve yeniden adlandırılmış olabilir.</translation>
     </message>
 </context>
 <context>
