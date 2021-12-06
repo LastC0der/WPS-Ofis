@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>KPreferencesWidget</name>
     <message>
@@ -2480,7 +2480,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you wish to delete %1 &quot;%2&quot;?&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;%1 &quot;%2&quot; silmek istediğinizden emin misiniz?&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Find Directory</source>
@@ -6319,7 +6319,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Expected character data.</source>
-        <translation type="unfinished"/>
+        <translation>Beklenen karakter verileri.</translation>
     </message>
     <message>
         <source>Standalone accepts only yes or no.</source>
@@ -8018,7 +8018,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; klasörü bulunamadı. Silinmiş, taşınmış ve yeniden adlandırılmış olabilir.</translation>
     </message>
 </context>
 <context>
@@ -8049,7 +8049,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS ofd</source>
-        <translation type="unfinished"/>
+        <translation>WPS OFD</translation>
     </message>
     <message>
         <source>WPS pdf</source>
