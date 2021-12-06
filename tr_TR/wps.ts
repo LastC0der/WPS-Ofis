@@ -7358,11 +7358,11 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>TOP SECRET</source>
-        <translation type="unfinished"/>
+        <translation>ÇOK GİZLİ</translation>
     </message>
     <message>
         <source>URGENT</source>
-        <translation type="unfinished"/>
+        <translation>URGENT</translation>
     </message>
     <message>
         <source>Tooltip </source>
@@ -7370,7 +7370,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>ORIGINAL</source>
-        <translation type="unfinished"/>
+        <translation>ÖZGÜN</translation>
     </message>
     <message>
         <source>Please select a picture.</source>
@@ -7378,7 +7378,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>DISTRIBUTE</source>
-        <translation type="unfinished"/>
+        <translation>DAĞITIM</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -29303,7 +29303,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Original</source>
-        <translation type="unfinished"/>
+        <translation>Özgün</translation>
     </message>
     <message>
         <source>Handwriting Comments</source>
@@ -34524,7 +34524,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Find whole words onl&amp;y</source>
-        <translation type="unfinished"/>
+        <translation>Yalnız&amp;ca tam sözcükleri bul</translation>
     </message>
     <message>
         <source>Ma&amp;tch suffix</source>
@@ -40680,7 +40680,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş</translation>
     </message>
     <message>
         <source>Last Record</source>
@@ -40787,7 +40787,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>İsimsiz</translation>
     </message>
 </context>
 <context>
@@ -54461,7 +54461,7 @@ Seçenekleri</translation>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş</translation>
     </message>
     <message>
         <source>Last Record</source>
