@@ -3656,7 +3656,7 @@ Are you sure you want to save it in this format ?</source>
     <message>
         <source>Bounce</source>
         <comment>wpp_sAnimExitEffectTextBounce</comment>
-        <translation type="unfinished"/>
+        <translation>Sıçrayış</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
@@ -3957,7 +3957,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Bounce Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Sıçrayış</translation>
     </message>
     <message>
         <source>Color Blend</source>
@@ -4038,7 +4038,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Bounce</source>
-        <translation type="unfinished"/>
+        <translation>Sıçrayış</translation>
     </message>
     <message>
         <source>To Bottom</source>
@@ -4869,7 +4869,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Bounce Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Sıçrayış</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6515,7 +6515,7 @@ For this to work, keep the capitalization the same.</source>
     </message>
     <message>
         <source>Bounce</source>
-        <translation type="unfinished"/>
+        <translation>Sıçrayış</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -6956,7 +6956,9 @@ Body: Descend</source>
         <source>Slide Transition: Push Right
 Title: Bounce
 Body: Unfold</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi: Sağa İtme
+Başlık: Sıçrayış
+Gövde: Açılma</translation>
     </message>
     <message>
         <source>Action Settings</source>
