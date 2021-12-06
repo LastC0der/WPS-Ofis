@@ -5,4 +5,4 @@ Yeni sürümler çıktığı ve ben çeviri yaptığım sürece repo güncellene
 https://linux.wps.com/
 https://pc.wps.com/
 
-iletişim için: kutahyaspor@yahoo.com
+İletişim: kutahyaspor@yahoo.com
