@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
 <context>
     <name>KxDlgTextToColumns</name>
     <message>
@@ -31157,7 +31157,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Eğitim</translation>
     </message>
     <message>
         <source>Share as PDF</source>
@@ -56475,7 +56475,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Eğitim</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
