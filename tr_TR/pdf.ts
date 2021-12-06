@@ -9756,7 +9756,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numarasını Gösterme</translation>
     </message>
     <message>
         <source>View Permissions</source>
@@ -15450,7 +15450,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     <name>KxPdfHPRecentFileCommand</name>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; klasörü bulunamadı. Silinmiş, taşınmış ve yeniden adlandırılmış olabilir.</translation>
     </message>
 </context>
 <context>
