@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>KxPdfCommentPropertyDialog</name>
     <message>
@@ -988,7 +988,7 @@
     </message>
     <message>
         <source>PDF water mark is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>&quot;PDF filigranı&quot;, WPS Premium ayrıcalığıdır</translation>
     </message>
     <message>
         <source>&lt;Current Image&gt;</source>
@@ -1919,7 +1919,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>unnamed</source>
-        <translation type="unfinished"/>
+        <translation>İsimsiz</translation>
     </message>
     <message>
         <source>An unknown error occurred in the file object.</source>
@@ -1972,7 +1972,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>The current document needs to be saved to use this feature.</source>
-        <translation type="unfinished"/>
+        <translation>Bu özelliği kullanmak için mevcut belgenin kaydedilmesi gerekir.</translation>
     </message>
     <message>
         <source>Restoring erased area...</source>
@@ -3966,7 +3966,7 @@ Input 1-10 to insert from page 1 to page 10</source>
     </message>
     <message>
         <source>All Pages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <source>A3 (297x420mm)</source>
@@ -5977,7 +5977,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Markdown2PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye İşaretle</translation>
     </message>
     <message>
         <source>Delete Pages</source>
@@ -6813,7 +6813,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>RandomDraw</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele Çizim</translation>
     </message>
     <message>
         <source>FloatHandTool</source>
@@ -7354,7 +7354,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SaveAsCompress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırılmış Dosya Olarak Kaydet</translation>
     </message>
 </context>
 <context>
@@ -7392,7 +7392,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>This document contains%1 signatures and can not be verified.</source>
-        <translation type="unfinished"/>
+        <translation> Bu belge %1 imza içeriyor ve doğrulanamıyor.</translation>
     </message>
     <message>
         <source>One of the%1 signatures is invalid.</source>
@@ -8000,7 +8000,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SaveAsCompress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırılmış Dosya Olarak Kaydet</translation>
     </message>
     <message>
         <source>Online Editing</source>
@@ -8067,7 +8067,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TOP SECRET</source>
-        <translation type="unfinished"/>
+        <translation>ÇOK GİZLİ</translation>
     </message>
     <message>
         <source>CONFIDENTIAL</source>
@@ -8263,7 +8263,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Print in grayscale(black and white)</source>
-        <translation type="unfinished"/>
+        <translation>Gri tonlamalı yazdırma (siyah beyaz)</translation>
     </message>
     <message>
         <source>Manual duple&amp;x</source>
@@ -8620,7 +8620,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Find whole words only&amp;w</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yalnızca tam sözcük eşleştir</translation>
     </message>
     <message>
         <source>IncludBookmarks&amp;b</source>
@@ -8678,7 +8678,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Find whole words only&amp;w</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tüm Sözcüğü Eşleştir</translation>
     </message>
     <message>
         <source>Next option</source>
@@ -9189,7 +9189,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Markdown2PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;ye İşaretle</translation>
     </message>
     <message>
         <source>PdfDataStatistics</source>
@@ -9323,7 +9323,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>SaveAsCompress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırılmış Dosya Olarak Kaydet</translation>
     </message>
     <message>
         <source>Scan to Mobile</source>
@@ -9524,7 +9524,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Tamamlandı</translation>
     </message>
     <message>
         <source>Line Number</source>
@@ -10236,7 +10236,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>ReplaceFalse</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa değiştirilemedi, lütfen daha sonra tekrar deneyin!</translation>
     </message>
     <message>
         <source>ReplaceFalseTitle</source>
@@ -10432,7 +10432,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>TOP SECRET</source>
-        <translation type="unfinished"/>
+        <translation>ÇOK GİZLİ</translation>
     </message>
     <message>
         <source>Delete After Abstract</source>
@@ -12638,7 +12638,7 @@ Pencere</translation>
     </message>
     <message>
         <source>all pages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
 </context>
 <context>
@@ -12827,7 +12827,7 @@ Pencere</translation>
     <name>KxPdfPlayControlerUI</name>
     <message>
         <source>PointerOptions</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçi Seçenekleri</translation>
     </message>
     <message>
         <source>ZoomOut</source>
@@ -14788,7 +14788,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>In the synchronous</source>
-        <translation type="unfinished"/>
+        <translation>Eşitleniyor...</translation>
     </message>
 </context>
 <context>
@@ -14870,7 +14870,7 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KxPdfFeedbackCommand</name>
     <message>
         <source>Feedback load failure, please retry!</source>
-        <translation type="unfinished"/>
+        <translation>Geri bildirim sayfası yüklenemedi. Lütfen yeniden deneyin.</translation>
     </message>
 </context>
 <context>
@@ -15553,7 +15553,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>页边距（毫米）：</source>
-        <translation type="unfinished"/>
+        <translation>Kenar boşlukları (mm):</translation>
     </message>
     <message>
         <source>printer not available</source>
