@@ -2791,7 +2791,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"/>
+        <translation>Seylanca</translation>
     </message>
     <message>
         <source>Tibetan</source>
@@ -2799,11 +2799,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamca</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"/>
+        <translation>Guceratça</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
@@ -2811,11 +2811,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Georgian</source>
-        <translation type="unfinished"/>
+        <translation>Gürcüce</translation>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation type="unfinished"/>
+        <translation>Pencapça</translation>
     </message>
 </context>
 <context>
