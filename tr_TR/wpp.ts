@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>KxFontSubstitutionDlg</name>
     <message>
@@ -11739,7 +11739,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamca</translation>
     </message>
     <message>
         <source>Strips 1</source>
