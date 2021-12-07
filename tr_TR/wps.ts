@@ -2842,7 +2842,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleme</translation>
     </message>
     <message>
         <source>Paragraph &amp;marks</source>
@@ -10719,7 +10719,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Line Number Options</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numarası Seçenekleri</translation>
     </message>
 </context>
 <context>
@@ -13534,7 +13534,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Marks</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf İşaretlerini Göster/Gizle</translation>
     </message>
     <message>
         <source>Align Text Center</source>
@@ -15973,7 +15973,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleme</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -16275,7 +16275,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Footnotes</source>
-        <translation type="unfinished"/>
+        <translation>Dipnotlar</translation>
     </message>
     <message>
         <source>Insert Argument Before</source>
@@ -16431,7 +16431,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Gözden Geçirme Bölmesi Dikey</translation>
     </message>
     <message>
         <source>Backward</source>
@@ -16524,7 +16524,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Compared Side by Side</source>
-        <translation type="unfinished"/>
+        <translation>Yan Yana Karşılaştır</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -16768,7 +16768,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot/Sonnot Ayırıcısını Göster veya Gizle</translation>
     </message>
     <message>
         <source>Vertical Page Position</source>
@@ -17027,7 +17027,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot/Sonnot Ayırıcısını Göster</translation>
     </message>
     <message>
         <source>Eyedropper</source>
@@ -17319,7 +17319,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show Paragraph Marks</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf İşaretlerini Göster</translation>
     </message>
     <message>
         <source>Left Hang</source>
@@ -17439,7 +17439,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Gözden Geçirme Bölmesi Yatay</translation>
     </message>
     <message>
         <source>Format Leader Lines</source>
@@ -17563,7 +17563,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Line Number Options</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numarası Ayarları</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -17583,7 +17583,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli paragrafı sıkıştır</translation>
     </message>
     <message>
         <source>Format Down Bars</source>
@@ -17591,7 +17591,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Repeat Header Rows</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi Satırlarını Yinele</translation>
     </message>
     <message>
         <source>Delete Object</source>
@@ -22411,7 +22411,7 @@ Protection</source>
     </message>
     <message>
         <source>Compare with %s Side by Side</source>
-        <translation type="unfinished"/>
+        <translation>%s ile Yan Yana Karşılaştır</translation>
     </message>
     <message>
         <source>Fast Calculate</source>
@@ -22594,7 +22594,7 @@ Protection</source>
     </message>
     <message>
         <source>Close Compare Side by Side</source>
-        <translation type="unfinished"/>
+        <translation>Yan Yana Karşılaştırmayı Kapat</translation>
     </message>
     <message>
         <source>Apply Style</source>
@@ -24819,7 +24819,7 @@ Böl</translation>
     </message>
     <message>
         <source>Repeat Header Rows</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi Satırlarını Yinele</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -25438,11 +25438,11 @@ Kenarlıkları</translation>
     </message>
     <message>
         <source>Line Number Options</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numarası Seçenekleri</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Paragrafta Gösterme</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -30646,7 +30646,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleme</translation>
     </message>
     <message>
         <source>Switch
@@ -40981,7 +40981,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot/Sonnot Ayırıcısını Göster veya Gizle</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -43565,7 +43565,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>&amp;Footnotes:</source>
-        <translation type="unfinished"/>
+        <translation>Dipn&amp;otlar:</translation>
     </message>
     <message>
         <source>&amp;Convert...</source>
@@ -48326,7 +48326,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Marks</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf İşaretlerini Göster/Gizle</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -49832,7 +49832,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Repeat Header Rows</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi Satırlarını Yinele</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -50356,11 +50356,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Line Number Options</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numarası Seçenekleri</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Paragrafta Gösterme</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -53142,7 +53142,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleme</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -54862,7 +54862,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot/Sonnot Ayırıcısını Göster veya Gizle</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -54870,7 +54870,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot/Sonnot Ayırıcısını Göster</translation>
     </message>
     <message>
         <source>Body Text</source>
