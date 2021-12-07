@@ -2130,7 +2130,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"/>
+        <translation>Tüm İşaretlemeleri Sil</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2218,7 +2218,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleme</translation>
     </message>
     <message>
         <source>3 Slides</source>
@@ -2272,7 +2272,7 @@ Check</source>
     </message>
     <message>
         <source>Delete All Markup In This Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Bu Sunudaki Tüm İşaretlemeleri Sil</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -2536,7 +2536,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Erase All Markups on Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayttaki Tüm İşaretlemeleri Sil</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -2644,7 +2644,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Delete All Markup On The Current Slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayttaki Tüm İşaretlemeyi Sil</translation>
     </message>
     <message>
         <source>*.wmv;*.wvx</source>
@@ -12496,7 +12496,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"/>
+        <translation>Tüm İşaretlemeleri Sil</translation>
     </message>
     <message>
         <source>Resume Background Music</source>
@@ -12600,7 +12600,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleme</translation>
     </message>
     <message>
         <source>Master</source>
@@ -13493,7 +13493,7 @@ Template</source>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayttaki İşaretleri Sil</translation>
     </message>
     <message>
         <source>Package into Compressed File</source>
@@ -21953,7 +21953,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleme</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -22222,7 +22222,7 @@ Comment</source>
     </message>
     <message>
         <source>Delete All Markup in this Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Bu Sunudaki Tüm İşaretlemeleri Sil</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -22230,7 +22230,7 @@ Comment</source>
     </message>
     <message>
         <source>Delete All Markup on the Current Slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayttaki Tüm İşaretlemeyi Sil</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -22242,7 +22242,7 @@ Comment</source>
     </message>
     <message>
         <source>Show/Hide Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretlemeyi Göster/Gizle</translation>
     </message>
 </context>
 <context>
@@ -22265,7 +22265,7 @@ Comment</source>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"/>
+        <translation>Tüm İşaretlemeleri Sil</translation>
     </message>
     <message>
         <source>Show/Hide
@@ -22274,7 +22274,7 @@ Mark</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleme</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -22295,7 +22295,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayttaki İşaretleri Sil</translation>
     </message>
     <message>
         <source>Delete All Mark on the Current Slide</source>
@@ -33254,15 +33254,15 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"/>
+        <translation>Tüm İşaretlemeleri Sil</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleme</translation>
     </message>
     <message>
         <source>Delete All Markup in this Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Bu Sunudaki Tüm İşaretlemeleri Sil</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -33278,7 +33278,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Delete All Markup on the Current Slide</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayttaki Tüm İşaretlemeyi Sil</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -33286,7 +33286,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayttaki İşaretleri Sil</translation>
     </message>
     <message>
         <source>Conversion</source>
@@ -33302,7 +33302,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Show/Hide Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretlemeyi Göster/Gizle</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
