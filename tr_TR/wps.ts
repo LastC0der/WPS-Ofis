@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
 <context>
     <name>KxDlgEncloseCharacters</name>
     <message>
@@ -35272,7 +35272,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamca</translation>
     </message>
     <message>
         <source>Bounding Box</source>
@@ -41036,7 +41036,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamca</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
@@ -42446,7 +42446,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Çince</translation>
     </message>
     <message>
         <source>Error. Switch argument not specified.</source>
@@ -46290,7 +46290,7 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamca</translation>
     </message>
     <message>
         <source>Do you want to replace the selected index?</source>
