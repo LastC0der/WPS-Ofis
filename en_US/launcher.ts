@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="en_US">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="en_US" version="2.1">
 <context>
     <name>KLauncherWidgetClass</name>
     <message>
