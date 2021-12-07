@@ -9188,11 +9188,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Text Boxes in Main Document</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ana Belgedeki Metin Kutuları</translation>
     </message>
     <message>
         <source>&amp;Main Document</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ana Belge</translation>
     </message>
     <message>
         <source>&amp;Comments</source>
@@ -15524,7 +15524,7 @@ Painter</source>
     </message>
     <message>
         <source>Reduce Level</source>
-        <translation type="unfinished"/>
+        <translation>Düzeyini Düşür</translation>
     </message>
     <message>
         <source>Photo to PDF</source>
@@ -17343,7 +17343,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Ürün Merkezi</translation>
     </message>
     <message>
         <source>Page Area</source>
@@ -31520,7 +31520,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Bu yazı tipi stili mevcut değil.</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
@@ -31850,7 +31850,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Reduce Level</source>
-        <translation type="unfinished"/>
+        <translation>Düzeyini Düşür</translation>
     </message>
     <message>
         <source>Insert Shape</source>
@@ -42091,7 +42091,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Error! Only for Main Document.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! Yalnızca Ana Belge için.</translation>
     </message>
     <message>
         <source>!Abnormal formula end</source>
