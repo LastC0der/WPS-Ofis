@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>ContentChartErrorBarOptions</name>
     <message>
@@ -2630,7 +2630,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamca</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
@@ -19141,7 +19141,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"/>
+        <translation>Seylanca</translation>
     </message>
     <message>
         <source>Tibetan</source>
@@ -19149,11 +19149,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamca</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"/>
+        <translation>Guceratça</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
@@ -19161,11 +19161,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Georgian</source>
-        <translation type="unfinished"/>
+        <translation>Gürcüce</translation>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation type="unfinished"/>
+        <translation>Pencapça</translation>
     </message>
 </context>
 <context>
@@ -21575,7 +21575,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"/>
+        <translation>Seylanca</translation>
     </message>
     <message>
         <source>Enclosed CJK Letters and Months</source>
@@ -21615,7 +21615,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"/>
+        <translation>Guceratça</translation>
     </message>
     <message>
         <source>Spacing Modifier Letters</source>
@@ -21639,7 +21639,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation type="unfinished"/>
+        <translation>Pencapça</translation>
     </message>
     <message>
         <source>Combining Diacritical Marks</source>
@@ -21651,7 +21651,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Cherokee</source>
-        <translation type="unfinished"/>
+        <translation>Çerokice</translation>
     </message>
     <message>
         <source>Subscripts and Superscripts</source>
