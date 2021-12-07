@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>ContentChartErrorBarOptions</name>
     <message>
@@ -18173,7 +18173,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Funnel</source>
-        <translation type="unfinished"/>
+        <translation>Huni</translation>
     </message>
     <message>
         <source>Descending Block List</source>
@@ -23230,7 +23230,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"/>
+        <translation>İç kenar boşluğu</translation>
     </message>
     <message>
         <source>Top centered</source>
@@ -30478,7 +30478,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Bu yazı tipi stili mevcut değil.</translation>
     </message>
     <message>
         <source>This is the heading theme font for Latin text. The current document theme defines which font is used.</source>
