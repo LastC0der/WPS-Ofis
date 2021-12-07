@@ -9536,7 +9536,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"/>
+        <translation>İşaretleme</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -9668,7 +9668,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Gözden Geçirme Bölmesi Dikey</translation>
     </message>
     <message>
         <source>Add-Ins</source>
@@ -9692,7 +9692,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Compared Side by Side</source>
-        <translation type="unfinished"/>
+        <translation>Yan Yana Görüntüle</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
@@ -9900,7 +9900,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Show Paragraph Marks</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf İşaretlerini Göster</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -9928,7 +9928,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Gözden Geçirme Bölmesi Yatay</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -9940,7 +9940,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Line Number Options</source>
-        <translation type="unfinished"/>
+        <translation>Satır Numarası Ayarları</translation>
     </message>
     <message>
         <source>ConvertPdfImage</source>
@@ -9948,7 +9948,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Suppress for Current Paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli paragrafı sıkıştır</translation>
     </message>
     <message>
         <source>TextMerge</source>
