@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
 <context>
     <name>KxFontSubstitutionDlg</name>
     <message>
@@ -354,7 +354,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"/>
+        <translation>İç kenar boşluğu</translation>
     </message>
     <message>
         <source>Bottom Center</source>
@@ -2701,7 +2701,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Change the source link file</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak bağlantı dosyasını değiştirin</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
@@ -4010,7 +4010,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Miktar</translation>
     </message>
     <message>
         <source>Appear</source>
@@ -4126,7 +4126,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Funnel</source>
-        <translation type="unfinished"/>
+        <translation>Huni</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -4743,7 +4743,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Duration:</source>
-        <translation type="unfinished"/>
+        <translation>Süre:</translation>
     </message>
     <message>
         <source>Split &amp;Vertical In</source>
@@ -4856,7 +4856,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Bu yazı tipi stili mevcut değil.</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
@@ -4887,7 +4887,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>From Top</source>
-        <translation type="unfinished"/>
+        <translation>Üstten</translation>
     </message>
     <message>
         <source>Inverted Square</source>
@@ -5693,7 +5693,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>%d seconds(Medium)</source>
-        <translation type="unfinished"/>
+        <translation>%d saniye (Orta)</translation>
     </message>
     <message>
         <source>B4 (ISO) Paper(250x353 mm)</source>
@@ -10395,7 +10395,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Local Picture</source>
-        <translation type="unfinished"/>
+        <translation>Yerel Resim</translation>
     </message>
     <message>
         <source>Shadow
@@ -12338,7 +12338,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Reduce Level</source>
-        <translation type="unfinished"/>
+        <translation>Düzeyini Düşür</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
@@ -13747,7 +13747,7 @@ Master</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Ürün Merkezi</translation>
     </message>
     <message>
         <source>Handout Master</source>
@@ -20564,7 +20564,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Unknown Placeholder</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen Yer Tutucu</translation>
     </message>
     <message>
         <source>Hide While Play</source>
@@ -20650,7 +20650,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Reduce Level</source>
-        <translation type="unfinished"/>
+        <translation>Düzeyini Düşür</translation>
     </message>
     <message>
         <source>Selection Audio</source>
@@ -21837,7 +21837,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>&amp;Do not prompt next time.</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bir dahaki sefere sorma.</translation>
     </message>
 </context>
 <context>
@@ -22659,7 +22659,7 @@ Sayfa</translation>
     </message>
     <message>
         <source>Print Copies:</source>
-        <translation type="unfinished"/>
+        <translation>Kopyaları Yazdır:</translation>
     </message>
 </context>
 <context>
@@ -23197,7 +23197,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Yardımcılar</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -24345,7 +24345,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Bullet and Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşareti ve Numaralandırma</translation>
     </message>
 </context>
 <context>
@@ -24883,7 +24883,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>&amp;Group Text:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Metni Gruplandır:</translation>
     </message>
     <message>
         <source>After &amp;Current Slide</source>
@@ -25324,7 +25324,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF!</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunumu, PDF&apos;ye dışa aktarmaya çalışırken bir hatayla karşılaştı!</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -26056,7 +26056,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Yardımcılar</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -26111,7 +26111,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Yardımcılar</translation>
     </message>
     <message>
         <source>Reset Layout</source>
@@ -33972,7 +33972,7 @@ Slide Master</source>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Yardımcılar</translation>
     </message>
     <message>
         <source>Reset Layout</source>
