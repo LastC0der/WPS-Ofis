@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>KxDlgTextToColumns</name>
     <message>
@@ -13821,7 +13821,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Bu yazı tipi stili mevcut değil.</translation>
     </message>
     <message>
         <source>Related Acceptances</source>
@@ -20773,7 +20773,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Ürün Merkezi</translation>
     </message>
     <message>
         <source>Merge Book</source>
@@ -38079,7 +38079,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Bu yazı tipi stili mevcut değil.</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
@@ -38130,7 +38130,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Bu yazı tipi stili mevcut değil.</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
@@ -38189,7 +38189,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Bu yazı tipi stili mevcut değil.</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
@@ -38642,7 +38642,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Reduce Level</source>
-        <translation type="unfinished"/>
+        <translation>Düzeyini Düşür</translation>
     </message>
     <message>
         <source>Insert Shape</source>
@@ -41024,7 +41024,7 @@ Center</source>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"/>
+        <translation>İç kenar boşluğu</translation>
     </message>
 </context>
 <context>
@@ -56632,7 +56632,7 @@ Aktar</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Ürün Merkezi</translation>
     </message>
     <message>
         <source>Backup and Recover</source>
