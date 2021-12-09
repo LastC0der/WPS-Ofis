@@ -8223,7 +8223,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Crimson</source>
-        <translation type="unfinished"/>
+        <translation>Kızıl</translation>
     </message>
     <message>
         <source>Pie</source>
@@ -18281,7 +18281,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Alternating Picture Circles</source>
-        <translation type="unfinished"/>
+        <translation>Değişen Resim Daireleri</translation>
     </message>
     <message>
         <source>Use to show a progression or steps that trend upward in a task, process, or workflow. Each of the first five lines of Level 1 text corresponds to a point on the arrow. Works best with minimal text. Unused text does not appear, but remains available if you switch layouts.</source>
@@ -20523,7 +20523,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Oriel</source>
-        <translation type="unfinished"/>
+        <translation>Cumba</translation>
     </message>
     <message>
         <source>Urban</source>
