@@ -197,7 +197,7 @@
     </message>
     <message>
         <source>Loading %1, please wait</source>
-        <translation type="unfinished"/>
+        <translation>%1 yükleniyor. Lütfen bekleyin.</translation>
     </message>
 </context>
 <context>
@@ -216,7 +216,7 @@
     </message>
     <message>
         <source>Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
 </context>
 <context>
