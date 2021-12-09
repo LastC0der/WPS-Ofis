@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>KxDlgEncloseCharacters</name>
     <message>
@@ -11249,7 +11249,7 @@ if you want to replace selected result, please click the replace button</source>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açılıyor, lütfen bekleyin...</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -11264,7 +11264,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Dosyalar(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
     </message>
     <message>
         <source>The following features cannot be saved in macro-free workbooks:
@@ -11276,7 +11276,7 @@ To continue saving as a macro-free workbook, click Yes.
     </message>
     <message>
         <source>*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; *.uot; *.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.uos; *.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop; *.pdf</source>
-        <translation type="unfinished"/>
+        <translation>*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; *.uot; *.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.uos; *.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop; *.pdf</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
@@ -11392,7 +11392,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Dosyalar(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
     </message>
     <message>
         <source>Graphic objects cannot be placed in a text box, label annotations, footnotes or endnotes.</source>
@@ -11400,7 +11400,7 @@ Please try one of the following.
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.uot</source>
-        <translation type="unfinished"/>
+        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.uot</translation>
     </message>
     <message>
         <source>%s may contain some features that are not compatible with %s format. Do you want to keep the document in this format?
@@ -11547,7 +11547,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>Saving the file, please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Dosya kaydediliyor, lütfen bekleyin...</translation>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
