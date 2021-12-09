@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>KxFontSubstitutionDlg</name>
     <message>
@@ -1369,7 +1369,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Handouts</source>
-        <translation>Bildiriler</translation>
+        <translation>Dinleyici notları</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
@@ -1576,7 +1576,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Handouts</source>
-        <translation>Bildiriler</translation>
+        <translation>Dinleyici notları</translation>
     </message>
     <message>
         <source>Permit to add comments</source>
@@ -1737,7 +1737,7 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Handout Master Layout</source>
         <comment>WpHANDOUTMASTERLAYOUT_CAPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Asıl Dinleyici Seti Düzeni</translation>
     </message>
     <message>
         <source>*.avi</source>
@@ -2065,7 +2065,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx; *.uop)</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Dosyalar(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx; *.uop)</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -2117,7 +2117,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Handout Master Layout</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Dinleyici Seti Düzeni</translation>
     </message>
     <message>
         <source>Notes Layout</source>
@@ -2334,7 +2334,7 @@ Check</source>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Dosyalar(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</translation>
     </message>
     <message>
         <source>Copy of </source>
@@ -2909,7 +2909,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
-        <translation type="unfinished"/>
+        <translation>Dinleyici Setleri (sayfa başına 1 slayt)</translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -2998,7 +2998,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Handout</source>
-        <translation type="unfinished"/>
+        <translation>Dinleyici notu</translation>
     </message>
     <message>
         <source>Handouts (3 slides per page)</source>
@@ -4702,7 +4702,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Handouts</source>
-        <translation>Bildiriler</translation>
+        <translation>Dinleyici notları</translation>
     </message>
     <message>
         <source>Hyperlink to Other WPS Presentation Files</source>
@@ -6076,7 +6076,7 @@ Body: Rise Up</source>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açılıyor, lütfen bekleyin...</translation>
     </message>
     <message>
         <source>No Transition</source>
@@ -7808,7 +7808,7 @@ Body: Glide</source>
     </message>
     <message>
         <source>Handout Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Dinleyici Seti</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error when trying to paste picture. There may be an error in picture data.</source>
@@ -7833,7 +7833,7 @@ Body: Fly In</source>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Dosya kaydediliyor, lütfen bekleyin...</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -10176,7 +10176,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Paste Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Yapıştır</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -13103,7 +13103,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Play Back</source>
-        <translation type="unfinished"/>
+        <translation>Kayıttan Yürüt</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -13147,7 +13147,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Erase All Inks on Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayttaki Tüm Mürekkepleri Sil</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -13751,7 +13751,7 @@ Master</source>
     </message>
     <message>
         <source>Handout Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Dinleyici Seti</translation>
     </message>
     <message>
         <source>Format Axis Title</source>
@@ -14939,7 +14939,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Play Back</source>
-        <translation type="unfinished"/>
+        <translation>Kayıttan Yürüt</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -18480,7 +18480,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Handout Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Dinleyici Seti</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -18771,7 +18771,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation>Bildiriler</translation>
+        <translation>Dinleyici notları</translation>
     </message>
     <message>
         <source>How to solve problems of the printer?</source>
@@ -22027,7 +22027,7 @@ Comment</source>
     </message>
     <message>
         <source>Handout Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Dinleyici Seti</translation>
     </message>
     <message>
         <source>Video Exporting</source>
@@ -22769,7 +22769,7 @@ Sorter</source>
     </message>
     <message>
         <source>Handout Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Dinleyici Seti</translation>
     </message>
     <message>
         <source>New
@@ -24844,7 +24844,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Handout Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Dinleyici Seti Yönlendirmesi</translation>
     </message>
     <message>
         <source>Stand Screen(4:3)</source>
@@ -25395,7 +25395,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation>Bildiriler</translation>
+        <translation>Dinleyici notları</translation>
     </message>
     <message>
         <source>All slides among this range are marked as hidden!</source>
@@ -26285,7 +26285,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation>Bildiriler</translation>
+        <translation>Dinleyici notları</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -26372,7 +26372,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation>Bildiriler</translation>
+        <translation>Dinleyici notları</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -28055,7 +28055,7 @@ Master</source>
     </message>
     <message>
         <source>Notes, handouts and outline</source>
-        <translation type="unfinished"/>
+        <translation>Notlar, dinleyici setleri ve ana hatlar</translation>
     </message>
     <message>
         <source>Po&amp;rtrait</source>
@@ -29746,7 +29746,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Paste Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Yapıştır</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -33381,7 +33381,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
-        <translation type="unfinished"/>
+        <translation>Dinleyici Setleri (sayfa başına 1 slayt)</translation>
     </message>
     <message>
         <source>Handouts (6 slides per page)</source>
