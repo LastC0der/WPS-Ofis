@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="tr_TR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
     <name>KxPdfCommentPropertyDialog</name>
     <message>
@@ -9712,7 +9712,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Play Back</source>
-        <translation type="unfinished"/>
+        <translation>Kayıttan Yürüt</translation>
     </message>
     <message>
         <source>Translate selected text</source>
@@ -9736,7 +9736,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Erase All Inks on Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayttaki Tüm Mürekkepleri Sil</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
