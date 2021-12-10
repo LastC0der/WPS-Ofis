@@ -11533,7 +11533,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; *.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</source>
-        <translation type="unfinished"/>
+        <translation>*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; *.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</translation>
     </message>
     <message>
         <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
@@ -41383,7 +41383,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>transverse</source>
-        <translation type="unfinished"/>
+        <translation>Enine</translation>
     </message>
     <message>
         <source>vertical</source>
@@ -41433,7 +41433,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>WPS Writer Official Document (*.uot)</source>
-        <translation type="unfinished"/>
+        <translation>WPS Resmi Belgesi (*.uot)</translation>
     </message>
     <message>
         <source>Official Fonts</source>
