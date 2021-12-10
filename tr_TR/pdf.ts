@@ -722,7 +722,7 @@
     </message>
     <message>
         <source>Set Multi Progress</source>
-        <translation type="unfinished"/>
+        <translation>Çoklu pencere modunu aç</translation>
     </message>
     <message>
         <source>Always ask</source>
@@ -1846,7 +1846,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Undo Clip</source>
-        <translation type="unfinished"/>
+        <translation>Kırpmayı geri al</translation>
     </message>
     <message>
         <source>WPS PDF Edit Trial</source>
@@ -2082,7 +2082,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>WPPFile(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx</source>
-        <translation type="unfinished"/>
+        <translation>Demo/PowerPoint biçimi (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx</translation>
     </message>
     <message>
         <source>Complete Segment</source>
@@ -3704,7 +3704,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>(%1 pages in total)</source>
-        <translation type="unfinished"/>
+        <translation>(toplamda %1 sayfa)</translation>
     </message>
     <message>
         <source>Are you sure to terminate the insert operation? 
@@ -5989,7 +5989,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Two Times Speed</source>
-        <translation type="unfinished"/>
+        <translation>2x Hız</translation>
     </message>
     <message>
         <source>TextBoxBkColor</source>
@@ -6301,7 +6301,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>EditPicExit</source>
-        <translation type="unfinished"/>
+        <translation>Resimleri Düzenlemeden Çık</translation>
     </message>
     <message>
         <source>HyperLink</source>
@@ -6949,7 +6949,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Convert2Photo</source>
-        <translation type="unfinished"/>
+        <translation>Resme Dönüştür</translation>
     </message>
     <message>
         <source>Translate selected</source>
@@ -12204,7 +12204,7 @@ Pencere</translation>
     </message>
     <message>
         <source>transverse</source>
-        <translation type="unfinished"/>
+        <translation>Enine</translation>
     </message>
     <message>
         <source>current page index:%1 page</source>
@@ -12591,7 +12591,7 @@ Pencere</translation>
     </message>
     <message>
         <source>(%1 pages in total)</source>
-        <translation type="unfinished"/>
+        <translation>(toplamda %1 sayfa)</translation>
     </message>
     <message>
         <source>Create Link</source>
@@ -14600,7 +14600,7 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KxPdfCopyProCompelDialog</name>
     <message>
         <source>the copy %1 was successful</source>
-        <translation type="unfinished"/>
+        <translation>%1 kelime başarıyla kopyalandı.</translation>
     </message>
 </context>
 <context>
@@ -14814,7 +14814,7 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KxPdfEditLinkHintDialog</name>
     <message>
         <source>Create Goto Destination</source>
-        <translation type="unfinished"/>
+        <translation>Görünüme Git Oluştur</translation>
     </message>
     <message>
         <source>Set Link</source>
