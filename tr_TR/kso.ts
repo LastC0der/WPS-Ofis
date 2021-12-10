@@ -2737,7 +2737,7 @@ Download the XML expansion pack?</source>
     </message>
     <message>
         <source>Dashed horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Kesikli yatay</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -2754,11 +2754,11 @@ Download the XML expansion pack?</source>
     </message>
     <message>
         <source>Dashed upward diagonal</source>
-        <translation type="unfinished"/>
+        <translation>Kesikli yukarı köşegen</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
-        <translation type="unfinished"/>
+        <translation>Noktalı elmas kılavuz</translation>
     </message>
     <message>
         <source>Shadow Style %d</source>
@@ -2861,7 +2861,7 @@ Lütfen dosyayı kaydedin ve paylaşım bağlantısı oluşturun</translation>
     </message>
     <message>
         <source>Wide upward diagonal</source>
-        <translation type="unfinished"/>
+        <translation>Geniş yukarı köşegen</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -16583,7 +16583,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Document Id:</source>
-        <translation type="unfinished"/>
+        <translation>Belge Kimliği:</translation>
     </message>
     <message>
         <source>yyyy/M/d</source>
@@ -16623,7 +16623,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Application Id:</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama Kimliği:</translation>
     </message>
     <message>
         <source>&amp;Search</source>
@@ -16733,7 +16733,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Document Id:</source>
-        <translation type="unfinished"/>
+        <translation>Belge Kimliği:</translation>
     </message>
     <message>
         <source>Approve State:</source>
@@ -18690,7 +18690,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Use to show large amounts of text divided into categories and subcategories. Works well with multiple levels of text. Text at the same level is separated by lines.</source>
-        <translation type="unfinished"/>
+        <translation>Kategorilere ve alt kategorilere ayrılmış büyük miktarda metin göstermek için kullanın. Birden fazla metin düzeyiyle en iyi sonucu verir. Aynı düzeydeki metinler çizgilerle ayrılır.</translation>
     </message>
     <message>
         <source>Horizontal Picture List</source>
@@ -30859,19 +30859,19 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Dashed horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Kesikli yatay</translation>
     </message>
     <message>
         <source>Dashed upward diagonal</source>
-        <translation type="unfinished"/>
+        <translation>Kesikli yukarı köşegen</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
-        <translation type="unfinished"/>
+        <translation>Noktalı elmas kılavuz</translation>
     </message>
     <message>
         <source>Wide upward diagonal</source>
-        <translation type="unfinished"/>
+        <translation>Geniş yukarı köşegen</translation>
     </message>
     <message>
         <source>Large grid</source>
@@ -34969,7 +34969,7 @@ Please reinstall WPS Office!</source>
     <name>KxApplyOutwardDlg</name>
     <message>
         <source>Document Id:</source>
-        <translation type="unfinished"/>
+        <translation>Belge Kimliği:</translation>
     </message>
     <message>
         <source>Not commited</source>
@@ -35037,7 +35037,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Application id:</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama Kimliği:</translation>
     </message>
     <message>
         <source>Accepted</source>
