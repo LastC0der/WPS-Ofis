@@ -622,7 +622,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Sign in User</source>
-        <translation>Sign in User</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Free 7-day trial</source>
@@ -648,7 +648,7 @@ we will make continuous improvements</translation>
     </message>
     <message>
         <source>Premium User</source>
-        <translation>Premium User</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1092,35 +1092,35 @@ Easy mobile office.</source>
     <name>KThirdLoginWidgetDlg</name>
     <message>
         <source>Close</source>
-        <translation>Close</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> Do you want to close it</source>
-        <translation> account.If you close this page, the sign-in will be discontinued.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Google</source>
-        <translation>Google</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FaceBook</source>
-        <translation>Facebook</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>It is trying to sign in with </source>
-        <translation>You are signing in with </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Sign in</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DropBox</source>
-        <translation>Dropbox</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Twitter</source>
-        <translation>Twitter</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2095,7 +2095,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Diagnosing tool</source>
-        <translation>Diagnose network</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> or refer to the </source>
@@ -2119,7 +2119,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
-        <translation>Request timeout. Click Refresh and try again.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh</source>
