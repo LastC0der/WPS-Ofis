@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="id_ID" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="id_ID">
 <context>
     <name>KAccountMessageContentDlg</name>
     <message>
@@ -35,6 +35,10 @@
     <message>
         <source>Widget</source>
         <translation>Widget</translation>
+    </message>
+    <message>
+        <source>DNS Setting</source>
+        <translation>Pengaturan DNS</translation>
     </message>
     <message>
         <source>Login tip</source>
@@ -617,6 +621,10 @@ makes documents beautiful</source>
         <translation>Akses Premium?</translation>
     </message>
     <message>
+        <source>Sign in User</source>
+        <translation>Pengguna Masuk</translation>
+    </message>
+    <message>
         <source>Free 7-day trial</source>
         <translation>Gratis uji coba 7 hari</translation>
     </message>
@@ -637,6 +645,10 @@ makes documents beautiful</source>
 we will make continuous improvements</source>
         <translation>Terima kasih atas dukungan Anda,
 kami akan terus melakukan perbaikan</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation>Pengguna Premium</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -661,6 +673,18 @@ Easy mobile office.</source>
     <message>
         <source>Widget</source>
         <translation>Widget</translation>
+    </message>
+    <message>
+        <source>Try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check order</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Checking payment...</source>
@@ -866,8 +890,16 @@ Easy mobile office.</source>
         <translation>&lt;p&gt;Pemuatan halaman gagal,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
     </message>
     <message>
+        <source>Retry</source>
+        <translation>Coba lagi</translation>
+    </message>
+    <message>
         <source>Page load timeout,check you network and retry</source>
         <translation>Waktu pemuatan halaman habis, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -908,6 +940,10 @@ Easy mobile office.</source>
     <message>
         <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Penyinkronan akses masuk gagal!Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>DNS Setting Document</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1053,6 +1089,41 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KThirdLoginWidgetDlg</name>
+    <message>
+        <source>Close</source>
+        <translation>Tutup</translation>
+    </message>
+    <message>
+        <source> Do you want to close it</source>
+        <translation>. Jika Anda menutup halaman ini, proses masuk akan dihentikan.</translation>
+    </message>
+    <message>
+        <source>Google</source>
+        <translation>Google</translation>
+    </message>
+    <message>
+        <source>FaceBook</source>
+        <translation>Facebook</translation>
+    </message>
+    <message>
+        <source>It is trying to sign in with </source>
+        <translation>Anda akan masuk dengan akun </translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Akses Masuk</translation>
+    </message>
+    <message>
+        <source>DropBox</source>
+        <translation>Dropbox</translation>
+    </message>
+    <message>
+        <source>Twitter</source>
+        <translation>Twitter</translation>
+    </message>
+</context>
+<context>
     <name>KLoginMainWindow</name>
     <message>
         <source>Email</source>
@@ -1061,6 +1132,14 @@ Easy mobile office.</source>
     <message>
         <source>Forget password</source>
         <translation>Lupa kata sandi</translation>
+    </message>
+    <message>
+        <source>Continue with Facebook</source>
+        <translation>Lanjutkan dengan Facebook</translation>
+    </message>
+    <message>
+        <source>Don&apos;t have an account?</source>
+        <translation>Tidak punya akun?</translation>
     </message>
     <message>
         <source>Invalid argument</source>
@@ -1083,16 +1162,12 @@ Easy mobile office.</source>
         <translation>Gambar, templat, bentuk online</translation>
     </message>
     <message>
+        <source>Please enter a valid email address</source>
+        <translation>Masukkan alamat surel yang sah</translation>
+    </message>
+    <message>
         <source>Wrong password</source>
         <translation>Kata sandi salah</translation>
-    </message>
-    <message>
-        <source>Sign in with Email</source>
-        <translation>Masuk dengan Email</translation>
-    </message>
-    <message>
-        <source>Account Login</source>
-        <translation>Masuk</translation>
     </message>
     <message>
         <source>Server error</source>
@@ -1107,28 +1182,20 @@ Easy mobile office.</source>
         <translation>Wechat qrcode memuatkan...</translation>
     </message>
     <message>
-        <source>Sign in with Facebook</source>
-        <translation>Masuk dengan Facebook</translation>
-    </message>
-    <message>
-        <source>Sign in with Twitter</source>
-        <translation>Masuk dengan Twitter</translation>
+        <source>There is no account for the email you entered</source>
+        <translation>Tidak ada akun untuk email yang Anda masukkan</translation>
     </message>
     <message>
         <source>Remember Me</source>
         <translation>Ingat Saya</translation>
     </message>
     <message>
-        <source>Sign in with Dropbox</source>
-        <translation>Masuk dengan Dropbox</translation>
-    </message>
-    <message>
         <source>Unknown error!</source>
         <translation>Kesalahan tidak dikenal!</translation>
     </message>
     <message>
-        <source>Sign up with Email</source>
-        <translation>Daftar dengan Email</translation>
+        <source>Continue with Google</source>
+        <translation>Lanjutkan dengan Google</translation>
     </message>
     <message>
         <source>User name can&apos;t be pure whitespace</source>
@@ -1171,20 +1238,24 @@ Easy mobile office.</source>
         <translation>Tidak ada nama pengguna</translation>
     </message>
     <message>
-        <source>No account?</source>
-        <translation>Tidak punya akun?</translation>
+        <source>Online Service User Agreement</source>
+        <translation>Perjanjian Pengguna Layanan Online</translation>
+    </message>
+    <message>
+        <source>Continue with Twitter</source>
+        <translation>Lanjutkan dengan Twitter</translation>
     </message>
     <message>
         <source>More safety with an account</source>
         <translation>Lebih aman dengan akun</translation>
     </message>
     <message>
-        <source>Sign Up</source>
-        <translation>Daftar</translation>
-    </message>
-    <message>
         <source>Sign in</source>
         <translation>Akses Masuk</translation>
+    </message>
+    <message>
+        <source>Continue with Dropbox</source>
+        <translation>Lanjutkan dengan Dropbox</translation>
     </message>
     <message>
         <source>User not active</source>
@@ -1195,8 +1266,20 @@ Easy mobile office.</source>
         <translation>Pengguna tidak ada</translation>
     </message>
     <message>
+        <source>Waiting...</source>
+        <translation>Tunggu...</translation>
+    </message>
+    <message>
         <source>Invalid account</source>
         <translation>Akun tidak valid</translation>
+    </message>
+    <message>
+        <source>Continue with Email</source>
+        <translation>Lanjutkan dengan Email</translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
+        <translation>Lanjutkan dengan Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1219,6 +1302,10 @@ Easy mobile office.</source>
         <translation>Pengguna ditangguhkan</translation>
     </message>
     <message>
+        <source>Create account</source>
+        <translation>Buat akun</translation>
+    </message>
+    <message>
         <source>User is banned</source>
         <translation>Pengguna dilarang</translation>
     </message>
@@ -1227,12 +1314,52 @@ Easy mobile office.</source>
         <translation>Daftar sekarang</translation>
     </message>
     <message>
+        <source>I agree to the %1</source>
+        <translation>Saya menyetujui %1</translation>
+    </message>
+    <message>
         <source>Login too frequently, please retry after %1 seconds</source>
         <translation>Terlalu sering akses masuk, silakan coba lagi setelah %1 detik</translation>
     </message>
     <message>
         <source>Login with third account</source>
         <translation>Akses masuk dengan akun ketiga</translation>
+    </message>
+    <message>
+        <source>Or</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Already have an account?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account Login</source>
+        <translation>Masuk</translation>
+    </message>
+    <message>
+        <source>Sign in with Facebook</source>
+        <translation>Masuk dengan Facebook</translation>
+    </message>
+    <message>
+        <source>Sign in with Twitter</source>
+        <translation>Masuk dengan Twitter</translation>
+    </message>
+    <message>
+        <source>Sign in with Dropbox</source>
+        <translation>Masuk dengan Dropbox</translation>
+    </message>
+    <message>
+        <source>Sign up with Email</source>
+        <translation>Daftar dengan Email</translation>
+    </message>
+    <message>
+        <source>No account?</source>
+        <translation>Tidak punya akun?</translation>
+    </message>
+    <message>
+        <source>Sign Up</source>
+        <translation>Daftar</translation>
     </message>
 </context>
 <context>
@@ -1318,6 +1445,104 @@ Easy mobile office.</source>
     <message>
         <source>School</source>
         <translation>Sekolah</translation>
+    </message>
+</context>
+<context>
+    <name>KPayStateDlg</name>
+    <message>
+        <source>Please wait a few minutes</source>
+        <translation>Harap tunggu beberapa menit</translation>
+    </message>
+    <message>
+        <source>You can download unlimted templates.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment timeout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get your personal customization now.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can use PDF conversion unlimited.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment successful!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have become WPS Premium user.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Checking payment...</source>
+        <translation>Memeriksa pembayaran…</translation>
+    </message>
+    <message>
+        <source>Payment failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneEnhance</name>
+    <message>
+        <source>Cloud storage</source>
+        <translation>Penyimpanan Cloud</translation>
+    </message>
+    <message>
+        <source>Files repair</source>
+        <translation>Perbaikan file</translation>
+    </message>
+    <message>
+        <source>Start Your Free Trial</source>
+        <translation>Mulai Uji Coba Gratis Anda</translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation>PDF ke Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Picture to text(OCR)</source>
+        <translation>Gambar ke teks(OCR)</translation>
+    </message>
+    <message>
+        <source>Sign in as WPS Standard</source>
+        <translation>Masuk sebagai WPS Standar</translation>
+    </message>
+    <message>
+        <source>Welcome to try our 7-day WPS Premium Trial</source>
+        <translation>Selamat datang di Uji Coba Gratis 7 hari WPS Premium</translation>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation>Pengguna Masuk</translation>
+    </message>
+    <message>
+        <source>Product Key</source>
+        <translation>Kunci Produk</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation>Pengguna Premium</translation>
+    </message>
+    <message>
+        <source>Edit text/images in PDF</source>
+        <translation>Edit teks/gambar di PDF</translation>
+    </message>
+    <message>
+        <source>Sign in and unlock 80+ exclusive benefits only available in WPS Premium</source>
+        <translation>Masuk dan dapatkan lebih dari 80 fitur eksklusif yang hanya tersedia di WPS Premium</translation>
     </message>
 </context>
 <context>
@@ -1750,6 +1975,10 @@ Easy mobile office.</source>
         <translation>Pengambilan pengguna gagal</translation>
     </message>
     <message>
+        <source>request failed, please retry later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select user failed</source>
         <translation>Pemilihan pengguna gagal</translation>
     </message>
@@ -1852,6 +2081,84 @@ Easy mobile office.</source>
     <message>
         <source>Welcome to use WPS Office</source>
         <translation>Selamat Datang di WPS Office</translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkDnsErrDlg</name>
+    <message>
+        <source>Page load timeout,check you network and retry</source>
+        <translation>Waktu pemuatan halaman habis, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>Service timeout</source>
+        <translation>Sesi layanan sudah habis.</translation>
+    </message>
+    <message>
+        <source>Diagnosing tool</source>
+        <translation>Periksa jaringan</translation>
+    </message>
+    <message>
+        <source> or refer to the </source>
+        <translation> atau baca </translation>
+    </message>
+    <message>
+        <source>Network error,check you network and retry</source>
+        <translation>Kesalahan jaringan, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
+        <translation>Waktu permintaan habis. Silakan coba lagi dengan mengklik tombol segarkan sebelum memeriksa pengaturan DNS Anda.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>An error occurred,check you network and retry</source>
+        <translation>Ada kesalahan, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
+        <translation>Waktu permintaan habis. Klik Segarkan dan coba lagi.</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Segarkan</translation>
+    </message>
+    <message>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation>Penyinkronan info akses masuk gagal, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation>Tidak dapat mengakses server Akun WPS, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>DNS Settings document</source>
+        <translation>Instruksi konfigurasi DNS</translation>
+    </message>
+    <message>
+        <source>Page load failed,check you network and retry</source>
+        <translation>Pemuatan halaman gagal, cek jaringan Anda dan coba lagi</translation>
+    </message>
+</context>
+<context>
+    <name>KFeedbackPopupWidget</name>
+    <message>
+        <source>Forgot the password</source>
+        <translation>Lupa kata sandi</translation>
+    </message>
+    <message>
+        <source>Sign-in failed</source>
+        <translation>Proses masuk gagal</translation>
+    </message>
+    <message>
+        <source>Other questions or feedback</source>
+        <translation>Masalah atau Usulan Lain</translation>
+    </message>
+    <message>
+        <source>Select your question type:</source>
+        <translation>Pilih jenis pertanyaan Anda:</translation>
     </message>
 </context>
 <context>
