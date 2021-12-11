@@ -1,274 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="de_DE" version="2.1">
-<context>
-    <name>KxNewTableStyleDlg</name>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>,</source>
-        <translation>,</translation>
-    </message>
-    <message>
-        <source>;</source>
-        <translation>;</translation>
-    </message>
-    <message>
-        <source>Top</source>
-        <translation>Oben</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Fett</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Links</translation>
-    </message>
-    <message>
-        <source>StrikeThrough</source>
-        <translation>Durchgestrichen</translation>
-    </message>
-    <message>
-        <source>First Column</source>
-        <translation>Erste Spalte</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Rechts</translation>
-    </message>
-    <message>
-        <source>InsideHorizontal</source>
-        <translation>Innere horizontale</translation>
-    </message>
-    <message>
-        <source>First Column Stripe</source>
-        <translation>Stripeset der ersten Spalte</translation>
-    </message>
-    <message>
-        <source>Second Row Stripe</source>
-        <translation>Stripeset der zweiten Zeile</translation>
-    </message>
-    <message>
-        <source>Second Column Stripe</source>
-        <translation>Stripeset der zweiten Spalte</translation>
-    </message>
-    <message>
-        <source>PivotTable Style</source>
-        <translation>PivotTable-Formatvorlage</translation>
-    </message>
-    <message>
-        <source>Slicer Style</source>
-        <translation>Datenschnittformat</translation>
-    </message>
-    <message>
-        <source>New Slicer Style</source>
-        <translation>Neues Datenschnittformat</translation>
-    </message>
-    <message>
-        <source>Row Subheading 1</source>
-        <translation>Zeilenunterüberschrift 1</translation>
-    </message>
-    <message>
-        <source>Row Subheading 2</source>
-        <translation>Zeilenunterüberschrift 2</translation>
-    </message>
-    <message>
-        <source>Row Subheading 3</source>
-        <translation>Zeilenunterüberschrift 3</translation>
-    </message>
-    <message>
-        <source>Grand Total Row</source>
-        <translation>Gesamtsumme Zeile</translation>
-    </message>
-    <message>
-        <source>This style name already exists.</source>
-        <translation>Dieser Formatname ist bereits vorhanden.</translation>
-    </message>
-    <message>
-        <source>Double Underline</source>
-        <translation>Doppelt unterstrichen</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation>Unten</translation>
-    </message>
-    <message>
-        <source>Subtotal Column 1</source>
-        <translation>Zwischensumme Spalte 1</translation>
-    </message>
-    <message>
-        <source>Subtotal Column 2</source>
-        <translation>Zwischensumme Spalte 2</translation>
-    </message>
-    <message>
-        <source>Subtotal Column 3</source>
-        <translation>Zwischensumme Spalte 3</translation>
-    </message>
-    <message>
-        <source>Last Column</source>
-        <translation>Letzte Spalte</translation>
-    </message>
-    <message>
-        <source>Header</source>
-        <translation>Kopfzeile</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Kursiv</translation>
-    </message>
-    <message>
-        <source>Bold Italic</source>
-        <translation>Fett Kursiv</translation>
-    </message>
-    <message>
-        <source>Report Filter Values</source>
-        <translation>Berichtsfilterwerte</translation>
-    </message>
-    <message>
-        <source>Shaded</source>
-        <translation>Schattiert</translation>
-    </message>
-    <message>
-        <source>Report Filter Labels</source>
-        <translation>Berichtsfilterbeschriftungen</translation>
-    </message>
-    <message>
-        <source>Subtotal Row 1</source>
-        <translation>Zwischensumme Zeile 1</translation>
-    </message>
-    <message>
-        <source>Subtotal Row 2</source>
-        <translation>Zwischensumme Zeile 2</translation>
-    </message>
-    <message>
-        <source>Subtotal Row 3</source>
-        <translation>Zwischensumme Zeile 3</translation>
-    </message>
-    <message>
-        <source>Grand Total Column</source>
-        <translation>Gesamtsumme Spalte</translation>
-    </message>
-    <message>
-        <source>Set as default PivotTable style for this document</source>
-        <translation>Als Standard-PivotTable-Format für dieses Dokument festlegen</translation>
-    </message>
-    <message>
-        <source>Set as default slicer style for this document</source>
-        <translation>Als Datenschnitt-Standardformat für dieses Dokument festlegen</translation>
-    </message>
-    <message>
-        <source>Table Style</source>
-        <translation>Tabellenformat</translation>
-    </message>
-    <message>
-        <source>Whole Table</source>
-        <translation>Gesamte Tabelle</translation>
-    </message>
-    <message>
-        <source>Blank Row</source>
-        <translation>Leere Zeile</translation>
-    </message>
-    <message>
-        <source>Column Subheading 1</source>
-        <translation>Spaltenunterüberschrift 1</translation>
-    </message>
-    <message>
-        <source>Column Subheading 2</source>
-        <translation>Spaltenunterüberschrift 2</translation>
-    </message>
-    <message>
-        <source>Column Subheading 3</source>
-        <translation>Spaltenunterüberschrift 3</translation>
-    </message>
-    <message>
-        <source>InsideVertical</source>
-        <translation>Innere vertikale </translation>
-    </message>
-    <message>
-        <source>Modify Table Style</source>
-        <translation>Tabellenformat ändern</translation>
-    </message>
-    <message>
-        <source>Borders</source>
-        <translation>Rahmen</translation>
-    </message>
-    <message>
-        <source>No Borders</source>
-        <translation>Kein Rahmen</translation>
-    </message>
-    <message>
-        <source>No Shading</source>
-        <translation>Nicht schattiert</translation>
-    </message>
-    <message>
-        <source>Last Header Cell</source>
-        <translation>Letzte Überschriftenzelle</translation>
-    </message>
-    <message>
-        <source>First Header Cell</source>
-        <translation>Erste Überschriftenzelle</translation>
-    </message>
-    <message>
-        <source>Total Row</source>
-        <translation>Ergebniszeile</translation>
-    </message>
-    <message>
-        <source>Header Row</source>
-        <translation>Überschriftenzeile</translation>
-    </message>
-    <message>
-        <source>Underline</source>
-        <translation>Unterstrichen</translation>
-    </message>
-    <message>
-        <source>Modify PivotTable Style</source>
-        <translation>PivotTable-Formatvorlage ändern</translation>
-    </message>
-    <message>
-        <source>Slicer Element:</source>
-        <translation>Datenschnittelement:</translation>
-    </message>
-    <message>
-        <source>New PivotTable Style</source>
-        <translation>Neue PivotTable-Formatvorlage</translation>
-    </message>
-    <message>
-        <source>Last Total Cell</source>
-        <translation>Letzte Ergebniszelle</translation>
-    </message>
-    <message>
-        <source>First Total Cell</source>
-        <translation>Erste Ergebniszelle</translation>
-    </message>
-    <message>
-        <source>New Table Style</source>
-        <translation>Neues Tabellenformat</translation>
-    </message>
-    <message>
-        <source>Enter a table style name.</source>
-        <translation>Geben Sie einen Namen für das Tabellenformat ein.</translation>
-    </message>
-    <message>
-        <source>First Row Stripe</source>
-        <translation>Stripeset der ersten Zeile</translation>
-    </message>
-    <message>
-        <source>Set as default table style for this document</source>
-        <translation>Als Standardtabellenformat für dieses Dokument festlegen</translation>
-    </message>
-</context>
-<context>
-    <name>KxStyleDlg</name>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>, </source>
-        <translation>, </translation>
-    </message>
-</context>
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de_DE">
 <context>
     <name>KxDlgTextToColumns</name>
     <message>
@@ -953,6 +683,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>STANDARD-Option für das Einfügen in einen durch einen Filter ausgeblendeten Bereich:</translation>
     </message>
     <message>
+        <source>Open directly by default:Content style is complete, but opening may fail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Ad&amp;vanced...</source>
         <translation>&amp;Erweitert...</translation>
     </message>
@@ -993,6 +727,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>&amp;Feste Dezimalstellen setzen</translation>
     </message>
     <message>
+        <source>Enable middle button paste</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Never show dialog &amp;when open CSV file</source>
         <translation>Beim Öffnen einer CSV-Datei niemals Dialog anzeigen (&amp;w)</translation>
     </message>
@@ -1023,6 +761,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
     <message>
         <source>DEFAULT option for merge single column cells:</source>
         <translation>STANDARD-Option für das Verbinden von Zellen in einzelnen Spalten:</translation>
+    </message>
+    <message>
+        <source>Keep cache for</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cloud backup</source>
@@ -1065,8 +807,16 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>&amp;Schalfläche &quot;Schließen&quot; auf der aktiven Registerkarte anzeigen</translation>
     </message>
     <message>
+        <source>Image Size and Quality</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;Reset</source>
         <translation>Zur&amp;ücksetzen</translation>
+    </message>
+    <message>
+        <source>&amp;Smart</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Extra print setting</source>
@@ -1075,6 +825,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
     <message>
         <source>Enable m&amp;ulti-threaded calculation</source>
         <translation>Multithread-Berechnung aktivieren (&amp;u)</translation>
+    </message>
+    <message>
+        <source>The selected scale will be applied to the new table</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Document tab</source>
@@ -1101,8 +855,8 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>Für 30 Tage &amp;aufbewahren</translation>
     </message>
     <message>
-        <source>Open roaming file</source>
-        <translation>Automatisch hochgeladene Datei anzeigen</translation>
+        <source>Local backup</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chart lines:</source>
@@ -1119,6 +873,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
     <message>
         <source>Printing options</source>
         <translation>Druckoptionen</translation>
+    </message>
+    <message>
+        <source>&amp;minutes</source>
+        <translation>&amp;Minuten</translation>
     </message>
     <message>
         <source>minutes</source>
@@ -1159,6 +917,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
     <message>
         <source>Tab style</source>
         <translation>Bezeichnungsart</translation>
+    </message>
+    <message>
+        <source>Default JS developer environment(&amp;Y)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto Filter</source>
@@ -1241,12 +1003,12 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>Erweiterte Zellen unterhalb nicht prüfen</translation>
     </message>
     <message>
-        <source>Set auto roaming &amp;mode and save file to cloud</source>
-        <translation>Automatisches Roaming einstellen und Datei in der Cloud speichern (&amp;m)</translation>
-    </message>
-    <message>
         <source>Start With:</source>
         <translation>Starten mit:</translation>
+    </message>
+    <message>
+        <source>Default insert images of &amp;original size</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Workbook (*.xls)</source>
@@ -1349,6 +1111,14 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>Zuletzt verwendete Dokumente</translation>
     </message>
     <message>
+        <source>Backup mode:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keep files cache</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Edit settings</source>
         <translation>Einstellungen bearbeiten</translation>
     </message>
@@ -1369,6 +1139,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>Fehlerüberprüfung</translation>
     </message>
     <message>
+        <source>Microsoft Excel 97/2000/XP/2003 Workbook (*.xls)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Home Pa&amp;ge</source>
         <translation>Homepa&amp;ge</translation>
     </message>
@@ -1379,6 +1153,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
     <message>
         <source>Number Format Check</source>
         <translation>Überprüfung des Zahlenformats</translation>
+    </message>
+    <message>
+        <source>Clear local backup cache</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Words &amp;in current dictionary:</source>
@@ -1445,8 +1223,20 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>Task&amp;leiste</translation>
     </message>
     <message>
+        <source>Fix &amp;interval</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable Bl&amp;ue background</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Microsoft Excel Workbook (*.xlsx)</source>
         <translation>Microsoft Excel-Arbeitsmappe (*.xlsx)</translation>
+    </message>
+    <message>
+        <source>days (Range 7-120)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Detect and prompt for appropriate number format</source>
@@ -1581,6 +1371,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>Wörter in GROSSBUCHSTABEN ig&amp;norieren</translation>
     </message>
     <message>
+        <source>Never show dialog when open html file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Default document &amp;format to save:</source>
         <translation>&amp;Standard-Dokumentformat zum Speichern:</translation>
     </message>
@@ -1617,8 +1411,16 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>Ne&amp;u...</translation>
     </message>
     <message>
+        <source>Cloud Sync</source>
+        <translation>Cloud Sync</translation>
+    </message>
+    <message>
         <source>&amp;Automatic</source>
         <translation>&amp;Automatisch</translation>
+    </message>
+    <message>
+        <source>View Clo&amp;ud backup</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -1689,12 +1491,20 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>Bereich unterhalb des Filterbereichs prüfen (&amp;C)</translation>
     </message>
     <message>
+        <source>Open in simple mode:Can open to view the content, but the opening speed is slow, elements such as styles may be lost</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Calculation</source>
         <translation>Berechnung</translation>
     </message>
     <message>
         <source>&amp;Open backup file</source>
         <translation>Si&amp;cherungsdatei öffnen</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2007/2010 Workbook (*.xlsx)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View &amp;local backup</source>
@@ -1749,12 +1559,20 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>&amp;Formeln, die sich nicht auf alle Zellen im Bereich beziehen</translation>
     </message>
     <message>
+        <source>Folder:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Error &amp;indicator color:</source>
         <translation>&amp;Farbe des Fehlerindikators:</translation>
     </message>
     <message>
         <source>I&amp;ncrement Backup</source>
         <translation>I&amp;nkrementelle Sicherung</translation>
+    </message>
+    <message>
+        <source>Disable all Data Connections</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
@@ -1809,6 +1627,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>&amp;Fehlerüberprüfung im Hintergrund aktivieren</translation>
     </message>
     <message>
+        <source>&amp;Enable Cloud backup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Backup Setting</source>
         <translation>Sicherungseinstellungen</translation>
     </message>
@@ -1851,6 +1673,10 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
     <message>
         <source>C&amp;lear CSV fields</source>
         <translation>CSV-Felder löschen (&amp;l)</translation>
+    </message>
+    <message>
+        <source>Large File Backup Notice</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filter search settings</source>
@@ -1909,62 +1735,26 @@ Wenn alle Angaben korrekt sind, klicken Sie auf „Weiter“ oder wählen Sie de
         <translation>Dateiverschlüsselungsoptionen für diese Arbeitsmappe</translation>
     </message>
     <message>
-        <source>&amp;minutes</source>
-        <translation type="unfinished"/>
+        <source>Open roaming file</source>
+        <translation>Automatisch hochgeladene Datei anzeigen</translation>
+    </message>
+    <message>
+        <source>Set auto roaming &amp;mode and save file to cloud</source>
+        <translation>Automatisches Roaming einstellen und Datei in der Cloud speichern (&amp;m)</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enable middle button paste</source>
-        <translation type="unfinished"/>
-    </message>				
-    <message>
-        <source>Keep files cache</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Image Size and Quality</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Default insert images of &amp;original size</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Never show dialog when open html file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Open directly by default:Content style is complete, but opening may fail</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Open in simple mode:Can open to view the content, but the opening speed is slow, elements such as styles may be lost</source>
-        <translation type="unfinished"/>
+        <translation>Mit der Schaltfläche &quot;Erweitert&quot; können Sie aus verschiedenen Verschlüsselungsarten auswählen.</translation>
     </message>
     <message>
         <source>&amp;High quality printing</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>days (Range 7-120)</source>
-        <translation type="unfinished"/>
-	</message>	
-    <message>
-        <source>Keep cache for</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear local backup cache</source>
-        <translation type="unfinished"/>
-    </message>
-	<message>
-		<source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
 Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
-		<translation type="unfinished"/>
-	</message>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPivotDateFilterDlg</name>
@@ -2190,6 +1980,10 @@ Versuchen Sie, einige Beispieldaten einzugeben, bevor Sie Flash Fill ausführen.
     <message>
         <source>This operation will cause some merged cells to unmerge. Do you wish to continue?</source>
         <translation>Durch diese Aktion werden einige verbundene Zellen wieder geteilt. Soll fortgefahren werden?</translation>
+    </message>
+    <message>
+        <source>Formulas or rich data types in the header row will be removed and converted to static text. Do you want to continue?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(ALL)</source>
@@ -2423,6 +2217,10 @@ Mehrere Ursachen sind möglich:
         <translation>Dieser Befehl kann in Listen oder Bereichen, die verbundene Zellen enthalten, nicht angewendet werden.</translation>
     </message>
     <message>
+        <source>Cannot insert data because there&apos;s a merged cell in the way.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PivotTable %s  had some incorrect data,it had been deleted</source>
         <translation>PivotTable %s enthielt fehlerhafte Daten. Sie wurde gelöscht.</translation>
     </message>
@@ -2479,10 +2277,6 @@ Please try one of the following.
         <translation>Grenzwerte vorschreiben</translation>
     </message>
     <message>
-        <source>Common Files(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|All Files(*.*)|*.*||</source>
-        <translation>Gängige Dateien (*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets-Dateien (*.et)|*.et|Microsoft Excel-Dateien (*.xls)|*.xls|Microsoft Excel 2007/2010-Dateien (*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|Alle Dateien(*.*)|*.*||</translation>
-    </message>
-    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
@@ -2522,6 +2316,10 @@ Please try one of the following.
 (%s)</source>
         <translation>Dieses Dokument will hier als „%s“ gespeichert werden..Wollen Si e weiter gehen ?
 (%s)</translation>
+    </message>
+    <message>
+        <source>Instead of selecting a table header,select a cell with text in the table to convert to a data type.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ambiguous name detected: %s</source>
@@ -2581,6 +2379,10 @@ Please try one of the following.
         <translation>Dieser Befehl ist in einer freigegebenen Arbeitsmappe nicht verfügbar.</translation>
     </message>
     <message>
+        <source>The current table is in the workbook protection state, unable to export the chart temporarily.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>When a cell is updated by more than one formula,</source>
         <translation>Wenn eine Zelle um mehr als eine Formel aktualisiert wird,</translation>
     </message>
@@ -2611,6 +2413,10 @@ Please try one of the following.
     <message>
         <source>This command cannot be used on a protected sheet.</source>
         <translation>Befehl kann bei geschützten Arbeitsblättern nicht angewendet werden.</translation>
+    </message>
+    <message>
+        <source>The table slicer could not be copied from one workbook to another. Please select the entire table and slicer to try again.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make sure there is enough space on this disk, or try to save file to another disk. </source>
@@ -2731,6 +2537,10 @@ Please try one of the following.
         <translation>0.001f</translation>
     </message>
     <message>
+        <source>We cannot convert into this data type.This is because the cell is blank,contains a formula,or it has already been converted into this data type.Try selecting another cell with just text or numbers,or select another data type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <translation>Die Datei sind geschützt werden bei anderer Anwendung.Wollen Sie sie als schreibgeschützt zu öffnen?
@@ -2793,6 +2603,10 @@ Please try one of the following.
         <translation>Die maximale Anzahl an Datenreihen pro Diagramm ist 255.</translation>
     </message>
     <message>
+        <source>The picture is too large and will be truncated.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>This workbook cannot use any other format of cells.</source>
         <translation>Diese Arbeitsmappe kann keine anderen Zellenformate nutzen.</translation>
     </message>
@@ -2849,6 +2663,10 @@ Please try one of the following.
     <message>
         <source>(Exclusive)</source>
         <translation>(Exklusivmodus)</translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause target range contains a formula, merged cell, data validation, locked cell or pivot table.Remove those features from target range and click the Flash Fill button again.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter choice content.</source>
@@ -3051,6 +2869,10 @@ Sie können die letzten ausgefüllten Zellen auch an eine andere Stelle verschie
         <translation>Feldliste anzeigen</translation>
     </message>
     <message>
+        <source>Cannot create an outline.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Old
 Value</source>
         <translation>Alt
@@ -3112,6 +2934,10 @@ Wert</translation>
     <message>
         <source>Months</source>
         <translation>Monate</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|Chinese Office Document Format(*.uos)|*.uos|All Files(*.*)|*.*||</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
@@ -3429,6 +3255,10 @@ Wenn Sie dieses Feld im Bericht verwenden möchten, klicken Sie auf „OK“ und
         <translation>Zielzelle Abschnitt</translation>
     </message>
     <message>
+        <source> Field Not Found.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>You can create a PivotTable based on source data with more than 16384 columns. Reduce the number of columns and try again.</source>
         <translation>Sie können keine PivotTable auf Basis von Quelldaten mit mehr als 16384 Spalten erstellen. Verringern Sie die Anzahl der Spalten und versuchen Sie es erneut.</translation>
     </message>
@@ -3451,6 +3281,14 @@ Wenn Sie dieses Feld im Bericht verwenden möchten, klicken Sie auf „OK“ und
     <message>
         <source>%s is an invalid worksheet name.</source>
         <translation>%s ist  kein zulässig Blatt。</translation>
+    </message>
+    <message>
+        <source>Field Not Found.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb;|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|All Files(*.*)|*.*||</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This file is locked. Try it again later.</source>
@@ -3584,13 +3422,17 @@ Simplify the PivotTable report or check the macro for errors, and then try the o
 Vereinfachen Sie den PivotTable-Bericht oder überprüfen Sie das Makro auf Fehler. Wiederholen Sie dann den Vorgang.</translation>
     </message>
     <message>
-        <source>%s File Not Exist</source>
-        <comment>TX_DuplicateItemsMgr_File_Not_Exist</comment>
+        <source>A table header-line overlap one or more formula(s).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Formulas in the header row will be removed and converted to static text. Do you want to continue?</source>
-        <translation>Formeln in der Kopfzeile werden entfernt und in statischen Text konvertiert. Möchten Sie fortfahren?</translation>
+        <source>Can&apos;t insert new cells because it would push non-empty cells off the end of the worksheet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%s File Not Exist</source>
+        <comment>TX_DuplicateItemsMgr_File_Not_Exist</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move %s to Rows</source>
@@ -3628,6 +3470,10 @@ To ungroup the field, make sure it is in the row or column area, select one of t
         <translation>Dieses PivotTable-Berichtsfeld ist gruppiert. Sie können ein berechnetes Element nicht zu einem gruppierten Feld hinzufügen.
 
 Um die Gruppierung des Felds aufzuheben, stellen Sie sicher, dass es sich im Zeilen- oder Spaltenbereich befindet, wählen Sie eines der Elemente des gruppierten Felds aus, klicken Sie auf der Registerkarte „Option“ im Bereich „Gruppe“ auf „Gruppierung aufheben“ und fügen Sie dann das berechnete Element ein. Nach dem Einfügen können Sie die Feldelemente erneut gruppieren.</translation>
+    </message>
+    <message>
+        <source>The slicer can not be used properly.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>It&apos;s not a valid Integer.</source>
@@ -3711,6 +3557,10 @@ Check that the cell references, range names, defined names and links to other wo
         <translation>Sie können diese Auswahl nicht ausblenden.</translation>
     </message>
     <message>
+        <source>Delete entire sheet row?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Files(*.*)| *.*</source>
         <translation>Alle Dateien(*.*)| *.*</translation>
     </message>
@@ -3731,6 +3581,11 @@ Check that the cell references, range names, defined names and links to other wo
 Value</source>
         <translation>Neu
 Wert</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot open this file, because the password is not correct.
+</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are attempting to create a chart by useing a PivotTable report in another workbok. This will result in a static chart that cannot be updated. To create a PivotChart report, or a chart that dynamically updates like the PivotTbale report, the chart must be located in the same workbook as its associated PivotTable report.</source>
@@ -3757,6 +3612,10 @@ Wert</translation>
         <source>The merged cells cannot be sorted.</source>
         <comment>TX_MergedCell_InRange</comment>
         <translation>Die zusammengeführten Zellen können nicht sortiert werden.</translation>
+    </message>
+    <message>
+        <source>Converting to Linked Data Types (Press ESC to cancel)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Count</source>
@@ -4036,6 +3895,10 @@ If you are trying to open the file from your recently used file list on the File
         <translation>Gesamtsumme</translation>
     </message>
     <message>
+        <source>The PasteLink Operator is forbidden in Pivot Table.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cannot edit PivotTable in group edit mode.</source>
         <translation>PivotTable kann im Gruppenbearbeitungsmodus nicht bearbeitet werden.</translation>
     </message>
@@ -4075,6 +3938,10 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>The PivotTable report will not fit on the sheet. Do you want to show as much as possible?</source>
         <translation>Der PivotTable-Bericht passt nicht auf das Blatt. Möchten Sie so viel wie möglich anzeigen?</translation>
+    </message>
+    <message>
+        <source>We are unable to replace matches in read-only Rich Data.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Lock Cell</source>
@@ -4121,12 +3988,20 @@ If you are trying to open the file from your recently used file list on the File
         <translation>Fehlgeschlagen: Diagrammblatt kann nicht zusammengeführt werden</translation>
     </message>
     <message>
+        <source>Refreshing Linked Data Types (Press ESC to cancel)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Con&amp;vert XX to 20XX</source>
         <translation>XX in 20XX umwandeln(&amp;V)</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; to be saved has the same name with an open file. Please choose a different name, or close another workbook with the same name first.</source>
         <translation>Die Datei &quot;%s&quot; kann nicht den gleichen Namen wie einer geöffneten Datei zuweisen. Wählen Sie einen anderen Name oder schließen die gleichnamige Arbeitsmappe.  </translation>
+    </message>
+    <message>
+        <source>The current worksheet has no outline and cannot display the outline symbol. Whether to create an outline?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear Filter from Slicers</source>
@@ -4229,6 +4104,10 @@ Einige der möglichen Ursachen sind:
         <translation>Berechnungsschritte anzeigen (&amp;C)</translation>
     </message>
     <message>
+        <source>Cannot insert data because you&apos;ve reached the end of the sheet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Source reference area overlaps with target area.</source>
         <translation>Datenquelle überschneidet sich mit Zielbereich.</translation>
     </message>
@@ -4276,6 +4155,10 @@ Einige der möglichen Ursachen sind:
     <message>
         <source>%s is a reserved name.</source>
         <translation>%s ist ein reservierter Name.</translation>
+    </message>
+    <message>
+        <source>Cannot insert data because a table is in the way.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Constraint</source>
@@ -4474,8 +4357,16 @@ Versuchen Sie, den Dateipfad zu verkürzen, oder verschieben Sie die Datei auf d
         <translation>Genauigkeit</translation>
     </message>
     <message>
+        <source>Recovery</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Decrease</source>
         <translation>Abgang</translation>
+    </message>
+    <message>
+        <source>A table total-line overlap one or more formula(s).</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
@@ -4553,6 +4444,10 @@ Sie können Folgendes versuchen:
     <message>
         <source>The field you are moving cannot be placed in that PivotTable area.</source>
         <translation>Das Feld, das Sie verschieben, kann nicht in diesem PivotTable-Bereich platziert werden.</translation>
+    </message>
+    <message>
+        <source>Field Not Found Error</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove &quot;%s&quot;</source>
@@ -4902,10 +4797,6 @@ Klicken Sie auf &apos;OK&apos;, um fortzufahren und möglichst viele der Daten z
         <translation>Lösungswert</translation>
     </message>
     <message>
-        <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
-        <translation>Wir haben keine Werte eingegeben, da Ihre Auswahl eine Formel, eine zusammengeführte Zelle, eine Datenvalidierung oder eine gesperrte Zelle enthält. Entfernen Sie diese Funktionen aus Ihrer Auswahl und klicken Sie erneut auf die Schaltfläche &quot;Flash Fill&quot;.</translation>
-    </message>
-    <message>
         <source>This workboot cannot use any other fonts.</source>
         <translation>Diese Arbeitsmappe kann keine anderen Schriftarten nutzen.</translation>
     </message>
@@ -4956,6 +4847,10 @@ Um die nicht gespeicherte Arbeit zu bewahren. klicken Sie auf OK und speichern S
         <translation>XML Dateien</translation>
     </message>
     <message>
+        <source>All Files(*.*)|*.*||</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cell Value</source>
         <translation>Zellinhalt</translation>
     </message>
@@ -4991,6 +4886,10 @@ Um die nicht gespeicherte Arbeit zu bewahren. klicken Sie auf OK und speichern S
     <message>
         <source>Reference is invalid.</source>
         <translation>Verweis ist unzulässig. .</translation>
+    </message>
+    <message>
+        <source>Change Source: </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(blank)</source>
@@ -5097,6 +4996,10 @@ Um die nicht gespeicherte Arbeit zu bewahren. klicken Sie auf OK und speichern S
         <translation>Es befindet sich eine große Menge von Informationen in der Zwischenablage. Wollen Sie diese Informationen später in andere Programme einfügen?• Klicken Sie auf &apos;Ja&apos;, um diese Informationen in der Zwischenablage zu behalten und sie später einfügen zu können.• Klicken Sie auf &apos;Nein&apos;, um die Informationen in der Zwischenablage zu löschen und Speicher freizugeben.</translation>
     </message>
     <message>
+        <source>AutoFilter Analysis</source>
+        <translation>AutoFilter-Analyse</translation>
+    </message>
+    <message>
         <source>Command not available: The workbook has started revision.</source>
         <translation>Befehl nicht verfügbar: Arbeitsmappe hat mit der Revision begonnen.</translation>
     </message>
@@ -5158,6 +5061,10 @@ Um die nicht gespeicherte Arbeit zu bewahren. klicken Sie auf OK und speichern S
         <translation>Eine Tabelle kann einen Bereich, der einen PivotTable-Bericht, ein Abfrageergebnis, eine andere Tabelle oder geschützte Zellen enthält, nicht überlappen.</translation>
     </message>
     <message>
+        <source>Calculation is incomplete. Recalculate before saving?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Sum of %s</source>
         <translation>Summe von %s</translation>
     </message>
@@ -5184,6 +5091,10 @@ Um die nicht gespeicherte Arbeit zu bewahren. klicken Sie auf OK und speichern S
     <message>
         <source>Failed: Cannot merge dialog sheet</source>
         <translation>Fehlgeschlagen: Dialogblatt kann nicht zusammengeführt werden</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb;*.uos|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|Chinese Office Document Format(*.uos)|*.uos|All Files(*.*)|*.*||</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the Copy and Paste commands to insert the data into the other worksheets of the workbook.</source>
@@ -5263,8 +5174,315 @@ Um die nicht gespeicherte Arbeit zu bewahren. klicken Sie auf OK und speichern S
 </translation>
     </message>
     <message>
+        <source>Formulas in the header row will be removed and converted to static text. Do you want to continue?</source>
+        <translation>Formeln in der Kopfzeile werden entfernt und in statischen Text konvertiert. Möchten Sie fortfahren?</translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
+        <translation>Wir haben keine Werte eingegeben, da Ihre Auswahl eine Formel, eine zusammengeführte Zelle, eine Datenvalidierung oder eine gesperrte Zelle enthält. Entfernen Sie diese Funktionen aus Ihrer Auswahl und klicken Sie erneut auf die Schaltfläche &quot;Flash Fill&quot;.</translation>
+    </message>
+    <message>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxNewTableStyleDlg</name>
+    <message>
+        <source>,</source>
+        <translation>,</translation>
+    </message>
+    <message>
+        <source>;</source>
+        <translation>;</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>Oben</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>Fett</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>Links</translation>
+    </message>
+    <message>
+        <source>StrikeThrough</source>
+        <translation>Durchgestrichen</translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation>Erste Spalte</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>Rechts</translation>
+    </message>
+    <message>
+        <source>Whole Slicer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>InsideHorizontal</source>
+        <translation>Innere horizontale</translation>
+    </message>
+    <message>
+        <source>First Column Stripe</source>
+        <translation>Stripeset der ersten Spalte</translation>
+    </message>
+    <message>
+        <source>Second Row Stripe</source>
+        <translation>Stripeset der zweiten Zeile</translation>
+    </message>
+    <message>
+        <source>Second Column Stripe</source>
+        <translation>Stripeset der zweiten Spalte</translation>
+    </message>
+    <message>
+        <source>PivotTable Style</source>
+        <translation>PivotTable-Formatvorlage</translation>
+    </message>
+    <message>
+        <source>Slicer Style</source>
+        <translation>Datenschnittformat</translation>
+    </message>
+    <message>
+        <source>New Slicer Style</source>
+        <translation>Neues Datenschnittformat</translation>
+    </message>
+    <message>
+        <source>Row Subheading 1</source>
+        <translation>Zeilenunterüberschrift 1</translation>
+    </message>
+    <message>
+        <source>Row Subheading 2</source>
+        <translation>Zeilenunterüberschrift 2</translation>
+    </message>
+    <message>
+        <source>Row Subheading 3</source>
+        <translation>Zeilenunterüberschrift 3</translation>
+    </message>
+    <message>
+        <source>Hovered Unselected Item with Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Grand Total Row</source>
+        <translation>Gesamtsumme Zeile</translation>
+    </message>
+    <message>
+        <source>This style name already exists.</source>
+        <translation>Dieser Formatname ist bereits vorhanden.</translation>
+    </message>
+    <message>
+        <source>Hovered Selected Item with Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Double Underline</source>
+        <translation>Doppelt unterstrichen</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>Unten</translation>
+    </message>
+    <message>
+        <source>Subtotal Column 1</source>
+        <translation>Zwischensumme Spalte 1</translation>
+    </message>
+    <message>
+        <source>Subtotal Column 2</source>
+        <translation>Zwischensumme Spalte 2</translation>
+    </message>
+    <message>
+        <source>Subtotal Column 3</source>
+        <translation>Zwischensumme Spalte 3</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation>Letzte Spalte</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation>Kopfzeile</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>Kursiv</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation>Fett Kursiv</translation>
+    </message>
+    <message>
+        <source>Report Filter Values</source>
+        <translation>Berichtsfilterwerte</translation>
+    </message>
+    <message>
+        <source>Modify Slicer Style</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Shaded</source>
+        <translation>Schattiert</translation>
+    </message>
+    <message>
+        <source>Report Filter Labels</source>
+        <translation>Berichtsfilterbeschriftungen</translation>
+    </message>
+    <message>
+        <source>Subtotal Row 1</source>
+        <translation>Zwischensumme Zeile 1</translation>
+    </message>
+    <message>
+        <source>Subtotal Row 2</source>
+        <translation>Zwischensumme Zeile 2</translation>
+    </message>
+    <message>
+        <source>Subtotal Row 3</source>
+        <translation>Zwischensumme Zeile 3</translation>
+    </message>
+    <message>
+        <source>Grand Total Column</source>
+        <translation>Gesamtsumme Spalte</translation>
+    </message>
+    <message>
+        <source>Set as default PivotTable style for this document</source>
+        <translation>Als Standard-PivotTable-Format für dieses Dokument festlegen</translation>
+    </message>
+    <message>
+        <source>Set as default slicer style for this document</source>
+        <translation>Als Datenschnitt-Standardformat für dieses Dokument festlegen</translation>
+    </message>
+    <message>
+        <source>Unselected Item with Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <translation>Tabellenformat</translation>
+    </message>
+    <message>
+        <source>Whole Table</source>
+        <translation>Gesamte Tabelle</translation>
+    </message>
+    <message>
+        <source>Blank Row</source>
+        <translation>Leere Zeile</translation>
+    </message>
+    <message>
+        <source>Column Subheading 1</source>
+        <translation>Spaltenunterüberschrift 1</translation>
+    </message>
+    <message>
+        <source>Column Subheading 2</source>
+        <translation>Spaltenunterüberschrift 2</translation>
+    </message>
+    <message>
+        <source>Column Subheading 3</source>
+        <translation>Spaltenunterüberschrift 3</translation>
+    </message>
+    <message>
+        <source>Hovered Unselected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>InsideVertical</source>
+        <translation>Innere vertikale </translation>
+    </message>
+    <message>
+        <source>Modify Table Style</source>
+        <translation>Tabellenformat ändern</translation>
+    </message>
+    <message>
+        <source>Borders</source>
+        <translation>Rahmen</translation>
+    </message>
+    <message>
+        <source>No Borders</source>
+        <translation>Kein Rahmen</translation>
+    </message>
+    <message>
+        <source>No Shading</source>
+        <translation>Nicht schattiert</translation>
+    </message>
+    <message>
+        <source>Last Header Cell</source>
+        <translation>Letzte Überschriftenzelle</translation>
+    </message>
+    <message>
+        <source>First Header Cell</source>
+        <translation>Erste Überschriftenzelle</translation>
+    </message>
+    <message>
+        <source>Total Row</source>
+        <translation>Ergebniszeile</translation>
+    </message>
+    <message>
+        <source>Unselected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Selected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Header Row</source>
+        <translation>Überschriftenzeile</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>Unterstrichen</translation>
+    </message>
+    <message>
+        <source>Selected Item with Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Modify PivotTable Style</source>
+        <translation>PivotTable-Formatvorlage ändern</translation>
+    </message>
+    <message>
+        <source>Slicer Element:</source>
+        <translation>Datenschnittelement:</translation>
+    </message>
+    <message>
+        <source>New PivotTable Style</source>
+        <translation>Neue PivotTable-Formatvorlage</translation>
+    </message>
+    <message>
+        <source>Last Total Cell</source>
+        <translation>Letzte Ergebniszelle</translation>
+    </message>
+    <message>
+        <source>First Total Cell</source>
+        <translation>Erste Ergebniszelle</translation>
+    </message>
+    <message>
+        <source>New Table Style</source>
+        <translation>Neues Tabellenformat</translation>
+    </message>
+    <message>
+        <source>Hovered Selected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter a table style name.</source>
+        <translation>Geben Sie einen Namen für das Tabellenformat ein.</translation>
+    </message>
+    <message>
+        <source>First Row Stripe</source>
+        <translation>Stripeset der ersten Zeile</translation>
+    </message>
+    <message>
+        <source>Set as default table style for this document</source>
+        <translation>Als Standardtabellenformat für dieses Dokument festlegen</translation>
+    </message>
+    <message>
+        <source/>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6736,6 +6954,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
         <translation>ZW</translation>
     </message>
     <message>
+        <source>Pr</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Pv</source>
         <translation>BW</translation>
     </message>
@@ -6790,6 +7012,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>#N/A</source>
         <translation>#N/A</translation>
+    </message>
+    <message>
+        <source>Hide White Space</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Base</source>
@@ -6878,6 +7104,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>Year</source>
         <translation>Jahr</translation>
+    </message>
+    <message>
+        <source>Yld </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>text</source>
@@ -7008,6 +7238,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>Enter</source>
         <translation>Eingeben</translation>
+    </message>
+    <message>
+        <source>Group_separator</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Guess</source>
@@ -7213,6 +7447,10 @@ Buch</translation>
         <translation>Die Arbeitsmappe ist geschützt und kann nicht geändert werden.</translation>
     </message>
     <message>
+        <source>is the number or string specifying when weekends occur.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the second array of numbers to multiply and must have the same number of columns as Array1 has rows.</source>
         <translation>ist das zweite Array zu multiplizierender Zahlen und muss die gleiche Anzahl von Spalten aufweisen, wie Array1 Zeilen hat.</translation>
     </message>
@@ -7297,11 +7535,6 @@ Buch</translation>
     <message>
         <source>is the name of the image inserted.</source>
         <comment>TX_ParaDesc_594</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>is the name of the image inserted.</source>
-        <comment>TX_ParaDesc_569</comment>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7474,6 +7707,10 @@ Arbeitsmappe</translation>
         <translation>Wahrscheinlichkeitsdichtefunktion</translation>
     </message>
     <message>
+        <source>WPS Macro Editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The date you specified in End Date is invalid.</source>
         <translation>Das Datum sie angabend im Enddatum ist Ungültig.  </translation>
     </message>
@@ -7488,6 +7725,10 @@ Arbeitsmappe</translation>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
         <translation>Pauschalbetrag der die Anzahl der zukünftigen Zahlungen im heutigen Wert angibt.</translation>
+    </message>
+    <message>
+        <source>Ignore error values, nested SUBTOTAL and AGGREGATE functions</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Transaction Date</source>
@@ -7524,7 +7765,7 @@ Arbeitsmappe</translation>
     </message>
     <message>
         <source>This image format is not supported previewing.</source>
-        <translation type="unfinished"/>
+        <translation>Die Vorschau unterstützt dieses Bildformat nicht.</translation>
     </message>
     <message>
         <source>Y_resolution</source>
@@ -7667,7 +7908,7 @@ Arbeitsmappe</translation>
     </message>
     <message>
         <source>Multiple pictures cannot be inserted into the same cell.</source>
-        <translation type="unfinished"/>
+        <translation>Eine Zelle kann mit nur einem Bild eingefügt werden.</translation>
     </message>
     <message>
         <source>is the position (from the smallest) in the array or range of the value to return.</source>
@@ -7698,12 +7939,6 @@ Achten Sie bitte darauf, dass die ausgewählten Bereiche nebeneinander liegende 
     <message>
         <source>is the number 1 to 11 that specifies the summary function for the subtotal.</source>
         <translation>ist eine Zahl (1 bis 11), die festlegt, welche Funktion in der Berechnung des Teilergebnisses verwendet werden soll.</translation>
-    </message>
-    <message>
-        <source>0 indicates showing clipped image
-1 indicates showing full image.</source>
-        <comment>TX_ParaDesc_570</comment>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>0 indicates showing clipped image
@@ -7813,6 +8048,10 @@ Achten Sie bitte darauf, dass die ausgewählten Bereiche nebeneinander liegende 
         <translation>ist eine Matrix mit Zahlen oder ein Verweis auf eine Liste von Zahlen. Nichtnumerische Werte im Verweis werden ignoriert.</translation>
     </message>
     <message>
+        <source>Field_name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Old_text</source>
         <translation>Alter_Text</translation>
     </message>
@@ -7889,11 +8128,6 @@ Wenn Sie kein Formel beginnen,bitte Beginn der Eingabe.mit Gleichheitszeichen(=)
     </message>
     <message>
         <source>Display_type</source>
-        <comment>TX_ParaInfo_385</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Display_type</source>
         <comment>TX_ParaInfo_401</comment>
         <translation type="unfinished"/>
     </message>
@@ -7908,6 +8142,10 @@ Wenn Sie kein Formel beginnen,bitte Beginn der Eingabe.mit Gleichheitszeichen(=)
     <message>
         <source>is the value that is returned if Logical_test is FALSE. If omitted, FALSE is returned.</source>
         <translation>ist das Resultat der Funktion, wenn die Wahrheitsprüfung FALSCH ergibt.</translation>
+    </message>
+    <message>
+        <source>Settlement </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date of issue</source>
@@ -8211,6 +8449,10 @@ Data</source>
         <translation>ist die positive reelle Zahl, deren natürlichen Logarithmus Sie berechnen möchten.</translation>
     </message>
     <message>
+        <source>Top Margin:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Alpha</source>
         <comment>TX_ParaInfo_156</comment>
         <translation>Alpha</translation>
@@ -8266,6 +8508,10 @@ Data</source>
     <message>
         <source>Octal number</source>
         <translation>Oktale Zahl </translation>
+    </message>
+    <message>
+        <source>is the security&apos;s maturity date, expressed as a serial date number. </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is the interest rate you receive on the cash flows as you reinvest them.</source>
@@ -8455,6 +8701,10 @@ Data</source>
         <translation>Suchtext</translation>
     </message>
     <message>
+        <source>Please select a valid range</source>
+        <translation>Wählen Sie bitte einen gültigen Bereich aus.</translation>
+    </message>
+    <message>
         <source>is a number 1, 0, or -1 indicating which value to return.</source>
         <translation>ist die Zahl 1, 0 oder -1, die angibt, welcher Wert zurückgegeben werden soll. </translation>
     </message>
@@ -8619,17 +8869,16 @@ Data</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Image_name</source>
-        <comment>TX_ParaInfo_384</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>is the value representing the timing of payment: payment at the beginning of the period = 1; payment at the end of the period = 0 or omitted.</source>
         <translation>kann den Wert 1 annehmen und gibt an, wann Zahlungen fällig sind (Fälligkeit).</translation>
     </message>
     <message>
         <source>The End Time must be greater than or equal to the Start Time.</source>
         <translation>Das Enddatum muss größer als oder gleich dem Anfangszeit sein.</translation>
+    </message>
+    <message>
+        <source>Ignore hidden rows, error values, nested SUBTOTAL and AGGREGATE functions</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>switch to straight-line depreciation when depreciation is greater than the declining balance = FALSE or omitted; do not switch = TRUE.</source>
@@ -8648,12 +8897,28 @@ Data</source>
         <translation>Lambda</translation>
     </message>
     <message>
+        <source>Show card (Ctrl+Shift+F5)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The Minimum must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
         <translation>Das  Minimum muss ein Integer,numerischen Ausdruck.,oder  Verweis auf eine Zelle enhält numerische Werte. </translation>
     </message>
     <message>
+        <source>Bottom Margin:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the cell or a single range of cells for which you want the row number; if omitted, returns the cell containing the ROW function.</source>
         <translation>ist die Zelle oder der Zellbereich, deren bzw. dessen Zeilennummer Sie ermitteln möchten.</translation>
+    </message>
+    <message>
+        <source>JS Macros</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VB Macros</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ref</source>
@@ -8703,6 +8968,10 @@ Data</source>
         <translation>Keine_Schaltfläche</translation>
     </message>
     <message>
+        <source>Extract &lt;b&gt;%1&lt;/b&gt; to grid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Number</source>
         <translation>Zahl</translation>
     </message>
@@ -8733,6 +9002,10 @@ Data</source>
     <message>
         <source>Degrees of freedom</source>
         <translation>Toleranz</translation>
+    </message>
+    <message>
+        <source>ref1,ref2,... are 1 to 253 ranges or references for which you want the aggregate.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Points</source>
@@ -8855,6 +9128,10 @@ Data</source>
         <translation>Zahl2</translation>
     </message>
     <message>
+        <source>Decimal_separator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Update</source>
         <translation>Aktualisieren</translation>
     </message>
@@ -8941,7 +9218,7 @@ Data</source>
     </message>
     <message>
         <source>The original content in the cell will be overwritten by cell picture. Continue?</source>
-        <translation type="unfinished"/>
+        <translation>Bei der Umwandlung wird der Inhalt in der Zelle überschrieben. Möchten Sie wirklich fortfahren?</translation>
     </message>
     <message>
         <source>Chart Name:</source>
@@ -9036,6 +9313,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
         <translation>Zeitraum_Ende</translation>
     </message>
     <message>
+        <source>is the security&apos;s price per $100 face value.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Help_topic</source>
         <translation>Hilfethema</translation>
     </message>
@@ -9051,6 +9332,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the second data set.</source>
         <translation>ist die zweite Datengruppe.</translation>
+    </message>
+    <message>
+        <source>Package</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options</source>
@@ -9071,6 +9356,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the rate at which the balance declines. If Factor is omitted, it is assumed to be 2(the double-declining balance method).</source>
         <translation>ist die Rate, um die der Restbuchwert abnimmt ( Faktor steht für Faktor * 100 % / Nutzungsdauer).</translation>
+    </message>
+    <message>
+        <source>The selected area contains the pivot table, please select again</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is the security&apos;s issue date, expressed as a serial date number.</source>
@@ -9095,6 +9384,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the probability of success on each trial.</source>
         <translation>ist die Wahrscheinlichkeit für den günstigen Ausgang des Experiments.</translation>
+    </message>
+    <message>
+        <source>Left Margin:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a name that refers to a cell, formula, or value.</source>
@@ -9233,6 +9526,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
         <translation>Die freigegebene Arbeitsmappe wurde in einem Dateiformat gespeichert, das von der aktuellen ET-Version unterstützt wird. Um diese Arbeitsmappe mit Änderungen zu synchronisieren, die andere Benutzer freigegebener Arbeitsmappen unter Verwendung des neuen Dateiformats vornehmen, müssen Sie die Arbeitsmappe schließen und erneut öffnen.
 • Klicken Sie auf „OK“, um die Arbeitsmappe zu schließen und erneut zu öffnen.
 • Klicken Sie auf „Abbrechen“, um sie schreibgeschützt anzuzeigen.</translation>
+    </message>
+    <message>
+        <source>Ignore hidden rows, nested SUBTOTAL and AGGREGATE functions</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Known_x&apos;s</source>
@@ -9401,6 +9698,10 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the number for which you want the square root.</source>
         <translation>die Zahl, deren Quadratwurzel Sie berechnen möchten.</translation>
+    </message>
+    <message>
+        <source>The Modification of DDE or OLE has Failed.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The plural form of molecules or dividend</source>
@@ -9847,6 +10148,10 @@ Mehrere Ursachen sind möglich:
         <translation>Raster zeichnen</translation>
     </message>
     <message>
+        <source>number1, number2, ... are 1 to 255 numeric arguments corresponding to a population.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The upper limit of the integrated ERF</source>
         <translation>Die obere Grenze des integrierten GAUSSFEHLERS</translation>
     </message>
@@ -9953,6 +10258,10 @@ Mehrere Ursachen sind möglich:
         <translation>Wert1,Wert2,...sind 1 bis 30 Argumente, die unterschiedliche Datentypen beinhalten können oder sich auf solche beziehen können, wobei nur Zahlen in die Berechnung eingehen.</translation>
     </message>
     <message>
+        <source>Frequency </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Insert_logical</source>
         <translation>Eingabe</translation>
     </message>
@@ -9981,6 +10290,10 @@ Mehrere Ursachen sind möglich:
     <message>
         <source>Expression</source>
         <translation>Ausdruck</translation>
+    </message>
+    <message>
+        <source>is the string representing the number you want to convert.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Number From 1(Mon) To 7(Sun)</source>
@@ -10024,6 +10337,10 @@ Mehrere Ursachen sind möglich:
         <translation>Der Bereich befindet sich nicht in den aktiven Arbeitsblättern und Sie können den Befehl nicht ausführen.</translation>
     </message>
     <message>
+        <source>is the number 1 to 19 that specifies the summary funcion for the aggregate.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Criteria</source>
         <translation>Kriterien</translation>
     </message>
@@ -10057,9 +10374,17 @@ Mehrere Ursachen sind möglich:
         <translation>Zahl1%1Zahl2%1... sind 1 bis 30 Zahlen oder Namen, Arrays oder Bezüge, die Zahlen enthalten, deren Mittelwert Sie berechnen möchten.</translation>
     </message>
     <message>
+        <source>is a decimal number.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the security&apos;s annual coupon rate.</source>
         <comment>TX_ParaDesc_490</comment>
         <translation>ist der Fälligkeitstermin des Wertpapiers.</translation>
+    </message>
+    <message>
+        <source>is the security&apos;s settlement date, expressed as a serial date number.  </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is the text you want to search.</source>
@@ -10078,6 +10403,10 @@ Mehrere Ursachen sind möglich:
         <source>Array</source>
         <comment>TX_ParaInfo_007</comment>
         <translation>Array</translation>
+    </message>
+    <message>
+        <source>is the integer to use the denominator os the fraction.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is the actual cells to be used to find the average.</source>
@@ -10183,10 +10512,18 @@ Sheet</source>
         <translation>Schutz Blatt</translation>
     </message>
     <message>
+        <source>number1, number2, ... are 1 to 255 numeric arguments corresponding to a sample of a population.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Unprotect 
 Sheet</source>
         <translation>Schutz aufheben 
 Blatt</translation>
+    </message>
+    <message>
+        <source>Ignore hidden rows</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start_date</source>
@@ -10215,6 +10552,10 @@ Blatt</translation>
     <message>
         <source>Number of days</source>
         <translation>Anzahl an Tagen</translation>
+    </message>
+    <message>
+        <source>is the security&apos;s annual coupon rate. </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Probability_s</source>
@@ -10274,6 +10615,10 @@ Blatt</translation>
     <message>
         <source>specifies the character at which to start the search.</source>
         <translation>gibt an, bei welchem Zeichen die Suche begonnen werden soll.</translation>
+    </message>
+    <message>
+        <source>The names of the field or fields that you want to extract.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Function_help</source>
@@ -10404,6 +10749,10 @@ Weiter?</translation>
         <translation>ist eine Matrix oder ein Zellbereich von numerisch abhängigen Datenpunkten, Argumente können Zahlen, Namen, Arrays oder Bezüge sein.</translation>
     </message>
     <message>
+        <source>Coupon </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the set of probabilities associated with values in X_range, values between 0 and 1 and excluding 0.</source>
         <translation>sind die Wahrscheinlichkeiten zu den beobachteten Werten, eine Zahl gleich oder größer als 0 und kleiner als 1</translation>
     </message>
@@ -10434,6 +10783,10 @@ Weiter?</translation>
         <source>Text</source>
         <comment>TX_ParaInfo_076</comment>
         <translation>Text</translation>
+    </message>
+    <message>
+        <source>is the character used as the group separator in the string.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Holidays</source>
@@ -10497,7 +10850,7 @@ Weiter?</translation>
     </message>
     <message>
         <source>It is not allowed to insert cell picture, please unprotect book and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Bilder können nicht eingefügt werden. Bitte entfernen Sie den Schutz der Arbeitsmappe und probieren Sie es erneut aus.</translation>
     </message>
     <message>
         <source>is the multiple to which you want to round. Number and Significance must either both be positive or both be negative.</source>
@@ -10640,6 +10993,10 @@ Weiter?</translation>
         <translation>ist die zur Gamma-Verteilung gehörige Wahrscheinlichkeit.</translation>
     </message>
     <message>
+        <source>is the number 0 to 7 that specifies the value to ignore for the aggregate.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Bottom</source>
         <comment>TX_ParaInfo_009</comment>
         <translation>Unten</translation>
@@ -10665,6 +11022,10 @@ Weiter?</translation>
     <message>
         <source>Coefficients</source>
         <translation>Koeffizienten</translation>
+    </message>
+    <message>
+        <source>Ignore nothing</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is text that represents a date in a WPS Spreadsheets date format, between 1/1/1900 (Windows) or 1/1/1904 (Macintosh) and 12/31/9999.</source>
@@ -10695,12 +11056,20 @@ Weiter?</translation>
         <translation>ist das Resultat der Funktion, wenn die Wahrheitsprüfung WAHR ergibt.</translation>
     </message>
     <message>
+        <source>is the number of nonweekend and non-holiday days before or after start_date.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Value 1%1value 2%1… are 1 to 30 plural numbers, used to calculate the product.</source>
         <translation>Wert1%1Wert2%1...1zu 30 Plural,für berechnen den Produkt.</translation>
     </message>
     <message>
         <source>Value Date</source>
         <translation>Wertdatum</translation>
+    </message>
+    <message>
+        <source>Right Margin:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertDropDownList</source>
@@ -10804,6 +11173,10 @@ einfügen</translation>
         <translation>Bezug_Text</translation>
     </message>
     <message>
+        <source>Maturity </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a reference to a cell, formula, or value.</source>
         <translation>ist der Wert oder der Name, der darauf geprüft werden soll, ob es sich um eine leere Zelle, einen Fehlerwert,, eine Zahl oder einen Verweis handelt.</translation>
     </message>
@@ -10816,12 +11189,20 @@ einfügen</translation>
         <translation>ist das Mittel der Lognormalverteilung.</translation>
     </message>
     <message>
+        <source>is the security&apos;s annual yield. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Excel File</source>
         <translation>Excel-Datei</translation>
     </message>
     <message>
         <source>Connections</source>
         <translation>Verbindungen</translation>
+    </message>
+    <message>
+        <source>We need help with this text. Click the ? icon to resolve (Ctrl+Shift+F5)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selecting Range</source>
@@ -10908,6 +11289,14 @@ Hintergrund</translation>
         <translation>ist die Zahl der Bernoulliexperimente.</translation>
     </message>
     <message>
+        <source>A string to be URL encoded.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the character used as the decimal separator in the string.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is the row number in table_array from which the matching value should be returned. The first row of values in the table is row 1.</source>
         <translation>ist die Nummer der Zeile in der Mehrfachoperationsmatrix, aus der der übereinstimmende Wert geliefert werden soll.</translation>
     </message>
@@ -10962,6 +11351,10 @@ Hintergrund</translation>
     <message>
         <source>Redemption</source>
         <translation>Einlösung</translation>
+    </message>
+    <message>
+        <source>Please don&apos;t select entire row or entire column.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Column_num</source>
@@ -11028,8 +11421,12 @@ Andere Benutzer haben Einschränkungen für die Werte aktiviert, die hier eingeg
         <translation>Menüverweis</translation>
     </message>
     <message>
-        <source>Inserting cell picture will overwrite the original content in it. Continue?</source>
+        <source>is a number expressed as a fraction.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Inserting cell picture will overwrite the original content in it. Continue?</source>
+        <translation>Das eingefügte Bild wird den Inhalt in der Zelle ersetzen. Möchten Sie wirklich fortfahren?</translation>
     </message>
     <message>
         <source>is a serial date number that represents the start date.</source>
@@ -11078,6 +11475,10 @@ Andere Benutzer haben Einschränkungen für die Werte aktiviert, die hier eingeg
     <message>
         <source>Sheet_text</source>
         <translation>Blattname</translation>
+    </message>
+    <message>
+        <source>Ignore nested SUBTOTAL and AGGREGATE functions</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>selects a range in Reference from which to return a value. The first area selected or entered is area 1, the second area is area 2, and so on.</source>
@@ -11414,6 +11815,10 @@ Workbook</source>
         <translation>Berechnen den Plural auf ihrem Kosinus   </translation>
     </message>
     <message>
+        <source>Ignore hidden rows and error values</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The order of the function</source>
         <translation>Die Ordnung der Besselfunktion.</translation>
     </message>
@@ -11472,6 +11877,10 @@ Workbook</source>
         <translation>Die Quelle auflisten muss ein getrennten Daten Quelle,oder ein Verweis zu einzelne Zeile oder Spalte.       </translation>
     </message>
     <message>
+        <source>The record from which you want to extract the field.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>SharePoint List</source>
         <translation>SharePoint-Liste</translation>
     </message>
@@ -11495,6 +11904,10 @@ Verbindungen</translation>
     <message>
         <source>Result_vector</source>
         <translation>Ergebnisvektor</translation>
+    </message>
+    <message>
+        <source>Show White Space</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Center section </source>
@@ -11718,11 +12131,15 @@ Verbindungen</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
-        <translation>gibt an, ob eine genaue Übereinstimmung gefunden werden soll: WAHR = aus der aufsteigend sortierten Reihenfolge der Werte wird der Wert zurückgegeben, der am dichtesten am gesuchten Wert liegt; FALSCH = es wird eine genaue Übereinstimmung gesucht!</translation>
+        <translation>ist ein logischer Wert: Suche nach der nächsten Übereinstimmung in der ersten Spalte (aufsteigend sortiert) = WAHR oder weggelassen; Suche nach einer genauen Übereinstimmung = FALSCH.</translation>
     </message>
     <message>
         <source>Margins you set do not fit for the paper size you specified.</source>
         <translation>Abstände sie setzen  passt dem Papierformat nicht.   </translation>
+    </message>
+    <message>
+        <source>Ignore error values</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is the type of day count basis to use.</source>
@@ -11848,6 +12265,10 @@ Buch</translation>
     <message>
         <source>is a number that you guess is close to the result of IRR; 0.1(10 percent) if omitted.</source>
         <translation>ist eine Zahl, von der Sie annehmen, dass sie dem Ergebnis der Funktion nahe kommt.</translation>
+    </message>
+    <message>
+        <source>is a reference to the cell you want to test. Reference can be a cell reference, a formula, or a name that refers to a cell.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is the text in which you want to search for Find_text.</source>
@@ -11977,6 +12398,10 @@ Buch</translation>
         <translation>ist der Zellbereich, aus dem die Datenbank besteht.</translation>
     </message>
     <message>
+        <source>is the number of coupon payments per year. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>is probability associated with the F cumulative distribution, a number between 0 and 1 inclusive.</source>
         <translation>ist die zur F-Verteilung gehörige Wahrscheinlichkeit, eine Zahl von einschließlich 0 bis einschließlich.</translation>
     </message>
@@ -12035,6 +12460,18 @@ Buch</translation>
     <message>
         <source>is a logical value: for the cumulative distribution function, use TRUE; for the probability density function, use FALSE.</source>
         <translation>ist die Wahrscheinlichkeit für den günstigen Ausgang des Experiments!ist der Wahrheitswert, der den Typ der Funktion bestimmt!</translation>
+    </message>
+    <message>
+        <source>Switch to %s</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Switch to JS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Switch to VB</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right section </source>
@@ -13286,6 +13723,10 @@ the category you want, and then choose the other options.</source>
         <translation>Die Änderungen an der vorgegebenen Schrift und am vorgegebenen Schriftgrad werden erst gültig, wenn Sie eine neue Arbeitsmappe erstellen.</translation>
     </message>
     <message>
+        <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.etx;*.uos)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>You must enter a Start Time.</source>
         <translation>Sie müssen eine Startzeit angeben.</translation>
     </message>
@@ -13465,6 +13906,10 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
         <translation>Sie müssen ein Enddatum und ein Startdatum angeben.</translation>
+    </message>
+    <message>
+        <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.uos)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.etx)</source>
@@ -13670,6 +14115,10 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Custom Color</source>
         <translation>Benutzerdeifinierte Farbe</translation>
+    </message>
+    <message>
+        <source>Could not get data. Verify that the network link is normal or that the URL is correct</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotated up %d Degrees</source>
@@ -13880,6 +14329,10 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <translation>Sie dürfen den vorgegebenen Stil-Namen nicht hinzufügen.</translation>
     </message>
     <message>
+        <source>All Files(*.*)|*.*|All WPS Spreadsheets Files(*.et;*.ett;*.uos)|*.et;*.ett;*.uos|All Excel Files(*.xlsx;*.xlsm;*.xlsb;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc)|*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Value must be between %d and %d.</source>
         <translation>Wert muss zwischen %d und %d liegen.</translation>
     </message>
@@ -14007,6 +14460,17 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>Drop Column Fields Here</source>
         <translation>Spaltenfelder hierher ziehen</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleDlg</name>
+    <message>
+        <source>, </source>
+        <translation>, </translation>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14693,6 +15157,159 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
 </context>
 <context>
+    <name>KxAdvanceSplitDlg</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Split Rule</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Advance Split</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter the content of the split rules</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Split by Character type(space,number,symbol,letter,Chinese characters)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Part of an array cannot be changed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>The selected area belongs to a protected worksheet, please select again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The selected area contains the pivot table, please select again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please delete the content to 1000 characters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>do spliting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>characters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>*The data on the right may be replaced.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The target cell contains a pivot table, Text to Columns can&apos;t be continued</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxBatchCalculateDlg</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Please enter a valid number</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Part of an array cannot be changed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>The selected area contains the pivot table, please select again</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxCreateTableDirectoryDlg</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save to cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save to new worksheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Return button location</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Directory save to</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>*This operation does not support undo.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Return Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Don&apos;t need to return button</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>das Verzeichnis</translation>
+    </message>
+    <message>
+        <source>Create Table Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Already exceeded the scope, please select the cell of the original workbook</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please select a valid range.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please specify the cell.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Part of an array cannot be changed.</source>
+        <translation>Teile eines Array können nicht geändert werden.</translation>
+    </message>
+    <message>
+        <source>Choose a cell</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgAdcancedFilter</name>
     <message>
         <source>OK</source>
@@ -14737,33 +15354,6 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>C&amp;opy to another location</source>
         <translation>An eine andere Stelle k&amp;opieren</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgAfAnalysisChartEdit</name>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>(*Here the general selection of text fields, date fields as a classification;for example: department, sales date and so on)</source>
-        <translation>(*Hier die allgemeine Auswahl von Textfeldern, Datumsfeldern als Klassifizierung, z. B. Abteilung, Verkaufsdatum usw.)</translation>
-    </message>
-    <message>
-        <source>(*Here you can choose to sum the number of fields, the average, etc .; you can also choose to count the text field.)</source>
-        <translation>(*Hier können die Anzahl der Felder, den Durchschnitt usw. summieren. Sie können das Textfeld zählen.)</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Subtotal:</source>
-        <translation>Teilergebnis:</translation>
-    </message>
-    <message>
-        <source>Category:</source>
-        <translation>Kategorie:</translation>
     </message>
 </context>
 <context>
@@ -15259,6 +15849,96 @@ Datei vertrauen, klicken Sie auf „OK“.</translation>
     </message>
 </context>
 <context>
+    <name>KxFillBlankCellsDlg</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>The non-null value on the right of the blank cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Set the fill content:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill Blank Cells</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The non-null value below the blank cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>The non-null value above the blank cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The selected area contains the pivot table, please select again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please delete the content to 1000 characters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The non-null value on the left of the blank cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter a string to insert</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxInsertDiagonalHeaderDlg</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Part of an array cannot be changed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Double data header</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The selected area contains the pivot table, please select again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>column title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please delete the content to 1000 characters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>row title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Diagonal Header</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxNewFormattingRule</name>
     <message>
         <source>OK</source>
@@ -15303,6 +15983,21 @@ Datei vertrauen, klicken Sie auf „OK“.</translation>
     <message>
         <source>Format only unique or duplicate value</source>
         <translation>Nur eindeutige oder doppelte Werte formatieren</translation>
+    </message>
+</context>
+<context>
+    <name>KxRoundDlg</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Round</source>
+        <translation>Rund</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -15357,6 +16052,10 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Please login</source>
+        <translation>Bitte melden Sie sich an.</translation>
+    </message>
+    <message>
+        <source>Not allowed to refer a readonly RMS document</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -15365,7 +16064,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Currently there is a data source being updated, is it interrupted and closed?</source>
-        <translation type="unfinished"/>
+        <translation>Eine Datenquelle wird gerade aktualisiert. Möchten Sie den Vorgang wirklich unterbrechen und beenden?</translation>
     </message>
     <message>
         <source>Not applicable</source>
@@ -15373,7 +16072,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>The cache has been cleared. Need to get cloud document data</source>
-        <translation type="unfinished"/>
+        <translation>Der Zwischenspeicher wurde geleert. Bitte rufen Sie die Daten des Cloud-Dokuments ab.</translation>
     </message>
     <message>
         <source>Warning: Open source to update values</source>
@@ -15393,7 +16092,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Cloud document data updated</source>
-        <translation type="unfinished"/>
+        <translation>Die Cloud-Dokumentdaten wurden aktualisiert.</translation>
     </message>
     <message>
         <source>Error: Worksheet not found</source>
@@ -15401,7 +16100,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>(document was moved)</source>
-        <translation type="unfinished"/>
+        <translation>(Dokument wurde verschoben)</translation>
     </message>
     <message>
         <source>Worksheet</source>
@@ -15409,15 +16108,15 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Error: File download failed, please check if the disk is writable or has free space</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Das Zwischenspeichern der Datei ist fehlgeschlagen. Bitte prüfen Sie, ob der Datenträger beschreibbar ist oder genügend Speicherplatz hat.</translation>
     </message>
     <message>
         <source>(document is renamed)</source>
-        <translation type="unfinished"/>
+        <translation>(Dokument wurde umbenannt)</translation>
     </message>
     <message>
         <source>Getting cloud document data:</source>
-        <translation type="unfinished"/>
+        <translation>Cloud-Dokumentdaten werden aktualisiert:</translation>
     </message>
     <message>
         <source>&amp;Update Values</source>
@@ -15429,11 +16128,11 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Error: No access. Please check the account or apply for permission from the document owner</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Keine Zugriffsberechtigung. Bitte prüfen Sie das Konto oder beantragen Sie die Erlaubnis beim Dokumenteneigentümer.</translation>
     </message>
     <message>
         <source>Updating...</source>
-        <translation type="unfinished"/>
+        <translation>Wird aktualisiert...</translation>
     </message>
     <message>
         <source>Error: Source not found</source>
@@ -15441,7 +16140,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Failed to refer a security document</source>
-        <translation type="unfinished"/>
+        <translation>Sicherheitsdokumente können nicht referenziert werden.</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -15449,7 +16148,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Error: Network access timed out, please check network settings</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Der Netzwerkzugriff wurde unterbrochen. Bitte überprüfen Sie die Netzwerkeinstellungen.</translation>
     </message>
 </context>
 <context>
@@ -15707,6 +16406,14 @@ You may still need to manually update any references to this name used in VBA co
         <translation>Kleiner oder gleich wie „%1“</translation>
     </message>
     <message>
+        <source>Bottom %1%</source>
+        <translation>Untere %1%</translation>
+    </message>
+    <message>
+        <source>Top %1%</source>
+        <translation>Top %1%</translation>
+    </message>
+    <message>
         <source>Is after &quot;%1&quot;</source>
         <translation>Ist nach „%1“</translation>
     </message>
@@ -15862,10 +16569,6 @@ You may still need to manually update any references to this name used in VBA co
         <translation>Sie können den nächsten Vorgang aus einem der folgenden Gründe nicht durchführen: Sie haben keine gültige Datenquelle ausgewählt. Die Verbindungszeichenfolge ist leer. Die eingegebene Zeichenfolge ist nicht korrekt. Die generierte Verbindung ist fehlgeschlagen.</translation>
     </message>
     <message>
-        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
-        <translation>Alle Dateien (*.*)|*.*|Alle Datenquellen (*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access-Datenbanken (*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro-Datenbank (*.dbc)|*.dbc|DBase-Dateien (*.dbf)|*.dbf|Excel-Dateien (*.xls,*.xlsx, *.xlsb, *.xlsm)|*.xls;*.xlsx;*.xlsb,*.xlsm|WPS Spreadsheets-Dateien (*.et)|*.et|CSV-Textdateien (*.csv)|*.csv|PRN-Textdateien (*.prn)|*.prn|Textdateien (*.txt)|*.txt|Office-Datenbankverbindungen (*.odc)|*.odc|Microsoft-Datenverknüpfungen (*.udl)|*.udl|ODBC-Datei-DSNs (*.dsn)|*.dsn|Abfragedatei (*.dqy)|*.dqy||</translation>
-    </message>
-    <message>
         <source> +-/*[]~!@#$%^&amp;*(),./;'\[]&lt;&gt;?:|{}&quot;	
 </source>
         <translation> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
@@ -15991,6 +16694,20 @@ importieren</translation>
         <translation>Link fehlerhaft!</translation>
     </message>
     <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fail to open file.There may be one of the following problems:
+ 
+1.The file format or database you selected is unsupported. 
+ 
+2.Current file has been opened. 
+
+3.The required database engine has not been installed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Descending</source>
         <translation>Absteigend</translation>
     </message>
@@ -16005,6 +16722,10 @@ importieren</translation>
     <message>
         <source>Sort by</source>
         <translation>Sortieren nach</translation>
+    </message>
+    <message>
+        <source>All Files(*)|*|All Data Sources(*.csv,*.prn,*.txt)|*.csv;*.prn;*.txt|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>greater than</source>
@@ -16133,6 +16854,10 @@ importieren</translation>
     <message>
         <source>Connect string:</source>
         <translation>Zeichenfolge verbinden</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <translation>Alle Dateien (*.*)|*.*|Alle Datenquellen (*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access-Datenbanken (*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro-Datenbank (*.dbc)|*.dbc|DBase-Dateien (*.dbf)|*.dbf|Excel-Dateien (*.xls,*.xlsx, *.xlsb, *.xlsm)|*.xls;*.xlsx;*.xlsb,*.xlsm|WPS Spreadsheets-Dateien (*.et)|*.et|CSV-Textdateien (*.csv)|*.csv|PRN-Textdateien (*.prn)|*.prn|Textdateien (*.txt)|*.txt|Office-Datenbankverbindungen (*.odc)|*.odc|Microsoft-Datenverknüpfungen (*.udl)|*.udl|ODBC-Datei-DSNs (*.dsn)|*.dsn|Abfragedatei (*.dqy)|*.dqy||</translation>
     </message>
 </context>
 <context>
@@ -16300,6 +17025,10 @@ importieren</translation>
     <message>
         <source>Unfold/Fold</source>
         <translation>Entfalten/Falten</translation>
+    </message>
+    <message>
+        <source>TextDirection</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Copied Cells</source>
@@ -16847,6 +17576,10 @@ Nach Inhalt</translation>
         <translation>Zellen</translation>
     </message>
     <message>
+        <source>LineFeed</source>
+        <translation>Zeilenumbruch</translation>
+    </message>
+    <message>
         <source>Clear</source>
         <translation>Löschen</translation>
     </message>
@@ -16859,8 +17592,16 @@ Nach Inhalt</translation>
         <translation>Einfügen</translation>
     </message>
     <message>
+        <source>Other</source>
+        <translation>Andere</translation>
+    </message>
+    <message>
         <source>Right</source>
         <translation>Rechts</translation>
+    </message>
+    <message>
+        <source>Space</source>
+        <translation>Leertaste</translation>
     </message>
     <message>
         <source>Erase Border</source>
@@ -16883,8 +17624,16 @@ Nach Inhalt</translation>
         <translation>Zellen einfügen Dialogfeld</translation>
     </message>
     <message>
+        <source>Advanced Filter Effect</source>
+        <translation>Filter aktivieren – Erweiterter Modus.</translation>
+    </message>
+    <message>
         <source>Duplicate Value</source>
         <translation>Doppelte Werte</translation>
+    </message>
+    <message>
+        <source>Duplicate Sheet</source>
+        <translation>Blatt duplizieren</translation>
     </message>
     <message>
         <source>Rows and 
@@ -16989,8 +17738,16 @@ schützen</translation>
         <translation>Formatierung</translation>
     </message>
     <message>
+        <source>SpecialWords</source>
+        <translation>Spezielle Symbole</translation>
+    </message>
+    <message>
         <source>AutoFilter</source>
         <translation>AotoFilter</translation>
+    </message>
+    <message>
+        <source>Complete symbol</source>
+        <translation>Symbole</translation>
     </message>
     <message>
         <source>Delete Cells</source>
@@ -16998,7 +17755,7 @@ schützen</translation>
     </message>
     <message>
         <source>Double underline</source>
-        <translation type="unfinished"/>
+        <translation>Doppelt unterstrichen</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -17037,6 +17794,14 @@ schützen</translation>
         <translation>Kein Rahmen</translation>
     </message>
     <message>
+        <source>Double accounting</source>
+        <translation>Doppelte Buchhaltung</translation>
+    </message>
+    <message>
+        <source>Thai Helper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Format</source>
         <translation>Formatieren</translation>
     </message>
@@ -17071,6 +17836,10 @@ schützen</translation>
     <message>
         <source>Font Size</source>
         <translation>Schriftgröße</translation>
+    </message>
+    <message>
+        <source>I don&apos;t like the Thai Helper, because...</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rename</source>
@@ -17134,12 +17903,20 @@ Nach Blatt</translation>
         <translation>Arbeitsblatt zusammenfügen</translation>
     </message>
     <message>
+        <source>Table Cells</source>
+        <translation>Tabellen Spalten</translation>
+    </message>
+    <message>
         <source>All Using Source Theme</source>
         <translation>Reserviertes Quellformat</translation>
     </message>
     <message>
         <source>Line Color</source>
         <translation>Linienfarbe</translation>
+    </message>
+    <message>
+        <source>Move Sheet</source>
+        <translation>Blatt verschieben</translation>
     </message>
     <message>
         <source>More Rules</source>
@@ -17152,6 +17929,10 @@ Nach Blatt</translation>
     <message>
         <source>Line Style</source>
         <translation>Linienart</translation>
+    </message>
+    <message>
+        <source>InvisibleWords</source>
+        <translation>Unsichtbare Zeichen</translation>
     </message>
     <message>
         <source>Rotate Text Down</source>
@@ -17172,10 +17953,6 @@ Nach Blatt</translation>
     <message>
         <source>Transpose</source>
         <translation>Transponieren</translation>
-    </message>
-    <message>
-        <source>Move or Copy Sheet</source>
-        <translation>Arbeitsblatt verschieben/kopieren</translation>
     </message>
     <message>
         <source>AutoFit Column Width</source>
@@ -17329,6 +18106,10 @@ with same name in workbooks</source>
         <translation>Obere 10%</translation>
     </message>
     <message>
+        <source>Toolbox</source>
+        <translation>Toolbox</translation>
+    </message>
+    <message>
         <source>Recombine Same Name</source>
         <translation>Gleichen Namen neu kombinieren</translation>
     </message>
@@ -17461,6 +18242,10 @@ Ersetzen</translation>
         <translation>Werte in sichtbare Zellen einfügen</translation>
     </message>
     <message>
+        <source>SingleQuotes</source>
+        <translation>Einfaches Anführungszeichen</translation>
+    </message>
+    <message>
         <source>Above Average</source>
         <translation>Über dem Durchschnitt</translation>
     </message>
@@ -17472,6 +18257,10 @@ Formatierung</translation>
     <message>
         <source>Show All</source>
         <translation>Alle anzeigen</translation>
+    </message>
+    <message>
+        <source>I like the Thai Helper, because...</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Series</source>
@@ -17493,6 +18282,10 @@ Formatierung</translation>
     <message>
         <source>Merge worksheets</source>
         <translation>Mehrere Arbeitsblätter zu einem Arbeitsblatt zusammenführen</translation>
+    </message>
+    <message>
+        <source>Move or Copy Sheet</source>
+        <translation>Arbeitsblatt verschieben/kopieren</translation>
     </message>
 </context>
 <context>
@@ -17674,6 +18467,10 @@ Formatierung</translation>
         <translation>Zellen</translation>
     </message>
     <message>
+        <source>LineFeed</source>
+        <translation>Zeilenumbruch</translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>Diagramm</translation>
     </message>
@@ -17754,6 +18551,10 @@ Formatierung</translation>
         <translation>Durchgezogen</translation>
     </message>
     <message>
+        <source>Space</source>
+        <translation>Leertaste</translation>
+    </message>
+    <message>
         <source>Sound</source>
         <translation>Sound</translation>
     </message>
@@ -17800,6 +18601,10 @@ Formatierung</translation>
     <message>
         <source>Move to Report Filter</source>
         <translation>In Berichtsfilter verschieben</translation>
+    </message>
+    <message>
+        <source>Duplicate Sheet</source>
+        <translation>Blatt duplizieren</translation>
     </message>
     <message>
         <source>table</source>
@@ -17856,6 +18661,10 @@ zusammengeführt in einer Arbeitsmappe</translation>
         <translation>Formel auswerten</translation>
     </message>
     <message>
+        <source>Convert To Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Unrestricted Access</source>
         <translation>Unbeschränkter Zugriff</translation>
     </message>
@@ -17904,6 +18713,10 @@ zusammengeführt in einer Arbeitsmappe</translation>
         <translation>Diagrammformatvorlagen</translation>
     </message>
     <message>
+        <source>Insert Equation After</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Check for Updates</source>
         <translation>Auf Updates überprüfen</translation>
     </message>
@@ -17922,6 +18735,10 @@ zusammengeführt in einer Arbeitsmappe</translation>
     <message>
         <source>Create Cloud Link</source>
         <translation>Cloud-Verknüpfung erstellen</translation>
+    </message>
+    <message>
+        <source>Change Limit Locations</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Linear Trend</source>
@@ -17953,7 +18770,7 @@ zusammengeführt in einer Arbeitsmappe</translation>
     </message>
     <message>
         <source>Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Bildrahmen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -18003,7 +18820,7 @@ schützen</translation>
     </message>
     <message>
         <source>Change to Stack Fraction</source>
-        <translation type="unfinished"/>
+        <translation>Wechsel zu gestapeltem Bruch</translation>
     </message>
     <message>
         <source>Background</source>
@@ -18070,10 +18887,6 @@ schützen</translation>
         <translation>Pfeilarten 9</translation>
     </message>
     <message>
-        <source>Online Fonts</source>
-        <translation>Online-Schriftarten</translation>
-    </message>
-    <message>
         <source>More Functions</source>
         <translation>Weitere Funktionen</translation>
     </message>
@@ -18135,6 +18948,14 @@ verfolgen</translation>
         <translation>Kopierte Zellen einfügen</translation>
     </message>
     <message>
+        <source>Change to Linear Fraction</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unhide Sheet</source>
+        <translation>Arbeitsblatt einblenden</translation>
+    </message>
+    <message>
         <source>Format Cells</source>
         <translation>Zellen formatieren</translation>
     </message>
@@ -18153,6 +18974,10 @@ verfolgen</translation>
     <message>
         <source>Edit Text Import</source>
         <translation>Textimport bearbeiten</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Field</source>
@@ -18183,6 +19008,10 @@ verfolgen</translation>
         <translation>ClipArt</translation>
     </message>
     <message>
+        <source>Extract all pictures in the document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Reset All Page Breaks</source>
         <translation>Alle Seitenumbrüche aufheben</translation>
     </message>
@@ -18207,6 +19036,10 @@ verfolgen</translation>
         <translation>Zellen rechts</translation>
     </message>
     <message>
+        <source>Hide Lower Limit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>COM 
 Add-Ins</source>
         <translation>COM Add-Ins</translation>
@@ -18214,6 +19047,10 @@ Add-Ins</source>
     <message>
         <source>Secondary Horizontal</source>
         <translation>Sekundär horizontal</translation>
+    </message>
+    <message>
+        <source>Hide Upper Limit</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exit Edit Points</source>
@@ -18268,6 +19105,10 @@ Add-Ins</source>
         <translation>Formatierung</translation>
     </message>
     <message>
+        <source>Insert Equation Before</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>FilterColumnByFirstRow</source>
         <translation>Spalte nach erster Zeile filtern</translation>
     </message>
@@ -18282,6 +19123,10 @@ Add-Ins</source>
     <message>
         <source>Line Pattern</source>
         <translation>Gemusterte Linien</translation>
+    </message>
+    <message>
+        <source>SpecialWords</source>
+        <translation>Spezielle Symbole</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -18386,8 +19231,16 @@ Nach Inhalt</translation>
         <translation>% des Spaltenergebnisses</translation>
     </message>
     <message>
+        <source>Insert Column After</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Center</source>
         <translation>Zentrieren</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation>Ändern</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -18473,6 +19326,10 @@ Nach Inhalt</translation>
     <message>
         <source>Left Border</source>
         <translation>Rahmenlinie links</translation>
+    </message>
+    <message>
+        <source>Hide Degree</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Match Destination Formatting</source>
@@ -18571,6 +19428,18 @@ Nach Inhalt</translation>
         <translation>Rechtsdrehung 90 Grad</translation>
     </message>
     <message>
+        <source>JS Macro</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Object</source>
         <translation>Objekt</translation>
     </message>
@@ -18611,12 +19480,20 @@ Nach Inhalt</translation>
         <translation>Schriftgröße</translation>
     </message>
     <message>
+        <source>User Manual</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Data Labels</source>
         <translation>Datenbeschriftungs</translation>
     </message>
     <message>
         <source>Hide All Field Buttons on Chart</source>
         <translation>ALLE Feldschaltflächen im Diagramm ausblenden</translation>
+    </message>
+    <message>
+        <source>SmartChart Webshape Add</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top and Thick Bottom Border</source>
@@ -18717,6 +19594,10 @@ Nach Inhalt</translation>
     <message>
         <source>Fill Series</source>
         <translation>Reihe ausfüllen</translation>
+    </message>
+    <message>
+        <source>Insert Row After</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move Slicer</source>
@@ -18878,10 +19759,6 @@ löschen</translation>
         <translation>Alle schließen</translation>
     </message>
     <message>
-        <source>PivotTable</source>
-        <translation>PivotTable</translation>
-    </message>
-    <message>
         <source>Left</source>
         <comment>ChartLegend</comment>
         <translation>Links</translation>
@@ -18973,6 +19850,10 @@ zusammengeführt in einem Arbeitsblatt</translation>
         <translation>Zellen verbinden</translation>
     </message>
     <message>
+        <source>Show Data Type Card</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Error Checking</source>
         <translation>Fehlerüberprüfung</translation>
     </message>
@@ -19019,12 +19900,24 @@ Spalten</translation>
         <translation>Weitere Linien</translation>
     </message>
     <message>
+        <source>Move Sheet</source>
+        <translation>Blatt verschieben</translation>
+    </message>
+    <message>
+        <source>Hide Sheet</source>
+        <translation>Arbeitsblatt ausblenden</translation>
+    </message>
+    <message>
         <source>File Share</source>
         <translation>Dateifreigabe</translation>
     </message>
     <message>
         <source>Insert Argument After</source>
         <translation>Argument dahinter einfügen</translation>
+    </message>
+    <message>
+        <source>InvisibleWords</source>
+        <translation>Unsichtbare Zeichen</translation>
     </message>
     <message>
         <source>Product</source>
@@ -19101,8 +19994,8 @@ freigeben</translation>
         <translation>Transponieren</translation>
     </message>
     <message>
-        <source>Move or Copy Sheet</source>
-        <translation>Blatt verschieben/kopieren</translation>
+        <source>SmartChart Webshape Color</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoFit Column Width</source>
@@ -19111,6 +20004,10 @@ freigeben</translation>
     <message>
         <source>Date Filters</source>
         <translation>Datumsfilter</translation>
+    </message>
+    <message>
+        <source>SmartChart Webshape Style</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Picture</source>
@@ -19226,9 +20123,17 @@ freigeben</translation>
         <translation>Tabellenzeile</translation>
     </message>
     <message>
+        <source>Sparklines</source>
+        <translation>Sparklines</translation>
+    </message>
+    <message>
         <source>Import Data</source>
         <translation>Daten 
 importieren</translation>
+    </message>
+    <message>
+        <source>Insert Column Before</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Office New Features</source>
@@ -19249,10 +20154,6 @@ importieren</translation>
     <message>
         <source>Borders</source>
         <translation>Rahmen</translation>
-    </message>
-    <message>
-        <source>Grouping</source>
-        <translation>Gruppieren</translation>
     </message>
     <message>
         <source>Close Path</source>
@@ -19303,6 +20204,10 @@ importieren</translation>
         <translation>Verbinden und zentrieren</translation>
     </message>
     <message>
+        <source>Offline Secret Key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Curved Connector</source>
         <translation>Gekrümmter Konnektor</translation>
     </message>
@@ -19329,6 +20234,10 @@ importieren</translation>
     <message>
         <source>Unprotect Workbook</source>
         <translation>Schutz aufheben Arbeitsmappe</translation>
+    </message>
+    <message>
+        <source>Delete Argument</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Inside Base</source>
@@ -19359,6 +20268,10 @@ importieren</translation>
         <translation>Vertikal verteilen</translation>
     </message>
     <message>
+        <source>Data Type</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select Data</source>
         <translation>Daten auswählen</translation>
     </message>
@@ -19373,10 +20286,6 @@ importieren</translation>
     <message>
         <source>Format Legend</source>
         <translation>Legende formatieren</translation>
-    </message>
-    <message>
-        <source>Smart Split Columns</source>
-        <translation>Intelligente Spaltenaufteilung</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -19401,6 +20310,10 @@ importieren</translation>
     <message>
         <source>Add Text</source>
         <translation>Text hinzufügen</translation>
+    </message>
+    <message>
+        <source>Delete Equation</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format Drop Lines</source>
@@ -19452,6 +20365,10 @@ with same name in workbooks</source>
         <translation>Ausgeschnittene Zellen einfügen</translation>
     </message>
     <message>
+        <source>Stretch N-ary character</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PivotChart Options</source>
         <translation>PivotChart-Optionen</translation>
     </message>
@@ -19462,6 +20379,10 @@ with same name in workbooks</source>
     <message>
         <source>Keep Source Column Widths</source>
         <translation>Breite der Ursprungsspalte beibehalten</translation>
+    </message>
+    <message>
+        <source>Change to Skewed Fraction</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -19481,6 +20402,10 @@ with same name in workbooks</source>
         <translation>Hilfsgitternetz hinzufügen</translation>
     </message>
     <message>
+        <source>Right Format Painter Popup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>View Historical Backup</source>
         <translation>Historische Sicherungskopie anzeigen</translation>
     </message>
@@ -19491,6 +20416,10 @@ with same name in workbooks</source>
     <message>
         <source>AutoPoint</source>
         <translation>Auto Punkt</translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy Cells</source>
@@ -19554,6 +20483,10 @@ Nach Blatt</translation>
     <message>
         <source>Recombine Same Name</source>
         <translation>Gleichen Namen neu kombinieren</translation>
+    </message>
+    <message>
+        <source>Break into Seperate Equations</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subtotal</source>
@@ -19667,6 +20600,10 @@ OLE DB Query</source>
         <translation>Diagrammelemente</translation>
     </message>
     <message>
+        <source>SmartChart Webshape Recommended</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation>Gruppierung aufheben</translation>
     </message>
@@ -19724,6 +20661,10 @@ schützen</translation>
         <translation>Code anzeigen</translation>
     </message>
     <message>
+        <source>Save selected picture as</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Currency</source>
         <translation>Währung</translation>
     </message>
@@ -19756,6 +20697,10 @@ schützen</translation>
         <translation>Werte anzeigen als</translation>
     </message>
     <message>
+        <source>Webshape Flush</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Standard Width</source>
         <translation>Standartbreite</translation>
     </message>
@@ -19766,6 +20711,10 @@ schützen</translation>
     <message>
         <source>Paste Special</source>
         <translation>Inhalte einfügen</translation>
+    </message>
+    <message>
+        <source>Insert Fraction Bar</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Backup Center</source>
@@ -19869,8 +20818,16 @@ schützen</translation>
         <translation>Aus der Dropdownliste auswählen</translation>
     </message>
     <message>
+        <source>Webshape Del</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>View File Safe</source>
         <translation>Datei Sicherung anzeigen</translation>
+    </message>
+    <message>
+        <source>Insert Row Before</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Center Across</source>
@@ -19982,7 +20939,7 @@ schützen</translation>
     </message>
     <message>
         <source>Extract Text in Picture</source>
-        <translation type="unfinished"/>
+        <translation>Text aus Bild extrahieren</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
@@ -20034,11 +20991,6 @@ schützen</translation>
         <translation>Objektmenüliste</translation>
     </message>
     <message>
-        <source>Edit Comment</source>
-        <translation>Kommentar 
-bearbeiten</translation>
-    </message>
-    <message>
         <source>Primary Minor Vertial</source>
         <translation>Primäres Hilfsgitter vertikal</translation>
     </message>
@@ -20059,6 +21011,10 @@ bearbeiten</translation>
         <translation>Formkontur</translation>
     </message>
     <message>
+        <source>SingleQuotes</source>
+        <translation>Einfaches Anführungszeichen</translation>
+    </message>
+    <message>
         <source>Table Columns to the Left</source>
         <translation>Tabellenspalten nach links</translation>
     </message>
@@ -20069,6 +21025,10 @@ bearbeiten</translation>
     <message>
         <source>Show Details</source>
         <translation>Details anzeigen</translation>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Series</source>
@@ -20190,12 +21150,33 @@ Formatierung</translation>
         <translation>Übergangspunkt</translation>
     </message>
     <message>
-        <source>Macro</source>
-        <translation type="unfinished"/>
+        <source>Online Fonts</source>
+        <translation>Online-Schriftarten</translation>
     </message>
     <message>
-        <source>Identify Text in Picture</source>
-        <translation type="unfinished"/>
+        <source>Move or Copy Sheet</source>
+        <translation>Blatt verschieben/kopieren</translation>
+    </message>
+    <message>
+        <source>Grouping</source>
+        <translation>Gruppieren</translation>
+    </message>
+    <message>
+        <source>Edit Comment</source>
+        <translation>Kommentar 
+bearbeiten</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <translation>PivotTable</translation>
+    </message>
+    <message>
+        <source>Smart Split Columns</source>
+        <translation>Intelligente Spaltenaufteilung</translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Grab Screen</source>
@@ -20205,719 +21186,9 @@ Formatierung</translation>
         <source>Offline Management</source>
         <translation>Offline-Management</translation>
     </message>
-	<message>
+    <message>
         <source>AutoFilterList</source>
         <translation type="unfinished"/>
-    </message>	
-</context>
-<context>
-    <name>rainbow.ct_home</name>
-    <message>
-        <source>Up</source>
-        <translation>Nach oben</translation>
-    </message>
-    <message>
-        <source>All</source>
-        <translation>Alle</translation>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation>Ausschneiden</translation>
-    </message>
-    <message>
-        <source>Max</source>
-        <translation>Maximum</translation>
-    </message>
-    <message>
-        <source>Min</source>
-        <translation>Minimum</translation>
-    </message>
-    <message>
-        <source>Sum</source>
-        <translation>Summe</translation>
-    </message>
-    <message>
-        <source>AutoFit Row Height</source>
-        <translation>Zeilenhöhe automatisch anpassen</translation>
-    </message>
-    <message>
-        <source>Begin with</source>
-        <translation>Beginnen mit</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Fett</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation>Kopieren</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation>Datum</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation>Abwärts</translation>
-    </message>
-    <message>
-        <source>Fill</source>
-        <translation>Füllen</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation>Suchen</translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation>Schriftart</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Links</translation>
-    </message>
-    <message>
-        <source>Sort</source>
-        <translation>Sortieren</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Text</translation>
-    </message>
-    <message>
-        <source>Below Average</source>
-        <translation>Unter dem Durchschnitt</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Cells</source>
-        <translation>Zellen</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation>Löschen</translation>
-    </message>
-    <message>
-        <source>Count</source>
-        <translation>Zählen</translation>
-    </message>
-    <message>
-        <source>Go to</source>
-        <translation>Wechseln zu</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Einfügen</translation>
-    </message>
-    <message>
-        <source>This week</source>
-        <translation>Diese Woche</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Rechts</translation>
-    </message>
-    <message>
-        <source>Today</source>
-        <translation>Heute</translation>
-    </message>
-    <message>
-        <source>Value</source>
-        <translation>Wert</translation>
-    </message>
-    <message>
-        <source>Erase Border</source>
-        <translation>Rahmen entfernen</translation>
-    </message>
-    <message>
-        <source>Clipboard</source>
-        <translation>Zwischenablage</translation>
-    </message>
-    <message>
-        <source>Percent Style</source>
-        <translation>Prozentformat</translation>
-    </message>
-    <message>
-        <source>Format Painter</source>
-        <translation>Format
-übertragen</translation>
-    </message>
-    <message>
-        <source>Error Value </source>
-        <translation>Fehlerwert </translation>
-    </message>
-    <message>
-        <source>Right Border</source>
-        <translation>Rechte Rahmenlinie</translation>
-    </message>
-    <message>
-        <source>Merge Across</source>
-        <translation>Zusammenführen über</translation>
-    </message>
-    <message>
-        <source>Unprotect Sheet</source>
-        <translation>Schutz aufheben 
-Blatt</translation>
-    </message>
-    <message>
-        <source>Protect Sheet</source>
-        <translation>Arbeitsblatt 
-schützen</translation>
-    </message>
-    <message>
-        <source>In the last 7 days</source>
-        <translation>In den letzten 7 Tagen</translation>
-    </message>
-    <message>
-        <source>Increase Decimal</source>
-        <translation>Mehr Dezimalstellen</translation>
-    </message>
-    <message>
-        <source>Decrease Decimal</source>
-        <translation>Dezimalstelle löschen</translation>
-    </message>
-    <message>
-        <source>More Functions</source>
-        <translation>Weitere Funktionen</translation>
-    </message>
-    <message>
-        <source>Across Sheets</source>
-        <translation>Über mehrere Seiten</translation>
-    </message>
-    <message>
-        <source>Angle Counterclockwise</source>
-        <translation>Im Uhrzeigersinn drehen</translation>
-    </message>
-    <message>
-        <source>Insert Copied Cells</source>
-        <translation>Kopierte Zellen einfügen</translation>
-    </message>
-    <message>
-        <source>Unhide Sheet</source>
-        <translation>Arbeitsblatt einblenden</translation>
-    </message>
-    <message>
-        <source>Vertical Text </source>
-        <translation>Vertikaler Text</translation>
-    </message>
-    <message>
-        <source>Paste as Unformatted Text</source>
-        <translation>Als unformatierter Text Einfügen</translation>
-    </message>
-    <message>
-        <source>Comma Style</source>
-        <translation>Kommastil</translation>
-    </message>
-    <message>
-        <source>Insert Cells</source>
-        <translation>Zellen einfügen</translation>
-    </message>
-    <message>
-        <source>Insert Sheet</source>
-        <translation>Arbeitsblatt einfügen</translation>
-    </message>
-    <message>
-        <source>AutoFilter</source>
-        <translation>AutoFilter</translation>
-    </message>
-    <message>
-        <source>Delete Cells</source>
-        <translation>Zellen löschen</translation>
-    </message>
-    <message>
-        <source>Merge and
-Center</source>
-        <translation>Zusammenführen 
-und zentrieren</translation>
-    </message>
-    <message>
-        <source>More Fill Colors</source>
-        <translation>Mehr Farben</translation>
-    </message>
-    <message>
-        <source>More Font Colors</source>
-        <translation>Mehr Farben</translation>
-    </message>
-    <message>
-        <source>Delete Sheet</source>
-        <translation>Arbeitsblatt löschen</translation>
-    </message>
-    <message>
-        <source>Special Value</source>
-        <translation>Spezieller Wert</translation>
-    </message>
-    <message>
-        <source>Tab Color</source>
-        <translation>Registerfarbe</translation>
-    </message>
-    <message>
-        <source>End with</source>
-        <translation>Endet mit</translation>
-    </message>
-    <message>
-        <source>Top Border</source>
-        <translation>Oberer Rahmen</translation>
-    </message>
-    <message>
-        <source>No Border</source>
-        <translation>Kein Rahmen</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation>Zentrieren</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Benutzerdefiniert</translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <translation>Formatieren</translation>
-    </message>
-    <message>
-        <source>Draw Border</source>
-        <translation>Rahmenlinie zeichnen</translation>
-    </message>
-    <message>
-        <source>Left Border</source>
-        <translation>Linke Rahmenlinie</translation>
-    </message>
-    <message>
-        <source>Row Height</source>
-        <translation>Zeilenhöhe</translation>
-    </message>
-    <message>
-        <source>Outside Borders</source>
-        <translation>Außenrahmen</translation>
-    </message>
-    <message>
-        <source>Column Width</source>
-        <translation>Spaltenbreite</translation>
-    </message>
-    <message>
-        <source>Draw Border Grid</source>
-        <translation>Rahmengitter zeichnen</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Kursiv</translation>
-    </message>
-    <message>
-        <source>Number</source>
-        <translation>Zahl</translation>
-    </message>
-    <message>
-        <source>Convert Text to Number</source>
-        <translation>Text in Zahl umwandeln</translation>
-    </message>
-    <message>
-        <source>Font Size</source>
-        <translation>Schriftgröße</translation>
-    </message>
-    <message>
-        <source>This month</source>
-        <translation>Dieser Monat</translation>
-    </message>
-    <message>
-        <source>Top and Thick Bottom Border</source>
-        <translation>Rahmenlinie oben und starke unten</translation>
-    </message>
-    <message>
-        <source>Rename</source>
-        <translation>Umbenennen</translation>
-    </message>
-    <message>
-        <source>Series</source>
-        <translation>Reihe</translation>
-    </message>
-    <message>
-        <source>Top 10</source>
-        <translation>Top 10</translation>
-    </message>
-    <message>
-        <source>Bottom 10 %</source>
-        <translation>Untere 10%</translation>
-    </message>
-    <message>
-        <source>Custom Sort</source>
-        <translation>Benutzerdefiniertes Sortieren</translation>
-    </message>
-    <message>
-        <source>Values</source>
-        <translation>Werte</translation>
-    </message>
-    <message>
-        <source>Top 10 %</source>
-        <translation>Obere 10%</translation>
-    </message>
-    <message>
-        <source>Comments</source>
-        <translation>Kommentare</translation>
-    </message>
-    <message>
-        <source>Tomorrow</source>
-        <translation>Morgen</translation>
-    </message>
-    <message>
-        <source>Font Color</source>
-        <translation>Schriftfarbe</translation>
-    </message>
-    <message>
-        <source>Next month</source>
-        <translation>Nächster Monat</translation>
-    </message>
-    <message>
-        <source>Last month</source>
-        <translation>Letzter Monat</translation>
-    </message>
-    <message>
-        <source>Delete Columns</source>
-        <translation>Spalten löschen</translation>
-    </message>
-    <message>
-        <source>Formulas</source>
-        <translation>Formeln</translation>
-    </message>
-    <message>
-        <source>Accounting</source>
-        <translation>Buchhaltung</translation>
-    </message>
-    <message>
-        <source>Thick Bottom Border</source>
-        <translation>Dicker Kastenrahmen</translation>
-    </message>
-    <message>
-        <source>Merge Cells</source>
-        <translation>Zellen zusammenführen</translation>
-    </message>
-    <message>
-        <source>All Using Source Theme</source>
-        <translation>Reserviertes Quellformat</translation>
-    </message>
-    <message>
-        <source>Line Color</source>
-        <translation>Linienfarbe</translation>
-    </message>
-    <message>
-        <source>Hide Sheet</source>
-        <translation>Arbeitsblatt ausblenden</translation>
-    </message>
-    <message>
-        <source>Line Style</source>
-        <translation>Linienart</translation>
-    </message>
-    <message>
-        <source>Rotate Text Down</source>
-        <translation>Text nach Unten rotieren</translation>
-    </message>
-    <message>
-        <source>Wrap Text</source>
-        <translation>Text 
-umbrechen</translation>
-    </message>
-    <message>
-        <source>Advanced Filter</source>
-        <translation>Erweiterter Füller</translation>
-    </message>
-    <message>
-        <source>New Pivot Table Style</source>
-        <translation>Neuer PivotTable-Stil</translation>
-    </message>
-    <message>
-        <source>Transpose</source>
-        <translation>Transponieren</translation>
-    </message>
-    <message>
-        <source>Move or Copy Sheet</source>
-        <translation>Arbeitsblatt verschieben/kopieren</translation>
-    </message>
-    <message>
-        <source>AutoFit Column Width</source>
-        <translation>AutoAnpassen Spaltenbreite</translation>
-    </message>
-    <message>
-        <source>Greater than</source>
-        <translation>Größer als</translation>
-    </message>
-    <message>
-        <source>Equal to</source>
-        <translation>Gleich</translation>
-    </message>
-    <message>
-        <source>Reapply</source>
-        <translation>Erneut anwenden</translation>
-    </message>
-    <message>
-        <source>AutoSum</source>
-        <translation>AutoSumme</translation>
-    </message>
-    <message>
-        <source>Between</source>
-        <translation>Zwischen</translation>
-    </message>
-    <message>
-        <source>Average</source>
-        <translation>Mittelwert</translation>
-    </message>
-    <message>
-        <source>Increase Font Size</source>
-        <translation>Schriftgröße vergrößern</translation>
-    </message>
-    <message>
-        <source>WorkSheet</source>
-        <translation>Arbeitsblatt</translation>
-    </message>
-    <message>
-        <source>All Borders</source>
-        <translation>Alle Rahmen</translation>
-    </message>
-    <message>
-        <source>Insert Rows</source>
-        <translation>Zeilen einfügen</translation>
-    </message>
-    <message>
-        <source>Decrease Font Size</source>
-        <translation>Schriftgröße verkleinern</translation>
-    </message>
-    <message>
-        <source>Bottom Double Border</source>
-        <translation>Untere doppelte Rahmenlinie</translation>
-    </message>
-    <message>
-        <source>Select Objects</source>
-        <translation>Objekte auswählen</translation>
-    </message>
-    <message>
-        <source>Descending</source>
-        <translation>Absteigend sortieren</translation>
-    </message>
-    <message>
-        <source>Ascending</source>
-        <translation>Aufsteigend sortieren</translation>
-    </message>
-    <message>
-        <source>Lock Cell</source>
-        <translation>Zelle 
-sperren</translation>
-    </message>
-    <message>
-        <source>Merge and Center</source>
-        <translation>Verbinden und 
-zentrieren</translation>
-    </message>
-    <message>
-        <source>Unhide Rows</source>
-        <translation>Zeilen einblenden</translation>
-    </message>
-    <message>
-        <source>Delete Rows</source>
-        <translation>Zeilen löschen</translation>
-    </message>
-    <message>
-        <source>Less than</source>
-        <translation>Kleiner als</translation>
-    </message>
-    <message>
-        <source>Contain</source>
-        <translation>Beinhaltet</translation>
-    </message>
-    <message>
-        <source>Last week</source>
-        <translation>Letzte Woche</translation>
-    </message>
-    <message>
-        <source>Hide Rows</source>
-        <translation>Zeilen ausblenden</translation>
-    </message>
-    <message>
-        <source>Yesterday</source>
-        <translation>Gestern</translation>
-    </message>
-    <message>
-        <source>Underline</source>
-        <translation>Unterstreichen</translation>
-    </message>
-    <message>
-        <source>More Border Colors</source>
-        <translation>Mehr Farben</translation>
-    </message>
-    <message>
-        <source>Insert Cut Cells</source>
-        <translation>Ausgeschnittene Zellen einfügen</translation>
-    </message>
-    <message>
-        <source>Unmerge Cells</source>
-        <translation>Zellverbund aufheben</translation>
-    </message>
-    <message>
-        <source>Empty Cell</source>
-        <translation>Leere Zelle</translation>
-    </message>
-    <message>
-        <source>Editing</source>
-        <translation>Bearbeitung</translation>
-    </message>
-    <message>
-        <source>Bottom 10</source>
-        <translation>Untere 10</translation>
-    </message>
-    <message>
-        <source>Angle Clockwise</source>
-        <translation>Im Uhrzeigersinn drehen</translation>
-    </message>
-    <message>
-        <source>Format as Table</source>
-        <translation>Format als 
-Tabelle</translation>
-    </message>
-    <message>
-        <source>Rotate Text Up</source>
-        <translation>Text nach Oben rotieren</translation>
-    </message>
-    <message>
-        <source>Paste as Picture</source>
-        <translation>Als Bild einfügen</translation>
-    </message>
-    <message>
-        <source>Currency</source>
-        <translation>Währung</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <source>Standard Width</source>
-        <translation>Sortieren</translation>
-    </message>
-    <message>
-        <source>Does not contain</source>
-        <translation>Enthält nicht</translation>
-    </message>
-    <message>
-        <source>Vertical Center</source>
-        <translation>Vertikal zentrieren</translation>
-    </message>
-    <message>
-        <source>Rows and Columns</source>
-        <translation>Zeilen und Spalten</translation>
-    </message>
-    <message>
-        <source>Convert Text to Hyperlink</source>
-        <translation>Text in Hyperlink umwandeln</translation>
-    </message>
-    <message>
-        <source>Thick Box Border</source>
-        <translation>Dicke Rahmenlinien</translation>
-    </message>
-    <message>
-        <source>Formats</source>
-        <translation>Formate</translation>
-    </message>
-    <message>
-        <source>Weekend</source>
-        <translation>Wochenende</translation>
-    </message>
-    <message>
-        <source>Center Across</source>
-        <translation>Zentriert über</translation>
-    </message>
-    <message>
-        <source>Insert Columns</source>
-        <translation>Spalten einfügen</translation>
-    </message>
-    <message>
-        <source>Top and Double Bottom Border</source>
-        <translation>Rahmenlinie oben und doppelt unten</translation>
-    </message>
-    <message>
-        <source>Highlight</source>
-        <translation>Hervorheben</translation>
-    </message>
-    <message>
-        <source>Bottom Border</source>
-        <translation>Untere Rahmenlinie</translation>
-    </message>
-    <message>
-        <source>New Table Style</source>
-        <translation>Neues Tabellenformat</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>More Borders</source>
-        <translation>Weitere Rahmenlinien</translation>
-    </message>
-    <message>
-        <source>Fill Color</source>
-        <translation>Füllfarbe</translation>
-    </message>
-    <message>
-        <source>Cell Style</source>
-        <translation>Zellenformatvorlage</translation>
-    </message>
-    <message>
-        <source>Decrease Indent</source>
-        <translation>Einzug verkleinern</translation>
-    </message>
-    <message>
-        <source>Increase Indent</source>
-        <translation>Einzug vergrößern</translation>
-    </message>
-    <message>
-        <source>Find and Replace</source>
-        <translation>Ersetzen</translation>
-    </message>
-    <message>
-        <source>Unhide Columns</source>
-        <translation>Spalten einblenden</translation>
-    </message>
-    <message>
-        <source>Hide Columns</source>
-        <translation>Spalten ausblenden</translation>
-    </message>
-    <message>
-        <source>Above Average</source>
-        <translation>Über dem Durchschnitt</translation>
-    </message>
-    <message>
-        <source>Conditional Formatting</source>
-        <translation>Bedingte 
-Formatierung</translation>
-    </message>
-    <message>
-        <source>Next week</source>
-        <translation>Nächste Woche</translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation>Alle anzeigen</translation>
-    </message>
-    <message>
-        <source>Top and Bottom Border</source>
-        <translation>Rahmenlinie oben und unten</translation>
-    </message>
-    <message>
-        <source>Series</source>
-        <comment>Fill</comment>
-        <translation>Reihe</translation>
-    </message>
-    <message>
-        <source>Hide and Unhide</source>
-        <translation>Ausblenden und einblenden</translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation>Oben ausrichten</translation>
     </message>
 </context>
 <context>
@@ -21393,6 +21664,14 @@ Formatierung</translation>
         <source>pt</source>
         <translation>pt</translation>
     </message>
+    <message>
+        <source>The entry must be greater than or equal to 0 pt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The entry must be less than or equal to 1584 pt</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotGroup</name>
@@ -21432,6 +21711,10 @@ Formatierung</translation>
         <translation>&amp;OK</translation>
     </message>
     <message>
+        <source>Connect to datasource</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;Cancel</source>
         <translation>&amp;Abbrechen</translation>
     </message>
@@ -21442,6 +21725,10 @@ Formatierung</translation>
     <message>
         <source>&amp;Username:</source>
         <translation>Benutzername(&amp;U)：</translation>
+    </message>
+    <message>
+        <source>Data Source:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21517,6 +21804,10 @@ Formatierung</translation>
         <source>Exporting page </source>
         <translation>Seite wird exportiert</translation>
     </message>
+    <message>
+        <source>Exporting document attachments...</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxExportToPDFProgressDlg</name>
@@ -21529,8 +21820,16 @@ Formatierung</translation>
         <translation>Schließen</translation>
     </message>
     <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>Vorbereitung des Exports der PDF-Datei...</translation>
+    </message>
+    <message>
+        <source>Exporting security PDF file...</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encountered an error when opening PDF file!</source>
@@ -21543,6 +21842,10 @@ Formatierung</translation>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
         <translation>WPS Spreadsheets ist beim Export des PDF auf einen Fehler gestoßen.</translation>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -21563,6 +21866,10 @@ Formatierung</translation>
     <message>
         <source>Exporting page </source>
         <translation>Seite wird exportiert </translation>
+    </message>
+    <message>
+        <source>Exporting document attachments...</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21642,6 +21949,10 @@ Formatierung</translation>
     <message>
         <source>integer</source>
         <translation>ganzzahlig</translation>
+    </message>
+    <message>
+        <source>Date axis reference is not valid.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Constraint</source>
@@ -22062,6 +22373,10 @@ Formatierung</translation>
         <translation>Solver wurde beim Erreichen der Iterationsgrenze abgebrochen.</translation>
     </message>
     <message>
+        <source>Date axis reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Data source reference is not valid.</source>
         <translation>Der Datenquellenbezug ist ungültig.</translation>
     </message>
@@ -22430,10 +22745,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>QUADRATESUMME(Zahl1,Zahl2,...)</translation>
     </message>
     <message>
-        <source>DISC(settlement, maturity, pr, redemption, [basis])</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>TANH(number)</source>
         <translation>TANHYP(Zahl)</translation>
     </message>
@@ -22697,10 +23008,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
         <translation>VERKETTEN(Test1,Text2,...)</translation>
-    </message>
-    <message>
-        <source>NORM.INV(probability,mean,standard_dev)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>PROPER(text)</source>
@@ -23119,10 +23426,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Gibt den Arkussinus einer Zahl im Bereich von -Pi/2 bis Pi/2 zurück.</translation>
     </message>
     <message>
-        <source>DOLLARFR(decimal_dollar, fraction)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
         <translation>Gibt den Logarithmus einer komplexen Zahl zur Basis 10 im Format x + yi oder x + yj zurück.</translation>
     </message>
@@ -23308,10 +23611,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Gibt den Rang, den eine Zahl innerhalb einer Liste von Zahlen einnimmt, zurück: die Größe relativ zu anderen Werten in der Liste; wenn mehrere Werte die gleiche Rangzahl aufweisen, wird die durchschnittliche Rangzahl zurückgegeben.</translation>
     </message>
     <message>
-        <source>DOLLARDE(fractional_dollar, fraction)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>ON.WINDOW(window_text, macro_text)</source>
         <translation>BEI.FENSTER(Fenster,Makro)</translation>
     </message>
@@ -23367,6 +23666,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>CUMIPMT(rate, nper, pv, start_period, end_period, type)</source>
         <translation>KUMZINSZ(Zins,Zzr,Bw,Zeitraum_Anfang,Zeitraum_Ende,Type)</translation>
+    </message>
+    <message>
+        <source>Returns the price per $100 face value of a security that pays interest at maturity.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DATE(year,month,day)</source>
@@ -23439,10 +23742,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Converts degrees to radians.</source>
         <translation>Wandelt Grad in Bogenmaß um</translation>
-    </message>
-    <message>
-        <source>NORM.S.INV(probability)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
@@ -23580,10 +23879,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Returns the lognormal cumulative distribution of x, where ln(x) is normally distributed with parameters Mean and Standard_dev.</source>
         <translation>Liefert Werte der Verteilungsfunktion einer lognormalverteilten Zufallsvariablen.</translation>
-    </message>
-    <message>
-        <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>NEXT()</source>
@@ -23752,10 +24047,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Werte</translation>
     </message>
     <message>
-        <source>XOR(logical1,logical2,...)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>OR(logical1,logical2,...)</source>
         <translation>ODER(Wahrheitswert1,Wahrheitswert2,...)</translation>
     </message>
@@ -23900,10 +24191,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>IMLOG10(Komplexe_Zahl)</translation>
     </message>
     <message>
-        <source>MDURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Returns the exponential distribution.</source>
         <translation>Gibt Wahrscheinlichkeiten einer exponentialverteilten Zufallsvariablen zurück.</translation>
     </message>
@@ -23968,6 +24255,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Benutzerorientiert</translation>
     </message>
     <message>
+        <source>Extracts a value from a field of a given record.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PEARSON(array1,array2)</source>
         <translation>PEARSON(Matrix1,Matrix2)</translation>
     </message>
@@ -24016,10 +24307,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Gibt die fortlaufende Zahl einer bestimmten Uhrzeit zurück:</translation>
     </message>
     <message>
-        <source>DURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Returns a random integer between the two numbers you specified.</source>
         <translation>Gibt den n-te(mit einem Rang versehene )Element in einer Menge zurück.</translation>
     </message>
@@ -24050,10 +24337,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
         <translation>Gibt den Barwert einer Investition zurück:den heutigen Gesamtwert einer Reihe zukünftiger Zahlungen.</translation>
-    </message>
-    <message>
-        <source>COUPDAYS(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
@@ -24162,11 +24445,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>FIXED(number,decimals,no_commas)</source>
         <translation>Fester(Zahl,Dezimalstellen,Keine_Punkte)</translation>
-    </message>
-    <message>
-        <source>Converts a number to text, using currency format and the specified digits.</source>
-        <comment>DOLLAR_GRAMMER</comment>
-        <translation>Wandelt eine Zahl in einen Text im Währungsformat um!ist eine Zahl, ein Bezug auf eine Zelle, die eine Zahl enthält. </translation>
     </message>
     <message>
         <source>Returns the number of characters in the text. Use with double-byte characters(DBCS).</source>
@@ -24378,20 +24656,8 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>AVEDEV(Zahl,Zahl2,...)</translation>
     </message>
     <message>
-        <source>VAR.S(number1,number2,...)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>VAR.P(number1,number2,...)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
         <translation>Gibt eine Zahl von 1 (Januar) bis 12 (Dezember) für den Monat zurück.</translation>
-    </message>
-    <message>
-        <source>NORM.DIST(x,mean,standard_dev,cumulative)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
@@ -24678,14 +24944,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Wandelt Bogenmaß (Radiant) in Grad um</translation>
     </message>
     <message>
-        <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>COUPPCD(settlement, maturity, frequency, [basis])</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>ADD.BAR(bar_num)</source>
         <translation>MENÜLEISTE.EINFÜGEN(Kennum)</translation>
     </message>
@@ -24752,10 +25010,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Returns the number of days between the two dates.</source>
         <translation>Gibt die Anzahl der Tage zwischen den beiden Datumswerten zurück</translation>
-    </message>
-    <message>
-        <source>WORKDAY.INTL(start_date,days,weekend,holidays)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>WINDOW.TITLE(text)</source>
@@ -24840,10 +25094,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Rounds a number up, away from zero.</source>
         <translation>Rundet die Zahl auf Anzahl_Stellen auf.</translation>
-    </message>
-    <message>
-        <source>ISFORMULA(reference)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
@@ -25112,16 +25362,8 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>Prognose(x,known_y&apos;s,known_x&apos;s)</translation>
     </message>
     <message>
-        <source>COVARIANCE.S(array1,array2)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>CELL(info_type, reference)</source>
         <translation>Zelle(Infotyp,Verweis) </translation>
-    </message>
-    <message>
-        <source>COVARIANCE.P(array1,array2)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns a matrix determinant of an array.</source>
@@ -25154,10 +25396,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>ISNUMBER(value)</source>
         <translation>ISTZAHL(Wert)</translation>
-    </message>
-    <message>
-        <source>NORM.S.DIST(z,cumulative)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>SUMMARY.INFO(title, subject, author, keywords, comments)</source>
@@ -25753,6 +25991,10 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation>FORMULA.FILL(formula_text, reference)</translation>
     </message>
     <message>
+        <source>Converts text to a number in a locale-independent manner.</source>
+        <translation>Konvertiert auf vom Gebietsschema unabhängige Weise Text in Zahlen</translation>
+    </message>
+    <message>
         <source>ISNA(value)</source>
         <translation>ISTNV(Wert)</translation>
     </message>
@@ -25787,10 +26029,6 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>REGISTER.ID(module_text, procedure, type_text)</source>
         <translation>REGISTER.KENNNUMMER(Modul,Prozedur,Datentyp)</translation>
-    </message>
-    <message>
-        <source>AGGREGATE(function_num,options,ref1,[ref2],...)</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
@@ -25872,6 +26110,95 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>TRIM(text)</source>
         <translation>GLÄTTEN(Text)</translation>
+    </message>
+    <message>
+        <source>DISC(settlement, maturity, pr, redemption, [basis])</source>
+        <translation>DISC(liquidação, vencimento, pr, resgate, [base])</translation>
+    </message>
+    <message>
+        <source>NORM.INV(probability,mean,standard_dev)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DOLLARFR(decimal_dollar, fraction)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DOLLARDE(fractional_dollar, fraction)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NORM.S.INV(probability)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>COUPNUM(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>XOR(logical1,logical2,...)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MDURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DURATION(settlement, maturity, coupon, yld, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>COUPDAYS(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Converts a number to text, using currency format and the specified digits.</source>
+        <comment>DOLLAR_GRAMMER</comment>
+        <translation>Wandelt eine Zahl in einen Text im Währungsformat um!ist eine Zahl, ein Bezug auf eine Zelle, die eine Zahl enthält. </translation>
+    </message>
+    <message>
+        <source>VAR.S(number1,number2,...)</source>
+        <translation>VAR.S(núm1, núm2, ...)</translation>
+    </message>
+    <message>
+        <source>VAR.P(number1,number2,...)</source>
+        <translation>VAR.P(núm1, núm2, ...)</translation>
+    </message>
+    <message>
+        <source>NORM.DIST(x,mean,standard_dev,cumulative)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>COUPNCD(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>COUPPCD(settlement, maturity, frequency, [basis])</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WORKDAY.INTL(start_date,days,weekend,holidays)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ISFORMULA(reference)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>COVARIANCE.S(array1,array2)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>COVARIANCE.P(array1,array2)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NORM.S.DIST(z,cumulative)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AGGREGATE(function_num,options,ref1,[ref2],...)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26027,7 +26354,7 @@ Time</source>
         <source>Show Dependents</source>
         <translation>Nachfolger anzeigen</translation>
     </message>
-	<message>
+    <message>
         <source>Lookup and
 Reference</source>
         <translation>Suchen und
@@ -26095,6 +26422,10 @@ neu berechnen</translation>
         <translation>Schnellformatvorlagen</translation>
     </message>
     <message>
+        <source>Shape Styles</source>
+        <translation>Formenarten</translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Durchgezogen</translation>
     </message>
@@ -26109,6 +26440,10 @@ neu berechnen</translation>
     <message>
         <source>Font Outline</source>
         <translation>Textkontur</translation>
+    </message>
+    <message>
+        <source>Shape Effects</source>
+        <translation>Formeffekte</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -26195,12 +26530,20 @@ neu berechnen</translation>
         <translation>Kommentare</translation>
     </message>
     <message>
+        <source>Soft Edges</source>
+        <translation>Weiche Kanten</translation>
+    </message>
+    <message>
         <source>Font Color</source>
         <translation>Schriftfarbe</translation>
     </message>
     <message>
         <source>Contents</source>
         <translation>Inhalt</translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation>Fülleffekt</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -26248,7 +26591,7 @@ neu berechnen</translation>
     </message>
     <message>
         <source>Local Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Lokales Textfeld</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -26323,426 +26666,8 @@ neu berechnen</translation>
         <translation>Einzug vergrößern</translation>
     </message>
     <message>
-        <source>Insert Textbox</source>
-        <translation>Textfeld einfügen</translation>
-    </message>
-    <message>
-        <source>Text Fill</source>
-        <translation>Textfüllung</translation>
-    </message>
-    <message>
-        <source>PicOrTexture</source>
-        <translation>Bild oder Struktur</translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
-        <translation>Langer Strich-Punkt-Punkt</translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation>Oben ausrichten</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_formulas</name>
-    <message>
-        <source>All</source>
-        <translation>Alle</translation>
-    </message>
-    <message>
-        <source>Max</source>
-        <translation>Max</translation>
-    </message>
-    <message>
-        <source>Min</source>
-        <translation>Min</translation>
-    </message>
-    <message>
-        <source>Sum</source>
-        <translation>Summe</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Text</translation>
-    </message>
-    <message>
-        <source>Clear Arrows</source>
-        <translation>Pfeile löschen</translation>
-    </message>
-    <message>
-        <source>Count</source>
-        <translation>Anzahl</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Einfügen</translation>
-    </message>
-    <message>
-        <source>Evaluate Formula</source>
-        <translation>Formel auswerten</translation>
-    </message>
-    <message>
-        <source>Statistical</source>
-        <translation>Statistisch</translation>
-    </message>
-    <message>
-        <source>More Functions</source>
-        <translation>Mehre Funktionen</translation>
-    </message>
-    <message>
-        <source>Logical</source>
-        <translation>Logisch</translation>
-    </message>
-    <message>
-        <source>Insert Function</source>
-        <translation>Funktion 
-einfügen</translation>
-    </message>
-    <message>
-        <source>Financial</source>
-        <translation>Finanzen</translation>
-    </message>
-    <message>
-        <source>Create</source>
-        <translation>Erstellen</translation>
-    </message>
-    <message>
-        <source>Engineering</source>
-        <translation>Konstruktion</translation>
-    </message>
-    <message>
-        <source>Remove Precedents</source>
-        <translation>Vorgänger entfernen</translation>
-    </message>
-    <message>
-        <source>Calculate Sheet</source>
-        <translation>Blatt 
-berechnen</translation>
-    </message>
-	<message>
-        <source>Name
-Manager</source>
-        <translation>Namens-
-Manager</translation>
-    </message>
-    <message>
-        <source>Edit Links</source>
-        <translation>Links 
-bearbeiten</translation>
-    </message>
-	<message>
-        <source>Error Checking</source>
-        <translation>Fehlerüberprüfung </translation>
-    </message>
-	<message>
-        <source>Math and
-Trig</source>
-        <translation>Mathe 
-und Trigo</translation>
-    </message>
-    <message>
-        <source>Function Library</source>
-        <translation>Funktionsbibliothek</translation>
-    </message>
-    <message>
-        <source>Remove Dependents</source>
-        <translation>Nachfolger entfernen</translation>
-    </message>
-    <message>
-        <source>AutoSum</source>
-        <translation>AutoSumme</translation>
-    </message>
-    <message>
-        <source>Average</source>
-        <translation>Mittelwert</translation>
-    </message>
-    <message>
-        <source>Information</source>
-        <translation>Informationen</translation>
-    </message>
-    <message>
-        <source>Recently Used</source>
-        <translation>Zuletzt verwendet</translation>
-    </message>
-    <message>
-        <source>Connections</source>
-        <translation>Verbindungen</translation>
-    </message>
-    <message>
-        <source>Calculation</source>
-        <translation>Berechnung</translation>
-    </message>
-    <message>
-        <source>New Name</source>
-        <translation>Neuer Name</translation>
-    </message>
-    <message>
-        <source>Defined Names</source>
-        <translation>Definierte Namen</translation>
-    </message>
-    <message>
-        <source>Date and
-Time</source>
-        <translation>Datum und 
-Uhrzeit</translation>
-    </message>
-    <message>
-        <source>Circular References</source>
-        <translation>Zirkelbezüge</translation>
-    </message>
-    <message>
-        <source>Show Dependents</source>
-        <translation>Nachfolger anzeigen</translation>
-    </message>
-    <message>
-        <source>Lookup and
-Reference</source>
-        <translation>Nachschlage und
-Verweisfunktion </translation>
-    </message>
-    <message>
-        <source>Show Precedents</source>
-        <translation>Vorgänger anzeigen</translation>
-    </message>
-    <message>
-        <source>Formula Auditing</source>
-        <translation>Formelüberwachung</translation>
-    </message>
-    <message>
-        <source>Recalculate Workbook</source>
-        <translation>Arbeitsmappe 
-neu berechnen</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_texttool</name>
-    <message>
-        <source>All</source>
-        <translation>Alle</translation>
-    </message>
-    <message>
-        <source>1 pt</source>
-        <translation>1 Pt.</translation>
-    </message>
-    <message>
-        <source>3 pt</source>
-        <translation>3 Pt.</translation>
-    </message>
-    <message>
-        <source>6 pt</source>
-        <translation>6 Pt.</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Fett</translation>
-    </message>
-    <message>
-        <source>Dash</source>
-        <translation>Strich</translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation>Schriftart</translation>
-    </message>
-    <message>
-        <source>Glow</source>
-        <translation>Leuchteffekt</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Quick Styles</source>
-        <translation>Schnellformatvorlagen</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation>Löschen</translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation>Durchgezogen</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation>Horizontal</translation>
-    </message>
-    <message>
-        <source>Font Outline</source>
-        <translation>Textkontur</translation>
-    </message>
-    <message>
-        <source>Reflection</source>
-        <translation>Spiegelung</translation>
-    </message>
-    <message>
-        <source>0.25 pt</source>
-        <translation>0,25 Pt.</translation>
-    </message>
-    <message>
-        <source>0.75 pt</source>
-        <translation>0,75 Pt.</translation>
-    </message>
-    <message>
-        <source>WordArt Styles</source>
-        <translation>WordArt-Formatvorlagen</translation>
-    </message>
-    <message>
-        <source>0.5 pt</source>
-        <translation>0,5 Pt.</translation>
-    </message>
-    <message>
-        <source>1.5 pt</source>
-        <translation>1,5 Pt.</translation>
-    </message>
-    <message>
-        <source>4.5 pt</source>
-        <translation>4,5 Pt.</translation>
-    </message>
-    <message>
-        <source>More Line Colors</source>
-        <translation>Weitere Linienfarben</translation>
-    </message>
-    <message>
-        <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
-    </message>
-    <message>
-        <source>Long Dash</source>
-        <translation>Langer Strich</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation>Zentriert</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Kursiv</translation>
-    </message>
-    <message>
-        <source>2.25 pt</source>
-        <translation>2,25 Pt.</translation>
-    </message>
-    <message>
-        <source>Font Size</source>
-        <translation>Schriftgröße</translation>
-    </message>
-    <message>
-        <source>Series</source>
-        <translation>Datenreihe</translation>
-    </message>
-    <message>
-        <source>Shadow</source>
-        <translation>Schatten</translation>
-    </message>
-    <message>
-        <source>Weight</source>
-        <translation>Stärke</translation>
-    </message>
-    <message>
-        <source>Comments</source>
-        <translation>Kommentare</translation>
-    </message>
-    <message>
-        <source>Text Color</source>
-        <translation>Textfarbe</translation>
-    </message>
-    <message>
-        <source>Contents</source>
-        <translation>Inhalt</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <translation>Muster</translation>
-    </message>
-    <message>
-        <source>Clear WordArt</source>
-        <translation>WordArt löschen</translation>
-    </message>
-    <message>
-        <source>Transform</source>
-        <translation>Transformieren</translation>
-    </message>
-    <message>
-        <source>Gradient</source>
-        <translation>Farbverlauf</translation>
-    </message>
-    <message>
-        <source>Square Dot</source>
-        <translation>Viereckiger Punkt</translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation>Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Increase Font Size</source>
-        <translation>Schrift vergrößern</translation>
-    </message>
-    <message>
-        <source>ThreeDRotation</source>
-        <translation>3D-Drehung</translation>
-    </message>
-    <message>
-        <source>Decrease Font Size</source>
-        <translation>Schriftgrad verkleinern</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation>Pipette</translation>
-    </message>
-    <message>
-        <source>Dash Style</source>
-        <translation>Strich-Stil</translation>
-    </message>
-    <message>
-        <source>Underline</source>
-        <translation>Unterstreichen</translation>
-    </message>
-    <message>
-        <source>Long Dash-Dot</source>
-        <translation>Langer Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Round Dot</source>
-        <translation>Runder Punkt</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation>Vertikal</translation>
-    </message>
-    <message>
-        <source>Text Box</source>
-        <translation>Textfeld</translation>
-    </message>
-    <message>
-        <source>Vertical Center</source>
-        <translation>Vertikal zentrieren</translation>
-    </message>
-    <message>
-        <source>Formats</source>
-        <translation>Formate</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Text Effects</source>
-        <translation>Texteffekte</translation>
-    </message>
-    <message>
-        <source>Decrease Indent</source>
-        <translation>Einzug verkleinern</translation>
-    </message>
-    <message>
-        <source>Increase Indent</source>
-        <translation>Einzug vergrößern</translation>
+        <source>Shape Outline</source>
+        <translation>Formkontur</translation>
     </message>
     <message>
         <source>Insert Textbox</source>
@@ -26763,6 +26688,10 @@ neu berechnen</translation>
     <message>
         <source>Align Top</source>
         <translation>Oben ausrichten</translation>
+    </message>
+    <message>
+        <source>Online Textbox</source>
+        <translation>Vorlagentextfeld</translation>
     </message>
 </context>
 <context>
@@ -27485,6 +27414,14 @@ Nach Inhalt</translation>
         <translation>Einstellung der Tastenkombination</translation>
     </message>
     <message>
+        <source>JdeControl Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Merge Tables</source>
         <translation>Tabellen zusammenführen</translation>
     </message>
@@ -27508,6 +27445,10 @@ Nach Inhalt</translation>
     <message>
         <source>Paste Previous Content</source>
         <translation>Vorherigen Inhalt einfügen</translation>
+    </message>
+    <message>
+        <source>document authentication</source>
+        <translation>Dokumentauthentifizierung</translation>
     </message>
     <message>
         <source>Timing Backup Menu</source>
@@ -27559,6 +27500,14 @@ Directly</source>
         <translation>Vergrößern</translation>
     </message>
     <message>
+        <source>WPS Macro Editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No authentication status</source>
+        <translation>Kein Authentifizierungsstatus</translation>
+    </message>
+    <message>
         <source>Picture to Text</source>
         <translation>Bild in Text</translation>
     </message>
@@ -27567,12 +27516,20 @@ Directly</source>
         <translation>PivotTable-Stiloptionen</translation>
     </message>
     <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Merge workbooks</source>
         <translation>Mehrere Arbeitsmappen zu einer Arbeitsmappe zusammenführen</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
         <translation>Neue Arbeitsmappe</translation>
+    </message>
+    <message>
+        <source>Clear rejection of entry restrictions</source>
+        <translation>Eingabeablehnungs-Beschränkungen löschen</translation>
     </message>
     <message>
         <source>Add Picture Frame</source>
@@ -27587,16 +27544,16 @@ Directly</source>
         <translation>Objekt-Trigger erweitern</translation>
     </message>
     <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PivotTable Context Menu</source>
         <translation>PivotTable-Kontextmenü</translation>
     </message>
     <message>
         <source>Show All Comments</source>
         <translation>Alle Kommentare anzeigen</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation>Als Bild exportieren</translation>
     </message>
     <message>
         <source>Banded Columns</source>
@@ -27612,7 +27569,7 @@ Directly</source>
     </message>
     <message>
         <source>Recommended Chart</source>
-        <translation type="unfinished"/>
+        <translation>Empfohlene Diagramme</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -27647,6 +27604,10 @@ Directly</source>
         <translation>Schutz ist aktiviert</translation>
     </message>
     <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Microsoft Excel Files</source>
         <translation>Microsoft Excel-Dateien</translation>
     </message>
@@ -27667,6 +27628,10 @@ Directly</source>
         <translation>Link-Vorschau</translation>
     </message>
     <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Editing is limited</source>
         <translation>Die Bearbeitung ist eingeschränkt</translation>
     </message>
@@ -27685,6 +27650,10 @@ Directly</source>
     <message>
         <source>Slicer Settings</source>
         <translation>Datenschnitteinstellungen</translation>
+    </message>
+    <message>
+        <source>Screen Recorder</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document History</source>
@@ -27745,6 +27714,10 @@ fixieren</translation>
         <translation>Makro aktivieren</translation>
     </message>
     <message>
+        <source>Equation Script Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select Shape</source>
         <translation>Form auswählen</translation>
     </message>
@@ -27795,6 +27768,10 @@ Filter</translation>
         <translation>Farbschemas</translation>
     </message>
     <message>
+        <source>PDF to Excel</source>
+        <translation>PDF nach Excel</translation>
+    </message>
+    <message>
         <source>NewChart ChartTitle</source>
         <translation>Diagrammtitel</translation>
     </message>
@@ -27819,6 +27796,10 @@ Filter</translation>
         <translation>Sicherung</translation>
     </message>
     <message>
+        <source>Search Help Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Camera</source>
         <translation>Kamera</translation>
     </message>
@@ -27829,6 +27810,14 @@ Filter</translation>
     <message>
         <source>AutoShapes</source>
         <translation>AutoFormen</translation>
+    </message>
+    <message>
+        <source>ShortDataMarket</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Column</source>
@@ -27875,6 +27864,14 @@ Filter</translation>
         <translation>Liste zuletzt geöffneter Dateien</translation>
     </message>
     <message>
+        <source>Query Enterprise</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>JS Macros</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>NewChart ChartArea</source>
         <translation>Diagrammbereich</translation>
     </message>
@@ -27887,6 +27884,10 @@ Filter</translation>
         <translation>Standard</translation>
     </message>
     <message>
+        <source>WPS Skill</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OLE Object</source>
         <translation>OLE-Objekt-Popup-Menü</translation>
     </message>
@@ -27895,12 +27896,20 @@ Filter</translation>
         <translation>QR-Code</translation>
     </message>
     <message>
+        <source>Data Market</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Page Layout</source>
         <translation>Seitenlayout</translation>
     </message>
     <message>
         <source>Task Window</source>
         <translation>Task-Fenster</translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rename</source>
@@ -27929,6 +27938,10 @@ Filter</translation>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
         <translation>Microsoft Excel 97-2003-Vorlagen (*.xlt)</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Full Screen</source>
@@ -27960,12 +27973,20 @@ Nach Blatt</translation>
         <translation>Gitternetzlinien</translation>
     </message>
     <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Horizontal Text Box</source>
         <translation>Horizontal</translation>
     </message>
     <message>
         <source>Font Color</source>
         <translation>Schriftfarbe</translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contents</source>
@@ -27982,6 +28003,10 @@ Nach Blatt</translation>
     <message>
         <source>Send pictures</source>
         <translation>Bilder senden</translation>
+    </message>
+    <message>
+        <source>Reset Shape and Size</source>
+        <translation>Form und Größe zurücksetzen</translation>
     </message>
     <message>
         <source>Online TableStyle</source>
@@ -28005,7 +28030,7 @@ Nach Blatt</translation>
     </message>
     <message>
         <source>Backup Settings</source>
-        <translation type="unfinished"/>
+        <translation>Sicherungseinstellungen</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -28032,12 +28057,20 @@ Nach Blatt</translation>
         <translation>Neue Datei Menü</translation>
     </message>
     <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Hyperlink</source>
         <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Properties</source>
         <translation>Eigenschaften</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -28109,8 +28142,16 @@ verkleinerung</translation>
         <translation>Datentabelle</translation>
     </message>
     <message>
+        <source>PDF to PPT</source>
+        <translation>PDF nach PPT</translation>
+    </message>
+    <message>
         <source>NewChart DropLine</source>
         <translation>Bezugslinien</translation>
+    </message>
+    <message>
+        <source>Image Preview</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -28119,6 +28160,10 @@ verkleinerung</translation>
     <message>
         <source>Save a Copy of the Document</source>
         <translation>Kopie des Dokumentes speichern</translation>
+    </message>
+    <message>
+        <source>DocerFeature</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name Box</source>
@@ -28142,7 +28187,7 @@ verkleinerung</translation>
     </message>
     <message>
         <source>ChemistryEquation</source>
-        <translation type="unfinished"/>
+        <translation>Chemie-Zeichenwerkzeugsatz</translation>
     </message>
     <message>
         <source>Report Connections</source>
@@ -28198,10 +28243,6 @@ verkleinerung</translation>
         <translation>Schriftgröße verkleinern</translation>
     </message>
     <message>
-        <source>Check Auto Backup</source>
-        <translation>Prüfe automatische Sicherung</translation>
-    </message>
-    <message>
         <source>NewChart DataLabels</source>
         <translation>Datenbeschriftungen</translation>
     </message>
@@ -28219,7 +28260,7 @@ verkleinerung</translation>
     </message>
     <message>
         <source>InsertLatex</source>
-        <translation type="unfinished"/>
+        <translation>LaTex einfügen</translation>
     </message>
     <message>
         <source>Recent File Management</source>
@@ -28271,6 +28312,10 @@ with same name in workbooks</source>
         <translation>Arbeitsblätter mit demselben Namen in Arbeitsmappen zusammenführen</translation>
     </message>
     <message>
+        <source>Equation Group Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Header Row</source>
         <translation>Überschriftenzeile</translation>
     </message>
@@ -28285,6 +28330,10 @@ with same name in workbooks</source>
     <message>
         <source>NewChart UpBar</source>
         <translation>Aufw-Balken</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
@@ -28307,6 +28356,10 @@ with same name in workbooks</source>
         <translation>Verbundene Zeilen</translation>
     </message>
     <message>
+        <source>PDF to Word</source>
+        <translation>PDF in Word</translation>
+    </message>
+    <message>
         <source>Full 
 Screen</source>
         <translation>Vollbild</translation>
@@ -28314,6 +28367,10 @@ Screen</source>
     <message>
         <source>Fetch duplicates</source>
         <translation>Doppelte Werte extrahieren</translation>
+    </message>
+    <message>
+        <source>Smart Organize</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -28377,6 +28434,14 @@ Seitenumbruch</translation>
         <translation>Andere Formate</translation>
     </message>
     <message>
+        <source>To Float Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enterprise Query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Screen Grab Polygon</source>
         <translation>Bildschirmerfassungs-Polygon</translation>
     </message>
@@ -28423,7 +28488,7 @@ formatieren</translation>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Extrahieren</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -28463,7 +28528,23 @@ aktualisieren</translation>
         <translation>Zusammenarbeit</translation>
     </message>
     <message>
+        <source>Smart Proofing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smart Chart Ai</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>DocumentContentStudio</source>
+        <translation>Extrahierung in Stapeln</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -28545,6 +28626,10 @@ Kommentar</translation>
         <translation>Rechtschreibprüfung</translation>
     </message>
     <message>
+        <source>Equation Array Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PasteAsValues</source>
         <translation>Als Werte einfügen</translation>
     </message>
@@ -28567,6 +28652,10 @@ Kommentar</translation>
     <message>
         <source>Column Header</source>
         <translation>Spaltenüberschrift</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -28605,6 +28694,10 @@ Kommentar</translation>
         <translation>Formeln anzeigen</translation>
     </message>
     <message>
+        <source>Slicer Styles</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Task
 Window</source>
         <translation>Task
@@ -28630,6 +28723,14 @@ neu berechnen</translation>
     <message>
         <source>Map</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Als Bild exportieren</translation>
+    </message>
+    <message>
+        <source>Check Auto Backup</source>
+        <translation>Prüfe automatische Sicherung</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -29275,574 +29376,6 @@ Ein/Aus</translation>
     </message>
 </context>
 <context>
-    <name>rainbow.ct_shadowdrawingtools</name>
-    <message>
-        <source>Dim</source>
-        <translation>Abblenden</translation>
-    </message>
-    <message>
-        <source>0 pt</source>
-        <translation>0 pt</translation>
-    </message>
-    <message>
-        <source>36 pt</source>
-        <translation>36 pt</translation>
-    </message>
-    <message>
-        <source>72 pt</source>
-        <translation>72 pt</translation>
-    </message>
-    <message>
-        <source>Depth</source>
-        <translation>Tiefe</translation>
-    </message>
-    <message>
-        <source>Matte</source>
-        <translation>Matt</translation>
-    </message>
-    <message>
-        <source>Metal</source>
-        <translation>Metall</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation>Präzisionsausrichtung Schatten unten</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation>Präzisionsausrichtung Schatten links</translation>
-    </message>
-    <message>
-        <source>144 pt</source>
-        <translation>144 pt</translation>
-    </message>
-    <message>
-        <source>288 pt</source>
-        <translation>288 pt</translation>
-    </message>
-    <message>
-        <source>Tilt Down</source>
-        <translation>Nach unten kippen</translation>
-    </message>
-    <message>
-        <source>Tilt Left</source>
-        <translation>Nach links kippen</translation>
-    </message>
-    <message>
-        <source>Semitransparent Shadow</source>
-        <translation>Halbtransparenter Schatten</translation>
-    </message>
-    <message>
-        <source>Bright</source>
-        <translation>Hell</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Benutzerdefiniert</translation>
-    </message>
-    <message>
-        <source>Infinity</source>
-        <translation>Unendlich</translation>
-    </message>
-    <message>
-        <source>No 3-D</source>
-        <translation>Kein 3-D</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>Standard</translation>
-    </message>
-    <message>
-        <source>3-D On/Off</source>
-        <translation>3-D Ein/Aus</translation>
-    </message>
-    <message>
-        <source>No Shadow</source>
-        <translation>Kein Schatten</translation>
-    </message>
-    <message>
-        <source>Shadow Effects</source>
-        <translation>Schatteneffekte</translation>
-    </message>
-    <message>
-        <source>3-D Color</source>
-        <translation>3-D Farbe</translation>
-    </message>
-    <message>
-        <source>Tilt Right</source>
-        <translation>Nach recht kippen</translation>
-    </message>
-    <message>
-        <source>Perspective</source>
-        <translation>Perspektive</translation>
-    </message>
-    <message>
-        <source>Plastic</source>
-        <translation>Plastik</translation>
-    </message>
-    <message>
-        <source>Wire Frame</source>
-        <translation>Drahtrahmen</translation>
-    </message>
-    <message>
-        <source>More Shadow Colors</source>
-        <translation>Weitere Schattenfarben</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
-        <translation>Präzisionsausrichtung Schatten oben</translation>
-    </message>
-    <message>
-        <source>Parallel</source>
-        <translation>Parallel</translation>
-    </message>
-    <message>
-        <source>Direction</source>
-        <translation>Richtung</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation>Präzisionsausrichtung Schatten rechts</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation>Pipette</translation>
-    </message>
-    <message>
-        <source>Surface</source>
-        <translation>Oberfläche</translation>
-    </message>
-    <message>
-        <source>Tilt Up</source>
-        <translation>Nach oben kippen</translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
-        <translation>Schatteneinstellungen</translation>
-    </message>
-    <message>
-        <source>3-D Effects</source>
-        <translation>3-D Effekte </translation>
-    </message>
-    <message>
-        <source>Shadow Color</source>
-        <translation>Schattenfarbe</translation>
-    </message>
-    <message>
-        <source>More 3-D Colors</source>
-        <translation>Mehre 3-D Farbe </translation>
-    </message>
-    <message>
-        <source>Shadow On/Off</source>
-        <translation>Schatten Ein/Aus </translation>
-    </message>
-    <message>
-        <source>3-D Settings</source>
-        <translation>3-D Einstellungen</translation>
-    </message>
-    <message>
-        <source>Lighting</source>
-        <translation>Beleuchtung</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_shadowdrawingtools_vml</name>
-    <message>
-        <source>Dim</source>
-        <translation>Abblenden</translation>
-    </message>
-    <message>
-        <source>0 pt</source>
-        <translation>0 Pt.</translation>
-    </message>
-    <message>
-        <source>36 pt</source>
-        <translation>36 Pt.</translation>
-    </message>
-    <message>
-        <source>72 pt</source>
-        <translation>72 Pt.</translation>
-    </message>
-    <message>
-        <source>Depth</source>
-        <translation>Tiefe</translation>
-    </message>
-    <message>
-        <source>Matte</source>
-        <translation>Matt</translation>
-    </message>
-    <message>
-        <source>Metal</source>
-        <translation>Metall</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation>Präzisionsausrichtung Schatten unten</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation>Präzisionsausrichtung Schatten links</translation>
-    </message>
-    <message>
-        <source>144 pt</source>
-        <translation>144 Pt.</translation>
-    </message>
-    <message>
-        <source>288 pt</source>
-        <translation>288 Pt.</translation>
-    </message>
-    <message>
-        <source>Tilt Down</source>
-        <translation>Nach unten neigen</translation>
-    </message>
-    <message>
-        <source>Tilt Left</source>
-        <translation>Nach links neigen</translation>
-    </message>
-    <message>
-        <source>Semitransparent Shadow</source>
-        <translation>Halbtransparenter Schatten</translation>
-    </message>
-    <message>
-        <source>Bright</source>
-        <translation>Hell</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Benutzerdefiniert</translation>
-    </message>
-    <message>
-        <source>Infinity</source>
-        <translation>Unendlich</translation>
-    </message>
-    <message>
-        <source>No 3-D</source>
-        <translation>Kein 3D</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>Normal</translation>
-    </message>
-    <message>
-        <source>3-D On/Off</source>
-        <translation>3D Ein/Aus</translation>
-    </message>
-    <message>
-        <source>No Shadow</source>
-        <translation>Kein Schatten</translation>
-    </message>
-    <message>
-        <source>Shadow Effects</source>
-        <translation>Schatteneffekte</translation>
-    </message>
-    <message>
-        <source>3-D Color</source>
-        <translation>3D-Farbe</translation>
-    </message>
-    <message>
-        <source>Tilt Right</source>
-        <translation>Nach rechts neigen</translation>
-    </message>
-    <message>
-        <source>Perspective</source>
-        <translation>Perspektive</translation>
-    </message>
-    <message>
-        <source>Plastic</source>
-        <translation>Plastik</translation>
-    </message>
-    <message>
-        <source>Wire Frame</source>
-        <translation>Drahtrahmen</translation>
-    </message>
-    <message>
-        <source>More Shadow Colors</source>
-        <translation>Weitere Schattenfarben</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
-        <translation>Präzisionsausrichtung Schatten oben</translation>
-    </message>
-    <message>
-        <source>Parallel</source>
-        <translation>Parallel</translation>
-    </message>
-    <message>
-        <source>Direction</source>
-        <translation>Richtung</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation>Präzisionsausrichtung Schatten rechts</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation>Pipette</translation>
-    </message>
-    <message>
-        <source>Surface</source>
-        <translation>Oberfläche</translation>
-    </message>
-    <message>
-        <source>Tilt Up</source>
-        <translation>Nach oben neigen</translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
-        <translation>Schatteneinstellungen</translation>
-    </message>
-    <message>
-        <source>3-D Effects</source>
-        <translation>3D-Effekte</translation>
-    </message>
-    <message>
-        <source>Shadow Color</source>
-        <translation>Schattenfarbe</translation>
-    </message>
-    <message>
-        <source>More 3-D Colors</source>
-        <translation>Mehr 3D-Farben</translation>
-    </message>
-    <message>
-        <source>Shadow On/Off</source>
-        <translation>Schatten ein/aus</translation>
-    </message>
-    <message>
-        <source>3-D Settings</source>
-        <translation>3D-Einstellungen</translation>
-    </message>
-    <message>
-        <source>Lighting</source>
-        <translation>Beleuchtung</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_washadowdrawingtools</name>
-    <message>
-        <source>Dim</source>
-        <translation>Dunkel</translation>
-    </message>
-    <message>
-        <source>0 pt</source>
-        <translation>0 pt</translation>
-    </message>
-    <message>
-        <source>36 pt</source>
-        <translation>36 pt</translation>
-    </message>
-    <message>
-        <source>72 pt</source>
-        <translation>72 pt</translation>
-    </message>
-    <message>
-        <source>Depth</source>
-        <translation>Tiefe</translation>
-    </message>
-    <message>
-        <source>Matte</source>
-        <translation>Matt</translation>
-    </message>
-    <message>
-        <source>Metal</source>
-        <translation>Metall</translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Down</source>
-        <translation>Präzisionsausrichtung Schatten unten</translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Left</source>
-        <translation>Präzisionsausrichtung Schatten links</translation>
-    </message>
-    <message>
-        <source>144 pt</source>
-        <translation>144 pt</translation>
-    </message>
-    <message>
-        <source>288 pt</source>
-        <translation>288 pt</translation>
-    </message>
-    <message>
-        <source>Tilt Down</source>
-        <translation>Nach unten kippen</translation>
-    </message>
-    <message>
-        <source>Tilt Left</source>
-        <translation>Nach links kippen</translation>
-    </message>
-    <message>
-        <source>Semitransparent Shadow</source>
-        <translation>Halbtransparenter Schatten</translation>
-    </message>
-    <message>
-        <source>Bright</source>
-        <translation>Hell</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Benutzerdefiniert</translation>
-    </message>
-    <message>
-        <source>Infinity</source>
-        <translation>Unendlich</translation>
-    </message>
-    <message>
-        <source>No 3-D</source>
-        <translation>Kein 3-D</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>Standard</translation>
-    </message>
-    <message>
-        <source>3-D On/Off</source>
-        <translation>3-D Ein/Aus</translation>
-    </message>
-    <message>
-        <source>No Shadow</source>
-        <translation>Kein Schatten</translation>
-    </message>
-    <message>
-        <source>3-D Color</source>
-        <translation>3-D Farbe</translation>
-    </message>
-    <message>
-        <source>Tilt Right</source>
-        <translation>Nach recht kippen</translation>
-    </message>
-    <message>
-        <source>Perspective</source>
-        <translation>Perspektive</translation>
-    </message>
-    <message>
-        <source>Plastic</source>
-        <translation>Plastik</translation>
-    </message>
-    <message>
-        <source>Wire Frame</source>
-        <translation>Drahtrahmen</translation>
-    </message>
-    <message>
-        <source>More Shadow Colors</source>
-        <translation>Weitere Schattenfarben</translation>
-    </message>
-    <message>
-        <source>Parallel</source>
-        <translation>Parallel</translation>
-    </message>
-    <message>
-        <source>Direction</source>
-        <translation>Richtung</translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Right</source>
-        <translation>Präzisionsausrichtung Schatten recht</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation>Pipette</translation>
-    </message>
-    <message>
-        <source>Surface</source>
-        <translation>Oberfläche</translation>
-    </message>
-    <message>
-        <source>Tilt Up</source>
-        <translation>Nach oben kippen</translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
-        <translation>Schatteneinstellungen</translation>
-    </message>
-    <message>
-        <source>Shadow Color</source>
-        <translation>Schattenfarbe</translation>
-    </message>
-    <message>
-        <source>More 3-D Colors</source>
-        <translation>Mehre  3-D Farbe </translation>
-    </message>
-    <message>
-        <source>Nudge Shadow Up</source>
-        <translation>Präzisionsausrichtung Schatten oben</translation>
-    </message>
-    <message>
-        <source>Shadow On/Off</source>
-        <translation>Schatten Ein/Aus</translation>
-    </message>
-    <message>
-        <source>3-D Settings</source>
-        <translation>3-D Einstellungen</translation>
-    </message>
-    <message>
-        <source>Lighting</source>
-        <translation>Beleuchtung</translation>
-    </message>
-</context>
-<context>
-    <name>KxImportDataFromWebDlgUI</name>
-    <message>
-        <source>新建Web查询</source>
-        <translation>Neue Webabfrage</translation>
-    </message>
-    <message>
-        <source>&amp;Option ...</source>
-        <translation>Option ...</translation>
-    </message>
-    <message>
-        <source>地址(&amp;D):</source>
-        <translation>Adresse:</translation>
-    </message>
-    <message>
-        <source>保存查询</source>
-        <translation>Abfrage speichern</translation>
-    </message>
-    <message>
-        <source>导入(&amp;I)</source>
-        <translation>Importieren</translation>
-    </message>
-    <message>
-        <source>转到(&amp;T)</source>
-        <translation>Gehe zu</translation>
-    </message>
-    <message>
-        <source>停止</source>
-        <translation>Anhalten</translation>
-    </message>
-    <message>
-        <source>前进</source>
-        <translation>Fortfahren</translation>
-    </message>
-    <message>
-        <source>刷新</source>
-        <translation>Aktualisieren</translation>
-    </message>
-    <message>
-        <source>取消</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>后退</source>
-        <translation>Zurück</translation>
-    </message>
-    <message>
-        <source>向前</source>
-        <translation>Vorwärts</translation>
-    </message>
-    <message>
-        <source>保存</source>
-        <translation>Speichern</translation>
-    </message>
-    <message>
-        <source>选项</source>
-        <translation>Optionen</translation>
-    </message>
-    <message>
-        <source>返回</source>
-        <translation>Zurück</translation>
-    </message>
-</context>
-<context>
     <name>KSymbolComboBox</name>
     <message>
         <source>Lao</source>
@@ -29883,6 +29416,14 @@ Ein/Aus</translation>
     <message>
         <source>Arabic</source>
         <translation>Arabisch</translation>
+    </message>
+    <message>
+        <source>French</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>German</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mongolian</source>
@@ -29935,6 +29476,10 @@ Ein/Aus</translation>
     <message>
         <source>Gujarati</source>
         <translation>Gujaratisch</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Georgian</source>
@@ -30443,6 +29988,11 @@ Wenn Sie dieses Feldkontrollkästchen leer lassen und dann auf „OK“ klicken,
         <translation>Benutzerdefiniert</translation>
     </message>
     <message>
+        <source>WeChat Customer Service</source>
+        <comment>Linux Version</comment>
+        <translation>WPS-Kundendienst</translation>
+    </message>
+    <message>
         <source>Service Expired</source>
         <translation>Dienst ist abgelaufen</translation>
     </message>
@@ -30543,16 +30093,17 @@ Wenn Sie dieses Feldkontrollkästchen leer lassen und dann auf „OK“ klicken,
         <translation>Gestern</translation>
     </message>
     <message>
-        <source>WeChat Customer Service</source>
-        <translation>WeChat-Kundendienst</translation>
-    </message>
-    <message>
         <source>WPS After-sale Microblog</source>
         <translation>WPS After-sale Microblog</translation>
     </message>
     <message>
         <source>Export to PDF</source>
         <translation>In PDF exportieren</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <comment>Windows Version</comment>
+        <translation>WPS-Kundendienst</translation>
     </message>
     <message>
         <source>Empty Cell</source>
@@ -30593,6 +30144,10 @@ Wenn Sie dieses Feldkontrollkästchen leer lassen und dann auf „OK“ klicken,
     <message>
         <source>Next week</source>
         <translation>Nächste Woche</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>WeChat-Kundendienst</translation>
     </message>
 </context>
 <context>
@@ -30654,6 +30209,10 @@ Wenn Sie dieses Feldkontrollkästchen leer lassen und dann auf „OK“ klicken,
         <translation>WPS-Hotspot</translation>
     </message>
     <message>
+        <source>Print</source>
+        <translation>Drucken</translation>
+    </message>
+    <message>
         <source>Shape</source>
         <translation>Form</translation>
     </message>
@@ -30668,6 +30227,10 @@ Wenn Sie dieses Feldkontrollkästchen leer lassen und dann auf „OK“ klicken,
     <message>
         <source>Show Toolbar</source>
         <translation>Symbolleiste anzeigen</translation>
+    </message>
+    <message>
+        <source>Grab Ellipse</source>
+        <translation>Bildschirmerfassungs-Ellipse</translation>
     </message>
     <message>
         <source>Minimize Window</source>
@@ -30708,7 +30271,7 @@ reparieren</translation>
     </message>
     <message>
         <source>Resource Shop</source>
-        <translation type="unfinished"/>
+        <translation>Ressourcen-Shop</translation>
     </message>
     <message>
         <source>Slicer Tools</source>
@@ -30763,6 +30326,10 @@ reparieren</translation>
         <translation>Halbtransparenter Schatten</translation>
     </message>
     <message>
+        <source>Grab Polygon</source>
+        <translation>Erfassungs-Polygon</translation>
+    </message>
+    <message>
         <source>Cloud Service</source>
         <translation>Cloud-Dienst</translation>
     </message>
@@ -30805,6 +30372,11 @@ reparieren</translation>
     <message>
         <source>Insert</source>
         <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <comment>Linux Version</comment>
+        <translation>WPS-Kundendienst</translation>
     </message>
     <message>
         <source>Service Expired</source>
@@ -30895,6 +30467,10 @@ reparieren</translation>
         <translation>Schnelles Abrufen</translation>
     </message>
     <message>
+        <source>Grab Rect</source>
+        <translation>Bildschirmerfassungs-Rechteck</translation>
+    </message>
+    <message>
         <source>Quick Access Menu</source>
         <translation>Schnellzugriff-Menü</translation>
     </message>
@@ -30941,7 +30517,7 @@ umbrechen</translation>
     </message>
     <message>
         <source>Sparkline</source>
-        <translation type="unfinished"/>
+        <translation>Sparkline</translation>
     </message>
     <message>
         <source>Shadow
@@ -31015,20 +30591,20 @@ zentrieren</translation>
         <translation>Gleiche Zellen verbinden</translation>
     </message>
     <message>
-        <source>Comment</source>
-        <translation>Kommentar</translation>
+        <source>Hide current window when taking screenshots</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Launch Online Metting</source>
-        <translation type="unfinished"/>
+        <source>Comment</source>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>Equation Tool</source>
         <translation>Formeltool</translation>
     </message>
     <message>
-        <source>WeChat Customer Service</source>
-        <translation>WeChat-Kundendienst</translation>
+        <source>Launch Online Metting</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -31055,8 +30631,17 @@ zentrieren</translation>
         <translation>PDF in Word</translation>
     </message>
     <message>
+        <source>Et Toolbox</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Als PDF exportieren</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <comment>Windows Version</comment>
+        <translation>WPS-Kundendienst</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -31079,8 +30664,16 @@ zentrieren</translation>
         <translation>Grafikwerkzeug</translation>
     </message>
     <message>
+        <source>Screenshots</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>accout info</source>
         <translation>Kontoinfo</translation>
+    </message>
+    <message>
+        <source>Num2Text</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom task window</source>
@@ -31095,6 +30688,10 @@ zentrieren</translation>
         <translation>Glücksgeld</translation>
     </message>
     <message>
+        <source>EtTools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>InsertDate</source>
         <translation>Datum einfügen</translation>
     </message>
@@ -31105,6 +30702,10 @@ zentrieren</translation>
     <message>
         <source>Backup Center</source>
         <translation>Automatischen Sicherung</translation>
+    </message>
+    <message>
+        <source>Text2Num</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical Center</source>
@@ -31196,7 +30797,7 @@ Painter</source>
     </message>
     <message>
         <source>Manager Taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Manager-Aufgabenfenster</translation>
     </message>
     <message>
         <source>Text Tool</source>
@@ -31217,6 +30818,10 @@ Painter</source>
     <message>
         <source>Sign Out</source>
         <translation>Abmelden</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>WeChat-Kundendienst</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -31634,7 +31239,7 @@ Painter</source>
     </message>
     <message>
         <source>Report File</source>
-        <translation type="unfinished"/>
+        <translation>Berichtsdatei</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
@@ -31673,6 +31278,10 @@ Painter</source>
         <translation>Sicherung und Wiederherstellung</translation>
     </message>
     <message>
+        <source>Create Online Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>File Information</source>
         <translation type="unfinished"/>
     </message>
@@ -31690,242 +31299,7 @@ Painter</source>
     </message>
     <message>
         <source>Document Security</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_file</name>
-    <message>
-        <source>New</source>
-        <translation>Neu</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Hilfe</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation>Öffnen</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Speichern</translation>
-    </message>
-    <message>
-        <source>Print Preview</source>
-        <translation>Seitenansicht</translation>
-    </message>
-    <message>
-        <source>Feedback and Product Information</source>
-        <translation>Feedback und Produktinformationen</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation>Drucken</translation>
-    </message>
-    <message>
-        <source>Unrestricted Access</source>
-        <translation>Unbeschränkter Zugriff</translation>
-    </message>
-    <message>
-        <source>Data Recovery</source>
-        <translation>Datenwiederherstellung</translation>
-    </message>
-    <message>
-        <source>Check for Updates</source>
-        <translation>Auf Updates überprüfen</translation>
-    </message>
-    <message>
-        <source>New Blank Workbook</source>
-        <translation>Neue leere Arbeitsmappe</translation>
-    </message>
-    <message>
-        <source>WPS Office Forum</source>
-        <translation>WPS Office BBS</translation>
-    </message>
-    <message>
-        <source>WPS Data Recovery Master</source>
-        <translation>WPS Datenwiederherstellungsvorlage</translation>
-    </message>
-    <message>
-        <source>Change Version</source>
-        <translation>Version ändern</translation>
-    </message>
-    <message>
-        <source>About WPS Spreadsheets</source>
-        <translation>Info über WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>Seek Help via Microblog</source>
-        <translation>Hilfe über Microblog suchen</translation>
-    </message>
-    <message>
-        <source>Study Online</source>
-        <translation>Online erlernen</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets 2007/2010 Files</source>
-        <translation>WPS Spreadsheets 2007/2010-Dateien</translation>
-    </message>
-    <message>
-        <source>Feedback by Email</source>
-        <translation>Feedback per E-Mail</translation>
-    </message>
-    <message>
-        <source>Document Protection and Properties</source>
-        <translation>Dokumentschutz und Eigenschaften</translation>
-    </message>
-    <message>
-        <source>New from Default Template</source>
-        <translation>Neu aus Standardvorlage</translation>
-    </message>
-    <message>
-        <source>New Workbook</source>
-        <translation>Neue Arbeitsmappe</translation>
-    </message>
-    <message>
-        <source>Microsoft Excel 97-2003 Files</source>
-        <translation>Microsoft Excel 97-2003-Dateien (*.xls)</translation>
-    </message>
-    <message>
-        <source>Send E-mail</source>
-        <translation>E-Mail versenden</translation>
-    </message>
-    <message>
-        <source>New Excel 2007-2010 Workbook</source>
-        <translation>Neue Excel 2007-2010-Arbeitsmappe</translation>
-    </message>
-    <message>
-        <source>New from Other Templates</source>
-        <translation>Neu aus anderen Vorlagen</translation>
-    </message>
-    <message>
-        <source>Purchase Serial Number</source>
-        <translation>Seriennummer einkaufen</translation>
-    </message>
-    <message>
-        <source>Reload</source>
-        <translation>Erneut laden</translation>
-    </message>
-    <message>
-        <source>Microsoft Excel 97-2003 Templates</source>
-        <translation>Microsoft Excel 97-2003-Vorlagen (*.xlt)</translation>
-    </message>
-    <message>
-        <source>Enter Activation Code</source>
-        <translation>Aktivierungscode eingeben</translation>
-    </message>
-    <message>
-        <source>WPS Office Homepage</source>
-        <translation>WPS Office-HomePage</translation>
-    </message>
-    <message>
-        <source>Support WPS</source>
-        <translation>WPS unterstützen</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation>Eigenschaften</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Templates</source>
-        <translation>WPS Spreadsheets-Vorlagen (*.ett)</translation>
-    </message>
-    <message>
-        <source>User Feedback</source>
-        <translation>Benutzerfeedback</translation>
-    </message>
-    <message>
-        <source>WPS Office Facebook</source>
-        <translation>WPS Office auf Facebook</translation>
-    </message>
-    <message>
-        <source>Save a Copy of the Document</source>
-        <translation>Eine Kopie des Dokuments speichern</translation>
-    </message>
-    <message>
-        <source>File Protection</source>
-        <translation>Dateischutz</translation>
-    </message>
-    <message>
-        <source>Product Management Center</source>
-        <translation>Produktverwaltungscenter</translation>
-    </message>
-    <message>
-        <source>Restrict Permission by People</source>
-        <translation>Berechtigung nach Personen einschränken</translation>
-    </message>
-    <message>
-        <source>WPS Office New Features</source>
-        <translation>WPS Office – Neue Funktionen</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation>Speichern unter</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Help</source>
-        <translation>WPS Spreadsheets-Hilfe</translation>
-    </message>
-    <message>
-        <source>View Permissions</source>
-        <translation>Berechtigungen anzeigen</translation>
-    </message>
-    <message>
-        <source>Encryption</source>
-        <translation>Verschlüsselung</translation>
-    </message>
-    <message>
-        <source>Manage Credentials</source>
-        <translation>Anmeldeinformationen verwalten</translation>
-    </message>
-    <message>
-        <source>WPS Office Community</source>
-        <translation>WPS Office-Community</translation>
-    </message>
-    <message>
-        <source>New from Online Templates</source>
-        <translation>Neu aus Onlinevorlagen</translation>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation>In OFD exportieren</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation>Als PDF exportieren</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files</source>
-        <translation>WPS Spreadsheets Dateien(*.et)</translation>
-    </message>
-    <message>
-        <source>Backup Management</source>
-        <translation>Verwaltung von Sicherungskopien</translation>
-    </message>
-    <message>
-        <source>Other Formats</source>
-        <translation>Andere Formate</translation>
-    </message>
-    <message>
-        <source>Restricted Access</source>
-        <translation>Beschränkter Zugriff</translation>
-    </message>
-    <message>
-        <source>Backup Management and Data Recovery</source>
-        <translation>Verwaltung von Sicherungskopien und Datenwiederherstellung</translation>
-    </message>
-    <message>
-        <source>WPS Office Product Center</source>
-        <translation>WPS Office-Produktcenter</translation>
-    </message>
-    <message>
-        <source>Backup and Recover</source>
-        <translation>Sicherung und Wiederherstellung</translation>
-    </message>
-    <message>
-        <source>Microsoft Excel 2007-2010 Files</source>
-        <translation>Microsoft Excel 2007-2010 (*.xlsx)</translation>
+        <translation>Dokumentsicherheit</translation>
     </message>
 </context>
 <context>
@@ -32269,10 +31643,6 @@ Painter</source>
         <translation>Nach Größe (aufsteigend)</translation>
     </message>
     <message>
-        <source>Cell Icon</source>
-        <translation>Zellensymbol</translation>
-    </message>
-    <message>
         <source>Column %1</source>
         <translation>Spalte %1</translation>
     </message>
@@ -32337,12 +31707,20 @@ Painter</source>
         <translation>(%1) %2</translation>
     </message>
     <message>
+        <source>Conditional Formatting Icon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cell Color</source>
         <translation>Zellenfarbe</translation>
     </message>
     <message>
         <source>Custom List...</source>
         <translation>Benutzerdefinierte Liste...</translation>
+    </message>
+    <message>
+        <source>Cell Icon</source>
+        <translation>Zellensymbol</translation>
     </message>
 </context>
 <context>
@@ -33217,6 +32595,10 @@ T</translation>
         <translation>Standardfehler</translation>
     </message>
     <message>
+        <source>Online Chart</source>
+        <translation>Online-Diagramm</translation>
+    </message>
+    <message>
         <source>Linear Forecast</source>
         <translation>Lineare Prognose</translation>
     </message>
@@ -33263,10 +32645,6 @@ T</translation>
     <message>
         <source>Linear</source>
         <translation>Linear</translation>
-    </message>
-    <message>
-        <source>More Online Charts</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrimaryMajorHorizontal</source>
@@ -33444,290 +32822,9 @@ T</translation>
         <source>InsideBase</source>
         <translation>Basis innerhalb</translation>
     </message>
-</context>
-<context>
-    <name>rainbow.ct_charttools</name>
-    <message>
-        <source>Top</source>
-        <translation>Oben</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Links</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Keine</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation>Anzeigen</translation>
-    </message>
-    <message>
-        <source>AddTrendLine</source>
-        <translation>Trendlinie</translation>
-    </message>
-    <message>
-        <source>PrimaryVerticalAxis</source>
-        <translation>Vertikale Primärachse</translation>
-    </message>
-    <message>
-        <source>Above</source>
-        <translation>Über</translation>
-    </message>
-    <message>
-        <source>Below</source>
-        <translation>Unter</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Rechts</translation>
-    </message>
-    <message>
-        <source>ChangeChartType</source>
-        <translation>Diagrammtyp 
-ändern</translation>
-    </message>
-    <message>
-        <source>SecondaryMajorHorizontal</source>
-        <translation>Sekundäres Hauptgitter horizontal</translation>
-    </message>
-    <message>
-        <source>StandardError</source>
-        <translation>Standardfehler</translation>
-    </message>
-    <message>
-        <source>Linear Forecast</source>
-        <translation>Lineare Prognose</translation>
-    </message>
-    <message>
-        <source>HighLowLines</source>
-        <translation>Spannweitenlinie</translation>
-    </message>
-    <message>
-        <source>DropLinesAndHighLowLines</source>
-        <translation>Bezugslinien und Spannweitenlinien</translation>
-    </message>
-    <message>
-        <source>CenteredOverlay</source>
-        <translation>Zentrierte Überlagerung</translation>
-    </message>
-    <message>
-        <source>AddDataLabels</source>
-        <translation>Datenbeschriftungs</translation>
-    </message>
-    <message>
-        <source>SecondaryMinorVertial</source>
-        <translation>Sekundäres Hilfsgitter vertikal</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation>Unten</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation>Zentriert</translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <translation>Format</translation>
-    </message>
-    <message>
-        <source>AddAxisTitle</source>
-        <translation>Achsentitel</translation>
-    </message>
-    <message>
-        <source>Exponential</source>
-        <translation>Exponential</translation>
-    </message>
-    <message>
-        <source>Linear</source>
-        <translation>Linear</translation>
-    </message>
     <message>
         <source>More Online Charts</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PrimaryMajorHorizontal</source>
-        <translation>Primäres Hauptgitter horizontal</translation>
-    </message>
-    <message>
-        <source>Reset Style</source>
-        <translation>Formatvorlage zurücksetzen</translation>
-    </message>
-    <message>
-        <source>PrimaryMajorVertical</source>
-        <translation>Primäres Hauptgitter vertikal</translation>
-    </message>
-    <message>
-        <source>StandardDeviation</source>
-        <translation>Standardabweichung</translation>
-    </message>
-    <message>
-        <source>DropLines</source>
-        <translation>Bezugslinien</translation>
-    </message>
-    <message>
-        <source>Position</source>
-        <translation>Position</translation>
-    </message>
-    <message>
-        <source>PrimaryMinorVertial</source>
-        <translation>Primäres Hilfsgitter vertikal</translation>
-    </message>
-    <message>
-        <source>AddAxis</source>
-        <translation>Achse</translation>
-    </message>
-    <message>
-        <source>SwitchRowCol</source>
-        <translation>Zeile/Spalte 
-wechseln</translation>
-    </message>
-    <message>
-        <source>AddGridLine</source>
-        <translation>Gitternetzlinien</translation>
-    </message>
-    <message>
-        <source>BestFit</source>
-        <translation>Optimale Breite</translation>
-    </message>
-    <message>
-        <source>SecondaryHorizontalAxis</source>
-        <translation>Horizontale Sekundärachse</translation>
-    </message>
-    <message>
-        <source>AddLegend</source>
-        <translation>Legende</translation>
-    </message>
-    <message>
-        <source>DataCallout</source>
-        <translation>Datenlegende</translation>
-    </message>
-    <message>
-        <source>speedLayout</source>
-        <translation>Schnell-
-layout</translation>
-    </message>
-    <message>
-        <source>ChartStyle</source>
-        <translation>Diagrammformat</translation>
-    </message>
-    <message>
-        <source>Percentage</source>
-        <translation>Prozent</translation>
-    </message>
-    <message>
-        <source>SecondaryMajorVertical</source>
-        <translation>Sekundäres Hauptgitter vertikal</translation>
-    </message>
-    <message>
-        <source>AddErrorBar</source>
-        <translation>Fehlerindikatoren</translation>
-    </message>
-    <message>
-        <source>TypeSection</source>
-        <translation>Diagrammtyp</translation>
-    </message>
-    <message>
-        <source>DataSection</source>
-        <translation>Datenabschnitt</translation>
-    </message>
-    <message>
-        <source>InsideEnd</source>
-        <translation>Ende innerhalb</translation>
-    </message>
-    <message>
-        <source>OutsideEnd</source>
-        <translation>Ende außerhalb</translation>
-    </message>
-    <message>
-        <source>PrimaryMinorHorizontal</source>
-        <translation>Primäres Hilfsgitter horizontal</translation>
-    </message>
-    <message>
-        <source>Select Data</source>
-        <translation>Daten auswählen</translation>
-    </message>
-    <message>
-        <source>layoutSection</source>
-        <translation>Diagrammlayout</translation>
-    </message>
-    <message>
-        <source>AddChartElements</source>
-        <translation>Diagramm-
-element hinzufügen</translation>
-    </message>
-    <message>
-        <source>SeriesLines</source>
-        <translation>Verbindungslinien</translation>
-    </message>
-    <message>
-        <source>Chart Elements</source>
-        <translation>Diagrammelemente</translation>
-    </message>
-    <message>
-        <source>MoveChart</source>
-        <translation>Diagramm 
-verschieben</translation>
-    </message>
-    <message>
-        <source>AboveChart</source>
-        <translation>Über Diagramm</translation>
-    </message>
-    <message>
-        <source>PrimaryHorizontalAxis</source>
-        <translation>Horizontale Primärachse</translation>
-    </message>
-    <message>
-        <source>WithLegendKeys</source>
-        <translation>Mit Legendensymbolen</translation>
-    </message>
-    <message>
-        <source>SecondaryMinorHorizontal</source>
-        <translation>Sekundäres Hilfsgitter horizontal</translation>
-    </message>
-    <message>
-        <source>SecondaryVerticalAxis</source>
-        <translation>Vertikale Sekundärachse</translation>
-    </message>
-    <message>
-        <source>changeColor</source>
-        <translation>Farbe 
-ändern</translation>
-    </message>
-    <message>
-        <source>AddDataTable</source>
-        <translation>Datentabelle</translation>
-    </message>
-    <message>
-        <source>Moving Average</source>
-        <translation>Gleitender Durchschnitt</translation>
-    </message>
-    <message>
-        <source>AddChartTitle</source>
-        <translation>Diagrammtitel</translation>
-    </message>
-    <message>
-        <source>AddChartLines</source>
-        <translation>Linien</translation>
-    </message>
-    <message>
-        <source>Current Selection</source>
-        <translation>Aktuelle Auswahl</translation>
-    </message>
-    <message>
-        <source>AddUpDownBar</source>
-        <translation>Pos./Neg. Abweichungsbalken</translation>
-    </message>
-    <message>
-        <source>NoLegendKeys</source>
-        <translation>Ohne Legendensymbole</translation>
-    </message>
-    <message>
-        <source>InsideBase</source>
-        <translation>Basis innerhalb</translation>
     </message>
 </context>
 <context>
@@ -33788,6 +32885,10 @@ verschieben</translation>
     <message>
         <source>This workbook has referred to data on other workbooks. Update to get the latest data ?</source>
         <translation>Diese Arbeitsmappe bezieht sich auf Daten in anderen Arbeitsmappen. Aktualisieren, um die neuesten Daten zu erhalten?</translation>
+    </message>
+    <message>
+        <source>security warning: JS macros and automatic update links have been disabled.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Spreadsheets has turned on Manual Recalculation, in which calculation result will not immediately reflect data change.</source>
@@ -34928,490 +34029,10 @@ Form</translation>
     </message>
 </context>
 <context>
-    <name>rainbow.ct_wordart</name>
-    <message>
-        <source>Plain Text</source>
-        <translation>Nur Text</translation>
-    </message>
-    <message>
-        <source>1 pt</source>
-        <translation>1 pt</translation>
-    </message>
-    <message>
-        <source>3 pt</source>
-        <translation>3 pt</translation>
-    </message>
-    <message>
-        <source>6 pt</source>
-        <translation>6 pt</translation>
-    </message>
-    <message>
-        <source>Dash</source>
-        <translation>Strich</translation>
-    </message>
-    <message>
-        <source>Stop</source>
-        <translation>Beenden</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Button (Curve)</source>
-        <translation>Schaltfläche (Kontur)</translation>
-    </message>
-    <message>
-        <source>Align Center</source>
-        <translation>Horizontal zentrieren</translation>
-    </message>
-    <message>
-        <source>Equal Height</source>
-        <translation>Gleiche Höhe</translation>
-    </message>
-    <message>
-        <source>Align</source>
-        <translation>Ausrichten</translation>
-    </message>
-    <message>
-        <source>Inflate</source>
-        <translation>Nach oben vergrößern</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation>Gruppe</translation>
-    </message>
-    <message>
-        <source>Loose</source>
-        <translation>Weit</translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation>Durchgezogen</translation>
-    </message>
-    <message>
-        <source>Inflate Bottom</source>
-        <translation>Nach unten vergrößern</translation>
-    </message>
-    <message>
-        <source>Edit Text</source>
-        <translation>Text bearbeiten</translation>
-    </message>
-    <message>
-        <source>Send to Back</source>
-        <translation>In den Hintergrund</translation>
-    </message>
-    <message>
-        <source>Snap to Grid</source>
-        <translation>Am Raster ausrichten</translation>
-    </message>
-    <message>
-        <source>Flip Horizontal</source>
-        <translation>Horizontal kippen</translation>
-    </message>
-    <message>
-        <source>Flip Vertical</source>
-        <translation>Vertikal kippen</translation>
-    </message>
-    <message>
-        <source>Align Middle</source>
-        <translation>Vertikal zentrieren</translation>
-    </message>
-    <message>
-        <source>Slant Up</source>
-        <translation>Schräg nach oben</translation>
-    </message>
-    <message>
-        <source>Chevron Down</source>
-        <translation>Chevron nach unten</translation>
-    </message>
-    <message>
-        <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
-    </message>
-    <message>
-        <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
-    </message>
-    <message>
-        <source>WordArt Styles</source>
-        <translation>WordArt Stil</translation>
-    </message>
-    <message>
-        <source>0.5 pt</source>
-        <translation>0.5 pt</translation>
-    </message>
-    <message>
-        <source>1.5 pt</source>
-        <translation>1.5 pt</translation>
-    </message>
-    <message>
-        <source>Ring Outside</source>
-        <translation>Kreis außen</translation>
-    </message>
-    <message>
-        <source>Deflate Inflate</source>
-        <translation>Verkleinern-Vergrößern</translation>
-    </message>
-    <message>
-        <source>4.5 pt</source>
-        <translation>4.5 pt</translation>
-    </message>
-    <message>
-        <source>WordArt Vertical Text</source>
-        <translation>WordArt als vertikaler Text</translation>
-    </message>
-    <message>
-        <source>Line Pattern</source>
-        <translation>Gemusterte Linien</translation>
-    </message>
-    <message>
-        <source>More Line Colors</source>
-        <translation>Weitere Linienfarben</translation>
-    </message>
-    <message>
-        <source>More Fill Colors</source>
-        <translation>Mehre Füllfarben</translation>
-    </message>
-    <message>
-        <source>Word Justify</source>
-        <translation>Wortausrichtung</translation>
-    </message>
-    <message>
-        <source>Long Dash</source>
-        <translation>Langer Strich</translation>
-    </message>
-    <message>
-        <source>Can Up</source>
-        <translation>Zylinder nach oben</translation>
-    </message>
-    <message>
-        <source>Triangle Up</source>
-        <translation>Dreieck nach oben</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation>Zentriert</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Benutzerdefiniert</translation>
-    </message>
-    <message>
-        <source>Ring Inside</source>
-        <translation>Kreis innen</translation>
-    </message>
-    <message>
-        <source>Arch Up (Curve)</source>
-        <translation>Bogen nach oben (Kontur)</translation>
-    </message>
-    <message>
-        <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
-    </message>
-    <message>
-        <source>Rotate Right 90°</source>
-        <translation>Rechtsdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Slant Down</source>
-        <translation>Schräg nach unten</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>Drehen</translation>
-    </message>
-    <message>
-        <source>Rotate Left 90°</source>
-        <translation>Linksdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Wave 1</source>
-        <translation>Welle 1</translation>
-    </message>
-    <message>
-        <source>Wave 2</source>
-        <translation>Welle 2</translation>
-    </message>
-    <message>
-        <source>Free Rotate</source>
-        <translation>Freies Drehen</translation>
-    </message>
-    <message>
-        <source>WordArt Gallery</source>
-        <translation>WordArt Katalog</translation>
-    </message>
-    <message>
-        <source>Right Align</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Left Align</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
-        <translation>Linienart</translation>
-    </message>
-    <message>
-        <source>Show Grid</source>
-        <translation>Raster anzeigen</translation>
-    </message>
-    <message>
-        <source>WordArt</source>
-        <comment>Insert</comment>
-        <translation>WordArt</translation>
-    </message>
-    <message>
-        <source>Bring Forward</source>
-        <translation>Eine Ebene nach vorne</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <translation>Bild</translation>
-    </message>
-    <message>
-        <source>WordArt Alignment</source>
-        <translation>WordArt-Ausrichtung</translation>
-    </message>
-    <message>
-        <source>More Lines</source>
-        <translation>Mehre Zeilen</translation>
-    </message>
-    <message>
-        <source>Fade Right</source>
-        <translation>Abnehmend nach recht</translation>
-    </message>
-    <message>
-        <source>WordArt Shape Outline</source>
-        <translation>WordArt-Kontur</translation>
-    </message>
-    <message>
-        <source>Equal Size</source>
-        <translation>Gleiche Größe </translation>
-    </message>
-    <message>
-        <source>Can Down</source>
-        <translation>Zylinder nach unten</translation>
-    </message>
-    <message>
-        <source>WordArt Shape</source>
-        <translation>WordArt-Form</translation>
-    </message>
-    <message>
-        <source>Bring to Front</source>
-        <translation>In den Vordergrund</translation>
-    </message>
-    <message>
-        <source>Arch Down (Curve)</source>
-        <translation>Bogen nach unten (Kontur)</translation>
-    </message>
-    <message>
-        <source>Square Dot</source>
-        <translation>Square Dot</translation>
-    </message>
-    <message>
-        <source>Arrange</source>
-        <translation>Anordnen</translation>
-    </message>
-    <message>
-        <source>Dash Dot</source>
-        <translation>Strich Punkt</translation>
-    </message>
-    <message>
-        <source>Arch Down (Pour)</source>
-        <translation>Bogen nach unten (gefüllt)</translation>
-    </message>
-    <message>
-        <source>Circle (Pour)</source>
-        <translation>Kreis (Gefüllt)</translation>
-    </message>
-    <message>
-        <source>Deflate Top</source>
-        <translation>Nach oben verkleinern</translation>
-    </message>
-    <message>
-        <source>Inflate Top</source>
-        <translation>Nach oben vergrößern</translation>
-    </message>
-    <message>
-        <source>Stretch Justify</source>
-        <translation>Streckung ausrichten</translation>
-    </message>
-    <message>
-        <source>Cascade Up</source>
-        <translation>Überlappend nach oben</translation>
-    </message>
-    <message>
-        <source>Triangle Down</source>
-        <translation>Dreieck nach unten</translation>
-    </message>
-    <message>
-        <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
-    </message>
-    <message>
-        <source>Format Object</source>
-        <translation>Objekt formatieren</translation>
-    </message>
-    <message>
-        <source>Distribute Vertically</source>
-        <translation>Vertikal verteilen</translation>
-    </message>
-    <message>
-        <source>Distribute Horizontally</source>
-        <translation>Horizontal verteilen</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation>Pipette</translation>
-    </message>
-    <message>
-        <source>Arch Up (Pour)</source>
-        <translation>Bogen nach oben (Gefüllt)</translation>
-    </message>
-    <message>
-        <source>Dash Style</source>
-        <translation>Strichart</translation>
-    </message>
-    <message>
-        <source>Fade Down</source>
-        <translation>Abnehmend nach unten</translation>
-    </message>
-    <message>
-        <source>Fade Left</source>
-        <translation>Abnehmend nach links</translation>
-    </message>
-    <message>
-        <source>Deflate</source>
-        <translation>Verkleinern</translation>
-    </message>
-    <message>
-        <source>WordArt Shape Fill</source>
-        <translation>WortArt Füllung</translation>
-    </message>
-    <message>
-        <source>Very Loose</source>
-        <translation>Sehr weit</translation>
-    </message>
-    <message>
-        <source>Very Tight</source>
-        <translation>Sehr eng</translation>
-    </message>
-    <message>
-        <source>Same Letter Heights</source>
-        <translation>WordArt-Buchstaben mit gleicher Höhe</translation>
-    </message>
-    <message>
-        <source>Bottom (Pour)</source>
-        <translation>Gefüllte Schaltfläche</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot</source>
-        <translation>Langer Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Circle (Curve)</source>
-        <translation>Kreis (Kontur)</translation>
-    </message>
-    <message>
-        <source>Round Dot</source>
-        <translation>Runder Punkt</translation>
-    </message>
-    <message>
-        <source>Ungroup</source>
-        <translation>GruppierungAufheben</translation>
-    </message>
-    <message>
-        <source>Curve Down</source>
-        <translation>Gekrümmt nach unten</translation>
-    </message>
-    <message>
-        <source>Fade Up</source>
-        <translation>Abnehmend nach oben</translation>
-    </message>
-    <message>
-        <source>WordArt Size</source>
-        <translation>WordArt Größe</translation>
-    </message>
-    <message>
-        <source>Curve Up</source>
-        <translation>Kurve oben </translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <source>Letter Justify</source>
-        <translation>Zeichen ausrichten</translation>
-    </message>
-    <message>
-        <source>Character Spacing</source>
-        <translation>Zeichenabstand</translation>
-    </message>
-    <message>
-        <source>Chevron Up</source>
-        <translation>Chevron nach oben </translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Equal Width</source>
-        <translation>Gleiche Breite</translation>
-    </message>
-    <message>
-        <source>Send Backward</source>
-        <translation>Eine Ebene nach hinten</translation>
-    </message>
-    <message>
-        <source>WordArt</source>
-        <translation>WordArt</translation>
-    </message>
-    <message>
-        <source>Double Wave 1</source>
-        <translation>Doppelte Welle 1</translation>
-    </message>
-    <message>
-        <source>Double Wave 2</source>
-        <translation>Doppelte Welle 2</translation>
-    </message>
-    <message>
-        <source>Cascade Down</source>
-        <translation>Überlappend nach unten</translation>
-    </message>
-    <message>
-        <source>Deflate Bottom</source>
-        <translation>Nach unten verkleinern</translation>
-    </message>
-    <message>
-        <source>Deflate Inflate Deflate</source>
-        <translation>Verkleinern-Vergrößern-Verkleinern</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Langer Strich-Punkt-Punkt</translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation>Oben ausrichten</translation>
-    </message>
-</context>
-<context>
     <name>KxEtRecordMacroDlg</name>
     <message>
         <source>Shortcut key must be a letter.</source>
         <translation>Tastenkombinations-Taste muss ein einzelner Buchstabe sein.</translation>
-    </message>
-    <message>
-        <source>New Workbook</source>
-        <translation>Neue Arbeitsmappe</translation>
     </message>
     <message>
         <source>The name you entered is not valid.</source>
@@ -35422,12 +34043,24 @@ Form</translation>
         <translation>Der Befehl konnte nicht in freigegebene Arbeitsmappe angewendet werden und sie  kein Makro aufzeichnen.</translation>
     </message>
     <message>
-        <source>This Workbook</source>
-        <translation>Diese Arbeitsmappe</translation>
-    </message>
-    <message>
         <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
         <translation>Makro „%1“ ist bereits vorhanden. Soll der vorhandene Makro ersetzt werden?</translation>
+    </message>
+    <message>
+        <source>Record JS Macro</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Macro &quot;%1&quot; already exists, please change the name.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Workbook</source>
+        <translation>Neue Arbeitsmappe</translation>
+    </message>
+    <message>
+        <source>This Workbook</source>
+        <translation>Diese Arbeitsmappe</translation>
     </message>
     <message>
         <source>Macro recorded %2 by %1</source>
@@ -35785,6 +34418,10 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
         <translation>&amp;Optionen...</translation>
     </message>
     <message>
+        <source>PageSet&amp;up...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Acti&amp;ve sheet</source>
         <translation>&amp;Aktives Arbeitsblatt</translation>
     </message>
@@ -35795,6 +34432,10 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
     <message>
         <source>&amp;From:</source>
         <translation>V&amp;on:</translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1 Page</source>
@@ -35855,6 +34496,10 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
     <message>
         <source>Scale to paper si&amp;ze:</source>
         <translation>Pap&amp;ierformat skalieren:</translation>
+    </message>
+    <message>
+        <source>Green Pri&amp;nt:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Number of &amp;copies:</source>
@@ -36753,10 +35398,6 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
         <translation>Schatten</translation>
     </message>
     <message>
-        <source>Shapes</source>
-        <translation>Formen</translation>
-    </message>
-    <message>
         <source>Rotate Left 90°</source>
         <translation>Linksdrehung 90 Grad</translation>
     </message>
@@ -36834,7 +35475,7 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
     </message>
     <message>
         <source>Local Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Lokales Textfeld</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -36923,6 +35564,14 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
     <message>
         <source>Align Top</source>
         <translation>Oben ausrichten</translation>
+    </message>
+    <message>
+        <source>Online Textbox</source>
+        <translation>Vorlagentextfeld</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>Formen</translation>
     </message>
 </context>
 <context>
@@ -37296,7 +35945,7 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
     </message>
     <message>
         <source>Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Bildrahmen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -37383,8 +36032,16 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
         <translation>2,25 pt</translation>
     </message>
     <message>
+        <source>Convert Text in Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rotate Right 90°</source>
         <translation>Rechtsdrehung 90 Grad </translation>
+    </message>
+    <message>
+        <source>Picture Extraction</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>More Brightness</source>
@@ -37449,12 +36106,24 @@ komprimieren</translation>
         <translation>Weitere Linien</translation>
     </message>
     <message>
+        <source>Insert Into Cell</source>
+        <translation>In Zelle einfügen</translation>
+    </message>
+    <message>
         <source>Less Brightness</source>
         <translation>Weniger Helligkeit</translation>
     </message>
     <message>
         <source>Equal Size</source>
         <translation>Gleiche Größe</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Picture to PDF</source>
+        <translation>Bild in PDF</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
@@ -37527,6 +36196,10 @@ Picture</source>
         <translation>Transparente Farbe einstellen</translation>
     </message>
     <message>
+        <source>Batch Insert Picture</source>
+        <translation>Masseneinfügung – Bild</translation>
+    </message>
+    <message>
         <source>Long Dash Dot</source>
         <translation>Langer Strich-Punkt</translation>
     </message>
@@ -37547,8 +36220,8 @@ Picture</source>
         <translation>Bildgliederung</translation>
     </message>
     <message>
-        <source>Online Pictures</source>
-        <translation>Online-Bilder</translation>
+        <source>Picture Batch to PDF</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Settings</source>
@@ -37596,6 +36269,10 @@ Size</source>
         <translation>Höhe:</translation>
     </message>
     <message>
+        <source>Translate Image</source>
+        <translation>Bildinhalt übersetzen</translation>
+    </message>
+    <message>
         <source>Long Dash Dot Dot</source>
         <translation>Langer Strich-Punkt-Punkt</translation>
     </message>
@@ -37606,6 +36283,10 @@ Size</source>
     <message>
         <source>From Phone</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Online-Bilder</translation>
     </message>
 </context>
 <context>
@@ -37684,7 +36365,7 @@ Size</source>
     </message>
     <message>
         <source>Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Bildrahmen</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -38153,1061 +36834,6 @@ Ein/Aus</translation>
     </message>
 </context>
 <context>
-    <name>rainbow.ct_drawingtools</name>
-    <message>
-        <source>1 pt</source>
-        <translation>1 pt</translation>
-    </message>
-    <message>
-        <source>3 pt</source>
-        <translation>3 pt</translation>
-    </message>
-    <message>
-        <source>6 pt</source>
-        <translation>6 pt</translation>
-    </message>
-    <message>
-        <source>Dash</source>
-        <translation>Strich</translation>
-    </message>
-    <message>
-        <source>Glow</source>
-        <translation>Leuchteffekt</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Größe</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Align Center</source>
-        <translation>Horizontal zentrieren</translation>
-    </message>
-    <message>
-        <source>Equal Height</source>
-        <translation>Gleiche Höhe</translation>
-    </message>
-    <message>
-        <source>Shape Styles</source>
-        <translation>Formstile</translation>
-    </message>
-    <message>
-        <source>Align</source>
-        <translation>Ausrichten</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation>Gruppe</translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation>Durchgezogen</translation>
-    </message>
-    <message>
-        <source>Send to Back</source>
-        <translation>In den Hintergrund</translation>
-    </message>
-    <message>
-        <source>Snap to Grid</source>
-        <translation>Am Raster ausrichten</translation>
-    </message>
-    <message>
-        <source>Format Painter</source>
-        <translation>Format übertragen</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation>Horizontal</translation>
-    </message>
-    <message>
-        <source>Flip Horizontal</source>
-        <translation>Horizontal kippen</translation>
-    </message>
-    <message>
-        <source>Flip Vertical</source>
-        <translation>Vertikal kippen</translation>
-    </message>
-    <message>
-        <source>Align Middle</source>
-        <translation>Vertikal zentrieren</translation>
-    </message>
-    <message>
-        <source>Shape Effects</source>
-        <translation>Formeffekte</translation>
-    </message>
-    <message>
-        <source>Arrow Style 1</source>
-        <translation>Pfeilstil 1</translation>
-    </message>
-    <message>
-        <source>Arrow Style 2</source>
-        <translation>Pfeilstil 2</translation>
-    </message>
-    <message>
-        <source>Arrow Style 3</source>
-        <translation>Pfeilstil 3</translation>
-    </message>
-    <message>
-        <source>Arrow Style 4</source>
-        <translation>Pfeilstil 4</translation>
-    </message>
-    <message>
-        <source>Arrow Style 5</source>
-        <translation>Pfeilstil 5</translation>
-    </message>
-    <message>
-        <source>Arrow Style 6</source>
-        <translation>Pfeilstil 6</translation>
-    </message>
-    <message>
-        <source>Arrow Style 7</source>
-        <translation>Pfeilstil 7</translation>
-    </message>
-    <message>
-        <source>Arrow Style 8</source>
-        <translation>Pfeilstil 8</translation>
-    </message>
-    <message>
-        <source>Arrow Style 9</source>
-        <translation>Pfeilstil 9</translation>
-    </message>
-    <message>
-        <source>Arrow Style 10</source>
-        <translation>Pfeilstil 10</translation>
-    </message>
-    <message>
-        <source>Arrow Style 11</source>
-        <translation>Pfeilstil 11</translation>
-    </message>
-    <message>
-        <source>Reflection</source>
-        <translation>Spiegelung</translation>
-    </message>
-    <message>
-        <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
-    </message>
-    <message>
-        <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
-    </message>
-    <message>
-        <source>0.5 pt</source>
-        <translation>0.5 pt</translation>
-    </message>
-    <message>
-        <source>1.5 pt</source>
-        <translation>1.5 pt</translation>
-    </message>
-    <message>
-        <source>4.5 pt</source>
-        <translation>4.5 pt</translation>
-    </message>
-    <message>
-        <source>More Line Colors</source>
-        <translation>Weitere Linienfarben</translation>
-    </message>
-    <message>
-        <source>More Fill Colors</source>
-        <translation>Mehre Füllfarben</translation>
-    </message>
-    <message>
-        <source>Long Dash</source>
-        <translation>Langer Strich</translation>
-    </message>
-    <message>
-        <source>More Arrows</source>
-        <translation>Mehre Pfeile</translation>
-    </message>
-    <message>
-        <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
-    </message>
-    <message>
-        <source>Edit Points</source>
-        <translation>Punkte bearbeiten</translation>
-    </message>
-    <message>
-        <source>Rotate Right 90°</source>
-        <translation>Rechtsdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>Drehen</translation>
-    </message>
-    <message>
-        <source>Shadow</source>
-        <translation>Schatten</translation>
-    </message>
-    <message>
-        <source>Rotate Left 90°</source>
-        <translation>Linksdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Insert Shapes</source>
-        <translation>Formen einfügen</translation>
-    </message>
-    <message>
-        <source>Free Rotate</source>
-        <translation>Freies Drehen</translation>
-    </message>
-    <message>
-        <source>Weight</source>
-        <translation>Stärke</translation>
-    </message>
-    <message>
-        <source>Soft Edges</source>
-        <translation>Weiche Kanten</translation>
-    </message>
-    <message>
-        <source>Edit Shape</source>
-        <translation>Form bearbeiten</translation>
-    </message>
-    <message>
-        <source>Shape Size</source>
-        <translation>Shape-Größe</translation>
-    </message>
-    <message>
-        <source>Shape Fill</source>
-        <translation>Fülleffekt</translation>
-    </message>
-    <message>
-        <source>Show Grid</source>
-        <translation>Raster anzeigen</translation>
-    </message>
-    <message>
-        <source>Bring Forward</source>
-        <translation>Eine Ebene nach vorne</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <translation>Bild</translation>
-    </message>
-    <message>
-        <source>More Lines</source>
-        <translation>Mehre Linien</translation>
-    </message>
-    <message>
-        <source>Equal Size</source>
-        <translation>Gleiche Größe</translation>
-    </message>
-    <message>
-        <source>Bring to Front</source>
-        <translation>In den Vordergrund</translation>
-    </message>
-    <message>
-        <source>Square Dot</source>
-        <translation>Viereckiger Punkt</translation>
-    </message>
-    <message>
-        <source>Arrange</source>
-        <translation>Anordnen</translation>
-    </message>
-    <message>
-        <source>Dash Dot</source>
-        <translation>Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Arrow Style</source>
-        <translation>Pfeilstil</translation>
-    </message>
-    <message>
-        <source>ThreeDRotation</source>
-        <translation>3D-Drehung</translation>
-    </message>
-    <message>
-        <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
-    </message>
-    <message>
-        <source>Format Object</source>
-        <translation>Objekt formatieren</translation>
-    </message>
-    <message>
-        <source>Distribute Vertically</source>
-        <translation>Vertikal verteilen</translation>
-    </message>
-    <message>
-        <source>Distribute Horizontally</source>
-        <translation>Horizontal verteilen</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation>Pipette</translation>
-    </message>
-    <message>
-        <source>Dash Style</source>
-        <translation>Strichstil</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot</source>
-        <translation>Langer Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Round Dot</source>
-        <translation>Runder Punkt</translation>
-    </message>
-    <message>
-        <source>Ungroup</source>
-        <translation>Gruppierung aufheben</translation>
-    </message>
-    <message>
-        <source>Change Shapes</source>
-        <translation>Formen ändern</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation>Vertikal</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <source>Text Box</source>
-        <translation>Textfeld</translation>
-    </message>
-    <message>
-        <source>Width: </source>
-        <translation>Breite:</translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation>Gemusterte Linien</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Equal Width</source>
-        <translation>Gleiche Breite </translation>
-    </message>
-    <message>
-        <source>Send Backward</source>
-        <translation>Eine Ebene nach hinten</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation>Höhe:</translation>
-    </message>
-    <message>
-        <source>Shape Outline</source>
-        <translation>Formkontur</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Langer Strich-Punkt-Punkt</translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation>Oben ausrichten</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_picturetool</name>
-    <message>
-        <source>1 pt</source>
-        <translation>1 pt</translation>
-    </message>
-    <message>
-        <source>3 pt</source>
-        <translation>2.25 pt</translation>
-    </message>
-    <message>
-        <source>6 pt</source>
-        <translation>6 pt</translation>
-    </message>
-    <message>
-        <source>Dash</source>
-        <translation>Strich</translation>
-    </message>
-    <message>
-        <source>Crop</source>
-        <translation>Zuschneiden</translation>
-    </message>
-    <message>
-        <source>Glow</source>
-        <translation>Leuchteffekt</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Align Center</source>
-        <translation>Horizontal zentrieren</translation>
-    </message>
-    <message>
-        <source>Equal Height</source>
-        <translation>Gleiche Höhe </translation>
-    </message>
-    <message>
-        <source>Align</source>
-        <translation>Ausrichten</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation>Gruppe</translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation>Durchgezogen</translation>
-    </message>
-    <message>
-        <source>Send to Back</source>
-        <translation>In den Hintergrund</translation>
-    </message>
-    <message>
-        <source>Snap to Grid</source>
-        <translation>Am Raster ausrichten</translation>
-    </message>
-    <message>
-        <source>Format Painter</source>
-        <translation>Format übertragen</translation>
-    </message>
-    <message>
-        <source>Flip Horizontal</source>
-        <translation>Horizontal kippen</translation>
-    </message>
-    <message>
-        <source>Picture Effects</source>
-        <translation>Bildeffekte</translation>
-    </message>
-    <message>
-        <source>Flip Vertical</source>
-        <translation>Vertikal kippen</translation>
-    </message>
-    <message>
-        <source>Align Middle</source>
-        <translation>Vertikal zentrieren</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Onlinebild  einfügen</translation>
-    </message>
-    <message>
-        <source>More Contrast</source>
-        <translation>Mehre Kontrast</translation>
-    </message>
-    <message>
-        <source>Reflection</source>
-        <translation>Spiegelung</translation>
-    </message>
-    <message>
-        <source>Clip Art</source>
-        <translation>ClipArt</translation>
-    </message>
-    <message>
-        <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
-    </message>
-    <message>
-        <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
-    </message>
-    <message>
-        <source>0.5 pt</source>
-        <translation>0.5 pt</translation>
-    </message>
-    <message>
-        <source>1.5 pt</source>
-        <translation>1.5 pt</translation>
-    </message>
-    <message>
-        <source>4.5 pt</source>
-        <translation>4.5 pt</translation>
-    </message>
-    <message>
-        <source>Line Pattern</source>
-        <translation>Gemusterte Linien</translation>
-    </message>
-    <message>
-        <source>Reset Picture and Size</source>
-        <translation>Bild und Größe zurücksetzen</translation>
-    </message>
-    <message>
-        <source>More Line Colors</source>
-        <translation>Weitere Linienfarben</translation>
-    </message>
-    <message>
-        <source>More Fill Colors</source>
-        <translation>Mehre Füllfarben</translation>
-    </message>
-    <message>
-        <source>Adjust</source>
-        <translation>Anpassen</translation>
-    </message>
-    <message>
-        <source>Long Dash</source>
-        <translation>Langer Strich</translation>
-    </message>
-    <message>
-        <source>Insert</source>
-        <translation>Einfügen</translation>
-    </message>
-    <message>
-        <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
-    </message>
-    <message>
-        <source>Rotate Right 90°</source>
-        <translation>Rechtsdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>More Brightness</source>
-        <translation>Mehre Helligkeit</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>Drehen</translation>
-    </message>
-    <message>
-        <source>Shadow</source>
-        <translation>Schatten</translation>
-    </message>
-    <message>
-        <source>Rotate Left 90°</source>
-        <translation>Linksdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>3-D Rotation</source>
-        <translation>3D-Drehung</translation>
-    </message>
-    <message>
-        <source>Free Rotate</source>
-        <translation>Freies Drehen</translation>
-    </message>
-    <message>
-        <source>Soft Edges</source>
-        <translation>Weiche Kanten</translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
-        <translation>Linienart</translation>
-    </message>
-    <message>
-        <source>Show Grid</source>
-        <translation>Raster anzeigen</translation>
-    </message>
-    <message>
-        <source>Bring Forward</source>
-        <translation>Eine Ebene nach vorne</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <translation>Bilder</translation>
-    </message>
-    <message>
-        <source>Compress Pictures</source>
-        <translation>Bilder komprimieren</translation>
-    </message>
-    <message>
-        <source>More Lines</source>
-        <translation>Weitere Linien</translation>
-    </message>
-    <message>
-        <source>Less Brightness</source>
-        <translation>Weniger Helligkeit</translation>
-    </message>
-    <message>
-        <source>Equal Size</source>
-        <translation>Gleiche Größe </translation>
-    </message>
-    <message>
-        <source>Bring to Front</source>
-        <translation>In den Vordergrund</translation>
-    </message>
-    <message>
-        <source>Change Picture</source>
-        <translation>Grafik ändern</translation>
-    </message>
-    <message>
-        <source>Square Dot</source>
-        <translation>Viereckiger Punkt</translation>
-    </message>
-    <message>
-        <source>Less Contrast</source>
-        <translation>Weniger Kontrast</translation>
-    </message>
-    <message>
-        <source>Arrange</source>
-        <translation>Anordnen</translation>
-    </message>
-    <message>
-        <source>Dash Dot</source>
-        <translation>Strichpunkt</translation>
-    </message>
-    <message>
-        <source>Picture Styles</source>
-        <translation>Bildformatvorlagen</translation>
-    </message>
-    <message>
-        <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
-    </message>
-    <message>
-        <source>Format Object</source>
-        <translation>Objekt formatieren</translation>
-    </message>
-    <message>
-        <source>Distribute Vertically</source>
-        <translation>Vertikal verteilen</translation>
-    </message>
-    <message>
-        <source>Distribute Horizontally</source>
-        <translation>Horizontal verteilen</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation>Pipette</translation>
-    </message>
-    <message>
-        <source>Dash Style</source>
-        <translation>Strichart</translation>
-    </message>
-    <message>
-        <source>Set Transparent Color</source>
-        <translation>Transparente Farbe bestimmen</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot</source>
-        <translation>Langer Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Round Dot</source>
-        <translation>Runder Punkt</translation>
-    </message>
-    <message>
-        <source>Ungroup</source>
-        <translation>Gruppierung aufheben</translation>
-    </message>
-    <message>
-        <source>Picture Outline</source>
-        <translation>Grafikumriss</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Onlinebild</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation>ClipArt einfügen</translation>
-    </message>
-    <message>
-        <source>Picture Fill</source>
-        <translation>Bildfüllung</translation>
-    </message>
-    <message>
-        <source>Picture
-Size</source>
-        <translation>Bildgröße</translation>
-    </message>
-    <message>
-        <source>Adjust Picture</source>
-        <translation>Grafik anpassen</translation>
-    </message>
-    <message>
-        <source>Width: </source>
-        <translation>Breite:</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Equal Width</source>
-        <translation>Gleiche Breite</translation>
-    </message>
-    <message>
-        <source>Reset Picture</source>
-        <translation>Bild zurücksetzen</translation>
-    </message>
-    <message>
-        <source>Send Backward</source>
-        <translation>Eine Ebene nach hinten</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation>Höhe:</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Langer Strich-Punkt-Punkt</translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation>Oben ausrichten</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_picturetool_Vml</name>
-    <message>
-        <source>1 pt</source>
-        <translation>1 Pt.</translation>
-    </message>
-    <message>
-        <source>3 pt</source>
-        <translation>3 Pt.</translation>
-    </message>
-    <message>
-        <source>6 pt</source>
-        <translation>6 Pt.</translation>
-    </message>
-    <message>
-        <source>Dash</source>
-        <translation>Strich</translation>
-    </message>
-    <message>
-        <source>Crop</source>
-        <translation>Zuschneiden</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Align Center</source>
-        <translation>Zentriert ausrichten</translation>
-    </message>
-    <message>
-        <source>Equal Height</source>
-        <translation>Gleiche Höhe</translation>
-    </message>
-    <message>
-        <source>Align</source>
-        <translation>Ausrichten</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation>Gruppe</translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation>Durchgezogen</translation>
-    </message>
-    <message>
-        <source>Send to Back</source>
-        <translation>In den Hintergrund</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Down</source>
-        <translation>Präzisionsausrichtung Schatten unten</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Left</source>
-        <translation>Präzisionsausrichtung Schatten links</translation>
-    </message>
-    <message>
-        <source>Snap to Grid</source>
-        <translation>Am Raster ausr</translation>
-    </message>
-    <message>
-        <source>Flip Horizontal</source>
-        <translation>Horizontal spiegeln</translation>
-    </message>
-    <message>
-        <source>Flip Vertical</source>
-        <translation>Vertikal spiegeln</translation>
-    </message>
-    <message>
-        <source>Align Middle</source>
-        <translation>Mittig ausrichten</translation>
-    </message>
-    <message>
-        <source>More Contrast</source>
-        <translation>Mehr Kontrast</translation>
-    </message>
-    <message>
-        <source>Insert Atristic Clip</source>
-        <translation>ClipArt einfügen</translation>
-    </message>
-    <message>
-        <source>Clip Art</source>
-        <translation>ClipArt</translation>
-    </message>
-    <message>
-        <source>0.25 pt</source>
-        <translation>0,25 Pt.</translation>
-    </message>
-    <message>
-        <source>0.75 pt</source>
-        <translation>0,75 Pt.</translation>
-    </message>
-    <message>
-        <source>0.5 pt</source>
-        <translation>0,5 Pt.</translation>
-    </message>
-    <message>
-        <source>1.5 pt</source>
-        <translation>1,5 Pt.</translation>
-    </message>
-    <message>
-        <source>4.5 pt</source>
-        <translation>4,5 Pt.</translation>
-    </message>
-    <message>
-        <source>Semitransparent Shadow</source>
-        <translation>Halbtransparenter Schatten</translation>
-    </message>
-    <message>
-        <source>Line Pattern</source>
-        <translation>Gemusterte Linien</translation>
-    </message>
-    <message>
-        <source>Reset Picture and Size</source>
-        <translation>Bild und Größe zurücksetzen</translation>
-    </message>
-    <message>
-        <source>More Line Colors</source>
-        <translation>Weitere Linienfarben</translation>
-    </message>
-    <message>
-        <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
-    </message>
-    <message>
-        <source>Adjust</source>
-        <translation>Anpassen</translation>
-    </message>
-    <message>
-        <source>Long Dash</source>
-        <translation>Langer Strich</translation>
-    </message>
-    <message>
-        <source>Insert</source>
-        <translation>Einfügen</translation>
-    </message>
-    <message>
-        <source>2.25 pt</source>
-        <translation>2,25 Pt.</translation>
-    </message>
-    <message>
-        <source>Rotate Right 90°</source>
-        <translation>Rechtsdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>More Brightness</source>
-        <translation>Mehr Helligkeit</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>Drehen</translation>
-    </message>
-    <message>
-        <source>No Shadow</source>
-        <translation>Kein Schatten</translation>
-    </message>
-    <message>
-        <source>Rotate Left 90°</source>
-        <translation>Linksdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Free Rotate</source>
-        <translation>Freies Drehen</translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
-        <translation>Linienart</translation>
-    </message>
-    <message>
-        <source>Show Grid</source>
-        <translation>Raster anzeigen</translation>
-    </message>
-    <message>
-        <source>Bring Forward</source>
-        <translation>Eine Ebene nach vorne</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <translation>Bild</translation>
-    </message>
-    <message>
-        <source>Compress Pictures</source>
-        <translation>Bilder komprimieren</translation>
-    </message>
-    <message>
-        <source>More Lines</source>
-        <translation>Weitere Linien</translation>
-    </message>
-    <message>
-        <source>Less Brightness</source>
-        <translation>Weniger Helligkeit</translation>
-    </message>
-    <message>
-        <source>Equal Size</source>
-        <translation>Gleiche Größe</translation>
-    </message>
-    <message>
-        <source>More Shadow Colors</source>
-        <translation>Weitere Schattenfarben</translation>
-    </message>
-    <message>
-        <source>Bring to Front</source>
-        <translation>In den Vordergrund</translation>
-    </message>
-    <message>
-        <source>Change Picture</source>
-        <translation>Bild ändern</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Up</source>
-        <translation>Präzisionsausrichtung Schatten oben</translation>
-    </message>
-    <message>
-        <source>Square Dot</source>
-        <translation>Viereckiger Punkt</translation>
-    </message>
-    <message>
-        <source>Less Contrast</source>
-        <translation>Weniger Kontrast</translation>
-    </message>
-    <message>
-        <source>Arrange</source>
-        <translation>Anordnen</translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation>Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Shift Shadow Right</source>
-        <translation>Präzisionsausrichtung Schatten rechts</translation>
-    </message>
-    <message>
-        <source>Picture Styles</source>
-        <translation>Bildstile</translation>
-    </message>
-    <message>
-        <source>Selection Pane</source>
-        <translation>Auswahl-
-bereich</translation>
-    </message>
-    <message>
-        <source>Format Object</source>
-        <translation>Objekt formatieren</translation>
-    </message>
-    <message>
-        <source>Distribute Vertically</source>
-        <translation>Vertikal verteilen</translation>
-    </message>
-    <message>
-        <source>Distribute Horizontally</source>
-        <translation>Horizontal verteilen</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation>Pipette</translation>
-    </message>
-    <message>
-        <source>Dash Style</source>
-        <translation>Strich-Stil</translation>
-    </message>
-    <message>
-        <source>Set Transparent Color</source>
-        <translation>Transparente Farbe bestimmen</translation>
-    </message>
-    <message>
-        <source>Shadow Settings</source>
-        <translation>Schatteneinstellungen</translation>
-    </message>
-    <message>
-        <source>Picture Adjust</source>
-        <translation>Bildanpassung</translation>
-    </message>
-    <message>
-        <source>Long Dash-Dot</source>
-        <translation>Langer Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Round Dot</source>
-        <translation>Runder Punkt</translation>
-    </message>
-    <message>
-        <source>Ungroup</source>
-        <translation>Gruppierung aufheben</translation>
-    </message>
-    <message>
-        <source>Picture Outline</source>
-        <translation>Grafikumriss</translation>
-    </message>
-    <message>
-        <source>Shadow Color</source>
-        <translation>Schattenfarbe</translation>
-    </message>
-    <message>
-        <source>Detailed Settings</source>
-        <translation>Detaillierte Einstellungen</translation>
-    </message>
-    <message>
-        <source>Picture Size</source>
-        <translation>Bildgröße</translation>
-    </message>
-    <message>
-        <source>Picture Fill</source>
-        <translation>Bildfüllung</translation>
-    </message>
-    <message>
-        <source>Gallery</source>
-        <translation>Galerie</translation>
-    </message>
-    <message>
-        <source>Width: </source>
-        <translation>Breite:</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Equal Width</source>
-        <translation>Gleiche Breite</translation>
-    </message>
-    <message>
-        <source>Reset Picture</source>
-        <translation>Grafik zurücksetzen</translation>
-    </message>
-    <message>
-        <source>Send Backward</source>
-        <translation>Eine Ebene nach hinten</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation>Höhe:</translation>
-    </message>
-    <message>
-        <source>Shadow On/Off</source>
-        <translation>Schatten ein/aus</translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
-        <translation>Langer Strich-Punkt-Punkt</translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation>Oben ausrichten</translation>
-    </message>
-</context>
-<context>
     <name>ongmani.ct_data</name>
     <message>
         <source>Merge Range Data</source>
@@ -39225,11 +36851,6 @@ bereich</translation>
         <source>Split Sheets</source>
         <translation>Blätter aufteilen 
 Nach Inhalt</translation>
-    </message>
-    <message>
-        <source>Text to
- Columns</source>
-        <translation>Text in Spalten</translation>
     </message>
     <message>
         <source>Split Book</source>
@@ -39297,6 +36918,10 @@ Data</source>
         <translation>Aus dem Web</translation>
     </message>
     <message>
+        <source>Filter</source>
+        <translation>Filter</translation>
+    </message>
+    <message>
         <source>Hide Detail</source>
         <translation>Detail ausblenden</translation>
     </message>
@@ -39316,6 +36941,10 @@ Data</source>
         <source>Split Books</source>
         <translation>Mappe aufteilen 
 Nach Blatt</translation>
+    </message>
+    <message>
+        <source>Split Merge</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Consolidate</source>
@@ -39344,13 +36973,13 @@ Spalten</translation>
         <translation>Duplikate Hervorheben bestimmen</translation>
     </message>
     <message>
-        <source>Reject Duplicate Entries</source>
-        <translation>Duplikate ablehnen</translation>
-    </message>
-    <message>
         <source>Reapply</source>
         <translation>Erneut
 anwenden</translation>
+    </message>
+    <message>
+        <source>Import Data</source>
+        <translation>Daten importieren</translation>
     </message>
     <message>
         <source>Smart Split Columns</source>
@@ -39391,7 +37020,7 @@ einfügen</translation>
         <translation>Verbindungen</translation>
     </message>
     <message>
-		<source>Refresh 
+        <source>Refresh 
 All</source>
         <translation>Alle
 aktualisieren</translation>
@@ -39456,6 +37085,15 @@ Verbindungen</translation>
         <translation>Mehrere Arbeitsblätter zu einem Arbeitsblatt zusammenführen</translation>
     </message>
     <message>
+        <source>Reject Duplicate Entries</source>
+        <translation>Duplikate ablehnen</translation>
+    </message>
+    <message>
+        <source>Text to
+ Columns</source>
+        <translation>Text in Spalten</translation>
+    </message>
+    <message>
         <source>Highlight duplicates2</source>
         <translation type="unfinished"/>
     </message>
@@ -39478,7 +37116,146 @@ Verbindungen</translation>
     <message>
         <source>Merge Tables</source>
         <translation type="unfinished"/>
-    </message>	
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_ettoolbox</name>
+    <message>
+        <source>Merge Range Data</source>
+        <translation>Bereichsdaten zusammenführen</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>Füllung</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Hilfe</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Round</source>
+        <translation>Rund</translation>
+    </message>
+    <message>
+        <source>Merge Tables</source>
+        <translation>Tabellen zusammenführen</translation>
+    </message>
+    <message>
+        <source>Input Letter Sequence</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Formula As Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge workbooks</source>
+        <translation>Mehrere Arbeitsmappen zu einer Arbeitsmappe zusammenführen</translation>
+    </message>
+    <message>
+        <source>Highlight duplicates</source>
+        <translation>Doppelte Werte markieren</translation>
+    </message>
+    <message>
+        <source>Remove Blank Row</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Calculate</source>
+        <translation>Berechnen</translation>
+    </message>
+    <message>
+        <source>Remove Space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill Blank Cells</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>Format</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>Remove Trailing Space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge worksheets with same name in workbooks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Leading Space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation>Inhaltsverzeichnis</translation>
+    </message>
+    <message>
+        <source>Batch Div</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Add</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Sub</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Mul</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fetch duplicates</source>
+        <translation>Doppelte Werte extrahieren</translation>
+    </message>
+    <message>
+        <source>Recombine Same Name</source>
+        <translation>Gleichen Namen neu kombinieren</translation>
+    </message>
+    <message>
+        <source>Input Roman Numeric Sequence</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input Numeric Sequence</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Highlight unique values</source>
+        <translation>Eindeutige Werte hervorheben</translation>
+    </message>
+    <message>
+        <source>Delete Blank Table</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fetch unique values</source>
+        <translation>Eindeutige Werte abrufen</translation>
+    </message>
+    <message>
+        <source>Manage Duplicates</source>
+        <translation>Duplikate verwalten</translation>
+    </message>
+    <message>
+        <source>Merge worksheets</source>
+        <translation>Mehrere Arbeitsblätter zu einem Arbeitsblatt zusammenführen</translation>
+    </message>
 </context>
 <context>
     <name>KxTpEtPivotTable</name>
@@ -39734,52 +37511,6 @@ Verbindungen</translation>
     </message>
 </context>
 <context>
-    <name>rainbow.ct_picturetool.PictureColor</name>
-    <message>
-        <source>Auto</source>
-        <translation>Auto</translation>
-    </message>
-    <message>
-        <source>Color</source>
-        <translation>Farbe</translation>
-    </message>
-    <message>
-        <source>Black and White</source>
-        <translation>Schwarz und Weiß</translation>
-    </message>
-    <message>
-        <source>Grayscale</source>
-        <translation>Graustufe</translation>
-    </message>
-    <message>
-        <source>Washout</source>
-        <translation>Auswaschen</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_picturetool_Vml.PictureColor</name>
-    <message>
-        <source>Auto</source>
-        <translation>Auto</translation>
-    </message>
-    <message>
-        <source>Color</source>
-        <translation>Farbe</translation>
-    </message>
-    <message>
-        <source>Black and White</source>
-        <translation>Schwarz und Weiß</translation>
-    </message>
-    <message>
-        <source>Grayscale</source>
-        <translation>Graustufe</translation>
-    </message>
-    <message>
-        <source>Washout</source>
-        <translation>Auswaschen</translation>
-    </message>
-</context>
-<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -39830,6 +37561,10 @@ Verbindungen</translation>
         <translation>Ordner auswählen:</translation>
     </message>
     <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart WPS Spreadsheets.</source>
         <translation>Die Änderung des Dezimaltrennzeichens wird erst wirksam, wenn Sie das Programm beenden und WPS Spreadsheets erneut starten.</translation>
     </message>
@@ -39846,8 +37581,20 @@ Verbindungen</translation>
         <translation>Bitte wählen Sie ein &amp;Folder:</translation>
     </message>
     <message>
+        <source>Auto&amp;Backup file location:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The measurement must be between 1 and 32767. Try again by entering a number in this range.</source>
         <translation>Die Maßeinheit muss zwischen 1 und 32767 liegen..Versuchen Sie es erneut, indem Sie eine Zahl in diesem Bereich eingeben. </translation>
+    </message>
+    <message>
+        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
+        <translation>Der von Ihnen ausgewählte Algorithmus erfordert ein Kennwort mit maximal 15 Zeichen.</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation>Das Bestätigungskennwort stimmt nicht mit dem Kennwort überein</translation>
     </message>
     <message>
         <source>Two password inconsistencies</source>
@@ -39880,6 +37627,10 @@ Verbindungen</translation>
     <message>
         <source>Are you sure to send the dictionary %1 to the Recycle Bin?</source>
         <translation>Möchten Sie das Wörterbuch %1 wirklich in den Papierkorb senden?</translation>
+    </message>
+    <message>
+        <source>&amp;Auto Backup</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The password of the edit permission must be no longer than 15 characters.</source>
@@ -39926,6 +37677,10 @@ Verbindungen</translation>
         <translation>Das Entfernen des benutzerdefinierten Wörterbuchs kann das benutzerdefinierte Wörterbuch beeinflussen, das von anderen WPS Office-Programmen verwendet wird. Möchten Sie fortfahren?</translation>
     </message>
     <message>
+        <source>Notification</source>
+        <translation>Benachrichtigen</translation>
+    </message>
+    <message>
         <source>Custom Lists</source>
         <translation>Benutzerdefinierte Listen</translation>
     </message>
@@ -39938,12 +37693,20 @@ Verbindungen</translation>
         <translation>Neue Liste</translation>
     </message>
     <message>
+        <source>Backup Center</source>
+        <translation>Sicherungszentrum</translation>
+    </message>
+    <message>
         <source>Size of the selected dictionary must be less than 10MB.</source>
         <translation>Die Größe des ausgewählten Wörterbuchs darf maximal 10MB betragen.</translation>
     </message>
     <message>
         <source>Font size must be between 1 and 409 points.</source>
         <translation>Schriftgrad muss zwischen 1 und 409 Punkten liegen.</translation>
+    </message>
+    <message>
+        <source>&amp;Close Backup</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
@@ -39962,20 +37725,20 @@ Verbindungen</translation>
         <translation>Menüband anpassen</translation>
     </message>
     <message>
-        <source>File Path: WPS CloudFile\Cloud BackUp</source>
-        <translation>Dateipfad: WPS Cloud\Autom. hochgeladen</translation>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Timing Backup</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
         <translation>Sie haben nicht die Berechtigung, Sicherungsdateien auf &quot;%1&quot; zu schreiben.</translation>
     </message>
     <message>
-        <source>The encryption algorithm you selected requires the password within 15 characters.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Confirmation password does not match.</source>
-        <translation type="unfinished"/>
+        <source>File Path: WPS CloudFile\Cloud BackUp</source>
+        <translation>Dateipfad: WPS Cloud\Autom. hochgeladen</translation>
     </message>
 </context>
 <context>
@@ -40807,394 +38570,6 @@ Verbindungen</translation>
     <message>
         <source>Dash-Dot-Dot</source>
         <translation>Langer Strichpunkt-Punkt</translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation>Oben ausrichten</translation>
-    </message>
-    <message>
-        <source>Alignment</source>
-        <translation>Ausrichtung</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_drawingtools_vml</name>
-    <message>
-        <source>Bold</source>
-        <translation>Fett</translation>
-    </message>
-    <message>
-        <source>Dash</source>
-        <translation>Strich</translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation>Schriftart</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Größe</translation>
-    </message>
-    <message>
-        <source>Object Select</source>
-        <translation>Auswahl-
-bereich</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Align Center</source>
-        <translation>Zentriert ausrichten</translation>
-    </message>
-    <message>
-        <source>Equal Height</source>
-        <translation>Gleiche Höhe</translation>
-    </message>
-    <message>
-        <source>1 pt.</source>
-        <translation>1 Pt.</translation>
-    </message>
-    <message>
-        <source>3 pt.</source>
-        <translation>3 Pt.</translation>
-    </message>
-    <message>
-        <source>Shape Styles</source>
-        <translation>Formstile</translation>
-    </message>
-    <message>
-        <source>6 pt.</source>
-        <translation>6 Pt.</translation>
-    </message>
-    <message>
-        <source>Align</source>
-        <translation>Ausrichten</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation>Löschen</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation>Gruppe</translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation>Durchgezogen</translation>
-    </message>
-    <message>
-        <source>Send to Back</source>
-        <translation>In den Hintergrund</translation>
-    </message>
-    <message>
-        <source>Snap to Grid</source>
-        <translation>Am Raster ausr</translation>
-    </message>
-    <message>
-        <source>2.25 pt.</source>
-        <translation>2,25 Pt.</translation>
-    </message>
-    <message>
-        <source>0.25 pt.</source>
-        <translation>0,25 Pt.</translation>
-    </message>
-    <message>
-        <source>0.75 pt.</source>
-        <translation>0,75 Pt.</translation>
-    </message>
-    <message>
-        <source>Align Middle</source>
-        <translation>Mittig ausrichten</translation>
-    </message>
-    <message>
-        <source>Arrow Style 1</source>
-        <translation>Pfeilart 1</translation>
-    </message>
-    <message>
-        <source>Arrow Style 2</source>
-        <translation>Pfeilart 2</translation>
-    </message>
-    <message>
-        <source>Arrow Style 3</source>
-        <translation>Pfeilart 3</translation>
-    </message>
-    <message>
-        <source>Arrow Style 4</source>
-        <translation>Pfeilart 4</translation>
-    </message>
-    <message>
-        <source>Arrow Style 5</source>
-        <translation>Pfeilart 5</translation>
-    </message>
-    <message>
-        <source>Arrow Style 6</source>
-        <translation>Pfeilart 6</translation>
-    </message>
-    <message>
-        <source>Arrow Style 7</source>
-        <translation>Pfeilart 7</translation>
-    </message>
-    <message>
-        <source>Arrow Style 8</source>
-        <translation>Pfeilart 8</translation>
-    </message>
-    <message>
-        <source>Arrow Style 9</source>
-        <translation>Pfeilart 9</translation>
-    </message>
-    <message>
-        <source>Arrow Style 10</source>
-        <translation>Pfeilart 10</translation>
-    </message>
-    <message>
-        <source>Arrow Style 11</source>
-        <translation>Pfeilart 11</translation>
-    </message>
-    <message>
-        <source>Flip Horizontally</source>
-        <translation>Horizontal spiegeln</translation>
-    </message>
-    <message>
-        <source>0.5 pt.</source>
-        <translation>0,5 Pt.</translation>
-    </message>
-    <message>
-        <source>Vertical Text Box</source>
-        <translation>Vertikales Textfeld</translation>
-    </message>
-    <message>
-        <source>Line Pattern</source>
-        <translation>Gemusterte Linien</translation>
-    </message>
-    <message>
-        <source>More Line Colors</source>
-        <translation>Weitere Linienfarben</translation>
-    </message>
-    <message>
-        <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
-    </message>
-    <message>
-        <source>1.5 pt.</source>
-        <translation>1,5 Pt.</translation>
-    </message>
-    <message>
-        <source>Long Dash</source>
-        <translation>Langer Strich</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation>Zentriert</translation>
-    </message>
-    <message>
-        <source>More Arrows</source>
-        <translation>Weitere Pfeile</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Kursiv</translation>
-    </message>
-    <message>
-        <source>Edit Points</source>
-        <translation>Punkte bearbeiten</translation>
-    </message>
-    <message>
-        <source>Rotate Right 90°</source>
-        <translation>Rechtsdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Font Size</source>
-        <translation>Schriftgröße</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>Drehen</translation>
-    </message>
-    <message>
-        <source>Rotate Left 90°</source>
-        <translation>Linksdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Insert Shapes</source>
-        <translation>Formen einfügen</translation>
-    </message>
-    <message>
-        <source>Free Rotate</source>
-        <translation>Freies Drehen</translation>
-    </message>
-    <message>
-        <source>Horizontal Text Box</source>
-        <translation>Horizontales Textfeld</translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
-        <translation>Linienart</translation>
-    </message>
-    <message>
-        <source>Edit Shape</source>
-        <translation>Form bearbeiten</translation>
-    </message>
-    <message>
-        <source>Shape Size</source>
-        <translation>Shape-Größe</translation>
-    </message>
-    <message>
-        <source>Shape Fill</source>
-        <translation>Fülleffekt</translation>
-    </message>
-    <message>
-        <source>Show Grid</source>
-        <translation>Raster anzeigen</translation>
-    </message>
-    <message>
-        <source>Bring Forward</source>
-        <translation>Eine Ebene nach vorne</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <translation>Bild</translation>
-    </message>
-    <message>
-        <source>4.5 pt.</source>
-        <translation>4,5 Pt.</translation>
-    </message>
-    <message>
-        <source>More Lines</source>
-        <translation>Weitere Linien</translation>
-    </message>
-    <message>
-        <source>Equal Size</source>
-        <translation>Gleiche Größe</translation>
-    </message>
-    <message>
-        <source>Bring to Front</source>
-        <translation>In den Vordergrund</translation>
-    </message>
-    <message>
-        <source>Square Dot</source>
-        <translation>Viereckiger Punkt</translation>
-    </message>
-    <message>
-        <source>Arrange</source>
-        <translation>Anordnen</translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation>Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Increase Font Size</source>
-        <translation>Schrift vergrößern</translation>
-    </message>
-    <message>
-        <source>Arrow Style</source>
-        <translation>Pfeilart</translation>
-    </message>
-    <message>
-        <source>Decrease Font Size</source>
-        <translation>Schriftgrad verkleinern</translation>
-    </message>
-    <message>
-        <source>Format Object</source>
-        <translation>Objekt formatieren</translation>
-    </message>
-    <message>
-        <source>Distribute Vertically</source>
-        <translation>Vertikal verteilen</translation>
-    </message>
-    <message>
-        <source>Distribute Horizontally</source>
-        <translation>Horizontal verteilen</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation>Pipette</translation>
-    </message>
-    <message>
-        <source>Dash Style</source>
-        <translation>Strich-Stil</translation>
-    </message>
-    <message>
-        <source>Underline</source>
-        <translation>Unterstreichen</translation>
-    </message>
-    <message>
-        <source>Flip Vertically</source>
-        <translation>Vertikal spiegeln</translation>
-    </message>
-    <message>
-        <source>Long Dash-Dot</source>
-        <translation>Langer Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Round Dot</source>
-        <translation>Runder Punkt</translation>
-    </message>
-    <message>
-        <source>Ungroup</source>
-        <translation>Gruppierung aufheben</translation>
-    </message>
-    <message>
-        <source>Change Shapes</source>
-        <translation>Form ändern</translation>
-    </message>
-    <message>
-        <source>Detailed Settings</source>
-        <translation>Detaillierte Einstellungen</translation>
-    </message>
-    <message>
-        <source>Text Box</source>
-        <translation>Textfeld</translation>
-    </message>
-    <message>
-        <source>Vertical Center</source>
-        <translation>Vertikal zentrieren</translation>
-    </message>
-    <message>
-        <source>Width: </source>
-        <translation>Breite:</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Equal Width</source>
-        <translation>Gleiche Breite</translation>
-    </message>
-    <message>
-        <source>Send Backward</source>
-        <translation>Eine Ebene nach hinten</translation>
-    </message>
-    <message>
-        <source>Decrease Indent</source>
-        <translation>Einzug verkleinern</translation>
-    </message>
-    <message>
-        <source>Increase Indent</source>
-        <translation>Einzug vergrößern</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation>Höhe:</translation>
-    </message>
-    <message>
-        <source>Shape Outline</source>
-        <translation>Formkontur</translation>
-    </message>
-    <message>
-        <source>Text Fill</source>
-        <translation>Textfüllung</translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
-        <translation>Langer Strich-Punkt-Punkt</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -42301,105 +39676,6 @@ Schaltflächen</translation>
     </message>
 </context>
 <context>
-    <name>rainbow.ct_pivottableoptions</name>
-    <message>
-        <source>Data</source>
-        <translation>Daten</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation>Ausblenden</translation>
-    </message>
-    <message>
-        <source>Sort</source>
-        <translation>Sortieren</translation>
-    </message>
-    <message>
-        <source>Order</source>
-        <translation>Reihenfolge</translation>
-    </message>
-    <message>
-        <source>Active Field</source>
-        <translation>Aktives Feld</translation>
-    </message>
-    <message>
-        <source>Field Settings</source>
-        <translation>Feldeinstellungen</translation>
-    </message>
-    <message>
-        <source>Move Up</source>
-        <translation>Nach oben verschieben</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation>Löschen</translation>
-    </message>
-    <message>
-        <source>Hide Detail</source>
-        <translation>Detail ausblenden</translation>
-    </message>
-    <message>
-        <source>Show Field List</source>
-        <translation>Feldliste anzeigen</translation>
-    </message>
-    <message>
-        <source>Show Detail</source>
-        <translation>Detail einblenden</translation>
-    </message>
-    <message>
-        <source>Page Layout</source>
-        <translation>Seitenlayout</translation>
-    </message>
-    <message>
-        <source>Move to Beginning</source>
-        <translation>Zum Anfang bewegen</translation>
-    </message>
-    <message>
-        <source>Move Right</source>
-        <translation>Nach rechts</translation>
-    </message>
-    <message>
-        <source>Move to End</source>
-        <translation>Zum Ende bewegen</translation>
-    </message>
-    <message>
-        <source>Hide Field List</source>
-        <translation>Feldliste ausblenden</translation>
-    </message>
-    <message>
-        <source>PivotTable Options</source>
-        <translation>PivotTable-Optionen</translation>
-    </message>
-    <message>
-        <source>Subtotals</source>
-        <translation>Teilergebnisse</translation>
-    </message>
-    <message>
-        <source>Modify PivotTable</source>
-        <translation>PivotTable-Format ändern</translation>
-    </message>
-    <message>
-        <source>Move Down</source>
-        <translation>Nach unten verschieben</translation>
-    </message>
-    <message>
-        <source>Move Left</source>
-        <translation>Nach links</translation>
-    </message>
-    <message>
-        <source>Do Not 
-Repeat Item Labels</source>
-        <translation>Nicht
-Elementbeschriftungen wiederholen</translation>
-    </message>
-    <message>
-        <source>Repeat All 
-Item Labels</source>
-        <translation>Alles wiederholen
-Elementbeschriftungen</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgHeaderFooterWidget</name>
     <message>
         <source>Date</source>
@@ -42680,6 +39956,33 @@ Klicken Sie auf „Abbrechen“, um das aktuelle Bild beizubehalten.</translatio
     </message>
 </context>
 <context>
+    <name>KxAfAnalysisPaneChart</name>
+    <message>
+        <source>Edit</source>
+        <translation>Bearbeiten</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Mehr</translation>
+    </message>
+    <message>
+        <source>Export Chart</source>
+        <translation>Diagramm exportieren</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Entfernen</translation>
+    </message>
+    <message>
+        <source>Export Chart as Picture</source>
+        <translation>Diagramm als Bild exportieren</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgShareWorkbook</name>
     <message>
         <source>Edit</source>
@@ -42778,6 +40081,11 @@ This also allows workbook merging.</source>
         <translation>Formeln</translation>
     </message>
     <message>
+        <source>WPS Spreadsheets cannot find any data to replace.
+Number of values that were not replaced because they are in read-only rich data: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Formats(&amp;C)</source>
         <translation>Alle Formate (&amp;A)</translation>
     </message>
@@ -42814,6 +40122,11 @@ This also allows workbook merging.</source>
         <translation>&amp;Schriftart- und Füllfarbe</translation>
     </message>
     <message>
+        <source>WPS Spreadsheets has completed its search and has made %1 replacements.
+Number of values that were not replaced because they are in read-only rich data: %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>0 cell found</source>
         <translation>Keine Zelle(n) gefunden</translation>
     </message>
@@ -42844,229 +40157,6 @@ This also allows workbook merging.</source>
     <message>
         <source>No objects found.</source>
         <translation>Keine Objekte gefunden.</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_layout</name>
-    <message>
-        <source>Fit:</source>
-        <translation>Anpassen</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Größe</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Align Center</source>
-        <translation>Horizontal zentrieren</translation>
-    </message>
-    <message>
-        <source>Equal Height</source>
-        <translation>Gleiche Höhe</translation>
-    </message>
-    <message>
-        <source>Align</source>
-        <translation>Ausrichten</translation>
-    </message>
-    <message>
-        <source>Fonts</source>
-        <translation>Schriftarten</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation>Gruppe</translation>
-    </message>
-    <message>
-        <source>Send to Back</source>
-        <translation>In den Hintergrund</translation>
-    </message>
-    <message>
-        <source>Snap to Grid</source>
-        <translation>Am Raster ausrichten</translation>
-    </message>
-    <message>
-        <source>Print Titles</source>
-        <translation>Drucktitel</translation>
-    </message>
-    <message>
-        <source>Fit All Columns on One Page</source>
-        <translation>Alle Spalten auf einer Seite darstellen</translation>
-    </message>
-    <message>
-        <source>Flip Horizontal</source>
-        <translation>Horizontal kippen</translation>
-    </message>
-    <message>
-        <source>Flip Vertical</source>
-        <translation>Vertikal kippen</translation>
-    </message>
-    <message>
-        <source>Align Middle</source>
-        <translation>Vertikal zentrieren</translation>
-    </message>
-    <message>
-        <source>Background</source>
-        <translation>Hintergrund</translation>
-    </message>
-    <message>
-        <source>Reset All Page Breaks</source>
-        <translation>Alle Seitenumbrüche aufheben</translation>
-    </message>
-    <message>
-        <source>Margins</source>
-        <translation>Seitenrand</translation>
-    </message>
-    <message>
-        <source>Fit Sheet on One Page</source>
-        <translation>Blatt auf einer Seite darstellen</translation>
-    </message>
-    <message>
-        <source>Breaks</source>
-        <translation>Umbrüche</translation>
-    </message>
-    <message>
-        <source>Colors</source>
-        <translation>Farben</translation>
-    </message>
-    <message>
-        <source>More Color Schemes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No Zoom</source>
-        <translation>Kein Zoom</translation>
-    </message>
-    <message>
-        <source>Rotate Right 90°</source>
-        <translation>Rechtsdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Print Area</source>
-        <translation>Druckbereich</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>Drehen</translation>
-    </message>
-    <message>
-        <source>Themes</source>
-        <translation>Designs</translation>
-    </message>
-    <message>
-        <source>Custom Zoom</source>
-        <translation>Benutzerdefiniert Zoom</translation>
-    </message>
-    <message>
-        <source>Rotate Left 90°</source>
-        <translation>Linksdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Free Rotate</source>
-        <translation>Freies Drehen</translation>
-    </message>
-    <message>
-        <source>Orientation</source>
-        <translation>Orientierung</translation>
-    </message>
-    <message>
-        <source>Edit Theme</source>
-        <translation>Design bearbeiten</translation>
-    </message>
-    <message>
-        <source>Show Grid</source>
-        <translation>Raster anzeigen</translation>
-    </message>
-    <message>
-        <source>Bring Forward</source>
-        <translation>Eine Ebene nach vorne</translation>
-    </message>
-    <message>
-        <source>Fit All Rows on One Page</source>
-        <translation>Alle Zeilen auf einer Seite darstellen</translation>
-    </message>
-    <message>
-        <source>Page Setup</source>
-        <translation>Seite einrichten</translation>
-    </message>
-    <message>
-        <source>Equal Size</source>
-        <translation>Gleiche Größe</translation>
-    </message>
-    <message>
-        <source>Bring to Front</source>
-        <translation>In den Vordergrund</translation>
-    </message>
-    <message>
-        <source>Arrange</source>
-        <translation>Anordnen</translation>
-    </message>
-    <message>
-        <source>Set Print Area</source>
-        <translation>Druckbereich festlegen</translation>
-    </message>
-    <message>
-        <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
-    </message>
-    <message>
-        <source>Distribute Vertically</source>
-        <translation>Vertikal verteilen</translation>
-    </message>
-    <message>
-        <source>Distribute Horizontally</source>
-        <translation>Horizontal verteilen</translation>
-    </message>
-    <message>
-        <source>Effects</source>
-        <translation>Effekte</translation>
-    </message>
-    <message>
-        <source>Ungroup</source>
-        <translation>Gruppierung aufheben</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <source>Clear Print Area</source>
-        <translation>Druckbereich aufheben</translation>
-    </message>
-    <message>
-        <source>Delete Page Break</source>
-        <translation>Remove Page Break</translation>
-    </message>
-    <message>
-        <source>Page Zoom</source>
-        <translation>Seitenzoom</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Equal Width</source>
-        <translation>Gleiche Breite</translation>
-    </message>
-    <message>
-        <source>Send Backward</source>
-        <translation>Eine Ebene nach hinten</translation>
-    </message>
-    <message>
-        <source>Insert Page Break</source>
-        <translation>Seitenumbruch einfügen</translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation>Oben ausrichten</translation>
     </message>
 </context>
 <context>
@@ -43117,6 +40207,10 @@ This also allows workbook merging.</source>
     <message>
         <source>Font</source>
         <translation>Schriftart</translation>
+    </message>
+    <message>
+        <source>Format Slicer Element</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Border</source>
@@ -43959,149 +41053,6 @@ zentrieren</translation>
     </message>
 </context>
 <context>
-    <name>rainbow.ct_data</name>
-    <message>
-        <source>Form</source>
-        <translation>Formular</translation>
-    </message>
-    <message>
-        <source>Sort</source>
-        <translation>Sortieren</translation>
-    </message>
-    <message>
-        <source>Edit Connection Properties</source>
-        <translation>Verbindungseigenschaften bearbeiten</translation>
-    </message>
-    <message>
-        <source>Data Range Properties</source>
-        <translation>Datenbereichseigenschaften</translation>
-    </message>
-    <message>
-        <source>Clear Validation Circles</source>
-        <translation>Gültigkeitskreise löschen</translation>
-    </message>
-    <message>
-        <source>Edit Text Import</source>
-        <translation>Textimport bearbeiten</translation>
-    </message>
-    <message>
-        <source>Data Tools</source>
-        <translation>Datentools</translation>
-    </message>
-    <message>
-        <source>What-If Analysis</source>
-        <translation>Was-wäre-wenn-Analyse</translation>
-    </message>
-    <message>
-        <source>AutoFilter</source>
-        <translation>AutoFilter</translation>
-    </message>
-    <message>
-        <source>Hide Detail</source>
-        <translation>Detail ausblenden</translation>
-    </message>
-    <message>
-        <source>Show Detail</source>
-        <translation>Detail einblenden</translation>
-    </message>
-    <message>
-        <source>Tables</source>
-        <translation>Tabellen</translation>
-    </message>
-    <message>
-        <source>Consolidate</source>
-        <translation>Konsolidieren</translation>
-    </message>
-    <message>
-        <source>PivotTable</source>
-        <translation>PivotTable</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation>Umrahmt</translation>
-    </message>
-    <message>
-        <source>Text to Columns</source>
-        <translation>Text in 
-Spalten</translation>
-    </message>
-    <message>
-        <source>Reapply</source>
-        <translation>Neu anwenden</translation>
-    </message>
-    <message>
-        <source>Import Data</source>
-        <translation>Daten 
-importieren</translation>
-    </message>
-    <message>
-        <source>Descending</source>
-        <translation>Absteigend</translation>
-    </message>
-    <message>
-        <source>Ascending</source>
-        <translation>Aufsteigend</translation>
-    </message>
-    <message>
-        <source>Get External Data</source>
-        <translation>Externe Daten bekommen </translation>
-    </message>
-    <message>
-        <source>InsertDropDownList</source>
-        <translation>Dropdownliste 
-einfügen</translation>
-    </message>
-    <message>
-        <source>Subtotal</source>
-        <translation>Teilergebnis</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation>Erweitert</translation>
-    </message>
-    <message>
-        <source>Connections</source>
-        <translation>Verbindungen</translation>
-    </message>
-    <message>
-        <source>Refresh Data</source>
-        <translation>Daten aktualisieren</translation>
-    </message>
-    <message>
-        <source>Ungroup</source>
-        <translation>Gruppierung aufheben</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <source>Clear Outline</source>
-        <translation>Gliederung entfernen</translation>
-    </message>
-    <message>
-        <source>Circle Valid Data</source>
-        <translation>Gültige Daten mit Kreis markieren</translation>
-    </message>
-    <message>
-        <source>Sort and Filter</source>
-        <translation>Sortieren und Filtern</translation>
-    </message>
-    <message>
-        <source>Existing Connections</source>
-        <translation>Vorhandene 
-Verbindungen</translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation>Alle anzeigen</translation>
-    </message>
-    <message>
-        <source>Validation</source>
-        <translation>Gültigkeitsprüfung</translation>
-    </message>
-</context>
-<context>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Help</source>
@@ -44148,6 +41099,10 @@ Verbindungen</translation>
         <translation>Als Bild exportieren</translation>
     </message>
     <message>
+        <source>Online Fonts</source>
+        <translation>Online-Schriftarten</translation>
+    </message>
+    <message>
         <source>WPS Data Recovery Master</source>
         <translation>WPS Datenwiederherstellungsvorlage</translation>
     </message>
@@ -44158,6 +41113,10 @@ Verbindungen</translation>
     <message>
         <source>Document History</source>
         <translation>Verlaufsdokument</translation>
+    </message>
+    <message>
+        <source>Screen Recording</source>
+        <translation>Bildschirmrekorder</translation>
     </message>
     <message>
         <source>Special Tools</source>
@@ -44339,6 +41298,10 @@ scannen</translation>
         <translation>Speichern</translation>
     </message>
     <message>
+        <source>Quick</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Share</source>
         <translation>Freigeben</translation>
     </message>
@@ -44349,6 +41312,10 @@ scannen</translation>
     <message>
         <source>Shortcut Setting</source>
         <translation>Einstellung der Tastenkombination</translation>
+    </message>
+    <message>
+        <source>Screen Grab Ocr</source>
+        <translation>Bildschirmerfassung und OCR</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -44384,8 +41351,8 @@ scannen</translation>
         <translation>Bildrahmen hinzufügen</translation>
     </message>
     <message>
-        <source>Export as Image</source>
-        <translation>Als Bild exportieren</translation>
+        <source>WPS Office Skill</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Fonts</source>
@@ -44397,6 +41364,10 @@ scannen</translation>
     </message>
     <message>
         <source>Recommended Chart</source>
+        <translation>Empfohlene Diagramme</translation>
+    </message>
+    <message>
+        <source>Core Encryption</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -44414,6 +41385,10 @@ scannen</translation>
     <message>
         <source>All Comments</source>
         <translation>Alle Kommentare</translation>
+    </message>
+    <message>
+        <source>Screen Recorder</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document History</source>
@@ -44484,7 +41459,7 @@ scannen</translation>
         <translation>Designfarbe</translation>
     </message>
     <message>
-        <source>More Online Charts</source>
+        <source>Data Market</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -44601,12 +41576,24 @@ scannen</translation>
         <translation>Diagramm</translation>
     </message>
     <message>
+        <source>Ds Webshape Export</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ShortWordArt</source>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>Decryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Encryption</source>
         <translation>Verschlüsselung</translation>
+    </message>
+    <message>
+        <source>Hide current window when taking screenshots</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocerThemeColor</source>
@@ -44645,6 +41632,18 @@ scannen</translation>
         <translation>Feedback</translation>
     </message>
     <message>
+        <source>Ds Webshape Edit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enterprise Query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Insert Picture</source>
+        <translation>Masseneinfügung – Bild</translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
         <translation>In Cloud Docs speichern</translation>
     </message>
@@ -44662,7 +41661,7 @@ scannen</translation>
     </message>
     <message>
         <source>DocumentContentStudioHint</source>
-        <translation type="unfinished"/>
+        <translation>Extrahieren</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
@@ -44686,7 +41685,7 @@ scannen</translation>
     </message>
     <message>
         <source>DocumentContentStudio</source>
-        <translation type="unfinished"/>
+        <translation>Extrahierung in Stapeln</translation>
     </message>
     <message>
         <source>Share To Wechat</source>
@@ -44695,6 +41694,14 @@ scannen</translation>
     <message>
         <source>GroupSending</source>
         <translation>An Gruppe senden</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add or view comments in your document.</source>
@@ -44727,107 +41734,28 @@ scannen</translation>
         <translation>Von Telefon</translation>
     </message>
     <message>
+        <source>Normal Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Online Textbox</source>
+        <translation>Vorlagentextfeld</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Als Bild exportieren</translation>
+    </message>
+    <message>
+        <source>More Online Charts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Picture to Text</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertBarcode</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_workspace</name>
-    <message>
-        <source>Help</source>
-        <translation>Hilfe</translation>
-    </message>
-    <message>
-        <source>Docer Entrance</source>
-        <translation>Docer-Eingang</translation>
-    </message>
-    <message>
-        <source>Reading Layout</source>
-        <translation>Leselayout</translation>
-    </message>
-    <message>
-        <source>Enable AutoBackup</source>
-        <translation>Automatische Sicherungskopie aktivieren</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation>Speziale Features</translation>
-    </message>
-    <message>
-        <source>User Guide</source>
-        <translation>Benutzerhandbuch</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation>Spenden</translation>
-    </message>
-    <message>
-        <source>File Backup</source>
-        <translation>Datei sichern</translation>
-    </message>
-    <message>
-        <source>More Colors</source>
-        <translation>Mehre Farben</translation>
-    </message>
-    <message>
-        <source>Disable AutoBackup</source>
-        <translation>Automatische Sicherungskopie deaktivieren</translation>
-    </message>
-    <message>
-        <source>Laboratory</source>
-        <translation>Labor</translation>
-    </message>
-    <message>
-        <source>Manual Backup</source>
-        <translation>Manuelle Sicherung</translation>
-    </message>
-    <message>
-        <source>Open from Cloud Docs</source>
-        <translation>Aus Cloud Docs öffnen</translation>
-    </message>
-    <message>
-        <source>Wps CloudForm</source>
-        <translation>WPS-Cloud-Formular</translation>
-    </message>
-    <message>
-        <source>Help us to improve WPS Office</source>
-        <translation>Helfen Sie uns,  WPS Office zu verbessern.</translation>
-    </message>
-    <message>
-        <source>Online Documents</source>
-        <translation>Onlinedokumenten</translation>
-    </message>
-    <message>
-        <source>View Historical Backup</source>
-        <translation>Historische Sicherungskopie anzeigen</translation>
-    </message>
-    <message>
-        <source>Cloud Link</source>
-        <translation>Cloud-Verknüpfung</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation>In PDF exportieren</translation>
-    </message>
-    <message>
-        <source>Save to Cloud Docs</source>
-        <translation>In Cloud Docs speichern</translation>
-    </message>
-    <message>
-        <source>Feedback and Support</source>
-        <translation>Feedback und Support</translation>
-    </message>
-    <message>
-        <source>File Roaming</source>
-        <translation>Datei Roaming </translation>
-    </message>
-    <message>
-        <source>View File Safe</source>
-        <translation>Datei Sicherung anzeigen</translation>
     </message>
 </context>
 <context>
@@ -44980,6 +41908,10 @@ scannen</translation>
         <translation>Gitternetz drucken</translation>
     </message>
     <message>
+        <source>Show</source>
+        <translation>Anzeigen</translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
@@ -44998,6 +41930,10 @@ scannen</translation>
     <message>
         <source>Close Other Windows</source>
         <translation>Andere Fenster schließen</translation>
+    </message>
+    <message>
+        <source>WPS Macro Editor</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print Headings</source>
@@ -45033,6 +41969,10 @@ anordnen</translation>
     <message>
         <source>Macros</source>
         <translation>Makros</translation>
+    </message>
+    <message>
+        <source>JS Macros</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Normal</source>
@@ -45146,14 +42086,14 @@ schließen</translation>
         <translation>Nachtmodus</translation>
     </message>
     <message>
-        <source>Worksheet Options</source>
-        <translation>Arbeitsblatt Optionen</translation>
-    </message>
-    <message>
         <source>New
 Window</source>
         <translation>Neues
 Fenster</translation>
+    </message>
+    <message>
+        <source>Worksheet Options</source>
+        <translation>Arbeitsblatt Optionen</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -45161,155 +42101,14 @@ Fenster</translation>
     </message>
 </context>
 <context>
-    <name>rainbow.ct_view</name>
+    <name>KxEtRemoveBlankRowCommand</name>
     <message>
-        <source>Hide</source>
-        <translation>Ausblenden</translation>
+        <source>No blank rows were found in areas.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Print Gridlines</source>
-        <translation>Gitternetzlinien drucken</translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation>Zoom</translation>
-    </message>
-    <message>
-        <source>Reading Layout</source>
-        <translation>Leselayout</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation>Augenschutzmodus</translation>
-    </message>
-    <message>
-        <source>Split</source>
-        <translation>Teilen</translation>
-    </message>
-    <message>
-        <source>View Gridlines</source>
-        <translation>Gitternetzlinien anzeigen</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation>Horizontal</translation>
-    </message>
-    <message>
-        <source>Close Other Windows</source>
-        <translation>Schließen
-andere Fenster</translation>
-    </message>
-    <message>
-        <source>Close
-Other Windows</source>
-        <translation>Schließen
-andere Fenster</translation>
-    </message>
-    <message>
-        <source>Close Window</source>
-        <translation>Fenster schließen</translation>
-    </message>
-    <message>
-        <source>Print Headings</source>
-        <translation>Überschriften drucken</translation>
-    </message>
-    <message>
-        <source>Switch Windows</source>
-        <translation>Fenster umschalten</translation>
-    </message>
-    <message>
-        <source>Arrange All</source>
-        <translation>Alle 
-Anordnen</translation>
-    </message>
-    <message>
-        <source>More Colors</source>
-        <translation>Mehre Farben</translation>
-    </message>
-    <message>
-        <source>Unfreeze</source>
-        <translation>Fixierung aufheben</translation>
-    </message>
-    <message>
-        <source>Freeze</source>
-        <translation>Sperren</translation>
-    </message>
-    <message>
-        <source>Macros</source>
-        <translation>Makros</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>Standard</translation>
-    </message>
-    <message>
-        <source>Page Layout</source>
-        <translation>Seitenlayout</translation>
-    </message>
-    <message>
-        <source>Task Window</source>
-        <translation>Aufgabenbereich</translation>
-    </message>
-    <message>
-        <source>Unhide</source>
-        <translation>Einblenden</translation>
-    </message>
-    <message>
-        <source>Full Screen</source>
-        <translation>Ganzer 
-Bildschirm</translation>
-    </message>
-    <message>
-        <source>New Window</source>
-        <translation>Mehre Fenster </translation>
-    </message>
-    <message>
-        <source>Window</source>
-        <translation>Fenster</translation>
-    </message>
-    <message>
-        <source>View Headings</source>
-        <translation>Überschriften anzeigen</translation>
-    </message>
-    <message>
-        <source>More Windows</source>
-        <translation>Mehre Fenster</translation>
-    </message>
-    <message>
-        <source>Cascade</source>
-        <translation>Überlappend</translation>
-    </message>
-    <message>
-        <source>Page Break Preview</source>
-        <translation>Umbruchvorschau</translation>
-    </message>
-    <message>
-        <source>Security</source>
-        <translation>Sicherheit</translation>
-    </message>
-    <message>
-        <source>Workbook Views</source>
-        <translation>Arbeitsmappenansichten</translation>
-    </message>
-    <message>
-        <source>Custom Views</source>
-        <translation>Benutzerdefinierte Ansichten</translation>
-    </message>
-    <message>
-        <source>Formula Bar</source>
-        <translation>Bearbeitungsleiste</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation>Vertikal</translation>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation>Visual Basic-Editor</translation>
-    </message>
-    <message>
-        <source>Worksheet Options</source>
-        <translation>Arbeitsblattoptionen</translation>
+        <source>Blank rows were selected currently, delete?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45350,10 +42149,6 @@ Bildschirm</translation>
         <translation>Bezeichnung</translation>
     </message>
     <message>
-        <source>Links</source>
-        <translation>Links</translation>
-    </message>
-    <message>
         <source>Media</source>
         <translation>Medien</translation>
     </message>
@@ -45390,6 +42185,10 @@ Bildschirm</translation>
         <translation>Onlinebilder einfügen</translation>
     </message>
     <message>
+        <source>Online Chart</source>
+        <translation>Online-Diagramm</translation>
+    </message>
+    <message>
         <source>Control 
 Properties</source>
         <translation>Steuerelement-Eigenschaften</translation>
@@ -45413,12 +42212,20 @@ auswählen</translation>
         <translation>ClipArt</translation>
     </message>
     <message>
+        <source>Data Pivot</source>
+        <translation>Daten-Pivot</translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Bild einfügen</translation>
     </message>
     <message>
         <source>Combo Box</source>
         <translation>Kombinationsfeld</translation>
+    </message>
+    <message>
+        <source>Complete symbol</source>
+        <translation>Symbole</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -45431,6 +42238,10 @@ auswählen</translation>
     <message>
         <source>Column</source>
         <translation>Spalte</translation>
+    </message>
+    <message>
+        <source>Chart Gallery</source>
+        <translation>Diagrammgalerie</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -45459,10 +42270,6 @@ auswählen</translation>
     <message>
         <source>Slicer</source>
         <translation>Datenschnitt</translation>
-    </message>
-    <message>
-        <source>Tables</source>
-        <translation>Tabellen</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -45509,6 +42316,14 @@ auswählen</translation>
         <translation>Mein Bild</translation>
     </message>
     <message>
+        <source>Insert Into Cell</source>
+        <translation>In Zelle einfügen</translation>
+    </message>
+    <message>
+        <source>More Gallery</source>
+        <translation>Weitere Funktionen</translation>
+    </message>
+    <message>
         <source>Arrange</source>
         <translation>Anordnen</translation>
     </message>
@@ -45529,8 +42344,12 @@ auswählen</translation>
         <translation>Diagramm</translation>
     </message>
     <message>
+        <source>Sparklines</source>
+        <translation>Sparklines</translation>
+    </message>
+    <message>
         <source>Local Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Lokales Textfeld</translation>
     </message>
     <message>
         <source>Spinner</source>
@@ -45545,8 +42364,16 @@ auswählen</translation>
         <translation>Kontrollkästchen</translation>
     </message>
     <message>
+        <source>Batch Insert Picture</source>
+        <translation>Masseneinfügung – Bild</translation>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation>Gruppierung aufheben</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>Bildschirmerfassung</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -45581,12 +42408,28 @@ auswählen</translation>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>Equation Editor</source>
+        <translation>Formel-Editor</translation>
+    </message>
+    <message>
+        <source>DocerResourceShop</source>
+        <translation>Vorlagen</translation>
+    </message>
+    <message>
         <source>More Symbols</source>
         <translation>Mehr Symbole</translation>
     </message>
     <message>
-        <source>Chart Gallery</source>
-        <translation>Diagrammgalerie</translation>
+        <source>Online Textbox</source>
+        <translation>Vorlagentextfeld</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Links</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <translation>Tabellen</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -45628,12 +42471,6 @@ auswählen</translation>
         <translation>Externe Daten</translation>
     </message>
     <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation>OLE 
-DB-Abfrage bearbeiten</translation>
-    </message>
-    <message>
         <source>Refresh Data</source>
         <translation>Daten aktualisieren</translation>
     </message>
@@ -45645,6 +42482,12 @@ aktualisieren</translation>
     <message>
         <source>Convert to Range</source>
         <translation>In Bereich konvertieren</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation>OLE 
+DB-Abfrage bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -45727,6 +42570,10 @@ importieren</translation>
         <translation>Schatteneinstellungen</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translation>Als PDF exportieren</translation>
+    </message>
+    <message>
         <source>Drawing</source>
         <translation>Zeichnung</translation>
     </message>
@@ -45776,161 +42623,6 @@ importieren</translation>
 </context>
 <context>
     <name>ongmani.ct_sliceroptions</name>
-    <message>
-        <source>Move</source>
-        <translation>Verschieben</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Größe</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Align Center</source>
-        <translation>Zentriert ausrichten</translation>
-    </message>
-    <message>
-        <source>Equal Height</source>
-        <translation>Gleiche Höhe</translation>
-    </message>
-    <message>
-        <source>Align</source>
-        <translation>Ausrichten</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation>Gruppe</translation>
-    </message>
-    <message>
-        <source>Send to Back</source>
-        <translation>In den Hintergrund</translation>
-    </message>
-    <message>
-        <source>Snap to Grid</source>
-        <translation>Am Raster ausr</translation>
-    </message>
-    <message>
-        <source>Flip Horizontal</source>
-        <translation>Horizontal spiegeln</translation>
-    </message>
-    <message>
-        <source>Button Width: </source>
-        <translation>Schaltflächenbreite:</translation>
-    </message>
-    <message>
-        <source>Flip Vertical</source>
-        <translation>Vertikal spiegeln</translation>
-    </message>
-    <message>
-        <source>Align Middle</source>
-        <translation>Vertikal zentrieren</translation>
-    </message>
-    <message>
-        <source>Button Height:</source>
-        <translation>Schaltflächenhöhe:</translation>
-    </message>
-    <message>
-        <source>Rotate Right 90°</source>
-        <translation>Rechtsdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>Drehen</translation>
-    </message>
-    <message>
-        <source>Slicer</source>
-        <translation>Datenschnitt</translation>
-    </message>
-    <message>
-        <source>Rotate Left 90°</source>
-        <translation>Linksdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Move Slicer</source>
-        <translation>Datenschnitt verschieben</translation>
-    </message>
-    <message>
-        <source>Show Grid</source>
-        <translation>Raster anzeigen</translation>
-    </message>
-    <message>
-        <source>Bring Forward</source>
-        <translation>Eine Ebene nach vorne</translation>
-    </message>
-    <message>
-        <source>Equal Size</source>
-        <translation>Gleiche Größe</translation>
-    </message>
-    <message>
-        <source>Bring to Front</source>
-        <translation>In den Vordergrund</translation>
-    </message>
-    <message>
-        <source>Arrange</source>
-        <translation>Anordnen</translation>
-    </message>
-    <message>
-        <source>Buttons</source>
-        <translation>Schaltflächen</translation>
-    </message>
-    <message>
-        <source>Selection Pane</source>
-        <translation>Auswahlbereich</translation>
-    </message>
-    <message>
-        <source>Distribute Vertically</source>
-        <translation>Vertikal verteilen</translation>
-    </message>
-    <message>
-        <source>Distribute Horizontally</source>
-        <translation>Horizontal verteilen</translation>
-    </message>
-    <message>
-        <source>Ungroup</source>
-        <translation>Gruppierung aufheben</translation>
-    </message>
-    <message>
-        <source>Width: </source>
-        <translation>Breite:</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Equal Width</source>
-        <translation>Gleiche Breite</translation>
-    </message>
-    <message>
-        <source>Send Backward</source>
-        <translation>Eine Ebene nach hinten</translation>
-    </message>
-    <message>
-        <source>Slicer Captions:</source>
-        <translation>Datenschnittbeschriftungen:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation>Höhe:</translation>
-    </message>
-    <message>
-        <source>Column Width:</source>
-        <translation>Spaltenbreite:</translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation>Oben ausrichten</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_sliceroptions</name>
     <message>
         <source>Move</source>
         <translation>Verschieben</translation>
@@ -46417,8 +43109,7 @@ Kommentar</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>In vereinfachtes 
-Chinesisch umwandeln</translation>
+        <translation>Vereinfacht</translation>
     </message>
     <message>
         <source>Unprotect 
@@ -46547,8 +43238,13 @@ Kommentar</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>In traditionelles 
-Chinesisch umwandeln</translation>
+        <translation>Traditionell</translation>
+    </message>
+    <message>
+        <source>Edit
+Comment</source>
+        <translation>Kommentar
+bearbeiten</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -46557,142 +43253,6 @@ sicherheit</translation>
     </message>
     <message>
         <source>Document Encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Edit
-Comment</source>
-        <translation>Kommentar 
-bearbeiten</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_review</name>
-    <message>
-        <source>Next</source>
-        <translation>Weiter</translation>
-    </message>
-    <message>
-        <source>Accept Changes</source>
-        <translation>Änderungen annehmen</translation>
-    </message>
-    <message>
-        <source>Translate to Simplified Chinese</source>
-        <translation>In vereinfachtes 
-Chinesisch umwandeln</translation>
-    </message>
-    <message>
-        <source>Unprotect Sheet</source>
-        <translation>Schutz aufheben 
-Blatt</translation>
-    </message>
-    <message>
-        <source>Protect Sheet</source>
-        <translation>Blatt 
-schützen</translation>
-    </message>
-    <message>
-        <source>Show All Comments</source>
-        <translation>Alle Kommentare anzeigen</translation>
-    </message>
-    <message>
-        <source>Track Changes</source>
-        <translation>Änderungen 
-nachverfolgen</translation>
-    </message>
-    <message>
-        <source>Reset Comment</source>
-        <translation>Kommentar zurücksetzen</translation>
-    </message>
-    <message>
-        <source>Reject Changes</source>
-        <translation>Änderungen ablehnen</translation>
-    </message>
-    <message>
-        <source>Comments</source>
-        <translation>Comments</translation>
-    </message>
-    <message>
-        <source>Delete Comment</source>
-        <translation>Kommentar 
-löschen</translation>
-    </message>
-    <message>
-        <source>Protect and Share Workbook</source>
-        <translation>Arbeitsmappe schützen und freigeben</translation>
-    </message>
-    <message>
-        <source>Share Workbook</source>
-        <translation>Arbeitsmappe 
-freigeben</translation>
-    </message>
-    <message>
-        <source>Reset All Comments</source>
-        <translation>Alle Kommentare zurücksetzen</translation>
-    </message>
-    <message>
-        <source>Chinese Transition</source>
-        <translation>Chinesische Übergang</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation>Zurück</translation>
-    </message>
-    <message>
-        <source>Proofing</source>
-        <translation>Dokumentprüfung</translation>
-    </message>
-    <message>
-        <source>Lock Cell</source>
-        <translation>Zellen 
-sperren</translation>
-    </message>
-    <message>
-        <source>Changes</source>
-        <translation>Änderungen</translation>
-    </message>
-    <message>
-        <source>Unprotect Workbook</source>
-        <translation>Schutz aufheben 
-Arbeitsmappe</translation>
-    </message>
-    <message>
-        <source>New Comment</source>
-        <translation>Neuer 
-Kommentar</translation>
-    </message>
-    <message>
-        <source>Translation</source>
-        <translation>Übersetzung</translation>
-    </message>
-    <message>
-        <source>Highlight Changes</source>
-        <translation>Änderungen hervorheben</translation>
-    </message>
-    <message>
-        <source>Show/Hide Comment</source>
-        <translation>Kommentar ein-/ausblenden</translation>
-    </message>
-    <message>
-        <source>Protect Workbook</source>
-        <translation>Arbeitsmappe 
-schützen</translation>
-    </message>
-    <message>
-        <source>Spell Check</source>
-        <translation>Rechtschreibprüfung</translation>
-    </message>
-    <message>
-        <source>Allow Users to Edit Ranges</source>
-        <translation>Benutzerberechtigungen zum Bearbeiten von Bereichen</translation>
-    </message>
-    <message>
-        <source>Translate to Traditional Chinese</source>
-        <translation>In traditionelles 
-Chinesisch umwandeln</translation>
-    </message>
-    <message>
-        <source>Edit Comment</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -47101,120 +43661,32 @@ Seite</translation>
         <translation>Gesamte Arbeitsmappe drucken</translation>
     </message>
     <message>
-        <source>Fit All Columns on One Page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fit Sheet on One Page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No Zoom</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Custom Zoom</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fit All Rows on One Page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>More Setup</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Page Zoom</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_printpreview</name>
-    <message>
-        <source>Show</source>
-        <translation>Anzeigen</translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation>Zoom</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Schließen</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation>Drucken</translation>
-    </message>
-    <message>
-        <source>Fit All Columns on One Page</source>
-        <translation>Alle Spalten auf einer Seite darstellen</translation>
-    </message>
-    <message>
-        <source>Margins</source>
-        <translation>Seitenränder</translation>
-    </message>
-    <message>
         <source>Fit Sheet on One Page</source>
-        <translation>Blatt auf einer Seite darstellen</translation>
-    </message>
-    <message>
-        <source>Landscape</source>
-        <translation>Querformat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation>Kein Zoom</translation>
-    </message>
-    <message>
-        <source>Page Layout</source>
-        <translation>Seitenlayout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation>Benutzerdefiniert Zoom</translation>
-    </message>
-    <message>
-        <source>Portrait</source>
-        <translation>Hochformat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation>Alle Zeilen auf einer Seite darstellen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Page Setup</source>
-        <translation>Seite einrichten</translation>
-    </message>
-    <message>
-        <source>Normal View</source>
-        <translation>Normalansicht</translation>
-    </message>
-    <message>
-        <source>Header and Footer</source>
-        <translation>Kopf- und Fußzeile</translation>
-    </message>
-    <message>
-        <source>Page Break Preview</source>
-        <translation>Page Break 
-Preview</translation>
-    </message>
-    <message>
-        <source>Previous Page</source>
-        <translation>Vorherige Seite</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <source>Fit All Columns on One Page</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation>Seitenzoom</translation>
-    </message>
-    <message>
-        <source>Next Page</source>
-        <translation>Nächste Seite</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47478,6 +43950,10 @@ Preview</translation>
         <translation>Gleiche Höhe</translation>
     </message>
     <message>
+        <source>Pagination Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Align</source>
         <translation>Ausrichten</translation>
     </message>
@@ -47538,6 +44014,10 @@ Preview</translation>
         <translation>Seitenränder</translation>
     </message>
     <message>
+        <source>Document theme</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Fit Sheet on One Page</source>
         <translation>Blatt auf einer Seite darstellen</translation>
     </message>
@@ -47585,6 +44065,10 @@ Area</source>
     <message>
         <source>Orientation</source>
         <translation>Orientierung</translation>
+    </message>
+    <message>
+        <source>Printing Settings</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Theme</source>
@@ -47646,6 +44130,10 @@ Forward</source>
     <message>
         <source>Effects</source>
         <translation>Effekte</translation>
+    </message>
+    <message>
+        <source>Document theme effect</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Page Break</source>
@@ -47899,6 +44387,117 @@ Titles</source>
     </message>
 </context>
 <context>
+    <name>KxImportDataFromWebDlgUI</name>
+    <message>
+        <source>Stop</source>
+        <translation>Anhalten</translation>
+    </message>
+    <message>
+        <source>&amp;Options...</source>
+        <translation>&amp;Optionen...</translation>
+    </message>
+    <message>
+        <source>New Web query</source>
+        <translation>Neue Webabfrage</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Optionen</translation>
+    </message>
+    <message>
+        <source>Import(&amp;I)</source>
+        <translation>Importieren</translation>
+    </message>
+    <message>
+        <source>Goto(&amp;T)</source>
+        <translation>Gehe zu</translation>
+    </message>
+    <message>
+        <source>Save query</source>
+        <translation>Abfrage speichern</translation>
+    </message>
+    <message>
+        <source>Backward</source>
+        <translation>Rückwärts</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Aktualisieren</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Vorwärts</translation>
+    </message>
+    <message>
+        <source>Address(&amp;D):</source>
+        <translation>Adresse:</translation>
+    </message>
+    <message>
+        <source>新建Web查询</source>
+        <translation>Neue Webabfrage</translation>
+    </message>
+    <message>
+        <source>&amp;Option ...</source>
+        <translation>Option ...</translation>
+    </message>
+    <message>
+        <source>地址(&amp;D):</source>
+        <translation>Adresse:</translation>
+    </message>
+    <message>
+        <source>保存查询</source>
+        <translation>Abfrage speichern</translation>
+    </message>
+    <message>
+        <source>导入(&amp;I)</source>
+        <translation>Importieren</translation>
+    </message>
+    <message>
+        <source>转到(&amp;T)</source>
+        <translation>Gehe zu</translation>
+    </message>
+    <message>
+        <source>停止</source>
+        <translation>Anhalten</translation>
+    </message>
+    <message>
+        <source>前进</source>
+        <translation>Fortfahren</translation>
+    </message>
+    <message>
+        <source>刷新</source>
+        <translation>Aktualisieren</translation>
+    </message>
+    <message>
+        <source>取消</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>后退</source>
+        <translation>Zurück</translation>
+    </message>
+    <message>
+        <source>向前</source>
+        <translation>Vorwärts</translation>
+    </message>
+    <message>
+        <source>保存</source>
+        <translation>Speichern</translation>
+    </message>
+    <message>
+        <source>选项</source>
+        <translation>Optionen</translation>
+    </message>
+    <message>
+        <source>返回</source>
+        <translation>Zurück</translation>
+    </message>
+</context>
+<context>
     <name>KxMergeProgressDlg</name>
     <message>
         <source>Stop</source>
@@ -47949,7 +44548,7 @@ Titles</source>
         <translation>All&amp;gemein</translation>
     </message>
     <message>
-        <source>Data(&amp;D)</source>
+        <source>Date(&amp;D)</source>
         <translation>&amp;Datum</translation>
     </message>
     <message>
@@ -47960,164 +44559,9 @@ Titles</source>
         <source>General</source>
         <translation>Allgemein</translation>
     </message>
-</context>
-<context>
-    <name>rainbow.ct_insert</name>
     <message>
-        <source>Text</source>
-        <translation>Text</translation>
-    </message>
-    <message>
-        <source>Chart</source>
-        <translation>Diagramm</translation>
-    </message>
-    <message>
-        <source>Forms</source>
-        <translation>Formulare</translation>
-    </message>
-    <message>
-        <source>Label</source>
-        <translation>Bezeichnung</translation>
-    </message>
-    <message>
-        <source>Links</source>
-        <translation>Links</translation>
-    </message>
-    <message>
-        <source>Edit Code</source>
-        <translation>Code bearbeiten</translation>
-    </message>
-    <message>
-        <source>List Box</source>
-        <translation>Listenfeld</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation>Horizontal</translation>
-    </message>
-    <message>
-        <source>Option Button</source>
-        <translation>Optionsfeld</translation>
-    </message>
-    <message>
-        <source>Clip Art</source>
-        <translation>ClipArt</translation>
-    </message>
-    <message>
-        <source>Combo Box</source>
-        <translation>Kombinationsfeld</translation>
-    </message>
-    <message>
-        <source>Online Picture</source>
-        <translation>Onlinebild </translation>
-    </message>
-    <message>
-        <source>Camera</source>
-        <translation>Kamera</translation>
-    </message>
-    <message>
-        <source>Button</source>
-        <translation>Schaltfläche</translation>
-    </message>
-    <message>
-        <source>File Object</source>
-        <translation>Dateiobjekt</translation>
-    </message>
-    <message>
-        <source>Object</source>
-        <translation>Objekt</translation>
-    </message>
-    <message>
-        <source>Shapes</source>
-        <translation>Formen</translation>
-    </message>
-    <message>
-        <source>Tables</source>
-        <translation>Tabellen</translation>
-    </message>
-    <message>
-        <source>Symbol</source>
-        <translation>Symbol</translation>
-    </message>
-    <message>
-        <source>Scroll Bar</source>
-        <translation>Bildlaufleiste</translation>
-    </message>
-    <message>
-        <source>PivotChart</source>
-        <translation>PivotChart</translation>
-    </message>
-    <message>
-        <source>PivotTable</source>
-        <translation>PivotTable</translation>
-    </message>
-    <message>
-        <source>Group Box</source>
-        <translation>Gruppenfeld</translation>
-    </message>
-    <message>
-        <source>Hyperlink</source>
-        <translation>Hyperlink</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <translation>Bild</translation>
-    </message>
-    <message>
-        <source>Control Properties</source>
-        <translation>Steuerelementeigenschaften</translation>
-    </message>
-    <message>
-        <source>Insert Online Picture</source>
-        <translation>Onlinebild einfügen</translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation>Gleichung</translation>
-    </message>
-    <message>
-        <source>Illustrations</source>
-        <translation>Illustrationen</translation>
-    </message>
-    <message>
-        <source>Header and Footer</source>
-        <translation>Kopf- und Fußzeile</translation>
-    </message>
-    <message>
-        <source>InsertNewChart</source>
-        <translation>Diagramm</translation>
-    </message>
-    <message>
-        <source>Spinner</source>
-        <translation>Drehfeld</translation>
-    </message>
-    <message>
-        <source>Symbols</source>
-        <translation>Symbole</translation>
-    </message>
-    <message>
-        <source>Check Box</source>
-        <translation>Kontrollkästchen</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation>Vertikal</translation>
-    </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation>ClipArt einfügen</translation>
-    </message>
-    <message>
-        <source>Text Box</source>
-        <translation>Textfeld</translation>
-    </message>
-    <message>
-        <source>WordArt</source>
-        <translation>WordArt</translation>
-    </message>
-    <message>
-        <source>More Symbols</source>
-        <translation>Mehre Symbole</translation>
+        <source>Data(&amp;D)</source>
+        <translation>&amp;Datum</translation>
     </message>
 </context>
 <context>
@@ -48171,7 +44615,7 @@ Titles</source>
     </message>
     <message>
         <source>tableStyle</source>
-        <translation type="unfinished"/>
+        <translation>Stile voreinstellen</translation>
     </message>
     <message>
         <source>custom</source>
@@ -48180,6 +44624,65 @@ Titles</source>
     <message>
         <source>medium</source>
         <translation>Mittel</translation>
+    </message>
+</context>
+<context>
+    <name>KMacEtPrintDiag</name>
+    <message>
+        <source>tall</source>
+        <translation>Hoch</translation>
+    </message>
+    <message>
+        <source>Fit All Columns on One Page</source>
+        <translation>Alle Spalten auf einer Seite darstellen</translation>
+    </message>
+    <message>
+        <source>Selected area</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Horizontally</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Active sheet</source>
+        <translation>Aktives Blatt</translation>
+    </message>
+    <message>
+        <source>Fit Sheet on One Page</source>
+        <translation>Blatt auf einer Seite darstellen</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation>Dokument</translation>
+    </message>
+    <message>
+        <source>Fit All Rows on One Page</source>
+        <translation>Alle Zeilen auf einer Seite darstellen</translation>
+    </message>
+    <message>
+        <source>Vertically</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Adjust to:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fit to:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Entire workbook</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Others...</source>
+        <translation>Andere...</translation>
     </message>
 </context>
 <context>
@@ -48247,6 +44750,57 @@ Titles</source>
     </message>
 </context>
 <context>
+    <name>KxDlgAfAnalysisChartEdit</name>
+    <message>
+        <source>with</source>
+        <translation>mit</translation>
+    </message>
+    <message>
+        <source>(*Here the general selection of text fields, date fields as a classification;for example: department, sales date and so on)</source>
+        <translation>(*Hier die allgemeine Auswahl von Textfeldern, Datumsfeldern als Klassifizierung, z. B. Abteilung, Verkaufsdatum usw.)</translation>
+    </message>
+    <message>
+        <source>(*Here you can choose to sum the number of fields, the average, etc .; you can also choose to count the text field.)</source>
+        <translation>(*Hier können die Anzahl der Felder, den Durchschnitt usw. summieren. Sie können das Textfeld zählen.)</translation>
+    </message>
+    <message>
+        <source>(The title can be blank, limited to 30 words)</source>
+        <translation>(Der Titel ist auf 30 Zeichen begrenzt und kann leer sein.)</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <translation>Diagrammtitel</translation>
+    </message>
+    <message>
+        <source>carry on</source>
+        <translation>Für</translation>
+    </message>
+    <message>
+        <source>Subtotal:</source>
+        <translation>Teilergebnis:</translation>
+    </message>
+    <message>
+        <source>Category:</source>
+        <translation>Kategorie:</translation>
+    </message>
+    <message>
+        <source>What analysis do you want to do</source>
+        <translation>Erwartete Analyse</translation>
+    </message>
+    <message>
+        <source>(Scope / dimension)</source>
+        <translation>(Bereich/Dimension)</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+</context>
+<context>
     <name>KxWatchWindowDlg</name>
     <message>
         <source>Watch Window</source>
@@ -48282,21 +44836,6 @@ Titles</source>
         <source>Clear
 Table Style</source>
         <translation>Tabellenformat löschen </translation>
-    </message>
-    <message>
-        <source>Table Style Options</source>
-        <translation>Optionen für Tabellenformat</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_design</name>
-    <message>
-        <source>Table Styles</source>
-        <translation>Tabellenformatvorlagen</translation>
-    </message>
-    <message>
-        <source>Clear Table Style</source>
-        <translation>Tabellenformat löschen</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -48627,72 +45166,20 @@ Table Style</source>
     </message>
 </context>
 <context>
-    <name>KxImportDataQueryOptionsDlgUI</name>
-    <message>
-        <source>无(&amp;N)</source>
-        <translation>Kein</translation>
-    </message>
-    <message>
-        <source>Web 查询选项</source>
-        <translation>Webabfrageoptionen</translation>
-    </message>
-    <message>
-        <source>连续分隔符号视为单个处理(&amp;T)</source>
-        <translation>Aufeinanderfolgende Trennzeichen werden als ein Trennzeichen behandelt</translation>
-    </message>
-    <message>
-        <source>完全HTML格式(&amp;F)</source>
-        <translation>Volles HTML-Format</translation>
-    </message>
-    <message>
-        <source>导入预格式化的块的设置</source>
-        <translation>Vorformatierte Blockeinstellungen importieren</translation>
-    </message>
-    <message>
-        <source>仅RTF格式(&amp;R)</source>
-        <translation>Nur RTF-Format</translation>
-    </message>
-    <message>
-        <source>其他导入设置</source>
-        <translation>Weitere Importeinstellungen</translation>
-    </message>
-    <message>
-        <source>将&lt;PRE&gt;块导至列中(&amp;I)</source>
-        <translation>&lt;PRE&gt;-Block in die Spalte importieren</translation>
-    </message>
-    <message>
-        <source>全部使用相同的导入设置(&amp;U)</source>
-        <translation>Gleiche Importeinstellungen für alle</translation>
-    </message>
-    <message>
-        <source>禁用日期识别(&amp;D)</source>
-        <translation>Datumserkennung deaktivieren</translation>
-    </message>
-    <message>
-        <source>格式</source>
-        <translation>Format</translation>
-    </message>
-    <message>
-        <source>禁用Web查询重定向(&amp;W)</source>
-        <translation>Umleitung von Webabfragen deaktivieren</translation>
-    </message>
-</context>
-<context>
-    <name>KxSlicerSettingDlg</name>
-    <message>
-        <source>Filter control name already in use. Enter a unique name.</source>
-        <translation>Name des Filtersteuerelements wird bereits verwendet. Geben Sie einen eindeutigen Namen ein.</translation>
-    </message>
-    <message>
-        <source>Filter control name is not valid.</source>
-        <translation>Name des Filtersteuerelements ist ungültig.</translation>
-    </message>
-</context>
-<context>
     <name>et_et_persist</name>
+    <message>
+        <source>The following features of your workbook are not going to be saved in UOF Spreadsheets:
+
+</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <source>Microsoft Excel 97-2003 Workbook(*.xls)</source>
         <translation>Microsoft Excel 97-2003 Workbook (*.xls)</translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format*.uos(*.uos)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Field</source>
@@ -48734,6 +45221,11 @@ Table Style</source>
 </translation>
     </message>
     <message>
+        <source> · JS project
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Excel2007 XML Template Macro Enabled(*.xltx)</source>
         <translation>Excel-Vorlage (*.xltx)</translation>
     </message>
@@ -48768,6 +45260,10 @@ Table Style</source>
     <message>
         <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
         <translation>WPS Spreadsheets 2007/2010 Vorlage (*.ettx)</translation>
+    </message>
+    <message>
+        <source>Excel 97-2003 Add-in(*.xla)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cells:</source>
@@ -48823,6 +45319,10 @@ Table Style</source>
         <translation>Text(durch Tabulator getrennt)(*.txt)</translation>
     </message>
     <message>
+        <source>Copy of </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>XML SpreadSheet(*.xml)</source>
         <translation>XML Arbeitsblatt(*.xml)</translation>
     </message>
@@ -48839,6 +45339,11 @@ Table Style</source>
     <message>
         <source>Microsoft Excel Workbook(*.xls; *.xlt)</source>
         <translation>Microsoft Excel Arbeitsmappe (*.xls; *.xlt) </translation>
+    </message>
+    <message>
+        <source>
+ Do you continue to save it as UOF Spreadsheets ?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
@@ -48858,6 +45363,10 @@ Klicken Sie auf &apos;Ja&apos;, um die Datei als Arbeitsmappe ohne Makros zu spe
     <message>
         <source>OpenDocument Spreadsheet(*.ods)</source>
         <translation>OpenDocument-Tabelle (*.ods)</translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format(*.uos)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
@@ -48897,6 +45406,10 @@ Klicken Sie auf &apos;Ja&apos;, um die Datei als Arbeitsmappe ohne Makros zu spe
         <translation>Kommentar</translation>
     </message>
     <message>
+        <source>WuKuang Normal Encrypted Spreadsheets Files(*.pxls)|*.pxls</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The author would like you to open &quot;%s&quot; as read-only unless you need to make changes. Open as read-only?</source>
         <translation>Der Autor möchte, dass Sie „%s“ schreibgeschützt öffnen, sofern Sie nicht Änderungen durchführen müssen. Schreibgeschützt öffnen?</translation>
     </message>
@@ -48923,6 +45436,10 @@ Um dieses Format beizubehalten (und alle nicht kompatiblen Merkmale zu verwerfen
         <translation>Öffentliches Sicherheitsdokumentformat (*.xls)</translation>
     </message>
     <message>
+        <source>Excel Add-in(*.xlam)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PRN(Fixed Width)(*.prn)</source>
         <translation>PRN(Feste Breite)(*.prn)</translation>
     </message>
@@ -48935,6 +45452,10 @@ Um dieses Format beizubehalten (und alle nicht kompatiblen Merkmale zu verwerfen
         <source> · File Encryption
 </source>
         <translation> · Dateiverschlüsselung</translation>
+    </message>
+    <message>
+        <source>Cannot save as that name. Document was opened as read-only.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Normal Files</source>
@@ -48960,6 +45481,14 @@ Um dieses Format beizubehalten (und alle nicht kompatiblen Merkmale zu verwerfen
 ·To rename the range referred to in the formula or worksheet,click No,and enter a new name in the Name Conflict dialog box.</source>
         <translation>Die Formel, die eingefügt werden soll, enthält einen Namen, der bereits in der Zieltabelle vorhanden ist. Soll die vorhandene Definition von &apos;%s&apos; verwendet werden? •
  Klicken Sie auf &apos;Ja&apos;, um die bestehende Namensdefinition zu verwenden. • Klicken Sie auf &apos;Nein&apos;, um den Namen des Bereiches, auf den sich die Formel oder die Tabelle bezieht, zu ändern. Geben Sie dann einen neuen Namen in dem Dialogfeld &apos;Namenskonflikt&apos; ein.</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)|*.xls</source>
+        <translation>WPS-Dokumentenformat mit Verschlüsselung (*.xls)|*.xls</translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Spreadsheets Files(*.hxls)|*.hxls</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Query Files(*.iqy)</source>
@@ -49015,6 +45544,10 @@ Hinweis: Dateien können Makroviren enthalten und eventuell schädliche Vorgäng
         <source> · Protect Worksheet
 </source>
         <translation> · Arbeitsblatt schützen</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Warnung</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Template(*.ett)</source>
@@ -49119,10 +45652,164 @@ This backup will be saved to (%s)</source>
     </message>
 </context>
 <context>
+    <name>KxSlicerSettingDlg</name>
+    <message>
+        <source>Filter control name already in use. Enter a unique name.</source>
+        <translation>Name des Filtersteuerelements wird bereits verwendet. Geben Sie einen eindeutigen Namen ein.</translation>
+    </message>
+    <message>
+        <source>Filter control name is not valid.</source>
+        <translation>Name des Filtersteuerelements ist ungültig.</translation>
+    </message>
+</context>
+<context>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
         <translation>GUI wird geladen</translation>
+    </message>
+</context>
+<context>
+    <name>KxNumberWidget</name>
+    <message>
+        <source>Malay(Malaysia)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>English(United Kingdom)</source>
+        <translation>Englisch (Vereinigtes Königreich)</translation>
+    </message>
+    <message>
+        <source>Vietnamese(Vietnam)</source>
+        <translation>Vietnamesisch (Vietnam)</translation>
+    </message>
+    <message>
+        <source>Thai Buddhist</source>
+        <translation>Thaikalender</translation>
+    </message>
+    <message>
+        <source>Portuguese(Brazil)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>English(Malaysia)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>English(United States)</source>
+        <translation>Englisch(die USA)</translation>
+    </message>
+    <message>
+        <source>Number is used for general display of numbers.Currency and Accounting offer specialized formatting for monetary value.</source>
+        <translation>Zahl wird für die allgemeine Anzeige von Zahlen verwendet. Währung und Buchhaltung bieten spezielle Formate für monetäre Werte.</translation>
+    </message>
+    <message>
+        <source>English(New Zealand)</source>
+        <translation>Englisch (Neuseeland)</translation>
+    </message>
+    <message>
+        <source>Accounting formats line up the currency symbols and decimal points in a column.</source>
+        <translation>Buchhaltung richtet die Währungssymbole und die Dezimalstellen in einer Spalte aus.</translation>
+    </message>
+    <message>
+        <source>Russian(Russia)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Portuguese(Portugal)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Type the number format code,using one of the existing codes as a starting point.</source>
+        <translation>Geben Sie Ihr Zahlenformat ein, unter Verwendung eines der bestehenden Zahlenformate als Ausgangspunkt.</translation>
+    </message>
+    <message>
+        <source>English(Australia)</source>
+        <translation>Englisch (Australien)</translation>
+    </message>
+    <message>
+        <source>English(Canada)</source>
+        <translation>Englisch (Kanada)</translation>
+    </message>
+    <message>
+        <source>Special formats are useful for tracking list and database values.</source>
+        <translation>Sonderformate sind hilfreich, um Listen und Datenbankwerte zu formatieren.</translation>
+    </message>
+    <message>
+        <source>Currency formats are used for general monetary values. Use Accounting formats to align decimal points in a column.</source>
+        <translation>Währung wird für allgemeine monetäre Werte verwendet. Benutzen Sie Buchhaltung, um die Dezimalstellen in einer Spalte auszurichten.</translation>
+    </message>
+    <message>
+        <source>Hindi(India)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>English(Indonesia)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Indonesian(Indonesia)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Thai(Thailand)</source>
+        <translation>Thailändisch (Thailand)</translation>
+    </message>
+    <message>
+        <source>Chinese(Simple)</source>
+        <translation>Chinesisch (Mandarin)</translation>
+    </message>
+    <message>
+        <source>Japanese Year</source>
+        <translation>Japanese Year</translation>
+    </message>
+    <message>
+        <source>&amp;Use 1000 separator ( %1)</source>
+        <translation>1000er-&amp;Trennzeichen verwenden ( %1)</translation>
+    </message>
+    <message>
+        <source>Spanish(Spain)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Time formats display date and time serial numbers as time values.</source>
+        <translation>Uhrzeit zeigt die fortlaufende Zahl des Datums im Uhrzeitformat an.</translation>
+    </message>
+    <message>
+        <source>Japanese(Japan)</source>
+        <translation>Japanisch (Japan)</translation>
+    </message>
+    <message>
+        <source>Date formats display date and time serial numbers as date values.</source>
+        <translation>Datum zeigt die fortlaufende Zahl des Datums im Datumsformat an.</translation>
+    </message>
+    <message>
+        <source>Western</source>
+        <translation>Westlich</translation>
+    </message>
+    <message>
+        <source>Chinese(HongKong S.A.R)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chinese(Taiwan China)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>English(Philippines)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</source>
+        <translation>Prozent multipliziert den Zellinhalt mit Hundert und zeigt Ihnen das Ergebnis mit einem Prozentsymbol an.</translation>
+    </message>
+    <message>
+        <source>Chinese(HongKong)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -49375,10 +46062,6 @@ This backup will be saved to (%s)</source>
         <translation>Persönliches Center</translation>
     </message>
     <message>
-        <source>File Roaming</source>
-        <translation>Datei-Roaming</translation>
-    </message>
-    <message>
         <source>Buy Subscription</source>
         <translation>Abonnement kaufen</translation>
     </message>
@@ -49389,6 +46072,10 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Sign Out</source>
         <translation>Abmelden</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation>Datei-Roaming</translation>
     </message>
 </context>
 <context>
@@ -49437,10 +46124,6 @@ This backup will be saved to (%s)</source>
         <translation>&amp;Bearbeiten</translation>
     </message>
     <message>
-        <source>&amp;Clear</source>
-        <translation>&amp;Löschen</translation>
-    </message>
-    <message>
         <source>&amp;MacroIn</source>
         <translation>M&amp;akro in</translation>
     </message>
@@ -49453,16 +46136,20 @@ This backup will be saved to (%s)</source>
         <translation>&amp;Löschen</translation>
     </message>
     <message>
-        <source>Assign Macro</source>
-        <translation>Makro zuweisen</translation>
-    </message>
-    <message>
         <source>Description</source>
         <translation>Beschreibung</translation>
     </message>
     <message>
         <source>&amp;Create</source>
         <translation>&amp;Erstellen</translation>
+    </message>
+    <message>
+        <source>&amp;Clear</source>
+        <translation>&amp;Löschen</translation>
+    </message>
+    <message>
+        <source>Assign Macro</source>
+        <translation>Makro zuweisen</translation>
     </message>
 </context>
 <context>
@@ -49967,101 +46654,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxNumberWidget</name>
-    <message>
-        <source>English(United Kingdom)</source>
-        <translation>Englisch (Vereinigtes Königreich)</translation>
-    </message>
-    <message>
-        <source>Vietnamese(Vietnam)</source>
-        <translation>Vietnamesisch (Vietnam)</translation>
-    </message>
-    <message>
-        <source>Thai Buddhist</source>
-        <translation>Thaikalender</translation>
-    </message>
-    <message>
-        <source>English(United States)</source>
-        <translation>Englisch(die USA)</translation>
-    </message>
-    <message>
-        <source>Number is used for general display of numbers.Currency and Accounting offer specialized formatting for monetary value.</source>
-        <translation>Zahl wird für die allgemeine Anzeige von Zahlen verwendet. Währung und Buchhaltung bieten spezielle Formate für monetäre Werte.</translation>
-    </message>
-    <message>
-        <source>English(New Zealand)</source>
-        <translation>Englisch (Neuseeland)</translation>
-    </message>
-    <message>
-        <source>Accounting formats line up the currency symbols and decimal points in a column.</source>
-        <translation>Buchhaltung richtet die Währungssymbole und die Dezimalstellen in einer Spalte aus.</translation>
-    </message>
-    <message>
-        <source>Type the number format code,using one of the existing codes as a starting point.</source>
-        <translation>Geben Sie Ihr Zahlenformat ein, unter Verwendung eines der bestehenden Zahlenformate als Ausgangspunkt.</translation>
-    </message>
-    <message>
-        <source>English(Australia)</source>
-        <translation>Englisch (Australien)</translation>
-    </message>
-    <message>
-        <source>English(Canada)</source>
-        <translation>Englisch (Kanada)</translation>
-    </message>
-    <message>
-        <source>Special formats are useful for tracking list and database values.</source>
-        <translation>Sonderformate sind hilfreich, um Listen und Datenbankwerte zu formatieren.</translation>
-    </message>
-    <message>
-        <source>Currency formats are used for general monetary values. Use Accounting formats to align decimal points in a column.</source>
-        <translation>Währung wird für allgemeine monetäre Werte verwendet. Benutzen Sie Buchhaltung, um die Dezimalstellen in einer Spalte auszurichten.</translation>
-    </message>
-    <message>
-        <source>Thai(Thailand)</source>
-        <translation>Thailändisch (Thailand)</translation>
-    </message>
-    <message>
-        <source>Chinese(Simple)</source>
-        <translation>Chinesisch (Mandarin)</translation>
-    </message>
-    <message>
-        <source>Japanese Year</source>
-        <translation>Japanese Year</translation>
-    </message>
-    <message>
-        <source>&amp;Use 1000 separator ( %1)</source>
-        <translation>1000er-&amp;Trennzeichen verwenden ( %1)</translation>
-    </message>
-    <message>
-        <source>Time formats display date and time serial numbers as time values.</source>
-        <translation>Uhrzeit zeigt die fortlaufende Zahl des Datums im Uhrzeitformat an.</translation>
-    </message>
-    <message>
-        <source>Japanese(Japan)</source>
-        <translation>Japanisch (Japan)</translation>
-    </message>
-    <message>
-        <source>Date formats display date and time serial numbers as date values.</source>
-        <translation>Datum zeigt die fortlaufende Zahl des Datums im Datumsformat an.</translation>
-    </message>
-    <message>
-        <source>Western</source>
-        <translation>Westlich</translation>
-    </message>
-    <message>
-        <source>Percentage formats multiply the cell value by 100 and displays the result with a percent symbol.</source>
-        <translation>Prozent multipliziert den Zellinhalt mit Hundert und zeigt Ihnen das Ergebnis mit einem Prozentsymbol an.</translation>
-    </message>
-    <message>
-        <source>Chinese(HongKong)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxEtFeedbackDlg</name>
     <message>
         <source>Your feedback was submitted. Thanks for your support!</source>
@@ -50483,12 +47075,55 @@ p, li { white-space: pre-wrap; }
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
+    <message>
+        <source>You can choose from three different ways to connect to your chosen data source.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PreviewPage</name>
     <message>
         <source>Alt+R</source>
         <translation>Alt+R</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfAnalysisPaneChartEditWidget</name>
+    <message>
+        <source>Apply</source>
+        <translation>Anwenden</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Add Filter Chart</source>
+        <translation>Filterdiagramm hinzufügen</translation>
+    </message>
+    <message>
+        <source>Up to 30 words and can be blank</source>
+        <translation>Der Titel ist auf 30 Zeichen begrenzt und kann leer sein.</translation>
+    </message>
+    <message>
+        <source>Analysis field</source>
+        <translation>Nach</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation>(Keine)</translation>
+    </message>
+    <message>
+        <source>Dimension</source>
+        <translation>Dimension</translation>
+    </message>
+    <message>
+        <source>Filter Chart (%1)</source>
+        <translation>Filterdiagramm (%1)</translation>
+    </message>
+    <message>
+        <source>Summarize by</source>
+        <translation>Zusammenfassen nach</translation>
     </message>
 </context>
 <context>
@@ -50550,8 +47185,8 @@ p, li { white-space: pre-wrap; }
         <translation>Vergleicht die beiden ausgewählten Bereiche und markiert die doppelten Zeilen.</translation>
     </message>
     <message>
-        <source>Confirm to Export</source>
-        <translation>Zum Extrahieren bestätigen</translation>
+        <source>Export to new Sheet</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mark the same row of two worksheets</source>
@@ -50666,6 +47301,10 @@ p, li { white-space: pre-wrap; }
         <translation>Doppelte Daten aus zwei Bereichen extrahieren</translation>
     </message>
     <message>
+        <source>Export to new book</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Compare the two selected areas, find the rows with the same row data, and extract them to the new worksheet.</source>
         <translation>Vergleicht die beiden ausgewählten Bereiche, findet die doppelten Zeilen und extrahiert sie in ein neues Arbeitsblatt.</translation>
     </message>
@@ -50688,6 +47327,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Compare the row data in the worksheet, find the duplicate entire row, and extract it to the new worksheet.</source>
         <translation>Vergleicht die Zeilen im Arbeitsblatt, findet die doppelten Zeilen und extrahiert sie in ein neues Arbeitsblatt.</translation>
+    </message>
+    <message>
+        <source>Confirm to Export</source>
+        <translation>Zum Extrahieren bestätigen</translation>
     </message>
 </context>
 <context>
@@ -50788,16 +47431,52 @@ Wert: </translation>
         <translation>Drucken</translation>
     </message>
     <message>
+        <source>scope</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Invalid Input.</source>
         <translation>Ungültige Eingabe.</translation>
+    </message>
+    <message>
+        <source>Default Current Page Margins</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Margins are 1.5 CM</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
+        <source>Save about 23% on paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
         <translation>Der Drucker„%1“wurde ein Fehler festgestellt!</translation>
+    </message>
+    <message>
+        <source>secret</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Margins are 1 CM</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Margins are 2 CM</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No scaling</source>
@@ -50806,6 +47485,10 @@ Wert: </translation>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
         <translation>Die Zahl muss zwischen %1 und %2 liegen. Versuchen Sie es erneut, indem Sie eine Zahl in diesem Bereich eingeben.</translation>
+    </message>
+    <message>
+        <source>No Changes</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duple&amp;x print</source>
@@ -50874,6 +47557,10 @@ Wert: </translation>
         <translation>Steuerungsliste</translation>
     </message>
     <message>
+        <source>WPS Macro Editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>More Controls</source>
         <translation>Mehre Steuerelemente</translation>
     </message>
@@ -50907,6 +47594,10 @@ Properties</source>
         <translation>Makros</translation>
     </message>
     <message>
+        <source>JS Macros</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Scroll Bar</source>
         <translation>Bildlaufleiste</translation>
     </message>
@@ -50929,6 +47620,10 @@ beenden</translation>
         <translation>Sicherheit</translation>
     </message>
     <message>
+        <source>JS Control Toolbox</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>View Code</source>
         <translation>Code anzeigen</translation>
     </message>
@@ -50948,105 +47643,6 @@ beenden</translation>
         <source>Visual Basic
 Editor</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_developtools</name>
-    <message>
-        <source>Close</source>
-        <translation>Schließen</translation>
-    </message>
-    <message>
-        <source>Image</source>
-        <translation>Bild</translation>
-    </message>
-    <message>
-        <source>Label</source>
-        <translation>Bezeichnung</translation>
-    </message>
-    <message>
-        <source>List Box</source>
-        <translation>Listenfeld</translation>
-    </message>
-    <message>
-        <source>Control Toolbox</source>
-        <translation>Steuerelement-Toolbox</translation>
-    </message>
-    <message>
-        <source>Control List</source>
-        <translation>Steuerungsliste</translation>
-    </message>
-    <message>
-        <source>More Controls</source>
-        <translation>Mehre Steuerelemente</translation>
-    </message>
-    <message>
-        <source>Command Button</source>
-        <translation>Befehlsschaltfläche</translation>
-    </message>
-    <message>
-        <source>Option Button</source>
-        <translation>Optionsfeld</translation>
-    </message>
-    <message>
-        <source>Combo Box</source>
-        <translation>Kombinationsfeld</translation>
-    </message>
-    <message>
-        <source>Record Macro</source>
-        <translation>Makro aufzeichnen</translation>
-    </message>
-    <message>
-        <source>Spin Button</source>
-        <translation>Drehfeld</translation>
-    </message>
-    <message>
-        <source>Macros</source>
-        <translation>Makros</translation>
-    </message>
-    <message>
-        <source>Scroll Bar</source>
-        <translation>Bildlaufleiste</translation>
-    </message>
-    <message>
-        <source>Control Properties</source>
-        <translation>Steuerelementeigenschaften</translation>
-    </message>
-    <message>
-        <source>Relative References</source>
-        <translation>Relative Verweise</translation>
-    </message>
-    <message>
-        <source>Check Box</source>
-        <translation>Kontrollkästchen</translation>
-    </message>
-    <message>
-        <source>Security</source>
-        <translation>Sicherheit</translation>
-    </message>
-    <message>
-        <source>Exit Design Mode</source>
-        <translation>Entwurfsmodus beenden</translation>
-    </message>
-    <message>
-        <source>View Code</source>
-        <translation>Code anzeigen</translation>
-    </message>
-    <message>
-        <source>Text Box</source>
-        <translation>Textfeld</translation>
-    </message>
-    <message>
-        <source>Visual Basic Editor</source>
-        <translation>Visual Basic-Editor</translation>
-    </message>
-    <message>
-        <source>Design Mode</source>
-        <translation>Entwurfsmodus</translation>
-    </message>
-    <message>
-        <source>Toggle Button</source>
-        <translation>Umschaltfläche</translation>
     </message>
 </context>
 <context>
@@ -51213,6 +47809,10 @@ Editor</source>
     <message>
         <source>Browse for File</source>
         <translation>Nach Datei suchen</translation>
+    </message>
+    <message>
+        <source>Attachment &amp;Link</source>
+        <translation>Anhangs-Link (&amp;L)</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
@@ -51494,7 +48094,7 @@ platzieren</translation>
     </message>
     <message>
         <source>&amp;AutoUpdate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Automatisch</translation>
     </message>
     <message>
         <source>Source</source>
@@ -51820,97 +48420,6 @@ platzieren</translation>
     </message>
 </context>
 <context>
-    <name>rainbow.ct_tabletool</name>
-    <message>
-        <source>First Column</source>
-        <translation>Erste Spalte</translation>
-    </message>
-    <message>
-        <source>Tools</source>
-        <translation>Extras</translation>
-    </message>
-    <message>
-        <source>Edit Connection Properties</source>
-        <translation>Verbindungseigenschaften bearbeiten</translation>
-    </message>
-    <message>
-        <source>Data Range Properties</source>
-        <translation>Datenbereichseigenschaften</translation>
-    </message>
-    <message>
-        <source>Banded Columns</source>
-        <translation>Verbundene Spalten</translation>
-    </message>
-    <message>
-        <source>Edit Text Import</source>
-        <translation>Textimport bearbeiten</translation>
-    </message>
-    <message>
-        <source>Resize Table</source>
-        <translation>Tabellengröße ändern</translation>
-    </message>
-    <message>
-        <source>Export Table to SharePoint List</source>
-        <translation>Tabelle in SharePoint-Liste exportieren</translation>
-    </message>
-    <message>
-        <source>Last Column</source>
-        <translation>Letzte Spalte</translation>
-    </message>
-    <message>
-        <source>Table Style Options</source>
-        <translation>Optionen für Tabellenformat</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation>Eigenschaften</translation>
-    </message>
-    <message>
-        <source>Table Name:</source>
-        <translation>Tabellenname:</translation>
-    </message>
-    <message>
-        <source>Total Row</source>
-        <translation>Ergebniszeile</translation>
-    </message>
-    <message>
-        <source>Header Row</source>
-        <translation>Überschriftenzeile</translation>
-    </message>
-    <message>
-        <source>External Data</source>
-        <translation>Externe 
-Daten</translation>
-    </message>
-    <message>
-        <source>Banded Rows</source>
-        <translation>Verbundene Zeilen</translation>
-    </message>
-    <message>
-        <source>Edit
-OLE DB Query</source>
-        <translation>OLE DB-Abfrage
-bearbeiten</translation>
-    </message>
-    <message>
-        <source>Refresh Data</source>
-        <translation>Daten aktualisieren</translation>
-    </message>
-    <message>
-        <source>Refresh All</source>
-        <translation>Alle 
-aktualisieren</translation>
-    </message>
-    <message>
-        <source>Convert to Range</source>
-        <translation>In Bereich konvertieren</translation>
-    </message>
-    <message>
-        <source>Remove Duplicates</source>
-        <translation>Duplikate entfernen</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgNewOrModifyAllowUserEditRange</name>
     <message>
         <source>Range</source>
@@ -52135,17 +48644,6 @@ aktualisieren</translation>
 </context>
 <context>
     <name>ongmani.ct_wordart.WordArtCharacterSpacing</name>
-    <message>
-        <source>Tight</source>
-        <translation>Eng</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>Standard</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_wordart.WordArtCharacterSpacing</name>
     <message>
         <source>Tight</source>
         <translation>Eng</translation>
@@ -52481,10 +48979,6 @@ schützen</translation>
         <translation>Bitte wählen Sie eine Spalte aus, um sie zeilenweise zu vergleichen!</translation>
     </message>
     <message>
-        <source>Export To:</source>
-        <translation>Extrahieren nach:</translation>
-    </message>
-    <message>
         <source>List area (&amp;L):</source>
         <translation>&amp;Listenbereich:</translation>
     </message>
@@ -52503,6 +48997,10 @@ schützen</translation>
     <message>
         <source>Specify the color (&amp;D):</source>
         <translation>Farbe angeben (&amp;D):</translation>
+    </message>
+    <message>
+        <source>Export To:</source>
+        <translation>Extrahieren nach:</translation>
     </message>
     <message>
         <source>New Worksheet</source>
@@ -52540,21 +49038,6 @@ aktualisieren</translation>
 OLE DB Query</source>
         <translation>Bearbeiten
 OLE DB-Abfrage</translation>
-    </message>
-</context>
-<context>
-    <name>KxAfAnalysisPaneChartEditDialog</name>
-    <message>
-        <source>Add Filter Chart</source>
-        <translation>Filterdiagramm hinzufügen</translation>
-    </message>
-    <message>
-        <source>(None)</source>
-        <translation>(Keine)</translation>
-    </message>
-    <message>
-        <source>Filter Chart (%1)</source>
-        <translation>Filterdiagramm (%1)</translation>
     </message>
 </context>
 <context>
@@ -52670,10 +49153,6 @@ OLE DB-Abfrage</translation>
         <translation>Arbeitsmappen zusammenführen</translation>
     </message>
     <message>
-        <source>Title Rows</source>
-        <translation>Zeilen des Titels</translation>
-    </message>
-    <message>
         <source>Start Recombine</source>
         <translation>Neukombination starten</translation>
     </message>
@@ -52740,6 +49219,10 @@ OLE DB-Abfrage</translation>
     <message>
         <source>Merge worksheets</source>
         <translation>Arbeitsblätter zusammenführen</translation>
+    </message>
+    <message>
+        <source>Title Rows</source>
+        <translation>Zeilen des Titels</translation>
     </message>
 </context>
 <context>
@@ -52969,6 +49452,22 @@ Ergebnis</translation>
     <message>
         <source>Highlight</source>
         <translation>Hervorheben</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectODBCDSN</name>
+    <message>
+        <source>%1)
+SQL State: %2
+Error: %3
+%4
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Connection error:
+</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -53216,10 +49715,6 @@ Ergebnis</translation>
         <translation>Nur Gesamtsummen für Zeilen aktivieren</translation>
     </message>
     <message>
-        <source>Report Layout</source>
-        <translation>Berichtslayout</translation>
-    </message>
-    <message>
         <source>Do Not 
 Repeat Item Labels</source>
         <translation>Nicht
@@ -53230,6 +49725,10 @@ Elementbeschriftungen wiederholen</translation>
 Item Labels</source>
         <translation>Alles wiederholen
 Elementbeschriftungen</translation>
+    </message>
+    <message>
+        <source>Report Layout</source>
+        <translation>Berichtslayout</translation>
     </message>
 </context>
 <context>
@@ -53438,10 +49937,6 @@ Elementbeschriftungen</translation>
         <translation>Exportoptionen</translation>
     </message>
     <message>
-        <source>Password to protect pe&amp;rmission settings</source>
-        <translation>Kennwort zum Schutz der Berechtigungseinstellungen</translation>
-    </message>
-    <message>
         <source>Export to PDF File</source>
         <translation>In PDF-Datei exportieren</translation>
     </message>
@@ -53460,6 +49955,14 @@ Elementbeschriftungen</translation>
     <message>
         <source>Hyper&amp;link</source>
         <translation>Hyper&amp;link</translation>
+    </message>
+    <message>
+        <source>File Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>modify permissions</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
@@ -53481,76 +49984,13 @@ Elementbeschriftungen</translation>
         <source>Document Permission</source>
         <translation>Dokumentberechtigung</translation>
     </message>
-</context>
-<context>
-    <name>rainbow.proxycommands</name>
     <message>
-        <source>Show Toolbar</source>
-        <translation>Symbolleiste anzeigen</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Onlinebilder einfügen</translation>
-    </message>
-    <message>
-        <source>What-If Analysis</source>
-        <translation>Was-wäre-wenn-Analyse</translation>
-    </message>
-    <message>
-        <source>Online Picture</source>
-        <translation>Onlinebild</translation>
-    </message>
-    <message>
-        <source>Press Enter to Start Reading</source>
-        <translation>Drücken Sie die Eingabetaste, um mit dem Lesen zu beginnen</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation>Spenden</translation>
-    </message>
-    <message>
-        <source>More Color Schemes</source>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Solver</source>
-        <translation>Solver</translation>
-    </message>
-    <message>
-        <source>Text Speech</source>
-        <translation>Textsprache</translation>
-    </message>
-    <message>
-        <source>Goal Seek</source>
-        <translation>Zielwertsuche</translation>
-    </message>
-    <message>
-        <source>Insert Online Picture</source>
-        <translation>Onlinebild einfügen</translation>
-    </message>
-    <message>
-        <source>Wps CloudForm</source>
-        <translation>WPS-Cloud-Formular</translation>
-    </message>
-    <message>
-        <source>Full-Text Speech</source>
-        <translation>Volltextsprache</translation>
-    </message>
-    <message>
-        <source>WpsPackagePlugin</source>
-        <translation>WPS-Paket-Plugin</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Online-Bilder</translation>
-    </message>
-    <message>
-        <source>Selection Speech</source>
-        <translation>Auswahlsprache</translation>
-    </message>
-    <message>
-        <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <source>Password to protect pe&amp;rmission settings</source>
+        <translation>Kennwort zum Schutz der Berechtigungseinstellungen</translation>
     </message>
 </context>
 <context>
@@ -53612,16 +50052,16 @@ Elementbeschriftungen</translation>
         <translation>PDF-Datei speichern</translation>
     </message>
     <message>
-        <source>PDF File(*.pdf)|*.pdf</source>
-        <translation>PDF-Datei(*.pdf)|*.pdf</translation>
-    </message>
-    <message>
         <source>Confirmation password is not identical.</source>
         <translation>Bestätigungseingabe ist nicht identisch.</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
         <translation>Kennwort zum Öffnen der Datei und Kennwort für Berechtigungen müssen unterschiedlich sein. Nochmals eingeben.</translation>
+    </message>
+    <message>
+        <source>PDF File(*%1)|*%1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -53638,6 +50078,10 @@ Elementbeschriftungen</translation>
     <message>
         <source>Check Permissions</source>
         <translation>Benutzerberechtigungen überprüfen</translation>
+    </message>
+    <message>
+        <source>PDF File(*.pdf)|*.pdf</source>
+        <translation>PDF-Datei(*.pdf)|*.pdf</translation>
     </message>
 </context>
 <context>
@@ -53725,6 +50169,105 @@ Elementbeschriftungen</translation>
     </message>
 </context>
 <context>
+    <name>KxImportDataQueryOptionsDlgUI</name>
+    <message>
+        <source>Import the &lt;PRE&gt; block into the column(&amp;I)</source>
+        <translation>&lt;PRE&gt;-Block in die Spalte importieren</translation>
+    </message>
+    <message>
+        <source>Consecutive separators are treated as a single(&amp;T)</source>
+        <translation>Aufeinanderfolgende Trennzeichen werden als ein Trennzeichen behandelt</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>Format</translation>
+    </message>
+    <message>
+        <source>Other import settings</source>
+        <translation>Weitere Importeinstellungen</translation>
+    </message>
+    <message>
+        <source>All use the same import settings(&amp;U)</source>
+        <translation>Gleiche Importeinstellungen für alle</translation>
+    </message>
+    <message>
+        <source>RTF format only(&amp;R)</source>
+        <translation>Nur RTF-Format</translation>
+    </message>
+    <message>
+        <source>None(&amp;N)</source>
+        <translation>Keine</translation>
+    </message>
+    <message>
+        <source>Disable date recognition(&amp;D)</source>
+        <translation>Datumserkennung deaktivieren</translation>
+    </message>
+    <message>
+        <source>Disable web query redirection(&amp;W)</source>
+        <translation>Umleitung von Webabfragen deaktivieren</translation>
+    </message>
+    <message>
+        <source>Full HTML format(&amp;F)</source>
+        <translation>Volles HTML-Format</translation>
+    </message>
+    <message>
+        <source>Web query options</source>
+        <translation>Webabfrageoptionen</translation>
+    </message>
+    <message>
+        <source>Import pre-formatted block settings</source>
+        <translation>Vorformatierte Blockeinstellungen importieren</translation>
+    </message>
+    <message>
+        <source>无(&amp;N)</source>
+        <translation>Kein</translation>
+    </message>
+    <message>
+        <source>Web 查询选项</source>
+        <translation>Webabfrageoptionen</translation>
+    </message>
+    <message>
+        <source>连续分隔符号视为单个处理(&amp;T)</source>
+        <translation>Aufeinanderfolgende Trennzeichen werden als ein Trennzeichen behandelt</translation>
+    </message>
+    <message>
+        <source>完全HTML格式(&amp;F)</source>
+        <translation>Volles HTML-Format</translation>
+    </message>
+    <message>
+        <source>导入预格式化的块的设置</source>
+        <translation>Vorformatierte Blockeinstellungen importieren</translation>
+    </message>
+    <message>
+        <source>仅RTF格式(&amp;R)</source>
+        <translation>Nur RTF-Format</translation>
+    </message>
+    <message>
+        <source>其他导入设置</source>
+        <translation>Weitere Importeinstellungen</translation>
+    </message>
+    <message>
+        <source>将&lt;PRE&gt;块导至列中(&amp;I)</source>
+        <translation>&lt;PRE&gt;-Block in die Spalte importieren</translation>
+    </message>
+    <message>
+        <source>全部使用相同的导入设置(&amp;U)</source>
+        <translation>Gleiche Importeinstellungen für alle</translation>
+    </message>
+    <message>
+        <source>禁用日期识别(&amp;D)</source>
+        <translation>Datumserkennung deaktivieren</translation>
+    </message>
+    <message>
+        <source>格式</source>
+        <translation>Format</translation>
+    </message>
+    <message>
+        <source>禁用Web查询重定向(&amp;W)</source>
+        <translation>Umleitung von Webabfragen deaktivieren</translation>
+    </message>
+</context>
+<context>
     <name>KxReadingModeGuildDlg</name>
     <message>
         <source>Reading Mode</source>
@@ -53732,72 +50275,11 @@ Elementbeschriftungen</translation>
     </message>
     <message>
         <source>Convenient to check related data which are in the same row or column with the current cell.</source>
-        <translation type="unfinished"/>
+        <translation>Praktisch zur Überprüfung von dazugehörigen Daten, die sich in derselben Zeile oder Spalte wie die aktuelle Zelle befinden.</translation>
     </message>
     <message>
         <source>Try it</source>
         <translation>Versuchen Sie es</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_autofiltertools</name>
-    <message>
-        <source>Reading Mode</source>
-        <translation>Lesemodus</translation>
-    </message>
-    <message>
-        <source>Highlight Same Records</source>
-        <translation>Gleiche Datensätze hervorheben</translation>
-    </message>
-    <message>
-        <source>More Colors</source>
-        <translation>Mehr Farben</translation>
-    </message>
-    <message>
-        <source>Split Sheet</source>
-        <translation>Blatt aufteilen</translation>
-    </message>
-    <message>
-        <source>Pivot Table</source>
-        <translation>PivotTable</translation>
-    </message>
-    <message>
-        <source>Pivot Chart</source>
-        <translation>PivotChart</translation>
-    </message>
-    <message>
-        <source>Export to Sheet</source>
-        <translation>In Blatt exportieren</translation>
-    </message>
-    <message>
-        <source>Export to Book</source>
-        <translation>In Buch exportieren</translation>
-    </message>
-    <message>
-        <source>Export Filter 
-Result</source>
-        <translation>Exportfilter
-Ergebnis</translation>
-    </message>
-    <message>
-        <source>Filter Analysis</source>
-        <translation>Filteranalyse</translation>
-    </message>
-    <message>
-        <source>Favorite</source>
-        <translation>Favorit</translation>
-    </message>
-    <message>
-        <source>Color Settings</source>
-        <translation>Farbeinstellungen</translation>
-    </message>
-    <message>
-        <source>Add Favorite</source>
-        <translation>Favorit hinzufügen</translation>
-    </message>
-    <message>
-        <source>Lock Title</source>
-        <translation>Titel sperren</translation>
     </message>
 </context>
 <context>
@@ -54031,10 +50513,6 @@ Ergebnis</translation>
         <translation>Eindeutige Werte in Bereich 2 (&amp;D)</translation>
     </message>
     <message>
-        <source>Export To:</source>
-        <translation>Extrahieren nach:</translation>
-    </message>
-    <message>
         <source>Only Range 1 (&amp;R)</source>
         <translation>Eindeutige Werte in &amp;Bereich 1</translation>
     </message>
@@ -54057,6 +50535,10 @@ Ergebnis</translation>
     <message>
         <source>Specify the color (&amp;D):</source>
         <translation>Farbe angeben (&amp;D):</translation>
+    </message>
+    <message>
+        <source>Export To:</source>
+        <translation>Extrahieren nach:</translation>
     </message>
     <message>
         <source>New Worksheet</source>
@@ -54295,6 +50777,17 @@ Ergebnis</translation>
     </message>
 </context>
 <context>
+    <name>KxEtAutoInputFuncLink</name>
+    <message>
+        <source>View tips of the function</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Help about this Function</source>
+        <translation>&amp;Hilfe für diese Funktion</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgSlicerReportConnection</name>
     <message>
         <source>Select PivotTable reports to connecct to this filter</source>
@@ -54410,18 +50903,26 @@ Ergebnis</translation>
     </message>
 </context>
 <context>
-    <name>KxBackupRoamingSettingTipWidget</name>
+    <name>ongmani.ct_specialapps</name>
     <message>
-        <source>open roaming file, edit document with WPS, login on other device</source>
-        <translation>Cloud-Sicherung aktivieren, Dokument mit WPS bearbeiten, Anmelden</translation>
+        <source>Picture to Text</source>
+        <translation>Bild in Text</translation>
     </message>
     <message>
-        <source>with current account, you can read/eidt the document from</source>
-        <translation>mit aktuellem Konto, Sie können das Dokument aus der</translation>
+        <source>Screen Recorder</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
-        <translation>Liste der zuletzt verwendeten Elemente oder aus der WPS Cloud bearbeiten</translation>
+        <source>Word Tools</source>
+        <translation>Text-Tool</translation>
+    </message>
+    <message>
+        <source>Cloud Clipboard</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF2Word</source>
+        <translation>PDF in Word</translation>
     </message>
 </context>
 <context>
@@ -54594,6 +51095,25 @@ Summary</source>
     <message>
         <source>&amp;Remove Duplicates...</source>
         <translation>&amp;Duplikate entfernen...</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupSettingTipWidgetBase</name>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -54911,6 +51431,14 @@ Möchten Sie die Option auf „Manuell“ ändern?</translation>
     </message>
 </context>
 <context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxInsertFieldItemDlg</name>
     <message>
         <source>Insert Calculated Item In &quot;%1&quot;</source>
@@ -55005,6 +51533,69 @@ Möchten Sie die Option auf „Manuell“ ändern?</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_equationtools</name>
+    <message>
+        <source>Equation Symbols</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Accent</source>
+        <translation>Akzent</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>Linear</translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <translation>Matrix</translation>
+    </message>
+    <message>
+        <source>Operator</source>
+        <translation>Operator</translation>
+    </message>
+    <message>
+        <source>Normal Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translation>Bruch</translation>
+    </message>
+    <message>
+        <source>Radical</source>
+        <translation>Wurzel</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>Gleichung</translation>
+    </message>
+    <message>
+        <source>Bracket</source>
+        <translation>Klammer</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation>Symbole</translation>
+    </message>
+    <message>
+        <source>Structures</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation>Funktion</translation>
+    </message>
+    <message>
+        <source>Equation Options</source>
+        <translation>Formeloptionen</translation>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation>Professionell</translation>
+    </message>
+</context>
+<context>
     <name>KxEditAxisLableDlg</name>
     <message>
         <source>#ERROR</source>
@@ -55062,6 +51653,25 @@ Möchten Sie die Option auf „Manuell“ ändern?</translation>
     </message>
 </context>
 <context>
+    <name>KxApplication</name>
+    <message>
+        <source>Save documents or not?</source>
+        <translation>Speichern</translation>
+    </message>
+    <message>
+        <source>GongPu password encryption module load failed!</source>
+        <translation>Das Laden des GongPu-Moduls zur Kennwortverschlüsselung ist fehlgeschlagen.</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation>Speichern als</translation>
+    </message>
+    <message>
+        <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
+        <translation>Das von Ihnen gewählte Dokumentformat stimmt nicht mit dem Originalformat dieses Dokuments überein. Soll das Dokument in dem neuen Modus gespeichert werden?</translation>
+    </message>
+</context>
+<context>
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
@@ -55084,13 +51694,6 @@ Möchten Sie die Option auf „Manuell“ ändern?</translation>
 </context>
 <context>
     <name>ongmani.ct_home.SetFormatCells</name>
-    <message>
-        <source>Format Cells</source>
-        <translation>Zellen formatieren</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_home.SetFormatCells</name>
     <message>
         <source>Format Cells</source>
         <translation>Zellen formatieren</translation>
@@ -55233,41 +51836,25 @@ Möchten Sie die Option auf „Manuell“ ändern?</translation>
     </message>
 </context>
 <context>
+    <name>KxSLVertCustomValSettingDlg</name>
+    <message>
+        <source>Sparkline Vertical Axis Setting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter the minimum value for the vertical axis</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter the maximum value for the vertical axis</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxChangeRangePasswordDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
         <translation>Bestätigungseingabe ist nicht identisch.</translation>
-    </message>
-</context>
-<context>
-    <name>KxExportOFDDlg</name>
-    <message>
-        <source>Confirmation password is not identical.</source>
-        <translation>Bestätigungseingabe ist nicht identisch.</translation>
-    </message>
-    <message>
-        <source>File open password and permission password must be different, please enter again.</source>
-        <translation>Kennwort zum Öffnen der Datei und Kennwort für Berechtigungen müssen unterschiedlich sein. Nochmals eingeben.</translation>
-    </message>
-    <message>
-        <source>Save OFD File</source>
-        <translation>OFD-Datei speichern</translation>
-    </message>
-    <message>
-        <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation>Die angegebene Datei ist bereits vorhanden. Möchten Sie sie ersetzen und fortfahren?</translation>
-    </message>
-    <message>
-        <source>Please input the password of permission settings!</source>
-        <translation>Geben Sie das Kennwort für Berechtigungseinstellungen!</translation>
-    </message>
-    <message>
-        <source>The specified path does not exist, enter a valid one please.</source>
-        <translation>Der angegebene Pfad ist nicht vorhanden. Bitte einen gültigen eingeben.</translation>
-    </message>
-    <message>
-        <source>OFD File(*.ofd)|*.ofd</source>
-        <translation>OFD-Datei (*.ofd)|*.ofd</translation>
     </message>
 </context>
 <context>
@@ -55370,6 +51957,36 @@ Click OK, and then select a single cell in the Get The Value From The Following 
     </message>
 </context>
 <context>
+    <name>KxEtChartTypeDialog</name>
+    <message>
+        <source>Recommended Charts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All Charts</source>
+        <translation>Alle Diagramme</translation>
+    </message>
+    <message>
+        <source>The model Loaded fail...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>There is no recommend chart according to your selection range, may be:
+
+There is no number as well as the text cannot be summaried.
+Data cross different sheets.
+Contain large ammount of cells.
+Include defined names.
+
+Alternativly, you can click the left-side pane if you want to switch to other chart type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The model is Loading...</source>
+        <translation>Das Modell wird geladen...</translation>
+    </message>
+</context>
+<context>
     <name>KxSolverResultDlg</name>
     <message>
         <source>Solver found an integer solution within tolerance. All Constraints are satisfied.</source>
@@ -55456,6 +52073,25 @@ Click OK, and then select a single cell in the Get The Value From The Following 
     <message>
         <source>Other users may have submmitted some changes which cannot be identified by WPS Spreadsheets. To save the file and discard the changes, click Continue; to save a copy of the current file, click Save As.</source>
         <translation>Andere Benutzer haben vielleicht Änderungen vorgenommen, die von WPS Spreadsheets nicht erkannt werden können. Wenn Sie auf „Weiter“ klicken, wird die Datei gespeichert und die Änderungen werden verworfen. Wenn Sie auf „Speichern unter“ klicken, wird eine Kopie der aktuellen Datei gespeichert.</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfDisplayFilterConditions</name>
+    <message>
+        <source>Cell Icon</source>
+        <translation>Zellensymbol</translation>
+    </message>
+    <message>
+        <source>font color</source>
+        <translation>Farbe</translation>
+    </message>
+    <message>
+        <source>Filter Conditions</source>
+        <translation>Filterbedingungen</translation>
+    </message>
+    <message>
+        <source>Cell back ground color</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -55561,24 +52197,51 @@ Click OK, and then select a single cell in the Get The Value From The Following 
         <translation>Fehler beim Parsen der Datei.</translation>
     </message>
     <message>
-        <source>Export To:</source>
-        <translation>Extrahieren nach:</translation>
+        <source>Whole line comparison</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please choose sheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Alignment Type:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add File</source>
         <translation>Datei hinzufügen</translation>
     </message>
     <message>
-        <source>Please specify sheets to be marked</source>
-        <translation>Bitte geben Sie das zu vergleichende Arbeitsblatt an.</translation>
+        <source>Same cell comparison</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Specify the color (&amp;D):</source>
         <translation>Farbe angeben (&amp;D):</translation>
     </message>
     <message>
+        <source>Export To:</source>
+        <translation>Extrahieren nach:</translation>
+    </message>
+    <message>
+        <source>Please specify sheets to be marked</source>
+        <translation>Bitte geben Sie das zu vergleichende Arbeitsblatt an.</translation>
+    </message>
+    <message>
         <source>New Worksheet</source>
         <translation>Neues Arbeitsblatt</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSLCustomLineWeight</name>
+    <message>
+        <source>&amp;Enter the sparkline weight</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dialog</source>
+        <translation>Dialogfeld</translation>
     </message>
 </context>
 <context>
@@ -55813,6 +52476,45 @@ Sollen die Zellen unter der Auswahl erweitert und die gleichen Zellen im Batch z
     </message>
 </context>
 <context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>File open password and permission password must be different, please enter again.</source>
+        <translation>Kennwort zum Öffnen der Datei und Kennwort für Berechtigungen müssen unterschiedlich sein. Nochmals eingeben.</translation>
+    </message>
+    <message>
+        <source>Save OFD File</source>
+        <translation>OFD-Datei speichern</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation>Die angegebene Datei ist bereits vorhanden. Möchten Sie sie ersetzen und fortfahren?</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation>Geben Sie das Kennwort für Berechtigungseinstellungen!</translation>
+    </message>
+    <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The specified path does not exist, enter a valid one please.</source>
+        <translation>Der angegebene Pfad ist nicht vorhanden. Bitte einen gültigen eingeben.</translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd</source>
+        <translation>OFD-Datei (*.ofd)|*.ofd</translation>
+    </message>
+    <message>
+        <source>Confirmation password is not identical.</source>
+        <translation>Bestätigungseingabe ist nicht identisch.</translation>
+    </message>
+</context>
+<context>
     <name>KxEtDlgWEDataSource</name>
     <message>
         <source>Apply Default Data</source>
@@ -55856,6 +52558,13 @@ Sollen die Zellen unter der Auswahl erweitert und die gleichen Zellen im Batch z
     <message>
         <source>&amp;After current sheet</source>
         <translation>&amp;Nach dem aktuellen Blatt</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDeleteBlankTableCommand</name>
+    <message>
+        <source>No blank worksheet.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -56028,11 +52737,11 @@ Sollen die Zellen unter der Auswahl erweitert und die gleichen Zellen im Batch z
     <name>KxEtToolsInsertDateCommand</name>
     <message>
         <source>Cannot apply to entire row or column</source>
-        <translation type="unfinished"/>
+        <translation>Diese Funktion ist nicht verfügbar, wenn eine ganze Zeile oder Spalte ausgewählt ist.</translation>
     </message>
     <message>
         <source>Please select a valid range</source>
-        <translation type="unfinished"/>
+        <translation>Wählen Sie bitte einen gültigen Bereich aus.</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -56154,21 +52863,6 @@ Sollen die Zellen unter der Auswahl erweitert und die gleichen Zellen im Batch z
     </message>
 </context>
 <context>
-    <name>rainbow.ct_home.Alignment</name>
-    <message>
-        <source>Text Orientation</source>
-        <translation>Textausrichtung</translation>
-    </message>
-    <message>
-        <source>Format Cell Alignment</source>
-        <translation>Zellausrichtung  formatieren</translation>
-    </message>
-    <message>
-        <source>Alignment</source>
-        <translation>Ausrichtung</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgCreateNames</name>
     <message>
         <source>Create Names</source>
@@ -56232,6 +52926,17 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxSLEditDateDlg</name>
+    <message>
+        <source>Select the range that contains the data values for the Sparkline data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sparkline Date Range</source>
+        <translation>Sparkline-Datenbereich</translation>
+    </message>
+</context>
+<context>
     <name>KxEtFormatProperty_SizePro</name>
     <message>
         <source>POSITION AND LAYOUT</source>
@@ -56274,70 +52979,14 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
-    <name>ongmani.ct_equationtools</name>
+    <name>KxDlgSLEditSingle</name>
     <message>
-        <source>Accent</source>
-        <translation>Akzent</translation>
+        <source>Select a source &amp;data range for the sparkline</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Linear</source>
-        <translation>Linear</translation>
-    </message>
-    <message>
-        <source>Limit and Log</source>
-        <translation>Grenzwert und Logarithmus</translation>
-    </message>
-    <message>
-        <source>Script</source>
-        <translation>Skript</translation>
-    </message>
-    <message>
-        <source>Integral</source>
-        <translation>Integral</translation>
-    </message>
-    <message>
-        <source>Matrix</source>
-        <translation>Matrix</translation>
-    </message>
-       <message>
-        <source>Operator</source>
-        <translation>Operator</translation>
-    </message>
-    <message>
-        <source>Fraction</source>
-        <translation>Bruch</translation>
-    </message>
-    <message>
-        <source>Radical</source>
-        <translation>Wurzel</translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation>Gleichung</translation>
-    </message>
-    <message>
-        <source>Bracket</source>
-        <translation>Klammer</translation>
-    </message>
-    <message>
-        <source>Symbols</source>
-        <translation>Symbole</translation>
-    </message>
-    <message>
-        <source>Function</source>
-        <translation>Funktion</translation>
-    </message>
-    <message>
-        <source>Large Operator</source>
-        <translation>Großer Operator</translation>
-    </message>
-    <message>
-        <source>Equation Options</source>
-        <translation>Formeloptionen</translation>
-    </message>
-    <message>
-        <source>Professional</source>
-        <translation>Professionell</translation>
+        <source>Dialog</source>
+        <translation>Dialogfeld</translation>
     </message>
 </context>
 <context>
@@ -56424,12 +53073,12 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <translation>Bereich 1 (&amp;L):</translation>
     </message>
     <message>
-        <source>Export: New WorkSheet</source>
-        <translation>Exportieren nach: Neues Arbeitsblatt</translation>
-    </message>
-    <message>
         <source>Range 2 (&amp;S):</source>
         <translation>Bereich 2 (&amp;S):</translation>
+    </message>
+    <message>
+        <source>Export: New WorkSheet</source>
+        <translation>Exportieren nach: Neues Arbeitsblatt</translation>
     </message>
 </context>
 <context>
@@ -56483,25 +53132,22 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
-    <name>KxEtChartTypeDialog</name>
-    <message>
-        <source>All Charts</source>
-        <translation>Alle Diagramme</translation>
-    </message>
-    <message>
-        <source>The model is Loading...</source>
-        <translation>Das Modell wird geladen...</translation>
-    </message>
-</context>
-<context>
     <name>KxAssignMacroDlg</name>
     <message>
         <source>Change</source>
         <translation>Ändern</translation>
     </message>
     <message>
+        <source>Assign %1 Macro</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Open Workbooks</source>
         <translation>Alle geöffneten Arbeitsmappen</translation>
+    </message>
+    <message>
+        <source>%1 &amp;Macro name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This Workbook</source>
@@ -56558,7 +53204,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtToolsCellConvertCommand</name>
     <message>
         <source>Please select a valid range</source>
-        <translation type="unfinished"/>
+        <translation>Wählen Sie bitte einen gültigen Bereich aus.</translation>
     </message>
 </context>
 <context>
@@ -56618,20 +53264,6 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Automatic</source>
         <translation>Automatisch</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgSLCustomLineWeight</name>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialogfeld</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgSLEditSingle</name>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialogfeld</translation>
     </message>
 </context>
 <context>
@@ -56818,17 +53450,6 @@ Heben Sie die Fixierung auf, um normal zu blättern.</translation>
     </message>
 </context>
 <context>
-    <name>KxMergeRangeDataIntroduceWidget</name>
-    <message>
-        <source>Merge Rang Data By Selected</source>
-        <translation>Deduplizieren Sie den Inhalt in den beiden Bereichen und führen Sie dann den Inhalt in Bereich 1 zusammen.</translation>
-    </message>
-    <message>
-        <source>Introduce</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxStyleModifyLegacyTriggerCommand</name>
     <message>
         <source>Modify</source>
@@ -56922,17 +53543,6 @@ Heben Sie die Fixierung auf, um normal zu blättern.</translation>
     </message>
 </context>
 <context>
-    <name>KxAfAnalysisPaneChart</name>
-    <message>
-        <source>Remove</source>
-        <translation>Entfernen</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-</context>
-<context>
     <name>KxEtCondFmtModel</name>
     <message>
         <source>Shapes</source>
@@ -56972,13 +53582,6 @@ Heben Sie die Fixierung auf, um normal zu blättern.</translation>
     <message>
         <source>*No Assign*</source>
         <translation>Keine Angabe</translation>
-    </message>
-</context>
-<context>
-    <name>KxSLEditDateDlg</name>
-    <message>
-        <source>Sparkline Date Range</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -57045,6 +53648,13 @@ Heben Sie die Fixierung auf, um normal zu blättern.</translation>
     <message>
         <source>Choose a visual style for the selected sparkline group.</source>
         <translation>Wählen Sie ein Grafikformat für die ausgewählte Sparklinegruppe.</translation>
+    </message>
+</context>
+<context>
+    <name>KxSLHiddenEmptyCellSettingDlg</name>
+    <message>
+        <source>Hidden And Empty Cell Settings</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -57418,13 +54028,6 @@ To make changes, click Unprotect Sheet in the Review tab (You might need a passw
     </message>
 </context>
 <context>
-    <name>rainbow.ct_developtools.Add-Ins</name>
-    <message>
-        <source>Add-Ins</source>
-        <translation>Add-Ins</translation>
-    </message>
-</context>
-<context>
     <name>KxEtDocTab</name>
     <message>
         <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
@@ -57457,20 +54060,6 @@ To make changes, click Unprotect Sheet in the Review tab (You might need a passw
     </message>
 </context>
 <context>
-    <name>rainbow.ct_developtools.Add-Ins.COMAddIns</name>
-    <message>
-        <source>COM Add-Ins</source>
-        <translation>COM
-Add-Ins</translation>
-    </message>
-    <message>
-        <source>COM
-Add-Ins</source>
-        <translation>COM
-Add-In</translation>
-    </message>
-</context>
-<context>
     <name>ongmani.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
@@ -57483,21 +54072,6 @@ Add-In</translation>
     <message>
         <source>Menu Command</source>
         <translation>Menübefehl</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_addons</name>
-    <message>
-        <source>Custom Toolbar</source>
-        <translation>Benutzerdefinierte Symbolleiste</translation>
-    </message>
-    <message>
-        <source>Toolbar Commands</source>
-        <translation>Symbolleistenbefehle</translation>
-    </message>
-    <message>
-        <source>Menu Command</source>
-        <translation>Kontextmenübefehl</translation>
     </message>
 </context>
 <context>
@@ -57617,21 +54191,6 @@ Beachten Sie, dass über Datenverknüpfungen der Zugriff auf vertrauliche Daten 
     </message>
 </context>
 <context>
-    <name>KxApplication</name>
-    <message>
-        <source>GongPu password encryption module load failed!</source>
-        <translation>Das Laden des GongPu-Moduls zur Kennwortverschlüsselung ist fehlgeschlagen.</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation>Speichern als</translation>
-    </message>
-    <message>
-        <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
-        <translation>Das von Ihnen gewählte Dokumentformat stimmt nicht mit dem Originalformat dieses Dokuments überein. Soll das Dokument in dem neuen Modus gespeichert werden?</translation>
-    </message>
-</context>
-<context>
     <name>KxNameOptionsDlg</name>
     <message>
         <source>The default Workbook name %1 is not valid, can&apos;t include %2.</source>
@@ -57724,6 +54283,13 @@ Beachten Sie, dass über Datenverknüpfungen der Zugriff auf vertrauliche Daten 
     </message>
 </context>
 <context>
+    <name>KxSLEditSingleDlg</name>
+    <message>
+        <source>Edit Sparkline Data</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPivotSortDlg</name>
     <message>
         <source>Sort (%1)</source>
@@ -57735,6 +54301,21 @@ Beachten Sie, dass über Datenverknüpfungen der Zugriff auf vertrauliche Daten 
     <message>
         <source>Comment function</source>
         <translation>Kommentar-Funktion</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtRoundCommand</name>
+    <message>
+        <source>The selected area contains the pivot table, please select again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please select a valid range.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Part of an array cannot be changed.</source>
+        <translation>Teile eines Array können nicht geändert werden.</translation>
     </message>
 </context>
 <context>
@@ -57753,13 +54334,6 @@ Beachten Sie, dass über Datenverknüpfungen der Zugriff auf vertrauliche Daten 
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
-    <message>
-        <source>WPS Spreadsheets Help</source>
-        <translation>WPS Spreadsheets Hilfe</translation>
-    </message>
-</context>
-<context>
-    <name>rainbow.ct_file.Help</name>
     <message>
         <source>WPS Spreadsheets Help</source>
         <translation>WPS Spreadsheets Hilfe</translation>
@@ -57862,6 +54436,39 @@ bearbeiten</translation>
     <message>
         <source>Then by</source>
         <translation>Dann nach</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormulaTextCommand</name>
+    <message>
+        <source>Please select a valid range.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Part of an array cannot be changed.</source>
+        <translation>Teile eines Array können nicht geändert werden.</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtKeepNumbericalCommand</name>
+    <message>
+        <source>Please select a valid range.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Part of an array cannot be changed.</source>
+        <translation>Teile eines Array können nicht geändert werden.</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtRemoveSpaceCommand</name>
+    <message>
+        <source>Please select a valid range.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Part of an array cannot be changed.</source>
+        <translation>Teile eines Array können nicht geändert werden.</translation>
     </message>
 </context>
 <context>
@@ -58084,6 +54691,13 @@ bearbeiten</translation>
     </message>
 </context>
 <context>
+    <name>KxSLCustomLineWeightDlg</name>
+    <message>
+        <source>Sparkline Weight</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxChangeFileAccessDlg</name>
     <message>
         <source>File Changed</source>
@@ -58101,7 +54715,7 @@ bearbeiten</translation>
     <name>KxEtErrorLinkWidget</name>
     <message>
         <source>occur %1 reason</source>
-        <translation type="unfinished"/>
+        <translation>Ursache: %1</translation>
     </message>
 </context>
 <context>
@@ -58172,460 +54786,5796 @@ bearbeiten</translation>
     </message>
 </context>
 <context>
-    <name>KxChartTypeGalleryModel</name>
+    <name>rainbow.ct_home</name>
     <message>
-        <source>Pie</source>
-        <translation>Kreis</translation>
+        <source>Up</source>
+        <translation>Nach oben</translation>
     </message>
     <message>
-        <source>Area</source>
-        <translation>Fläche</translation>
+        <source>All</source>
+        <translation>Alle</translation>
     </message>
     <message>
-        <source>Line</source>
-        <translation>Linie</translation>
+        <source>Cut</source>
+        <translation>Ausschneiden</translation>
     </message>
     <message>
-        <source>Stacked Area - Clustered Column</source>
-        <translation>Gestapelter Bereich - Gruppierte Säule</translation>
+        <source>Max</source>
+        <translation>Maximum</translation>
     </message>
     <message>
-        <source>Combo</source>
+        <source>Min</source>
+        <translation>Minimum</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation>Summe</translation>
+    </message>
+    <message>
+        <source>AutoFit Row Height</source>
+        <translation>Zeilenhöhe automatisch anpassen</translation>
+    </message>
+    <message>
+        <source>Begin with</source>
+        <translation>Beginnen mit</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>Fett</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Kopieren</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>Datum</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>Abwärts</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>Füllen</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <translation>Suchen</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>Schriftart</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>Links</translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation>Sortieren</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Text</translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation>Unter dem Durchschnitt</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Cells</source>
+        <translation>Zellen</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation>Zählen</translation>
+    </message>
+    <message>
+        <source>Go to</source>
+        <translation>Wechseln zu</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation>Diese Woche</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>Rechts</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>Heute</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation>Wert</translation>
+    </message>
+    <message>
+        <source>Erase Border</source>
+        <translation>Rahmen entfernen</translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation>Zwischenablage</translation>
+    </message>
+    <message>
+        <source>Percent Style</source>
+        <translation>Prozentformat</translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation>Format
+übertragen</translation>
+    </message>
+    <message>
+        <source>Error Value </source>
+        <translation>Fehlerwert </translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation>Rechte Rahmenlinie</translation>
+    </message>
+    <message>
+        <source>Merge Across</source>
+        <translation>Zusammenführen über</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation>Schutz aufheben 
+Blatt</translation>
+    </message>
+    <message>
+        <source>Protect Sheet</source>
+        <translation>Arbeitsblatt 
+schützen</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation>In den letzten 7 Tagen</translation>
+    </message>
+    <message>
+        <source>Increase Decimal</source>
+        <translation>Mehr Dezimalstellen</translation>
+    </message>
+    <message>
+        <source>Decrease Decimal</source>
+        <translation>Dezimalstelle löschen</translation>
+    </message>
+    <message>
+        <source>More Functions</source>
+        <translation>Weitere Funktionen</translation>
+    </message>
+    <message>
+        <source>Across Sheets</source>
+        <translation>Über mehrere Seiten</translation>
+    </message>
+    <message>
+        <source>Angle Counterclockwise</source>
+        <translation>Im Uhrzeigersinn drehen</translation>
+    </message>
+    <message>
+        <source>Insert Copied Cells</source>
+        <translation>Kopierte Zellen einfügen</translation>
+    </message>
+    <message>
+        <source>Unhide Sheet</source>
+        <translation>Arbeitsblatt einblenden</translation>
+    </message>
+    <message>
+        <source>Vertical Text </source>
+        <translation>Vertikaler Text</translation>
+    </message>
+    <message>
+        <source>Paste as Unformatted Text</source>
+        <translation>Als unformatierter Text Einfügen</translation>
+    </message>
+    <message>
+        <source>Comma Style</source>
+        <translation>Kommastil</translation>
+    </message>
+    <message>
+        <source>Insert Cells</source>
+        <translation>Zellen einfügen</translation>
+    </message>
+    <message>
+        <source>Insert Sheet</source>
+        <translation>Arbeitsblatt einfügen</translation>
+    </message>
+    <message>
+        <source>AutoFilter</source>
+        <translation>AutoFilter</translation>
+    </message>
+    <message>
+        <source>Delete Cells</source>
+        <translation>Zellen löschen</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>Mehr Farben</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation>Mehr Farben</translation>
+    </message>
+    <message>
+        <source>Delete Sheet</source>
+        <translation>Arbeitsblatt löschen</translation>
+    </message>
+    <message>
+        <source>Special Value</source>
+        <translation>Spezieller Wert</translation>
+    </message>
+    <message>
+        <source>Tab Color</source>
+        <translation>Registerfarbe</translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation>Endet mit</translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation>Oberer Rahmen</translation>
+    </message>
+    <message>
+        <source>No Border</source>
+        <translation>Kein Rahmen</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Zentrieren</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Benutzerdefiniert</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>Formatieren</translation>
+    </message>
+    <message>
+        <source>Draw Border</source>
+        <translation>Rahmenlinie zeichnen</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation>Linke Rahmenlinie</translation>
+    </message>
+    <message>
+        <source>Row Height</source>
+        <translation>Zeilenhöhe</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation>Außenrahmen</translation>
+    </message>
+    <message>
+        <source>Column Width</source>
+        <translation>Spaltenbreite</translation>
+    </message>
+    <message>
+        <source>Draw Border Grid</source>
+        <translation>Rahmengitter zeichnen</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>Kursiv</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>Zahl</translation>
+    </message>
+    <message>
+        <source>Convert Text to Number</source>
+        <translation>Text in Zahl umwandeln</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation>Schriftgröße</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation>Dieser Monat</translation>
+    </message>
+    <message>
+        <source>Top and Thick Bottom Border</source>
+        <translation>Rahmenlinie oben und starke unten</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Umbenennen</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation>Reihe</translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation>Top 10</translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation>Untere 10%</translation>
+    </message>
+    <message>
+        <source>Custom Sort</source>
+        <translation>Benutzerdefiniertes Sortieren</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation>Werte</translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation>Obere 10%</translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation>Kommentare</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation>Morgen</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation>Schriftfarbe</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation>Nächster Monat</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>Letzter Monat</translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation>Spalten löschen</translation>
+    </message>
+    <message>
+        <source>Formulas</source>
+        <translation>Formeln</translation>
+    </message>
+    <message>
+        <source>Accounting</source>
+        <translation>Buchhaltung</translation>
+    </message>
+    <message>
+        <source>Thick Bottom Border</source>
+        <translation>Dicker Kastenrahmen</translation>
+    </message>
+    <message>
+        <source>Merge Cells</source>
+        <translation>Zellen zusammenführen</translation>
+    </message>
+    <message>
+        <source>All Using Source Theme</source>
+        <translation>Reserviertes Quellformat</translation>
+    </message>
+    <message>
+        <source>Line Color</source>
+        <translation>Linienfarbe</translation>
+    </message>
+    <message>
+        <source>Hide Sheet</source>
+        <translation>Arbeitsblatt ausblenden</translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation>Linienart</translation>
+    </message>
+    <message>
+        <source>Rotate Text Down</source>
+        <translation>Text nach Unten rotieren</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation>Text 
+umbrechen</translation>
+    </message>
+    <message>
+        <source>Advanced Filter</source>
+        <translation>Erweiterter Füller</translation>
+    </message>
+    <message>
+        <source>New Pivot Table Style</source>
+        <translation>Neuer PivotTable-Stil</translation>
+    </message>
+    <message>
+        <source>Transpose</source>
+        <translation>Transponieren</translation>
+    </message>
+    <message>
+        <source>Move or Copy Sheet</source>
+        <translation>Arbeitsblatt verschieben/kopieren</translation>
+    </message>
+    <message>
+        <source>AutoFit Column Width</source>
+        <translation>AutoAnpassen Spaltenbreite</translation>
+    </message>
+    <message>
+        <source>Greater than</source>
+        <translation>Größer als</translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation>Gleich</translation>
+    </message>
+    <message>
+        <source>Reapply</source>
+        <translation>Erneut anwenden</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation>AutoSumme</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation>Zwischen</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation>Mittelwert</translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation>Schriftgröße vergrößern</translation>
+    </message>
+    <message>
+        <source>WorkSheet</source>
+        <translation>Arbeitsblatt</translation>
+    </message>
+    <message>
+        <source>All Borders</source>
+        <translation>Alle Rahmen</translation>
+    </message>
+    <message>
+        <source>Insert Rows</source>
+        <translation>Zeilen einfügen</translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation>Schriftgröße verkleinern</translation>
+    </message>
+    <message>
+        <source>Bottom Double Border</source>
+        <translation>Untere doppelte Rahmenlinie</translation>
+    </message>
+    <message>
+        <source>Select Objects</source>
+        <translation>Objekte auswählen</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation>Absteigend sortieren</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation>Aufsteigend sortieren</translation>
+    </message>
+    <message>
+        <source>Lock Cell</source>
+        <translation>Zelle 
+sperren</translation>
+    </message>
+    <message>
+        <source>Merge and Center</source>
+        <translation>Verbinden und 
+zentrieren</translation>
+    </message>
+    <message>
+        <source>Unhide Rows</source>
+        <translation>Zeilen einblenden</translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
+        <translation>Zeilen löschen</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation>Kleiner als</translation>
+    </message>
+    <message>
+        <source>Contain</source>
+        <translation>Beinhaltet</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation>Letzte Woche</translation>
+    </message>
+    <message>
+        <source>Hide Rows</source>
+        <translation>Zeilen ausblenden</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>Gestern</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>Unterstreichen</translation>
+    </message>
+    <message>
+        <source>More Border Colors</source>
+        <translation>Mehr Farben</translation>
+    </message>
+    <message>
+        <source>Insert Cut Cells</source>
+        <translation>Ausgeschnittene Zellen einfügen</translation>
+    </message>
+    <message>
+        <source>Unmerge Cells</source>
+        <translation>Zellverbund aufheben</translation>
+    </message>
+    <message>
+        <source>Empty Cell</source>
+        <translation>Leere Zelle</translation>
+    </message>
+    <message>
+        <source>Editing</source>
+        <translation>Bearbeitung</translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation>Untere 10</translation>
+    </message>
+    <message>
+        <source>Angle Clockwise</source>
+        <translation>Im Uhrzeigersinn drehen</translation>
+    </message>
+    <message>
+        <source>Format as Table</source>
+        <translation>Format als 
+Tabelle</translation>
+    </message>
+    <message>
+        <source>Rotate Text Up</source>
+        <translation>Text nach Oben rotieren</translation>
+    </message>
+    <message>
+        <source>Paste as Picture</source>
+        <translation>Als Bild einfügen</translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <translation>Währung</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Standard Width</source>
+        <translation>Sortieren</translation>
+    </message>
+    <message>
+        <source>Does not contain</source>
+        <translation>Enthält nicht</translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translation>Vertikal zentrieren</translation>
+    </message>
+    <message>
+        <source>Rows and Columns</source>
+        <translation>Zeilen und Spalten</translation>
+    </message>
+    <message>
+        <source>Convert Text to Hyperlink</source>
+        <translation>Text in Hyperlink umwandeln</translation>
+    </message>
+    <message>
+        <source>Thick Box Border</source>
+        <translation>Dicke Rahmenlinien</translation>
+    </message>
+    <message>
+        <source>Formats</source>
+        <translation>Formate</translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <translation>Wochenende</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation>Zentriert über</translation>
+    </message>
+    <message>
+        <source>Insert Columns</source>
+        <translation>Spalten einfügen</translation>
+    </message>
+    <message>
+        <source>Top and Double Bottom Border</source>
+        <translation>Rahmenlinie oben und doppelt unten</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation>Hervorheben</translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation>Untere Rahmenlinie</translation>
+    </message>
+    <message>
+        <source>New Table Style</source>
+        <translation>Neues Tabellenformat</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>More Borders</source>
+        <translation>Weitere Rahmenlinien</translation>
+    </message>
+    <message>
+        <source>Fill Color</source>
+        <translation>Füllfarbe</translation>
+    </message>
+    <message>
+        <source>Cell Style</source>
+        <translation>Zellenformatvorlage</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation>Einzug verkleinern</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation>Einzug vergrößern</translation>
+    </message>
+    <message>
+        <source>Find and Replace</source>
+        <translation>Ersetzen</translation>
+    </message>
+    <message>
+        <source>Unhide Columns</source>
+        <translation>Spalten einblenden</translation>
+    </message>
+    <message>
+        <source>Hide Columns</source>
+        <translation>Spalten ausblenden</translation>
+    </message>
+    <message>
+        <source>Above Average</source>
+        <translation>Über dem Durchschnitt</translation>
+    </message>
+    <message>
+        <source>Conditional Formatting</source>
+        <translation>Bedingte 
+Formatierung</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation>Nächste Woche</translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation>Alle anzeigen</translation>
+    </message>
+    <message>
+        <source>Top and Bottom Border</source>
+        <translation>Rahmenlinie oben und unten</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>Fill</comment>
+        <translation>Reihe</translation>
+    </message>
+    <message>
+        <source>Hide and Unhide</source>
+        <translation>Ausblenden und einblenden</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Oben ausrichten</translation>
+    </message>
+    <message>
+        <source>Merge and
+Center</source>
+        <translation>Zusammenführen 
+und zentrieren</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_formulas</name>
+    <message>
+        <source>All</source>
+        <translation>Alle</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation>Max</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation>Min</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation>Summe</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Text</translation>
+    </message>
+    <message>
+        <source>Clear Arrows</source>
+        <translation>Pfeile löschen</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation>Anzahl</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>Evaluate Formula</source>
+        <translation>Formel auswerten</translation>
+    </message>
+    <message>
+        <source>Statistical</source>
+        <translation>Statistisch</translation>
+    </message>
+    <message>
+        <source>More Functions</source>
+        <translation>Mehre Funktionen</translation>
+    </message>
+    <message>
+        <source>Logical</source>
+        <translation>Logisch</translation>
+    </message>
+    <message>
+        <source>Insert Function</source>
+        <translation>Funktion 
+einfügen</translation>
+    </message>
+    <message>
+        <source>Financial</source>
+        <translation>Finanzen</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation>Erstellen</translation>
+    </message>
+    <message>
+        <source>Engineering</source>
+        <translation>Konstruktion</translation>
+    </message>
+    <message>
+        <source>Remove Precedents</source>
+        <translation>Vorgänger entfernen</translation>
+    </message>
+    <message>
+        <source>Calculate Sheet</source>
+        <translation>Blatt 
+berechnen</translation>
+    </message>
+    <message>
+        <source>Edit Links</source>
+        <translation>Links 
+bearbeiten</translation>
+    </message>
+    <message>
+        <source>Error Checking</source>
+        <translation>Fehlerüberprüfung </translation>
+    </message>
+    <message>
+        <source>Function Library</source>
+        <translation>Funktionsbibliothek</translation>
+    </message>
+    <message>
+        <source>Remove Dependents</source>
+        <translation>Nachfolger entfernen</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation>AutoSumme</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation>Mittelwert</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Informationen</translation>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <translation>Zuletzt verwendet</translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <translation>Verbindungen</translation>
+    </message>
+    <message>
+        <source>Calculation</source>
+        <translation>Berechnung</translation>
+    </message>
+    <message>
+        <source>New Name</source>
+        <translation>Neuer Name</translation>
+    </message>
+    <message>
+        <source>Defined Names</source>
+        <translation>Definierte Namen</translation>
+    </message>
+    <message>
+        <source>Date and
+Time</source>
+        <translation>Datum und 
+Uhrzeit</translation>
+    </message>
+    <message>
+        <source>Circular References</source>
+        <translation>Zirkelbezüge</translation>
+    </message>
+    <message>
+        <source>Show Dependents</source>
+        <translation>Nachfolger anzeigen</translation>
+    </message>
+    <message>
+        <source>Show Precedents</source>
+        <translation>Vorgänger anzeigen</translation>
+    </message>
+    <message>
+        <source>Formula Auditing</source>
+        <translation>Formelüberwachung</translation>
+    </message>
+    <message>
+        <source>Recalculate Workbook</source>
+        <translation>Arbeitsmappe 
+neu berechnen</translation>
+    </message>
+    <message>
+        <source>Name
+Manager</source>
+        <translation>Namens-
+Manager</translation>
+    </message>
+    <message>
+        <source>Math and
+Trig</source>
+        <translation>Mathe 
+und Trigo</translation>
+    </message>
+    <message>
+        <source>Lookup and
+Reference</source>
+        <translation>Nachschlage und
+Verweisfunktion </translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_texttool</name>
+    <message>
+        <source>All</source>
+        <translation>Alle</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 Pt.</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 Pt.</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 Pt.</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>Fett</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Strich</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>Schriftart</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>Leuchteffekt</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Quick Styles</source>
+        <translation>Schnellformatvorlagen</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Durchgezogen</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Font Outline</source>
+        <translation>Textkontur</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation>Spiegelung</translation>
+    </message>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0,25 Pt.</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0,75 Pt.</translation>
+    </message>
+    <message>
+        <source>WordArt Styles</source>
+        <translation>WordArt-Formatvorlagen</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0,5 Pt.</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1,5 Pt.</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4,5 Pt.</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>Weitere Linienfarben</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>Weitere Füllfarben</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>Langer Strich</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Zentriert</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>Kursiv</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2,25 Pt.</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation>Schriftgröße</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation>Datenreihe</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>Schatten</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation>Stärke</translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation>Kommentare</translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation>Textfarbe</translation>
+    </message>
+    <message>
+        <source>Contents</source>
+        <translation>Inhalt</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation>Muster</translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation>WordArt löschen</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation>Transformieren</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation>Farbverlauf</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Viereckiger Punkt</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation>Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation>Schrift vergrößern</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation>3D-Drehung</translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation>Schriftgrad verkleinern</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipette</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>Strich-Stil</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>Unterstreichen</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>Runder Punkt</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Vertikal</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>Textfeld</translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translation>Vertikal zentrieren</translation>
+    </message>
+    <message>
+        <source>Formats</source>
+        <translation>Formate</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Text Effects</source>
+        <translation>Texteffekte</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation>Einzug verkleinern</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation>Einzug vergrößern</translation>
+    </message>
+    <message>
+        <source>Insert Textbox</source>
+        <translation>Textfeld einfügen</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translation>Textfüllung</translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation>Bild oder Struktur</translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation>Langer Strich-Punkt-Punkt</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Oben ausrichten</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_shadowdrawingtools</name>
+    <message>
+        <source>Dim</source>
+        <translation>Abblenden</translation>
+    </message>
+    <message>
+        <source>0 pt</source>
+        <translation>0 pt</translation>
+    </message>
+    <message>
+        <source>36 pt</source>
+        <translation>36 pt</translation>
+    </message>
+    <message>
+        <source>72 pt</source>
+        <translation>72 pt</translation>
+    </message>
+    <message>
+        <source>Depth</source>
+        <translation>Tiefe</translation>
+    </message>
+    <message>
+        <source>Matte</source>
+        <translation>Matt</translation>
+    </message>
+    <message>
+        <source>Metal</source>
+        <translation>Metall</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Down</source>
+        <translation>Präzisionsausrichtung Schatten unten</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation>Präzisionsausrichtung Schatten links</translation>
+    </message>
+    <message>
+        <source>144 pt</source>
+        <translation>144 pt</translation>
+    </message>
+    <message>
+        <source>288 pt</source>
+        <translation>288 pt</translation>
+    </message>
+    <message>
+        <source>Tilt Down</source>
+        <translation>Nach unten kippen</translation>
+    </message>
+    <message>
+        <source>Tilt Left</source>
+        <translation>Nach links kippen</translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation>Halbtransparenter Schatten</translation>
+    </message>
+    <message>
+        <source>Bright</source>
+        <translation>Hell</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Benutzerdefiniert</translation>
+    </message>
+    <message>
+        <source>Infinity</source>
+        <translation>Unendlich</translation>
+    </message>
+    <message>
+        <source>No 3-D</source>
+        <translation>Kein 3-D</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Standard</translation>
+    </message>
+    <message>
+        <source>3-D On/Off</source>
+        <translation>3-D Ein/Aus</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>Kein Schatten</translation>
+    </message>
+    <message>
+        <source>Shadow Effects</source>
+        <translation>Schatteneffekte</translation>
+    </message>
+    <message>
+        <source>3-D Color</source>
+        <translation>3-D Farbe</translation>
+    </message>
+    <message>
+        <source>Tilt Right</source>
+        <translation>Nach recht kippen</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation>Perspektive</translation>
+    </message>
+    <message>
+        <source>Plastic</source>
+        <translation>Plastik</translation>
+    </message>
+    <message>
+        <source>Wire Frame</source>
+        <translation>Drahtrahmen</translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation>Weitere Schattenfarben</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
+        <translation>Präzisionsausrichtung Schatten oben</translation>
+    </message>
+    <message>
+        <source>Parallel</source>
+        <translation>Parallel</translation>
+    </message>
+    <message>
+        <source>Direction</source>
+        <translation>Richtung</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation>Präzisionsausrichtung Schatten rechts</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipette</translation>
+    </message>
+    <message>
+        <source>Surface</source>
+        <translation>Oberfläche</translation>
+    </message>
+    <message>
+        <source>Tilt Up</source>
+        <translation>Nach oben kippen</translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation>Schatteneinstellungen</translation>
+    </message>
+    <message>
+        <source>3-D Effects</source>
+        <translation>3-D Effekte </translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation>Schattenfarbe</translation>
+    </message>
+    <message>
+        <source>More 3-D Colors</source>
+        <translation>Mehre 3-D Farbe </translation>
+    </message>
+    <message>
+        <source>Shadow On/Off</source>
+        <translation>Schatten Ein/Aus </translation>
+    </message>
+    <message>
+        <source>3-D Settings</source>
+        <translation>3-D Einstellungen</translation>
+    </message>
+    <message>
+        <source>Lighting</source>
+        <translation>Beleuchtung</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_shadowdrawingtools_vml</name>
+    <message>
+        <source>Dim</source>
+        <translation>Abblenden</translation>
+    </message>
+    <message>
+        <source>0 pt</source>
+        <translation>0 Pt.</translation>
+    </message>
+    <message>
+        <source>36 pt</source>
+        <translation>36 Pt.</translation>
+    </message>
+    <message>
+        <source>72 pt</source>
+        <translation>72 Pt.</translation>
+    </message>
+    <message>
+        <source>Depth</source>
+        <translation>Tiefe</translation>
+    </message>
+    <message>
+        <source>Matte</source>
+        <translation>Matt</translation>
+    </message>
+    <message>
+        <source>Metal</source>
+        <translation>Metall</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Down</source>
+        <translation>Präzisionsausrichtung Schatten unten</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation>Präzisionsausrichtung Schatten links</translation>
+    </message>
+    <message>
+        <source>144 pt</source>
+        <translation>144 Pt.</translation>
+    </message>
+    <message>
+        <source>288 pt</source>
+        <translation>288 Pt.</translation>
+    </message>
+    <message>
+        <source>Tilt Down</source>
+        <translation>Nach unten neigen</translation>
+    </message>
+    <message>
+        <source>Tilt Left</source>
+        <translation>Nach links neigen</translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation>Halbtransparenter Schatten</translation>
+    </message>
+    <message>
+        <source>Bright</source>
+        <translation>Hell</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Benutzerdefiniert</translation>
+    </message>
+    <message>
+        <source>Infinity</source>
+        <translation>Unendlich</translation>
+    </message>
+    <message>
+        <source>No 3-D</source>
+        <translation>Kein 3D</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <source>3-D On/Off</source>
+        <translation>3D Ein/Aus</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>Kein Schatten</translation>
+    </message>
+    <message>
+        <source>Shadow Effects</source>
+        <translation>Schatteneffekte</translation>
+    </message>
+    <message>
+        <source>3-D Color</source>
+        <translation>3D-Farbe</translation>
+    </message>
+    <message>
+        <source>Tilt Right</source>
+        <translation>Nach rechts neigen</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation>Perspektive</translation>
+    </message>
+    <message>
+        <source>Plastic</source>
+        <translation>Plastik</translation>
+    </message>
+    <message>
+        <source>Wire Frame</source>
+        <translation>Drahtrahmen</translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation>Weitere Schattenfarben</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
+        <translation>Präzisionsausrichtung Schatten oben</translation>
+    </message>
+    <message>
+        <source>Parallel</source>
+        <translation>Parallel</translation>
+    </message>
+    <message>
+        <source>Direction</source>
+        <translation>Richtung</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation>Präzisionsausrichtung Schatten rechts</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipette</translation>
+    </message>
+    <message>
+        <source>Surface</source>
+        <translation>Oberfläche</translation>
+    </message>
+    <message>
+        <source>Tilt Up</source>
+        <translation>Nach oben neigen</translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation>Schatteneinstellungen</translation>
+    </message>
+    <message>
+        <source>3-D Effects</source>
+        <translation>3D-Effekte</translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation>Schattenfarbe</translation>
+    </message>
+    <message>
+        <source>More 3-D Colors</source>
+        <translation>Mehr 3D-Farben</translation>
+    </message>
+    <message>
+        <source>Shadow On/Off</source>
+        <translation>Schatten ein/aus</translation>
+    </message>
+    <message>
+        <source>3-D Settings</source>
+        <translation>3D-Einstellungen</translation>
+    </message>
+    <message>
+        <source>Lighting</source>
+        <translation>Beleuchtung</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_washadowdrawingtools</name>
+    <message>
+        <source>Dim</source>
+        <translation>Dunkel</translation>
+    </message>
+    <message>
+        <source>0 pt</source>
+        <translation>0 pt</translation>
+    </message>
+    <message>
+        <source>36 pt</source>
+        <translation>36 pt</translation>
+    </message>
+    <message>
+        <source>72 pt</source>
+        <translation>72 pt</translation>
+    </message>
+    <message>
+        <source>Depth</source>
+        <translation>Tiefe</translation>
+    </message>
+    <message>
+        <source>Matte</source>
+        <translation>Matt</translation>
+    </message>
+    <message>
+        <source>Metal</source>
+        <translation>Metall</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Down</source>
+        <translation>Präzisionsausrichtung Schatten unten</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Left</source>
+        <translation>Präzisionsausrichtung Schatten links</translation>
+    </message>
+    <message>
+        <source>144 pt</source>
+        <translation>144 pt</translation>
+    </message>
+    <message>
+        <source>288 pt</source>
+        <translation>288 pt</translation>
+    </message>
+    <message>
+        <source>Tilt Down</source>
+        <translation>Nach unten kippen</translation>
+    </message>
+    <message>
+        <source>Tilt Left</source>
+        <translation>Nach links kippen</translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation>Halbtransparenter Schatten</translation>
+    </message>
+    <message>
+        <source>Bright</source>
+        <translation>Hell</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Benutzerdefiniert</translation>
+    </message>
+    <message>
+        <source>Infinity</source>
+        <translation>Unendlich</translation>
+    </message>
+    <message>
+        <source>No 3-D</source>
+        <translation>Kein 3-D</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Standard</translation>
+    </message>
+    <message>
+        <source>3-D On/Off</source>
+        <translation>3-D Ein/Aus</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>Kein Schatten</translation>
+    </message>
+    <message>
+        <source>3-D Color</source>
+        <translation>3-D Farbe</translation>
+    </message>
+    <message>
+        <source>Tilt Right</source>
+        <translation>Nach recht kippen</translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation>Perspektive</translation>
+    </message>
+    <message>
+        <source>Plastic</source>
+        <translation>Plastik</translation>
+    </message>
+    <message>
+        <source>Wire Frame</source>
+        <translation>Drahtrahmen</translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation>Weitere Schattenfarben</translation>
+    </message>
+    <message>
+        <source>Parallel</source>
+        <translation>Parallel</translation>
+    </message>
+    <message>
+        <source>Direction</source>
+        <translation>Richtung</translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Right</source>
+        <translation>Präzisionsausrichtung Schatten recht</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipette</translation>
+    </message>
+    <message>
+        <source>Surface</source>
+        <translation>Oberfläche</translation>
+    </message>
+    <message>
+        <source>Tilt Up</source>
+        <translation>Nach oben kippen</translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation>Schatteneinstellungen</translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation>Schattenfarbe</translation>
+    </message>
+    <message>
+        <source>More 3-D Colors</source>
+        <translation>Mehre  3-D Farbe </translation>
+    </message>
+    <message>
+        <source>Nudge Shadow Up</source>
+        <translation>Präzisionsausrichtung Schatten oben</translation>
+    </message>
+    <message>
+        <source>Shadow On/Off</source>
+        <translation>Schatten Ein/Aus</translation>
+    </message>
+    <message>
+        <source>3-D Settings</source>
+        <translation>3-D Einstellungen</translation>
+    </message>
+    <message>
+        <source>Lighting</source>
+        <translation>Beleuchtung</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_file</name>
+    <message>
+        <source>New</source>
+        <translation>Neu</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Hilfe</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Öffnen</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Speichern</translation>
+    </message>
+    <message>
+        <source>Print Preview</source>
+        <translation>Seitenansicht</translation>
+    </message>
+    <message>
+        <source>Feedback and Product Information</source>
+        <translation>Feedback und Produktinformationen</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Drucken</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation>Unbeschränkter Zugriff</translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
+        <translation>Datenwiederherstellung</translation>
+    </message>
+    <message>
+        <source>Check for Updates</source>
+        <translation>Auf Updates überprüfen</translation>
+    </message>
+    <message>
+        <source>New Blank Workbook</source>
+        <translation>Neue leere Arbeitsmappe</translation>
+    </message>
+    <message>
+        <source>WPS Office Forum</source>
+        <translation>WPS Office BBS</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation>WPS Datenwiederherstellungsvorlage</translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation>Version ändern</translation>
+    </message>
+    <message>
+        <source>About WPS Spreadsheets</source>
+        <translation>Info über WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Seek Help via Microblog</source>
+        <translation>Hilfe über Microblog suchen</translation>
+    </message>
+    <message>
+        <source>Study Online</source>
+        <translation>Online erlernen</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation>WPS Spreadsheets 2007/2010-Dateien</translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
+        <translation>Feedback per E-Mail</translation>
+    </message>
+    <message>
+        <source>Document Protection and Properties</source>
+        <translation>Dokumentschutz und Eigenschaften</translation>
+    </message>
+    <message>
+        <source>New from Default Template</source>
+        <translation>Neu aus Standardvorlage</translation>
+    </message>
+    <message>
+        <source>New Workbook</source>
+        <translation>Neue Arbeitsmappe</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Files</source>
+        <translation>Microsoft Excel 97-2003-Dateien (*.xls)</translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation>E-Mail versenden</translation>
+    </message>
+    <message>
+        <source>New Excel 2007-2010 Workbook</source>
+        <translation>Neue Excel 2007-2010-Arbeitsmappe</translation>
+    </message>
+    <message>
+        <source>New from Other Templates</source>
+        <translation>Neu aus anderen Vorlagen</translation>
+    </message>
+    <message>
+        <source>Purchase Serial Number</source>
+        <translation>Seriennummer einkaufen</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation>Erneut laden</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Templates</source>
+        <translation>Microsoft Excel 97-2003-Vorlagen (*.xlt)</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation>Aktivierungscode eingeben</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation>WPS Office-HomePage</translation>
+    </message>
+    <message>
+        <source>Support WPS</source>
+        <translation>WPS unterstützen</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation>Eigenschaften</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Templates</source>
+        <translation>WPS Spreadsheets-Vorlagen (*.ett)</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation>Benutzerfeedback</translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation>WPS Office auf Facebook</translation>
+    </message>
+    <message>
+        <source>Save a Copy of the Document</source>
+        <translation>Eine Kopie des Dokuments speichern</translation>
+    </message>
+    <message>
+        <source>File Protection</source>
+        <translation>Dateischutz</translation>
+    </message>
+    <message>
+        <source>Product Management Center</source>
+        <translation>Produktverwaltungscenter</translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
+        <translation>Berechtigung nach Personen einschränken</translation>
+    </message>
+    <message>
+        <source>WPS Office New Features</source>
+        <translation>WPS Office – Neue Funktionen</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation>Speichern unter</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Help</source>
+        <translation>WPS Spreadsheets-Hilfe</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation>Berechtigungen anzeigen</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation>Verschlüsselung</translation>
+    </message>
+    <message>
+        <source>Manage Credentials</source>
+        <translation>Anmeldeinformationen verwalten</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation>WPS Office-Community</translation>
+    </message>
+    <message>
+        <source>New from Online Templates</source>
+        <translation>Neu aus Onlinevorlagen</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>In OFD exportieren</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>Als PDF exportieren</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files</source>
+        <translation>WPS Spreadsheets Dateien(*.et)</translation>
+    </message>
+    <message>
+        <source>Backup Management</source>
+        <translation>Verwaltung von Sicherungskopien</translation>
+    </message>
+    <message>
+        <source>Other Formats</source>
+        <translation>Andere Formate</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation>Beschränkter Zugriff</translation>
+    </message>
+    <message>
+        <source>Backup Management and Data Recovery</source>
+        <translation>Verwaltung von Sicherungskopien und Datenwiederherstellung</translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation>WPS Office-Produktcenter</translation>
+    </message>
+    <message>
+        <source>Backup and Recover</source>
+        <translation>Sicherung und Wiederherstellung</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2007-2010 Files</source>
+        <translation>Microsoft Excel 2007-2010 (*.xlsx)</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_charttools</name>
+    <message>
+        <source>Top</source>
+        <translation>Oben</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>Links</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Keine</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Anzeigen</translation>
+    </message>
+    <message>
+        <source>AddTrendLine</source>
+        <translation>Trendlinie</translation>
+    </message>
+    <message>
+        <source>PrimaryVerticalAxis</source>
+        <translation>Vertikale Primärachse</translation>
+    </message>
+    <message>
+        <source>Above</source>
+        <translation>Über</translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation>Unter</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>Rechts</translation>
+    </message>
+    <message>
+        <source>ChangeChartType</source>
+        <translation>Diagrammtyp 
+ändern</translation>
+    </message>
+    <message>
+        <source>SecondaryMajorHorizontal</source>
+        <translation>Sekundäres Hauptgitter horizontal</translation>
+    </message>
+    <message>
+        <source>StandardError</source>
+        <translation>Standardfehler</translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation>Lineare Prognose</translation>
+    </message>
+    <message>
+        <source>HighLowLines</source>
+        <translation>Spannweitenlinie</translation>
+    </message>
+    <message>
+        <source>DropLinesAndHighLowLines</source>
+        <translation>Bezugslinien und Spannweitenlinien</translation>
+    </message>
+    <message>
+        <source>CenteredOverlay</source>
+        <translation>Zentrierte Überlagerung</translation>
+    </message>
+    <message>
+        <source>AddDataLabels</source>
+        <translation>Datenbeschriftungs</translation>
+    </message>
+    <message>
+        <source>SecondaryMinorVertial</source>
+        <translation>Sekundäres Hilfsgitter vertikal</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>Unten</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Zentriert</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>Format</translation>
+    </message>
+    <message>
+        <source>AddAxisTitle</source>
+        <translation>Achsentitel</translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation>Exponential</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>Linear</translation>
+    </message>
+    <message>
+        <source>PrimaryMajorHorizontal</source>
+        <translation>Primäres Hauptgitter horizontal</translation>
+    </message>
+    <message>
+        <source>Reset Style</source>
+        <translation>Formatvorlage zurücksetzen</translation>
+    </message>
+    <message>
+        <source>PrimaryMajorVertical</source>
+        <translation>Primäres Hauptgitter vertikal</translation>
+    </message>
+    <message>
+        <source>StandardDeviation</source>
+        <translation>Standardabweichung</translation>
+    </message>
+    <message>
+        <source>DropLines</source>
+        <translation>Bezugslinien</translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation>Position</translation>
+    </message>
+    <message>
+        <source>PrimaryMinorVertial</source>
+        <translation>Primäres Hilfsgitter vertikal</translation>
+    </message>
+    <message>
+        <source>AddAxis</source>
+        <translation>Achse</translation>
+    </message>
+    <message>
+        <source>SwitchRowCol</source>
+        <translation>Zeile/Spalte 
+wechseln</translation>
+    </message>
+    <message>
+        <source>AddGridLine</source>
+        <translation>Gitternetzlinien</translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation>Optimale Breite</translation>
+    </message>
+    <message>
+        <source>SecondaryHorizontalAxis</source>
+        <translation>Horizontale Sekundärachse</translation>
+    </message>
+    <message>
+        <source>AddLegend</source>
+        <translation>Legende</translation>
+    </message>
+    <message>
+        <source>DataCallout</source>
+        <translation>Datenlegende</translation>
+    </message>
+    <message>
+        <source>speedLayout</source>
+        <translation>Schnell-
+layout</translation>
+    </message>
+    <message>
+        <source>ChartStyle</source>
+        <translation>Diagrammformat</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation>Prozent</translation>
+    </message>
+    <message>
+        <source>SecondaryMajorVertical</source>
+        <translation>Sekundäres Hauptgitter vertikal</translation>
+    </message>
+    <message>
+        <source>AddErrorBar</source>
+        <translation>Fehlerindikatoren</translation>
+    </message>
+    <message>
+        <source>TypeSection</source>
+        <translation>Diagrammtyp</translation>
+    </message>
+    <message>
+        <source>DataSection</source>
+        <translation>Datenabschnitt</translation>
+    </message>
+    <message>
+        <source>InsideEnd</source>
+        <translation>Ende innerhalb</translation>
+    </message>
+    <message>
+        <source>OutsideEnd</source>
+        <translation>Ende außerhalb</translation>
+    </message>
+    <message>
+        <source>PrimaryMinorHorizontal</source>
+        <translation>Primäres Hilfsgitter horizontal</translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation>Daten auswählen</translation>
+    </message>
+    <message>
+        <source>layoutSection</source>
+        <translation>Diagrammlayout</translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation>Diagramm-
+element hinzufügen</translation>
+    </message>
+    <message>
+        <source>SeriesLines</source>
+        <translation>Verbindungslinien</translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation>Diagrammelemente</translation>
+    </message>
+    <message>
+        <source>MoveChart</source>
+        <translation>Diagramm 
+verschieben</translation>
+    </message>
+    <message>
+        <source>AboveChart</source>
+        <translation>Über Diagramm</translation>
+    </message>
+    <message>
+        <source>PrimaryHorizontalAxis</source>
+        <translation>Horizontale Primärachse</translation>
+    </message>
+    <message>
+        <source>WithLegendKeys</source>
+        <translation>Mit Legendensymbolen</translation>
+    </message>
+    <message>
+        <source>SecondaryMinorHorizontal</source>
+        <translation>Sekundäres Hilfsgitter horizontal</translation>
+    </message>
+    <message>
+        <source>SecondaryVerticalAxis</source>
+        <translation>Vertikale Sekundärachse</translation>
+    </message>
+    <message>
+        <source>changeColor</source>
+        <translation>Farbe 
+ändern</translation>
+    </message>
+    <message>
+        <source>AddDataTable</source>
+        <translation>Datentabelle</translation>
+    </message>
+    <message>
+        <source>Moving Average</source>
+        <translation>Gleitender Durchschnitt</translation>
+    </message>
+    <message>
+        <source>AddChartTitle</source>
+        <translation>Diagrammtitel</translation>
+    </message>
+    <message>
+        <source>AddChartLines</source>
+        <translation>Linien</translation>
+    </message>
+    <message>
+        <source>Current Selection</source>
+        <translation>Aktuelle Auswahl</translation>
+    </message>
+    <message>
+        <source>AddUpDownBar</source>
+        <translation>Pos./Neg. Abweichungsbalken</translation>
+    </message>
+    <message>
+        <source>NoLegendKeys</source>
+        <translation>Ohne Legendensymbole</translation>
+    </message>
+    <message>
+        <source>InsideBase</source>
+        <translation>Basis innerhalb</translation>
+    </message>
+    <message>
+        <source>More Online Charts</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_wordart</name>
+    <message>
+        <source>Plain Text</source>
+        <translation>Nur Text</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 pt</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 pt</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 pt</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Strich</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>Beenden</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Button (Curve)</source>
+        <translation>Schaltfläche (Kontur)</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>Horizontal zentrieren</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>Gleiche Höhe</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Ausrichten</translation>
+    </message>
+    <message>
+        <source>Inflate</source>
+        <translation>Nach oben vergrößern</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Gruppe</translation>
+    </message>
+    <message>
+        <source>Loose</source>
+        <translation>Weit</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Durchgezogen</translation>
+    </message>
+    <message>
+        <source>Inflate Bottom</source>
+        <translation>Nach unten vergrößern</translation>
+    </message>
+    <message>
+        <source>Edit Text</source>
+        <translation>Text bearbeiten</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>In den Hintergrund</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation>Am Raster ausrichten</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>Horizontal kippen</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>Vertikal kippen</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>Vertikal zentrieren</translation>
+    </message>
+    <message>
+        <source>Slant Up</source>
+        <translation>Schräg nach oben</translation>
+    </message>
+    <message>
+        <source>Chevron Down</source>
+        <translation>Chevron nach unten</translation>
+    </message>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0.25 pt</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0.75 pt</translation>
+    </message>
+    <message>
+        <source>WordArt Styles</source>
+        <translation>WordArt Stil</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0.5 pt</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1.5 pt</translation>
+    </message>
+    <message>
+        <source>Ring Outside</source>
+        <translation>Kreis außen</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate</source>
+        <translation>Verkleinern-Vergrößern</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4.5 pt</translation>
+    </message>
+    <message>
+        <source>WordArt Vertical Text</source>
+        <translation>WordArt als vertikaler Text</translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation>Gemusterte Linien</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>Weitere Linienfarben</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>Mehre Füllfarben</translation>
+    </message>
+    <message>
+        <source>Word Justify</source>
+        <translation>Wortausrichtung</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>Langer Strich</translation>
+    </message>
+    <message>
+        <source>Can Up</source>
+        <translation>Zylinder nach oben</translation>
+    </message>
+    <message>
+        <source>Triangle Up</source>
+        <translation>Dreieck nach oben</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Zentriert</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Benutzerdefiniert</translation>
+    </message>
+    <message>
+        <source>Ring Inside</source>
+        <translation>Kreis innen</translation>
+    </message>
+    <message>
+        <source>Arch Up (Curve)</source>
+        <translation>Bogen nach oben (Kontur)</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2.25 pt</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>Rechtsdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Slant Down</source>
+        <translation>Schräg nach unten</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Drehen</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>Linksdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Wave 1</source>
+        <translation>Welle 1</translation>
+    </message>
+    <message>
+        <source>Wave 2</source>
+        <translation>Welle 2</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>Freies Drehen</translation>
+    </message>
+    <message>
+        <source>WordArt Gallery</source>
+        <translation>WordArt Katalog</translation>
+    </message>
+    <message>
+        <source>Right Align</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Left Align</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation>Linienart</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation>Raster anzeigen</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <comment>Insert</comment>
+        <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>Eine Ebene nach vorne</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>Bild</translation>
+    </message>
+    <message>
+        <source>WordArt Alignment</source>
+        <translation>WordArt-Ausrichtung</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>Mehre Zeilen</translation>
+    </message>
+    <message>
+        <source>Fade Right</source>
+        <translation>Abnehmend nach recht</translation>
+    </message>
+    <message>
+        <source>WordArt Shape Outline</source>
+        <translation>WordArt-Kontur</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>Gleiche Größe </translation>
+    </message>
+    <message>
+        <source>Can Down</source>
+        <translation>Zylinder nach unten</translation>
+    </message>
+    <message>
+        <source>WordArt Shape</source>
+        <translation>WordArt-Form</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>In den Vordergrund</translation>
+    </message>
+    <message>
+        <source>Arch Down (Curve)</source>
+        <translation>Bogen nach unten (Kontur)</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Square Dot</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>Anordnen</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation>Strich Punkt</translation>
+    </message>
+    <message>
+        <source>Arch Down (Pour)</source>
+        <translation>Bogen nach unten (gefüllt)</translation>
+    </message>
+    <message>
+        <source>Circle (Pour)</source>
+        <translation>Kreis (Gefüllt)</translation>
+    </message>
+    <message>
+        <source>Deflate Top</source>
+        <translation>Nach oben verkleinern</translation>
+    </message>
+    <message>
+        <source>Inflate Top</source>
+        <translation>Nach oben vergrößern</translation>
+    </message>
+    <message>
+        <source>Stretch Justify</source>
+        <translation>Streckung ausrichten</translation>
+    </message>
+    <message>
+        <source>Cascade Up</source>
+        <translation>Überlappend nach oben</translation>
+    </message>
+    <message>
+        <source>Triangle Down</source>
+        <translation>Dreieck nach unten</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>Auswahlbereich</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Objekt formatieren</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>Vertikal verteilen</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>Horizontal verteilen</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipette</translation>
+    </message>
+    <message>
+        <source>Arch Up (Pour)</source>
+        <translation>Bogen nach oben (Gefüllt)</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>Strichart</translation>
+    </message>
+    <message>
+        <source>Fade Down</source>
+        <translation>Abnehmend nach unten</translation>
+    </message>
+    <message>
+        <source>Fade Left</source>
+        <translation>Abnehmend nach links</translation>
+    </message>
+    <message>
+        <source>Deflate</source>
+        <translation>Verkleinern</translation>
+    </message>
+    <message>
+        <source>WordArt Shape Fill</source>
+        <translation>WortArt Füllung</translation>
+    </message>
+    <message>
+        <source>Very Loose</source>
+        <translation>Sehr weit</translation>
+    </message>
+    <message>
+        <source>Very Tight</source>
+        <translation>Sehr eng</translation>
+    </message>
+    <message>
+        <source>Same Letter Heights</source>
+        <translation>WordArt-Buchstaben mit gleicher Höhe</translation>
+    </message>
+    <message>
+        <source>Bottom (Pour)</source>
+        <translation>Gefüllte Schaltfläche</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Circle (Curve)</source>
+        <translation>Kreis (Kontur)</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>Runder Punkt</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>GruppierungAufheben</translation>
+    </message>
+    <message>
+        <source>Curve Down</source>
+        <translation>Gekrümmt nach unten</translation>
+    </message>
+    <message>
+        <source>Fade Up</source>
+        <translation>Abnehmend nach oben</translation>
+    </message>
+    <message>
+        <source>WordArt Size</source>
+        <translation>WordArt Größe</translation>
+    </message>
+    <message>
+        <source>Curve Up</source>
+        <translation>Kurve oben </translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Letter Justify</source>
+        <translation>Zeichen ausrichten</translation>
+    </message>
+    <message>
+        <source>Character Spacing</source>
+        <translation>Zeichenabstand</translation>
+    </message>
+    <message>
+        <source>Chevron Up</source>
+        <translation>Chevron nach oben </translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>Gleiche Breite</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>Eine Ebene nach hinten</translation>
+    </message>
+    <message>
+        <source>WordArt</source>
+        <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>Double Wave 1</source>
+        <translation>Doppelte Welle 1</translation>
+    </message>
+    <message>
+        <source>Double Wave 2</source>
+        <translation>Doppelte Welle 2</translation>
+    </message>
+    <message>
+        <source>Cascade Down</source>
+        <translation>Überlappend nach unten</translation>
+    </message>
+    <message>
+        <source>Deflate Bottom</source>
+        <translation>Nach unten verkleinern</translation>
+    </message>
+    <message>
+        <source>Deflate Inflate Deflate</source>
+        <translation>Verkleinern-Vergrößern-Verkleinern</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Langer Strich-Punkt-Punkt</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Oben ausrichten</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_drawingtools</name>
+    <message>
+        <source>1 pt</source>
+        <translation>1 pt</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 pt</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 pt</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Strich</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>Leuchteffekt</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Größe</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>Horizontal zentrieren</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>Gleiche Höhe</translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation>Formstile</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Ausrichten</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Gruppe</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Durchgezogen</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>In den Hintergrund</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation>Am Raster ausrichten</translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation>Format übertragen</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>Horizontal kippen</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>Vertikal kippen</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>Vertikal zentrieren</translation>
+    </message>
+    <message>
+        <source>Shape Effects</source>
+        <translation>Formeffekte</translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation>Pfeilstil 1</translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation>Pfeilstil 2</translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation>Pfeilstil 3</translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation>Pfeilstil 4</translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation>Pfeilstil 5</translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation>Pfeilstil 6</translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation>Pfeilstil 7</translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation>Pfeilstil 8</translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation>Pfeilstil 9</translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation>Pfeilstil 10</translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation>Pfeilstil 11</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation>Spiegelung</translation>
+    </message>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0.25 pt</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0.75 pt</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0.5 pt</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1.5 pt</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4.5 pt</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>Weitere Linienfarben</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>Mehre Füllfarben</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>Langer Strich</translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation>Mehre Pfeile</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2.25 pt</translation>
+    </message>
+    <message>
+        <source>Edit Points</source>
+        <translation>Punkte bearbeiten</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>Rechtsdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Drehen</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>Schatten</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>Linksdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Insert Shapes</source>
+        <translation>Formen einfügen</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>Freies Drehen</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation>Stärke</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation>Weiche Kanten</translation>
+    </message>
+    <message>
+        <source>Edit Shape</source>
+        <translation>Form bearbeiten</translation>
+    </message>
+    <message>
+        <source>Shape Size</source>
+        <translation>Shape-Größe</translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation>Fülleffekt</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation>Raster anzeigen</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>Eine Ebene nach vorne</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>Bild</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>Mehre Linien</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>Gleiche Größe</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>In den Vordergrund</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Viereckiger Punkt</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>Anordnen</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation>Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation>Pfeilstil</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation>3D-Drehung</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>Auswahlbereich</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Objekt formatieren</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>Vertikal verteilen</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>Horizontal verteilen</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipette</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>Strichstil</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>Runder Punkt</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>Gruppierung aufheben</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation>Formen ändern</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Vertikal</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>Textfeld</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>Breite:</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation>Gemusterte Linien</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>Gleiche Breite </translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>Eine Ebene nach hinten</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>Höhe:</translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation>Formkontur</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Langer Strich-Punkt-Punkt</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Oben ausrichten</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetool</name>
+    <message>
+        <source>1 pt</source>
+        <translation>1 pt</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>2.25 pt</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 pt</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Strich</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation>Zuschneiden</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>Leuchteffekt</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>Horizontal zentrieren</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>Gleiche Höhe </translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Ausrichten</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Gruppe</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Durchgezogen</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>In den Hintergrund</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation>Am Raster ausrichten</translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation>Format übertragen</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>Horizontal kippen</translation>
+    </message>
+    <message>
+        <source>Picture Effects</source>
+        <translation>Bildeffekte</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>Vertikal kippen</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>Vertikal zentrieren</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebild  einfügen</translation>
+    </message>
+    <message>
+        <source>More Contrast</source>
+        <translation>Mehre Kontrast</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation>Spiegelung</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation>ClipArt</translation>
+    </message>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0.25 pt</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0.75 pt</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0.5 pt</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1.5 pt</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4.5 pt</translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation>Gemusterte Linien</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation>Bild und Größe zurücksetzen</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>Weitere Linienfarben</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>Mehre Füllfarben</translation>
+    </message>
+    <message>
+        <source>Adjust</source>
+        <translation>Anpassen</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>Langer Strich</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2.25 pt</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>Rechtsdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>More Brightness</source>
+        <translation>Mehre Helligkeit</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Drehen</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>Schatten</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>Linksdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation>3D-Drehung</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>Freies Drehen</translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation>Weiche Kanten</translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation>Linienart</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation>Raster anzeigen</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>Eine Ebene nach vorne</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>Bilder</translation>
+    </message>
+    <message>
+        <source>Compress Pictures</source>
+        <translation>Bilder komprimieren</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>Weitere Linien</translation>
+    </message>
+    <message>
+        <source>Less Brightness</source>
+        <translation>Weniger Helligkeit</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>Gleiche Größe </translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>In den Vordergrund</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation>Grafik ändern</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Viereckiger Punkt</translation>
+    </message>
+    <message>
+        <source>Less Contrast</source>
+        <translation>Weniger Kontrast</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>Anordnen</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation>Strichpunkt</translation>
+    </message>
+    <message>
+        <source>Picture Styles</source>
+        <translation>Bildformatvorlagen</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>Auswahlbereich</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Objekt formatieren</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>Vertikal verteilen</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>Horizontal verteilen</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipette</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>Strichart</translation>
+    </message>
+    <message>
+        <source>Set Transparent Color</source>
+        <translation>Transparente Farbe bestimmen</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>Runder Punkt</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>Gruppierung aufheben</translation>
+    </message>
+    <message>
+        <source>Picture Outline</source>
+        <translation>Grafikumriss</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Onlinebild</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation>ClipArt einfügen</translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation>Bildfüllung</translation>
+    </message>
+    <message>
+        <source>Picture
+Size</source>
+        <translation>Bildgröße</translation>
+    </message>
+    <message>
+        <source>Adjust Picture</source>
+        <translation>Grafik anpassen</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>Breite:</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>Gleiche Breite</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation>Bild zurücksetzen</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>Eine Ebene nach hinten</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>Höhe:</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Langer Strich-Punkt-Punkt</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Oben ausrichten</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetool_Vml</name>
+    <message>
+        <source>1 pt</source>
+        <translation>1 Pt.</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 Pt.</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 Pt.</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Strich</translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation>Zuschneiden</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>Zentriert ausrichten</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>Gleiche Höhe</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Ausrichten</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Gruppe</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Durchgezogen</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>In den Hintergrund</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Down</source>
+        <translation>Präzisionsausrichtung Schatten unten</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Left</source>
+        <translation>Präzisionsausrichtung Schatten links</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation>Am Raster ausr</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>Horizontal spiegeln</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>Vertikal spiegeln</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>Mittig ausrichten</translation>
+    </message>
+    <message>
+        <source>More Contrast</source>
+        <translation>Mehr Kontrast</translation>
+    </message>
+    <message>
+        <source>Insert Atristic Clip</source>
+        <translation>ClipArt einfügen</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation>ClipArt</translation>
+    </message>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0,25 Pt.</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0,75 Pt.</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0,5 Pt.</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1,5 Pt.</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4,5 Pt.</translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation>Halbtransparenter Schatten</translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation>Gemusterte Linien</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation>Bild und Größe zurücksetzen</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>Weitere Linienfarben</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>Weitere Füllfarben</translation>
+    </message>
+    <message>
+        <source>Adjust</source>
+        <translation>Anpassen</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>Langer Strich</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2,25 Pt.</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>Rechtsdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>More Brightness</source>
+        <translation>Mehr Helligkeit</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Drehen</translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation>Kein Schatten</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>Linksdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>Freies Drehen</translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation>Linienart</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation>Raster anzeigen</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>Eine Ebene nach vorne</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>Bild</translation>
+    </message>
+    <message>
+        <source>Compress Pictures</source>
+        <translation>Bilder komprimieren</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>Weitere Linien</translation>
+    </message>
+    <message>
+        <source>Less Brightness</source>
+        <translation>Weniger Helligkeit</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>Gleiche Größe</translation>
+    </message>
+    <message>
+        <source>More Shadow Colors</source>
+        <translation>Weitere Schattenfarben</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>In den Vordergrund</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation>Bild ändern</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Up</source>
+        <translation>Präzisionsausrichtung Schatten oben</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Viereckiger Punkt</translation>
+    </message>
+    <message>
+        <source>Less Contrast</source>
+        <translation>Weniger Kontrast</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>Anordnen</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation>Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Shift Shadow Right</source>
+        <translation>Präzisionsausrichtung Schatten rechts</translation>
+    </message>
+    <message>
+        <source>Picture Styles</source>
+        <translation>Bildstile</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>Auswahl-
+bereich</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Objekt formatieren</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>Vertikal verteilen</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>Horizontal verteilen</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipette</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>Strich-Stil</translation>
+    </message>
+    <message>
+        <source>Set Transparent Color</source>
+        <translation>Transparente Farbe bestimmen</translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation>Schatteneinstellungen</translation>
+    </message>
+    <message>
+        <source>Picture Adjust</source>
+        <translation>Bildanpassung</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>Runder Punkt</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>Gruppierung aufheben</translation>
+    </message>
+    <message>
+        <source>Picture Outline</source>
+        <translation>Grafikumriss</translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <translation>Schattenfarbe</translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation>Detaillierte Einstellungen</translation>
+    </message>
+    <message>
+        <source>Picture Size</source>
+        <translation>Bildgröße</translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation>Bildfüllung</translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation>Galerie</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>Breite:</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>Gleiche Breite</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation>Grafik zurücksetzen</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>Eine Ebene nach hinten</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>Höhe:</translation>
+    </message>
+    <message>
+        <source>Shadow On/Off</source>
+        <translation>Schatten ein/aus</translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation>Langer Strich-Punkt-Punkt</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Oben ausrichten</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetool.PictureColor</name>
+    <message>
+        <source>Auto</source>
+        <translation>Auto</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation>Farbe</translation>
+    </message>
+    <message>
+        <source>Black and White</source>
+        <translation>Schwarz und Weiß</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation>Graustufe</translation>
+    </message>
+    <message>
+        <source>Washout</source>
+        <translation>Auswaschen</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_picturetool_Vml.PictureColor</name>
+    <message>
+        <source>Auto</source>
+        <translation>Auto</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation>Farbe</translation>
+    </message>
+    <message>
+        <source>Black and White</source>
+        <translation>Schwarz und Weiß</translation>
+    </message>
+    <message>
+        <source>Grayscale</source>
+        <translation>Graustufe</translation>
+    </message>
+    <message>
+        <source>Washout</source>
+        <translation>Auswaschen</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_drawingtools_vml</name>
+    <message>
+        <source>Bold</source>
+        <translation>Fett</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Strich</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>Schriftart</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Größe</translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation>Auswahl-
+bereich</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>Zentriert ausrichten</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>Gleiche Höhe</translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation>1 Pt.</translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation>3 Pt.</translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation>Formstile</translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation>6 Pt.</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Ausrichten</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Gruppe</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Durchgezogen</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>In den Hintergrund</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation>Am Raster ausr</translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation>2,25 Pt.</translation>
+    </message>
+    <message>
+        <source>0.25 pt.</source>
+        <translation>0,25 Pt.</translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation>0,75 Pt.</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>Mittig ausrichten</translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation>Pfeilart 1</translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation>Pfeilart 2</translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation>Pfeilart 3</translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation>Pfeilart 4</translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation>Pfeilart 5</translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation>Pfeilart 6</translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation>Pfeilart 7</translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation>Pfeilart 8</translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation>Pfeilart 9</translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation>Pfeilart 10</translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation>Pfeilart 11</translation>
+    </message>
+    <message>
+        <source>Flip Horizontally</source>
+        <translation>Horizontal spiegeln</translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation>0,5 Pt.</translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation>Vertikales Textfeld</translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation>Gemusterte Linien</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>Weitere Linienfarben</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>Weitere Füllfarben</translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation>1,5 Pt.</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>Langer Strich</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Zentriert</translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation>Weitere Pfeile</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>Kursiv</translation>
+    </message>
+    <message>
+        <source>Edit Points</source>
+        <translation>Punkte bearbeiten</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>Rechtsdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation>Schriftgröße</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Drehen</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>Linksdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Insert Shapes</source>
+        <translation>Formen einfügen</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>Freies Drehen</translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation>Horizontales Textfeld</translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation>Linienart</translation>
+    </message>
+    <message>
+        <source>Edit Shape</source>
+        <translation>Form bearbeiten</translation>
+    </message>
+    <message>
+        <source>Shape Size</source>
+        <translation>Shape-Größe</translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation>Fülleffekt</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation>Raster anzeigen</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>Eine Ebene nach vorne</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>Bild</translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation>4,5 Pt.</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>Weitere Linien</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>Gleiche Größe</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>In den Vordergrund</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Viereckiger Punkt</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>Anordnen</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation>Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation>Schrift vergrößern</translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation>Pfeilart</translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation>Schriftgrad verkleinern</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Objekt formatieren</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>Vertikal verteilen</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>Horizontal verteilen</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipette</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>Strich-Stil</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>Unterstreichen</translation>
+    </message>
+    <message>
+        <source>Flip Vertically</source>
+        <translation>Vertikal spiegeln</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>Runder Punkt</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>Gruppierung aufheben</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation>Form ändern</translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation>Detaillierte Einstellungen</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>Textfeld</translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translation>Vertikal zentrieren</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>Breite:</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>Gleiche Breite</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>Eine Ebene nach hinten</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation>Einzug verkleinern</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation>Einzug vergrößern</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>Höhe:</translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation>Formkontur</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translation>Textfüllung</translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation>Langer Strich-Punkt-Punkt</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Oben ausrichten</translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation>Ausrichtung</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_pivottableoptions</name>
+    <message>
+        <source>Data</source>
+        <translation>Daten</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>Ausblenden</translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation>Sortieren</translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation>Reihenfolge</translation>
+    </message>
+    <message>
+        <source>Active Field</source>
+        <translation>Aktives Feld</translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation>Feldeinstellungen</translation>
+    </message>
+    <message>
+        <source>Move Up</source>
+        <translation>Nach oben verschieben</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Hide Detail</source>
+        <translation>Detail ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <translation>Feldliste anzeigen</translation>
+    </message>
+    <message>
+        <source>Show Detail</source>
+        <translation>Detail einblenden</translation>
+    </message>
+    <message>
+        <source>Page Layout</source>
+        <translation>Seitenlayout</translation>
+    </message>
+    <message>
+        <source>Move to Beginning</source>
+        <translation>Zum Anfang bewegen</translation>
+    </message>
+    <message>
+        <source>Move Right</source>
+        <translation>Nach rechts</translation>
+    </message>
+    <message>
+        <source>Move to End</source>
+        <translation>Zum Ende bewegen</translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <translation>Feldliste ausblenden</translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation>PivotTable-Optionen</translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation>Teilergebnisse</translation>
+    </message>
+    <message>
+        <source>Modify PivotTable</source>
+        <translation>PivotTable-Format ändern</translation>
+    </message>
+    <message>
+        <source>Move Down</source>
+        <translation>Nach unten verschieben</translation>
+    </message>
+    <message>
+        <source>Move Left</source>
+        <translation>Nach links</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_layout</name>
+    <message>
+        <source>Fit:</source>
+        <translation>Anpassen</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Größe</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>Horizontal zentrieren</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>Gleiche Höhe</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Ausrichten</translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation>Schriftarten</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Gruppe</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>In den Hintergrund</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation>Am Raster ausrichten</translation>
+    </message>
+    <message>
+        <source>Print Titles</source>
+        <translation>Drucktitel</translation>
+    </message>
+    <message>
+        <source>Fit All Columns on One Page</source>
+        <translation>Alle Spalten auf einer Seite darstellen</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>Horizontal kippen</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>Vertikal kippen</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>Vertikal zentrieren</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation>Hintergrund</translation>
+    </message>
+    <message>
+        <source>Reset All Page Breaks</source>
+        <translation>Alle Seitenumbrüche aufheben</translation>
+    </message>
+    <message>
+        <source>Margins</source>
+        <translation>Seitenrand</translation>
+    </message>
+    <message>
+        <source>Fit Sheet on One Page</source>
+        <translation>Blatt auf einer Seite darstellen</translation>
+    </message>
+    <message>
+        <source>Breaks</source>
+        <translation>Umbrüche</translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translation>Farben</translation>
+    </message>
+    <message>
+        <source>More Color Schemes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Zoom</source>
+        <translation>Kein Zoom</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>Rechtsdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Print Area</source>
+        <translation>Druckbereich</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Drehen</translation>
+    </message>
+    <message>
+        <source>Themes</source>
+        <translation>Designs</translation>
+    </message>
+    <message>
+        <source>Custom Zoom</source>
+        <translation>Benutzerdefiniert Zoom</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>Linksdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>Freies Drehen</translation>
+    </message>
+    <message>
+        <source>Orientation</source>
+        <translation>Orientierung</translation>
+    </message>
+    <message>
+        <source>Edit Theme</source>
+        <translation>Design bearbeiten</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation>Raster anzeigen</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>Eine Ebene nach vorne</translation>
+    </message>
+    <message>
+        <source>Fit All Rows on One Page</source>
+        <translation>Alle Zeilen auf einer Seite darstellen</translation>
+    </message>
+    <message>
+        <source>Page Setup</source>
+        <translation>Seite einrichten</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>Gleiche Größe</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>In den Vordergrund</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>Anordnen</translation>
+    </message>
+    <message>
+        <source>Set Print Area</source>
+        <translation>Druckbereich festlegen</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>Auswahlbereich</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>Vertikal verteilen</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>Horizontal verteilen</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>Effekte</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>Gruppierung aufheben</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Clear Print Area</source>
+        <translation>Druckbereich aufheben</translation>
+    </message>
+    <message>
+        <source>Delete Page Break</source>
+        <translation>Remove Page Break</translation>
+    </message>
+    <message>
+        <source>Page Zoom</source>
+        <translation>Seitenzoom</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>Gleiche Breite</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>Eine Ebene nach hinten</translation>
+    </message>
+    <message>
+        <source>Insert Page Break</source>
+        <translation>Seitenumbruch einfügen</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Oben ausrichten</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_data</name>
+    <message>
+        <source>Form</source>
+        <translation>Formular</translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation>Sortieren</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation>Verbindungseigenschaften bearbeiten</translation>
+    </message>
+    <message>
+        <source>Data Range Properties</source>
+        <translation>Datenbereichseigenschaften</translation>
+    </message>
+    <message>
+        <source>Clear Validation Circles</source>
+        <translation>Gültigkeitskreise löschen</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>Textimport bearbeiten</translation>
+    </message>
+    <message>
+        <source>Data Tools</source>
+        <translation>Datentools</translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation>Was-wäre-wenn-Analyse</translation>
+    </message>
+    <message>
+        <source>AutoFilter</source>
+        <translation>AutoFilter</translation>
+    </message>
+    <message>
+        <source>Hide Detail</source>
+        <translation>Detail ausblenden</translation>
+    </message>
+    <message>
+        <source>Show Detail</source>
+        <translation>Detail einblenden</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <translation>Tabellen</translation>
+    </message>
+    <message>
+        <source>Consolidate</source>
+        <translation>Konsolidieren</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <translation>PivotTable</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>Umrahmt</translation>
+    </message>
+    <message>
+        <source>Text to Columns</source>
+        <translation>Text in 
+Spalten</translation>
+    </message>
+    <message>
+        <source>Reapply</source>
+        <translation>Neu anwenden</translation>
+    </message>
+    <message>
+        <source>Import Data</source>
+        <translation>Daten 
+importieren</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation>Absteigend</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation>Aufsteigend</translation>
+    </message>
+    <message>
+        <source>Get External Data</source>
+        <translation>Externe Daten bekommen </translation>
+    </message>
+    <message>
+        <source>InsertDropDownList</source>
+        <translation>Dropdownliste 
+einfügen</translation>
+    </message>
+    <message>
+        <source>Subtotal</source>
+        <translation>Teilergebnis</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation>Erweitert</translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <translation>Verbindungen</translation>
+    </message>
+    <message>
+        <source>Refresh Data</source>
+        <translation>Daten aktualisieren</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>Gruppierung aufheben</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Clear Outline</source>
+        <translation>Gliederung entfernen</translation>
+    </message>
+    <message>
+        <source>Circle Valid Data</source>
+        <translation>Gültige Daten mit Kreis markieren</translation>
+    </message>
+    <message>
+        <source>Sort and Filter</source>
+        <translation>Sortieren und Filtern</translation>
+    </message>
+    <message>
+        <source>Existing Connections</source>
+        <translation>Vorhandene 
+Verbindungen</translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation>Alle anzeigen</translation>
+    </message>
+    <message>
+        <source>Validation</source>
+        <translation>Gültigkeitsprüfung</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_workspace</name>
+    <message>
+        <source>Help</source>
+        <translation>Hilfe</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation>Docer-Eingang</translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation>Leselayout</translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation>Automatische Sicherungskopie aktivieren</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation>Speziale Features</translation>
+    </message>
+    <message>
+        <source>User Guide</source>
+        <translation>Benutzerhandbuch</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>Spenden</translation>
+    </message>
+    <message>
+        <source>File Backup</source>
+        <translation>Datei sichern</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation>Mehre Farben</translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation>Automatische Sicherungskopie deaktivieren</translation>
+    </message>
+    <message>
+        <source>Laboratory</source>
+        <translation>Labor</translation>
+    </message>
+    <message>
+        <source>Manual Backup</source>
+        <translation>Manuelle Sicherung</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation>Aus Cloud Docs öffnen</translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation>WPS-Cloud-Formular</translation>
+    </message>
+    <message>
+        <source>Help us to improve WPS Office</source>
+        <translation>Helfen Sie uns,  WPS Office zu verbessern.</translation>
+    </message>
+    <message>
+        <source>Online Documents</source>
+        <translation>Onlinedokumenten</translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation>Historische Sicherungskopie anzeigen</translation>
+    </message>
+    <message>
+        <source>Cloud Link</source>
+        <translation>Cloud-Verknüpfung</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>In PDF exportieren</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation>In Cloud Docs speichern</translation>
+    </message>
+    <message>
+        <source>Feedback and Support</source>
+        <translation>Feedback und Support</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation>Datei Roaming </translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation>Datei Sicherung anzeigen</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_view</name>
+    <message>
+        <source>Hide</source>
+        <translation>Ausblenden</translation>
+    </message>
+    <message>
+        <source>Print Gridlines</source>
+        <translation>Gitternetzlinien drucken</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation>Zoom</translation>
+    </message>
+    <message>
+        <source>Reading Layout</source>
+        <translation>Leselayout</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Augenschutzmodus</translation>
+    </message>
+    <message>
+        <source>Split</source>
+        <translation>Teilen</translation>
+    </message>
+    <message>
+        <source>View Gridlines</source>
+        <translation>Gitternetzlinien anzeigen</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Close Other Windows</source>
+        <translation>Schließen
+andere Fenster</translation>
+    </message>
+    <message>
+        <source>Close
+Other Windows</source>
+        <translation>Schließen
+andere Fenster</translation>
+    </message>
+    <message>
+        <source>Close Window</source>
+        <translation>Fenster schließen</translation>
+    </message>
+    <message>
+        <source>Print Headings</source>
+        <translation>Überschriften drucken</translation>
+    </message>
+    <message>
+        <source>Switch Windows</source>
+        <translation>Fenster umschalten</translation>
+    </message>
+    <message>
+        <source>Arrange All</source>
+        <translation>Alle 
+Anordnen</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation>Mehre Farben</translation>
+    </message>
+    <message>
+        <source>Unfreeze</source>
+        <translation>Fixierung aufheben</translation>
+    </message>
+    <message>
+        <source>Freeze</source>
+        <translation>Sperren</translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation>Makros</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Standard</translation>
+    </message>
+    <message>
+        <source>Task Window</source>
+        <translation>Aufgabenbereich</translation>
+    </message>
+    <message>
+        <source>Unhide</source>
+        <translation>Einblenden</translation>
+    </message>
+    <message>
+        <source>Full Screen</source>
+        <translation>Ganzer 
+Bildschirm</translation>
+    </message>
+    <message>
+        <source>New Window</source>
+        <translation>Mehre Fenster </translation>
+    </message>
+    <message>
+        <source>Window</source>
+        <translation>Fenster</translation>
+    </message>
+    <message>
+        <source>View Headings</source>
+        <translation>Überschriften anzeigen</translation>
+    </message>
+    <message>
+        <source>More Windows</source>
+        <translation>Mehre Fenster</translation>
+    </message>
+    <message>
+        <source>Cascade</source>
+        <translation>Überlappend</translation>
+    </message>
+    <message>
+        <source>Page Break Preview</source>
+        <translation>Umbruchvorschau</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>Sicherheit</translation>
+    </message>
+    <message>
+        <source>Workbook Views</source>
+        <translation>Arbeitsmappenansichten</translation>
+    </message>
+    <message>
+        <source>Custom Views</source>
+        <translation>Benutzerdefinierte Ansichten</translation>
+    </message>
+    <message>
+        <source>Formula Bar</source>
+        <translation>Bearbeitungsleiste</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Vertikal</translation>
+    </message>
+    <message>
+        <source>Visual Basic Editor</source>
+        <translation>Visual Basic-Editor</translation>
+    </message>
+    <message>
+        <source>Worksheet Options</source>
+        <translation>Arbeitsblattoptionen</translation>
+    </message>
+    <message>
+        <source>Page Layout</source>
+        <translation>Seitenlayout</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_sliceroptions</name>
+    <message>
+        <source>Move</source>
+        <translation>Verschieben</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Größe</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>Zentriert ausrichten</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>Gleiche Höhe</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Ausrichten</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Gruppe</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>In den Hintergrund</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation>Am Raster ausr</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>Horizontal spiegeln</translation>
+    </message>
+    <message>
+        <source>Button Width: </source>
+        <translation>Schaltflächenbreite:</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>Vertikal spiegeln</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>Vertikal zentrieren</translation>
+    </message>
+    <message>
+        <source>Button Height:</source>
+        <translation>Schaltflächenhöhe:</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>Rechtsdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Drehen</translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation>Datenschnitt</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>Linksdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Move Slicer</source>
+        <translation>Datenschnitt verschieben</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation>Raster anzeigen</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>Eine Ebene nach vorne</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>Gleiche Größe</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>In den Vordergrund</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>Anordnen</translation>
+    </message>
+    <message>
+        <source>Buttons</source>
+        <translation>Schaltflächen</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>Auswahlbereich</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>Vertikal verteilen</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>Horizontal verteilen</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>Gruppierung aufheben</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>Breite:</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>Gleiche Breite</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>Eine Ebene nach hinten</translation>
+    </message>
+    <message>
+        <source>Slicer Captions:</source>
+        <translation>Datenschnittbeschriftungen:</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>Höhe:</translation>
+    </message>
+    <message>
+        <source>Column Width:</source>
+        <translation>Spaltenbreite:</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Oben ausrichten</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_review</name>
+    <message>
+        <source>Next</source>
+        <translation>Weiter</translation>
+    </message>
+    <message>
+        <source>Accept Changes</source>
+        <translation>Änderungen annehmen</translation>
+    </message>
+    <message>
+        <source>Translate to Simplified Chinese</source>
+        <translation>In vereinfachtes 
+Chinesisch umwandeln</translation>
+    </message>
+    <message>
+        <source>Unprotect Sheet</source>
+        <translation>Schutz aufheben 
+Blatt</translation>
+    </message>
+    <message>
+        <source>Protect Sheet</source>
+        <translation>Blatt 
+schützen</translation>
+    </message>
+    <message>
+        <source>Show All Comments</source>
+        <translation>Alle Kommentare anzeigen</translation>
+    </message>
+    <message>
+        <source>Track Changes</source>
+        <translation>Änderungen 
+nachverfolgen</translation>
+    </message>
+    <message>
+        <source>Reset Comment</source>
+        <translation>Kommentar zurücksetzen</translation>
+    </message>
+    <message>
+        <source>Reject Changes</source>
+        <translation>Änderungen ablehnen</translation>
+    </message>
+    <message>
+        <source>Comments</source>
+        <translation>Comments</translation>
+    </message>
+    <message>
+        <source>Delete Comment</source>
+        <translation>Kommentar 
+löschen</translation>
+    </message>
+    <message>
+        <source>Protect and Share Workbook</source>
+        <translation>Arbeitsmappe schützen und freigeben</translation>
+    </message>
+    <message>
+        <source>Share Workbook</source>
+        <translation>Arbeitsmappe 
+freigeben</translation>
+    </message>
+    <message>
+        <source>Reset All Comments</source>
+        <translation>Alle Kommentare zurücksetzen</translation>
+    </message>
+    <message>
+        <source>Chinese Transition</source>
+        <translation>Chinesische Übergang</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>Zurück</translation>
+    </message>
+    <message>
+        <source>Proofing</source>
+        <translation>Dokumentprüfung</translation>
+    </message>
+    <message>
+        <source>Lock Cell</source>
+        <translation>Zellen 
+sperren</translation>
+    </message>
+    <message>
+        <source>Changes</source>
+        <translation>Änderungen</translation>
+    </message>
+    <message>
+        <source>Unprotect Workbook</source>
+        <translation>Schutz aufheben 
+Arbeitsmappe</translation>
+    </message>
+    <message>
+        <source>New Comment</source>
+        <translation>Neuer 
+Kommentar</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>Übersetzung</translation>
+    </message>
+    <message>
+        <source>Highlight Changes</source>
+        <translation>Änderungen hervorheben</translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
+        <translation>Kommentar ein-/ausblenden</translation>
+    </message>
+    <message>
+        <source>Protect Workbook</source>
+        <translation>Arbeitsmappe 
+schützen</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation>Rechtschreibprüfung</translation>
+    </message>
+    <message>
+        <source>Allow Users to Edit Ranges</source>
+        <translation>Benutzerberechtigungen zum Bearbeiten von Bereichen</translation>
+    </message>
+    <message>
+        <source>Translate to Traditional Chinese</source>
+        <translation>In traditionelles 
+Chinesisch umwandeln</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_printpreview</name>
+    <message>
+        <source>Show</source>
+        <translation>Anzeigen</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation>Zoom</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Drucken</translation>
+    </message>
+    <message>
+        <source>Fit All Columns on One Page</source>
+        <translation>Alle Spalten auf einer Seite darstellen</translation>
+    </message>
+    <message>
+        <source>Margins</source>
+        <translation>Seitenränder</translation>
+    </message>
+    <message>
+        <source>Fit Sheet on One Page</source>
+        <translation>Blatt auf einer Seite darstellen</translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation>Querformat</translation>
+    </message>
+    <message>
+        <source>No Zoom</source>
+        <translation>Kein Zoom</translation>
+    </message>
+    <message>
+        <source>Custom Zoom</source>
+        <translation>Benutzerdefiniert Zoom</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation>Hochformat</translation>
+    </message>
+    <message>
+        <source>Fit All Rows on One Page</source>
+        <translation>Alle Zeilen auf einer Seite darstellen</translation>
+    </message>
+    <message>
+        <source>Page Setup</source>
+        <translation>Seite einrichten</translation>
+    </message>
+    <message>
+        <source>Normal View</source>
+        <translation>Normalansicht</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation>Kopf- und Fußzeile</translation>
+    </message>
+    <message>
+        <source>Page Break Preview</source>
+        <translation>Page Break 
+Preview</translation>
+    </message>
+    <message>
+        <source>Previous Page</source>
+        <translation>Vorherige Seite</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Page Zoom</source>
+        <translation>Seitenzoom</translation>
+    </message>
+    <message>
+        <source>Next Page</source>
+        <translation>Nächste Seite</translation>
+    </message>
+    <message>
+        <source>Page Layout</source>
+        <translation>Seitenlayout</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_insert</name>
+    <message>
+        <source>Text</source>
+        <translation>Text</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>Diagramm</translation>
+    </message>
+    <message>
+        <source>Forms</source>
+        <translation>Formulare</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>Bezeichnung</translation>
+    </message>
+    <message>
+        <source>Links</source>
+        <translation>Links</translation>
+    </message>
+    <message>
+        <source>Edit Code</source>
+        <translation>Code bearbeiten</translation>
+    </message>
+    <message>
+        <source>List Box</source>
+        <translation>Listenfeld</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Option Button</source>
+        <translation>Optionsfeld</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation>ClipArt</translation>
+    </message>
+    <message>
+        <source>Combo Box</source>
         <translation>Kombinationsfeld</translation>
     </message>
     <message>
-        <source>Radar</source>
-        <translation>Netz</translation>
+        <source>Online Picture</source>
+        <translation>Onlinebild </translation>
     </message>
     <message>
-        <source>Stock</source>
-        <translation>Kurs</translation>
+        <source>Camera</source>
+        <translation>Kamera</translation>
     </message>
     <message>
-        <source>2-D Area</source>
-        <translation type="unfinished"/>
+        <source>Button</source>
+        <translation>Schaltfläche</translation>
     </message>
     <message>
-        <source>2-D Line</source>
-        <translation type="unfinished"/>
+        <source>File Object</source>
+        <translation>Dateiobjekt</translation>
     </message>
     <message>
-        <source>Open-High-Low-Close</source>
-        <translation>Eröffnungs-Höchst-Tiefst-Schlusskurs</translation>
+        <source>Object</source>
+        <translation>Objekt</translation>
     </message>
     <message>
-        <source>Stacked Bar</source>
-        <translation>Gestapelte Balken</translation>
+        <source>Shapes</source>
+        <translation>Formen</translation>
     </message>
     <message>
-        <source>Radar with Markers</source>
-        <translation>Netz mit Datenpunkten</translation>
+        <source>Tables</source>
+        <translation>Tabellen</translation>
     </message>
     <message>
-        <source>Filled Radar</source>
-        <translation>Gefülltes Netz</translation>
+        <source>Symbol</source>
+        <translation>Symbol</translation>
     </message>
     <message>
-        <source>Clustered Bar</source>
-        <translation>Gruppierte Balken</translation>
+        <source>Scroll Bar</source>
+        <translation>Bildlaufleiste</translation>
     </message>
     <message>
-        <source>Scatter with Smooth Lines</source>
-        <translation>Punkte mit interpolierten Linien</translation>
+        <source>PivotChart</source>
+        <translation>PivotChart</translation>
     </message>
     <message>
-        <source>Clustered Column - Line on Secondary Axis</source>
-        <translation>Gruppierte Säule - Linie auf sekundärer Achse</translation>
+        <source>PivotTable</source>
+        <translation>PivotTable</translation>
     </message>
     <message>
-        <source>X Y (Scatter)</source>
-        <translation>X Y (Punkt)</translation>
+        <source>Group Box</source>
+        <translation>Gruppenfeld</translation>
     </message>
     <message>
-        <source>Line with Markers</source>
-        <translation>Linie mit Datenpunkten</translation>
+        <source>Hyperlink</source>
+        <translation>Hyperlink</translation>
     </message>
     <message>
-        <source>Scatter with Smooth Lines and Markers</source>
-        <translation>Punkte mit interpolierten Linien und Datenpunkten</translation>
+        <source>Picture</source>
+        <translation>Bild</translation>
     </message>
     <message>
-        <source>3-D Bubble</source>
-        <translation>3D-Blase</translation>
+        <source>Control Properties</source>
+        <translation>Steuerelementeigenschaften</translation>
     </message>
     <message>
-        <source>Bubble</source>
-        <translation>Blase</translation>
+        <source>Insert Online Picture</source>
+        <translation>Onlinebild einfügen</translation>
     </message>
     <message>
-        <source>2-D Column</source>
-        <translation type="unfinished"/>
+        <source>Equation</source>
+        <translation>Gleichung</translation>
     </message>
     <message>
-        <source>2-D Bar</source>
-        <translation type="unfinished"/>
+        <source>Illustrations</source>
+        <translation>Illustrationen</translation>
     </message>
     <message>
-        <source>2-D Pie</source>
-        <translation type="unfinished"/>
+        <source>Header and Footer</source>
+        <translation>Kopf- und Fußzeile</translation>
     </message>
     <message>
-        <source>Bar Of Pie</source>
-        <translation>Balken aus Kreis</translation>
+        <source>InsertNewChart</source>
+        <translation>Diagramm</translation>
     </message>
     <message>
-        <source>Pie Of Pie</source>
-        <translation>Kreis aus Kreis</translation>
+        <source>Spinner</source>
+        <translation>Drehfeld</translation>
     </message>
     <message>
-        <source>Volume-High-Low-Close</source>
-        <translation>Volumen-Höchst-Tiefst-Schlusskurs</translation>
+        <source>Symbols</source>
+        <translation>Symbole</translation>
     </message>
     <message>
-        <source>Doughnut</source>
-        <translation>Ring</translation>
+        <source>Check Box</source>
+        <translation>Kontrollkästchen</translation>
     </message>
     <message>
-        <source>100% Stacked Bar</source>
-        <translation>Gestapelte Balken (100 %)</translation>
+        <source>Vertical</source>
+        <translation>Vertikal</translation>
     </message>
     <message>
-        <source>Volume-Open-High-Low-Close</source>
-        <translation>Volumen-Eröffnungs-Höchst-Tiefst-Schlusskurs</translation>
+        <source>Insert Clip Art</source>
+        <translation>ClipArt einfügen</translation>
     </message>
     <message>
-        <source>High-Low-Close</source>
-        <translation>Höchst-Tiefst-Schlusskurs</translation>
+        <source>Text Box</source>
+        <translation>Textfeld</translation>
     </message>
     <message>
-        <source>Stacked Line with Markers</source>
-        <translation>Gestapelte Linie mit Datenpunkten</translation>
+        <source>WordArt</source>
+        <translation>WordArt</translation>
     </message>
     <message>
-        <source>Scatter</source>
-        <translation>Punkte</translation>
-    </message>
-    <message>
-        <source>Clustered Column Line</source>
-        <translation>Gruppierte Säulenlinie</translation>
-    </message>
-    <message>
-        <source>100% Stacked Column</source>
-        <translation>Gestapelte Säule (100 %).</translation>
-    </message>
-    <message>
-        <source>Scatter with Straight Lines</source>
-        <translation>Punkte mit geraden Linien</translation>
-    </message>
-    <message>
-        <source>100% Stacked Line with Markers</source>
-        <translation>Gestapelte Linie mit Datenpunkten (100 %)</translation>
-    </message>
-    <message>
-        <source>Scatter with Straight Lines and Markers</source>
-        <translation>Punkte mit geraden Linien und Datenpunkten</translation>
-    </message>
-    <message>
-        <source>Clustered Column</source>
-        <translation>Gruppierte Säule</translation>
-    </message>
-    <message>
-        <source>Stacked Area</source>
-        <translation>Gestapelte Fläche</translation>
-    </message>
-    <message>
-        <source>Stacked Line</source>
-        <translation>Gestapelte Linie</translation>
-    </message>
-    <message>
-        <source>100% Stacked Area</source>
-        <translation>Gestapelte Fläche (100 %)</translation>
-    </message>
-    <message>
-        <source>100% Stacked Line</source>
-        <translation>Gestapelte Linie (100 %).</translation>
-    </message>
-    <message>
-        <source>Stacked Column</source>
-        <translation>Gestapelte Säule</translation>
+        <source>More Symbols</source>
+        <translation>Mehre Symbole</translation>
     </message>
 </context>
 <context>
-    <name>KxChartTypeItem</name>
+    <name>rainbow.ct_design</name>
     <message>
-        <source>Use this chart type to:
-• Show values relative to a center point.
-
-Use it when:
-• Categories are not directly comparable.</source>
+        <source>Table Styles</source>
+        <translation>Tabellenformatvorlagen</translation>
+    </message>
+    <message>
+        <source>Clear Table Style</source>
+        <translation>Tabellenformat löschen</translation>
+    </message>
+    <message>
+        <source>Table Style Options</source>
+        <translation>Optionen für Tabellenformat</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_developtools</name>
+    <message>
+        <source>Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation>Bild</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>Bezeichnung</translation>
+    </message>
+    <message>
+        <source>List Box</source>
+        <translation>Listenfeld</translation>
+    </message>
+    <message>
+        <source>Control Toolbox</source>
+        <translation>Steuerelement-Toolbox</translation>
+    </message>
+    <message>
+        <source>Control List</source>
+        <translation>Steuerungsliste</translation>
+    </message>
+    <message>
+        <source>More Controls</source>
+        <translation>Mehre Steuerelemente</translation>
+    </message>
+    <message>
+        <source>Command Button</source>
+        <translation>Befehlsschaltfläche</translation>
+    </message>
+    <message>
+        <source>Option Button</source>
+        <translation>Optionsfeld</translation>
+    </message>
+    <message>
+        <source>Combo Box</source>
+        <translation>Kombinationsfeld</translation>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <translation>Makro aufzeichnen</translation>
+    </message>
+    <message>
+        <source>Spin Button</source>
+        <translation>Drehfeld</translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation>Makros</translation>
+    </message>
+    <message>
+        <source>Scroll Bar</source>
+        <translation>Bildlaufleiste</translation>
+    </message>
+    <message>
+        <source>Control Properties</source>
+        <translation>Steuerelementeigenschaften</translation>
+    </message>
+    <message>
+        <source>Relative References</source>
+        <translation>Relative Verweise</translation>
+    </message>
+    <message>
+        <source>Check Box</source>
+        <translation>Kontrollkästchen</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>Sicherheit</translation>
+    </message>
+    <message>
+        <source>Exit Design Mode</source>
+        <translation>Entwurfsmodus beenden</translation>
+    </message>
+    <message>
+        <source>View Code</source>
+        <translation>Code anzeigen</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>Textfeld</translation>
+    </message>
+    <message>
+        <source>Visual Basic Editor</source>
+        <translation>Visual Basic-Editor</translation>
+    </message>
+    <message>
+        <source>Design Mode</source>
+        <translation>Entwurfsmodus</translation>
+    </message>
+    <message>
+        <source>Toggle Button</source>
+        <translation>Umschaltfläche</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_tabletool</name>
+    <message>
+        <source>First Column</source>
+        <translation>Erste Spalte</translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation>Extras</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation>Verbindungseigenschaften bearbeiten</translation>
+    </message>
+    <message>
+        <source>Data Range Properties</source>
+        <translation>Datenbereichseigenschaften</translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation>Verbundene Spalten</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>Textimport bearbeiten</translation>
+    </message>
+    <message>
+        <source>Resize Table</source>
+        <translation>Tabellengröße ändern</translation>
+    </message>
+    <message>
+        <source>Export Table to SharePoint List</source>
+        <translation>Tabelle in SharePoint-Liste exportieren</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation>Letzte Spalte</translation>
+    </message>
+    <message>
+        <source>Table Style Options</source>
+        <translation>Optionen für Tabellenformat</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation>Eigenschaften</translation>
+    </message>
+    <message>
+        <source>Table Name:</source>
+        <translation>Tabellenname:</translation>
+    </message>
+    <message>
+        <source>Total Row</source>
+        <translation>Ergebniszeile</translation>
+    </message>
+    <message>
+        <source>Header Row</source>
+        <translation>Überschriftenzeile</translation>
+    </message>
+    <message>
+        <source>External Data</source>
+        <translation>Externe 
+Daten</translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation>Verbundene Zeilen</translation>
+    </message>
+    <message>
+        <source>Refresh Data</source>
+        <translation>Daten aktualisieren</translation>
+    </message>
+    <message>
+        <source>Refresh All</source>
+        <translation>Alle 
+aktualisieren</translation>
+    </message>
+    <message>
+        <source>Convert to Range</source>
+        <translation>In Bereich konvertieren</translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation>Duplikate entfernen</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation>OLE DB-Abfrage
+bearbeiten</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_wordart.WordArtCharacterSpacing</name>
+    <message>
+        <source>Tight</source>
+        <translation>Eng</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Standard</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfAnalysisPaneChartEditDialog</name>
+    <message>
+        <source>Add Filter Chart</source>
+        <translation>Filterdiagramm hinzufügen</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation>(Keine)</translation>
+    </message>
+    <message>
+        <source>Filter Chart (%1)</source>
+        <translation>Filterdiagramm (%1)</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.proxycommands</name>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>Symbolleiste anzeigen</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebilder einfügen</translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation>Was-wäre-wenn-Analyse</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>Onlinebild</translation>
+    </message>
+    <message>
+        <source>Press Enter to Start Reading</source>
+        <translation>Drücken Sie die Eingabetaste, um mit dem Lesen zu beginnen</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>Spenden</translation>
+    </message>
+    <message>
+        <source>More Color Schemes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Use this chart type to:
-• Show the relationship of parts to a whole over time or categories.
-• Highlight the magnitude of change over time.
-• Draw attention to the total value across a trend.</source>
-        <translation type="unfinished"/>
+        <source>Solver</source>
+        <translation>Solver</translation>
     </message>
     <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have four series of values: Volume, High, Low, Close.</source>
-        <translation type="unfinished"/>
+        <source>Text Speech</source>
+        <translation>Textsprache</translation>
     </message>
     <message>
-        <source>Use this chart type to:
-• Compare values across a few categories.
-
-Use it when:
-• The order of categories is not important.</source>
-        <translation type="unfinished"/>
+        <source>Goal Seek</source>
+        <translation>Zielwertsuche</translation>
     </message>
     <message>
-        <source>Use this chart type to:
-• Show how parts of a whole change over time.
-
-Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
-        <translation type="unfinished"/>
+        <source>Insert Online Picture</source>
+        <translation>Onlinebild einfügen</translation>
     </message>
     <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
-        <translation type="unfinished"/>
+        <source>Wps CloudForm</source>
+        <translation>WPS-Cloud-Formular</translation>
     </message>
     <message>
-        <source>Use this chart type to:
-• Compare the percentages that each value contributes to a total.
-• Show how the percentage that each value contributes changes over time.</source>
-        <translation type="unfinished"/>
+        <source>Full-Text Speech</source>
+        <translation>Volltextsprache</translation>
     </message>
     <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• Category order is important.
-• To highlight the magnitude of change over time.</source>
-        <translation type="unfinished"/>
+        <source>WpsPackagePlugin</source>
+        <translation>WPS-Paket-Plugin</translation>
     </message>
     <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have four series of price values: Open, High, Low, Close.</source>
-        <translation type="unfinished"/>
+        <source>Online Pictures</source>
+        <translation>Online-Bilder</translation>
     </message>
     <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-
-Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
-        <translation type="unfinished"/>
+        <source>Selection Speech</source>
+        <translation>Auswahlsprache</translation>
     </message>
     <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are many data points.
-• The data represents a set of x,y pairs based on a formula.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-
-Use it when:
-• Numbers equal 100%.
-• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Highlight different types of information.
-
-Use it when:
-• The range of values in the chart varies widely.
-• You have mixed types of data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-• Show relationships between sets of values
-
-Use it when:
-• The data represents separate measurements.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least three sets of values or pairs of data.
-• Show relationships between sets of values
-
-Use it when:
-• You have a third value that can be used to determine the relative size of the bubble.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare parts of a whole across categories.
-• Show how parts of a whole change over time.
-
-Use it when:
-• The category text is long.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are few data points.
-• The data represents separate measurements.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the percentage contribution to a whole over time or categories.
-• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Highlight different types of information.
-
-Use it when:
-• You have mixed types of data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare the percentage that each value contributes to a total.
-• Show how the percentage that each value contributes changes over time.
-
-Use it when:
-• The category text is long.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• The order of categories is important.
-• There are few data points.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the percentage contribution to a whole over time or categories.
-• Show the change to the percentage that each value contributes over time.
-
-Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• The order of categories is important.
-• There are many data points.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have three series of price values: High, Low, Close.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare values across a few categories.
-
-Use it when:
-• The chart shows duration.
-• The category text is long.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare parts of a whole.
-• Show how parts of a whole change over time.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have five series of values: Volume, Open, High, Low, Close.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are many data points.
-• The data represents separate measurements.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are few data points.
-• The data represents a set of x,y pairs based on a formula.</source>
+        <source>Photo2Pdf</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
-    <name>KxChartTypeGalleryCommand</name>
+    <name>rainbow.ct_autofiltertools</name>
     <message>
-        <source>opening price, high price, low price, closing price. </source>
+        <source>Reading Mode</source>
+        <translation>Lesemodus</translation>
+    </message>
+    <message>
+        <source>Highlight Same Records</source>
+        <translation>Gleiche Datensätze hervorheben</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation>Mehr Farben</translation>
+    </message>
+    <message>
+        <source>Split Sheet</source>
+        <translation>Blatt aufteilen</translation>
+    </message>
+    <message>
+        <source>Pivot Table</source>
+        <translation>PivotTable</translation>
+    </message>
+    <message>
+        <source>Pivot Chart</source>
+        <translation>PivotChart</translation>
+    </message>
+    <message>
+        <source>Export to Sheet</source>
+        <translation>In Blatt exportieren</translation>
+    </message>
+    <message>
+        <source>Export to Book</source>
+        <translation>In Buch exportieren</translation>
+    </message>
+    <message>
+        <source>Filter Analysis</source>
+        <translation>Filteranalyse</translation>
+    </message>
+    <message>
+        <source>Favorite</source>
+        <translation>Favorit</translation>
+    </message>
+    <message>
+        <source>Color Settings</source>
+        <translation>Farbeinstellungen</translation>
+    </message>
+    <message>
+        <source>Add Favorite</source>
+        <translation>Favorit hinzufügen</translation>
+    </message>
+    <message>
+        <source>Lock Title</source>
+        <translation>Titel sperren</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_home.SetFormatCells</name>
+    <message>
+        <source>Format Cells</source>
+        <translation>Zellen formatieren</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_home.Alignment</name>
+    <message>
+        <source>Text Orientation</source>
+        <translation>Textausrichtung</translation>
+    </message>
+    <message>
+        <source>Format Cell Alignment</source>
+        <translation>Zellausrichtung  formatieren</translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation>Ausrichtung</translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeRangeDataIntroduceWidget</name>
+    <message>
+        <source>Merge Rang Data By Selected</source>
+        <translation>Deduplizieren Sie den Inhalt in den beiden Bereichen und führen Sie dann den Inhalt in Bereich 1 zusammen.</translation>
+    </message>
+    <message>
+        <source>Introduce</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_developtools.Add-Ins</name>
+    <message>
+        <source>Add-Ins</source>
+        <translation>Add-Ins</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_developtools.Add-Ins.COMAddIns</name>
+    <message>
+        <source>COM Add-Ins</source>
+        <translation>COM
+Add-Ins</translation>
+    </message>
+    <message>
+        <source>COM
+Add-Ins</source>
+        <translation>COM
+Add-In</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_addons</name>
+    <message>
+        <source>Custom Toolbar</source>
+        <translation>Benutzerdefinierte Symbolleiste</translation>
+    </message>
+    <message>
+        <source>Toolbar Commands</source>
+        <translation>Symbolleistenbefehle</translation>
+    </message>
+    <message>
+        <source>Menu Command</source>
+        <translation>Kontextmenübefehl</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_file.Help</name>
+    <message>
+        <source>WPS Spreadsheets Help</source>
+        <translation>WPS Spreadsheets Hilfe</translation>
+    </message>
+</context>
+<context>
+    <name>et_et_ui</name>
+    <message>
+        <source>Split window</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>volume traded, high price, low price, closing price. </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>To create a combination chart, select at least two series of data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source> Use dates or stock names as labels.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>volume traded, opening price, high price, low price, closing price. </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>high price, low price, closing price. </source>
+        <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
         <translation type="unfinished"/>
     </message>
 </context>
