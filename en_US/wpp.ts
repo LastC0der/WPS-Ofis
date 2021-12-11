@@ -22131,7 +22131,7 @@ Sorter</translation>
     </message>
     <message>
         <source>Annote As Pdf</source>
-        <translation>Annotate in PDF format</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Box</source>
