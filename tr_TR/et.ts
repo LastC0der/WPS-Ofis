@@ -22151,11 +22151,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Total %1</source>
-        <translation type="unfinished"/>
+        <translation>Toplam %1</translation>
     </message>
     <message>
         <source>Solver has stopped before finding a globally optimal solution. The best found solution, if any, will be given.</source>
-        <translation type="unfinished"/>
+        <translation>Çözücü, global olarak en uygun çözümü bulamadan durdu. Varsa en iyi bulunan çözüm verilecektir.</translation>
     </message>
     <message>
         <source>Solver can make the Objective Cell as large (or small when minimizing) as it wants.</source>
@@ -22167,7 +22167,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>The workbook is protected, and cannot generate reports.</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma kitabı korumalıdır ve rapor oluşturamaz.</translation>
     </message>
     <message>
         <source>Change Constraint</source>
@@ -22187,7 +22187,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Error in model. Please verify that all cells and Constraints are valid.</source>
-        <translation type="unfinished"/>
+        <translation>Model hatası. Lütfen tüm hücrelerin ve Kısıtlamaların geçerli olduğunu doğrulayın.</translation>
     </message>
     <message>
         <source>Perhaps some cells that are not Variable Cells are marked as Integer or Binary.</source>
@@ -22267,15 +22267,15 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Location reference is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Konum başvurusu geçerli değil.</translation>
     </message>
     <message>
         <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
-        <translation type="unfinished"/>
+        <translation>Çözücü, Değişken Hücreler için belirli değerleri denediğinde, çalışma sayfasındaki hücrelerden biri hata değeri oldu.</translation>
     </message>
     <message>
         <source>There is not enough memory available to solve the problem.</source>
-        <translation type="unfinished"/>
+        <translation>Sorunu çözmek için yeterli bellek yok.</translation>
     </message>
     <message>
         <source>Microsoft Excel Security Workbook(*.xls)|*.xls</source>
@@ -22283,7 +22283,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>The reference for the location or data range is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Konum veya veri aralığı başvurusu geçerli değil.</translation>
     </message>
     <message>
         <source>Rotated up %1 Degrees</source>
