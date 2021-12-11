@@ -31965,7 +31965,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Cannot generate PivotChart, the field selected have too much items.</source>
-        <translation type="unfinished"/>
+        <translation>Özet Grafik oluşturulamıyor, seçilen alanda çok fazla öğe var.</translation>
     </message>
     <message>
         <source>Bar Chart</source>
