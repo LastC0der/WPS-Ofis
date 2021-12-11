@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="fr_FR" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="fr_FR">
 <context>
     <name>KAccountMessageContentDlg</name>
     <message>
@@ -35,6 +35,10 @@
     <message>
         <source>Widget</source>
         <translation>Widget</translation>
+    </message>
+    <message>
+        <source>DNS Setting</source>
+        <translation>Paramètres DNS</translation>
     </message>
     <message>
         <source>Login tip</source>
@@ -617,6 +621,10 @@ makes documents beautiful</source>
         <translation>Passer à un abonnement Premium ?</translation>
     </message>
     <message>
+        <source>Sign in User</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Free 7-day trial</source>
         <translation>Version d’évaluation
 gratuite pendant 7 jours</translation>
@@ -638,6 +646,10 @@ gratuite pendant 7 jours</translation>
 we will make continuous improvements</source>
         <translation>Nous vous remercions pour votre soutien,
 nous allons apporter des améliorations en permanence</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
@@ -662,6 +674,18 @@ Easy mobile office.</source>
     <message>
         <source>Widget</source>
         <translation>Widget</translation>
+    </message>
+    <message>
+        <source>Try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check order</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Checking payment...</source>
@@ -867,8 +891,16 @@ Easy mobile office.</source>
         <translation>&lt;p&gt;Échec du chargement de la page. &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;Vérifiez le réseau&lt;/a&gt; et réessayez&lt;/p&gt;</translation>
     </message>
     <message>
+        <source>Retry</source>
+        <translation>Réessayer</translation>
+    </message>
+    <message>
         <source>Page load timeout,check you network and retry</source>
         <translation>Expiration du délai de chargement de la page. Vérifiez le réseau et réessayez</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -909,6 +941,10 @@ Easy mobile office.</source>
     <message>
         <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Échec de la synchronisation des informations de connexion. Vérifiez le réseau et réessayez.&lt;br&gt; Si le réseau est correct, vérifiez &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;les raisons&lt;/a&gt; de l&apos;échec&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>DNS Setting Document</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1054,6 +1090,41 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KThirdLoginWidgetDlg</name>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Do you want to close it</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Google</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FaceBook</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>It is trying to sign in with </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DropBox</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Twitter</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KLoginMainWindow</name>
     <message>
         <source>Email</source>
@@ -1062,6 +1133,14 @@ Easy mobile office.</source>
     <message>
         <source>Forget password</source>
         <translation>Oublier le mot de passe</translation>
+    </message>
+    <message>
+        <source>Continue with Facebook</source>
+        <translation>Continuer avec Facebook</translation>
+    </message>
+    <message>
+        <source>Don&apos;t have an account?</source>
+        <translation>Ne possède pas de compte?</translation>
     </message>
     <message>
         <source>Invalid argument</source>
@@ -1084,16 +1163,12 @@ Easy mobile office.</source>
         <translation>Images, modèles, formes en ligne</translation>
     </message>
     <message>
+        <source>Please enter a valid email address</source>
+        <translation>Entrez une adresse e-mail valide</translation>
+    </message>
+    <message>
         <source>Wrong password</source>
         <translation>Mot de passe erroné</translation>
-    </message>
-    <message>
-        <source>Sign in with Email</source>
-        <translation>Se connecter avec un e-mail</translation>
-    </message>
-    <message>
-        <source>Account Login</source>
-        <translation>Connexion</translation>
     </message>
     <message>
         <source>Server error</source>
@@ -1108,28 +1183,20 @@ Easy mobile office.</source>
         <translation>Chargement du code QR WeChat…</translation>
     </message>
     <message>
-        <source>Sign in with Facebook</source>
-        <translation>Se connecter avec Facebook</translation>
-    </message>
-    <message>
-        <source>Sign in with Twitter</source>
-        <translation>Se connecter avec Twitter</translation>
+        <source>There is no account for the email you entered</source>
+        <translation>Il n&apos;existe aucun compte pour l&apos;adresse e-mail que vous avez saisie</translation>
     </message>
     <message>
         <source>Remember Me</source>
         <translation>Se souvenir de moi</translation>
     </message>
     <message>
-        <source>Sign in with Dropbox</source>
-        <translation>Se connecter avec Dropbox</translation>
-    </message>
-    <message>
         <source>Unknown error!</source>
         <translation>Erreur inconnue.</translation>
     </message>
     <message>
-        <source>Sign up with Email</source>
-        <translation>S&apos;inscrire avec un e-mail</translation>
+        <source>Continue with Google</source>
+        <translation>Continuer avec Google</translation>
     </message>
     <message>
         <source>User name can&apos;t be pure whitespace</source>
@@ -1172,20 +1239,24 @@ Easy mobile office.</source>
         <translation>Aucun nom d&apos;utilisateur</translation>
     </message>
     <message>
-        <source>No account?</source>
-        <translation>Pas de compte ?</translation>
+        <source>Online Service User Agreement</source>
+        <translation>Contrat de l&apos;utilisateur des services en ligne</translation>
+    </message>
+    <message>
+        <source>Continue with Twitter</source>
+        <translation>Continuer avec Twitter</translation>
     </message>
     <message>
         <source>More safety with an account</source>
         <translation>Renforcer la sécurité d&apos;un compte</translation>
     </message>
     <message>
-        <source>Sign Up</source>
-        <translation>S&apos;inscrire</translation>
-    </message>
-    <message>
         <source>Sign in</source>
         <translation>Se connecter</translation>
+    </message>
+    <message>
+        <source>Continue with Dropbox</source>
+        <translation>Continuer avec Dropbox</translation>
     </message>
     <message>
         <source>User not active</source>
@@ -1196,8 +1267,20 @@ Easy mobile office.</source>
         <translation>L&apos;utilisateur n&apos;existe pas</translation>
     </message>
     <message>
+        <source>Waiting...</source>
+        <translation>Attente…</translation>
+    </message>
+    <message>
         <source>Invalid account</source>
         <translation>Compte non valide</translation>
+    </message>
+    <message>
+        <source>Continue with Email</source>
+        <translation>Continuer avec un e-mail</translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
+        <translation>Continuer avec Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1220,6 +1303,10 @@ Easy mobile office.</source>
         <translation>Utilisateur suspendu</translation>
     </message>
     <message>
+        <source>Create account</source>
+        <translation>Créer un compte</translation>
+    </message>
+    <message>
         <source>User is banned</source>
         <translation>L&apos;utilisateur est exclu</translation>
     </message>
@@ -1228,12 +1315,52 @@ Easy mobile office.</source>
         <translation>S&apos;enregistrer maintenant</translation>
     </message>
     <message>
+        <source>I agree to the %1</source>
+        <translation>J&apos;accepte le %1</translation>
+    </message>
+    <message>
         <source>Login too frequently, please retry after %1 seconds</source>
         <translation>Vous vous connectez trop souvent. Réessayez après %1 secondes</translation>
     </message>
     <message>
         <source>Login with third account</source>
         <translation>Connexion avec un compte tiers</translation>
+    </message>
+    <message>
+        <source>Or</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Already have an account?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account Login</source>
+        <translation>Connexion</translation>
+    </message>
+    <message>
+        <source>Sign in with Facebook</source>
+        <translation>Se connecter avec Facebook</translation>
+    </message>
+    <message>
+        <source>Sign in with Twitter</source>
+        <translation>Se connecter avec Twitter</translation>
+    </message>
+    <message>
+        <source>Sign in with Dropbox</source>
+        <translation>Se connecter avec Dropbox</translation>
+    </message>
+    <message>
+        <source>Sign up with Email</source>
+        <translation>S&apos;inscrire avec un e-mail</translation>
+    </message>
+    <message>
+        <source>No account?</source>
+        <translation>Pas de compte ?</translation>
+    </message>
+    <message>
+        <source>Sign Up</source>
+        <translation>S&apos;inscrire</translation>
     </message>
 </context>
 <context>
@@ -1319,6 +1446,104 @@ Easy mobile office.</source>
     <message>
         <source>School</source>
         <translation>École</translation>
+    </message>
+</context>
+<context>
+    <name>KPayStateDlg</name>
+    <message>
+        <source>Please wait a few minutes</source>
+        <translation>Veuillez patienter quelques minutes</translation>
+    </message>
+    <message>
+        <source>You can download unlimted templates.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment timeout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get your personal customization now.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can use PDF conversion unlimited.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment successful!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have become WPS Premium user.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Checking payment...</source>
+        <translation>Vérification du paiement…</translation>
+    </message>
+    <message>
+        <source>Payment failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneEnhance</name>
+    <message>
+        <source>Cloud storage</source>
+        <translation>Stockage dans le Cloud</translation>
+    </message>
+    <message>
+        <source>Files repair</source>
+        <translation>Réparation de fichiers</translation>
+    </message>
+    <message>
+        <source>Start Your Free Trial</source>
+        <translation>Commencer l&apos;essai gratuit</translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation>PDF vers Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Picture to text(OCR)</source>
+        <translation>Image en texte (OCR)</translation>
+    </message>
+    <message>
+        <source>Sign in as WPS Standard</source>
+        <translation>Connectez-vous en tant qu&apos;utilisateur WPS standard</translation>
+    </message>
+    <message>
+        <source>Welcome to try our 7-day WPS Premium Trial</source>
+        <translation>Bienvenue dans notre essai de 7 jours de WPS Premium</translation>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation>Utilisateur connecté</translation>
+    </message>
+    <message>
+        <source>Product Key</source>
+        <translation>Clé de produit</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation>Utilisateur Premium</translation>
+    </message>
+    <message>
+        <source>Edit text/images in PDF</source>
+        <translation>Modifier du texte/des images dans un PDF</translation>
+    </message>
+    <message>
+        <source>Sign in and unlock 80+ exclusive benefits only available in WPS Premium</source>
+        <translation>Connectez-vous et déverrouillez plus de 80 avantages exclusifs disponibles uniquement dans WPS Premium</translation>
     </message>
 </context>
 <context>
@@ -1751,6 +1976,10 @@ Easy mobile office.</source>
         <translation>Échec de la récupération des utilisateurs</translation>
     </message>
     <message>
+        <source>request failed, please retry later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select user failed</source>
         <translation>Échec de la sélection de l&apos;utilisateur</translation>
     </message>
@@ -1853,6 +2082,84 @@ Easy mobile office.</source>
     <message>
         <source>Welcome to use WPS Office</source>
         <translation>Bienvenue dans WPS&amp;nbsp;Office</translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkDnsErrDlg</name>
+    <message>
+        <source>Page load timeout,check you network and retry</source>
+        <translation>Expiration du délai de chargement de la page. Vérifiez le réseau et réessayez</translation>
+    </message>
+    <message>
+        <source>Service timeout</source>
+        <translation>Le service a expiré.</translation>
+    </message>
+    <message>
+        <source>Diagnosing tool</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> or refer to the </source>
+        <translation> ou lisez les </translation>
+    </message>
+    <message>
+        <source>Network error,check you network and retry</source>
+        <translation>Erreur réseau. Vérifiez le réseau et réessayez</translation>
+    </message>
+    <message>
+        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
+        <translation>Expiration de la demande. Réessayez en cliquant sur le bouton d&apos;actualisation avant de vérifier vos paramètres DNS.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>An error occurred,check you network and retry</source>
+        <translation>Une erreur s&apos;est produite. Vérifiez le réseau et réessayez</translation>
+    </message>
+    <message>
+        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Actualiser</translation>
+    </message>
+    <message>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation>Échec de la synchronisation des informations de connexion. Vérifiez le réseau et réessayez</translation>
+    </message>
+    <message>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation>Impossible d&apos;accéder au serveur de comptes WPS. Vérifiez le réseau et réessayez</translation>
+    </message>
+    <message>
+        <source>DNS Settings document</source>
+        <translation>Instructions de configuration DNS</translation>
+    </message>
+    <message>
+        <source>Page load failed,check you network and retry</source>
+        <translation>Échec du chargement de la page. Vérifiez le réseau et réessayez</translation>
+    </message>
+</context>
+<context>
+    <name>KFeedbackPopupWidget</name>
+    <message>
+        <source>Forgot the password</source>
+        <translation>Mot de passe oublié</translation>
+    </message>
+    <message>
+        <source>Sign-in failed</source>
+        <translation>Échec de la connexion</translation>
+    </message>
+    <message>
+        <source>Other questions or feedback</source>
+        <translation>Autres problèmes ou suggestions</translation>
+    </message>
+    <message>
+        <source>Select your question type:</source>
+        <translation>Sélectionnez le type de votre question :</translation>
     </message>
 </context>
 <context>
