@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ru_RU" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ru_RU">
 <context>
     <name>KAccountMessageContentDlg</name>
     <message>
@@ -35,6 +35,10 @@
     <message>
         <source>Widget</source>
         <translation>Мини-приложение</translation>
+    </message>
+    <message>
+        <source>DNS Setting</source>
+        <translation>Настройки DNS</translation>
     </message>
     <message>
         <source>Login tip</source>
@@ -615,6 +619,10 @@ makes documents beautiful</source>
         <translation>Получить статус Premium?</translation>
     </message>
     <message>
+        <source>Sign in User</source>
+        <translation>Пользователь, выполнивший вход</translation>
+    </message>
+    <message>
         <source>Free 7-day trial</source>
         <translation>7-дневная бесплатная
 пробная версия</translation>
@@ -636,6 +644,10 @@ makes documents beautiful</source>
 we will make continuous improvements</source>
         <translation>Спасибо за поддержку!
 Мы стремимся постоянно совершенствовать свои продукты</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation>Пользователь Premium</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -660,6 +672,18 @@ Easy mobile office.</source>
     <message>
         <source>Widget</source>
         <translation>Мини-приложение</translation>
+    </message>
+    <message>
+        <source>Try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check order</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Checking payment...</source>
@@ -865,8 +889,16 @@ Easy mobile office.</source>
         <translation>&lt;p&gt;Ошибка загрузки страницы. &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;Проверьте сетевое подключение&lt;/a&gt; и повторите попытку.&lt;/p&gt;</translation>
     </message>
     <message>
+        <source>Retry</source>
+        <translation>Повторить</translation>
+    </message>
+    <message>
         <source>Page load timeout,check you network and retry</source>
         <translation>Истекло время ожидания загрузки страницы. Проверьте сетевое подключение и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -907,6 +939,10 @@ Easy mobile office.</source>
     <message>
         <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Ошибка синхронизации сведений для входа. Проверьте сетевое подключение и повторите попытку.&lt;br&gt;В случае отсутствия проблем с сетью проверьте &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;причины&lt;/a&gt;&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>DNS Setting Document</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1052,6 +1088,41 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KThirdLoginWidgetDlg</name>
+    <message>
+        <source>Close</source>
+        <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source> Do you want to close it</source>
+        <translation>. При закрытии этой страницы вход будет прерван.</translation>
+    </message>
+    <message>
+        <source>Google</source>
+        <translation>Google</translation>
+    </message>
+    <message>
+        <source>FaceBook</source>
+        <translation>Facebook</translation>
+    </message>
+    <message>
+        <source>It is trying to sign in with </source>
+        <translation>Вы входите с помощью учетной записи </translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Войти</translation>
+    </message>
+    <message>
+        <source>DropBox</source>
+        <translation>Dropbox</translation>
+    </message>
+    <message>
+        <source>Twitter</source>
+        <translation>Twitter</translation>
+    </message>
+</context>
+<context>
     <name>KLoginMainWindow</name>
     <message>
         <source>Email</source>
@@ -1060,6 +1131,14 @@ Easy mobile office.</source>
     <message>
         <source>Forget password</source>
         <translation>Забыли пароль?</translation>
+    </message>
+    <message>
+        <source>Continue with Facebook</source>
+        <translation>Продолжить с Facebook</translation>
+    </message>
+    <message>
+        <source>Don&apos;t have an account?</source>
+        <translation>Нет учетной записи?</translation>
     </message>
     <message>
         <source>Invalid argument</source>
@@ -1082,16 +1161,12 @@ Easy mobile office.</source>
         <translation>Рисунки, шаблоны и фигуры из Интернета</translation>
     </message>
     <message>
+        <source>Please enter a valid email address</source>
+        <translation>Введите действительный адрес электронной почты</translation>
+    </message>
+    <message>
         <source>Wrong password</source>
         <translation>Неверный пароль</translation>
-    </message>
-    <message>
-        <source>Sign in with Email</source>
-        <translation>Вход с помощью электронной почты</translation>
-    </message>
-    <message>
-        <source>Account Login</source>
-        <translation>Вход</translation>
     </message>
     <message>
         <source>Server error</source>
@@ -1106,28 +1181,20 @@ Easy mobile office.</source>
         <translation>Загрузка QR-кода WeChat...</translation>
     </message>
     <message>
-        <source>Sign in with Facebook</source>
-        <translation>Вход с помощью Facebook</translation>
-    </message>
-    <message>
-        <source>Sign in with Twitter</source>
-        <translation>Вход с помощью Twitter</translation>
+        <source>There is no account for the email you entered</source>
+        <translation>Нет учетной записи, связанной с указанным адресом электронной почты</translation>
     </message>
     <message>
         <source>Remember Me</source>
         <translation>Запомнить меня</translation>
     </message>
     <message>
-        <source>Sign in with Dropbox</source>
-        <translation>Вход с помощью Dropbox</translation>
-    </message>
-    <message>
         <source>Unknown error!</source>
         <translation>Неизвестная ошибка!</translation>
     </message>
     <message>
-        <source>Sign up with Email</source>
-        <translation>Регистрация с помощью электронной почты</translation>
+        <source>Continue with Google</source>
+        <translation>Продолжить с Google</translation>
     </message>
     <message>
         <source>User name can&apos;t be pure whitespace</source>
@@ -1170,20 +1237,24 @@ Easy mobile office.</source>
         <translation>Отсутствует имя пользователя</translation>
     </message>
     <message>
-        <source>No account?</source>
-        <translation>Нет учетной записи?</translation>
+        <source>Online Service User Agreement</source>
+        <translation>Соглашение об обслуживании в Интернете</translation>
+    </message>
+    <message>
+        <source>Continue with Twitter</source>
+        <translation>Продолжить с Twitter</translation>
     </message>
     <message>
         <source>More safety with an account</source>
         <translation>Повышение уровня безопасности с помощью учетной записи</translation>
     </message>
     <message>
-        <source>Sign Up</source>
-        <translation>Зарегистрируйтесь</translation>
-    </message>
-    <message>
         <source>Sign in</source>
         <translation>Войти</translation>
+    </message>
+    <message>
+        <source>Continue with Dropbox</source>
+        <translation>Продолжить с Dropbox</translation>
     </message>
     <message>
         <source>User not active</source>
@@ -1194,8 +1265,20 @@ Easy mobile office.</source>
         <translation>Пользователь не существует</translation>
     </message>
     <message>
+        <source>Waiting...</source>
+        <translation>Ожидание...</translation>
+    </message>
+    <message>
         <source>Invalid account</source>
         <translation>Недействительная учетная запись</translation>
+    </message>
+    <message>
+        <source>Continue with Email</source>
+        <translation>Продолжить с электронной почтой</translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
+        <translation>Продолжить с Line</translation>
     </message>
     <message>
         <source>Share docs with others</source>
@@ -1218,6 +1301,10 @@ Easy mobile office.</source>
         <translation>Полномочия пользователя приостановлены</translation>
     </message>
     <message>
+        <source>Create account</source>
+        <translation>Создать учетную запись</translation>
+    </message>
+    <message>
         <source>User is banned</source>
         <translation>Пользователь заблокирован</translation>
     </message>
@@ -1226,12 +1313,52 @@ Easy mobile office.</source>
         <translation>Зарегистрируйтесь прямо сейчас</translation>
     </message>
     <message>
+        <source>I agree to the %1</source>
+        <translation>Я принимаю %1</translation>
+    </message>
+    <message>
         <source>Login too frequently, please retry after %1 seconds</source>
         <translation>Слишком много попыток входа. Попробуйте еще раз через %1 с</translation>
     </message>
     <message>
         <source>Login with third account</source>
         <translation>Вход с помощью сторонней учетной записи</translation>
+    </message>
+    <message>
+        <source>Or</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Already have an account?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account Login</source>
+        <translation>Вход</translation>
+    </message>
+    <message>
+        <source>Sign in with Facebook</source>
+        <translation>Вход с помощью Facebook</translation>
+    </message>
+    <message>
+        <source>Sign in with Twitter</source>
+        <translation>Вход с помощью Twitter</translation>
+    </message>
+    <message>
+        <source>Sign in with Dropbox</source>
+        <translation>Вход с помощью Dropbox</translation>
+    </message>
+    <message>
+        <source>Sign up with Email</source>
+        <translation>Регистрация с помощью электронной почты</translation>
+    </message>
+    <message>
+        <source>No account?</source>
+        <translation>Нет учетной записи?</translation>
+    </message>
+    <message>
+        <source>Sign Up</source>
+        <translation>Зарегистрируйтесь</translation>
     </message>
 </context>
 <context>
@@ -1317,6 +1444,104 @@ Easy mobile office.</source>
     <message>
         <source>School</source>
         <translation>Учебная</translation>
+    </message>
+</context>
+<context>
+    <name>KPayStateDlg</name>
+    <message>
+        <source>Please wait a few minutes</source>
+        <translation>Подождите несколько минут</translation>
+    </message>
+    <message>
+        <source>You can download unlimted templates.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment timeout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get your personal customization now.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can use PDF conversion unlimited.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment successful!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have become WPS Premium user.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Checking payment...</source>
+        <translation>Проверка оплаты...</translation>
+    </message>
+    <message>
+        <source>Payment failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneEnhance</name>
+    <message>
+        <source>Cloud storage</source>
+        <translation>Хранилище Cloud</translation>
+    </message>
+    <message>
+        <source>Files repair</source>
+        <translation>Восстановление файлов</translation>
+    </message>
+    <message>
+        <source>Start Your Free Trial</source>
+        <translation>Начать бесплатный пробный период</translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation>PDF в Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Picture to text(OCR)</source>
+        <translation>Изображение в текст (OCR)</translation>
+    </message>
+    <message>
+        <source>Sign in as WPS Standard</source>
+        <translation>Войти как пользователь WPS Standard</translation>
+    </message>
+    <message>
+        <source>Welcome to try our 7-day WPS Premium Trial</source>
+        <translation>Вас приветствует 7-дневная пробная версия WPS Premium</translation>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation>Пользователь, выполнивший вход</translation>
+    </message>
+    <message>
+        <source>Product Key</source>
+        <translation>Ключ продукта</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation>Пользователь Premium</translation>
+    </message>
+    <message>
+        <source>Edit text/images in PDF</source>
+        <translation>Редактирование текста и изображений в PDF</translation>
+    </message>
+    <message>
+        <source>Sign in and unlock 80+ exclusive benefits only available in WPS Premium</source>
+        <translation>Войдите в учетную запись и разблокируйте более 80 эксклюзивных преимуществ, доступных только в WPS Premium</translation>
     </message>
 </context>
 <context>
@@ -1749,6 +1974,10 @@ Easy mobile office.</source>
         <translation>Не удалось выполнить действие &quot;Получить данные пользователей&quot;</translation>
     </message>
     <message>
+        <source>request failed, please retry later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select user failed</source>
         <translation>Не удалось выполнить действие &quot;Выбрать пользователя&quot;</translation>
     </message>
@@ -1851,6 +2080,84 @@ Easy mobile office.</source>
     <message>
         <source>Welcome to use WPS Office</source>
         <translation>Добро пожаловать в WPS Office</translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkDnsErrDlg</name>
+    <message>
+        <source>Page load timeout,check you network and retry</source>
+        <translation>Истекло время ожидания загрузки страницы. Проверьте сетевое подключение и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>Service timeout</source>
+        <translation>Время ожидания службы истекло.</translation>
+    </message>
+    <message>
+        <source>Diagnosing tool</source>
+        <translation>Диагностировать проблемы в сети</translation>
+    </message>
+    <message>
+        <source> or refer to the </source>
+        <translation> или прочитайте </translation>
+    </message>
+    <message>
+        <source>Network error,check you network and retry</source>
+        <translation>Ошибка сети. Проверьте сетевое подключение и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
+        <translation>Истекло время ожидания запроса. Чтобы повторить попытку, нажмите кнопку обновления, прежде чем проверить настройки DNS.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>An error occurred,check you network and retry</source>
+        <translation>Произошла ошибка. Проверьте сетевое подключение и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
+        <translation>Время ожидания запроса истекло. Нажмите кнопку «Обновить» и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Обновить</translation>
+    </message>
+    <message>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation>Ошибка синхронизации сведений для входа. Проверьте сетевое подключение и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation>Ошибка доступа к серверу учетной записи WPS. Проверьте сетевое подключение и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>DNS Settings document</source>
+        <translation>инструкцию по настройке DNS</translation>
+    </message>
+    <message>
+        <source>Page load failed,check you network and retry</source>
+        <translation>Ошибка загрузки страницы. Проверьте сетевое подключение и повторите попытку.</translation>
+    </message>
+</context>
+<context>
+    <name>KFeedbackPopupWidget</name>
+    <message>
+        <source>Forgot the password</source>
+        <translation>Не помню пароль</translation>
+    </message>
+    <message>
+        <source>Sign-in failed</source>
+        <translation>Не удалось войти</translation>
+    </message>
+    <message>
+        <source>Other questions or feedback</source>
+        <translation>Другие проблемы или рекомендации</translation>
+    </message>
+    <message>
+        <source>Select your question type:</source>
+        <translation>Выберите тип вопроса.</translation>
     </message>
 </context>
 <context>
