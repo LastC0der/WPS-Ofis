@@ -10220,11 +10220,11 @@ have libgstreamer-plugins-base installed.</source>
     <name>KAboutDlg</name>
     <message>
         <source>&lt;a href=&quot;qinghome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Office Cloud&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;qinghome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Ofis Bulut&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;qinghome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Ofis  Bulut&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;wpshome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Office  Online&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;wpshome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Ofis  Çevrimiçi&lt;/a&gt;</translation>
     </message>
     <message>
         <source>1.0.0.0</source>
