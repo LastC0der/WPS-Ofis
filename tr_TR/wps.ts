@@ -21588,7 +21588,7 @@ Click to follow this link</source>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>Insert DocumentField</source>
