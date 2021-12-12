@@ -10791,7 +10791,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>next</source>
-        <translation type="unfinished"/>
+        <translation>sonraki</translation>
     </message>
     <message>
         <source>Please enter department name</source>
@@ -14961,7 +14961,7 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KMacPdfPrintDiag</name>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
 </context>
 <context>
