@@ -6068,11 +6068,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Add Footer</source>
-        <translation>Alt Bilgi Ekle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Header</source>
-        <translation>Üst Bilgi Ekle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comment:</source>
