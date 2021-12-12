@@ -22123,7 +22123,7 @@ Comment</source>
     <name>KxWppVpPodium</name>
     <message>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki</translation>
     </message>
     <message>
         <source>more</source>
@@ -25663,7 +25663,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
     <message>
         <source>Print hidden slides</source>
