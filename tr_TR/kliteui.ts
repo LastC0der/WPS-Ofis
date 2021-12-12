@@ -682,7 +682,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan</translation>
     </message>
     <message>
         <source>Computer</source>
