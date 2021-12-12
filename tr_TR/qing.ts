@@ -6944,7 +6944,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Documents are automatically synchronized when opened, and you can access them on your mobile phone or other computer devices.</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler açıldığında otomatik olarak senkronize edilir ve bunlara cep telefonunuzdan veya diğer bilgisayar cihazlarınızdan erişebilirsiniz.</translation>
     </message>
     <message>
         <source>QQ/TIM received files</source>
@@ -11103,7 +11103,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Documents are automatically synchronized when opened, and you can access them on your mobile phone or other computer devices.</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler açıldığında otomatik olarak senkronize edilir ve bunlara cep telefonunuzdan veya diğer bilgisayar cihazlarınızdan erişebilirsiniz.</translation>
     </message>
 </context>
 <context>
