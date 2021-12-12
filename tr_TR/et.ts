@@ -54893,7 +54893,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Bugün</translation>
     </message>
     <message>
         <source>Value</source>
