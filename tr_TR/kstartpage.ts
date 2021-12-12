@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>Date: %1 - %2</source>
-        <translation type="unfinished"/>
+        <translation>Tarih: %1 - %2</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -222,81 +222,81 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>A file with the same name already exists in this location, please rename again</source>
-        <translation type="unfinished"/>
+        <translation>Ad bu konumda zaten var, lütfen yeniden adlandırın</translation>
     </message>
     <message>
         <source>Filename cannot be empty</source>
-        <translation type="unfinished"/>
+        <translation>Dosya adı boş olamaz</translation>
     </message>
     <message>
         <source>Modify File&apos;s Suffix</source>
-        <translation type="unfinished"/>
+        <translation>Dosyanın Son Ekini Değiştir</translation>
     </message>
     <message>
         <source>Filename&apos;s length is too long</source>
-        <translation type="unfinished"/>
+        <translation>Dosya adı çok uzun</translation>
     </message>
     <message>
         <source>filename cannot be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya adı boş olamaz.</translation>
     </message>
 </context>
 <context>
     <name>KTeamEnterpriseMemberDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Failed to add members</source>
-        <translation type="unfinished"/>
+        <translation>Üye eklenemedi</translation>
     </message>
     <message>
         <source>The other %1 users can not be added</source>
-        <translation type="unfinished"/>
+        <translation>Bu ekibe %1 kullanıcı daha eklenemez.</translation>
     </message>
     <message>
         <source>Please retry or cancel</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden deneyin veya iptal edin</translation>
     </message>
     <message>
         <source>%1 members added</source>
-        <translation type="unfinished"/>
+        <translation>%1 üye eklendi.</translation>
     </message>
 </context>
 <context>
     <name>KAbstractFileModeDelegate</name>
     <message>
         <source>PC</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayar</translation>
     </message>
     <message>
         <source>fix</source>
-        <translation type="unfinished"/>
+        <translation>Düzelt</translation>
     </message>
     <message>
         <source>edit</source>
-        <translation type="unfinished"/>
+        <translation>düzen</translation>
     </message>
     <message>
         <source>fold</source>
-        <translation type="unfinished"/>
+        <translation>Katla</translation>
     </message>
     <message>
         <source>read</source>
-        <translation type="unfinished"/>
+        <translation>oku</translation>
     </message>
     <message>
         <source>Mobile iOS</source>
-        <translation type="unfinished"/>
+        <translation>İOS Mobil Cihaz</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>on PC</source>
@@ -316,7 +316,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Share Folder</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Upload To</source>
@@ -376,7 +376,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>share folder with someone</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>browser</source>
@@ -396,7 +396,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>share with someone</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>tagstar</source>
@@ -1099,7 +1099,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Shares</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -1115,7 +1115,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Share Items</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>All Share Items</source>
@@ -1356,7 +1356,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>share folder...</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Delete team</source>
@@ -1788,7 +1788,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ShareItems</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>company viewonly</source>
@@ -1945,7 +1945,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>history version</source>
@@ -2453,7 +2453,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Create Team</source>
@@ -2496,7 +2496,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KStartPageHomeFileTab</name>
     <message>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Recent</source>
@@ -2515,11 +2515,11 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KContentModelTeamLogic</name>
     <message>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Bugün</translation>
     </message>
     <message>
         <source>Date: %1 - %2</source>
-        <translation type="unfinished"/>
+        <translation>Tarih: %1 - %2</translation>
     </message>
     <message>
         <source>renamed team as %1</source>
@@ -2938,11 +2938,11 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KFileItemOperationInfoWidget</name>
     <message>
         <source>share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>share folder</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Download all</source>
@@ -3001,7 +3001,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KFileListRecentContentModel</name>
     <message>
         <source>today</source>
-        <translation type="unfinished"/>
+        <translation>Bugün</translation>
     </message>
     <message>
         <source>Recent List</source>
@@ -4277,7 +4277,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ShareItems</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>ShareFromMe</source>
