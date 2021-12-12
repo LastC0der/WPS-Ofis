@@ -4508,7 +4508,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>No</source>
-        <translation>Hayır</translation>
+        <translation>Yok</translation>
     </message>
     <message>
         <source>10%</source>
@@ -13091,7 +13091,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>kso_dguil</name>
     <message>
         <source>No</source>
-        <translation>Hayır</translation>
+        <translation>Yok</translation>
     </message>
     <message>
         <source>pt</source>
@@ -26879,7 +26879,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>nothing</source>
-        <translation type="unfinished"/>
+        <translation>Yok</translation>
     </message>
     <message>
         <source>Status</source>
@@ -28186,7 +28186,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxDlgCurUserPermission</name>
     <message>
         <source>none</source>
-        <translation>yok</translation>
+        <translation>Yok</translation>
     </message>
     <message>
         <source>Privilege information</source>
@@ -28443,7 +28443,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>NoProtect</source>
-        <translation type="unfinished"/>
+        <translation>Yok</translation>
     </message>
     <message>
         <source>description</source>
@@ -37567,7 +37567,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Web/Screen</source>
-        <translation type="unfinished"/>
+        <translation>W&amp;eb/Ekran</translation>
     </message>
     <message>
         <source>&amp;Compress pictures</source>
