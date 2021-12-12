@@ -1465,11 +1465,11 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>failed to get members</source>
-        <translation type="unfinished"/>
+        <translation>üye alınamadı</translation>
     </message>
     <message>
         <source>failed to add members</source>
-        <translation type="unfinished"/>
+        <translation>üye eklenemedi</translation>
     </message>
     <message>
         <source>Upload failed. please try again later.</source>
