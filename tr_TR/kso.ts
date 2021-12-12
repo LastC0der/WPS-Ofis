@@ -33686,11 +33686,11 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"/>
+        <translation>İndirilenler</translation>
     </message>
 </context>
 <context>
