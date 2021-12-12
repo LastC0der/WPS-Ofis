@@ -1415,19 +1415,19 @@ This file may have been renamed, deleted or moved.</source>
     <name>KEntry</name>
     <message>
         <source>Apps</source>
-        <translation type="unfinished"/>
+        <translation>Uygulamalar</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Giriş</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"/>
+        <translation>Yeni</translation>
     </message>
     <message>
         <source>company manage</source>
