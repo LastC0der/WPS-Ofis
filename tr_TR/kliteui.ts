@@ -212,7 +212,7 @@
     </message>
     <message>
         <source> Upgrade </source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
     <message>
         <source>Upgrade</source>
@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>Null</source>
-        <translation type="unfinished"/>
+        <translation>Yok</translation>
     </message>
     <message>
         <source>Cancel</source>
