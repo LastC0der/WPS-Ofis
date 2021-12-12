@@ -2400,7 +2400,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Open </source>
-        <translation>Aç</translation>
+        <translation>Aç </translation>
     </message>
     <message>
         <source>Write: %1</source>
