@@ -6807,7 +6807,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;1 None</source>
-        <translation type="unfinished"/>
+        <translation>1 Yo&amp;k</translation>
     </message>
     <message>
         <source>&amp;3 ----</source>
@@ -35704,7 +35704,7 @@ Hayır:	Şablona kaydetme;
     <name>KxTpLocalFileSearchWidget</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Yok</translation>
     </message>
     <message>
         <source>File Size(Low)</source>
@@ -46071,7 +46071,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>PTabNone</source>
-        <translation type="unfinished"/>
+        <translation>1 Yo&amp;k</translation>
     </message>
     <message>
         <source>PTabAlignment</source>
