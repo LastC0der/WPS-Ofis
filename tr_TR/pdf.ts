@@ -10404,7 +10404,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Please rename with a shorter one</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen adı daha kısa bir adla değiştirin</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -12161,7 +12161,7 @@ Pencere</translation>
     </message>
     <message>
         <source>MODIFY</source>
-        <translation type="unfinished"/>
+        <translation>DEĞİŞTİR</translation>
     </message>
     <message>
         <source>The current document is encrypted</source>
