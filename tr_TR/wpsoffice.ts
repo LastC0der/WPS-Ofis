@@ -3243,7 +3243,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
 </context>
 <context>
@@ -3266,7 +3266,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
     <message>
         <source>Spreadsheet</source>
