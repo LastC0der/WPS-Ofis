@@ -19626,7 +19626,7 @@ Painter</source>
     </message>
     <message>
         <source>Special Apps</source>
-        <translation type="unfinished"/>
+        <translation>Özel özellikler</translation>
     </message>
     <message>
         <source>Track
@@ -46419,7 +46419,7 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
     <name>KMacWpsPrintDiag</name>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
 </context>
 <context>
