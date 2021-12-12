@@ -2052,15 +2052,15 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Extracting text</source>
-        <translation type="unfinished"/>
+        <translation>Metin ayıkla</translation>
     </message>
     <message>
         <source>Document Repair</source>
-        <translation type="unfinished"/>
+        <translation>Belge Onarımı</translation>
     </message>
     <message>
         <source>Text boxes cannot be merged</source>
-        <translation type="unfinished"/>
+        <translation>Metin kutuları birleştirilemez.</translation>
     </message>
     <message>
         <source>Encryption will take effect after the document is saved</source>
@@ -2074,11 +2074,11 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>%1year%2mon%3day</source>
-        <translation type="unfinished"/>
+        <translation>%1yıl%2ay%3gün</translation>
     </message>
     <message>
         <source>The current document need to be saved before merge.</source>
-        <translation type="unfinished"/>
+        <translation>Birleştirilmeden önce geçerli belgenin kaydedilmesi gerekir.</translation>
     </message>
     <message>
         <source>WPPFile(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx</source>
@@ -2087,15 +2087,15 @@ The operation is irrevocable</source>
     <message>
         <source>Complete Segment</source>
         <comment>PdfSegmentPageComplete</comment>
-        <translation type="unfinished"/>
+        <translation>Segmenti Tamamla</translation>
     </message>
     <message>
         <source>The document has been modified since it was signed.</source>
-        <translation type="unfinished"/>
+        <translation>Belge, imzalandığından beri değiştirilmiştir.</translation>
     </message>
     <message>
         <source>This file may contain or harm you change the machine program, if allowed to run?</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosya bilgisayarınızdaki dosyaları değiştirebilir veya bozabilir. Çalıştırmasına izin verilsin mi?</translation>
     </message>
     <message>
         <source>The contents of the current editor have not been saved, and the deletion of the page will result in the loss of the edited content.</source>
@@ -2198,7 +2198,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Cancel(N)</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Input error</source>
