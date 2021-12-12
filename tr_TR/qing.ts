@@ -856,11 +856,12 @@ Please choose a different file name.</source>
     <message>
         <source>This may cause the file to be inaccessable.
 Are you sure to modify?</source>
-        <translation type="unfinished"/>
+        <translation>Bu, dosyanın erişilemez olmasına neden olabilir.
+Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>filename cannot contains characters:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya adı karakter içeremez:</translation>
     </message>
     <message>
         <source>Duplicate Filenames</source>
@@ -876,7 +877,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Please rename with a shorter one</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen adı daha kısa bir adla değiştirin</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -884,7 +885,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>A file with the same name already exists in this location, please rename again</source>
@@ -2702,11 +2703,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü</translation>
     </message>
     <message>
         <source>Cancel sync</source>
@@ -3607,7 +3608,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü</translation>
     </message>
     <message>
         <source>My Desktop</source>
@@ -9649,7 +9650,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
 </context>
 <context>
@@ -11526,7 +11527,7 @@ Time for upgrade: %1</source>
     <name>KSyncFolderObj</name>
     <message>
         <source>desktop</source>
-        <translation type="unfinished"/>
+        <translation>masaüstü</translation>
     </message>
 </context>
 <context>
