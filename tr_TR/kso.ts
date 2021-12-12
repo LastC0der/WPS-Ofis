@@ -2681,7 +2681,7 @@ Download the XML expansion pack?</source>
     </message>
     <message>
         <source>Initializing the printer...</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcı başlatılıyor...</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -2766,7 +2766,7 @@ Download the XML expansion pack?</source>
     </message>
     <message>
         <source>This document has attached a XML expansion. If You wanna view this document in multiple windows, you must delete the XML expansion first.</source>
-        <translation type="unfinished"/>
+        <translation>Bu belgeye bir XML genişletmesi eklenmiştir. Bu belgeyi birden çok pencerede görüntülemek istiyorsanız, önce XML genişletmesini silmelisiniz.</translation>
     </message>
     <message>
         <source>Curve Down</source>
@@ -11919,7 +11919,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Cyan Green</source>
-        <translation type="unfinished"/>
+        <translation>Camgöbeği Yeşili</translation>
     </message>
     <message>
         <source>Green</source>
@@ -11931,7 +11931,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Bugün</translation>
     </message>
     <message>
         <source>White</source>
@@ -40316,7 +40316,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Initializing the printer...</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcı başlatılıyor...</translation>
     </message>
 </context>
 <context>
