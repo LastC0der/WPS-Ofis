@@ -545,7 +545,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
     <message>
         <source>Please check if there is another removing operation and wait or close it.</source>
@@ -760,7 +760,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sunu</translation>
     </message>
     <message>
         <source>Upload to Cloud</source>
@@ -800,7 +800,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
     <message>
         <source>Text Files</source>
@@ -892,7 +892,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
     <message>
         <source>XML Files</source>
@@ -943,7 +943,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan</translation>
     </message>
     <message>
         <source>Failed Adding</source>
@@ -1012,15 +1012,15 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Sunu</translation>
     </message>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
     <message>
         <source>Spreadsheet</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
     <message>
         <source>Create Team</source>
@@ -1067,11 +1067,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Recent Visit</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan</translation>
     </message>
     <message>
         <source>Star Items</source>
-        <translation type="unfinished"/>
+        <translation>Yıldızlı</translation>
     </message>
     <message>
         <source>Cloud Company</source>
@@ -1236,7 +1236,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>batch export</source>
@@ -1477,11 +1477,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki</translation>
     </message>
     <message>
         <source>Follow the steps to discover WPS Office!</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i keşfetmek için bu adımları izleyin!</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -1664,22 +1664,22 @@ This file may have been renamed, deleted or moved.</source>
     <name>KNewUserGuideFrame</name>
     <message>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>Follow the steps to discover WPS Office!</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i keşfetmek için bu adımları izleyin!</translation>
     </message>
 </context>
 <context>
     <name>KWeatherCollapseWidget</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
 </context>
 <context>
@@ -1941,7 +1941,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KTeamMsgListMenu</name>
     <message>
         <source>open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>share</source>
@@ -2236,7 +2236,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
     <message>
         <source>System</source>
@@ -2500,15 +2500,15 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan</translation>
     </message>
     <message>
         <source>Starred</source>
-        <translation type="unfinished"/>
+        <translation>Yıldızlı</translation>
     </message>
     <message>
         <source>Received Files</source>
-        <translation type="unfinished"/>
+        <translation>Alınan Dosyalar</translation>
     </message>
 </context>
 <context>
@@ -3451,7 +3451,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>document</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
     <message>
         <source>history version</source>
@@ -3666,7 +3666,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KInstantAppMore</name>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"/>
+        <translation>Şablonlar</translation>
     </message>
 </context>
 <context>
@@ -4378,11 +4378,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>KNewUserGuideStep_Open</name>
     <message>
         <source>Open your documents</source>
-        <translation type="unfinished"/>
+        <translation>Belgelerinizi açın</translation>
     </message>
     <message>
         <source>The free version of WPS Office has high compatibility with Microsoft Office, Google Docs, Adobe PDF, etc. Open your documents and explore it!</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;in ücretsiz sürümü Microsoft Ofis, Google Dokümanlar, Adobe PDF vb. ile oldukça uyumludur. Denemek için belgelerinizi açın!</translation>
     </message>
 </context>
 <context>
