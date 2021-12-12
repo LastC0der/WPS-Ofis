@@ -50208,7 +50208,7 @@ Item Labels</source>
     </message>
     <message>
         <source>None(&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>Yok</translation>
     </message>
     <message>
         <source>Disable date recognition(&amp;D)</source>
@@ -50232,7 +50232,7 @@ Item Labels</source>
     </message>
     <message>
         <source>无(&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>Yok</translation>
     </message>
     <message>
         <source>Web 查询选项</source>
