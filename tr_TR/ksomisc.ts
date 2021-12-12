@@ -1993,7 +1993,7 @@ Her şemanın düğme simgesi, komut grubu ve görev penceresi konumu farklıdı
     <name>KCustomDestList</name>
     <message>
         <source>Recent</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan</translation>
     </message>
 </context>
 <context>
@@ -2070,7 +2070,7 @@ Notice that doing so exposes you to risks of virus infection and hacking.</sourc
     </message>
     <message>
         <source>Received Files</source>
-        <translation type="unfinished"/>
+        <translation>Alınan Dosyalar</translation>
     </message>
     <message>
         <source>New document tips</source>
