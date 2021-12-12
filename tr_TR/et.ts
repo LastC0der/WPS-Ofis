@@ -44686,7 +44686,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
