@@ -53457,14 +53457,14 @@ Please unfreeze pane.</source>
     <name>KxStyleModifyLegacyTriggerCommand</name>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
 </context>
 <context>
     <name>KxTableStyleModifyTriggerCommand</name>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
 </context>
 <context>
@@ -53478,7 +53478,7 @@ Please unfreeze pane.</source>
     <name>KxCFRulesManagerDlg</name>
     <message>
         <source>This Table</source>
-        <translation type="unfinished"/>
+        <translation>Bu Tablo</translation>
     </message>
     <message>
         <source>This Worksheet</source>
