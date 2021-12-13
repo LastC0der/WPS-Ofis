@@ -10855,11 +10855,11 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>company:</source>
-        <translation type="unfinished"/>
+        <translation>Şirket Adı:</translation>
     </message>
     <message>
         <source>pwd again:</source>
-        <translation type="unfinished"/>
+        <translation>Parolayı Onayla:</translation>
     </message>
     <message>
         <source>Invalid save path, Please adjust it.</source>
@@ -10871,7 +10871,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>email:</source>
-        <translation type="unfinished"/>
+        <translation>E-posta:</translation>
     </message>
     <message>
         <source>country:</source>
@@ -10895,7 +10895,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>ca pwd:</source>
-        <translation type="unfinished"/>
+        <translation>Parola Ayarları:</translation>
     </message>
     <message>
         <source>department:</source>
