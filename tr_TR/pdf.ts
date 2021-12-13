@@ -8349,7 +8349,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfOcrTxtDisplayDlg</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>ReportErrorFile</source>
