@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Documents browser:</source>
-        <translation type="unfinished"/>
+        <translation>Belge tarayıcısı:</translation>
     </message>
     <message>
         <source>File Locations</source>
@@ -4382,7 +4382,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>MyCenter</source>
@@ -4433,7 +4433,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Split or Merge Documents</source>
-        <translation type="unfinished"/>
+        <translation>Belgeleri Böl veya Birleştir</translation>
     </message>
     <message>
         <source>Invalid URI: %1</source>
