@@ -7099,7 +7099,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;e hoş geldiniz</translation>
     </message>
     <message>
         <source>Start your free %1-day trial.</source>
@@ -7146,7 +7146,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;e hoş geldiniz</translation>
     </message>
 </context>
 <context>
@@ -8245,7 +8245,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;e hoş geldiniz</translation>
     </message>
 </context>
 <context>
