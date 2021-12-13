@@ -12125,7 +12125,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Split or Merge Documents</source>
-        <translation type="unfinished"/>
+        <translation>Belgeleri Böl veya Birleştir</translation>
     </message>
     <message>
         <source>Invalid URI: %1</source>
@@ -33678,7 +33678,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Documents%1</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler%1</translation>
     </message>
     <message>
         <source>Wechat File</source>
