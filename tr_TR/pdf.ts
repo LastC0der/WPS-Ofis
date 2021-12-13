@@ -12792,7 +12792,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Collapse All Catalog</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Kataloğu Daralt</translation>
     </message>
     <message>
         <source>Outline Search</source>
@@ -12816,7 +12816,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Collapse All Outlline</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Anahattı Daralt</translation>
     </message>
     <message>
         <source>Catalogue Search</source>
@@ -16182,7 +16182,7 @@ For example, 1,3,5-12.</source>
     <name>KxPdfPostMatchBtn</name>
     <message>
         <source>Resume Delivery</source>
-        <translation type="unfinished"/>
+        <translation>Teslimatı Sürdür</translation>
     </message>
 </context>
 <context>
