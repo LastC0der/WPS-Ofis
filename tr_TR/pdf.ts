@@ -7799,7 +7799,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"/>
+        <translation>Son Belgeler</translation>
     </message>
     <message>
         <source>DeletePageNumber</source>
