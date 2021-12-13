@@ -47274,7 +47274,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Do not ask me again about converting documents.</source>
-        <translation type="unfinished"/>
+        <translation>Belgeleri dönüştürmek için bana bir daha sorma.</translation>
     </message>
     <message>
         <source>Your document will be upgraded to newest file format.
