@@ -27721,15 +27721,15 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"/>
+        <translation>E-posta:</translation>
     </message>
     <message>
         <source>Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Telefon:</translation>
     </message>
     <message>
         <source>Company:</source>
-        <translation type="unfinished"/>
+        <translation>Şirket:</translation>
     </message>
 </context>
 <context>
@@ -32604,11 +32604,11 @@ Document</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"/>
+        <translation>E-posta:</translation>
     </message>
     <message>
         <source>Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Telefon:</translation>
     </message>
     <message>
         <source>Search</source>
@@ -32620,7 +32620,7 @@ Document</source>
     </message>
     <message>
         <source>Company:</source>
-        <translation type="unfinished"/>
+        <translation>Şirket:</translation>
     </message>
     <message>
         <source>Enterprise Recievers List</source>
@@ -33075,7 +33075,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;e hoş geldiniz</translation>
     </message>
     <message>
         <source>Start your free %1-day trial.</source>
@@ -33122,7 +33122,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;e hoş geldiniz</translation>
     </message>
 </context>
 <context>
@@ -33482,7 +33482,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Phone:</source>
-        <translation type="unfinished"/>
+        <translation>Telefon:</translation>
     </message>
     <message>
         <source>Steps to reproduce the problem:</source>
@@ -35429,7 +35429,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;e hoş geldiniz</translation>
     </message>
 </context>
 <context>
