@@ -1091,11 +1091,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Google</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>FaceBook</source>
-        <translation type="unfinished"/>
+        <translation>Facebook</translation>
     </message>
     <message>
         <source>It is trying to sign in with </source>
@@ -1493,7 +1493,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Files repair</source>
-        <translation type="unfinished"/>
+        <translation>Dosya onarımı</translation>
     </message>
     <message>
         <source>Start Your Free Trial</source>
