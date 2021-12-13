@@ -19991,7 +19991,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Collapse Contents Entry</source>
-        <translation type="unfinished"/>
+        <translation>İçeriği Daralt</translation>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -20003,7 +20003,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Collapse Section Entry</source>
-        <translation type="unfinished"/>
+        <translation>Bölümü Daralt</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -46271,7 +46271,7 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
     </message>
     <message>
         <source>&amp;collapseAll</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Daralt (&amp;C)</translation>
     </message>
     <message>
         <source>date already deleted!</source>
