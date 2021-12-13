@@ -12036,7 +12036,8 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <message>
         <source>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
 (The system uses WPS Office as the default one to open %1 files)</source>
-        <translation type="unfinished"/>
+        <translation>Sistem kayıt defterinizde bazı nesnelerin kullanımını devre dışı bırakacak hatalar var. Tamir etmek istiyor musunuz?
+(Sistem, %1 dosyalarını açmak için varsayılan olarak WPS Ofis&apos;i kullanıyor)</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -33644,7 +33645,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Unknown Error</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen hata</translation>
     </message>
 </context>
 <context>
@@ -33697,7 +33698,7 @@ Please check your system settings and ensure that the temporary directory under 
     <name>KxDlgRibbonControlRename</name>
     <message>
         <source>Display name:</source>
-        <translation type="unfinished"/>
+        <translation>Ekran adı:</translation>
     </message>
     <message>
         <source>Rename</source>
