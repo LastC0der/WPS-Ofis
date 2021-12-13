@@ -2053,15 +2053,15 @@ This file may have been renamed, deleted or moved.</source>
     <name>NotSearchResultWidget</name>
     <message>
         <source>Baidu</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>Docer search</source>
-        <translation type="unfinished"/>
+        <translation>Şablon ara</translation>
     </message>
     <message>
         <source>Google</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>find icons/pictures/fonts and so on ...</source>
@@ -2649,7 +2649,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Document Fix</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Onarımı</translation>
     </message>
     <message>
         <source>%1Month %2Day %3</source>
@@ -3005,11 +3005,11 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Recent List</source>
-        <translation type="unfinished"/>
+        <translation>Son Liste</translation>
     </message>
     <message>
         <source>more early</source>
-        <translation type="unfinished"/>
+        <translation>Daha önce</translation>
     </message>
     <message>
         <source>yesterday</source>
@@ -3017,7 +3017,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>within 7 days</source>
-        <translation type="unfinished"/>
+        <translation>7 gün içinde</translation>
     </message>
 </context>
 <context>
@@ -3436,11 +3436,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>SearchTipsWidget</name>
     <message>
         <source>Docer search</source>
-        <translation type="unfinished"/>
+        <translation>Şablon ara</translation>
     </message>
     <message>
         <source>Search Again</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden ara</translation>
     </message>
 </context>
 <context>
@@ -3722,7 +3722,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"/>
+        <translation>Daralt</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -3871,7 +3871,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KStartPageLineEditWidget</name>
     <message>
         <source>Search for documents, templates ...</source>
-        <translation type="unfinished"/>
+        <translation>Belge ara</translation>
     </message>
     <message>
         <source>We need some time to prepare</source>
@@ -4006,7 +4006,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KComponentCollapseBtn</name>
     <message>
         <source>collapse</source>
-        <translation type="unfinished"/>
+        <translation>Daralt</translation>
     </message>
     <message>
         <source>extend</source>
@@ -4017,7 +4017,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KWeatherNormalTitleWidget</name>
     <message>
         <source>Collapse</source>
-        <translation type="unfinished"/>
+        <translation>Daralt</translation>
     </message>
     <message>
         <source>Switch Page</source>
@@ -4502,14 +4502,14 @@ This file may have been renamed, deleted or moved.</source>
     <name>NotCloudSearchResultWidget3</name>
     <message>
         <source>Search Again</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Ara</translation>
     </message>
 </context>
 <context>
     <name>SearchServerErrorWidget</name>
     <message>
         <source>The cloud document server is abnormal and can not search for cloud documents.</source>
-        <translation type="unfinished"/>
+        <translation>Sunucu hatası, arama yapılamıyor.</translation>
     </message>
 </context>
 </TS>
