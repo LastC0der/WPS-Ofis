@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Devam Et</translation>
     </message>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</source>
@@ -360,7 +360,7 @@
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Devam Et</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The Purchase failed.</source>
@@ -508,11 +508,11 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasör</translation>
     </message>
     <message>
         <source>Google</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>The company&apos;s files can only be saved to that company</source>
@@ -863,7 +863,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Resume now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi devam et</translation>
     </message>
     <message>
         <source>Terms of service</source>
