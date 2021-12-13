@@ -7598,7 +7598,7 @@ Gövde: Yakınlaştır</translation>
     </message>
     <message>
         <source>Notes Page</source>
-        <translation type="unfinished"/>
+        <translation>Not Sayfası</translation>
     </message>
     <message>
         <source>business cooperate</source>
@@ -13562,7 +13562,7 @@ Template</source>
     </message>
     <message>
         <source>Notes Page</source>
-        <translation type="unfinished"/>
+        <translation>Not Sayfası</translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -22002,7 +22002,7 @@ Sorter</source>
     </message>
     <message>
         <source>Notes Page</source>
-        <translation type="unfinished"/>
+        <translation>Not Sayfası</translation>
     </message>
     <message>
         <source>I don&apos;t like the Student Tools, because...</source>
@@ -22023,7 +22023,8 @@ Sorter</source>
     <message>
         <source>New 
 Comment</source>
-        <translation type="unfinished"/>
+        <translation>Yeni 
+Açıklama</translation>
     </message>
     <message>
         <source>Handout Master</source>
@@ -22761,7 +22762,7 @@ Sorter</source>
     </message>
     <message>
         <source>Notes Page</source>
-        <translation type="unfinished"/>
+        <translation>Not Sayfası</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -24576,7 +24577,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\Desktop.ini name.</source>
-        <translation type="unfinished"/>
+        <translation>Ofis Alanı</translation>
     </message>
 </context>
 <context>
