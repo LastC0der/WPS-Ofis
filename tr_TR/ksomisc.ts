@@ -1897,15 +1897,15 @@ Her şemanın düğme simgesi, komut grubu ve görev penceresi konumu farklıdı
     <name>KPageRepair</name>
     <message>
         <source>Please backup files you are working on properly and close all WPS Office applications, then click the Repair Install below to reinstall.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen üzerinde çalıştığınız dosyaları düzgün bir şekilde yedekleyin ve tüm WPS Office uygulamalarını kapatın, ardından yeniden yüklemek için aşağıdaki Kurulumu Onar&apos;a tıklayın.</translation>
     </message>
     <message>
         <source>&amp;Repair Install</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kurulumu Onar</translation>
     </message>
     <message>
         <source>Repair Install</source>
-        <translation type="unfinished"/>
+        <translation>Kurulumu Onar</translation>
     </message>
     <message>
         <source>If repair fails, and the errors still exist after you have tried the repair operations above, you may need to repair currently damaged system files.</source>
@@ -1917,7 +1917,7 @@ Her şemanın düğme simgesi, komut grubu ve görev penceresi konumu farklıdı
     </message>
     <message>
         <source>Note: After clicking the button above, the message will be closed automatically. If you have other requirements, please reopen the tab after the Repair Installation is completed.</source>
-        <translation type="unfinished"/>
+        <translation>Not: Yukarıdaki butona tıkladıktan sonra mesaj otomatik olarak kapatılacaktır. Başka gereksinimleriniz varsa, lütfen Kurulum Onarımı tamamlandıktan sonra sekmeyi yeniden açın.</translation>
     </message>
 </context>
 <context>
