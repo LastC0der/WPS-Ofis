@@ -344,7 +344,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>options</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>%1 hour ago</source>
@@ -927,7 +927,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Documents</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler</translation>
     </message>
     <message>
         <source>My PC</source>
@@ -1232,7 +1232,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>open</source>
@@ -1447,7 +1447,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler</translation>
     </message>
 </context>
 <context>
@@ -1575,7 +1575,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Product Key</source>
-        <translation type="unfinished"/>
+        <translation>Ürün Anahtarı</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -1616,14 +1616,14 @@ This file may have been renamed, deleted or moved.</source>
     <name>KAppCenterEntryWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
     <name>KCloudLoginWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Cloud data backup</source>
@@ -1635,7 +1635,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>login with wps account</source>
@@ -1650,14 +1650,14 @@ This file may have been renamed, deleted or moved.</source>
     <name>KCreationAreaMoreApp</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
     <name>KcloudLoginMoreWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
@@ -1724,7 +1724,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>invited</source>
@@ -3220,7 +3220,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>More Documents</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Belgeler</translation>
     </message>
 </context>
 <context>
@@ -3711,7 +3711,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
 </context>
 <context>
