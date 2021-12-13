@@ -8430,7 +8430,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The number of templates reaches the upper limit</source>
-        <translation type="unfinished"/>
+        <translation>Şablon sayısı üst sınıra ulaştı</translation>
     </message>
 </context>
 <context>
@@ -8445,7 +8445,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Are you sure to delete page number template?</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa numarası şablonunu silmek istediğinizden emin misiniz?</translation>
     </message>
 </context>
 <context>
@@ -8467,19 +8467,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"/>
+        <translation>Sayım</translation>
     </message>
     <message>
         <source>Tab 1</source>
-        <translation type="unfinished"/>
+        <translation>Sekme 1</translation>
     </message>
     <message>
         <source>Tab 2</source>
-        <translation type="unfinished"/>
+        <translation>Sekme 2</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"/>
+        <translation>Toplam</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11116,7 +11116,7 @@ if you want to replace selected result, please click the replace button</source>
     </message>
     <message>
         <source>Tab 2</source>
-        <translation type="unfinished"/>
+        <translation>Sekme 2</translation>
     </message>
     <message>
         <source>Automatically use su&amp;ggestions from the spelling checker</source>
@@ -33075,11 +33075,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Tab 1</source>
-        <translation type="unfinished"/>
+        <translation>Sekme 1</translation>
     </message>
     <message>
         <source>Tab 2</source>
-        <translation type="unfinished"/>
+        <translation>Sekme 2</translation>
     </message>
     <message>
         <source>Update Time:</source>
