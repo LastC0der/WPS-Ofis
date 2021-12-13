@@ -4148,7 +4148,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Files repair</source>
-        <translation type="unfinished"/>
+        <translation>Dosya onarımı</translation>
     </message>
     <message>
         <source>Insert page number in PDF</source>
@@ -4248,7 +4248,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Files Repair</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Onarımı</translation>
     </message>
     <message>
         <source>Unlimited PDF to Word/Excel/PPT</source>
