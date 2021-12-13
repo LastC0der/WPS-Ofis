@@ -1977,7 +1977,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen hata</translation>
     </message>
     <message>
         <source>Copy file succeed</source>
@@ -2097,7 +2097,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Diski</translation>
     </message>
     <message>
         <source>failed to destroy recycle files</source>
@@ -2723,7 +2723,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Diski</translation>
     </message>
 </context>
 <context>
@@ -3624,7 +3624,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Wps Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Wps Bulut Diski</translation>
     </message>
     <message>
         <source>Backup Center</source>
@@ -7661,7 +7661,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Diski</translation>
     </message>
 </context>
 <context>
@@ -7772,7 +7772,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Diski</translation>
     </message>
     <message>
         <source>After cleaning up, you need to download again when you use these files again.</source>
@@ -10686,7 +10686,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Diski</translation>
     </message>
 </context>
 <context>
@@ -11634,21 +11634,21 @@ Time for upgrade: %1</source>
     <name>KRecommendPaneWidget</name>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Diski</translation>
     </message>
 </context>
 <context>
     <name>KCloudDiskPopupMgr</name>
     <message>
         <source>WPS cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Diski</translation>
     </message>
 </context>
 <context>
     <name>KPopupWidgetBase</name>
     <message>
         <source>WPS cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Diski</translation>
     </message>
 </context>
 <context>
