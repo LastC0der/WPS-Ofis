@@ -1547,7 +1547,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>About WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Hakkında</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
