@@ -3572,7 +3572,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>Share With Me</source>
@@ -7984,7 +7984,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>The synchronization folder limit has been exceeded</source>
@@ -10087,7 +10087,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>My cloud documents</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Belgelerim</translation>
     </message>
     <message>
         <source>Upload to the cloud</source>
@@ -10321,7 +10321,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>Batch download is VIP privilege, please upgrade to VIP.</source>
