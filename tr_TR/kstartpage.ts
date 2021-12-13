@@ -300,19 +300,19 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>on PC</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayarda</translation>
     </message>
     <message>
         <source>unfix</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltmeyi kaldır</translation>
     </message>
     <message>
         <source>Local file and cloud backup have modify</source>
-        <translation type="unfinished"/>
+        <translation>Yerel ve Bulut dosyası değiştirdi</translation>
     </message>
     <message>
         <source>on the mobile</source>
-        <translation type="unfinished"/>
+        <translation>telefonda</translation>
     </message>
     <message>
         <source>Share Folder</source>
@@ -320,11 +320,11 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Upload To</source>
-        <translation type="unfinished"/>
+        <translation>Şuraya yükle:</translation>
     </message>
     <message>
         <source>start collaboration</source>
-        <translation type="unfinished"/>
+        <translation>işbirliğine başla</translation>
     </message>
     <message>
         <source>Mobile Android</source>
@@ -332,11 +332,11 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>%1 minute ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 dakika önce</translation>
     </message>
     <message>
         <source>Cloud Files</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
     <message>
         <source>file Not Found</source>
@@ -517,7 +517,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
     <message>
         <source>remove file simultaneously</source>
@@ -537,7 +537,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis</translation>
     </message>
     <message>
         <source>Only documents saved to the cloud can add star tag</source>
@@ -652,7 +652,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis</translation>
     </message>
     <message>
         <source>all access record?</source>
@@ -695,7 +695,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
 </context>
 <context>
@@ -706,14 +706,14 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
 </context>
 <context>
     <name>KEnterpriseWebJsObj</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>choose download path</source>
@@ -728,11 +728,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>KFileListTitleWidget</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Yeni</translation>
     </message>
     <message>
         <source>Plain View</source>
@@ -756,7 +756,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"/>
+        <translation>Toplam</translation>
     </message>
     <message>
         <source>Presentation</source>
@@ -923,7 +923,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KLocationListContentWidget</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>My Documents</source>
@@ -1111,7 +1111,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
     <message>
         <source>Share Items</source>
@@ -1213,7 +1213,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Dün</translation>
     </message>
     <message>
         <source>Just now</source>
@@ -1224,11 +1224,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>KFileListMenu</name>
     <message>
         <source>cut</source>
-        <translation type="unfinished"/>
+        <translation>Kes</translation>
     </message>
     <message>
         <source>copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>more</source>
@@ -1244,11 +1244,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>unfix file</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltmeyi kaldır</translation>
     </message>
     <message>
         <source>cancel reminder</source>
@@ -1264,7 +1264,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>unfix folder</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltmeyi kaldır</translation>
     </message>
     <message>
         <source>upload to cloud</source>
@@ -1693,7 +1693,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KCopyOptionWidget</name>
     <message>
         <source>copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>file path</source>
@@ -2294,7 +2294,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Start Collaboration</source>
-        <translation type="unfinished"/>
+        <translation>İşbirliği Başlat</translation>
     </message>
     <message>
         <source>%1 people are collaborating, would you like to join in?</source>
@@ -2315,7 +2315,7 @@ With &quot;Collaborative editing&quot;, you and your partner can edit the docume
     </message>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis</translation>
     </message>
     <message>
         <source>Text Files</source>
@@ -2567,7 +2567,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Dün</translation>
     </message>
     <message>
         <source>created file on %1</source>
@@ -2630,7 +2630,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KTeamRemoveDetialWidget</name>
     <message>
         <source>Total</source>
-        <translation type="unfinished"/>
+        <translation>Toplam</translation>
     </message>
     <message>
         <source>members</source>
@@ -2673,7 +2673,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>%1 minute ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 dakika önce</translation>
     </message>
     <message>
         <source>No ads</source>
@@ -2904,11 +2904,11 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KFileDirMenu</name>
     <message>
         <source>paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>new folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni klasör</translation>
     </message>
     <message>
         <source>refresh</source>
@@ -3013,7 +3013,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Dün</translation>
     </message>
     <message>
         <source>within 7 days</source>
@@ -3565,14 +3565,14 @@ This file may have been renamed, deleted or moved.</source>
     <name>KStartPageHomeRadarFileList</name>
     <message>
         <source>My Cloud Doc</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
 </context>
 <context>
     <name>KStartPageHomeRecentFileList</name>
     <message>
         <source>My Cloud Doc</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
 </context>
 <context>
@@ -3824,7 +3824,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis</translation>
     </message>
     <message>
         <source>Unable to acquire location info. Check whether this location has been deleted or moved.</source>
