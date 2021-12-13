@@ -1333,7 +1333,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"/>
+        <translation>Toplam</translation>
     </message>
     <message>
         <source>WPS cloud disk maybe blocked by other program, please check</source>
@@ -2033,7 +2033,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>My Cloud Files</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
     <message>
         <source>failed to clear recycle bin</source>
