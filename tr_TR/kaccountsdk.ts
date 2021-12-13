@@ -1521,7 +1521,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Product Key</source>
-        <translation type="unfinished"/>
+        <translation>Ürün Anahtarı</translation>
     </message>
     <message>
         <source>Premium User</source>
