@@ -1364,7 +1364,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut.lnk</translation>
     </message>
     <message>
         <source>WPS Photo.lnk</source>
@@ -1569,7 +1569,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut.lnk</translation>
     </message>
     <message>
         <source>WPS Yanshi.lnk</source>
