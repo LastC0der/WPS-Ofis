@@ -30452,7 +30452,7 @@ Okuma</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"/>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <source>Table Tools</source>
@@ -30501,7 +30501,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>message Center</source>
-        <translation>Mesaj Merkezi</translation>
+        <translation>İleti Merkezi</translation>
     </message>
     <message>
         <source>Drawing Tools - Compatibility Mode</source>
@@ -39384,7 +39384,7 @@ Okuma</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"/>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <source>Recent Documents</source>
