@@ -6861,7 +6861,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Guest Chair</source>
-        <translation type="unfinished"/>
+        <translation>Misafir Koltuğu</translation>
     </message>
     <message>
         <source>Arrow</source>
