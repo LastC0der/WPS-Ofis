@@ -71,7 +71,7 @@
     </message>
     <message>
         <source>photo2pdf</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Split/Merge</source>
