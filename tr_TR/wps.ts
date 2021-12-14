@@ -19817,7 +19817,7 @@ Changes</source>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"/>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -33845,7 +33845,7 @@ Aktar</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"/>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <source>Recent Documents</source>
