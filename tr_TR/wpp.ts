@@ -18267,7 +18267,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"/>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -21712,7 +21712,7 @@ Aracı</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"/>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <source>Recent Documents</source>
