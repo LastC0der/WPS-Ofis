@@ -884,7 +884,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Edit Team Name</source>
@@ -1454,7 +1454,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KRecAppLoadingWidget</name>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Launching app and loading document, please wait</source>
@@ -1462,7 +1462,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Launching app, please wait</source>
@@ -1523,7 +1523,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KBtnAreaWidget</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Yardım</translation>
     </message>
     <message>
         <source>SkinCenter</source>
@@ -1531,11 +1531,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Feedback Btn</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Configuration and repair tools</source>
-        <translation type="unfinished"/>
+        <translation>Yapılandırma araçları</translation>
     </message>
     <message>
         <source>Feedback question</source>
@@ -1543,7 +1543,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Skin Center</source>
-        <translation type="unfinished"/>
+        <translation>Tema ayarları</translation>
     </message>
     <message>
         <source>About WPS</source>
@@ -1551,27 +1551,27 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"/>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <source>WPS Official website</source>
-        <translation type="unfinished"/>
+        <translation>Resmi internet sitesi</translation>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation type="unfinished"/>
+        <translation>Dili Değiştir</translation>
     </message>
     <message>
         <source>Global Settings</source>
-        <translation type="unfinished"/>
+        <translation>Genel Ayarlar</translation>
     </message>
     <message>
         <source>MessageCenter</source>
-        <translation type="unfinished"/>
+        <translation>İleti Merkezi</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Product Key</source>
@@ -1579,14 +1579,14 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
 </context>
 <context>
     <name>KHelpAndFeedbackDlg</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Yardım</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -2183,7 +2183,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Edit Team Name</source>
@@ -3726,7 +3726,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
@@ -4025,7 +4025,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
@@ -4132,7 +4132,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KAdWhatsNewWidget</name>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"/>
+        <translation>Yenilikler</translation>
     </message>
 </context>
 <context>
@@ -4150,11 +4150,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>KMsgListViewDelegate</name>
     <message>
         <source>Advertisement</source>
-        <translation type="unfinished"/>
+        <translation>Reklam</translation>
     </message>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>remove message</source>
@@ -4331,7 +4331,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>FeedBack</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Please tell me why you remove %1 so that we can improve them.</source>
@@ -4432,7 +4432,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KComponentTitle</name>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
