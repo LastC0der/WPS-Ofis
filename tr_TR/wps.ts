@@ -15718,7 +15718,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>Çevrimiçi Şablonlar</translation>
+        <translation>Şablonlar</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -29799,7 +29799,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -30300,7 +30300,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
@@ -37513,7 +37513,7 @@ Numarası</translation>
     </message>
     <message>
         <source>DocerResourceShop</source>
-        <translation type="unfinished"/>
+        <translation>Şablonlar</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
