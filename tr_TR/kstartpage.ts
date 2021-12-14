@@ -2717,7 +2717,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Cross-Platform Office suite</source>
@@ -2814,7 +2814,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>1G big file upload</source>
