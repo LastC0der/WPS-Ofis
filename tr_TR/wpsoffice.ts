@@ -3533,7 +3533,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Cloud Clipboard</source>
@@ -3541,7 +3541,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Next time</source>
@@ -9128,7 +9128,7 @@ Swiftly create a blank tab of the same type with Command+N</source>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"/>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <source>Tab List</source>
