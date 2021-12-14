@@ -40413,14 +40413,14 @@ p, li { white-space: pre-wrap; }
     <name>CustomBackstage::Control::TabControl</name>
     <message>
         <source>Custom Tab</source>
-        <translation type="unfinished"/>
+        <translation>Özel Sekme</translation>
     </message>
 </context>
 <context>
     <name>KxCustomRibbonEx_Tab</name>
     <message>
         <source>Custom Tab</source>
-        <translation type="unfinished"/>
+        <translation>Özel Sekme</translation>
     </message>
 </context>
 <context>
@@ -40442,7 +40442,7 @@ Properties</source>
     <name>KxMacMailFeedBackCommand</name>
     <message>
         <source>FeedBack</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>mail subject</source>
