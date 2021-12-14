@@ -19165,7 +19165,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>Çevrimiçi Şablonlar</translation>
+        <translation>Şablonlar</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -28364,7 +28364,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Full 
@@ -36142,7 +36142,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
@@ -42440,7 +42440,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>DocerResourceShop</source>
-        <translation type="unfinished"/>
+        <translation>Şablonlar</translation>
     </message>
     <message>
         <source>More Symbols</source>
