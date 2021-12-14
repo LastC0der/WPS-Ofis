@@ -9558,7 +9558,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Dosyası</translation>
     </message>
 </context>
 <context>
@@ -10237,7 +10237,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>About WPS Office Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Bulutu Hakkında</translation>
     </message>
     <message>
         <source>WPS Office Cloud is an office platform designed to accommodate teamwork across multiple people, files and platforms. It provides various office services, such as document storage, coordination, discussions, tracking, cross-platform preview and editing.</source>
@@ -10828,7 +10828,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud File</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Dosyası</translation>
     </message>
 </context>
 <context>
@@ -10939,7 +10939,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation>WPS Bulut Belgesi</translation>
+        <translation>WPS Bulut</translation>
     </message>
 </context>
 <context>
@@ -12205,7 +12205,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>WPS Cloud File Settings</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Dosya Ayarları</translation>
     </message>
     <message>
         <source>Function</source>
@@ -12479,7 +12479,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation>WPS Bulut Belgesi</translation>
+        <translation>WPS Bulut</translation>
     </message>
 </context>
 <context>
@@ -12596,7 +12596,7 @@ Free Space: about %1 MB</source>
     <name>KCommonGuideDlgMgr</name>
     <message>
         <source>WPS Cloud File.lnk</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut Dosyası.lnk</translation>
     </message>
 </context>
 <context>
