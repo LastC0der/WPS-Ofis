@@ -9488,7 +9488,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>Çevrimiçi Şablonlar</translation>
+        <translation>Şablonlar</translation>
     </message>
     <message>
         <source>Send E-mail</source>
