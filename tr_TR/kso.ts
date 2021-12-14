@@ -26599,7 +26599,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>WPS Remote</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>Computer</source>
@@ -31359,7 +31359,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Remote</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>Open Local Document</source>
