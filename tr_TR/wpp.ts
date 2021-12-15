@@ -8341,7 +8341,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Align or Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Hizala veya Dağıt</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -14709,7 +14709,8 @@ Slide</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Switch to next window</source>
@@ -16710,7 +16711,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Okuma</translation>
     </message>
     <message>
         <source>Materials</source>
@@ -16830,7 +16831,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation>Seçim Konuşması</translation>
+        <translation>Seçim Okuması</translation>
     </message>
     <message>
         <source>insert partialzoom</source>
@@ -16882,7 +16883,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Flash Picture</source>
-        <translation type="unfinished"/>
+        <translation>Flaş Resim</translation>
     </message>
 </context>
 <context>
@@ -18239,7 +18240,8 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Account Upgrade</source>
@@ -19595,7 +19597,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Flash Picture</source>
-        <translation type="unfinished"/>
+        <translation>Flaş Resim</translation>
     </message>
 </context>
 <context>
@@ -21696,7 +21698,8 @@ Aracı</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -23971,7 +23974,8 @@ Aktar</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -32503,7 +32507,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Flash Picture</source>
-        <translation type="unfinished"/>
+        <translation>Flaş Resim</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -34079,11 +34083,11 @@ Okuma</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Okuma</translation>
     </message>
     <message>
         <source>Flash Picture</source>
-        <translation type="unfinished"/>
+        <translation>Flaş Resim</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
@@ -34099,7 +34103,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Okuması</translation>
     </message>
     <message>
         <source>insert partialzoom</source>
