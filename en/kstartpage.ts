@@ -12,6 +12,10 @@
         <translation></translation>
     </message>
     <message>
+        <source>Date: %1 - %2</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Expand</source>
         <translation></translation>
     </message>
@@ -392,6 +396,10 @@ Are you sure to modify?</source>
         <translation></translation>
     </message>
     <message>
+        <source>Join Co-Editing</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>delete the entire group</source>
         <translation></translation>
     </message>
@@ -417,6 +425,10 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Can&apos;t find local original file, only exist cloud backup</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source> Created file</source>
         <translation></translation>
     </message>
 </context>
@@ -1361,6 +1373,49 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KEntry</name>
+    <message>
+        <source>Apps</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Team</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>company manage</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Create Company</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>New From Docer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Calendar</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KRecAppLoadingWidget</name>
     <message>
         <source>Back</source>
@@ -1533,6 +1588,23 @@ This file may have been renamed, deleted or moved.</source>
         <source>Documents</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Apps</source>
+        <translation></translation>
+    </message>
+
+    <message>
+        <source>company manage</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Create Company</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>New From Docer</source>
+        <translation></translation>
+    </message>	
 </context>
 <context>
     <name>KMarkColorButton</name>
@@ -2033,6 +2105,10 @@ This file may have been renamed, deleted or moved.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Leave Team</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Settings</source>
         <translation></translation>
     </message>
@@ -2193,6 +2269,10 @@ This file may have been renamed, deleted or moved.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Leave Team</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>%1 members would lose access to this team after deletion</source>
         <translation></translation>
     </message>
@@ -2251,7 +2331,23 @@ This file may have been renamed, deleted or moved.</source>
         <translation></translation>
     </message>
     <message>
+        <source>updated %1 versions</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>renamed file from %1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>was by</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>removed from team</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>upgraded with access rights</source>
         <translation></translation>
     </message>
     <message>
@@ -2311,6 +2407,13 @@ This file may have been renamed, deleted or moved.</source>
     <name>KTeamRemoveDetialWidget</name>
     <message>
         <source>Total</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KDocerHotSearchListWidget</name>
+    <message>
+        <source>Docer HotSearch</source>
         <translation></translation>
     </message>
 </context>
@@ -2660,6 +2763,10 @@ This file may have been renamed, deleted or moved.</source>
         <translation></translation>
     </message>
     <message>
+        <source>Split PDF</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>-cloud-</source>
         <translation></translation>
     </message>
@@ -2669,6 +2776,10 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1 minute ago</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>No ads</source>
         <translation></translation>
     </message>
     <message>
@@ -3186,6 +3297,13 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
 </context>
 <context>
+    <name>KLocationListSpecialContentModel</name>
+    <message>
+        <source>Create Company</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KTeamListView</name>
     <message>
         <source>Now Loading</source>
@@ -3349,6 +3467,20 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
 </context>
 <context>
     <name>KStartPageHomeRecentFileList</name>
+    <message>
+        <source>My Cloud Doc</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KStartPageHomeShareFileList</name>
+    <message>
+        <source>My Cloud Doc</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KStartPageHomeStarFileList</name>
     <message>
         <source>My Cloud Doc</source>
         <translation></translation>
@@ -3616,6 +3748,17 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
 </context>
 <context>
+    <name>KTemplateGuideDialog</name>
+    <message>
+        <source>Others</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KFileTransferButton</name>
     <message>
         <source>File Transfer</source>
@@ -3751,6 +3894,10 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KTeamAreaFileListTitleWidget</name>
     <message>
         <source>Invite members</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>(%1 members)</source>
         <translation></translation>
     </message>
 </context>
@@ -4001,6 +4148,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
 </context>
 <context>
+<context>
     <name>RightComponentErrorWidget</name>
     <message>
         <source>load config fail</source>
@@ -4104,6 +4252,13 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KComponentManager</name>
     <message>
         <source>Component Setting</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KWeChatCustomerServiceDlg</name>
+    <message>
+        <source>WeChat QR Code</source>
         <translation></translation>
     </message>
 </context>
