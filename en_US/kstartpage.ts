@@ -2721,7 +2721,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>yesterday %1</source>
-        <translation>Yesterday %1</translation>
+        <translation>yesterday %1</translation>
     </message>
     <message>
         <source>Auto Uploaded</source>
