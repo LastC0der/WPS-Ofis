@@ -475,11 +475,11 @@ Değiştireceğinizden emin misiniz?</translation>
     <name>KFileListContentWidget</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Evet</translation>
     </message>
     <message>
         <source>Unable to modify &quot;%1&quot;.
@@ -589,7 +589,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>NewFolder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör</translation>
     </message>
     <message>
         <source>Remove File</source>
@@ -628,11 +628,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>KStartPageHomeBaseFileList</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Evet</translation>
     </message>
     <message>
         <source>The file is downloading, please stop downloading and retry.</source>
@@ -740,7 +740,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ad</translation>
     </message>
     <message>
         <source>Size</source>
@@ -788,7 +788,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör</translation>
     </message>
     <message>
         <source>Add Folder</source>
@@ -1158,11 +1158,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>KActionComponent</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Evet</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Are you sure you want to close it?</source>
@@ -1178,7 +1178,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -2096,11 +2096,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>KCreateTeamDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Create</source>
@@ -2311,7 +2311,7 @@ With &quot;Collaborative editing&quot;, you and your partner can edit the docume
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -2406,7 +2406,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>A team with the same name already exists, please rename again</source>
@@ -2433,7 +2433,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>My Team</source>
@@ -3673,7 +3673,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KWaitDownloadControl</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Download Failed</source>
