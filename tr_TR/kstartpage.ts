@@ -1391,7 +1391,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"/>
+        <translation>Yeni</translation>
     </message>
     <message>
         <source>company manage</source>
@@ -1407,7 +1407,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"/>
+        <translation>Takvim</translation>
     </message>
     <message>
         <source>Documents</source>
