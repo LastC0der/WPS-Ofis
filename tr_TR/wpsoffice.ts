@@ -9120,7 +9120,7 @@ Swiftly create a blank tab of the same type with Command+N</source>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>Yeni Sekme</translation>
+        <translation>Yeni</translation>
     </message>
     <message>
         <source>DocerTab</source>
