@@ -22,34 +22,34 @@
     <name>KDocerTitleWidget</name>
     <message>
         <source>Et</source>
-        <translation type="unfinished"/>
+        <translation>XLS</translation>
     </message>
     <message>
         <source>Wpp</source>
-        <translation type="unfinished"/>
+        <translation>PPT</translation>
     </message>
     <message>
         <source>Wps</source>
-        <translation type="unfinished"/>
+        <translation>DOC</translation>
     </message>
 </context>
 <context>
     <name>KListFilterPopupWidget</name>
     <message>
         <source>Et</source>
-        <translation type="unfinished"/>
+        <translation>XLS</translation>
     </message>
     <message>
         <source>Pdf</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>Wpp</source>
-        <translation type="unfinished"/>
+        <translation>PPT</translation>
     </message>
     <message>
         <source>Wps</source>
-        <translation type="unfinished"/>
+        <translation>DOC</translation>
     </message>
     <message>
         <source>Name</source>
