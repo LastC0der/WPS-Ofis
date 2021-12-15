@@ -2672,7 +2672,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>today %1</source>
-        <translation type="unfinished"/>
+        <translation>Bugün %1</translation>
     </message>
     <message>
         <source>yestoday %1</source>
@@ -2720,7 +2720,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>yesterday %1</source>
-        <translation type="unfinished"/>
+        <translation>dün %1</translation>
     </message>
     <message>
         <source>Auto Uploaded</source>
