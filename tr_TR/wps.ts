@@ -9716,7 +9716,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Align or Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Hizala veya Dağıt</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -19761,7 +19761,8 @@ Changes</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Account Upgrade</source>
@@ -28514,7 +28515,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Pa&amp;ges:</source>
-        <translation type="unfinished"/>
+        <translation>Say&amp;fa:</translation>
     </message>
     <message>
         <source>4 Pages</source>
@@ -28526,7 +28527,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>From top to &amp;bottom</source>
-        <translation type="unfinished"/>
+        <translation>Üstten alta</translation>
     </message>
     <message>
         <source>Page range</source>
@@ -28570,7 +28571,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>9 Pages</source>
-        <translation type="unfinished"/>
+        <translation>9 Sayfa</translation>
     </message>
     <message>
         <source>&amp;Repeat</source>
@@ -28597,7 +28598,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Fo&amp;nt</source>
-        <translation type="unfinished"/>
+        <translation>Ya&amp;zı Tipi</translation>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
@@ -31135,7 +31136,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Okuma</translation>
     </message>
     <message>
         <source>DocerWordArt</source>
@@ -31243,7 +31244,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation>Seçim Konuşması</translation>
+        <translation>Seçim Okuması</translation>
     </message>
     <message>
         <source>Document Permission</source>
@@ -33829,7 +33830,8 @@ Aktar</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -38431,7 +38433,8 @@ Temizle</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -54731,7 +54734,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Okuma</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
@@ -54739,7 +54742,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Okuması</translation>
     </message>
 </context>
 <context>
