@@ -10,58 +10,42 @@
         <translation>Изменить</translation>
     </message>
     <message>
-        <source>Date: %1 - %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Expand</source>
         <translation>Развернуть</translation>
-    </message>
-    <message>
-        <source>Team Notice</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shrink</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Yesterday %1</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KDocerTitleWidget</name>
     <message>
         <source>Et</source>
-        <translation>XLS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wpp</source>
-        <translation>PPT</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wps</source>
-        <translation>DOC</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KListFilterPopupWidget</name>
     <message>
         <source>Et</source>
-        <translation>XLS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pdf</source>
-        <translation>PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wpp</source>
-        <translation>PPT</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wps</source>
-        <translation>DOC</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
@@ -85,7 +69,7 @@
     </message>
     <message>
         <source>sort by Modified Time</source>
-        <translation>Сортировка по времени изменения</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Creation Time</source>
@@ -97,7 +81,7 @@
     </message>
     <message>
         <source>Folders On Top</source>
-        <translation>Папки сверху</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Device Types</source>
@@ -113,15 +97,15 @@
     </message>
     <message>
         <source>Mobile</source>
-        <translation>Телефон</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PCFile</source>
-        <translation>Файл ПК</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>QQFile</source>
-        <translation>Файл QQ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort Types</source>
@@ -137,7 +121,7 @@
     </message>
     <message>
         <source>sort by Creation Time</source>
-        <translation>Сортировка по времени создания</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Desktop</source>
@@ -153,11 +137,11 @@
     </message>
     <message>
         <source>sort by Size</source>
-        <translation>Сортировка по размеру</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sort by Name</source>
-        <translation>Сортировка по имени</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Types</source>
@@ -169,7 +153,7 @@
     </message>
     <message>
         <source>keep folders on top of files when sorting</source>
-        <translation>Оставлять папки поверх файлов при сортировке</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -194,19 +178,19 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>filename cannot contains characters:</source>
-        <translation>Имя файла не может содержать следующие символы:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duplicate Filenames</source>
-        <translation>Повторяющееся имя файла</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file-path&apos;s length is too long, please rename with a shorter one, or move the file to another location.</source>
-        <translation>Слишком длинный путь к файлу, переименуйте файл или переместите его в другое местоположение.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>filename&apos;s length is limited to %1 characters.</source>
-        <translation>Имя файла не может превышать %1 симв.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please rename with a shorter one</source>
@@ -222,23 +206,23 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>A file with the same name already exists in this location, please rename again</source>
-        <translation>Такое имя уже существует в этом местоположении, измените имя</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filename cannot be empty</source>
-        <translation>Имя файла не может быть пустым</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Modify File&apos;s Suffix</source>
-        <translation>Изменить суффикс файла</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filename&apos;s length is too long</source>
-        <translation>Слишком длинное имя файла</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>filename cannot be empty.</source>
-        <translation>Имя файла не может быть пустым.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -251,32 +235,16 @@ Are you sure to modify?</source>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
-    <message>
-        <source>Failed to add members</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The other %1 users can not be added</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please retry or cancel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 members added</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KAbstractFileModeDelegate</name>
     <message>
         <source>PC</source>
-        <translation>Компьютер</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>fix</source>
-        <translation>Исправить</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>edit</source>
@@ -284,7 +252,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>fold</source>
-        <translation>Собирание</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>read</source>
@@ -300,30 +268,26 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>on PC</source>
-        <translation>на компьютер</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>unfix</source>
-        <translation>Отменить исправление</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Local file and cloud backup have modify</source>
-        <translation>Локальный и облачный файлы содержат изменения</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>on the mobile</source>
-        <translation>на телефон</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Folder</source>
-        <translation>Поделиться</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Upload To</source>
-        <translation>Передать в</translation>
-    </message>
-    <message>
-        <source>start collaboration</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -336,15 +300,15 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Cloud Files</source>
-        <translation>Мои Cloud-файлы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file Not Found</source>
-        <translation>Файл не найден</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>options</source>
-        <translation>Больше</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 hour ago</source>
@@ -356,38 +320,34 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>mobile</source>
-        <translation>Телефон</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>spread</source>
-        <translation>Растянуть</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>upload</source>
-        <translation>Передать</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>transfer file to cloud</source>
-        <translation>Передать файл в Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>days ago</source>
-        <translation> дн. назад</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>share folder with someone</source>
-        <translation>Поделиться</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>browser</source>
-        <translation>Браузер</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Transfer To</source>
-        <translation>Передать на</translation>
-    </message>
-    <message>
-        <source>1 person is collaborating</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -396,27 +356,27 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>share with someone</source>
-        <translation>Поделиться</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>tagstar</source>
-        <translation>Звезда</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>untagstar</source>
-        <translation>Отменить метку</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>day ago</source>
-        <translation> день назад</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>minutes ago</source>
-        <translation> мин назад</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>upload file to cloud</source>
-        <translation>Отправить файл в Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Other PC</source>
@@ -424,14 +384,10 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>other PC</source>
-        <translation>Другой ПК</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cancel downloading</source>
-        <translation>Отменить загрузку</translation>
-    </message>
-    <message>
-        <source>Join Co-Editing</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -440,34 +396,26 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>hours ago</source>
-        <translation> ч назад</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>batch export to appoint path</source>
-        <translation>пакетный экспорт по указанному пути</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cancel uploading</source>
-        <translation>Отменить отправку</translation>
-    </message>
-    <message>
-        <source>%1 people are collaborating</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Cloud backup has modify</source>
-        <translation>Облачный файл содержит изменения</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>on the other PC</source>
-        <translation>на другой компьютер</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Can&apos;t find local original file, only exist cloud backup</source>
-        <translation>Не удается найти исходный локальный файл, существует только облачный файл</translation>
-    </message>
-    <message>
-        <source> Created file</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -484,12 +432,11 @@ Are you sure to modify?</source>
     <message>
         <source>Unable to modify &quot;%1&quot;.
 This file has been opened by WPS, please close it first.</source>
-        <translation>Не удалось изменить &quot;%1&quot;.
-Файл открыт в WPS, закройте его.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cloud location is not supported to open without cloud id.</source>
-        <translation>Не поддерживается для открытия</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file is downloading, please stop downloading and retry.</source>
@@ -497,7 +444,7 @@ This file has been opened by WPS, please close it first.</source>
     </message>
     <message>
         <source>Folder has not downloaded file</source>
-        <translation>Некоторые файлы не загружены в папку</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure to remove</source>
@@ -510,20 +457,19 @@ This file has been opened by WPS, please close it first.</source>
     <message>
         <source>Unable to modify &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
-        <translation>Не удалось изменить &quot;%1&quot;.
-Возможно, этот файл переименован, удален или перемещен.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Don&apos;t prompt</source>
-        <translation>Никогда не показывать</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation>Мои Cloud-файлы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>remove file simultaneously</source>
-        <translation>Удалить файл</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please save the document to WPS Cloud Space</source>
@@ -531,7 +477,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>I know</source>
-        <translation>Все ясно</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file is uploading, please stop uploading and retry.</source>
@@ -551,11 +497,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Please check if there is another removing operation and wait or close it.</source>
-        <translation>Дождитесь выполнения другой операции удаления или закройте ее.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>select location</source>
-        <translation>Выбрать место</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>all access record?</source>
@@ -563,15 +509,15 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Clear RecycleBin</source>
-        <translation>Очистить корзину</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file is opened by another process. Please confirm it before deleting it.</source>
-        <translation>Файл открыт другим процессом. Подтвердите его перед удалением.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filed to create folder, please check your operation-rights.</source>
-        <translation>Не удалось создать папку, убедитесь в наличии прав на выполнение этой операции.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel downloading</source>
@@ -587,11 +533,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>I known</source>
-        <translation>Все ясно</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewFolder</source>
-        <translation>Новая папка</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove File</source>
@@ -611,11 +557,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>please select folder</source>
-        <translation>Выберите папку</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure to remove the selected file/folder?</source>
-        <translation>Вы действительно хотите удалить выбранные элементы?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Relative location is not supported.</source>
@@ -623,7 +569,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>If you want to copy to cloud folder outside, please download these file first</source>
-        <translation>Загрузите эти файлы, если необходимо скопировать их в другое местоположение</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -646,7 +592,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>remove file simultaneously</source>
-        <translation>Удалить файл</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file is uploading, please stop uploading and retry.</source>
@@ -662,7 +608,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The file is opened by another process. Please confirm it before deleting it.</source>
-        <translation>Файл открыт другим процессом. Подтвердите его перед удалением.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel downloading</source>
@@ -697,7 +643,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation>Мои Cloud-файлы</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -708,14 +654,14 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation>Мои Cloud-файлы</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KEnterpriseWebJsObj</name>
     <message>
         <source>ok</source>
-        <translation>OK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>choose download path</source>
@@ -723,14 +669,14 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>upload to cloud</source>
-        <translation>Отправить в облако</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KFileListTitleWidget</name>
     <message>
         <source>ok</source>
-        <translation>ОК</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New</source>
@@ -766,7 +712,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Upload to Cloud</source>
-        <translation>Сохранить в облаке</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tile View</source>
@@ -774,11 +720,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS/Word Files</source>
-        <translation>Файлы Word</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recent Visited Documents</source>
-        <translation>Последние документы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Web Pages</source>
@@ -794,7 +740,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Add Folder</source>
-        <translation>Добавить папку</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort Method</source>
@@ -810,7 +756,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Add Files</source>
-        <translation>Добавить файлы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort Order</source>
@@ -846,19 +792,23 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>SharesToMe</source>
-        <translation>Предоставить общий доступ мне</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Single Web Page Files</source>
-        <translation>Файл веб-страницы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ET/Excel Files</source>
-        <translation>Файлы Excel</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Activity</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete and Leave Team</source>
-        <translation>Удалить и выйти из команды Team</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Detail Panel</source>
@@ -874,7 +824,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Normal Files</source>
-        <translation>Стандартные файлы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cover View</source>
@@ -906,7 +856,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>MyShares</source>
-        <translation>Предоставить общий доступ от меня</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Data Sources</source>
@@ -914,7 +864,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPP/PowerPoint Files</source>
-        <translation>Файлы PowerPoint</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Team files</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Detail View</source>
@@ -925,15 +879,15 @@ This file may have been renamed, deleted or moved.</source>
     <name>KLocationListContentWidget</name>
     <message>
         <source>ok</source>
-        <translation>ОК</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My Documents</source>
-        <translation>Документы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My PC</source>
-        <translation>Мой PC</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Location</source>
@@ -941,7 +895,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Items of Favorite are limited. Can not add any more.</source>
-        <translation>Количество элементов избранного превысило максимальное ограничение. Не удалось добавить новый элемент.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recent</source>
@@ -949,7 +903,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Failed Adding</source>
-        <translation>Ошибка при добавлении</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My Devices</source>
@@ -957,7 +911,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Desktop</source>
-        <translation>Мой рабочий стол</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Other Location</source>
@@ -1001,10 +955,6 @@ This file may have been renamed, deleted or moved.</source>
         <source>Buy</source>
         <translation>Купить</translation>
     </message>
-    <message>
-        <source>Manage</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KCreationAreaComponentModel</name>
@@ -1018,11 +968,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Writer</source>
-        <translation>Документ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spreadsheet</source>
-        <translation>Spreadsheets</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Team</source>
@@ -1053,15 +1003,15 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Shares To Me</source>
-        <translation>Предоставить общий доступ мне</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Items to Me</source>
-        <translation>Предоставить общий доступ мне</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shares From Me</source>
-        <translation>Предоставить общий доступ от меня</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Magenta</source>
@@ -1069,14 +1019,10 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Recent Visit</source>
-        <translation>Последние</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Star Items</source>
-        <translation>Помечено звездочкой</translation>
-    </message>
-    <message>
-        <source>Cloud Company</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1089,7 +1035,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Share Items From Me</source>
-        <translation>Предоставить общий доступ от меня</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cloud Team Document</source>
@@ -1101,7 +1047,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Shares</source>
-        <translation>Поделиться</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yellow</source>
@@ -1113,15 +1059,15 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation>Мои Cloud-файлы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Items</source>
-        <translation>Поделиться</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Share Items</source>
-        <translation>Все</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recycle Bin</source>
@@ -1140,10 +1086,6 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Этот ПК</translation>
     </message>
     <message>
-        <source>Cloud Team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Unknown Color</source>
         <translation>Неизвестный цвет</translation>
     </message>
@@ -1154,6 +1096,10 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Downloads</source>
         <translation>Загрузки</translation>
+    </message>
+    <message>
+        <source>Search local files</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1168,15 +1114,15 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Are you sure you want to close it?</source>
-        <translation>Подтвердить закрытие?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>action_component</source>
-        <translation>Голосование за тему</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Action</source>
-        <translation>Тема</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
@@ -1191,7 +1137,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1 mins ago</source>
-        <translation>%1 минут назад</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>modified the file (Ver.%1)</source>
@@ -1226,55 +1172,55 @@ This file may have been renamed, deleted or moved.</source>
     <name>KFileListMenu</name>
     <message>
         <source>cut</source>
-        <translation>Вырезать</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>copy</source>
-        <translation>Копировать</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>more</source>
-        <translation>Больше</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>open</source>
-        <translation>Открыть</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>batch export</source>
-        <translation>Пакетный экспорт</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>paste</source>
-        <translation>Вставить</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>unfix file</source>
-        <translation>Отменить исправление</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cancel reminder</source>
-        <translation>Отменить напоминание</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>fix file</source>
-        <translation>Закрепить вверху</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>pin to often use location list</source>
-        <translation>Прикрепить к последним местоположениям</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>unfix folder</source>
-        <translation>Отменить исправление</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>upload to cloud</source>
-        <translation>Сохранить в облаке</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete records</source>
-        <translation>Удалить записи</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invite members</source>
@@ -1282,83 +1228,83 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>history version</source>
-        <translation>Версия журнала</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>open folder</source>
-        <translation>Открыть папку</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>export</source>
-        <translation>Экспорт</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>fix folder</source>
-        <translation>Закрепить вверху</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>save as...</source>
-        <translation>Сохранить как...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>move to...</source>
-        <translation>Переместить...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>remove</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>rename</source>
-        <translation>Переименовать</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>untag star</source>
-        <translation>Удалить из раздела «Помечено звездочкой»</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>tag star</source>
-        <translation>Добавить в раздел «Помечено звездочкой»</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>fix to top</source>
-        <translation>Закрепить вверху</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>update</source>
-        <translation>Обновить</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>remove from often use location list</source>
-        <translation>Удалить из списка часто используемых расположений</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cancel top-fixing</source>
-        <translation>Отменить закрепление вверху</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>send to cloud</source>
-        <translation>Отправить в Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>recover</source>
-        <translation>Восстановить</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>download and open file</source>
-        <translation>Загрузить и открыть</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>open backup center</source>
-        <translation>Открыть центр резервного копирования</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>share folder...</source>
-        <translation>Поделиться</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete team</source>
@@ -1366,15 +1312,15 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>download all/update</source>
-        <translation>Загрузить все</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>copy to...</source>
-        <translation>Копировать...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cancel downloading</source>
-        <translation>Отменить загрузку</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Leave team</source>
@@ -1382,74 +1328,35 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>cancel uploading</source>
-        <translation>Отменить отправку</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete completely</source>
-        <translation>Удалить полностью</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete record</source>
-        <translation>Удалить запись</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>batch download/update</source>
-        <translation>Пакетная загрузка/обновление</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>create duplication</source>
-        <translation>Создать дубликат</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>pin to quick-access bar</source>
-        <translation>Закрепить на панели быстрого доступа</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>share...</source>
-        <translation>Поделиться...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visit WPS Cloud</source>
         <translation>Посетите WPS Cloud</translation>
-    </message>
-</context>
-<context>
-    <name>KEntry</name>
-    <message>
-        <source>Apps</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Home</source>
-        <translation>Главная</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation>Открыть</translation>
-    </message>
-    <message>
-        <source>New Document</source>
-        <translation>Создать</translation>
-    </message>
-    <message>
-        <source>company manage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Create Company</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>New From Docer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Calendar</source>
-        <translation>Рисунок в текст</translation>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation>Документы</translation>
     </message>
 </context>
 <context>
@@ -1483,7 +1390,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Follow the steps to discover WPS Office!</source>
-        <translation>Выполните эти действия, чтобы ознакомиться с WPS Office!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bright</source>
@@ -1528,28 +1435,24 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <source>SkinCenter</source>
+        <source>Feedback Btn</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Feedback Btn</source>
-        <translation>Отзывы</translation>
-    </message>
-    <message>
         <source>Configuration and repair tools</source>
-        <translation>Средства настройки</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback question</source>
-        <translation>Вопрос отзыва</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skin Center</source>
-        <translation>Настройка темы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>About WPS</source>
-        <translation>О WPS Office</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -1557,7 +1460,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Official website</source>
-        <translation>Официальный веб-сайт</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch Language</source>
@@ -1569,7 +1472,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>MessageCenter</source>
-        <translation>Центр сообщений</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback</source>
@@ -1592,15 +1495,42 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>Справка по WPS Presentation</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>Справка по WPS Writer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation>Справка по WPS Spreadsheets</translation>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KEntry</name>
+    <message>
+        <source>Home</source>
+        <translation>Главная</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <source>Team</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Calendar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation>Документы</translation>
     </message>
 </context>
 <context>
@@ -1629,23 +1559,27 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Cloud data backup</source>
-        <translation>Облачная резервная копия</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Log-in to WPS, secure your file and get 1GB Cloud Space</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>History version manager</source>
-        <translation>Управление версией</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation>WPS Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>login with wps account</source>
-        <translation>Войти</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cross devices document synchronization</source>
-        <translation>Синхронизация между устройствами</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1674,7 +1608,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Follow the steps to discover WPS Office!</source>
-        <translation>Выполните эти действия, чтобы ознакомиться с WPS Office!</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1695,42 +1629,42 @@ This file may have been renamed, deleted or moved.</source>
     <name>KCopyOptionWidget</name>
     <message>
         <source>copy</source>
-        <translation>Копировать</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file path</source>
-        <translation>Путь к файлу</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file name</source>
-        <translation>Имя файла</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>copy file path</source>
-        <translation>Копировать путь к файлу</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>copy file name</source>
-        <translation>Копировать имя файла</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>copy file</source>
-        <translation>Копировать файл</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KFileListItemInfoPanelWidget</name>
     <message>
         <source>from</source>
-        <translation>От</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>more</source>
-        <translation>Больше</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>invited</source>
-        <translation>Пригласить</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Permissions</source>
@@ -1742,11 +1676,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>friend view &amp; edit</source>
-        <translation>Укажите друга для просмотра или редактирования</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>my folder share</source>
-        <translation>Моя общая папка</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Permanently valid</source>
@@ -1758,7 +1692,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Exit sharing folder</source>
-        <translation>Выйти из режима общего доступа</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Is about to expire</source>
@@ -1770,7 +1704,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>manage</source>
-        <translation>Управлять</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share again</source>
@@ -1786,19 +1720,15 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ShareToMe</source>
-        <translation>Предоставить общий доступ мне</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShareItems</source>
-        <translation>Поделиться</translation>
-    </message>
-    <message>
-        <source>company viewonly</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>ShareFromMe</source>
-        <translation>Предоставить общий доступ от меня</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 created</source>
@@ -1806,19 +1736,19 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Transferring to a cloud document</source>
-        <translation>Передача в документ Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>editable</source>
-        <translation>Редактируемый</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close sharing folder</source>
-        <translation>Закрыть общий доступ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>my share</source>
-        <translation>Мой общий ресурс</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 days visible</source>
@@ -1834,15 +1764,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>view only</source>
-        <translation>Только просмотр</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exit sharing</source>
         <translation>Выйти из режима общего доступа</translation>
-    </message>
-    <message>
-        <source>company editable</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>History</source>
@@ -1850,7 +1776,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Can be edited</source>
-        <translation>Редактируемый</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 shared folder</source>
@@ -1865,7 +1791,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Now Loading</source>
-        <translation>Загрузка</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add files to Starred for quick access.</source>
@@ -1885,7 +1811,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>No Filter Result</source>
-        <translation>Нет результата</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Records</source>
@@ -1908,6 +1834,10 @@ This file may have been renamed, deleted or moved.</source>
         <translation>В разделе «Помечено звездочкой» нет файлов</translation>
     </message>
     <message>
+        <source>You can drag and drop files to share with members.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Share your documents as a link, then you can view them here.</source>
         <translation>Предоставьте общий доступ к документам по ссылке, после чего вы сможете просматривать их здесь.</translation>
     </message>
@@ -1916,15 +1846,15 @@ This file may have been renamed, deleted or moved.</source>
     <name>KMultistageMenu</name>
     <message>
         <source>none</source>
-        <translation>Ни одна из групп</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file name</source>
-        <translation>Имя файла</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file size</source>
-        <translation>Размер файла</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort Mode</source>
@@ -1936,85 +1866,26 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>latest modify time</source>
-        <translation>Время последнего изменения</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KTeamMsgListMenu</name>
     <message>
         <source>open</source>
-        <translation>Открыть</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>share</source>
-        <translation>Поделиться</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>history version</source>
-        <translation>Версия журнала</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>open folder</source>
-        <translation>Открыть папку</translation>
-    </message>
-</context>
-<context>
-    <name>KComponentItem</name>
-    <message>
-        <source>task</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>docer</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Docer Title</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>action_component</source>
-        <translation>Голосование за тему</translation>
-    </message>
-    <message>
-        <source>Action Title</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Action Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>action</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Weather Text</source>
-        <translation>Организация работы в соответствии с погодными условиями</translation>
-    </message>
-    <message>
-        <source>Task Text</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Weather Title</source>
-        <translation>Погода</translation>
-    </message>
-    <message>
-        <source>Docer Text</source>
-        <translation>Большое количество шаблонов.</translation>
-    </message>
-    <message>
-        <source>Task Title</source>
-        <translation>Погода</translation>
-    </message>
-    <message>
-        <source>weather</source>
-        <translation>погода</translation>
-    </message>
-    <message>
-        <source>docer_component</source>
-        <translation>Docer_component</translation>
     </message>
 </context>
 <context>
@@ -2022,6 +1893,10 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Cloud space is full</source>
         <translation>Пространство Cloud заполнено</translation>
+    </message>
+    <message>
+        <source>Get for Free</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clean up</source>
@@ -2032,22 +1907,11 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Пространство Cloud заканчивается</translation>
     </message>
     <message>
-        <source>Please clean up unnecessary files in your network disk to make more space</source>
+        <source>cloud size</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>cloud size</source>
-        <translation>Cloud </translation>
-    </message>
-    <message>
         <source>upgrade</source>
-        <translation>Перейти Премиум</translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherNormalBottomWidget</name>
-    <message>
-        <source>Refresh Weather</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2055,18 +1919,10 @@ This file may have been renamed, deleted or moved.</source>
     <name>NotSearchResultWidget</name>
     <message>
         <source>Baidu</source>
-        <translation>Google</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Docer search</source>
-        <translation>Поиск шаблонов</translation>
-    </message>
-    <message>
-        <source>Google</source>
-        <translation>Google</translation>
-    </message>
-    <message>
-        <source>find icons/pictures/fonts and so on ...</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2079,7 +1935,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Loading the Data Recovery Master.Please wait...</source>
-        <translation>Загрузка мастера восстановления данных. Подождите...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Try to </source>
@@ -2120,16 +1976,16 @@ This file may have been renamed, deleted or moved.</source>
         <source>Create Team</source>
         <translation>Создать команду Team</translation>
     </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KTeamAddNormalMemberDlg</name>
     <message>
         <source>Close</source>
         <translation>Закрыть</translation>
-    </message>
-    <message>
-        <source>%1 Invite you to join the &quot;%2&quot; group</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share with mail</source>
@@ -2165,10 +2021,6 @@ This file may have been renamed, deleted or moved.</source>
         <source>Share with WhatsApp</source>
         <translation>Поделиться в WhatsApp</translation>
     </message>
-    <message>
-        <source>%1 Invite you to join the &apos;%2&apos; group</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KTeamEnterpriseManageDlg</name>
@@ -2179,10 +2031,6 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Delete Team</source>
         <translation>Удалить команду Team</translation>
-    </message>
-    <message>
-        <source>Leave Team</source>
-        <translation>Выйти из команды Team</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2200,16 +2048,12 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Облачный сервис</translation>
     </message>
     <message>
-        <source>google</source>
+        <source>dropbox</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>dropbox</source>
-        <translation>Dropbox</translation>
-    </message>
-    <message>
         <source>Add a third-party cloud</source>
-        <translation>Добавить облачное хранилище</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2224,7 +2068,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>docer_component</source>
-        <translation>Docer_component</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2235,7 +2079,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Member</source>
-        <translation>Premium</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document</source>
@@ -2268,139 +2112,23 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Просмотр файлов Team</translation>
     </message>
     <message>
+        <source>Working together, start from Team</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Invite members</source>
         <translation>Пригласить участников</translation>
     </message>
-</context>
-<context>
-    <name>KFileOpenProxy</name>
     <message>
-        <source>Known</source>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Join in</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>not prompt again</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to open &quot;%1&quot;.
-This file may be renamed, deleted or moved.</source>
-        <translation>Не удалось открыть &quot;%1&quot;.
-Возможно, этот файл переименован, удален или перемещен.</translation>
-    </message>
-    <message>
-        <source>WPS/Word Files</source>
-        <translation>Файлы Word</translation>
-    </message>
-    <message>
-        <source>Start Collaboration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 people are collaborating, would you like to join in?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Whether to start collaborative editing?
-With &quot;Collaborative editing&quot;, you and your partner can edit the document at the same time.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Web Pages</source>
-        <translation>Веб-страницы</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>Text Files</source>
-        <translation>Текстовые файлы</translation>
-    </message>
-    <message>
-        <source>Add Files</source>
-        <translation>Добавить файлы</translation>
-    </message>
-    <message>
-        <source>Access Databases</source>
-        <translation>Базы данных Access</translation>
-    </message>
-    <message>
-        <source>DBase Files</source>
-        <translation>Файлы DBase</translation>
-    </message>
-    <message>
-        <source>File is uploading, please try again later.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pdf Files</source>
-        <translation>Файлы PDF</translation>
-    </message>
-    <message>
-        <source>Rtf Files</source>
-        <translation>Файлы RTF</translation>
-    </message>
-    <message>
-        <source>DIF Files</source>
-        <translation>Файлы DIF</translation>
-    </message>
-    <message>
-        <source>Single Web Page Files</source>
-        <translation>Файл всей веб-страницы</translation>
-    </message>
-    <message>
-        <source>ET/Excel Files</source>
-        <translation>Файлы Excel</translation>
-    </message>
-    <message>
-        <source>Query Files</source>
-        <translation>Файлы запроса</translation>
-    </message>
-    <message>
-        <source>Normal Files</source>
-        <translation>Стандартные файлы (файлы Word, Excel, PowerPoint, PDF)</translation>
-    </message>
-    <message>
-        <source>Open File</source>
-        <translation>Открыть файл</translation>
-    </message>
-    <message>
-        <source>XML Files</source>
-        <translation>Файлы XML</translation>
-    </message>
-    <message>
-        <source>All Files</source>
-        <translation>Все файлы</translation>
-    </message>
-    <message>
-        <source>All Data Sources</source>
-        <translation>Все источники данных</translation>
-    </message>
-    <message>
-        <source>WPP/PowerPoint Files</source>
-        <translation>Файлы PowerPoint</translation>
-    </message>
-    <message>
-        <source>&quot;%1&quot;
-this file has been opened, can&apos;t write data.please close file and retry.</source>
-        <translation>&quot;%1&quot;
-Этот файл открыт, не удалось записать данные. Закройте файл и повторите попытку.</translation>
     </message>
 </context>
 <context>
     <name>KStartPageLoginButton</name>
     <message>
         <source>Login</source>
-        <translation>Войти</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2412,6 +2140,10 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <message>
         <source>Cancel</source>
         <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A team with the same name already exists, please rename again</source>
@@ -2429,10 +2161,6 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
         <translation>Повторить</translation>
     </message>
     <message>
-        <source>Team files would be inaccessible after that</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>You would lose access to this team</source>
         <translation>Вы потеряете доступ к этой команде Team</translation>
     </message>
@@ -2441,24 +2169,20 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
         <translation>Отмена</translation>
     </message>
     <message>
-        <source>My Team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Confirm to delete and leave</source>
         <translation>Подтвердить удаление и выйти</translation>
     </message>
     <message>
         <source>Confirm to delete this team ?</source>
-        <translation>Подтвердить удаление этой команды Team?</translation>
-    </message>
-    <message>
-        <source>Modify Team Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh</source>
         <translation>Обновить</translation>
+    </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Team</source>
@@ -2469,12 +2193,8 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
         <translation>Удалить команду Team</translation>
     </message>
     <message>
-        <source>Leave Team</source>
-        <translation>Выйти из команды Team</translation>
-    </message>
-    <message>
         <source>%1 members would lose access to this team after deletion</source>
-        <translation>После удаления участники (%1) потеряют доступ к этой команде Team</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A team with the same name already exists, please rename again</source>
@@ -2482,19 +2202,11 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Confirm to leave this team ?</source>
-        <translation>Подтвердить выход из этой команды Team?</translation>
-    </message>
-    <message>
-        <source>Team members would lose access after that</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>&apos;s Team</source>
         <translation>команда Team</translation>
-    </message>
-    <message>
-        <source>Clear all team files</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2523,12 +2235,8 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
         <translation>Сегодня</translation>
     </message>
     <message>
-        <source>Date: %1 - %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>renamed team as %1</source>
-        <translation>переименовал team в %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>last seen here</source>
@@ -2536,39 +2244,19 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>recovered file from recycle-bin</source>
-        <translation>Файл, восстановленный из корзины</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>created the team</source>
-        <translation>создал команду team</translation>
-    </message>
-    <message>
-        <source>updated %1 versions</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>renamed file from %1</source>
-        <translation>переименовал %1</translation>
-    </message>
-    <message>
-        <source>was by</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>removed from team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>upgraded with access rights</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>degraded with access rights</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>add file</source>
-        <translation>Добавил файл</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yesterday</source>
@@ -2576,59 +2264,47 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>created file on %1</source>
-        <translation>добавил файл в %1</translation>
-    </message>
-    <message>
-        <source>moved file out</source>
-        <translation>Перемещенный файл</translation>
-    </message>
-    <message>
-        <source>quited team</source>
-        <translation>вышел из team</translation>
-    </message>
-    <message>
-        <source>moved file to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>moved file from %1</source>
+        <source>moved file out</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>quited team</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>shared file to %1</source>
-        <translation>Предоставлен общий доступ к файлу</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>updated file</source>
-        <translation>Обновил файл</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>renamed file</source>
-        <translation>Переименовал файл</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>removed file</source>
-        <translation>Удаленный файл</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>commented file</source>
-        <translation>Файл с комментариями</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>created file</source>
-        <translation>Созданный файл</translation>
-    </message>
-    <message>
-        <source>added to team</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>deleted file permanently</source>
-        <translation>Файл, удаленный без возможности восстановления</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>joined team by link</source>
-        <translation>присоединился к team по ссылке</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2637,25 +2313,339 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
         <source>Total</source>
         <translation>Итого</translation>
     </message>
+</context>
+<context>
+    <name>KCloudTeamIntroWidget</name>
     <message>
-        <source>members</source>
+        <source>Share with others directly</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No more actions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit with other cooperators</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Team, A place for teamwork</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Create your team</source>
+        <translation>Создайте свою команду Team</translation>
+    </message>
+    <message>
+        <source>Trace documents easily</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>History versions included</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Fear to lose data</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KVipUpgradeGuideDialog</name>
+    <message>
+        <source>close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>privilege</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>picture to text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>upgrade immediately</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>text search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>download accelerate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>doc recover</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF в Word</translation>
+    </message>
+    <message>
+        <source>1G big file upload</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>batch download</source>
+        <translation>пакетная загрузка</translation>
+    </message>
+    <message>
+        <source>365G cloud space</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KComponentItem</name>
+    <message>
+        <source>docer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Docer Title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>action_component</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Action Title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Weather Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Task Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Weather Title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Docer Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>weather</source>
+        <translation>погода</translation>
+    </message>
+    <message>
+        <source>docer_component</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KLocalDocSearchResultWidget</name>
+    <message>
+        <source>Initializing...</source>
+        <translation>Инициализация...</translation>
+    </message>
+</context>
+<context>
+    <name>KOnlineDevicesTipDlg</name>
+    <message>
+        <source>You are currently logged on to WPS on the following devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>manage devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>online devices</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KDeviceListviewDelegate</name>
+    <message>
+        <source>local</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KComponentLoginTipsWidget</name>
+    <message>
+        <source>login</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To save your settings, please log on to your account first</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ContentSearchNotOpenWidget</name>
+    <message>
+        <source>content_UpgradeToWpsVipMode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open Content Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade To WPS Vip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>content_OpenContentSearchMode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More accurate search function</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KFileDirMenu</name>
+    <message>
+        <source>paste</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>new folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>refresh</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>download all/update</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>clear recycle bin</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDevicesLoadFailureWidget</name>
+    <message>
+        <source>retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Failed to get device, please</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KFileItemOperationInfoWidget</name>
+    <message>
+        <source>share</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>share folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Download all</source>
+        <translation>Загрузить все</translation>
+    </message>
+    <message>
+        <source>Upload to Cloud</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CopyTo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MoveTo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invite members</source>
+        <translation>Пригласить участников</translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation>Отправить файл</translation>
+    </message>
+    <message>
+        <source>Save to</source>
+        <translation>Сохранить в</translation>
+    </message>
+    <message>
+        <source>record versions for changes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upload File to Cloud</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Create a folder</source>
+        <translation>Создать папку</translation>
+    </message>
+</context>
+<context>
+    <name>KFileListRecentContentModel</name>
+    <message>
+        <source>today</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recent List</source>
+        <translation>Список последних файлов</translation>
+    </message>
+    <message>
+        <source>more early</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>yesterday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>within 7 days</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KAppCenterJsApi</name>
+    <message>
+        <source>APP ID already exists.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Link path does not exist.</source>
+        <translation>Путь ссылки не существует.</translation>
+    </message>
+    <message>
+        <source>Lnk File</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Call error.</source>
+        <translation>Ошибка вызова.</translation>
+    </message>
+    <message>
+        <source>Add Shortcut</source>
+        <translation>Добавить ярлык</translation>
+    </message>
+    <message>
+        <source>APP ID does not exist.</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>Visit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Edit text in PDF</source>
         <translation>Редактировать текст в PDF</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation>Восстановление 
-файлов</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1Month %2Day %3</source>
@@ -2663,7 +2653,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Picture to text</source>
-        <translation>Рисунок в текст</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add WPS Search to the desktop for more convenient use.</source>
@@ -2671,19 +2661,15 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>-cloud-</source>
-        <translation>-Облачный-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>-local-</source>
-        <translation>-Локальный-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 minute ago</source>
         <translation>Минут назад: %1</translation>
-    </message>
-    <message>
-        <source>No ads</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>today %1</source>
@@ -2691,7 +2677,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>yestoday %1</source>
-        <translation>Вчера %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 hour ago</source>
@@ -2703,7 +2689,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation>Объединение PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 days ago</source>
@@ -2719,15 +2705,11 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>PDF Signature</source>
-        <translation>Подпись PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF to Word</source>
         <translation>PDF в Word</translation>
-    </message>
-    <message>
-        <source>Cross-Platform Office suite</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Just now</source>
@@ -2747,313 +2729,6 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
 </context>
 <context>
-    <name>KDocerHotSearchListWidget</name>
-    <message>
-        <source>Docer HotSearch</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCloudTeamIntroWidget</name>
-    <message>
-        <source>Share with others directly</source>
-        <translation>Предоставляйте доступ другим пользователям напрямую</translation>
-    </message>
-    <message>
-        <source>No more actions</source>
-        <translation>Больше не требуется дополнительных действий</translation>
-    </message>
-    <message>
-        <source>Edit with other cooperators</source>
-        <translation>Редактируйте с другими сотрудниками</translation>
-    </message>
-    <message>
-        <source>Create your team</source>
-        <translation>Создайте свою команду Team</translation>
-    </message>
-    <message>
-        <source>Trace documents easily</source>
-        <translation>Легко отслеживайте документы</translation>
-    </message>
-    <message>
-        <source>History versions included</source>
-        <translation>Включены версии журнала</translation>
-    </message>
-    <message>
-        <source>No Fear to lose data</source>
-        <translation>Нет опасности потерять данные</translation>
-    </message>
-</context>
-<context>
-    <name>KVipUpgradeGuideDialog</name>
-    <message>
-        <source>close</source>
-        <translation>Закрыть</translation>
-    </message>
-    <message>
-        <source>privilege</source>
-        <translation>Преимущества</translation>
-    </message>
-    <message>
-        <source>picture to text</source>
-        <translation>Изображение в текст</translation>
-    </message>
-    <message>
-        <source>upgrade immediately</source>
-        <translation>Перейти сейчас</translation>
-    </message>
-    <message>
-        <source>super vip, enjoy</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>text search</source>
-        <translation>Полнотекстовый поиск</translation>
-    </message>
-    <message>
-        <source>download accelerate</source>
-        <translation>Ускорение загрузки</translation>
-    </message>
-    <message>
-        <source>doc recover</source>
-        <translation>Восстановление файла</translation>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation>PDF в Word</translation>
-    </message>
-    <message>
-        <source>1G big file upload</source>
-        <translation>Передача файлов размером 1 ГБ</translation>
-    </message>
-    <message>
-        <source>batch download</source>
-        <translation>пакетная загрузка</translation>
-    </message>
-    <message>
-        <source>365G cloud space</source>
-        <translation>365 ГБ пространства Cloud</translation>
-    </message>
-</context>
-<context>
-    <name>KLocalDocSearchResultWidget</name>
-    <message>
-        <source>Initializing...</source>
-        <translation>Инициализация...</translation>
-    </message>
-</context>
-<context>
-    <name>KOnlineDevicesTipDlg</name>
-    <message>
-        <source>You are currently logged on to WPS on the following devices</source>
-        <translation>Устройства, на которых выполнен вход в WPS Office</translation>
-    </message>
-    <message>
-        <source>manage devices</source>
-        <translation>Управление устройствами</translation>
-    </message>
-    <message>
-        <source>Experience document synchronization across devices</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Log in to more devices &gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>online devices</source>
-        <translation>Устройства, на которых выполнен вход</translation>
-    </message>
-</context>
-<context>
-    <name>KDeviceListviewDelegate</name>
-    <message>
-        <source>local</source>
-        <translation>Текущее устройство</translation>
-    </message>
-</context>
-<context>
-    <name>KComponentLoginTipsWidget</name>
-    <message>
-        <source>login</source>
-        <translation>Войти</translation>
-    </message>
-    <message>
-        <source>To save your settings, please log on to your account first</source>
-        <translation>Войдите для сохранения параметров</translation>
-    </message>
-</context>
-<context>
-    <name>ContentSearchNotOpenWidget</name>
-    <message>
-        <source>content_UpgradeToWpsVipMode</source>
-        <translation>Получить статус Premium для поиска полного текста</translation>
-    </message>
-    <message>
-        <source>Open Content Search</source>
-        <translation>Открыть полнотекстовый поиск</translation>
-    </message>
-    <message>
-        <source>Upgrade To WPS Vip</source>
-        <translation>Получить статус Premium</translation>
-    </message>
-    <message>
-        <source>content_OpenContentSearchMode</source>
-        <translation>Получить статус Premium для поиска содержимого с полным текстом</translation>
-    </message>
-    <message>
-        <source>More accurate search function</source>
-        <translation>Более точный поиск</translation>
-    </message>
-</context>
-<context>
-    <name>KFileDirMenu</name>
-    <message>
-        <source>paste</source>
-        <translation>Вставить</translation>
-    </message>
-    <message>
-        <source>new folder</source>
-        <translation>Новая папка</translation>
-    </message>
-    <message>
-        <source>refresh</source>
-        <translation>Обновить</translation>
-    </message>
-    <message>
-        <source>download all/update</source>
-        <translation>Загрузить все</translation>
-    </message>
-    <message>
-        <source>clear recycle bin</source>
-        <translation>Очистить корзину</translation>
-    </message>
-</context>
-<context>
-    <name>QDevicesLoadFailureWidget</name>
-    <message>
-        <source>retry</source>
-        <translation>Повторить</translation>
-    </message>
-    <message>
-        <source>Failed to get device, please</source>
-        <translation>Не удалось получить доступ к устройствам, </translation>
-    </message>
-</context>
-<context>
-    <name>KFileItemOperationInfoWidget</name>
-    <message>
-        <source>share</source>
-        <translation>Поделиться</translation>
-    </message>
-    <message>
-        <source>share folder</source>
-        <translation>Поделиться</translation>
-    </message>
-    <message>
-        <source>Download all</source>
-        <translation>Загрузить все</translation>
-    </message>
-    <message>
-        <source>Upload to Cloud</source>
-        <translation>Сохранить в облаке</translation>
-    </message>
-    <message>
-        <source>CopyTo</source>
-        <translation>Копировать</translation>
-    </message>
-    <message>
-        <source>MoveTo</source>
-        <translation>Переместить</translation>
-    </message>
-    <message>
-        <source>Join Collaborative editing</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invite members</source>
-        <translation>Пригласить участников</translation>
-    </message>
-    <message>
-        <source>Upload file</source>
-        <translation>Отправить файл</translation>
-    </message>
-    <message>
-        <source>%1 Working together to edit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Save to</source>
-        <translation>Сохранить в</translation>
-    </message>
-    <message>
-        <source>record versions for changes</source>
-        <translation>Включить журнал версий</translation>
-    </message>
-    <message>
-        <source>Upload File to Cloud</source>
-        <translation>Передать в WPS Cloud</translation>
-    </message>
-    <message>
-        <source>Create a folder</source>
-        <translation>Создать папку</translation>
-    </message>
-    <message>
-        <source>Online editing</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KFileListRecentContentModel</name>
-    <message>
-        <source>today</source>
-        <translation>Сегодня</translation>
-    </message>
-    <message>
-        <source>Recent List</source>
-        <translation>Список последних файлов</translation>
-    </message>
-    <message>
-        <source>more early</source>
-        <translation>Раньше</translation>
-    </message>
-    <message>
-        <source>yesterday</source>
-        <translation>Вчера</translation>
-    </message>
-    <message>
-        <source>within 7 days</source>
-        <translation>В течение 7 дней</translation>
-    </message>
-</context>
-<context>
-    <name>KAppCenterJsApi</name>
-    <message>
-        <source>APP ID already exists.</source>
-        <translation>Идентификатор приложения уже существует.</translation>
-    </message>
-    <message>
-        <source>Link path does not exist.</source>
-        <translation>Путь ссылки не существует.</translation>
-    </message>
-    <message>
-        <source>Lnk File</source>
-        <translation>Ярлык</translation>
-    </message>
-    <message>
-        <source>Call error.</source>
-        <translation>Ошибка вызова.</translation>
-    </message>
-    <message>
-        <source>Add Shortcut</source>
-        <translation>Добавить ярлык</translation>
-    </message>
-    <message>
-        <source>APP ID does not exist.</source>
-        <translation>Идентификатор приложения не существует.</translation>
-    </message>
-</context>
-<context>
     <name>KUserInfoWidgetLoginWidget_xa</name>
     <message>
         <source>Template Premium</source>
@@ -3065,17 +2740,6 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>PDF ToolKit</source>
-        <translation>Набор средств для PDF-файлов</translation>
-    </message>
-</context>
-<context>
-    <name>KRecentFileDesktopToolWidget</name>
-    <message>
-        <source>Add To Desktop</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Start WPS Document Assistant</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3102,11 +2766,11 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Content Search</source>
-        <translation>Полнотекстовый поиск</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Return</source>
-        <translation>Назад</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Initialization</source>
@@ -3122,88 +2786,10 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
 </context>
 <context>
-    <name>KCloudTipsContentWidget</name>
-    <message>
-        <source>365G space full</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Free 1G space was full,</source>
-        <translation>1 ГБ бесплатного пространства заполнен,</translation>
-    </message>
-    <message>
-        <source>VIP 100G space was full,</source>
-        <translation>100 ГБ VIP-пространства заполнены,</translation>
-    </message>
-    <message>
-        <source>VIP 100G space was remaining 5%</source>
-        <translation>От 100 ГБ VIP-пространства осталось менее 5%</translation>
-    </message>
-    <message>
-        <source>Clean cloud space</source>
-        <translation>Очистить пространство Cloud</translation>
-    </message>
-    <message>
-        <source>Upgrade to WPS VIP succeed, current space 100G, %1% used</source>
-        <translation>Успешно обновлено до WPS VIP, текущее пространство 100 ГБ, используется %1%</translation>
-    </message>
-    <message>
-        <source>Extend to 100G</source>
-        <translation>Увеличить до 100 ГБ</translation>
-    </message>
-    <message>
-        <source>Extend to 365G</source>
-        <translation>Увеличить до 100 ГБ {365G?}</translation>
-    </message>
-    <message>
-        <source>Upgrade to WPS Super VIP succeed, current space 365G, %1% used</source>
-        <translation>Upgraded to WPS Super VIP successfully, current space 365 GB, %1% used</translation>
-    </message>
-    <message>
-        <source>Free 1G space was remaining 5%</source>
-        <translation>От 1 ГБ бесплатного пространства осталось менее 5%</translation>
-    </message>
-    <message>
-        <source>Free 1G space was full, %1 files not upload</source>
-        <translation>1 ГБ бесплатного пространства заполнен, файлы не переданы: %1</translation>
-    </message>
-    <message>
-        <source>VIP 100G space was full, %1 files not upload</source>
-        <translation>100 ГБ VIP-пространства заполнены, файлы не переданы: %1</translation>
-    </message>
-</context>
-<context>
     <name>KOtherSearchTipsWidget</name>
     <message>
         <source>You can still try.</source>
-        <translation>Также можно попробовать</translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherRequest</name>
-    <message>
-        <source>Unknown Location</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Monday</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Air Quality</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation>Неизвестно</translation>
     </message>
 </context>
 <context>
@@ -3234,18 +2820,16 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <message>
         <source>Unable to modify &quot;%1&quot;.
 This file has been opened by WPS, please close it first.</source>
-        <translation>Не удалось изменить &quot;%1&quot;.
-Файл открыт в WPS, закройте его.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to modify &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
-        <translation>Не удалось изменить &quot;%1&quot;.
-Возможно, этот файл переименован, удален или перемещен.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please check if there is another removing operation and wait or close it.</source>
-        <translation>Дождитесь выполнения другой операции удаления или закройте ее.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3267,7 +2851,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>remove</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide Tag Text</source>
@@ -3286,608 +2870,27 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KMsgCenterContentWidget</name>
-    <message>
-        <source>No news.</source>
-        <translation>Нет сообщений.</translation>
-    </message>
-    <message>
-        <source>Message Push</source>
-        <translation>Отправка Push-сообщения</translation>
-    </message>
-    <message>
-        <source>Advertisement Message</source>
-        <translation>Рекламное сообщение</translation>
-    </message>
-</context>
-<context>
-    <name>KLocationNavigationBar</name>
-    <message>
-        <source>Go To Parent</source>
-        <translation>Вверх</translation>
-    </message>
-    <message>
-        <source>Return</source>
-        <translation>Назад</translation>
-    </message>
-    <message>
-        <source>Forward</source>
-        <translation>Вперёд</translation>
-    </message>
-</context>
-<context>
-    <name>KThirdCloudNavigationBar</name>
-    <message>
-        <source>Go To Parent</source>
-        <translation>Вверх</translation>
-    </message>
-    <message>
-        <source>Return</source>
-        <translation>Назад</translation>
-    </message>
-    <message>
-        <source>Forward</source>
-        <translation>Вперёд</translation>
-    </message>
-</context>
-<context>
-    <name>KSchoolActivityTip</name>
-    <message>
-        <source>Unlimited PDF to Word/Excel/PPT</source>
-        <translation>Неограниченное количество преобразований PDF-документов в формат Word/Excel/PPT</translation>
-    </message>
-    <message>
-        <source>Correction fluid in PDF</source>
-        <translation>Замазка в PDF-файлах</translation>
-    </message>
-</context>
-<context>
-    <name>KWeChatCSWidget</name>
-    <message>
-        <source>WPS After-sales</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCmdLnkEntry</name>
-    <message>
-        <source>lnk path(%1) or target not exists.</source>
-        <translation>Ярлык (%1) или целевой объект не существует.</translation>
-    </message>
-</context>
-<context>
-    <name>KWeChatCustomerServiceDlg</name>
-    <message>
-        <source>Discuss your problem with WPS customer service</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WeChat QR Code</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KRecAppLoadFailedWidget</name>
-    <message>
-        <source>Network exception, file failed to load</source>
-        <translation>Исключение сети. Не удалось загрузить файл</translation>
-    </message>
-    <message>
-        <source>Environment exception, app failed to load</source>
-        <translation>Исключение среды. Не удалось загрузить приложение</translation>
-    </message>
-    <message>
-        <source>Load Faild</source>
-        <translation>Ошибка загрузки</translation>
-    </message>
-    <message>
-        <source>Network exception, app failed to load</source>
-        <translation>Исключение сети. Не удалось загрузить приложение</translation>
-    </message>
-</context>
-<context>
-    <name>KCloudSpaceFullTipsWidget</name>
-    <message>
-        <source>Don&apos;t remind me near future</source>
-        <translation>Не напоминать мне в ближайшем будущем</translation>
-    </message>
-</context>
-<context>
-    <name>KLocationListSpecialContentModel</name>
-    <message>
-        <source>Create Company</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KTeamListView</name>
-    <message>
-        <source>Now Loading</source>
-        <translation>Загрузка</translation>
-    </message>
-    <message>
-        <source>No Team</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KTeamMemberListView</name>
-    <message>
-        <source>Now Loading</source>
-        <translation>Загрузка</translation>
-    </message>
-    <message>
-        <source>No Member</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KContentModelLocalLogic</name>
-    <message>
-        <source>Removable Drive</source>
-        <translation>Съемный диск</translation>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation>Документы</translation>
-    </message>
-    <message>
-        <source>Desktop</source>
-        <translation>Рабочий стол</translation>
-    </message>
-    <message>
-        <source>Local Drive</source>
-        <translation>Локальный диск</translation>
-    </message>
-</context>
-<context>
-    <name>SearchTipsWidget</name>
-    <message>
-        <source>Docer search</source>
-        <translation>Поиск шаблонов</translation>
-    </message>
-    <message>
-        <source>Search Again</source>
-        <translation>Повторить поиск</translation>
-    </message>
-</context>
-<context>
-    <name>KCommonSearchResultWidget</name>
-    <message>
-        <source>More results are being searched...</source>
-        <translation>Поиск дополнительных результатов...</translation>
-    </message>
-    <message>
-        <source>document</source>
-        <translation>Документ</translation>
-    </message>
-    <message>
-        <source>history version</source>
-        <translation>Версия журнала</translation>
-    </message>
-</context>
-<context>
-    <name>KOpenWayItemWidget</name>
-    <message>
-        <source>has modify - newest</source>
-        <translation>есть изменения — последняя версия</translation>
-    </message>
-    <message>
-        <source>Search local backup</source>
-        <translation>Поиск локальной резервной копии</translation>
-    </message>
-    <message>
-        <source>(recommend)</source>
-        <translation>(рекомендуется)</translation>
-    </message>
-    <message>
-        <source>backup</source>
-        <translation>Резервное копирование</translation>
-    </message>
-    <message>
-        <source>no modify</source>
-        <translation>Без изменений</translation>
-    </message>
-    <message>
-        <source>Open backup folder to search backup file</source>
-        <translation>Открыть папку резервных копий для поиска файла резервной копии</translation>
-    </message>
-    <message>
-        <source>%1, %2/has modifyed</source>
-        <translation>%1, %2 изменены</translation>
-    </message>
-    <message>
-        <source>Use Cloud Duplicate</source>
-        <translation>Использовать облачный дубликат</translation>
-    </message>
-    <message>
-        <source>Use Local file</source>
-        <translation>Использовать локальный файл</translation>
-    </message>
-    <message>
-        <source>Open all to compare</source>
-        <translation>Открыть все документы для сравнения</translation>
-    </message>
-    <message>
-        <source>modify earlier version will auto rename %1</source>
-        <translation>При изменении предыдущей версии автоматически изменится имя %1</translation>
-    </message>
-</context>
-<context>
-    <name>KLocationListTitleWidget</name>
-    <message>
-        <source>%1 teams</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KThirdCloudFileListWidget</name>
-    <message>
-        <source>loading failed</source>
-        <translation>Не удалось загрузить список файлов.</translation>
-    </message>
-    <message>
-        <source>Authorization is invalid</source>
-        <translation>Недействительный авторизованный вход.</translation>
-    </message>
-    <message>
-        <source>File list is loading for you</source>
-        <translation>Загрузка списка файлов для вас...</translation>
-    </message>
-    <message>
-        <source>try again</source>
-        <translation>Повторить попытку</translation>
-    </message>
-    <message>
-        <source>re-authorize</source>
-        <translation>Авторизовать еще раз</translation>
-    </message>
-</context>
-<context>
-    <name>NotCloudSearchResultWidget</name>
-    <message>
-        <source>Content Search</source>
-        <translation>Полнотекстовый поиск</translation>
-    </message>
-    <message>
-        <source>Did not search for %1 related content, see</source>
-        <translation>Не выполнен поиск связанного с %1 содержимого, просмотр</translation>
-    </message>
-</context>
-<context>
-    <name>NotCloudSearchResultWidget2</name>
-    <message>
-        <source>Content Search</source>
-        <translation>Полнотекстовый поиск</translation>
-    </message>
-    <message>
-        <source>Did not search for %1 related content, see</source>
-        <translation>Не выполнен поиск связанного с %1 содержимого, просмотр</translation>
-    </message>
-    <message>
-        <source>Did not search for %1 related content</source>
-        <translation>Не выполнен поиск связанного с %1 содержимого</translation>
-    </message>
-</context>
-<context>
-    <name>KStartPageHomeRadarFileList</name>
-    <message>
-        <source>My Cloud Doc</source>
-        <translation>Мои Cloud-файлы</translation>
-    </message>
-</context>
-<context>
-    <name>KStartPageHomeRecentFileList</name>
-    <message>
-        <source>My Cloud Doc</source>
-        <translation>Мои Cloud-файлы</translation>
-    </message>
-</context>
-<context>
-    <name>KShareWpsWidget</name>
-    <message>
-        <source>Recommend WPS Office 2020 to friends</source>
-        <translation>Рекомендуйте WPS Office своим друзьям</translation>
-    </message>
-</context>
-<context>
-    <name>KAddDesktopToolSuccessTipsWidget</name>
-    <message>
-        <source>Successful addition of WPS document Assistant</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Successful start of WPS document Assistant</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>SearchNetWorkErrorWidget</name>
-    <message>
-        <source>The current network is unreachable and can not search for cloud documents.</source>
-        <translation>Ошибка сети. Не удалось выполнить поиск.</translation>
-    </message>
-</context>
-<context>
-    <name>KContentModelCloudLogic</name>
-    <message>
-        <source>Please save the document to WPS Cloud Space</source>
-        <translation>Сохраните документ в пространство WPS Cloud</translation>
-    </message>
-    <message>
-        <source>recovered file from recycle-bin</source>
-        <translation>Файл, восстановленный из корзины</translation>
-    </message>
-    <message>
-        <source>Only documents saved to the cloud can add star tag</source>
-        <translation>Тег звездочки можно добавлять только к документам, сохраненным в облаке</translation>
-    </message>
-    <message>
-        <source>add file</source>
-        <translation>Добавил файл</translation>
-    </message>
-    <message>
-        <source>moved file out</source>
-        <translation>Перемещенный файл</translation>
-    </message>
-    <message>
-        <source>shared file to %1</source>
-        <translation>Предоставлен общий доступ к файлу</translation>
-    </message>
-    <message>
-        <source>updated file</source>
-        <translation>Обновил файл</translation>
-    </message>
-    <message>
-        <source>renamed file</source>
-        <translation>Переименовал файл</translation>
-    </message>
-    <message>
-        <source>removed file</source>
-        <translation>Удаленный файл</translation>
-    </message>
-    <message>
-        <source>commented file</source>
-        <translation>Файл с комментариями</translation>
-    </message>
-    <message>
-        <source>created file</source>
-        <translation>Созданный файл</translation>
-    </message>
-    <message>
-        <source>deleted file permanently</source>
-        <translation>Файл, удаленный без возможности восстановления</translation>
-    </message>
-</context>
-<context>
-    <name>KItemDragLabelWidget</name>
-    <message>
-        <source>move to</source>
-        <translation>Переместить</translation>
-    </message>
-    <message>
-        <source>copy to</source>
-        <translation>Копировать</translation>
-    </message>
-</context>
-<context>
-    <name>KInstantAppMore</name>
-    <message>
-        <source>Templates</source>
-        <translation>Шаблоны</translation>
-    </message>
-</context>
-<context>
-    <name>KWaitDownloadControl</name>
-    <message>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Download Failed</source>
-        <translation>Сбой загрузки</translation>
-    </message>
-</context>
-<context>
-    <name>KLinkMessageBox</name>
-    <message>
-        <source>Open Folder</source>
-        <translation>Открыть папку</translation>
-    </message>
-    <message>
-        <source>warning</source>
-        <translation>Предупреждение</translation>
-    </message>
-    <message>
-        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation>Не удается найти папку &quot;%1&quot; . Возможно, она удалена, перемещена или переименована.</translation>
-    </message>
-</context>
-<context>
-    <name>SearchResultWidget</name>
-    <message>
-        <source>My Device</source>
-        <translation>Мое устройство</translation>
-    </message>
-    <message>
-        <source>Cloud Team Document</source>
-        <translation>Документ Cloud Team</translation>
-    </message>
-    <message>
-        <source>Share To Me</source>
-        <translation>Поделись со мной</translation>
-    </message>
-    <message>
-        <source>WPS Cloud Document</source>
-        <translation>WPS Cloud</translation>
-    </message>
-</context>
-<context>
-    <name>KRightSidePopupMenu</name>
-    <message>
-        <source>Expand</source>
-        <translation>Развернуть</translation>
-    </message>
-    <message>
-        <source>Collapse</source>
-        <translation>Свернуть</translation>
-    </message>
-    <message>
-        <source>Feedback</source>
-        <translation>Отзывы</translation>
-    </message>
-</context>
-<context>
-    <name>KTeamMsgListDelegate</name>
-    <message>
-        <source>Expand</source>
-        <translation>Развернуть</translation>
-    </message>
-    <message>
-        <source>Shrink</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KFileListWidget</name>
-    <message>
-        <source>Filter</source>
-        <translation>Фильтр</translation>
-    </message>
-    <message>
-        <source>Share Folder Details</source>
-        <translation>Сведения об общей папке</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Обновить</translation>
-    </message>
-    <message>
-        <source>Devices</source>
-        <translation>Устройства</translation>
-    </message>
-    <message>
-        <source>Show Online Device List</source>
-        <translation>Устройства, на которых выполнен вход</translation>
-    </message>
-</context>
-<context>
-    <name>KStartPageHomeBaseFileArea</name>
-    <message>
-        <source>Filter</source>
-        <translation>Фильтр</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Обновить</translation>
-    </message>
-    <message>
-        <source>Devices</source>
-        <translation>Устройства</translation>
-    </message>
-    <message>
-        <source>Show Online Device List</source>
-        <translation>Устройства, на которых выполнен вход</translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherCitySettingWidget</name>
-    <message>
-        <source>Finish</source>
-        <translation>Конец</translation>
-    </message>
-    <message>
-        <source>weather settings</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCloudLoadErrorWidget</name>
-    <message>
-        <source>Please check permission</source>
-        <translation>Проверьте разрешение</translation>
-    </message>
-    <message>
-        <source>Please check your network-connection</source>
-        <translation>Проверьте свою сеть</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Обновить</translation>
-    </message>
-    <message>
-        <source>Please check file-existence</source>
-        <translation>Проверьте существование папки</translation>
-    </message>
-    <message>
-        <source>Please check disk-status</source>
-        <translation>Проверьте состояние диска</translation>
-    </message>
-</context>
-<context>
-    <name>KCloudTeamMessageWidget</name>
-    <message>
-        <source>Unable to acquire file info. Check whether this file has been deleted or moved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>Unable to acquire location info. Check whether this location has been deleted or moved.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCloudDocsContentWidget</name>
-    <message>
-        <source>No news</source>
-        <translation>Нет новостей</translation>
-    </message>
-</context>
-<context>
-    <name>KThirdCloudListView</name>
-    <message>
-        <source>Logout</source>
-        <translation>Выход</translation>
-    </message>
-</context>
-<context>
-    <name>KTeamAreaFileListTitleWidget</name>
-    <message>
-        <source>Manage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invite members</source>
-        <translation>Пригласить участников</translation>
-    </message>
-    <message>
-        <source>(%1 members)</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCloudTeamMemberContentWidget</name>
-    <message>
-        <source>Only administrators can invite members to join</source>
-        <translation>Только администраторы могут приглашать участников</translation>
-    </message>
-</context>
-<context>
-    <name>KStartPageLineEditWidget</name>
-    <message>
-        <source>Search for documents, templates ...</source>
-        <translation>Поиск документов</translation>
-    </message>
-    <message>
-        <source>We need some time to prepare</source>
-        <translation>Требуется время для подготовки</translation>
-    </message>
-</context>
-<context>
     <name>KTemplateGuideDialog</name>
+    <message>
+        <source>Inspire your design inspiration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Optimize warehouse management</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We&apos;ll recommend suitable templates for you</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>HR &amp; Administrative</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>For sales, legal and service industries</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <source>Others</source>
         <translation>Другое</translation>
@@ -3897,8 +2900,16 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Для спорта, диеты и здоровья</translation>
     </message>
     <message>
+        <source>Select your interest field</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Social &amp; Life</source>
         <translation>Социальная активность и жизнь</translation>
+    </message>
+    <message>
+        <source>Reduce the workload</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make your report cooler</source>
@@ -3936,6 +2947,674 @@ This file may have been renamed, deleted or moved.</source>
         <source>Finance</source>
         <translation>Финансы</translation>
     </message>
+    <message>
+        <source>Save time with standardized templates</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SCM/Supply Chain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KMsgCenterContentWidget</name>
+    <message>
+        <source>No news.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Message Push</source>
+        <translation>Отправка Push-сообщения</translation>
+    </message>
+    <message>
+        <source>Advertisement Message</source>
+        <translation>Рекламное сообщение</translation>
+    </message>
+</context>
+<context>
+    <name>KLocationNavigationBar</name>
+    <message>
+        <source>Go To Parent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Return</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Вперёд</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudNavigationBar</name>
+    <message>
+        <source>Go To Parent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Return</source>
+        <translation>Назад</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Вперёд</translation>
+    </message>
+</context>
+<context>
+    <name>KSchoolActivityTip</name>
+    <message>
+        <source>Unlimited PDF to Word/Excel/PPT</source>
+        <translation>Неограниченное количество преобразований PDF-документов в формат Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Correction fluid in PDF</source>
+        <translation>Замазка в PDF-файлах</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudTipsContentWidget</name>
+    <message>
+        <source>Free 1G space was full,</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VIP 100G space was full,</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VIP 100G space was remaining 5%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clean cloud space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade to WPS VIP succeed, current space 100G, %1% used</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extend to 100G</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extend to 365G</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade to WPS Super VIP succeed, current space 365G, %1% used</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Free 1G space was remaining 5%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Free 1G space was full, %1 files not upload</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VIP 100G space was full, %1 files not upload</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCmdLnkEntry</name>
+    <message>
+        <source>lnk path(%1) or target not exists.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KRecAppLoadFailedWidget</name>
+    <message>
+        <source>Network exception, file failed to load</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Environment exception, app failed to load</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Load Faild</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Network exception, app failed to load</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCloudSpaceFullTipsWidget</name>
+    <message>
+        <source>Don&apos;t remind me near future</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KFileOpenProxy</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation>Не удалось открыть &quot;%1&quot;.
+Возможно, этот файл переименован, удален или перемещен.</translation>
+    </message>
+    <message>
+        <source>WPS/Word Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Web Pages</source>
+        <translation>Веб-страницы</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>Text Files</source>
+        <translation>Текстовые файлы</translation>
+    </message>
+    <message>
+        <source>Add Files</source>
+        <translation>Добавить файлы</translation>
+    </message>
+    <message>
+        <source>Access Databases</source>
+        <translation>Базы данных Access</translation>
+    </message>
+    <message>
+        <source>DBase Files</source>
+        <translation>Файлы DBase</translation>
+    </message>
+    <message>
+        <source>Pdf Files</source>
+        <translation>Файлы PDF</translation>
+    </message>
+    <message>
+        <source>Rtf Files</source>
+        <translation>Файлы RTF</translation>
+    </message>
+    <message>
+        <source>DIF Files</source>
+        <translation>Файлы DIF</translation>
+    </message>
+    <message>
+        <source>Single Web Page Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ET/Excel Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query Files</source>
+        <translation>Файлы запроса</translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open File</source>
+        <translation>Открыть файл</translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation>Файлы XML</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>Все файлы</translation>
+    </message>
+    <message>
+        <source>All Data Sources</source>
+        <translation>Все источники данных</translation>
+    </message>
+    <message>
+        <source>WPP/PowerPoint Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&quot;%1&quot;
+this file has been opened, can&apos;t write data.please close file and retry.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KTeamListView</name>
+    <message>
+        <source>Now Loading</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KTeamMemberListView</name>
+    <message>
+        <source>Now Loading</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KContentModelLocalLogic</name>
+    <message>
+        <source>Removable Drive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation>Документы</translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation>Рабочий стол</translation>
+    </message>
+    <message>
+        <source>Local Drive</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>SearchTipsWidget</name>
+    <message>
+        <source>Docer search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search Again</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCommonSearchResultWidget</name>
+    <message>
+        <source>More results are being searched...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>history version</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KOpenWayItemWidget</name>
+    <message>
+        <source>has modify - newest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search local backup</source>
+        <translation>Поиск локальной резервной копии</translation>
+    </message>
+    <message>
+        <source>(recommend)</source>
+        <translation>(рекомендуется)</translation>
+    </message>
+    <message>
+        <source>backup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>no modify</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open backup folder to search backup file</source>
+        <translation>Открыть папку резервных копий для поиска файла резервной копии</translation>
+    </message>
+    <message>
+        <source>%1, %2/has modifyed</source>
+        <translation>%1, %2 изменены</translation>
+    </message>
+    <message>
+        <source>Use Cloud Duplicate</source>
+        <translation>Использовать облачный дубликат</translation>
+    </message>
+    <message>
+        <source>Use Local file</source>
+        <translation>Использовать локальный файл</translation>
+    </message>
+    <message>
+        <source>Open all to compare</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>modify earlier version will auto rename %1</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudFileListWidget</name>
+    <message>
+        <source>loading failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Authorization is invalid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File list is loading for you</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>re-authorize</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>NotCloudSearchResultWidget</name>
+    <message>
+        <source>Content Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Did not search for %1 related content, see</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>NotCloudSearchResultWidget2</name>
+    <message>
+        <source>Content Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Did not search for %1 related content, see</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Did not search for %1 related content</source>
+        <translation>Не выполнен поиск связанного с %1 содержимого</translation>
+    </message>
+</context>
+<context>
+    <name>KStartPageHomeRadarFileList</name>
+    <message>
+        <source>My Cloud Doc</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartPageHomeRecentFileList</name>
+    <message>
+        <source>My Cloud Doc</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KShareWpsWidget</name>
+    <message>
+        <source>Recommend WPS Office 2020 to friends</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>SearchNetWorkErrorWidget</name>
+    <message>
+        <source>The current network is unreachable and can not search for cloud documents.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KContentModelCloudLogic</name>
+    <message>
+        <source>Please save the document to WPS Cloud Space</source>
+        <translation>Сохраните документ в пространство WPS Cloud</translation>
+    </message>
+    <message>
+        <source>recovered file from recycle-bin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Only documents saved to the cloud can add star tag</source>
+        <translation>Тег звездочки можно добавлять только к документам, сохраненным в облаке</translation>
+    </message>
+    <message>
+        <source>add file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>moved file out</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>shared file to %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>updated file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>renamed file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>removed file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>commented file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>created file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>deleted file permanently</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KItemDragLabelWidget</name>
+    <message>
+        <source>move to</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>copy to</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KInstantAppMore</name>
+    <message>
+        <source>Templates</source>
+        <translation>Шаблоны</translation>
+    </message>
+</context>
+<context>
+    <name>KWaitDownloadControl</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Download Failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KLinkMessageBox</name>
+    <message>
+        <source>Open Folder</source>
+        <translation>Открыть папку</translation>
+    </message>
+    <message>
+        <source>warning</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>SearchResultWidget</name>
+    <message>
+        <source>My Device</source>
+        <translation>Мое устройство</translation>
+    </message>
+    <message>
+        <source>Cloud Team Document</source>
+        <translation>Документ Cloud Team</translation>
+    </message>
+    <message>
+        <source>Share To Me</source>
+        <translation>Поделись со мной</translation>
+    </message>
+    <message>
+        <source>WPS Cloud Document</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KRightSidePopupMenu</name>
+    <message>
+        <source>Expand</source>
+        <translation>Развернуть</translation>
+    </message>
+    <message>
+        <source>Collapse</source>
+        <translation>Свернуть</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Отзывы</translation>
+    </message>
+</context>
+<context>
+    <name>KTeamMsgListDelegate</name>
+    <message>
+        <source>Expand</source>
+        <translation>Развернуть</translation>
+    </message>
+</context>
+<context>
+    <name>KFileListWidget</name>
+    <message>
+        <source>Filter</source>
+        <translation>Фильтр</translation>
+    </message>
+    <message>
+        <source>Share Folder Details</source>
+        <translation>Сведения об общей папке</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Обновить</translation>
+    </message>
+    <message>
+        <source>Devices</source>
+        <translation>Устройства</translation>
+    </message>
+    <message>
+        <source>Show Online Device List</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartPageHomeBaseFileArea</name>
+    <message>
+        <source>Filter</source>
+        <translation>Фильтр</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Обновить</translation>
+    </message>
+    <message>
+        <source>Devices</source>
+        <translation>Устройства</translation>
+    </message>
+    <message>
+        <source>Show Online Device List</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherCitySettingWidget</name>
+    <message>
+        <source>Finish</source>
+        <translation>Конец</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudLoadErrorWidget</name>
+    <message>
+        <source>Please check permission</source>
+        <translation>Проверьте разрешение</translation>
+    </message>
+    <message>
+        <source>Please check your network-connection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Обновить</translation>
+    </message>
+    <message>
+        <source>Please check file-existence</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please check disk-status</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCloudDocsContentWidget</name>
+    <message>
+        <source>No news</source>
+        <translation>Нет новостей</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudListView</name>
+    <message>
+        <source>Logout</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCloudTeamMemberContentWidget</name>
+    <message>
+        <source>Only administrators can invite members to join</source>
+        <translation>Только администраторы могут приглашать участников</translation>
+    </message>
+</context>
+<context>
+    <name>KStartPageLineEditWidget</name>
+    <message>
+        <source>Search for documents, templates ...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We need some time to prepare</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCloudTeamMessageWidget</name>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
 </context>
 <context>
     <name>KFileTransferButton</name>
@@ -3967,18 +3646,18 @@ This file may have been renamed, deleted or moved.</source>
     <name>KTitleWidget</name>
     <message>
         <source>Return</source>
-        <translation>Назад</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KComponentItemSwitch</name>
     <message>
         <source>Remove component from message center area</source>
-        <translation>Удалить компонент из центра сообщений</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add component to message center area</source>
-        <translation>Добавить компонент в центр сообщений</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3996,29 +3675,29 @@ This file may have been renamed, deleted or moved.</source>
     <name>KPromeStartPageAvatar</name>
     <message>
         <source>offline</source>
-        <translation>Не в сети</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>online</source>
-        <translation>В сети</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KStartPageHomeRadarFileListControl</name>
     <message>
         <source>Please check if there is another removing operation and wait or close it.</source>
-        <translation>Дождитесь выполнения другой операции удаления или закройте ее.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KComponentCollapseBtn</name>
     <message>
         <source>collapse</source>
-        <translation>Свернуть</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>extend</source>
-        <translation>Развернуть</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4026,10 +3705,6 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Collapse</source>
         <translation>Свернуть</translation>
-    </message>
-    <message>
-        <source>Switch Page</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback</source>
@@ -4040,14 +3715,14 @@ This file may have been renamed, deleted or moved.</source>
     <name>KStartPageBodyBaseWidget</name>
     <message>
         <source>not impl</source>
-        <translation>Не завершено</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KFileListOpenSelectDialog</name>
     <message>
         <source>in local directory reserve backup that never be open</source>
-        <translation>Сохранить резервную копию неоткрытой версии в локальном каталоге</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Local file has lost</source>
@@ -4055,11 +3730,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>File exist not merge modify</source>
-        <translation>У файла есть необъединенные изменения</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please select the action to take</source>
-        <translation>Выберите действие:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4071,6 +3746,13 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Search Member</source>
         <translation>Поиск участника</translation>
+    </message>
+</context>
+<context>
+    <name>KTeamAreaFileListTitleWidget</name>
+    <message>
+        <source>Invite members</source>
+        <translation>Пригласить участников</translation>
     </message>
 </context>
 <context>
@@ -4092,30 +3774,30 @@ This file may have been renamed, deleted or moved.</source>
     <name>KAppSearchListWidget</name>
     <message>
         <source>is bottom</source>
-        <translation>У меня есть граница.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>showAll</source>
-        <translation>Показать всё</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>application</source>
-        <translation>Приложение</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SearchCtrlErrorWidget</name>
     <message>
         <source>Oops! Something&apos;s wrong with the search function.</source>
-        <translation>Ошибка поиска.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Try update to the latest WPS Office and </source>
-        <translation>Выполните обновление до последней версии и</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>search again.</source>
-        <translation>Повторите поиск.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4132,8 +3814,12 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Установить по умолчанию</translation>
     </message>
     <message>
+        <source>Always open PDFs in WPS Office</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>No more show</source>
-        <translation>Больше не показывать</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4149,10 +3835,6 @@ This file may have been renamed, deleted or moved.</source>
         <source>You are using</source>
         <translation>Вы используете</translation>
     </message>
-    <message>
-        <source>guest account</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KMsgListViewDelegate</name>
@@ -4162,11 +3844,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>feedback</source>
-        <translation>Отзывы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>remove message</source>
-        <translation>Удалить сообщение</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4174,18 +3856,6 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Show Recent Locations</source>
         <translation>Показать последние местоположения</translation>
-    </message>
-    <message>
-        <source>Search Team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add Team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>My Teams</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4204,7 +3874,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестно</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Administrator</source>
@@ -4227,25 +3897,6 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KUserInfoWidgetLoginWidget</name>
-    <message>
-        <source>wallet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Docer Vip</source>
-        <translation>Docer Premium</translation>
-    </message>
-    <message>
-        <source>WPS Super Vip</source>
-        <translation>Super Premium</translation>
-    </message>
-    <message>
-        <source>WPS Vip</source>
-        <translation>Premium</translation>
-    </message>
-</context>
-<context>
     <name>SearchLoadingWidget</name>
     <message>
         <source>Searching ...</source>
@@ -4256,18 +3907,18 @@ This file may have been renamed, deleted or moved.</source>
     <name>KNewUserGuideStep_Pdf</name>
     <message>
         <source>Take a tour of powerful PDF editing tools</source>
-        <translation>Ознакомьтесь с эффективными инструментами редактирования PDF-файлов</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quickly learn about the free privileges of PDF, and how to edit text and pictures.</source>
-        <translation>В этом документе справки представлена краткая информация о таких бесплатных правах в WPS PDF, как доступ к функции преобразования PDF в Word, а также способах редактирования текста и изображений.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KMenuSettingAboutWidget</name>
     <message>
         <source>Click here to copy version info</source>
-        <translation>Щелкните, чтобы скопировать сведения о версии</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4281,22 +3932,22 @@ This file may have been renamed, deleted or moved.</source>
     <name>KLocationListDelegate</name>
     <message>
         <source>ShareToMe</source>
-        <translation>Предоставить общий доступ мне</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShareItems</source>
-        <translation>Поделиться</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShareFromMe</source>
-        <translation>Предоставить общий доступ от меня</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KCloudStorageWidget</name>
     <message>
         <source>recycle</source>
-        <translation>Корзина</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4307,28 +3958,32 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KAddRecentFileDesktopToolPopouWidget</name>
-    <message>
-        <source>After opening, you can view documents using the WPS Document Assistant  on the desktop directly.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No more &quot;Add&quot; button information displayed</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KNetworkErrorTipsWidget</name>
     <message>
         <source>Network Error</source>
-        <translation>Не удается выполнить действие, проверьте сеть</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KDisplayAllResultBtn</name>
     <message>
         <source>Display All Result</source>
-        <translation>Отобразить все результаты</translation>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KUserInfoWidgetLoginWidget</name>
+    <message>
+        <source>Docer Vip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Super Vip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Vip</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4347,38 +4002,13 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KFileEventsInfoWidget</name>
-    <message>
-        <source>%1 sharing</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 collaboration</source>
-        <translation>Облачная резервная копия</translation>
-    </message>
-</context>
-<context>
     <name>RightComponentErrorWidget</name>
     <message>
         <source>load config fail</source>
-        <translation>Не удалось загрузить конфигурацию</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>reload config</source>
-        <translation>Перезагрузить</translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherCurrentWeatherWidget</name>
-    <message>
-        <source>Switch City</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorUnknowBottomWidget</name>
-    <message>
-        <source>Switch City</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4390,7 +4020,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The free version of WPS Office has high compatibility with Microsoft Office, Google Docs, Adobe PDF, etc. Open your documents and explore it!</source>
-        <translation>Бесплатная версия WPS Office в высокой степени совместима с Microsoft Office, Google Docs, Adobe PDF и другими программами. Откройте свои документы, чтобы проверить совместимость!</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4405,24 +4035,10 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KWeatherErrorFailureBottomWidget</name>
-    <message>
-        <source>Manually adding cities</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherComponent</name>
-    <message>
-        <source>weather_component</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KDocerSearchListWidget</name>
     <message>
         <source>Docer Template Selection</source>
-        <translation>Шаблоны из Интернета</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View All</source>
@@ -4440,27 +4056,20 @@ This file may have been renamed, deleted or moved.</source>
     <name>KComponentTitle</name>
     <message>
         <source>feedback</source>
-        <translation>Отзывы</translation>
-    </message>
-</context>
-<context>
-    <name>KTeamListDelegate</name>
-    <message>
-        <source>Last UpdateTime:</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
-    <name>KWeatherCitySearchPopWidget</name>
+    <name>KWeatherRequest</name>
     <message>
-        <source>No city is matched</source>
-        <translation type="unfinished"/>
+        <source>Unknown</source>
+        <translation>Неизвестно</translation>
     </message>
 </context>
 <context>
-    <name>KWeatherErrorTitleWidget</name>
+    <name>KFileEventsInfoWidget</name>
     <message>
-        <source>Weather</source>
+        <source>%1 collaboration</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4468,7 +4077,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KRightComponentJsObj</name>
     <message>
         <source>APP ID does not exist.</source>
-        <translation>Идентификатор приложения не существует.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4479,17 +4088,10 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KWeatherLineEditWidget</name>
-    <message>
-        <source>Add cities to pay attention to the weather</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KLocationListView</name>
     <message>
         <source>Pin Cloud Items here</source>
-        <translation>Щелкните правой кнопкой, чтобы закрепить элементы Cloud здесь</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4517,7 +4119,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>SearchServerErrorWidget</name>
     <message>
         <source>The cloud document server is abnormal and can not search for cloud documents.</source>
-        <translation>Ошибка сервера. Не удалось выполнить поиск.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
