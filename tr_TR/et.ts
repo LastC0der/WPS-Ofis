@@ -34481,7 +34481,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>Pa&amp;ges</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sayfa</translation>
     </message>
     <message>
         <source>4 Pages</source>
@@ -34489,7 +34489,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>From top to &amp;bottom</source>
-        <translation type="unfinished"/>
+        <translation>Üstten a&amp;lta</translation>
     </message>
     <message>
         <source>Page range</source>
@@ -34533,7 +34533,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>9 Pages</source>
-        <translation type="unfinished"/>
+        <translation>9 Sayfa</translation>
     </message>
     <message>
         <source>&amp;Repeat</source>
@@ -34840,7 +34840,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Align or Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Hizala veya Dağıt</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -41630,7 +41630,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Okuma</translation>
     </message>
     <message>
         <source>Materials</source>
@@ -41742,7 +41742,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation>Seçim Konuşması</translation>
+        <translation>Seçim Okuması</translation>
     </message>
     <message>
         <source>Document Permission</source>
@@ -60390,7 +60390,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Okuma</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
@@ -60402,7 +60402,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation type="unfinished"/>
+        <translation>Seçim Okuması</translation>
     </message>
     <message>
         <source>Photo2Pdf</source>
