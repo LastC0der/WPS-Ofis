@@ -19956,7 +19956,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Xie De Menu</source>
-        <translation type="unfinished"/>
+        <translation>Yeni</translation>
     </message>
     <message>
         <source>Snapper</source>
