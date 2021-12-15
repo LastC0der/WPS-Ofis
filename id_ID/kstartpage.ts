@@ -10,58 +10,42 @@
         <translation>Edit</translation>
     </message>
     <message>
-        <source>Date: %1 - %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Expand</source>
         <translation>Perluas</translation>
-    </message>
-    <message>
-        <source>Team Notice</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shrink</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Yesterday %1</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KDocerTitleWidget</name>
     <message>
         <source>Et</source>
-        <translation>XLS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wpp</source>
-        <translation>PPT</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wps</source>
-        <translation>DOC</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KListFilterPopupWidget</name>
     <message>
         <source>Et</source>
-        <translation>XLS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pdf</source>
-        <translation>PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wpp</source>
-        <translation>PPT</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wps</source>
-        <translation>DOC</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
@@ -85,7 +69,7 @@
     </message>
     <message>
         <source>sort by Modified Time</source>
-        <translation>Sortir berdasarkan Waktu Modifikasi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Creation Time</source>
@@ -97,7 +81,7 @@
     </message>
     <message>
         <source>Folders On Top</source>
-        <translation>Folder di Atas</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Device Types</source>
@@ -113,15 +97,15 @@
     </message>
     <message>
         <source>Mobile</source>
-        <translation>Telepon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PCFile</source>
-        <translation>File PC</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>QQFile</source>
-        <translation>File QQ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort Types</source>
@@ -137,7 +121,7 @@
     </message>
     <message>
         <source>sort by Creation Time</source>
-        <translation>Sortir berdasarkan Waktu Buat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Desktop</source>
@@ -153,11 +137,11 @@
     </message>
     <message>
         <source>sort by Size</source>
-        <translation>Sortir berdasar Ukuran</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sort by Name</source>
-        <translation>Sortir berdasar Nama</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Types</source>
@@ -169,7 +153,7 @@
     </message>
     <message>
         <source>keep folders on top of files when sorting</source>
-        <translation>Pertahankan folder di atas file saat pengurutan</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -194,19 +178,19 @@ Yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>filename cannot contains characters:</source>
-        <translation>Nama file tidak boleh berisi karakter:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duplicate Filenames</source>
-        <translation>Nama File Duplikat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file-path&apos;s length is too long, please rename with a shorter one, or move the file to another location.</source>
-        <translation>Jalur file terlalu panjang, silakan ganti nama, atau pindah ke lokasi lain.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>filename&apos;s length is limited to %1 characters.</source>
-        <translation>Panjang nama file dibatasi hingga %1 karakter.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please rename with a shorter one</source>
@@ -222,23 +206,23 @@ Yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>A file with the same name already exists in this location, please rename again</source>
-        <translation>Nama tersebut sudah ada di lokasi ini, silakan ganti namanya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filename cannot be empty</source>
-        <translation>Nama file tidak boleh kosong</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Modify File&apos;s Suffix</source>
-        <translation>Ubah Akhiran File</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filename&apos;s length is too long</source>
-        <translation>Nama file terlalu panjang</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>filename cannot be empty.</source>
-        <translation>Nama file tidak boleh kosong.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -251,32 +235,16 @@ Yakin ingin mengubahnya?</translation>
         <source>Close</source>
         <translation>Tutup</translation>
     </message>
-    <message>
-        <source>Failed to add members</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The other %1 users can not be added</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please retry or cancel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 members added</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KAbstractFileModeDelegate</name>
     <message>
         <source>PC</source>
-        <translation>Komputer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>fix</source>
-        <translation>Tetapkan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>edit</source>
@@ -284,7 +252,7 @@ Yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>fold</source>
-        <translation>Lipat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>read</source>
@@ -300,30 +268,26 @@ Yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>on PC</source>
-        <translation>di Komputer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>unfix</source>
-        <translation>Lepas</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Local file and cloud backup have modify</source>
-        <translation>File Lokal dan Cloud memiliki perubahan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>on the mobile</source>
-        <translation>di ponsel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Folder</source>
-        <translation>Bagi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Upload To</source>
-        <translation>Diunggah ke</translation>
-    </message>
-    <message>
-        <source>start collaboration</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -336,15 +300,15 @@ Yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>Cloud Files</source>
-        <translation>File Cloud Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file Not Found</source>
-        <translation>File Tidak Ditemukan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>options</source>
-        <translation>Lainnya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 hour ago</source>
@@ -356,38 +320,34 @@ Yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>mobile</source>
-        <translation>Telepon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>spread</source>
-        <translation>Bentangkan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>upload</source>
-        <translation>Unggah</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>transfer file to cloud</source>
-        <translation>Transfer file ke Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>days ago</source>
-        <translation> hari yang lalu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>share folder with someone</source>
-        <translation>Bagi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>browser</source>
-        <translation>Browser</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Transfer To</source>
-        <translation>Transfer ke</translation>
-    </message>
-    <message>
-        <source>1 person is collaborating</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -396,27 +356,27 @@ Yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>share with someone</source>
-        <translation>Bagi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>tagstar</source>
-        <translation>Bintang</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>untagstar</source>
-        <translation>Batalkan bintang</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>day ago</source>
-        <translation> hari yang lalu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>minutes ago</source>
-        <translation> menit yang lalu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>upload file to cloud</source>
-        <translation>Unggah file ke Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Other PC</source>
@@ -424,14 +384,10 @@ Yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>other PC</source>
-        <translation>PC Lain</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cancel downloading</source>
-        <translation>Batalkan pengunduhan</translation>
-    </message>
-    <message>
-        <source>Join Co-Editing</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -440,34 +396,26 @@ Yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>hours ago</source>
-        <translation> jam yang lalu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>batch export to appoint path</source>
-        <translation>ekspor kumpulan ke jalur yang ditentukan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cancel uploading</source>
-        <translation>Batalkan pengunggahan</translation>
-    </message>
-    <message>
-        <source>%1 people are collaborating</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Cloud backup has modify</source>
-        <translation>File cloud memiliki perubahan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>on the other PC</source>
-        <translation>Di komputer lain</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Can&apos;t find local original file, only exist cloud backup</source>
-        <translation>Tidak dapat menemukan file lokal asli, hanya ada file Cloud</translation>
-    </message>
-    <message>
-        <source> Created file</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -484,12 +432,11 @@ Yakin ingin mengubahnya?</translation>
     <message>
         <source>Unable to modify &quot;%1&quot;.
 This file has been opened by WPS, please close it first.</source>
-        <translation>Tidak dapat mengubah &quot;%1&quot;.
-File telah dibuka oleh WPS, silakan tutup.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cloud location is not supported to open without cloud id.</source>
-        <translation>Tidak didukung untuk dibuka</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file is downloading, please stop downloading and retry.</source>
@@ -497,7 +444,7 @@ File telah dibuka oleh WPS, silakan tutup.</translation>
     </message>
     <message>
         <source>Folder has not downloaded file</source>
-        <translation>Beberapa file tidak diunduh dalam folder</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure to remove</source>
@@ -510,20 +457,19 @@ File telah dibuka oleh WPS, silakan tutup.</translation>
     <message>
         <source>Unable to modify &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
-        <translation>Tidak dapat mengubah &quot;%1&quot;.
-File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Don&apos;t prompt</source>
-        <translation>Jangan pernah tampilkan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation>File Cloud Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>remove file simultaneously</source>
-        <translation>Hapus file</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please save the document to WPS Cloud Space</source>
@@ -531,7 +477,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>I know</source>
-        <translation>Mengerti</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file is uploading, please stop uploading and retry.</source>
@@ -551,11 +497,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Please check if there is another removing operation and wait or close it.</source>
-        <translation>Harap tunggu proses penghapusan lainnya atau tutup saja.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>select location</source>
-        <translation>Pilih lokasi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>all access record?</source>
@@ -563,15 +509,15 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Clear RecycleBin</source>
-        <translation>Bersihkan Keranjang Sampah</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file is opened by another process. Please confirm it before deleting it.</source>
-        <translation>File telah dibuka oleh proses lain. Silakan konfirmasi sebelum menghapus.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filed to create folder, please check your operation-rights.</source>
-        <translation>Gagal membuat folder, silakan periksa hak operasi Anda.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel downloading</source>
@@ -587,11 +533,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>I known</source>
-        <translation>Mengerti</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewFolder</source>
-        <translation>Folder Baru</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove File</source>
@@ -611,11 +557,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>please select folder</source>
-        <translation>Pilih folder</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure to remove the selected file/folder?</source>
-        <translation>Yakin ingin menghapus item yang dipilih?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Relative location is not supported.</source>
@@ -623,7 +569,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>If you want to copy to cloud folder outside, please download these file first</source>
-        <translation>Silakan unduh semua file ini jika Anda ingin menyalin ke lokasi Lain</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -646,7 +592,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>remove file simultaneously</source>
-        <translation>Hapus file</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file is uploading, please stop uploading and retry.</source>
@@ -662,7 +608,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>The file is opened by another process. Please confirm it before deleting it.</source>
-        <translation>File telah dibuka oleh proses lain. Silakan konfirmasi sebelum menghapus.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel downloading</source>
@@ -697,7 +643,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation>File Cloud Saya</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -708,14 +654,14 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation>File Cloud Saya</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KEnterpriseWebJsObj</name>
     <message>
         <source>ok</source>
-        <translation>OK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>choose download path</source>
@@ -723,14 +669,14 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>upload to cloud</source>
-        <translation>Simpan ke Cloud</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KFileListTitleWidget</name>
     <message>
         <source>ok</source>
-        <translation>OK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New</source>
@@ -766,7 +712,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Upload to Cloud</source>
-        <translation>Simpan ke Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tile View</source>
@@ -774,11 +720,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>WPS/Word Files</source>
-        <translation>File Word</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recent Visited Documents</source>
-        <translation>Dokumen Terbaru</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Web Pages</source>
@@ -794,7 +740,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Add Folder</source>
-        <translation>Tambah Folder</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort Method</source>
@@ -810,7 +756,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Add Files</source>
-        <translation>Tambah File</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort Order</source>
@@ -846,19 +792,23 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>SharesToMe</source>
-        <translation>Bagikan ke Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Single Web Page Files</source>
-        <translation>File Halaman Web</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ET/Excel Files</source>
-        <translation>File Excel</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Activity</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete and Leave Team</source>
-        <translation>Hapus dan Tinggalkan Team</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Detail Panel</source>
@@ -874,7 +824,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Normal Files</source>
-        <translation>File Umum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cover View</source>
@@ -906,7 +856,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>MyShares</source>
-        <translation>Bagikan dari Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Data Sources</source>
@@ -914,7 +864,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>WPP/PowerPoint Files</source>
-        <translation>File PowerPoint</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Team files</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Detail View</source>
@@ -925,15 +879,15 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KLocationListContentWidget</name>
     <message>
         <source>ok</source>
-        <translation>OK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My Documents</source>
-        <translation>Dokumen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My PC</source>
-        <translation>PC Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Location</source>
@@ -941,7 +895,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Items of Favorite are limited. Can not add any more.</source>
-        <translation>Item Favorit telah mencapai batas atas. Gagal menambahkan item baru.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recent</source>
@@ -949,7 +903,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Failed Adding</source>
-        <translation>Penambahan gagal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My Devices</source>
@@ -957,7 +911,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>My Desktop</source>
-        <translation>Desktop Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Other Location</source>
@@ -1001,10 +955,6 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>Buy</source>
         <translation>Beli</translation>
     </message>
-    <message>
-        <source>Manage</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KCreationAreaComponentModel</name>
@@ -1018,11 +968,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Writer</source>
-        <translation>Dokumen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spreadsheet</source>
-        <translation>Spreadsheets</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Team</source>
@@ -1053,15 +1003,15 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Shares To Me</source>
-        <translation>Bagikan ke Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Items to Me</source>
-        <translation>Bagikan ke Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shares From Me</source>
-        <translation>Bagikan dari Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Magenta</source>
@@ -1069,14 +1019,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Recent Visit</source>
-        <translation>Terbaru</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Star Items</source>
-        <translation>Berbintang</translation>
-    </message>
-    <message>
-        <source>Cloud Company</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1089,7 +1035,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Share Items From Me</source>
-        <translation>Bagikan dari Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cloud Team Document</source>
@@ -1101,7 +1047,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Shares</source>
-        <translation>Bagi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yellow</source>
@@ -1113,15 +1059,15 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation>File Cloud Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share Items</source>
-        <translation>Bagi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Share Items</source>
-        <translation>Semua</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recycle Bin</source>
@@ -1140,10 +1086,6 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <translation>PC ini</translation>
     </message>
     <message>
-        <source>Cloud Team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Unknown Color</source>
         <translation>Warna Tak Dikenal</translation>
     </message>
@@ -1154,6 +1096,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Downloads</source>
         <translation>Unduhan</translation>
+    </message>
+    <message>
+        <source>Search local files</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1168,15 +1114,15 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Are you sure you want to close it?</source>
-        <translation>Konfirmasi untuk menutupnya?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>action_component</source>
-        <translation>Pemungutan Suara topik</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Action</source>
-        <translation>Topik</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
@@ -1191,7 +1137,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>%1 mins ago</source>
-        <translation>%1 menit yang lalu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>modified the file (Ver.%1)</source>
@@ -1226,55 +1172,55 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KFileListMenu</name>
     <message>
         <source>cut</source>
-        <translation>Potong</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>copy</source>
-        <translation>Salin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>more</source>
-        <translation>Lainnya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>open</source>
-        <translation>Buka</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>batch export</source>
-        <translation>Pengeksporan kumpulan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>paste</source>
-        <translation>Tempel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>unfix file</source>
-        <translation>Lepas</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cancel reminder</source>
-        <translation>Batalkan pengingat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>fix file</source>
-        <translation>Tetapkan ke atas</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>pin to often use location list</source>
-        <translation>Sematkan ke Lokasi Terkini</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>unfix folder</source>
-        <translation>Lepas</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>upload to cloud</source>
-        <translation>Simpan ke Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete records</source>
-        <translation>Hapus rekaman</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invite members</source>
@@ -1282,83 +1228,83 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>history version</source>
-        <translation>Versi riwayat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete</source>
-        <translation>Hapus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>open folder</source>
-        <translation>Buka folder</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>export</source>
-        <translation>Ekspor</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>fix folder</source>
-        <translation>Tetapkan ke atas</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>save as...</source>
-        <translation>Simpan sebagai...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>move to...</source>
-        <translation>Pindah ke...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>remove</source>
-        <translation>Hapus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>rename</source>
-        <translation>Ganti nama</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>untag star</source>
-        <translation>Hapus dari Berbintang</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>tag star</source>
-        <translation>Tambah ke Berbintang</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>fix to top</source>
-        <translation>Tetapkan ke atas</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>update</source>
-        <translation>Perbarui</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>remove from often use location list</source>
-        <translation>Hapus dari daftar lokasi yang sering dipakai</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cancel top-fixing</source>
-        <translation>Batalkan perbaikan ke atas</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>send to cloud</source>
-        <translation>Kirim ke Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>recover</source>
-        <translation>Pulihkan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>download and open file</source>
-        <translation>Unduh dan buka</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>open backup center</source>
-        <translation>Buka pusat pencadangan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>share folder...</source>
-        <translation>Bagi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete team</source>
@@ -1366,15 +1312,15 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>download all/update</source>
-        <translation>Unduh semua</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>copy to...</source>
-        <translation>Salin ke...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>cancel downloading</source>
-        <translation>Batalkan pengunduhan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Leave team</source>
@@ -1382,74 +1328,35 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>cancel uploading</source>
-        <translation>Batalkan pengunggahan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete completely</source>
-        <translation>Hapus sepenuhnya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>delete record</source>
-        <translation>Hapus rekaman</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>batch download/update</source>
-        <translation>Pengunduhan/pembaruan kumpulan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>create duplication</source>
-        <translation>Buat duplikasi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>pin to quick-access bar</source>
-        <translation>Sematkan ke bar akses cepat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>share...</source>
-        <translation>Bagikan...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visit WPS Cloud</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KEntry</name>
-    <message>
-        <source>Apps</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Home</source>
-        <translation>Halaman Muka</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation>Buka</translation>
-    </message>
-    <message>
-        <source>New Document</source>
-        <translation>Baru</translation>
-    </message>
-    <message>
-        <source>company manage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Create Company</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>New From Docer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Calendar</source>
-        <translation>Gambar ke Teks</translation>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation>Dokumen</translation>
     </message>
 </context>
 <context>
@@ -1483,7 +1390,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Follow the steps to discover WPS Office!</source>
-        <translation>Ikuti langkah-langkah ini untuk menemukan WPS Office!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bright</source>
@@ -1528,28 +1435,24 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <translation>Bantuan</translation>
     </message>
     <message>
-        <source>SkinCenter</source>
+        <source>Feedback Btn</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Feedback Btn</source>
-        <translation>Masukan</translation>
-    </message>
-    <message>
         <source>Configuration and repair tools</source>
-        <translation>Alat konfigurasi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback question</source>
-        <translation>Pertanyaan Masukan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skin Center</source>
-        <translation>Pengaturan tema</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>About WPS</source>
-        <translation>Tentang WPS Office</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -1557,7 +1460,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>WPS Official website</source>
-        <translation>Situs Web Resmi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch Language</source>
@@ -1569,7 +1472,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>MessageCenter</source>
-        <translation>Pusat Pesan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback</source>
@@ -1592,15 +1495,42 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>Bantuan WPS Presentation</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>Bantuan WPS Writer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation>Bantuan WPS Spreadsheets</translation>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KEntry</name>
+    <message>
+        <source>Home</source>
+        <translation>Halaman Muka</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Buka</translation>
+    </message>
+    <message>
+        <source>Team</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Calendar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation>Dokumen</translation>
     </message>
 </context>
 <context>
@@ -1629,23 +1559,27 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Cloud data backup</source>
-        <translation>Cadangan cloud</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Log-in to WPS, secure your file and get 1GB Cloud Space</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>History version manager</source>
-        <translation>Atur versi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Cloud Document</source>
-        <translation>WPS Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>login with wps account</source>
-        <translation>Masuk</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cross devices document synchronization</source>
-        <translation>Sinkronkan antara perangkat</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1674,7 +1608,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Follow the steps to discover WPS Office!</source>
-        <translation>Ikuti langkah-langkah ini untuk menemukan WPS Office!</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1695,42 +1629,42 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KCopyOptionWidget</name>
     <message>
         <source>copy</source>
-        <translation>Salin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file path</source>
-        <translation>Jalur file</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file name</source>
-        <translation>Nama file</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>copy file path</source>
-        <translation>Salin jalur file</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>copy file name</source>
-        <translation>Salin nama file</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>copy file</source>
-        <translation>Salin file</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KFileListItemInfoPanelWidget</name>
     <message>
         <source>from</source>
-        <translation>Dari</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>more</source>
-        <translation>Lainnya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>invited</source>
-        <translation>Diundang</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Permissions</source>
@@ -1742,11 +1676,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>friend view &amp; edit</source>
-        <translation>Tentukan teman untuk melihat atau mengedit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>my folder share</source>
-        <translation>Pembagian folder saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Permanently valid</source>
@@ -1758,7 +1692,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Exit sharing folder</source>
-        <translation>Keluar Pembagian</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Is about to expire</source>
@@ -1770,7 +1704,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>manage</source>
-        <translation>Kelola</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share again</source>
@@ -1786,19 +1720,15 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>ShareToMe</source>
-        <translation>Bagikan ke Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShareItems</source>
-        <translation>Bagi</translation>
-    </message>
-    <message>
-        <source>company viewonly</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>ShareFromMe</source>
-        <translation>Bagikan dari Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 created</source>
@@ -1806,19 +1736,19 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Transferring to a cloud document</source>
-        <translation>Memindahkan ke dokumen Cloud</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>editable</source>
-        <translation>Dapat Diedit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close sharing folder</source>
-        <translation>Tutup Pembagian</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>my share</source>
-        <translation>Pembagian Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 days visible</source>
@@ -1834,15 +1764,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>view only</source>
-        <translation>Hanya lihat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exit sharing</source>
         <translation>Keluar Pembagian</translation>
-    </message>
-    <message>
-        <source>company editable</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>History</source>
@@ -1850,7 +1776,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Can be edited</source>
-        <translation>Dapat Diedit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 shared folder</source>
@@ -1865,7 +1791,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Now Loading</source>
-        <translation>Memuat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add files to Starred for quick access.</source>
@@ -1885,7 +1811,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>No Filter Result</source>
-        <translation>Tidak Ada Hasil</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Records</source>
@@ -1908,6 +1834,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <translation>Tidak ada file yang Berbintang</translation>
     </message>
     <message>
+        <source>You can drag and drop files to share with members.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Share your documents as a link, then you can view them here.</source>
         <translation>Bagikan dokumen Anda sebagai tatutan, lalu Anda akan dapat melihatnya di sini.</translation>
     </message>
@@ -1916,15 +1846,15 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KMultistageMenu</name>
     <message>
         <source>none</source>
-        <translation>Tidak ada grup</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file name</source>
-        <translation>Nama file</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>file size</source>
-        <translation>Ukuran file</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort Mode</source>
@@ -1936,85 +1866,26 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>latest modify time</source>
-        <translation>Waktu perubahan terbaru</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KTeamMsgListMenu</name>
     <message>
         <source>open</source>
-        <translation>Buka</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>share</source>
-        <translation>Bagi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>history version</source>
-        <translation>Versi riwayat</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>open folder</source>
-        <translation>Buka folder</translation>
-    </message>
-</context>
-<context>
-    <name>KComponentItem</name>
-    <message>
-        <source>task</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>docer</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Docer Title</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>action_component</source>
-        <translation>Pemungutan Suara topik</translation>
-    </message>
-    <message>
-        <source>Action Title</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Action Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>action</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Weather Text</source>
-        <translation>Susun pekerjaan berdasarkan kondisi cuaca</translation>
-    </message>
-    <message>
-        <source>Task Text</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Weather Title</source>
-        <translation>Cuaca</translation>
-    </message>
-    <message>
-        <source>Docer Text</source>
-        <translation>Kesenangan mendapatkan templat masif.</translation>
-    </message>
-    <message>
-        <source>Task Title</source>
-        <translation>Cuaca</translation>
-    </message>
-    <message>
-        <source>weather</source>
-        <translation>cuaca</translation>
-    </message>
-    <message>
-        <source>docer_component</source>
-        <translation>Docer_component</translation>
     </message>
 </context>
 <context>
@@ -2022,6 +1893,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Cloud space is full</source>
         <translation>Ruang Cloud penuh</translation>
+    </message>
+    <message>
+        <source>Get for Free</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clean up</source>
@@ -2032,22 +1907,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <translation>Ruang Cloud menipis</translation>
     </message>
     <message>
-        <source>Please clean up unnecessary files in your network disk to make more space</source>
+        <source>cloud size</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>cloud size</source>
-        <translation>Cloud </translation>
-    </message>
-    <message>
         <source>upgrade</source>
-        <translation>Go Premium</translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherNormalBottomWidget</name>
-    <message>
-        <source>Refresh Weather</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2055,18 +1919,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>NotSearchResultWidget</name>
     <message>
         <source>Baidu</source>
-        <translation>Google</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Docer search</source>
-        <translation>Cari template</translation>
-    </message>
-    <message>
-        <source>Google</source>
-        <translation>Google</translation>
-    </message>
-    <message>
-        <source>find icons/pictures/fonts and so on ...</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2079,7 +1935,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Loading the Data Recovery Master.Please wait...</source>
-        <translation>Memuatkan Master Pemulihan Data. Harap tunggu...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Try to </source>
@@ -2120,16 +1976,16 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>Create Team</source>
         <translation>Buat Team</translation>
     </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KTeamAddNormalMemberDlg</name>
     <message>
         <source>Close</source>
         <translation>Tutup</translation>
-    </message>
-    <message>
-        <source>%1 Invite you to join the &quot;%2&quot; group</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Share with mail</source>
@@ -2165,10 +2021,6 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>Share with WhatsApp</source>
         <translation>Bagikan dengan WhatsApp</translation>
     </message>
-    <message>
-        <source>%1 Invite you to join the &apos;%2&apos; group</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KTeamEnterpriseManageDlg</name>
@@ -2179,10 +2031,6 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Delete Team</source>
         <translation>Hapus Team</translation>
-    </message>
-    <message>
-        <source>Leave Team</source>
-        <translation>Keluar dari Team</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2200,16 +2048,12 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <translation>Awan</translation>
     </message>
     <message>
-        <source>google</source>
+        <source>dropbox</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>dropbox</source>
-        <translation>Dropbox</translation>
-    </message>
-    <message>
         <source>Add a third-party cloud</source>
-        <translation>Tambah penyimpanan awan</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2224,7 +2068,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>docer_component</source>
-        <translation>Docer_component</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2235,7 +2079,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation>Premium</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document</source>
@@ -2268,139 +2112,23 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <translation>Lihat File Team</translation>
     </message>
     <message>
+        <source>Working together, start from Team</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Invite members</source>
         <translation>Undang anggota</translation>
     </message>
-</context>
-<context>
-    <name>KFileOpenProxy</name>
     <message>
-        <source>Known</source>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Join in</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>not prompt again</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to open &quot;%1&quot;.
-This file may be renamed, deleted or moved.</source>
-        <translation>Tidak dapat membuka &quot;%1&quot;.
-File ini mungkin telah diganti nama, dihapus, atau dipindahkan.</translation>
-    </message>
-    <message>
-        <source>WPS/Word Files</source>
-        <translation>File Word</translation>
-    </message>
-    <message>
-        <source>Start Collaboration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 people are collaborating, would you like to join in?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Whether to start collaborative editing?
-With &quot;Collaborative editing&quot;, you and your partner can edit the document at the same time.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Web Pages</source>
-        <translation>Halaman Web</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>Text Files</source>
-        <translation>File Teks</translation>
-    </message>
-    <message>
-        <source>Add Files</source>
-        <translation>Tambah File</translation>
-    </message>
-    <message>
-        <source>Access Databases</source>
-        <translation>Akses Database</translation>
-    </message>
-    <message>
-        <source>DBase Files</source>
-        <translation>File DBase</translation>
-    </message>
-    <message>
-        <source>File is uploading, please try again later.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pdf Files</source>
-        <translation>File Pdf</translation>
-    </message>
-    <message>
-        <source>Rtf Files</source>
-        <translation>File Rtf</translation>
-    </message>
-    <message>
-        <source>DIF Files</source>
-        <translation>File DIF</translation>
-    </message>
-    <message>
-        <source>Single Web Page Files</source>
-        <translation>File Halaman Web</translation>
-    </message>
-    <message>
-        <source>ET/Excel Files</source>
-        <translation>File Excel</translation>
-    </message>
-    <message>
-        <source>Query Files</source>
-        <translation>File Query</translation>
-    </message>
-    <message>
-        <source>Normal Files</source>
-        <translation>File Umum</translation>
-    </message>
-    <message>
-        <source>Open File</source>
-        <translation>Buka File</translation>
-    </message>
-    <message>
-        <source>XML Files</source>
-        <translation>File XML</translation>
-    </message>
-    <message>
-        <source>All Files</source>
-        <translation>Semua File</translation>
-    </message>
-    <message>
-        <source>All Data Sources</source>
-        <translation>Semua Sumber Data</translation>
-    </message>
-    <message>
-        <source>WPP/PowerPoint Files</source>
-        <translation>File PowerPoint</translation>
-    </message>
-    <message>
-        <source>&quot;%1&quot;
-this file has been opened, can&apos;t write data.please close file and retry.</source>
-        <translation>&quot;%1&quot;
-file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lagi.</translation>
     </message>
 </context>
 <context>
     <name>KStartPageLoginButton</name>
     <message>
         <source>Login</source>
-        <translation>Akses Masuk</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2412,6 +2140,10 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
     <message>
         <source>Cancel</source>
         <translation>Batal</translation>
+    </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A team with the same name already exists, please rename again</source>
@@ -2429,10 +2161,6 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
         <translation>Coba lagi</translation>
     </message>
     <message>
-        <source>Team files would be inaccessible after that</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>You would lose access to this team</source>
         <translation>Anda akan kehilangan akses ke team ini</translation>
     </message>
@@ -2441,24 +2169,20 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
         <translation>Batal</translation>
     </message>
     <message>
-        <source>My Team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Confirm to delete and leave</source>
         <translation>Konfirmasi untuk menghapus dan keluar</translation>
     </message>
     <message>
         <source>Confirm to delete this team ?</source>
-        <translation>Konfirmasi untuk menghapus team ini?</translation>
-    </message>
-    <message>
-        <source>Modify Team Name</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh</source>
         <translation>Segarkan</translation>
+    </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Team</source>
@@ -2469,12 +2193,8 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
         <translation>Hapus Team</translation>
     </message>
     <message>
-        <source>Leave Team</source>
-        <translation>Keluar dari Team</translation>
-    </message>
-    <message>
         <source>%1 members would lose access to this team after deletion</source>
-        <translation>%1 anggota akan kehilangan akses ke team ini setelah dihapus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A team with the same name already exists, please rename again</source>
@@ -2482,19 +2202,11 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
     </message>
     <message>
         <source>Confirm to leave this team ?</source>
-        <translation>Konfirmasi untuk keluar dari team ini?</translation>
-    </message>
-    <message>
-        <source>Team members would lose access after that</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>&apos;s Team</source>
         <translation>&apos;s Team</translation>
-    </message>
-    <message>
-        <source>Clear all team files</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2523,12 +2235,8 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
         <translation>Hari ini</translation>
     </message>
     <message>
-        <source>Date: %1 - %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>renamed team as %1</source>
-        <translation>ganti nama team sebagai %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>last seen here</source>
@@ -2536,39 +2244,19 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
     </message>
     <message>
         <source>recovered file from recycle-bin</source>
-        <translation>File yang dipulihkan dari tempat sampah</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>created the team</source>
-        <translation>membuatkan team</translation>
-    </message>
-    <message>
-        <source>updated %1 versions</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>renamed file from %1</source>
-        <translation>mengganti nama %1</translation>
-    </message>
-    <message>
-        <source>was by</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>removed from team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>upgraded with access rights</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>degraded with access rights</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>add file</source>
-        <translation>File yang ditambahkan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yesterday</source>
@@ -2576,59 +2264,47 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
     </message>
     <message>
         <source>created file on %1</source>
-        <translation>menambahkan file di bawah %1</translation>
-    </message>
-    <message>
-        <source>moved file out</source>
-        <translation>File yang dipindah</translation>
-    </message>
-    <message>
-        <source>quited team</source>
-        <translation>keluar dari team</translation>
-    </message>
-    <message>
-        <source>moved file to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>moved file from %1</source>
+        <source>moved file out</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>quited team</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>shared file to %1</source>
-        <translation>File yang dibagikan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>updated file</source>
-        <translation>File yang diperbarui</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>renamed file</source>
-        <translation>File yang diganti nama</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>removed file</source>
-        <translation>File yang dihapus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>commented file</source>
-        <translation>File yang dikomentari</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>created file</source>
-        <translation>File yang dibuat</translation>
-    </message>
-    <message>
-        <source>added to team</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>deleted file permanently</source>
-        <translation>File yang dihapus permanen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>joined team by link</source>
-        <translation>bergabung ke team dengan tautan</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2637,25 +2313,339 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
         <source>Total</source>
         <translation>Total</translation>
     </message>
+</context>
+<context>
+    <name>KCloudTeamIntroWidget</name>
     <message>
-        <source>members</source>
+        <source>Share with others directly</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No more actions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit with other cooperators</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Team, A place for teamwork</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Create your team</source>
+        <translation>Buat team Anda</translation>
+    </message>
+    <message>
+        <source>Trace documents easily</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>History versions included</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Fear to lose data</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KVipUpgradeGuideDialog</name>
+    <message>
+        <source>close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>privilege</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>picture to text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>upgrade immediately</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>text search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>download accelerate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>doc recover</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF ke Word</translation>
+    </message>
+    <message>
+        <source>1G big file upload</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>batch download</source>
+        <translation>unduh massal</translation>
+    </message>
+    <message>
+        <source>365G cloud space</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KComponentItem</name>
+    <message>
+        <source>docer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Docer Title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>action_component</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Action Title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Weather Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Task Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Weather Title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Docer Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>weather</source>
+        <translation>cuaca</translation>
+    </message>
+    <message>
+        <source>docer_component</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KLocalDocSearchResultWidget</name>
+    <message>
+        <source>Initializing...</source>
+        <translation>Memulai...</translation>
+    </message>
+</context>
+<context>
+    <name>KOnlineDevicesTipDlg</name>
+    <message>
+        <source>You are currently logged on to WPS on the following devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>manage devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>online devices</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KDeviceListviewDelegate</name>
+    <message>
+        <source>local</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KComponentLoginTipsWidget</name>
+    <message>
+        <source>login</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To save your settings, please log on to your account first</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ContentSearchNotOpenWidget</name>
+    <message>
+        <source>content_UpgradeToWpsVipMode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open Content Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade To WPS Vip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>content_OpenContentSearchMode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More accurate search function</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KFileDirMenu</name>
+    <message>
+        <source>paste</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>new folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>refresh</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>download all/update</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>clear recycle bin</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDevicesLoadFailureWidget</name>
+    <message>
+        <source>retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Failed to get device, please</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KFileItemOperationInfoWidget</name>
+    <message>
+        <source>share</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>share folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Download all</source>
+        <translation>Unduh semua</translation>
+    </message>
+    <message>
+        <source>Upload to Cloud</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CopyTo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MoveTo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invite members</source>
+        <translation>Undang anggota</translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation>Unggah file</translation>
+    </message>
+    <message>
+        <source>Save to</source>
+        <translation>Simpan ke</translation>
+    </message>
+    <message>
+        <source>record versions for changes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upload File to Cloud</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Create a folder</source>
+        <translation>Buat folder</translation>
+    </message>
+</context>
+<context>
+    <name>KFileListRecentContentModel</name>
+    <message>
+        <source>today</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recent List</source>
+        <translation>Daftar Terbaru</translation>
+    </message>
+    <message>
+        <source>more early</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>yesterday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>within 7 days</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KAppCenterJsApi</name>
+    <message>
+        <source>APP ID already exists.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Link path does not exist.</source>
+        <translation>Jalur tautan tidak ada.</translation>
+    </message>
+    <message>
+        <source>Lnk File</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Call error.</source>
+        <translation>Kesalahan panggilan.</translation>
+    </message>
+    <message>
+        <source>Add Shortcut</source>
+        <translation>Tambah Pintasan</translation>
+    </message>
+    <message>
+        <source>APP ID does not exist.</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>Visit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Edit text in PDF</source>
         <translation>Edit teks di PDF</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation>Perbaikan 
-File</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1Month %2Day %3</source>
@@ -2663,7 +2653,7 @@ File</translation>
     </message>
     <message>
         <source>Picture to text</source>
-        <translation>Gambar menjadi teks</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add WPS Search to the desktop for more convenient use.</source>
@@ -2671,19 +2661,15 @@ File</translation>
     </message>
     <message>
         <source>-cloud-</source>
-        <translation>-Cloud-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>-local-</source>
-        <translation>-lokal-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 minute ago</source>
         <translation>%1 menit yang lalu</translation>
-    </message>
-    <message>
-        <source>No ads</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>today %1</source>
@@ -2691,7 +2677,7 @@ File</translation>
     </message>
     <message>
         <source>yestoday %1</source>
-        <translation>Kemarin %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 hour ago</source>
@@ -2703,7 +2689,7 @@ File</translation>
     </message>
     <message>
         <source>PDF Merge</source>
-        <translation>Penggabungan PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 days ago</source>
@@ -2719,15 +2705,11 @@ File</translation>
     </message>
     <message>
         <source>PDF Signature</source>
-        <translation>Tanda tangan PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF to Word</source>
         <translation>PDF ke Word</translation>
-    </message>
-    <message>
-        <source>Cross-Platform Office suite</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Just now</source>
@@ -2747,313 +2729,6 @@ File</translation>
     </message>
 </context>
 <context>
-    <name>KDocerHotSearchListWidget</name>
-    <message>
-        <source>Docer HotSearch</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCloudTeamIntroWidget</name>
-    <message>
-        <source>Share with others directly</source>
-        <translation>Bagikan langsung dengan orang lain</translation>
-    </message>
-    <message>
-        <source>No more actions</source>
-        <translation>Tidak ada lagi tindakan</translation>
-    </message>
-    <message>
-        <source>Edit with other cooperators</source>
-        <translation>Edit dengan kooperator lain</translation>
-    </message>
-    <message>
-        <source>Create your team</source>
-        <translation>Buat team Anda</translation>
-    </message>
-    <message>
-        <source>Trace documents easily</source>
-        <translation>Lacak dokumen dengan mudah</translation>
-    </message>
-    <message>
-        <source>History versions included</source>
-        <translation>Versi riwayat disertakan</translation>
-    </message>
-    <message>
-        <source>No Fear to lose data</source>
-        <translation>Tidak Ada Ketakutan kehilangan data</translation>
-    </message>
-</context>
-<context>
-    <name>KVipUpgradeGuideDialog</name>
-    <message>
-        <source>close</source>
-        <translation>Tutup</translation>
-    </message>
-    <message>
-        <source>privilege</source>
-        <translation>Hak Akses</translation>
-    </message>
-    <message>
-        <source>picture to text</source>
-        <translation>Gambar menjadi teks</translation>
-    </message>
-    <message>
-        <source>upgrade immediately</source>
-        <translation>Tingkatkan langsung</translation>
-    </message>
-    <message>
-        <source>super vip, enjoy</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>text search</source>
-        <translation>Pencarian Teks Penuh</translation>
-    </message>
-    <message>
-        <source>download accelerate</source>
-        <translation>Unduh kecepatan</translation>
-    </message>
-    <message>
-        <source>doc recover</source>
-        <translation>Perbaikan File</translation>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation>PDF ke Word</translation>
-    </message>
-    <message>
-        <source>1G big file upload</source>
-        <translation>Pengunggahan file besar 1 GB</translation>
-    </message>
-    <message>
-        <source>batch download</source>
-        <translation>unduh massal</translation>
-    </message>
-    <message>
-        <source>365G cloud space</source>
-        <translation>365 GB ruang Cloud</translation>
-    </message>
-</context>
-<context>
-    <name>KLocalDocSearchResultWidget</name>
-    <message>
-        <source>Initializing...</source>
-        <translation>Memulai...</translation>
-    </message>
-</context>
-<context>
-    <name>KOnlineDevicesTipDlg</name>
-    <message>
-        <source>You are currently logged on to WPS on the following devices</source>
-        <translation>Perangkat yang masuk ke WPS Office</translation>
-    </message>
-    <message>
-        <source>manage devices</source>
-        <translation>Atur perangkat</translation>
-    </message>
-    <message>
-        <source>Experience document synchronization across devices</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Log in to more devices &gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>online devices</source>
-        <translation>Perangkat yang Masuk</translation>
-    </message>
-</context>
-<context>
-    <name>KDeviceListviewDelegate</name>
-    <message>
-        <source>local</source>
-        <translation>Perangkat saat ini</translation>
-    </message>
-</context>
-<context>
-    <name>KComponentLoginTipsWidget</name>
-    <message>
-        <source>login</source>
-        <translation>Masuk</translation>
-    </message>
-    <message>
-        <source>To save your settings, please log on to your account first</source>
-        <translation>Masuk untuk menyimpan pengaturan Anda</translation>
-    </message>
-</context>
-<context>
-    <name>ContentSearchNotOpenWidget</name>
-    <message>
-        <source>content_UpgradeToWpsVipMode</source>
-        <translation>Jadi Premium untuk mencari teks penuh</translation>
-    </message>
-    <message>
-        <source>Open Content Search</source>
-        <translation>Buka pencarian teks penuh</translation>
-    </message>
-    <message>
-        <source>Upgrade To WPS Vip</source>
-        <translation>Jadi Premium</translation>
-    </message>
-    <message>
-        <source>content_OpenContentSearchMode</source>
-        <translation>Jadi Premium untuk mencari konten teks penuh</translation>
-    </message>
-    <message>
-        <source>More accurate search function</source>
-        <translation>Pencarian yang lebih akurat</translation>
-    </message>
-</context>
-<context>
-    <name>KFileDirMenu</name>
-    <message>
-        <source>paste</source>
-        <translation>Tempel</translation>
-    </message>
-    <message>
-        <source>new folder</source>
-        <translation>Folder Baru</translation>
-    </message>
-    <message>
-        <source>refresh</source>
-        <translation>Segarkan</translation>
-    </message>
-    <message>
-        <source>download all/update</source>
-        <translation>Unduh semua</translation>
-    </message>
-    <message>
-        <source>clear recycle bin</source>
-        <translation>Bersihkan keranjang sampah</translation>
-    </message>
-</context>
-<context>
-    <name>QDevicesLoadFailureWidget</name>
-    <message>
-        <source>retry</source>
-        <translation>Coba lagi</translation>
-    </message>
-    <message>
-        <source>Failed to get device, please</source>
-        <translation>Gagal mengambil perangkat, silakan </translation>
-    </message>
-</context>
-<context>
-    <name>KFileItemOperationInfoWidget</name>
-    <message>
-        <source>share</source>
-        <translation>Bagi</translation>
-    </message>
-    <message>
-        <source>share folder</source>
-        <translation>Bagi</translation>
-    </message>
-    <message>
-        <source>Download all</source>
-        <translation>Unduh semua</translation>
-    </message>
-    <message>
-        <source>Upload to Cloud</source>
-        <translation>Simpan ke Cloud</translation>
-    </message>
-    <message>
-        <source>CopyTo</source>
-        <translation>Salin ke</translation>
-    </message>
-    <message>
-        <source>MoveTo</source>
-        <translation>Pindahkan ke</translation>
-    </message>
-    <message>
-        <source>Join Collaborative editing</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invite members</source>
-        <translation>Undang anggota</translation>
-    </message>
-    <message>
-        <source>Upload file</source>
-        <translation>Unggah file</translation>
-    </message>
-    <message>
-        <source>%1 Working together to edit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Save to</source>
-        <translation>Simpan ke</translation>
-    </message>
-    <message>
-        <source>record versions for changes</source>
-        <translation>Aktifkan versi riwayat</translation>
-    </message>
-    <message>
-        <source>Upload File to Cloud</source>
-        <translation>Unggah ke WPS Cloud</translation>
-    </message>
-    <message>
-        <source>Create a folder</source>
-        <translation>Buat folder</translation>
-    </message>
-    <message>
-        <source>Online editing</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KFileListRecentContentModel</name>
-    <message>
-        <source>today</source>
-        <translation>Hari ini</translation>
-    </message>
-    <message>
-        <source>Recent List</source>
-        <translation>Daftar Terbaru</translation>
-    </message>
-    <message>
-        <source>more early</source>
-        <translation>Sebelumnya</translation>
-    </message>
-    <message>
-        <source>yesterday</source>
-        <translation>Kemarin</translation>
-    </message>
-    <message>
-        <source>within 7 days</source>
-        <translation>Dalam 7 hari</translation>
-    </message>
-</context>
-<context>
-    <name>KAppCenterJsApi</name>
-    <message>
-        <source>APP ID already exists.</source>
-        <translation>ID Aplikasi sudah ada.</translation>
-    </message>
-    <message>
-        <source>Link path does not exist.</source>
-        <translation>Jalur tautan tidak ada.</translation>
-    </message>
-    <message>
-        <source>Lnk File</source>
-        <translation>Pintasan</translation>
-    </message>
-    <message>
-        <source>Call error.</source>
-        <translation>Kesalahan panggilan.</translation>
-    </message>
-    <message>
-        <source>Add Shortcut</source>
-        <translation>Tambah Pintasan</translation>
-    </message>
-    <message>
-        <source>APP ID does not exist.</source>
-        <translation>ID Aplikasi tidak ada.</translation>
-    </message>
-</context>
-<context>
     <name>KUserInfoWidgetLoginWidget_xa</name>
     <message>
         <source>Template Premium</source>
@@ -3065,17 +2740,6 @@ File</translation>
     </message>
     <message>
         <source>PDF ToolKit</source>
-        <translation>Toolkit PDF</translation>
-    </message>
-</context>
-<context>
-    <name>KRecentFileDesktopToolWidget</name>
-    <message>
-        <source>Add To Desktop</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Start WPS Document Assistant</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3102,11 +2766,11 @@ File</translation>
     </message>
     <message>
         <source>Content Search</source>
-        <translation>Pencarian Teks Penuh</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Return</source>
-        <translation>Kembali</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Initialization</source>
@@ -3122,88 +2786,10 @@ File</translation>
     </message>
 </context>
 <context>
-    <name>KCloudTipsContentWidget</name>
-    <message>
-        <source>365G space full</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Free 1G space was full,</source>
-        <translation>Ruang gratis 1 GB penuh,</translation>
-    </message>
-    <message>
-        <source>VIP 100G space was full,</source>
-        <translation>Ruang VIP 100 GB penuh,</translation>
-    </message>
-    <message>
-        <source>VIP 100G space was remaining 5%</source>
-        <translation>Sisa ruang VIP 100 GB kurang dari 5%</translation>
-    </message>
-    <message>
-        <source>Clean cloud space</source>
-        <translation>Bersihkan ruang Cloud</translation>
-    </message>
-    <message>
-        <source>Upgrade to WPS VIP succeed, current space 100G, %1% used</source>
-        <translation>Berhasil ditingkatkan ke WPS VIP, ruang saat ini 100 GB, %1% terpakai</translation>
-    </message>
-    <message>
-        <source>Extend to 100G</source>
-        <translation>Perluas hingga 100 GB</translation>
-    </message>
-    <message>
-        <source>Extend to 365G</source>
-        <translation>Perluas hingga 100 GB {365G?}</translation>
-    </message>
-    <message>
-        <source>Upgrade to WPS Super VIP succeed, current space 365G, %1% used</source>
-        <translation>Upgraded to WPS Super VIP successfully, current space 365 GB, %1% used</translation>
-    </message>
-    <message>
-        <source>Free 1G space was remaining 5%</source>
-        <translation>Sisa ruang gratis 1 GB kurang dari 5%</translation>
-    </message>
-    <message>
-        <source>Free 1G space was full, %1 files not upload</source>
-        <translation>Ruang gratis 1 GB penuh, %1 file tidak diunggah</translation>
-    </message>
-    <message>
-        <source>VIP 100G space was full, %1 files not upload</source>
-        <translation>Ruang VIP 100 GB penuh, %1 file tidak diunggah</translation>
-    </message>
-</context>
-<context>
     <name>KOtherSearchTipsWidget</name>
     <message>
         <source>You can still try.</source>
-        <translation>Anda juga dapat mencoba</translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherRequest</name>
-    <message>
-        <source>Unknown Location</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Monday</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Air Quality</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wednesday</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Tuesday</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation>Tidak dikenal</translation>
     </message>
 </context>
 <context>
@@ -3234,18 +2820,16 @@ File</translation>
     <message>
         <source>Unable to modify &quot;%1&quot;.
 This file has been opened by WPS, please close it first.</source>
-        <translation>Tidak dapat mengubah &quot;%1&quot;.
-File telah dibuka oleh WPS, silakan tutup.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to modify &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
-        <translation>Tidak dapat mengubah &quot;%1&quot;.
-File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please check if there is another removing operation and wait or close it.</source>
-        <translation>Harap tunggu proses penghapusan lainnya atau tutup saja.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3267,7 +2851,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>remove</source>
-        <translation>Hapus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide Tag Text</source>
@@ -3286,608 +2870,27 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
 </context>
 <context>
-    <name>KMsgCenterContentWidget</name>
-    <message>
-        <source>No news.</source>
-        <translation>Tidak ada pesan.</translation>
-    </message>
-    <message>
-        <source>Message Push</source>
-        <translation>Jejal Pesan</translation>
-    </message>
-    <message>
-        <source>Advertisement Message</source>
-        <translation>Pesan Iklan</translation>
-    </message>
-</context>
-<context>
-    <name>KLocationNavigationBar</name>
-    <message>
-        <source>Go To Parent</source>
-        <translation>Atas</translation>
-    </message>
-    <message>
-        <source>Return</source>
-        <translation>Kembali</translation>
-    </message>
-    <message>
-        <source>Forward</source>
-        <translation>Maju</translation>
-    </message>
-</context>
-<context>
-    <name>KThirdCloudNavigationBar</name>
-    <message>
-        <source>Go To Parent</source>
-        <translation>Atas</translation>
-    </message>
-    <message>
-        <source>Return</source>
-        <translation>Kembali</translation>
-    </message>
-    <message>
-        <source>Forward</source>
-        <translation>Maju</translation>
-    </message>
-</context>
-<context>
-    <name>KSchoolActivityTip</name>
-    <message>
-        <source>Unlimited PDF to Word/Excel/PPT</source>
-        <translation>Konversi PDF tak terbatas ke Word/Excel/PPT</translation>
-    </message>
-    <message>
-        <source>Correction fluid in PDF</source>
-        <translation>Cairan koreksi di PDF</translation>
-    </message>
-</context>
-<context>
-    <name>KWeChatCSWidget</name>
-    <message>
-        <source>WPS After-sales</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCmdLnkEntry</name>
-    <message>
-        <source>lnk path(%1) or target not exists.</source>
-        <translation>Pintasan(%1) atau target tidak ada.</translation>
-    </message>
-</context>
-<context>
-    <name>KWeChatCustomerServiceDlg</name>
-    <message>
-        <source>Discuss your problem with WPS customer service</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WeChat QR Code</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KRecAppLoadFailedWidget</name>
-    <message>
-        <source>Network exception, file failed to load</source>
-        <translation>Pengecualian jaringan, gagal memuatkan file</translation>
-    </message>
-    <message>
-        <source>Environment exception, app failed to load</source>
-        <translation>Pengecualian lingkungan. Gagal memuatkan aplikasi</translation>
-    </message>
-    <message>
-        <source>Load Faild</source>
-        <translation>Pemuatan gagal</translation>
-    </message>
-    <message>
-        <source>Network exception, app failed to load</source>
-        <translation>Pengecualian jaringan, gagal memuatkan aplikasi</translation>
-    </message>
-</context>
-<context>
-    <name>KCloudSpaceFullTipsWidget</name>
-    <message>
-        <source>Don&apos;t remind me near future</source>
-        <translation>Jangan ingatkan saya lagi untuk selanjutnya</translation>
-    </message>
-</context>
-<context>
-    <name>KLocationListSpecialContentModel</name>
-    <message>
-        <source>Create Company</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KTeamListView</name>
-    <message>
-        <source>Now Loading</source>
-        <translation>Memuat</translation>
-    </message>
-    <message>
-        <source>No Team</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KTeamMemberListView</name>
-    <message>
-        <source>Now Loading</source>
-        <translation>Memuat</translation>
-    </message>
-    <message>
-        <source>No Member</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KContentModelLocalLogic</name>
-    <message>
-        <source>Removable Drive</source>
-        <translation>Disk yang Dapat Dilepas</translation>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation>Dokumen</translation>
-    </message>
-    <message>
-        <source>Desktop</source>
-        <translation>Desktop</translation>
-    </message>
-    <message>
-        <source>Local Drive</source>
-        <translation>Disk Lokal</translation>
-    </message>
-</context>
-<context>
-    <name>SearchTipsWidget</name>
-    <message>
-        <source>Docer search</source>
-        <translation>Cari template</translation>
-    </message>
-    <message>
-        <source>Search Again</source>
-        <translation>Cari lagi</translation>
-    </message>
-</context>
-<context>
-    <name>KCommonSearchResultWidget</name>
-    <message>
-        <source>More results are being searched...</source>
-        <translation>Mencari hasil lainnya...</translation>
-    </message>
-    <message>
-        <source>document</source>
-        <translation>Dokumen</translation>
-    </message>
-    <message>
-        <source>history version</source>
-        <translation>Versi riwayat</translation>
-    </message>
-</context>
-<context>
-    <name>KOpenWayItemWidget</name>
-    <message>
-        <source>has modify - newest</source>
-        <translation>memiliki perubahan - terbaru</translation>
-    </message>
-    <message>
-        <source>Search local backup</source>
-        <translation>Cari cadangan lokal</translation>
-    </message>
-    <message>
-        <source>(recommend)</source>
-        <translation>(disarankan)</translation>
-    </message>
-    <message>
-        <source>backup</source>
-        <translation>Cadangan</translation>
-    </message>
-    <message>
-        <source>no modify</source>
-        <translation>Tidak ada perubahan</translation>
-    </message>
-    <message>
-        <source>Open backup folder to search backup file</source>
-        <translation>Buka folder cadangan untuk mencari file cadangan</translation>
-    </message>
-    <message>
-        <source>%1, %2/has modifyed</source>
-        <translation>%1, %2/telah diubah</translation>
-    </message>
-    <message>
-        <source>Use Cloud Duplicate</source>
-        <translation>Gunakan Duplikat Cloud</translation>
-    </message>
-    <message>
-        <source>Use Local file</source>
-        <translation>Gunakan file lokal</translation>
-    </message>
-    <message>
-        <source>Open all to compare</source>
-        <translation>Buka semua dokumen untuk dibandingkan</translation>
-    </message>
-    <message>
-        <source>modify earlier version will auto rename %1</source>
-        <translation>Mengubah versi sebelumnya akan mengganti nama %1 secara otomatis</translation>
-    </message>
-</context>
-<context>
-    <name>KLocationListTitleWidget</name>
-    <message>
-        <source>%1 teams</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KThirdCloudFileListWidget</name>
-    <message>
-        <source>loading failed</source>
-        <translation>Gagal memuat daftar file.</translation>
-    </message>
-    <message>
-        <source>Authorization is invalid</source>
-        <translation>Proses masuk terotorisasi tidak valid.</translation>
-    </message>
-    <message>
-        <source>File list is loading for you</source>
-        <translation>Memuat daftar file untuk Anda...</translation>
-    </message>
-    <message>
-        <source>try again</source>
-        <translation>Coba lagi</translation>
-    </message>
-    <message>
-        <source>re-authorize</source>
-        <translation>Otorisasi lagi</translation>
-    </message>
-</context>
-<context>
-    <name>NotCloudSearchResultWidget</name>
-    <message>
-        <source>Content Search</source>
-        <translation>Pencarian teks penuh</translation>
-    </message>
-    <message>
-        <source>Did not search for %1 related content, see</source>
-        <translation>Tidak mencari %1 konten terkait, lihat</translation>
-    </message>
-</context>
-<context>
-    <name>NotCloudSearchResultWidget2</name>
-    <message>
-        <source>Content Search</source>
-        <translation>Pencarian teks penuh</translation>
-    </message>
-    <message>
-        <source>Did not search for %1 related content, see</source>
-        <translation>Tidak mencari %1 konten terkait, lihat</translation>
-    </message>
-    <message>
-        <source>Did not search for %1 related content</source>
-        <translation>Tidak mencari %1 konten terkait</translation>
-    </message>
-</context>
-<context>
-    <name>KStartPageHomeRadarFileList</name>
-    <message>
-        <source>My Cloud Doc</source>
-        <translation>File Cloud Saya</translation>
-    </message>
-</context>
-<context>
-    <name>KStartPageHomeRecentFileList</name>
-    <message>
-        <source>My Cloud Doc</source>
-        <translation>File Cloud Saya</translation>
-    </message>
-</context>
-<context>
-    <name>KShareWpsWidget</name>
-    <message>
-        <source>Recommend WPS Office 2020 to friends</source>
-        <translation>Rekomendasikan WPS Office kepada teman</translation>
-    </message>
-</context>
-<context>
-    <name>KAddDesktopToolSuccessTipsWidget</name>
-    <message>
-        <source>Successful addition of WPS document Assistant</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Successful start of WPS document Assistant</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>SearchNetWorkErrorWidget</name>
-    <message>
-        <source>The current network is unreachable and can not search for cloud documents.</source>
-        <translation>Kesalahan jaringan, tidak dapat mencari.</translation>
-    </message>
-</context>
-<context>
-    <name>KContentModelCloudLogic</name>
-    <message>
-        <source>Please save the document to WPS Cloud Space</source>
-        <translation>Simpan dokumen ke Ruang WPS Cloud</translation>
-    </message>
-    <message>
-        <source>recovered file from recycle-bin</source>
-        <translation>File yang dipulihkan dari tempat sampah</translation>
-    </message>
-    <message>
-        <source>Only documents saved to the cloud can add star tag</source>
-        <translation>Hanya dokumen yang disimpan ke awan yang dapat diberi tag bintang</translation>
-    </message>
-    <message>
-        <source>add file</source>
-        <translation>File yang ditambahkan</translation>
-    </message>
-    <message>
-        <source>moved file out</source>
-        <translation>File yang dipindah</translation>
-    </message>
-    <message>
-        <source>shared file to %1</source>
-        <translation>File yang dibagikan</translation>
-    </message>
-    <message>
-        <source>updated file</source>
-        <translation>File yang diperbarui</translation>
-    </message>
-    <message>
-        <source>renamed file</source>
-        <translation>File yang diganti nama</translation>
-    </message>
-    <message>
-        <source>removed file</source>
-        <translation>File yang dihapus</translation>
-    </message>
-    <message>
-        <source>commented file</source>
-        <translation>File yang dikomentari</translation>
-    </message>
-    <message>
-        <source>created file</source>
-        <translation>File yang dibuat</translation>
-    </message>
-    <message>
-        <source>deleted file permanently</source>
-        <translation>File yang dihapus permanen</translation>
-    </message>
-</context>
-<context>
-    <name>KItemDragLabelWidget</name>
-    <message>
-        <source>move to</source>
-        <translation>Pindahkan ke</translation>
-    </message>
-    <message>
-        <source>copy to</source>
-        <translation>Salin ke</translation>
-    </message>
-</context>
-<context>
-    <name>KInstantAppMore</name>
-    <message>
-        <source>Templates</source>
-        <translation>Templat</translation>
-    </message>
-</context>
-<context>
-    <name>KWaitDownloadControl</name>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Download Failed</source>
-        <translation>Gagal Mengunduh</translation>
-    </message>
-</context>
-<context>
-    <name>KLinkMessageBox</name>
-    <message>
-        <source>Open Folder</source>
-        <translation>Buka Folder</translation>
-    </message>
-    <message>
-        <source>warning</source>
-        <translation>Peringatan</translation>
-    </message>
-    <message>
-        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation>Folder &quot;%1&quot; tidak dapat ditemukan. Mungkin sudah dihapus, dipindah, atau diganti nama.</translation>
-    </message>
-</context>
-<context>
-    <name>SearchResultWidget</name>
-    <message>
-        <source>My Device</source>
-        <translation>Perangkat Saya</translation>
-    </message>
-    <message>
-        <source>Cloud Team Document</source>
-        <translation>Dokumen Cloud Team</translation>
-    </message>
-    <message>
-        <source>Share To Me</source>
-        <translation>Bagikan Untuk Saya</translation>
-    </message>
-    <message>
-        <source>WPS Cloud Document</source>
-        <translation>WPS Cloud</translation>
-    </message>
-</context>
-<context>
-    <name>KRightSidePopupMenu</name>
-    <message>
-        <source>Expand</source>
-        <translation>Perluas</translation>
-    </message>
-    <message>
-        <source>Collapse</source>
-        <translation>Ciutkan</translation>
-    </message>
-    <message>
-        <source>Feedback</source>
-        <translation>Masukan</translation>
-    </message>
-</context>
-<context>
-    <name>KTeamMsgListDelegate</name>
-    <message>
-        <source>Expand</source>
-        <translation>Perluas</translation>
-    </message>
-    <message>
-        <source>Shrink</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KFileListWidget</name>
-    <message>
-        <source>Filter</source>
-        <translation>Filter</translation>
-    </message>
-    <message>
-        <source>Share Folder Details</source>
-        <translation>Bagikan Detail Folder</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Segarkan</translation>
-    </message>
-    <message>
-        <source>Devices</source>
-        <translation>Perangkat</translation>
-    </message>
-    <message>
-        <source>Show Online Device List</source>
-        <translation>Perangkat yang Masuk</translation>
-    </message>
-</context>
-<context>
-    <name>KStartPageHomeBaseFileArea</name>
-    <message>
-        <source>Filter</source>
-        <translation>Filter</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Segarkan</translation>
-    </message>
-    <message>
-        <source>Devices</source>
-        <translation>Perangkat</translation>
-    </message>
-    <message>
-        <source>Show Online Device List</source>
-        <translation>Perangkat yang Masuk</translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherCitySettingWidget</name>
-    <message>
-        <source>Finish</source>
-        <translation>Selesai</translation>
-    </message>
-    <message>
-        <source>weather settings</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCloudLoadErrorWidget</name>
-    <message>
-        <source>Please check permission</source>
-        <translation>Periksa izin</translation>
-    </message>
-    <message>
-        <source>Please check your network-connection</source>
-        <translation>Periksa jaringan Anda</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Segarkan</translation>
-    </message>
-    <message>
-        <source>Please check file-existence</source>
-        <translation>Periksa keberadaan folder</translation>
-    </message>
-    <message>
-        <source>Please check disk-status</source>
-        <translation>Periksa status disk</translation>
-    </message>
-</context>
-<context>
-    <name>KCloudTeamMessageWidget</name>
-    <message>
-        <source>Unable to acquire file info. Check whether this file has been deleted or moved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>Unable to acquire location info. Check whether this location has been deleted or moved.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCloudDocsContentWidget</name>
-    <message>
-        <source>No news</source>
-        <translation>Tidak ada berita</translation>
-    </message>
-</context>
-<context>
-    <name>KThirdCloudListView</name>
-    <message>
-        <source>Logout</source>
-        <translation>Akses keluar</translation>
-    </message>
-</context>
-<context>
-    <name>KTeamAreaFileListTitleWidget</name>
-    <message>
-        <source>Manage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invite members</source>
-        <translation>Undang anggota</translation>
-    </message>
-    <message>
-        <source>(%1 members)</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCloudTeamMemberContentWidget</name>
-    <message>
-        <source>Only administrators can invite members to join</source>
-        <translation>Hanya administrator yang dapat mengundang anggota untuk bergabung</translation>
-    </message>
-</context>
-<context>
-    <name>KStartPageLineEditWidget</name>
-    <message>
-        <source>Search for documents, templates ...</source>
-        <translation>Cari dokumen</translation>
-    </message>
-    <message>
-        <source>We need some time to prepare</source>
-        <translation>Perlu agak lama untuk menyiapkan</translation>
-    </message>
-</context>
-<context>
     <name>KTemplateGuideDialog</name>
+    <message>
+        <source>Inspire your design inspiration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Optimize warehouse management</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We&apos;ll recommend suitable templates for you</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>HR &amp; Administrative</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>For sales, legal and service industries</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <source>Others</source>
         <translation>Lainnya</translation>
@@ -3897,8 +2900,16 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <translation>Untuk kebugaran, asupan makanan, dan kesehatan</translation>
     </message>
     <message>
+        <source>Select your interest field</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Social &amp; Life</source>
         <translation>Sosial &amp; Gaya Hidup</translation>
+    </message>
+    <message>
+        <source>Reduce the workload</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make your report cooler</source>
@@ -3936,6 +2947,674 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>Finance</source>
         <translation>Keuangan</translation>
     </message>
+    <message>
+        <source>Save time with standardized templates</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SCM/Supply Chain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KMsgCenterContentWidget</name>
+    <message>
+        <source>No news.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Message Push</source>
+        <translation>Jejal Pesan</translation>
+    </message>
+    <message>
+        <source>Advertisement Message</source>
+        <translation>Pesan Iklan</translation>
+    </message>
+</context>
+<context>
+    <name>KLocationNavigationBar</name>
+    <message>
+        <source>Go To Parent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Return</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Maju</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudNavigationBar</name>
+    <message>
+        <source>Go To Parent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Return</source>
+        <translation>Kembali</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Maju</translation>
+    </message>
+</context>
+<context>
+    <name>KSchoolActivityTip</name>
+    <message>
+        <source>Unlimited PDF to Word/Excel/PPT</source>
+        <translation>Konversi PDF tak terbatas ke Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Correction fluid in PDF</source>
+        <translation>Cairan koreksi di PDF</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudTipsContentWidget</name>
+    <message>
+        <source>Free 1G space was full,</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VIP 100G space was full,</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VIP 100G space was remaining 5%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clean cloud space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade to WPS VIP succeed, current space 100G, %1% used</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extend to 100G</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extend to 365G</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade to WPS Super VIP succeed, current space 365G, %1% used</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Free 1G space was remaining 5%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Free 1G space was full, %1 files not upload</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VIP 100G space was full, %1 files not upload</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCmdLnkEntry</name>
+    <message>
+        <source>lnk path(%1) or target not exists.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KRecAppLoadFailedWidget</name>
+    <message>
+        <source>Network exception, file failed to load</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Environment exception, app failed to load</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Load Faild</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Network exception, app failed to load</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCloudSpaceFullTipsWidget</name>
+    <message>
+        <source>Don&apos;t remind me near future</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KFileOpenProxy</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation>Tidak dapat membuka &quot;%1&quot;.
+File ini mungkin telah diganti nama, dihapus, atau dipindahkan.</translation>
+    </message>
+    <message>
+        <source>WPS/Word Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Web Pages</source>
+        <translation>Halaman Web</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>Text Files</source>
+        <translation>File Teks</translation>
+    </message>
+    <message>
+        <source>Add Files</source>
+        <translation>Tambah File</translation>
+    </message>
+    <message>
+        <source>Access Databases</source>
+        <translation>Akses Database</translation>
+    </message>
+    <message>
+        <source>DBase Files</source>
+        <translation>File DBase</translation>
+    </message>
+    <message>
+        <source>Pdf Files</source>
+        <translation>File Pdf</translation>
+    </message>
+    <message>
+        <source>Rtf Files</source>
+        <translation>File Rtf</translation>
+    </message>
+    <message>
+        <source>DIF Files</source>
+        <translation>File DIF</translation>
+    </message>
+    <message>
+        <source>Single Web Page Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ET/Excel Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query Files</source>
+        <translation>File Query</translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open File</source>
+        <translation>Buka File</translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation>File XML</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>Semua File</translation>
+    </message>
+    <message>
+        <source>All Data Sources</source>
+        <translation>Semua Sumber Data</translation>
+    </message>
+    <message>
+        <source>WPP/PowerPoint Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&quot;%1&quot;
+this file has been opened, can&apos;t write data.please close file and retry.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KTeamListView</name>
+    <message>
+        <source>Now Loading</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KTeamMemberListView</name>
+    <message>
+        <source>Now Loading</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KContentModelLocalLogic</name>
+    <message>
+        <source>Removable Drive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation>Dokumen</translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation>Desktop</translation>
+    </message>
+    <message>
+        <source>Local Drive</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>SearchTipsWidget</name>
+    <message>
+        <source>Docer search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search Again</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCommonSearchResultWidget</name>
+    <message>
+        <source>More results are being searched...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>history version</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KOpenWayItemWidget</name>
+    <message>
+        <source>has modify - newest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search local backup</source>
+        <translation>Cari cadangan lokal</translation>
+    </message>
+    <message>
+        <source>(recommend)</source>
+        <translation>(disarankan)</translation>
+    </message>
+    <message>
+        <source>backup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>no modify</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open backup folder to search backup file</source>
+        <translation>Buka folder cadangan untuk mencari file cadangan</translation>
+    </message>
+    <message>
+        <source>%1, %2/has modifyed</source>
+        <translation>%1, %2/telah diubah</translation>
+    </message>
+    <message>
+        <source>Use Cloud Duplicate</source>
+        <translation>Gunakan Duplikat Cloud</translation>
+    </message>
+    <message>
+        <source>Use Local file</source>
+        <translation>Gunakan file lokal</translation>
+    </message>
+    <message>
+        <source>Open all to compare</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>modify earlier version will auto rename %1</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudFileListWidget</name>
+    <message>
+        <source>loading failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Authorization is invalid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File list is loading for you</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>re-authorize</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>NotCloudSearchResultWidget</name>
+    <message>
+        <source>Content Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Did not search for %1 related content, see</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>NotCloudSearchResultWidget2</name>
+    <message>
+        <source>Content Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Did not search for %1 related content, see</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Did not search for %1 related content</source>
+        <translation>Tidak mencari %1 konten terkait</translation>
+    </message>
+</context>
+<context>
+    <name>KStartPageHomeRadarFileList</name>
+    <message>
+        <source>My Cloud Doc</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartPageHomeRecentFileList</name>
+    <message>
+        <source>My Cloud Doc</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KShareWpsWidget</name>
+    <message>
+        <source>Recommend WPS Office 2020 to friends</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>SearchNetWorkErrorWidget</name>
+    <message>
+        <source>The current network is unreachable and can not search for cloud documents.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KContentModelCloudLogic</name>
+    <message>
+        <source>Please save the document to WPS Cloud Space</source>
+        <translation>Simpan dokumen ke Ruang WPS Cloud</translation>
+    </message>
+    <message>
+        <source>recovered file from recycle-bin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Only documents saved to the cloud can add star tag</source>
+        <translation>Hanya dokumen yang disimpan ke awan yang dapat diberi tag bintang</translation>
+    </message>
+    <message>
+        <source>add file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>moved file out</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>shared file to %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>updated file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>renamed file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>removed file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>commented file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>created file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>deleted file permanently</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KItemDragLabelWidget</name>
+    <message>
+        <source>move to</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>copy to</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KInstantAppMore</name>
+    <message>
+        <source>Templates</source>
+        <translation>Templat</translation>
+    </message>
+</context>
+<context>
+    <name>KWaitDownloadControl</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>Download Failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KLinkMessageBox</name>
+    <message>
+        <source>Open Folder</source>
+        <translation>Buka Folder</translation>
+    </message>
+    <message>
+        <source>warning</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>SearchResultWidget</name>
+    <message>
+        <source>My Device</source>
+        <translation>Perangkat Saya</translation>
+    </message>
+    <message>
+        <source>Cloud Team Document</source>
+        <translation>Dokumen Cloud Team</translation>
+    </message>
+    <message>
+        <source>Share To Me</source>
+        <translation>Bagikan Untuk Saya</translation>
+    </message>
+    <message>
+        <source>WPS Cloud Document</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KRightSidePopupMenu</name>
+    <message>
+        <source>Expand</source>
+        <translation>Perluas</translation>
+    </message>
+    <message>
+        <source>Collapse</source>
+        <translation>Ciutkan</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Masukan</translation>
+    </message>
+</context>
+<context>
+    <name>KTeamMsgListDelegate</name>
+    <message>
+        <source>Expand</source>
+        <translation>Perluas</translation>
+    </message>
+</context>
+<context>
+    <name>KFileListWidget</name>
+    <message>
+        <source>Filter</source>
+        <translation>Filter</translation>
+    </message>
+    <message>
+        <source>Share Folder Details</source>
+        <translation>Bagikan Detail Folder</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Segarkan</translation>
+    </message>
+    <message>
+        <source>Devices</source>
+        <translation>Perangkat</translation>
+    </message>
+    <message>
+        <source>Show Online Device List</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartPageHomeBaseFileArea</name>
+    <message>
+        <source>Filter</source>
+        <translation>Filter</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Segarkan</translation>
+    </message>
+    <message>
+        <source>Devices</source>
+        <translation>Perangkat</translation>
+    </message>
+    <message>
+        <source>Show Online Device List</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherCitySettingWidget</name>
+    <message>
+        <source>Finish</source>
+        <translation>Selesai</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudLoadErrorWidget</name>
+    <message>
+        <source>Please check permission</source>
+        <translation>Periksa izin</translation>
+    </message>
+    <message>
+        <source>Please check your network-connection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Segarkan</translation>
+    </message>
+    <message>
+        <source>Please check file-existence</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please check disk-status</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCloudDocsContentWidget</name>
+    <message>
+        <source>No news</source>
+        <translation>Tidak ada berita</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudListView</name>
+    <message>
+        <source>Logout</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCloudTeamMemberContentWidget</name>
+    <message>
+        <source>Only administrators can invite members to join</source>
+        <translation>Hanya administrator yang dapat mengundang anggota untuk bergabung</translation>
+    </message>
+</context>
+<context>
+    <name>KStartPageLineEditWidget</name>
+    <message>
+        <source>Search for documents, templates ...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We need some time to prepare</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KCloudTeamMessageWidget</name>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
 </context>
 <context>
     <name>KFileTransferButton</name>
@@ -3967,18 +3646,18 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KTitleWidget</name>
     <message>
         <source>Return</source>
-        <translation>Kembali</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KComponentItemSwitch</name>
     <message>
         <source>Remove component from message center area</source>
-        <translation>Hapus komponen dari pusat pesan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add component to message center area</source>
-        <translation>Tambahkan komponen ke pusat pesan</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3996,29 +3675,29 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KPromeStartPageAvatar</name>
     <message>
         <source>offline</source>
-        <translation>Offline</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>online</source>
-        <translation>Online</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KStartPageHomeRadarFileListControl</name>
     <message>
         <source>Please check if there is another removing operation and wait or close it.</source>
-        <translation>Harap tunggu proses penghapusan lainnya atau tutup saja.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KComponentCollapseBtn</name>
     <message>
         <source>collapse</source>
-        <translation>Ciutkan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>extend</source>
-        <translation>Bentangkan</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4026,10 +3705,6 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Collapse</source>
         <translation>Ciutkan</translation>
-    </message>
-    <message>
-        <source>Switch Page</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback</source>
@@ -4040,14 +3715,14 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KStartPageBodyBaseWidget</name>
     <message>
         <source>not impl</source>
-        <translation>Belum selesai</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KFileListOpenSelectDialog</name>
     <message>
         <source>in local directory reserve backup that never be open</source>
-        <translation>Simpan cadangan versi yang belum dibuka di direktori lokal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Local file has lost</source>
@@ -4055,11 +3730,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>File exist not merge modify</source>
-        <translation>File memiliki pengubahan yang terurai</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please select the action to take</source>
-        <translation>Silakan pilih tindakan:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4071,6 +3746,13 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Search Member</source>
         <translation>Cari Anggota</translation>
+    </message>
+</context>
+<context>
+    <name>KTeamAreaFileListTitleWidget</name>
+    <message>
+        <source>Invite members</source>
+        <translation>Undang anggota</translation>
     </message>
 </context>
 <context>
@@ -4092,30 +3774,30 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KAppSearchListWidget</name>
     <message>
         <source>is bottom</source>
-        <translation>Saya memiliki batasan.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>showAll</source>
-        <translation>Tampilkan Semua</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>application</source>
-        <translation>Aplikasi</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SearchCtrlErrorWidget</name>
     <message>
         <source>Oops! Something&apos;s wrong with the search function.</source>
-        <translation>Ups! Kesalahan pencarian.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Try update to the latest WPS Office and </source>
-        <translation>Perbarui ke versi terbaru dan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>search again.</source>
-        <translation>Cari lagi.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4132,8 +3814,12 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <translation>Tetapkan sebagai Default</translation>
     </message>
     <message>
+        <source>Always open PDFs in WPS Office</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>No more show</source>
-        <translation>Tidak ada lagi tampilan</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4149,10 +3835,6 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>You are using</source>
         <translation>Anda sedang menggunakan</translation>
     </message>
-    <message>
-        <source>guest account</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KMsgListViewDelegate</name>
@@ -4162,11 +3844,11 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>feedback</source>
-        <translation>Masukan</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>remove message</source>
-        <translation>Hapus Pesan</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4174,18 +3856,6 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Show Recent Locations</source>
         <translation>Tampilkan Lokasi Terkini</translation>
-    </message>
-    <message>
-        <source>Search Team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add Team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>My Teams</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4204,7 +3874,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Tidak dikenal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Administrator</source>
@@ -4227,25 +3897,6 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
 </context>
 <context>
-    <name>KUserInfoWidgetLoginWidget</name>
-    <message>
-        <source>wallet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Docer Vip</source>
-        <translation>Docer Premium</translation>
-    </message>
-    <message>
-        <source>WPS Super Vip</source>
-        <translation>Super Premium</translation>
-    </message>
-    <message>
-        <source>WPS Vip</source>
-        <translation>Premium</translation>
-    </message>
-</context>
-<context>
     <name>SearchLoadingWidget</name>
     <message>
         <source>Searching ...</source>
@@ -4256,18 +3907,18 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KNewUserGuideStep_Pdf</name>
     <message>
         <source>Take a tour of powerful PDF editing tools</source>
-        <translation>Silakan mencari tahu lebih lanjut tentang alat pengeditan PDF yang luar biasa</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quickly learn about the free privileges of PDF, and how to edit text and pictures.</source>
-        <translation>Melalui dokumen bantuan ini, Anda dapat dengan cepat mempelajari tentang hak akses gratis WPS PDF seperti PDF ke Word, dan cara mengedit teks dan gambar.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KMenuSettingAboutWidget</name>
     <message>
         <source>Click here to copy version info</source>
-        <translation>Klik untuk menyalin info versi</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4281,22 +3932,22 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KLocationListDelegate</name>
     <message>
         <source>ShareToMe</source>
-        <translation>Bagikan ke Saya</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShareItems</source>
-        <translation>Bagi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShareFromMe</source>
-        <translation>Bagikan dari Saya</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KCloudStorageWidget</name>
     <message>
         <source>recycle</source>
-        <translation>Tempat Sampah</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4307,28 +3958,32 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
 </context>
 <context>
-    <name>KAddRecentFileDesktopToolPopouWidget</name>
-    <message>
-        <source>After opening, you can view documents using the WPS Document Assistant  on the desktop directly.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No more &quot;Add&quot; button information displayed</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KNetworkErrorTipsWidget</name>
     <message>
         <source>Network Error</source>
-        <translation>Tidak dapat beroperasi, periksa jaringan</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KDisplayAllResultBtn</name>
     <message>
         <source>Display All Result</source>
-        <translation>Tampilkan Semua Hasil</translation>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KUserInfoWidgetLoginWidget</name>
+    <message>
+        <source>Docer Vip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Super Vip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Vip</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4347,38 +4002,13 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
 </context>
 <context>
-    <name>KFileEventsInfoWidget</name>
-    <message>
-        <source>%1 sharing</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 collaboration</source>
-        <translation>Pencadangan Awan</translation>
-    </message>
-</context>
-<context>
     <name>RightComponentErrorWidget</name>
     <message>
         <source>load config fail</source>
-        <translation>Pemuatan konfigurasi gagal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>reload config</source>
-        <translation>Muatkan ulang</translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherCurrentWeatherWidget</name>
-    <message>
-        <source>Switch City</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorUnknowBottomWidget</name>
-    <message>
-        <source>Switch City</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4390,7 +4020,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>The free version of WPS Office has high compatibility with Microsoft Office, Google Docs, Adobe PDF, etc. Open your documents and explore it!</source>
-        <translation>Versi gratis dari WPS Office sangat kompatibel dengan Microsoft Office, Google Docs, Adobe PDF, dll. Buka dokumen Anda untuk mencobanya!</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4405,24 +4035,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
 </context>
 <context>
-    <name>KWeatherErrorFailureBottomWidget</name>
-    <message>
-        <source>Manually adding cities</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherComponent</name>
-    <message>
-        <source>weather_component</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KDocerSearchListWidget</name>
     <message>
         <source>Docer Template Selection</source>
-        <translation>Templat Online</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View All</source>
@@ -4440,27 +4056,20 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KComponentTitle</name>
     <message>
         <source>feedback</source>
-        <translation>Masukan</translation>
-    </message>
-</context>
-<context>
-    <name>KTeamListDelegate</name>
-    <message>
-        <source>Last UpdateTime:</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
-    <name>KWeatherCitySearchPopWidget</name>
+    <name>KWeatherRequest</name>
     <message>
-        <source>No city is matched</source>
-        <translation type="unfinished"/>
+        <source>Unknown</source>
+        <translation>Tidak dikenal</translation>
     </message>
 </context>
 <context>
-    <name>KWeatherErrorTitleWidget</name>
+    <name>KFileEventsInfoWidget</name>
     <message>
-        <source>Weather</source>
+        <source>%1 collaboration</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4468,7 +4077,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KRightComponentJsObj</name>
     <message>
         <source>APP ID does not exist.</source>
-        <translation>ID Aplikasi tidak ada.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4479,17 +4088,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
 </context>
 <context>
-    <name>KWeatherLineEditWidget</name>
-    <message>
-        <source>Add cities to pay attention to the weather</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KLocationListView</name>
     <message>
         <source>Pin Cloud Items here</source>
-        <translation>Klik kanan untuk menyematkan item Cloud di sini</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4517,7 +4119,7 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>SearchServerErrorWidget</name>
     <message>
         <source>The cloud document server is abnormal and can not search for cloud documents.</source>
-        <translation>Kesalahan server, tidak dapat mencari.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
