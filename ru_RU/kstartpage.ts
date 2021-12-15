@@ -10,6 +10,10 @@
         <translation>Изменить</translation>
     </message>
     <message>
+        <source>Date: %1 - %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Expand</source>
         <translation>Развернуть</translation>
     </message>
@@ -391,6 +395,10 @@ Are you sure to modify?</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Join Co-Editing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>delete the entire group</source>
         <translation>удалить всю группу</translation>
     </message>
@@ -416,6 +424,10 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Can&apos;t find local original file, only exist cloud backup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Created file</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -644,7 +656,7 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>My Cloud Doc</source>
         <translation type="unfinished"/>
-    </message>
+    </message>	
 </context>
 <context>
     <name>KStartPageHomeStarFileList</name>
@@ -1360,6 +1372,49 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KEntry</name>
+    <message>
+        <source>Apps</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation>Главная</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <source>Team</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>company manage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Create Company</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New From Docer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Calendar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation>Документы</translation>
+    </message>	
+</context>
+<context>
     <name>KRecAppLoadingWidget</name>
     <message>
         <source>Back</source>
@@ -1504,33 +1559,6 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>WPS Spreadsheets</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KEntry</name>
-    <message>
-        <source>Home</source>
-        <translation>Главная</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation>Открыть</translation>
-    </message>
-    <message>
-        <source>Team</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>New Document</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Calendar</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation>Документы</translation>
     </message>
 </context>
 <context>
@@ -2033,6 +2061,10 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Удалить команду Team</translation>
     </message>
     <message>
+        <source>Leave Team</source>
+        <translation>Выйти из команды Team</translation>
+    </message>
+    <message>
         <source>Settings</source>
         <translation>Параметры</translation>
     </message>
@@ -2193,6 +2225,10 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Удалить команду Team</translation>
     </message>
     <message>
+        <source>Leave Team</source>
+        <translation>Выйти из команды Team</translation>
+    </message>
+    <message>
         <source>%1 members would lose access to this team after deletion</source>
         <translation type="unfinished"/>
     </message>
@@ -2251,7 +2287,23 @@ This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>updated %1 versions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>renamed file from %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>was by</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>removed from team</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>upgraded with access rights</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2312,6 +2364,13 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Total</source>
         <translation>Итого</translation>
+    </message>
+</context>
+<context>
+    <name>KDocerHotSearchListWidget</name>
+    <message>
+        <source>Docer HotSearch</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2660,6 +2719,10 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Добавьте Поиск WPS на рабочий стол для более удобного использования.</translation>
     </message>
     <message>
+        <source>Split PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>-cloud-</source>
         <translation type="unfinished"/>
     </message>
@@ -2670,6 +2733,10 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>%1 minute ago</source>
         <translation>Минут назад: %1</translation>
+    </message>
+    <message>
+        <source>No ads</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>today %1</source>
@@ -2954,7 +3021,7 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>SCM/Supply Chain</source>
         <translation type="unfinished"/>
-    </message>
+    </message>	
 </context>
 <context>
     <name>KMsgCenterContentWidget</name>
@@ -3183,6 +3250,13 @@ This file may be renamed, deleted or moved.</source>
     <message>
         <source>&quot;%1&quot;
 this file has been opened, can&apos;t write data.please close file and retry.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KLocationListSpecialContentModel</name>
+    <message>
+        <source>Create Company</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3754,6 +3828,10 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
         <source>Invite members</source>
         <translation>Пригласить участников</translation>
     </message>
+    <message>
+        <source>(%1 members)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KTeamAreaUnLoginWidget</name>
@@ -4106,6 +4184,13 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <message>
         <source>Component Setting</source>
         <translation>Параметр компонента</translation>
+    </message>
+</context>
+<context>
+    <name>KWeChatCustomerServiceDlg</name>
+    <message>
+        <source>WeChat QR Code</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
