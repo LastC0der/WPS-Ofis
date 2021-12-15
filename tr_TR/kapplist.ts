@@ -55,19 +55,19 @@
     </message>
     <message>
         <source>Create Forms, Surveys, Audits, Assessments and Exams.</source>
-        <translation type="unfinished"/>
+        <translation>Formlar, Anketler, Denetimler, Değerlendirmeler ve Sınavlar oluşturun.</translation>
     </message>
     <message>
         <source>Layout unchanged, Keep all style and format</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım değişmeden, tüm stili ve biçimlendirmeyi koru</translation>
     </message>
     <message>
         <source>Support exporting files in batch and specifying page ranges</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları toplu olarak dışa aktarma ve sayfa aralıklarını belirleme desteği</translation>
     </message>
     <message>
         <source>Real-time document backup for comprehensive protection of document data</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik belge yedekleme</translation>
     </message>
     <message>
         <source>photo2pdf</source>
@@ -75,19 +75,19 @@
     </message>
     <message>
         <source>Split/Merge</source>
-        <translation type="unfinished"/>
+        <translation>Böl/Birleştir</translation>
     </message>
     <message>
         <source>WPS Academy</source>
-        <translation>WPS Akademisi</translation>
+        <translation>WPS Akademi</translation>
     </message>
     <message>
         <source>Plagiarism Checker</source>
-        <translation type="unfinished"/>
+        <translation>İntihal Denetleyicisi</translation>
     </message>
     <message>
         <source>Export documents to HD image files</source>
-        <translation type="unfinished"/>
+        <translation>Belgeleri HD görüntü dosyalarına aktarma</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -95,23 +95,23 @@
     </message>
     <message>
         <source>Smart Form</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı Form</translation>
     </message>
     <message>
         <source>Organize files quickly and easily</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları hızlı ve kolay bir şekilde düzenleme</translation>
     </message>
     <message>
         <source>Recording screen and generate video</source>
-        <translation type="unfinished"/>
+        <translation>Ekran kaydetme ve video oluşturma</translation>
     </message>
     <message>
         <source>Check My Written Paper in 15 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>Yazılı çalışmanızı 15 dakikada kontrol edin</translation>
     </message>
     <message>
         <source>Download immediately</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi İndir</translation>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -127,7 +127,7 @@
     </message>
     <message>
         <source>The system has not installed the .NET components necessary for screen recording. Please download and install the components first.</source>
-        <translation type="unfinished"/>
+        <translation>Ekran kaydedici için gereken .NET bileşenleri sistemde yüklü değil. Lütfen önce .NET bileşenlerini indirip kurun.</translation>
     </message>
     <message>
         <source>Backup Center</source>
@@ -135,7 +135,7 @@
     </message>
     <message>
         <source>Extract text from a picture</source>
-        <translation type="unfinished"/>
+        <translation>Resimden metin ayıklama</translation>
     </message>
     <message>
         <source>Resume Master</source>
@@ -143,23 +143,23 @@
     </message>
     <message>
         <source>Free WPS Office tutorials</source>
-        <translation type="unfinished"/>
+        <translation>Ücretsiz WPS Ofis eğitimleri</translation>
     </message>
     <message>
         <source>Correct garbled, unopenable documents</source>
-        <translation type="unfinished"/>
+        <translation>Bozuk, açılmayan belgeleri düzeltin</translation>
     </message>
     <message>
         <source>Convert PDF files to Word, Excel and PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF dosyalarını Word, Excel ve PPT&apos;ye dönüştürme</translation>
     </message>
     <message>
         <source>Recommendation</source>
-        <translation type="unfinished"/>
+        <translation>Öneri</translation>
     </message>
     <message>
         <source>Excellent templates library</source>
-        <translation type="unfinished"/>
+        <translation>Mükemmel şablon kitaplığı</translation>
     </message>
 </context>
 </TS>
