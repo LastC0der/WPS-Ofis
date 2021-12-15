@@ -38606,7 +38606,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recommendation</source>
-        <translation type="unfinished"/>
+        <translation>Öneri</translation>
     </message>
 </context>
 <context>
