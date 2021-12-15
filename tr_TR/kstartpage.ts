@@ -1636,7 +1636,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Follow the steps to discover WPS Office!</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i keşfetmek için bu adımları izleyin!</translation>
     </message>
 </context>
 <context>
@@ -2508,7 +2508,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KOnlineDevicesTipDlg</name>
     <message>
         <source>You are currently logged on to WPS on the following devices</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda aşağıdaki cihazlarda WPS&apos;de oturum açmış durumdasınız</translation>
     </message>
     <message>
         <source>manage devices</source>
@@ -4096,7 +4096,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>The free version of WPS Office has high compatibility with Microsoft Office, Google Docs, Adobe PDF, etc. Open your documents and explore it!</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;in ücretsiz sürümü Microsoft Ofis, Google Dokümanlar, Adobe PDF vb. ile oldukça uyumludur. Denemek için belgelerinizi açın!</translation>
     </message>
 </context>
 <context>
@@ -4174,7 +4174,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KAdTemplateWidget</name>
     <message>
         <source>WPS Template</source>
-        <translation type="unfinished"/>
+        <translation>WPS Şablonu</translation>
     </message>
 </context>
 <context>
