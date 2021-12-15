@@ -41202,7 +41202,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Team File</source>
-        <translation type="unfinished"/>
+        <translation>Takım Dosyası</translation>
     </message>
     <message>
         <source>Document Encryption</source>
