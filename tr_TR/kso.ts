@@ -28152,7 +28152,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxEditTemplateDlg</name>
     <message>
         <source>name</source>
-        <translation>İsim</translation>
+        <translation>Ad</translation>
     </message>
     <message>
         <source>Template Name can&apos;t be empty.</source>
