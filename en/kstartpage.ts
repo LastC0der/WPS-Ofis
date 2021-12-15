@@ -657,7 +657,7 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>My Cloud Doc</source>
         <translation></translation>
-    </message>
+    </message>	
 </context>
 <context>
     <name>KStartPageHomeStarFileList</name>
@@ -1413,7 +1413,7 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Documents</source>
         <translation></translation>
-    </message>
+    </message>	
 </context>
 <context>
     <name>KRecAppLoadingWidget</name>
@@ -1561,50 +1561,6 @@ This file may have been renamed, deleted or moved.</source>
         <source>WPS Spreadsheets</source>
         <translation></translation>
     </message>
-</context>
-<context>
-    <name>KEntry</name>
-    <message>
-        <source>Home</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Team</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>New Document</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Calendar</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Apps</source>
-        <translation></translation>
-    </message>
-
-    <message>
-        <source>company manage</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Create Company</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>New From Docer</source>
-        <translation></translation>
-    </message>	
 </context>
 <context>
     <name>KMarkColorButton</name>
@@ -3065,7 +3021,7 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>SCM/Supply Chain</source>
         <translation></translation>
-    </message>
+    </message>	
 </context>
 <context>
     <name>KMsgCenterContentWidget</name>
@@ -3473,20 +3429,6 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
 </context>
 <context>
-    <name>KStartPageHomeShareFileList</name>
-    <message>
-        <source>My Cloud Doc</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KStartPageHomeStarFileList</name>
-    <message>
-        <source>My Cloud Doc</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>KShareWpsWidget</name>
     <message>
         <source>Recommend WPS Office 2020 to friends</source>
@@ -3744,17 +3686,6 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KCloudTeamMessageWidget</name>
     <message>
         <source>WPS Office</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>KTemplateGuideDialog</name>
-    <message>
-        <source>Others</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Confirm</source>
         <translation></translation>
     </message>
 </context>
@@ -4147,7 +4078,6 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
         <translation></translation>
     </message>
 </context>
-<context>
 <context>
     <name>RightComponentErrorWidget</name>
     <message>
