@@ -26515,11 +26515,11 @@ Ortalama</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Aç</translation>
+        <translation>&amp;Aç</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Kaydet</translation>
+        <translation>&amp;Kaydet</translation>
     </message>
     <message>
         <source>Tile</source>
