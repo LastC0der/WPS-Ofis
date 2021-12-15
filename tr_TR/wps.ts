@@ -10645,7 +10645,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>Ad</translation>
     </message>
     <message>
         <source>contactname</source>
