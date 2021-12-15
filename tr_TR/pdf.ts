@@ -418,7 +418,7 @@
     </message>
     <message>
         <source>Fo&amp;nt:</source>
-        <translation type="unfinished"/>
+        <translation>Ya&amp;zı Tipi:</translation>
     </message>
     <message>
         <source>Te&amp;xt:</source>
@@ -6201,7 +6201,8 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>Switch to next window</source>
@@ -8467,7 +8468,8 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Okuma</translation>
     </message>
     <message>
         <source>File Share</source>
@@ -9275,7 +9277,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Tam Metin Okuma</translation>
     </message>
     <message>
         <source>TranslateSelectedFollow</source>
@@ -9311,7 +9313,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Selection Speech</source>
-        <translation>Seçim Konuşması</translation>
+        <translation>Seçim Okuması</translation>
     </message>
     <message>
         <source>Document Permission</source>
