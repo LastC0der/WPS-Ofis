@@ -22,34 +22,34 @@
     <name>KDocerTitleWidget</name>
     <message>
         <source>Et</source>
-        <translation type="unfinished"/>
+        <translation>XLS</translation>
     </message>
     <message>
         <source>Wpp</source>
-        <translation type="unfinished"/>
+        <translation>PPT</translation>
     </message>
     <message>
         <source>Wps</source>
-        <translation type="unfinished"/>
+        <translation>DOC</translation>
     </message>
 </context>
 <context>
     <name>KListFilterPopupWidget</name>
     <message>
         <source>Et</source>
-        <translation type="unfinished"/>
+        <translation>XLS</translation>
     </message>
     <message>
         <source>Pdf</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>Wpp</source>
-        <translation type="unfinished"/>
+        <translation>PPT</translation>
     </message>
     <message>
         <source>Wps</source>
-        <translation type="unfinished"/>
+        <translation>DOC</translation>
     </message>
     <message>
         <source>Name</source>
@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>sort by Modified Time</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklik Zamanına Göre Sırala</translation>
     </message>
     <message>
         <source>Creation Time</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Folders On Top</source>
-        <translation type="unfinished"/>
+        <translation>Üstteki Klasörler</translation>
     </message>
     <message>
         <source>Device Types</source>
@@ -101,15 +101,15 @@
     </message>
     <message>
         <source>Mobile</source>
-        <translation type="unfinished"/>
+        <translation>Telefon</translation>
     </message>
     <message>
         <source>PCFile</source>
-        <translation type="unfinished"/>
+        <translation>PC Dosyası</translation>
     </message>
     <message>
         <source>QQFile</source>
-        <translation type="unfinished"/>
+        <translation>QQ Dosyası</translation>
     </message>
     <message>
         <source>Sort Types</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>sort by Creation Time</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturma Zamanına Göre Sırala</translation>
     </message>
     <message>
         <source>Desktop</source>
@@ -141,11 +141,11 @@
     </message>
     <message>
         <source>sort by Size</source>
-        <translation type="unfinished"/>
+        <translation>Boyuta Göre Sırala</translation>
     </message>
     <message>
         <source>sort by Name</source>
-        <translation type="unfinished"/>
+        <translation>Ada Göre Sırala</translation>
     </message>
     <message>
         <source>All Types</source>
@@ -157,7 +157,7 @@
     </message>
     <message>
         <source>keep folders on top of files when sorting</source>
-        <translation type="unfinished"/>
+        <translation>Sıralarken klasörleri dosyaların üstünde tut</translation>
     </message>
 </context>
 <context>
@@ -182,19 +182,19 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>filename cannot contains characters:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya adı karakter içeremez:</translation>
     </message>
     <message>
         <source>Duplicate Filenames</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen Dosya Adı</translation>
     </message>
     <message>
         <source>file-path&apos;s length is too long, please rename with a shorter one, or move the file to another location.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya yolu çok uzun, lütfen yeniden adlandırın veya başka bir konuma taşıyın.</translation>
     </message>
     <message>
         <source>filename&apos;s length is limited to %1 characters.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya adının uzunluğu %1 karakterle sınırlıdır.</translation>
     </message>
     <message>
         <source>Please rename with a shorter one</source>
@@ -210,23 +210,23 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>A file with the same name already exists in this location, please rename again</source>
-        <translation type="unfinished"/>
+        <translation>Ad bu konumda zaten var, lütfen yeniden adlandırın</translation>
     </message>
     <message>
         <source>Filename cannot be empty</source>
-        <translation type="unfinished"/>
+        <translation>Dosya adı boş olamaz</translation>
     </message>
     <message>
         <source>Modify File&apos;s Suffix</source>
-        <translation type="unfinished"/>
+        <translation>Dosyanın Son Ekini Değiştir</translation>
     </message>
     <message>
         <source>Filename&apos;s length is too long</source>
-        <translation type="unfinished"/>
+        <translation>Dosya adı çok uzun</translation>
     </message>
     <message>
         <source>filename cannot be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya adı boş olamaz.</translation>
     </message>
 </context>
 <context>
@@ -244,11 +244,11 @@ Değiştireceğinizden emin misiniz?</translation>
     <name>KAbstractFileModeDelegate</name>
     <message>
         <source>PC</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayar</translation>
     </message>
     <message>
         <source>fix</source>
-        <translation type="unfinished"/>
+        <translation>Düzelt</translation>
     </message>
     <message>
         <source>edit</source>
@@ -256,7 +256,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>fold</source>
-        <translation type="unfinished"/>
+        <translation>Katla</translation>
     </message>
     <message>
         <source>read</source>
@@ -272,27 +272,27 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>on PC</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayarda</translation>
     </message>
     <message>
         <source>unfix</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltmeyi kaldır</translation>
     </message>
     <message>
         <source>Local file and cloud backup have modify</source>
-        <translation type="unfinished"/>
+        <translation>Yerel ve Bulut dosyası değiştirdi</translation>
     </message>
     <message>
         <source>on the mobile</source>
-        <translation type="unfinished"/>
+        <translation>telefonda</translation>
     </message>
     <message>
         <source>Share Folder</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Upload To</source>
-        <translation type="unfinished"/>
+        <translation>Şuraya yükle:</translation>
     </message>
     <message>
         <source>Mobile Android</source>
@@ -304,7 +304,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Cloud Files</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
     <message>
         <source>file Not Found</source>
@@ -312,7 +312,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>options</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>%1 hour ago</source>
@@ -344,7 +344,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>share folder with someone</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>browser</source>
@@ -360,7 +360,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>share with someone</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>tagstar</source>
@@ -477,7 +477,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
     <message>
         <source>remove file simultaneously</source>
@@ -655,7 +655,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>	
 </context>
 <context>
@@ -666,7 +666,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Doc</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
 </context>
 <context>
@@ -688,7 +688,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KFileListTitleWidget</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>New</source>
@@ -860,11 +860,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>XML Files</source>
-        <translation type="unfinished"/>
+        <translation>XML Dosyaları</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Dosyalar</translation>
     </message>
     <message>
         <source>MyShares</source>
@@ -891,11 +891,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>KLocationListContentWidget</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>My Documents</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler</translation>
     </message>
     <message>
         <source>My PC</source>
@@ -980,11 +980,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"/>
+        <translation>Belge</translation>
     </message>
     <message>
         <source>Spreadsheet</source>
-        <translation type="unfinished"/>
+        <translation>Elektronik tablolar</translation>
     </message>
     <message>
         <source>Create Team</source>
@@ -995,15 +995,15 @@ This file may have been renamed, deleted or moved.</source>
     <name>KFileListUtil</name>
     <message>
         <source>Red</source>
-        <translation type="unfinished"/>
+        <translation>Kırmızı</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"/>
+        <translation>Mavi</translation>
     </message>
     <message>
         <source>Gray</source>
-        <translation type="unfinished"/>
+        <translation>Gri</translation>
     </message>
     <message>
         <source>Mark</source>
@@ -1011,7 +1011,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"/>
+        <translation>Yeşil</translation>
     </message>
     <message>
         <source>Shares To Me</source>
@@ -1027,19 +1027,19 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Magenta</source>
-        <translation type="unfinished"/>
+        <translation>Fuşya</translation>
     </message>
     <message>
         <source>Recent Visit</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan</translation>
     </message>
     <message>
         <source>Star Items</source>
-        <translation type="unfinished"/>
+        <translation>Yıldızlı</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"/>
+        <translation>Gözat</translation>
     </message>
     <message>
         <source>My Device</source>
@@ -1059,23 +1059,23 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Shares</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"/>
+        <translation>Sarı</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"/>
+        <translation>Ayırıcı</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
     <message>
         <source>Share Items</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>All Share Items</source>
@@ -1134,7 +1134,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"/>
+        <translation>Eylem</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1184,19 +1184,19 @@ This file may have been renamed, deleted or moved.</source>
     <name>KFileListMenu</name>
     <message>
         <source>cut</source>
-        <translation type="unfinished"/>
+        <translation>Kes</translation>
     </message>
     <message>
         <source>copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>batch export</source>
@@ -1204,11 +1204,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>unfix file</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltmeyi kaldır</translation>
     </message>
     <message>
         <source>cancel reminder</source>
@@ -1244,7 +1244,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>delete</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>open folder</source>
@@ -1445,7 +1445,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Follow the steps to discover WPS Office!</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i keşfetmek için bu adımları izleyin!</translation>
     </message>
     <message>
         <source>Bright</source>
@@ -1491,11 +1491,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Feedback Btn</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Configuration and repair tools</source>
-        <translation type="unfinished"/>
+        <translation>Yapılandırma araçları</translation>
     </message>
     <message>
         <source>Feedback question</source>
@@ -1503,11 +1503,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Skin Center</source>
-        <translation type="unfinished"/>
+        <translation>Tema ayarları</translation>
     </message>
     <message>
         <source>About WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Hakkında</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -1515,7 +1515,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Official website</source>
-        <translation type="unfinished"/>
+        <translation>Resmi internet sitesi</translation>
     </message>
     <message>
         <source>Switch Language</source>
@@ -1527,7 +1527,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>MessageCenter</source>
-        <translation type="unfinished"/>
+        <translation>İleti Merkezi</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -1657,7 +1657,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KCopyOptionWidget</name>
     <message>
         <source>copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>file path</source>
@@ -1688,7 +1688,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>invited</source>
@@ -1901,11 +1901,11 @@ This file may have been renamed, deleted or moved.</source>
     <name>KTeamMsgListMenu</name>
     <message>
         <source>open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>history version</source>
@@ -3231,11 +3231,11 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>XML Files</source>
-        <translation type="unfinished"/>
+        <translation>XML Dosyaları</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Dosyalar</translation>
     </message>
     <message>
         <source>All Data Sources</source>
@@ -3765,7 +3765,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KComponentCollapseBtn</name>
     <message>
         <source>collapse</source>
-        <translation type="unfinished"/>
+        <translation>Daralt</translation>
     </message>
     <message>
         <source>extend</source>
@@ -3920,7 +3920,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>remove message</source>
@@ -4012,7 +4012,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>ShareItems</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>ShareFromMe</source>
