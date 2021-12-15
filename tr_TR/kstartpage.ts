@@ -1336,7 +1336,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Leave team</source>
-        <translation type="unfinished"/>
+        <translation>Takımdan ayrıl</translation>
     </message>
     <message>
         <source>cancel uploading</source>
@@ -2061,7 +2061,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Leave Team</source>
-        <translation type="unfinished"/>
+        <translation>Takımdan Ayrıl</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2225,7 +2225,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Leave Team</source>
-        <translation type="unfinished"/>
+        <translation>Takımdan Ayrıl</translation>
     </message>
     <message>
         <source>%1 members would lose access to this team after deletion</source>
