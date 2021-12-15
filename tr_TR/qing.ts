@@ -1597,7 +1597,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>today %1</source>
-        <translation type="unfinished"/>
+        <translation>Bugün %1</translation>
     </message>
     <message>
         <source>Desktop cloud synchronization is on, the folder has beensynchronized, no need to add repeatedly</source>
@@ -2149,7 +2149,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>yesterday %1</source>
-        <translation type="unfinished"/>
+        <translation>dün %1</translation>
     </message>
     <message>
         <source>local sync folder freelimit privilege recover tip</source>
