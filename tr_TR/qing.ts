@@ -11567,7 +11567,7 @@ Time for upgrade: %1</source>
     <name>KOtherCloudTransBubble</name>
     <message>
         <source>Cloud File Transfer Details</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyası Aktarım Ayrıntıları</translation>
     </message>
 </context>
 <context>
@@ -11819,7 +11819,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source> Today</source>
-        <translation type="unfinished"/>
+        <translation> Bugün</translation>
     </message>
     <message>
         <source>WPS super member</source>
