@@ -1268,19 +1268,19 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>rename</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Adlandır</translation>
     </message>
     <message>
         <source>untag star</source>
-        <translation type="unfinished"/>
+        <translation>Yıldızlı&apos;dan Kaldır</translation>
     </message>
     <message>
         <source>tag star</source>
-        <translation type="unfinished"/>
+        <translation>Yıldızlı&apos;ya Ekle</translation>
     </message>
     <message>
         <source>fix to top</source>
@@ -1364,7 +1364,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>share...</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş...</translation>
     </message>
     <message>
         <source>Visit WPS Cloud</source>
@@ -2649,7 +2649,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KFileListRecentContentModel</name>
     <message>
         <source>today</source>
-        <translation type="unfinished"/>
+        <translation>Bugün</translation>
     </message>
     <message>
         <source>Recent List</source>
@@ -3692,7 +3692,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KFileTransferButton</name>
     <message>
         <source>File Transfer</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Aktarımı</translation>
     </message>
 </context>
 <context>
