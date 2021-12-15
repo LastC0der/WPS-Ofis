@@ -51807,7 +51807,7 @@ No audio output device or the file does not exist.</source>
     <name>KxEtCfCalendarWidget</name>
     <message>
         <source>&amp;Today</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bugün</translation>
     </message>
 </context>
 <context>
