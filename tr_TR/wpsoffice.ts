@@ -9602,7 +9602,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>guest account</source>
-        <translation type="unfinished"/>
+        <translation>Konuk hesabı</translation>
     </message>
     <message>
         <source>Unlogin</source>
