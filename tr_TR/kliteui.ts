@@ -462,7 +462,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>name</source>
-        <translation>İsim</translation>
+        <translation>Ad</translation>
     </message>
     <message>
         <source>path</source>
@@ -905,7 +905,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     <name>KThirdCloudFileTableModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ad</translation>
     </message>
     <message>
         <source>Size</source>
