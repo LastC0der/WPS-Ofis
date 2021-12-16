@@ -7420,7 +7420,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the length of the text string that contains the characters you want to extract.</source>
-        <translation type="unfinished"/>
+        <translation>ayıklamak istediğiniz karakterleri içeren metin dizesinin uzunluğudur.</translation>
     </message>
     <message>
         <source>selects the row in Array or Reference from which to return a value. If omitted, Column_num is required.</source>
@@ -7433,7 +7433,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>is the length of the text string that contains the characters you want to extract.</source>
         <comment>TX_ParaDesc_243</comment>
-        <translation type="unfinished"/>
+        <translation>ayıklamak istediğiniz karakterleri içeren metin dizesinin uzunluğudur.</translation>
     </message>
     <message>
         <source>Within_text</source>
@@ -7476,7 +7476,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>is the name of the data field to extract data from</source>
-        <translation type="unfinished"/>
+        <translation>verilerin ayıklanacağı veri alanının adıdır</translation>
     </message>
     <message>
         <source>Workbook is protected and cannot be changed.</source>
@@ -7684,7 +7684,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>specifies how many characters you want to extract.</source>
-        <translation type="unfinished"/>
+        <translation>kaç karakter ayıklamak istediğinizi belirtir.</translation>
     </message>
     <message>
         <source>is the range of cells from which you want to count nonblank cells.</source>
@@ -8094,7 +8094,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>is the text string from which you want to extract the characters.</source>
-        <translation type="unfinished"/>
+        <translation>karakterleri ayıklamak istediğiniz metin dizesidir.</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:23 or 4:48:47 PM.</source>
@@ -8377,7 +8377,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the text string containing the characters you want to extract.</source>
-        <translation type="unfinished"/>
+        <translation>ayıklamak istediğiniz karakterleri içeren metin dizesidir.</translation>
     </message>
     <message>
         <source>Lower Case Chinese number</source>
@@ -8602,7 +8602,7 @@ Aktar</translation>
     </message>
     <message>
         <source>is the text containing part characters you want to extract.</source>
-        <translation>çıkarmak istediğiniz parça karakterlerini içeren metindir.</translation>
+        <translation>ayıklamak istediğiniz bölüm karakterlerini içeren metindir.</translation>
     </message>
     <message>
         <source>The value of step-by-step test</source>
@@ -9003,7 +9003,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Extract &lt;b&gt;%1&lt;/b&gt; to grid</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;%1&lt;/b&gt; öğesini kılavuza ayıkla</translation>
     </message>
     <message>
         <source>Number</source>
@@ -9713,7 +9713,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the position of the first character you want to extract. The first character in Text is 1.</source>
         <comment>TX_ParaDesc_242</comment>
-        <translation type="unfinished"/>
+        <translation>çıkartmak istediğiniz ilk karakterin konumu. Metindeki ilk karakter 1&apos;dir.</translation>
     </message>
     <message>
         <source>Data_array</source>
@@ -10647,7 +10647,7 @@ Kaldır</translation>
     </message>
     <message>
         <source>The names of the field or fields that you want to extract.</source>
-        <translation type="unfinished"/>
+        <translation>Ayıklamak istediğiniz alan veya alanların adı.</translation>
     </message>
     <message>
         <source>Function_help</source>
@@ -10843,7 +10843,7 @@ Devam ?</translation>
     <message>
         <source>is the text string containing the characters you want to extract.</source>
         <comment>TX_ParaDesc_332</comment>
-        <translation type="unfinished"/>
+        <translation>ayıklamak istediğiniz karakterleri içeren metin dizesidir.</translation>
     </message>
     <message>
         <source>is the security&apos;s redemption value per $100 face value.</source>
@@ -10855,7 +10855,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>is the position of the first character you want to extract. The first character in Text is 1.</source>
-        <translation type="unfinished"/>
+        <translation>çıkartmak istediğiniz ilk karakterin konumu. Metindeki ilk karakter 1&apos;dir.</translation>
     </message>
     <message>
         <source>The word you used exists in neither main dictionary or custom dictionary. Do you want to add it to the custom dictionary?</source>
@@ -11907,7 +11907,7 @@ Koru</translation>
     </message>
     <message>
         <source>The record from which you want to extract the field.</source>
-        <translation type="unfinished"/>
+        <translation>Alanı ayıklamak istediğiniz kayıt.</translation>
     </message>
     <message>
         <source>SharePoint List</source>
@@ -12351,7 +12351,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>specifies how many characters you want to extract, 1 if omitted.</source>
-        <translation type="unfinished"/>
+        <translation>kaç tane karakter ayıklamak istediğinizi belirtir, atlanırsa 1.</translation>
     </message>
     <message>
         <source>is the ending period for which you want to calculate the depreciation, in the same units as Life.</source>
@@ -13941,7 +13941,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Select This</source>
-        <translation type="unfinished"/>
+        <translation>Bu öğeyi seçin</translation>
     </message>
     <message>
         <source>Drop Page Fields Here</source>
@@ -19007,7 +19007,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Extract all pictures in the document</source>
-        <translation type="unfinished"/>
+        <translation>Belgedeki tüm resimleri ayıkla</translation>
     </message>
     <message>
         <source>Reset All Page Breaks</source>
@@ -20934,7 +20934,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Extract Text in Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resimdeki Metni Ayıkla</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
@@ -23282,7 +23282,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Extracts a single value in the column of a list or database that matches the conditions you specify.</source>
-        <translation type="unfinished"/>
+        <translation>Liste veya veritabanının sütununda belirttiğiniz koşullarla eşleşen tek bir değer ayıklar.</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Ignores logical values and text.</source>
@@ -24035,7 +24035,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Extract data stored in a PivotTable</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo&apos;da depolanan verileri ayıkla</translation>
     </message>
     <message>
         <source>LN(number)</source>
@@ -24255,7 +24255,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Extracts a value from a field of a given record.</source>
-        <translation type="unfinished"/>
+        <translation>Belirli bir kaydın alanından bir değer ayıklar.</translation>
     </message>
     <message>
         <source>PEARSON(array1,array2)</source>
@@ -36059,7 +36059,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Picture Extraction</source>
-        <translation type="unfinished"/>
+        <translation>Resim Ayıklama</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -47195,7 +47195,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the two worksheets, find the entire row where the row data is not exactly the same, and extract it to a new workbook.</source>
-        <translation type="unfinished"/>
+        <translation>İki çalışma sayfasını karşılaştırın, satır verilerinin tamamen aynı olmadığı tüm satırı bulun ve yeni bir çalışma kitabına ayıklayın.</translation>
     </message>
     <message>
         <source>Mark the rows with the same data in the selected area.</source>
@@ -47223,11 +47223,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Extract different data from two areas</source>
-        <translation type="unfinished"/>
+        <translation>İki alandan farklı verileri ayıkla</translation>
     </message>
     <message>
         <source>Extract different cells of two worksheets</source>
-        <translation type="unfinished"/>
+        <translation>İki çalışma sayfasının farklı hücrelerini ayıkla</translation>
     </message>
     <message>
         <source>Two Worksheet</source>
@@ -47243,15 +47243,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the row data of the selected area, delete the duplicate rows, and extract to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alanın satır verilerini karşılaştırın, yinelenen satırları silin ve yeni çalışma sayfasına ayıklayın.</translation>
     </message>
     <message>
         <source>Extract deduplicated data</source>
-        <translation type="unfinished"/>
+        <translation>Tekilleştirilmiş verileri ayıkla</translation>
     </message>
     <message>
         <source>Compare the two selected areas, find the rows where the row data is not the same, and extract them to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili iki alanı karşılaştırın, satır verilerinin aynı olmadığı satırları bulun ve bunları yeni çalışma sayfasına ayıklayın.</translation>
     </message>
     <message>
         <source>Mark duplicate rows in worksheet</source>
@@ -47263,7 +47263,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Extract duplicate rows in a worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfasında yinelenen satırları ayıkla</translation>
     </message>
     <message>
         <source>Compare the cells of the two worksheets one by one, and mark the cells with different values at the same position.</source>
@@ -47275,7 +47275,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the two worksheets, find the rows where the entire row of data is exactly the same, and extract them into the new workbook.</source>
-        <translation type="unfinished"/>
+        <translation>İki çalışma sayfasını karşılaştırın, tüm veri satırının tamamen aynı olduğu satırları bulun ve bunları yeni çalışma kitabına ayıklayın.</translation>
     </message>
     <message>
         <source>Extract the same rows of two worksheets</source>
@@ -47303,11 +47303,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the rows in the selected area and mark the only row data in them.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili alandaki satırları karşılaştırın ve içlerindeki tek satır verilerini işaretleyin.</translation>
     </message>
     <message>
         <source>Compare the two worksheets, marking the entire row where the row data is not exactly the same.</source>
-        <translation type="unfinished"/>
+        <translation>Satır verilerinin tam olarak aynı olmadığı tüm satırı işaretleyerek iki çalışma sayfasını karşılaştırın.</translation>
     </message>
     <message>
         <source>Mark the same data in two areas</source>
@@ -47315,11 +47315,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the two selected areas and mark the rows where the row data is not identical.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen iki alanı karşılaştırın ve satır verilerinin aynı olmadığı satırları işaretleyin.</translation>
     </message>
     <message>
         <source>Extract the same data from two areas</source>
-        <translation type="unfinished"/>
+        <translation>Aynı verileri iki alandan ayıkla</translation>
     </message>
     <message>
         <source>Export to new book</source>
@@ -47327,11 +47327,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the two selected areas, find the rows with the same row data, and extract them to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili iki alanı karşılaştırın, aynı satır verilerine sahip satırları bulun ve bunları yeni çalışma sayfasına ayıklayın.</translation>
     </message>
     <message>
         <source>Extract duplicate data</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen verileri ayıkla</translation>
     </message>
     <message>
         <source>Compare the two worksheets, marking the entire row where the rows have exactly the same data.</source>
@@ -47339,7 +47339,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the cells of the two worksheets one by one, find the cells with the same position and different values, and extract them to the new workbook.</source>
-        <translation type="unfinished"/>
+        <translation>İki çalışma sayfasının hücrelerini tek tek karşılaştırın, aynı konuma ve farklı değerlere sahip hücreleri bulun ve bunları yeni çalışma kitabına ayıklayın.</translation>
     </message>
     <message>
         <source>Confirm to Mark</source>
@@ -47347,7 +47347,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the row data in the worksheet, find the duplicate entire row, and extract it to the new worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfasındaki satır verilerini karşılaştırın, yinelenen satırın tamamını bulun ve yeni çalışma sayfasına ayıklayın.</translation>
     </message>
     <message>
         <source>Confirm to Export</source>
@@ -47605,7 +47605,8 @@ Properties</source>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>Makro Kaydet</translation>
+        <translation>Makro 
+Kaydet</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -47656,7 +47657,8 @@ Design Mode</source>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Tasarım Modu</translation>
+        <translation>Tasarım 
+Modu</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -47974,7 +47976,8 @@ Document</source>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Tasarım Modu</translation>
+        <translation>Tasarım 
+Modu</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -50518,7 +50521,7 @@ Item Labels</source>
     <name>KxMultiRemindRepeatWidget</name>
     <message>
         <source>Please select the content you want to extract.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen ayıklamak istediğiniz içeriği seçin.</translation>
     </message>
     <message>
         <source>Only Range 2 (&amp;D)</source>
@@ -60166,7 +60169,8 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>Makro Kaydet</translation>
+        <translation>Makro 
+Kaydet</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -60215,7 +60219,8 @@ Başvurular</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Tasarım Modu</translation>
+        <translation>Tasarım 
+Modu</translation>
     </message>
     <message>
         <source>Toggle Button</source>
