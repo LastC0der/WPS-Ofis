@@ -937,7 +937,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Sync now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi eşitle</translation>
     </message>
     <message>
         <source>New version is available. Please view.</source>
@@ -1325,7 +1325,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Checking for update...</source>
-        <translation type="unfinished"/>
+        <translation>Güncelleştirme denetleniyor...</translation>
     </message>
 </context>
 <context>
@@ -4188,7 +4188,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Insert/extract pages in PDF</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaları PDF&apos;ye ekle/ayıkla</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
@@ -7417,7 +7417,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Your data will be stored in the guest account.</source>
-        <translation type="unfinished"/>
+        <translation>Verileriniz misafir hesabında saklanacaktır.</translation>
     </message>
     <message>
         <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
@@ -7433,15 +7433,15 @@ yazılamadı</translation>
     </message>
     <message>
         <source>The one who uses WPS on the same device may view your data.</source>
-        <translation type="unfinished"/>
+        <translation>Aynı cihazda WPS kullanan kişi verilerinizi görüntüleyebilir.</translation>
     </message>
     <message>
         <source>Your data cannot be synchronized on multiple ends.</source>
-        <translation type="unfinished"/>
+        <translation>Verileriniz birden çok uçta senkronize edilemez.</translation>
     </message>
     <message>
         <source>We recommend that you sign in first to protect your privacy better.</source>
-        <translation type="unfinished"/>
+        <translation>Gizliliğinizi daha iyi korumak için önce oturum açmanızı öneririz.</translation>
     </message>
     <message>
         <source>Login Now</source>
@@ -7453,7 +7453,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>You are about to use WPS as a guest</source>
-        <translation type="unfinished"/>
+        <translation>WPS&apos;yi misafir olarak kullanmak üzeresiniz</translation>
     </message>
 </context>
 <context>
@@ -9408,7 +9408,7 @@ Exit login panel will lead to exiting WPS 2019.</source>
     <name>KToolMainWindow</name>
     <message>
         <source>WPS Office Assistant</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Yardımcısı</translation>
     </message>
 </context>
 <context>
@@ -9481,7 +9481,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>List of limited features in free version</source>
-        <translation type="unfinished"/>
+        <translation>Ücretsiz sürümdeki sınırlı özelliklerin listesi</translation>
     </message>
 </context>
 <context>
@@ -9602,7 +9602,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>guest account</source>
-        <translation>Konuk hesabı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unlogin</source>
