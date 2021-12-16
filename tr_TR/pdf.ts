@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Konu:</translation>
     </message>
     <message>
         <source>Width(T):</source>
@@ -1963,7 +1963,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>The current PDF document is a picture or scanning part. Please use the intelligent extraction function.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli PDF belgesi bir resim veya tarama bölümüdür. Lütfen akıllı ayıklama işlevini kullanın.</translation>
     </message>
     <message>
         <source>Ebook does not support print function</source>
@@ -2139,7 +2139,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>The current document need to be saved before extracted.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli belgenin ayıklanmadan önce kaydedilmesi gerekir.</translation>
     </message>
     <message>
         <source>The current document need to be saved before compressed.</source>
@@ -3576,7 +3576,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>set edit and extract key</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme ve ayıklama parolasını ayarla</translation>
     </message>
 </context>
 <context>
@@ -3643,7 +3643,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>set edit and extract key</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme ve ayıklama parolasını ayarla</translation>
     </message>
 </context>
 <context>
@@ -4022,7 +4022,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Correction Extraction member prompt</source>
-        <translation type="unfinished"/>
+        <translation>&apos;Metni ayıkla&apos;, WPS Premium ayrıcalığıdır</translation>
     </message>
     <message>
         <source>Upgrade to VIP</source>
@@ -4506,7 +4506,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Konu:</translation>
     </message>
     <message>
         <source>Security</source>
@@ -10370,7 +10370,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>PDF Extract Page is VIP exclusive privilege</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Sayfayı Ayıkla&quot;, WPS Premium ayrıcalığıdır</translation>
     </message>
     <message>
         <source>Document Extracted Done</source>
@@ -10510,7 +10510,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>PageExtract</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Ayıkla</translation>
     </message>
     <message>
         <source>VerticalPageMode</source>
@@ -11276,7 +11276,7 @@ Pencere</translation>
     </message>
     <message>
         <source>ImageExtract</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Ayıkla</translation>
     </message>
 </context>
 <context>
@@ -11443,7 +11443,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Extraction failed, please re-operate.</source>
-        <translation type="unfinished"/>
+        <translation>Ayıklama başarısız oldu, lütfen yeniden çalıştırın.</translation>
     </message>
     <message>
         <source>Output directory:</source>
@@ -11483,7 +11483,7 @@ Pencere</translation>
     </message>
     <message>
         <source>&amp;ComfirmExtract</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla</translation>
     </message>
 </context>
 <context>
@@ -12237,7 +12237,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Extract Part 1</source>
-        <translation type="unfinished"/>
+        <translation>Bölüm 1&apos;i Ayıkla</translation>
     </message>
     <message>
         <source>ExportAS</source>
@@ -13560,7 +13560,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>The current version does not support the extract function.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sürüm ayıklama işlevini desteklemiyor.</translation>
     </message>
     <message>
         <source>Excerpt data export</source>
@@ -13665,11 +13665,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>The extraction area is too large, please re-operate.</source>
-        <translation type="unfinished"/>
+        <translation>Ayıklama alanı çok büyük, lütfen tekrar çalıştırın.</translation>
     </message>
     <message>
         <source>Extraction failed, please re-operate.</source>
-        <translation type="unfinished"/>
+        <translation>Ayıklama başarısız oldu, lütfen yeniden çalıştırın.</translation>
     </message>
     <message>
         <source>CopyToClipboard</source>
@@ -13677,7 +13677,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>The current document need to be saved before extracted.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli belgenin ayıklanmadan önce kaydedilmesi gerekir.</translation>
     </message>
     <message>
         <source>InfoSeeking</source>
@@ -13685,7 +13685,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>&amp;ComfirmExtract</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla</translation>
     </message>
     <message>
         <source>Exporting document</source>
@@ -14315,7 +14315,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>ImageExtract</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Ayıkla</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
@@ -14736,15 +14736,15 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KxPdfOcrExportFileCommand</name>
     <message>
         <source>The extraction area is too large, please re-operate.</source>
-        <translation type="unfinished"/>
+        <translation>Ayıklama alanı çok büyük, lütfen tekrar çalıştırın.</translation>
     </message>
     <message>
         <source>The current document need to be saved before extracted.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli belgenin ayıklanmadan önce kaydedilmesi gerekir.</translation>
     </message>
     <message>
         <source>&amp;ComfirmExtract</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla</translation>
     </message>
     <message>
         <source>Document exporting, please wait</source>
@@ -14755,15 +14755,15 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KxPdfOcrExtractTextCommand</name>
     <message>
         <source>The extraction area is too large, please re-operate.</source>
-        <translation type="unfinished"/>
+        <translation>Ayıklama alanı çok büyük, lütfen tekrar çalıştırın.</translation>
     </message>
     <message>
         <source>&amp;ComfirmExtract</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla</translation>
     </message>
     <message>
         <source>The current document need to be saved before extracted.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli belgenin ayıklanmadan önce kaydedilmesi gerekir.</translation>
     </message>
 </context>
 <context>
@@ -15929,7 +15929,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>PageExtract</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Ayıkla</translation>
     </message>
     <message>
         <source>PageRange</source>
