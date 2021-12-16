@@ -1737,7 +1737,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>&lt;font color = #8B97AF&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;font color = #8B97AF&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <source>Continue to delete</source>
@@ -7362,7 +7362,7 @@ Please verify the correct file name was given.</source>
     <name>KSyncFolderCloudWidget</name>
     <message>
         <source>Sync now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi eşitle</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -7672,19 +7672,19 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>WPS Office Assistant</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Yardımcısı</translation>
     </message>
     <message>
         <source>Sync folder exception</source>
-        <translation type="unfinished"/>
+        <translation>Eşitleme klasörü istisnası</translation>
     </message>
     <message>
         <source>Windows XP is not supported</source>
-        <translation type="unfinished"/>
+        <translation>Windows XP desteklenmiyor</translation>
     </message>
     <message>
         <source>Sync folder cannot start</source>
-        <translation type="unfinished"/>
+        <translation>Eşitleme klasörü açılamadı.</translation>
     </message>
 </context>
 <context>
@@ -7699,7 +7699,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Failed to transfer, please reload.</source>
-        <translation type="unfinished"/>
+        <translation>Aktarılamadı, lütfen yeniden yükleyin.</translation>
     </message>
     <message>
         <source>This document is shared with you by WPS Web disk,please login and save it to your web-disk to open it.</source>
@@ -7718,7 +7718,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Login WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS Hesabında oturum açın</translation>
     </message>
 </context>
 <context>
@@ -7879,7 +7879,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation type="unfinished"/>
+        <translation>Proxy Ayarı</translation>
     </message>
 </context>
 <context>
@@ -8492,7 +8492,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Sync error</source>
-        <translation type="unfinished"/>
+        <translation>Eşitleme ayarı istisnası</translation>
     </message>
     <message>
         <source>The folder selected contains cache folder;</source>
@@ -10998,7 +10998,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KDesktopSyncWidgetBase</name>
     <message>
         <source>WPS Office Assistant</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Yardımcısı</translation>
     </message>
 </context>
 <context>
