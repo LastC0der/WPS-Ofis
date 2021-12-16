@@ -27803,7 +27803,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation type="unfinished"/>
+        <translation>Proxy Ayarı</translation>
     </message>
 </context>
 <context>
@@ -27886,11 +27886,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>10 Point</source>
-        <translation type="unfinished"/>
+        <translation>10 Nokta</translation>
     </message>
     <message>
         <source>50 Point</source>
-        <translation type="unfinished"/>
+        <translation>50 Nokta</translation>
     </message>
     <message>
         <source>No Transform</source>
@@ -27930,11 +27930,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>5 Point</source>
-        <translation type="unfinished"/>
+        <translation>5 Nokta</translation>
     </message>
     <message>
         <source>2.5 Point</source>
-        <translation type="unfinished"/>
+        <translation>2,5 Nokta</translation>
     </message>
     <message>
         <source>No Presets</source>
@@ -38120,7 +38120,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçili Slaytlara Uygula</translation>
     </message>
     <message>
         <source>Apply to &amp;Master</source>
@@ -39096,7 +39096,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>List of limited features in free version</source>
-        <translation type="unfinished"/>
+        <translation>Ücretsiz sürümdeki sınırlı özelliklerin listesi</translation>
     </message>
 </context>
 <context>
