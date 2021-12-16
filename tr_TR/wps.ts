@@ -1238,7 +1238,7 @@
     </message>
     <message>
         <source>Gutter</source>
-        <translation type="unfinished"/>
+        <translation>Cilt payı</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -1251,7 +1251,7 @@
     </message>
     <message>
         <source> Do you want to search the other part of the document?</source>
-        <translation type="unfinished"/>
+        <translation>Belgenin diğer kısmında arama yapmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>Left-to-right</source>
@@ -1259,11 +1259,11 @@
     </message>
     <message>
         <source>Reached the end of the footnote.</source>
-        <translation type="unfinished"/>
+        <translation>Dipnotun sonuna ulaştı.</translation>
     </message>
     <message>
         <source>Indent</source>
-        <translation type="unfinished"/>
+        <translation>Girinti</translation>
     </message>
     <message>
         <source>Unit: cm</source>
@@ -1318,7 +1318,7 @@
     </message>
     <message>
         <source>Outset</source>
-        <translation type="unfinished"/>
+        <translation>İçeri</translation>
     </message>
     <message>
         <source> Do you want to continue searching from the end?</source>
@@ -1751,7 +1751,7 @@
     </message>
     <message>
         <source>Font Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Hizalaması</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -2052,7 +2052,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>New page</source>
-        <translation type="unfinished"/>
+        <translation>Yeni sayfa</translation>
     </message>
     <message>
         <source>Stop Protection</source>
@@ -6584,7 +6584,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>New page</source>
-        <translation type="unfinished"/>
+        <translation>Yeni sayfa</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
@@ -11421,7 +11421,7 @@ Please try one of the following.
     </message>
     <message>
         <source>The default template has been damaged. Do you want to try resetting it? Note that resetting may cause loss of part of user defined data.</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan şablon zarar görmüş. Sıfırlamayı denemek ister misiniz? Sıfırlamanın, kullanıcı tanımlı verilerin bir kısmının kaybolmasına neden olabileceğini unutmayın.</translation>
     </message>
     <message>
         <source>This file contains Enhanced Textbox property. Saving it as other formats, may cause loss of the specific property. 
@@ -15544,7 +15544,7 @@ Painter</source>
     </message>
     <message>
         <source>Extract all pictures in the document</source>
-        <translation type="unfinished"/>
+        <translation>Belgedeki tüm resimleri ayıklayın</translation>
     </message>
     <message>
         <source>Accept Change</source>
@@ -17495,7 +17495,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Extract Text in Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resimdeki Metni Ayıkla</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -24479,7 +24479,8 @@ Aktar</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tablo Çiz</translation>
+        <translation>Tablo 
+Çiz</translation>
     </message>
     <message>
         <source>Borders</source>
@@ -24720,7 +24721,8 @@ Böl</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tablo Çiz</translation>
+        <translation>Tablo 
+Çiz</translation>
     </message>
     <message>
         <source>Align Top Justified</source>
@@ -26972,7 +26974,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Picture Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Resim İçerik Denetimi</translation>
     </message>
     <message>
         <source>Control List</source>
@@ -26980,7 +26982,7 @@ Düzen</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation type="unfinished"/>
+        <translation>XML Genişletme Paketi</translation>
     </message>
     <message>
         <source>WPS Macro Editor</source>
@@ -27015,7 +27017,7 @@ Properties</source>
     </message>
     <message>
         <source>ContentControlsGroup</source>
-        <translation type="unfinished"/>
+        <translation>Grup</translation>
     </message>
     <message>
         <source>XmlMapping</source>
@@ -27027,15 +27029,16 @@ Properties</source>
     </message>
     <message>
         <source>Plain Text Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Düz Metin İçerik Denetimi</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>Makro Kaydet</translation>
+        <translation>Makro 
+Kaydet</translation>
     </message>
     <message>
         <source>Drop-Down List Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Açılır Liste İçerik Denetimi</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -27063,11 +27066,12 @@ Properties</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"/>
+        <translation>COM 
+Eklentileri</translation>
     </message>
     <message>
         <source>Date Picker Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Tarih Seçici İçerik Denetimi</translation>
     </message>
     <message>
         <source>Description</source>
@@ -27075,11 +27079,11 @@ Properties</source>
     </message>
     <message>
         <source>Building Block Gallery Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Yapı Taşı Galerisi İçerik Denetimi</translation>
     </message>
     <message>
         <source>Rich Text Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Zengin Metin İçerik Denetimi</translation>
     </message>
     <message>
         <source>Exit
@@ -27110,7 +27114,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>ContentControlsGroupMenu</source>
-        <translation type="unfinished"/>
+        <translation>Group</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -27118,15 +27122,16 @@ Yapısı</translation>
     </message>
     <message>
         <source>Repeating Section Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen Bölüm İçerik Denetimi</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Tasarım Modu</translation>
+        <translation>Tasarım 
+Modu</translation>
     </message>
     <message>
         <source>Legacy Tools</source>
-        <translation type="unfinished"/>
+        <translation>Eski Araçlar</translation>
     </message>
     <message>
         <source>Check Box Content Control</source>
@@ -29711,7 +29716,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Picture Extraction</source>
-        <translation type="unfinished"/>
+        <translation>Resim Ayıklama</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -30232,7 +30237,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Picture Extraction</source>
-        <translation type="unfinished"/>
+        <translation>Resim Ayıklama</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -32835,7 +32840,8 @@ Ekle</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tablo Çiz</translation>
+        <translation>Tablo 
+Çiz</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -33424,7 +33430,8 @@ Ekle</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tablo Çiz</translation>
+        <translation>Tablo 
+Çiz</translation>
     </message>
     <message>
         <source>Single Row Edition</source>
@@ -38059,7 +38066,8 @@ Temizle</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tablo Çiz</translation>
+        <translation>Tablo 
+Çiz</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -40382,11 +40390,11 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Show Previous</source>
-        <translation type="unfinished"/>
+        <translation>Öncekini Göster</translation>
     </message>
     <message>
         <source>Next Header</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Üst Bilgi</translation>
     </message>
     <message>
         <source>Link to Previous</source>
@@ -40426,7 +40434,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Switch Between Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi ve Alt Bilgi Arasında Geçiş Yap</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
@@ -40454,7 +40462,8 @@ Kontrol Et</translation>
     <message>
         <source>Switch between
 Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi ve Alt Bilgi
+arasında geçiş yap</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -40873,7 +40882,8 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Tasarım Modu</translation>
+        <translation>Tasarım 
+Modu</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -41854,7 +41864,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Select This</source>
-        <translation type="unfinished"/>
+        <translation>Bu öğeyi seçin</translation>
     </message>
 </context>
 <context>
@@ -41865,7 +41875,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Select This</source>
-        <translation type="unfinished"/>
+        <translation>Bu öğeyi seçin</translation>
     </message>
 </context>
 <context>
@@ -41884,7 +41894,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Select This</source>
-        <translation type="unfinished"/>
+        <translation>Bu öğeyi seçin</translation>
     </message>
 </context>
 <context>
@@ -50839,7 +50849,7 @@ Düzen</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
-        <translation type="unfinished"/>
+        <translation>XML Genişletme Paketi</translation>
     </message>
     <message>
         <source>XmlSchema</source>
@@ -50864,7 +50874,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>ContentControlsGroup</source>
-        <translation type="unfinished"/>
+        <translation>Grup</translation>
     </message>
     <message>
         <source>XmlMapping</source>
@@ -50876,7 +50886,8 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>Makro Kaydet</translation>
+        <translation>Makro 
+Kaydet</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -50934,7 +50945,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>ContentControlsGroupMenu</source>
-        <translation type="unfinished"/>
+        <translation>Group</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -50942,7 +50953,8 @@ Yapısı</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Tasarım Modu</translation>
+        <translation>Tasarım 
+Modu</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -53402,7 +53414,8 @@ Ekle</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tablo Çiz</translation>
+        <translation>Tablo 
+Çiz</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -53675,7 +53688,8 @@ Ekle</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tablo Çiz</translation>
+        <translation>Tablo 
+Çiz</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -54306,7 +54320,8 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation>Tablo Çiz</translation>
+        <translation>Tablo 
+Çiz</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -54326,7 +54341,8 @@ Diagonal Line in Cell</source>
     <message>
         <source>Switch between
 Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi ve Alt Bilgi
+arasında geçiş yap</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -54335,7 +54351,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Next Header</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Üst Bilgi</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -54405,7 +54421,7 @@ Seçenekleri</translation>
     </message>
     <message>
         <source>Switch between Header and Footer</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi ve Alt Bilgi arasında geçiş yap</translation>
     </message>
     <message>
         <source>Date and Time</source>
