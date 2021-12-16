@@ -609,7 +609,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Resetting plugins completed.</source>
-        <translation type="unfinished"/>
+        <translation>Eklentilerin sıfırlanması tamamlandı.</translation>
     </message>
     <message>
         <source>Errors occur when registering components: 
@@ -670,7 +670,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Resetting toolbars completed.</source>
-        <translation type="unfinished"/>
+        <translation>Araç çubuklarının sıfırlanması tamamlandı.</translation>
     </message>
     <message>
         <source> WPS Spreadsheets not found
