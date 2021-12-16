@@ -856,7 +856,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation type="unfinished"/>
+        <translation>Proxy Ayarı</translation>
     </message>
 </context>
 <context>
@@ -1103,7 +1103,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>DropBox</source>
@@ -1266,7 +1266,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Continue with Email</source>
-        <translation type="unfinished"/>
+        <translation>E-posta ile devam et</translation>
     </message>
     <message>
         <source>Continue with Line</source>
@@ -1306,7 +1306,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>I agree to the %1</source>
-        <translation type="unfinished"/>
+        <translation>%1&apos;ne katılıyorum</translation>
     </message>
     <message>
         <source>Login too frequently, please retry after %1 seconds</source>
