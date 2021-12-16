@@ -449,7 +449,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Save backup file every:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yedekleme dosyalarını her defasında kaydet:</translation>
     </message>
     <message>
         <source>Double click t&amp;ab to hide ribbon</source>
@@ -2580,7 +2580,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Borders</source>
@@ -2608,7 +2608,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Font Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Hizalaması</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -10706,7 +10706,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipini Hizala</translation>
     </message>
     <message>
         <source>Align Text</source>
@@ -11114,7 +11114,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipini Hizala</translation>
     </message>
     <message>
         <source>Align Text</source>
@@ -12378,7 +12378,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Extract all pictures in the document</source>
-        <translation type="unfinished"/>
+        <translation>Belgedeki tüm resimleri ayıklayın</translation>
     </message>
     <message>
         <source>Format UnitLabel</source>
@@ -13849,7 +13849,7 @@ Master</source>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipini Hizala</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -13901,7 +13901,7 @@ Master</source>
     </message>
     <message>
         <source>Extract Text in Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resimdeki Metni Ayıkla</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
@@ -19074,7 +19074,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Çiz</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -19327,7 +19327,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Picture Extraction</source>
-        <translation type="unfinished"/>
+        <translation>Resim Ayıklama</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -26605,14 +26605,14 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Reset Background</source>
-        <translation type="unfinished"/>
+        <translation>Arka Planı Sıfırla</translation>
     </message>
 </context>
 <context>
     <name>LayoutPanel</name>
     <message>
         <source>Insert &amp;New Slide</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeni Slayt Ekle</translation>
     </message>
     <message>
         <source>Reapply &amp;Layout</source>
@@ -26620,7 +26620,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçili Slaytlara Uygula</translation>
     </message>
 </context>
 <context>
@@ -26631,7 +26631,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Select This</source>
-        <translation type="unfinished"/>
+        <translation>Bu öğeyi seçin</translation>
     </message>
 </context>
 <context>
@@ -26642,7 +26642,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Select This</source>
-        <translation type="unfinished"/>
+        <translation>Bu öğeyi seçin</translation>
     </message>
 </context>
 <context>
@@ -28236,7 +28236,7 @@ Master</source>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçili Slaytlara Uygula</translation>
     </message>
     <message>
         <source>Add Design</source>
@@ -28326,7 +28326,7 @@ Master</source>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçili Slaytlara Uygula</translation>
     </message>
     <message>
         <source>Apply to &amp;Master</source>
@@ -29568,7 +29568,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipini Hizala</translation>
     </message>
     <message>
         <source>Align Text</source>
@@ -30207,7 +30207,7 @@ Slide</source>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipini Hizala</translation>
     </message>
     <message>
         <source>Align Text</source>
@@ -30486,7 +30486,7 @@ Slide</source>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipini Hizala</translation>
     </message>
     <message>
         <source>Align Text</source>
