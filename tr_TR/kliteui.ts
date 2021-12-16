@@ -1424,7 +1424,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KPromeIconThemeMgr</name>
     <message>
         <source>2019default</source>
-        <translation type="unfinished"/>
+        <translation>2019 varsayılanı</translation>
     </message>
 </context>
 <context>
