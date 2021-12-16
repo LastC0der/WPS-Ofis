@@ -565,7 +565,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Remove Record</source>
-        <translation type="unfinished"/>
+        <translation>Kaydı Kaldır</translation>
     </message>
     <message>
         <source>please select folder</source>
@@ -644,7 +644,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Remove Record</source>
-        <translation type="unfinished"/>
+        <translation>Kayıt Kaldır</translation>
     </message>
 </context>
 <context>
@@ -1126,11 +1126,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Are you sure you want to close it?</source>
-        <translation type="unfinished"/>
+        <translation>Kapatmayı onaylıyor musunuz?</translation>
     </message>
     <message>
         <source>action_component</source>
-        <translation type="unfinished"/>
+        <translation>Konu oylaması</translation>
     </message>
     <message>
         <source>Action</source>
@@ -1348,7 +1348,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>delete record</source>
-        <translation type="unfinished"/>
+        <translation>Kaydı kaldır</translation>
     </message>
     <message>
         <source>batch download/update</source>
@@ -1823,19 +1823,19 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Add files to Starred for quick access.</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı erişim için dosyaları Yıldızlı&apos;ya ekleyin.</translation>
     </message>
     <message>
         <source>New documents saved to Downloads or Documents folders will appear here</source>
-        <translation type="unfinished"/>
+        <translation>İndirilenler veya Belgeler klasörlerine kaydedilen yeni belgeler burada görünecektir</translation>
     </message>
     <message>
         <source>Get start</source>
-        <translation type="unfinished"/>
+        <translation>Başlayın</translation>
     </message>
     <message>
         <source>2. Use WPS link sharing to quickly send large files</source>
-        <translation type="unfinished"/>
+        <translation>2. Büyük dosyaları hızlı bir şekilde göndermek için WPS bağlantı paylaşımını kullanın</translation>
     </message>
     <message>
         <source>No Filter Result</source>
@@ -1855,11 +1855,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>1. Login to access shared files</source>
-        <translation type="unfinished"/>
+        <translation>1. Paylaşılan dosyalara erişmek için oturum açın</translation>
     </message>
     <message>
         <source>No Starred files</source>
-        <translation type="unfinished"/>
+        <translation>Yıldızlı dosya yok</translation>
     </message>
     <message>
         <source>You can drag and drop files to share with members.</source>
@@ -2466,7 +2466,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>action_component</source>
-        <translation type="unfinished"/>
+        <translation>Konu oylaması</translation>
     </message>
     <message>
         <source>Action Title</source>
@@ -2661,7 +2661,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Dün</translation>
     </message>
     <message>
         <source>within 7 days</source>
@@ -3835,15 +3835,15 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KTeamAreaUnLoginWidget</name>
     <message>
         <source>Get start</source>
-        <translation type="unfinished"/>
+        <translation>Başlayın</translation>
     </message>
     <message>
         <source>2. Use WPS link sharing to quickly send large files</source>
-        <translation type="unfinished"/>
+        <translation>2. Büyük dosyaları hızlı bir şekilde göndermek için WPS bağlantı paylaşımını kullanın</translation>
     </message>
     <message>
         <source>1. Login to access shared files</source>
-        <translation type="unfinished"/>
+        <translation>1. Paylaşılan dosyalara erişmek için oturum açın</translation>
     </message>
 </context>
 <context>
