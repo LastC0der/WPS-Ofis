@@ -938,7 +938,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Mark</source>
-        <translation type="unfinished"/>
+        <translation>İşaretle</translation>
     </message>
     <message>
         <source>Files</source>
@@ -1007,7 +1007,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Mark</source>
-        <translation type="unfinished"/>
+        <translation>İşaretle</translation>
     </message>
     <message>
         <source>Green</source>
@@ -1480,7 +1480,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Last Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Son Oturumlar</translation>
     </message>
 </context>
 <context>
@@ -1499,7 +1499,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Feedback question</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim Sorusu</translation>
     </message>
     <message>
         <source>Skin Center</source>
@@ -1550,26 +1550,26 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunumu Yardımı</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer Yardımı</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tablolar Yardım</translation>
     </message>
 </context>
 <context>
     <name>KMarkColorButton</name>
     <message>
         <source>Mark</source>
-        <translation type="unfinished"/>
+        <translation>İşaretle</translation>
     </message>
     <message>
         <source>Remove Mark</source>
-        <translation type="unfinished"/>
+        <translation>İşareti Kaldır</translation>
     </message>
 </context>
 <context>
@@ -1696,7 +1696,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"/>
+        <translation>İzinler</translation>
     </message>
     <message>
         <source>%1 people joined</source>
