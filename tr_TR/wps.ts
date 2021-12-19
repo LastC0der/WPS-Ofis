@@ -10919,7 +10919,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>&amp;Base text:  </source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ana metin:</translation>
     </message>
     <message>
         <source>Right</source>
@@ -16058,7 +16058,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -20578,7 +20578,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation type="unfinished"/>
+        <translation>PDF Dosyasını Dışa Aktar</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
@@ -24282,7 +24282,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Insert Horizontal Blank Page</source>
@@ -24956,7 +24956,7 @@ Böl</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -36797,7 +36797,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Dashed:</source>
-        <translation type="unfinished"/>
+        <translation>Çi&amp;zgi biçimi:</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -39650,7 +39650,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"/>
+        <translation>İzinler</translation>
     </message>
     <message>
         <source>Roaming File</source>
@@ -49940,7 +49940,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Reload</source>
