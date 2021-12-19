@@ -1656,14 +1656,14 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation type="unfinished"/>
+        <translation>PDF Dosyasını Dışa Aktar</translation>
     </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
     <message>
         <source>|</source>
-        <translation type="unfinished"/>
+        <translation>|</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -1675,7 +1675,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"/>
+        <translation>Sığdır</translation>
     </message>
     <message>
         <source>Beautify Document</source>
@@ -12314,7 +12314,7 @@ Araçları</translation>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Paketi</translation>
     </message>
     <message>
         <source>Highlighter</source>
@@ -12652,7 +12652,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Resume</source>
@@ -13977,7 +13977,7 @@ Master</source>
     </message>
     <message>
         <source>Trim Sound</source>
-        <translation type="unfinished"/>
+        <translation>Sesi Kırp</translation>
     </message>
     <message>
         <source>Delete Series</source>
@@ -16037,7 +16037,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Trim Sound</source>
-        <translation type="unfinished"/>
+        <translation>Sesi Kırp</translation>
     </message>
 </context>
 <context>
@@ -16143,7 +16143,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Paketi</translation>
     </message>
     <message>
         <source>Study Online</source>
@@ -16179,7 +16179,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Backup and Recovery</source>
@@ -22810,7 +22810,7 @@ Pencere</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
-        <translation type="unfinished"/>
+        <translation>Kesik Çi&amp;zgili:</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -23434,7 +23434,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -27011,11 +27011,11 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Trim time less than fade time.</source>
-        <translation type="unfinished"/>
+        <translation>Klip süresi, istenen soluklaşma süresinden daha kısa.</translation>
     </message>
     <message>
         <source>Duration : </source>
-        <translation type="unfinished"/>
+        <translation>Süre :</translation>
     </message>
     <message>
         <source>Trim Movie</source>
@@ -27023,7 +27023,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Trim Sound</source>
-        <translation type="unfinished"/>
+        <translation>Sesi Kırp</translation>
     </message>
 </context>
 <context>
@@ -27046,7 +27046,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>&amp;Every Slide</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Her Slayt</translation>
     </message>
 </context>
 <context>
@@ -27057,7 +27057,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"/>
+        <translation>İzinler</translation>
     </message>
     <message>
         <source>Roaming File</source>
@@ -30617,7 +30617,7 @@ Slide</source>
     </message>
     <message>
         <source>EditChartDataSource</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Veri Kaynağını Düzenle</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -30645,7 +30645,7 @@ Slide</source>
     </message>
     <message>
         <source>ChooseChartDataSource</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Veri Kaynağı Seç</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -30885,12 +30885,13 @@ Efektler</translation>
     <name>rainbow.ct_view</name>
     <message>
         <source>Fit</source>
-        <translation type="unfinished"/>
+        <translation>Sığdır</translation>
     </message>
     <message>
         <source>Fit
 </source>
-        <translation type="unfinished"/>
+        <translation>Sığdır
+</translation>
     </message>
     <message>
         <source>Show</source>
@@ -31055,7 +31056,7 @@ Kapat</translation>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Paketi</translation>
     </message>
     <message>
         <source>Study Online</source>
@@ -31087,7 +31088,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Package into Folder</source>
