@@ -14033,7 +14033,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Move PivotTable</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tabloyu Taşı</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
@@ -19505,7 +19505,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -20523,7 +20523,8 @@ Göre Böl</translation>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"/>
+        <translation>OLE DB Sorgusunu
+Düzenle</translation>
     </message>
     <message>
         <source>Secondary Minor Vertial</source>
@@ -30005,7 +30006,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Top 10</source>
@@ -31193,7 +31194,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -39522,7 +39523,7 @@ Headers</source>
     <message>
         <source>Move 
 PivotTable</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tabloyu Taşı</translation>
     </message>
     <message>
         <source>PivotTable Name:</source>
@@ -39547,11 +39548,11 @@ Source</source>
     </message>
     <message>
         <source>Active Field</source>
-        <translation type="unfinished"/>
+        <translation>Etkin Alan</translation>
     </message>
     <message>
         <source>Active Field:</source>
-        <translation type="unfinished"/>
+        <translation>Etkin Alan:</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -42513,7 +42514,8 @@ Veri</translation>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"/>
+        <translation>OLE DB Sorgusunu
+Düzenle</translation>
     </message>
 </context>
 <context>
@@ -43743,7 +43745,7 @@ Yakınlaştırma</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çizgili:</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -46743,7 +46745,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Base &amp;item:</source>
-        <translation type="unfinished"/>
+        <translation>Te&amp;mel öğe:</translation>
     </message>
     <message>
         <source>Source name:</source>
@@ -46787,7 +46789,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Base &amp;field:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Temel alan:</translation>
     </message>
     <message>
         <source>Summarize Values By</source>
@@ -48794,7 +48796,8 @@ Veri</translation>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"/>
+        <translation>OLE DB Sorgusunu
+Düzenle</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -49054,7 +49057,8 @@ Do you want to proceed with changes to the connection in this workbook?</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"/>
+        <translation>OLE DB Sorgusunu
+Düzenle</translation>
     </message>
 </context>
 <context>
@@ -49601,7 +49605,7 @@ Error: %3
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"/>
+        <translation>İzinler</translation>
     </message>
     <message>
         <source>Roaming File</source>
@@ -52169,7 +52173,7 @@ Alternativly, you can click the left-side pane if you want to switch to other ch
     <name>KxDlgValueShowAs</name>
     <message>
         <source>Base &amp;Item:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Temel Öğe:</translation>
     </message>
     <message>
         <source>Calculation:</source>
@@ -52181,7 +52185,7 @@ Alternativly, you can click the left-side pane if you want to switch to other ch
     </message>
     <message>
         <source>Base &amp;Field:</source>
-        <translation type="unfinished"/>
+        <translation>Temel &amp;Alan:</translation>
     </message>
 </context>
 <context>
@@ -56518,7 +56522,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası Satın Al</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -60313,7 +60317,8 @@ Veri</translation>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"/>
+        <translation>OLE DB Sorgusunu
+Düzenle</translation>
     </message>
 </context>
 <context>
