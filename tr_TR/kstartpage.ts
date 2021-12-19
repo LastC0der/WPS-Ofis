@@ -2419,7 +2419,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>picture to text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden metne</translation>
     </message>
     <message>
         <source>upgrade immediately</source>
@@ -2711,7 +2711,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Picture to text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Add WPS Search to the desktop for more convenient use.</source>
