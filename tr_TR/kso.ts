@@ -1860,7 +1860,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Resim desen olarak kullanılamayacak kadar büyük.</translation>
     </message>
     <message>
         <source>Number</source>
@@ -1889,11 +1889,11 @@ Please carefully identify the website to ensure that it is trustworthy and safe,
     </message>
     <message>
         <source>Dowload XML expansion</source>
-        <translation type="unfinished"/>
+        <translation>XML genişletmesini indir</translation>
     </message>
     <message>
         <source>Dashed vertical</source>
-        <translation type="unfinished"/>
+        <translation>Kesikli dikey</translation>
     </message>
     <message>
         <source>Yes or No</source>
@@ -26359,7 +26359,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>QT_LAYOUT_DIRECTION</source>
-        <translation type="unfinished"/>
+        <translation>SOLDAN SAĞA</translation>
     </message>
     <message>
         <source>No Glow</source>
@@ -29188,19 +29188,19 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The first argument to %1 cannot be of type %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1 öğesinin ilk bağımsız değişkeni %2 türünde olamaz.</translation>
     </message>
     <message>
         <source>The namespace URI must be a constant and cannot use enclosed expressions.</source>
-        <translation type="unfinished"/>
+        <translation>Ad alanı URI&apos;si bir sabit olmalıdır ve kapalı ifadeler kullanamaz.</translation>
     </message>
     <message>
         <source>Prefix %1 is already declared in the prolog.</source>
-        <translation type="unfinished"/>
+        <translation>%1 öneki girişte zaten bildirilmiş.</translation>
     </message>
     <message>
         <source>Ambiguous rule match.</source>
-        <translation type="unfinished"/>
+        <translation>Belirsiz kural eşleşmesi.</translation>
     </message>
     <message>
         <source>Promoting %1 to %2 may cause loss of precision.</source>
@@ -30784,11 +30784,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Resim desen olarak kullanılamayacak kadar büyük.</translation>
     </message>
     <message>
         <source>Dashed vertical</source>
-        <translation type="unfinished"/>
+        <translation>Kesikli dikey</translation>
     </message>
     <message>
         <source>Wide downward diagonal</source>
@@ -33723,15 +33723,15 @@ Please check your system settings and ensure that the temporary directory under 
     <name>Q3UrlOperator</name>
     <message>
         <source>The protocol `%1&apos; does not support getting files</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü dosya almayı desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support renaming files or directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü, dosyaların veya dizinlerin yeniden adlandırılmasını desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support listing directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü dizin listelemeyi desteklemiyor</translation>
     </message>
     <message>
         <source>(unknown)</source>
