@@ -6404,19 +6404,19 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>The first argument to %1 cannot be of type %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1 öğesinin ilk bağımsız değişkeni %2 türünde olamaz.</translation>
     </message>
     <message>
         <source>The namespace URI must be a constant and cannot use enclosed expressions.</source>
-        <translation type="unfinished"/>
+        <translation>Ad alanı URI&apos;si bir sabit olmalıdır ve kapalı ifadeler kullanamaz.</translation>
     </message>
     <message>
         <source>Prefix %1 is already declared in the prolog.</source>
-        <translation type="unfinished"/>
+        <translation>%1 öneki girişte zaten bildirilmiş.</translation>
     </message>
     <message>
         <source>Ambiguous rule match.</source>
-        <translation type="unfinished"/>
+        <translation>Belirsiz kural eşleşmesi.</translation>
     </message>
     <message>
         <source>Promoting %1 to %2 may cause loss of precision.</source>
@@ -8241,7 +8241,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Failed to load, please</source>
-        <translation type="unfinished"/>
+        <translation>Yüklenemedi, lütfen</translation>
     </message>
     <message>
         <source>Files saved in cloud space will be automatically synchronized on your computer and mobile phone, and you can access them with your mobile phone.</source>
@@ -8249,7 +8249,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Associate your mobile device</source>
-        <translation type="unfinished"/>
+        <translation>Mobil Cihazınızı İlişkilendirin</translation>
     </message>
     <message>
         <source>Finish</source>
@@ -8257,7 +8257,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Mobile phone associate succeeded</source>
-        <translation type="unfinished"/>
+        <translation>Cep telefonu başarıyla ilişkilendirildi.</translation>
     </message>
 </context>
 <context>
@@ -8268,7 +8268,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Failed to load, please</source>
-        <translation type="unfinished"/>
+        <translation>Yüklenemedi, lütfen</translation>
     </message>
 </context>
 <context>
@@ -8283,15 +8283,15 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Link attachment creation failed, please try again</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı eki oluşturulamadı. Lütfen yeniden deneyin.</translation>
     </message>
     <message>
         <source>Creation failed</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturma başarısız oldu.</translation>
     </message>
     <message>
         <source>Retrying to create attachment link...</source>
-        <translation type="unfinished"/>
+        <translation>Ek bağlantısı oluşturma yeniden deneniyor...</translation>
     </message>
 </context>
 <context>
@@ -8305,15 +8305,15 @@ yazılamadı</translation>
     <name>Q3UrlOperator</name>
     <message>
         <source>The protocol `%1&apos; does not support getting files</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü dosya almayı desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support renaming files or directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü, dosyaların veya dizinlerin yeniden adlandırılmasını desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support listing directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü dizin listelemeyi desteklemiyor</translation>
     </message>
     <message>
         <source>(unknown)</source>
@@ -9688,7 +9688,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>QT_LAYOUT_DIRECTION</source>
-        <translation type="unfinished"/>
+        <translation>SOLDAN SAĞA</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -9750,7 +9750,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Upgrade And Continue</source>
-        <translation type="unfinished"/>
+        <translation>Yükselt ve Devam Et</translation>
     </message>
     <message>
         <source>Come from %1</source>
