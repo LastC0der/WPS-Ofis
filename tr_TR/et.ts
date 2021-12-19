@@ -27772,7 +27772,7 @@ Dondur</translation>
     </message>
     <message>
         <source>PDF to Excel</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Excel&apos;e</translation>
     </message>
     <message>
         <source>NewChart ChartTitle</source>
