@@ -6344,7 +6344,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Paper</source>
@@ -7866,7 +7866,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>PRODUCT</source>
-        <translation type="unfinished"/>
+        <translation>ÜRÜN</translation>
     </message>
     <message>
         <source>Please choose a field</source>
@@ -19442,7 +19442,7 @@ Screen</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Words</source>
@@ -32654,7 +32654,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -32861,7 +32861,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="unfinished"/>
+        <translation>Şekiller</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -33256,7 +33256,7 @@ Support title, content</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa </translation>
     </message>
     <message>
         <source>Order</source>
@@ -37170,7 +37170,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -53264,7 +53264,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Table</source>
@@ -53538,7 +53538,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Table</source>
