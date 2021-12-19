@@ -13000,7 +13000,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Print</source>
@@ -29608,7 +29608,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"/>
+        <translation>Ürün</translation>
     </message>
     <message>
         <source>&amp;At each change in:</source>
@@ -29731,7 +29731,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"/>
+        <translation>Ürün</translation>
     </message>
     <message>
         <source>Average</source>
