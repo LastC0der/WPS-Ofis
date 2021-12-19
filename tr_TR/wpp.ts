@@ -4468,7 +4468,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>&amp;Font Style</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Ti&amp;pi Stili</translation>
     </message>
     <message>
         <source>Dissolve In</source>
@@ -5701,7 +5701,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>&amp;Right Down</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sağ Alt</translation>
     </message>
     <message>
         <source>Figure 8 Four</source>
@@ -22860,7 +22860,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Table</source>
