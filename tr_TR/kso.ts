@@ -19977,7 +19977,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"/>
+        <translation>Ürün</translation>
     </message>
     <message>
         <source>Brackets</source>
@@ -19997,11 +19997,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"/>
+        <translation>Alt simge</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"/>
+        <translation>Üst Simge</translation>
     </message>
     <message>
         <source>Percentage</source>
@@ -20215,7 +20215,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the start of the block</source>
-        <translation type="unfinished"/>
+        <translation>İmleci bloğun başına getir</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -20240,7 +20240,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the end of the line</source>
-        <translation type="unfinished"/>
+        <translation>İmleci satırın sonuna taşı</translation>
     </message>
     <message>
         <source>Move the cursor to the start of the line</source>
@@ -35453,7 +35453,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>no error occurred</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir hata oluşmadı</translation>
     </message>
     <message>
         <source>error occurred while parsing reference</source>
@@ -36152,7 +36152,7 @@ Please check network</source>
     </message>
     <message>
         <source>Insert Unicode control character</source>
-        <translation type="unfinished"/>
+        <translation>Unicode denetim karakteri ekle</translation>
     </message>
     <message>
         <source>LRO Start of left-to-right override</source>
@@ -36199,15 +36199,15 @@ Please check network</source>
     </message>
     <message>
         <source>Cannot show URL</source>
-        <translation type="unfinished"/>
+        <translation>URL gösterilemiyor</translation>
     </message>
     <message>
         <source>Frame load interruped by policy change</source>
-        <translation type="unfinished"/>
+        <translation>İlke değişikliği nedeniyle kesintiye uğrayan çerçeve yükü</translation>
     </message>
     <message>
         <source>File does not exist</source>
-        <translation type="unfinished"/>
+        <translation>Dosya yok</translation>
     </message>
     <message>
         <source>Cannot show mimetype</source>
@@ -36279,39 +36279,39 @@ Please check network</source>
     <name>QRegExp</name>
     <message>
         <source>bad lookahead syntax</source>
-        <translation type="unfinished"/>
+        <translation>Kötü ileriye dönük sözdizimi</translation>
     </message>
     <message>
         <source>no error occurred</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir hata oluşmadı</translation>
     </message>
     <message>
         <source>missing left delim</source>
-        <translation type="unfinished"/>
+        <translation>Sol sınırlayıcı eksik</translation>
     </message>
     <message>
         <source>bad char class syntax</source>
-        <translation type="unfinished"/>
+        <translation>Hatalı karakter sınıfı sözdizimi</translation>
     </message>
     <message>
         <source>disabled feature used</source>
-        <translation type="unfinished"/>
+        <translation>Devre dışı bırakılmış özellik kullanıldı</translation>
     </message>
     <message>
         <source>invalid octal value</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz sekizlik değer</translation>
     </message>
     <message>
         <source>bad repetition syntax</source>
-        <translation type="unfinished"/>
+        <translation>Hatalı yineleme sözdizimi</translation>
     </message>
     <message>
         <source>met internal limit</source>
-        <translation type="unfinished"/>
+        <translation>İç sınıra ulaşıldı</translation>
     </message>
     <message>
         <source>unexpected end</source>
-        <translation type="unfinished"/>
+        <translation>Beklenmeyen son</translation>
     </message>
 </context>
 <context>
