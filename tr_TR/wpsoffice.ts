@@ -5593,19 +5593,19 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>The first argument to %1 cannot be of type %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1 öğesinin ilk bağımsız değişkeni %2 türünde olamaz.</translation>
     </message>
     <message>
         <source>The namespace URI must be a constant and cannot use enclosed expressions.</source>
-        <translation type="unfinished"/>
+        <translation>Ad alanı URI&apos;si bir sabit olmalıdır ve kapalı ifadeler kullanamaz.</translation>
     </message>
     <message>
         <source>Prefix %1 is already declared in the prolog.</source>
-        <translation type="unfinished"/>
+        <translation>%1 öneki girişte zaten bildirilmiş.</translation>
     </message>
     <message>
         <source>Ambiguous rule match.</source>
-        <translation type="unfinished"/>
+        <translation>Belirsiz kural eşleşmesi.</translation>
     </message>
     <message>
         <source>Promoting %1 to %2 may cause loss of precision.</source>
@@ -7264,15 +7264,15 @@ yazılamadı</translation>
     <name>Q3UrlOperator</name>
     <message>
         <source>The protocol `%1&apos; does not support getting files</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü dosya almayı desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support renaming files or directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü, dosyaların veya dizinlerin yeniden adlandırılmasını desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support listing directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü dizin listelemeyi desteklemiyor</translation>
     </message>
     <message>
         <source>(unknown)</source>
@@ -8431,7 +8431,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>QT_LAYOUT_DIRECTION</source>
-        <translation type="unfinished"/>
+        <translation>SOLDAN SAĞA</translation>
     </message>
     <message>
         <source>Activate</source>
