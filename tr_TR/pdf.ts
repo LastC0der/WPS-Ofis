@@ -602,7 +602,7 @@
     </message>
     <message>
         <source>Do you ask if all the signatures are checked:</source>
-        <translation type="unfinished"/>
+        <translation>Tüm imzaların işaretli olup olmadığını soruyor musunuz:</translation>
     </message>
     <message>
         <source>General Settings</source>
@@ -610,7 +610,7 @@
     </message>
     <message>
         <source>Night</source>
-        <translation type="unfinished"/>
+        <translation>Gece</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -634,7 +634,7 @@
     </message>
     <message>
         <source>Doc read options</source>
-        <translation type="unfinished"/>
+        <translation>(Yakınlaştırma, sayfa düzeni vb.)</translation>
     </message>
     <message>
         <source>Single Page</source>
@@ -646,31 +646,31 @@
     </message>
     <message>
         <source>Turn Off Automatic Pop</source>
-        <translation type="unfinished"/>
+        <translation>Metni seçtikten sonra açılır pencereleri kapat</translation>
     </message>
     <message>
         <source>CustomSetting</source>
-        <translation type="unfinished"/>
+        <translation>Özel Ayar</translation>
     </message>
     <message>
         <source>Fit PageSize</source>
-        <translation type="unfinished"/>
+        <translation>Boyuta Sığdır</translation>
     </message>
     <message>
         <source>Default layout&apos;s mode and scale</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan düzen ve ölçek</translation>
     </message>
     <message>
         <source>Preference setting</source>
-        <translation type="unfinished"/>
+        <translation>Tercih Ayarları</translation>
     </message>
     <message>
         <source>Single tooth grid scroll height</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma Yüksekliği</translation>
     </message>
     <message>
         <source>Hand Tool</source>
-        <translation type="unfinished"/>
+        <translation>El Aracı</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5909,7 +5909,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Fit PageSize</source>
-        <translation type="unfinished"/>
+        <translation>Boyuta Sığdır</translation>
     </message>
     <message>
         <source>Sentence Translation</source>
@@ -6966,15 +6966,15 @@ Okuma</translation>
     </message>
     <message>
         <source>Bg_Huyan</source>
-        <translation type="unfinished"/>
+        <translation>Göz Koruyucu</translation>
     </message>
     <message>
         <source>Bg_Night</source>
-        <translation type="unfinished"/>
+        <translation>Gece Modu</translation>
     </message>
     <message>
         <source>Fit Visible</source>
-        <translation type="unfinished"/>
+        <translation>Görünüre Sığdır</translation>
     </message>
     <message>
         <source>Open Comment</source>
@@ -6982,7 +6982,7 @@ Okuma</translation>
     </message>
     <message>
         <source>TestNewPageFile</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Dosya</translation>
     </message>
     <message>
         <source>Measure Tool</source>
@@ -6990,11 +6990,11 @@ Okuma</translation>
     </message>
     <message>
         <source>Measure Area</source>
-        <translation type="unfinished"/>
+        <translation>Alan</translation>
     </message>
     <message>
         <source>PageFitSize</source>
-        <translation type="unfinished"/>
+        <translation>Boyuta Sığdır</translation>
     </message>
     <message>
         <source>pdfextractpage</source>
@@ -13155,7 +13155,7 @@ Pencere</translation>
     <name>ongmani.ct_protect</name>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"/>
+        <translation>İzinler</translation>
     </message>
     <message>
         <source>Text Markup</source>
