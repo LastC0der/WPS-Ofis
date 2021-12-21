@@ -940,11 +940,11 @@
     </message>
     <message>
         <source>Edit WaterMark</source>
-        <translation type="unfinished"/>
+        <translation>Filigranı Düzenle</translation>
     </message>
     <message>
         <source>Update WaterMark</source>
-        <translation type="unfinished"/>
+        <translation>Filigranı Güncelleştir</translation>
     </message>
     <message>
         <source>input 5-9 means add watermark in pages from no.5 to no.9</source>
@@ -1064,11 +1064,11 @@
     </message>
     <message>
         <source>Effect1</source>
-        <translation type="unfinished"/>
+        <translation>Efekt1</translation>
     </message>
     <message>
         <source>Effect2</source>
-        <translation type="unfinished"/>
+        <translation>Efekt2</translation>
     </message>
     <message>
         <source>Only %1 watermark settings can be saved at most.</source>
@@ -5857,7 +5857,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Update Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigranı Güncelleştir</translation>
     </message>
     <message>
         <source>Permission Protected</source>
