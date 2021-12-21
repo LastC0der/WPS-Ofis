@@ -49878,7 +49878,7 @@ Item Labels</source>
     </message>
     <message>
         <source>OFD Service Provider</source>
-        <translation type="unfinished"/>
+        <translation>OFD Hizmet Sağlayıcı</translation>
     </message>
 </context>
 <context>
