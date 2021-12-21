@@ -1174,15 +1174,15 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Select Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Seç</translation>
     </message>
     <message>
         <source>Number slides in the document</source>
-        <translation type="unfinished"/>
+        <translation>Belgedeki slayt sayısı</translation>
     </message>
     <message>
         <source>Converted Content</source>
-        <translation type="unfinished"/>
+        <translation>Dönüştürülen İçerik</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1238,11 +1238,11 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Right(&amp;H)</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağa</translation>
     </message>
     <message>
         <source>Right(&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağa</translation>
     </message>
     <message>
         <source>Slide per page</source>
@@ -1457,11 +1457,11 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Sl&amp;ides:</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;layt:</translation>
     </message>
     <message>
         <source>OFD Service Provider</source>
-        <translation type="unfinished"/>
+        <translation>OFD Hizmet Sağlayıcı</translation>
     </message>
 </context>
 <context>
@@ -1684,7 +1684,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>25 %</source>
-        <translation type="unfinished"/>
+        <translation>% 25</translation>
     </message>
     <message>
         <source>33 %</source>
@@ -1692,7 +1692,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>50 %</source>
-        <translation type="unfinished"/>
+        <translation>% 50</translation>
     </message>
     <message>
         <source>66 %</source>
@@ -1700,7 +1700,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>75 %</source>
-        <translation type="unfinished"/>
+        <translation>% 75</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -1972,7 +1972,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>*.webm</source>
-        <translation type="unfinished"/>
+        <translation>*.webm</translation>
     </message>
     <message>
         <source>*.mp4;*.m4v;*.mp4v</source>
@@ -2214,7 +2214,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"/>
+        <translation>El ile</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -2236,7 +2236,7 @@ Check</source>
     </message>
     <message>
         <source>Print What</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırılacak</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -2248,7 +2248,7 @@ Check</source>
     </message>
     <message>
         <source>Insert Layout</source>
-        <translation type="unfinished"/>
+        <translation>Düzen Ekle</translation>
     </message>
     <message>
         <source>Click to add notes</source>
@@ -22572,15 +22572,15 @@ Yazdır</translation>
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeve Slaytları</translation>
     </message>
     <message>
         <source>Print Duplex</source>
-        <translation type="unfinished"/>
+        <translation>Çift Yönlü Yazdır</translation>
     </message>
     <message>
         <source>Print Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopyaları Yazdır</translation>
     </message>
     <message>
         <source>Printer Name:</source>
@@ -22596,11 +22596,11 @@ Yazdır</translation>
     </message>
     <message>
         <source>Print Ways</source>
-        <translation type="unfinished"/>
+        <translation>Yazdıran</translation>
     </message>
     <message>
         <source>Print What</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırılacak</translation>
     </message>
     <message>
         <source>Printer Options</source>
@@ -23339,7 +23339,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeve Slaytları</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -23347,7 +23347,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Print What</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırılacak</translation>
     </message>
     <message>
         <source>Options</source>
@@ -33343,7 +33343,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeve Slaytları</translation>
     </message>
     <message>
         <source>Landscape</source>
