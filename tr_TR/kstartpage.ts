@@ -1248,7 +1248,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>open folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasörü aç</translation>
     </message>
     <message>
         <source>export</source>
@@ -1913,7 +1913,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>open folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasörü aç</translation>
     </message>
 </context>
 <context>
@@ -2626,7 +2626,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Upload file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya yükle</translation>
     </message>
     <message>
         <source>Save to</source>
@@ -3525,7 +3525,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KLinkMessageBox</name>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasörü Aç</translation>
     </message>
     <message>
         <source>warning</source>
@@ -4132,7 +4132,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KComponentTitle</name>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
