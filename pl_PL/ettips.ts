@@ -1,3055 +1,3188 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="pl_PL">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>EditConnectionProperties.title</source>
-        <translation></translation>
+        <translation>Edytuj właściwości połączenia</translation>
     </message>
     <message>
         <source>ComAddin.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie lub usunięcie dostępnych dodatków COM.</translation>
     </message>
     <message>
         <source>Macros.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie listy makr, za pomocą której można uruchomić, utworzyć lub usunąć makro.</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia układu strony</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal2.title</source>
-        <translation></translation>
+        <translation>Rysuj pole tekstowe</translation>
     </message>
     <message>
         <source>Translate Image.content</source>
-        <translation></translation>
+        <translation>Szybko przetłumacz tekst z obrazu (obsługiwane jest tylko tłumaczenie z chińskiego na angielski)</translation>
     </message>
     <message>
         <source>PrintLayout.title</source>
-        <translation></translation>
+        <translation>Układ strony</translation>
     </message>
     <message>
         <source>AlignDistributed.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie akapitu do prawego i lewego marginesu przez dodanie w razie potrzeby dodatkowych odstępów między znakami.</translation>
     </message>
     <message>
         <source>EditCloumns.title</source>
-        <translation></translation>
+        <translation>Pasek formuły</translation>
     </message>
     <message>
         <source>LockTitleRows.title</source>
-        <translation></translation>
+        <translation>Zablokuj wiersz tytułu</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTool.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>ShapeSize.title</source>
-        <translation></translation>
+        <translation>Rozmiar kształtu</translation>
     </message>
     <message>
         <source>GrowFont.title</source>
-        <translation></translation>
+        <translation>Zwiększ czcionkę</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.content</source>
-        <translation></translation>
+        <translation>Obserwuj zmiany sumarycznych danych w czasie przy różnych warunkach filtrowania.</translation>
     </message>
     <message>
         <source>TopAndBottomBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>ColumnSparkline.content</source>
-        <translation></translation>
+        <translation>Sparklines are mini charts placed in single cells, each representing a row of data in your selection.</translation>
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation></translation>
+        <translation>Organizuj pliki szybko i łatwo.</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
-        <translation></translation>
+        <translation>Malarz formatów</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation></translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <source>WorkSheet.title</source>
-        <translation></translation>
+        <translation>Arkusz</translation>
     </message>
     <message>
         <source>ClearFilter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyczyszczenie filtru i stanu sortowania dla bieżącego zakresu danych.</translation>
     </message>
     <message>
         <source>PTSubtotals.title</source>
-        <translation></translation>
+        <translation>Sumy częściowe</translation>
     </message>
     <message>
         <source>PrinterMoreSetup.title</source>
-        <translation></translation>
+        <translation>Więcej ustawień</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation></translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation></translation>
+        <translation>Szybkie drukowanie</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeglądanie i wybieranie pozycji z list funkcji statystycznych, inżynierskich i informacyjnych.</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation></translation>
+        <translation>Convert To Line Sparkline</translation>
     </message>
     <message>
         <source>PrinterCopies.content</source>
-        <translation></translation>
+        <translation>Określ liczbę drukowanych kopii.</translation>
     </message>
     <message>
         <source>PercentStyle.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie wartości komórki jako wartości procentowej.</translation>
     </message>
     <message>
         <source>CustomViews.content</source>
-        <translation></translation>
+        <translation>Zapisz bieżące ustawienia wyświetlania i wydruku jako widok niestandardowy, aby w przyszłości szybko je zastosować.</translation>
     </message>
     <message>
         <source>InsertFunction.content</source>
-        <translation></translation>
+        <translation>Umożliwia edytowanie formuły w bieżącej komórce przez wybranie funkcji i edytowanie argumentów.</translation>
     </message>
     <message>
         <source>Eraseborder.title</source>
-        <translation></translation>
+        <translation>Wymaż obramowanie</translation>
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation></translation>
+        <translation>Umożliwia odrzucenie wszystkich zmian formatowania wprowadzonych na tym obrazie.</translation>
     </message>
     <message>
         <source>InsertFunction.title</source>
-        <translation></translation>
+        <translation>Wstaw funkcję</translation>
     </message>
     <message>
         <source>FormatStyle.title</source>
-        <translation></translation>
+        <translation>Formatuj styl</translation>
     </message>
     <message>
         <source>TopBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>Average.title</source>
-        <translation></translation>
+        <translation>Średnia</translation>
     </message>
     <message>
         <source>NamePaste.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie nazwy, która jest używana w bieżącym skoroszycie i wklejenie jej do bieżącej formuły.</translation>
     </message>
     <message>
         <source>Accounting.title</source>
-        <translation></translation>
+        <translation>Księgowe</translation>
     </message>
     <message>
         <source>ShowPrecedents.content</source>
-        <translation></translation>
+        <translation>Pokaż strzałki wskazujące, które komórki wpływają na wartość aktualnie wybranej komórki.</translation>
     </message>
     <message>
         <source>What-If%20Analysis.content</source>
-        <translation></translation>
+        <translation>Szukaj wyniku można znaleźć odpowiednie dane wejściowe dla żądanych wyników.
+Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki celu, zmieniając wartości w komórkach użytych do obliczania wartości tej komórki.</translation>
     </message>
     <message>
         <source>FuncCatText.title</source>
-        <translation></translation>
+        <translation>Funkcja tekstowa</translation>
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie wybranego pliku do dokumentu.</translation>
     </message>
     <message>
         <source>WindowReset.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozmieszczenie na ekranie wszystkich otwartych okien arkuszy w układzie obok siebie.</translation>
     </message>
     <message>
         <source>StopRecordMacro.title</source>
-        <translation></translation>
+        <translation>Zatrzymaj rejestrowanie</translation>
     </message>
     <message>
         <source>AllowEditRanges.title</source>
-        <translation></translation>
+        <translation>Zezwalanie użytkownikom na edycję zakresów</translation>
     </message>
     <message>
         <source>Subtotals.content</source>
-        <translation></translation>
+        <translation>Umożliwia obliczenie sumy kilku wierszy zawierających pokrewne dane przez automatyczne wstawienie sum częściowych i sum dla zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>DetailedSettings_Layout.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>sp_ConditionHighlight.content</source>
-        <translation></translation>
+        <translation>Umożliwia łatwo dostrzec komórki, które spełniają podany zestaw kryteriów.</translation>
     </message>
     <message>
         <source>DrawBorder.title</source>
-        <translation></translation>
+        <translation>Rysuj obramowanie</translation>
     </message>
     <message>
         <source>AddFavorite.title</source>
-        <translation></translation>
+        <translation>Dodaj warunki filtrowania do ulubionych.</translation>
     </message>
     <message>
         <source>m_Format.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę zaznaczonych komórek, konwersję tekstu na liczbę lub hiperłącze.</translation>
     </message>
     <message>
         <source>PTFieldSettings.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Ustawienia pola.</translation>
     </message>
     <message>
         <source>LineSparkline.content</source>
-        <translation></translation>
+        <translation>Sparklines are mini charts placed in single cells, each representing a row of data in your selection.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.title</source>
-        <translation></translation>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <source>BandedRows.title</source>
-        <translation></translation>
+        <translation>Wiersze naprzemienne</translation>
     </message>
     <message>
         <source>sp_Paste.content</source>
-        <translation></translation>
+        <translation>Umożliwia wklejenie zawartości schowka.</translation>
     </message>
     <message>
         <source>NoBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>BottomDoubleBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>SparklineMarkers.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline Markers</translation>
     </message>
     <message>
         <source>SlicerItemWidth.title</source>
-        <translation></translation>
+        <translation>Szerokość przycisku</translation>
     </message>
     <message>
         <source>TotalRow.title</source>
-        <translation></translation>
+        <translation>Wiersz sumy</translation>
     </message>
     <message>
         <source>RecentLineWrap.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie całej zawartości komórki przez wyświetlenie jej w wielu wierszach.</translation>
     </message>
     <message>
         <source>PageSetup.title</source>
-        <translation></translation>
+        <translation>Ustawienia strony</translation>
     </message>
     <message>
         <source>CircularReferences.title</source>
-        <translation></translation>
+        <translation>Odwołania cykliczne</translation>
     </message>
     <message>
         <source>Validation.title</source>
-        <translation></translation>
+        <translation>Poprawność danych</translation>
     </message>
     <message>
         <source>DataSort.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Sortowanie w celu sortowania danych na podstawie kilku kryteriów jednocześnie.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania tekstu WordArt.</translation>
     </message>
     <message>
         <source>Align.title</source>
-        <translation></translation>
+        <translation>Wyrównaj</translation>
     </message>
     <message>
         <source>NormalViewEt.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie arkusza w widoku normalnym.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation></translation>
+        <translation>Umożliwia podkreślenie zaznaczonego tekstu.
+
+Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>sp_Paste2.title</source>
-        <translation></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <source>CTB_DesignMode.title</source>
-        <translation></translation>
+        <translation>Tryb projektowania</translation>
     </message>
     <message>
         <source>TableMenuRefresh.title</source>
-        <translation></translation>
+        <translation>Odśwież</translation>
     </message>
     <message>
         <source>SparklineGroup.title</source>
-        <translation></translation>
+        <translation>Group Selected Sparklines</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.content</source>
-        <translation></translation>
+        <translation>Extract data to grid</translation>
     </message>
     <message>
         <source>Min.title</source>
-        <translation></translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>VerbSideBySide.content</source>
-        <translation></translation>
+        <translation>Umożliwia zresetowanie położenia, jakie zajmują w oknie dokumenty porównywane obok siebie, tak aby na każdy z tych dokumentów przypadała taka sama część ekranu.
+
+Aby włączyć tę funkcję, włącz opcję Wyświetl obok siebie.</translation>
     </message>
     <message>
         <source>Macros.title</source>
-        <translation></translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message>
         <source>FirstColumn.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie specjalnego formatowania dla pierwszej kolumny tabeli.</translation>
     </message>
     <message>
         <source>ShowDependents.title</source>
-        <translation></translation>
+        <translation>Śledź zależności.</translation>
     </message>
     <message>
         <source>ShowDetail.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie wszystkich elementów aktywnego pola.</translation>
     </message>
     <message>
         <source>PageSize.title</source>
-        <translation></translation>
+        <translation>Rozmiar strony</translation>
     </message>
     <message>
         <source>MergeCenter2.content</source>
-        <translation></translation>
+        <translation>Umożliwia połączenie wybranych komórek w jedną, większą komórkę i wyśrodkowanie zawartości w nowej komórce.</translation>
     </message>
     <message>
         <source>ShareWorkbook.content</source>
-        <translation></translation>
+        <translation>Umożliwia kilku osobom jednoczesną pracę nad skoroszytem.
+
+Skoroszyt należy zapisać w lokalizacji sieciowej, w której wiele osób będzie mogło go otworzyć.
+
+Nie można udostępniać skoroszytów zawierających tabele.</translation>
     </message>
     <message>
         <source>PTHideFieldList.title</source>
-        <translation></translation>
+        <translation>Ukryj listę pól</translation>
     </message>
     <message>
         <source>OutsideBorders.title</source>
-        <translation></translation>
+        <translation>Krawędzie zewnętrzne</translation>
     </message>
     <message>
         <source>AlignDistributed.title</source>
-        <translation></translation>
+        <translation>Rozłożony</translation>
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation></translation>
+        <translation>Zresetuj rozmiar</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
-        <translation></translation>
+        <translation>Wstaw obiekt z pliku</translation>
     </message>
     <message>
         <source>VAlignTop.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do góry</translation>
     </message>
     <message>
         <source>ImportTxt.content</source>
-        <translation></translation>
+        <translation>Import data from a text file.</translation>
     </message>
     <message>
         <source>PTShowDetail.title</source>
-        <translation></translation>
+        <translation>Pokaż szczegóły</translation>
     </message>
     <message>
         <source>SparklineUnGroup.content</source>
-        <translation></translation>
+        <translation>Break a set of grouped sparklines into individual sparklines.</translation>
     </message>
     <message>
         <source>RelativeReference.title</source>
-        <translation></translation>
+        <translation>Użyj odwołań względnych</translation>
     </message>
     <message>
         <source>Chart.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Typ wykresu, aby wyświetlić opcje, takie jak typ wykresu do wstawienia.</translation>
     </message>
     <message>
         <source>WindowReset.title</source>
-        <translation></translation>
+        <translation>Rozmieść wszystko</translation>
     </message>
     <message>
         <source>TopBorder.title</source>
-        <translation></translation>
+        <translation>Krawędź górna</translation>
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation></translation>
+        <translation>Poprzedni komentarz</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
-        <translation></translation>
+        <translation>Tryb pełnoekranowy</translation>
     </message>
     <message>
         <source>RecordList.title</source>
-        <translation></translation>
+        <translation>Formularz</translation>
     </message>
     <message>
         <source>PivotChart.title</source>
-        <translation></translation>
+        <translation>Wykres przestawny</translation>
     </message>
     <message>
         <source>MergeCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia połączenie wybranych komórek w jedną, większą komórkę i wyśrodkowanie zawartości w nowej komórce.</translation>
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Ustawienia strony.</translation>
     </message>
     <message>
         <source>ColumnsCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie ciągłych komórek w jednym wierszu lub wiele wierszy i ustawić zawartość komórek do środka.</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation></translation>
+        <translation>Otwórz zakładkę Narzędzia deweloperów, aby wstawić Przycisk opcji, Pole wyboru i inne.</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie rysunku ClipArt z okna zadań i wstawienie go do dokumentu.</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie łącza do strony sieci web, obrazu lub adresu e-mail.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia edycję komentarza.</translation>
     </message>
     <message>
         <source>WorkSheet.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby zmodyfikować arkusz. Można wstawić lub usunąć arkusz, zmień nazwę arkusza lub zmienić kolor karty arkusz.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation></translation>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
-        <translation></translation>
+        <translation>Konwertuj dokumenty na pliki Excel</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawianie gotowych kształtów, takich jak prostokąty, okręgi, strzałki, linie, symbole schematu blokowego i objaśnienia.</translation>
     </message>
     <message>
         <source>CharacterSpacing.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę odstępów między literami zaznaczonego tekstu WordArt.</translation>
     </message>
     <message>
         <source>AlignJustify.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu jednocześnie do lewego i prawego marginesu. W razie konieczności są dodawane odstępy między wyrazami.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.title</source>
-        <translation></translation>
+        <translation>Convert To Column Sparkline</translation>
     </message>
     <message>
         <source>sp_Paste.title</source>
-        <translation></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <source>ReapplyFilter.title</source>
-        <translation></translation>
+        <translation>Zastosuj ponownie</translation>
     </message>
     <message>
         <source>PagePreviewSwitch.title</source>
-        <translation></translation>
+        <translation>Przełącznik podglądu strony</translation>
     </message>
     <message>
         <source>DisplayHeadings.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie nagłówków wierszy i kolumn. 
+
+Nagłówkami wierszy są numery wierszy z boku arkusza. 
+
+Nagłówkami kolumn są litery lub numery widoczne nad kolumnami w arkuszu.</translation>
     </message>
     <message>
         <source>ReapplyFilter.content</source>
-        <translation></translation>
+        <translation>Umożliwia ponowne zastosowanie filtru i posortowanie bieżącego zakresu.
+
+Nowe lub zmodyfikowane dane w kolumnie nie będą filtrowane ani sortowane do momentu kliknięcia przycisku Zastosuj ponownie.</translation>
     </message>
     <message>
         <source>HideDetail.content</source>
-        <translation></translation>
+        <translation>Umożliwia zwinięcie grupy komórek.</translation>
     </message>
     <message>
         <source>AdvancedFilter.content</source>
-        <translation></translation>
+        <translation>Umożliwia określenie złożonych kryteriów ograniczających rekordy uwzględniane w wynikach kwerendy.</translation>
     </message>
     <message>
         <source>ImportTxt.title</source>
-        <translation></translation>
+        <translation>Get External Data From Text</translation>
     </message>
     <message>
         <source>sp_Copy.title</source>
-        <translation></translation>
+        <translation>Kopiuj</translation>
     </message>
     <message>
         <source>Consolidate.title</source>
-        <translation></translation>
+        <translation>Konsoliduj</translation>
     </message>
     <message>
         <source>MathAndTrig.title</source>
-        <translation></translation>
+        <translation>Matematyczne i trygonometryczne</translation>
     </message>
     <message>
         <source>DetailedSettings_Data.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę zaawansowanych ustawień konturu.</translation>
     </message>
     <message>
         <source>DoubleAccounting.content</source>
-        <translation></translation>
+        <translation>Podwójne podkreślenie na potrzeby rozliczenia.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wstawić obraz z folderu lokalnego lub ze skanera.</translation>
     </message>
     <message>
         <source>SparklineUnGroup.title</source>
-        <translation></translation>
+        <translation>Ungroup Selected Sparklines</translation>
     </message>
     <message>
         <source>TotalRow.content</source>
-        <translation></translation>
+        <translation>Umożliwia włączenie lub wyłączenie wiersza sumy tabeli.
+
+Wiersz sumy znajduje się na końcu tabeli i zawiera sumy dla każdej kolumny.</translation>
     </message>
     <message>
         <source>RemoveDuplicates.title</source>
-        <translation></translation>
+        <translation>Usuń duplikaty</translation>
     </message>
     <message>
         <source>SlicerCaption.content</source>
-        <translation></translation>
+        <translation>Zmień podpis, który jest wyświetlany w nagłówku fragmentatora.</translation>
     </message>
     <message>
         <source>InsertRange.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie komórek, wierszy lub kolumn do arkusza.</translation>
     </message>
     <message>
         <source>Camera.content</source>
-        <translation></translation>
+        <translation>Umożliwia połączenie komórek lub zakresu komórek do obiektów rysunkowych. Zmiany wprowadzone do danych w komórkach arkusza będą automatycznie wyświetlane w obiektach rysunkowych.</translation>
     </message>
     <message>
         <source>SparklineFirstPoint.content</source>
-        <translation></translation>
+        <translation>Highlight the first points of data in the selected sparkline group.</translation>
     </message>
     <message>
         <source>BottomBorder.title</source>
-        <translation></translation>
+        <translation>Krawędź dolna</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień czcionki, akapitu oraz styli i formatowania.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation></translation>
+        <translation>Kopia zapasowa pliku</translation>
     </message>
     <message>
         <source>Align.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie krawędzi wielu zaznaczonych obiektów.
+
+Można też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.</translation>
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby uzyskać więcej opcji takich jak wklejanie tylko tekstu niesformatowanego.</translation>
     </message>
     <message>
         <source>PrintArea.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie określonego obszaru dokumentu do druku.</translation>
     </message>
     <message>
         <source>SlicerColumn.content</source>
-        <translation></translation>
+        <translation>Zmień liczbę kolumn we fragmentatorze.</translation>
     </message>
     <message>
         <source>Currency.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie alternatywnego formatu waluty dla zaznaczonej komórki.
+
+Przykładowo można wybrać euro zamiast dolarów.</translation>
     </message>
     <message>
         <source>TextFill.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę koloru tekstu.
+
+Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnego komentarza w dokumencie.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
-        <translation></translation>
+        <translation>Wypełnij obraz</translation>
     </message>
     <message>
         <source>ShowAllComments.title</source>
-        <translation></translation>
+        <translation>Pokaż wszystkie komentarze</translation>
     </message>
     <message>
         <source>Margins.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie rozmiarów marginesów w całym dokumencie lub bieżącej sekcji.</translation>
     </message>
     <message>
         <source>PivotTable.title</source>
-        <translation></translation>
+        <translation>Wstaw tabelę przestawną</translation>
     </message>
     <message>
         <source>PTHide.content</source>
-        <translation></translation>
+        <translation>Umożliwia ukrycie pola Tabeli przestawnej na stronie, wierszu, obszarze kolumny lub elementach pól.</translation>
     </message>
     <message>
         <source>PrintNormalView.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyjście z podglądu wydruku, a następnie wejście do widoku normalnego.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.title</source>
-        <translation></translation>
+        <translation>Resetuj bieżący komentarz</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation></translation>
+        <translation>Kolor czcionki</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation></translation>
+        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.title</source>
-        <translation></translation>
+        <translation>Więcej funkcji</translation>
     </message>
     <message>
         <source>PrinterCollate.content</source>
-        <translation></translation>
+        <translation>Określ kolejność drukowania: z sortowaniem stron (np. 123123) lub bez sortowania (np. 112233).</translation>
     </message>
     <message>
         <source>NumberFormatCells.title</source>
-        <translation></translation>
+        <translation>Formatuj komórki: liczba</translation>
     </message>
     <message>
         <source>TextToColumns.title</source>
-        <translation></translation>
+        <translation>Tekst jako kolumny</translation>
     </message>
     <message>
         <source>Slicer.title</source>
-        <translation></translation>
+        <translation>Fragmentator</translation>
     </message>
     <message>
         <source>PagePreviewSwitch.content</source>
-        <translation></translation>
+        <translation>Wyświetl podgląd podziału arkusza po wydrukowaniu.</translation>
     </message>
     <message>
         <source>OnlineCooperation.content</source>
-        <translation></translation>
+        <translation>Otwórz dokument do wspólnej edycji.</translation>
     </message>
     <message>
         <source>PTHide.title</source>
-        <translation></translation>
+        <translation>Ukryj</translation>
     </message>
     <message>
         <source>Group.title</source>
-        <translation></translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>InteractiveChart.content</source>
-        <translation></translation>
+        <translation>Twórz efektowne i dynamiczne wykresy interaktywne zwiększające atrakcyjność prezentacji.</translation>
     </message>
     <message>
         <source>ShareWorkbook.title</source>
-        <translation></translation>
+        <translation>Udostępnij skoroszyt</translation>
     </message>
     <message>
         <source>PDFToPPT.content</source>
-        <translation></translation>
+        <translation>Konwertuj dokumenty na pliki PPT</translation>
     </message>
     <message>
         <source>ShowAllComments.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie wszystkich komentarzy w arkuszu.</translation>
     </message>
     <message>
         <source>LTRTextDirection.title</source>
-        <translation></translation>
+        <translation>Kierunek tekstu od lewej do prawej</translation>
     </message>
     <message>
         <source>RTLTextDirection.title</source>
-        <translation></translation>
+        <translation>Kierunek tekstu od prawej do lewej</translation>
     </message>
     <message>
         <source>AutoSum.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie sumy zaznaczonych komórek bezpośrednio po zaznaczeniu.</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia narzędzi do rysowania</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
-        <translation></translation>
+        <translation>Zablokuj proporcje</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation></translation>
+        <translation>The modified document is automatically saved for you to avoid loss of document content.</translation>
     </message>
     <message>
         <source>VerbSideBySide.title</source>
-        <translation></translation>
+        <translation>Resetuj położenie okna</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation></translation>
+        <translation>SendFileTip.content</translation>
     </message>
     <message>
         <source>PageZoom.content</source>
-        <translation></translation>
+        <translation>Umożliwia skalowanie szerokości lub wysokości wydruku w celu dopasowania do maksymalnej liczby stron lub do wartości procentowej rozmiaru rzeczywistego.</translation>
     </message>
     <message>
         <source>RowsAndColumn.title</source>
-        <translation></translation>
+        <translation>Wiersze i kolumny</translation>
     </message>
     <message>
         <source>CmpSideBySide.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie dwóch dokumentów obok siebie, aby można było porównać ich zawartość.</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie karty Wyrównanie w oknie dialogowym Formatowanie komórek.</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.title</source>
-        <translation></translation>
+        <translation>Convert To Win/Loss Sparkline</translation>
     </message>
     <message>
         <source>GrowFont.content</source>
-        <translation></translation>
+        <translation>Umożliwia zwiększenie rozmiaru czcionki.</translation>
     </message>
     <message>
         <source>Legend.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie legendy wykresu.</translation>
     </message>
     <message>
         <source>TextFill.title</source>
-        <translation></translation>
+        <translation>Kolor tekstu</translation>
     </message>
     <message>
         <source>RecordMacro.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Zarejestruj makro i rozpoczęcie nagrywania makra.</translation>
     </message>
     <message>
         <source>DoubleUnderline.content</source>
-        <translation></translation>
+        <translation>Zastosuj podwójne podkreślenie do zaznaczonego tekstu.</translation>
     </message>
     <message>
         <source>PTHideDetail.title</source>
-        <translation></translation>
+        <translation>Ukryj szczegóły</translation>
     </message>
     <message>
         <source>PivotTableAnalysis.content</source>
-        <translation></translation>
+        <translation>Klasyfikuj i sumuj dane z łatwością.</translation>
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie w dokumencie komentarza dotyczącego zaznaczenia.</translation>
     </message>
     <message>
         <source>FormatAsTable.title</source>
-        <translation></translation>
+        <translation>Formatuj jako tabelę</translation>
     </message>
     <message>
         <source>PTRepeatLabels.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie wszystkich etykiet elementu nadrzędnego.</translation>
     </message>
     <message>
         <source>NormalViewEt.title</source>
-        <translation></translation>
+        <translation>Widok normalny</translation>
     </message>
     <message>
         <source>ReadingLayout.title</source>
-        <translation></translation>
+        <translation>Układ do czytania</translation>
     </message>
     <message>
         <source>TaskWindow.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie okna zadań w arkuszu.</translation>
     </message>
     <message>
         <source>DrawGrid.content</source>
-        <translation></translation>
+        <translation>Aby narysować siatkę obramowań, kliknij tutaj i przeciągnij myszą, aby narysować.
+
+Naciśnij klawisz Esc na klawiaturze lub kliknij tutaj ponownie, aby wyjść z trybu rysowania.</translation>
     </message>
     <message>
         <source>ShowFormulas.content</source>
-        <translation></translation>
+        <translation>Wyświetl formułę w każdej komórce zamiast wartości wynikowej.</translation>
     </message>
     <message>
         <source>sp_ConditionHighlight.title</source>
-        <translation></translation>
+        <translation>Wyróżnienie warunkowe</translation>
     </message>
     <message>
         <source>OutlineSettings.title</source>
-        <translation></translation>
+        <translation>Ustawienia konspektu</translation>
     </message>
     <message>
         <source>StopRecordMacro.content</source>
-        <translation></translation>
+        <translation>Umożliwia zatrzymanie rejestrowania makra.</translation>
     </message>
     <message>
         <source>ClearFilter.title</source>
-        <translation></translation>
+        <translation>Pokaż wszystko</translation>
     </message>
     <message>
         <source>RecalculateBook.content</source>
-        <translation></translation>
+        <translation>Umożliwia obliczenie całego skoroszytu.
+
+Jest to konieczne tylko w przypadku wyłączenia obliczania automatycznego.</translation>
     </message>
     <message>
         <source>Refresh.title</source>
-        <translation></translation>
+        <translation>Odśwież dane</translation>
     </message>
     <message>
         <source>SparklineLowPoint.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline Low Points</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.content</source>
-        <translation></translation>
+        <translation>Change the selected sparkline group to a win/loss sparkline.</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation></translation>
+        <translation>Usuń komentarz</translation>
     </message>
     <message>
         <source>PrintTitle.title</source>
-        <translation></translation>
+        <translation>Tytuły wydruku</translation>
     </message>
     <message>
         <source>PrintArea.title</source>
-        <translation></translation>
+        <translation>Obszar wydruku</translation>
     </message>
     <message>
         <source>ConditionalFormatting.content</source>
-        <translation></translation>
+        <translation>Umożliwia łatwe przedstawienie trendów danych i wyróżnienie ważnych wartości przy użyciu pasków, kolorów i ikon.</translation>
     </message>
     <message>
         <source>TableMenuRefresh.content</source>
-        <translation></translation>
+        <translation>Umożliwia uzyskanie najnowszych danych ze źródła połączonego z aktywną komórką.</translation>
     </message>
     <message>
         <source>SlicerColumn.title</source>
-        <translation></translation>
+        <translation>Kolumny</translation>
     </message>
     <message>
         <source>What-If Analysis.content</source>
-        <translation></translation>
+        <translation>Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki celu, zmieniając wartości w komórkach użytych do obliczania wartości tej komórki.</translation>
     </message>
     <message>
         <source>LookupAndReference.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeglądanie i wybieranie pozycji z listy funkcji wyszukiwania i odwołań.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.title</source>
-        <translation></translation>
+        <translation>Kontur obrazu</translation>
     </message>
     <message>
         <source>Table.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie lub narysowanie tabeli w dokumencie i konwertowanie tekstu na tabelę lub odwrotnie.</translation>
     </message>
     <message>
         <source>CustomViews.title</source>
-        <translation></translation>
+        <translation>Widoki niestandardowe</translation>
     </message>
     <message>
         <source>Count.content</source>
-        <translation></translation>
+        <translation>Umożliwia zliczanie komórek w kolumnie, które zawierają liczby.</translation>
     </message>
     <message>
         <source>ShrinkFont.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmniejszenie rozmiaru czcionki.</translation>
     </message>
     <message>
         <source>TableName.content</source>
-        <translation></translation>
+        <translation>Umożliwia edytowanie nazwy tej tabeli, która jest używana przy odwoływaniu się do niej w formułach.</translation>
     </message>
     <message>
         <source>RB_Clipboard.title</source>
-        <translation></translation>
+        <translation>Schowek</translation>
     </message>
     <message>
         <source>Eraseborder.content</source>
-        <translation></translation>
+        <translation>Aby wymazać obramowanie, kliknij tutaj i przeciągnij myszą, aby wymazać.
+
+Naciśnij klawisz Esc na klawiaturze lub kliknij tutaj ponownie, aby wyjść z trybu wymazywania.</translation>
     </message>
     <message>
         <source>VAlignCenter.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do środka</translation>
     </message>
     <message>
         <source>Legend.title</source>
-        <translation></translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru tekstu.
+
+Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia wypełnienie zaznaczonego kształtu pełnym kolorem, gradientem, obrazem lub teksturą.
+
+Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>DataTable.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie tabeli danych do wykresu.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
-        <translation></translation>
+        <translation>Zrzut ekranu i OCR</translation>
     </message>
     <message>
         <source>MathAndTrig.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeglądanie i wybieranie pozycji z listy funkcji matematycznych i trygonometrycznych.</translation>
     </message>
     <message>
         <source>PTSortAndTopTen.title</source>
-        <translation></translation>
+        <translation>Sortuj</translation>
     </message>
     <message>
         <source>HideWindow.title</source>
-        <translation></translation>
+        <translation>Ukryj okno</translation>
     </message>
     <message>
         <source>ShowPrecedents.title</source>
-        <translation></translation>
+        <translation>Śledź poprzedniki.</translation>
     </message>
     <message>
         <source>Clear.content</source>
-        <translation></translation>
+        <translation>Umożliwia usunięcie całej zawartości komórki albo selektywne usunięcie formatowania, zawartości lub komentarzy.</translation>
     </message>
     <message>
         <source>BookProtection.content</source>
-        <translation></translation>
+        <translation>Umożliwia zapobieganie wprowadzaniu niepożądanych zmian w strukturze skoroszytu, takich jak przenoszenie, usuwanie lub dodawanie arkuszy.</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość PageLayoutDetailedSettings</translation>
     </message>
     <message>
         <source>ThickBottomBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>ClearArrows.title</source>
-        <translation></translation>
+        <translation>Wyczyść wszystkie strzałki</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie rozmiaru, stopni obrotu i powiększenia dla zaznaczonego kształtu.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.content</source>
-        <translation></translation>
+        <translation>Specific the color and weight of the sparklines in the selected sparkline group.</translation>
     </message>
     <message>
         <source>EnableMacro.title</source>
-        <translation></translation>
+        <translation>Włącz instrukcje makro</translation>
     </message>
     <message>
         <source>OutlineSettings.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Konspekt.</translation>
     </message>
     <message>
         <source>Direction.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie kierunku efektu zaznaczonego kształtu trójwymiarowego.</translation>
     </message>
     <message>
         <source>Printer.title</source>
-        <translation></translation>
+        <translation>Drukarka</translation>
     </message>
     <message>
         <source>HighlighDuplicates.content</source>
-        <translation></translation>
+        <translation>Click here to perform operations on duplicate items, such as highlight duplicate items, refuse to enter duplicate items, delete duplicate items, etc.</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.title</source>
-        <translation></translation>
+        <translation>Filtruj warunki ulubionych</translation>
     </message>
     <message>
         <source>PrintHeaderFooter.content</source>
-        <translation></translation>
+        <translation>Ustaw nagłówek i stopkę drukowane wraz z arkuszem.</translation>
     </message>
     <message>
         <source>PrintGridlines.title</source>
-        <translation></translation>
+        <translation>Drukuj linie siatki</translation>
     </message>
     <message>
         <source>SlicerCaption.title</source>
-        <translation></translation>
+        <translation>Podpis fragmentatora</translation>
     </message>
     <message>
         <source>PrintHeadings.content</source>
-        <translation></translation>
+        <translation>Umożliwia wydrukowanie nagłówków wierszy i kolumn.
+
+Nagłówkami wierszy są numery wierszy z boku arkusza.
+
+Nagłówkami kolumn są litery lub numery widoczne nad kolumnami w arkuszu.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation></translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>PageSize.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie rozmiaru papieru dla bieżącej sekcji.
+
+Aby zastosować określony rozmiar papieru do wszystkich sekcji w dokumencie, kliknij, aby dostosować rozmiar papieru.</translation>
     </message>
     <message>
         <source>Clear.title</source>
-        <translation></translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <source>DataUngroup2.title</source>
-        <translation></translation>
+        <translation>Rozgrupuj</translation>
     </message>
     <message>
         <source>ResetPicture.title</source>
-        <translation></translation>
+        <translation>Resetuj obraz</translation>
     </message>
     <message>
         <source>CircularReferences.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Odwołania cykliczne. Możesz wyszukać i zlokalizować wszystkie komórki, które zawierają odwołania cykliczne w skoroszycie.
+
+Kliknij dwukrotnie element na liście wyników, aby przełączyć odpowiednią komórkę.</translation>
     </message>
     <message>
         <source>CommaStyle.title</source>
-        <translation></translation>
+        <translation>Zapis dziesiętny</translation>
     </message>
     <message>
         <source>PrinterPaperSize.title</source>
-        <translation></translation>
+        <translation>Rozmiar papieru</translation>
     </message>
     <message>
         <source>PTTableOptions.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Opcje tabeli przestawnej.</translation>
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation></translation>
+        <translation>Zmniejsz poziom listy</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>Validation.content</source>
-        <translation></translation>
+        <translation>Umożliwia zapobieganie wprowadzaniu nieprawidłowych danych do komórki.
+
+Na przykład można odrzucać nieprawidłowe daty lub liczby większe niż 1000.
+
+Można także wymusić wybieranie wprowadzanych danych z listy rozwijanej zawierającej określone wartości.</translation>
     </message>
     <message>
         <source>PrinterCopies.title</source>
-        <translation></translation>
+        <translation>Kopie</translation>
     </message>
     <message>
         <source>EditCloumns.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie paska formuły, w którym można wprowadzać tekst i formuły do komórek.</translation>
     </message>
     <message>
         <source>DisplayHeadings.title</source>
-        <translation></translation>
+        <translation>Wyświetl nagłówki</translation>
     </message>
     <message>
         <source>PivotTableOrder.title</source>
-        <translation></translation>
+        <translation>Kolejność</translation>
     </message>
     <message>
         <source>BandedRows.content</source>
-        <translation></translation>
+        <translation>Umożliwia odmienne formatowanie wierszy parzystych i nieparzystych.
+
+Formatowanie naprzemienne zwiększa czytelność tabeli.</translation>
     </message>
     <message>
         <source>Recommended Chart.content</source>
-        <translation></translation>
+        <translation>Zastanawiasz się, jak wybrać wykres? Pozwól, że polecimy Ci odpowiedni na podstawie wybranych przez Ciebie danych.</translation>
     </message>
     <message>
         <source>PrevLandscape.title</source>
-        <translation></translation>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation></translation>
+        <translation>Eksportuj obraz Weibo</translation>
     </message>
     <message>
         <source>Duplicates.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyróżnienie, odrzucenie danych wejściowych lub usunięcie zduplikowanych wierszy arkusza.
+
+Można określić, w których kolumnach mają być wyszukiwane zduplikowane informacje.</translation>
     </message>
     <message>
         <source>VerticalText.content</source>
-        <translation></translation>
+        <translation>Umożliwia rysowanie tekstu w pionie przez ustawianie liter jedna na drugiej.</translation>
     </message>
     <message>
         <source>ChartObjects.title</source>
-        <translation></translation>
+        <translation>Obiekty wykresu</translation>
     </message>
     <message>
         <source>ContextTextDirection.title</source>
-        <translation></translation>
+        <translation>Kontekst</translation>
     </message>
     <message>
         <source>Recommended Chart.title</source>
-        <translation></translation>
+        <translation>Polecane wykresy</translation>
     </message>
     <message>
         <source>PTRefreshAllData.content</source>
-        <translation></translation>
+        <translation>Umożliwia pobranie najnowszych danych przez odświeżenie wszystkich źródeł w skoroszycie.</translation>
     </message>
     <message>
         <source>CmpSideBySide.title</source>
-        <translation></translation>
+        <translation>Wyświetl obok siebie</translation>
     </message>
     <message>
         <source>SortAscending.content</source>
-        <translation></translation>
+        <translation>Umożliwia posortowanie zaznaczenia w taki sposób, aby najmniejsze wartości znajdowały się u góry kolumny.</translation>
     </message>
     <message>
         <source>ShapeFillColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>DataDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość DataDetailedSettings</translation>
     </message>
     <message>
         <source>NameCreate.content</source>
-        <translation></translation>
+        <translation>Umożliwia automatyczne wygenerowanie nazw na podstawie zaznaczonych komórek.
+
+Najczęściej jest używany tekst z górnego wiersza lub kolumny po lewej stronie zaznaczenia.</translation>
     </message>
     <message>
         <source>SameLetterHeights.content</source>
-        <translation></translation>
+        <translation>Umożliwia nadanie wszystkim literom zaznaczonego tekstu WordArt dokładnie tej samej wysokości.</translation>
     </message>
     <message>
         <source>Logical.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeglądanie i wybieranie pozycji z listy funkcji logicznych.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>InsertDropDownList.content</source>
-        <translation></translation>
+        <translation>Utwórz listę rozwijaną i dostosuj opcje wyboru na tej liście.</translation>
     </message>
     <message>
         <source>ExportFilterResult.content</source>
-        <translation></translation>
+        <translation>Zapisz wyniki filtrowania jako nowy plik lub nowy arkusz.</translation>
     </message>
     <message>
         <source>PublishToSharePoint.title</source>
-        <translation></translation>
+        <translation>Eksportuj tabelę do listy programu SharePoint</translation>
     </message>
     <message>
         <source>CalculateSheet.title</source>
-        <translation></translation>
+        <translation>Oblicz arkusz</translation>
     </message>
     <message>
         <source>Refresh.content</source>
-        <translation></translation>
+        <translation>Umożliwia zaktualizowanie wszystkich informacji w skoroszycie, które pochodzą ze źródła danych.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation></translation>
+        <translation>Auto Save File</translation>
     </message>
     <message>
         <source>FormatChartObject.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Formatowanie obiektów wykresu. Możesz użyć szczegółowych ustawień dla opcji wykresu.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.content</source>
-        <translation></translation>
+        <translation>Highlight the negative values one the selected sparkline group with a different color or marker.</translation>
     </message>
     <message>
         <source>FillColor2.title</source>
-        <translation></translation>
+        <translation>Wypełnienie kształtu</translation>
     </message>
     <message>
         <source>AllowEditRanges.content</source>
-        <translation></translation>
+        <translation>Umożliwia określonym osobom edytowanie zakresów komórek w chronionym skoroszycie lub arkuszu.
+
+Przed użyciem tej funkcji należy ustawić zabezpieczenia arkusza przy użyciu polecenia Chroń arkusz.</translation>
     </message>
     <message>
         <source>NamePaste.title</source>
-        <translation></translation>
+        <translation>Wklej nazwę</translation>
     </message>
     <message>
         <source>ImportData.content</source>
-        <translation></translation>
+        <translation>Umożliwia importowanie danych zewnętrznych do wybranego arkusza.</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wstawić tekst poziomy lub pionowy.</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.title</source>
-        <translation></translation>
+        <translation>Insert Data</translation>
     </message>
     <message>
         <source>PTFieldSettings.title</source>
-        <translation></translation>
+        <translation>Ustawienia pola</translation>
     </message>
     <message>
         <source>RowsAndColumn.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby dopasować wiersze i kolumny. Możesz dopasować wysokość i szerokość, zmienić wypełnienie lub ukryć wiersze oraz kolumny.</translation>
     </message>
     <message>
         <source>PivotChartAnalysis.content</source>
-        <translation></translation>
+        <translation>Klasyfikuj i sumuj dane oraz twórz wykresy z wynikami.</translation>
     </message>
     <message>
         <source>RefreshAll.content</source>
-        <translation></translation>
+        <translation>Umożliwia zaktualizowanie wszystkich informacji w skoroszycie, które pochodzą ze źródła danych.</translation>
     </message>
     <message>
         <source>SpellCheck.content</source>
-        <translation></translation>
+        <translation>Umożliwia sprawdzenie pisownii tekstu w bieżącym arkuszu.</translation>
     </message>
     <message>
         <source>SplitSheet.content</source>
-        <translation></translation>
+        <translation>Podziel bieżącą tabelę na kilka plików lub arkuszy zgodnie z jej zawartością.</translation>
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation></translation>
+        <translation>Wyrównaj do prawej</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.content</source>
-        <translation></translation>
+        <translation>Wybierz wiersz lub jego pierwszą komórkę, powyżej zostanie wstawiony poziomy podział strony.
+Wybierz kolumnę lub jej pierwszą komórkę, po lewej stronie zostanie wstawiony pionowy podział strony.
+Wybierz komórkę pośrodku dowolnego wiersza/kolumny, zostaną wstawione dwa podziały strony: jeden na górze, a drugi po lewej stronie.
+W podglądzie podziału strony możesz przeciągać podziały stron w celu dostosowania.</translation>
     </message>
     <message>
         <source>DeleteRange2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby usunąć komórki, wiersze lub cały arkusz.</translation>
     </message>
     <message>
         <source>ChineseTranslation.title</source>
-        <translation></translation>
+        <translation>Tłumaczenie uproszczony chiński/tradycyjny chiński</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation></translation>
+        <translation>Umożliwia zwiększenie poziomu wcięcia akapitu.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmniejszenie poziomu wcięcia akapitu.</translation>
     </message>
     <message>
         <source>SortDescending.content</source>
-        <translation></translation>
+        <translation>Umożliwia posortowanie zaznaczenia w taki sposób, aby największe wartości znajdowały się u góry kolumny.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
-        <translation></translation>
+        <translation>PDF na EXCEL</translation>
     </message>
     <message>
         <source>ProtectAndShare.title</source>
-        <translation></translation>
+        <translation>Chroń i udostępnij skoroszyt</translation>
     </message>
     <message>
         <source>FreezePanes.content</source>
-        <translation></translation>
+        <translation>Umożliwia utrzymanie części arkusza w polu widzenia podczas przewijania reszty arkusza. (Możesz anulować blokadę, aby przewijać cały arkusz).</translation>
     </message>
     <message>
         <source>SourceData.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę zakresu danych zawartych w wykresie.</translation>
     </message>
     <message>
         <source>HeaderRow.content</source>
-        <translation></translation>
+        <translation>Umożliwia włączenie lub wyłączenie wiersza nagłówka tabeli.
+
+Wiersz nagłówka służy do specjalnego formatowania górnego wiersza tabeli.</translation>
     </message>
     <message>
         <source>TextToColumns.content</source>
-        <translation></translation>
+        <translation>Umożliwia podzielenie zawartości jednej komórki programu Spreadsheets na osobne kolumny.
+
+Na przykład można podzielić kolumnę zawierającą imiona i nazwiska na osobne kolumny z imionami i nazwiskami.
+
+W programie Writer funkcja ta umożliwia przekonwertowanie zaznaczonego tekstu na tabelę, z podziałem tekstu na kolumny przy każdym przecinku, kropce lub innym znaku określonym przez użytkownika.</translation>
     </message>
     <message>
         <source>ChineseTranslation.content</source>
-        <translation></translation>
+        <translation>Umożliwia zdecydowanie się na jednostkę tłumaczeniową między chińskim uproszczonym, a tradycyjnym, którą może być znak lub wyraz.</translation>
     </message>
     <message>
         <source>AllBorders.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>m_Format.title</source>
-        <translation></translation>
+        <translation>Formatuj</translation>
     </message>
     <message>
         <source>MergeSheet.content</source>
-        <translation></translation>
+        <translation>Scal wiele arkuszy w jeden.</translation>
     </message>
     <message>
         <source>Morefunctions.title</source>
-        <translation></translation>
+        <translation>Więcej funkcji</translation>
     </message>
     <message>
         <source>FreezePanes.title</source>
-        <translation></translation>
+        <translation>Zablokuj/Odblokuj okienka</translation>
     </message>
     <message>
         <source>PublishToSharePoint.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyeksportowanie danych z tej tabeli do listy programu SharePoint lub diagramu programu Visio.</translation>
     </message>
     <message>
         <source>PrevPortrait.title</source>
-        <translation></translation>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>NewWindow.title</source>
-        <translation></translation>
+        <translation>Nowe okno</translation>
     </message>
     <message>
         <source>ImportData.title</source>
-        <translation></translation>
+        <translation>Importuj dane</translation>
     </message>
     <message>
         <source>SplitPanes.title</source>
-        <translation></translation>
+        <translation>Podziel/Cofnij podział</translation>
     </message>
     <message>
         <source>RelativeReference.content</source>
-        <translation></translation>
+        <translation>Umożliwia użycie odwołań względnych, aby makra były rejestrowane z akcjami względem komórki zaznaczonej na początku.</translation>
     </message>
     <message>
         <source>FormsToolbox.title</source>
-        <translation></translation>
+        <translation>Insert form</translation>
     </message>
     <message>
         <source>Security.content</source>
-        <translation></translation>
+        <translation>Umożliwia dostosowywanie ustawień bezpieczeństwa makr.</translation>
     </message>
     <message>
         <source>PivotChart.content</source>
-        <translation></translation>
+        <translation>Używaj wykresów przestawnych do graficznego podsumowywania i eksplorowania skomplikowanych danych.</translation>
     </message>
     <message>
         <source>RecenttlyUsed.title</source>
-        <translation></translation>
+        <translation>Niedawno używane</translation>
     </message>
     <message>
         <source>Average.content</source>
-        <translation></translation>
+        <translation>Zwraca wartość średnią (średnią arytmetyczną) podanych argumentów.</translation>
     </message>
     <message>
         <source>FlashFill.content</source>
-        <translation></translation>
+        <translation>Przeanalizuj relację między wynikami a oryginalnymi danymi, a następnie inteligentnie wypełnij inne komórki w tej samej kolumnie.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.content</source>
-        <translation></translation>
+        <translation>Change the selected sparkline group to a column sparkline.</translation>
     </message>
     <message>
         <source>AutoFilter.content</source>
-        <translation></translation>
+        <translation>Umożliwia włączenie filtrowania zaznaczonych komórek.
+
+Po włączeniu filtrowania należy kliknąć strzałkę w nagłówku kolumny, aby wybrać dla niej filtr.</translation>
     </message>
     <message>
         <source>ShowDetail.title</source>
-        <translation></translation>
+        <translation>Pokaż szczegóły</translation>
     </message>
     <message>
         <source>TextFill2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>DoubleUnderline.title</source>
-        <translation></translation>
+        <translation>Podwójne podkreślenie</translation>
     </message>
     <message>
         <source>UnhideWindow.content</source>
-        <translation></translation>
+        <translation>Odkryj wszystkie okna ukryte za pomocą funkcji Ukryj okno.</translation>
     </message>
     <message>
         <source>HideWindow.content</source>
-        <translation></translation>
+        <translation>Ukryj bieżące okno.
+
+Aby przywrócić okno, kliknij przycisk Odkryj.</translation>
     </message>
     <message>
         <source>EvaluateFormula.title</source>
-        <translation></translation>
+        <translation>Szacuj formułę</translation>
     </message>
     <message>
         <source>SlicerItemHeight.content</source>
-        <translation></translation>
+        <translation>Zmień wysokość przycisków fragmentatora.</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
-        <translation></translation>
+        <translation>Zmniejsz czcionkę</translation>
     </message>
     <message>
         <source>Count.title</source>
-        <translation></translation>
+        <translation>Zliczanie</translation>
     </message>
     <message>
         <source>ReadingLayout.content</source>
-        <translation></translation>
+        <translation>Umożliwia wygodne sprawdzenie pokrewnych danych, które są w tym samym wierszu lub kolumnie z bieżącą komórką.
+
+Kliknij strzałkę, aby wybrać inny kolor.</translation>
     </message>
     <message>
         <source>Chart.title</source>
-        <translation></translation>
+        <translation>Utwórz wykres</translation>
     </message>
     <message>
         <source>What-If Analysis.title</source>
-        <translation></translation>
+        <translation>Analiza warunkowa</translation>
     </message>
     <message>
         <source>WinLossSparkline.content</source>
-        <translation></translation>
+        <translation>Sparklines are mini charts placed in single cells, each representing a row of data in your selection.</translation>
     </message>
     <message>
         <source>MergeColumns.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie i scalanie wszystkich komórek w jedym lub wielu wierszach.</translation>
     </message>
     <message>
         <source>GraphicLineColor.title</source>
-        <translation></translation>
+        <translation>Kontur obrazu</translation>
     </message>
     <message>
         <source>ShowOrHideComment.title</source>
-        <translation></translation>
+        <translation>Pokaż/Ukryj komentarz</translation>
     </message>
     <message>
         <source>ThickBoxBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>PrintLayout.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie skoroszytu tak, jak będzie wyglądał na drukowanej stronie.</translation>
     </message>
     <message>
         <source>PrinterCollate.title</source>
-        <translation></translation>
+        <translation>Kolejka wydruku</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
-        <translation></translation>
+        <translation>Wyrównaj akapit zarówno do lewego, jak i prawego marginesu, dodając dodatkowe odstępy między każdymi dwoma znakami dla języków ze znakiem tonu i samogłoski.
+
+Spowoduje to utworzenie dokumentu o przejrzystym wyglądzie.</translation>
     </message>
     <message>
         <source>PivotTableOrder.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeniesienie obszaru wiersza lub kolumny Tabeli przestawnej w górę lub dół.</translation>
     </message>
     <message>
         <source>Scientific.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie formatu liczby w notacji naukowej, z 2 miejscami dziesiętnymi.</translation>
     </message>
     <message>
         <source>InteractiveChart.title</source>
-        <translation></translation>
+        <translation>Wstaw wykres interaktywny</translation>
     </message>
     <message>
         <source>FuncCatDateAndTime.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeglądanie i wybieranie pozycji z listy funkcji daty i godziny.</translation>
     </message>
     <message>
         <source>UnhideWindow.title</source>
-        <translation></translation>
+        <translation>Odkryj okno</translation>
     </message>
     <message>
         <source>ShapeLineColor2.title</source>
-        <translation></translation>
+        <translation>Kontur kształtu</translation>
     </message>
     <message>
         <source>SparklineClear.title</source>
-        <translation></translation>
+        <translation>Clear Selected Sparklines</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
-        <translation></translation>
+        <translation>Wypełnienie i kontur kształtu</translation>
     </message>
     <message>
         <source>ComAddin.title</source>
-        <translation></translation>
+        <translation>Dodatki COM</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation></translation>
+        <translation>Umożliwia edytowanie nagłówka i stopki dokumentu.</translation>
     </message>
     <message>
         <source>SeriesInRows.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie serii wykresu w wierszach.</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation></translation>
+        <translation>Znajdź</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
-        <translation></translation>
+        <translation>Nagłówek i stopka</translation>
     </message>
     <message>
         <source>SortDescending.title</source>
-        <translation></translation>
+        <translation>Malejąco</translation>
     </message>
     <message>
         <source>ConditionalFormat.title</source>
-        <translation></translation>
+        <translation>Formatowanie warunkowe</translation>
     </message>
     <message>
         <source>PivotTable.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby podsumować dane za pomocą tabeli przestawnej.
+
+Tabele przestawne ułatwiają rozmieszczanie i podsumowywanie skomplikowanych danych oraz przechodzenie do szczegółów.</translation>
     </message>
     <message>
         <source>ShowFormulas.title</source>
-        <translation></translation>
+        <translation>Pokaż formuły</translation>
     </message>
     <message>
         <source>EnableMacro.content</source>
-        <translation></translation>
+        <translation>Aby włączyć funkcje makro, zainstaluj bibliotekę obsługi VBA. Kliknij, aby zapoznać się ze szczegółami.</translation>
     </message>
     <message>
         <source>FTB_Property.title</source>
-        <translation></translation>
+        <translation>Właściwości formantu</translation>
     </message>
     <message>
         <source>Lighting.title</source>
-        <translation></translation>
+        <translation>Oświetlenie</translation>
     </message>
     <message>
         <source>DataDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia danych</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation></translation>
+        <translation>Mark the background area and quickly and intelligently remove the background of the picture</translation>
     </message>
     <message>
         <source>SparkAxis.content</source>
-        <translation></translation>
+        <translation>Change the scaling and visibility of each sparkline axis for the selected sparkline group.</translation>
     </message>
     <message>
         <source>RefreshAll.title</source>
-        <translation></translation>
+        <translation>Odśwież wszystko</translation>
     </message>
     <message>
         <source>ExistingConnections.title</source>
-        <translation></translation>
+        <translation>Pobierz dane przy użyciu istniejącego połączenia</translation>
     </message>
     <message>
         <source>SplitSheet.title</source>
-        <translation></translation>
+        <translation>Podziel tabelę</translation>
     </message>
     <message>
         <source>FlashFill.title</source>
-        <translation></translation>
+        <translation>Wypełnianie błyskawiczne</translation>
     </message>
     <message>
         <source>LoadMacro.title</source>
-        <translation></translation>
+        <translation>Dodatki</translation>
     </message>
     <message>
         <source>ContextTextDirection.content</source>
-        <translation></translation>
+        <translation>Allow WPS Spreedsheets to choose the paragraph direction based on the lanuage that is being typed.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
-        <translation></translation>
+        <translation>Zrzut ekranu i wyodrębnienie tekstu jednym kliknięciem.</translation>
     </message>
     <message>
         <source>Margins.title</source>
-        <translation></translation>
+        <translation>Marginesy</translation>
     </message>
     <message>
         <source>ThickBoxBorder.title</source>
-        <translation></translation>
+        <translation>Gruba krawędź pola</translation>
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation></translation>
+        <translation>Galeria WPS</translation>
     </message>
     <message>
         <source>LockCell.content</source>
-        <translation></translation>
+        <translation>Jeśli arkusz jest chroniony, funkcja Zablokuj komórkę może chronić dane przed modyfikacją.</translation>
     </message>
     <message>
         <source>NumberFormatGallery.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie formatu liczby, np. Procenty, Waluta, Data lub godzina.</translation>
     </message>
     <message>
         <source>PTSortAndTopTen.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie opcji automatycznego sortowania pola Tabeli przestawnej.</translation>
     </message>
     <message>
         <source>DoubleAccounting.title</source>
-        <translation></translation>
+        <translation>Księgowe podwójne</translation>
     </message>
     <message>
         <source>SortAndFilter.title</source>
-        <translation></translation>
+        <translation>Sortuj</translation>
     </message>
     <message>
         <source>SeriesInColumns.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie serii wykresu w kolumnach.</translation>
     </message>
     <message>
         <source>Table.title</source>
-        <translation></translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość DrawingToolsDetailedSettings</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.title</source>
-        <translation></translation>
+        <translation>Edit Group Location &amp; Data</translation>
     </message>
     <message>
         <source>PTFilterConnections.content</source>
-        <translation></translation>
+        <translation>Zarządzaj filtrami, do których jest podłączona tabela przestawna.</translation>
     </message>
     <message>
         <source>Lighting.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie kierunku i intensywności oświetlenia dla wybranego kształtu trójwymiarowego. Ostatnia opcja zawiera jasne, normalne i przygaszone.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.title</source>
-        <translation></translation>
+        <translation>Wstaw obrazy</translation>
     </message>
     <message>
         <source>PTFilterConnections.title</source>
-        <translation></translation>
+        <translation>Połączenia filtrów</translation>
     </message>
     <message>
         <source>CellStyleGallery.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybieranie wstępnie zdefiniowanego stylu lub szybkie ustawienie typów komórek. Można również dostosować style.</translation>
     </message>
     <message>
         <source>SeriesInRows.title</source>
-        <translation></translation>
+        <translation>Przełącz wiersz</translation>
     </message>
     <message>
         <source>FTB_Property.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie wybranych właściwości obiektu formularza, takich jak czcionka i rozmiar.</translation>
     </message>
     <message>
         <source>PageOrientation.content</source>
-        <translation></translation>
+        <translation>Umożliwia przełączanie się między pionowym i poziomym układem strony.</translation>
     </message>
     <message>
         <source>RightBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>PTNotRepeatLabels.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie tylko jednej ze zduplikowanych etykiet elementu nadrzędnego.</translation>
     </message>
     <message>
         <source>TextOrientation.content</source>
-        <translation></translation>
+        <translation>Umożliwia obracanie tekstu do orientacji ukośnej lub pionowej.
+
+Jest to często używane do tworzenia etykiet wąskich kolumn.
+
+Kliknij ponownie aktualnie wybraną orientację tekstu, aby zresetować tekst z powrotem do normalnej orientacji.</translation>
     </message>
     <message>
         <source>VAlignTop.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do góry komórki.</translation>
     </message>
     <message>
         <source>TranslateToSimplifiedChinese.content</source>
-        <translation></translation>
+        <translation>Umożliwia przetłumaczenie tradycyjnego chińskiego na uproszczony chiński.</translation>
     </message>
     <message>
         <source>PageBreakPreview.title</source>
-        <translation></translation>
+        <translation>Podgląd podziału stron</translation>
     </message>
     <message>
         <source>FillColor.title</source>
-        <translation></translation>
+        <translation>Wypełnienie kształtu</translation>
     </message>
     <message>
         <source>AdvancedFilter.title</source>
-        <translation></translation>
+        <translation>Filtr zaawansowany</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwersję obrazu na format tekstu.</translation>
     </message>
     <message>
         <source>FormulaErrorCheck.title</source>
-        <translation></translation>
+        <translation>Sprawdzanie błędów</translation>
     </message>
     <message>
         <source>CommaStyle.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie wartości komórki przy użyciu separatora tysięcy.</translation>
     </message>
     <message>
         <source>LockSideBySide.content</source>
-        <translation></translation>
+        <translation>Umożliwia zsynchronizowanie przewijania dwóch dokumentów, tak aby były przewijane razem.
+
+Aby włączyć tę funkcję, włącz opcję Wyświetl obok siebie.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline Negative Points</translation>
     </message>
     <message>
         <source>NameManager.title</source>
-        <translation></translation>
+        <translation>Menedżer nazw</translation>
     </message>
     <message>
         <source>RunMacro2.title</source>
-        <translation></translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message>
         <source>ChartObjects.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie elementu wykresu w celu jego sformatowania.</translation>
     </message>
     <message>
         <source>RecentLineWrap.title</source>
-        <translation></translation>
+        <translation>Zawijaj tekst</translation>
     </message>
     <message>
         <source>AutoSum.title</source>
-        <translation></translation>
+        <translation>Autosumowanie</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation></translation>
+        <translation>Auto save turned on</translation>
     </message>
     <message>
         <source>EDRProperties.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę nazw zewnętrznego źródła danych, formatu liczb i układu.</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania kształtu.</translation>
     </message>
     <message>
         <source>sp_AutoSum.title</source>
-        <translation></translation>
+        <translation>Autosumowanie</translation>
     </message>
     <message>
         <source>AutoFilter.title</source>
-        <translation></translation>
+        <translation>Autofiltr</translation>
     </message>
     <message>
         <source>DataGroup.content</source>
-        <translation></translation>
+        <translation>Umożliwia powiązanie zakresu komórek w celu ich zwijania i rozwijania.</translation>
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation></translation>
+        <translation>Odchudzanie pliku</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
-        <translation></translation>
+        <translation>Rozdziel komórki</translation>
     </message>
     <message>
         <source>PTNotRepeatLabels.title</source>
-        <translation></translation>
+        <translation>Nie powtarzaj etykiet elementów</translation>
     </message>
     <message>
         <source>Duplicates.title</source>
-        <translation></translation>
+        <translation>Duplikaty</translation>
     </message>
     <message>
         <source>ResizeTable.title</source>
-        <translation></translation>
+        <translation>Zmień rozmiar tabeli</translation>
     </message>
     <message>
         <source>sp_AutoSum2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby po zaznaczonych komórkach wyświetlić wynik prostego obliczenia, takiego jak średnia lub wartość maksymalna.</translation>
     </message>
     <message>
         <source>PercentStyle.title</source>
-        <translation></translation>
+        <translation>Zapis procentowy</translation>
     </message>
     <message>
         <source>CellStyleGallery.title</source>
-        <translation></translation>
+        <translation>Style komórki</translation>
     </message>
     <message>
         <source>BandedColumns.title</source>
-        <translation></translation>
+        <translation>Kolumny naprzemienne</translation>
     </message>
     <message>
         <source>Camera.title</source>
-        <translation></translation>
+        <translation>Kamera</translation>
     </message>
     <message>
         <source>Currency.title</source>
-        <translation></translation>
+        <translation>Walutowy</translation>
     </message>
     <message>
         <source>FormatChartObject.title</source>
-        <translation></translation>
+        <translation>Formatuj zaznaczenie</translation>
     </message>
     <message>
         <source>sp_AutoSum.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie sumy zaznaczonych komórek bezpośrednio po zaznaczeniu.</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation></translation>
+        <translation>Podziel lub scal</translation>
     </message>
     <message>
         <source>NoBorder.title</source>
-        <translation></translation>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie obiektu osadzonego do dokumentu.
+
+Kliknij strzałkę, aby wstawić zawartość pliku do dokumentu.</translation>
     </message>
     <message>
         <source>VAlignBottom.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do dołu komórki.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation></translation>
+        <translation>Umożliwia grupowanie obiektów, tak aby mogły być traktowane jak jeden obiekt.</translation>
     </message>
     <message>
         <source>SeriesInColumns.title</source>
-        <translation></translation>
+        <translation>Przełącz kolumnę</translation>
     </message>
     <message>
         <source>NameDefine.content</source>
-        <translation></translation>
+        <translation>Umożliwia nadanie komórkom nazwy, za pomocą której będzie można odwoływać się do nich w formułach.
+
+Na przykład, zaznacz komórki od A1 do A10 i nazwij ten zakres komórek jako &quot;test&quot;. 
+
+Nazwy służą do ułatwienia zrozumienia formuł.</translation>
     </message>
     <message>
         <source>PTRepeatLabels.title</source>
-        <translation></translation>
+        <translation>Powtórz wszystkie etykiety elementów</translation>
     </message>
     <message>
         <source>HideDetail.title</source>
-        <translation></translation>
+        <translation>Ukryj szczegóły</translation>
     </message>
     <message>
         <source>PrinterPaperSize.content</source>
-        <translation></translation>
+        <translation>Wybierz rozmiar papieru do wydruku, na przykład A3, A4 itd.</translation>
     </message>
     <message>
         <source>RecordList.content</source>
-        <translation></translation>
+        <translation>Umożliwia po wybraniu tytułu kolumny wprowadzić, wyszukać lub usunąć dane za pośrednictwem formularza danych.</translation>
     </message>
     <message>
         <source>OnlineCooperation.title</source>
-        <translation></translation>
+        <translation>Współpraca</translation>
     </message>
     <message>
         <source>InsertObject.title</source>
-        <translation></translation>
+        <translation>Wstaw obiekt</translation>
     </message>
     <message>
         <source>DataGroup.title</source>
-        <translation></translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>DisplayGridlines.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie linii między wierszami i kolumnami arkusza w celu ułatwienia edycji i czytania.
+
+Te linie będą drukowane tylko po zaznaczeniu pola wyboru Drukuj.</translation>
     </message>
     <message>
         <source>OutsideBorders.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>TranslateToTraditionalChinese.content</source>
-        <translation></translation>
+        <translation>Umożliwia przetłumaczenie uproszczonego chińskiego na tradycyjny chiński.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Galeria WordArt, aby wybrać styl WordArt i edytować zawartość.</translation>
     </message>
     <message>
         <source>MergeColumns.title</source>
-        <translation></translation>
+        <translation>Scal wszystkie</translation>
     </message>
     <message>
         <source>ModifyPivotTable.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmienianie źródła danych tabeli przestawnej i zresetowanie jej położenia wyświetlania.</translation>
     </message>
     <message>
         <source>FormulaErrorCheck.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyszukanie typowych błędów występujących w razie używania formuł.</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby zatrzymać czytanie.</translation>
     </message>
     <message>
         <source>SparklineLowPoint.content</source>
-        <translation></translation>
+        <translation>Highlight the lowest points of data in the selected sparkline group.</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.title</source>
-        <translation></translation>
+        <translation>Zarządzaj duplikatami</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia strony głównej</translation>
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie elementów w Schowku.</translation>
     </message>
     <message>
         <source>HighlightDisplay.content</source>
-        <translation></translation>
+        <translation>Zaznacz podobne wpisy, aby łatwiej je porównać.</translation>
     </message>
     <message>
         <source>PageLayoutView.title</source>
-        <translation></translation>
+        <translation>Widok układu strony</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
-        <translation></translation>
+        <translation>Przetłumacz obraz</translation>
     </message>
     <message>
         <source>LastColumn.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie specjalnego formatowania dla ostatniej kolumny tabeli.</translation>
     </message>
     <message>
         <source>PageOrientation.title</source>
-        <translation></translation>
+        <translation>Orientacja strony</translation>
     </message>
     <message>
         <source>PageBreakPreview.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie podglądu podziałów stron stosowanych podczas drukowania tego skoroszytu.</translation>
     </message>
     <message>
         <source>FontFormatCells.title</source>
-        <translation></translation>
+        <translation>Ustawienia czcionek</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.content</source>
-        <translation></translation>
+        <translation>Filtruj tabelę w jednym kroku, klikając warunek w ulubionych. Koniec problemów z ustawieniami warunków.</translation>
     </message>
     <message>
         <source>ShapeLineColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru, szerokości i stylu linii dla konturu zaznaczonego obiektu.
+
+Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translation>
     </message>
     <message>
         <source>VAlignBottom.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do dołu</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation></translation>
+        <translation>1. Wypełnienie kształtu
+Wypełnij wybrane obiekty kolorami, gradientami, teksturami i obrazami.
+2. Kontur kształtu
+Skonfiguruj kolory, wagi i kreski dla wybranych obiektów.
+Aby uzyskać szczegółowe informacje o konfiguracji, kliknij strzałki.</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do prawej</translation>
     </message>
     <message>
         <source>SparklineClear.content</source>
-        <translation></translation>
+        <translation>Clear the selected sparklines.</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation></translation>
+        <translation>Umożliwia zatrzymanie automatycznego tworzenia kopii zapasowej bieżącego dokumentu.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.content</source>
-        <translation></translation>
+        <translation>Porównaj dane i wyróżnij lub pobierz zduplikowane i unikatowe wartości.</translation>
     </message>
     <message>
         <source>PivotTableDelete.title</source>
-        <translation></translation>
+        <translation>Usuń tabelę przestawną</translation>
     </message>
     <message>
         <source>AddFavorite.content</source>
-        <translation></translation>
+        <translation>Dodaj bieżące warunki filtrowania do ulubionych, aby móc użyć ich bezpośrednio następnym razem.</translation>
     </message>
     <message>
         <source>PageZoom.title</source>
-        <translation></translation>
+        <translation>Powiększenie strony</translation>
     </message>
     <message>
         <source>ShowDependents.content</source>
-        <translation></translation>
+        <translation>Pokaż strzałki wskazujące, na które komórki ma wpływ wartość aktualnie wybranej komórki.</translation>
     </message>
     <message>
         <source>TopAndBottomBorder.title</source>
-        <translation></translation>
+        <translation>Krawędź górna i dolna</translation>
     </message>
     <message>
         <source>BottomDoubleBorder.title</source>
-        <translation></translation>
+        <translation>Podwójna krawędź dolna</translation>
     </message>
     <message>
         <source>Accounting.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie alternatywnego formatu księgowego dla zaznaczonej komórki i zezwolenie symbolowi waluty na wyrównanie do lewej.</translation>
     </message>
     <message>
         <source>DataUngroup2.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozgrupowanie uprzednio zgrupowanego zakresu komórek.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość HomeDetailedSettings</translation>
     </message>
     <message>
         <source>FirstColumn.title</source>
-        <translation></translation>
+        <translation>Pierwsza kolumna</translation>
     </message>
     <message>
         <source>sp_AutoSum2.title</source>
-        <translation></translation>
+        <translation>Autosumowanie</translation>
     </message>
     <message>
         <source>MergeCenter2.title</source>
-        <translation></translation>
+        <translation>Scal i wyśrodkuj</translation>
     </message>
     <message>
         <source>RotateRight.content</source>
-        <translation></translation>
+        <translation>Umożliwia obrócenie lub przerzucenie zaznaczonego obiektu.</translation>
     </message>
     <message>
         <source>InsertRange2.title</source>
-        <translation></translation>
+        <translation>Wstaw komórki</translation>
     </message>
     <message>
         <source>Direction.title</source>
-        <translation></translation>
+        <translation>Kierunek</translation>
     </message>
     <message>
         <source>FTB_EditCode.title</source>
-        <translation></translation>
+        <translation>Edytuj kod programu</translation>
     </message>
     <message>
         <source>SheetBackground.content</source>
-        <translation></translation>
+        <translation>Wybierz zdjęcie w tle i personalizuj swój arkusz roboczy.</translation>
     </message>
     <message>
         <source>SlicerItemWidth.content</source>
-        <translation></translation>
+        <translation>Zmień szerokość przycisków fragmentatora.</translation>
     </message>
     <message>
         <source>LastColumn.title</source>
-        <translation></translation>
+        <translation>Ostatnia kolumna</translation>
     </message>
     <message>
         <source>TopAndThickBottomBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>InsertSlicer.title</source>
-        <translation></translation>
+        <translation>Wstaw fragmentator</translation>
     </message>
     <message>
         <source>Scientific.title</source>
-        <translation></translation>
+        <translation>Styl naukowy</translation>
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnej strony w prezentacji.</translation>
     </message>
     <message>
         <source>InsertPageBreak.title</source>
-        <translation></translation>
+        <translation>Podział strony</translation>
     </message>
     <message>
         <source>Min.content</source>
-        <translation></translation>
+        <translation>Zwraca najmniejszą wartość ze zbioru wartości.</translation>
     </message>
     <message>
         <source>Max.content</source>
-        <translation></translation>
+        <translation>Zwraca największą wartość ze zbioru wartości.</translation>
     </message>
     <message>
         <source>RTLTextDirection.content</source>
-        <translation></translation>
+        <translation>Ustaw kierunek czytania tekstu od prawej do lewej.</translation>
     </message>
     <message>
         <source>Printer.content</source>
-        <translation></translation>
+        <translation>Wybierz drukarkę.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozpoczęcie następnej strony w bieżącym położeniu kursora, a zawartość za kursorem zostanie przeniesiona do nowej strony.</translation>
     </message>
     <message>
         <source>PrintTitle.content</source>
-        <translation></translation>
+        <translation>Umożliwia określanie wierszy i kolumn, które będą powtarzane na każdej drukowanej stronie.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation></translation>
+        <translation>Zablokuj proporcje</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
-        <translation></translation>
+        <translation>Śledź zmiany</translation>
     </message>
     <message>
         <source>SparklineMarkers.content</source>
-        <translation></translation>
+        <translation>Highlight each point in each line sparkline in the selected sparkline group.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.content</source>
-        <translation></translation>
+        <translation>Zarządzaj fragmentatorami, do których jest podłączona tabela przestawna.</translation>
     </message>
     <message>
         <source>ShapeLineColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie stopnia powiększenia bieżącego dokumentu.</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation></translation>
+        <translation>Umożliwia otwarcie nowego okna z widokiem bieżącego dokumentu.</translation>
     </message>
     <message>
         <source>PrinterSide.content</source>
-        <translation></translation>
+        <translation>Wybierz drukowanie jednostronne lub dwustronne.</translation>
     </message>
     <message>
         <source>TrackChanges.content</source>
-        <translation></translation>
+        <translation>Umożliwia śledzenie wszystkich zmian wprowadzanych w dokumencie, w tym wstawień, usunięć i zmian formatowania.</translation>
     </message>
     <message>
         <source>BottomBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>SameLetterHeights.title</source>
-        <translation></translation>
+        <translation>Jednakowa wysokość liter tekstu WordArt</translation>
     </message>
     <message>
         <source>LTRTextDirection.content</source>
-        <translation></translation>
+        <translation>Ustaw kierunek czytania tekstu od lewej do prawej.</translation>
     </message>
     <message>
         <source>ExitPreview.content</source>
-        <translation></translation>
+        <translation>Umożliwia zakończenie Podglądu wydruku i powrócenie do trybu edycji dokumentu.</translation>
     </message>
     <message>
         <source>TaskWindow.title</source>
-        <translation></translation>
+        <translation>Okno zadań</translation>
     </message>
     <message>
         <source>FTB_EditCode.content</source>
-        <translation></translation>
+        <translation>Umożliwia uruchomienie edytora visual basic do edycji kodu wybranego formularza.</translation>
     </message>
     <message>
         <source>PrintPreviewMargins.title</source>
-        <translation></translation>
+        <translation>Marginesy</translation>
     </message>
     <message>
         <source>ConditionalFormat.content</source>
-        <translation></translation>
+        <translation>Umożliwia wizualnie zbadać i analizować dane, wykrywać problemy krytyczne oraz identyfikować wzorce i trendy.</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation></translation>
+        <translation>Kolor wypełnienia</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.title</source>
-        <translation></translation>
+        <translation>Resetuj wszystkie komentarze bieżącego arkusza</translation>
     </message>
     <message>
         <source>ColumnsCenter.title</source>
-        <translation></translation>
+        <translation>Wyśrodkuj w poprzek</translation>
     </message>
     <message>
         <source>PrintHeadings.title</source>
-        <translation></translation>
+        <translation>Drukuj nagłówki</translation>
     </message>
     <message>
         <source>RecordMacro.title</source>
-        <translation></translation>
+        <translation>Zarejestruj makro</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>ProtectSheet.title</source>
-        <translation></translation>
+        <translation>Chroń arkusz</translation>
     </message>
     <message>
         <source>NameManager.content</source>
-        <translation></translation>
+        <translation>Umożliwia tworzenie, edytowanie, usuwanie i znajdowanie wszystkich nazw używanych w skoroszycie
+
+Nazw można używać w formułach jako zamienników odwołań do komórek.
+
+Na przykład: =SUMA(MojaSprzedaż) zamiast =SUMA(A1:A10).</translation>
     </message>
     <message>
         <source>Thesaurus.title</source>
-        <translation></translation>
+        <translation>Tezaurus</translation>
     </message>
     <message>
         <source>PrinterMoreSetup.content</source>
-        <translation></translation>
+        <translation>Szczegółowe informacje o ustawieniach wydruku, w tym wybieraniu drukarki, drukowaniu stron, druku dwustronnym, powiększaniu itd.</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation></translation>
+        <translation>Kolor wypełnienia</translation>
     </message>
     <message>
         <source>LockTitleRows.content</source>
-        <translation></translation>
+        <translation>Włącz wyświetlanie w tytule wiersza stałego odwołania podczas odczytywania dużych ilości danych.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translation>
     </message>
     <message>
         <source>ProtectSheet.content</source>
-        <translation></translation>
+        <translation>Umożliwia zapobieganie wprowadzaniu niepożądanych zmian w danych znajdujących się w arkuszu przez określenie, które informacje można zmieniać.
+
+Na przykład można uniemożliwić użytkownikom edytowanie zablokowanych komórek lub zmienianie formatowania dokumentu.
+
+Można określić hasło, którego wprowadzenie umożliwi wyłączenie ochrony arkusza i wprowadzanie tych zmian.</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTool.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania obrazu.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.title</source>
-        <translation></translation>
+        <translation>Kolor mikrowykresu</translation>
     </message>
     <message>
         <source>ConditionalFormatting.title</source>
-        <translation></translation>
+        <translation>Formatowanie warunkowe</translation>
     </message>
     <message>
         <source>Connections.content</source>
-        <translation></translation>
+        <translation>Wyświetl wszystkie połączenia danych dla skoroszytu.
+
+Połączenia danych to łącza do danych spoza skoroszytu, które można zaktualizować w przypadku zmiany danych źródłowych.</translation>
     </message>
     <message>
         <source>EDRProperties.title</source>
-        <translation></translation>
+        <translation>Właściwości zakresu danych</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.title</source>
-        <translation></translation>
+        <translation>Kolor markera</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.content</source>
-        <translation></translation>
+        <translation>Edit the location and data source for the selected sparkline group.</translation>
     </message>
     <message>
         <source>ThickBottomBorder.title</source>
-        <translation></translation>
+        <translation>Gruba krawędź dolna</translation>
     </message>
     <message>
         <source>FormatAsTable.content</source>
-        <translation></translation>
+        <translation>Umożliwia szybkie przekonwertowanie zakresu komórek na tabelę przy użyciu stylu tabeli.</translation>
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie układu strony na pionowy w druku materiałów informacyjnych, stron notatek i konspektu.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation></translation>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Makra i wyświetlenie listy makr, za pomocą której można bezpośrednio uruchomić, usunąć lub utworzyć makro.</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation></translation>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>ConvertToRange.title</source>
-        <translation></translation>
+        <translation>Konwertuj na zakres</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation></translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>Max.title</source>
-        <translation></translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>PTRefreshData.title</source>
-        <translation></translation>
+        <translation>Odśwież dane</translation>
     </message>
     <message>
         <source>FillColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>PrintNormalView.title</source>
-        <translation></translation>
+        <translation>Widok normalny</translation>
     </message>
     <message>
         <source>TextOrientation.title</source>
-        <translation></translation>
+        <translation>Orientacja</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inny kolor czcionki.</translation>
     </message>
     <message>
         <source>GraphicFillColor2.title</source>
-        <translation></translation>
+        <translation>Wypełnij obraz</translation>
     </message>
     <message>
         <source>DeleteRange2.title</source>
-        <translation></translation>
+        <translation>Usuń komórki</translation>
     </message>
     <message>
         <source>PTSubtotals.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie sum częściowych.</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>ObjectSelect.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna zadań Okienko zaznaczenia, aby łatwiej znaleźć pojedynczy obiekt lub ustawić jego kolejność i widoczność.</translation>
     </message>
     <message>
         <source>PTTableOptions.title</source>
-        <translation></translation>
+        <translation>Opcje tabeli przestawnej</translation>
     </message>
     <message>
         <source>CalculateSheet.content</source>
-        <translation></translation>
+        <translation>Umożliwia obliczenie całego arkusza.
+Jest to konieczne tylko w przypadku wyłączenia obliczania automatycznego.</translation>
     </message>
     <message>
         <source>Gallery.content</source>
-        <translation></translation>
+        <translation>Galeria WPS dostarcza wszelkiego rodzaju źródeł obrazu do korzystania, zbierania, edycji i zarządzania.
+
+Galeria WPS źródeł Online wymaga połączenia internetowego.</translation>
     </message>
     <message>
         <source>NumberFormatCells.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie karty Liczby w oknie dialogowym Formatowanie komórek.</translation>
     </message>
     <message>
         <source>LoadMacro.content</source>
-        <translation></translation>
+        <translation>Umożliwia zarządzanie dodatkami dostępnymi dla tego pliku.</translation>
     </message>
     <message>
         <source>GraphicFillColor.content</source>
-        <translation></translation>
+        <translation>Wypełnij wybrany obraz kolorem.
+
+Kliknij strzałkę, aby wypełnić go różnymi efektami.</translation>
     </message>
     <message>
         <source>InsertRange2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wstawić komórki, wiersze lub kolumny w arkuszu lub dodać cały do nowego arkusza.</translation>
     </message>
     <message>
         <source>VerticalText.title</source>
-        <translation></translation>
+        <translation>Tekst pionowy WordArt</translation>
     </message>
     <message>
         <source>ObjectSelect.title</source>
-        <translation></translation>
+        <translation>Okienko zaznaczenia</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.title</source>
-        <translation></translation>
+        <translation>Formatuj komórki: wyrównanie</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation></translation>
+        <translation>Umożliwia skompresowanie zaznaczonego obrazu lub wszystkich obrazów w dokumencie w celu zmniejszenia jego rozmiaru.</translation>
     </message>
     <message>
         <source>SortAscending.title</source>
-        <translation></translation>
+        <translation>Rosnąco</translation>
     </message>
     <message>
         <source>PTHideFieldList.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie listy pól.
+
+Lista pól umożliwia dodawanie i usuwanie pól.</translation>
     </message>
     <message>
         <source>SlicerSetting.title</source>
-        <translation></translation>
+        <translation>Ustawienia fragmentatora</translation>
     </message>
     <message>
         <source>LookupAndReference.title</source>
-        <translation></translation>
+        <translation>Wyszukiwania i adresu</translation>
     </message>
     <message>
         <source>SplitPanes.content</source>
-        <translation></translation>
+        <translation>Umożliwia podzielenie okna na wiele okienek o zmiennych rozmiarach, zawierających widoki arkusza.
+
+Za pomocą tej funkcji można jednocześnie wyświetlić wiele oddalonych od siebie części arkusza.</translation>
     </message>
     <message>
         <source>PageLayoutView.content</source>
-        <translation></translation>
+        <translation>Zobacz, jak będzie wyglądał wydrukowany dokument.
+
+        To dobry sposób na sprawdzenie, gdzie strony się zaczynają i kończą, a także na przejrzenie wszelkich nagłówków lub stopek na stronie.</translation>
     </message>
     <message>
         <source>PrintHeaderFooter.title</source>
-        <translation></translation>
+        <translation>Drukuj nagłówek i stopkę</translation>
     </message>
     <message>
         <source>EditCrossBookLinks.content</source>
-        <translation></translation>
+        <translation>W celu aktualizacji danych lub usunięcia łącza, wyświetl wszystkie pliki, które zostały połączone do tego skoroszytu.</translation>
     </message>
     <message>
         <source>Ai Matting.title</source>
-        <translation></translation>
+        <translation>Ai Matting</translation>
     </message>
     <message>
         <source>StopAutoVersion.title</source>
-        <translation></translation>
+        <translation>Zatrzymaj automatyczne tworzenie kopii zapasowych</translation>
     </message>
     <message>
         <source>Financial.title</source>
-        <translation></translation>
+        <translation>Finansowe</translation>
     </message>
     <message>
         <source>SparklineFirstPoint.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline First Points</translation>
     </message>
     <message>
         <source>PrevPreviousPage.title</source>
-        <translation></translation>
+        <translation>Poprzednia strona</translation>
     </message>
     <message>
         <source>ClearArrows.content</source>
-        <translation></translation>
+        <translation>Usuń strzałki dotyczące poprzedników i zależności.</translation>
     </message>
     <message>
         <source>TranslateToTraditionalChinese.title</source>
-        <translation></translation>
+        <translation>Uproszczony chiński na tradycyjny chiński</translation>
     </message>
     <message>
         <source>EquationEditor.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawianie równań matematycznych za pomocą edytora równań.</translation>
     </message>
     <message>
         <source>sp_Copy.content</source>
-        <translation></translation>
+        <translation>Pick how you want to copy the selection.</translation>
     </message>
     <message>
         <source>LeftBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>Morefunctions.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeglądanie i wybieranie pozycji z listy funkcji statystycznych, inżynierskich, dotyczących modułów oraz informacyjnych.</translation>
     </message>
     <message>
         <source>OtherBorders.content</source>
-        <translation></translation>
+        <translation>Umożliwia użycie szczegółowych ustawień wybranego obramowania komórki.</translation>
     </message>
     <message>
         <source>DecreaseDecimal.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie wartości z mniejszą dokładnością przez zmniejszenie liczby miejsc dziesiętnych.</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation></translation>
+        <translation>Zwiększ poziom listy</translation>
     </message>
     <message>
         <source>CharacterSpacing.title</source>
-        <translation></translation>
+        <translation>Odstępy między znakami WordArt</translation>
     </message>
     <message>
         <source>FuncCatDateAndTime.title</source>
-        <translation></translation>
+        <translation>Data i godzina</translation>
     </message>
     <message>
         <source>ProtectAndShare.content</source>
-        <translation></translation>
+        <translation>Umożliwia udostępnienie skoroszytu i jednoczesne chronienie go za pomocą hasła.
+
+Hasło uniemożliwi innym osobom wyłączenie funkcji śledzenia zmian.</translation>
     </message>
     <message>
         <source>OtherBorders.title</source>
-        <translation></translation>
+        <translation>Inne obramowania</translation>
     </message>
     <message>
         <source>LockSideBySide.title</source>
-        <translation></translation>
+        <translation>Przewijanie synchroniczne</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowań do aktualnie zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>What-If%20Analysis.title</source>
-        <translation></translation>
+        <translation>Analiza warunkowa</translation>
     </message>
     <message>
         <source>ExistingConnections.content</source>
-        <translation></translation>
+        <translation>Importuj dane ze wspólnych źródeł.</translation>
     </message>
     <message>
         <source>DrawBorder.content</source>
-        <translation></translation>
+        <translation>Aby narysować linię obramowania, kliknij tutaj i przeciągnij myszą, aby narysować.
+
+Naciśnij klawisz Esc na klawiaturze lub kliknij tutaj ponownie, aby wyjść z trybu rysowania.</translation>
     </message>
     <message>
         <source>IncreaseDecimal.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie wartości z większą dokładnością przez zwiększenie liczby miejsc dziesiętnych.</translation>
     </message>
     <message>
         <source>Hyperlink.title</source>
-        <translation></translation>
+        <translation>Wstaw hiperłącze</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.title</source>
-        <translation></translation>
+        <translation>Powiększ</translation>
     </message>
     <message>
         <source>DeleteRange.content</source>
-        <translation></translation>
+        <translation>Umożliwia usuwanie komórek, wierszy lub kolumn w arkuszu.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline Last Points</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
-        <translation></translation>
+        <translation>Podgląd wydruku</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia usunięcie komentarza.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.title</source>
-        <translation></translation>
+        <translation>Połączenia raportów</translation>
     </message>
     <message>
         <source>Slicer.content</source>
-        <translation></translation>
+        <translation>Użyj fragmentatora do wizualnego filtrowania danych.
+
+Fragmentatory umożliwiają szybsze i łatwiejsze filtrowanie tabel przestawnych.</translation>
     </message>
     <message>
         <source>LockCell.title</source>
-        <translation></translation>
+        <translation>Zablokuj komórkę</translation>
     </message>
     <message>
         <source>SourceData.title</source>
-        <translation></translation>
+        <translation>Zaznacz dane</translation>
     </message>
     <message>
         <source>TextFill2.title</source>
-        <translation></translation>
+        <translation>Kolor tekstu</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.content</source>
-        <translation></translation>
+        <translation>Change the selected sparkline group to a line sparkline.</translation>
     </message>
     <message>
         <source>ResizeTable.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę rozmiaru tej tabeli przez dodanie lub usunięcie wierszy i kolumn.</translation>
     </message>
     <message>
         <source>MergeSheet.title</source>
-        <translation></translation>
+        <translation>Scal tabele</translation>
     </message>
     <message>
         <source>AllFunction.content</source>
-        <translation></translation>
+        <translation>Przeglądaj i wybierz z listy, która zawiera wszystkie funkcje.</translation>
     </message>
     <message>
         <source>CTB_DesignMode.content</source>
-        <translation></translation>
+        <translation>Umożliwia wejście w tryb projektowania, aby edytować formanty nazw i funkcji.</translation>
     </message>
     <message>
         <source>ColumnSparkline.title</source>
-        <translation></translation>
+        <translation>Column Sparkline</translation>
     </message>
     <message>
         <source>DynamicShape.title</source>
-        <translation></translation>
+        <translation>Wstaw kształty</translation>
     </message>
     <message>
         <source>SparklineHighPoint.content</source>
-        <translation></translation>
+        <translation>Highlight the highest points of data in the selected sparkline group.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.content</source>
-        <translation></translation>
+        <translation>Highlight the last points of data in the selected sparkline group.</translation>
     </message>
     <message>
         <source>AllBorders.title</source>
-        <translation></translation>
+        <translation>Wszystkie krawędzie</translation>
     </message>
     <message>
         <source>EditConnectionProperties.content</source>
-        <translation></translation>
+        <translation>Wybierz typ polecenia, wprowadź odpowiednią instrukcję zapytania i odfiltruj importowane dane.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation></translation>
+        <translation>Eksportuj obraz Weibo</translation>
     </message>
     <message>
         <source>InsertComment.title</source>
-        <translation></translation>
+        <translation>Wstaw komentarz</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation></translation>
+        <translation>Następny komentarz</translation>
     </message>
     <message>
         <source>ReadingLayout2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inny kolor.</translation>
     </message>
     <message>
         <source>AllFunction.title</source>
-        <translation></translation>
+        <translation>Wszystkie funkcje</translation>
     </message>
     <message>
         <source>RecalculateBook.title</source>
-        <translation></translation>
+        <translation>Oblicz ponownie skoroszyt</translation>
     </message>
     <message>
         <source>EditComment.title</source>
-        <translation></translation>
+        <translation>Edytuj komentarz</translation>
     </message>
     <message>
         <source>SheetBackground.title</source>
-        <translation></translation>
+        <translation>Tło</translation>
     </message>
     <message>
         <source>PTShowDetail.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie wszystkich elementów aktywnego pola.</translation>
     </message>
     <message>
         <source>ShowOrHideComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie komentarzy dołączonych do zaznaczonej komórki.</translation>
     </message>
     <message>
         <source>PivotTableDelete.content</source>
-        <translation></translation>
+        <translation>Umożliwia usunięcie wybranej obecnie tabeli przestawnej.</translation>
     </message>
     <message>
         <source>BookProtection.title</source>
-        <translation></translation>
+        <translation>Chroń skoroszyt</translation>
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie układu strony na poziomy w druku materiałów informacyjnych, stron notatek i konspektu.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.title</source>
-        <translation></translation>
+        <translation>Duplicate Setting</translation>
     </message>
     <message>
         <source>PrevPreviousPage.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do poprzedniej strony wydruku bieżącego arkusza.</translation>
     </message>
     <message>
         <source>TranslateToSimplifiedChinese.title</source>
-        <translation></translation>
+        <translation>Tradycyjny chiński na uproszczony chiński</translation>
     </message>
     <message>
         <source>WinLossSparkline.title</source>
-        <translation></translation>
+        <translation>Win/Loss Sparkline</translation>
     </message>
     <message>
         <source>Consolidate.content</source>
-        <translation></translation>
+        <translation>Umożliwia połączenie wartości z wielu zakresów w jeden nowy zakres.</translation>
     </message>
     <message>
         <source>RotateRight.title</source>
-        <translation></translation>
+        <translation>Obróć</translation>
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation></translation>
+        <translation>Umożliwia podgląd efektów strony przed wydrukowaniem.</translation>
     </message>
     <message>
         <source>RightBorder.title</source>
-        <translation></translation>
+        <translation>Krawędź prawa</translation>
     </message>
     <message>
         <source>NumberFormatGallery.title</source>
-        <translation></translation>
+        <translation>Format liczb</translation>
     </message>
     <message>
         <source>LeftBorder.title</source>
-        <translation></translation>
+        <translation>Krawędź lewa</translation>
     </message>
     <message>
         <source>LineSparkline.title</source>
-        <translation></translation>
+        <translation>Line Sparkline</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation></translation>
+        <translation>Wstaw ClipArt</translation>
     </message>
     <message>
         <source>MergeCancel.content</source>
-        <translation></translation>
+        <translation>Umożliwia podzielenie bieżącej komórki na wiele komórek.</translation>
     </message>
     <message>
         <source>Subtotals.title</source>
-        <translation></translation>
+        <translation>Sumy częściowe</translation>
     </message>
     <message>
         <source>SparklineHighPoint.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline Hight Points</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation></translation>
+        <translation>Narzędzia deweloperów</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation></translation>
+        <translation>Kolor czcionki</translation>
     </message>
     <message>
         <source>RemoveDuplicates.content</source>
-        <translation></translation>
+        <translation>Umożliwia usunięcie zduplikowanych wierszy z arkusza.
+
+Można określić, w których kolumnach mają być wyszukiwane zduplikowane informacje.</translation>
     </message>
     <message>
         <source>Logical.title</source>
-        <translation></translation>
+        <translation>Logiczne</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.title</source>
-        <translation></translation>
+        <translation>Tajski rozłożony</translation>
     </message>
     <message>
         <source>InsertDropDownList.title</source>
-        <translation></translation>
+        <translation>Wstaw listę rozwijaną.</translation>
     </message>
     <message>
         <source>PTHideDetail.content</source>
-        <translation></translation>
+        <translation>Umożliwia ukrycie wszystkich elementów aktywnego pola.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyśrodkowanie tekstu w pionie i poziomie wewnątrz komrki.</translation>
     </message>
     <message>
         <source>VAlignCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu przez wyśrodkowanie go między górą, a dołem komórki.</translation>
     </message>
     <message>
         <source>DataTable.title</source>
-        <translation></translation>
+        <translation>Tabela danych</translation>
     </message>
     <message>
         <source>PrintPreviewMargins.content</source>
-        <translation></translation>
+        <translation>Umożliwia określenie odległości między zawartością arkusza i krawędzią drukowanej strony.</translation>
     </message>
     <message>
         <source>FuncCatText.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeglądanie i wybieranie pozycji z listy funkcji tekstowych.</translation>
     </message>
     <message>
         <source>PTRefreshData.content</source>
-        <translation></translation>
+        <translation>Umożliwia aktualizację informacji ze źródła danych w skoroszycie.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie automatycznego lub ręcznego tworzenia kopii zapasowych dla bieżącego dokumentu. Kopia zapasowa zostanie zapisana do Pliku bezpieczeństwa.</translation>
     </message>
     <message>
         <source>PTRefreshAllData.title</source>
-        <translation></translation>
+        <translation>Odśwież wszystko</translation>
     </message>
     <message>
         <source>ShapeFillColor2.title</source>
-        <translation></translation>
+        <translation>Wypełnienie kształtu</translation>
     </message>
     <message>
         <source>DataUngroup.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozgrupowanie uprzednio zgrupowanego zakresu komórek.</translation>
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do poprzedniego komentarza w dokumencie.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
-        <translation></translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message>
         <source>EditCrossBookLinks.title</source>
-        <translation></translation>
+        <translation>Edytuj łącza</translation>
     </message>
     <message>
         <source>GraphicLineColor.content</source>
-        <translation></translation>
+        <translation>Ustaw kolor, szerokość i styl linii dla konturu wybranego obrazu.
+
+Kliknij strzałkę, aby ustawić szczegóły konturu.</translation>
     </message>
     <message>
         <source>SlicerSetting.content</source>
-        <translation></translation>
+        <translation>Zmień ustawienia wyświetlania fragmentatora.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.content</source>
-        <translation></translation>
+        <translation>Umożliwia zresetowanie rozmiaru i zakotwiczenia bieżących komentarzy.</translation>
     </message>
     <message>
         <source>CompressPictures.title</source>
-        <translation></translation>
+        <translation>Kompresuj obrazy</translation>
     </message>
     <message>
         <source>HighlightDisplay.title</source>
-        <translation></translation>
+        <translation>Marker</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.title</source>
-        <translation></translation>
+        <translation>Okienko monitorowania</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation></translation>
+        <translation>Funkcja &quot;odchudzania pliku&quot; umożliwia zmiejszenie rozmiaru pliku.</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation></translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>MergeCenter.title</source>
-        <translation></translation>
+        <translation>Scal i wyśrodkuj</translation>
     </message>
     <message>
         <source>Fill.content</source>
-        <translation></translation>
+        <translation>Umożliwia, stosownie do określonych reguł, wypełnienie zawartości komórki w dowolnym kierunku do sąsiednich komórek.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation></translation>
+        <translation>Umożliwia znalezienie tekstu w dokumencie.
+
+Kliknij strzałkę, aby wybrać inne opcje, takie jak Przejdź do.</translation>
     </message>
     <message>
         <source>Financial.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeglądanie i wybieranie pozycji z listy funkcji finansowych.</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie poziomego pola tekstowego.</translation>
     </message>
     <message>
         <source>PivotChartAnalysis.title</source>
-        <translation></translation>
+        <translation>Wykres statystyczny</translation>
     </message>
     <message>
         <source>ConvertToRange.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwersję tej tabeli na normalny zakres komórek.
+
+Wszystkie dane są zachowywane.</translation>
     </message>
     <message>
         <source>ReadingLayout2.title</source>
-        <translation></translation>
+        <translation>Układ do czytania</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.content</source>
-        <translation></translation>
+        <translation>Change the color for negative points, markers, and all other points for the selected sparkline group.</translation>
     </message>
     <message>
         <source>DeleteRange.title</source>
-        <translation></translation>
+        <translation>Usuń komórki</translation>
     </message>
     <message>
         <source>DisplayGridlines.title</source>
-        <translation></translation>
+        <translation>Wyświetl linie siatki</translation>
     </message>
     <message>
         <source>PrinterSide.title</source>
-        <translation></translation>
+        <translation>Druk dwustronny</translation>
     </message>
     <message>
         <source>SparkAxis.title</source>
-        <translation></translation>
+        <translation>Sparkline Axis</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation></translation>
+        <translation>Konwertuj plik PDF na plik programu Word</translation>
     </message>
     <message>
         <source>ExportFilterResult.title</source>
-        <translation></translation>
+        <translation>Eksportuj wyniki filtrowania</translation>
     </message>
     <message>
         <source>EvaluateFormula.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Szacowanie formuły, aby debugować formułę przez szacowanie każdej jej części osobno.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.content</source>
-        <translation></translation>
+        <translation>Umożliwia zresetowanie rozmiaru i zakotwiczenia wszystkich komentarzy bieżącego arkusza.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation></translation>
+        <translation>PDF na Word</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.title</source>
-        <translation></translation>
+        <translation>Rysuj poziome pole tekstowe</translation>
     </message>
     <message>
         <source>FormsToolbox.content</source>
-        <translation></translation>
+        <translation>Choose different forms to insert into the document, such as labels, check boxes, scroll bars, fine-tuning items, etc.</translation>
     </message>
     <message>
         <source>FullScreenMode.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie dokumentu w trybie pełnoekranowym.</translation>
     </message>
     <message>
         <source>FontFormatCells.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Czcionka.</translation>
     </message>
     <message>
         <source>AlignJustify.title</source>
-        <translation></translation>
+        <translation>Wyjustuj</translation>
     </message>
     <message>
         <source>ModifyPivotTable.title</source>
-        <translation></translation>
+        <translation>Modyfikuj tabelę przestawną</translation>
     </message>
     <message>
         <source>ArtisticWordAlignment.content</source>
-        <translation></translation>
+        <translation>Umożliwia określenie sposobu wyrównywania poszczególnych wierszy w wielowierszowym tekście WordArt.</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.title</source>
-        <translation></translation>
+        <translation>Krawędź górna i podwójna dolna</translation>
     </message>
     <message>
         <source>InsertSlicer.content</source>
-        <translation></translation>
+        <translation>Użyj fragmentatora do wizualnego filtrowania danych.
+
+Fragmentatory umożliwiają szybsze i łatwiejsze filtrowanie tabel przestawnych.</translation>
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation></translation>
+        <translation>Umożliwia skopiowanie formatowania z jednego miejsca i zastosowanie go do innego miejsca.
+
+Aby zastosować to samo formatowanie w wielu miejscach dokumentu, należy kliknąć ten przycisk dwukrotnie.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>SpellCheck.title</source>
-        <translation></translation>
+        <translation>Sprawdzanie pisowni</translation>
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation></translation>
+        <translation>Umożliwia użycie domyślnej drukarki do drukowania bezpośredniego.</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
-        <translation></translation>
+        <translation>Wstaw równanie</translation>
     </message>
     <message>
         <source>DataUngroup.title</source>
-        <translation></translation>
+        <translation>Rozgrupuj</translation>
     </message>
     <message>
         <source>Fill.title</source>
-        <translation></translation>
+        <translation>Wypełnienie</translation>
     </message>
     <message>
         <source>MergeSelection.content</source>
-        <translation></translation>
+        <translation>Umożliwia scalenie zaznaczonych komórek w jedną komórkę.</translation>
     </message>
     <message>
         <source>IncreaseDecimal.title</source>
-        <translation></translation>
+        <translation>Zwiększ liczbę miejsc dziesiętnych</translation>
     </message>
     <message>
         <source>DecreaseDecimal.title</source>
-        <translation></translation>
+        <translation>Zmniejsz liczbę miejsc dziesiętnych</translation>
     </message>
     <message>
         <source>RecenttlyUsed.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejrzenie listy niedawno używanych funkcji i wybranie z niej pozycji.</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
-        <translation></translation>
+        <translation>Czytanie</translation>
     </message>
     <message>
         <source>MergeSelection.title</source>
-        <translation></translation>
+        <translation>Scal komórki</translation>
     </message>
     <message>
         <source>TableName.title</source>
-        <translation></translation>
+        <translation>Nazwa tabeli</translation>
     </message>
     <message>
         <source>SlicerItemHeight.title</source>
-        <translation></translation>
+        <translation>Wysokość przycisku</translation>
     </message>
     <message>
         <source>ShapeLineColor.title</source>
-        <translation></translation>
+        <translation>Kontur kształtu</translation>
     </message>
     <message>
         <source>DetailedSettings_Data.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>BandedColumns.content</source>
-        <translation></translation>
+        <translation>Umożliwia odmienne formatowanie kolumn parzystych i nieparzystych.
+
+Formatowanie naprzemienne zwiększa czytelność tabeli.</translation>
     </message>
     <message>
         <source>FormatStyle.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie różnych kombinacji formatów komórek, takich jak formaty liczby lub wyrównanie, a następnie wygenerowanie tych formatów w jednym.</translation>
     </message>
     <message>
         <source>InsertRange.title</source>
-        <translation></translation>
+        <translation>Wstaw komórki</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
-        <translation></translation>
+        <translation>Zresetuj rozmiar</translation>
     </message>
     <message>
         <source>ExitPreview.title</source>
-        <translation></translation>
+        <translation>Zakończ</translation>
     </message>
     <message>
         <source>ArtisticWordAlignment.title</source>
-        <translation></translation>
+        <translation>Wyrównanie</translation>
     </message>
     <message>
         <source>RunMacro2.content</source>
-        <translation></translation>
+        <translation>Pokazuje okno dialogowe Makra. Umożliwia wyświetlenie listy makr, za pomocą której można uruchomić, utworzyć lub usunąć makro.</translation>
     </message>
     <message>
         <source>Connections.title</source>
-        <translation></translation>
+        <translation>Połączenia</translation>
     </message>
     <message>
         <source>TopAndThickBottomBorder.title</source>
-        <translation></translation>
+        <translation>Gruba krawędź górna i dolna</translation>
     </message>
     <message>
         <source>DetailedSettings_Layout.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień ustawienia strony.</translation>
     </message>
     <message>
         <source>DrawGrid.title</source>
-        <translation></translation>
+        <translation>Rysuj siatkę obramowań</translation>
     </message>
     <message>
         <source>PivotTableAnalysis.title</source>
-        <translation></translation>
+        <translation>Analiza statystyczna</translation>
     </message>
     <message>
         <source>PrevNextPage.title</source>
-        <translation></translation>
+        <translation>Następna strona</translation>
     </message>
     <message>
         <source>PDFToPPT.title</source>
-        <translation></translation>
+        <translation>PDF na PPT</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation></translation>
+        <translation>SendFileTip.title</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation></translation>
+        <translation>The file will be automatically saved for you when it is turned on.</translation>
     </message>
     <message>
         <source>PrintGridlines.content</source>
-        <translation></translation>
+        <translation>Umożliwia drukowanie linii siatki między kolumnami i wierszami w arkuszu.</translation>
     </message>
     <message>
         <source>SparklineGroup.content</source>
-        <translation></translation>
+        <translation>Group sparklines together so they can share formatting and scaling options.</translation>
     </message>
     <message>
         <source>NameDefine.title</source>
-        <translation></translation>
+        <translation>Definiuj nazwę</translation>
     </message>
     <message>
         <source>HeaderRow.title</source>
-        <translation></translation>
+        <translation>Wiersz nagłówka</translation>
     </message>
     <message>
         <source>SortAndFilter.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozmieszczenie danych w celu ułatwienia ich analizy.
+
+Można sortować zaznaczone dane w kolejności rosnącej lub malejącej.</translation>
     </message>
     <message>
         <source>NameCreate.title</source>
-        <translation></translation>
+        <translation>Utwórz nazwę</translation>
     </message>
     <message>
         <source>DataSort.title</source>
-        <translation></translation>
+        <translation>Sortuj</translation>
     </message>
 </context>
 </TS>
