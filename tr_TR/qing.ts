@@ -747,7 +747,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Are you sure to exit?</source>
-        <translation type="unfinished"/>
+        <translation>Çıkmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Transferring file . Exiting the program will terminate the transfer.</source>
@@ -2283,11 +2283,11 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Are you sure to exit?</source>
-        <translation type="unfinished"/>
+        <translation>Çıkmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Transferring file. Exiting the program will terminate the transfer.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya aktarımı devam ediyor. Programdan çıkmak, devam eden tüm dosya aktarımlarını durduracaktır.</translation>
     </message>
 </context>
 <context>
@@ -2298,7 +2298,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Transferring file. Switch user will terminate the transfer.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya aktarımı devam ediyor. Kullanıcı geçişi, devam eden tüm dosya aktarımlarını durduracaktır.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2306,7 +2306,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Are you sure to switch user?</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcıyı değiştirmek istediğinizden emin misiniz?</translation>
     </message>
 </context>
 <context>
@@ -10095,11 +10095,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Shared folder</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşılan Klasörler</translation>
     </message>
     <message>
         <source>Kingsoft Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Belgeleri</translation>
     </message>
 </context>
 <context>
