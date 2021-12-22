@@ -1,3055 +1,3176 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>EditConnectionProperties.title</source>
-        <translation></translation>
+        <translation>Bağlantı Özelliklerini Düzenle</translation>
     </message>
     <message>
         <source>ComAddin.content</source>
-        <translation></translation>
+        <translation>Kullanılabilir COM Eklentilerini ekleyin veya silin.</translation>
     </message>
     <message>
         <source>Macros.content</source>
-        <translation></translation>
+        <translation>Çalıştırılabilir, oluşturulabilir veya silinebilir makroların listesini görüntüleyin.</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Sayfa Düzeni Ayrıntılı Ayarları</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal2.title</source>
-        <translation></translation>
+        <translation>Metin Kutusu Çiz</translation>
     </message>
     <message>
         <source>Translate Image.content</source>
-        <translation></translation>
+        <translation>Resimdeki metin içeriğini hızlıca çevirin (yalnızca Çince-İngilizce çeviri desteklenmektedir)</translation>
     </message>
     <message>
         <source>PrintLayout.title</source>
-        <translation></translation>
+        <translation>Sayfa Düzeni</translation>
     </message>
     <message>
         <source>AlignDistributed.content</source>
-        <translation></translation>
+        <translation>Karakterleri arasına gerektiği kadar fazladan boşluk ekleyerek paragrafı hem sol hem de sağ kenar boşluklarına hizalayın.</translation>
     </message>
     <message>
         <source>EditCloumns.title</source>
-        <translation></translation>
+        <translation>Formül Çubuğu</translation>
     </message>
     <message>
         <source>LockTitleRows.title</source>
-        <translation></translation>
+        <translation>Başlık Satırını Dondur</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTool.title</source>
-        <translation></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>ShapeSize.title</source>
-        <translation></translation>
+        <translation>Şekil Boyutu</translation>
     </message>
     <message>
         <source>GrowFont.title</source>
-        <translation></translation>
+        <translation>Yazı Tipi Boyutunu Büyült</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.content</source>
-        <translation></translation>
+        <translation>Farklı süzgeç koşulları ile, özetlenen verilerin zaman içindeki değişimlerini gözlemleyin.</translation>
     </message>
     <message>
         <source>TopAndBottomBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>ColumnSparkline.content</source>
-        <translation></translation>
+        <translation>Mini grafikler tek tek hücrelere yerleştirilen ve her biri seçiminizdeki bir veri satırını temsil eden küçük grafiklerdir.</translation>
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FormatPainter.title</source>
-        <translation></translation>
+        <translation>Biçim Boyacısı</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation></translation>
+        <translation>Yazdırılan çıktının genişliğini veya yüksekliğini, maksimum sayıda sayfaya sığacak şekilde veya gerçek boyutunun yüzdesine göre ölçeklendirin.</translation>
     </message>
     <message>
         <source>WorkSheet.title</source>
-        <translation></translation>
+        <translation>Çalışma Sayfası</translation>
     </message>
     <message>
         <source>ClearFilter.content</source>
-        <translation></translation>
+        <translation>Geçerli veri aralığı için süzgeci ve sıralama durumunu temizleyin.</translation>
     </message>
     <message>
         <source>PTSubtotals.title</source>
-        <translation></translation>
+        <translation>Alt Toplamlar</translation>
     </message>
     <message>
         <source>PrinterMoreSetup.title</source>
-        <translation></translation>
+        <translation>Diğer Yazıcı Ayarları</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation></translation>
+        <translation>Sayfa Yakınlaştır</translation>
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation></translation>
+        <translation>Doğrudan Yazdır</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.content</source>
-        <translation></translation>
+        <translation>İstatistik, mühendislik ve bilgi işlevleri listesine göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrinterCopies.content</source>
-        <translation></translation>
+        <translation>Yazdırılacak kopya sayısını belirtin.</translation>
     </message>
     <message>
         <source>PercentStyle.content</source>
-        <translation></translation>
+        <translation>Hücrenin değerini yüzde olarak görüntüler.</translation>
     </message>
     <message>
         <source>CustomViews.content</source>
-        <translation></translation>
+        <translation>Geçerli ekran ve yazdırma ayarlarınızı, ileride hızlı bir şekilde uygulayabileceğiniz özel bir görünüm olarak kaydedin.</translation>
     </message>
     <message>
         <source>InsertFunction.content</source>
-        <translation></translation>
+        <translation>İşlevleri seçip bağımsız değişkenleri düzenleyerek geçerli hücredeki formülü düzenleyin.</translation>
     </message>
     <message>
         <source>Eraseborder.title</source>
-        <translation></translation>
+        <translation>Kenarlığı Sil</translation>
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation></translation>
+        <translation>Bu resimde yaptığınız tüm biçimlendirme değişikliklerini atın.</translation>
     </message>
     <message>
         <source>InsertFunction.title</source>
-        <translation></translation>
+        <translation>İşlev Ekle</translation>
     </message>
     <message>
         <source>FormatStyle.title</source>
-        <translation></translation>
+        <translation>Stili Biçimlendir</translation>
     </message>
     <message>
         <source>TopBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>Average.title</source>
-        <translation></translation>
+        <translation>Ortalama</translation>
     </message>
     <message>
         <source>NamePaste.content</source>
-        <translation></translation>
+        <translation>Geçerli çalışma kitabında kullanılan bir ad seçin ve geçerli formüle yapıştırın.</translation>
     </message>
     <message>
         <source>Accounting.title</source>
-        <translation></translation>
+        <translation>Muhasebe</translation>
     </message>
     <message>
         <source>ShowPrecedents.content</source>
-        <translation></translation>
+        <translation>Seçili hücrenin değerini hangi hücrelerin etkilediğini gösteren okları göster.</translation>
     </message>
     <message>
         <source>What-If%20Analysis.content</source>
-        <translation></translation>
+        <translation>Hedef Arama, istediğiniz sonucu bildiğinizde doğru girişi bulur.
+
+Ne-Eğer Analiz aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdeki değerleri değiştirerek hedef hücrenin en uygun değerini bulur.</translation>
     </message>
     <message>
         <source>FuncCatText.title</source>
-        <translation></translation>
+        <translation>Metin İşlevi</translation>
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation></translation>
+        <translation>Seçili dosyayı belgeye ekleyin.</translation>
     </message>
     <message>
         <source>WindowReset.content</source>
-        <translation></translation>
+        <translation>Tüm açık çalışma sayfalarını yan yana görüntülemek için döşeyin.</translation>
     </message>
     <message>
         <source>StopRecordMacro.title</source>
-        <translation></translation>
+        <translation>Kaydetmeyi Durdur</translation>
     </message>
     <message>
         <source>AllowEditRanges.title</source>
-        <translation></translation>
+        <translation>Aralıkların Düzenlenmesine İzin Ver</translation>
     </message>
     <message>
         <source>Subtotals.content</source>
-        <translation></translation>
+        <translation>Alt toplamları göster veya gizle.</translation>
     </message>
     <message>
         <source>DetailedSettings_Layout.title</source>
-        <translation></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>sp_ConditionHighlight.content</source>
-        <translation></translation>
+        <translation>Belirli bir ölçüt kümesini karşılayan hücreleri kolayca tespit edin.</translation>
     </message>
     <message>
         <source>DrawBorder.title</source>
-        <translation></translation>
+        <translation>Kenarlık Çiz</translation>
     </message>
     <message>
         <source>AddFavorite.title</source>
-        <translation></translation>
+        <translation>Süzgeç Koşullarını Sık Kullanılanlara Ekle</translation>
     </message>
     <message>
         <source>m_Format.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelerin biçimini değiştirin, metni sayıya veya köprüye dönüştürün.</translation>
     </message>
     <message>
         <source>PTFieldSettings.content</source>
-        <translation></translation>
+        <translation>Alan Ayarları iletişim kutusunu göster.</translation>
     </message>
     <message>
         <source>LineSparkline.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertPageBreakHelper.title</source>
-        <translation></translation>
+        <translation>Belirli bir ölçüt kümesini karşılayan hücreleri kolayca tespit edin.</translation>
     </message>
     <message>
         <source>BandedRows.title</source>
-        <translation></translation>
+        <translation>Bantlı Satırlar</translation>
     </message>
     <message>
         <source>sp_Paste.content</source>
-        <translation></translation>
+        <translation>Pano içeriğini yapıştırın.</translation>
     </message>
     <message>
         <source>NoBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>BottomDoubleBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>SparklineMarkers.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SlicerItemWidth.title</source>
-        <translation></translation>
+        <translation>Düğme Genişliği</translation>
     </message>
     <message>
         <source>TotalRow.title</source>
-        <translation></translation>
+        <translation>Toplam Satır</translation>
     </message>
     <message>
         <source>RecentLineWrap.content</source>
-        <translation></translation>
+        <translation>Birden çok satırda görüntüleyerek hücre içindeki tüm içeriği görünür hale getirin.</translation>
     </message>
     <message>
         <source>PageSetup.title</source>
-        <translation></translation>
+        <translation>Sayfa Yapısı</translation>
     </message>
     <message>
         <source>CircularReferences.title</source>
-        <translation></translation>
+        <translation>Dairesel Başvurular</translation>
     </message>
     <message>
         <source>Validation.title</source>
-        <translation></translation>
+        <translation>Veri Doğrulama</translation>
     </message>
     <message>
         <source>DataSort.content</source>
-        <translation></translation>
+        <translation>Verileri aynı anda çeşitli ölçütlere göre sıralamak için Sırala iletişim kutusunu gösterin.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
-        <translation></translation>
+        <translation>WordArt biçimlendirme ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>Align.title</source>
-        <translation></translation>
+        <translation>Hizala</translation>
     </message>
     <message>
         <source>NormalViewEt.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfasını Normal görünümde görüntüleyin.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation></translation>
+        <translation>Seçili metnin altını çizin.</translation>
     </message>
     <message>
         <source>sp_Paste2.title</source>
-        <translation></translation>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>CTB_DesignMode.title</source>
-        <translation></translation>
+        <translation>Tasarım Modu</translation>
     </message>
     <message>
         <source>TableMenuRefresh.title</source>
-        <translation></translation>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>SparklineGroup.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Min.title</source>
-        <translation></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>VerbSideBySide.content</source>
-        <translation></translation>
+        <translation>Yan yana karşılaştırılan belgelerin pencere konumunu, ekranı eşit şekilde paylaşacakları şekilde sıfırlayın.
+
+Bu özelliği etkinleştirmek için Yan Yana Görüntüle&apos;yi açın.</translation>
     </message>
     <message>
         <source>Macros.title</source>
-        <translation></translation>
+        <translation>Makroları Görüntüle</translation>
     </message>
     <message>
         <source>FirstColumn.content</source>
-        <translation></translation>
+        <translation>Tablonun ilk sütunu için özel biçimlendirme görüntüleyin.</translation>
     </message>
     <message>
         <source>ShowDependents.title</source>
-        <translation></translation>
+        <translation>Etkilenenleri İzle</translation>
     </message>
     <message>
         <source>ShowDetail.content</source>
-        <translation></translation>
+        <translation>Etkin alanın tüm öğelerini göster.</translation>
     </message>
     <message>
         <source>PageSize.title</source>
-        <translation></translation>
+        <translation>Sayfa Boyutu</translation>
     </message>
     <message>
         <source>MergeCenter2.content</source>
-        <translation></translation>
+        <translation>Seçilen hücreleri daha büyük bir hücreye birleştirir ve içeriği yeni hücrede ortalar.</translation>
     </message>
     <message>
         <source>ShareWorkbook.content</source>
-        <translation></translation>
+        <translation>Birden fazla kişinin bir çalışma kitabında aynı anda çalışmasına izin verin.
+
+Çalışma kitabı, birden fazla kişinin açabileceği bir ağ konumuna kaydedilmelidir.
+
+Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>PTHideFieldList.title</source>
-        <translation></translation>
+        <translation>Alan Listesini Gizle</translation>
     </message>
     <message>
         <source>OutsideBorders.title</source>
-        <translation></translation>
+        <translation>Dış Kenarlıklar</translation>
     </message>
     <message>
         <source>AlignDistributed.title</source>
-        <translation></translation>
+        <translation>Dağıtılmış</translation>
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation></translation>
+        <translation>Seçilen resmin boyutundaki tüm değişiklikleri sıfırla.</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
-        <translation></translation>
+        <translation>Dosyadan Nesne Ekle</translation>
     </message>
     <message>
         <source>VAlignTop.title</source>
-        <translation></translation>
+        <translation>Üst Hizalama</translation>
     </message>
     <message>
         <source>ImportTxt.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTShowDetail.title</source>
-        <translation></translation>
+        <translation>Ayrıntıyı Göster</translation>
     </message>
     <message>
         <source>SparklineUnGroup.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RelativeReference.title</source>
-        <translation></translation>
+        <translation>Göreli Başvuruları Kullan</translation>
     </message>
     <message>
         <source>Chart.content</source>
-        <translation></translation>
+        <translation>Eklenecek çizelge türü gibi seçenekleri görüntülemek için Çizelge Türü iletişim kutusunu gösterin.</translation>
     </message>
     <message>
         <source>WindowReset.title</source>
-        <translation></translation>
+        <translation>Tümünü Düzenle</translation>
     </message>
     <message>
         <source>TopBorder.title</source>
-        <translation></translation>
+        <translation>Üst Kenarlık</translation>
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation></translation>
+        <translation>Önceki Yorum</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
-        <translation></translation>
+        <translation>Tam Ekran Modu</translation>
     </message>
     <message>
         <source>RecordList.title</source>
-        <translation></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>PivotChart.title</source>
-        <translation></translation>
+        <translation>Özet Çizelge</translation>
     </message>
     <message>
         <source>MergeCenter.content</source>
-        <translation></translation>
+        <translation>Seçilen hücreleri daha büyük bir hücreye birleştirir ve içeriği yeni hücrede ortalar.</translation>
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation></translation>
+        <translation>Sayfa Yapısı iletişim kutusunu göster.</translation>
     </message>
     <message>
         <source>ColumnsCenter.content</source>
-        <translation></translation>
+        <translation>Bir veya birden çok satırda sürekli hücreler seçin, hücrelerin içeriğini merkeze ayarlayın.</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation></translation>
+        <translation>Geliştirme Araçları İçeriği</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation></translation>
+        <translation>Belirli bir kavramı göstermek için çizim, film, ses veya stok fotoğrafçılığı da dahil olmak üzere çalışma sayfasına Küçük Resim ekleyin.</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
-        <translation></translation>
+        <translation>Bir web sayfasına, resme veya e-posta adresine bağlantı oluşturun.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation></translation>
+        <translation>Seçilen yorumu düzenle.</translation>
     </message>
     <message>
         <source>WorkSheet.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfasını değiştirmek için burayı tıklayın. Çalışma sayfasını ekleyebilir veya silebilir, çalışma sayfasını yeniden adlandırabilir veya çalışma sayfası sekmesinin rengini değiştirebilirsiniz.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation></translation>
+        <translation>Makro Güvenliği</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
-        <translation></translation>
+        <translation>Belgeleri Excel dosyalarına dönüştür</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation></translation>
+        <translation>Çizgiler, dikdörtgenler, akış çizelgesi sembolleri ve belirtme çizgileri gibi hazır şekiller ekleyin.</translation>
     </message>
     <message>
         <source>CharacterSpacing.content</source>
-        <translation></translation>
+        <translation>Seçili WordArt metninin harfleri arasındaki boşluğu değiştirin.</translation>
     </message>
     <message>
         <source>AlignJustify.content</source>
-        <translation></translation>
+        <translation>Metni, sol ve sağ kenar boşluklarına hizalayın, kelimeler arasında gerektiği kadar boşluk ekleyin.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sp_Paste.title</source>
-        <translation></translation>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>ReapplyFilter.title</source>
-        <translation></translation>
+        <translation>Yeniden Uygula</translation>
     </message>
     <message>
         <source>PagePreviewSwitch.title</source>
-        <translation></translation>
+        <translation>Sayfa Önizleme Anahtarı</translation>
     </message>
     <message>
         <source>DisplayHeadings.content</source>
-        <translation></translation>
+        <translation>Satır ve sütun başlıklarını göster.
+
+Satır başlıkları, sayfanın kenarındaki satır numaralarıdır.
+
+Sütun başlıkları, sayfadaki sütunların üzerinde görünen harfler veya sayılardır.</translation>
     </message>
     <message>
         <source>ReapplyFilter.content</source>
-        <translation></translation>
+        <translation>Süzgeci yeniden uygulayın ve geçerli aralıkta sıralayın.
+
+Sütunda yer alan yeni veya değiştirilmiş veriler, Yeniden Uygula&apos;yı tıklayana kadar süzülemez veya sıralanmaz.</translation>
     </message>
     <message>
         <source>HideDetail.content</source>
-        <translation></translation>
+        <translation>Hücre grubunu daraltın.</translation>
     </message>
     <message>
         <source>AdvancedFilter.content</source>
-        <translation></translation>
+        <translation>Hangi kayıtların bir sorgunun sonuç kümesine dahil edileceğini sınırlandırmak için karmaşık ölçütler belirtin.</translation>
     </message>
     <message>
         <source>ImportTxt.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sp_Copy.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Consolidate.title</source>
-        <translation></translation>
+        <translation>Birleştir</translation>
     </message>
     <message>
         <source>MathAndTrig.title</source>
-        <translation></translation>
+        <translation>Mat &amp; Trig</translation>
     </message>
     <message>
         <source>DetailedSettings_Data.content</source>
-        <translation></translation>
+        <translation>Anahattın gelişmiş ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>DoubleAccounting.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertPictureFromFile2.content</source>
-        <translation></translation>
+        <translation>Yerel klasöre veya tarayıcıdan bir resim eklemek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>SparklineUnGroup.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TotalRow.content</source>
-        <translation></translation>
+        <translation>Tablonun toplam satırını açın veya kapatın.
+
+Toplam satır, tablonun sonunda her sütun için toplamları gösteren bir satırdır.</translation>
     </message>
     <message>
         <source>RemoveDuplicates.title</source>
-        <translation></translation>
+        <translation>Yinelenenleri Kaldır</translation>
     </message>
     <message>
         <source>SlicerCaption.content</source>
-        <translation></translation>
+        <translation>Dilimleyicinin başlığında görüntülenen başlığı değiştirin.</translation>
     </message>
     <message>
         <source>InsertRange.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfasına hücreler, satırlar veya sütunlar ekleyin.</translation>
     </message>
     <message>
         <source>Camera.content</source>
-        <translation></translation>
+        <translation>Hücreleri veya hücre aralığını çizim nesnelerine bağlayın. Çalışma sayfasının hücrelerindeki verilerde yapılan değişiklikler çizim nesnelerinde otomatik olarak gösterilir.</translation>
     </message>
     <message>
         <source>SparklineFirstPoint.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>BottomBorder.title</source>
-        <translation></translation>
+        <translation>Kalın Alt Kenarlık</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation></translation>
+        <translation>Hücre biçimlendirme ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation></translation>
+        <translation>Dosya Yedekleme</translation>
     </message>
     <message>
         <source>Align.content</source>
-        <translation></translation>
+        <translation>Seçilen birden çok nesnenin kenarlarını hizalayın.
+
+Bunları ortalayabilir veya sayfa boyunca eşit olarak dağıtabilirsiniz.</translation>
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation></translation>
+        <translation>Yalnızca değerleri yapıştırma gibi daha fazla seçenek için burayı tıklayın.</translation>
     </message>
     <message>
         <source>PrintArea.content</source>
-        <translation></translation>
+        <translation>Yazdırmak için belgenizin belirli bir alanını seçin.</translation>
     </message>
     <message>
         <source>SlicerColumn.content</source>
-        <translation></translation>
+        <translation>Dilimleyicideki sütun sayısını değiştirin.</translation>
     </message>
     <message>
         <source>Currency.content</source>
-        <translation></translation>
+        <translation>Seçilen hücre için alternatif bir para birimi biçimi seçin.
+
+Örneğin, Dolar yerine Euro&apos;yu seçin.</translation>
     </message>
     <message>
         <source>TextFill.content</source>
-        <translation></translation>
+        <translation>Metin rengini değiştirin.
+
+Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation></translation>
+        <translation>Belgedeki bir sonraki yoruma gidin.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
-        <translation></translation>
+        <translation>Grafik Dolgu</translation>
     </message>
     <message>
         <source>ShowAllComments.title</source>
-        <translation></translation>
+        <translation>Tüm Yorumları Göster.</translation>
     </message>
     <message>
         <source>Margins.content</source>
-        <translation></translation>
+        <translation>Tüm belge veya geçerli bölüm için kenar boşluğu boyutlarını seçin.</translation>
     </message>
     <message>
         <source>PivotTable.title</source>
-        <translation></translation>
+        <translation>Özet Tabloyu Değiştir</translation>
     </message>
     <message>
         <source>PTHide.content</source>
-        <translation></translation>
+        <translation>Özet Tablo alanlarını sayfa, satır, sütun alanı veya alanlardaki öğeler içinde gizleyin.</translation>
     </message>
     <message>
         <source>PrintNormalView.content</source>
-        <translation></translation>
+        <translation>Baskı önizlemeden çıkın ve normal görünüme geçin.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.title</source>
-        <translation></translation>
+        <translation>Mevcut yorumu sıfırla.</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation></translation>
+        <translation>Metin Rengi</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation></translation>
+        <translation>Eş Anlamlılar Sözlüğü&apos;nu aç.</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.title</source>
-        <translation></translation>
+        <translation>Diğer İşlevler</translation>
     </message>
     <message>
         <source>PrinterCollate.content</source>
-        <translation></translation>
+        <translation>Yazdırılan belgenin harmanlanıp harmanlanmayacağını belirtin.</translation>
     </message>
     <message>
         <source>NumberFormatCells.title</source>
-        <translation></translation>
+        <translation>Hücreleri Biçimlendir: Sayı</translation>
     </message>
     <message>
         <source>TextToColumns.title</source>
-        <translation></translation>
+        <translation>Metni Sütunlara</translation>
     </message>
     <message>
         <source>Slicer.title</source>
-        <translation></translation>
+        <translation>Dilimleyici</translation>
     </message>
     <message>
         <source>PagePreviewSwitch.content</source>
-        <translation></translation>
+        <translation>Bu sayfanın yazdırıldığında nasıl bölüneceğini önizleyin.</translation>
     </message>
     <message>
         <source>OnlineCooperation.content</source>
-        <translation></translation>
+        <translation>Çok kullanıcılı ortak düzenleme için belgeyi Web Ofis ile açın.</translation>
     </message>
     <message>
         <source>PTHide.title</source>
-        <translation></translation>
+        <translation>Gizle</translation>
     </message>
     <message>
         <source>Group.title</source>
-        <translation></translation>
+        <translation>Grup</translation>
     </message>
     <message>
         <source>InteractiveChart.content</source>
-        <translation></translation>
+        <translation>Sunum performansını artırmak için harika, dinamik, etkileşimli grafikler oluşturun.</translation>
     </message>
     <message>
         <source>ShareWorkbook.title</source>
-        <translation></translation>
+        <translation>Çalışma Kitabını Paylaş</translation>
     </message>
     <message>
         <source>PDFToPPT.content</source>
-        <translation></translation>
+        <translation>Belgeleri PPT dosyalarına dönüştür</translation>
     </message>
     <message>
         <source>ShowAllComments.content</source>
-        <translation></translation>
+        <translation>Sayfadaki tüm yorumları görüntüle.</translation>
     </message>
     <message>
         <source>LTRTextDirection.title</source>
-        <translation></translation>
+        <translation>Left-to-Right Text Direction</translation>
     </message>
     <message>
         <source>RTLTextDirection.title</source>
-        <translation></translation>
+        <translation>Right-to-Left Text Direction</translation>
     </message>
     <message>
         <source>AutoSum.content</source>
-        <translation></translation>
+        <translation>Seçilen hücrelerin toplamını, seçilen hücrelerin hemen ardından görüntüleyin.</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Çizim Araçları Ayrıntılı Ayarları</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
-        <translation></translation>
+        <translation>En Boy Oranını Kilitle</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>VerbSideBySide.title</source>
-        <translation></translation>
+        <translation>Pencere Konumunu Sıfırla</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PageZoom.content</source>
-        <translation></translation>
+        <translation>Yazdırılan çıktının genişliğini veya yüksekliğini, maksimum sayıda sayfaya sığacak şekilde veya gerçek boyutunun yüzdesine göre ölçeklendirin.</translation>
     </message>
     <message>
         <source>RowsAndColumn.title</source>
-        <translation></translation>
+        <translation>Satır ve Sütunlar</translation>
     </message>
     <message>
         <source>CmpSideBySide.content</source>
-        <translation></translation>
+        <translation>İçeriklerini karşılaştırmak için iki belgeyi yan yana görüntüleyin.</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.content</source>
-        <translation></translation>
+        <translation>Hücreleri Biçimlendir iletişim kutusunun Hizalama sekmesini göster.</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>GrowFont.content</source>
-        <translation></translation>
+        <translation>Yazı tipi boyutunu arttırın.</translation>
     </message>
     <message>
         <source>Legend.content</source>
-        <translation></translation>
+        <translation>Çizelge göstergesini gösterin veya gizleyin.</translation>
     </message>
     <message>
         <source>TextFill.title</source>
-        <translation></translation>
+        <translation>Metin Rengi</translation>
     </message>
     <message>
         <source>RecordMacro.content</source>
-        <translation></translation>
+        <translation>Makro Kaydet iletişim kutusunu göster ve makro kaydetmeye başla.</translation>
     </message>
     <message>
         <source>DoubleUnderline.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTHideDetail.title</source>
-        <translation></translation>
+        <translation>Ayrıntıyı Gizle</translation>
     </message>
     <message>
         <source>PivotTableAnalysis.content</source>
-        <translation></translation>
+        <translation>Verileri kolayca sınıflandırın ve özetleyin.</translation>
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation></translation>
+        <translation>Seçim hakkında çalışma sayfasına bir yorum ekleyin.</translation>
     </message>
     <message>
         <source>FormatAsTable.title</source>
-        <translation></translation>
+        <translation>Tablo Olarak Biçimlendir</translation>
     </message>
     <message>
         <source>PTRepeatLabels.content</source>
-        <translation></translation>
+        <translation>Tüm üst öğe etiketlerini göster.</translation>
     </message>
     <message>
         <source>NormalViewEt.title</source>
-        <translation></translation>
+        <translation>Normal Görünüm</translation>
     </message>
     <message>
         <source>ReadingLayout.title</source>
-        <translation></translation>
+        <translation>Okuma Düzeni</translation>
     </message>
     <message>
         <source>TaskWindow.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfasındaki görev penceresini göster veya gizle.</translation>
     </message>
     <message>
         <source>DrawGrid.content</source>
-        <translation></translation>
+        <translation>Kenarlık kılavuzu çizmek için, buraya tıklayın ve çizmek için fareyi sürükleyin.
+
+Çizim modundan çıkmak için klavyede Esc tuşuna basın veya buraya tekrar tıklayın.</translation>
     </message>
     <message>
         <source>ShowFormulas.content</source>
-        <translation></translation>
+        <translation>Formülü, ortaya çıkan değer yerine her hücrede görüntüleyin.</translation>
     </message>
     <message>
         <source>sp_ConditionHighlight.title</source>
-        <translation></translation>
+        <translation>Koşullu Vurgulama</translation>
     </message>
     <message>
         <source>OutlineSettings.title</source>
-        <translation></translation>
+        <translation>Anahat Ayarları</translation>
     </message>
     <message>
         <source>StopRecordMacro.content</source>
-        <translation></translation>
+        <translation>Makro kaydetmeyi durdurun.</translation>
     </message>
     <message>
         <source>ClearFilter.title</source>
-        <translation></translation>
+        <translation>Tümünü Göster</translation>
     </message>
     <message>
         <source>RecalculateBook.content</source>
-        <translation></translation>
+        <translation>Tüm çalışma kitabını şimdi hesaplayın.
+Bu, yalnızca otomatik hesaplama kapatılmışsa gereklidir.</translation>
     </message>
     <message>
         <source>Refresh.title</source>
-        <translation></translation>
+        <translation>Verileri Yenile</translation>
     </message>
     <message>
         <source>SparklineLowPoint.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation></translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>PrintTitle.title</source>
-        <translation></translation>
+        <translation>Başlık veya Üstbilgi Yazdır</translation>
     </message>
     <message>
         <source>PrintArea.title</source>
-        <translation></translation>
+        <translation>Yazdırma Alanı</translation>
     </message>
     <message>
         <source>ConditionalFormatting.content</source>
-        <translation></translation>
+        <translation>Önemli değerleri görsel olarak vurgulamak için çubuk, renk ve simgeleri kullanarak verilerinizdeki eğilimleri ve desenleri kolayca bulun.</translation>
     </message>
     <message>
         <source>TableMenuRefresh.content</source>
-        <translation></translation>
+        <translation>Etkin hücreye bağlı kaynaktan en son verileri alın.</translation>
     </message>
     <message>
         <source>SlicerColumn.title</source>
-        <translation></translation>
+        <translation>Sütunlar</translation>
     </message>
     <message>
         <source>What-If Analysis.content</source>
-        <translation></translation>
+        <translation>Hedef hücreyi hesaplamak için kullanılan hücrelerdeki değerleri değiştirerek hedef hücrenin en uygun değerini bulan Ne-Eğer Analiz aracı.</translation>
     </message>
     <message>
         <source>LookupAndReference.content</source>
-        <translation></translation>
+        <translation>Arama ve başvuru işlevleri listesine göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.title</source>
-        <translation></translation>
+        <translation>Grafik Anahat</translation>
     </message>
     <message>
         <source>Table.content</source>
-        <translation></translation>
+        <translation>Çizelgeye bir veri tablosu ekleyin.</translation>
     </message>
     <message>
         <source>CustomViews.title</source>
-        <translation></translation>
+        <translation>Özel Görünümler</translation>
     </message>
     <message>
         <source>Count.content</source>
-        <translation></translation>
+        <translation>Sayı içeren bir sütundaki hücre sayısını sayın.</translation>
     </message>
     <message>
         <source>ShrinkFont.content</source>
-        <translation></translation>
+        <translation>Yazı tipi boyutunu küçültün.</translation>
     </message>
     <message>
         <source>TableName.content</source>
-        <translation></translation>
+        <translation>Formüllerde başvuru için kullanılan bu tablonun adını düzenleyin.</translation>
     </message>
     <message>
         <source>RB_Clipboard.title</source>
-        <translation></translation>
+        <translation>Pano</translation>
     </message>
     <message>
         <source>Eraseborder.content</source>
-        <translation></translation>
+        <translation>Kenarlığı silmek için burayı tıklayın ve silmek için fareyi sürükleyin.
+
+Silme modundan çıkmak için klavyede Esc tuşuna basın veya tekrar buraya tıklayın.</translation>
     </message>
     <message>
         <source>VAlignCenter.title</source>
-        <translation></translation>
+        <translation>Ortaya Hizala</translation>
     </message>
     <message>
         <source>Legend.title</source>
-        <translation></translation>
+        <translation>Gösterge</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation></translation>
+        <translation>Metin rengini değiştirin.
+
+Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation></translation>
+        <translation>Seçilen şekli düz renk, geçiş, resim veya doku ile doldurun.
+
+Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>DataTable.content</source>
-        <translation></translation>
+        <translation>Çizelgeye bir veri tablosu ekleyin.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
-        <translation></translation>
+        <translation>Ekran Yakalama Ocr</translation>
     </message>
     <message>
         <source>MathAndTrig.content</source>
-        <translation></translation>
+        <translation>Matematik ve trigonometri işlevleri listesine göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>PTSortAndTopTen.title</source>
-        <translation></translation>
+        <translation>Sırala</translation>
     </message>
     <message>
         <source>HideWindow.title</source>
-        <translation></translation>
+        <translation>Pencereyi Gizle</translation>
     </message>
     <message>
         <source>ShowPrecedents.title</source>
-        <translation></translation>
+        <translation>Etkileyenleri İzle</translation>
     </message>
     <message>
         <source>Clear.content</source>
-        <translation></translation>
+        <translation>Hücredeki her şeyi silin veya biçimlendirmeyi, içeriği veya yorumları seçerek kaldırın.</translation>
     </message>
     <message>
         <source>BookProtection.content</source>
-        <translation></translation>
+        <translation>Çalışma kitabının yapısında sayfa taşıma, silme veya ekleme gibi istenmeyen değişiklikleri önleyin.</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Sayfa Düzeni Ayrıntılı Ayarlar İçeriği</translation>
     </message>
     <message>
         <source>ThickBottomBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>ClearArrows.title</source>
-        <translation></translation>
+        <translation>Tüm Okları Temizle</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
-        <translation></translation>
+        <translation>Seçilen şeklin boyutunu, döndürme derecesini ve yakınlaştırmayı ayarlayın.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EnableMacro.title</source>
-        <translation></translation>
+        <translation>Makro Talimatlarını Etkinleştir</translation>
     </message>
     <message>
         <source>OutlineSettings.content</source>
-        <translation></translation>
+        <translation>Anahat iletişim kutusunu göster.</translation>
     </message>
     <message>
         <source>Direction.content</source>
-        <translation></translation>
+        <translation>Metni soldan sağa doğru okumak için ayarlayın.</translation>
     </message>
     <message>
         <source>Printer.title</source>
-        <translation></translation>
+        <translation>Yazıcı</translation>
     </message>
     <message>
         <source>HighlighDuplicates.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoFilterFavorite.title</source>
-        <translation></translation>
+        <translation>Süzgeç Koşulu Sık Kullanılanları</translation>
     </message>
     <message>
         <source>PrintHeaderFooter.content</source>
-        <translation></translation>
+        <translation>Sayfanın yazdırması için üstbilgi ve altbilgiyi ayarlayın.</translation>
     </message>
     <message>
         <source>PrintGridlines.title</source>
-        <translation></translation>
+        <translation>Kılavuz Çizgilerini Yazdır</translation>
     </message>
     <message>
         <source>SlicerCaption.title</source>
-        <translation></translation>
+        <translation>Dilimleyici Başlıği</translation>
     </message>
     <message>
         <source>PrintHeadings.content</source>
-        <translation></translation>
+        <translation>Satır ve sütun başlıklarını yazdır.
+
+Satır başlıkları, sayfanın kenarındaki satır numaralarıdır.
+
+Sütun başlıkları, sayfadaki sütunların üzerinde görünen harfler veya sayılardır.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation></translation>
+        <translation>Metni Oku</translation>
     </message>
     <message>
         <source>PageSize.content</source>
-        <translation></translation>
+        <translation>Geçerli bölüm için bir kağıt boyutu seçin.
+
+Belgedeki tüm bölümlere belirli bir kağıt boyutu uygulamak için, kağıt boyutunu özelleştirmek üzere tıklayın.</translation>
     </message>
     <message>
         <source>Clear.title</source>
-        <translation></translation>
+        <translation>Temizle</translation>
     </message>
     <message>
         <source>DataUngroup2.title</source>
-        <translation></translation>
+        <translation>Grubu Çöz</translation>
     </message>
     <message>
         <source>ResetPicture.title</source>
-        <translation></translation>
+        <translation>Resmi Sıfırla</translation>
     </message>
     <message>
         <source>CircularReferences.content</source>
-        <translation></translation>
+        <translation>Dairesel Başvurular iletişim kutusunu göster. Çalışma kitabında dairesel başvurular içeren tüm hücreleri arayabilir ve bulabilirsiniz.
+
+İlgili hücreyi değiştirmek için sonuçlar listesindeki bir öğeyi çift tıklayın.</translation>
     </message>
     <message>
         <source>CommaStyle.title</source>
-        <translation></translation>
+        <translation>Virgül Stili</translation>
     </message>
     <message>
         <source>PrinterPaperSize.title</source>
-        <translation></translation>
+        <translation>Yazıcı Kağıt Boyutu</translation>
     </message>
     <message>
         <source>PTTableOptions.content</source>
-        <translation></translation>
+        <translation>Özet Tablo Seçenekleri iletişim kutusunu göster.</translation>
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation></translation>
+        <translation>Girintiyi Azalt</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
-        <translation></translation>
+        <translation>Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>Validation.content</source>
-        <translation></translation>
+        <translation>Geçersiz verilerin bir hücreye girmesini önler
+
+Örneğin, geçersiz verileri veya 1000&apos;den büyük sayıları reddedebilirsiniz.
+
+Ayrıca girdiyi, belirttiğiniz değerlerin açılır listesinden seçilmeye zorlayabilirsiniz.</translation>
     </message>
     <message>
         <source>PrinterCopies.title</source>
-        <translation></translation>
+        <translation>Yazıcı Kopyaları</translation>
     </message>
     <message>
         <source>EditCloumns.content</source>
-        <translation></translation>
+        <translation>İçine metin ve formülleri hücrelere girebileceğiniz formül çubuğunu görüntüleyin.</translation>
     </message>
     <message>
         <source>DisplayHeadings.title</source>
-        <translation></translation>
+        <translation>Başlıkları Göster</translation>
     </message>
     <message>
         <source>PivotTableOrder.title</source>
-        <translation></translation>
+        <translation>Düzen</translation>
     </message>
     <message>
         <source>BandedRows.content</source>
-        <translation></translation>
+        <translation>Çift satırların tek satırlardan farklı biçimlendiği bantlı satırları görüntüleyin.
+
+Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
     </message>
     <message>
         <source>Recommended Chart.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrevLandscape.title</source>
-        <translation></translation>
+        <translation>Yatay</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation></translation>
+        <translation>Görüntü Olarak Dışa Aktar</translation>
     </message>
     <message>
         <source>Duplicates.content</source>
-        <translation></translation>
+        <translation>Sayfadaki yinelenen satırlar için Vurgula, Girişi Reddet veya Kaldır&apos;ı seçin.
+
+Yinelenen bilgiler için hangi sütunların kontrol edilmesi gerektiğini belirtebilirsiniz.</translation>
     </message>
     <message>
         <source>VerticalText.content</source>
-        <translation></translation>
+        <translation>Harfler üst üste yığılmış şekilde metni dikey olarak çizin.</translation>
     </message>
     <message>
         <source>ChartObjects.title</source>
-        <translation></translation>
+        <translation>Çizelge Nesneleri</translation>
     </message>
     <message>
         <source>ContextTextDirection.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recommended Chart.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTRefreshAllData.content</source>
-        <translation></translation>
+        <translation>Çalışma kitabındaki tüm kaynakları yenileyerek en son verilerine ulaşın.</translation>
     </message>
     <message>
         <source>CmpSideBySide.title</source>
-        <translation></translation>
+        <translation>Yan Yana Görüntüle.</translation>
     </message>
     <message>
         <source>SortAscending.content</source>
-        <translation></translation>
+        <translation>Seçimi, en düşük değerler sütunun üstünde olacak şekilde sıralayın.</translation>
     </message>
     <message>
         <source>ShapeFillColor2.content</source>
-        <translation></translation>
+        <translation>Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>DataDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Veri Ayrıntılı Ayarları İçeriği</translation>
     </message>
     <message>
         <source>NameCreate.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelerden adları otomatik olarak oluşturur.
+
+Birçok kişi, üst satırdaki metni veya bir seçimin en soldaki sütununu kullanmayı tercih eder.</translation>
     </message>
     <message>
         <source>SameLetterHeights.content</source>
-        <translation></translation>
+        <translation>Seçili WordArt&apos;ın tüm harflerini tam olarak aynı yüksekliğe getirin.</translation>
     </message>
     <message>
         <source>Logical.content</source>
-        <translation></translation>
+        <translation>Mantıksal işlevler listesine göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.title</source>
-        <translation></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>InsertDropDownList.content</source>
-        <translation></translation>
+        <translation>Açılır liste oluşturun ve seçenekler açılır listesini özelleştirin.</translation>
     </message>
     <message>
         <source>ExportFilterResult.content</source>
-        <translation></translation>
+        <translation>Süzgeç sonuçlarını yeni bir dosya veya yeni bir sayfa olarak kaydedin.</translation>
     </message>
     <message>
         <source>PublishToSharePoint.title</source>
-        <translation></translation>
+        <translation>Tabloyu SharePoint Listesine Aktar</translation>
     </message>
     <message>
         <source>CalculateSheet.title</source>
-        <translation></translation>
+        <translation>Çalışma Sayfasını Hesapla</translation>
     </message>
     <message>
         <source>Refresh.content</source>
-        <translation></translation>
+        <translation>Veri kaynağından gelen çalışma kitabındaki tüm bilgileri güncelleştirin.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FormatChartObject.content</source>
-        <translation></translation>
+        <translation>Grafik nesnelerinin Biçimlendir iletişim kutusunu göster. Grafik seçenekleri için ayrıntılı ayarları kullanabilirsiniz.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FillColor2.title</source>
-        <translation></translation>
+        <translation>Şekil Dolgusu</translation>
     </message>
     <message>
         <source>AllowEditRanges.content</source>
-        <translation></translation>
+        <translation>Belirli kişilerin korumalı bir çalışma kitabındaki veya sayfasındaki hücre aralıklarını düzenlemelerine izin verilir.
+
+Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak önce sayfayı güvenlik ayarlayın.</translation>
     </message>
     <message>
         <source>NamePaste.title</source>
-        <translation></translation>
+        <translation>İsmi Yapıştır</translation>
     </message>
     <message>
         <source>ImportData.content</source>
-        <translation></translation>
+        <translation>Seçili çalışma sayfasına dış verileri içe aktar.</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal2.content</source>
-        <translation></translation>
+        <translation>Yatay veya dikey metin eklemek için burayı tıklayın.</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTFieldSettings.title</source>
-        <translation></translation>
+        <translation>Alan Ayarları</translation>
     </message>
     <message>
         <source>RowsAndColumn.content</source>
-        <translation></translation>
+        <translation>Satır ve sütunları ayarlamak için burayı tıklayın. Yüksekliği ve genişliğini ayarlayabilir, dolguyu değiştirebilir veya satır ve sütunları gizleyebilirsiniz.</translation>
     </message>
     <message>
         <source>PivotChartAnalysis.content</source>
-        <translation></translation>
+        <translation>Verileri sınıflandırın ve özetleyin ve sonuçlarla grafik oluşturun.</translation>
     </message>
     <message>
         <source>RefreshAll.content</source>
-        <translation></translation>
+        <translation>Çalışma kitabındaki veri kaynağından gelen tüm bilgileri güncelleştirin.</translation>
     </message>
     <message>
         <source>SpellCheck.content</source>
-        <translation></translation>
+        <translation>Geçerli çalışma sayfasındaki metnin yazım denetimini yapın.</translation>
     </message>
     <message>
         <source>SplitSheet.content</source>
-        <translation></translation>
+        <translation>Geçerli tabloyu içeriğine göre birkaç dosyaya veya sayfaya bölün.</translation>
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation></translation>
+        <translation>Metni sağa hizalayın.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DeleteRange2.content</source>
-        <translation></translation>
+        <translation>Hücreleri, satırları veya tüm çalışma sayfasını silmek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>ChineseTranslation.title</source>
-        <translation></translation>
+        <translation>Geleneksel Çince ile Basitleştirilmiş</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation></translation>
+        <translation>Kenarlık ve hücredeki metin arasındaki kenar boşluğunu artırın.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation></translation>
+        <translation>Kenarlık ile hücrede metin arasındaki kenar boşluğunu azaltın.</translation>
     </message>
     <message>
         <source>SortDescending.content</source>
-        <translation></translation>
+        <translation>Seçimi, en yüksek değerler sütunun üstünde olacak şekilde sıralayın.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
-        <translation></translation>
+        <translation>PDF&apos;den Excel&apos;e</translation>
     </message>
     <message>
         <source>ProtectAndShare.title</source>
-        <translation></translation>
+        <translation>Çalışma Kitabını Koru ve Paylaş</translation>
     </message>
     <message>
         <source>FreezePanes.content</source>
-        <translation></translation>
+        <translation>Kalan kısmı kaydırırken sayfanın bir bölümünü görünür tutun. (Tüm çalışma sayfasında gezinmek için kilidi iptal edebilirsiniz).</translation>
     </message>
     <message>
         <source>SourceData.content</source>
-        <translation></translation>
+        <translation>Grafikte bulunan veri aralığını değiştirin.</translation>
     </message>
     <message>
         <source>HeaderRow.content</source>
-        <translation></translation>
+        <translation>Tablodaki üstbilgi satırını açar veya kapatır.
+
+Üstbilgi satırı, tablonun üst sırasını özel olarak biçimlendirir.</translation>
     </message>
     <message>
         <source>TextToColumns.content</source>
-        <translation></translation>
+        <translation>Bir Hesap Tablosu hücresinin içeriğini ayrı sütunlara ayırın.
+
+Örneğin, bir tam ad sütununu ayrı ayrı ad ve soyad sütunlarına ayırabilirsiniz.
+
+Metin Belgesi&apos;nde, seçilen metni bir tabloya dönüştürmek, metni her virgül, dönem veya belirttiğiniz diğer karakterdeki sütunlara bölmek için bu özelliği kullanın.</translation>
     </message>
     <message>
         <source>ChineseTranslation.content</source>
-        <translation></translation>
+        <translation>Basitleştirilmiş - Geleneksel Çince&apos;nin karakter veya kelime olması için çeviri birimine karar verin.</translation>
     </message>
     <message>
         <source>AllBorders.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>m_Format.title</source>
-        <translation></translation>
+        <translation>Biçim</translation>
     </message>
     <message>
         <source>MergeSheet.content</source>
-        <translation></translation>
+        <translation>Birden çok sayfayı bir yaprağa birleştirin.</translation>
     </message>
     <message>
         <source>Morefunctions.title</source>
-        <translation></translation>
+        <translation>Diğer İşlevler</translation>
     </message>
     <message>
         <source>FreezePanes.title</source>
-        <translation></translation>
+        <translation>Bölmeleri Dondur/Çöz</translation>
     </message>
     <message>
         <source>PublishToSharePoint.content</source>
-        <translation></translation>
+        <translation>Bu tablodaki verileri SharePoint listesine veya Visio diyagramına aktarın.</translation>
     </message>
     <message>
         <source>PrevPortrait.title</source>
-        <translation></translation>
+        <translation>Dikey</translation>
     </message>
     <message>
         <source>NewWindow.title</source>
-        <translation></translation>
+        <translation>Yeni Pencere</translation>
     </message>
     <message>
         <source>ImportData.title</source>
-        <translation></translation>
+        <translation>Verileri İçe Aktar</translation>
     </message>
     <message>
         <source>SplitPanes.title</source>
-        <translation></translation>
+        <translation>Böl/Bölme</translation>
     </message>
     <message>
         <source>RelativeReference.content</source>
-        <translation></translation>
+        <translation>Makroların seçilen ilk hücreye göre eylemlerle kaydedilmesi için göreli başvurular kullanın.</translation>
     </message>
     <message>
         <source>FormsToolbox.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Security.content</source>
-        <translation></translation>
+        <translation>Makro güvenlik ayarlarını özelleştirin.</translation>
     </message>
     <message>
         <source>PivotChart.content</source>
-        <translation></translation>
+        <translation>Makroların seçilen ilk hücreye göre eylemlerle kaydedilmesi için göreli başvurular kullanın.</translation>
     </message>
     <message>
         <source>RecenttlyUsed.title</source>
-        <translation></translation>
+        <translation>Son Kullanılanlar</translation>
     </message>
     <message>
         <source>Average.content</source>
-        <translation></translation>
+        <translation>Bağımsız değişkenlerin ortalamasını (aritmetik ortalama) verir.</translation>
     </message>
     <message>
         <source>FlashFill.content</source>
-        <translation></translation>
+        <translation>Mevcut örnek sonuçlara dayanarak, sonuç ve orijinal veriler arasındaki ilişki akıllıca analiz edilir ve aynı sütundaki diğer hücreler buna göre doldurulur.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoFilter.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelerin süzülmesini etkinleştirin.
+
+Süzme işlemi açıldığında, sütun için bir süzgeç seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>ShowDetail.title</source>
-        <translation></translation>
+        <translation>Ayrıntıyı Göster</translation>
     </message>
     <message>
         <source>TextFill2.content</source>
-        <translation></translation>
+        <translation>Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>DoubleUnderline.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>UnhideWindow.content</source>
-        <translation></translation>
+        <translation>Pencereyi Gizle özelliği tarafından gizlenmiş tüm pencereleri göster.</translation>
     </message>
     <message>
         <source>HideWindow.content</source>
-        <translation></translation>
+        <translation>Geçerli pencereyi gizle. 
+
+Pencereyi geri getirmek için Göster&apos;i tıklayın.</translation>
     </message>
     <message>
         <source>EvaluateFormula.title</source>
-        <translation></translation>
+        <translation>Formülü Değerlendir</translation>
     </message>
     <message>
         <source>SlicerItemHeight.content</source>
-        <translation></translation>
+        <translation>Dilimleyici düğmelerinin yüksekliğini değiştirin.</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
-        <translation></translation>
+        <translation>Yazı Tipi Boyutunu Küçült</translation>
     </message>
     <message>
         <source>Count.title</source>
-        <translation></translation>
+        <translation>Sayım</translation>
     </message>
     <message>
         <source>ReadingLayout.content</source>
-        <translation></translation>
+        <translation>Geçerli hücre ile aynı satır veya sütunda bulunan ilgili verileri kontrol etmek için uygundur.
+
+Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>Chart.title</source>
-        <translation></translation>
+        <translation>Etkileşimli Grafik Ekle</translation>
     </message>
     <message>
         <source>What-If Analysis.title</source>
-        <translation></translation>
+        <translation>Ne-Eğer Analizi</translation>
     </message>
     <message>
         <source>WinLossSparkline.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MergeColumns.content</source>
-        <translation></translation>
+        <translation>Bir veya birden çok satır boyunca hücreleri seçin ve birleştirin.</translation>
     </message>
     <message>
         <source>GraphicLineColor.title</source>
-        <translation></translation>
+        <translation>Grafik Anahat</translation>
     </message>
     <message>
         <source>ShowOrHideComment.title</source>
-        <translation></translation>
+        <translation>Yorumu Göster/Gizle.</translation>
     </message>
     <message>
         <source>ThickBoxBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>PrintLayout.content</source>
-        <translation></translation>
+        <translation>Çalışma kitabını yazdırılan sayfada görüneceği gibi görüntüleyin.</translation>
     </message>
     <message>
         <source>PrinterCollate.title</source>
-        <translation></translation>
+        <translation>Yazdırma Sırası</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
-        <translation></translation>
+        <translation>Align paragraph to both the left and right margins by adding extra space between each two characters for languages with tone mark and vowel mark.
+
+This creates a document with clean look.</translation>
     </message>
     <message>
         <source>PivotTableOrder.content</source>
-        <translation></translation>
+        <translation>Özet Tablo&apos;nun satır veya sütun alanını üst veya alt kısmına taşıyın.</translation>
     </message>
     <message>
         <source>Scientific.content</source>
-        <translation></translation>
+        <translation>Bilimsel gösterimde bir sayıyı, 2 ondalık basamaklı olarak biçimlendirin.</translation>
     </message>
     <message>
         <source>InteractiveChart.title</source>
-        <translation></translation>
+        <translation>Etkileşimli Grafik Ekle</translation>
     </message>
     <message>
         <source>FuncCatDateAndTime.content</source>
-        <translation></translation>
+        <translation>Tarih ve saat işlevleri listesine göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>UnhideWindow.title</source>
-        <translation></translation>
+        <translation>Pencereyi Göster</translation>
     </message>
     <message>
         <source>ShapeLineColor2.title</source>
-        <translation></translation>
+        <translation>Şekil Anahattı</translation>
     </message>
     <message>
         <source>SparklineClear.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ComAddin.title</source>
-        <translation></translation>
+        <translation>COM Eklentileri</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation></translation>
+        <translation>Belgenin üstbilgi ve altbilgisini düzenleyin.
+
+Üstbilgi veya altbilgideki bilgiler, yazdırılan her sayfanın üstünde veya altında görünecektir.</translation>
     </message>
     <message>
         <source>SeriesInRows.content</source>
-        <translation></translation>
+        <translation>Grafikler serilerini satırlar halinde oluşturulur.</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation></translation>
+        <translation>Bul ve Değiştir</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
-        <translation></translation>
+        <translation>Üstbilgi ve Altbilgi</translation>
     </message>
     <message>
         <source>SortDescending.title</source>
-        <translation></translation>
+        <translation>Descending</translation>
     </message>
     <message>
         <source>ConditionalFormat.title</source>
-        <translation></translation>
+        <translation>Koşullu Biçimlendirme</translation>
     </message>
     <message>
         <source>PivotTable.content</source>
-        <translation></translation>
+        <translation>Özet Tablo veri kaynağını değiştirin ve görüntü konumunu sıfırlayın.</translation>
     </message>
     <message>
         <source>ShowFormulas.title</source>
-        <translation></translation>
+        <translation>Formülleri Göster</translation>
     </message>
     <message>
         <source>EnableMacro.content</source>
-        <translation></translation>
+        <translation>To enable macro functions, you need to install VAB support library. Click to know details.</translation>
     </message>
     <message>
         <source>FTB_Property.title</source>
-        <translation></translation>
+        <translation>Kontrol Özellikleri</translation>
     </message>
     <message>
         <source>Lighting.title</source>
-        <translation></translation>
+        <translation>Aydınlatma</translation>
     </message>
     <message>
         <source>DataDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Veri Ayrıntılı Ayarları</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation></translation>
+        <translation>Ortaya Hizala</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SparkAxis.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RefreshAll.title</source>
-        <translation></translation>
+        <translation>Tümünü Yenile</translation>
     </message>
     <message>
         <source>ExistingConnections.title</source>
-        <translation></translation>
+        <translation>Varolan Bir Bağlantıyı Kullanarak Veri Al</translation>
     </message>
     <message>
         <source>SplitSheet.title</source>
-        <translation></translation>
+        <translation>Tabloyu Böl</translation>
     </message>
     <message>
         <source>FlashFill.title</source>
-        <translation></translation>
+        <translation>Hızlı Doldurma</translation>
     </message>
     <message>
         <source>LoadMacro.title</source>
-        <translation></translation>
+        <translation>Eklentiler</translation>
     </message>
     <message>
         <source>ContextTextDirection.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
-        <translation></translation>
+        <translation>Ekran Yakalama, metin içeriğinin tek tıklamayla çıkarılması.</translation>
     </message>
     <message>
         <source>Margins.title</source>
-        <translation></translation>
+        <translation>Kenar Boşlukları</translation>
     </message>
     <message>
         <source>ThickBoxBorder.title</source>
-        <translation></translation>
+        <translation>Thick Box Border</translation>
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation></translation>
+        <translation>WPS Ofis Galeri</translation>
     </message>
     <message>
         <source>LockCell.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfası korunuyorsa, Hücreyi Kilitle özelliği verileri değiştirilmekten koruyabilir.</translation>
     </message>
     <message>
         <source>NumberFormatGallery.content</source>
-        <translation></translation>
+        <translation>Yüzde, Para Birimi, tarih veya saat gibi hücrelerin sayı biçimini seçin...</translation>
     </message>
     <message>
         <source>PTSortAndTopTen.content</source>
-        <translation></translation>
+        <translation>Özet Tablo alanının otomatik sıralama seçeneği ayarlayın.</translation>
     </message>
     <message>
         <source>DoubleAccounting.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SortAndFilter.title</source>
-        <translation></translation>
+        <translation>Sırala</translation>
     </message>
     <message>
         <source>SeriesInColumns.content</source>
-        <translation></translation>
+        <translation>Çizelge serisi sütunlarda oluşturulur.</translation>
     </message>
     <message>
         <source>Table.title</source>
-        <translation></translation>
+        <translation>Veri Tablosu</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Çizim Araçları Detaylı Ayarlar</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PTFilterConnections.content</source>
-        <translation></translation>
+        <translation>Özet Tablonun hangi filtrelere bağlı olduğunu yönetin.</translation>
     </message>
     <message>
         <source>Lighting.content</source>
-        <translation></translation>
+        <translation>Seçilen 3B şekli için aydınlatma yönünü ve yoğunluğunu ayarlayın. İkincisi parlak, normal ve loş içerir.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.title</source>
-        <translation></translation>
+        <translation>Resim Ekle</translation>
     </message>
     <message>
         <source>PTFilterConnections.title</source>
-        <translation></translation>
+        <translation>Süzgeç Bağlantıları</translation>
     </message>
     <message>
         <source>CellStyleGallery.content</source>
-        <translation></translation>
+        <translation>Önceden tanımlanmış bir stil seçme veya hızlı ayarlanan hücre türleri. Stilleri de özelleştirebilirsiniz.</translation>
     </message>
     <message>
         <source>SeriesInRows.title</source>
-        <translation></translation>
+        <translation>Satır Değiştir</translation>
     </message>
     <message>
         <source>FTB_Property.content</source>
-        <translation></translation>
+        <translation>Yazı tipi ve boyut gibi seçili form nesnesi özelliklerini ayarlayın.</translation>
     </message>
     <message>
         <source>PageOrientation.content</source>
-        <translation></translation>
+        <translation>Sayfa yönünü dikey ile yatay arasında değiştirin.</translation>
     </message>
     <message>
         <source>RightBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>PTNotRepeatLabels.content</source>
-        <translation></translation>
+        <translation>Yinelenen üst öğe etiketlerinden sadece birini göster.</translation>
     </message>
     <message>
         <source>TextOrientation.content</source>
-        <translation></translation>
+        <translation>Metni çapraz açıyla veya dikey yönde döndürün.
+
+Bu genellikle dar sütunları etiketlemek için kullanılır.
+
+Metni normal oryantasyona geri döndürmek için, şu an seçili olan metin oryantasyonunu tekrar tıklayın.</translation>
     </message>
     <message>
         <source>VAlignTop.content</source>
-        <translation></translation>
+        <translation>Metni hücrenin üstüne hizalayın.</translation>
     </message>
     <message>
         <source>TranslateToSimplifiedChinese.content</source>
-        <translation></translation>
+        <translation>Geleneksel Çince&apos;yi Basitleştirilmiş Çince&apos;ye çevirin.</translation>
     </message>
     <message>
         <source>PageBreakPreview.title</source>
-        <translation></translation>
+        <translation>Sayfa Sonu Önizleme</translation>
     </message>
     <message>
         <source>FillColor.title</source>
-        <translation></translation>
+        <translation>Şekil Dolgusu</translation>
     </message>
     <message>
         <source>AdvancedFilter.title</source>
-        <translation></translation>
+        <translation>Gelişmiş Süzgeç</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation></translation>
+        <translation>Floating Toolbar</translation>
     </message>
     <message>
         <source>FormulaErrorCheck.title</source>
-        <translation></translation>
+        <translation>Hata Denetimi</translation>
     </message>
     <message>
         <source>CommaStyle.content</source>
-        <translation></translation>
+        <translation>Binlik ayırıcı ile hücrenin değerini görüntüleyin.</translation>
     </message>
     <message>
         <source>LockSideBySide.content</source>
-        <translation></translation>
+        <translation>İki belgenin birlikte kaydırılması için senkronize edin. Bu özelliği etkinleştirmek için Yan Yana Görüntüle seçeneğini açın.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NameManager.title</source>
-        <translation></translation>
+        <translation>İsim Yöneticisi</translation>
     </message>
     <message>
         <source>RunMacro2.title</source>
-        <translation></translation>
+        <translation>Makroları Görüntüle</translation>
     </message>
     <message>
         <source>ChartObjects.content</source>
-        <translation></translation>
+        <translation>Biçimlendirmek için bir çizelge öğesi seçin.</translation>
     </message>
     <message>
         <source>RecentLineWrap.title</source>
-        <translation></translation>
+        <translation>Metni Kaydır</translation>
     </message>
     <message>
         <source>AutoSum.title</source>
-        <translation></translation>
+        <translation>Otomatik Toplam</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation></translation>
+        <translation>Bozuk veya başka nedenlerle açılamayan belgeleri hızla düzeltin.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EDRProperties.content</source>
-        <translation></translation>
+        <translation>Harici veri kaynağı adlarını, sayı biçimini ve düzenini değiştirin.</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
-        <translation></translation>
+        <translation>Şekil biçimlendirme ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>sp_AutoSum.title</source>
-        <translation></translation>
+        <translation>Otomatik Toplam</translation>
     </message>
     <message>
         <source>AutoFilter.title</source>
-        <translation></translation>
+        <translation>Otomatik Süzgeç</translation>
     </message>
     <message>
         <source>DataGroup.content</source>
-        <translation></translation>
+        <translation>Bir dizi hücreyi, daraltılabilecek veya genişletilebilecek şekilde birbirine bağlayın</translation>
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation></translation>
+        <translation>Dosya Sıkıştırma</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
-        <translation></translation>
+        <translation>&quot;dosya sıkıştırma&quot; özelliği dosya boyutunu azaltmanıza yardımcı olabilir.</translation>
     </message>
     <message>
         <source>PTNotRepeatLabels.title</source>
-        <translation></translation>
+        <translation>Öğe Etiketlerini Tekrarlama</translation>
     </message>
     <message>
         <source>Duplicates.title</source>
-        <translation></translation>
+        <translation>Yinelenenler</translation>
     </message>
     <message>
         <source>ResizeTable.title</source>
-        <translation></translation>
+        <translation>Tabloyu Yeniden Boyutlandır</translation>
     </message>
     <message>
         <source>sp_AutoSum2.content</source>
-        <translation></translation>
+        <translation>Seçilen hücrelerden sonra Ortalama veya Maksimum değer gibi basit bir hesaplamanın sonucunu görüntülemek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>PercentStyle.title</source>
-        <translation></translation>
+        <translation>Yüzde Stili</translation>
     </message>
     <message>
         <source>CellStyleGallery.title</source>
-        <translation></translation>
+        <translation>Hücre Stilleri</translation>
     </message>
     <message>
         <source>BandedColumns.title</source>
-        <translation></translation>
+        <translation>Bantlı Sütunlar</translation>
     </message>
     <message>
         <source>Camera.title</source>
-        <translation></translation>
+        <translation>Kamera</translation>
     </message>
     <message>
         <source>Currency.title</source>
-        <translation></translation>
+        <translation>Para Birimi</translation>
     </message>
     <message>
         <source>FormatChartObject.title</source>
-        <translation></translation>
+        <translation>Seçimi Biçimlendir</translation>
     </message>
     <message>
         <source>sp_AutoSum.content</source>
-        <translation></translation>
+        <translation>Seçilen hücrelerin toplamını, seçilen hücrelerin hemen ardından görüntüleyin.</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NoBorder.title</source>
-        <translation></translation>
+        <translation>Kenarlık Yok</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation></translation>
+        <translation>Insert an embedded object into the document.
+
+Click the arrow to insert file content into the document.</translation>
     </message>
     <message>
         <source>VAlignBottom.content</source>
-        <translation></translation>
+        <translation>Metni hücrenin altına hizalayın.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation></translation>
+        <translation>Tie a range of cells together so that they can be collapsed or expanded.</translation>
     </message>
     <message>
         <source>SeriesInColumns.title</source>
-        <translation></translation>
+        <translation>Sütun Değiştir</translation>
     </message>
     <message>
         <source>NameDefine.content</source>
-        <translation></translation>
+        <translation>Formüllerde bu ada göre başvurabilmeniz için hücreleri adlandırın.
+
+Örneğin, A1: A10 hücrelerini seçin ve bu hücre aralığını &apos;test&apos; olarak adlandırın.
+
+İsimler formüllerde anlaşılmasını kolaylaştırmak için kullanılabilir.</translation>
     </message>
     <message>
         <source>PTRepeatLabels.title</source>
-        <translation></translation>
+        <translation>Tüm Öğe Etiketlerini Tekrarla</translation>
     </message>
     <message>
         <source>HideDetail.title</source>
-        <translation></translation>
+        <translation>Ayrıntıyı Gizle</translation>
     </message>
     <message>
         <source>PrinterPaperSize.content</source>
-        <translation></translation>
+        <translation>Hangi kağıt boyutunun yazdırılacağını belirtin, örneğin A3, A4, vb.</translation>
     </message>
     <message>
         <source>RecordList.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfasına hücre, satır veya sütun eklemek veya tamamen yeni bir çalışma sayfası eklemek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>OnlineCooperation.title</source>
-        <translation></translation>
+        <translation>Çevrimiçi İşbirliği</translation>
     </message>
     <message>
         <source>InsertObject.title</source>
-        <translation></translation>
+        <translation>Nesne Ekle</translation>
     </message>
     <message>
         <source>DataGroup.title</source>
-        <translation></translation>
+        <translation>Group</translation>
     </message>
     <message>
         <source>DisplayGridlines.content</source>
-        <translation></translation>
+        <translation>Düzenlemeyi ve okumayı kolaylaştırmak için sayfadaki satır ve sütunlar arasındaki çizgileri gösterin.
+
+Bu çizgiler ayrıca Yazdır seçeneği işaretlenmedikçe yazdırılmaz.</translation>
     </message>
     <message>
         <source>OutsideBorders.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>TranslateToTraditionalChinese.content</source>
-        <translation></translation>
+        <translation>Basitleştirilmiş Çince&apos;yi Geleneksel Çince&apos;ye çevirin.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation></translation>
+        <translation>WordArt metin kutusu kullanarak belgenize bazı sanatsal özellikler ekleyin.</translation>
     </message>
     <message>
         <source>MergeColumns.title</source>
-        <translation></translation>
+        <translation>Yana Birleştir</translation>
     </message>
     <message>
         <source>ModifyPivotTable.content</source>
-        <translation></translation>
+        <translation>Özet Tablo veri kaynağını değiştirin ve görüntüleme konumunu sıfırlayın.</translation>
     </message>
     <message>
         <source>FormulaErrorCheck.content</source>
-        <translation></translation>
+        <translation>Formülleri kullanırken sık karşılaşılan hataları kontrol edin.</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
-        <translation></translation>
+        <translation>Okumayı durdurmak için burayı tıklayın.</translation>
     </message>
     <message>
         <source>SparklineLowPoint.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DuplicateItemsManager.title</source>
-        <translation></translation>
+        <translation>Yinelenenleri Yönet</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Ana Sayfa Ayrıntılı Ayarlar</translation>
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation></translation>
+        <translation>Panoya kopyalanan öğeleri kontrol edin.</translation>
     </message>
     <message>
         <source>HighlightDisplay.content</source>
-        <translation></translation>
+        <translation>Daha kolay karşılaştırmak için benzer kayıtları vurgulayın.</translation>
     </message>
     <message>
         <source>PageLayoutView.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Translate Image.title</source>
-        <translation></translation>
+        <translation>Resmi Çevir</translation>
     </message>
     <message>
         <source>LastColumn.content</source>
-        <translation></translation>
+        <translation>Tablonun son sütunu için özel biçimlendirmeyi görüntüleyin.</translation>
     </message>
     <message>
         <source>PageOrientation.title</source>
-        <translation></translation>
+        <translation>Sayfa Yönlendirme</translation>
     </message>
     <message>
         <source>PageBreakPreview.content</source>
-        <translation></translation>
+        <translation>Çalışma kitabı yazdırıldığında sayfaların nerede kesileceğinin bir önizlemesini görüntüleyin.</translation>
     </message>
     <message>
         <source>FontFormatCells.title</source>
-        <translation></translation>
+        <translation>Yazı Tipi Ayarları</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.content</source>
-        <translation></translation>
+        <translation>Sıkıcı ayarlara tekrar gitmek zorunda kalmadan, Sık Kullanılanlar kısmına tıklayarak tabloyu bir adımda süzün.</translation>
     </message>
     <message>
         <source>ShapeLineColor.content</source>
-        <translation></translation>
+        <translation>Seçilen nesnenin anahattı için renk, genişlik ve çizgi stilini ayarlayın.
+
+Anahat için ayrıntılı ayarlar seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>VAlignBottom.title</source>
-        <translation></translation>
+        <translation>Alta Hizala</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation></translation>
+        <translation>Metni Sağa Hizala</translation>
     </message>
     <message>
         <source>SparklineClear.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation></translation>
+        <translation>Geçerli çalışma kitabının otomatik kaydedilmesini durdurun.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation></translation>
+        <translation>WordArt Ekle</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.content</source>
-        <translation></translation>
+        <translation>WordArt Ekle</translation>
     </message>
     <message>
         <source>PivotTableDelete.title</source>
-        <translation></translation>
+        <translation>Özet Tablo Sil</translation>
     </message>
     <message>
         <source>AddFavorite.content</source>
-        <translation></translation>
+        <translation>Mevcut süzgeç koşullarını Sık Kullanılanlar&apos;a ekleyin, böylece bir dahaki sefere doğrudan kullanabilirsiniz.</translation>
     </message>
     <message>
         <source>PageZoom.title</source>
-        <translation></translation>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>ShowDependents.content</source>
-        <translation></translation>
+        <translation>Seçili hücrenin değerinden hangi hücrelerin etkilendiğini gösteren okları göster.</translation>
     </message>
     <message>
         <source>TopAndBottomBorder.title</source>
-        <translation></translation>
+        <translation>Üst ve Alt Kenarlık</translation>
     </message>
     <message>
         <source>BottomDoubleBorder.title</source>
-        <translation></translation>
+        <translation>Alt Çift Kenarlık</translation>
     </message>
     <message>
         <source>Accounting.content</source>
-        <translation></translation>
+        <translation>Seçilen hücre için alternatif bir Muhasebe biçimi seçin ve para birimi simgesinin sola hizalanmasını sağlayın.</translation>
     </message>
     <message>
         <source>DataUngroup2.content</source>
-        <translation></translation>
+        <translation>Daha önce gruplandırılmış bir hücre aralığını gruptan çıkarın.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Anasayfa Ayrıntılı Ayarlar İçeriği</translation>
     </message>
     <message>
         <source>FirstColumn.title</source>
-        <translation></translation>
+        <translation>İlk Sütun</translation>
     </message>
     <message>
         <source>sp_AutoSum2.title</source>
-        <translation></translation>
+        <translation>Otomatik Toplam</translation>
     </message>
     <message>
         <source>MergeCenter2.title</source>
-        <translation></translation>
+        <translation>Birleştir ve Ortala</translation>
     </message>
     <message>
         <source>RotateRight.content</source>
-        <translation></translation>
+        <translation>Seçili nesneyi döndürün veya çevirin.</translation>
     </message>
     <message>
         <source>InsertRange2.title</source>
-        <translation></translation>
+        <translation>Hücreleri Ekle</translation>
     </message>
     <message>
         <source>Direction.title</source>
-        <translation></translation>
+        <translation>Yön</translation>
     </message>
     <message>
         <source>FTB_EditCode.title</source>
-        <translation></translation>
+        <translation>Kod Düzenle</translation>
     </message>
     <message>
         <source>SheetBackground.content</source>
-        <translation></translation>
+        <translation>Arka planınız için bir resim seçin ve çalışma sayfanızı kişiselleştirin.</translation>
     </message>
     <message>
         <source>SlicerItemWidth.content</source>
-        <translation></translation>
+        <translation>Dilimleyici düğmelerinin genişliğini değiştirin.</translation>
     </message>
     <message>
         <source>LastColumn.title</source>
-        <translation></translation>
+        <translation>Son Sütun</translation>
     </message>
     <message>
         <source>TopAndThickBottomBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>InsertSlicer.title</source>
-        <translation></translation>
+        <translation>Dilimleyici Ekle</translation>
     </message>
     <message>
         <source>Scientific.title</source>
-        <translation></translation>
+        <translation>Bilimsel Stil</translation>
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation></translation>
+        <translation>Yazdırılan bir sonraki sayfaya gidin.</translation>
     </message>
     <message>
         <source>InsertPageBreak.title</source>
-        <translation></translation>
+        <translation>Sayfa Sonları</translation>
     </message>
     <message>
         <source>Min.content</source>
-        <translation></translation>
+        <translation>Bir değer kümesindeki en küçük sayıyı döndürür.</translation>
     </message>
     <message>
         <source>Max.content</source>
-        <translation></translation>
+        <translation>Bir değer kümesindeki en büyük değeri döndürür.</translation>
     </message>
     <message>
         <source>RTLTextDirection.content</source>
-        <translation></translation>
+        <translation>Set the text to read from right to left.</translation>
     </message>
     <message>
         <source>Printer.content</source>
-        <translation></translation>
+        <translation>Yazdırmayı yürütmek için bir yazıcı seçin.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
-        <translation></translation>
+        <translation>Sonraki sayfayı geçerli imleç konumunda başlatın, imleçten sonraki içerik yeni sayfaya taşınacaktır.</translation>
     </message>
     <message>
         <source>PrintTitle.content</source>
-        <translation></translation>
+        <translation>Yazdırılan her sayfada tekrarlanacak satır ve sütunları belirtin.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation></translation>
+        <translation>Resmi ayarlarken en boy oranını kilitle.</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
-        <translation></translation>
+        <translation>Değişiklikleri İzle</translation>
     </message>
     <message>
         <source>SparklineMarkers.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SlicerReportConnection.content</source>
-        <translation></translation>
+        <translation>Dilimleyicinin bağlı olduğu Özet Tablo&apos;ları yönetin.</translation>
     </message>
     <message>
         <source>ShapeLineColor2.content</source>
-        <translation></translation>
+        <translation>Anahat için ayrıntılı ayarları seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.content</source>
-        <translation></translation>
+        <translation>Geçerli çalışma sayfasının yakınlaştırma boyutunu seçin.</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation></translation>
+        <translation>Geçerli çalışma sayfasının görünümünü içeren yeni bir pencere açın.</translation>
     </message>
     <message>
         <source>PrinterSide.content</source>
-        <translation></translation>
+        <translation>Çift taraflı olup olmadığını belirtin.</translation>
     </message>
     <message>
         <source>TrackChanges.content</source>
-        <translation></translation>
+        <translation>Ekleme, silme ve biçimlendirme değişiklikleri dahil, çalışma kitabında yapılan tüm değişiklikleri izleyin.</translation>
     </message>
     <message>
         <source>BottomBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>SameLetterHeights.title</source>
-        <translation></translation>
+        <translation>WordArt Benzer Harf Yükseklikleri</translation>
     </message>
     <message>
         <source>LTRTextDirection.content</source>
-        <translation></translation>
+        <translation>Set the text to read from left to right.</translation>
     </message>
     <message>
         <source>ExitPreview.content</source>
-        <translation></translation>
+        <translation>Baskı Önizleme&apos;den çıkın ve belge düzenleme moduna geri dönün.</translation>
     </message>
     <message>
         <source>TaskWindow.title</source>
-        <translation></translation>
+        <translation>Görev Penceresi</translation>
     </message>
     <message>
         <source>FTB_EditCode.content</source>
-        <translation></translation>
+        <translation>Seçili form kodunu düzenlemek için visual basic düzenleyicisini başlatın.</translation>
     </message>
     <message>
         <source>PrintPreviewMargins.title</source>
-        <translation></translation>
+        <translation>Kenar Boşlukları</translation>
     </message>
     <message>
         <source>ConditionalFormat.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfasının içeriği ile yazdırılan sayfanın kenarı arasındaki mesafeyi belirtin.</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation></translation>
+        <translation>Seçilen şekli düz renk, geçiş, resim veya doku ile doldurun.
+
+Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.title</source>
-        <translation></translation>
+        <translation>Geçerli sayfanın tüm yorumlarını sıfırla.</translation>
     </message>
     <message>
         <source>ColumnsCenter.title</source>
-        <translation></translation>
+        <translation>Yatay Ortala</translation>
     </message>
     <message>
         <source>PrintHeadings.title</source>
-        <translation></translation>
+        <translation>Başlıkları Yazdır</translation>
     </message>
     <message>
         <source>RecordMacro.title</source>
-        <translation></translation>
+        <translation>Makro Kaydet</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation></translation>
+        <translation>Metni Sola Hizala</translation>
     </message>
     <message>
         <source>ProtectSheet.title</source>
-        <translation></translation>
+        <translation>Sayfayı Koru</translation>
     </message>
     <message>
         <source>NameManager.content</source>
-        <translation></translation>
+        <translation>Çalışma kitabında kullanılan tüm adları oluşturma, düzenleme, silme ve bulma
+
+İsimler formüllerde hücre referanslarının yerine kullanılabilir.
+
+Örneğin:</translation>
     </message>
     <message>
         <source>Thesaurus.title</source>
-        <translation></translation>
+        <translation>Eş Anlamlılar</translation>
     </message>
     <message>
         <source>PrinterMoreSetup.content</source>
-        <translation></translation>
+        <translation>Yazıcıyı, kopya sayısı, çift yönlü mod vb. dahil olmak üzere daha ayrıntılı kurulum için yazdırma iletişim kutusunu açın.</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation></translation>
+        <translation>Şekil Dolgusu</translation>
     </message>
     <message>
         <source>LockTitleRows.content</source>
-        <translation></translation>
+        <translation>Büyük miktarda veri okurken başlık satırının sürekli referans olması için her zaman gösterilmesini sağlayın.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.content</source>
-        <translation></translation>
+        <translation>Anahat için ayrıntılı ayarları seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>ProtectSheet.content</source>
-        <translation></translation>
+        <translation>Hangi bilgilerin değiştirilebileceğini belirterek sayfadaki verilerde yapılacak istenmeyen değişiklikleri önleyin.
+
+Örneğin, kişilerin kilitli hücreleri düzenlemelerini veya belgenin biçimin değiştirmelerini önleyebilirsiniz.
+
+Sayfa korumasını kaldırmak ve bu değişikliklere izin vermek için bir parola belirleyebilirsiniz.</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.title</source>
-        <translation></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTool.content</source>
-        <translation></translation>
+        <translation>Resim biçimlendirme ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ConditionalFormatting.title</source>
-        <translation></translation>
+        <translation>Koşullu Biçimlendirme</translation>
     </message>
     <message>
         <source>Connections.content</source>
-        <translation></translation>
+        <translation>Çalışma kitabı için tüm veri bağlantılarını göster.
+
+Veri Bağlantıları, kaynak çalışma verileri değiştiğinde güncellenebilecek olan bu çalışma kitabının dışındaki bağlantılardır.</translation>
     </message>
     <message>
         <source>EDRProperties.title</source>
-        <translation></translation>
+        <translation>Veri Aralığı Özellikleri</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SparklineEditGroupData.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ThickBottomBorder.title</source>
-        <translation></translation>
+        <translation>Kalın Alt Kenarlık</translation>
     </message>
     <message>
         <source>FormatAsTable.content</source>
-        <translation></translation>
+        <translation>Bir hücre aralığını kendi stiliyle bir tabloya hızla dönüştürün.</translation>
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfalarını dikey olarak ayarlayın.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation></translation>
+        <translation>Convert Picture to Text</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation></translation>
+        <translation>Makrolar iletişim kutusunu gösterin ve makroyu çalıştırabileceğiniz, oluşturabileceğiniz veya silebileceğiniz makrolar listesini görüntüleyin.</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation></translation>
+        <translation>Metni sola hizalayın.</translation>
     </message>
     <message>
         <source>ConvertToRange.title</source>
-        <translation></translation>
+        <translation>Aralığa Dönüştür</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation></translation>
+        <translation>Metni konuşmaya çevirin. Bu özellik için her gün bir ücretsiz deneme hakkınız var.</translation>
     </message>
     <message>
         <source>Max.title</source>
-        <translation></translation>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>PTRefreshData.title</source>
-        <translation></translation>
+        <translation>Verileri Yenile</translation>
     </message>
     <message>
         <source>FillColor2.content</source>
-        <translation></translation>
+        <translation>Farklı bir arka plan rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>PrintNormalView.title</source>
-        <translation></translation>
+        <translation>Normal Görünüm</translation>
     </message>
     <message>
         <source>TextOrientation.title</source>
-        <translation></translation>
+        <translation>Yönlendirme</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation></translation>
+        <translation>Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>GraphicFillColor2.title</source>
-        <translation></translation>
+        <translation>Grafik Dolgu</translation>
     </message>
     <message>
         <source>DeleteRange2.title</source>
-        <translation></translation>
+        <translation>Hücreleri sil</translation>
     </message>
     <message>
         <source>PTSubtotals.content</source>
-        <translation></translation>
+        <translation>Alt toplamları göster veya gizle.</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
-        <translation></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>ObjectSelect.content</source>
-        <translation></translation>
+        <translation>Tek bir nesneyi kolayca bulmak ya da sırasını ve görünürlüğünü ayarlamak için Seçim Bölmesi görev penceresini gösterin.</translation>
     </message>
     <message>
         <source>PTTableOptions.title</source>
-        <translation></translation>
+        <translation>Özet Tablo Seçenekleri</translation>
     </message>
     <message>
         <source>CalculateSheet.content</source>
-        <translation></translation>
+        <translation>Geçerli sayfayı şimdi hesaplayın.
+
+Bu sadece otomatik hesaplama kapatılmışsa gereklidir.</translation>
     </message>
     <message>
         <source>Gallery.content</source>
-        <translation></translation>
+        <translation>WPS Galeri, kullanmanız, toplamanız, düzenlemeniz ve yönetmeniz için her türlü resim kaynağını sağlar.
+
+WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translation>
     </message>
     <message>
         <source>NumberFormatCells.content</source>
-        <translation></translation>
+        <translation>Hücreleri Biçimlendir iletişim kutusunun Sayı sekmesini gösterin.</translation>
     </message>
     <message>
         <source>LoadMacro.content</source>
-        <translation></translation>
+        <translation>Bu dosyayla kullanılabilecek Eklentileri yönetin.</translation>
     </message>
     <message>
         <source>GraphicFillColor.content</source>
-        <translation></translation>
+        <translation>Seçilen grafiği düz bir renkle doldurun.
+
+Farklı dolgu efektleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>InsertRange2.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfasına hücre, satır veya sütun eklemek veya tamamen yeni bir çalışma sayfası eklemek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>VerticalText.title</source>
-        <translation></translation>
+        <translation>WordArt Dikey Metin</translation>
     </message>
     <message>
         <source>ObjectSelect.title</source>
-        <translation></translation>
+        <translation>Seçim Bölmesi</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.title</source>
-        <translation></translation>
+        <translation>Hücreleri Biçimlendir: Hizalama</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation></translation>
+        <translation>Boyutu azaltmak için seçilen resmi veya çalışma sayfasındaki tüm resimleri sıkıştırın.</translation>
     </message>
     <message>
         <source>SortAscending.title</source>
-        <translation></translation>
+        <translation>Artan</translation>
     </message>
     <message>
         <source>PTHideFieldList.content</source>
-        <translation></translation>
+        <translation>Alan Listesini göster veya gizle.
+
+Alan listesi, alan eklemenizi ve silmenizi sağlar.</translation>
     </message>
     <message>
         <source>SlicerSetting.title</source>
-        <translation></translation>
+        <translation>Dilimleyici Ayarları</translation>
     </message>
     <message>
         <source>LookupAndReference.title</source>
-        <translation></translation>
+        <translation>Arama &amp; Başvuru</translation>
     </message>
     <message>
         <source>SplitPanes.content</source>
-        <translation></translation>
+        <translation>Pencereyi, çalışma sayfanızın görünümlerini içeren birden çok yeniden boyutlandırılabilir bölmeye bölün.
+
+Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek için bu özelliği kullanabilirsiniz.</translation>
     </message>
     <message>
         <source>PageLayoutView.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrintHeaderFooter.title</source>
-        <translation></translation>
+        <translation>Üstbilgi ve Altbilgiyi Yazdır</translation>
     </message>
     <message>
         <source>EditCrossBookLinks.content</source>
-        <translation></translation>
+        <translation>Verileri güncellemek veya bağlantıları silmek için, bu çalışma kitabına bağlanan tüm dosyaları görüntüleyin.</translation>
     </message>
     <message>
         <source>Ai Matting.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>StopAutoVersion.title</source>
-        <translation></translation>
+        <translation>Otomatik Yedeklemeyi Durdur</translation>
     </message>
     <message>
         <source>Financial.title</source>
-        <translation></translation>
+        <translation>Finansal</translation>
     </message>
     <message>
         <source>SparklineFirstPoint.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrevPreviousPage.title</source>
-        <translation></translation>
+        <translation>Finansal işlevler listesine göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>ClearArrows.content</source>
-        <translation></translation>
+        <translation>İzleme Emsalleri veya Bağımlılar tarafından çizilen okları kaldırın.</translation>
     </message>
     <message>
         <source>TranslateToTraditionalChinese.title</source>
-        <translation></translation>
+        <translation>Basitleştirilmiş Çince&apos;den Geleneksel Çince&apos;ye</translation>
     </message>
     <message>
         <source>EquationEditor.content</source>
-        <translation></translation>
+        <translation>Denklem düzenleyicisi kullanarak matematiksel denklemler ekleyin.</translation>
     </message>
     <message>
         <source>sp_Copy.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>LeftBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>Morefunctions.content</source>
-        <translation></translation>
+        <translation>İstatistik, mühendislik, küp ve bilgi işlevleri listelerine göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>OtherBorders.content</source>
-        <translation></translation>
+        <translation>Hücre kenarlıklarını seçmek için ayrıntılı ayarları kullanabilirsiniz.</translation>
     </message>
     <message>
         <source>DecreaseDecimal.content</source>
-        <translation></translation>
+        <translation>Daha az ondalık basamak göstererek daha az kesin değerler gösterin.</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation></translation>
+        <translation>Girintiyi Artır</translation>
     </message>
     <message>
         <source>CharacterSpacing.title</source>
-        <translation></translation>
+        <translation>WordArt Karakter Aralığı</translation>
     </message>
     <message>
         <source>FuncCatDateAndTime.title</source>
-        <translation></translation>
+        <translation>Tarih &amp; Zaman</translation>
     </message>
     <message>
         <source>ProtectAndShare.content</source>
-        <translation></translation>
+        <translation>Çalışma kitabını paylaşın ve aynı anda bir parola ile koruyun.
+
+Şifre, başkalarının değişiklik izlemeyi kapatmasını önleyecektir.</translation>
     </message>
     <message>
         <source>OtherBorders.title</source>
-        <translation></translation>
+        <translation>Diğer Kenarlıklar</translation>
     </message>
     <message>
         <source>LockSideBySide.title</source>
-        <translation></translation>
+        <translation>Senkron Kaydırma.</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.content</source>
-        <translation></translation>
+        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>What-If%20Analysis.title</source>
-        <translation></translation>
+        <translation>Ne-Eğer Analizi</translation>
     </message>
     <message>
         <source>ExistingConnections.content</source>
-        <translation></translation>
+        <translation>Ortak kaynaklardaki verileri içe aktar.</translation>
     </message>
     <message>
         <source>DrawBorder.content</source>
-        <translation></translation>
+        <translation>Kenarlık çizgisi çizmek için buraya tıklayın ve çizmek için fareyi sürükleyin.
+
+Çizim modundan çıkmak için klavyede Esc tuşuna basın veya buraya tekrar tıklayın.</translation>
     </message>
     <message>
         <source>IncreaseDecimal.content</source>
-        <translation></translation>
+        <translation>Daha fazla ondalık basamak göstererek daha kesin değerler gösterin.</translation>
     </message>
     <message>
         <source>Hyperlink.title</source>
-        <translation></translation>
+        <translation>Köprü Ekle</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.title</source>
-        <translation></translation>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>DeleteRange.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfasındaki hücreleri, satırları veya sütunları silin.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrintPreview.title</source>
-        <translation></translation>
+        <translation>Baskı Önizleme</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation></translation>
+        <translation>Seçilen yorumu silin.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.title</source>
-        <translation></translation>
+        <translation>Bağlantıları Raporla</translation>
     </message>
     <message>
         <source>Slicer.content</source>
-        <translation></translation>
+        <translation>Verileri görsel olarak süzmek için bir Dilimleyici kullanın.
+
+Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale getirir.</translation>
     </message>
     <message>
         <source>LockCell.title</source>
-        <translation></translation>
+        <translation>Hücreyi Kilitle</translation>
     </message>
     <message>
         <source>SourceData.title</source>
-        <translation></translation>
+        <translation>Veri Seç</translation>
     </message>
     <message>
         <source>TextFill2.title</source>
-        <translation></translation>
+        <translation>Metin Rengi</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ResizeTable.content</source>
-        <translation></translation>
+        <translation>Satır ve sütun ekleyerek veya kaldırarak bu tabloyu yeniden boyutlandırın.</translation>
     </message>
     <message>
         <source>MergeSheet.title</source>
-        <translation></translation>
+        <translation>Tabloları Birleştir</translation>
     </message>
     <message>
         <source>AllFunction.content</source>
-        <translation></translation>
+        <translation>Tüm fonksiyonları içeren listeye göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>CTB_DesignMode.content</source>
-        <translation></translation>
+        <translation>Denetimlerin isim ve fonksiyonlarını düzenlemek için tasarım moduna girin.</translation>
     </message>
     <message>
         <source>ColumnSparkline.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DynamicShape.title</source>
-        <translation></translation>
+        <translation>Şekil Ekle</translation>
     </message>
     <message>
         <source>SparklineHighPoint.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SparklineLastPoint.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AllBorders.title</source>
-        <translation></translation>
+        <translation>Tüm Kenarlıklar</translation>
     </message>
     <message>
         <source>EditConnectionProperties.content</source>
-        <translation></translation>
+        <translation>Komut türünü seçin, ilgili bir sorgu ifadesi girin ve içe aktarılan verileri süzün.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation></translation>
+        <translation>Belgeyi görüntüye aktar</translation>
     </message>
     <message>
         <source>InsertComment.title</source>
-        <translation></translation>
+        <translation>Yeni Yorum</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation></translation>
+        <translation>Sonraki Yorum</translation>
     </message>
     <message>
         <source>ReadingLayout2.content</source>
-        <translation></translation>
+        <translation>Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>AllFunction.title</source>
-        <translation></translation>
+        <translation>Tüm İşlevler</translation>
     </message>
     <message>
         <source>RecalculateBook.title</source>
-        <translation></translation>
+        <translation>Çalışma Kitabını Yeniden Hesapla</translation>
     </message>
     <message>
         <source>EditComment.title</source>
-        <translation></translation>
+        <translation>Yorumu Düzenle</translation>
     </message>
     <message>
         <source>SheetBackground.title</source>
-        <translation></translation>
+        <translation>Arka Plan</translation>
     </message>
     <message>
         <source>PTShowDetail.content</source>
-        <translation></translation>
+        <translation>Etkin alanın tüm öğelerini göster.</translation>
     </message>
     <message>
         <source>ShowOrHideComment.content</source>
-        <translation></translation>
+        <translation>Seçilen hücreye eklenen yorumu gösterin veya gizleyin.</translation>
     </message>
     <message>
         <source>PivotTableDelete.content</source>
-        <translation></translation>
+        <translation>Seçili Özet Tabloyu silin.</translation>
     </message>
     <message>
         <source>BookProtection.title</source>
-        <translation></translation>
+        <translation>Çalışma Kitabını Koru</translation>
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfasında sayfaları yatay olarak ayarlayın.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrevPreviousPage.content</source>
-        <translation></translation>
+        <translation>Yazdırılan bir önceki sayfaya gidin.</translation>
     </message>
     <message>
         <source>TranslateToSimplifiedChinese.title</source>
-        <translation></translation>
+        <translation>Geleneksel Çince&apos;den Basitleştirilmiş Çince&apos;ye</translation>
     </message>
     <message>
         <source>WinLossSparkline.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Consolidate.content</source>
-        <translation></translation>
+        <translation>Birden fazla aralıktaki değerleri tek bir aralıkta birleştirin.</translation>
     </message>
     <message>
         <source>RotateRight.title</source>
-        <translation></translation>
+        <translation>Döndür</translation>
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation></translation>
+        <translation>Önizleyebilir ve yazdırmadan önce sayfada değişiklikler yapabilirsiniz.</translation>
     </message>
     <message>
         <source>RightBorder.title</source>
-        <translation></translation>
+        <translation>Sağ Kenarlık</translation>
     </message>
     <message>
         <source>NumberFormatGallery.title</source>
-        <translation></translation>
+        <translation>Sayı Biçimi.</translation>
     </message>
     <message>
         <source>LeftBorder.title</source>
-        <translation></translation>
+        <translation>Sol Kenarlık</translation>
     </message>
     <message>
         <source>LineSparkline.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation></translation>
+        <translation>Küçük Resim Ekle</translation>
     </message>
     <message>
         <source>MergeCancel.content</source>
-        <translation></translation>
+        <translation>Geçerli hücreyi birden çok hücreye ayırın.</translation>
     </message>
     <message>
         <source>Subtotals.title</source>
-        <translation></translation>
+        <translation>Alt Toplam</translation>
     </message>
     <message>
         <source>SparklineHighPoint.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation></translation>
+        <translation>Geliştirici</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation></translation>
+        <translation>Metin Rengi</translation>
     </message>
     <message>
         <source>RemoveDuplicates.content</source>
-        <translation></translation>
+        <translation>Sayfadaki yinelenen satırları silin.
+
+Yinelenen bilgiler için hangi sütunların kontrol edileceğini seçebilirsiniz.</translation>
     </message>
     <message>
         <source>Logical.title</source>
-        <translation></translation>
+        <translation>Mantıksal</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.title</source>
-        <translation></translation>
+        <translation>Thai Distributed</translation>
     </message>
     <message>
         <source>InsertDropDownList.title</source>
-        <translation></translation>
+        <translation>Açılır Liste Ekle</translation>
     </message>
     <message>
         <source>PTHideDetail.content</source>
-        <translation></translation>
+        <translation>Etkin alandaki tüm öğeleri gizle.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation></translation>
+        <translation>Metni ortala.</translation>
     </message>
     <message>
         <source>VAlignCenter.content</source>
-        <translation></translation>
+        <translation>Metni, hücrenin üst ve altı arasında ortalanacak şekilde hizalayın.</translation>
     </message>
     <message>
         <source>DataTable.title</source>
-        <translation></translation>
+        <translation>Veri Tablosu</translation>
     </message>
     <message>
         <source>PrintPreviewMargins.content</source>
-        <translation></translation>
+        <translation>Çalışma sayfasının içeriği ile yazdırılan sayfanın kenarı arasındaki mesafeyi belirtin.</translation>
     </message>
     <message>
         <source>FuncCatText.content</source>
-        <translation></translation>
+        <translation>Metin işlevleri listesine göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>PTRefreshData.content</source>
-        <translation></translation>
+        <translation>Çalışma kitabındaki veri kaynağından gelen bilgileri güncelleyin.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation></translation>
+        <translation>Geçerli belge için otomatik veya manuel yedeklemeyi ayarlayın. Yedekleme Dosya Kasanıza kaydedilir.</translation>
     </message>
     <message>
         <source>PTRefreshAllData.title</source>
-        <translation></translation>
+        <translation>Tümünü Yenile</translation>
     </message>
     <message>
         <source>ShapeFillColor2.title</source>
-        <translation></translation>
+        <translation>Şekil Dolgusu</translation>
     </message>
     <message>
         <source>DataUngroup.content</source>
-        <translation></translation>
+        <translation>Daha önce gruplandırılmış bir hücre aralığını gruptan çıkarın.</translation>
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation></translation>
+        <translation>Sayfadaki önceki yorumu seçin.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
-        <translation></translation>
+        <translation>Makroları Görüntüle</translation>
     </message>
     <message>
         <source>EditCrossBookLinks.title</source>
-        <translation></translation>
+        <translation>Bağlantıları Düzenle</translation>
     </message>
     <message>
         <source>GraphicLineColor.content</source>
-        <translation></translation>
+        <translation>Seçilen grafiğin anahattı için renk, genişlik ve çizgi stilini ayarlayın.
+
+Anahat için ayrıntılı ayarları seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>SlicerSetting.content</source>
-        <translation></translation>
+        <translation>Dilimleyicinin görüntü ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.content</source>
-        <translation></translation>
+        <translation>Geçerli yorumun konumunu ve boyutunu sıfırla.</translation>
     </message>
     <message>
         <source>CompressPictures.title</source>
-        <translation></translation>
+        <translation>Resimleri Sıkıştır</translation>
     </message>
     <message>
         <source>HighlightDisplay.title</source>
-        <translation></translation>
+        <translation>Vurgu</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.title</source>
-        <translation></translation>
+        <translation>Monitör Bölmesi</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation></translation>
+        <translation>&quot;dosya sıkıştırma&quot; özelliği dosya boyutunu azaltmanıza yardımcı olabilir.</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation></translation>
+        <translation>Altı Çizili</translation>
     </message>
     <message>
         <source>MergeCenter.title</source>
-        <translation></translation>
+        <translation>Birleştir ve Ortala</translation>
     </message>
     <message>
         <source>Fill.content</source>
-        <translation></translation>
+        <translation>Belirli kurallara göre, bir hücrenin içeriğini bitişik hücrelere istediğiniz yöne doldurabilirsiniz.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation></translation>
+        <translation>Belgedeki metni bulun.
+
+Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>Financial.content</source>
-        <translation></translation>
+        <translation>Finansal işlevler listesine göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.content</source>
-        <translation></translation>
+        <translation>Yatay bir metin kutusu ekleyin.</translation>
     </message>
     <message>
         <source>PivotChartAnalysis.title</source>
-        <translation></translation>
+        <translation>İstatistiksel Grafik</translation>
     </message>
     <message>
         <source>ConvertToRange.content</source>
-        <translation></translation>
+        <translation>Bu tabloyu normal bir hücre aralığına dönüştürün.</translation>
     </message>
     <message>
         <source>ReadingLayout2.title</source>
-        <translation></translation>
+        <translation>Okuma Düzeni</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DeleteRange.title</source>
-        <translation></translation>
+        <translation>Hücreleri sil</translation>
     </message>
     <message>
         <source>DisplayGridlines.title</source>
-        <translation></translation>
+        <translation>Kılavuz Çizgilerini Göster</translation>
     </message>
     <message>
         <source>PrinterSide.title</source>
-        <translation></translation>
+        <translation>Yazıcı Tarafı</translation>
     </message>
     <message>
         <source>SparkAxis.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation></translation>
+        <translation>PDF dosyalarını Word dosyalarına dönüştürün.</translation>
     </message>
     <message>
         <source>ExportFilterResult.title</source>
-        <translation></translation>
+        <translation>Süzgeç Sonuçlarını Dışa Aktar</translation>
     </message>
     <message>
         <source>EvaluateFormula.content</source>
-        <translation></translation>
+        <translation>Formülün her bir bölümünü ayrı ayrı değerlendirerek bir formülün hatalarını ayıklamak için Formülü Değerlendir iletişim kutusunu açın.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.content</source>
-        <translation></translation>
+        <translation>Tüm yorumların konumunu ve geçerli sayfanın boyutunu sıfırla.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation></translation>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.title</source>
-        <translation></translation>
+        <translation>Yatay Metin Kutusu Çiz</translation>
     </message>
     <message>
         <source>FormsToolbox.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FullScreenMode.content</source>
-        <translation></translation>
+        <translation>Çalışma kitabını tam ekran modunda görüntüle</translation>
     </message>
     <message>
         <source>FontFormatCells.content</source>
-        <translation></translation>
+        <translation>Yazı Tipi iletişim kutusunu göster.</translation>
     </message>
     <message>
         <source>AlignJustify.title</source>
-        <translation></translation>
+        <translation>Yasla</translation>
     </message>
     <message>
         <source>ModifyPivotTable.title</source>
-        <translation></translation>
+        <translation>Özet Tabloyu Değiştir</translation>
     </message>
     <message>
         <source>ArtisticWordAlignment.content</source>
-        <translation></translation>
+        <translation>Çok satırlı bir WordArt&apos;ın tek tek satırlarının nasıl hizalanması gerektiğini belirtin.</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.title</source>
-        <translation></translation>
+        <translation>Üst ve Çift Alt Kenarlık</translation>
     </message>
     <message>
         <source>InsertSlicer.content</source>
-        <translation></translation>
+        <translation>Verileri görsel olarak filtrelemek için bir Dilimleyici kullanın.
+
+Dilimleyiciler Özet Tabloları filtrelemeyi hızlandırır ve kolaylaştırır.</translation>
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation></translation>
+        <translation>Biçimlendirmeyi bir yerden kopyalayın ve başka bir yere uygulayın.
+
+Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi çift tıklayın.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation></translation>
+        <translation>Belge Düzeltme</translation>
     </message>
     <message>
         <source>SpellCheck.title</source>
-        <translation></translation>
+        <translation>Yazım Denetimi</translation>
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation></translation>
+        <translation>Değişiklik yapmadan belgeyi doğrudan varsayılan yazıcıya gönderin.</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
-        <translation></translation>
+        <translation>Denklem Ekle</translation>
     </message>
     <message>
         <source>DataUngroup.title</source>
-        <translation></translation>
+        <translation>Grubu Çöz</translation>
     </message>
     <message>
         <source>Fill.title</source>
-        <translation></translation>
+        <translation>Doldur</translation>
     </message>
     <message>
         <source>MergeSelection.content</source>
-        <translation></translation>
+        <translation>Seçilen hücreleri tek bir hücrede birleştirin.</translation>
     </message>
     <message>
         <source>IncreaseDecimal.title</source>
-        <translation></translation>
+        <translation>Ondalık Artır</translation>
     </message>
     <message>
         <source>DecreaseDecimal.title</source>
-        <translation></translation>
+        <translation>Ondalık Azalt</translation>
     </message>
     <message>
         <source>RecenttlyUsed.content</source>
-        <translation></translation>
+        <translation>Son kullanılan işlevler listesine göz atın ve seçim yapın.</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
-        <translation></translation>
+        <translation>Okuma</translation>
     </message>
     <message>
         <source>MergeSelection.title</source>
-        <translation></translation>
+        <translation>Hücreleri Birleştir</translation>
     </message>
     <message>
         <source>TableName.title</source>
-        <translation></translation>
+        <translation>Tablo İsmi</translation>
     </message>
     <message>
         <source>SlicerItemHeight.title</source>
-        <translation></translation>
+        <translation>Düğme Yüksekliği</translation>
     </message>
     <message>
         <source>ShapeLineColor.title</source>
-        <translation></translation>
+        <translation>Şekil Anahattı</translation>
     </message>
     <message>
         <source>DetailedSettings_Data.title</source>
-        <translation></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>BandedColumns.content</source>
-        <translation></translation>
+        <translation>Çift sütunların tek sütunlardan farklı biçimlendiği bantlı sütunları görüntüleyin.
+
+Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
     </message>
     <message>
         <source>FormatStyle.content</source>
-        <translation></translation>
+        <translation>Sayı veya hizalama biçimleri gibi hücre biçimlerinin farklı birleşimlerini yapın ve sonra bu biçimleri tek bir biçimde oluşturun.</translation>
     </message>
     <message>
         <source>InsertRange.title</source>
-        <translation></translation>
+        <translation>Hücre Ekle</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
-        <translation></translation>
+        <translation>Boyutu Sıfırla</translation>
     </message>
     <message>
         <source>ExitPreview.title</source>
-        <translation></translation>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <source>ArtisticWordAlignment.title</source>
-        <translation></translation>
+        <translation>Hizala</translation>
     </message>
     <message>
         <source>RunMacro2.content</source>
-        <translation></translation>
+        <translation>Makroları Göster iletişim kutusu. Makro çalıştırabileceğiniz, oluşturabileceğiniz veya silebileceğiniz makroların listesini görüntüleyin.</translation>
     </message>
     <message>
         <source>Connections.title</source>
-        <translation></translation>
+        <translation>Bağlantılar</translation>
     </message>
     <message>
         <source>TopAndThickBottomBorder.title</source>
-        <translation></translation>
+        <translation>Üst ve Kalın Alt Kenarlık</translation>
     </message>
     <message>
         <source>DetailedSettings_Layout.content</source>
-        <translation></translation>
+        <translation>Sayfa yapısı ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>DrawGrid.title</source>
-        <translation></translation>
+        <translation>Kenarlık Kılavuzu Çiz</translation>
     </message>
     <message>
         <source>PivotTableAnalysis.title</source>
-        <translation></translation>
+        <translation>İstatistiksel Analiz</translation>
     </message>
     <message>
         <source>PrevNextPage.title</source>
-        <translation></translation>
+        <translation>Sonraki Sayfa</translation>
     </message>
     <message>
         <source>PDFToPPT.title</source>
-        <translation></translation>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrintGridlines.content</source>
-        <translation></translation>
+        <translation>Sütunlar ve çalışma sayfasındaki satırlar arasındaki kılavuz çizgilerini yazdırın.</translation>
     </message>
     <message>
         <source>SparklineGroup.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NameDefine.title</source>
-        <translation></translation>
+        <translation>İsim Tanımla</translation>
     </message>
     <message>
         <source>HeaderRow.title</source>
-        <translation></translation>
+        <translation>Üstbilgi Satırı</translation>
     </message>
     <message>
         <source>SortAndFilter.content</source>
-        <translation></translation>
+        <translation>Verileri, analiz edilmesi daha kolay olacak şekilde düzenleyin.
+
+Seçilen verileri artan veya azalan düzende sıralayabilirsiniz.</translation>
     </message>
     <message>
         <source>NameCreate.title</source>
-        <translation></translation>
+        <translation>İsim Oluştur</translation>
     </message>
     <message>
         <source>DataSort.title</source>
-        <translation></translation>
+        <translation>Sırala</translation>
     </message>
 </context>
 </TS>
