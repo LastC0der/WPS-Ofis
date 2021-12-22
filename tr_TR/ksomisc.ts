@@ -414,15 +414,15 @@
     </message>
     <message>
         <source>Click the button below to switch to the new version, you must restart WPS Office for the action to take effect.</source>
-        <translation type="unfinished"/>
+        <translation>Yeni sürüme geçmek için aşağıdaki düğmeyi tıklayın, işlemin etkili olması için WPS Ofis&apos;i yeniden başlatmanız gerekir.</translation>
     </message>
     <message>
         <source>Click the button below to switch to the old version, you must restart WPS Office for the action to take effect.</source>
-        <translation type="unfinished"/>
+        <translation>Eski sürüme geçmek için aşağıdaki düğmeyi tıklayın, işlemin etkili olması için WPS Ofis&apos;i yeniden başlatmanız gerekir.</translation>
     </message>
     <message>
         <source>Initializing configuration...</source>
-        <translation type="unfinished"/>
+        <translation>Yapılandırma başlatılıyor...</translation>
     </message>
     <message>
         <source>Version switch will complete after restarting.</source>
@@ -2009,7 +2009,7 @@ Notice that doing so exposes you to risks of virus infection and hacking.</sourc
     </message>
     <message>
         <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office ücretsiz bir yazılımdır. Desteğiniz gelişimi için gereklidir.</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
@@ -2020,27 +2020,27 @@ Notice that doing so exposes you to risks of virus infection and hacking.</sourc
     <name>KChangeVersionImpl</name>
     <message>
         <source>Registering components...</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenler kaydediliyor...</translation>
     </message>
     <message>
         <source>Refreshing quick link...</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı bağlantı yenileniyor...</translation>
     </message>
     <message>
         <source>Registering file association...</source>
-        <translation type="unfinished"/>
+        <translation>Dosya ilişkilendirmesi kaydediliyor...</translation>
     </message>
     <message>
         <source>Completing the configuration...</source>
-        <translation type="unfinished"/>
+        <translation>Yapılandırma tamamlanıyor...</translation>
     </message>
     <message>
         <source>Switching version is not successful and is in the recovery...</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm değiştirme başarılı değil ve kurtarma sürecinde...</translation>
     </message>
     <message>
         <source>Initializing configuration...</source>
-        <translation type="unfinished"/>
+        <translation>Yapılandırma başlatılıyor...</translation>
     </message>
     <message>
         <source>Version switch will complete after restarting.</source>
