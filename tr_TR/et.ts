@@ -6191,7 +6191,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>filename</source>
-        <translation>dosya adı</translation>
+        <translation>Dosya adı</translation>
     </message>
     <message>
         <source>size:</source>
@@ -19035,7 +19035,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Hide Lower Limit</source>
-        <translation type="unfinished"/>
+        <translation>Alt Sınırı Gizle</translation>
     </message>
     <message>
         <source>COM 
@@ -19049,7 +19049,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Hide Upper Limit</source>
-        <translation type="unfinished"/>
+        <translation>Üst Sınırı Gizle</translation>
     </message>
     <message>
         <source>Exit Edit Points</source>
@@ -19244,7 +19244,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasörü Aç</translation>
     </message>
     <message>
         <source>Create</source>
