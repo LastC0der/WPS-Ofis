@@ -27448,7 +27448,7 @@ Modified time:</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasörü Aç</translation>
     </message>
     <message>
         <source>Clear Pinned Files</source>
@@ -29941,7 +29941,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>&amp;Elbow</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dirsek</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -29961,18 +29961,18 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>&amp;Straight</source>
-        <translation type="unfinished"/>
+        <translation>Dü&amp;z</translation>
     </message>
 </context>
 <context>
     <name>KNoTabPageWidget</name>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Adı</translation>
     </message>
     <message>
         <source>WPS will recover files for you, you can uncheck the files that don&apos;t need to be recovered</source>
-        <translation type="unfinished"/>
+        <translation>WPS sizin için dosyaları kurtaracaktır. Kurtarılması gerekmeyen dosyaların işaretini kaldırabilirsiniz.</translation>
     </message>
     <message>
         <source>Super Recover</source>
@@ -38833,7 +38833,7 @@ p, li { white-space: pre-wrap; }
     <name>KLinkMessageBox</name>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasörü Aç</translation>
     </message>
     <message>
         <source>Find document</source>
