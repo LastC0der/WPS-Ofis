@@ -12516,7 +12516,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasörü Aç</translation>
     </message>
     <message>
         <source>Keep Text Only</source>
@@ -12776,11 +12776,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Modify Movie Object</source>
-        <translation type="unfinished"/>
+        <translation>Medyayı Değiştir</translation>
     </message>
     <message>
         <source>Exit Edit Point</source>
-        <translation type="unfinished"/>
+        <translation>Nokta Düzenlemeden Çık</translation>
     </message>
     <message>
         <source>Error Bars</source>
