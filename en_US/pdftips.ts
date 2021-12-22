@@ -1,2227 +1,2238 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="en_US">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>CAD2PDF.title</source>
-        <translation></translation>
+        <translation>CAD to PDF</translation>
     </message>
     <message>
         <source>FitPageSize.content</source>
-        <translation></translation>
+        <translation>Zoom Page to Fit Size</translation>
     </message>
     <message>
         <source>End Arrow.title</source>
-        <translation></translation>
+        <translation>End</translation>
     </message>
     <message>
         <source>ExportPdf.title</source>
-        <translation></translation>
+        <translation>Export Pdf</translation>
     </message>
     <message>
         <source>ChangeBackGround.content</source>
-        <translation></translation>
+        <translation>Change page background color</translation>
     </message>
     <message>
         <source>PDFAdsorptionEndpoint.title</source>
-        <translation></translation>
+        <translation>Snap to Endpoints</translation>
     </message>
     <message>
         <source>OCRExtractPageText.title</source>
-        <translation></translation>
+        <translation>Extract Text</translation>
     </message>
     <message>
         <source>ZoomIn.content</source>
-        <translation></translation>
+        <translation>Zoom Out</translation>
     </message>
     <message>
         <source>Start Arrow.title</source>
-        <translation></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation></translation>
+        <translation>Show the Zoom dialog box to specify the zoom level of the document.</translation>
     </message>
     <message>
         <source>StampTool.content</source>
-        <translation></translation>
+        <translation>Stamp</translation>
     </message>
     <message>
         <source>Strikeout.title</source>
-        <translation></translation>
+        <translation>Strikethrough</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>MenuHandTool.content</source>
-        <translation></translation>
+        <translation>Selection tool for draging document</translation>
     </message>
     <message>
         <source>PdfImageReplace.content</source>
-        <translation></translation>
+        <translation>Replace</translation>
     </message>
     <message>
         <source>SplitPDF.title</source>
-        <translation></translation>
+        <translation>Split PDF</translation>
     </message>
     <message>
         <source>InsertPages.content</source>
-        <translation></translation>
+        <translation>Insert specified pages to current document.</translation>
     </message>
     <message>
         <source>ZoomOut.content</source>
-        <translation></translation>
+        <translation>Zoom In</translation>
     </message>
     <message>
         <source>kxPdfLogoutTip.content</source>
-        <translation></translation>
+        <translation>kxPdfLogoutTip</translation>
     </message>
     <message>
         <source>MagnifyFontSize.content</source>
-        <translation></translation>
+        <translation>Increase the font size</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.title</source>
-        <translation></translation>
+        <translation>PdfInvoiceAssist</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.title</source>
-        <translation></translation>
+        <translation>Highlight and note</translation>
     </message>
     <message>
         <source>Superscript.title</source>
-        <translation></translation>
+        <translation>Superscript</translation>
     </message>
     <message>
         <source>Replace.title</source>
-        <translation></translation>
+        <translation>Replace</translation>
     </message>
     <message>
         <source>ScreenGrab.title</source>
-        <translation></translation>
+        <translation>ScreenGrab</translation>
     </message>
     <message>
         <source>PDF2Photo.content</source>
-        <translation></translation>
+        <translation>Convert PDF files to image files</translation>
     </message>
     <message>
         <source>PlaySlide.title</source>
-        <translation></translation>
+        <translation>Play Slide</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.title</source>
-        <translation></translation>
+        <translation>Rotate Image</translation>
     </message>
     <message>
         <source>TranslationSelect.title</source>
-        <translation></translation>
+        <translation>TranslationSelect</translation>
     </message>
     <message>
         <source>DeletePages.title</source>
-        <translation></translation>
+        <translation>Delete Pages</translation>
     </message>
     <message>
         <source>PdfImageEnterEdit.title</source>
-        <translation></translation>
+        <translation>Edit Picture</translation>
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation></translation>
+        <translation>Subscript</translation>
     </message>
     <message>
         <source>Search.title</source>
-        <translation></translation>
+        <translation>Search</translation>
     </message>
     <message>
         <source>PDFAdsorptionPath.title</source>
-        <translation></translation>
+        <translation>Snap to Paths</translation>
     </message>
     <message>
         <source>FloatClose.title</source>
-        <translation></translation>
+        <translation>Close Toolbar</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.title</source>
-        <translation></translation>
+        <translation>Hide Navigation Pane</translation>
     </message>
     <message>
         <source>FillSignDot.title</source>
-        <translation></translation>
+        <translation>Dot</translation>
     </message>
     <message>
         <source>ClockwiseDoc.title</source>
-        <translation></translation>
+        <translation>Rotate Document</translation>
     </message>
     <message>
         <source>EnterSuperNoteMode.title</source>
-        <translation></translation>
+        <translation>Note mode</translation>
     </message>
     <message>
         <source>LastPage.title</source>
-        <translation></translation>
+        <translation>Last Page</translation>
     </message>
     <message>
         <source>HideNavigationPannel.content</source>
-        <translation></translation>
+        <translation>Hide Navigation Pane</translation>
     </message>
     <message>
         <source>Cloudy.title</source>
-        <translation></translation>
+        <translation>Cloudy</translation>
     </message>
     <message>
         <source>PDF2Office.title</source>
-        <translation></translation>
+        <translation>PDF to Office</translation>
     </message>
     <message>
         <source>Line Style.title</source>
-        <translation></translation>
+        <translation>Line Style</translation>
     </message>
     <message>
         <source>Annotate.content</source>
-        <translation></translation>
+        <translation>Annotate as a SuperNote</translation>
     </message>
     <message>
         <source>PageCorrectFinished.content</source>
-        <translation></translation>
+        <translation>Complete corrective function</translation>
     </message>
     <message>
         <source>FormFillingDate.title</source>
-        <translation></translation>
+        <translation>Add Date</translation>
     </message>
     <message>
         <source>PDFEditTextExit.title</source>
-        <translation></translation>
+        <translation>Exit editing</translation>
     </message>
     <message>
         <source>FontName.content</source>
-        <translation></translation>
+        <translation>Set different fonts</translation>
     </message>
     <message>
         <source>CADTOPdf.content</source>
-        <translation></translation>
+        <translation>Convert CAD Files to PDF Files</translation>
     </message>
     <message>
         <source>PDF2PPT.content</source>
-        <translation></translation>
+        <translation>Convert PDF files to PPT files</translation>
     </message>
     <message>
         <source>FloatZoomIn.content</source>
-        <translation></translation>
+        <translation>Zoom Out the page.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation></translation>
+        <translation>Underline the selected text.
+
+Click the arrow to select different underlining styles.</translation>
     </message>
     <message>
         <source>TextBoxAlpha.title</source>
-        <translation></translation>
+        <translation>Transparency</translation>
     </message>
     <message>
         <source>WaterMarkTips.title</source>
-        <translation></translation>
+        <translation>Watermark</translation>
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation></translation>
+        <translation>PDF to CAD</translation>
     </message>
     <message>
         <source>LastPage.content</source>
-        <translation></translation>
+        <translation>Show the last page.</translation>
     </message>
     <message>
         <source>NextPage.content</source>
-        <translation></translation>
+        <translation>Show next page.</translation>
     </message>
     <message>
         <source>Italic.title</source>
-        <translation></translation>
+        <translation>Italic</translation>
     </message>
     <message>
         <source>TextBoxBkColor.title</source>
-        <translation></translation>
+        <translation>Fill</translation>
     </message>
     <message>
         <source>RotateToTheRight.title</source>
-        <translation></translation>
+        <translation>Rotate Right</translation>
     </message>
     <message>
         <source>Open.title</source>
-        <translation></translation>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Markdown2PDFTips.title</source>
-        <translation></translation>
+        <translation>MD to PDF</translation>
     </message>
     <message>
         <source>EditPageHeaderFooter.title</source>
-        <translation></translation>
+        <translation>Header and Footer</translation>
     </message>
     <message>
         <source>TranslationSelect.content</source>
-        <translation></translation>
+        <translation>TranslationSelect</translation>
     </message>
     <message>
         <source>ZoomOutThumbnails.title</source>
-        <translation></translation>
+        <translation>ZoomOutThumbnails</translation>
     </message>
     <message>
         <source>PageCorrectExit.title</source>
-        <translation></translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>FillSign.title</source>
-        <translation></translation>
+        <translation>Fill &amp; Sign</translation>
     </message>
     <message>
         <source>EbookSelfAdaptionPage.content</source>
-        <translation></translation>
+        <translation>Self-adaption</translation>
     </message>
     <message>
         <source>SplitPage.content</source>
-        <translation></translation>
+        <translation>Split a page into multiple pages</translation>
     </message>
     <message>
         <source>PDFTOCad.content</source>
-        <translation></translation>
+        <translation>PDFTOCad</translation>
     </message>
     <message>
         <source>m_LineSpacing.title</source>
-        <translation></translation>
+        <translation>Line Spacing</translation>
     </message>
     <message>
         <source>PDFMeasureTool.content</source>
-        <translation></translation>
+        <translation>Measure the distance, perimeter and area in the file</translation>
     </message>
     <message>
         <source>FirstPage.content</source>
-        <translation></translation>
+        <translation>Show the first page.</translation>
     </message>
     <message>
         <source>ImageEditTransparency.content</source>
-        <translation></translation>
+        <translation>Change the transparency</translation>
     </message>
     <message>
         <source>AutoClipPage.content</source>
-        <translation></translation>
+        <translation>Smart Constituency</translation>
     </message>
     <message>
         <source>ImageClip.content</source>
-        <translation></translation>
+        <translation>Clip picture size</translation>
     </message>
     <message>
         <source>Replace Text.content</source>
-        <translation></translation>
+        <translation>Replace symbol</translation>
     </message>
     <message>
         <source>ExportPdf.content</source>
-        <translation></translation>
+        <translation>Export PDF to any format</translation>
     </message>
     <message>
         <source>NavigateBack.title</source>
-        <translation></translation>
+        <translation>Navigate Back</translation>
     </message>
     <message>
         <source>ClipPageRange.title</source>
-        <translation></translation>
+        <translation>Page</translation>
     </message>
     <message>
         <source>SaveAs.title</source>
-        <translation></translation>
+        <translation>Save As</translation>
     </message>
     <message>
         <source>MenuFloatToolBar.title</source>
-        <translation></translation>
+        <translation>Floating Toolbar</translation>
     </message>
     <message>
         <source>Shapes.title</source>
-        <translation></translation>
+        <translation>Shapes</translation>
     </message>
     <message>
         <source>ClearFormat.title</source>
-        <translation></translation>
+        <translation>Clear Formats</translation>
     </message>
     <message>
         <source>Shape.content</source>
-        <translation></translation>
+        <translation>Insert shape style annotation</translation>
     </message>
     <message>
         <source>FitPageSize.title</source>
-        <translation></translation>
+        <translation>Fit Size</translation>
     </message>
     <message>
         <source>NewImage2top.title</source>
-        <translation></translation>
+        <translation>Move to Top</translation>
     </message>
     <message>
         <source>ImageEditReplace.content</source>
-        <translation></translation>
+        <translation>Replace the picture</translation>
     </message>
     <message>
         <source>AutoClipPage.title</source>
-        <translation></translation>
+        <translation>Smart Constituency</translation>
     </message>
     <message>
         <source>AddBookMark.content</source>
-        <translation></translation>
+        <translation>Add bookmark for the document</translation>
     </message>
     <message>
         <source>PDF2Office.content</source>
-        <translation></translation>
+        <translation>Convert PDF files to Office files</translation>
     </message>
     <message>
         <source>PdfImageClip.title</source>
-        <translation></translation>
+        <translation>Pdf Picture Clip</translation>
     </message>
     <message>
         <source>AnnotGraffiti.content</source>
-        <translation></translation>
+        <translation>Random circle area for comments</translation>
     </message>
     <message>
         <source>FontSize.content</source>
-        <translation></translation>
+        <translation>Set the size of the font size</translation>
     </message>
     <message>
         <source>FontName.title</source>
-        <translation></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <source>FontSize.title</source>
-        <translation></translation>
+        <translation>Font size</translation>
     </message>
     <message>
         <source>AreaHighlight.content</source>
-        <translation></translation>
+        <translation>Area highlighting.</translation>
     </message>
     <message>
         <source>AddHeaderFooterTips.content</source>
-        <translation></translation>
+        <translation>AddHeaderFooterTips</translation>
     </message>
     <message>
         <source>FillSignCross.content</source>
-        <translation></translation>
+        <translation>Add cross</translation>
     </message>
     <message>
         <source>EbookIncreaseFont.title</source>
-        <translation></translation>
+        <translation>Increase Font</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.content</source>
-        <translation></translation>
+        <translation>Insert selected pages from document to specified position.</translation>
     </message>
     <message>
         <source>CancelImageClip.title</source>
-        <translation></translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>EbookDecreaseFont.title</source>
-        <translation></translation>
+        <translation>Decrease Font</translation>
     </message>
     <message>
         <source>FloatFitWidth.content</source>
-        <translation></translation>
+        <translation>Fit to window width.</translation>
     </message>
     <message>
         <source>EditPageHeaderFooter.content</source>
-        <translation></translation>
+        <translation>Set header and footer for PDF document</translation>
     </message>
     <message>
         <source>ZoomPage.title</source>
-        <translation></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>AddPageNumberTips.content</source>
-        <translation></translation>
+        <translation>Add a page number to the current document</translation>
     </message>
     <message>
         <source>Markdown2PDFTips.content</source>
-        <translation></translation>
+        <translation>Markdown to PDF</translation>
     </message>
     <message>
         <source>Page Number.title</source>
-        <translation></translation>
+        <translation>Page Number</translation>
     </message>
     <message>
         <source>KOSLogoutTip.content</source>
-        <translation></translation>
+        <translation>KOSLogoutTip</translation>
     </message>
     <message>
         <source>PolyLine.title</source>
-        <translation></translation>
+        <translation>Custom graphics</translation>
     </message>
     <message>
         <source>ClipPageRange.content</source>
-        <translation></translation>
+        <translation>Page</translation>
     </message>
     <message>
         <source>CompleteClipPage.title</source>
-        <translation></translation>
+        <translation>Complete</translation>
     </message>
     <message>
         <source>VerificationSignature2.title</source>
-        <translation></translation>
+        <translation>Verify Signature</translation>
     </message>
     <message>
         <source>ExportToPDF.title</source>
-        <translation></translation>
+        <translation>ExportToPDF</translation>
     </message>
     <message>
         <source>PdfSignatureEmbedBatch.content</source>
-        <translation></translation>
+        <translation>Batch Embed to Document</translation>
     </message>
     <message>
         <source>End Arrow.content</source>
-        <translation></translation>
+        <translation>End</translation>
     </message>
     <message>
         <source>PdfSignatureApplyMultiPage.content</source>
-        <translation></translation>
+        <translation>Apply to multiple pages</translation>
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation></translation>
+        <translation>Covers areas you don&apos;t want</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
-        <translation></translation>
+        <translation>Hide the left navigation pane.</translation>
     </message>
     <message>
         <source>SaveAs.content</source>
-        <translation></translation>
+        <translation>Save file to another path.</translation>
     </message>
     <message>
         <source>Line Width.content</source>
-        <translation></translation>
+        <translation>Line Width</translation>
     </message>
     <message>
         <source>TextQuery.content</source>
-        <translation></translation>
+        <translation>Find document content, bookmarks, comments, etc.</translation>
     </message>
     <message>
         <source>FullScreen.title</source>
-        <translation></translation>
+        <translation>Full Screen</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation></translation>
+        <translation>Font Color</translation>
     </message>
     <message>
         <source>TextBold.content</source>
-        <translation></translation>
+        <translation>Make the selected text bold</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.title</source>
-        <translation></translation>
+        <translation>All</translation>
     </message>
     <message>
         <source>PDFEditImage.content</source>
-        <translation></translation>
+        <translation>Edit picture size, transparency, angle, etc.</translation>
     </message>
     <message>
         <source>Arrow.content</source>
-        <translation></translation>
+        <translation>Arrow</translation>
     </message>
     <message>
         <source>HighlightBorder.title</source>
-        <translation></translation>
+        <translation>Highlight</translation>
     </message>
     <message>
         <source>GraffitiEraser.title</source>
-        <translation></translation>
+        <translation>Eraser</translation>
     </message>
     <message>
         <source>ShapeBorderColor.content</source>
-        <translation></translation>
+        <translation>Border Color</translation>
     </message>
     <message>
         <source>TextUnderline.content</source>
-        <translation></translation>
+        <translation>Underline the selected text</translation>
     </message>
     <message>
         <source>PDFAddText.title</source>
-        <translation></translation>
+        <translation>Add text</translation>
     </message>
     <message>
         <source>Square.content</source>
-        <translation></translation>
+        <translation>Square</translation>
     </message>
     <message>
         <source>Stamp.title</source>
-        <translation></translation>
+        <translation>Stamp</translation>
     </message>
     <message>
         <source>ImageEditReplace.title</source>
-        <translation></translation>
+        <translation>Replace</translation>
     </message>
     <message>
         <source>LetterSpace.content</source>
-        <translation></translation>
+        <translation>Change the spacing between the letters of the selected WordArt text</translation>
     </message>
     <message>
         <source>Annotate.title</source>
-        <translation></translation>
+        <translation>Annotate</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.content</source>
-        <translation></translation>
+        <translation>EditPicNewTool_Rotate</translation>
     </message>
     <message>
         <source>RandomDraw.title</source>
-        <translation></translation>
+        <translation>Random Draw</translation>
     </message>
     <message>
         <source>EnterSuperNoteMode.content</source>
-        <translation></translation>
+        <translation>Visually display annotations</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
-        <translation></translation>
+        <translation>XiuTangH5Tip</translation>
     </message>
     <message>
         <source>TranslationSelectPdf.content</source>
-        <translation></translation>
+        <translation>TranslationSelectPdf</translation>
     </message>
     <message>
         <source>ExportHighlight.content</source>
-        <translation></translation>
+        <translation>Export all highlighted content</translation>
     </message>
     <message>
         <source>PDFEditImage.title</source>
-        <translation></translation>
+        <translation>Edit Picture</translation>
     </message>
     <message>
         <source>PdfNewEdit.title</source>
-        <translation></translation>
+        <translation>Edit Pdf</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.title</source>
-        <translation></translation>
+        <translation>Measure Perimeter</translation>
     </message>
     <message>
         <source>FormatBrush.title</source>
-        <translation></translation>
+        <translation>Format Painter</translation>
     </message>
     <message>
         <source>Zoom Page.title</source>
-        <translation></translation>
+        <translation>Zoom Page</translation>
     </message>
     <message>
         <source>EditBackGround.title</source>
-        <translation></translation>
+        <translation>Background</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.content</source>
-        <translation></translation>
+        <translation>Highlight and note</translation>
     </message>
     <message>
         <source>FillSign_FreeText.content</source>
-        <translation></translation>
+        <translation>Add text in form fields</translation>
     </message>
     <message>
         <source>InsertBlankPages.content</source>
-        <translation></translation>
+        <translation>Insert blank page to specified location in the document.</translation>
     </message>
     <message>
         <source>PDF2CAD.title</source>
-        <translation></translation>
+        <translation>PDF to CAD</translation>
     </message>
     <message>
         <source>PDF2PPT.title</source>
-        <translation></translation>
+        <translation>PDF to PPT</translation>
     </message>
     <message>
         <source>FloatNavigationBar.content</source>
-        <translation></translation>
+        <translation>Show the left navigation pane.</translation>
     </message>
     <message>
         <source>Search.content</source>
-        <translation></translation>
+        <translation>Search</translation>
     </message>
     <message>
         <source>Square.title</source>
-        <translation></translation>
+        <translation>Square</translation>
     </message>
     <message>
         <source>AddHeaderFooterTips.title</source>
-        <translation></translation>
+        <translation>AddHeaderFooterTips</translation>
     </message>
     <message>
         <source>FitHeight.content</source>
-        <translation></translation>
+        <translation>FitHeight</translation>
     </message>
     <message>
         <source>Clockwise.title</source>
-        <translation></translation>
+        <translation>Rotate Right</translation>
     </message>
     <message>
         <source>GraffitiHline.title</source>
-        <translation></translation>
+        <translation>Free draw horizontal lines</translation>
     </message>
     <message>
         <source>EbookSelfAdaptionPage.title</source>
-        <translation></translation>
+        <translation>Self-adaption</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectFinished.content</source>
-        <translation></translation>
+        <translation>Complete</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.title</source>
-        <translation></translation>
+        <translation>XiuTangH5Tip</translation>
     </message>
     <message>
         <source>AreaHighlight.title</source>
-        <translation></translation>
+        <translation>Highlight Area</translation>
     </message>
     <message>
         <source>WaterMarkTips.content</source>
-        <translation></translation>
+        <translation>Add watermark to the document</translation>
     </message>
     <message>
         <source>GraffitiVline.title</source>
-        <translation></translation>
+        <translation>Free to draw vertical lines</translation>
     </message>
     <message>
         <source>PlaySlide.content</source>
-        <translation></translation>
+        <translation>Discontinuous play slide in full screen</translation>
     </message>
     <message>
         <source>PDFCompress.title</source>
-        <translation></translation>
+        <translation>PDF Compress</translation>
     </message>
     <message>
         <source>TextColor.content</source>
-        <translation></translation>
+        <translation>Set text color.
+
+Click the arrow to select color.</translation>
     </message>
     <message>
         <source>kxPdfLogoutTip.title</source>
-        <translation></translation>
+        <translation>kxPdfLogoutTip</translation>
     </message>
     <message>
         <source>PdfImageRotate90.content</source>
-        <translation></translation>
+        <translation>Rotation</translation>
     </message>
     <message>
         <source>PdfSignatureEmbed.content</source>
-        <translation></translation>
+        <translation>Apply</translation>
     </message>
     <message>
         <source>EbookDecreaseFont.content</source>
-        <translation></translation>
+        <translation>Decrease Font</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation></translation>
+        <translation>Copy Pictures</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
-        <translation></translation>
+        <translation>Complete</translation>
     </message>
     <message>
         <source>PDFMeasureArea.content</source>
-        <translation></translation>
+        <translation>Measure the area of a shape. Click points to measure, double-click to end, press ESC to cancel.</translation>
     </message>
     <message>
         <source>LineSpace.content</source>
-        <translation></translation>
+        <translation>Change the spacing between lines of text</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.content</source>
-        <translation></translation>
+        <translation>DocerURLEntranceTip</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation></translation>
+        <translation>Change the text color.
+
+Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>PdfReplacePages.content</source>
-        <translation></translation>
+        <translation>Replace Pages</translation>
     </message>
     <message>
         <source>NewFromMDTips.title</source>
-        <translation></translation>
+        <translation>NewFromMDTips</translation>
     </message>
     <message>
         <source>PdfSignatureDelete.content</source>
-        <translation></translation>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>NavigationBar.content</source>
-        <translation></translation>
+        <translation>NavigationBar</translation>
     </message>
     <message>
         <source>Page Select.title</source>
-        <translation></translation>
+        <translation>Page Range</translation>
     </message>
     <message>
         <source>FloatFitSize.content</source>
-        <translation></translation>
+        <translation>Zoom Page to Fit Size.</translation>
     </message>
     <message>
         <source>ClockwiseDoc.content</source>
-        <translation></translation>
+        <translation>Rotate all pages of the document.</translation>
     </message>
     <message>
         <source>TBLineStyle.title</source>
-        <translation></translation>
+        <translation>Line Style</translation>
     </message>
     <message>
         <source>ImageEditTransparency.title</source>
-        <translation></translation>
+        <translation>Transparency</translation>
     </message>
     <message>
         <source>Counterclockwise.content</source>
-        <translation></translation>
+        <translation>Rotate Left 90°.</translation>
     </message>
     <message>
         <source>FillSignCheck.content</source>
-        <translation></translation>
+        <translation>Add check</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation></translation>
+        <translation>Full text translation</translation>
     </message>
     <message>
         <source>GraffitiHline.content</source>
-        <translation></translation>
+        <translation>Draw a random draw line</translation>
     </message>
     <message>
         <source>CreatePdf.content</source>
-        <translation></translation>
+        <translation>Create PDF from any format</translation>
     </message>
     <message>
         <source>FloatZoomOut.title</source>
-        <translation></translation>
+        <translation>Zoom In</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation></translation>
+        <translation>Create small letters below the text baseline.</translation>
     </message>
     <message>
         <source>CreatePdf.title</source>
-        <translation></translation>
+        <translation>Create Pdf</translation>
     </message>
     <message>
         <source>Italic.content</source>
-        <translation></translation>
+        <translation>Italic</translation>
     </message>
     <message>
         <source>LineSpace.title</source>
-        <translation></translation>
+        <translation>Line Spacing</translation>
     </message>
     <message>
         <source>EbookSinglePage.content</source>
-        <translation></translation>
+        <translation>Odd Pages</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation></translation>
+        <translation>Read Text</translation>
     </message>
     <message>
         <source>Circle.title</source>
-        <translation></translation>
+        <translation>Circle</translation>
     </message>
     <message>
         <source>Encrypt.content</source>
-        <translation></translation>
+        <translation>Set password for current document.</translation>
     </message>
     <message>
         <source>Squiggly Underline.title</source>
-        <translation></translation>
+        <translation>Squiggly Underline</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.title</source>
-        <translation></translation>
+        <translation>PdfElectronicInvoicePrint</translation>
     </message>
     <message>
         <source>FreeText.content</source>
-        <translation></translation>
+        <translation>Add text comment</translation>
     </message>
     <message>
         <source>Stamp.content</source>
-        <translation></translation>
+        <translation>Stamp</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation></translation>
+        <translation>Text Highlight Color</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.title</source>
-        <translation></translation>
+        <translation>Snap to Midpoints</translation>
     </message>
     <message>
         <source>UpdateHeaderFooterTips.content</source>
-        <translation></translation>
+        <translation>UpdateHeaderFooterTips</translation>
     </message>
     <message>
         <source>CompleteClipPage.content</source>
-        <translation></translation>
+        <translation>Complete</translation>
     </message>
     <message>
         <source>SplitPage.title</source>
-        <translation></translation>
+        <translation>Split Page</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectExit.content</source>
-        <translation></translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>ClipPage.title</source>
-        <translation></translation>
+        <translation>Crop Page</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation></translation>
+        <translation>Export to Image</translation>
     </message>
     <message>
         <source>FillSignCross.title</source>
-        <translation></translation>
+        <translation>Cross</translation>
     </message>
     <message>
         <source>PDFEditText.content</source>
-        <translation></translation>
+        <translation>Edit text content, font, size, etc.</translation>
     </message>
     <message>
         <source>PDF2TXTConvert.title</source>
-        <translation></translation>
+        <translation>PDF to TXT</translation>
     </message>
     <message>
         <source>FitVisible.content</source>
-        <translation></translation>
+        <translation>FitVisible</translation>
     </message>
     <message>
         <source>TextCommentBox.content</source>
-        <translation></translation>
+        <translation>Insert text box</translation>
     </message>
     <message>
         <source>PdfImageReverse.title</source>
-        <translation></translation>
+        <translation>Flip</translation>
     </message>
     <message>
         <source>TextBoxBorderColor.content</source>
-        <translation></translation>
+        <translation>Border Color</translation>
     </message>
     <message>
         <source>PdfImageReplace.title</source>
-        <translation></translation>
+        <translation>Replace</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.title</source>
-        <translation></translation>
+        <translation>Insert Pages from Document</translation>
     </message>
     <message>
         <source>FitWidth.content</source>
-        <translation></translation>
+        <translation>Fit to window width.</translation>
     </message>
     <message>
         <source>PdfImageRotate90.title</source>
-        <translation></translation>
+        <translation>Rotation</translation>
     </message>
     <message>
         <source>TextQuery.title</source>
-        <translation></translation>
+        <translation>Find</translation>
     </message>
     <message>
         <source>PDFMeasureScale.title</source>
-        <translation></translation>
+        <translation>Scale Ratio</translation>
     </message>
     <message>
         <source>ZoomInThumbnails.title</source>
-        <translation></translation>
+        <translation>ZoomInThumbnails</translation>
     </message>
     <message>
         <source>MergePDF.title</source>
-        <translation></translation>
+        <translation>Merge PDF</translation>
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation></translation>
+        <translation>Scan the QR code with your mobile phone to get the document</translation>
     </message>
     <message>
         <source>Quick_PageDelete.title</source>
-        <translation></translation>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>PdfImageEnterEdit.content</source>
-        <translation></translation>
+        <translation>Edit Picture</translation>
     </message>
     <message>
         <source>PreviousPage.title</source>
-        <translation></translation>
+        <translation>Previous Page</translation>
     </message>
     <message>
         <source>MergePDF.content</source>
-        <translation></translation>
+        <translation>Merge multiple PDF files</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation></translation>
+        <translation>Translate accurately and quickly while preserving the original layout of the document.</translation>
     </message>
     <message>
         <source>AutoWheel.content</source>
-        <translation></translation>
+        <translation>Scroll the document by a certain speed</translation>
     </message>
     <message>
         <source>TextCommentBox.title</source>
-        <translation></translation>
+        <translation>Text Box</translation>
     </message>
     <message>
         <source>ReplaceBorder.title</source>
-        <translation></translation>
+        <translation>Replace text</translation>
     </message>
     <message>
         <source>EditTextToolBarTips.content</source>
-        <translation></translation>
+        <translation>Text Editing</translation>
     </message>
     <message>
         <source>AutoWheel.title</source>
-        <translation></translation>
+        <translation>Auto Scroll</translation>
     </message>
     <message>
         <source>DeleteHeaderFooterTips.content</source>
-        <translation></translation>
+        <translation>DeleteHeaderFooterTips</translation>
     </message>
     <message>
         <source>FloatHandTool.title</source>
-        <translation></translation>
+        <translation>Hand Tool</translation>
     </message>
     <message>
         <source>PageCorrectManualAdjust.title</source>
-        <translation></translation>
+        <translation>Manual adjustment</translation>
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation></translation>
+        <translation>Align text to the right</translation>
     </message>
     <message>
         <source>HideAnnotations.title</source>
-        <translation></translation>
+        <translation>Hide Annotations</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation></translation>
+        <translation>Intercepts screen content for graphic comparison</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
-        <translation></translation>
+        <translation>Edit Content</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyText.title</source>
-        <translation></translation>
+        <translation>Copy Text</translation>
     </message>
     <message>
         <source>FloatHandTool.content</source>
-        <translation></translation>
+        <translation>Drag and drop the document</translation>
     </message>
     <message>
         <source>ImageClip.title</source>
-        <translation></translation>
+        <translation>Clip Picture</translation>
     </message>
     <message>
         <source>FormFilling.title</source>
-        <translation></translation>
+        <translation>Fill &amp; Sign</translation>
     </message>
     <message>
         <source>TextBoxAlpha.content</source>
-        <translation></translation>
+        <translation>Transparency</translation>
     </message>
     <message>
         <source>Squiggly Underline.content</source>
-        <translation></translation>
+        <translation>Squiggly Underline</translation>
     </message>
     <message>
         <source>Quick_PageInsert.title</source>
-        <translation></translation>
+        <translation>Insert</translation>
     </message>
     <message>
         <source>PDFAddText.content</source>
-        <translation></translation>
+        <translation>Add text content to the document</translation>
     </message>
     <message>
         <source>GraffitiVline.content</source>
-        <translation></translation>
+        <translation>Draw a freehand vertical line</translation>
     </message>
     <message>
         <source>StrikeoutBorder.title</source>
-        <translation></translation>
+        <translation>Strikethrough text</translation>
     </message>
     <message>
         <source>NewImage2Bottom.title</source>
-        <translation></translation>
+        <translation>Move to Bottom</translation>
     </message>
     <message>
         <source>FillSignCircle.title</source>
-        <translation></translation>
+        <translation>Oval</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyText.content</source>
-        <translation></translation>
+        <translation>Copy Text</translation>
     </message>
     <message>
         <source>ZoomOutThumbnails.content</source>
-        <translation></translation>
+        <translation>ZoomOutThumbnails</translation>
     </message>
     <message>
         <source>PDF2Excel.content</source>
-        <translation></translation>
+        <translation>Convert PDF files to Excel files</translation>
     </message>
     <message>
         <source>DeletePages.content</source>
-        <translation></translation>
+        <translation>Delete specified pages from current document.</translation>
     </message>
     <message>
         <source>ClearFormat.content</source>
-        <translation></translation>
+        <translation>ClearFormat</translation>
     </message>
     <message>
         <source>Print.title</source>
-        <translation></translation>
+        <translation>Print</translation>
     </message>
     <message>
         <source>StampTool.title</source>
-        <translation></translation>
+        <translation>Stamp</translation>
     </message>
     <message>
         <source>PageDelete.content</source>
-        <translation></translation>
+        <translation>Delete Pages</translation>
     </message>
     <message>
         <source>PdfImageOpacity.title</source>
-        <translation></translation>
+        <translation>Transparency</translation>
     </message>
     <message>
         <source>RotateToTheLeft.title</source>
-        <translation></translation>
+        <translation>Rotate Left</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.content</source>
-        <translation></translation>
+        <translation>PdfImageOcrExtract</translation>
     </message>
     <message>
         <source>ZoomIn.title</source>
-        <translation></translation>
+        <translation>Zoom Out</translation>
     </message>
     <message>
         <source>TextStrikethought.title</source>
-        <translation></translation>
+        <translation>Strikethrough</translation>
     </message>
     <message>
         <source>Bold.title</source>
-        <translation></translation>
+        <translation>Bold</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation></translation>
+        <translation>Find</translation>
     </message>
     <message>
         <source>FloatClose.content</source>
-        <translation></translation>
+        <translation>Close floating toolbar.</translation>
     </message>
     <message>
         <source>ImageEditFlip.content</source>
-        <translation></translation>
+        <translation>Flip the picture</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation></translation>
+        <translation>Align Center</translation>
     </message>
     <message>
         <source>TemplatesPrint.title</source>
-        <translation></translation>
+        <translation>Print Template</translation>
     </message>
     <message>
         <source>GraffitiEraserWholeType.title</source>
-        <translation></translation>
+        <translation>Erase all</translation>
     </message>
     <message>
         <source>UnderlineBorder.content</source>
-        <translation></translation>
+        <translation>Select text to underline</translation>
     </message>
     <message>
         <source>AttachmentTip.content</source>
-        <translation></translation>
+        <translation>Add attachment files to the specified location of the document</translation>
     </message>
     <message>
         <source>PdfImageReverse.content</source>
-        <translation></translation>
+        <translation>Flip</translation>
     </message>
     <message>
         <source>ContinuousRead.title</source>
-        <translation></translation>
+        <translation>Continuous reading</translation>
     </message>
     <message>
         <source>TextItalic.content</source>
-        <translation></translation>
+        <translation>Italicize the selected text</translation>
     </message>
     <message>
         <source>Line Style.content</source>
-        <translation></translation>
+        <translation>Line Style</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
-        <translation></translation>
+        <translation>Preview Picture</translation>
     </message>
     <message>
         <source>Shape.title</source>
-        <translation></translation>
+        <translation>Shape Annotation</translation>
     </message>
     <message>
         <source>IndentFisrtLine.title</source>
-        <translation></translation>
+        <translation>First Line Indent</translation>
     </message>
     <message>
         <source>UnderlineBorder.title</source>
-        <translation></translation>
+        <translation>Underline text</translation>
     </message>
     <message>
         <source>VerificationSignature.title</source>
-        <translation></translation>
+        <translation>Verify Signature</translation>
     </message>
     <message>
         <source>Counterclockwise.title</source>
-        <translation></translation>
+        <translation>Rotate Left</translation>
     </message>
     <message>
         <source>FullScreen.content</source>
-        <translation></translation>
+        <translation>View document in full screen.</translation>
     </message>
     <message>
         <source>Page Select.content</source>
-        <translation></translation>
+        <translation>Enter page numbers and/or page ranges separated by commas. For example, 1,3,5-12</translation>
     </message>
     <message>
         <source>PDFMeasureDistance.content</source>
-        <translation></translation>
+        <translation>Measure the distance between two points on the page. Click points to measure, double-click to end, press ESC to cancel.</translation>
     </message>
     <message>
         <source>Page Number.content</source>
-        <translation></translation>
+        <translation>Page Number</translation>
     </message>
     <message>
         <source>PDF2Excel.title</source>
-        <translation></translation>
+        <translation>PDF to Excel</translation>
     </message>
     <message>
         <source>Polygon.title</source>
-        <translation></translation>
+        <translation>Polygon</translation>
     </message>
     <message>
         <source>ZoomOut.title</source>
-        <translation></translation>
+        <translation>Zoom In</translation>
     </message>
     <message>
         <source>MenuFloatToolBar.content</source>
-        <translation></translation>
+        <translation>Floating Toolbar</translation>
     </message>
     <message>
         <source>ReadingMode.title</source>
-        <translation></translation>
+        <translation>Read Mode</translation>
     </message>
     <message>
         <source>FillSign_FreeText.title</source>
-        <translation></translation>
+        <translation>Add Text</translation>
     </message>
     <message>
         <source>TextUnderline.title</source>
-        <translation></translation>
+        <translation>Underline</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation></translation>
+        <translation>Convert picture to text format.</translation>
     </message>
     <message>
         <source>PDFEditContent.content</source>
-        <translation></translation>
+        <translation>Edit texts and pictures</translation>
     </message>
     <message>
         <source>Note.title</source>
-        <translation></translation>
+        <translation>Note</translation>
     </message>
     <message>
         <source>Save.title</source>
-        <translation></translation>
+        <translation>Save</translation>
     </message>
     <message>
         <source>PDFMeasureArea.title</source>
-        <translation></translation>
+        <translation>Measure Area</translation>
     </message>
     <message>
         <source>CustomClipPage.content</source>
-        <translation></translation>
+        <translation>Constituency adjustment</translation>
     </message>
     <message>
         <source>OS_PhoneShare.title</source>
-        <translation></translation>
+        <translation>Scan to Mobile</translation>
     </message>
     <message>
         <source>PdfReplacePages.title</source>
-        <translation></translation>
+        <translation>Replace Pages</translation>
     </message>
     <message>
         <source>PolyLine.content</source>
-        <translation></translation>
+        <translation>Custom graphics</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation></translation>
+        <translation>Quickly fix documents that are garbled or cannot be opened for other reasons.</translation>
     </message>
     <message>
         <source>PdfNewEdit.content</source>
-        <translation></translation>
+        <translation>Edit text, images, and more</translation>
     </message>
     <message>
         <source>PageCorrectFinished.title</source>
-        <translation></translation>
+        <translation>Complete rectification</translation>
     </message>
     <message>
         <source>WaterMark.title</source>
-        <translation></translation>
+        <translation>Watermark</translation>
     </message>
     <message>
         <source>Recommended PictureToText.content</source>
-        <translation></translation>
+        <translation>Recommend Convert picture to text format.</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.content</source>
-        <translation></translation>
+        <translation>All</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation></translation>
+        <translation>Reducing the size of PDF files</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
-        <translation></translation>
+        <translation>First Line Indent</translation>
     </message>
     <message>
         <source>NavigateForward.title</source>
-        <translation></translation>
+        <translation>Navigate Forward</translation>
     </message>
     <message>
         <source>Shapes.content</source>
-        <translation></translation>
+        <translation>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</translation>
     </message>
     <message>
         <source>FloatFitWidth.title</source>
-        <translation></translation>
+        <translation>Fit Width</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyExcel.content</source>
-        <translation></translation>
+        <translation>Copy Forms</translation>
     </message>
     <message>
         <source>EyeShield.content</source>
-        <translation></translation>
+        <translation>Open Eye Protection Mode to Relieve Eye Fatigue</translation>
     </message>
     <message>
         <source>FloatFitPageSize.title</source>
-        <translation></translation>
+        <translation>Suitable Page</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.title</source>
-        <translation></translation>
+        <translation>Extract Text from Image</translation>
     </message>
     <message>
         <source>SinglePageContinuous.title</source>
-        <translation></translation>
+        <translation>Single Page</translation>
     </message>
     <message>
         <source>ImageEditDelete.title</source>
-        <translation></translation>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>PDF2Photo.title</source>
-        <translation></translation>
+        <translation>PDF to Picture</translation>
     </message>
     <message>
         <source>NavigateBack.content</source>
-        <translation></translation>
+        <translation>Navigate Back</translation>
     </message>
     <message>
         <source>PDFAdsorptionPath.content</source>
-        <translation></translation>
+        <translation>Snap to the nearest point on the path</translation>
     </message>
     <message>
         <source>EbookDoublePage.title</source>
-        <translation></translation>
+        <translation>Even Pages</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.title</source>
-        <translation></translation>
+        <translation>DocerURLEntranceTip</translation>
     </message>
     <message>
         <source>FillSignCircle.content</source>
-        <translation></translation>
+        <translation>Add oval</translation>
     </message>
     <message>
         <source>PDFExtractPage.title</source>
-        <translation></translation>
+        <translation>PDF extraction page</translation>
     </message>
     <message>
         <source>TranslationSelectPdf.title</source>
-        <translation></translation>
+        <translation>Translate Selected Words</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation></translation>
+        <translation>Align Text Right</translation>
     </message>
     <message>
         <source>MagnifyIndentation.content</source>
-        <translation></translation>
+        <translation>Increase the indent level of the  paragraph</translation>
     </message>
     <message>
         <source>FillSignDot.content</source>
-        <translation></translation>
+        <translation>Add dot</translation>
     </message>
     <message>
         <source>ConfirmImageClip.title</source>
-        <translation></translation>
+        <translation>Confirm</translation>
     </message>
     <message>
         <source>ZoomInThumbnails.content</source>
-        <translation></translation>
+        <translation>ZoomInThumbnails</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.content</source>
-        <translation></translation>
+        <translation>PdfElectronicInvoicePrint</translation>
     </message>
     <message>
         <source>ReduceFontSize.title</source>
-        <translation></translation>
+        <translation>Shrink Font</translation>
     </message>
     <message>
         <source>Strikeout.content</source>
-        <translation></translation>
+        <translation>Strikethrough</translation>
     </message>
     <message>
         <source>EditBackGround.content</source>
-        <translation></translation>
+        <translation>Set document background</translation>
     </message>
     <message>
         <source>TwoPageContinuous.title</source>
-        <translation></translation>
+        <translation>Two Page</translation>
     </message>
     <message>
         <source>FillSign.content</source>
-        <translation></translation>
+        <translation>Fill and sign forms</translation>
     </message>
     <message>
         <source>TranslationAll.content</source>
-        <translation></translation>
+        <translation>Translate the full text</translation>
     </message>
     <message>
         <source>CustomClipPage.title</source>
-        <translation></translation>
+        <translation>Constituency adjustment</translation>
     </message>
     <message>
         <source>ReplaceBorder.content</source>
-        <translation></translation>
+        <translation>Add note to replace text</translation>
     </message>
     <message>
         <source>DocPermission.title</source>
-        <translation></translation>
+        <translation>DocPermission</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.content</source>
-        <translation></translation>
+        <translation>PDF Export Photo</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.content</source>
-        <translation></translation>
+        <translation>Measure a path made up of several points. Click points to measure, double-click to end, press ESC to cancel.</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation></translation>
+        <translation>Create small letters above the line of text.</translation>
     </message>
     <message>
         <source>Arrow.title</source>
-        <translation></translation>
+        <translation>Arrow</translation>
     </message>
     <message>
         <source>PDFAdsorptionIntersection.title</source>
-        <translation></translation>
+        <translation>Snap to Intersections</translation>
     </message>
     <message>
         <source>ReduceIndentation.content</source>
-        <translation></translation>
+        <translation>Decrease the indent level of the paragraph</translation>
     </message>
     <message>
         <source>FormFilling.content</source>
-        <translation></translation>
+        <translation>Fill &amp; Sign</translation>
     </message>
     <message>
         <source>AttachmentTip.title</source>
-        <translation></translation>
+        <translation>Attachment</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.title</source>
-        <translation></translation>
+        <translation>Complete</translation>
     </message>
     <message>
         <source>ImageEditFlip.title</source>
-        <translation></translation>
+        <translation>Flip</translation>
     </message>
     <message>
         <source>ShowAnnotations.title</source>
-        <translation></translation>
+        <translation>Show Annotations</translation>
     </message>
     <message>
         <source>AddImage.content</source>
-        <translation></translation>
+        <translation>Insert picture from local folder.</translation>
     </message>
     <message>
         <source>FileCollect.content</source>
-        <translation></translation>
+        <translation>Quickly collect student or colleague files</translation>
     </message>
     <message>
         <source>PdfSignatureDeleteBatch.content</source>
-        <translation></translation>
+        <translation>Batch Delete</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation></translation>
+        <translation>Fill Color</translation>
     </message>
     <message>
         <source>OCRExtractText.title</source>
-        <translation></translation>
+        <translation>OCRExtractText</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation></translation>
+        <translation>Align Text Left</translation>
     </message>
     <message>
         <source>InsertBorder.title</source>
-        <translation></translation>
+        <translation>Insert text</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation></translation>
+        <translation>Fill Color</translation>
     </message>
     <message>
         <source>SplitPDF.content</source>
-        <translation></translation>
+        <translation>Split a PDF file into multiple PDF files.</translation>
     </message>
     <message>
         <source>MenuSelectionTool.title</source>
-        <translation></translation>
+        <translation>Select Tool</translation>
     </message>
     <message>
         <source>Circle.content</source>
-        <translation></translation>
+        <translation>Circle</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.content</source>
-        <translation></translation>
+        <translation>PdfInvoiceAssist</translation>
     </message>
     <message>
         <source>DeleteHeaderFooterTips.title</source>
-        <translation></translation>
+        <translation>DeleteHeaderFooterTips</translation>
     </message>
     <message>
         <source>EditTextToolBarTips.title</source>
-        <translation></translation>
+        <translation>Text Editing</translation>
     </message>
     <message>
         <source>AddPageNumberTips.title</source>
-        <translation></translation>
+        <translation>Add page number</translation>
     </message>
     <message>
         <source>FloatZoomIn.title</source>
-        <translation></translation>
+        <translation>Zoom Out</translation>
     </message>
     <message>
         <source>TemplatesPrint.content</source>
-        <translation></translation>
+        <translation>Print Template</translation>
     </message>
     <message>
         <source>PreviousPage.content</source>
-        <translation></translation>
+        <translation>Show previous page.</translation>
     </message>
     <message>
         <source>Encrypt.title</source>
-        <translation></translation>
+        <translation>Encrypt</translation>
     </message>
     <message>
         <source>PDFMeasureDistance.title</source>
-        <translation></translation>
+        <translation>Measure Distance</translation>
     </message>
     <message>
         <source>Strikethrough.title</source>
-        <translation></translation>
+        <translation>Strikethrough</translation>
     </message>
     <message>
         <source>FloatFitPageSize.content</source>
-        <translation></translation>
+        <translation>Scaling to page size for window display</translation>
     </message>
     <message>
         <source>Translation.title</source>
-        <translation></translation>
+        <translation>Translation</translation>
     </message>
     <message>
         <source>UnderlineAndAnnotation.title</source>
-        <translation></translation>
+        <translation>Underline and note</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation></translation>
+        <translation>Convert Picture to Text</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation></translation>
+        <translation>Align text to the left</translation>
     </message>
     <message>
         <source>Cloudy.content</source>
-        <translation></translation>
+        <translation>Cloudy</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation></translation>
+        <translation>Turn the text into speech. You have a free trial of this feature everyday.</translation>
     </message>
     <message>
         <source>InsertBorder.content</source>
-        <translation></translation>
+        <translation>Insert text at cursor</translation>
     </message>
     <message>
         <source>FitVisible.title</source>
-        <translation></translation>
+        <translation>FitVisible</translation>
     </message>
     <message>
         <source>FillSignLine.content</source>
-        <translation></translation>
+        <translation>Add line</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.title</source>
-        <translation></translation>
+        <translation>PDF Export Photo</translation>
     </message>
     <message>
         <source>ImageExtractTip.content</source>
-        <translation></translation>
+        <translation>ImageExtractTip</translation>
     </message>
     <message>
         <source>PDFCompress.content</source>
-        <translation></translation>
+        <translation>Reduce PDF file size.</translation>
     </message>
     <message>
         <source>PDFMeasureTool.title</source>
-        <translation></translation>
+        <translation>Measure Tool</translation>
     </message>
     <message>
         <source>PdfImageClip.content</source>
-        <translation></translation>
+        <translation>Pdf Picture Clip</translation>
     </message>
     <message>
         <source>Translation.content</source>
-        <translation></translation>
+        <translation>Translation</translation>
     </message>
     <message>
         <source>NoteBorder.content</source>
-        <translation></translation>
+        <translation>Add note</translation>
     </message>
     <message>
         <source>ImageEditDelete.content</source>
-        <translation></translation>
+        <translation>ImageEditDelete</translation>
     </message>
     <message>
         <source>TextBold.title</source>
-        <translation></translation>
+        <translation>Bold</translation>
     </message>
     <message>
         <source>Replace Text.title</source>
-        <translation></translation>
+        <translation>Replace symbol</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation></translation>
+        <translation>Screenshots and comparisons</translation>
     </message>
     <message>
         <source>Polygon.content</source>
-        <translation></translation>
+        <translation>Polygon</translation>
     </message>
     <message>
         <source>FitWidth.title</source>
-        <translation></translation>
+        <translation>Fit Width</translation>
     </message>
     <message>
         <source>PDFEditTextExit.content</source>
-        <translation></translation>
+        <translation>exits the current editing state</translation>
     </message>
     <message>
         <source>NavigationBar.title</source>
-        <translation></translation>
+        <translation>NavigationBar</translation>
     </message>
     <message>
         <source>ContinuousRead.content</source>
-        <translation></translation>
+        <translation>Scroll page to view</translation>
     </message>
     <message>
         <source>EbookSinglePage.title</source>
-        <translation></translation>
+        <translation>Odd Pages</translation>
     </message>
     <message>
         <source>PDF2TXTConvert.content</source>
-        <translation></translation>
+        <translation>Convert PDF files to TXT files</translation>
     </message>
     <message>
         <source>FloatSelectionTool.content</source>
-        <translation></translation>
+        <translation>Select text or images to copy.</translation>
     </message>
     <message>
         <source>PDFMeasureScale.content</source>
-        <translation></translation>
+        <translation>Scale Ratio</translation>
     </message>
     <message>
         <source>KOSLogoutTip.title</source>
-        <translation></translation>
+        <translation>KOSLogoutTip</translation>
     </message>
     <message>
         <source>ZoomPage.content</source>
-        <translation></translation>
+        <translation>Other zoom options.</translation>
     </message>
     <message>
         <source>AddBookMark.title</source>
-        <translation></translation>
+        <translation>Add Bookmark</translation>
     </message>
     <message>
         <source>MagnifyFontSize.title</source>
-        <translation></translation>
+        <translation>Grow Font</translation>
     </message>
     <message>
         <source>Strikethrough.content</source>
-        <translation></translation>
+        <translation>Strikethrough</translation>
     </message>
     <message>
         <source>TextBoxBorderColor.title</source>
-        <translation></translation>
+        <translation>Border Color</translation>
     </message>
     <message>
         <source>ReduceFontSize.content</source>
-        <translation></translation>
+        <translation>Decrease the font size</translation>
     </message>
     <message>
         <source>PdfSignature.content</source>
-        <translation></translation>
+        <translation>Add a handwritten signature or an image, or enter a signature.</translation>
     </message>
     <message>
         <source>VerificationSignature2.content</source>
-        <translation></translation>
+        <translation>Verify all digital signatures in the document
+(This document does not contain a digital signature)</translation>
     </message>
     <message>
         <source>LetterSpace.title</source>
-        <translation></translation>
+        <translation>Character Spacing</translation>
     </message>
     <message>
         <source>AnnotGraffiti.title</source>
-        <translation></translation>
+        <translation>Free Painting</translation>
     </message>
     <message>
         <source>Start Arrow.content</source>
-        <translation></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>VerificationSignature.content</source>
-        <translation></translation>
+        <translation>Verify all digital signatures in the document</translation>
     </message>
     <message>
         <source>Photo2PDF.content</source>
-        <translation></translation>
+        <translation>Convert picture to PDF</translation>
     </message>
     <message>
         <source>PDFAdsorptionIntersection.content</source>
-        <translation></translation>
+        <translation>Snap to the intersection point of two paths</translation>
     </message>
     <message>
         <source>TextBoxBkColor.content</source>
-        <translation></translation>
+        <translation>Fill</translation>
     </message>
     <message>
         <source>HyperLink.title</source>
-        <translation></translation>
+        <translation>Link</translation>
     </message>
     <message>
         <source>GraffitiEraserPartType.title</source>
-        <translation></translation>
+        <translation>Erase part</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation></translation>
+        <translation>Copy Pictures</translation>
     </message>
     <message>
         <source>NextPage.title</source>
-        <translation></translation>
+        <translation>Next Page</translation>
     </message>
     <message>
         <source>TBLineStyle.content</source>
-        <translation></translation>
+        <translation>Set the outline style for the selected text.</translation>
     </message>
     <message>
         <source>Highlight.title</source>
-        <translation></translation>
+        <translation>Highlight</translation>
     </message>
     <message>
         <source>DocPermission.content</source>
-        <translation></translation>
+        <translation>DocPermission</translation>
     </message>
     <message>
         <source>PageCorrectExit.content</source>
-        <translation></translation>
+        <translation>Exit and return corrective results</translation>
     </message>
     <message>
         <source>HideAnnotations.content</source>
-        <translation></translation>
+        <translation>Hide all annotations</translation>
     </message>
     <message>
         <source>ShowAnnotations.content</source>
-        <translation></translation>
+        <translation>Show all annotations</translation>
     </message>
     <message>
         <source>MenuSelectionTool.content</source>
-        <translation></translation>
+        <translation>Click to select text and object</translation>
     </message>
     <message>
         <source>TextColor.title</source>
-        <translation></translation>
+        <translation>Text Color</translation>
     </message>
     <message>
         <source>ImagePreview.title</source>
-        <translation></translation>
+        <translation>Preview Picture</translation>
     </message>
     <message>
         <source>AIOCR2PDF.title</source>
-        <translation></translation>
+        <translation>Recognizing Text</translation>
     </message>
     <message>
         <source>SinglePageContinuous.content</source>
-        <translation></translation>
+        <translation>One page in full screen</translation>
     </message>
     <message>
         <source>NewFromMDTips.content</source>
-        <translation></translation>
+        <translation>NewFromMDTips</translation>
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation></translation>
+        <translation>Correction Fluid</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
-        <translation></translation>
+        <translation>Combine multiple file types into one PDF document.</translation>
     </message>
     <message>
         <source>Highlight.content</source>
-        <translation></translation>
+        <translation>Highlight</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectFinished.title</source>
-        <translation></translation>
+        <translation>Complete</translation>
     </message>
     <message>
         <source>GraffitiEraserWholeType.content</source>
-        <translation></translation>
+        <translation>Erase whole graffiti</translation>
     </message>
     <message>
         <source>Clockwise.content</source>
-        <translation></translation>
+        <translation>Rotate Right 90°.</translation>
     </message>
     <message>
         <source>Note.content</source>
-        <translation></translation>
+        <translation>Note</translation>
     </message>
     <message>
         <source>OCRExtractText.content</source>
-        <translation></translation>
+        <translation>OCRExtractText</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.content</source>
-        <translation></translation>
+        <translation>Measurement Result Panel</translation>
     </message>
     <message>
         <source>ReduceIndentation.title</source>
-        <translation></translation>
+        <translation>Decrease Indent</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation></translation>
+        <translation>Save the document as picture format.</translation>
     </message>
     <message>
         <source>Open.content</source>
-        <translation></translation>
+        <translation>Open file</translation>
     </message>
     <message>
         <source>ClipPage.content</source>
-        <translation></translation>
+        <translation>Crop Page</translation>
     </message>
     <message>
         <source>FillSignLine.title</source>
-        <translation></translation>
+        <translation>Line</translation>
     </message>
     <message>
         <source>OCRExtractPageText.content</source>
-        <translation></translation>
+        <translation> extract the current page text</translation>
     </message>
     <message>
         <source>TextItalic.title</source>
-        <translation></translation>
+        <translation>Italic</translation>
     </message>
     <message>
         <source>Zoom Page.content</source>
-        <translation></translation>
+        <translation>Zoom Page</translation>
     </message>
     <message>
         <source>FileCollect.title</source>
-        <translation></translation>
+        <translation>File Collect</translation>
     </message>
     <message>
         <source>FillSignCheck.title</source>
-        <translation></translation>
+        <translation>Check</translation>
     </message>
     <message>
         <source>AIOCR2PDF.content</source>
-        <translation></translation>
+        <translation>Recognizing Text</translation>
     </message>
     <message>
         <source>InsertPages.title</source>
-        <translation></translation>
+        <translation>Insert Pages</translation>
     </message>
     <message>
         <source>GraffitiDraw.content</source>
-        <translation></translation>
+        <translation>Draw random painting</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyExcel.title</source>
-        <translation></translation>
+        <translation>Copy Forms</translation>
     </message>
     <message>
         <source>DataRecover.title</source>
-        <translation></translation>
+        <translation>DataRecover</translation>
     </message>
     <message>
         <source>ActualSize.content</source>
-        <translation></translation>
+        <translation>Zoom page to actual size.</translation>
     </message>
     <message>
         <source>ExportHighlight.title</source>
-        <translation></translation>
+        <translation>Export Highlights</translation>
     </message>
     <message>
         <source>InsertBlankPages.title</source>
-        <translation></translation>
+        <translation>Insert Blank Pages</translation>
     </message>
     <message>
         <source>EyeShield.title</source>
-        <translation></translation>
+        <translation>Eye protection mode</translation>
     </message>
     <message>
         <source>NewImage2Bottom.content</source>
-        <translation></translation>
+        <translation>Move the picture down to the bottom</translation>
     </message>
     <message>
         <source>TranslationAll.title</source>
-        <translation></translation>
+        <translation>Full Text Translation</translation>
     </message>
     <message>
         <source>PDFExtractPage.content</source>
-        <translation></translation>
+        <translation>Select page to generate a new PDF file</translation>
     </message>
     <message>
         <source>Save.content</source>
-        <translation></translation>
+        <translation>Save file</translation>
     </message>
     <message>
         <source>EbookDoublePage.content</source>
-        <translation></translation>
+        <translation>Even Pages</translation>
     </message>
     <message>
         <source>ActualSize.title</source>
-        <translation></translation>
+        <translation>Actual Size</translation>
     </message>
     <message>
         <source>TBLineWidth.content</source>
-        <translation></translation>
+        <translation>Set the outline weight for the selected text.</translation>
     </message>
     <message>
         <source>Line Width.title</source>
-        <translation></translation>
+        <translation>Line Width</translation>
     </message>
     <message>
         <source>PDFEditText.title</source>
-        <translation></translation>
+        <translation>Edit text</translation>
     </message>
     <message>
         <source>OcrExtractScrawl.content</source>
-        <translation></translation>
+        <translation>OcrExtractScrawl</translation>
     </message>
     <message>
         <source>GraffitiEraser.content</source>
-        <translation></translation>
+        <translation>Eraser</translation>
     </message>
     <message>
         <source>Quick_Clockwise.title</source>
-        <translation></translation>
+        <translation>Rotate Right</translation>
     </message>
     <message>
         <source>MagnifyIndentation.title</source>
-        <translation></translation>
+        <translation>Increase Indent</translation>
     </message>
     <message>
         <source>NewImage2top.content</source>
-        <translation></translation>
+        <translation>Move the picture up to the top</translation>
     </message>
     <message>
         <source>GraffitiDraw.title</source>
-        <translation></translation>
+        <translation>Free Painting</translation>
     </message>
     <message>
         <source>GraffitiEraserPartType.content</source>
-        <translation></translation>
+        <translation>Erase part of graffiti</translation>
     </message>
     <message>
         <source>MenuHandTool.title</source>
-        <translation></translation>
+        <translation>Hand Tool</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation></translation>
+        <translation>Center text vertically and horizontally within the cell.</translation>
     </message>
     <message>
         <source>HideNavigationPannel.title</source>
-        <translation></translation>
+        <translation>Hide</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation></translation>
+        <translation>compression</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
-        <translation></translation>
+        <translation>Navigate Forward</translation>
     </message>
     <message>
         <source>Quick_Counterclockwise.title</source>
-        <translation></translation>
+        <translation>Rotate Left</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectExit.title</source>
-        <translation></translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>FloatSelectionTool.title</source>
-        <translation></translation>
+        <translation>Selection Tool</translation>
     </message>
     <message>
         <source>ChangeBackGround.title</source>
-        <translation></translation>
+        <translation>Background</translation>
     </message>
     <message>
         <source>RandomDraw.content</source>
-        <translation></translation>
+        <translation>Random Draw</translation>
     </message>
     <message>
         <source>HighlightBorder.content</source>
-        <translation></translation>
+        <translation>Highlight text.</translation>
     </message>
     <message>
         <source>ShowNavigationPannel.title</source>
-        <translation></translation>
+        <translation>Show</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation></translation>
+        <translation>Underline</translation>
     </message>
     <message>
         <source>PDFAdsorptionEndpoint.content</source>
-        <translation></translation>
+        <translation>Snap to the endpoint</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation></translation>
+        <translation>Find text in the document.
+
+Click the arrow to choose other options, such as Go To.</translation>
     </message>
     <message>
         <source>RotateToTheLeft.content</source>
-        <translation></translation>
+        <translation>Rotate 90 degrees to the left</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.content</source>
-        <translation></translation>
+        <translation>Snap to the midpoint</translation>
     </message>
     <message>
         <source>PdfImageOpacity.content</source>
-        <translation></translation>
+        <translation>Transparency</translation>
     </message>
     <message>
         <source>FormatBrush.content</source>
-        <translation></translation>
+        <translation>FormatBrush</translation>
     </message>
     <message>
         <source>TextStrikethought.content</source>
-        <translation></translation>
+        <translation>Draw a line through the middle of the selected text</translation>
     </message>
     <message>
         <source>DataRecover.content</source>
-        <translation></translation>
+        <translation>DataRecover</translation>
     </message>
     <message>
         <source>CADTOPdf.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NoteBorder.title</source>
-        <translation></translation>
+        <translation>Note</translation>
     </message>
     <message>
         <source>AddImage.title</source>
-        <translation></translation>
+        <translation>Add Picture</translation>
     </message>
     <message>
         <source>Bold.content</source>
-        <translation></translation>
+        <translation>Bold</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation></translation>
+        <translation>Convert PDF files to Word files</translation>
     </message>
     <message>
         <source>ReadingMode.content</source>
-        <translation></translation>
+        <translation>Enter read mode</translation>
     </message>
     <message>
         <source>m_LineSpacing.content</source>
-        <translation></translation>
+        <translation>Change the spacing between lines of text.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation></translation>
+        <translation>Convert PDF to Word</translation>
     </message>
     <message>
         <source>ShowNavigationPannel.content</source>
-        <translation></translation>
+        <translation>Show Navigation Pane</translation>
     </message>
     <message>
         <source>PageCorrectManualAdjust.content</source>
-        <translation></translation>
+        <translation>Manually adjust document boundary points</translation>
     </message>
     <message>
         <source>UpdateHeaderFooterTips.title</source>
-        <translation></translation>
+        <translation>UpdateHeaderFooterTips</translation>
     </message>
     <message>
         <source>ImageExtractTip.title</source>
-        <translation></translation>
+        <translation>Extract Image</translation>
     </message>
     <message>
         <source>FloatZoomOut.content</source>
-        <translation></translation>
+        <translation>Zoom In the page.</translation>
     </message>
     <message>
         <source>TwoPageContinuous.content</source>
-        <translation></translation>
+        <translation>Two page in full screen</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation></translation>
+        <translation>CAD to PDF</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
-        <translation></translation>
+        <translation>Select text to strikethrough</translation>
     </message>
     <message>
         <source>ScreenGrab.content</source>
-        <translation></translation>
+        <translation>ScreenGrab</translation>
     </message>
     <message>
         <source>FormFillingDate.content</source>
-        <translation></translation>
+        <translation>Add today&apos;s date</translation>
     </message>
     <message>
         <source>WaterMark.content</source>
-        <translation></translation>
+        <translation>Insert ghosted text and picture behind the content on the page.
+
+This is often used to indicate that the document is to be treated specially, such as Encrypted, Confidential and Do not Copy, or to mark the document source such as the addition of copyright logos and author information.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation></translation>
+        <translation>Document Fix.</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.title</source>
-        <translation></translation>
+        <translation>Measurement Result Panel</translation>
     </message>
     <message>
         <source>EbookIncreaseFont.content</source>
-        <translation></translation>
+        <translation>Increase Font</translation>
     </message>
     <message>
         <source>PdfSignature.title</source>
-        <translation></translation>
+        <translation>Sign</translation>
     </message>
     <message>
         <source>FloatFitSize.title</source>
-        <translation></translation>
+        <translation>Fit Size</translation>
     </message>
     <message>
         <source>Replace.content</source>
-        <translation></translation>
+        <translation>Replace text content in the document.</translation>
     </message>
     <message>
         <source>ShapeBorderColor.title</source>
-        <translation></translation>
+        <translation>Border Color</translation>
     </message>
     <message>
         <source>TBLineWidth.title</source>
-        <translation></translation>
+        <translation>Line Width</translation>
     </message>
     <message>
         <source>FitHeight.title</source>
-        <translation></translation>
+        <translation>FitHeight</translation>
     </message>
     <message>
         <source>UnderlineAndAnnotation.content</source>
-        <translation></translation>
+        <translation>Underline and note</translation>
     </message>
     <message>
         <source>Print.content</source>
-        <translation></translation>
+        <translation>Print files and make detailed settings for printing</translation>
     </message>
     <message>
         <source>FreeText.title</source>
-        <translation></translation>
+        <translation>Text comment</translation>
     </message>
     <message>
         <source>FloatNavigationBar.title</source>
-        <translation></translation>
+        <translation>Show Navigation Pane</translation>
     </message>
     <message>
         <source>PDFTOCad.title</source>
-        <translation></translation>
+        <translation>PDF to CAD</translation>
     </message>
     <message>
         <source>Recommended PictureToText.title</source>
-        <translation></translation>
+        <translation>Recommended PictureToText</translation>
     </message>
     <message>
         <source>HyperLink.content</source>
-        <translation></translation>
+        <translation>Add, edit or remove links</translation>
     </message>
     <message>
         <source>Photo2PDF.title</source>
-        <translation></translation>
+        <translation>Picture to PDF</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation></translation>
+        <translation>Make text look like it was marked with a highlighter pen.
+
+Click the arrow to select a different highlight color.</translation>
     </message>
     <message>
         <source>FirstPage.title</source>
-        <translation></translation>
+        <translation>First Page</translation>
     </message>
     <message>
         <source>PageDelete.title</source>
-        <translation></translation>
+        <translation>Delete Pages</translation>
     </message>
     <message>
         <source>ExportToPDF.content</source>
-        <translation></translation>
+        <translation>ExportToPDF</translation>
     </message>
     <message>
         <source>RotateToTheRight.content</source>
-        <translation></translation>
+        <translation>Rotate 90 degrees to the right</translation>
     </message>
 </context>
 </TS>
