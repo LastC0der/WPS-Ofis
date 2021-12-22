@@ -4141,7 +4141,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Adı</translation>
     </message>
     <message>
         <source>Insert part of a file by using OLE</source>
@@ -15568,7 +15568,7 @@ Painter</source>
     </message>
     <message>
         <source>Hide Lower Limit</source>
-        <translation type="unfinished"/>
+        <translation>Alt Sınırı Gizle</translation>
     </message>
     <message>
         <source>COM 
@@ -15586,7 +15586,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Hide Upper Limit</source>
-        <translation type="unfinished"/>
+        <translation>Üst Sınırı Gizle</translation>
     </message>
     <message>
         <source>0.5 pt</source>
@@ -15809,7 +15809,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasörü Aç</translation>
     </message>
     <message>
         <source>Column</source>
@@ -16162,7 +16162,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Exit Edit Point</source>
-        <translation type="unfinished"/>
+        <translation>Nokta Düzenlemeden Çık</translation>
     </message>
     <message>
         <source>Error Bars</source>
