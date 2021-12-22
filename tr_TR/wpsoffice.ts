@@ -4663,7 +4663,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>fileName</source>
-        <translation type="unfinished"/>
+        <translation>Dosya adı</translation>
     </message>
     <message>
         <source>Please choose the open way</source>
