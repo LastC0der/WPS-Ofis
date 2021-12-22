@@ -1,2227 +1,2238 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de_DE">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>CAD2PDF.title</source>
-        <translation type="unfinished"></translation>
+        <translation>CAD in PDF</translation>
     </message>
     <message>
         <source>FitPageSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite auf die passende Größe zoomen</translation>
     </message>
     <message>
         <source>End Arrow.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ende</translation>
     </message>
     <message>
         <source>ExportPdf.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Pdf exportieren</translation>
     </message>
     <message>
         <source>ChangeBackGround.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundfarbe der Seite ändern</translation>
     </message>
     <message>
         <source>PDFAdsorptionEndpoint.title</source>
-        <translation type="unfinished"></translation>
+        <translation>An Endpunkten ausrichten</translation>
     </message>
     <message>
         <source>OCRExtractPageText.title</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ZoomIn.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkleinern</translation>
     </message>
     <message>
         <source>Start Arrow.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Starten</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld „Zoom“ anzeigen, um die Zoomgröße des Dokuments festzulegen.</translation>
     </message>
     <message>
         <source>StampTool.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Stempel</translation>
     </message>
     <message>
         <source>Strikeout.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchgestrichen</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>MenuHandTool.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahlwerkzeug zum Ziehen des Dokuments.</translation>
     </message>
     <message>
         <source>PdfImageReplace.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <source>SplitPDF.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF aufteilen</translation>
     </message>
     <message>
         <source>InsertPages.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Angegebene Seiten in das aktuelle Dokument einfügen.</translation>
     </message>
     <message>
         <source>ZoomOut.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergrößern</translation>
     </message>
     <message>
         <source>kxPdfLogoutTip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>kxPdfLogoutTip</translation>
     </message>
     <message>
         <source>MagnifyFontSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>MagnifyFontSize</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PdfInvoiceAssist</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorheben und kommentieren</translation>
     </message>
     <message>
         <source>Superscript.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hochgestellt</translation>
     </message>
     <message>
         <source>Replace.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <source>ScreenGrab.title</source>
-        <translation type="unfinished"></translation>
+        <translation>ScreenGrab</translation>
     </message>
     <message>
         <source>PDF2Photo.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumente in Bilddateien konvertieren</translation>
     </message>
     <message>
         <source>PlaySlide.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Folie wiedergeben</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.title</source>
-        <translation type="unfinished"></translation>
+        <translation>EditPicNewTool_Rotate</translation>
     </message>
     <message>
         <source>TranslationSelect.title</source>
-        <translation type="unfinished"></translation>
+        <translation>TranslationSelect</translation>
     </message>
     <message>
         <source>DeletePages.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten löschen</translation>
     </message>
     <message>
         <source>PdfImageEnterEdit.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild bearbeiten</translation>
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiefgestellt</translation>
     </message>
     <message>
         <source>Search.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>PDFAdsorptionPath.title</source>
-        <translation type="unfinished"></translation>
+        <translation>An Pfaden ausrichten</translation>
     </message>
     <message>
         <source>FloatClose.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolleiste schließen</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigationsbereich ausblenden</translation>
     </message>
     <message>
         <source>FillSignDot.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt</translation>
     </message>
     <message>
         <source>ClockwiseDoc.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument drehen</translation>
     </message>
     <message>
         <source>EnterSuperNoteMode.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Notizmodus</translation>
     </message>
     <message>
         <source>LastPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Seite</translation>
     </message>
     <message>
         <source>HideNavigationPannel.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausblenden</translation>
     </message>
     <message>
         <source>Cloudy.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Wolkig</translation>
     </message>
     <message>
         <source>PDF2Office.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF in Office</translation>
     </message>
     <message>
         <source>Line Style.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Linienart</translation>
     </message>
     <message>
         <source>Annotate.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Als SuperNote kommentieren</translation>
     </message>
     <message>
         <source>PageCorrectFinished.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Korrektur abschließen</translation>
     </message>
     <message>
         <source>FormFillingDate.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum hinzufügen</translation>
     </message>
     <message>
         <source>PDFEditTextExit.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeitung beenden</translation>
     </message>
     <message>
         <source>FontName.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschiedene Schriftarten festlegen</translation>
     </message>
     <message>
         <source>CADTOPdf.content</source>
-        <translation type="unfinished"></translation>
+        <translation>CADTOPdf</translation>
     </message>
     <message>
         <source>PDF2PPT.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumente in PPT-Dateien konvertieren</translation>
     </message>
     <message>
         <source>FloatZoomIn.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite herauszoomen.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Markierten Text unterstreichen.
+
+Auf den Pfeil klicken, um andere Unterstreichungsstile auszuwählen.</translation>
     </message>
     <message>
         <source>TextBoxAlpha.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparenz</translation>
     </message>
     <message>
         <source>WaterMarkTips.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Wasserzeichen zum Dokument hinzufügen</translation>
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF in CAD</translation>
     </message>
     <message>
         <source>LastPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die letzte Seite anzeigen.</translation>
     </message>
     <message>
         <source>NextPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die nächste Seite anzeigen.</translation>
     </message>
     <message>
         <source>Italic.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kursiv</translation>
     </message>
     <message>
         <source>TextBoxBkColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Füllung</translation>
     </message>
     <message>
         <source>RotateToTheRight.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach rechts drehen</translation>
     </message>
     <message>
         <source>Open.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Markdown2PDFTips.title</source>
-        <translation type="unfinished"></translation>
+        <translation>MD in PDF</translation>
     </message>
     <message>
         <source>EditPageHeaderFooter.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopf- und Fußzeile</translation>
     </message>
     <message>
         <source>TranslationSelect.content</source>
-        <translation type="unfinished"></translation>
+        <translation>TranslationSelect</translation>
     </message>
     <message>
         <source>ZoomOutThumbnails.title</source>
-        <translation type="unfinished"></translation>
+        <translation>ZoomOutThumbnails</translation>
     </message>
     <message>
         <source>PageCorrectExit.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>FillSign.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulare ausfüllen und signieren</translation>
     </message>
     <message>
         <source>EbookSelfAdaptionPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Selbstanpassung</translation>
     </message>
     <message>
         <source>SplitPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Seite in mehrere Seiten aufteilen</translation>
     </message>
     <message>
         <source>PDFTOCad.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PDFTOCad</translation>
     </message>
     <message>
         <source>m_LineSpacing.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenabstand</translation>
     </message>
     <message>
         <source>PDFMeasureTool.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand, Perimeter und Bereich in der Datei messen</translation>
     </message>
     <message>
         <source>FirstPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die erste Seite anzeigen.</translation>
     </message>
     <message>
         <source>ImageEditTransparency.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparenz ändern</translation>
     </message>
     <message>
         <source>AutoClipPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligenter Kundenkreis</translation>
     </message>
     <message>
         <source>ImageClip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild ausschneiden</translation>
     </message>
     <message>
         <source>Replace Text.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol ersetzen</translation>
     </message>
     <message>
         <source>ExportPdf.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Pdf exportieren</translation>
     </message>
     <message>
         <source>NavigateBack.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurückwärts navigieren</translation>
     </message>
     <message>
         <source>ClipPageRange.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite</translation>
     </message>
     <message>
         <source>SaveAs.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern unter</translation>
     </message>
     <message>
         <source>MenuFloatToolBar.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Unverankerte Symbolleiste</translation>
     </message>
     <message>
         <source>Shapes.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Formen</translation>
     </message>
     <message>
         <source>ClearFormat.title</source>
-        <translation type="unfinished"></translation>
+        <translation>ClearFormat</translation>
     </message>
     <message>
         <source>Shape.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmerkung zum Formstil einfügen</translation>
     </message>
     <message>
         <source>FitPageSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe anpassen</translation>
     </message>
     <message>
         <source>NewImage2top.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach oben verschieben</translation>
     </message>
     <message>
         <source>ImageEditReplace.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild ersetzen</translation>
     </message>
     <message>
         <source>AutoClipPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligenter Kundenkreis</translation>
     </message>
     <message>
         <source>AddBookMark.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesezeichen für das Dokument hinzufügen</translation>
     </message>
     <message>
         <source>PDF2Office.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF-Dateien in Office-Dateien konvertieren</translation>
     </message>
     <message>
         <source>PdfImageClip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF-Bildausschnitt</translation>
     </message>
     <message>
         <source>AnnotGraffiti.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zufälliger Kreisbereich für Kommentare</translation>
     </message>
     <message>
         <source>FontSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe des Schriftgrads festlegen</translation>
     </message>
     <message>
         <source>FontName.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftart</translation>
     </message>
     <message>
         <source>FontSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftgrad</translation>
     </message>
     <message>
         <source>AreaHighlight.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bereich hervorheben</translation>
     </message>
     <message>
         <source>AddHeaderFooterTips.content</source>
-        <translation type="unfinished"></translation>
+        <translation>AddHeaderFooterTips</translation>
     </message>
     <message>
         <source>FillSignCross.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreuz hinzufügen</translation>
     </message>
     <message>
         <source>EbookIncreaseFont.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftart vergrößern</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Seiten aus dem Dokument an der angegebenen Stelle einfügen.</translation>
     </message>
     <message>
         <source>CancelImageClip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>EbookDecreaseFont.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftart verkleinern</translation>
     </message>
     <message>
         <source>FloatFitWidth.content</source>
-        <translation type="unfinished"></translation>
+        <translation>An Fensterbreite anpassen.</translation>
     </message>
     <message>
         <source>EditPageHeaderFooter.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopf- und Fußzeile für PDF-Dokument festlegen</translation>
     </message>
     <message>
         <source>ZoomPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>AddPageNumberTips.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitennummer zum aktuellen Dokument hinzufügen</translation>
     </message>
     <message>
         <source>Markdown2PDFTips.content</source>
-        <translation type="unfinished"></translation>
+        <translation>MD in PDF</translation>
     </message>
     <message>
         <source>Page Number.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenzahl</translation>
     </message>
     <message>
         <source>KOSLogoutTip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>KOSLogoutTip</translation>
     </message>
     <message>
         <source>PolyLine.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Grafiken</translation>
     </message>
     <message>
         <source>ClipPageRange.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite</translation>
     </message>
     <message>
         <source>CompleteClipPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgeschlossen</translation>
     </message>
     <message>
         <source>VerificationSignature2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Signatur überprüfen</translation>
     </message>
     <message>
         <source>ExportToPDF.title</source>
-        <translation type="unfinished"></translation>
+        <translation>ExportToPDF</translation>
     </message>
     <message>
         <source>PdfSignatureEmbedBatch.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PdfSignatureEmbedBatch</translation>
     </message>
     <message>
         <source>End Arrow.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ende</translation>
     </message>
     <message>
         <source>PdfSignatureApplyMultiPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf mehrere Seiten anwenden</translation>
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Deckt Bereiche ab, die Sie nicht möchten</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Linken Navigationsbereich ausblenden.</translation>
     </message>
     <message>
         <source>SaveAs.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei in einem anderen Pfad speichern.</translation>
     </message>
     <message>
         <source>Line Width.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Linienstärke</translation>
     </message>
     <message>
         <source>TextQuery.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentinhalt, Lesezeichen, Kommentare usw. suchen</translation>
     </message>
     <message>
         <source>FullScreen.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vollbild</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftfarbe</translation>
     </message>
     <message>
         <source>TextBold.content</source>
-        <translation type="unfinished"></translation>
+        <translation>TextBold</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <source>PDFEditImage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PDFEditImage</translation>
     </message>
     <message>
         <source>Arrow.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfeil</translation>
     </message>
     <message>
         <source>HighlightBorder.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorheben</translation>
     </message>
     <message>
         <source>GraffitiEraser.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiergummi</translation>
     </message>
     <message>
         <source>ShapeBorderColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenfarbe</translation>
     </message>
     <message>
         <source>TextUnderline.content</source>
-        <translation type="unfinished"></translation>
+        <translation>TextUnderline</translation>
     </message>
     <message>
         <source>PDFAddText.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text hinzufügen</translation>
     </message>
     <message>
         <source>Square.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadrat</translation>
     </message>
     <message>
         <source>Stamp.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Stempel</translation>
     </message>
     <message>
         <source>ImageEditReplace.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <source>LetterSpace.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenabstand</translation>
     </message>
     <message>
         <source>Annotate.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentieren</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.content</source>
-        <translation type="unfinished"></translation>
+        <translation>EditPicNewTool_Rotate</translation>
     </message>
     <message>
         <source>RandomDraw.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zufälliges Zeichnen</translation>
     </message>
     <message>
         <source>EnterSuperNoteMode.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmerkungen visuell anzeigen</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>XiuTangH5Tip</translation>
     </message>
     <message>
         <source>TranslationSelectPdf.content</source>
-        <translation type="unfinished"></translation>
+        <translation>TranslationSelectPdf</translation>
     </message>
     <message>
         <source>ExportHighlight.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle hervorgehobenen Inhalte exportieren</translation>
     </message>
     <message>
         <source>PDFEditImage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDFEditImage</translation>
     </message>
     <message>
         <source>PdfNewEdit.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Pdf bearbeiten</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Perimeter messen</translation>
     </message>
     <message>
         <source>FormatBrush.title</source>
-        <translation type="unfinished"></translation>
+        <translation>FormatBrush</translation>
     </message>
     <message>
         <source>Zoom Page.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom Page</translation>
     </message>
     <message>
         <source>EditBackGround.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorheben und kommentieren</translation>
     </message>
     <message>
         <source>FillSign_FreeText.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text in Formularfeldern hinzufügen</translation>
     </message>
     <message>
         <source>InsertBlankPages.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Leere Seite an der angegebenen Stelle im Dokument einfügen.</translation>
     </message>
     <message>
         <source>PDF2CAD.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF in CAD</translation>
     </message>
     <message>
         <source>PDF2PPT.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF nach PPT</translation>
     </message>
     <message>
         <source>FloatNavigationBar.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Linken Navigationsbereich einblenden.</translation>
     </message>
     <message>
         <source>Search.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>Square.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadrat</translation>
     </message>
     <message>
         <source>AddHeaderFooterTips.title</source>
-        <translation type="unfinished"></translation>
+        <translation>AddHeaderFooterTips</translation>
     </message>
     <message>
         <source>FitHeight.content</source>
-        <translation type="unfinished"></translation>
+        <translation>FitHeight</translation>
     </message>
     <message>
         <source>Clockwise.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach rechts drehen</translation>
     </message>
     <message>
         <source>GraffitiHline.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale Linien frei zeichnen</translation>
     </message>
     <message>
         <source>EbookSelfAdaptionPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Selbstanpassung</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectFinished.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgeschlossen</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>XiuTangH5Tip</translation>
     </message>
     <message>
         <source>AreaHighlight.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bereich hervorheben</translation>
     </message>
     <message>
         <source>WaterMarkTips.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Wasserzeichen zum Dokument hinzufügen</translation>
     </message>
     <message>
         <source>GraffitiVline.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikale Linien frei zeichnen</translation>
     </message>
     <message>
         <source>PlaySlide.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Folie nicht fortlaufend im Vollbildmodus anzeigen</translation>
     </message>
     <message>
         <source>PDFCompress.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF-Komprimierung</translation>
     </message>
     <message>
         <source>TextColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfarbe festlegen.
+
+Klicken Sie auf den Pfeil, um eine Farbe auszuwählen.</translation>
     </message>
     <message>
         <source>kxPdfLogoutTip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>kxPdfLogoutTip</translation>
     </message>
     <message>
         <source>PdfImageRotate90.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehung</translation>
     </message>
     <message>
         <source>PdfSignatureEmbed.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <source>EbookDecreaseFont.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftart verkleinern</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgeschlossen</translation>
     </message>
     <message>
         <source>PDFMeasureArea.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bereich messen</translation>
     </message>
     <message>
         <source>LineSpace.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenabstand</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>DocerURLEntranceTip</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfarbe ändern.
+
+Auf den Pfeil klicken, um eine andere Textfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>PdfReplacePages.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten ersetzen</translation>
     </message>
     <message>
         <source>NewFromMDTips.title</source>
-        <translation type="unfinished"></translation>
+        <translation>NewFromMDTips</translation>
     </message>
     <message>
         <source>PdfSignatureDelete.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>NavigationBar.content</source>
-        <translation type="unfinished"></translation>
+        <translation>NavigationBar</translation>
     </message>
     <message>
         <source>Page Select.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenbereich</translation>
     </message>
     <message>
         <source>FloatFitSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite auf die passende Größe zoomen.</translation>
     </message>
     <message>
         <source>ClockwiseDoc.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Seiten des Dokuments drehen.</translation>
     </message>
     <message>
         <source>TBLineStyle.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Linienstil</translation>
     </message>
     <message>
         <source>ImageEditTransparency.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparenz</translation>
     </message>
     <message>
         <source>Counterclockwise.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksdrehung 90 Grad.</translation>
     </message>
     <message>
         <source>FillSignCheck.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Häkchen hinzufügen</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Volltextübersetzung</translation>
     </message>
     <message>
         <source>GraffitiHline.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zufallszeichnungslinie zeichnen</translation>
     </message>
     <message>
         <source>CreatePdf.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Pdf erstellen</translation>
     </message>
     <message>
         <source>FloatZoomOut.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergrößern</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleine Buchstaben unterhalb der Textgrundlinie erstellen.</translation>
     </message>
     <message>
         <source>CreatePdf.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Pdf erstellen</translation>
     </message>
     <message>
         <source>Italic.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kursiv</translation>
     </message>
     <message>
         <source>LineSpace.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenabstand</translation>
     </message>
     <message>
         <source>EbookSinglePage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungerade Seiten</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text Lesen</translation>
     </message>
     <message>
         <source>Circle.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreis</translation>
     </message>
     <message>
         <source>Encrypt.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Passwort für das aktuelle Dokument festlegen.</translation>
     </message>
     <message>
         <source>Squiggly Underline.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Squiggly Underline</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PdfElectronicInvoicePrint</translation>
     </message>
     <message>
         <source>FreeText.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text in PDF einfügen.</translation>
     </message>
     <message>
         <source>Stamp.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Stempel</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorhebungsfarbe für Text</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.title</source>
-        <translation type="unfinished"></translation>
+        <translation>An Mittelpunkten ausrichten</translation>
     </message>
     <message>
         <source>UpdateHeaderFooterTips.content</source>
-        <translation type="unfinished"></translation>
+        <translation>UpdateHeaderFooterTips</translation>
     </message>
     <message>
         <source>CompleteClipPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgeschlossen</translation>
     </message>
     <message>
         <source>SplitPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite teilen</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectExit.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>ClipPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite zuschneiden</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Weibo-Bild exportieren</translation>
     </message>
     <message>
         <source>FillSignCross.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreuz</translation>
     </message>
     <message>
         <source>PDFEditText.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textobjekte in Dokumenten werden bearbeitet</translation>
     </message>
     <message>
         <source>PDF2TXTConvert.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF in TXT</translation>
     </message>
     <message>
         <source>FitVisible.content</source>
-        <translation type="unfinished"></translation>
+        <translation>FitVisible</translation>
     </message>
     <message>
         <source>TextCommentBox.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfeld</translation>
     </message>
     <message>
         <source>PdfImageReverse.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiegeln</translation>
     </message>
     <message>
         <source>TextBoxBorderColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenfarbe</translation>
     </message>
     <message>
         <source>PdfImageReplace.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten aus Dokument einfügen</translation>
     </message>
     <message>
         <source>FitWidth.content</source>
-        <translation type="unfinished"></translation>
+        <translation>An Fensterbreite anpassen.</translation>
     </message>
     <message>
         <source>PdfImageRotate90.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehung</translation>
     </message>
     <message>
         <source>TextQuery.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>PDFMeasureScale.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierungsverhältnis</translation>
     </message>
     <message>
         <source>ZoomInThumbnails.title</source>
-        <translation type="unfinished"></translation>
+        <translation>ZoomInThumbnails</translation>
     </message>
     <message>
         <source>MergePDF.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF zusammenführen</translation>
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation type="unfinished"></translation>
+        <translation>QR-Code mit Ihrem Mobiltelefon scannen, um das Dokument abzurufen</translation>
     </message>
     <message>
         <source>Quick_PageDelete.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>PdfImageEnterEdit.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild bearbeiten</translation>
     </message>
     <message>
         <source>PreviousPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorherige Seite</translation>
     </message>
     <message>
         <source>MergePDF.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehrere PDF-Dateien zusammenführen.</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Genaue und schnelle Übersetzung, während das ursprüngliche Layout des Dokuments beibehalten wird.</translation>
     </message>
     <message>
         <source>AutoWheel.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildlauf im Dokument mit einer bestimmten Geschwindigkeit durchführen</translation>
     </message>
     <message>
         <source>TextCommentBox.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfeld</translation>
     </message>
     <message>
         <source>ReplaceBorder.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzung</translation>
     </message>
     <message>
         <source>EditTextToolBarTips.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textbearbeitung</translation>
     </message>
     <message>
         <source>AutoWheel.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Autom. Bildlauf</translation>
     </message>
     <message>
         <source>DeleteHeaderFooterTips.content</source>
-        <translation type="unfinished"></translation>
+        <translation>DeleteHeaderFooterTips</translation>
     </message>
     <message>
         <source>FloatHandTool.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Handwerkzeug</translation>
     </message>
     <message>
         <source>PageCorrectManualAdjust.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuell korrigieren</translation>
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsbündig</translation>
     </message>
     <message>
         <source>HideAnnotations.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmerkungen ausblenden</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Fängt Bildschirminhalte für den grafischen Vergleich ab</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhalt bearbeiten</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyText.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text kopieren</translation>
     </message>
     <message>
         <source>FloatHandTool.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument ziehen und ablegen</translation>
     </message>
     <message>
         <source>ImageClip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild ausschneiden</translation>
     </message>
     <message>
         <source>FormFilling.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausfüllen und unterschreiben</translation>
     </message>
     <message>
         <source>TextBoxAlpha.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparenz</translation>
     </message>
     <message>
         <source>Squiggly Underline.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Squiggly Underline</translation>
     </message>
     <message>
         <source>Quick_PageInsert.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>PDFAddText.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textinhalt zum Dokument hinzufügen</translation>
     </message>
     <message>
         <source>GraffitiVline.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikale Freihandlinie zeichnen</translation>
     </message>
     <message>
         <source>StrikeoutBorder.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchgestrichen</translation>
     </message>
     <message>
         <source>NewImage2Bottom.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach unten verschieben</translation>
     </message>
     <message>
         <source>FillSignCircle.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Oval</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyText.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text kopieren</translation>
     </message>
     <message>
         <source>ZoomOutThumbnails.content</source>
-        <translation type="unfinished"></translation>
+        <translation>ZoomOutThumbnails</translation>
     </message>
     <message>
         <source>PDF2Excel.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumente in Excel-Dateien konvertieren</translation>
     </message>
     <message>
         <source>DeletePages.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Angegebene Seiten aus dem aktuellen Dokument löschen.</translation>
     </message>
     <message>
         <source>ClearFormat.content</source>
-        <translation type="unfinished"></translation>
+        <translation>ClearFormat</translation>
     </message>
     <message>
         <source>Print.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Drucken</translation>
     </message>
     <message>
         <source>StampTool.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Stempel</translation>
     </message>
     <message>
         <source>PageDelete.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten löschen</translation>
     </message>
     <message>
         <source>PdfImageOpacity.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparenz</translation>
     </message>
     <message>
         <source>RotateToTheLeft.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach links drehen</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PdfImageOcrExtract</translation>
     </message>
     <message>
         <source>ZoomIn.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkleinern</translation>
     </message>
     <message>
         <source>TextStrikethought.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchgestrichen</translation>
     </message>
     <message>
         <source>Bold.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Fett</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>FloatClose.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Unverankerte Symbolleiste schließen.</translation>
     </message>
     <message>
         <source>ImageEditFlip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild spiegeln</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zentriert ausrichten</translation>
     </message>
     <message>
         <source>TemplatesPrint.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckvorlagen</translation>
     </message>
     <message>
         <source>GraffitiEraserWholeType.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle löschen</translation>
     </message>
     <message>
         <source>UnderlineBorder.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstreichung hinzufügen</translation>
     </message>
     <message>
         <source>AttachmentTip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Anlagendateien zum angegebenen Speicherort des Dokuments hinzufügen</translation>
     </message>
     <message>
         <source>PdfImageReverse.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiegeln</translation>
     </message>
     <message>
         <source>ContinuousRead.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortlaufendes Lesen</translation>
     </message>
     <message>
         <source>TextItalic.content</source>
-        <translation type="unfinished"></translation>
+        <translation>TextItalic</translation>
     </message>
     <message>
         <source>Line Style.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Linienart</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildvorschau</translation>
     </message>
     <message>
         <source>Shape.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmerkung zur Form</translation>
     </message>
     <message>
         <source>IndentFisrtLine.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstzeileneinzug</translation>
     </message>
     <message>
         <source>UnderlineBorder.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstreichen</translation>
     </message>
     <message>
         <source>VerificationSignature.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Signatur überprüfen</translation>
     </message>
     <message>
         <source>Counterclockwise.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach links drehen</translation>
     </message>
     <message>
         <source>FullScreen.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument im Vollbildmodus anzeigen.</translation>
     </message>
     <message>
         <source>Page Select.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie Seitenzahlen und/oder Seitenbereiche durch Kommas getrennt ein.. Beispiel: 1,3,5-12.</translation>
     </message>
     <message>
         <source>PDFMeasureDistance.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand messen</translation>
     </message>
     <message>
         <source>Page Number.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenzahl</translation>
     </message>
     <message>
         <source>PDF2Excel.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF nach Excel</translation>
     </message>
     <message>
         <source>Polygon.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Polygon</translation>
     </message>
     <message>
         <source>ZoomOut.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergrößern</translation>
     </message>
     <message>
         <source>MenuFloatToolBar.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Unverankerte Symbolleiste</translation>
     </message>
     <message>
         <source>ReadingMode.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesemodus</translation>
     </message>
     <message>
         <source>FillSign_FreeText.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text hinzufügen</translation>
     </message>
     <message>
         <source>TextUnderline.title</source>
-        <translation type="unfinished"></translation>
+        <translation>TextUnderline</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild in Textformat konvertieren.</translation>
     </message>
     <message>
         <source>PDFEditContent.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte und Bilder bearbeiten</translation>
     </message>
     <message>
         <source>Note.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinweis</translation>
     </message>
     <message>
         <source>Save.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>PDFMeasureArea.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bereich messen</translation>
     </message>
     <message>
         <source>CustomClipPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kundenkreisanpassung</translation>
     </message>
     <message>
         <source>OS_PhoneShare.title</source>
-        <translation type="unfinished"></translation>
+        <translation>An Mobiltelefon scannen</translation>
     </message>
     <message>
         <source>PdfReplacePages.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten ersetzen</translation>
     </message>
     <message>
         <source>PolyLine.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Grafiken</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation type="unfinished"></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>PdfNewEdit.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text, Bilder und mehr bearbeiten</translation>
     </message>
     <message>
         <source>PageCorrectFinished.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Korrektur abschließen</translation>
     </message>
     <message>
         <source>WaterMark.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Wasserzeichen</translation>
     </message>
     <message>
         <source>Recommended PictureToText.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Recommend Convert picture to text format.</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe der PDF-Dateien wird reduziert</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstzeileneinzug</translation>
     </message>
     <message>
         <source>NavigateForward.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorwärts navigieren</translation>
     </message>
     <message>
         <source>Shapes.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorbereitete Formen einfügen, wie Linien, Rechtecke, Symbole für Flussdiagramme und Legenden.</translation>
     </message>
     <message>
         <source>FloatFitWidth.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Breite anpassen</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyExcel.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulare kopieren</translation>
     </message>
     <message>
         <source>EyeShield.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Augenschutz-Modus</translation>
     </message>
     <message>
         <source>FloatFitPageSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Geeignete Seite</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PdfImageOcrExtract</translation>
     </message>
     <message>
         <source>SinglePageContinuous.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einzelne Seite</translation>
     </message>
     <message>
         <source>ImageEditDelete.title</source>
-        <translation type="unfinished"></translation>
+        <translation>ImageEditDelete</translation>
     </message>
     <message>
         <source>PDF2Photo.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF in Bild</translation>
     </message>
     <message>
         <source>NavigateBack.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurückwärts navigieren</translation>
     </message>
     <message>
         <source>PDFAdsorptionPath.content</source>
-        <translation type="unfinished"></translation>
+        <translation>An Pfaden ausrichten</translation>
     </message>
     <message>
         <source>EbookDoublePage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerade Seiten</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>DocerURLEntranceTip</translation>
     </message>
     <message>
         <source>FillSignCircle.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ellipse hinzufügen</translation>
     </message>
     <message>
         <source>PDFExtractPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF-Extrahierungsseite</translation>
     </message>
     <message>
         <source>TranslationSelectPdf.title</source>
-        <translation type="unfinished"></translation>
+        <translation>TranslationSelectPdf</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsbündig</translation>
     </message>
     <message>
         <source>MagnifyIndentation.content</source>
-        <translation type="unfinished"></translation>
+        <translation>MagnifyIndentation</translation>
     </message>
     <message>
         <source>FillSignDot.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt hinzufügen</translation>
     </message>
     <message>
         <source>ConfirmImageClip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestätigen</translation>
     </message>
     <message>
         <source>ZoomInThumbnails.content</source>
-        <translation type="unfinished"></translation>
+        <translation>ZoomInThumbnails</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PdfElectronicInvoicePrint</translation>
     </message>
     <message>
         <source>ReduceFontSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schrift verkleinern</translation>
     </message>
     <message>
         <source>Strikeout.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchgestrichen</translation>
     </message>
     <message>
         <source>EditBackGround.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenthintergrund festlegen</translation>
     </message>
     <message>
         <source>TwoPageContinuous.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwei Seiten</translation>
     </message>
     <message>
         <source>FillSign.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulare ausfüllen und signieren</translation>
     </message>
     <message>
         <source>TranslationAll.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Den ganzen Text übersetzen</translation>
     </message>
     <message>
         <source>CustomClipPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kundenkreisanpassung</translation>
     </message>
     <message>
         <source>ReplaceBorder.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzung hinzufügen</translation>
     </message>
     <message>
         <source>DocPermission.title</source>
-        <translation type="unfinished"></translation>
+        <translation>DocPermission</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF-Fotoexport</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Perimeter messen</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleine Buchstaben über der Textgrundlinie erstellen.</translation>
     </message>
     <message>
         <source>Arrow.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfeil</translation>
     </message>
     <message>
         <source>PDFAdsorptionIntersection.title</source>
-        <translation type="unfinished"></translation>
+        <translation>An Schnittpunkten ausrichten</translation>
     </message>
     <message>
         <source>ReduceIndentation.content</source>
-        <translation type="unfinished"></translation>
+        <translation>ReduceIndentation</translation>
     </message>
     <message>
         <source>FormFilling.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausfüllen und unterschreiben</translation>
     </message>
     <message>
         <source>AttachmentTip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Anlage</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgeschlossen</translation>
     </message>
     <message>
         <source>ImageEditFlip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiegeln</translation>
     </message>
     <message>
         <source>ShowAnnotations.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmerkungen anzeigen</translation>
     </message>
     <message>
         <source>AddImage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild aus lokalem Ordner einfügen.</translation>
     </message>
     <message>
         <source>FileCollect.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateisammlung</translation>
     </message>
     <message>
         <source>PdfSignatureDeleteBatch.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PdfSignatureDeleteBatch</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Füllfarbe</translation>
     </message>
     <message>
         <source>OCRExtractText.title</source>
-        <translation type="unfinished"></translation>
+        <translation>OCRExtractText</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksbündig</translation>
     </message>
     <message>
         <source>InsertBorder.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Füllfarbe</translation>
     </message>
     <message>
         <source>SplitPDF.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufteilen einer PDF-Datei in mehrere PDF-Dateien.</translation>
     </message>
     <message>
         <source>MenuSelectionTool.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahlwerkzeug</translation>
     </message>
     <message>
         <source>Circle.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreis</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PdfInvoiceAssist</translation>
     </message>
     <message>
         <source>DeleteHeaderFooterTips.title</source>
-        <translation type="unfinished"></translation>
+        <translation>DeleteHeaderFooterTips</translation>
     </message>
     <message>
         <source>EditTextToolBarTips.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textbearbeitung</translation>
     </message>
     <message>
         <source>AddPageNumberTips.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitennummer hinzufügen</translation>
     </message>
     <message>
         <source>FloatZoomIn.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkleinern</translation>
     </message>
     <message>
         <source>TemplatesPrint.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckvorlagen</translation>
     </message>
     <message>
         <source>PreviousPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die vorherige Seite anzeigen.</translation>
     </message>
     <message>
         <source>Encrypt.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschlüsseln</translation>
     </message>
     <message>
         <source>PDFMeasureDistance.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand messen</translation>
     </message>
     <message>
         <source>Strikethrough.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchgestrichen</translation>
     </message>
     <message>
         <source>FloatFitPageSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierung auf Seitengröße für die Fensteranzeige</translation>
     </message>
     <message>
         <source>Translation.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersetzung</translation>
     </message>
     <message>
         <source>UnderlineAndAnnotation.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstreichen und kommentieren</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild in Text konvertieren</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksbündig</translation>
     </message>
     <message>
         <source>Cloudy.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Wolkig</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehen Sie den Text in Sprache. Sie genießen ein 2-Tage-Testversion von dieser Funktion.</translation>
     </message>
     <message>
         <source>InsertBorder.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügung hinzufügen</translation>
     </message>
     <message>
         <source>FitVisible.title</source>
-        <translation type="unfinished"></translation>
+        <translation>FitVisible</translation>
     </message>
     <message>
         <source>FillSignLine.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie hinzufügen</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF-Fotoexport</translation>
     </message>
     <message>
         <source>ImageExtractTip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>ImageExtractTip</translation>
     </message>
     <message>
         <source>PDFCompress.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe der PDF-Datei reduzieren.</translation>
     </message>
     <message>
         <source>PDFMeasureTool.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand, Perimeter und Bereich in der Datei messen</translation>
     </message>
     <message>
         <source>PdfImageClip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF-Bildausschnitt</translation>
     </message>
     <message>
         <source>Translation.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersetzung</translation>
     </message>
     <message>
         <source>NoteBorder.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Notiz hinzufügen</translation>
     </message>
     <message>
         <source>ImageEditDelete.content</source>
-        <translation type="unfinished"></translation>
+        <translation>ImageEditDelete</translation>
     </message>
     <message>
         <source>TextBold.title</source>
-        <translation type="unfinished"></translation>
+        <translation>TextBold</translation>
     </message>
     <message>
         <source>Replace Text.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol ersetzen</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Screenshots und Vergleiche</translation>
     </message>
     <message>
         <source>Polygon.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Polygon</translation>
     </message>
     <message>
         <source>FitWidth.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Breite anpassen</translation>
     </message>
     <message>
         <source>PDFEditTextExit.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeitung beenden</translation>
     </message>
     <message>
         <source>NavigationBar.title</source>
-        <translation type="unfinished"></translation>
+        <translation>NavigationBar</translation>
     </message>
     <message>
         <source>ContinuousRead.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite zum Anzeigen blättern</translation>
     </message>
     <message>
         <source>EbookSinglePage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungerade Seiten</translation>
     </message>
     <message>
         <source>PDF2TXTConvert.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumente in TXT-Dateien konvertieren</translation>
     </message>
     <message>
         <source>FloatSelectionTool.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text oder Bilder, der bzw. die kopiert werden soll(en), auswählen.</translation>
     </message>
     <message>
         <source>PDFMeasureScale.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierungsverhältnis</translation>
     </message>
     <message>
         <source>KOSLogoutTip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>KOSLogoutTip</translation>
     </message>
     <message>
         <source>ZoomPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Weitere Optionen zum Zoomen.</translation>
     </message>
     <message>
         <source>AddBookMark.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textmarke hinzufügen</translation>
     </message>
     <message>
         <source>MagnifyFontSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>MagnifyFontSize</translation>
     </message>
     <message>
         <source>Strikethrough.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchgestrichen</translation>
     </message>
     <message>
         <source>TextBoxBorderColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenfarbe</translation>
     </message>
     <message>
         <source>ReduceFontSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Schrift verkleinern</translation>
     </message>
     <message>
         <source>PdfSignature.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Signatur per Handschrift, Bild oder Text hinzufügen</translation>
     </message>
     <message>
         <source>VerificationSignature2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle digitalen Signaturen im Dokument verifizieren
+(Dieses Dokument enthält keine digitale Signatur)</translation>
     </message>
     <message>
         <source>LetterSpace.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenabstand</translation>
     </message>
     <message>
         <source>AnnotGraffiti.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Freihandzeichnen</translation>
     </message>
     <message>
         <source>Start Arrow.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Starten</translation>
     </message>
     <message>
         <source>VerificationSignature.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Signatur überprüfen</translation>
     </message>
     <message>
         <source>Photo2PDF.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto-zu-PDF-Konverter</translation>
     </message>
     <message>
         <source>PDFAdsorptionIntersection.content</source>
-        <translation type="unfinished"></translation>
+        <translation>An Schnittpunkten ausrichten</translation>
     </message>
     <message>
         <source>TextBoxBkColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Füllung</translation>
     </message>
     <message>
         <source>HyperLink.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Verknüpfung</translation>
     </message>
     <message>
         <source>GraffitiEraserPartType.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Teil löschen</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>NextPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächste Seite</translation>
     </message>
     <message>
         <source>TBLineStyle.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Legen Sie den Konturstil für den markierten Text fest.</translation>
     </message>
     <message>
         <source>Highlight.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorheben</translation>
     </message>
     <message>
         <source>DocPermission.content</source>
-        <translation type="unfinished"></translation>
+        <translation>DocPermission</translation>
     </message>
     <message>
         <source>PageCorrectExit.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>HideAnnotations.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmerkungen ausblenden</translation>
     </message>
     <message>
         <source>ShowAnnotations.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmerkungen anzeigen</translation>
     </message>
     <message>
         <source>MenuSelectionTool.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken, um Text oder Objekt auszuwählen</translation>
     </message>
     <message>
         <source>TextColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfarbe</translation>
     </message>
     <message>
         <source>ImagePreview.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildvorschau</translation>
     </message>
     <message>
         <source>AIOCR2PDF.title</source>
-        <translation type="unfinished"></translation>
+        <translation>AIOCR2PDF</translation>
     </message>
     <message>
         <source>SinglePageContinuous.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Seite im Vollbildmodus</translation>
     </message>
     <message>
         <source>NewFromMDTips.content</source>
-        <translation type="unfinished"></translation>
+        <translation>NewFromMDTips</translation>
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Korrekturflüssigkeit</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kombinieren Sie mehrere Dateitypen in einem PDF-Dokument.</translation>
     </message>
     <message>
         <source>Highlight.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorheben</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectFinished.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgeschlossen</translation>
     </message>
     <message>
         <source>GraffitiEraserWholeType.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesamte Graffiti löschen</translation>
     </message>
     <message>
         <source>Clockwise.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsdrehung 90 Grad.</translation>
     </message>
     <message>
         <source>Note.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinweis</translation>
     </message>
     <message>
         <source>OCRExtractText.content</source>
-        <translation type="unfinished"></translation>
+        <translation>OCRExtractText</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bereich für Messergebnisse</translation>
     </message>
     <message>
         <source>ReduceIndentation.title</source>
-        <translation type="unfinished"></translation>
+        <translation>ReduceIndentation</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Weibo-Bild exportieren</translation>
     </message>
     <message>
         <source>Open.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei öffnen</translation>
     </message>
     <message>
         <source>ClipPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitengröße zuschneiden</translation>
     </message>
     <message>
         <source>FillSignLine.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>OCRExtractPageText.content</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>TextItalic.title</source>
-        <translation type="unfinished"></translation>
+        <translation>TextItalic</translation>
     </message>
     <message>
         <source>Zoom Page.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom Page</translation>
     </message>
     <message>
         <source>FileCollect.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateisammlung</translation>
     </message>
     <message>
         <source>FillSignCheck.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ankreuzen</translation>
     </message>
     <message>
         <source>AIOCR2PDF.content</source>
-        <translation type="unfinished"></translation>
+        <translation>AIOCR2PDF</translation>
     </message>
     <message>
         <source>InsertPages.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten einfügen</translation>
     </message>
     <message>
         <source>GraffitiDraw.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zufallszeichnung zeichnen</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyExcel.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulare kopieren</translation>
     </message>
     <message>
         <source>DataRecover.title</source>
-        <translation type="unfinished"></translation>
+        <translation>DataRecover</translation>
     </message>
     <message>
         <source>ActualSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite auf die tatsächliche Größe zoomen.</translation>
     </message>
     <message>
         <source>ExportHighlight.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorhebungen exportieren</translation>
     </message>
     <message>
         <source>InsertBlankPages.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Leere Seiten einfügen</translation>
     </message>
     <message>
         <source>EyeShield.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Augenschutz-Modus</translation>
     </message>
     <message>
         <source>NewImage2Bottom.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild nach unten verschieben</translation>
     </message>
     <message>
         <source>TranslationAll.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Volltextübersetzung</translation>
     </message>
     <message>
         <source>PDFExtractPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite auswählen, um eine neue PDF-Datei zu erstellen</translation>
     </message>
     <message>
         <source>Save.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei speichern</translation>
     </message>
     <message>
         <source>EbookDoublePage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerade Seiten</translation>
     </message>
     <message>
         <source>ActualSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tatsächliche Größe</translation>
     </message>
     <message>
         <source>TBLineWidth.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Legen Sie die Konturbreite für den markierten Text fest.</translation>
     </message>
     <message>
         <source>Line Width.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Linienstärke</translation>
     </message>
     <message>
         <source>PDFEditText.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text bearbeiten</translation>
     </message>
     <message>
         <source>OcrExtractScrawl.content</source>
-        <translation type="unfinished"></translation>
+        <translation>OcrExtractScrawl</translation>
     </message>
     <message>
         <source>GraffitiEraser.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Radiergummi</translation>
     </message>
     <message>
         <source>Quick_Clockwise.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsdrehung</translation>
     </message>
     <message>
         <source>MagnifyIndentation.title</source>
-        <translation type="unfinished"></translation>
+        <translation>MagnifyIndentation</translation>
     </message>
     <message>
         <source>NewImage2top.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild nach oben verschieben</translation>
     </message>
     <message>
         <source>GraffitiDraw.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Freihandzeichnen</translation>
     </message>
     <message>
         <source>GraffitiEraserPartType.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Teil des Graffitis löschen</translation>
     </message>
     <message>
         <source>MenuHandTool.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Handwerkzeug</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text vertikal und horizontal in der Zelle zentrieren.</translation>
     </message>
     <message>
         <source>HideNavigationPannel.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausblenden</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Komprimierung</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorwärts navigieren</translation>
     </message>
     <message>
         <source>Quick_Counterclockwise.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksdrehung</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectExit.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>FloatSelectionTool.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahlwerkzeug</translation>
     </message>
     <message>
         <source>ChangeBackGround.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund</translation>
     </message>
     <message>
         <source>RandomDraw.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zufälliges Zeichnen</translation>
     </message>
     <message>
         <source>HighlightBorder.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text hervorheben.</translation>
     </message>
     <message>
         <source>ShowNavigationPannel.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeigen</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstreichen</translation>
     </message>
     <message>
         <source>PDFAdsorptionEndpoint.content</source>
-        <translation type="unfinished"></translation>
+        <translation>An Endpunkten ausrichten</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text im Dokument suchen.
+
+Klicken Sie auf den Pfeil, um andere Optionen auszuwählen, beispielsweise „Gehe zu“.</translation>
     </message>
     <message>
         <source>RotateToTheLeft.content</source>
-        <translation type="unfinished"></translation>
+        <translation>90 Grad nach links drehen</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.content</source>
-        <translation type="unfinished"></translation>
+        <translation>An Mittelpunkten ausrichten</translation>
     </message>
     <message>
         <source>PdfImageOpacity.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparenz</translation>
     </message>
     <message>
         <source>FormatBrush.content</source>
-        <translation type="unfinished"></translation>
+        <translation>FormatBrush</translation>
     </message>
     <message>
         <source>TextStrikethought.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchgestrichen</translation>
     </message>
     <message>
         <source>DataRecover.content</source>
-        <translation type="unfinished"></translation>
+        <translation>DataRecover</translation>
     </message>
     <message>
         <source>CADTOPdf.title</source>
-        <translation type="unfinished"></translation>
+        <translation>CADTOPdf</translation>
     </message>
     <message>
         <source>NoteBorder.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinweis</translation>
     </message>
     <message>
         <source>AddImage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild hinzufügen</translation>
     </message>
     <message>
         <source>Bold.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Fett</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Von PDF in Word konvertieren</translation>
     </message>
     <message>
         <source>ReadingMode.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesemodus aktivieren</translation>
     </message>
     <message>
         <source>m_LineSpacing.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand zwischen Textzeilen vergrößern.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF in Word</translation>
     </message>
     <message>
         <source>ShowNavigationPannel.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeigen</translation>
     </message>
     <message>
         <source>PageCorrectManualAdjust.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuell korrigieren</translation>
     </message>
     <message>
         <source>UpdateHeaderFooterTips.title</source>
-        <translation type="unfinished"></translation>
+        <translation>UpdateHeaderFooterTips</translation>
     </message>
     <message>
         <source>ImageExtractTip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>ImageExtractTip</translation>
     </message>
     <message>
         <source>FloatZoomOut.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite heranzoomen.</translation>
     </message>
     <message>
         <source>TwoPageContinuous.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwei Seiten im Vollbildmodus</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation type="unfinished"></translation>
+        <translation>CAD in PDF</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Durchstreichung hinzufügen</translation>
     </message>
     <message>
         <source>ScreenGrab.content</source>
-        <translation type="unfinished"></translation>
+        <translation>ScreenGrab</translation>
     </message>
     <message>
         <source>FormFillingDate.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum hinzufügen</translation>
     </message>
     <message>
         <source>WaterMark.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiven Text und Bild nach dem Inhalt auf der Seite einfügen.
+
+Dies wird oft verwendet, um anzuzeigen, dass das Dokument speziell behandelt werden muss, beispielsweise „Verschlüsselt“, „Vertraulich“ oder „Nicht kopieren“, bzw. um die Dokumentquelle zu markieren, beispielsweise durch Einfügen von Copyright-Logos oder Autoreninformationen.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation type="unfinished"></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bereich für Messergebnisse</translation>
     </message>
     <message>
         <source>EbookIncreaseFont.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftart vergrößern</translation>
     </message>
     <message>
         <source>PdfSignature.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Signatur</translation>
     </message>
     <message>
         <source>FloatFitSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe anpassen</translation>
     </message>
     <message>
         <source>Replace.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textinhalt im Dokument ersetzen.</translation>
     </message>
     <message>
         <source>ShapeBorderColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenfarbe</translation>
     </message>
     <message>
         <source>TBLineWidth.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Linienstärke</translation>
     </message>
     <message>
         <source>FitHeight.title</source>
-        <translation type="unfinished"></translation>
+        <translation>FitHeight</translation>
     </message>
     <message>
         <source>UnderlineAndAnnotation.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstreichen und kommentieren</translation>
     </message>
     <message>
         <source>Print.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien drucken und detaillierte Einstellungen für den Druck vornehmen</translation>
     </message>
     <message>
         <source>FreeText.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text einfügen</translation>
     </message>
     <message>
         <source>FloatNavigationBar.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigationsbereich einblenden</translation>
     </message>
     <message>
         <source>PDFTOCad.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDFTOCad</translation>
     </message>
     <message>
         <source>Recommended PictureToText.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Recommended PictureToText</translation>
     </message>
     <message>
         <source>HyperLink.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Verknüpfung</translation>
     </message>
     <message>
         <source>Photo2PDF.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild in PDF</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text so hervorheben, als wäre er mit einem Markerstift markiert worden.
+
+Auf den Pfeil klicken, um eine andere Hervorhebungsfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>FirstPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Erste Seite</translation>
     </message>
     <message>
         <source>PageDelete.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten löschen</translation>
     </message>
     <message>
         <source>ExportToPDF.content</source>
-        <translation type="unfinished"></translation>
+        <translation>ExportToPDF</translation>
     </message>
     <message>
         <source>RotateToTheRight.content</source>
-        <translation type="unfinished"></translation>
+        <translation>90 Grad nach rechts drehen</translation>
     </message>
 </context>
 </TS>
