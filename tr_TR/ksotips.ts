@@ -1,1723 +1,1733 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>EquationProfessional.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PictureDesign.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SpeedLayout.title</source>
-        <translation></translation>
+        <translation>Hızlı Düzen</translation>
     </message>
     <message>
         <source>ChartCombination.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CloseWindow.content</source>
-        <translation></translation>
+        <translation>Geçerli pencereyi kapatın.</translation>
     </message>
     <message>
         <source>OnlineDiagramMoreTip.content</source>
-        <translation></translation>
+        <translation>Diyagram metin yapısını daha net hale getirebilir</translation>
     </message>
     <message>
         <source>KOSOfficespaceLoginFailTip.content</source>
-        <translation></translation>
+        <translation>Kullanıcı adı veya şifre eşleşmiyor</translation>
     </message>
     <message>
         <source>QuickBarAddChartElement.content</source>
-        <translation></translation>
+        <translation>Başlık, açıklama, kılavuz çizgileri ve veri etiketleri gibi çizelge öğeleri ekleyin, kaldırın veya değiştirin.</translation>
     </message>
     <message>
         <source>OneStepSaveTip.content</source>
-        <translation></translation>
+        <translation>Yerel dosyaları WPS bulut dosyalarına hızlıca aktarın ve birden çok terminaldeki dosyaları istediğiniz zaman, istediğiniz yerde kullanın.</translation>
     </message>
     <message>
         <source>TextToDiagram.title</source>
-        <translation></translation>
+        <translation>Diyagram ile metni göster</translation>
     </message>
     <message>
         <source>3DColor2.content</source>
-        <translation></translation>
+        <translation>Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     </message>
     <message>
         <source>3DOnOff.content</source>
-        <translation></translation>
+        <translation>Şekle uygulanan 3-B efektini açın veya kapatın.</translation>
     </message>
     <message>
         <source>ChartScatter.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OneStepSaveTip.title</source>
-        <translation></translation>
+        <translation>Tek Adım Kayıt</translation>
     </message>
     <message>
         <source>FormatObjectSize.title</source>
-        <translation></translation>
+        <translation>Boyut ve Özellikler</translation>
     </message>
     <message>
         <source>TextboxBeautify.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PictureDesign.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartBubble.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertBarcode.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArtSize.title</source>
-        <translation></translation>
+        <translation>WordArt Boyut</translation>
     </message>
     <message>
         <source>CloseDevelopmentTools.content</source>
-        <translation></translation>
+        <translation>Geliştirici Araçlarını gizlemek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>ScreenGrab.title</source>
-        <translation></translation>
+        <translation>Ekran Yakalama</translation>
     </message>
     <message>
         <source>BringForward.title</source>
-        <translation></translation>
+        <translation>En Öne Getir</translation>
     </message>
     <message>
         <source>RunJSMacro.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartLine.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>HardwareEncryption.content</source>
-        <translation></translation>
+        <translation>Güvenliğini daha da artırmak için belgeyi bir USB Anahtar ile şifreleyin.</translation>
     </message>
     <message>
         <source>IntranetVersion DocerURLEntranceTip.title</source>
-        <translation></translation>
+        <translation>IntranetVersion Docer Entrance</translation>
     </message>
     <message>
         <source>3DOnOff.title</source>
-        <translation></translation>
+        <translation>3-B Açık/Kapalı</translation>
     </message>
     <message>
         <source>JavaScriptEditor.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShapeHeight.title</source>
-        <translation></translation>
+        <translation>Şekil Yüksekliği</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow.content</source>
-        <translation></translation>
+        <translation>InsertProcesson_Flow content</translation>
     </message>
     <message>
         <source>WordArtFill.content</source>
-        <translation></translation>
+        <translation>Seçilen WordArt&apos;ı düz bir renk, geçiş, resim veya doku ile doldurun.
+
+WordArt&apos;ı farklı şekillerde doldurmak için oka tıklayın.</translation>
     </message>
     <message>
         <source>EquationOperatorGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocerHomeEntranceTip.title</source>
-        <translation></translation>
+        <translation>Docer</translation>
     </message>
     <message>
         <source>FontName.content</source>
-        <translation></translation>
+        <translation>Yazı tipi yüzünü değiştirin.</translation>
     </message>
     <message>
         <source>DonateMoney.content</source>
-        <translation></translation>
+        <translation>WPS Ofis&apos;e bağış yapın.</translation>
     </message>
     <message>
         <source>TriggerExtendObject.content</source>
-        <translation></translation>
+        <translation>Open an extend object editor dialog
+
+Genişletme nesnesi iletişim kutusunu aç
+Genişletme nesnesi düzenleme iletişim kutusunu açın.</translation>
     </message>
     <message>
         <source>Auto_Backup_xa.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartLine.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TriggerExtendObject.title</source>
-        <translation></translation>
+        <translation>Edit extend object content
+Genişletme nesnesi içeriğini düzenle</translation>
     </message>
     <message>
         <source>Italic.title</source>
-        <translation></translation>
+        <translation>İtalik</translation>
     </message>
     <message>
         <source>KOSHomepageTip.title</source>
-        <translation></translation>
+        <translation>My WPS</translation>
     </message>
     <message>
         <source>Print2.content</source>
-        <translation></translation>
+        <translation>Ayrıntılı yazdırma seçeneklerini ayarlamak veya doğrudan varsayılan ayarlarda yazdırmak için burayı tıklayın.</translation>
     </message>
     <message>
         <source>WordArtOutline2.title</source>
-        <translation></translation>
+        <translation>WordArt Anahattı</translation>
     </message>
     <message>
         <source>3DTiltDown.title</source>
-        <translation></translation>
+        <translation>Aşağı Eğ</translation>
     </message>
     <message>
         <source>ExplorVersion.title</source>
-        <translation></translation>
+        <translation>Yedekleme Geçmişini Görüntüle</translation>
     </message>
     <message>
         <source>SendBackward2.content</source>
-        <translation></translation>
+        <translation>Seçilen nesneyi bir düzey geri veya tüm nesnelerin arkasına gönderir.</translation>
     </message>
     <message>
         <source>WordArtGalleryQuickBar.content</source>
-        <translation></translation>
+        <translation>En sevdiğiniz word art stilini seçin.</translation>
     </message>
     <message>
         <source>SmartArt ChangeLayout.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>KOSSaveFileTocloudTip.content</source>
-        <translation></translation>
+        <translation>Belgeleri çevrimiçi olarak tartışmak, düzenlemek ve önizlemek için başkalarıyla paylaşın.</translation>
     </message>
     <message>
         <source>OnlineIcons.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertMap.content</source>
-        <translation></translation>
+        <translation>Çevrimiçi harita ekle</translation>
     </message>
     <message>
         <source>3DDepthMenu.title</source>
-        <translation></translation>
+        <translation>Derinlik</translation>
     </message>
     <message>
         <source>Sentence Translation.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CTB_MoreControls.content</source>
-        <translation></translation>
+        <translation>Bu bilgisayarda bulunan kontrol kümesinden bir kontrol eklemek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>EquationDelimiterGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartPie.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartBar.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Themes.title</source>
-        <translation></translation>
+        <translation>Temalar</translation>
     </message>
     <message>
         <source>MoveChart.content</source>
-        <translation></translation>
+        <translation>Bu grafiği çalışma kitabındaki başka bir sayfaya veya sekmeye taşıyın.</translation>
     </message>
     <message>
         <source>FontSize.content</source>
-        <translation></translation>
+        <translation>Yazı tipi boyutunu değiştirin.</translation>
     </message>
     <message>
         <source>FontName.title</source>
-        <translation></translation>
+        <translation>Yazı Tipi </translation>
     </message>
     <message>
         <source>FontSize.title</source>
-        <translation></translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>EditShape.content</source>
-        <translation></translation>
+        <translation>Bu çizimin şeklini değiştirin, serbest biçimli bir şekle dönüştürün veya metnin çizimin etrafına nasıl sarıldığını belirlemek için kaydırma noktalarını düzenleyin.</translation>
     </message>
     <message>
         <source>KOSDocShare.content</source>
-        <translation></translation>
+        <translation>Belgeyi bağlantı veya ek yoluyla paylaşın.</translation>
     </message>
     <message>
         <source>KOSOpenCloudFileTip.content</source>
-        <translation></translation>
+        <translation>Bulut Belgelerindeki yapılan değişiklikler doğrudan kaydedilir.</translation>
     </message>
     <message>
         <source>Print2.title</source>
-        <translation></translation>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>SwitchWindow.title</source>
-        <translation></translation>
+        <translation>Pencereyi Değiştir</translation>
     </message>
     <message>
         <source>TextToDiagram.content</source>
-        <translation></translation>
+        <translation>Auto using Diagram to show text</translation>
     </message>
     <message>
         <source>PictureEffects.title</source>
-        <translation></translation>
+        <translation>Resim Efektleri</translation>
     </message>
     <message>
         <source>ShapeWidth.content</source>
-        <translation></translation>
+        <translation>Şeklin veya resmin genişliğini değiştirin.</translation>
     </message>
     <message>
         <source>WordArtSize.content</source>
-        <translation></translation>
+        <translation>Seçilen WordArt&apos;ın boyutunu, döndürme derecesini ve ölçeğini ayarlayın.</translation>
     </message>
     <message>
         <source>PictureColor.content</source>
-        <translation></translation>
+        <translation>Siyah beyaz, silinerek geçiş veya saydam bir renk vermek için seçili resmin rengini değiştirin.</translation>
     </message>
     <message>
         <source>KOSUserLoginCloudTextBtnTip.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextFontOutline.content</source>
-        <translation></translation>
+        <translation>Renk, genişlik ve çizgi stilini seçerek metninizin anahatlarını özelleştirin.</translation>
     </message>
     <message>
         <source>DocumentSecurityCenter.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ExportToPDF.title</source>
-        <translation></translation>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>OnlineFonts.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OnlineIcons.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto_Backup.title</source>
-        <translation></translation>
+        <translation>Yedekleme Ayarı</translation>
     </message>
     <message>
         <source>DescriptionDevelopmentTools.content</source>
-        <translation></translation>
+        <translation>Geliştirme araçları hakkında daha fazla bilgiyi buradan edinebilirsiniz</translation>
     </message>
     <message>
         <source>OfflineManagement.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartArea.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DonateMoney.title</source>
-        <translation></translation>
+        <translation>Bağış</translation>
     </message>
     <message>
         <source>LinkShareTip.content</source>
-        <translation></translation>
+        <translation>Belgeleri arkadaşınızla bağlantılı olarak paylaşın.</translation>
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>KOSCloudFeedbackTip.title</source>
-        <translation></translation>
+        <translation>Kullanıcı Geri Bildirimi</translation>
     </message>
     <message>
         <source>NudgeShadowDown.title</source>
-        <translation></translation>
+        <translation>Gölgeyi Aşağıya İtele</translation>
     </message>
     <message>
         <source>SwitchRowCol.content</source>
-        <translation></translation>
+        <translation>Verileri eksen üzerinde değiştirin.
+
+X ekseninde çizilen veriler Y eksenine veya tam tersine hareket edecektir.</translation>
     </message>
     <message>
         <source>DetailedSettings_TextTools.content</source>
-        <translation></translation>
+        <translation>Metin biçimlendirme ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>PictureToolsDetailedSettings.title</source>
-        <translation></translation>
+        <translation>PictureToolsDetailedSettings Title</translation>
     </message>
     <message>
         <source>PictureSetTransparentColor.title</source>
-        <translation></translation>
+        <translation>Saydam Rengi Ayarla</translation>
     </message>
     <message>
         <source>KOSUserLogoutCloudTip.title</source>
-        <translation></translation>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Theme Fonts.title</source>
-        <translation></translation>
+        <translation>Tema Yazı Tipleri</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools.title</source>
-        <translation></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>OnlineFonts.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
-        <translation></translation>
+        <translation>Enjoy XiuTang.</translation>
     </message>
     <message>
         <source>PictureOutline2.title</source>
-        <translation></translation>
+        <translation>Resim Anahattı</translation>
     </message>
     <message>
         <source>ChartElements.content</source>
-        <translation></translation>
+        <translation>Add chart elements such as the title,legend,gridlines,and data labels.</translation>
     </message>
     <message>
         <source>KOSDocShare.title</source>
-        <translation></translation>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>PictureFill.title</source>
-        <translation></translation>
+        <translation>Resim Dolgusu</translation>
     </message>
     <message>
         <source>OnlineChart.title</source>
-        <translation></translation>
+        <translation>Online Chart</translation>
     </message>
     <message>
         <source>WordArtStyles.title</source>
-        <translation></translation>
+        <translation>Metin Efektlerini Biçimlendir: Metin Kutusu</translation>
     </message>
     <message>
         <source>ChartGallery.title</source>
-        <translation></translation>
+        <translation>Chart Gallery</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools.content</source>
-        <translation></translation>
+        <translation>Resim biçimlendirme ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>EquationDelimiterGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChooseDataSource.content</source>
-        <translation></translation>
+        <translation>Grafikte bulunan veri aralığını değiştirin.</translation>
     </message>
     <message>
         <source>ShadowColor.title</source>
-        <translation></translation>
+        <translation>Gölge Rengi</translation>
     </message>
     <message>
         <source>KOSOfficespacePsaawordTip.content</source>
-        <translation></translation>
+        <translation>Yanlış şifre</translation>
     </message>
     <message>
         <source>SmartArt InsertBullet.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3DTiltDown.content</source>
-        <translation></translation>
+        <translation>Şekli öne doğru eğin.</translation>
     </message>
     <message>
         <source>ksoTextFill.title</source>
-        <translation></translation>
+        <translation>Metin Dolgusu</translation>
     </message>
     <message>
         <source>EquationLimitGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ClearFormats.content</source>
-        <translation></translation>
+        <translation>Seçimdeki tüm biçimlendirmeyi temizleyin ve yalnızca düz metni bırakın.</translation>
     </message>
     <message>
         <source>InsertSymbol.title</source>
-        <translation></translation>
+        <translation>Sembol Ekle</translation>
     </message>
     <message>
         <source>InsertSymbol.content</source>
-        <translation></translation>
+        <translation>Klavyenizde olmayan, ekteki karakterler ve telif hakkı sembolleri gibi simgeler ekleyin.</translation>
     </message>
     <message>
         <source>WordArtGallery.content</source>
-        <translation></translation>
+        <translation>Seçili WordArt&apos;ın stilini değiştirin.</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.title</source>
-        <translation></translation>
+        <translation>XiuTang H5</translation>
     </message>
     <message>
         <source>GraphicEffects.content</source>
-        <translation></translation>
+        <translation>Seçilen grafiğe gölge, ışıma, yansıma veya 3-B döndürme gibi görsel bir efekt uygulayın.</translation>
     </message>
     <message>
         <source>WordArtOutline2.content</source>
-        <translation></translation>
+        <translation>Daha fazla anahat stili seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>QuickBarFormatChartArea.title</source>
-        <translation></translation>
+        <translation>Grafik Alanını Biçimlendir</translation>
     </message>
     <message>
         <source>3DColor.content</source>
-        <translation></translation>
+        <translation>Seçilen 3B şeklini renkle doldurun.
+
+Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     </message>
     <message>
         <source>ksoTextFill.content</source>
-        <translation></translation>
+        <translation>Metni düz renk, gradyan, resim veya doku ile doldurun.</translation>
     </message>
     <message>
         <source>ExplorBackupDir.content</source>
-        <translation></translation>
+        <translation>Yedekleme dosyalarını görüntüleyin ve belirli bir belge için yedekleme dosyalarını açın veya kurtarın.</translation>
     </message>
     <message>
         <source>MarkVersion.content</source>
-        <translation></translation>
+        <translation>Dosyayı kapatmadan, geçerli dosyayı Dosya Kasanıza manuel olarak yedekleyebilir ve yedekleme dosyasına notlar ekleyebilirsiniz.</translation>
     </message>
     <message>
         <source>Ornamentation.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocerURLEntranceTip.content</source>
-        <translation></translation>
+        <translation>Size en profesyonel çevrimiçi şablonları sağlar.</translation>
     </message>
     <message>
         <source>Sentence Translation.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AddPicFrame.content</source>
-        <translation></translation>
+        <translation>Choose a different border styles to meet the needs of individual pictures.</translation>
     </message>
     <message>
         <source>CollapseQuickBar.content</source>
-        <translation></translation>
+        <translation>Collapse the quick bar.</translation>
     </message>
     <message>
         <source>KOSUserLoginCloudTip.content</source>
-        <translation></translation>
+        <translation>Belgeler otomatik olarak WPS Ofis Butut&apos;a kaydedilir ve bilgisayarınızda veya mobil cihazınızda düzenlenebilir.</translation>
     </message>
     <message>
         <source>CloseWindow.title</source>
-        <translation></translation>
+        <translation>Pencereyi Kapat</translation>
     </message>
     <message>
         <source>QuickBarChartStyle.title</source>
-        <translation></translation>
+        <translation>Grafik Stilleri</translation>
     </message>
     <message>
         <source>3DColor.title</source>
-        <translation></translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>SwitchJS.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SwitchVB.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Italic.content</source>
-        <translation></translation>
+        <translation>Italicize the selected text.</translation>
     </message>
     <message>
         <source>EquationInsertGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArtFill2.content</source>
-        <translation></translation>
+        <translation>Click the arrow to fill the WordArt in different ways.</translation>
     </message>
     <message>
         <source>XieDeTip.content</source>
-        <translation></translation>
+        <translation>Create online documents to share to QQ or WeChat, in which you can add ready controls including audio, video, rating, time axis, map, mind map, etc.</translation>
     </message>
     <message>
         <source>Protect_Eyes.content</source>
-        <translation></translation>
+        <translation>Enable Eye Protection Mode to relieve your eye fatigue.</translation>
     </message>
     <message>
         <source>WordArtGalleryQuickBar.title</source>
-        <translation></translation>
+        <translation>Word art library.</translation>
     </message>
     <message>
         <source>ClearTableStyle.content</source>
-        <translation></translation>
+        <translation>Clear table style of selected cells.</translation>
     </message>
     <message>
         <source>Theme Colors.title</source>
-        <translation></translation>
+        <translation>Theme Colors</translation>
     </message>
     <message>
         <source>EquationScriptGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SendBackward.title</source>
-        <translation></translation>
+        <translation>Send Backward</translation>
     </message>
     <message>
         <source>KOSCloudInformationTip.title</source>
-        <translation></translation>
+        <translation>User Guide</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow.title</source>
-        <translation></translation>
+        <translation>InsertProcesson_Flow</translation>
     </message>
     <message>
         <source>ChangeAutoShape.title</source>
-        <translation></translation>
+        <translation>Change Shapes</translation>
     </message>
     <message>
         <source>PPTCustom.content</source>
-        <translation></translation>
+        <translation>PPTCustom content.</translation>
     </message>
     <message>
         <source>Theme Effects.title</source>
-        <translation></translation>
+        <translation>Theme Effects</translation>
     </message>
     <message>
         <source>InsertSymbol_Pro.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartColumn.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShadowOnOff.content</source>
-        <translation></translation>
+        <translation>Turn on or off the shadow effect of the selected object.</translation>
     </message>
     <message>
         <source>BringForward2.content</source>
-        <translation></translation>
+        <translation>Bring the selected object forward one level or to the front of all objects.</translation>
     </message>
     <message>
         <source>ChartStock.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArtQuickBarCollapse.content</source>
-        <translation></translation>
+        <translation>Collapse the word art quick bar.</translation>
     </message>
     <message>
         <source>KOSUserLoginCloudTip.title</source>
-        <translation></translation>
+        <translation>Oturum Aç</translation>
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>KOSRoamingfileTip_pro.content</source>
-        <translation></translation>
+        <translation>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</translation>
     </message>
     <message>
         <source>DescriptionDevelopmentTools.title</source>
-        <translation></translation>
+        <translation>Description</translation>
     </message>
     <message>
         <source>QuickBarChartFilters.title</source>
-        <translation></translation>
+        <translation>Chart Filters</translation>
     </message>
     <message>
         <source>ChartGallery.content</source>
-        <translation></translation>
+        <translation>Chart Gallery content</translation>
     </message>
     <message>
         <source>EquationNormalText.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3DTiltLeft.content</source>
-        <translation></translation>
+        <translation>Tilt the shape to the left.</translation>
     </message>
     <message>
         <source>CloudFormTip.content</source>
-        <translation></translation>
+        <translation>Enjoy XiuTang.</translation>
     </message>
     <message>
         <source>PictureSize.content</source>
-        <translation></translation>
+        <translation>Change the size, rotation degree and zoom scale of the selected shape.</translation>
     </message>
     <message>
         <source>ShadowColor2.content</source>
-        <translation></translation>
+        <translation>Click the arrow to select different shadow colors.</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_WPSCloud.title</source>
-        <translation></translation>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>SmartArt MoveShape.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ornamentation.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationLargeOperatorGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArtSameLetterHeights.title</source>
-        <translation></translation>
+        <translation>Same Letter Heights</translation>
     </message>
     <message>
         <source>Theme Colors.content</source>
-        <translation></translation>
+        <translation>Change the colors of current theme.</translation>
     </message>
     <message>
         <source>SendBackward2.title</source>
-        <translation></translation>
+        <translation>Send Backward</translation>
     </message>
     <message>
         <source>ChartRadar.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto_Backup_xa.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3DTiltRight.title</source>
-        <translation></translation>
+        <translation>Tilt Right</translation>
     </message>
     <message>
         <source>3DDepthMenu.content</source>
-        <translation></translation>
+        <translation>Change the height of the selected 3-D shape.</translation>
     </message>
     <message>
         <source>Print.title</source>
-        <translation></translation>
+        <translation>Print</translation>
     </message>
     <message>
         <source>TransformQuickBar.title</source>
-        <translation></translation>
+        <translation>Transform</translation>
     </message>
     <message>
         <source>GraphicEffects.title</source>
-        <translation></translation>
+        <translation>Graphic Effects</translation>
     </message>
     <message>
         <source>PictureCrop.content</source>
-        <translation></translation>
+        <translation>Crop the picture to remove any unwanted parts.</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_pro.title</source>
-        <translation></translation>
+        <translation>File Roaming</translation>
     </message>
     <message>
         <source>HardwareEncryption.title</source>
-        <translation></translation>
+        <translation>Hardware Encryption</translation>
     </message>
     <message>
         <source>AddChartElements.content</source>
-        <translation></translation>
+        <translation>Add chart elements such as the title,legend,gridlines,and data labels.</translation>
     </message>
     <message>
         <source>3DTiltRight.content</source>
-        <translation></translation>
+        <translation>Tilt the shape to the right.</translation>
     </message>
     <message>
         <source>Auto_Backup.content</source>
-        <translation></translation>
+        <translation>Setting backup interval and path</translation>
     </message>
     <message>
         <source>EquationIntegralGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cut.title</source>
-        <translation></translation>
+        <translation>Kes</translation>
     </message>
     <message>
         <source>Bold.title</source>
-        <translation></translation>
+        <translation>Bold</translation>
     </message>
     <message>
         <source>SwitchRowCol.title</source>
-        <translation></translation>
+        <translation>Make the selected text bold.</translation>
     </message>
     <message>
         <source>3DTiltLeft.title</source>
-        <translation></translation>
+        <translation>Tilt Left</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_WPSCloud.content</source>
-        <translation></translation>
+        <translation>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</translation>
     </message>
     <message>
         <source>PictureFill.content</source>
-        <translation></translation>
+        <translation>Fill the selected object with a color, gradient, pattern and picture.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>WordArtFill.title</source>
-        <translation></translation>
+        <translation>WordArt Fill</translation>
     </message>
     <message>
         <source>WordArtDetailedSettings.title</source>
-        <translation></translation>
+        <translation>WordArtDetailedSettings Title</translation>
     </message>
     <message>
         <source>CTB_Property.title</source>
-        <translation></translation>
+        <translation>Control Properties</translation>
     </message>
     <message>
         <source>SmartArt MoveShape.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArtShapePalette.title</source>
-        <translation></translation>
+        <translation>WordArt Shape</translation>
     </message>
     <message>
         <source>FormatObject.content</source>
-        <translation></translation>
+        <translation>Use&apos;Format Object‘task pane to fine tune the appearance of your shape</translation>
     </message>
     <message>
         <source>EquationProfessional.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ImagePreview.content</source>
-        <translation></translation>
+        <translation>View the selected picture in its original size or in window size.</translation>
     </message>
     <message>
         <source>OnlineChart.content</source>
-        <translation></translation>
+        <translation>Including richer chart styles,this function requires to be connected to the net.</translation>
     </message>
     <message>
         <source>SmartArt ChangeLayout.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArtOutline.title</source>
-        <translation></translation>
+        <translation>WordArt Anahattı</translation>
     </message>
     <message>
         <source>WordArtQuickBarExpand.content</source>
-        <translation></translation>
+        <translation>Expand the word art quick bar.</translation>
     </message>
     <message>
         <source>Protect_Eyes_Night.content</source>
-        <translation></translation>
+        <translation>Open/Close Eye Protection Mode or Night Mode.</translation>
     </message>
     <message>
         <source>CloseOtherWindow.title</source>
-        <translation></translation>
+        <translation>Diğer Pencereleri Kapat</translation>
     </message>
     <message>
         <source>CTB_Property.content</source>
-        <translation></translation>
+        <translation>View and modify properties for the selected control.</translation>
     </message>
     <message>
         <source>CloseOtherWindow.content</source>
-        <translation></translation>
+        <translation>Geçerli pencere dışındaki tüm pencereleri kapatın.</translation>
     </message>
     <message>
         <source>ChartStock.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationLinearFormat.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChooseDataSource.title</source>
-        <translation></translation>
+        <translation>Veri Seç</translation>
     </message>
     <message>
         <source>CTB_MoreControls.title</source>
-        <translation></translation>
+        <translation>More Controls</translation>
     </message>
     <message>
         <source>DocumentAuthente.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArtGallery.title</source>
-        <translation></translation>
+        <translation>WordArt Gallery</translation>
     </message>
     <message>
         <source>3DSurfaceMenu.title</source>
-        <translation></translation>
+        <translation>Surface</translation>
     </message>
     <message>
         <source>OS_PhoneShare.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PictureOutline2.content</source>
-        <translation></translation>
+        <translation>Click the arrow to select detailed settings for the outline.</translation>
     </message>
     <message>
         <source>ChangeChartType.title</source>
-        <translation></translation>
+        <translation>Change Chart Type</translation>
     </message>
     <message>
         <source>ChartCombination.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocerMall.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PictureSetTransparentColor.content</source>
-        <translation></translation>
+        <translation>Geçerli resimdeki bir rengi saydam hale getirin.
+
+Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri saydam hale gelir.</translation>
     </message>
     <message>
         <source>Themes.content</source>
-        <translation></translation>
+        <translation>Change the overall design of your document by colors, fonts and effects.</translation>
     </message>
     <message>
         <source>3DStylePalette.content</source>
-        <translation></translation>
+        <translation>Add a 3-D effect to the shape.</translation>
     </message>
     <message>
         <source>DocumentAuthente.title</source>
-        <translation></translation>
+        <translation>document authentication</translation>
     </message>
     <message>
         <source>EditShape.title</source>
-        <translation></translation>
+        <translation>Edit Shape</translation>
     </message>
     <message>
         <source>InsertSymbol_Pro.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SendBackward.content</source>
-        <translation></translation>
+        <translation>Send the selected object backward so that it is hidden by the objects that are in front of it.</translation>
     </message>
     <message>
         <source>IntranetVersion DocerURLEntranceTip.content</source>
-        <translation></translation>
+        <translation>Provide you the most professional online templates.</translation>
     </message>
     <message>
         <source>Autobackup.title</source>
-        <translation></translation>
+        <translation>File Safe</translation>
     </message>
     <message>
         <source>WordArtDetailedSettings.content</source>
-        <translation></translation>
+        <translation>WordArtDetailedSettings Content</translation>
     </message>
     <message>
         <source>NudgeShadowLeft.title</source>
-        <translation></translation>
+        <translation>Nudge Shadow Left</translation>
     </message>
     <message>
         <source>PPTCustom.title</source>
-        <translation></translation>
+        <translation>PPTCustom</translation>
     </message>
     <message>
         <source>ExplorVersion.content</source>
-        <translation></translation>
+        <translation>View the backup record history of the current document to open, delete or restore the files.</translation>
     </message>
     <message>
         <source>AutoVersion.content</source>
-        <translation></translation>
+        <translation>Auto backup will create backup of the current document to File Safe each time it is closed.</translation>
     </message>
     <message>
         <source>EditPoints.content</source>
-        <translation></translation>
+        <translation>Edit the wrap points to change the shape.</translation>
     </message>
     <message>
         <source>WordArtFill2.title</source>
-        <translation></translation>
+        <translation>WordArt Fill</translation>
     </message>
     <message>
         <source>KOSCloudInformationTip.content</source>
-        <translation></translation>
+        <translation>How to use Office Space.</translation>
     </message>
     <message>
         <source>NudgeShadowDown.content</source>
-        <translation></translation>
+        <translation>Moves the shadow of the selected object down.</translation>
     </message>
     <message>
         <source>PictureChange.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocerURLEntranceTip.title</source>
-        <translation></translation>
+        <translation>Docer Entrance</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip.content</source>
-        <translation></translation>
+        <translation>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</translation>
     </message>
     <message>
         <source>InsertBarcode.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChangePicture.title</source>
-        <translation></translation>
+        <translation>Change Picture</translation>
     </message>
     <message>
         <source>KOSOfficespaceRegPsaawordTip.content</source>
-        <translation></translation>
+        <translation>Password does not match</translation>
     </message>
     <message>
         <source>KOSOfficespaceRegPsaawordTip.title</source>
-        <translation></translation>
+        <translation>@@</translation>
     </message>
     <message>
         <source>AddPicFrame.title</source>
-        <translation></translation>
+        <translation>Add picture frames</translation>
     </message>
     <message>
         <source>EquationOperatorGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationFunctionGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OnlineDiagramMoreTip.title</source>
-        <translation></translation>
+        <translation>Insert Online Diagram</translation>
     </message>
     <message>
         <source>FontEffects.content</source>
-        <translation></translation>
+        <translation>Turn your work into a work of art.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;add a visual effect such as shadow, glow or reflection to your text.</translation>
     </message>
     <message>
         <source>ShadowColor.content</source>
-        <translation></translation>
+        <translation>Set the shadow color of the selected object.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Click the arrow to select different shadow colors.</translation>
     </message>
     <message>
         <source>EquationOptions.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChangeColor.content</source>
-        <translation></translation>
+        <translation>Customize Color and Style</translation>
     </message>
     <message>
         <source>3DStylePalette.title</source>
-        <translation></translation>
+        <translation>3-D Effects</translation>
     </message>
     <message>
         <source>InsertSmartDiagram.content</source>
-        <translation></translation>
+        <translation>Insert Smart Diagram content</translation>
     </message>
     <message>
         <source>ChartColumn.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArtVerticalText.title</source>
-        <translation></translation>
+        <translation>Vertical Text</translation>
     </message>
     <message>
         <source>DocerHomeEntranceTip.content</source>
-        <translation></translation>
+        <translation>A platform for sharing various Office document resources.</translation>
     </message>
     <message>
         <source>ExpandQuickBar.content</source>
-        <translation></translation>
+        <translation>Expand the quick bar.</translation>
     </message>
     <message>
         <source>NudgeShadowUp.content</source>
-        <translation></translation>
+        <translation>Moves the shadow of the selected object up.</translation>
     </message>
     <message>
         <source>Night_Mode.title</source>
-        <translation></translation>
+        <translation>Night Mode</translation>
     </message>
     <message>
         <source>OnlineTextboxMore.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShadowPalette.title</source>
-        <translation></translation>
+        <translation>Shadow Effects</translation>
     </message>
     <message>
         <source>PictureAdjust.content</source>
-        <translation></translation>
+        <translation>Increase or decrease the contrast and brightness of the selected picture.</translation>
     </message>
     <message>
         <source>DocPermission.title</source>
-        <translation></translation>
+        <translation>Document Permission</translation>
     </message>
     <message>
         <source>InsertSmartDiagram.title</source>
-        <translation></translation>
+        <translation>Insert Smart Diagram</translation>
     </message>
     <message>
         <source>EquationOptions.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartElementFormat.content</source>
-        <translation></translation>
+        <translation>Show the Format task pane to fine-tune formatting for the selected chart element.</translation>
     </message>
     <message>
         <source>ShapeFormatStyle.content</source>
-        <translation></translation>
+        <translation>Apply different preset effect to the selected shape.</translation>
     </message>
     <message>
         <source>Cut.content</source>
-        <translation></translation>
+        <translation>Seçimi kesin ve sistem panosuna yerleştirin.</translation>
     </message>
     <message>
         <source>ShapeFormatStyle.title</source>
-        <translation></translation>
+        <translation>Shape Styles</translation>
     </message>
     <message>
         <source>ChartScatter.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertOnlinePictureFromFile.content</source>
-        <translation></translation>
+        <translation>Find and insert pictures from a variety of online sources.</translation>
     </message>
     <message>
         <source>3DTiltUp.content</source>
-        <translation></translation>
+        <translation>Tilt the shape backward.</translation>
     </message>
     <message>
         <source>KOSSaveFileTocloudTip.title</source>
-        <translation></translation>
+        <translation>Save to Cloud Docs</translation>
     </message>
     <message>
         <source>ChangeColor.title</source>
-        <translation></translation>
+        <translation>Chart Quick Colors</translation>
     </message>
     <message>
         <source>QuickBarFormatChartArea.content</source>
-        <translation></translation>
+        <translation>Seçili grafik öğesinin biçimlendirmesine ince ayar yapmak için Biçim görev bölmesini gösterin.</translation>
     </message>
     <message>
         <source>BringForward.content</source>
-        <translation></translation>
+        <translation>Bring the selected object forward so that it is hidden by fewer objects that are in front of it.</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
-        <translation></translation>
+        <translation>Nudge Shadow Up</translation>
     </message>
     <message>
         <source>PictureColor.title</source>
-        <translation></translation>
+        <translation>Color</translation>
     </message>
     <message>
         <source>PictureFill2.title</source>
-        <translation></translation>
+        <translation>Picture Fill</translation>
     </message>
     <message>
         <source>EquationNormalText.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartPie.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationRadicalGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PictureAdjust.title</source>
-        <translation></translation>
+        <translation>Adjust Picture</translation>
     </message>
     <message>
         <source>DocPermissionProtection.content</source>
-        <translation></translation>
+        <translation>Doc Permission Protection&apos;s content.</translation>
     </message>
     <message>
         <source>LinkShareTip.title</source>
-        <translation></translation>
+        <translation>Link Preview</translation>
     </message>
     <message>
         <source>Theme Effects.content</source>
-        <translation></translation>
+        <translation>Change the effect of current Theme.</translation>
     </message>
     <message>
         <source>VisualBasicEditor.content</source>
-        <translation></translation>
+        <translation>Open Visual Basic Editor to edit macros.</translation>
     </message>
     <message>
         <source>KOSCreatecloudLinkTip.content</source>
-        <translation></translation>
+        <translation>Scan the QR code and share your document to cellphone, to WeChat or MiChat for editing by others.</translation>
     </message>
     <message>
         <source>ResetToFitStyle.content</source>
-        <translation></translation>
+        <translation>Clear the custom formatting of the selected chart element back to the overall visual style applied to the chart.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;The ensures that selected chart element matches the overall theme of the document.</translation>
     </message>
     <message>
         <source>EquationAccentGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OnlineIconMore.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationFractionGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationFunctionGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShadowColor2.title</source>
-        <translation></translation>
+        <translation>Shadow Color</translation>
     </message>
     <message>
         <source>PictureFill2.content</source>
-        <translation></translation>
+        <translation>Click the arrow to select different fill modes.</translation>
     </message>
     <message>
         <source>SwitchVB.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>KOSCloudFeedbackTip.content</source>
-        <translation></translation>
+        <translation>Help us to improve WPS Office.</translation>
     </message>
     <message>
         <source>InsertQRCode.content</source>
-        <translation></translation>
+        <translation>Insert a QRCode</translation>
     </message>
     <message>
         <source>JavaScriptEditor.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CTB_ViewCode.content</source>
-        <translation></translation>
+        <translation>Launch Visual Basic Editor to edit the code of the selected controls.</translation>
     </message>
     <message>
         <source>Autobackup.content</source>
-        <translation></translation>
+        <translation>A brief introduction to File Safe.</translation>
     </message>
     <message>
         <source>Protect_Eyes.title</source>
-        <translation></translation>
+        <translation>Eye Protection Mode</translation>
     </message>
     <message>
         <source>EquationLargeOperatorGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TouchUiMode.title</source>
-        <translation></translation>
+        <translation>Touch Mode</translation>
     </message>
     <message>
         <source>MoveChart.title</source>
-        <translation></translation>
+        <translation>Move Chart</translation>
     </message>
     <message>
         <source>OnlineTextboxMore.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartBar.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArtStyles.content</source>
-        <translation></translation>
+        <translation>Show the Format Text Effects task pane to change text properties.</translation>
     </message>
     <message>
         <source>OnlineIconMore.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WordArtOutline.content</source>
-        <translation></translation>
+        <translation>Set the color, width and line style for the outline of the selected WordArt.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Click the arrow to select detailed settings for the outline.</translation>
     </message>
     <message>
         <source>ShapeEffects.title</source>
-        <translation></translation>
+        <translation>Shape Effects</translation>
     </message>
     <message>
         <source>InsertRelationshipDiagram.title</source>
-        <translation></translation>
+        <translation>Insert Relationship Diagram</translation>
     </message>
     <message>
         <source>DetailedSettings_TextTools.title</source>
-        <translation></translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <source>SwitchWindow.content</source>
-        <translation></translation>
+        <translation>Switch to a different currently open window.</translation>
     </message>
     <message>
         <source>EquationLinearFormat.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertQRCode.title</source>
-        <translation></translation>
+        <translation>Insert QRCode</translation>
     </message>
     <message>
         <source>QuickBarAddChartElement.title</source>
-        <translation></translation>
+        <translation>Chart Elements</translation>
     </message>
     <message>
         <source>ExplorBackupDir.title</source>
-        <translation></translation>
+        <translation>Explore File Safe</translation>
     </message>
     <message>
         <source>ChartBubble.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShapeHeight.content</source>
-        <translation></translation>
+        <translation>Change the height of the shape or picture.</translation>
     </message>
     <message>
         <source>SwitchJS.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationRadicalGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>BringForward2.title</source>
-        <translation></translation>
+        <translation>En Öne Getir</translation>
     </message>
     <message>
         <source>KOSOfficespaceLoginFailTip.title</source>
-        <translation></translation>
+        <translation>@@</translation>
     </message>
     <message>
         <source>InsertProcesson_Mind.title</source>
-        <translation></translation>
+        <translation>InsertProcesson_Mind</translation>
     </message>
     <message>
         <source>Copy.title</source>
-        <translation></translation>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>InsertPictureFromFile.title</source>
-        <translation></translation>
+        <translation>Insert Picture</translation>
     </message>
     <message>
         <source>PictureToolsDetailedSettings.content</source>
-        <translation></translation>
+        <translation>PictureToolsDetailedSettings Content</translation>
     </message>
     <message>
         <source>ShapeEffects.content</source>
-        <translation></translation>
+        <translation>Apply a visual effect to to the selected shape, such as shadow, glow, reflection, or 3-D rotation.</translation>
     </message>
     <message>
         <source>EquationFractionGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Photo2Pdf.content</source>
-        <translation></translation>
+        <translation>Photo to Pdf Converter.</translation>
     </message>
     <message>
         <source>PictureSize.title</source>
-        <translation></translation>
+        <translation>Picture Size</translation>
     </message>
     <message>
         <source>EquationInsertGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>KOSRoamingfileTip.title</source>
-        <translation></translation>
+        <translation>File Roaming</translation>
     </message>
     <message>
         <source>ScreenRecording.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertMap.title</source>
-        <translation></translation>
+        <translation>Insert map</translation>
     </message>
     <message>
         <source>CloudFormTip.title</source>
-        <translation></translation>
+        <translation>XiuTang H5</translation>
     </message>
     <message>
         <source>KOSDocShareAsPDF.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>KOSHomepageTip.content</source>
-        <translation></translation>
+        <translation>Find templates, check documents, find application and enjoy privileges, all in your office start page.</translation>
     </message>
     <message>
         <source>VisualBasicEditor.title</source>
-        <translation></translation>
+        <translation>Visual Basic Editor</translation>
     </message>
     <message>
         <source>DocPermission.content</source>
-        <translation></translation>
+        <translation>After setting permissions, only authorized users can open this document.</translation>
     </message>
     <message>
         <source>ChangePicture.content</source>
-        <translation></translation>
+        <translation>Change to a different picture, preserving the formatting and size of the current picture.</translation>
     </message>
     <message>
         <source>ChartArea.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationScriptGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NudgeShadowLeft.content</source>
-        <translation></translation>
+        <translation>Moves the shadow of the selected object to the left.</translation>
     </message>
     <message>
         <source>PictureOutline.content</source>
-        <translation></translation>
+        <translation>Set outline color, outline width and outline style for the selected picture.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Click the arrow to select detailed settings for the outline.</translation>
     </message>
     <message>
         <source>FormatObject.title</source>
-        <translation></translation>
+        <translation>Format Object</translation>
     </message>
     <message>
         <source>ImagePreview.title</source>
-        <translation></translation>
+        <translation>Picture Preview</translation>
     </message>
     <message>
         <source>3DTiltUp.title</source>
-        <translation></translation>
+        <translation>Tilt Up</translation>
     </message>
     <message>
         <source>EquationAccentGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SpeedLayout.content</source>
-        <translation></translation>
+        <translation>Change the overall layout of the chart.</translation>
     </message>
     <message>
         <source>CTB_ViewCode.title</source>
-        <translation></translation>
+        <translation>View Code</translation>
     </message>
     <message>
         <source>InsertRelationshipDiagram.content</source>
-        <translation></translation>
+        <translation>Insert Relationship Diagram content</translation>
     </message>
     <message>
         <source>EditPoints.title</source>
-        <translation></translation>
+        <translation>Edit Points</translation>
     </message>
     <message>
         <source>ShadowPalette.content</source>
-        <translation></translation>
+        <translation>Set shadow effect to the selected object.</translation>
     </message>
     <message>
         <source>KOSDocShareAsPDF.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>KOSOpenCloudFileTip.title</source>
-        <translation></translation>
+        <translation>Open from Cloud Docs</translation>
     </message>
     <message>
         <source>KOSCreatecloudLinkTip.title</source>
-        <translation></translation>
+        <translation>It only taks seconds! You can:</translation>
     </message>
     <message>
         <source>KOSUserLoginCloudTextBtnTip.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ClearFormats.title</source>
-        <translation></translation>
+        <translation>Clear Formatting</translation>
     </message>
     <message>
         <source>DataRecover.title</source>
-        <translation></translation>
+        <translation>Data Recover</translation>
     </message>
     <message>
         <source>MarkVersion.title</source>
-        <translation></translation>
+        <translation>Manual Backup</translation>
     </message>
     <message>
         <source>TextboxBeautify.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AutoVersion.title</source>
-        <translation></translation>
+        <translation>Enable Auto Backup</translation>
     </message>
     <message>
         <source>ShapeWidth.title</source>
-        <translation></translation>
+        <translation>Shape Width</translation>
     </message>
     <message>
         <source>WordArtVerticalText.content</source>
-        <translation></translation>
+        <translation>Draw the text vertically, with the letters stacked on top of each other.</translation>
     </message>
     <message>
         <source>3DColor2.title</source>
-        <translation></translation>
+        <translation>3-D Color</translation>
     </message>
     <message>
         <source>NudgeShadowRight.content</source>
-        <translation></translation>
+        <translation>Moves the shadow of the selected object to the right.</translation>
     </message>
     <message>
         <source>EquationMatrixGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChangeChartType.content</source>
-        <translation></translation>
+        <translation>Change to a different type of chart.</translation>
     </message>
     <message>
         <source>WordArtSameLetterHeights.content</source>
-        <translation></translation>
+        <translation>Make all the letters of the selected WordArt exactly the same height.</translation>
     </message>
     <message>
         <source>NudgeShadowRight.title</source>
-        <translation></translation>
+        <translation>Nudge Shadow Right</translation>
     </message>
     <message>
         <source>FormatObjectSize.content</source>
-        <translation></translation>
+        <translation>Show the Size and Properties dialog box in which you can specify the size and position of the object ans specify alternative text.</translation>
     </message>
     <message>
         <source>SmartArtInsertShape.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChangeAutoShape.content</source>
-        <translation></translation>
+        <translation>Change the shape of this drawing, convert it to a freeform shape, or edit the wrap points to determine how text wraps around the drawing.</translation>
     </message>
     <message>
         <source>PictureChange.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>QuickBarChartFilters.content</source>
-        <translation></translation>
+        <translation>Edit what data points and names are visible on your chart.</translation>
     </message>
     <message>
         <source>WordArtShapePalette.content</source>
-        <translation></translation>
+        <translation>Change the shape style of the selected WordArt.</translation>
     </message>
     <message>
         <source>EquationLimitGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ScreenRecording.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3DSurfaceMenu.content</source>
-        <translation></translation>
+        <translation>Choose a surface effect for the selected 3-D shape in the document.</translation>
     </message>
     <message>
         <source>KOSUserLogoutCloudTip.content</source>
-        <translation></translation>
+        <translation>You have signed in WPS Office Cloud. Click to exit.</translation>
     </message>
     <message>
         <source>XieDeTip.title</source>
-        <translation></translation>
+        <translation>XieDe</translation>
     </message>
     <message>
         <source>DataRecover.content</source>
-        <translation></translation>
+        <translation>Help you recover lost files due to disk corruption or accidental deletion.</translation>
     </message>
     <message>
         <source>ChartRadar.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TransformQuickBar.content</source>
-        <translation></translation>
+        <translation>The tansform style of word art.</translation>
     </message>
     <message>
         <source>Bold.content</source>
-        <translation></translation>
+        <translation>Make the selected text bold.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile.content</source>
-        <translation></translation>
+        <translation>Insert a picture from local folder.</translation>
     </message>
     <message>
         <source>InsertOnlinePictureFromFile.title</source>
-        <translation></translation>
+        <translation>Online Pictures</translation>
     </message>
     <message>
         <source>Copy.content</source>
-        <translation></translation>
+        <translation>Seçimi kopyalayın ve sistem panosuna yerleştirin.</translation>
     </message>
     <message>
         <source>ResetToFitStyle.title</source>
-        <translation></translation>
+        <translation>Reset Style</translation>
     </message>
     <message>
         <source>CloseDevelopmentTools.title</source>
-        <translation></translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>TextFontOutline.title</source>
-        <translation></translation>
+        <translation>Text Outline</translation>
     </message>
     <message>
         <source>DocumentSecurityCenter.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChartElements.title</source>
-        <translation></translation>
+        <translation>Chart Elements</translation>
     </message>
     <message>
         <source>PictureEffects.content</source>
-        <translation></translation>
+        <translation>Apply a visual effect to to the picture,such as shadow,glow, reflection, or 3-D rotation.</translation>
     </message>
     <message>
         <source>AddChartElements.title</source>
-        <translation></translation>
+        <translation>Chart Elements</translation>
     </message>
     <message>
         <source>ScreenGrab.content</source>
-        <translation></translation>
+        <translation>Masaüstünüzde açık olan herhangi bir pencerenin anlık görüntüsünü belgenize hızlıca ekleyin.</translation>
     </message>
     <message>
         <source>SmartArt InsertBullet.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocerMall.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PictureOutline.title</source>
-        <translation></translation>
+        <translation>Picture Outline</translation>
     </message>
     <message>
         <source>KOSOfficespacePsaawordTip.title</source>
-        <translation></translation>
+        <translation>@@</translation>
     </message>
     <message>
         <source>TouchUiMode.content</source>
-        <translation></translation>
+        <translation>More space between commands. Optimized for use with touch.</translation>
     </message>
     <message>
         <source>InsertProcesson_Mind.content</source>
-        <translation></translation>
+        <translation>InsertProcesson_Mind content</translation>
     </message>
     <message>
         <source>EditWordArtText.title</source>
-        <translation></translation>
+        <translation>Edit Text</translation>
     </message>
     <message>
         <source>EquationIntegralGallery.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ClearTableStyle.title</source>
-        <translation></translation>
+        <translation>Clear Table Style</translation>
     </message>
     <message>
         <source>DocPermissionProtection.title</source>
-        <translation></translation>
+        <translation>Doc Permission Protection&apos;s title</translation>
     </message>
     <message>
         <source>Protect_Eyes_Night.title</source>
-        <translation></translation>
+        <translation>Eye Protection Mode/Night Mode</translation>
     </message>
     <message>
         <source>PictureCrop.title</source>
-        <translation></translation>
+        <translation>Crop</translation>
     </message>
     <message>
         <source>QuickBarChartStyle.content</source>
-        <translation></translation>
+        <translation>Set a Style and color scheme for your chart.</translation>
     </message>
     <message>
         <source>OfflineManagement.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShadowOnOff.title</source>
-        <translation></translation>
+        <translation>Shadow On/Off</translation>
     </message>
     <message>
         <source>Theme Fonts.content</source>
-        <translation></translation>
+        <translation>Geçerli temanın yazı tiplerini değiştirin.</translation>
     </message>
     <message>
         <source>Print.content</source>
-        <translation></translation>
+        <translation>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</translation>
     </message>
     <message>
         <source>ChartElementFormat.title</source>
-        <translation></translation>
+        <translation>Biçim</translation>
     </message>
     <message>
         <source>FontEffects.title</source>
-        <translation></translation>
+        <translation>Boyut ve Özellikler</translation>
     </message>
     <message>
         <source>RunJSMacro.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationMatrixGallery.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Photo2Pdf.title</source>
-        <translation></translation>
+        <translation>Photo to Pdf</translation>
     </message>
     <message>
         <source>EditWordArtText.content</source>
-        <translation></translation>
+        <translation>Seçili WordArt metnini düzenleyin.</translation>
     </message>
     <message>
         <source>Night_Mode.content</source>
-        <translation></translation>
+        <translation>Gözlerinizi korumak için Gece Moduna geçin.</translation>
     </message>
     <message>
         <source>ExportToPDF.content</source>
-        <translation></translation>
+        <translation>Belgeyi bir PDF dosyasına aktarın.</translation>
     </message>
 </context>
 </TS>
