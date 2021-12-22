@@ -8772,7 +8772,7 @@ Okuma</translation>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Adı</translation>
     </message>
     <message>
         <source>FileSize</source>
@@ -8799,7 +8799,7 @@ Okuma</translation>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Adı</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9510,7 +9510,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasörü Aç</translation>
     </message>
     <message>
         <source>Column</source>
@@ -14053,11 +14053,11 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KPdfFeedbackJsApi</name>
     <message>
         <source>All File</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Dosyalar</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Yükle</translation>
     </message>
     <message>
         <source>Screenshot</source>
@@ -14643,7 +14643,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>Open folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasörü aç</translation>
     </message>
     <message>
         <source>Add invaild folder</source>
