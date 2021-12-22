@@ -1,2623 +1,2679 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de_DE">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>Translate Image.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textinhalt in Bild schnell übersetzen (nur chinesisch-englische Übersetzungen werden unterstützt)</translation>
     </message>
     <message>
         <source>ResetLayout.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout zurücksetzen</translation>
     </message>
     <message>
         <source>ShapeLine.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Formkontur</translation>
     </message>
     <message>
         <source>ShapeSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schattenform</translation>
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Organisieren Sie Dateien schnell und einfach.</translation>
     </message>
     <message>
         <source>AnimationSchemes.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Animationsschemen</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Format übertragen</translation>
     </message>
     <message>
         <source>WpPrintWhat_OutlineView.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Gliederungsansicht</translation>
     </message>
     <message>
         <source>SlideOrientation.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienausrichtung</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld „Zoom“ anzeigen, um die Zoomgröße des Dokuments festzulegen.</translation>
     </message>
     <message>
         <source>ZoomFit.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe der Präsentation so verändern, dass die Folie das Fenster ausfüllt.</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schnelldruck</translation>
     </message>
     <message>
         <source>TableLeft.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text linksbündig ausrichten</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe ändern</translation>
     </message>
     <message>
         <source>InsertDateTime.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld „Datum und Uhrzeit“ anzeigen, um das aktuelle Datum oder die Uhrzeit in das aktuelle Dokument einzufügen.</translation>
     </message>
     <message>
         <source>InsertChart.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramm einfügen</translation>
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Formatierungsänderungen an diesem Bild verwerfen.</translation>
     </message>
     <message>
         <source>MorePrintSettings.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr Details zum Drucken, wie z. B. Auswahl eines Druckers, Drucken von Seiten, Duplexdruck, Zoomen und mehr.</translation>
     </message>
     <message>
         <source>DrawTable.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelle zeichnen</translation>
     </message>
     <message>
         <source>PrintingOrder.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Reihenfolge der gedruckten Handzettel vertikal oder horizontal anordnen.</translation>
     </message>
     <message>
         <source>MergeShapes.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Formen zusammenfügen</translation>
     </message>
     <message>
         <source>Superscript.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hochgestellt</translation>
     </message>
     <message>
         <source>Replace.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <source>SmartChoice.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligente Auswahl</translation>
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Datei in das Dokument einfügen.</translation>
     </message>
     <message>
         <source>AddSubordinate.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Untergebenen dem markierten Mitglied hinzufügen.</translation>
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiefgestellt</translation>
     </message>
     <message>
         <source>Arrange.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Anordnen</translation>
     </message>
     <message>
         <source>weibotool.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument in Bild umwandeln und in Weibo teilen.</translation>
     </message>
     <message>
         <source>GraphicFill2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafik füllen</translation>
     </message>
     <message>
         <source>WpPrintWhat_6.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Handzettel (sechs Folien pro Seite)</translation>
     </message>
     <message>
         <source>Normal.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Präsentation in der Normalansicht anzeigen.</translation>
     </message>
     <message>
         <source>ShowHideGrid.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitternetzlinien in der Präsentation ein- oder ausblenden.</translation>
     </message>
     <message>
         <source>Paste.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Den Inhalt der Zwischenablage einfügen.</translation>
     </message>
     <message>
         <source>GraphicLine2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafikumriss</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier klicken, um mehr Druckinhalt auszuwählen, beispielsweise Folien, Handzettel, Notizenseiten und Gliederung.</translation>
     </message>
     <message>
         <source>PageSetup.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite einrichten</translation>
     </message>
     <message>
         <source>SlideDesign.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenfenster „Foliendesign - Entwurfsvorlagen“ anzeigen, um verschiedene Vorlagen auf die aktuelle Folie oder die gesamte Präsentation anzuwenden.</translation>
     </message>
     <message>
         <source>DrawAlignTop.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausrichtung des Textes einstellen.
+
+Auf den Pfeil klicken, um eine andere Ausrichtung auszuwählen.</translation>
     </message>
     <message>
         <source>TaskPane.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenfenster</translation>
     </message>
     <message>
         <source>Rotate.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Markiertes Objekt drehen oder kippen.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen der WordArt-Formatierung ändern.</translation>
     </message>
     <message>
         <source>InsertColumnsRight.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Spalte rechts von der aktuellen Spalte einfügen.</translation>
     </message>
     <message>
         <source>ExportToImage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument in ein Bild exportieren.</translation>
     </message>
     <message>
         <source>WordArtAlignment.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Angeben, wie viele Einzellinien einer mehrzeiligen WordArt ausgerichtet werden sollen.</translation>
     </message>
     <message>
         <source>TextFontColor2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfarbe</translation>
     </message>
     <message>
         <source>PrevPrintHiddenSlide.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgeblendete Folien drucken</translation>
     </message>
     <message>
         <source>GraphicFill.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Grafik mit Farbe füllen.
+
+Klicken Sie auf den Pfeil, um mit verschiedenen Effekten zu füllen.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Markierten Text unterstreichen.
+
+Auf den Pfeil klicken, um andere Unterstreichungsstile auszuwählen.</translation>
     </message>
     <message>
         <source>DrawAlignTop2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text ausrichten</translation>
     </message>
     <message>
         <source>RecentFillColor2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf die Pfeile klicken, um andere Fülleffekte auszuwählen.</translation>
     </message>
     <message>
         <source>ShapeFill2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie auf den Pfeil, um andere Fülleffekte auszuwählen.</translation>
     </message>
     <message>
         <source>InsertSmartArt.title</source>
-        <translation type="unfinished"></translation>
+        <translation>WPSArt-Grafik einfügen</translation>
     </message>
     <message>
         <source>WebPreview.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Link und QR-Code erstellen und für Wechat, QQ, Weibo oder Qzone freigeben.</translation>
     </message>
     <message>
         <source>ArrangeAll.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle geöffneten Dokumente nebeneinander unter demselben Programmfenster anordnen.</translation>
     </message>
     <message>
         <source>AudioPlay.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiedergeben</translation>
     </message>
     <message>
         <source>WpPrintWhat_9.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Festlegen, was als Handzettel (neun Folien pro Seite) ausgedruckt werden soll.</translation>
     </message>
     <message>
         <source>WpPrintWhat_3.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Festlegen, was als Handzettel (drei Folien pro Seite) ausgedruckt werden soll.</translation>
     </message>
     <message>
         <source>WpPrintWhat_4.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Festlegen, was als Handzettel (vier Folien pro Seite) ausgedruckt werden soll.</translation>
     </message>
     <message>
         <source>WpPrintWhat_1.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Festlegen, was als Handzettel (eine Folie pro Seite) ausgedruckt werden soll.</translation>
     </message>
     <message>
         <source>WpPrintWhat_2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Festlegen, was als Handzettel (zwei Folien pro Seite) ausgedruckt werden soll.</translation>
     </message>
     <message>
         <source>WpPrintWhat_6.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Festlegen, was als Handzettel (sechs Folien pro Seite) ausgedruckt werden soll.</translation>
     </message>
     <message>
         <source>AudioBegin.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Audioanfang</translation>
     </message>
     <message>
         <source>ColorScheme.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbschemen</translation>
     </message>
     <message>
         <source>ExportToImage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>In Bild exportieren</translation>
     </message>
     <message>
         <source>TextBox.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontales Textfeld erstellen</translation>
     </message>
     <message>
         <source>TransitionEffect.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenfenster &quot;Folienübergang&quot; anzeigen, um die Übergangseffekte auf die markierten Folien oder die gesamte Präsentation anzuwenden.</translation>
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe zurücksetzen</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt aus Datei einfügen</translation>
     </message>
     <message>
         <source>LineBreak.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenumbruchformat ändern.</translation>
     </message>
     <message>
         <source>SetUpShow.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmpräsentation einrichten</translation>
     </message>
     <message>
         <source>FormatAlignLeft.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text linksbündig ausrichten</translation>
     </message>
     <message>
         <source>AlignTop.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Oben ausrichten</translation>
     </message>
     <message>
         <source>Ruler.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Lineale, die für das Messen und Ausrichten von Objekten in Dokumenten verwendet werden, ein- oder ausblenden.</translation>
     </message>
     <message>
         <source>ShapeFill.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Form einfarbig, schattiert, mit Bild oder Textur füllen.
+
+Klicken Sie auf den Pfeil, um andere Fülleffekte auszuwählen.</translation>
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld „Seite einrichten“ anzeigen.</translation>
     </message>
     <message>
         <source>RB_Font.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftart</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Registerkarte „Entwicklertools“ öffnen, um Optionsfeld, Kontrollkästchen und andere einzufügen.</translation>
     </message>
     <message>
         <source>GraphicFill.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafik füllen</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation type="unfinished"></translation>
+        <translation>ClipArt aus dem Aufgabenfenster auswählen und in das Dokument einfügen.</translation>
     </message>
     <message>
         <source>InsertRowsAbove.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilen oberhalb einfügen</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Verknüpfung zu einer Website, einem Bild oder einer E-Mail-Adresse herstellen.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Den Kommentar bearbeiten.</translation>
     </message>
     <message>
         <source>InsertChart.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Das eingefügte Diagramm muss in WPS Spreadsheets bearbeitet werden.
+
+Wenn WPS Spreadsheets geschlossen wird, kann das Diagramm im Dokument automatisch angezeigt werden. Doppelklicken Sie auf das Diagramm, wenn Sie es bearbeiten möchten.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Makrosicherheit</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus verschiedenen Farbschemas auswählen</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumente in Excel-Dateien konvertieren</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorbereitete Formen einfügen, wie Rechtecke und Kreise, Pfeile, Linien, Symbole für Flussdiagramme und Legenden.</translation>
     </message>
     <message>
         <source>Package.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Präsentationsdatei verpacken.</translation>
     </message>
     <message>
         <source>HighlightColor2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorhebungsfarbe für Text</translation>
     </message>
     <message>
         <source>Paste2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>WordArtAlignment.title</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt-Ausrichtung</translation>
     </message>
     <message>
         <source>TransitionEffect.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Übergangseffekte</translation>
     </message>
     <message>
         <source>DeleteMember.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewähltes Mitglied entfernen.</translation>
     </message>
     <message>
         <source>SlideTransApplyToAll.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen für Übergangsanimation, Effekte und Folienwechsel für alle Folien übernehmen.</translation>
     </message>
     <message>
         <source>sp_Macros.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Makros anzeigen</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen für Schriftart, Absatz sowie Formatvorlagen und Formatierung ändern.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation type="unfinished"></translation>
+        <translation>WorkSpace_Backup – Titel</translation>
     </message>
     <message>
         <source>DuplicateSlide.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Kopie der Folie</translation>
     </message>
     <message>
         <source>SlideMasterClose.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Masteransicht schließen</translation>
     </message>
     <message>
         <source>PaperSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Papiergröße</translation>
     </message>
     <message>
         <source>VideoPlay.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiedergeben</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckinhalt</translation>
     </message>
     <message>
         <source>AnimationPainter.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Animation Brush</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Im Dokument zum nächsten Kommentar navigieren.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Fußzeile</translation>
     </message>
     <message>
         <source>HideAudio.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Stoppen verbergen</translation>
     </message>
     <message>
         <source>HeaderPlaceHolder.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopfzeile</translation>
     </message>
     <message>
         <source>LoopAudio.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio in Endlosschleife wiedergeben</translation>
     </message>
     <message>
         <source>weibotool.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Weibo Tool</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftfarbe</translation>
     </message>
     <message>
         <source>WpPrintWhat_4.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Handzettel (vier Folien pro Seite)</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Andere Wörter mit einer ähnlichen Bedeutung wie das ausgewählte Wort vorschlagen.</translation>
     </message>
     <message>
         <source>TextBox2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier klicken, um horizontale, vertikale oder Mehrzeilen-Textfelder einzufügen.</translation>
     </message>
     <message>
         <source>Markup.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Überarbeitungsmarkierungen im Dokument ein- oder ausblenden.</translation>
     </message>
     <message>
         <source>Arrange.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekte auf den Folien anordnen, indem ihre Anordnung, Position oder Drehung geändert wird.</translation>
     </message>
     <message>
         <source>TraditionalChinese.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Traditionell</translation>
     </message>
     <message>
         <source>FontAlignMenu.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausrichtung zwischen den Schriftarten einstellen.</translation>
     </message>
     <message>
         <source>OnlineCooperation.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument zur gemeinsamen Bearbeitung öffnen.</translation>
     </message>
     <message>
         <source>HighlightColor2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf den Pfeil klicken, um eine andere Hervorhebungsfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>Paste2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier klicken, um mehr Optionen zu erhalten, beispielsweise nur unformatierten Text einfügen.</translation>
     </message>
     <message>
         <source>AudioAcrossPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Audiowiedergabe ab dieser Seite bis zur angegebenen Seite wiedergeben.</translation>
     </message>
     <message>
         <source>Group.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppe</translation>
     </message>
     <message>
         <source>InteractiveChart.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen Sie ansprechende, dynamische und interaktive Diagramme, um die Präsentationsleistung zu verbessern.</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einen anderen Stil auswählen</translation>
     </message>
     <message>
         <source>importtemplates.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokale Vorlagen importieren.</translation>
     </message>
     <message>
         <source>PDFToPPT.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumente in PPT-Dateien konvertieren</translation>
     </message>
     <message>
         <source>R2LTextDirection.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textrichtung von rechts nach links</translation>
     </message>
     <message>
         <source>L2RTextDirection.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textrichtung von links nach rechts</translation>
     </message>
     <message>
         <source>FitTextTip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text an Formen anpassen.</translation>
     </message>
     <message>
         <source>TextDirection.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textrichtung</translation>
     </message>
     <message>
         <source>DrawAlignLeft.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausrichten</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.title</source>
-        <translation type="unfinished"></translation>
+        <translation>DrawingToolsDetailedSettings</translation>
     </message>
     <message>
         <source>SlideLibrary.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Folie von Online-Vorlagen in aktuelle Präsentation einfügen.</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenverhältnis sperren</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation type="unfinished"></translation>
+        <translation>The modified document is automatically saved for you to avoid loss of document content.</translation>
     </message>
     <message>
         <source>DistRowSevenly.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilen gleichmäßig anordnen</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>SendFileTip.content</translation>
     </message>
     <message>
         <source>MasterLayout.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Master Layout</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Elemente ändern</translation>
     </message>
     <message>
         <source>SlideLayouts.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienlayout</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier klicken, um „Von Beginn an“ oder „Aus aktueller Folie“ zu starten.</translation>
     </message>
     <message>
         <source>BordersFill.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <source>DrawAlignTop2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf den Pfeil klicken, um eine andere Ausrichtung auszuwählen.</translation>
     </message>
     <message>
         <source>TableEffects.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Tabelle grafische Effekte hinzufügen, z. B. einen Schatten oder eine Spiegelung.</translation>
     </message>
     <message>
         <source>WppSharePlay2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiedergabe teilen</translation>
     </message>
     <message>
         <source>WpsAssistMagic.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Probieren Sie zufällig ausgewählte Vorlagen aus!</translation>
     </message>
     <message>
         <source>WordArtCharacterSpacing.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändern des Zeichenabstands zwischen den Buchstaben des ausgewählten WordArt-Textes.</translation>
     </message>
     <message>
         <source>NewSlideMaster.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Folienmaster</translation>
     </message>
     <message>
         <source>NewTitleMaster.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Titelmaster</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen der Bildformatierung ändern.</translation>
     </message>
     <message>
         <source>PrintDuplex.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplexdrucker</translation>
     </message>
     <message>
         <source>ShapeFill2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Fülleffekt</translation>
     </message>
     <message>
         <source>FormatAlignLeft.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text am linken Rand ausrichten.</translation>
     </message>
     <message>
         <source>modelessay.content</source>
-        <translation type="unfinished"></translation>
+        <translation> Auswahl im reichhaltigen Modell-Essay-Bestand treffen.</translation>
     </message>
     <message>
         <source>Rotate.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehen</translation>
     </message>
     <message>
         <source>PreviewPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>In der Präsentation zur vorherigen Seite navigieren.</translation>
     </message>
     <message>
         <source>SlideImage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Bild der Folie in die Notizenseite einschließen.</translation>
     </message>
     <message>
         <source>WpPrintWhat_3.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Handzettel (drei Folien pro Seite)</translation>
     </message>
     <message>
         <source>DrawAlignLeft.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Markiertes Objekt ausrichten.</translation>
     </message>
     <message>
         <source>ExportToVideo.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument als Video exportieren.</translation>
     </message>
     <message>
         <source>SlideOrientation.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienausrichtung zwischen Hochformat- und Querformat umschalten.</translation>
     </message>
     <message>
         <source>WpPrintWhat_OutlineView.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Festlegen, was als Gliederungsansicht ausgedruckt werden soll. Folieninhalt, der auf der gedruckten Seite als Gliederung angezeigt wird.</translation>
     </message>
     <message>
         <source>Rehearse.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken, um alle Folien oder nur diese Folie zu proben.</translation>
     </message>
     <message>
         <source>WpsAssistOnlineTemplate.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorlage ändern</translation>
     </message>
     <message>
         <source>SlideTransDuration.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschwindigkeit</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar löschen</translation>
     </message>
     <message>
         <source>AddCoworker.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitskollegen hinzufügen</translation>
     </message>
     <message>
         <source>ShapeLine2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Formkontur</translation>
     </message>
     <message>
         <source>Media.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Film einfügen</translation>
     </message>
     <message>
         <source>NewDash.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkelnde und coole Präsentation</translation>
     </message>
     <message>
         <source>GraphicEffects.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf die markierte Grafik Schatteneffekt und 3D-Effekt anwenden.</translation>
     </message>
     <message>
         <source>PrevFrameSlides.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen für Folien</translation>
     </message>
     <message>
         <source>ZoomCombo.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Zoomgröße der aktuellen Präsentation festlegen.</translation>
     </message>
     <message>
         <source>SlideTransition.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenfenster &quot;Folienübergang&quot; anzeigen, um die Übergangseffekte auf die markierten Folien oder die gesamte Präsentation anzuwenden.</translation>
     </message>
     <message>
         <source>SkipSlide.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle Folie aus der Präsentation ausblenden. Sie wird bei einer Bildschirmpräsentation nicht angezeigt.</translation>
     </message>
     <message>
         <source>ShapeLine.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe, Breite und Linienart für die Konturlinie des ausgewählten Objekts auswählen.
+
+Klicken Sie auf den Pfeil, um detaillierte Einstellungen für die Konturlinie auszuwählen.</translation>
     </message>
     <message>
         <source>TableLeft.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text am linken Rand ausrichten.</translation>
     </message>
     <message>
         <source>CustomShows.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Bildschirmpräsentationen</translation>
     </message>
     <message>
         <source>Color.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die aktuelle Präsentation Farbdruck oder Schwarzweißdruck einstellen.</translation>
     </message>
     <message>
         <source>Sound.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Soundclip oder Musik aus einem lokalen Ordner einfügen.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Fußzeile in die gedruckten Handzettel oder Notizen einschließen.</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckinhalt als Folie (eine Folie pro Seite) einrichten.</translation>
     </message>
     <message>
         <source>Package.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieren Sie die Präsentationsdatei und zugehörige Medienelemente wie Video, Audio usw. in den angegebenen Ordner, um die Datei auf einem anderen Computer wiederzugeben.</translation>
     </message>
     <message>
         <source>BackgroundMusic.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Audiodatei aus einem lokalen Ordner einfügen. Die Präsentation gibt automatisch die Audiodatei wieder und diese wird bis zum Ende der Präsentation in Schleife abgespielt.</translation>
     </message>
     <message>
         <source>RB_Clipboard.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwischenablage</translation>
     </message>
     <message>
         <source>LineSpacing.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenabstand</translation>
     </message>
     <message>
         <source>DrawTable.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinien einer Tabelle zeichnen.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfarbe ändern.
+
+Auf den Pfeil klicken, um eine andere Textfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmerfassung und OCR</translation>
     </message>
     <message>
         <source>WordArtCharacterSpacing.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenabstand</translation>
     </message>
     <message>
         <source>InsertTable.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelle in der aktuellen Folie einfügen oder zeichnen.</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundbild speichern</translation>
     </message>
     <message>
         <source>NewSlide.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Folie der Präsentation hinzufügen.</translation>
     </message>
     <message>
         <source>SelectAll.content</source>
-        <translation type="unfinished"></translation>
+        <translation>„Alles markieren“ wählen, um Folien-, Objekt- oder Textinhalt in der Präsentation auszuwählen.</translation>
     </message>
     <message>
         <source>SlideSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändern Sie die Größe der Folien in dieser Präsentation.</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe, Drehungsgrade und Zoom für die markierte Form einstellen.</translation>
     </message>
     <message>
         <source>SlideShow.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmpräsentation von der ersten Folie starten.</translation>
     </message>
     <message>
         <source>COMAddIns.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Verfügbare COM Add-Ins hinzufügen oder löschen.</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Volltextübersetzung</translation>
     </message>
     <message>
         <source>Paragraph2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonstige Optionen</translation>
     </message>
     <message>
         <source>Direction.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Richtungseffekt der ausgewählten 3D-Form wählen.</translation>
     </message>
     <message>
         <source>Select.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswählen</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleine Buchstaben unterhalb der Textgrundlinie erstellen.</translation>
     </message>
     <message>
         <source>WpPrintWhat_2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Handzettel (zwei Folien pro Seite)</translation>
     </message>
     <message>
         <source>CheckSpelling.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Rechtschreibung im aktuellen Dokument überprüfen.</translation>
     </message>
     <message>
         <source>AudioFadeIn.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einblenden</translation>
     </message>
     <message>
         <source>PrevClose.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenansicht beenden und in den Präsentationsbearbeitungsmodus zurückkehren.</translation>
     </message>
     <message>
         <source>HandoutMaster.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Handzettelmasteransicht</translation>
     </message>
     <message>
         <source>GraphicLine2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie auf den Pfeil, um detaillierte Einstellungen für die Konturlinie auszuwählen.</translation>
     </message>
     <message>
         <source>Section.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Organisieren Sie Ihre Folien in Abschnitten.</translation>
     </message>
     <message>
         <source>SimplifiedChinese.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument in vereinfachtes Chinesisch umwandeln.</translation>
     </message>
     <message>
         <source>Delete.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text Lesen</translation>
     </message>
     <message>
         <source>Ruler.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Lineal</translation>
     </message>
     <message>
         <source>Justify.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text am linken und rechten Rand ausrichten, indem die Zwischenräume zwischen Wörtern gegebenenfalls erhöht werden.</translation>
     </message>
     <message>
         <source>GraphicLine.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe, Breite und Linienstil für den Umriss der ausgewählten Grafik festlegen.
+
+Klicken Sie auf den Pfeil, um Details für den Umriss festzulegen.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hervorhebungsfarbe für Text</translation>
     </message>
     <message>
         <source>Color.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe</translation>
     </message>
     <message>
         <source>UsePresenterView.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Presenter view</translation>
     </message>
     <message>
         <source>DrawAlignTop.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text ausrichten</translation>
     </message>
     <message>
         <source>TableRight.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text am rechten Rand ausrichten.</translation>
     </message>
     <message>
         <source>COMAddIns.title</source>
-        <translation type="unfinished"></translation>
+        <translation>COM-Add-Ins</translation>
     </message>
     <message>
         <source>MergeShapes.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Fügen Sie die ausgewählten Formen zu einer oder mehreren neuen Formen zusammen.</translation>
     </message>
     <message>
         <source>ResetPicture.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild zurücksetzen</translation>
     </message>
     <message>
         <source>WppSharePlay.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Mithilfe des Zugriffscodes schnell Personen einladen, die sich gemeinsam die Präsentation live ansehen können.</translation>
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Listenebene verringern</translation>
     </message>
     <message>
         <source>VideoBegin.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch starten oder bei Klick.</translation>
     </message>
     <message>
         <source>DecreaseSpace.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand verringern</translation>
     </message>
     <message>
         <source>AudioTrim.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio kürzen</translation>
     </message>
     <message>
         <source>PrevLandscape.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Querformat</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Weibo-Bild exportieren</translation>
     </message>
     <message>
         <source>sp_Macros2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Liste mit Makros anzeigen, in der Sie ein Makro ausführen, erstellen oder löschen können.</translation>
     </message>
     <message>
         <source>TextMargin.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellenränder für die markierten Zellen angeben.</translation>
     </message>
     <message>
         <source>Flash.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash-Animation aus einem lokalen Ordner einfügen.</translation>
     </message>
     <message>
         <source>NotesMaster.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Passen Sie an, wie Ihre Präsentation im Ausdruck mit Notizen aussieht.
+
+Sie können das Design und Layout für die Notizenseite auswählen, beispielsweise die Hintergrundformatierung und die Stellen, an denen Kopf- und Fußzeilen angezeigt werden sollen. Sie können ferner Optionen für die Seiteneinrichtung auswählen.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTool.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Paragraph1.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausrichtung</translation>
     </message>
     <message>
         <source>WpPrintWhat_3Notes.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Festlegen, was als Notiz (drei Folien pro Seite, Notizen rechts von den Folien) ausgedruckt werden soll.</translation>
     </message>
     <message>
         <source>WpPrintWhat_1Notes.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Festlegen, was als Notiz (eine Folie pro Seite, Notizen rechts von der Folie) ausgedruckt werden soll.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Paragraph1.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf den Pfeil klicken, um eine andere Ausrichtung auszuwählen.</translation>
     </message>
     <message>
         <source>Paragraph2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf den Pfeil klicken, um den Abstand zu vergrößern, zu verkleinern oder den Zeilenumbruch zu ändern.</translation>
     </message>
     <message>
         <source>RecentFillColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Farben, Schattierungen, Texturen und Bilder verwenden, um die markierte Tabelle in der aktuellen Folie zu füllen.
+
+Klicken Sie auf den Pfeil, um andere Fülleffekte auszuwählen.</translation>
     </message>
     <message>
         <source>WpPrintWhat_1.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Handzettel (eine Folie pro Seite)</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto Save File</translation>
     </message>
     <message>
         <source>SlideTransOnTime.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Jede Folie nach einem Intervall (in Sekunden angegeben) abspielen.</translation>
     </message>
     <message>
         <source>CellWidth.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellenbreite</translation>
     </message>
     <message>
         <source>TableRight.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text rechtsbündig ausrichten</translation>
     </message>
     <message>
         <source>Numbering2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste mit Nummerierungen erstellen.
+
+Auf den Pfeil klicken, um andere Nummerierungsformate auszuwählen.</translation>
     </message>
     <message>
         <source>HeaderPlaceHolder.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Kopfzeile in die gedruckten Handzettel oder Notizen einschließen.</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummerierung ändern</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Genaue und schnelle Übersetzung, während das ursprüngliche Layout des Dokuments beibehalten wird.</translation>
     </message>
     <message>
         <source>ResetSlide.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Position, Größe und Formatierung der Folienplatzhalter auf die Standardeinstellungen zurücksetzen.</translation>
     </message>
     <message>
         <source>PrevPrintHiddenSlide.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgeblendete Folien in Seitenansicht anzeigen.</translation>
     </message>
     <message>
         <source>cellphoneControl.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Mobiltelefonsteuerung</translation>
     </message>
     <message>
         <source>SlideTransOnClick.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächste Folie per Mausklick abspielen.</translation>
     </message>
     <message>
         <source>ResetShape.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Formatierungsänderungen an dieser Form verwerfen.</translation>
     </message>
     <message>
         <source>cellphoneControl.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Mobiltelefonsteuerung</translation>
     </message>
     <message>
         <source>ChineseTranslation.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereinfachtes in traditionelles Chinesisch umwandeln</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einzugsebene des Absatzes erhöhen.</translation>
     </message>
     <message>
         <source>HandoutMaster.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Passen Sie an, wie Ihre Präsentation im Ausdruck aussieht.
+
+Sie können das Design und Layout für den Handzettel auswählen, beispielsweise die Hintergrundformatierung und die Stellen, an denen Kopf- und Fußzeilen angezeigt werden sollen. Sie können ferner Optionen für die Seiteneinrichtung auswählen.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einzugsebene des Absatzes verringern.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF nach Excel</translation>
     </message>
     <message>
         <source>PrintDuplex.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie an, wie gedruckt werden soll, unabhängig davon, ob es sich um einseitig oder zweiseitig handelt.</translation>
     </message>
     <message>
         <source>AddSubordinate.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Untergebenen hinzufügen</translation>
     </message>
     <message>
         <source>AudioBegin.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch starten oder bei Klick.</translation>
     </message>
     <message>
         <source>SplitCells.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Zellen in mehrere neue Zellen aufteilen.</translation>
     </message>
     <message>
         <source>PrintCollate.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie an, in welcher Druckerwarteschlange gedruckt wird (z. B. 123123), oder geben Sie die zu druckenden Seiten an (z. B. 112233).</translation>
     </message>
     <message>
         <source>Delete.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilen, Spalten, Zellen oder die gesamte Tabelle löschen.</translation>
     </message>
     <message>
         <source>ChineseTranslation.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Festlegen der Übersetzung von vereinfachtem Chinesisch in traditionelles Chinesisch, basierend auf einem Zeichen oder einem Wort.</translation>
     </message>
     <message>
         <source>RewindAudio.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio zurückspulen</translation>
     </message>
     <message>
         <source>Select.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text oder Objekte im Dokument auswählen.</translation>
     </message>
     <message>
         <source>AudioCurPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio auf dieser Seite wiedergeben.</translation>
     </message>
     <message>
         <source>FontAlignMenu.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenausrichtung</translation>
     </message>
     <message>
         <source>DuplicateSlide.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopie der aktuellen Folie in die Präsentation einfügen.</translation>
     </message>
     <message>
         <source>Numbering.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste mit Nummerierungen erstellen.
+
+Auf den Pfeil klicken, um andere Nummerierungsformate auszuwählen.</translation>
     </message>
     <message>
         <source>RewindVideo.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Video zurückspulen</translation>
     </message>
     <message>
         <source>VideoTrim.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Video kürzen</translation>
     </message>
     <message>
         <source>BodyContent.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein separates Feld mit dem Folientext in die Notizenseite einschließen.</translation>
     </message>
     <message>
         <source>PrevPortrait.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hochformat</translation>
     </message>
     <message>
         <source>NewWindow.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Neues Fenster</translation>
     </message>
     <message>
         <source>Security.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen für die Makrosicherheit anpassen.</translation>
     </message>
     <message>
         <source>SplitCells.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellen teilen</translation>
     </message>
     <message>
         <source>MergeCells.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Zellen zu einer Zelle verbinden.</translation>
     </message>
     <message>
         <source>SlideSorter.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Präsentation in Foliensortieransicht anzeigen, um Folien leicht neu anordnen zu können.</translation>
     </message>
     <message>
         <source>HideVideo.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Stoppen verbergen</translation>
     </message>
     <message>
         <source>TableStyle.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellenformat</translation>
     </message>
     <message>
         <source>MediaVol.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Lautstärke</translation>
     </message>
     <message>
         <source>Backdrop.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund</translation>
     </message>
     <message>
         <source>Sound.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Sound einfügen</translation>
     </message>
     <message>
         <source>LoopVideo.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Video in Endlosschleife wiedergeben</translation>
     </message>
     <message>
         <source>GraphicEffects.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafikeffekte</translation>
     </message>
     <message>
         <source>ArrangeAll.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle anordnen</translation>
     </message>
     <message>
         <source>PageNumber.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld „Seitenzahlen“ anzeigen und Einstellungen für Seitenzahlen auf den aktuellen Abschnitt oder das gesamte Dokument anwenden.</translation>
     </message>
     <message>
         <source>PlayerCapture.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmpräsentation des Dokuments aufzeichnen und als Video speichern</translation>
     </message>
     <message>
         <source>CheckSpelling.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibprüfung</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Absatz am linken und rechten Rand ausrichten, indem die Zwischenräume zwischen zwei Zeichen bei Sprachen mit Laut- und Vokalzeichen gegebenenfalls erhöht werden.
+
+Dadurch wird ein Dokument mit einem aufgeräumten Erscheinungsbild erstellt.</translation>
     </message>
     <message>
         <source>ShapeFill.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Fülleffekt</translation>
     </message>
     <message>
         <source>ConvertToSmartArtTip.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Wandeln Sie den Text auf den Folien in eine SmartArt-Grafik um, um Informationen visuell zu vermitteln</translation>
     </message>
     <message>
         <source>WppSharePlay.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiedergabe teilen</translation>
     </message>
     <message>
         <source>CreativeCrop.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreativer Zuschnitt</translation>
     </message>
     <message>
         <source>importtemplates.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorlagen importieren</translation>
     </message>
     <message>
         <source>InteractiveChart.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Interaktives Diagramm einfügen</translation>
     </message>
     <message>
         <source>CellHeight.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellenhöhe</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Fülleffekt und Kontur</translation>
     </message>
     <message>
         <source>MediaVol.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Medienlautstärke</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopf- und Fußzeile des Dokuments bearbeiten.</translation>
     </message>
     <message>
         <source>AudioFadeIn.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu Beginn den Ton für eine bestimmte Anzahl von Sekunden langsam einblenden.</translation>
     </message>
     <message>
         <source>GridGuides.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitternetzlinien und Führungslinien für die Präsentation einrichten.</translation>
     </message>
     <message>
         <source>TableStyle.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenfenster „Tabellenformat“ anzeigen.</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>TextFontColor2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie auf den Pfeil, um eine andere Textfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopf- und Fußzeile</translation>
     </message>
     <message>
         <source>Lighting.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Beleuchtung</translation>
     </message>
     <message>
         <source>PrevFrameSlides.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenlinien rund um die Folie ziehen.</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zentriert ausrichten</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Mark the background area and quickly and intelligently remove the background of the picture</translation>
     </message>
     <message>
         <source>PreserveMaster.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Master beibehalten</translation>
     </message>
     <message>
         <source>CellHeight.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellenhöhe</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmerfassung: Mit einem Klick können Sie Text extrahieren.</translation>
     </message>
     <message>
         <source>CustomAnimation.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Animation</translation>
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Galerie</translation>
     </message>
     <message>
         <source>ExportToVideo.title</source>
-        <translation type="unfinished"></translation>
+        <translation>In Video exportieren</translation>
     </message>
     <message>
         <source>TextBox.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontales Textfeld in das Dokument einfügen.</translation>
     </message>
     <message>
         <source>SlideShow.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmpräsentation vom Beginn</translation>
     </message>
     <message>
         <source>SkipSlide.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Folie ausblenden</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation type="unfinished"></translation>
+        <translation>DrawingToolsDetailedSettings Inhalt</translation>
     </message>
     <message>
         <source>LoopVideo.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Video in Endlosschleife</translation>
     </message>
     <message>
         <source>Paste.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>DeleteNotes.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier klicken, um Foliennotizen zu löschen.</translation>
     </message>
     <message>
         <source>Lighting.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Beleuchtungsrichtung und Helligkeit für die ausgewählte 3D-Form einrichten. Für die Helligkeit sind die Stufen hell, normal und abgeblendet verfügbar.</translation>
     </message>
     <message>
         <source>LoopAudio.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio in Endlosschleife</translation>
     </message>
     <message>
         <source>AudioPause.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Pause</translation>
     </message>
     <message>
         <source>InsertRowsAbove.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Zeile direkt über der markierten Zeile einfügen.</translation>
     </message>
     <message>
         <source>sp_Macros2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Makros anzeigen</translation>
     </message>
     <message>
         <source>ActionSetting.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktionseinstellungen</translation>
     </message>
     <message>
         <source>ZoomFit.title</source>
-        <translation type="unfinished"></translation>
+        <translation>An Fenster anpassen</translation>
     </message>
     <message>
         <source>ZoomCombo.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>WpPrintWhat_3Notes.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Notizen (drei Folien pro Seite)</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild in Textformat konvertieren.</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuell oder Automatisch festlegen</translation>
     </message>
     <message>
         <source>Markup.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Überarbeitungsmarkierungen</translation>
     </message>
     <message>
         <source>SlideTransDuration.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie die Dauer des Übergangs in Sekunden an.</translation>
     </message>
     <message>
         <source>WpPrintWhat_1Notes.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Notizen (eine Folie pro Seite)</translation>
     </message>
     <message>
         <source>PrintingOrder.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckreihenfolge</translation>
     </message>
     <message>
         <source>ShowHideMark.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentare ein-/ausblenden</translation>
     </message>
     <message>
         <source>SlidePreview.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschau der Animationen und Übergänge auf der aktuellen Folie.</translation>
     </message>
     <message>
         <source>modelessay.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Modell-Essay</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Spalte links von der aktuellen Spalte einfügen.</translation>
     </message>
     <message>
         <source>AlignTop.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text am oberen Ende der Zelle ausrichten.</translation>
     </message>
     <message>
         <source>ChangeTextDir.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textrichtung</translation>
     </message>
     <message>
         <source>InsertOnlinePicture.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder einfügen</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation type="unfinished"></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto save turned on</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen der Konturformatierung ändern.</translation>
     </message>
     <message>
         <source>onlineMedia.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Film einfügen</translation>
     </message>
     <message>
         <source>CustomAnimation.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenfenster „Benutzerdefinierte Animation“ anzeigen, um Animationseffekte auf den Text oder das Objekt in der aktuellen Folie anzuwenden.</translation>
     </message>
     <message>
         <source>ConvertToSmartArtTip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>In SmartArt-Grafik konvertieren</translation>
     </message>
     <message>
         <source>DataPlaceHolder.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <source>OrgChartLayout.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilen oder Zusammenführen</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingebettetes Objekt in das Dokument einfügen.
+
+Auf den Pfeil klicken, um den Dateiinhalt in das Dokument einzufügen.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Change the settings of Equations.</translation>
     </message>
     <message>
         <source>AlignBottom.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text am unteren Ende der Zelle ausrichten.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekte so gruppieren, dass sie wie ein einzelnes Objekt behandelt werden können.</translation>
     </message>
     <message>
         <source>SlideLayouts.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschiedene Layouts für ausgewählte Folien einrichten.</translation>
     </message>
     <message>
         <source>UsePresenterView.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Presenter view shows the speaker view and the full screen view on different monitors.
+
+If you only have one monitor, you can use Alt+F5 to try out presenter view, and press ESC to exit.</translation>
     </message>
     <message>
         <source>TableSmartStyle.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligenter Stil</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmpräsentation von der aktuellen Folie starten.</translation>
     </message>
     <message>
         <source>OnlineCooperation.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zusammenarbeit</translation>
     </message>
     <message>
         <source>InsertObject.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt einfügen</translation>
     </message>
     <message>
         <source>BordersFill.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmenstil, Farbe und Breite der aktuellen Folie einstellen.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld „WordArt-Galerie“ anzeigen, um einen WordArt-Stil auszuwählen und den Inhalt zu bearbeiten.</translation>
     </message>
     <message>
         <source>Replace2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <source>AddAssistant.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Assistenten hinzufügen</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie hier lesen zu aufhören.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Home Detailed Settings</translation>
     </message>
     <message>
         <source>PreserveMaster.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Markierten Folienmaster beibehalten. Auch wenn er nicht verwendet wird, bleibt er in der Präsentation.</translation>
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Element in der Zwischenablage anzeigen.</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildinhalt übersetzen</translation>
     </message>
     <message>
         <source>CreativeCrop.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anwendung von kreativen Bildschneideeffekten auf Knopfdruck macht Ihre Bilder attraktiver.
+
+Bildausschnitt macht Ihre PowerPoint-Präsentation zu etwas Besonderem.</translation>
     </message>
     <message>
         <source>SlideTransOnTime.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervall für automatischen Wechsel</translation>
     </message>
     <message>
         <source>FormatAlignCenter.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text zentrieren.</translation>
     </message>
     <message>
         <source>Superscript2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonstige Optionen</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Formfüllung
+Füllen Sie ausgewählte Objekte mit Farben, Verläufen, Texturen und Bildern.
+2. Formkontur
+Konfigurieren Sie Farben, Stärken und Striche für ausgewählte Objekte.
+Klicken Sie auf Pfeile für eine detaillierte Konfiguration.</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufzählungen</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatische Sicherungskopie des aktuellen Dokuments stoppen.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>AudioFadeOut.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zum Ende den Ton für eine bestimmte Anzahl von Sekunden langsam ausblenden.</translation>
     </message>
     <message>
         <source>AddCoworker.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitskollegen dem markierten Mitglied hinzufügen.</translation>
     </message>
     <message>
         <source>InsertGeogebra.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Zeichenwerkzeug mit Mathematikfunktionen in den Bereichen Algebra, Infinitesimalrechnung, Statistik und 3D.</translation>
     </message>
     <message>
         <source>RecentFillColor2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schattierung</translation>
     </message>
     <message>
         <source>OrgChartLayout.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout des Abschnitts für das markierte Mitglied ändern.</translation>
     </message>
     <message>
         <source>FitTextTip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text anpassen</translation>
     </message>
     <message>
         <source>L2RTextDirection.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellen Sie ein, dass der Text von links nach rechts gelesen wird.</translation>
     </message>
     <message>
         <source>RecentFillColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schattierung</translation>
     </message>
     <message>
         <source>TextBox2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfeld erstellen</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
-        <translation type="unfinished"></translation>
+        <translation>HomeDetailedSettings Inhalt</translation>
     </message>
     <message>
         <source>InsertOnlinePicture.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie hier, um lokale oder Online-Bilder einzufügen.</translation>
     </message>
     <message>
         <source>PrintCopies.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu druckende Kopien</translation>
     </message>
     <message>
         <source>DistColumnSevenly.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalten gleichmäßig anordnen</translation>
     </message>
     <message>
         <source>PreviewPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorherige Seite</translation>
     </message>
     <message>
         <source>MergeCells.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellen verbinden</translation>
     </message>
     <message>
         <source>SetBackground.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Legen Sie dieses Bild als Hintergrund für die aktuelle Folie fest.</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmpräsentation von aktueller Folie</translation>
     </message>
     <message>
         <source>Direction.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Richtung</translation>
     </message>
     <message>
         <source>presentationTool.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bequemes und schnelles Hilfsprogramm</translation>
     </message>
     <message>
         <source>InsertRowsBelow.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Zeile direkt unter der markierten Zeile einfügen.</translation>
     </message>
     <message>
         <source>SlideSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Foliengröße</translation>
     </message>
     <message>
         <source>Backdrop.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundstil auf die aktuelle Folie oder die gesamte Präsentation anwenden.</translation>
     </message>
     <message>
         <source>NewSlide2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonstige Optionen</translation>
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation type="unfinished"></translation>
+        <translation>In der Präsentation zur nächsten Seite navigieren.</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleine Buchstaben über der Textgrundlinie erstellen.</translation>
     </message>
     <message>
         <source>AudioCurPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Seite wiedergeben</translation>
     </message>
     <message>
         <source>AnimationSchemes.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Design- und Animationsschemen der Folie anzeigen, um die Übergangs- und Animationseffekte auf die aktuelle Folie oder die gesamte Präsentation anzuwenden.</translation>
     </message>
     <message>
         <source>ResetLayout.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf das Standardlayout zurücksetzen.</translation>
     </message>
     <message>
         <source>RewindAudio.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Stoppen zurückspulen.</translation>
     </message>
     <message>
         <source>R2LTextDirection.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellen Sie ein, dass der Text von rechts nach links gelesen wird.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenverhältnis sperren</translation>
     </message>
     <message>
         <source>TableSmartStyle.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Bietet verschiedene gängige und erweiterte Stile, um Ihre Inhalte noch ansprechender zu machen.</translation>
     </message>
     <message>
         <source>3DPresentation.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Insert 3DPresentation</translation>
     </message>
     <message>
         <source>TaskPane.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenfenster im Dokument ein-/ausblenden.</translation>
     </message>
     <message>
         <source>CellWidth.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellenbreite</translation>
     </message>
     <message>
         <source>MasterLayout.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Platzhalterelemente aus dem Folienmaster einsetzen.</translation>
     </message>
     <message>
         <source>ReadingView.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Leseansicht</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Neues Fenster öffnen, das eine Ansicht des aktuellen Dokuments enthält.</translation>
     </message>
     <message>
         <source>SlideMasterClose.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienmasteransicht schließen und zum Bearbeiten der Präsentation zurückkehren.</translation>
     </message>
     <message>
         <source>NotesPageView.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeigen, wie Ihre Präsentation im Ausdruck mit Notizen aussieht.
+
+Pro Seite wird eine Folie mit ihren Sprechernotizen angezeigt, die Sie in dieser Ansicht bearbeiten können.</translation>
     </message>
     <message>
         <source>TextMargin.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zellenbegrenzungen</translation>
     </message>
     <message>
         <source>AddAssistant.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Assistent dem markierten Mitglied hinzufügen.</translation>
     </message>
     <message>
         <source>DetailedSettings_WPP_TextTools.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen der Textformatierung ändern.</translation>
     </message>
     <message>
         <source>ThemeColors.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbschema der Präsentation ändern.</translation>
     </message>
     <message>
         <source>SlideDesign.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Entwurfsvorlagen</translation>
     </message>
     <message>
         <source>IncreaseFontSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftgrad vergrößern</translation>
     </message>
     <message>
         <source>DecreaseFontSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftgrad verkleinern</translation>
     </message>
     <message>
         <source>Thesaurus.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Thesaurus</translation>
     </message>
     <message>
         <source>LineBreak.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenumbruch</translation>
     </message>
     <message>
         <source>IncreaseSpace.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand zwischen Zeilen vergrößern.</translation>
     </message>
     <message>
         <source>DecreaseSpace.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand zwischen Zeilen verringern.</translation>
     </message>
     <message>
         <source>InvolvedTemplate.content</source>
-        <translation type="unfinished"></translation>
+        <translation>In aktueller Präsentation verwendete Vorlage anwenden.</translation>
     </message>
     <message>
         <source>InvolvedTemplate.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwendete Vorlage</translation>
     </message>
     <message>
         <source>GraphicLine.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafikumriss</translation>
     </message>
     <message>
         <source>Section.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Abschnitt</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>FormatAlignRight.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Text rechtsbündig ausrichten</translation>
     </message>
     <message>
         <source>RenameMaster.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Master umbenennen</translation>
     </message>
     <message>
         <source>PlayerCapture.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmpräsentation aufzeichnen</translation>
     </message>
     <message>
         <source>presentationTool.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Präsentationsfunktion</translation>
     </message>
     <message>
         <source>ActionSetting.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dem markierten Objekt eine Aktion hinzufügen, um festzulegen, was geschieht, wenn Sie darauf klicken oder mit dem Mauszeiger darauf zeigen.</translation>
     </message>
     <message>
         <source>SlideTransition.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienübergang</translation>
     </message>
     <message>
         <source>Flash.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash-Animation einfügen</translation>
     </message>
     <message>
         <source>DetailedSettings_WPP_TextTools.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>DataPlaceHolder.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Datum in die gedruckten Handzettel oder Notizen einschließen.</translation>
     </message>
     <message>
         <source>VideoPause.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Video pausieren</translation>
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenlayout beim Druck von Handzetteln, Notizenseiten und Gliederungen auf Hochformat setzen.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild in Text konvertieren</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld „Makros“ anzeigen und die Liste der Makros anzeigen, die Sie ausführen oder löschen können, oder einen Makro direkt erstellen.</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Drehen Sie den Text in Sprache. Sie genießen ein 2-Tage-Testversion von dieser Funktion.</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf den Pfeil klicken, um eine andere Textfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>PrintCollate.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckerwarteschlange</translation>
     </message>
     <message>
         <source>FullScreenPlay.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vollbildwiedergabe</translation>
     </message>
     <message>
         <source>InsertDateTime.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum und Uhrzeit</translation>
     </message>
     <message>
         <source>CustomShows.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine benutzerdefinierte Bildschirmpräsentation zeigt nur die ausgewählten Folien an.</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>ObjectSelect.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenster der Aufgabe „Auswahlbereich“ einblenden, um ein bestimmtes Objekt zu finden oder seine Reihenfolge und Sichtbarkeit einzurichten.</translation>
     </message>
     <message>
         <source>Bullets.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste mit Aufzählungszeichen erstellen.
+
+Klicken Sie auf den Pfeil, um andere Aufzählungszeichen auszuwählen.</translation>
     </message>
     <message>
         <source>Gallery.content</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Gallery bietet verschiedene Quellen von Bildern an, die Sie benutzen, sammeln, bearbeiten und verwalten können.
+
+Für die Onlinequellen der WPS Gallery ist eine Internetverbindung erforderlich.</translation>
     </message>
     <message>
         <source>Justify.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocksatz</translation>
     </message>
     <message>
         <source>RB_Font.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld „Schriftart“ anzeigen.</translation>
     </message>
     <message>
         <source>RehearseAllSlides.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Folien von Anfang an abspielen und die benötigte Zeit protokollieren, um sie dann in der automatischen Bildschirmpräsentation zu verwenden.</translation>
     </message>
     <message>
         <source>SpeakerNotes.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Der aktuellen Folie eine Notiz hinzufügen.
+
+Wenn Sie Notizen eingeben möchten, dabei aber die Bildschirmpräsentation nicht verlassen wollen, klicken Sie mit der rechten Maustaste auf den Bildschirm und wählen Sie „Vortragsnotizen“ im Bereich „Notizen“ der aktuellen Folie aus.</translation>
     </message>
     <message>
         <source>ObjectSelect.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahlbereich</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewähltes Bild oder alle Bilder im Dokument komprimieren, um die Dateigröße zu reduzieren.</translation>
     </message>
     <message>
         <source>InsertMedia.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Medien</translation>
     </message>
     <message>
         <source>DeleteMember.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Element löschen</translation>
     </message>
     <message>
         <source>InsertMedia.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Musik- Video-, Animations- oder Mediendateien in die Präsentation einfügen, um sie ansprechender zu gestalten.</translation>
     </message>
     <message>
         <source>DeleteMaster.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Master löschen</translation>
     </message>
     <message>
         <source>Ai Matting.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ai Matting</translation>
     </message>
     <message>
         <source>Numbering.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummerierung</translation>
     </message>
     <message>
         <source>StopAutoVersion.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatische Sicherung beenden</translation>
     </message>
     <message>
         <source>ColorScheme.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenster „Design- und Farbschemen“ der Folie anzeigen, um die Farbeffekte auf Titel, Aufzählungszeichen und Objekte der aktuellen Folie oder der gesamten Präsentation anzuwenden.</translation>
     </message>
     <message>
         <source>wpp2doc.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Präsentation in eine Datei im Word-Format konvertieren.</translation>
     </message>
     <message>
         <source>AudioAcrossPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenübergreifend wiedergeben</translation>
     </message>
     <message>
         <source>NewTitleMaster.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienmaster mit einem neuen Titelstil einfügen.</translation>
     </message>
     <message>
         <source>Media.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Film aus einem lokalen Ordner einfügen.</translation>
     </message>
     <message>
         <source>EquationEditor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Mathematische Gleichungen mit dem Formel-Editor einfügen.</translation>
     </message>
     <message>
         <source>ShapeEffects.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Formeffekte</translation>
     </message>
     <message>
         <source>Normal.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalansicht</translation>
     </message>
     <message>
         <source>SlideTransApplyToAll.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Für alle übernehmen</translation>
     </message>
     <message>
         <source>VideoPause.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Pause</translation>
     </message>
     <message>
         <source>TextFontColor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfarbe</translation>
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation type="unfinished"></translation>
+        <translation>In Word-Format konvertieren</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Effekte</translation>
     </message>
     <message>
         <source>TraditionalChinese.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument in traditionelles Chinesisch umwandeln.</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Listenebene erhöhen</translation>
     </message>
     <message>
         <source>Replace2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier klicken, um den Text oder die Schriftart im Dokument zu ersetzen.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>SlideNumber.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Foliennummer auf der aktuellen Folie oder der gesamten Präsentation übernehmen. Die Foliennummer zeigt die Position der Folie in der Präsentation an.</translation>
     </message>
     <message>
         <source>WpsAssistMagic.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Magisch</translation>
     </message>
     <message>
         <source>AudioPause.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio pausieren</translation>
     </message>
     <message>
         <source>InsertEduTools.title</source>
-        <translation type="unfinished"></translation>
+        <translation>InsertEduTools.title</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation type="unfinished"></translation>
+        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
     </message>
     <message>
         <source>SlidePreview.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschau</translation>
     </message>
     <message>
         <source>ShapeEffects.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf die markierte Form Schatteneffekt und 3D-Effekt anwenden.</translation>
     </message>
     <message>
         <source>InsertOrgChart.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigramm einfügen</translation>
     </message>
     <message>
         <source>TableCenter.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text zentrieren.</translation>
     </message>
     <message>
         <source>NewSlide.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Folie</translation>
     </message>
     <message>
         <source>Hyperlink.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink einfügen</translation>
     </message>
     <message>
         <source>PrinterName.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Drucker auswählen</translation>
     </message>
     <message>
         <source>AnimationPainter.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy the animation of selected object to other objects.
+
+Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>Distributed.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Absatz am linken und rechten Rand ausrichten, indem die Zwischenräume zwischen Zeichen gegebenenfalls erhöht werden.</translation>
     </message>
     <message>
         <source>ShadowButton.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dem markierten Text Schatteneffekte zuweisen.</translation>
     </message>
     <message>
         <source>Bullets2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie auf den Pfeil, um andere Aufzählungszeichen auszuwählen.</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenansicht</translation>
     </message>
     <message>
         <source>TableEraser.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen einer Tabelle im Dokument löschen.</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar entfernen.</translation>
     </message>
     <message>
         <source>statusbarFontMissing.title</source>
-        <translation type="unfinished"></translation>
+        <translation>In Dokumenten verwendete Schriftarten fehlen auf diesem Computer</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken, um die Präsentation so einzustellen, dass sie manuell oder für alle Folien automatisch erfolgt.</translation>
     </message>
     <message>
         <source>HideAudio.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio verbergen</translation>
     </message>
     <message>
         <source>ResetShape.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Form zurücksetzen</translation>
     </message>
     <message>
         <source>ResetSlide.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurücksetzen</translation>
     </message>
     <message>
         <source>SlideLayout.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenfenster „Folienlayout“ anzeigen, um verschiedene Layouts auf markierte Folien anzuwenden, einschließlich Textlayouts, Inhaltslayouts, Text-/Inhaltslayouts und andere Layouts.</translation>
     </message>
     <message>
         <source>SlideMaster.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienmasteransicht öffnen, um Design und Layout der Folienmaster anzuzeigen und zu ändern.</translation>
     </message>
     <message>
         <source>NewSlideMaster.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuen Folienmaster einfügen.</translation>
     </message>
     <message>
         <source>NotesPageView.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Notizenseitenansicht</translation>
     </message>
     <message>
         <source>BackgroundMusic.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundmusik einfügen</translation>
     </message>
     <message>
         <source>PrevClose.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>HideVideo.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Video verbergen</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckinhalt</translation>
     </message>
     <message>
         <source>SlideLibrary.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienbibliothek</translation>
     </message>
     <message>
         <source>NewSlide2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier klicken, um ein neues Duplikat auszuwählen.</translation>
     </message>
     <message>
         <source>TableFontEffects.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Texteffekte</translation>
     </message>
     <message>
         <source>SimplifiedChinese.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereinfacht</translation>
     </message>
     <message>
         <source>DynamicShape.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Formen einfügen</translation>
     </message>
     <message>
         <source>NoteViewVisible.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Foliennotizen ein-/ausblenden</translation>
     </message>
     <message>
         <source>SlideLayout.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienlayout</translation>
     </message>
     <message>
         <source>InsertOrgChart.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigramm in die aktuelle Folie einfügen.</translation>
     </message>
     <message>
         <source>NotesMaster.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Notizenmasteransicht</translation>
     </message>
     <message>
         <source>RehearseAllSlides.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles proben</translation>
     </message>
     <message>
         <source>PreComment.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorheriger Kommentar</translation>
     </message>
     <message>
         <source>NewComment.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar einfügen</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Weibo-Bild exportieren</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil ändern</translation>
     </message>
     <message>
         <source>SmartChoice.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieselbe Ebene von Mitgliedern, dieselbe Verzweigung von Mitgliedern, alle Assistenten oder alle Verbindungslinien markieren.</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächster Kommentar</translation>
     </message>
     <message>
         <source>Superscript2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf den Pfeil klicken, um Hochstellen oder Tiefstellen auszuwählen.</translation>
     </message>
     <message>
         <source>InsertSmartArt.content</source>
-        <translation type="unfinished"></translation>
+        <translation>WPSArt-Grafik zur visuellen Kommunikation von Informationen einfügen.
+
+WPSArt-Grafiken reichen von grafischen Listen und Prozessdiagrammen bis hin zu komplexeren Grafiken, wie z. B. Venn-Diagrammen oder Organigrammen.</translation>
     </message>
     <message>
         <source>VideoBegin.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Videoanfang</translation>
     </message>
     <message>
         <source>ShowHideGrid.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitternetzlinien</translation>
     </message>
     <message>
         <source>DistRowSevenly.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Höhe der markierten Zeilen gleichmäßig verteilen.</translation>
     </message>
     <message>
         <source>EditComment.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar bearbeiten</translation>
     </message>
     <message>
         <source>BodyContent.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textkörper</translation>
     </message>
     <message>
         <source>SlideTransSound.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Sound</translation>
     </message>
     <message>
         <source>TextDirection.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale oder vertikale Textausrichtung für markierten Ausschnitt, das gesamte Dokument oder das markierte Textfeld oder die markierte Tabelle einstellen.</translation>
     </message>
     <message>
         <source>SpeakerNotes.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vortragsnotizen</translation>
     </message>
     <message>
         <source>3DPresentation.title</source>
-        <translation type="unfinished"></translation>
+        <translation>3D-Präsentation</translation>
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenlayout beim Druck von Handzetteln, Notizenseiten und Gliederungen auf Querformat setzen.</translation>
     </message>
     <message>
         <source>Numbering2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nummerierung</translation>
     </message>
     <message>
         <source>Bullets.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufzählungen</translation>
     </message>
     <message>
         <source>InsertGeogebra.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometrie einfügen</translation>
     </message>
     <message>
         <source>SetUpShow.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiteneffekte vor dem Drucken in einer Vorschau anzeigen.</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmpräsentation starten</translation>
     </message>
     <message>
         <source>Rehearse.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Probe für Zeitabläufe</translation>
     </message>
     <message>
         <source>ThemeColors.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbschema</translation>
     </message>
     <message>
         <source>H5LinkManager.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Freigegebene Links verwalten</translation>
     </message>
     <message>
         <source>FullScreenPlay.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vollbildwiedergabe</translation>
     </message>
     <message>
         <source>onlineMedia.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Film aus einem lokalen Ordner oder dem Internet einfügen</translation>
     </message>
     <message>
         <source>WpPrintWhat_9.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Handzettel (neun Folien pro Seite)</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation type="unfinished"></translation>
+        <translation>ClipArt einfügen</translation>
     </message>
     <message>
         <source>SelectAll.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles markieren</translation>
     </message>
     <message>
         <source>WpsAssistOnlineTemplate.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen Sie eine einzigartige Präsentation mit Tausenden von originellen Vorlagen.</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Entwicklertools</translation>
     </message>
     <message>
         <source>DecreaseFontSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftgrad verkleinern.</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftfarbe</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Thai Distributed</translation>
     </message>
     <message>
         <source>VideoPlay.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Video wiedergeben</translation>
     </message>
     <message>
         <source>FormatAlignRight.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text am rechten Rand ausrichten.</translation>
     </message>
     <message>
         <source>TableOnekeyBeautify.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur ein paar Klicks und Ihr Inhalt ist formatiert und mit einem passenden Stil versehen.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text vertikal und horizontal in der Zelle zentrieren.</translation>
     </message>
     <message>
         <source>ReadingView.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisches Layout von Inhalten, einfaches Blättern der Seiten.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellen Sie die automatische oder manuelle Sicherung für das aktuelle Dokument. Die Datensicherung wird auf „File Safe“ gespeichert werden.</translation>
     </message>
     <message>
         <source>IncreaseFontSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftgrad vergrößern.</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund der Folie als Bild speichern.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Makros anzeigen</translation>
     </message>
     <message>
         <source>RewindVideo.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Stoppen zurückspulen.</translation>
     </message>
     <message>
         <source>CompressPictures.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder komprimieren</translation>
     </message>
     <message>
         <source>AudioPlay.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio wiedergeben</translation>
     </message>
     <message>
         <source>AlignBottom.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Unten ausrichten</translation>
     </message>
     <message>
         <source>PrintCopies.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl Exemplare</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstreichen</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text im Dokument suchen.
+
+Klicken Sie auf den Pfeil, um andere Optionen auszuwählen, beispielsweise „Gehe zu“.</translation>
     </message>
     <message>
         <source>SlideTransOnClick.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken, um Folie zu wechseln.</translation>
     </message>
     <message>
         <source>TableCenter.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zentrieren</translation>
     </message>
     <message>
         <source>AudioTrim.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio kürzen mit Anfang und Ende</translation>
     </message>
     <message>
         <source>GridGuides.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitternetz und Führungslinien</translation>
     </message>
     <message>
         <source>VideoTrim.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Video kürzen mit Anfang und Ende</translation>
     </message>
     <message>
         <source>SlideImage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienbild</translation>
     </message>
     <message>
         <source>RenameMaster.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Markierten Folienmaster umbenennen.</translation>
     </message>
     <message>
         <source>PrinterName.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Druckername</translation>
     </message>
     <message>
         <source>TableEraser.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabellenradierer</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalten auf der linken Seite einfügen</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Von PDF in Word konvertieren</translation>
     </message>
     <message>
         <source>LineSpacing.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand zwischen Textzeilen vergrößern.</translation>
     </message>
     <message>
         <source>GraphicFill2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie auf den Pfeil, um andere Fülleffekte auszuwählen.</translation>
     </message>
     <message>
         <source>DeleteMaster.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählten Folienmaster entfernen.</translation>
     </message>
     <message>
         <source>DistColumnSevenly.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Breite der markierten Spalten gleichmäßig verteilen.</translation>
     </message>
     <message>
         <source>SlideTransSound.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie einen Sound an, der während des Folienübergangs wiedergegeben werden soll.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF in Word</translation>
     </message>
     <message>
         <source>WppSharePlay2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier klicken, um eine gemeinsame Wiedergabe zu starten, oder Zugriffscode eingeben, um an einer gemeinsamen Wiedergabe teilzunehmen.</translation>
     </message>
     <message>
         <source>PageNumber.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenzahl einfügen</translation>
     </message>
     <message>
         <source>FormatAlignCenter.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zentrieren</translation>
     </message>
     <message>
         <source>TableOnekeyBeautify.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschönern mit einem Tastendruck</translation>
     </message>
     <message>
         <source>ShowHideMark.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Kommentare ein- oder ausblenden.</translation>
     </message>
     <message>
         <source>PreComment.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorheriger Kommentar.</translation>
     </message>
     <message>
         <source>SlideMaster.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Folienmaster</translation>
     </message>
     <message>
         <source>H5LinkManager.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie hier, um Links zu verwalten, löschen oder senden.</translation>
     </message>
     <message>
         <source>NewComment.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuen Kommentar erstellen.</translation>
     </message>
     <message>
         <source>MorePrintSettings.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Weitere Einstellung</translation>
     </message>
     <message>
         <source>ShapeLine2.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie auf den Pfeil, um detaillierte Einstellungen für die Konturlinie auszuwählen.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTool.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen der Tabellenformatierung ändern.</translation>
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatierung an einer Stelle kopieren und an einer anderen anwenden.
+
+Doppelklicken Sie auf diese Schaltfläche, um dieselbe Formatierung auf mehrere Stellen im Dokument zu übernehmen.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation type="unfinished"></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>SlideNumber.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Foliennummer einfügen</translation>
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Standarddrucker für den direkten Druck verwenden.</translation>
     </message>
     <message>
         <source>ShadowButton.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Textschatten</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Gleichung einfügen</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesen</translation>
     </message>
     <message>
         <source>InsertColumnsRight.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalten auf der rechten Seite einfügen</translation>
     </message>
     <message>
         <source>SetBackground.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund festlegen</translation>
     </message>
     <message>
         <source>Replace.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textinhalt im Dokument ersetzen.</translation>
     </message>
     <message>
         <source>SlideSorter.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Foliensortierung Ansicht</translation>
     </message>
     <message>
         <source>InsertTable.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelle einfügen</translation>
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation type="unfinished"></translation>
+        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
     </message>
     <message>
         <source>NewDash.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Dash</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe zurücksetzen</translation>
     </message>
     <message>
         <source>sp_Macros.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld „Makros“ anzeigen. Die Liste mit Makros anzeigen, in der Sie ein Makro ausführen, erstellen oder löschen können.</translation>
     </message>
     <message>
         <source>InsertEduTools.content</source>
-        <translation type="unfinished"></translation>
+        <translation>InsertEduTools.content</translation>
     </message>
     <message>
         <source>AudioFadeOut.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausblenden</translation>
     </message>
     <message>
         <source>ChangeTextDir.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausrichtung des Texts auf horizontal oder vertikal ändern.</translation>
     </message>
     <message>
         <source>TextFontColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfarbe einrichten.
+
+Klicken Sie auf den Pfeil, um eine andere Textfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>IncreaseSpace.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstand vergrößern</translation>
     </message>
     <message>
         <source>WebPreview.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Link erstellen und freigeben</translation>
     </message>
     <message>
         <source>PrevNextPage.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Nächste Seite</translation>
     </message>
     <message>
         <source>PDFToPPT.title</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF nach PPT</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation type="unfinished"></translation>
+        <translation>SendFileTip.title</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation type="unfinished"></translation>
+        <translation>The file will be automatically saved for you when it is turned on.</translation>
     </message>
     <message>
         <source>Distributed.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Verteilt</translation>
     </message>
     <message>
         <source>InsertRowsBelow.title</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilen unterhalb einfügen</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Text so hervorheben, als wäre er mit einem Markerstift markiert worden.
+
+Auf den Pfeil klicken, um eine andere Hervorhebungsfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>TableFontEffects.content</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwandeln Sie Ihr Werk in ein Kunstwerk. Fügen Sie Ihrem Text einen Grafikeffekt hinzu, beispielsweise einen Schatten, einen Leuchteffekt oder eine Spiegelung.</translation>
     </message>
 </context>
 </TS>
