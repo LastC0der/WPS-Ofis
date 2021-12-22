@@ -1,3751 +1,3841 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="pl_PL">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>InsertIndexTables.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Spis treści i dodanie do dokumentu spisu treści.
+
+Ustaw poziom spisu treści dla zaznaczonego akapitu i dodaj spis treści.</translation>
     </message>
     <message>
         <source>Macro2.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie listy makr, za pomocą której można uruchomić, utworzyć lub usunąć makro.</translation>
     </message>
     <message>
         <source>AlignTopJustified.title</source>
-        <translation></translation>
+        <translation>Wyjustuj do górnej</translation>
     </message>
     <message>
         <source>OpenDataSource2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby otworzyć lub zamknąć pliki źródeł danych.</translation>
     </message>
     <message>
         <source>RB_Style.title</source>
-        <translation></translation>
+        <translation>Style i formatowanie</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia układu strony</translation>
     </message>
     <message>
         <source>InsertAutoText.title</source>
-        <translation></translation>
+        <translation>Autotekst</translation>
     </message>
     <message>
         <source>ShowLevelOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie poziomów do pokazania w konspekcie.
+
+Widoczny będzie wybrany poziom i wszystkie poziomy wyższe od niego.</translation>
     </message>
     <message>
         <source>Translate Image.content</source>
-        <translation></translation>
+        <translation>Szybko przetłumacz tekst z obrazu (obsługiwane jest tylko tłumaczenie z chińskiego na angielski)</translation>
     </message>
     <message>
         <source>OfficialVFont.content</source>
-        <translation></translation>
+        <translation>Set vertical font size.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTools.content</source>
-        <translation></translation>
+        <translation>Zawartość DetailedSettings Table Tools</translation>
     </message>
     <message>
         <source>DropCap.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie dużej wielkiej litery na początku akapitu.</translation>
     </message>
     <message>
         <source>ShapeSize.title</source>
-        <translation></translation>
+        <translation>Rozmiar kształtu</translation>
     </message>
     <message>
         <source>AutoAdjustRightIndent.title</source>
-        <translation></translation>
+        <translation>Dopasuj automatycznie prawe wcięcie do siatki</translation>
     </message>
     <message>
         <source>GrowFont.title</source>
-        <translation></translation>
+        <translation>Zwiększ czcionkę</translation>
     </message>
     <message>
         <source>PreviousHeader.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do poprzedniej sekcji nagłówka lub stopki na podstawie bieżącej pozycji kursora.</translation>
     </message>
     <message>
         <source>AlignTopCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyśrodkowanie tekstu i wyrównanie go do góry komórki.</translation>
     </message>
     <message>
         <source>FirstPageIsDifferent.content</source>
-        <translation></translation>
+        <translation>Umożliwia określenie unikatowego nagłówka i stopki dla pierwszej strony dokumentu.</translation>
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation></translation>
+        <translation>Organizuj pliki szybko i łatwo.</translation>
     </message>
     <message>
         <source>ProofreadOfficial.title</source>
-        <translation></translation>
+        <translation>ProofreadOfficial</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
-        <translation></translation>
+        <translation>Malarz formatów</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation></translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <source>RelocateUpOnOutlining.title</source>
-        <translation></translation>
+        <translation>Przenieś w górę</translation>
     </message>
     <message>
         <source>QuickParts.title</source>
-        <translation></translation>
+        <translation>Szybkie części</translation>
     </message>
     <message>
         <source>MergeToPrinter.title</source>
-        <translation></translation>
+        <translation>Scal na drukarkę</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation></translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation></translation>
+        <translation>Szybkie drukowanie</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.title</source>
-        <translation></translation>
+        <translation>Zmień kolor</translation>
     </message>
     <message>
         <source>InsertDateTime.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Data i godzina w celu wstawienia bieżącej daty lub godziny w bieżącym dokumencie.</translation>
     </message>
     <message>
         <source>OfficialSingleAgency.title</source>
-        <translation></translation>
+        <translation>One Unit</translation>
     </message>
     <message>
         <source>SplitWindow.content</source>
-        <translation></translation>
+        <translation>Umożliwia podzielenie bieżącego okna na dwie części, tak aby można było wyświetlić różne części dokumentu jednocześnie.</translation>
     </message>
     <message>
         <source>InsertChart.title</source>
-        <translation></translation>
+        <translation>Wstaw wykres</translation>
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation></translation>
+        <translation>Umożliwia odrzucenie wszystkich zmian formatowania wprowadzonych na tym obrazie.</translation>
     </message>
     <message>
         <source>m_CharacterScaling.title</source>
-        <translation></translation>
+        <translation>Skalowanie znaku</translation>
     </message>
     <message>
         <source>InsertField.title</source>
-        <translation></translation>
+        <translation>Wstaw pole</translation>
     </message>
     <message>
         <source>PromoteOnOutlining.title</source>
-        <translation></translation>
+        <translation>Podwyższ poziom</translation>
     </message>
     <message>
         <source>TableShadingColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne kolory cieniowania.</translation>
     </message>
     <message>
         <source>InsertTheEndnote.title</source>
-        <translation></translation>
+        <translation>Wstaw przypis końcowy</translation>
     </message>
     <message>
         <source>MorePrintSettings.content</source>
-        <translation></translation>
+        <translation>Szczegółowe informacje dotyczące ustawień wydruku, w tym wybierania drukarki, drukowania stron, druku dwustronnego, powiększania i innych.</translation>
     </message>
     <message>
         <source>DrawTable.title</source>
-        <translation></translation>
+        <translation>Rysuj tabelę</translation>
     </message>
     <message>
         <source>Superscript.title</source>
-        <translation></translation>
+        <translation>Indeks górny</translation>
     </message>
     <message>
         <source>FirstRecord.title</source>
-        <translation></translation>
+        <translation>Pierwszy rekord</translation>
     </message>
     <message>
         <source>Replace.title</source>
-        <translation></translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>AcceptChangeOnTB.content</source>
-        <translation></translation>
+        <translation>Umożliwia zaakceptowanie bieżącej zmiany w dokumencie.</translation>
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie wybranego pliku do dokumentu.</translation>
     </message>
     <message>
         <source>AlignBottomCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyśrodkowanie tekstu i wyrównanie go do dołu komórki.</translation>
     </message>
     <message>
         <source>RB_Paragraph.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Akapit.</translation>
     </message>
     <message>
         <source>StopRecordMacro.title</source>
-        <translation></translation>
+        <translation>Zatrzymaj rejestrowanie</translation>
     </message>
     <message>
         <source>AddSection2.title</source>
-        <translation></translation>
+        <translation>Podziel sekcję</translation>
     </message>
     <message>
         <source>ShowHideEditMark.title</source>
-        <translation></translation>
+        <translation>Pokaż/Ukryj znaczniki edycji</translation>
     </message>
     <message>
         <source>RecentTableShadingColor.title</source>
-        <translation></translation>
+        <translation>Kolor cieniowania</translation>
     </message>
     <message>
         <source>RecentTableShadingColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru tła dla zaznaczonego tekstu lub akapitu.
+
+Kliknij strzałkę, aby wybrać inne kolory tła.</translation>
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation></translation>
+        <translation>Indeks dolny</translation>
     </message>
     <message>
         <source>NextChange.title</source>
-        <translation></translation>
+        <translation>Następna zmiana</translation>
     </message>
     <message>
         <source>IncreaseStep.title</source>
-        <translation></translation>
+        <translation>Zwiększ interlinię</translation>
     </message>
     <message>
         <source>PrintLayoutView.title</source>
-        <translation></translation>
+        <translation>Układ wydruku</translation>
     </message>
     <message>
         <source>weibotool.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwertowanie dokumentu do obrazu dla udostępniania w Weibo.</translation>
     </message>
     <message>
         <source>HeaderLinkToPrevious.content</source>
-        <translation></translation>
+        <translation>Umożliwia połączenie bieżącego nagłówka do poprzedniej sekcji.</translation>
     </message>
     <message>
         <source>FooterLinkToPrevious.content</source>
-        <translation></translation>
+        <translation>Umożliwia połączenie bieżącej stopki do poprzedniej sekcji.</translation>
     </message>
     <message>
         <source>LastRecord.title</source>
-        <translation></translation>
+        <translation>Ostatni rekord</translation>
     </message>
     <message>
         <source>NextRecord.title</source>
-        <translation></translation>
+        <translation>Następny rekord</translation>
     </message>
     <message>
         <source>sp_Paste.content</source>
-        <translation></translation>
+        <translation>Umożliwia wklejenie zawartości schowka.</translation>
     </message>
     <message>
         <source>PrintShowViewRuler.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie lub ukrycie linijek służących do mierzenia i wyrównywania obiektów w dokumencie.</translation>
     </message>
     <message>
         <source>PageSetup.title</source>
-        <translation></translation>
+        <translation>Ustawienia strony</translation>
     </message>
     <message>
         <source>ExpandOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozwinięcie wybranego elementu.</translation>
     </message>
     <message>
         <source>NavigationPane.title</source>
-        <translation></translation>
+        <translation>Okienko nawigacji</translation>
     </message>
     <message>
         <source>TaskPane.title</source>
-        <translation></translation>
+        <translation>Okno zadań</translation>
     </message>
     <message>
         <source>PreviousRecord.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie podglądu poprzedniego rekordu na liście adresatów.</translation>
     </message>
     <message>
         <source>Proofread.title</source>
-        <translation></translation>
+        <translation>Korekta</translation>
     </message>
     <message>
         <source>m_Rotate.content</source>
-        <translation></translation>
+        <translation>Umożliwia obrócenie lub przerzucenie zaznaczonego obiektu.</translation>
     </message>
     <message>
         <source>FirstRecord.content</source>
-        <translation></translation>
+        <translation>Umożliwia podgląd pierwszego rekordu listy adresatów.</translation>
     </message>
     <message>
         <source>LineSpacingShow.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę odstępów między wierszami tekstu.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania tekstu WordArt.</translation>
     </message>
     <message>
         <source>CollapseOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia zwinięcie wybranego elementu.</translation>
     </message>
     <message>
         <source>WordArtAlignment.content</source>
-        <translation></translation>
+        <translation>Umożliwia określenie sposobu wyrównywania poszczególnych wierszy w wielowierszowym tekście WordArt.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation></translation>
+        <translation>Umożliwia podkreślenie zaznaczonego tekstu.
+
+Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>sp_Paste2.title</source>
-        <translation></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <source>InsertObject2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wstawić zawartość pliku do dokumentu.</translation>
     </message>
     <message>
         <source>CTB_DesignMode.title</source>
-        <translation></translation>
+        <translation>Tryb projektowania</translation>
     </message>
     <message>
         <source>RejectRevisionOnTB.title</source>
-        <translation></translation>
+        <translation>Odrzuć zmianę</translation>
     </message>
     <message>
         <source>DirectoryLevel.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie poziomu spisu treści dla zaznaczonego akapitu.</translation>
     </message>
     <message>
         <source>OfficialUnionAgencies.title</source>
-        <translation></translation>
+        <translation>Five Units</translation>
     </message>
     <message>
         <source>InsertSmartArt.title</source>
-        <translation></translation>
+        <translation>Wstaw grafikę WPSArt</translation>
     </message>
     <message>
         <source>WebPreview.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie łącza i kodu QR oraz udostępnienie go do Wechat, QQ, Weibo, Qzone.</translation>
     </message>
     <message>
         <source>ContentControlPicture.title</source>
-        <translation></translation>
+        <translation>Formant zawartości w formie obrazu</translation>
     </message>
     <message>
         <source>ArrangeAll.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozmieszczenie wszystkich otwartych okien dokumentów w układzie obok siebie w tym samym oknie programu.</translation>
     </message>
     <message>
         <source>VerbSideBySide.content</source>
-        <translation></translation>
+        <translation>Umożliwia zresetowanie położenia, jakie zajmują w oknie dokumenty porównywane obok siebie, tak aby na każdy z tych dokumentów przypadała taka sama część ekranu.
+
+Aby włączyć tę funkcję, włącz opcję Wyświetl obok siebie.</translation>
     </message>
     <message>
         <source>PromoteToHighestLevelOnParagraph.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeniesienie tego elementu na najwyższy poziom spisu treści.</translation>
     </message>
     <message>
         <source>TemplateAddIns.title</source>
-        <translation></translation>
+        <translation>Dodatki</translation>
     </message>
     <message>
         <source>LocateToSection.title</source>
-        <translation></translation>
+        <translation>Zlokalizuj do sekcji</translation>
     </message>
     <message>
         <source>AdjustTableProperties.content</source>
-        <translation></translation>
+        <translation>Umożliwia otwarcie okna dialogowego Właściwości tabeli.</translation>
     </message>
     <message>
         <source>NewOfficialDocument.content</source>
-        <translation></translation>
+        <translation>Official Document content</translation>
     </message>
     <message>
         <source>OutLine.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie dokumentu jako konspektu.</translation>
     </message>
     <message>
         <source>ReviewTip2.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>m_LineSpacing.title</source>
-        <translation></translation>
+        <translation>Interlinia</translation>
     </message>
     <message>
         <source>FormatProof.title</source>
-        <translation></translation>
+        <translation>Format Proofread</translation>
     </message>
     <message>
         <source>RecentFontColor2.title</source>
-        <translation></translation>
+        <translation>Kolor tekstu</translation>
     </message>
     <message>
         <source>m_PageSize.title</source>
-        <translation></translation>
+        <translation>Rozmiar strony</translation>
     </message>
     <message>
         <source>TextBox.title</source>
-        <translation></translation>
+        <translation>Rysuj poziome pole tekstowe</translation>
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation></translation>
+        <translation>Zresetuj rozmiar</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
-        <translation></translation>
+        <translation>Wstaw obiekt z pliku</translation>
     </message>
     <message>
         <source>UpdateIndex.title</source>
-        <translation></translation>
+        <translation>Zaktualizuj indeks</translation>
     </message>
     <message>
         <source>FormatAlignLeft.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>Ruler.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie lub ukrycie linijek służących do mierzenia i wyrównywania obiektów w dokumencie.</translation>
     </message>
     <message>
         <source>ControlsGalleryClassic.title</source>
-        <translation></translation>
+        <translation>Starsze narzędzia</translation>
     </message>
     <message>
         <source>InsertCells.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Wstawianie komórek.</translation>
     </message>
     <message>
         <source>ViewRuler.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie linijek służących do mierzenia i wyrównywania obiektów w dokumencie.</translation>
     </message>
     <message>
         <source>LineColor.title</source>
-        <translation></translation>
+        <translation>Kontur kształtu</translation>
     </message>
     <message>
         <source>NextTextBox.title</source>
-        <translation></translation>
+        <translation>Następne pole tekstowe</translation>
     </message>
     <message>
         <source>DetailedSettings_wps_PictureTools.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień rozmiaru obiektu i formatowania obrazu.</translation>
     </message>
     <message>
         <source>Shapes.title</source>
-        <translation></translation>
+        <translation>Kształty</translation>
     </message>
     <message>
         <source>ParagraphDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia akapitu</translation>
     </message>
     <message>
         <source>InsertSectionAfter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie nowej sekcji po bieżącej sekcji.</translation>
     </message>
     <message>
         <source>PageNumberFormat.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie formatów numeracji dla numerów stron w bieżącym dokumencie.</translation>
     </message>
     <message>
         <source>PromoteToHighestLevelOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeniesienie tego elementu na najwyższy poziom konspektu.</translation>
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation></translation>
+        <translation>Poprzedni komentarz</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
-        <translation></translation>
+        <translation>Tryb pełnoekranowy</translation>
     </message>
     <message>
         <source>ContentControlDropDownList.title</source>
-        <translation></translation>
+        <translation>Formant zawartości w formie listy rozwijanej</translation>
     </message>
     <message>
         <source>HeaderFooterOptions.title</source>
-        <translation></translation>
+        <translation>Opcje nagłówków i stopek</translation>
     </message>
     <message>
         <source>EnterParagraphAdjustment.title</source>
-        <translation></translation>
+        <translation>Układ akapitu</translation>
     </message>
     <message>
         <source>InsertEnvelopes.title</source>
-        <translation></translation>
+        <translation>Utwórz koperty</translation>
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Ustawienia strony.</translation>
     </message>
     <message>
         <source>RB_Font.title</source>
-        <translation></translation>
+        <translation>Czcionka</translation>
     </message>
     <message>
         <source>CharacterShading.content</source>
-        <translation></translation>
+        <translation>Umożliwia cieniowanie zaznaczonego tekstu szarym kolorem.</translation>
     </message>
     <message>
         <source>SplitWindow.title</source>
-        <translation></translation>
+        <translation>Podziel okno</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation></translation>
+        <translation>Otwórz zakładkę Narzędzia deweloperów, aby wstawić Przycisk opcji, Pole wyboru i inne.</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie rysunku ClipArt z okna zadań i wstawienie go do dokumentu.</translation>
     </message>
     <message>
         <source>RecentFontColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>RejectRevisionOnTB2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby odrzucić wszystkie zmiany w dokumencie.</translation>
     </message>
     <message>
         <source>XmlSchema.content</source>
-        <translation></translation>
+        <translation>Umożliwia zarządzanie schematem XML dołączonym do tego dokumentu lub dodanie nowego schematu.</translation>
     </message>
     <message>
         <source>InsertChart.content</source>
-        <translation></translation>
+        <translation>Umożliwia edytowanie wstawionego wykresu w programie WPS Spreadsheets.
+
+Po zamknieciu programu WPS Spreadsheets, wykres w dokumencie można nadal normalnie wyświetlać.</translation>
     </message>
     <message>
         <source>m_Style2.title</source>
-        <translation></translation>
+        <translation>Nowy styl</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation></translation>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>KingsoftEquationEditor.title</source>
-        <translation></translation>
+        <translation>Wstaw równanie</translation>
     </message>
     <message>
         <source>InsertBlankPage.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie nowej pustej strony w miejscu położenia kursora.</translation>
     </message>
     <message>
         <source>PaperFormat.title</source>
-        <translation></translation>
+        <translation>Format papieru</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.content</source>
-        <translation></translation>
+        <translation>Wybierz z wielu różnych schematów kolorów</translation>
     </message>
     <message>
         <source>OfficialZoomOnePage.title</source>
-        <translation></translation>
+        <translation>Jedna strona</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
-        <translation></translation>
+        <translation>Konwertuj dokumenty na pliki Excel</translation>
     </message>
     <message>
         <source>FormatAlignDistributed.title</source>
-        <translation></translation>
+        <translation>Rozłożony</translation>
     </message>
     <message>
         <source>ChartGallery_pro2.content</source>
-        <translation></translation>
+        <translation>ChartGallery_pro2 content</translation>
     </message>
     <message>
         <source>Macro.title</source>
-        <translation></translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message>
         <source>OnePage.title</source>
-        <translation></translation>
+        <translation>Jedna strona</translation>
     </message>
     <message>
         <source>ReviewPaneTip.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie listy wszystkich zmian w dokumencie.</translation>
     </message>
     <message>
         <source>ContentControlComboBox.title</source>
-        <translation></translation>
+        <translation>Formant zawartości w formie pola kombi</translation>
     </message>
     <message>
         <source>sp_Paste.title</source>
-        <translation></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <source>InsertIndexTables.title</source>
-        <translation></translation>
+        <translation>Wstaw spis treści</translation>
     </message>
     <message>
         <source>ShowHideFormattingMarks.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie wszystkich symboli formatowania w dokumencie.</translation>
     </message>
     <message>
         <source>ContentControlsGroupMenu.content</source>
-        <translation></translation>
+        <translation>Umożliwia grupowanie lub rozgrupowanie zaznaczonego zakresu tekstu.
+
+Zgrupowanego zakresu tekstu nie można edytować, za wyjątkiem regionów zawierających formanty edytowalnej zawartości.</translation>
     </message>
     <message>
         <source>HighlightColor2.title</source>
-        <translation></translation>
+        <translation>Kolor wyróżnienia tekstu</translation>
     </message>
     <message>
         <source>ViewMergedData.title</source>
-        <translation></translation>
+        <translation>Wyświetl scalone dane</translation>
     </message>
     <message>
         <source>WordArtAlignment.title</source>
-        <translation></translation>
+        <translation>Wyrównanie WordArt</translation>
     </message>
     <message>
         <source>PaperCheck.title</source>
-        <translation></translation>
+        <translation>PaperCheck.title</translation>
     </message>
     <message>
         <source>ComposeKit.title</source>
-        <translation></translation>
+        <translation>Compose Kit</translation>
     </message>
     <message>
         <source>DeleteSection.content</source>
-        <translation></translation>
+        <translation>Umożliwia usunięcie zaznaczonej sekcji.</translation>
     </message>
     <message>
         <source>DisableLineHeightGrid.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie zawartości tekstowej zgodnie z siatką.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wstawić obraz z folderu lokalnego lub ze skanera.</translation>
     </message>
     <message>
         <source>m_Group.title</source>
-        <translation></translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>RestrictEditing.content</source>
-        <translation></translation>
+        <translation>Umożliwia ograniczenie dostępnych sposobów edytowania lub formatowania określonych części dokumentu przez innych użytkowników.
+
+Można zapobiec wprowadzaniu zmian formatowania, wymusić śledzenie wszystkich zmian albo włączyć funkcję dodawania komentarzy.</translation>
     </message>
     <message>
         <source>Macro2.title</source>
-        <translation></translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message>
         <source>InsertAutoText.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie Autotekstu w nagłówku lub stopce, aby łatwiej wyświetlić i zlokalizować pozwiązane artykuły.</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień czcionki, akapitu oraz styli i formatowania.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation></translation>
+        <translation>Kopia zapasowa pliku</translation>
     </message>
     <message>
         <source>RbTableOutsideBorder2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne obramowania.</translation>
     </message>
     <message>
         <source>OfficialDocumentBarcode.content</source>
-        <translation></translation>
+        <translation>Generate an official document QR code for the document and insert.</translation>
     </message>
     <message>
         <source>LastSection.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do ostatniej sekcji dokumentu.</translation>
     </message>
     <message>
         <source>m_Align.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie zaznaczonych obiektów.</translation>
     </message>
     <message>
         <source>DocBarcode_pro.title</source>
-        <translation></translation>
+        <translation>Document Barcode</translation>
     </message>
     <message>
         <source>Separator.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie separatora przypisów dolnych/przypisów końcowych u dołu dokumentu z wstawionymi przypisami dolnymi/przypisami końcowymi.</translation>
     </message>
     <message>
         <source>OutLineLevelComboOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie poziomu konspektu dla zaznaczonego akapitu.</translation>
     </message>
     <message>
         <source>OutLine.title</source>
-        <translation></translation>
+        <translation>Widok konspektu</translation>
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby uzyskać więcej opcji takich jak wklejanie tylko tekstu niesformatowanego.</translation>
     </message>
     <message>
         <source>FooterDistance.title</source>
-        <translation></translation>
+        <translation>Odległość stopki od dołu</translation>
     </message>
     <message>
         <source>PaperSize.title</source>
-        <translation></translation>
+        <translation>Rozmiar papieru</translation>
     </message>
     <message>
         <source>RelocateDownOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeniesienie zaznaczonego elementu w dół w obrębie konspektu.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnego komentarza w dokumencie.</translation>
     </message>
     <message>
         <source>ControlsGalleryClassic.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie formantu ActiveX lub formantu formularza.</translation>
     </message>
     <message>
         <source>InsertObject2.title</source>
-        <translation></translation>
+        <translation>Wstaw obiekt</translation>
     </message>
     <message>
         <source>PhoneticGuide.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie znaków fonetycznych w celu objaśnienia wymowy.
+
+Kliknij strzałkę, aby wybrać opcje Zmieniania wielkości liter, Załączania znaków i Obramowania znaku.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
-        <translation></translation>
+        <translation>Wypełnij obraz</translation>
     </message>
     <message>
         <source>Signature.content</source>
-        <translation></translation>
+        <translation>Add a handwritten signature or an image, or enter a signature.</translation>
     </message>
     <message>
         <source>InsertIndexTables4ZhCnPage.title</source>
-        <translation></translation>
+        <translation>Wstaw stronę spisu treści</translation>
     </message>
     <message>
         <source>OfficialZoomTwoPages.title</source>
-        <translation></translation>
+        <translation>Multi Page</translation>
     </message>
     <message>
         <source>PrintOrder.title</source>
-        <translation></translation>
+        <translation>Kolejka wydruku</translation>
     </message>
     <message>
         <source>weibotool.title</source>
-        <translation></translation>
+        <translation>Narzędzie Weibo</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation></translation>
+        <translation>Kolor czcionki</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation></translation>
+        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
     </message>
     <message>
         <source>TextBox2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wstawić poziome, pionowe lub wielowierszowe pola tekstowe.</translation>
     </message>
     <message>
         <source>Markup.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie znaczników adiustacji w dokumencie.</translation>
     </message>
     <message>
         <source>m_Wrapping.title</source>
-        <translation></translation>
+        <translation>Zawijaj tekst</translation>
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation></translation>
+        <translation>ChartGallery_pro.content</translation>
     </message>
     <message>
         <source>IndexMarkEntry.content</source>
-        <translation></translation>
+        <translation>Dodaj zaznaczony tekst do indeksu</translation>
     </message>
     <message>
         <source>TraditionalChinese.title</source>
-        <translation></translation>
+        <translation>Tradycyjny</translation>
     </message>
     <message>
         <source>ConvertTabletoText.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwertowanie tabeli do akapitu tekstu za pomocą przecinków, spacji lub innych znaków użytych jako separatory.</translation>
     </message>
     <message>
         <source>FieldFormula.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie formuły do komórki w celu wykonania prostego obliczenia, takiego jak SUMA, ŚREDNIA lub MAX.</translation>
     </message>
     <message>
         <source>InsertSectionBefore.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie nowej sekcji przed bieżącą sekcją.</translation>
     </message>
     <message>
         <source>m_Breaks.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodawanie podziałów stron, sekcji lub kolumn do dokumentu.</translation>
     </message>
     <message>
         <source>OnlineCooperation.content</source>
-        <translation></translation>
+        <translation>Otwórz dokument do wspólnej edycji.</translation>
     </message>
     <message>
         <source>MergeToEmail.content</source>
-        <translation></translation>
+        <translation>Umożliwia wysłanie scalonej zawartości za pośrednictwem poczty elektronicznej.</translation>
     </message>
     <message>
         <source>HighlightColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inny kolor wyróżnienia.</translation>
     </message>
     <message>
         <source>m_Margins.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie rozmiarów marginesów w całym dokumencie lub bieżącej sekcji.</translation>
     </message>
     <message>
         <source>CustomBold2.title</source>
-        <translation></translation>
+        <translation>Bold2</translation>
     </message>
     <message>
         <source>TableBorderColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru obramowania dla zaznaczonej tabeli.
+
+Kliknij strzałkę, aby wybrać inne kolory obramowania.</translation>
     </message>
     <message>
         <source>OpenDataSource2.title</source>
-        <translation></translation>
+        <translation>Otwórz źródło danych</translation>
     </message>
     <message>
         <source>InteractiveChart.content</source>
-        <translation></translation>
+        <translation>Twórz efektowne i dynamiczne wykresy interaktywne zwiększające atrakcyjność prezentacji.</translation>
     </message>
     <message>
         <source>PDFToPPT.content</source>
-        <translation></translation>
+        <translation>Konwertuj dokumenty na pliki PPT</translation>
     </message>
     <message>
         <source>WebLayoutView.title</source>
-        <translation></translation>
+        <translation>Układ sieci Web</translation>
     </message>
     <message>
         <source>BreakForwardLink.title</source>
-        <translation></translation>
+        <translation>Przerwij łącze w przód</translation>
     </message>
     <message>
         <source>LTRTextDirection.title</source>
-        <translation></translation>
+        <translation>Kierunek tekstu od lewej do prawej</translation>
     </message>
     <message>
         <source>RTLTextDirection.title</source>
-        <translation></translation>
+        <translation>Kierunek tekstu od prawej do lewej</translation>
     </message>
     <message>
         <source>ContentControlDropDownList.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu lista rozwijana.</translation>
     </message>
     <message>
         <source>NextTextBox.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnego pola tekstowego połączonego z bieżącym.</translation>
     </message>
     <message>
         <source>NextChange.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnej poprawki w dokumencie i jej zaakceptowanie lub odrzucenie.</translation>
     </message>
     <message>
         <source>TextDirection.title</source>
-        <translation></translation>
+        <translation>Kierunek tekstu</translation>
     </message>
     <message>
         <source>DetailedSettings_Section.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień ustawienia strony oraz nagłówka i stopki.</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia narzędzi do rysowania</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
-        <translation></translation>
+        <translation>Zablokuj proporcje</translation>
     </message>
     <message>
         <source>AlignTopCenter.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do środkowej górnej</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation></translation>
+        <translation>The modified document is automatically saved for you to avoid loss of document content.</translation>
     </message>
     <message>
         <source>VerbSideBySide.title</source>
-        <translation></translation>
+        <translation>Resetuj położenie okna</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation></translation>
+        <translation>SendFileTip.content</translation>
     </message>
     <message>
         <source>InsertHyperlink.title</source>
-        <translation></translation>
+        <translation>Wstaw hiperłącze</translation>
     </message>
     <message>
         <source>WordTools.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie inteligentnego formatowania do dokumentu.
+
+Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wcięcie pierwszego wiersza akapitu co 2 znaki&quot; i inne określone opcje do dokumentu.</translation>
     </message>
     <message>
         <source>TrackChanges2.title</source>
-        <translation></translation>
+        <translation>Śledź zmiany</translation>
     </message>
     <message>
         <source>RejectRevisionOnTB2.title</source>
-        <translation></translation>
+        <translation>Odrzuć zmianę</translation>
     </message>
     <message>
         <source>CmpSideBySide.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie dwóch dokumentów obok siebie, aby można było porównać ich zawartość.</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.content</source>
-        <translation></translation>
+        <translation>Zmień liczbę elementów</translation>
     </message>
     <message>
         <source>InsertRowAbove.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie nowego wiersza bezpośrednio powyżej zaznaczonego wiersza.</translation>
     </message>
     <message>
         <source>GrowFont.content</source>
-        <translation></translation>
+        <translation>Umożliwia zwiększenie rozmiaru czcionki.</translation>
     </message>
     <message>
         <source>ArtisticWordCharacterSpacing.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę odstępów między literami zaznaczonego tekstu WordArt.</translation>
     </message>
     <message>
         <source>Strikethought2.title</source>
-        <translation></translation>
+        <translation>Inne opcje</translation>
     </message>
     <message>
         <source>Strikethought2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby dodać przekreślenie lub znacznik wyróżnienia.</translation>
     </message>
     <message>
         <source>RecordMacro.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Zarejestruj makro i rozpoczęcie nagrywania makra.</translation>
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie w dokumencie komentarza dotyczącego zaznaczenia.</translation>
     </message>
     <message>
         <source>XmlSchema.title</source>
-        <translation></translation>
+        <translation>Schemat XML</translation>
     </message>
     <message>
         <source>FormatAlignLeft.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do lewej.</translation>
     </message>
     <message>
         <source>OfficialPDFCompress.title</source>
-        <translation></translation>
+        <translation>PDF Compress</translation>
     </message>
     <message>
         <source>InsertBlankPage2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wstawić poziomą lub pionową pustą stronę.</translation>
     </message>
     <message>
         <source>RestartPageNumber.content</source>
-        <translation></translation>
+        <translation>Umożliwia resetowanie numeru strony początkowej bieżącego dokumentu.</translation>
     </message>
     <message>
         <source>Separator.title</source>
-        <translation></translation>
+        <translation>Pokaż separator przypisów dolnych i końcowych</translation>
     </message>
     <message>
         <source>GotoRecord.title</source>
-        <translation></translation>
+        <translation>Przejdź do rekordu</translation>
     </message>
     <message>
         <source>StopRecordMacro.content</source>
-        <translation></translation>
+        <translation>Umożliwia zatrzymanie rejestrowania makra.</translation>
     </message>
     <message>
         <source>AutoAdjustRightIndent.content</source>
-        <translation></translation>
+        <translation>Umożliwia automatycznie dopasowanie prawego wcięcia dokumentu po zdefiniowaniu siatki dokumentu.
+
+Ta opcja jest dostępna po zdefiniowaniu siatki.</translation>
     </message>
     <message>
         <source>CrossReference.title</source>
-        <translation></translation>
+        <translation>Odsyłacz</translation>
     </message>
     <message>
         <source>sp_DeleteComment.title</source>
-        <translation></translation>
+        <translation>Usuń komentarz</translation>
     </message>
     <message>
         <source>PictureStyleTip.title</source>
-        <translation></translation>
+        <translation>Styl obrazu</translation>
     </message>
     <message>
         <source>RejectChangeOnTB2.title</source>
-        <translation></translation>
+        <translation>Odrzuć wybraną zmianę</translation>
     </message>
     <message>
         <source>OfficialExportOFD.content</source>
-        <translation></translation>
+        <translation>Save the document as an OFD.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.title</source>
-        <translation></translation>
+        <translation>Kontur obrazu</translation>
     </message>
     <message>
         <source>DeleteSection.title</source>
-        <translation></translation>
+        <translation>Usuń sekcję</translation>
     </message>
     <message>
         <source>CloseMail.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby ukryć kartę Korespondencja.</translation>
     </message>
     <message>
         <source>Table.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie lub narysowanie tabeli w dokumencie i konwertowanie tekstu na tabelę lub odwrotnie.</translation>
     </message>
     <message>
         <source>ShowGridlines.title</source>
-        <translation></translation>
+        <translation>Wyświetl linie siatki tabeli</translation>
     </message>
     <message>
         <source>MultiplePages.title</source>
-        <translation></translation>
+        <translation>Kilka stron</translation>
     </message>
     <message>
         <source>OnePage.content</source>
-        <translation></translation>
+        <translation>Umożliwia powiększenie/pomniejszenie dokumentu tak, aby w oknie mieściła się cała strona.</translation>
     </message>
     <message>
         <source>ShrinkFont.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmniejszenie rozmiaru czcionki.</translation>
     </message>
     <message>
         <source>LineColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru, szerokości i stylu linii dla konturu zaznaczonego kształtu.
+
+Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translation>
     </message>
     <message>
         <source>ShowFirstLineOnly.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie tylko pierwszego wiersza każdego elementu w konspekcie.</translation>
     </message>
     <message>
         <source>RB_Clipboard.title</source>
-        <translation></translation>
+        <translation>Schowek</translation>
     </message>
     <message>
         <source>m_Align.title</source>
-        <translation></translation>
+        <translation>Wyrównaj</translation>
     </message>
     <message>
         <source>OfficialView.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DrawTable.content</source>
-        <translation></translation>
+        <translation>Umożliwia rysowanie obramowań tabeli.</translation>
     </message>
     <message>
         <source>FirstSection.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do pierwszej sekcji dokumentu.</translation>
     </message>
     <message>
         <source>WordCount.content</source>
-        <translation></translation>
+        <translation>Umożliwia zliczanie liczby stron, wyrazów, znaków i akapitów w dokumencie.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru tekstu.
+
+Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia wypełnienie zaznaczonego kształtu pełnym kolorem, gradientem, obrazem lub teksturą.
+
+Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
-        <translation></translation>
+        <translation>Zrzut ekranu i OCR</translation>
     </message>
     <message>
         <source>ChangeCase.title</source>
-        <translation></translation>
+        <translation>Zmień wielkość liter</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość PageLayoutDetailedSettings</translation>
     </message>
     <message>
         <source>UpdateTocOnOutlining.title</source>
-        <translation></translation>
+        <translation>Aktualizuj spis treści</translation>
     </message>
     <message>
         <source>OfficialSingleRowEdition.title</source>
-        <translation></translation>
+        <translation>One-row Edition Info</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie rozmiaru, stopni obrotu i powiększenia dla zaznaczonego kształtu.</translation>
     </message>
     <message>
         <source>EmphasisMark.title</source>
-        <translation></translation>
+        <translation>Znacznik wyróżnienia</translation>
     </message>
     <message>
         <source>m_Style.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Nowy styl i utworzenie nowego stylu w oknie zadań Style i formatowanie.</translation>
     </message>
     <message>
         <source>COMAddIns.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodawanie lub usuwanie dostępnych dodatków COM.</translation>
     </message>
     <message>
         <source>ShowHideTextOctopus.title</source>
-        <translation></translation>
+        <translation>Pokaż/Ukryj układ akapitu</translation>
     </message>
     <message>
         <source>DetailedSettings_PageLayout.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation></translation>
+        <translation>Pełne tłumaczenie tekstu</translation>
     </message>
     <message>
         <source>FormatProof.content</source>
-        <translation></translation>
+        <translation>Quick, professional review and correction for official document formats.</translation>
     </message>
     <message>
         <source>InsertIndex.title</source>
-        <translation></translation>
+        <translation>Wstaw indeks</translation>
     </message>
     <message>
         <source>TableShadingColor2.title</source>
-        <translation></translation>
+        <translation>Cieniowanie</translation>
     </message>
     <message>
         <source>TableBorderColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne kolory obramowania.</translation>
     </message>
     <message>
         <source>Select.title</source>
-        <translation></translation>
+        <translation>Zaznacz</translation>
     </message>
     <message>
         <source>InsertForm.title</source>
-        <translation></translation>
+        <translation>Insert Form</translation>
     </message>
     <message>
         <source>m_Rotate.title</source>
-        <translation></translation>
+        <translation>Obróć</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie małych liter poniżej linii bazowej tekstu.</translation>
     </message>
     <message>
         <source>ContentControlBuildingBlockGallery.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie formantu zawartości galerii bloków konstrukcyjnych.</translation>
     </message>
     <message>
         <source>PreviousSection.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do poprzedniej sekcji.</translation>
     </message>
     <message>
         <source>CheckSpelling.content</source>
-        <translation></translation>
+        <translation>Umożliwia sprawdzenie pisowni tekstu w bieżącym dokumencie.</translation>
     </message>
     <message>
         <source>OfficialSeparatingLine.content</source>
-        <translation></translation>
+        <translation>Choose a separator and insert it to the document.</translation>
     </message>
     <message>
         <source>RbTableOutsideBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie obramowania wokół zaznaczonych komórek lub tekstu.</translation>
     </message>
     <message>
         <source>SimplifiedChinese.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwersję dokumentu na język chiński uproszczony.</translation>
     </message>
     <message>
         <source>Delete.title</source>
-        <translation></translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation></translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>DetailedSettings_Paragraph.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>RB_Style.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna zadań Style i formatowanie.</translation>
     </message>
     <message>
         <source>Ruler.title</source>
-        <translation></translation>
+        <translation>Linijka</translation>
     </message>
     <message>
         <source>OfficialParaTools.content</source>
-        <translation></translation>
+        <translation>Click to show common paragraph tools.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation></translation>
+        <translation>Kolor wyróżnienia tekstu</translation>
     </message>
     <message>
         <source>DetailedSettings_References.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>AlignCenterRight.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do prawej środkowej</translation>
     </message>
     <message>
         <source>m_Style.title</source>
-        <translation></translation>
+        <translation>Nowy styl</translation>
     </message>
     <message>
         <source>Find2.title</source>
-        <translation></translation>
+        <translation>Znajdź</translation>
     </message>
     <message>
         <source>100%25.title</source>
-        <translation></translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>InsertHeaderFooterGroup.content</source>
-        <translation></translation>
+        <translation>The header footer group style is consist of header,footer,pagenumber at the same time</translation>
     </message>
     <message>
         <source>COMAddIns.title</source>
-        <translation></translation>
+        <translation>Dodatki COM</translation>
     </message>
     <message>
         <source>ResetPicture.title</source>
-        <translation></translation>
+        <translation>Resetuj obraz</translation>
     </message>
     <message>
         <source>ComposeKit.content</source>
-        <translation></translation>
+        <translation>Select words and intelligently recommend a large number of related text materials for your reference</translation>
     </message>
     <message>
         <source>ShowNavigationPane2.content</source>
-        <translation></translation>
+        <translation>Kliknij, aby wybrać miejsce wyświetlania okienka nawigacji.</translation>
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation></translation>
+        <translation>Zmniejsz poziom listy</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>PrintShowViewRuler.title</source>
-        <translation></translation>
+        <translation>Linijka</translation>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation></translation>
+        <translation>Barcode</translation>
     </message>
     <message>
         <source>DetailedSettings_wps_PictureTools.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>AddSection2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wybrać typy podziałów sekcji.</translation>
     </message>
     <message>
         <source>CreateTextBoxLink.content</source>
-        <translation></translation>
+        <translation>Umożliwia połączenie zaznaczonego pola tekstowego do innego pustego tak, że tekst przepływa między nimi.</translation>
     </message>
     <message>
         <source>ShowNavigationPane.title</source>
-        <translation></translation>
+        <translation>Okienko nawigacji</translation>
     </message>
     <message>
         <source>ChangeTextDirection.content</source>
-        <translation></translation>
+        <translation>Umożliwia dostosowanie kierunku układu tekstu w bieżącej sekcji, całym dokumencie oraz wybranym polu tekstowym lub tabeli.</translation>
     </message>
     <message>
         <source>GenkoSetting.title</source>
-        <translation></translation>
+        <translation>Ustawienia Genko</translation>
     </message>
     <message>
         <source>ContentControlPicture.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie formantu zawartości w formie obrazu.</translation>
     </message>
     <message>
         <source>Find2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne opcje, takie jak Przejdź do.</translation>
     </message>
     <message>
         <source>ChangeCase.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę całego zaznaczonego tekstu na WIELKIE LITERY lub małe litery, a także wykonywanie innych typowych operacji związanych z wielkością liter.
+
+Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania znaków i Obramowania znaku.</translation>
     </message>
     <message>
         <source>OfficialView.content</source>
-        <translation></translation>
+        <translation>View the document as it would look as Official document</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation></translation>
+        <translation>Eksportuj obraz Weibo</translation>
     </message>
     <message>
         <source>InsertRowAbove.title</source>
-        <translation></translation>
+        <translation>Wstaw wiersze powyżej</translation>
     </message>
     <message>
         <source>RelocateDownOnOutlining.title</source>
-        <translation></translation>
+        <translation>Przenieś w dół</translation>
     </message>
     <message>
         <source>CmpSideBySide.title</source>
-        <translation></translation>
+        <translation>Wyświetl obok siebie</translation>
     </message>
     <message>
         <source>OfficialParaTools.title</source>
-        <translation></translation>
+        <translation>Narzędzia akapitu</translation>
     </message>
     <message>
         <source>KxGoogleSearch.content</source>
-        <translation></translation>
+        <translation>Wyszukaj zaznaczony tekst.</translation>
     </message>
     <message>
         <source>InsertForm.content</source>
-        <translation></translation>
+        <translation>Choose different forms to insert into the document, such as text form fields, checkbox form fields, drop-down form fields, etc.</translation>
     </message>
     <message>
         <source>Proofread.content</source>
-        <translation></translation>
+        <translation>Narzędzie do profesjonalnej korekty dokumentów</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTool.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>TableBorderWidth.title</source>
-        <translation></translation>
+        <translation>Grubość linii</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>AlignCenterJustified.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyśrodkowanie tekstu w pionie i wyrównanie go do lewej strony komórki.</translation>
     </message>
     <message>
         <source>RecentFontColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę koloru tekstu.
+
+Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>MergeToNewDoc.title</source>
-        <translation></translation>
+        <translation>Scal z nowym dokumentem</translation>
     </message>
     <message>
         <source>ShowComments.title</source>
-        <translation></translation>
+        <translation>Pokaż komentarze</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation></translation>
+        <translation>Auto Save File</translation>
     </message>
     <message>
         <source>m_PageSize.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie rozmiaru papieru dla bieżącej sekcji lub całego dokumentu.</translation>
     </message>
     <message>
         <source>CellWidth.content</source>
-        <translation></translation>
+        <translation>Szerokość komórki</translation>
     </message>
     <message>
         <source>FillColor2.title</source>
-        <translation></translation>
+        <translation>Wypełnienie kształtu</translation>
     </message>
     <message>
         <source>OfficialInsertVerticalBlankPage.title</source>
-        <translation></translation>
+        <translation>Portrait Page</translation>
     </message>
     <message>
         <source>Numbering2.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozpoczęcie listy numerowanej.
+
+Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     </message>
     <message>
         <source>OfficialZoomTwoPages.content</source>
-        <translation></translation>
+        <translation>Change the zoom scale to show multiple pages in the window.</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.title</source>
-        <translation></translation>
+        <translation>Zmień liczbę</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation></translation>
+        <translation>Tłumacz dokładnie i szybko, zachowując oryginalny układ dokumentu.</translation>
     </message>
     <message>
         <source>TemplateAddIns.content</source>
-        <translation></translation>
+        <translation>Umożliwia zarządzanie dodatkami dostępnymi dla tego pliku.</translation>
     </message>
     <message>
         <source>PageWidth.content</source>
-        <translation></translation>
+        <translation>Umożliwia powiększenie/pomniejszenie dokumentu tak, aby szerokość strony odpowiadała szerokości okna.</translation>
     </message>
     <message>
         <source>DetailedSettings_Section.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>DetailedSettings_HFTools.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>InsertPTab.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie pozycji tabulatora pomagającej wyrównać zawartość w nagłówku lub stopce.</translation>
     </message>
     <message>
         <source>AcceptChangeOnTB2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby zaakceptować wszystkie zmiany w dokumencie.</translation>
     </message>
     <message>
         <source>DuplexPrint.content</source>
-        <translation></translation>
+        <translation>Wybierz drukowanie jednostronne lub dwustronne.</translation>
     </message>
     <message>
         <source>MatchFields.content</source>
-        <translation></translation>
+        <translation>Przycisk Dopasuj pola umożliwia wskazanie na potrzeby programu WPS Writer znaczenia różnych pól na liście adresatów
+
+Na przykład można wskazać, że niestandardowe pole „Pocztowy” odpowiada standardowemu wbudowanemu polu „Kod pocztowy”.</translation>
     </message>
     <message>
         <source>PreviousSection.title</source>
-        <translation></translation>
+        <translation>Poprzednia sekcja</translation>
     </message>
     <message>
         <source>OfficialSingleAgency.content</source>
-        <translation></translation>
+        <translation>Insert one issue unit to the document.</translation>
     </message>
     <message>
         <source>ShowTocNavigationPane.title</source>
-        <translation></translation>
+        <translation>Nawigacja</translation>
     </message>
     <message>
         <source>GotoPrevFootnote.title</source>
-        <translation></translation>
+        <translation>Poprzedni przypis dolny</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation></translation>
+        <translation>Umożliwia zwiększenie poziomu wcięcia akapitu.</translation>
     </message>
     <message>
         <source>OfficialInsertHorizonBlankPage.title</source>
-        <translation></translation>
+        <translation>Landscape Page</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmniejszenie poziomu wcięcia akapitu.</translation>
     </message>
     <message>
         <source>OfficialFont.content</source>
-        <translation></translation>
+        <translation>Apply standard official document font and font size to the selected text.</translation>
     </message>
     <message>
         <source>m_Style2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby zastosować inne opcje, takie jak Wyczyść formatowanie.</translation>
     </message>
     <message>
         <source>Tabs.title</source>
-        <translation></translation>
+        <translation>Tabulatory</translation>
     </message>
     <message>
         <source>OfficialNormalPageSetup.content</source>
-        <translation></translation>
+        <translation>Open the Page Setup dialog box.</translation>
     </message>
     <message>
         <source>HeaderFooterOptions.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie ustawień nagłówka i stopki do bieżącej sekcji lub dokumentu, takich jak inne na pierwszej stronie, inne na stronach parzystych i nieparzystych oraz margines do krawędzi strony.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
-        <translation></translation>
+        <translation>PDF na EXCEL</translation>
     </message>
     <message>
         <source>ShowNavigationPane2.title</source>
-        <translation></translation>
+        <translation>Okienko nawigacji</translation>
     </message>
     <message>
         <source>TableofFigures.content</source>
-        <translation></translation>
+        <translation>Dodaj listę obiektów z podpisami i ich numery stron w celu szybkiego odwołania.</translation>
     </message>
     <message>
         <source>InsertMergeFields.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie do dokumentu pola z listy adresatów, takiego jak Nazwisko, Pseudonim, Nazwa firmy, Nazwa działu lub Stanowisko.</translation>
     </message>
     <message>
         <source>InsertMergeFields.title</source>
-        <translation></translation>
+        <translation>Wstaw pola korespondencji seryjnej</translation>
     </message>
     <message>
         <source>GotoNextFootnote.title</source>
-        <translation></translation>
+        <translation>Następny przypis dolny</translation>
     </message>
     <message>
         <source>TableContents.title</source>
-        <translation></translation>
+        <translation>Spis treści</translation>
     </message>
     <message>
         <source>OfficialHead.content</source>
-        <translation></translation>
+        <translation>Choose a document head to insert to the begining of the document.</translation>
     </message>
     <message>
         <source>SplitCells.content</source>
-        <translation></translation>
+        <translation>Umożliwia podzielenie zaznaczonych komórek na wiele nowych komórek.</translation>
     </message>
     <message>
         <source>Delete.content</source>
-        <translation></translation>
+        <translation>Umożliwia usuwanie wierszy, kolumn, komórek lub całej tabeli.</translation>
     </message>
     <message>
         <source>OfficialVFont.title</source>
-        <translation></translation>
+        <translation>VFont</translation>
     </message>
     <message>
         <source>Select.content</source>
-        <translation></translation>
+        <translation>Umożliwia zaznaczanie tekstu lub obiektów w dokumencie.</translation>
     </message>
     <message>
         <source>AlignBottomJustified.title</source>
-        <translation></translation>
+        <translation>Wyjustuj do dołu</translation>
     </message>
     <message>
         <source>OfficialHFont.title</source>
-        <translation></translation>
+        <translation>HFont</translation>
     </message>
     <message>
         <source>MergeToDiffNewDoc.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyeksportowanie scalonej zawartości poczty do innych dokumentów, zgodnie z listą adresatów.</translation>
     </message>
     <message>
         <source>Numbering.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozpoczęcie listy numerowanej.
+
+Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     </message>
     <message>
         <source>HeadRowsRepeat.title</source>
-        <translation></translation>
+        <translation>Powtórz wiersze nagłówków</translation>
     </message>
     <message>
         <source>NewWindow.title</source>
-        <translation></translation>
+        <translation>Nowe okno</translation>
     </message>
     <message>
         <source>ShowFormatting.title</source>
-        <translation></translation>
+        <translation>Pokaż formatowanie tekstu</translation>
     </message>
     <message>
         <source>LineSpacingShow.title</source>
-        <translation></translation>
+        <translation>Interlinia</translation>
     </message>
     <message>
         <source>GotoTocOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do spisu treści dokumentu.</translation>
     </message>
     <message>
         <source>ShowComments.content</source>
-        <translation></translation>
+        <translation>Wyświetl lub ukryj komentarze w dokumencie.</translation>
     </message>
     <message>
         <source>Security.content</source>
-        <translation></translation>
+        <translation>Umożliwia dostosowywanie ustawień bezpieczeństwa makr.</translation>
     </message>
     <message>
         <source>ChartGallery_pro2.title</source>
-        <translation></translation>
+        <translation>Barcode</translation>
     </message>
     <message>
         <source>EnterParagraphAdjustment.content</source>
-        <translation></translation>
+        <translation>Umożliwia wejście w tryb układu akapitu.</translation>
     </message>
     <message>
         <source>ReviewTip.content</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SplitCells.title</source>
-        <translation></translation>
+        <translation>Podziel komórki</translation>
     </message>
     <message>
         <source>GotoTocOnOutlining.title</source>
-        <translation></translation>
+        <translation>Przejdź do spisu treści</translation>
     </message>
     <message>
         <source>MergeCells.content</source>
-        <translation></translation>
+        <translation>Umożliwia scalenie zaznaczonych komórek w jedną komórkę.</translation>
     </message>
     <message>
         <source>TableSelectMenu.title</source>
-        <translation></translation>
+        <translation>Zaznacz tabelę</translation>
     </message>
     <message>
         <source>OfficialUnionAgencies.content</source>
-        <translation></translation>
+        <translation>Insert five issue units to the document.</translation>
     </message>
     <message>
         <source>DetailedSettings_HFTools.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień strony.</translation>
     </message>
     <message>
         <source>PaperCheck.content</source>
-        <translation></translation>
+        <translation>PaperCheck.content</translation>
     </message>
     <message>
         <source>NavigationPane.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie okienka nawigacji.</translation>
     </message>
     <message>
         <source>InsertEnvelopes.content</source>
-        <translation></translation>
+        <translation>Umożliwia tworzenie i drukowanie kopert.</translation>
     </message>
     <message>
         <source>SectionNavigationPane.content</source>
-        <translation></translation>
+        <translation>Pokaż lub ukryj nawigację sekcji w okienku. </translation>
     </message>
     <message>
         <source>InsertField.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie pola do dokumentu.</translation>
     </message>
     <message>
         <source>ParagraphDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość ParagraphDetailedSettings</translation>
     </message>
     <message>
         <source>OfficialSearchComputer.title</source>
-        <translation></translation>
+        <translation>Search Local</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
-        <translation></translation>
+        <translation>Zmniejsz czcionkę</translation>
     </message>
     <message>
         <source>ArrangeAll.title</source>
-        <translation></translation>
+        <translation>Rozmieść wszystko</translation>
     </message>
     <message>
         <source>PageNumberStart.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie numeru strony dla bieżącej strony. Staje się to dostępne, gdy &quot;Rozpocznij numerację stron od&quot; jest włączony.</translation>
     </message>
     <message>
         <source>PageNumber.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Numery stron i zastosowanie ustawień numeru strony do bieżącej sekcji lub całego dokumentu.</translation>
     </message>
     <message>
         <source>PreviousRecord.title</source>
-        <translation></translation>
+        <translation>Poprzedni rekord</translation>
     </message>
     <message>
         <source>FormatAlignJustify.title</source>
-        <translation></translation>
+        <translation>Wyjustuj</translation>
     </message>
     <message>
         <source>InsertIndexTables4ZhCnPage.content</source>
-        <translation></translation>
+        <translation>Ręczny spis treści umożliwia samodzielne wypełnienie.
+
+Automatyczny spis treści obejmuje tekst sformatowany przy użyciu stylów Nagłówek.</translation>
     </message>
     <message>
         <source>GraphicLineColor.title</source>
-        <translation></translation>
+        <translation>Kontur obrazu</translation>
     </message>
     <message>
         <source>CheckSpelling.title</source>
-        <translation></translation>
+        <translation>Sprawdzanie pisowni</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
-        <translation></translation>
+        <translation>Wyrównaj akapit zarówno do lewego, jak i prawego marginesu, dodając dodatkowe odstępy między każdymi dwoma znakami dla języków ze znakiem tonu i samogłoski.
+
+Spowoduje to utworzenie dokumentu o przejrzystym wyglądzie.</translation>
     </message>
     <message>
         <source>Strikethought.title</source>
-        <translation></translation>
+        <translation>Przekreślenie</translation>
     </message>
     <message>
         <source>InsertDocumentField.content</source>
-        <translation></translation>
+        <translation>Wstaw pole dokumentu do dokumentu.</translation>
     </message>
     <message>
         <source>BackgroundShapeFillColor.title</source>
-        <translation></translation>
+        <translation>Kolor strony</translation>
     </message>
     <message>
         <source>EncloseCharacters.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie okręgu lub innego obramowania wokół znaku.
+
+Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Zmieniania wielkości liter i Obramowania znaku.</translation>
     </message>
     <message>
         <source>InteractiveChart.title</source>
-        <translation></translation>
+        <translation>Wstaw wykres interaktywny</translation>
     </message>
     <message>
         <source>CellHeight.content</source>
-        <translation></translation>
+        <translation>Wysokość komórki</translation>
     </message>
     <message>
         <source>ReadingFind.title</source>
-        <translation></translation>
+        <translation>Znajdź</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
-        <translation></translation>
+        <translation>Wypełnienie i kontur kształtu</translation>
     </message>
     <message>
         <source>GotoPrevEndnote.title</source>
-        <translation></translation>
+        <translation>Poprzedni przypis końcowy</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation></translation>
+        <translation>Umożliwia edytowanie nagłówka i stopki dokumentu.</translation>
     </message>
     <message>
         <source>GotoNextEndnote.title</source>
-        <translation></translation>
+        <translation>Następny przypis końcowy</translation>
     </message>
     <message>
         <source>m_CharacterScaling.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie skali znaku zaznaczonej zawartości.</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation></translation>
+        <translation>Znajdź</translation>
     </message>
     <message>
         <source>Sort.title</source>
-        <translation></translation>
+        <translation>Sortuj</translation>
     </message>
     <message>
         <source>ShowHideFormattingMarks.title</source>
-        <translation></translation>
+        <translation>Pokaż/Ukryj znaczniki edycji</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
-        <translation></translation>
+        <translation>Nagłówek i stopka</translation>
     </message>
     <message>
         <source>RecentFastCalc.title</source>
-        <translation></translation>
+        <translation>Szybkie obliczenia</translation>
     </message>
     <message>
         <source>PhoneticGuide2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Zmieniania wielkości liter, Załączania znaków lub Obramowania znaku.</translation>
     </message>
     <message>
         <source>CollapseOnOutlining.title</source>
-        <translation></translation>
+        <translation>Zwiń</translation>
     </message>
     <message>
         <source>OfficialSettings.title</source>
-        <translation></translation>
+        <translation>Document Settings</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation></translation>
+        <translation>Mark the background area and quickly and intelligently remove the background of the picture</translation>
     </message>
     <message>
         <source>OfficialExportOFD.title</source>
-        <translation></translation>
+        <translation>Save as OFD</translation>
     </message>
     <message>
         <source>GotoNextEndnote.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnego przypisu końcowego w dokumencie.</translation>
     </message>
     <message>
         <source>m_ColumnsPalette.content</source>
-        <translation></translation>
+        <translation>Umożliwia podzielenie tekstu na dwie lub więcej kolumn.</translation>
     </message>
     <message>
         <source>ExpandOnOutlining.title</source>
-        <translation></translation>
+        <translation>Rozwiń</translation>
     </message>
     <message>
         <source>InsertFootnote.title</source>
-        <translation></translation>
+        <translation>Wstaw Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Chinese%20Translation.content</source>
-        <translation></translation>
+        <translation>Umożliwia zdecydowanie się na jednostkę tłumaczeniową między chińskim uproszczonym, a tradycyjnym, którą może być znak lub wyraz.</translation>
     </message>
     <message>
         <source>CellHeight.title</source>
-        <translation></translation>
+        <translation>Wysokość komórki</translation>
     </message>
     <message>
         <source>OfficialPDFCompress.content</source>
-        <translation></translation>
+        <translation>Compress existing PDF to make them smaller.</translation>
     </message>
     <message>
         <source>ContentControlRichText.title</source>
-        <translation></translation>
+        <translation>Formant zawartości w formie tekstu sformatowanego</translation>
     </message>
     <message>
         <source>RestartPageNumber.title</source>
-        <translation></translation>
+        <translation>Uruchom ponownie numerowanie stron</translation>
     </message>
     <message>
         <source>m_Breaks.title</source>
-        <translation></translation>
+        <translation>Wstaw podziały stron i sekcji</translation>
     </message>
     <message>
         <source>SplitTable.content</source>
-        <translation></translation>
+        <translation>Umożliwia podzielenie tabeli na dwie tabele według wierszy lub kolumn.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
-        <translation></translation>
+        <translation>Zrzut ekranu i wyodrębnienie tekstu jednym kliknięciem.</translation>
     </message>
     <message>
         <source>m_Margins.title</source>
-        <translation></translation>
+        <translation>Marginesy</translation>
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation></translation>
+        <translation>Galeria WPS</translation>
     </message>
     <message>
         <source>GotoRecord.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie określonego rekordu listy adresatów</translation>
     </message>
     <message>
         <source>TextBox.content</source>
-        <translation></translation>
+        <translation>Wstawia poziome pole tekstowe do dokumentu.</translation>
     </message>
     <message>
         <source>RecentTableShadingColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne kolory tła.</translation>
     </message>
     <message>
         <source>PreviousTextBox.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do poprzedniego pola tekstowego połączonego z zaznaczonym polem tekstowym.</translation>
     </message>
     <message>
         <source>ContentControlRepeating.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie kontrolki zawartości zawierającej inne kontrolki i w razie potrzeby powtórzenie zawartości kontrolki.</translation>
     </message>
     <message>
         <source>3DLightingPalette.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie kierunku i intensywności oświetlenia dla wybranego kształtu trójwymiarowego. Ostatnia opcja zawiera jasne, normalne i przygaszone.</translation>
     </message>
     <message>
         <source>Strikethought.content</source>
-        <translation></translation>
+        <translation>Umożliwia narysowanie linii przechodzącej przez środek zaznaczonego tekstu.
+
+Kliknij strzałkę, aby dodać znacznik wyróżnienia.</translation>
     </message>
     <message>
         <source>Table.title</source>
-        <translation></translation>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>InsertNumber.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie dostosowanego formatu liczbowego do dokumentu.</translation>
     </message>
     <message>
         <source>IndexMarkEntry.title</source>
-        <translation></translation>
+        <translation>Oznacz hasło</translation>
     </message>
     <message>
         <source>ClosePreview.content</source>
-        <translation></translation>
+        <translation>Umożliwia zamknięcie podglądu wydruku i powrót do edytowania dokumentu.</translation>
     </message>
     <message>
         <source>m_ColumnsPalette.title</source>
-        <translation></translation>
+        <translation>Kolumny</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość DrawingToolsDetailedSettings</translation>
     </message>
     <message>
         <source>HeaderAndFooterSetting.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego nagłówek i stopka.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.title</source>
-        <translation></translation>
+        <translation>Wstaw obrazy</translation>
     </message>
     <message>
         <source>MergeToDiffNewDoc.title</source>
-        <translation></translation>
+        <translation>Scal z innym nowym dokumentem</translation>
     </message>
     <message>
         <source>AlignBottomCenter.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do środkowej dolnej</translation>
     </message>
     <message>
         <source>InsertWordField.title</source>
-        <translation></translation>
+        <translation>Wstaw pola tekstowe</translation>
     </message>
     <message>
         <source>PromoteToHighestLevelOnParagraph.title</source>
-        <translation></translation>
+        <translation>Podwyższ do Poziom 1</translation>
     </message>
     <message>
         <source>FormatAlignDistributed.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie akapitu do prawego i lewego marginesu przez dodanie w razie potrzeby dodatkowych odstępów między znakami.</translation>
     </message>
     <message>
         <source>PageOrientation.content</source>
-        <translation></translation>
+        <translation>Umożliwia przełączanie się między pionowym i poziomym układem strony.</translation>
     </message>
     <message>
         <source>PictureStyleTip.content</source>
-        <translation></translation>
+        <translation>Wybierz sposób wyświetlania jednego lub wielu obrazów w dokumencie.</translation>
     </message>
     <message>
         <source>InsertIndexTables4ZhCn.content</source>
-        <translation></translation>
+        <translation>Ręczny spis treści umożliwia samodzielne wypełnienie.
+
+Automatyczny spis treści obejmuje tekst sformatowany przy użyciu stylów Nagłówek.</translation>
     </message>
     <message>
         <source>DirectoryLevel.title</source>
-        <translation></translation>
+        <translation>Poziom spisu treści</translation>
     </message>
     <message>
         <source>Official2Ordinary.content</source>
-        <translation></translation>
+        <translation>Official document Convert to Normal Document</translation>
     </message>
     <message>
         <source>HeaderAndFooterSetting.title</source>
-        <translation></translation>
+        <translation>Nagłówek i stopka</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord.title</source>
-        <translation></translation>
+        <translation>Pakiety rozszerzeń XML</translation>
     </message>
     <message>
         <source>DemoteOnParagraph.content</source>
-        <translation></translation>
+        <translation>Umożliwia obniżenie poziomu zaznaczonego akapitu na niższy poziom spisu treści.</translation>
     </message>
     <message>
         <source>OpenDataSource.title</source>
-        <translation></translation>
+        <translation>Otwórz źródło danych</translation>
     </message>
     <message>
         <source>InsertCaption.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie podpisu do obrazu lub tabeli.</translation>
     </message>
     <message>
         <source>NextSection.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnej sekcji.</translation>
     </message>
     <message>
         <source>OfficialTextIdentification.content</source>
-        <translation></translation>
+        <translation>Identify text in PDF or pictures can copy them to this document.</translation>
     </message>
     <message>
         <source>TableShadingColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru tła dla zaznaczonego tekstu lub akapitu.
+
+Kliknij strzałkę, aby wybrać inne kolory cieniowania.</translation>
     </message>
     <message>
         <source>RB_Paragraph.title</source>
-        <translation></translation>
+        <translation>Akapit</translation>
     </message>
     <message>
         <source>FillColor.title</source>
-        <translation></translation>
+        <translation>Wypełnienie kształtu</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwersję obrazu na format tekstu.</translation>
     </message>
     <message>
         <source>ExitParagraph.content</source>
-        <translation></translation>
+        <translation>Umożliwia zamknięcie narzędzi układu akapitu i powrót do edytowania dokumentu.</translation>
     </message>
     <message>
         <source>LockSideBySide.content</source>
-        <translation></translation>
+        <translation>Umożliwia zsynchronizowanie przewijania dwóch dokumentów, tak aby były przewijane razem.
+
+Aby włączyć tę funkcję, włącz opcję Wyświetl obok siebie.</translation>
     </message>
     <message>
         <source>Markup.title</source>
-        <translation></translation>
+        <translation>Znacznik adiustacji</translation>
     </message>
     <message>
         <source>IncreaseStep.content</source>
-        <translation></translation>
+        <translation>Umożliwia zwiększenie odstępów w bieżącym akapicie co 0,25 razy.</translation>
     </message>
     <message>
         <source>NextHeader.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnej sekcji nagłówka lub stopki na podstawie bieżącej pozycji kursora.</translation>
     </message>
     <message>
         <source>AlignStyle.content</source>
-        <translation></translation>
+        <translation>Umożliwia określenie jak powinna być wyrównana zawartość komórki.</translation>
     </message>
     <message>
         <source>Handwriting.title</source>
-        <translation></translation>
+        <translation>Pismo odręczne</translation>
     </message>
     <message>
         <source>PageNumberStart.title</source>
-        <translation></translation>
+        <translation>Rozpocznij numerację stron od</translation>
     </message>
     <message>
         <source>Handwriting.content</source>
-        <translation></translation>
+        <translation>Dodaj pismo odręczne do dokumentu.</translation>
     </message>
     <message>
         <source>FirstPageIsDifferent.title</source>
-        <translation></translation>
+        <translation>Inne na pierwszej stronie</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation></translation>
+        <translation>Auto save turned on</translation>
     </message>
     <message>
         <source>AddSection.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie podziału sekcji do dokumentu.</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania kształtu.</translation>
     </message>
     <message>
         <source>WaterMark.title</source>
-        <translation></translation>
+        <translation>Znak wodny</translation>
     </message>
     <message>
         <source>FormatAlignJustify.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu jednocześnie do lewego i prawego marginesu. W razie konieczności są dodawane odstępy między wyrazami.</translation>
     </message>
     <message>
         <source>LastRecord.content</source>
-        <translation></translation>
+        <translation>Umożliwia podgląd ostatniego rekordu listy adresatów.</translation>
     </message>
     <message>
         <source>DistributeColumns.title</source>
-        <translation></translation>
+        <translation>Rozłóż kolumny równomiernie</translation>
     </message>
     <message>
         <source>FooterLinkToPrevious.title</source>
-        <translation></translation>
+        <translation>Połącz z poprzednią stopką</translation>
     </message>
     <message>
         <source>AlignStyle2.title</source>
-        <translation></translation>
+        <translation>Wyrównanie</translation>
     </message>
     <message>
         <source>WebLayoutView.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie dokumentu tak, jakby wyglądał jako strona sieci Web.</translation>
     </message>
     <message>
         <source>InsertHeader.content</source>
-        <translation></translation>
+        <translation>The header style can help you to display title,author and page number</translation>
     </message>
     <message>
         <source>SplitTable.title</source>
-        <translation></translation>
+        <translation>Podziel tabelę</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation></translation>
+        <translation>Podziel lub scal</translation>
     </message>
     <message>
         <source>NextRecord.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie podglądu następnego rekordu na liście adresatów.</translation>
     </message>
     <message>
         <source>GotoPrevEndnote.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do poprzedniego przypisu końcowego w dokumencie.</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie obiektu osadzonego do dokumentu.
+
+Kliknij strzałkę, aby wstawić zawartość pliku do dokumentu.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.content</source>
-        <translation></translation>
+        <translation>Change the settings of Equations.</translation>
     </message>
     <message>
         <source>m_Group.content</source>
-        <translation></translation>
+        <translation>Umożliwia grupowanie obiektów, tak aby mogły być traktowane jak jeden obiekt.</translation>
     </message>
     <message>
         <source>ReadingDivision.title</source>
-        <translation></translation>
+        <translation>Podział podczas czytania</translation>
     </message>
     <message>
         <source>Official2RowsEditions.title</source>
-        <translation></translation>
+        <translation>Two-row Edition Info</translation>
     </message>
     <message>
         <source>Shapes.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawianie gotowych kształtów, takich jak linie, prostokąty, symbole schematu blokowego i objaśnienia.</translation>
     </message>
     <message>
         <source>ConvertTabletoText.title</source>
-        <translation></translation>
+        <translation>Konwertuj tabelę na tekst</translation>
     </message>
     <message>
         <source>PageWidth.title</source>
-        <translation></translation>
+        <translation>Szerokość strony</translation>
     </message>
     <message>
         <source>DocBarcode_pro2.content</source>
-        <translation></translation>
+        <translation>DocBarcode_pro2 content</translation>
     </message>
     <message>
         <source>PaperTypeset.content</source>
-        <translation></translation>
+        <translation>PaperTypeset.content</translation>
     </message>
     <message>
         <source>CloseOutlineview.content</source>
-        <translation></translation>
+        <translation>Umożliwia zamknięcie widoku konspektu i powrót do edytowania dokumentu.</translation>
     </message>
     <message>
         <source>InsertBookmark.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie zakładki w celu przypisania nazwy do określonego punktu w dokumencie.</translation>
     </message>
     <message>
         <source>XmlStructure.content</source>
-        <translation></translation>
+        <translation>Umożliwia otwarcie okienka zadań struktury XML.</translation>
     </message>
     <message>
         <source>OnlineCooperation.title</source>
-        <translation></translation>
+        <translation>Współpraca</translation>
     </message>
     <message>
         <source>InsertObject.title</source>
-        <translation></translation>
+        <translation>Wstaw obiekt</translation>
     </message>
     <message>
         <source>PreviousChange.title</source>
-        <translation></translation>
+        <translation>Poprzednia zmiana</translation>
     </message>
     <message>
         <source>RecentFontColor.title</source>
-        <translation></translation>
+        <translation>Kolor tekstu</translation>
     </message>
     <message>
         <source>OfficialTemplates.content</source>
-        <translation></translation>
+        <translation>Apply any template to create new document. You can design your own template using </translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Galeria WordArt, aby wybrać styl WordArt i edytować zawartość.</translation>
     </message>
     <message>
         <source>OfficialTextIdentification.title</source>
-        <translation></translation>
+        <translation>Text Identification(Ctrl+Alt+S)</translation>
     </message>
     <message>
         <source>AlignTopRight.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do prawej górnej</translation>
     </message>
     <message>
         <source>MailConfig.content</source>
-        <translation></translation>
+        <translation>Configure email account.</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby zatrzymać czytanie.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia strony głównej</translation>
     </message>
     <message>
         <source>ShowFirstLineOnly.title</source>
-        <translation></translation>
+        <translation>Pokaż tylko pierwszy wiersz</translation>
     </message>
     <message>
         <source>ContentControlRepeating.title</source>
-        <translation></translation>
+        <translation>Formant zawartości w formie sekcji powtarzającej się</translation>
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie elementów w Schowku.</translation>
     </message>
     <message>
         <source>CharacterBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie obramowania wokół zbioru znaków lub zdania.</translation>
     </message>
     <message>
         <source>CloseHeaderAndFooter.title</source>
-        <translation></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
-        <translation></translation>
+        <translation>Przetłumacz obraz</translation>
     </message>
     <message>
         <source>AutoFitWindow.title</source>
-        <translation></translation>
+        <translation>Autodopasowanie do okna</translation>
     </message>
     <message>
         <source>ReducedStep.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmniejszenie interlinii zaznaczonego akapitu co 0,25.</translation>
     </message>
     <message>
         <source>PageOrientation.title</source>
-        <translation></translation>
+        <translation>Orientacja strony</translation>
     </message>
     <message>
         <source>DistributeRows.content</source>
-        <translation></translation>
+        <translation>Umożliwia równe rozłożenie wysokości zaznaczonych wierszy na poszczególne wiersze.</translation>
     </message>
     <message>
         <source>FormatAlignCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyśrodkowywanie tekstu.</translation>
     </message>
     <message>
         <source>Superscript2.title</source>
-        <translation></translation>
+        <translation>Inne opcje</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools_Vml.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation></translation>
+        <translation>1. Wypełnienie kształtu
+Wypełnij wybrane obiekty kolorami, gradientami, teksturami i obrazami.
+2. Kontur kształtu
+Skonfiguruj kolory, wagi i kreski dla wybranych obiektów.
+Aby uzyskać szczegółowe informacje o konfiguracji, kliknij strzałki.</translation>
     </message>
     <message>
         <source>PageDiffOddEven.title</source>
-        <translation></translation>
+        <translation>Strony parzyste i nieparzyste różnią się od siebie</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
-        <translation></translation>
+        <translation>Punktory</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation></translation>
+        <translation>Umożliwia zatrzymanie automatycznego tworzenia kopii zapasowej bieżącego dokumentu.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>RestrictEditing.title</source>
-        <translation></translation>
+        <translation>Ogranicz edytowanie</translation>
     </message>
     <message>
         <source>InsertGeogebra.content</source>
-        <translation></translation>
+        <translation>Narzędzie do rysowania z funkcjami algebraicznymi, analizy matematycznej, statystycznymi i matematycznymi 3D.</translation>
     </message>
     <message>
         <source>LineColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translation>
     </message>
     <message>
         <source>OfficialTemplates.title</source>
-        <translation></translation>
+        <translation>Szablony</translation>
     </message>
     <message>
         <source>ViewRuler.title</source>
-        <translation></translation>
+        <translation>Linijka</translation>
     </message>
     <message>
         <source>ShowHeaderOrFooter.content</source>
-        <translation></translation>
+        <translation>Umożliwia przełączanie się między nagłówkiem i stopką bieżącej strony w dokumencie.</translation>
     </message>
     <message>
         <source>TextBox2.title</source>
-        <translation></translation>
+        <translation>Rysuj pole tekstowe</translation>
     </message>
     <message>
         <source>NewOfficialDocument.title</source>
-        <translation></translation>
+        <translation>Official Document</translation>
     </message>
     <message>
         <source>SmartOfficial.title</source>
-        <translation></translation>
+        <translation>SmartOfficial</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość HomeDetailedSettings</translation>
     </message>
     <message>
         <source>InsertFooter.content</source>
-        <translation></translation>
+        <translation>The footer style can help you to display title,author and page number</translation>
     </message>
     <message>
         <source>PrintCopies.content</source>
-        <translation></translation>
+        <translation>Drukowane kopie</translation>
     </message>
     <message>
         <source>DemoteToLowestLevelOnParagraph.title</source>
-        <translation></translation>
+        <translation>Obniż do tekstu podstawowego</translation>
     </message>
     <message>
         <source>DemoteOnOutlining.title</source>
-        <translation></translation>
+        <translation>Obniż poziom</translation>
     </message>
     <message>
         <source>CleanLineSpacing.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie pojedynczej interlinii do zaznaczonych akapitów i przyciąganie do siatki.</translation>
     </message>
     <message>
         <source>CloseMail.title</source>
-        <translation></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>CharacterShading.title</source>
-        <translation></translation>
+        <translation>Cieniowanie znaku</translation>
     </message>
     <message>
         <source>InsertBlankPage.title</source>
-        <translation></translation>
+        <translation>Pusta strona</translation>
     </message>
     <message>
         <source>InsertPTab.title</source>
-        <translation></translation>
+        <translation>Wstaw tabulator wyrównania</translation>
     </message>
     <message>
         <source>MergeCells.title</source>
-        <translation></translation>
+        <translation>Scal komórki</translation>
     </message>
     <message>
         <source>Underline2.title</source>
-        <translation></translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>CloseHeaderAndFooter.content</source>
-        <translation></translation>
+        <translation>Umożliwia zamknięcie nagłówka i stopki oraz powrót do edytowania dokumentu.</translation>
     </message>
     <message>
         <source>DemoteOnParagraph.title</source>
-        <translation></translation>
+        <translation>Obniż poziom spisu treści</translation>
     </message>
     <message>
         <source>InsertDocumentField.title</source>
-        <translation></translation>
+        <translation>Wstaw pole dokumentu</translation>
     </message>
     <message>
         <source>HeaderLinkToPrevious.title</source>
-        <translation></translation>
+        <translation>Połącz z poprzednim nagłówkiem</translation>
     </message>
     <message>
         <source>ReviewPaneTip2.title</source>
-        <translation></translation>
+        <translation>Okienko recenzowania</translation>
     </message>
     <message>
         <source>DistributeColumns.content</source>
-        <translation></translation>
+        <translation>Umożliwia równe rozłożenie szerokości zaznaczonych kolumn na poszczególne kolumny.</translation>
     </message>
     <message>
         <source>DemoteToLowestLevelOnOutlining.title</source>
-        <translation></translation>
+        <translation>Obniż do tekstu podstawowego</translation>
     </message>
     <message>
         <source>AlignTopJustified.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do lewego górnego rogu komórki.</translation>
     </message>
     <message>
         <source>ContentControlText.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu zwykły tekst.</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.content</source>
-        <translation></translation>
+        <translation>Eksport zdjęcia do pliku PDF</translation>
     </message>
     <message>
         <source>InsertMutidiagonalCell.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie w komórce innych typów ukośnych linii, które mają służyć jako nagłówki.
+
+Ukośne linie w nagłówkach tabeli mogą być przenoszone.</translation>
     </message>
     <message>
         <source>InsertPageBreak.title</source>
-        <translation></translation>
+        <translation>Podział strony</translation>
     </message>
     <message>
         <source>InsertMutidiagonalCell.title</source>
-        <translation></translation>
+        <translation>Wstaw komórkę multiprzekątną</translation>
     </message>
     <message>
         <source>ShowLevelOnOutlining.title</source>
-        <translation></translation>
+        <translation>Pokaż poziom</translation>
     </message>
     <message>
         <source>GotoFootnotes.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnego przypisu dolnego/przypisu końcowego w dokumencie.</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie małych liter powyżej wiersza tekstu.</translation>
     </message>
     <message>
         <source>Signature.title</source>
-        <translation></translation>
+        <translation>Podpis PDF</translation>
     </message>
     <message>
         <source>LocateToSection.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę położenia do innej sekcji.</translation>
     </message>
     <message>
         <source>m_Wrapping.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę sposobu zawijania tekstu wokół wybranego obiektu, takiego jak kwadrat i za tekstem.</translation>
     </message>
     <message>
         <source>RTLTextDirection.content</source>
-        <translation></translation>
+        <translation>Ustaw kierunek czytania tekstu od prawej do lewej.</translation>
     </message>
     <message>
         <source>Recommended Photo2PDF.content</source>
-        <translation></translation>
+        <translation>Zaleca się konwersję plików do formatu PDF.</translation>
     </message>
     <message>
         <source>OfficialHFont.content</source>
-        <translation></translation>
+        <translation>Set horizontal font size.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozpoczęcie następnej strony w bieżącym położeniu kursora, a zawartość za kursorem zostanie przeniesiona do nowej strony.</translation>
     </message>
     <message>
         <source>CoverPages.title</source>
-        <translation></translation>
+        <translation>Wstaw stronę tytułową</translation>
     </message>
     <message>
         <source>LooseLineSpacing.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie interlinii 1,5 wiersza do zaznaczonych akapitów z zaznaczonym przyciąganiem do siatki.</translation>
     </message>
     <message>
         <source>ContentControlData.title</source>
-        <translation></translation>
+        <translation>Formant zawartości w formie selektora dat</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools_Vml.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania obrazu.</translation>
     </message>
     <message>
         <source>ContentControlBuildingBlockGallery.title</source>
-        <translation></translation>
+        <translation>Formant zawartości w formie galerii bloków konstrukcyjnych</translation>
     </message>
     <message>
         <source>PaperTypeset.title</source>
-        <translation></translation>
+        <translation>PaperTypeset.title</translation>
     </message>
     <message>
         <source>ShowFormatting.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie całego formatowania tekstu w konspekcie.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation></translation>
+        <translation>Zablokuj proporcje</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
-        <translation></translation>
+        <translation>Śledź zmiany</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie stopnia powiększenia bieżącego dokumentu.</translation>
     </message>
     <message>
         <source>TaskPane.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie okna zadań w dokumencie.</translation>
     </message>
     <message>
         <source>CellWidth.title</source>
-        <translation></translation>
+        <translation>Szerokość komórki</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools_vml.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania obrazu.</translation>
     </message>
     <message>
         <source>ReadingView.title</source>
-        <translation></translation>
+        <translation>Widok do czytania</translation>
     </message>
     <message>
         <source>PaperFormat.content</source>
-        <translation></translation>
+        <translation>Rapid typesetting of papers.</translation>
     </message>
     <message>
         <source>InsertIndex.content</source>
-        <translation></translation>
+        <translation>Wstaw słowa kluczowe spisu indeksu i numery stron, na których się pojawiają.</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation></translation>
+        <translation>Umożliwia otwarcie nowego okna z widokiem bieżącego dokumentu.</translation>
     </message>
     <message>
         <source>DistributeRows.title</source>
-        <translation></translation>
+        <translation>Rozłóż wiersze równomiernie</translation>
     </message>
     <message>
         <source>OfficialInsertVerticalBlankPage.content</source>
-        <translation></translation>
+        <translation>Insert portrait pages to the document.</translation>
     </message>
     <message>
         <source>AlignStyle.title</source>
-        <translation></translation>
+        <translation>Wyrównanie</translation>
     </message>
     <message>
         <source>DocBarcode_pro2.title</source>
-        <translation></translation>
+        <translation>Barcode</translation>
     </message>
     <message>
         <source>SectionNavigationPane.title</source>
-        <translation></translation>
+        <translation>Nawigacja sekcji</translation>
     </message>
     <message>
         <source>m_LineNumber.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie numerów wierszy na marginesie obok poszczególnych wierszy dokumentu.</translation>
     </message>
     <message>
         <source>TrackChanges.content</source>
-        <translation></translation>
+        <translation>Umożliwia śledzenie wszystkich zmian wprowadzanych w dokumencie, w tym wstawień, usunięć i zmian formatowania.</translation>
     </message>
     <message>
         <source>AdjustTableProperties.title</source>
-        <translation></translation>
+        <translation>Właściwości tabeli</translation>
     </message>
     <message>
         <source>PromoteToHighestLevelOnOutlining.title</source>
-        <translation></translation>
+        <translation>Podwyższ do Poziom 1</translation>
     </message>
     <message>
         <source>LTRTextDirection.content</source>
-        <translation></translation>
+        <translation>Ustaw kierunek czytania tekstu od lewej do prawej.</translation>
     </message>
     <message>
         <source>InsertCaption.title</source>
-        <translation></translation>
+        <translation>Wstaw podpis</translation>
     </message>
     <message>
         <source>InsertFooter.title</source>
-        <translation></translation>
+        <translation>Add Footer</translation>
     </message>
     <message>
         <source>OfficialSettings.content</source>
-        <translation></translation>
+        <translation>Setup options for Official Document Writing Mode, such us puncturation type and listing.</translation>
     </message>
     <message>
         <source>HeaderDistance.content</source>
-        <translation></translation>
+        <translation>Zmodyfikuj odległość nagłówka od dołu.</translation>
     </message>
     <message>
         <source>FooterDistance.content</source>
-        <translation></translation>
+        <translation>Zmodyfikuj odległość stopki od dołu.</translation>
     </message>
     <message>
         <source>TightLineSpacing.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie interlinii 1,0 wiersz do zaznaczonych akapitów bez zaznaczonego przyciągania do siatki.</translation>
     </message>
     <message>
         <source>RecordMacro.title</source>
-        <translation></translation>
+        <translation>Zarejestruj makro</translation>
     </message>
     <message>
         <source>LastSection.title</source>
-        <translation></translation>
+        <translation>Ostatnia sekcja</translation>
     </message>
     <message>
         <source>NextSection.title</source>
-        <translation></translation>
+        <translation>Następna sekcja</translation>
     </message>
     <message>
         <source>InsertHeader.title</source>
-        <translation></translation>
+        <translation>Add Header</translation>
     </message>
     <message>
         <source>TableBorderStyle.title</source>
-        <translation></translation>
+        <translation>Styl linii</translation>
     </message>
     <message>
         <source>Thesaurus.title</source>
-        <translation></translation>
+        <translation>Tezaurus</translation>
     </message>
     <message>
         <source>MatchFields.title</source>
-        <translation></translation>
+        <translation>Dopasuj pola</translation>
     </message>
     <message>
         <source>DropCap.title</source>
-        <translation></translation>
+        <translation>Inicjał</translation>
     </message>
     <message>
         <source>3DDirectionPalette.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie kierunku efektu zaznaczonego kształtu trójwymiarowego.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translation>
     </message>
     <message>
         <source>InsertPageNumbers.title</source>
-        <translation></translation>
+        <translation>Wstaw numer strony</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>AddSection.title</source>
-        <translation></translation>
+        <translation>Dodaj sekcję</translation>
     </message>
     <message>
         <source>ReadingDivision.content</source>
-        <translation></translation>
+        <translation>Ustaw liczbę kolumn na potrzeby automatycznego składu w trybie czytania.</translation>
     </message>
     <message>
         <source>3DDirectionPalette.title</source>
-        <translation></translation>
+        <translation>Kierunek</translation>
     </message>
     <message>
         <source>FormatAlignRight.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do prawej</translation>
     </message>
     <message>
         <source>InsertColumnLeft.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie kolumny bezpośrednio z lewej strony zaznaczonej kolumny.</translation>
     </message>
     <message>
         <source>ContentControlData.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu data.</translation>
     </message>
     <message>
         <source>PrintLayoutView.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie dokumentu tak, jak będzie wyglądał na drukowanej stronie.</translation>
     </message>
     <message>
         <source>DemoteOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia obniżenie tego elementu na niższy poziom.</translation>
     </message>
     <message>
         <source>DisplayForReview.title</source>
-        <translation></translation>
+        <translation>Wyświetl do przeglądu</translation>
     </message>
     <message>
         <source>MailConfig.title</source>
-        <translation></translation>
+        <translation>Email Config</translation>
     </message>
     <message>
         <source>m_ShowReviewer.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie rodzaju adiustacji, która ma być pokazywana w dokumencie.</translation>
     </message>
     <message>
         <source>InsertNumber.title</source>
-        <translation></translation>
+        <translation>Wstaw numer</translation>
     </message>
     <message>
         <source>DisplayForReview.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie sposobu wyświetlania proponowanych zmian dokumentu.</translation>
     </message>
     <message>
         <source>KingsoftEquationEditor.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawianie równań matematycznych za pomocą edytora równań.</translation>
     </message>
     <message>
         <source>TableShadingColor.title</source>
-        <translation></translation>
+        <translation>Cieniowanie</translation>
     </message>
     <message>
         <source>TrackChanges2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wybrać poprawki adiustacji lub formatowanie komentarza, albo zmienić informacje recenzenta.</translation>
     </message>
     <message>
         <source>ContentControlComboBox.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu pole kombi.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTools.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia narzędzi tabel</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation></translation>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
-        <translation></translation>
+        <translation>Professional document proofread tool in official view</translation>
     </message>
     <message>
         <source>RecentTableShadingColor2.title</source>
-        <translation></translation>
+        <translation>Kolor cieniowania</translation>
     </message>
     <message>
         <source>DetailedSettings_Paragraph.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień akapitu, ustawienia strony oraz styli i formatowania.</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Makra i wyświetlenie listy makr, za pomocą której można bezpośrednio uruchomić, usunąć lub utworzyć makro.</translation>
     </message>
     <message>
         <source>ReadingFind.content</source>
-        <translation></translation>
+        <translation>Szukaj w dokumencie.</translation>
     </message>
     <message>
         <source>Macro.content</source>
-        <translation></translation>
+        <translation>Pokazuje okno dialogowe Makra. Umożliwia wyświetlenie listy makr, za pomocą której można uruchomić, utworzyć lub usunąć makro.</translation>
     </message>
     <message>
         <source>HighlightMergeFields.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyróżnienie pól wstawionych do dokumentu przez użytkownika.
+
+Ta funkcja ułatwia sprawdzenie, czy część listu seryjnego zastała zastąpiona informacjami z wybranej listy adresatów.</translation>
     </message>
     <message>
         <source>CharacterBorder.title</source>
-        <translation></translation>
+        <translation>Obramowanie znaku</translation>
     </message>
     <message>
         <source>GotoNextFootnote.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnego przypisu dolnego w dokumencie.</translation>
     </message>
     <message>
         <source>SectionDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość SectionDetailedSettings</translation>
     </message>
     <message>
         <source>OfficialHVFont.title</source>
-        <translation></translation>
+        <translation>HVFont</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation></translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>Official2Ordinary.title</source>
-        <translation></translation>
+        <translation>Official to Ordinary</translation>
     </message>
     <message>
         <source>PromoteOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeniesienie wybranego elementu na wyższy poziom.</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.title</source>
-        <translation></translation>
+        <translation>Eksport zdjęcia do pliku PDF</translation>
     </message>
     <message>
         <source>AlignBottomRight.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do prawej dolnej</translation>
     </message>
     <message>
         <source>FillColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inny kolor czcionki.</translation>
     </message>
     <message>
         <source>QuickParts.content</source>
-        <translation></translation>
+        <translation>Wstawia autotekst z domyślnym formatowaniem tekstu i pola do dokumentu.</translation>
     </message>
     <message>
         <source>GraphicFillColor2.title</source>
-        <translation></translation>
+        <translation>Wypełnij obraz</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools_Vml.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools_vml.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>ShowHideEditMark.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie znaczników formatów i przycisków układu akapitu w dokumencie.</translation>
     </message>
     <message>
         <source>InsertDateTime.title</source>
-        <translation></translation>
+        <translation>Data i godzina</translation>
     </message>
     <message>
         <source>TableBorderWidth.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę szerokości linii używanej do rysowania obramowań.</translation>
     </message>
     <message>
         <source>BackgroundShapeFillColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie koloru tła strony.</translation>
     </message>
     <message>
         <source>ClosePreview.title</source>
-        <translation></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>InsertRowBelow.title</source>
-        <translation></translation>
+        <translation>Wstaw wiersze poniżej</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>ObjectSelect.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna zadań Okienko zaznaczenia, aby łatwiej znaleźć pojedynczy obiekt lub ustawić jego kolejność i widoczność.</translation>
     </message>
     <message>
         <source>Bullets.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozpoczęcie listy punktowanej.
+
+Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     </message>
     <message>
         <source>Gallery.content</source>
-        <translation></translation>
+        <translation>Galeria WPS dostarcza wszelkiego rodzaju źródeł obrazu do korzystania, zbierania, edycji i zarządzania.
+
+Galeria WPS źródeł Online wymaga połączenia internetowego.</translation>
     </message>
     <message>
         <source>100%25.content</source>
-        <translation></translation>
+        <translation>Umożliwia powiększenie dokumentu do 100% normalnego rozmiaru.</translation>
     </message>
     <message>
         <source>ShowNavigationPane.content</source>
-        <translation></translation>
+        <translation>Pokaż lub ukryj okienko nawigacji.</translation>
     </message>
     <message>
         <source>GraphicFillColor.content</source>
-        <translation></translation>
+        <translation>Wypełnij wybrany obraz kolorem.
+
+Kliknij strzałkę, aby wypełnić go różnymi efektami.</translation>
     </message>
     <message>
         <source>RB_Font.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Czcionka.</translation>
     </message>
     <message>
         <source>m_PageBorder.title</source>
-        <translation></translation>
+        <translation>Obramowania stron</translation>
     </message>
     <message>
         <source>ObjectSelect.title</source>
-        <translation></translation>
+        <translation>Okienko zaznaczenia</translation>
     </message>
     <message>
         <source>LooseLineSpacing.title</source>
-        <translation></translation>
+        <translation>Luźna interlinia</translation>
     </message>
     <message>
         <source>PromoteOnParagraph.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeniesienie zaznaczonego akapitu na wyższy poziom spisu treści.</translation>
     </message>
     <message>
         <source>HeaderLine.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie poziomej linii do nagłówka.</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation></translation>
+        <translation>Umożliwia skompresowanie zaznaczonego obrazu lub wszystkich obrazów w dokumencie w celu zmniejszenia jego rozmiaru.</translation>
     </message>
     <message>
         <source>DemoteToLowestLevelOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia obniżenie tego elementu na najniższy poziom konspektu.</translation>
     </message>
     <message>
         <source>TableBorderColor.title</source>
-        <translation></translation>
+        <translation>Kolor obramowania</translation>
     </message>
     <message>
         <source>PrintOrder.content</source>
-        <translation></translation>
+        <translation>Określ kolejność drukowania: z sortowaniem stron (np. 123123) lub bez sortowania (np. 112233).</translation>
     </message>
     <message>
         <source>TableProperties.title</source>
-        <translation></translation>
+        <translation>Właściwości tabeli</translation>
     </message>
     <message>
         <source>TableSelectMenu.content</source>
-        <translation></translation>
+        <translation>Umożliwia zaznaczenie bieżącej komórki, wiersza, kolumny lub całej tabeli i użycie obramowań kreskowanych do wybranej dowolnej tabeli.</translation>
     </message>
     <message>
         <source>DuplexPrint.title</source>
-        <translation></translation>
+        <translation>Druk dwustronny</translation>
     </message>
     <message>
         <source>DemoteToLowestLevelOnParagraph.content</source>
-        <translation></translation>
+        <translation>Umożliwia obniżenie poziomu zaznaczonego akapitu na najniższy poziom spisu treści.</translation>
     </message>
     <message>
         <source>AlignStyle2.content</source>
-        <translation></translation>
+        <translation>Umożliwia określenie jak powinna być wyrównana zawartość komórki.</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord.content</source>
-        <translation></translation>
+        <translation>Umożliwia zarządzanie pakietami rozszerzeń XML dołączonymi do tego dokumentu lub dołączenie nowego pakietu rozszerzenia.</translation>
     </message>
     <message>
         <source>DocBarcode_pro.content</source>
-        <translation></translation>
+        <translation>use document barcode for flow of documents.</translation>
     </message>
     <message>
         <source>MergeToPrinter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wydrukowanie scalonej zawartości.</translation>
     </message>
     <message>
         <source>Ai Matting.title</source>
-        <translation></translation>
+        <translation>Ai Matting</translation>
     </message>
     <message>
         <source>Numbering.title</source>
-        <translation></translation>
+        <translation>Numerowanie</translation>
     </message>
     <message>
         <source>XmlMapping.title</source>
-        <translation></translation>
+        <translation>Okienko mapowania XML</translation>
     </message>
     <message>
         <source>StopAutoVersion.title</source>
-        <translation></translation>
+        <translation>Zatrzymaj automatyczne tworzenie kopii zapasowych</translation>
     </message>
     <message>
         <source>RejectRevisionOnTB.content</source>
-        <translation></translation>
+        <translation>Umożliwia odrzucenie wybranej zmiany w dokumencie</translation>
     </message>
     <message>
         <source>OfficialSeparatingLine.title</source>
-        <translation></translation>
+        <translation>Separator</translation>
     </message>
     <message>
         <source>PreviousChange.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do poprzedniej poprawki w dokumencie i jej zaakceptowanie lub odrzucenie.</translation>
     </message>
     <message>
         <source>AlignBottomJustified.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do lewego dolnego rogu komórki.</translation>
     </message>
     <message>
         <source>TableProperties.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę zaawansowanych właściwości tabeli, takich jak styl otaczania, opcje wcięć i zezwalanie na podział wierszy między strony.</translation>
     </message>
     <message>
         <source>Gridlines.title</source>
-        <translation></translation>
+        <translation>Linie siatki</translation>
     </message>
     <message>
         <source>ContentControlCheckBox.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu pole wyboru.</translation>
     </message>
     <message>
         <source>FieldFormula.title</source>
-        <translation></translation>
+        <translation>Formuła</translation>
     </message>
     <message>
         <source>PageNumberFormat.title</source>
-        <translation></translation>
+        <translation>Format numeru strony</translation>
     </message>
     <message>
         <source>InsertTheFootnote.title</source>
-        <translation></translation>
+        <translation>Wstaw przypis dolny</translation>
     </message>
     <message>
         <source>SplitWindowMenu.content</source>
-        <translation></translation>
+        <translation>Kliknij, aby podzielić bieżące okno w poziomie lub pionie.</translation>
     </message>
     <message>
         <source>SplitWindow2.content</source>
-        <translation></translation>
+        <translation>Kliknij przycisk, aby podzielić okno w poziomie lub pionie.</translation>
     </message>
     <message>
         <source>TableContents.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie do dokumentu spisu treści przed tekstem podstawowym.</translation>
     </message>
     <message>
         <source>CleanLineSpacing.title</source>
-        <translation></translation>
+        <translation>Wyczyść interlinię</translation>
     </message>
     <message>
         <source>CustomBold2.content</source>
-        <translation></translation>
+        <translation>Make the selected text bold 2.</translation>
     </message>
     <message>
         <source>XmlStructure.title</source>
-        <translation></translation>
+        <translation>Struktura XML</translation>
     </message>
     <message>
         <source>RelocateUpOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia przeniesienie zaznaczonego elementu w górę w obrębie konspektu.</translation>
     </message>
     <message>
         <source>m_LineNumber.title</source>
-        <translation></translation>
+        <translation>Numery wierszy</translation>
     </message>
     <message>
         <source>CrossReference.content</source>
-        <translation></translation>
+        <translation>Umożliwia użycie odsyłacza, aby odwołać się do nagłówków i ilustracji w dokumencie.</translation>
     </message>
     <message>
         <source>LinktoPreviousHeader.title</source>
-        <translation></translation>
+        <translation>Połącz z poprzednim</translation>
     </message>
     <message>
         <source>RejectChangeOnTB.title</source>
-        <translation></translation>
+        <translation>Odrzuć wybraną zmianę</translation>
     </message>
     <message>
         <source>TraditionalChinese.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwersję dokumentu na język chiński tradycyjny.</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation></translation>
+        <translation>Zwiększ poziom listy</translation>
     </message>
     <message>
         <source>PageDiffOddEven.content</source>
-        <translation></translation>
+        <translation>Określ strony nieparzyste i parzyste, aby użyć różnych nagłówków i stopek.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>InsertTheFootnote.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie przypisu dolnego do dokumentu.</translation>
     </message>
     <message>
         <source>LockSideBySide.title</source>
-        <translation></translation>
+        <translation>Przewijanie synchroniczne</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation></translation>
+        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
     </message>
     <message>
         <source>PreviousHeader.title</source>
-        <translation></translation>
+        <translation>Pokaż poprzedni</translation>
     </message>
     <message>
         <source>InsertHeaderFooterGroup.title</source>
-        <translation></translation>
+        <translation>Add Header Footer Group</translation>
     </message>
     <message>
         <source>UpdateTocOnOutlining.content</source>
-        <translation></translation>
+        <translation>Umożliwia aktualizację spisu treści, dzięki czemu wszystkie wpisy będą się odwoływać do poprawnych numerów stron.</translation>
     </message>
     <message>
         <source>ReviewTip2.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertHyperlink.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie łącza do strony sieci web, obrazu lub adresu e-mail.</translation>
     </message>
     <message>
         <source>ContentControlCheckBox.title</source>
-        <translation></translation>
+        <translation>Formant zawartości pola wyboru</translation>
     </message>
     <message>
         <source>BreakForwardLink.content</source>
-        <translation></translation>
+        <translation>Umożliwia przerwanie łącza między zaznaczonym, a następnym polem tekstowym.
+
+Cały tekst zostanie umieszczony w wybranym polu tekstowym.</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.title</source>
-        <translation></translation>
+        <translation>Powiększ</translation>
     </message>
     <message>
         <source>PrinterName.content</source>
-        <translation></translation>
+        <translation>Wybierz drukarkę</translation>
     </message>
     <message>
         <source>CoverPages.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie spośród innych stylów strony tytułowej i wstawienie do dokumentu. Można wypełnić między innymi pola tytułu, autora, adresu e-mail i innych informacji.</translation>
     </message>
     <message>
         <source>AlignCenterJustified.title</source>
-        <translation></translation>
+        <translation>Wyjustuj do środka</translation>
     </message>
     <message>
         <source>Bullets2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     </message>
     <message>
         <source>Gridlines.content</source>
-        <translation></translation>
+        <translation>Umożliwia włączenie/wyłączenie linii siatki, do których można wyrównywać obiekty w dokumencie.</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
-        <translation></translation>
+        <translation>Podgląd wydruku</translation>
     </message>
     <message>
         <source>TableEraser.content</source>
-        <translation></translation>
+        <translation>Umożliwia wymazywanie obramowań tabeli w dokumencie.</translation>
     </message>
     <message>
         <source>OfficialInsertHorizonBlankPage.content</source>
-        <translation></translation>
+        <translation>Insert landscape pages to the document.</translation>
     </message>
     <message>
         <source>statusbarFontMissing.title</source>
-        <translation></translation>
+        <translation>Czcionek użytych w dokumentach nie ma na komputerze</translation>
     </message>
     <message>
         <source>ReducedStep.title</source>
-        <translation></translation>
+        <translation>Zmniejsz interlinię</translation>
     </message>
     <message>
         <source>InsertColumnRight.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie kolumny bezpośrednio z prawej strony zaznaczonej kolumny.</translation>
     </message>
     <message>
         <source>ChangeTextDirection.title</source>
-        <translation></translation>
+        <translation>Kierunek tekstu</translation>
     </message>
     <message>
         <source>m_PageBorder.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie lub zmianę obramowania wokół strony bieżącej sekcji lub całego dokumentu.</translation>
     </message>
     <message>
         <source>TableBorderColor2.title</source>
-        <translation></translation>
+        <translation>Kolor obramowania</translation>
     </message>
     <message>
         <source>XmlMapping.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie danych XML przechowywanych w tym dokumencie i utworzenie połączonych z nimi kontrolek zawartości.</translation>
     </message>
     <message>
         <source>m_tocLevel.title</source>
-        <translation></translation>
+        <translation>Poziom spisu treści</translation>
     </message>
     <message>
         <source>ContentControlsGroupMenu.title</source>
-        <translation></translation>
+        <translation>Grupuj lub rozgrupuj zakres tekstu</translation>
     </message>
     <message>
         <source>RbTableOutsideBorder2.title</source>
-        <translation></translation>
+        <translation>Krawędzie zewnętrzne</translation>
     </message>
     <message>
         <source>EncloseCharacters.title</source>
-        <translation></translation>
+        <translation>Załączanie znaków</translation>
     </message>
     <message>
         <source>CTB_DesignMode.content</source>
-        <translation></translation>
+        <translation>Umożliwia wejście w tryb projektowania, aby edytować formanty nazw i funkcji.</translation>
     </message>
     <message>
         <source>m_ShowReviewer.title</source>
-        <translation></translation>
+        <translation>Pokaż adiustację</translation>
     </message>
     <message>
         <source>TableAutoAdjust.title</source>
-        <translation></translation>
+        <translation>Autodopasowanie</translation>
     </message>
     <message>
         <source>SimplifiedChinese.title</source>
-        <translation></translation>
+        <translation>Uproszczony</translation>
     </message>
     <message>
         <source>RejectChangeOnTB.content</source>
-        <translation></translation>
+        <translation>Umożliwia odrzucenie bieżącej zmiany i usunięcie komentarza.</translation>
     </message>
     <message>
         <source>KxGoogleSearch.title</source>
-        <translation></translation>
+        <translation>Wyszukaj</translation>
     </message>
     <message>
         <source>ContentControlText.title</source>
-        <translation></translation>
+        <translation>Formant zawartości w formie tekstu zwykłego</translation>
     </message>
     <message>
         <source>InsertSectionBefore.title</source>
-        <translation></translation>
+        <translation>Wstaw sekcję przed</translation>
     </message>
     <message>
         <source>OfficialHVFont.content</source>
-        <translation></translation>
+        <translation>Set horizontal and vertical font size.</translation>
     </message>
     <message>
         <source>SplitWindow2.title</source>
-        <translation></translation>
+        <translation>Podziel okno</translation>
     </message>
     <message>
         <source>ReviewPaneTip2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby określić, czy zmiany będą pokazywane poniżej dokumentu, czy obok niego.</translation>
     </message>
     <message>
         <source>AutoFitWindow.content</source>
-        <translation></translation>
+        <translation>Umożliwia automatyczne dostosowanie szerokości tabeli zgodnie z rozmiarem okna</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation></translation>
+        <translation>Eksportuj obraz Weibo</translation>
     </message>
     <message>
         <source>InsertComment.title</source>
-        <translation></translation>
+        <translation>Wstaw komentarz</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation></translation>
+        <translation>Następny komentarz</translation>
     </message>
     <message>
         <source>PreviousTextBox.title</source>
-        <translation></translation>
+        <translation>Poprzednie pole tekstowe</translation>
     </message>
     <message>
         <source>Superscript2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać indeks górny lub indeks dolny.</translation>
     </message>
     <message>
         <source>OfficialSearchComputer.content</source>
-        <translation></translation>
+        <translation>Search the computer with keywords as filename or text in content, and use the results as references in this document.</translation>
     </message>
     <message>
         <source>AlignBottomRight.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do prawego dolnego rogu komórki.</translation>
     </message>
     <message>
         <source>InsertSmartArt.content</source>
-        <translation></translation>
+        <translation>Wstaw grafikę WPSArt, aby wizualnie przekazać informacje.
+
+Grafika WPSArt obejmuje zarówno listy graficzne i schematy procesów, jak i bardziej złożoną grafikę, taką jak diagramy Venna i schematy organizacyjne.</translation>
     </message>
     <message>
         <source>RejectChangeOnTB2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby odrzucić wszystkie zmiany w dokumencie.</translation>
     </message>
     <message>
         <source>OfficialFont.title</source>
-        <translation></translation>
+        <translation>Official Document Fonts</translation>
     </message>
     <message>
         <source>OfficialHead.title</source>
-        <translation></translation>
+        <translation>Head</translation>
     </message>
     <message>
         <source>DetailedSettings_References.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień przypisów dolnych i przypisów końcowych.</translation>
     </message>
     <message>
         <source>ShowHeaderOrFooter.title</source>
-        <translation></translation>
+        <translation>Przełącz między nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Mail.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby otworzyć kartę Korespondencja, która zawiera funkcje, takie jak Korespondencja seryjna.</translation>
     </message>
     <message>
         <source>InsertWordField.content</source>
-        <translation></translation>
+        <translation>Aby rozwiązać problem podziału strony w korespondencji seryjnej, jeśli N wierszy ma być pokazanych na jednej stronie, wstaw N-1 następnych pól.</translation>
     </message>
     <message>
         <source>InsertIndexTables4ZhCn.title</source>
-        <translation></translation>
+        <translation>Wstaw spis treści</translation>
     </message>
     <message>
         <source>MailMergeRecipients.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodawanie lub usuwanie adresatów z listy adresatów korespondencji seryjnej.</translation>
     </message>
     <message>
         <source>CustomBold.content</source>
-        <translation></translation>
+        <translation>Umożliwia pogrubienie zaznaczonego tekstu.</translation>
     </message>
     <message>
         <source>TextDirection.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie poziomej lub pionowej orientacji tekstu do bieżącej sekcji, całego dokumentu, zaznaczonego pola tekstowego lub tabeli.</translation>
     </message>
     <message>
         <source>InsertCells.title</source>
-        <translation></translation>
+        <translation>Wstaw komórki</translation>
     </message>
     <message>
         <source>InsertBookmark.title</source>
-        <translation></translation>
+        <translation>Wstaw zakładkę</translation>
     </message>
     <message>
         <source>LinktoPreviousHeader.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie łącza do poprzedniej sekcji, tak aby nagłówek i stopka bieżącej sekcji miały tę samą zawartość jak w poprzedniej sekcji.</translation>
     </message>
     <message>
         <source>HeaderDistance.title</source>
-        <translation></translation>
+        <translation>Odległość nagłówka od dołu</translation>
     </message>
     <message>
         <source>ReviewPaneTip.title</source>
-        <translation></translation>
+        <translation>Okienko recenzowania</translation>
     </message>
     <message>
         <source>DisableLineHeightGrid.title</source>
-        <translation></translation>
+        <translation>Przyciągaj do siatki</translation>
     </message>
     <message>
         <source>3DLightingPalette.title</source>
-        <translation></translation>
+        <translation>Oświetlenie</translation>
     </message>
     <message>
         <source>Numbering2.title</source>
-        <translation></translation>
+        <translation>Numerowanie</translation>
     </message>
     <message>
         <source>Bullets.title</source>
-        <translation></translation>
+        <translation>Punktory</translation>
     </message>
     <message>
         <source>InsertGeogebra.title</source>
-        <translation></translation>
+        <translation>Wstaw geometrię</translation>
     </message>
     <message>
         <source>RbTableOutsideBorder.title</source>
-        <translation></translation>
+        <translation>Krawędzie zewnętrzne</translation>
     </message>
     <message>
         <source>Official2RowsEditions.content</source>
-        <translation></translation>
+        <translation>Insert a two-row edition information to the end of the document.</translation>
     </message>
     <message>
         <source>MultiplePages.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę powiększenia dokumentu, tak aby w oknie było widocznych kilka stron.</translation>
     </message>
     <message>
         <source>TightLineSpacing.title</source>
-        <translation></translation>
+        <translation>Przyległa interlinia</translation>
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation></translation>
+        <translation>Umożliwia podgląd efektów strony przed wydrukowaniem.</translation>
     </message>
     <message>
         <source>NextHeader.title</source>
-        <translation></translation>
+        <translation>Pokaż następny</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools_Vml.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień kształtu i formatowania czcionki kształtów.</translation>
     </message>
     <message>
         <source>HeadRowsRepeat.content</source>
-        <translation></translation>
+        <translation>Umożliwia powtarzanie wierszy nagłówka zaznaczonej tabeli na każdej stronie.
+
+Wpływa to tylko na tabele wykraczające poza pojedynczą stronę.</translation>
     </message>
     <message>
         <source>H5LinkManager.title</source>
-        <translation></translation>
+        <translation>Zarządzaj udostępnionym łączem</translation>
     </message>
     <message>
         <source>m_tocLevel.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie poziomu spisu treści dla zaznaczonego akapitu.</translation>
     </message>
     <message>
         <source>ShowFirstPageNumber.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie numeru strony na pierwszej stronie dokumentu.</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation></translation>
+        <translation>Wstaw ClipArt</translation>
     </message>
     <message>
         <source>PhoneticGuide2.title</source>
-        <translation></translation>
+        <translation>Inne opcje</translation>
     </message>
     <message>
         <source>sp_DeleteComment2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby usunąć wszystkie komentarze w dokumencie.</translation>
     </message>
     <message>
         <source>OfficialDocumentBarcode.title</source>
-        <translation></translation>
+        <translation>Official Document QR Code</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation></translation>
+        <translation>Narzędzia deweloperów</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation></translation>
+        <translation>Kolor czcionki</translation>
     </message>
     <message>
         <source>HighlightMergeFields.title</source>
-        <translation></translation>
+        <translation>Wyróżnij pola korespondencji seryjnej</translation>
     </message>
     <message>
         <source>AcceptChangeOnTB.title</source>
-        <translation></translation>
+        <translation>Zaakceptuj wybraną zmianę</translation>
     </message>
     <message>
         <source>AlignCenterRight.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyśrodkowanie tekstu w pionie i wyrównanie go do prawej strony komórki.</translation>
     </message>
     <message>
         <source>Tabs.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Tabulatory i ustawienie pozycji tabulatora tekstu.</translation>
     </message>
     <message>
         <source>Sort.content</source>
-        <translation></translation>
+        <translation>Aranżuj bieżący wybór w porządku alfabetycznym lub numerycznym.
+
+Jest to szczególnie przydatne, jeśli próbujesz uporządkować dane w tabeli.</translation>
     </message>
     <message>
         <source>WrapText.content</source>
-        <translation></translation>
+        <translation>pozostawić puste - tak jest ok - wyjaśnione z producentem</translation>
     </message>
     <message>
         <source>InsertPageNumbers.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie numerów stron do dokumentu.</translation>
     </message>
     <message>
         <source>EmphasisMark.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie czarnych kropek pod zaznaczoną zawartością, aby pokazać wyróżnienie.
+
+Kliknij strzałkę, aby dodać przekreślenie.</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.title</source>
-        <translation></translation>
+        <translation>Tajski rozłożony</translation>
     </message>
     <message>
         <source>ShowGridlines.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie linii siatki w tabeli, która nie ma obramowania.</translation>
     </message>
     <message>
         <source>FormatAlignRight.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do prawej.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyśrodkowanie tekstu w pionie i poziomie wewnątrz komrki.</translation>
     </message>
     <message>
         <source>FirstSection.title</source>
-        <translation></translation>
+        <translation>Pierwsza sekcja</translation>
     </message>
     <message>
         <source>TableBorderStyle.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę stylu linii używanej do rysowania obramowań.</translation>
     </message>
     <message>
         <source>SplitWindowMenu.title</source>
-        <translation></translation>
+        <translation>Podziel okno</translation>
     </message>
     <message>
         <source>ReadingView.content</source>
-        <translation></translation>
+        <translation>Automatyczny układ zawartości, łatwe odwracanie stron.</translation>
     </message>
     <message>
         <source>Compare.title</source>
-        <translation></translation>
+        <translation>Porównaj</translation>
     </message>
     <message>
         <source>CustomBold.title</source>
-        <translation></translation>
+        <translation>Pogrubienie</translation>
     </message>
     <message>
         <source>OpenDataSource.content</source>
-        <translation></translation>
+        <translation>Umożliwia otwarcie źródeł danych w folderze lokalnym, takich jak pliki arkuszy kalkulacyjnych, pliki bazy danych i pliki tekstowe.</translation>
     </message>
     <message>
         <source>MergeToNewDoc.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyeksportowanie scalonej zawartości do nowego dokumentu.</translation>
     </message>
     <message>
         <source>Compare.content</source>
-        <translation></translation>
+        <translation>Umożliwia porównanie dwóch dokumentów w celu zobaczenia różnic między nimi.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie automatycznego lub ręcznego tworzenia kopii zapasowych dla bieżącego dokumentu. Kopia zapasowa zostanie zapisana do Pliku bezpieczeństwa.</translation>
     </message>
     <message>
         <source>ArtisticWordCharacterSpacing.title</source>
-        <translation></translation>
+        <translation>Odstępy między znakami</translation>
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do poprzedniego komentarza w dokumencie.</translation>
     </message>
     <message>
         <source>Chinese%20Translation.title</source>
-        <translation></translation>
+        <translation>Tłumaczenie uproszczony chiński/tradycyjny chiński</translation>
     </message>
     <message>
         <source>OfficialNormalPageSetup.title</source>
-        <translation></translation>
+        <translation>Ustawienia strony</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
-        <translation></translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message>
         <source>GraphicLineColor.content</source>
-        <translation></translation>
+        <translation>Ustaw kolor, szerokość i styl linii dla konturu wybranego obrazu.
+
+Kliknij strzałkę, aby ustawić szczegóły konturu.</translation>
     </message>
     <message>
         <source>OutLineLevelComboOnOutlining.title</source>
-        <translation></translation>
+        <translation>Poziom konspektu</translation>
     </message>
     <message>
         <source>InsertRowBelow.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie nowego wiersza bezpośrednio poniżej zaznaczonego wiersza.</translation>
     </message>
     <message>
         <source>CompressPictures.title</source>
-        <translation></translation>
+        <translation>Kompresuj obrazy</translation>
     </message>
     <message>
         <source>UpdateIndex.content</source>
-        <translation></translation>
+        <translation>Zaktualizuj indeks, aby wszystkie hasła odnosiły się do prawidłowego numeru strony.</translation>
     </message>
     <message>
         <source>PrintCopies.title</source>
-        <translation></translation>
+        <translation>Kopie</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation></translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation></translation>
+        <translation>Umożliwia znalezienie tekstu w dokumencie.
+
+Kliknij strzałkę, aby wybrać inne opcje, takie jak Przejdź do.</translation>
     </message>
     <message>
         <source>HeaderLine.title</source>
-        <translation></translation>
+        <translation>Pokaż linię nagłówka</translation>
     </message>
     <message>
         <source>RecentFastCalc.content</source>
-        <translation></translation>
+        <translation>Umożliwia wykonanie obliczenia wartości suma, średnia, maksimum lub minimum dla zaznaczonego wiersza lub kolumny danych.
+
+Wyniki zostaną wyświetlone w następnej komórce po zaznaczonych komórach w tym samym wierszu lub kolumnie. Jeśli nie istnieje taka komórka, zostanie utworzony nowy wiersz lub kolumna.</translation>
     </message>
     <message>
         <source>TableAutoAdjust.content</source>
-        <translation></translation>
+        <translation>Umożliwia automatyczną zmianę szerokości wiersza lub kolumny w tabeli.</translation>
     </message>
     <message>
         <source>InsertColumnRight.title</source>
-        <translation></translation>
+        <translation>Wstaw kolumny po prawej</translation>
     </message>
     <message>
         <source>GotoFootnotes.title</source>
-        <translation></translation>
+        <translation>Następny Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>WordTools.title</source>
-        <translation></translation>
+        <translation>Skład programu Word</translation>
     </message>
     <message>
         <source>InsertBlankPage2.title</source>
-        <translation></translation>
+        <translation>Pusta strona</translation>
     </message>
     <message>
         <source>PrinterName.title</source>
-        <translation></translation>
+        <translation>Nazwa drukarki</translation>
     </message>
     <message>
         <source>TableEraser.title</source>
-        <translation></translation>
+        <translation>Gumka tabeli</translation>
     </message>
     <message>
         <source>ViewMergedData.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastąpienie pól scalania w dokumencie rzeczywistymi danymi z listy adresatów, co zapewnia podgląd tych danych.</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation></translation>
+        <translation>Konwertuj plik PDF na plik programu Word</translation>
     </message>
     <message>
         <source>m_LineSpacing.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę odstępów między wierszami tekstu.</translation>
     </message>
     <message>
         <source>PromoteOnParagraph.title</source>
-        <translation></translation>
+        <translation>Podwyższ poziom spisu treści</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation></translation>
+        <translation>PDF na Word</translation>
     </message>
     <message>
         <source>LineColor2.title</source>
-        <translation></translation>
+        <translation>Kontur kształtu</translation>
     </message>
     <message>
         <source>FullScreenMode.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie dokumentu w trybie pełnoekranowym.</translation>
     </message>
     <message>
         <source>PageNumber.title</source>
-        <translation></translation>
+        <translation>Wstaw numer strony</translation>
     </message>
     <message>
         <source>FormatAlignCenter.title</source>
-        <translation></translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>SectionDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia sekcji</translation>
     </message>
     <message>
         <source>sp_DeleteComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia usunięcie zaznaczonego komentarza.</translation>
     </message>
     <message>
         <source>Underline2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>OfficialSingleRowEdition.content</source>
-        <translation></translation>
+        <translation>Insert a one-row edition information to the end of the document.</translation>
     </message>
     <message>
         <source>sp_DeleteComment2.title</source>
-        <translation></translation>
+        <translation>Usuń komentarz</translation>
     </message>
     <message>
         <source>TableofFigures.title</source>
-        <translation></translation>
+        <translation>Wstaw spis ilustracji</translation>
     </message>
     <message>
         <source>AcceptChangeOnTB2.title</source>
-        <translation></translation>
+        <translation>Zaakceptuj wybraną zmianę</translation>
     </message>
     <message>
         <source>H5LinkManager.content</source>
-        <translation></translation>
+        <translation>Kliknij, aby zarządzać, usunąć lub wysłać łącza.</translation>
     </message>
     <message>
         <source>MorePrintSettings.title</source>
-        <translation></translation>
+        <translation>Więcej ustawień</translation>
     </message>
     <message>
         <source>GotoPrevFootnote.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do poprzedniego przypisu dolnego w dokumencie.</translation>
     </message>
     <message>
         <source>WaterMark.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie półprzezroczystego tekstu i obrazu pod zawartością strony.
+
+Taki tekst jest często używany w celu wskazania, że materiał jest dokumentem specjalnym, na przykład zaszyfrowanym, poufnym i nie przeznaczonym do kopiowania lub do oznaczenia źródła dokumentu takiego jak dodawanie loga praw autorskich i informacji o autorze.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTool.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania tabeli.</translation>
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation></translation>
+        <translation>Umożliwia skopiowanie formatowania z jednego miejsca i zastosowanie go do innego miejsca.
+
+Aby zastosować to samo formatowanie w wielu miejscach dokumentu, należy kliknąć ten przycisk dwukrotnie.</translation>
     </message>
     <message>
         <source>DetailedSettings_PageLayout.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień ustawienia strony i akapitu.</translation>
     </message>
     <message>
         <source>ShowHideTextOctopus.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie przycisku Układ akapitu w dokumencie.</translation>
     </message>
     <message>
         <source>MergeToEmail.title</source>
-        <translation></translation>
+        <translation>Scal do poczty e-mail</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation></translation>
+        <translation>Umożliwia użycie domyślnej drukarki do drukowania bezpośredniego.</translation>
     </message>
     <message>
         <source>AlignTopRight.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do prawego górnego rogu komórki.</translation>
     </message>
     <message>
         <source>Mail.title</source>
-        <translation></translation>
+        <translation>Korespondencja</translation>
     </message>
     <message>
         <source>ShowFirstPageNumber.title</source>
-        <translation></translation>
+        <translation>Pokaż numer pierwszej strony</translation>
     </message>
     <message>
         <source>SmartOfficial.content</source>
-        <translation></translation>
+        <translation>Normal Document Convert to Official document</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
-        <translation></translation>
+        <translation>Czytanie</translation>
     </message>
     <message>
         <source>MailMergeRecipients.title</source>
-        <translation></translation>
+        <translation>Adresaci</translation>
     </message>
     <message>
         <source>Replace.content</source>
-        <translation></translation>
+        <translation>Umożliwia zamianę zawartości tekstowej w dokumencie.</translation>
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation></translation>
+        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
-        <translation></translation>
+        <translation>Zresetuj rozmiar</translation>
     </message>
     <message>
         <source>ContentControlRichText.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu tekst sformatowany.</translation>
     </message>
     <message>
         <source>InsertColumnLeft.title</source>
-        <translation></translation>
+        <translation>Wstaw kolumny po lewej</translation>
     </message>
     <message>
         <source>OfficialZoomOnePage.content</source>
-        <translation></translation>
+        <translation>Change the zoom scale to fit a single page to the window.</translation>
     </message>
     <message>
         <source>ReviewTip.title</source>
-        <translation></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CloseOutlineview.title</source>
-        <translation></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>InsertTheEndnote.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie przypisu końcowego do dokumentu.</translation>
     </message>
     <message>
         <source>GenkoSetting.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie ustawień Genko do bieżącego dokumentu.</translation>
     </message>
     <message>
         <source>InsertFootnote.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie do dokumentu przypisu dolnego lub przypisu końcowego.</translation>
     </message>
     <message>
         <source>WordCount.title</source>
-        <translation></translation>
+        <translation>Statystyka wyrazów</translation>
     </message>
     <message>
         <source>PhoneticGuide.title</source>
-        <translation></translation>
+        <translation>Przewodnik fonetyczny</translation>
     </message>
     <message>
         <source>WebPreview.title</source>
-        <translation></translation>
+        <translation>Utwórz łącze i udostępnij</translation>
     </message>
     <message>
         <source>ExitParagraph.title</source>
-        <translation></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>CreateTextBoxLink.title</source>
-        <translation></translation>
+        <translation>Utwórz łącze do pola tekstowego</translation>
     </message>
     <message>
         <source>Recommended Photo2PDF.title</source>
-        <translation></translation>
+        <translation>Zalecany Picture2PDF</translation>
     </message>
     <message>
         <source>WrapText.title</source>
-        <translation></translation>
+        <translation>Zawijaj tekst</translation>
     </message>
     <message>
         <source>PDFToPPT.title</source>
-        <translation></translation>
+        <translation>PDF na PPT</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation></translation>
+        <translation>SendFileTip.title</translation>
     </message>
     <message>
         <source>InsertSectionAfter.title</source>
-        <translation></translation>
+        <translation>Wstaw sekcję po</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation></translation>
+        <translation>The file will be automatically saved for you when it is turned on.</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia nadanie tekstowi takiego wyglądu, jak gdyby był oznaczony zakreślaczem.
+
+Kliknij strzałkę, aby wybrać inny kolor wyróżnienia.</translation>
     </message>
     <message>
         <source>ShowTocNavigationPane.content</source>
-        <translation></translation>
+        <translation>Pokaż lub ukryj nawigację w okienku.</translation>
     </message>
 </context>
 </TS>
