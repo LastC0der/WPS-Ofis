@@ -1,2623 +1,2673 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="pl_PL">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>Translate Image.content</source>
-        <translation></translation>
+        <translation>Szybko przetłumacz tekst z obrazu (obsługiwane jest tylko tłumaczenie z chińskiego na angielski)</translation>
     </message>
     <message>
         <source>ResetLayout.title</source>
-        <translation></translation>
+        <translation>Resetuj układ</translation>
     </message>
     <message>
         <source>ShapeLine.title</source>
-        <translation></translation>
+        <translation>Kontur kształtu</translation>
     </message>
     <message>
         <source>ShapeSize.title</source>
-        <translation></translation>
+        <translation>Rozmiar kształtu</translation>
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation></translation>
+        <translation>Organizuj pliki szybko i łatwo.</translation>
     </message>
     <message>
         <source>AnimationSchemes.title</source>
-        <translation></translation>
+        <translation>Schematy animacji</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
-        <translation></translation>
+        <translation>Malarz formatów</translation>
     </message>
     <message>
         <source>WpPrintWhat_OutlineView.title</source>
-        <translation></translation>
+        <translation>Widok konspektu</translation>
     </message>
     <message>
         <source>SlideOrientation.title</source>
-        <translation></translation>
+        <translation>Orientacja slajdu</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation></translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <source>ZoomFit.content</source>
-        <translation></translation>
+        <translation>Umożliwia powiększenie prezentacji tak, aby slajd wypełnił okno.</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation></translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation></translation>
+        <translation>Szybkie drukowanie</translation>
     </message>
     <message>
         <source>TableLeft.title</source>
-        <translation></translation>
+        <translation>Wyrównaj tekst do lewej</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.title</source>
-        <translation></translation>
+        <translation>Zmień kolor</translation>
     </message>
     <message>
         <source>InsertDateTime.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Data i godzina w celu wstawienia bieżącej daty lub godziny w bieżącym dokumencie.</translation>
     </message>
     <message>
         <source>InsertChart.title</source>
-        <translation></translation>
+        <translation>Wstaw wykres</translation>
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation></translation>
+        <translation>Umożliwia odrzucenie wszystkich zmian formatowania wprowadzonych na tym obrazie.</translation>
     </message>
     <message>
         <source>MorePrintSettings.content</source>
-        <translation></translation>
+        <translation>Szczegółowe informacje dotyczące ustawień wydruku, w tym wybierania drukarki, drukowania stron, druku dwustronnego, powiększania i innych.</translation>
     </message>
     <message>
         <source>DrawTable.title</source>
-        <translation></translation>
+        <translation>Rysuj tabelę</translation>
     </message>
     <message>
         <source>PrintingOrder.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie poziomej lub pionowej kolejności drukowania materiałów informacyjnych.</translation>
     </message>
     <message>
         <source>MergeShapes.title</source>
-        <translation></translation>
+        <translation>Scal kształty</translation>
     </message>
     <message>
         <source>Superscript.title</source>
-        <translation></translation>
+        <translation>Indeks górny</translation>
     </message>
     <message>
         <source>Replace.title</source>
-        <translation></translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>SmartChoice.title</source>
-        <translation></translation>
+        <translation>Wybór inteligentny</translation>
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie wybranego pliku do dokumentu.</translation>
     </message>
     <message>
         <source>AddSubordinate.content</source>
-        <translation></translation>
+        <translation>Umożliwia podwładnego asystenta dla wybranego członka.</translation>
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation></translation>
+        <translation>Indeks dolny</translation>
     </message>
     <message>
         <source>Arrange.title</source>
-        <translation></translation>
+        <translation>Rozmieść</translation>
     </message>
     <message>
         <source>weibotool.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwertowanie dokumentu do obrazu dla udostępniania w Weibo.</translation>
     </message>
     <message>
         <source>GraphicFill2.title</source>
-        <translation></translation>
+        <translation>Wypełnij obraz</translation>
     </message>
     <message>
         <source>WpPrintWhat_6.title</source>
-        <translation></translation>
+        <translation>Materiały informacyjne (6 slajdów na stronę)</translation>
     </message>
     <message>
         <source>Normal.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie prezentacji w widoku normalnym.</translation>
     </message>
     <message>
         <source>ShowHideGrid.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie linii siatki w prezentacji.</translation>
     </message>
     <message>
         <source>Paste.content</source>
-        <translation></translation>
+        <translation>Umożliwia wklejenie zawartości schowka.</translation>
     </message>
     <message>
         <source>GraphicLine2.title</source>
-        <translation></translation>
+        <translation>Kontur obrazu</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wybrać inne drukowanie zawartości, takich jak Slajdy, Materiały informacyjne, Strony notatek i Konspekt.</translation>
     </message>
     <message>
         <source>PageSetup.title</source>
-        <translation></translation>
+        <translation>Ustawienia strony</translation>
     </message>
     <message>
         <source>SlideDesign.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna zadań Projekt slajdu - Szablony projektów w celu zastosowania innych szablonów dla bieżącego slajdu lub całej prezentacji.</translation>
     </message>
     <message>
         <source>DrawAlignTop.content</source>
-        <translation></translation>
+        <translation>Umożliwia określenie wyrównania tekstu.
+
+Kliknij strzałkę, aby wybrać inne wyrównanie.</translation>
     </message>
     <message>
         <source>TaskPane.title</source>
-        <translation></translation>
+        <translation>Okno zadań</translation>
     </message>
     <message>
         <source>Rotate.content</source>
-        <translation></translation>
+        <translation>Umożliwia obrócenie lub przerzucenie zaznaczonego obiektu.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania tekstu WordArt.</translation>
     </message>
     <message>
         <source>InsertColumnsRight.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie kolumny z prawej strony zaznaczonej kolumny.</translation>
     </message>
     <message>
         <source>ExportToImage.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyeksportowanie dokumentu do obrazu.</translation>
     </message>
     <message>
         <source>WordArtAlignment.content</source>
-        <translation></translation>
+        <translation>Umożliwia określenie sposobu wyrównywania poszczególnych wierszy w wielowierszowym tekście WordArt.</translation>
     </message>
     <message>
         <source>TextFontColor2.title</source>
-        <translation></translation>
+        <translation>Kolor tekstu</translation>
     </message>
     <message>
         <source>PrevPrintHiddenSlide.title</source>
-        <translation></translation>
+        <translation>Drukuj ukryte slajdy</translation>
     </message>
     <message>
         <source>GraphicFill.content</source>
-        <translation></translation>
+        <translation>Wypełnij wybrany obraz kolorem.
+
+Kliknij strzałkę, aby wypełnić go różnymi efektami.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation></translation>
+        <translation>Umożliwia podkreślenie zaznaczonego tekstu.
+
+Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>DrawAlignTop2.title</source>
-        <translation></translation>
+        <translation>Wyrównaj tekst</translation>
     </message>
     <message>
         <source>RecentFillColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałki, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>ShapeFill2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>InsertSmartArt.title</source>
-        <translation></translation>
+        <translation>Wstaw grafikę WPSArt</translation>
     </message>
     <message>
         <source>WebPreview.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie łącza i kodu QR oraz udostępnienie go do Wechat, QQ, Weibo, Qzone.</translation>
     </message>
     <message>
         <source>ArrangeAll.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozmieszczenie wszystkich otwartych okien dokumentów w układzie obok siebie w tym samym oknie programu.</translation>
     </message>
     <message>
         <source>AudioPlay.title</source>
-        <translation></translation>
+        <translation>Odtwarzaj</translation>
     </message>
     <message>
         <source>WpPrintWhat_9.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie drukowania zawartości jako Materiały informacyjne (9 slajdów na stronę).</translation>
     </message>
     <message>
         <source>WpPrintWhat_3.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie drukowania zawartości jako Materiały informacyjne (3 slajdy na stronę).</translation>
     </message>
     <message>
         <source>WpPrintWhat_4.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie drukowania zawartości jako Materiały informacyjne (4 slajdy na stronę).</translation>
     </message>
     <message>
         <source>WpPrintWhat_1.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie drukowania zawartości jako Materiały informacyjne (1 slajd na stronę).</translation>
     </message>
     <message>
         <source>WpPrintWhat_2.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie drukowania zawartości jako Materiały informacyjne (2 slajdy na stronę).</translation>
     </message>
     <message>
         <source>WpPrintWhat_6.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie drukowania zawartości jako Materiały informacyjne (6 slajdów na stronę).</translation>
     </message>
     <message>
         <source>AudioBegin.title</source>
-        <translation></translation>
+        <translation>Początek dźwięku</translation>
     </message>
     <message>
         <source>ColorScheme.title</source>
-        <translation></translation>
+        <translation>Schematy kolorów</translation>
     </message>
     <message>
         <source>ExportToImage.title</source>
-        <translation></translation>
+        <translation>Eksportuj do obrazu</translation>
     </message>
     <message>
         <source>TextBox.title</source>
-        <translation></translation>
+        <translation>Rysuj poziome pole tekstowe</translation>
     </message>
     <message>
         <source>TransitionEffect.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna zadań Efekty przejścia w celu ustawienia efektów do wybranych slajdów lub całej prezentacji.</translation>
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation></translation>
+        <translation>Zresetuj rozmiar</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
-        <translation></translation>
+        <translation>Wstaw obiekt z pliku</translation>
     </message>
     <message>
         <source>LineBreak.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę formatu podziału wiersza.</translation>
     </message>
     <message>
         <source>SetUpShow.title</source>
-        <translation></translation>
+        <translation>Przygotuj pokaz slajdów</translation>
     </message>
     <message>
         <source>FormatAlignLeft.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>AlignTop.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do góry</translation>
     </message>
     <message>
         <source>Ruler.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie lub ukrycie linijek służących do mierzenia i wyrównywania obiektów w dokumencie.</translation>
     </message>
     <message>
         <source>ShapeFill.content</source>
-        <translation></translation>
+        <translation>Umożliwia wypełnienie zaznaczonego kształtu pełnym kolorem, gradientem, obrazem lub teksturą.
+
+Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Ustawienia strony.</translation>
     </message>
     <message>
         <source>RB_Font.title</source>
-        <translation></translation>
+        <translation>Czcionka</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation></translation>
+        <translation>Otwórz zakładkę Narzędzia deweloperów, aby wstawić Przycisk opcji, Pole wyboru i inne.</translation>
     </message>
     <message>
         <source>GraphicFill.title</source>
-        <translation></translation>
+        <translation>Wypełnij obraz</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie rysunku ClipArt z okna zadań i wstawienie go do dokumentu.</translation>
     </message>
     <message>
         <source>InsertRowsAbove.title</source>
-        <translation></translation>
+        <translation>Wstaw wiersze powyżej</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie łącza do strony sieci web, obrazu lub adresu e-mail.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia edycję komentarza.</translation>
     </message>
     <message>
         <source>InsertChart.content</source>
-        <translation></translation>
+        <translation>Umożliwia edytowanie wstawionego wykresu w programie WPS Spreadsheets.
+
+Po zamknieciu programu WPS Spreadsheets, wykres w dokumencie można nadal normalnie wyświetlać.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation></translation>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.content</source>
-        <translation></translation>
+        <translation>Wybierz z wielu różnych schematów kolorów</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
-        <translation></translation>
+        <translation>Konwertuj dokumenty na pliki Excel</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawianie gotowych kształtów, takich jak prostokąty, okręgi, strzałki, linie, symbole schematu blokowego i objaśnienia.</translation>
     </message>
     <message>
         <source>Package.title</source>
-        <translation></translation>
+        <translation>Pakiet Pliku prezentacji</translation>
     </message>
     <message>
         <source>HighlightColor2.title</source>
-        <translation></translation>
+        <translation>Kolor wyróżnienia tekstu</translation>
     </message>
     <message>
         <source>Paste2.title</source>
-        <translation></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <source>WordArtAlignment.title</source>
-        <translation></translation>
+        <translation>Wyrównanie WordArt</translation>
     </message>
     <message>
         <source>TransitionEffect.title</source>
-        <translation></translation>
+        <translation>Efekty przejścia</translation>
     </message>
     <message>
         <source>DeleteMember.content</source>
-        <translation></translation>
+        <translation>Usuń wybrany element członkowski</translation>
     </message>
     <message>
         <source>SlideTransApplyToAll.content</source>
-        <translation></translation>
+        <translation>Zastosuj do wszystkich slajdów ustawienia animacji przejścia, efektu i zmiany slajdu.</translation>
     </message>
     <message>
         <source>sp_Macros.title</source>
-        <translation></translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień czcionki, akapitu oraz styli i formatowania.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation></translation>
+        <translation>Kopia zapasowa pliku</translation>
     </message>
     <message>
         <source>DuplicateSlide.title</source>
-        <translation></translation>
+        <translation>Nowa kopia slajdu</translation>
     </message>
     <message>
         <source>SlideMasterClose.title</source>
-        <translation></translation>
+        <translation>Zamknij widok wzorca</translation>
     </message>
     <message>
         <source>PaperSize.title</source>
-        <translation></translation>
+        <translation>Rozmiar papieru</translation>
     </message>
     <message>
         <source>VideoPlay.title</source>
-        <translation></translation>
+        <translation>Odtwarzaj</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides.title</source>
-        <translation></translation>
+        <translation>Drukowanie zawartości</translation>
     </message>
     <message>
         <source>AnimationPainter.title</source>
-        <translation></translation>
+        <translation>Animation Brush</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnego komentarza w dokumencie.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.title</source>
-        <translation></translation>
+        <translation>Stopka</translation>
     </message>
     <message>
         <source>HideAudio.content</source>
-        <translation></translation>
+        <translation>Ukryj po zatrzymaniu.</translation>
     </message>
     <message>
         <source>HeaderPlaceHolder.title</source>
-        <translation></translation>
+        <translation>Nagłówek</translation>
     </message>
     <message>
         <source>LoopAudio.content</source>
-        <translation></translation>
+        <translation>Odtwarzaj dźwięk w pętli.</translation>
     </message>
     <message>
         <source>weibotool.title</source>
-        <translation></translation>
+        <translation>Narzędzie Weibo</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation></translation>
+        <translation>Kolor czcionki</translation>
     </message>
     <message>
         <source>WpPrintWhat_4.title</source>
-        <translation></translation>
+        <translation>Materiały informacyjne (4 slajdy na stronę)</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation></translation>
+        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
     </message>
     <message>
         <source>TextBox2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wstawić poziome, pionowe lub wielowierszowe pola tekstowe.</translation>
     </message>
     <message>
         <source>Markup.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie znaczników adiustacji w dokumencie.</translation>
     </message>
     <message>
         <source>Arrange.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozmieszczenie obiektów na slajdzie przez zmianę ich kolejności, położenia i obrotu.</translation>
     </message>
     <message>
         <source>TraditionalChinese.title</source>
-        <translation></translation>
+        <translation>Tradycyjny</translation>
     </message>
     <message>
         <source>FontAlignMenu.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie wyrównania między czcionkami.</translation>
     </message>
     <message>
         <source>OnlineCooperation.content</source>
-        <translation></translation>
+        <translation>Otwórz dokument do wspólnej edycji.</translation>
     </message>
     <message>
         <source>HighlightColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inny kolor wyróżnienia.</translation>
     </message>
     <message>
         <source>Paste2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby uzyskać więcej opcji takich jak wklejanie tylko tekstu niesformatowanego.</translation>
     </message>
     <message>
         <source>AudioAcrossPage.content</source>
-        <translation></translation>
+        <translation>Ustawienie odtwarzania dźwięku od tej strony do określonej strony.</translation>
     </message>
     <message>
         <source>Group.title</source>
-        <translation></translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>InteractiveChart.content</source>
-        <translation></translation>
+        <translation>Twórz efektowne i dynamiczne wykresy interaktywne zwiększające atrakcyjność prezentacji.</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.content</source>
-        <translation></translation>
+        <translation>Wybierz inny styl</translation>
     </message>
     <message>
         <source>importtemplates.content</source>
-        <translation></translation>
+        <translation>Umożliwia zaimportowanie szablonów lokalnych.</translation>
     </message>
     <message>
         <source>PDFToPPT.content</source>
-        <translation></translation>
+        <translation>Konwertuj dokumenty na pliki PPT</translation>
     </message>
     <message>
         <source>R2LTextDirection.title</source>
-        <translation></translation>
+        <translation>Kierunek tekstu od prawej do lewej</translation>
     </message>
     <message>
         <source>L2RTextDirection.title</source>
-        <translation></translation>
+        <translation>Kierunek tekstu od lewej do prawej</translation>
     </message>
     <message>
         <source>FitTextTip.content</source>
-        <translation></translation>
+        <translation>Umożliwia dopasowanie tekstu do kształtów.</translation>
     </message>
     <message>
         <source>TextDirection.title</source>
-        <translation></translation>
+        <translation>Kierunek tekstu</translation>
     </message>
     <message>
         <source>DrawAlignLeft.title</source>
-        <translation></translation>
+        <translation>Wyrównaj</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia narzędzi do rysowania</translation>
     </message>
     <message>
         <source>SlideLibrary.content</source>
-        <translation></translation>
+        <translation>Wstaw do aktualnej prezentacji nowy slajd z Szablonów internetowych.</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
-        <translation></translation>
+        <translation>Zablokuj proporcje</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation></translation>
+        <translation>The modified document is automatically saved for you to avoid loss of document content.</translation>
     </message>
     <message>
         <source>DistRowSevenly.title</source>
-        <translation></translation>
+        <translation>Rozłóż wiersze równomiernie</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation></translation>
+        <translation>SendFileTip.content</translation>
     </message>
     <message>
         <source>MasterLayout.title</source>
-        <translation></translation>
+        <translation>Układ wzorca</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.content</source>
-        <translation></translation>
+        <translation>Zmień liczbę elementów</translation>
     </message>
     <message>
         <source>SlideLayouts.title</source>
-        <translation></translation>
+        <translation>Układ slajdu</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wybrać Od początku lub Od bieżącego slajdu.</translation>
     </message>
     <message>
         <source>BordersFill.title</source>
-        <translation></translation>
+        <translation>Obramowania</translation>
     </message>
     <message>
         <source>DrawAlignTop2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne wyrównanie.</translation>
     </message>
     <message>
         <source>TableEffects.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodawanie do tabeli efektów graficznych, takich jak cień lub odbicie.</translation>
     </message>
     <message>
         <source>WppSharePlay2.title</source>
-        <translation></translation>
+        <translation>Wspólne oglądanie</translation>
     </message>
     <message>
         <source>WpsAssistMagic.content</source>
-        <translation></translation>
+        <translation>Wypróbuj losowe szablony!</translation>
     </message>
     <message>
         <source>WordArtCharacterSpacing.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę odstępów między literami zaznaczonego tekstu WordArt.</translation>
     </message>
     <message>
         <source>NewSlideMaster.title</source>
-        <translation></translation>
+        <translation>Nowy wzorzec slajdów</translation>
     </message>
     <message>
         <source>NewTitleMaster.title</source>
-        <translation></translation>
+        <translation>Nowy wzorzec tytułów</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania obrazu.</translation>
     </message>
     <message>
         <source>PrintDuplex.title</source>
-        <translation></translation>
+        <translation>Druk dwustronny</translation>
     </message>
     <message>
         <source>ShapeFill2.title</source>
-        <translation></translation>
+        <translation>Wypełnienie kształtu</translation>
     </message>
     <message>
         <source>FormatAlignLeft.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do lewej.</translation>
     </message>
     <message>
         <source>modelessay.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie spośród źródła zasobów modelu eseju.</translation>
     </message>
     <message>
         <source>Rotate.title</source>
-        <translation></translation>
+        <translation>Obróć</translation>
     </message>
     <message>
         <source>PreviewPage.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do poprzedniej strony w prezentacji.</translation>
     </message>
     <message>
         <source>SlideImage.content</source>
-        <translation></translation>
+        <translation>Umożliwia dołączenie obrazu slajdu do strony notatek.</translation>
     </message>
     <message>
         <source>WpPrintWhat_3.title</source>
-        <translation></translation>
+        <translation>Materiały informacyjne (3 slajdy na stronę)</translation>
     </message>
     <message>
         <source>DrawAlignLeft.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie zaznaczonego obiektu.</translation>
     </message>
     <message>
         <source>ExportToVideo.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyeksportowanie dokumentu do pliku wideo.</translation>
     </message>
     <message>
         <source>SlideOrientation.content</source>
-        <translation></translation>
+        <translation>Umożliwia przełączenie między pionową i poziomą orientacją slajdu.</translation>
     </message>
     <message>
         <source>WpPrintWhat_OutlineView.content</source>
-        <translation></translation>
+        <translation>Umożliwia drukowanie zawartości jako Widok konspektu. Zawartość slajdu zostanie wydrukowana w konspekcie.</translation>
     </message>
     <message>
         <source>Rehearse.content</source>
-        <translation></translation>
+        <translation>Kliknij, aby zrobić próbę wszystkich slajdów lub tylko bieżącego slajdu.</translation>
     </message>
     <message>
         <source>WpsAssistOnlineTemplate.title</source>
-        <translation></translation>
+        <translation>Zmień szablon</translation>
     </message>
     <message>
         <source>SlideTransDuration.title</source>
-        <translation></translation>
+        <translation>Szybkość</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation></translation>
+        <translation>Usuń komentarz</translation>
     </message>
     <message>
         <source>AddCoworker.title</source>
-        <translation></translation>
+        <translation>Dodaj współpracownika</translation>
     </message>
     <message>
         <source>ShapeLine2.title</source>
-        <translation></translation>
+        <translation>Kontur kształtu</translation>
     </message>
     <message>
         <source>Media.title</source>
-        <translation></translation>
+        <translation>Wstaw film</translation>
     </message>
     <message>
         <source>NewDash.content</source>
-        <translation></translation>
+        <translation>Błyskotliwa i fajna prezentacja</translation>
     </message>
     <message>
         <source>GraphicEffects.content</source>
-        <translation></translation>
+        <translation>Zastosuj efekt cienia i efekt 3D do wybranego obrazu.</translation>
     </message>
     <message>
         <source>PrevFrameSlides.title</source>
-        <translation></translation>
+        <translation>Obramowania slajdów</translation>
     </message>
     <message>
         <source>ZoomCombo.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie stopnia powiększenia bieżącej prezentacji.</translation>
     </message>
     <message>
         <source>SlideTransition.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna zadań Przejście slajdu w celu ustawienia efektów przejścia do wybranych slajdów lub całej prezentacji.</translation>
     </message>
     <message>
         <source>SkipSlide.content</source>
-        <translation></translation>
+        <translation>Umożliwia ukrycie bieżącego slajdu prezentacji. Ukryty slajd nie będzie pokazywany w czasie pokazu slajdów na pełnym ekranie.</translation>
     </message>
     <message>
         <source>ShapeLine.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru, szerokości i stylu linii dla konturu zaznaczonego obiektu.
+
+Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translation>
     </message>
     <message>
         <source>TableLeft.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do lewej.</translation>
     </message>
     <message>
         <source>CustomShows.title</source>
-        <translation></translation>
+        <translation>Niestandardowy pokaz slajdów</translation>
     </message>
     <message>
         <source>Color.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru lub zwykłego drukowania czarno-białego do bieżącej prezentacji.</translation>
     </message>
     <message>
         <source>Sound.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie klipu dźwiękowego lub muzyki z folderu lokalnego.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.content</source>
-        <translation></translation>
+        <translation>Umożliwia dołączenie stopki do drukowanych materiałów informacyjnych lub notatek.</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie zawartości drukowania jako Slajd (jeden slajd na stronie).</translation>
     </message>
     <message>
         <source>Package.content</source>
-        <translation></translation>
+        <translation>Umożliwia skopiowanie pliku prezentacji i związanych z nim elementów multimediów, takich jak wideo, audio, itp., do określonego folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>BackgroundMusic.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie pliku audio z folderu lokalnego. Pokaz slajdów będzie automatycznie odtwarzać dźwięk, który będzie zapętlony do końca pokazu slajdów.</translation>
     </message>
     <message>
         <source>RB_Clipboard.title</source>
-        <translation></translation>
+        <translation>Schowek</translation>
     </message>
     <message>
         <source>LineSpacing.title</source>
-        <translation></translation>
+        <translation>Interlinia</translation>
     </message>
     <message>
         <source>DrawTable.content</source>
-        <translation></translation>
+        <translation>Umożliwia rysowanie obramowań tabeli.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru tekstu.
+
+Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
-        <translation></translation>
+        <translation>Zrzut ekranu i OCR</translation>
     </message>
     <message>
         <source>WordArtCharacterSpacing.title</source>
-        <translation></translation>
+        <translation>Odstępy między znakami</translation>
     </message>
     <message>
         <source>InsertTable.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie lub narysowanie tabeli w bieżącym slajdzie.</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.title</source>
-        <translation></translation>
+        <translation>Zapisz tło</translation>
     </message>
     <message>
         <source>NewSlide.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie nowego slajdu do prezentacji.</translation>
     </message>
     <message>
         <source>SelectAll.content</source>
-        <translation></translation>
+        <translation>Umożliwia użycie polecenia Zaznacz wszystko, aby zaznaczyć slajdy, obiekty lub zawartość tekstową w prezentacji.</translation>
     </message>
     <message>
         <source>SlideSize.content</source>
-        <translation></translation>
+        <translation>Zmień rozmiar slajdów w tej prezentacji.</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie rozmiaru, stopni obrotu i powiększenia dla zaznaczonego kształtu.</translation>
     </message>
     <message>
         <source>SlideShow.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozpoczęcie pokazu slajdów od pierwszego slajdu.</translation>
     </message>
     <message>
         <source>COMAddIns.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodawanie lub usuwanie dostępnych dodatków COM.</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation></translation>
+        <translation>Pełne tłumaczenie tekstu</translation>
     </message>
     <message>
         <source>Paragraph2.title</source>
-        <translation></translation>
+        <translation>Inne opcje</translation>
     </message>
     <message>
         <source>Direction.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie kierunku efektu zaznaczonego kształtu trójwymiarowego.</translation>
     </message>
     <message>
         <source>Select.title</source>
-        <translation></translation>
+        <translation>Zaznacz</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie małych liter poniżej linii bazowej tekstu.</translation>
     </message>
     <message>
         <source>WpPrintWhat_2.title</source>
-        <translation></translation>
+        <translation>Materiały informacyjne (2 slajdy na stronę)</translation>
     </message>
     <message>
         <source>CheckSpelling.content</source>
-        <translation></translation>
+        <translation>Umożliwia sprawdzenie pisowni tekstu w bieżącym dokumencie.</translation>
     </message>
     <message>
         <source>AudioFadeIn.title</source>
-        <translation></translation>
+        <translation>Wejście na początku</translation>
     </message>
     <message>
         <source>PrevClose.content</source>
-        <translation></translation>
+        <translation>Umożliwia zamknięcie Podglądu wydruku i powrócenie do trybu edycji prezentacji.</translation>
     </message>
     <message>
         <source>HandoutMaster.title</source>
-        <translation></translation>
+        <translation>Widok wzorca materiałów informacyjnych</translation>
     </message>
     <message>
         <source>GraphicLine2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translation>
     </message>
     <message>
         <source>Section.content</source>
-        <translation></translation>
+        <translation>Umożliwia zorganizowanie slajdów w sekcjach.</translation>
     </message>
     <message>
         <source>SimplifiedChinese.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwersję dokumentu na język chiński uproszczony.</translation>
     </message>
     <message>
         <source>Delete.title</source>
-        <translation></translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation></translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>Ruler.title</source>
-        <translation></translation>
+        <translation>Linijka</translation>
     </message>
     <message>
         <source>Justify.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu jednocześnie do lewego i prawego marginesu. W razie konieczności są dodawane odstępy między wyrazami.</translation>
     </message>
     <message>
         <source>GraphicLine.content</source>
-        <translation></translation>
+        <translation>Ustaw kolor, szerokość i styl linii dla konturu wybranego obrazu.
+
+Kliknij strzałkę, aby ustawić szczegóły konturu.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation></translation>
+        <translation>Kolor wyróżnienia tekstu</translation>
     </message>
     <message>
         <source>Color.title</source>
-        <translation></translation>
+        <translation>Kolor</translation>
     </message>
     <message>
         <source>UsePresenterView.title</source>
-        <translation></translation>
+        <translation>Presenter view</translation>
     </message>
     <message>
         <source>DrawAlignTop.title</source>
-        <translation></translation>
+        <translation>Wyrównaj tekst</translation>
     </message>
     <message>
         <source>TableRight.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do prawej.</translation>
     </message>
     <message>
         <source>COMAddIns.title</source>
-        <translation></translation>
+        <translation>Dodatki COM</translation>
     </message>
     <message>
         <source>MergeShapes.content</source>
-        <translation></translation>
+        <translation>Scal wybrane kształty w jeden lub wiele nowych kształtów.</translation>
     </message>
     <message>
         <source>ResetPicture.title</source>
-        <translation></translation>
+        <translation>Resetuj obraz</translation>
     </message>
     <message>
         <source>WppSharePlay.content</source>
-        <translation></translation>
+        <translation>Używając kodu dostępu, zaproś szybko inne osoby do jednoczesnego oglądania prezentacji PPT na żywo.</translation>
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation></translation>
+        <translation>Zmniejsz poziom listy</translation>
     </message>
     <message>
         <source>VideoBegin.content</source>
-        <translation></translation>
+        <translation>rozpoczynanie automatyczne lub po kliknięciu.</translation>
     </message>
     <message>
         <source>DecreaseSpace.title</source>
-        <translation></translation>
+        <translation>Zmniejsz odstępy</translation>
     </message>
     <message>
         <source>AudioTrim.title</source>
-        <translation></translation>
+        <translation>Przytnij dźwięk</translation>
     </message>
     <message>
         <source>PrevLandscape.title</source>
-        <translation></translation>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation></translation>
+        <translation>Eksportuj obraz Weibo</translation>
     </message>
     <message>
         <source>sp_Macros2.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie listy makr, za pomocą której można uruchomić, utworzyć lub usunąć makro.</translation>
     </message>
     <message>
         <source>TextMargin.content</source>
-        <translation></translation>
+        <translation>Umożliwia określenie marginesów dla zaznaczonych komórek.</translation>
     </message>
     <message>
         <source>Flash.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie animacji Flash z folderu lokalnego.</translation>
     </message>
     <message>
         <source>NotesMaster.content</source>
-        <translation></translation>
+        <translation>Umożliwia dostosowanie wyglądu prezentacji w razie drukowania jej z notatkami. Możesz wybrać projekt i układ strony notatek, taki jak formatowanie tła i miejsca, w których będą się pojawiać nagłówki/stopki. Możesz także wybrać opcje ustawień strony.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTool.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Paragraph1.title</source>
-        <translation></translation>
+        <translation>Wyrównanie</translation>
     </message>
     <message>
         <source>WpPrintWhat_3Notes.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie drukowania zawartości jako Strony notatek (3 slajdy na stronę z notatkami po prawej stronie slajdów).</translation>
     </message>
     <message>
         <source>WpPrintWhat_1Notes.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie drukowania zawartości jako Strony notatek (1 slajd na stronę z notatkami po prawej stronie slajdu).</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Paragraph1.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne wyrównanie.</translation>
     </message>
     <message>
         <source>Paragraph2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać opcje Zwiększ odstępy, Zmniejsz odstępy i Zawijaj.</translation>
     </message>
     <message>
         <source>RecentFillColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia użycie kolorów, gradientów, tekstur i obrazów do wypełnienia zaznaczonej tabeli w bieżącym slajdzie.
+
+Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>WpPrintWhat_1.title</source>
-        <translation></translation>
+        <translation>Materiały informacyjne (1 slajd na stronę)</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation></translation>
+        <translation>Auto Save File</translation>
     </message>
     <message>
         <source>SlideTransOnTime.content</source>
-        <translation></translation>
+        <translation>Odtwarzaj kolejne slajdy w ustawionych odstępach czasowych (w sekundach).</translation>
     </message>
     <message>
         <source>CellWidth.content</source>
-        <translation></translation>
+        <translation>Szerokość komórki</translation>
     </message>
     <message>
         <source>TableRight.title</source>
-        <translation></translation>
+        <translation>Wyrównaj tekst do prawej</translation>
     </message>
     <message>
         <source>Numbering2.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozpoczęcie listy numerowanej.
+
+Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     </message>
     <message>
         <source>HeaderPlaceHolder.content</source>
-        <translation></translation>
+        <translation>Umożliwia dołączenie nagłówka do drukowanych materiałów informacyjnych lub notatek.</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.title</source>
-        <translation></translation>
+        <translation>Zmień liczbę</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation></translation>
+        <translation>Tłumacz dokładnie i szybko, zachowując oryginalny układ dokumentu.</translation>
     </message>
     <message>
         <source>ResetSlide.content</source>
-        <translation></translation>
+        <translation>Umożliwia resetowanie rozmiaru, położenia i formatu symboli zastępczych prezentacji do ustawień domyślnych.</translation>
     </message>
     <message>
         <source>PrevPrintHiddenSlide.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie ukrytych slajdów w Podglądzie wydruku.</translation>
     </message>
     <message>
         <source>cellphoneControl.title</source>
-        <translation></translation>
+        <translation>Kontrola telefonu komórkowego</translation>
     </message>
     <message>
         <source>SlideTransOnClick.content</source>
-        <translation></translation>
+        <translation>Kliknij myszą, aby odtworzyć następny slajd.</translation>
     </message>
     <message>
         <source>ResetShape.content</source>
-        <translation></translation>
+        <translation>Umożliwia odrzucenie wszystkich zmian formatowania wprowadzonych do zaznaczonego kształtu.</translation>
     </message>
     <message>
         <source>cellphoneControl.content</source>
-        <translation></translation>
+        <translation>Umożliwia kontrolę telefonu komórkowego.</translation>
     </message>
     <message>
         <source>ChineseTranslation.title</source>
-        <translation></translation>
+        <translation>Tłumaczenie uproszczony chiński/tradycyjny chiński</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation></translation>
+        <translation>Umożliwia zwiększenie poziomu wcięcia akapitu.</translation>
     </message>
     <message>
         <source>HandoutMaster.content</source>
-        <translation></translation>
+        <translation>Umożliwia dostosowanie wyglądu prezentacji i notatek w razie drukowania ich razem. Możesz wybrać projekt i układ strony notatek, taki jak formatowanie tła i miejsca, w których będą się pojawiać nagłówki/stopki. Możesz także wybrać opcje ustawień strony.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmniejszenie poziomu wcięcia akapitu.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
-        <translation></translation>
+        <translation>PDF na EXCEL</translation>
     </message>
     <message>
         <source>PrintDuplex.content</source>
-        <translation></translation>
+        <translation>Wybierz drukowanie jednostronne lub dwustronne.</translation>
     </message>
     <message>
         <source>AddSubordinate.title</source>
-        <translation></translation>
+        <translation>Dodaj podwładnego</translation>
     </message>
     <message>
         <source>AudioBegin.content</source>
-        <translation></translation>
+        <translation>Rozpoczynanie automatyczne lub po kliknięciu.</translation>
     </message>
     <message>
         <source>SplitCells.content</source>
-        <translation></translation>
+        <translation>Umożliwia podzielenie zaznaczonych komórek na wiele nowych komórek.</translation>
     </message>
     <message>
         <source>PrintCollate.content</source>
-        <translation></translation>
+        <translation>Określ kolejność drukowania: z sortowaniem stron (np. 123123) lub bez sortowania (np. 112233).</translation>
     </message>
     <message>
         <source>Delete.content</source>
-        <translation></translation>
+        <translation>Umożliwia usuwanie wierszy, kolumn, komórek lub całej tabeli.</translation>
     </message>
     <message>
         <source>ChineseTranslation.content</source>
-        <translation></translation>
+        <translation>Umożliwia zdecydowanie się na jednostkę tłumaczeniową między chińskim uproszczonym, a tradycyjnym, którą może być znak lub wyraz.</translation>
     </message>
     <message>
         <source>RewindAudio.title</source>
-        <translation></translation>
+        <translation>przewiń dźwięk do tyłu</translation>
     </message>
     <message>
         <source>Select.content</source>
-        <translation></translation>
+        <translation>Umożliwia zaznaczanie tekstu lub obiektów w dokumencie.</translation>
     </message>
     <message>
         <source>AudioCurPage.content</source>
-        <translation></translation>
+        <translation>Odtwórz dźwięk na tej stronie.</translation>
     </message>
     <message>
         <source>FontAlignMenu.title</source>
-        <translation></translation>
+        <translation>Wyrównanie czcionki</translation>
     </message>
     <message>
         <source>DuplicateSlide.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie duplikatu bieżącego slajdu do prezentacji.</translation>
     </message>
     <message>
         <source>Numbering.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozpoczęcie listy numerowanej.
+
+Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     </message>
     <message>
         <source>RewindVideo.title</source>
-        <translation></translation>
+        <translation>przewiń wideo do tyłu</translation>
     </message>
     <message>
         <source>VideoTrim.title</source>
-        <translation></translation>
+        <translation>przytnij wideo</translation>
     </message>
     <message>
         <source>BodyContent.content</source>
-        <translation></translation>
+        <translation>Umożliwia dołączenie oddzielnego pola z tekstem slajdu do strony notatek.</translation>
     </message>
     <message>
         <source>PrevPortrait.title</source>
-        <translation></translation>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>NewWindow.title</source>
-        <translation></translation>
+        <translation>Nowe okno</translation>
     </message>
     <message>
         <source>Security.content</source>
-        <translation></translation>
+        <translation>Umożliwia dostosowywanie ustawień bezpieczeństwa makr.</translation>
     </message>
     <message>
         <source>SplitCells.title</source>
-        <translation></translation>
+        <translation>Podziel komórki</translation>
     </message>
     <message>
         <source>MergeCells.content</source>
-        <translation></translation>
+        <translation>Umożliwia scalenie zaznaczonych komórek w jedną komórkę.</translation>
     </message>
     <message>
         <source>SlideSorter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie prezentacji w widoku sortowania slajdów w celu łatwej zmiany kolejności slajdów.</translation>
     </message>
     <message>
         <source>HideVideo.content</source>
-        <translation></translation>
+        <translation>ukryj po zatrzymaniu.</translation>
     </message>
     <message>
         <source>TableStyle.title</source>
-        <translation></translation>
+        <translation>Styl tabeli</translation>
     </message>
     <message>
         <source>MediaVol.title</source>
-        <translation></translation>
+        <translation>Głośność</translation>
     </message>
     <message>
         <source>Backdrop.title</source>
-        <translation></translation>
+        <translation>Tło</translation>
     </message>
     <message>
         <source>Sound.title</source>
-        <translation></translation>
+        <translation>Wstaw dźwięk</translation>
     </message>
     <message>
         <source>LoopVideo.content</source>
-        <translation></translation>
+        <translation>odtwarzaj wideo w pętli.</translation>
     </message>
     <message>
         <source>GraphicEffects.title</source>
-        <translation></translation>
+        <translation>Efekty graficzne</translation>
     </message>
     <message>
         <source>ArrangeAll.title</source>
-        <translation></translation>
+        <translation>Rozmieść wszystko</translation>
     </message>
     <message>
         <source>PageNumber.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Numery stron i zastosowanie ustawień numeru strony do bieżącej sekcji lub całego dokumentu.</translation>
     </message>
     <message>
         <source>PlayerCapture.content</source>
-        <translation></translation>
+        <translation>Przechwyć pokaz slajdów dokumentu i zapisz do pliku wideo.</translation>
     </message>
     <message>
         <source>CheckSpelling.title</source>
-        <translation></translation>
+        <translation>Sprawdzanie pisowni</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
-        <translation></translation>
+        <translation>Wyrównaj akapit zarówno do lewego, jak i prawego marginesu, dodając dodatkowe odstępy między każdymi dwoma znakami dla języków ze znakiem tonu i samogłoski.
+
+Spowoduje to utworzenie dokumentu o przejrzystym wyglądzie.</translation>
     </message>
     <message>
         <source>ShapeFill.title</source>
-        <translation></translation>
+        <translation>Wypełnienie kształtu</translation>
     </message>
     <message>
         <source>ConvertToSmartArtTip.content</source>
-        <translation></translation>
+        <translation>Przekonwertuj tekst na slajdach w grafikę SmartArt, aby wizualnie przekazać informacje</translation>
     </message>
     <message>
         <source>WppSharePlay.title</source>
-        <translation></translation>
+        <translation>Wspólne oglądanie</translation>
     </message>
     <message>
         <source>CreativeCrop.title</source>
-        <translation></translation>
+        <translation>Kreatywne przycinanie</translation>
     </message>
     <message>
         <source>importtemplates.title</source>
-        <translation></translation>
+        <translation>Importuj szablony</translation>
     </message>
     <message>
         <source>InteractiveChart.title</source>
-        <translation></translation>
+        <translation>Wstaw wykres interaktywny</translation>
     </message>
     <message>
         <source>CellHeight.content</source>
-        <translation></translation>
+        <translation>Wysokość komórki</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
-        <translation></translation>
+        <translation>Wypełnienie i kontur kształtu</translation>
     </message>
     <message>
         <source>MediaVol.content</source>
-        <translation></translation>
+        <translation>głośność multimediów.</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation></translation>
+        <translation>Umożliwia edytowanie nagłówka i stopki dokumentu.</translation>
     </message>
     <message>
         <source>AudioFadeIn.content</source>
-        <translation></translation>
+        <translation>Użyj efektu przyciszenia dźwięku na początku przez kilka sekund.</translation>
     </message>
     <message>
         <source>GridGuides.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie linii siatki i prowadnic do prezentacji.</translation>
     </message>
     <message>
         <source>TableStyle.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna zadań Styl tabeli</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation></translation>
+        <translation>Znajdź</translation>
     </message>
     <message>
         <source>TextFontColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
-        <translation></translation>
+        <translation>Nagłówek i stopka</translation>
     </message>
     <message>
         <source>Lighting.title</source>
-        <translation></translation>
+        <translation>Oświetlenie</translation>
     </message>
     <message>
         <source>PrevFrameSlides.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie obramowania wokół slajdu.</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation></translation>
+        <translation>Mark the background area and quickly and intelligently remove the background of the picture</translation>
     </message>
     <message>
         <source>PreserveMaster.title</source>
-        <translation></translation>
+        <translation>Zachowaj wzorzec</translation>
     </message>
     <message>
         <source>CellHeight.title</source>
-        <translation></translation>
+        <translation>Wysokość komórki</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
-        <translation></translation>
+        <translation>Zrzut ekranu i wyodrębnienie tekstu jednym kliknięciem.</translation>
     </message>
     <message>
         <source>CustomAnimation.title</source>
-        <translation></translation>
+        <translation>Animacja niestandardowa</translation>
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation></translation>
+        <translation>Galeria WPS</translation>
     </message>
     <message>
         <source>ExportToVideo.title</source>
-        <translation></translation>
+        <translation>Eksportuj do wideo</translation>
     </message>
     <message>
         <source>TextBox.content</source>
-        <translation></translation>
+        <translation>Wstawia poziome pole tekstowe do dokumentu.</translation>
     </message>
     <message>
         <source>SlideShow.title</source>
-        <translation></translation>
+        <translation>Pokaz slajdów od początku</translation>
     </message>
     <message>
         <source>SkipSlide.title</source>
-        <translation></translation>
+        <translation>Ukryj slajd</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość DrawingToolsDetailedSettings</translation>
     </message>
     <message>
         <source>LoopVideo.title</source>
-        <translation></translation>
+        <translation>wideo w pętli</translation>
     </message>
     <message>
         <source>Paste.title</source>
-        <translation></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <source>DeleteNotes.content</source>
-        <translation></translation>
+        <translation>Kliknij, aby usunąć notatki.</translation>
     </message>
     <message>
         <source>Lighting.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie kierunku i intensywności oświetlenia dla wybranego kształtu trójwymiarowego. Ostatnia opcja zawiera jasne, normalne i przygaszone.</translation>
     </message>
     <message>
         <source>LoopAudio.title</source>
-        <translation></translation>
+        <translation>Dźwięk w pętli</translation>
     </message>
     <message>
         <source>AudioPause.title</source>
-        <translation></translation>
+        <translation>Wstrzymaj</translation>
     </message>
     <message>
         <source>InsertRowsAbove.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie nowego wiersza bezpośrednio powyżej zaznaczonego wiersza.</translation>
     </message>
     <message>
         <source>sp_Macros2.title</source>
-        <translation></translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message>
         <source>ActionSetting.title</source>
-        <translation></translation>
+        <translation>Akcja</translation>
     </message>
     <message>
         <source>ZoomFit.title</source>
-        <translation></translation>
+        <translation>Dopasuj do okna</translation>
     </message>
     <message>
         <source>ZoomCombo.title</source>
-        <translation></translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <source>WpPrintWhat_3Notes.title</source>
-        <translation></translation>
+        <translation>Notatki (3 slajdy na stronę)</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwersję obrazu na format tekstu.</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.title</source>
-        <translation></translation>
+        <translation>Ustaw tryb ręczny lub automatyczny</translation>
     </message>
     <message>
         <source>Markup.title</source>
-        <translation></translation>
+        <translation>Znacznik adiustacji</translation>
     </message>
     <message>
         <source>SlideTransDuration.content</source>
-        <translation></translation>
+        <translation>Określ czas trwania przejścia (w sekundach).</translation>
     </message>
     <message>
         <source>WpPrintWhat_1Notes.title</source>
-        <translation></translation>
+        <translation>Notatki (1 slajd na stronę)</translation>
     </message>
     <message>
         <source>PrintingOrder.title</source>
-        <translation></translation>
+        <translation>Kolejność drukowania</translation>
     </message>
     <message>
         <source>ShowHideMark.title</source>
-        <translation></translation>
+        <translation>Pokaż/Ukryj komentarze</translation>
     </message>
     <message>
         <source>SlidePreview.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie podglądu animacji i efektów przejść w bieżącym slajdzie.</translation>
     </message>
     <message>
         <source>modelessay.title</source>
-        <translation></translation>
+        <translation>Model eseju</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie kolumny z lewej strony zaznaczonej kolumny.</translation>
     </message>
     <message>
         <source>AlignTop.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do góry komórki.</translation>
     </message>
     <message>
         <source>ChangeTextDir.title</source>
-        <translation></translation>
+        <translation>Kierunek tekstu</translation>
     </message>
     <message>
         <source>InsertOnlinePicture.title</source>
-        <translation></translation>
+        <translation>Wstaw obrazy</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation></translation>
+        <translation>Auto save turned on</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania kształtu.</translation>
     </message>
     <message>
         <source>onlineMedia.title</source>
-        <translation></translation>
+        <translation>Wstaw film</translation>
     </message>
     <message>
         <source>CustomAnimation.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna zadań Animacja niestandardowa w celu ustawienia efektów animacji dla tekstu lub obiektu w bieżącym slajdzie.</translation>
     </message>
     <message>
         <source>ConvertToSmartArtTip.title</source>
-        <translation></translation>
+        <translation>Przekonwertuj na grafikę SmartArt</translation>
     </message>
     <message>
         <source>DataPlaceHolder.title</source>
-        <translation></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>OrgChartLayout.title</source>
-        <translation></translation>
+        <translation>Układ</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation></translation>
+        <translation>Podziel lub scal</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie obiektu osadzonego do dokumentu.
+
+Kliknij strzałkę, aby wstawić zawartość pliku do dokumentu.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.content</source>
-        <translation></translation>
+        <translation>Change the settings of Equations.</translation>
     </message>
     <message>
         <source>AlignBottom.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do dołu komórki.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation></translation>
+        <translation>Umożliwia grupowanie obiektów, tak aby mogły być traktowane jak jeden obiekt.</translation>
     </message>
     <message>
         <source>SlideLayouts.content</source>
-        <translation></translation>
+        <translation>Umożliwia konfigurowanie różnych układów dla wybranych slajdów.</translation>
     </message>
     <message>
         <source>UsePresenterView.content</source>
-        <translation></translation>
+        <translation>Presenter view shows the speaker view and the full screen view on different monitors.
+
+If you only have one monitor, you can use Alt+F5 to try out presenter view, and press ESC to exit.</translation>
     </message>
     <message>
         <source>TableSmartStyle.title</source>
-        <translation></translation>
+        <translation>Styl inteligentny</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozpoczęcie pokazu slajdów od bieżącego slajdu.</translation>
     </message>
     <message>
         <source>OnlineCooperation.title</source>
-        <translation></translation>
+        <translation>Współpraca</translation>
     </message>
     <message>
         <source>InsertObject.title</source>
-        <translation></translation>
+        <translation>Wstaw obiekt</translation>
     </message>
     <message>
         <source>BordersFill.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie stylu obramowania, koloru i szerokości bieżącego slajdu.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna dialogowego Galeria WordArt, aby wybrać styl WordArt i edytować zawartość.</translation>
     </message>
     <message>
         <source>Replace2.title</source>
-        <translation></translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>AddAssistant.title</source>
-        <translation></translation>
+        <translation>Dodaj asystenta</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby zatrzymać czytanie.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Szczegółowe ustawienia strony głównej</translation>
     </message>
     <message>
         <source>PreserveMaster.content</source>
-        <translation></translation>
+        <translation>Umożliwia zachowanie wybranego wzorca slajdów. Nawet jeśli jest on nieużywany może nadal pozostać w prezentacji.</translation>
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie elementów w Schowku.</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
-        <translation></translation>
+        <translation>Przetłumacz obraz</translation>
     </message>
     <message>
         <source>CreativeCrop.content</source>
-        <translation></translation>
+        <translation>Dostępna za naciśnięciem przycisku aplikacja do kreatywnego przycinania obrazów sprawia, że są one bardziej atrakcyjne.
+
+Przycinanie obrazów sprawi, że Twoja prezentacja PowerPoint będzie wyglądać wyjątkowo.</translation>
     </message>
     <message>
         <source>SlideTransOnTime.title</source>
-        <translation></translation>
+        <translation>Odstęp automatycznej zmiany</translation>
     </message>
     <message>
         <source>FormatAlignCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyśrodkowywanie tekstu.</translation>
     </message>
     <message>
         <source>Superscript2.title</source>
-        <translation></translation>
+        <translation>Inne opcje</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation></translation>
+        <translation>1. Wypełnienie kształtu
+Wypełnij wybrane obiekty kolorami, gradientami, teksturami i obrazami.
+2. Kontur kształtu
+Skonfiguruj kolory, wagi i kreski dla wybranych obiektów.
+Aby uzyskać szczegółowe informacje o konfiguracji, kliknij strzałki.</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
-        <translation></translation>
+        <translation>Punktory</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation></translation>
+        <translation>Umożliwia zatrzymanie automatycznego tworzenia kopii zapasowej bieżącego dokumentu.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>AudioFadeOut.content</source>
-        <translation></translation>
+        <translation>Użyj efektu przyciszenia dźwięku na końcu przez kilka sekund.</translation>
     </message>
     <message>
         <source>AddCoworker.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie współpracownika dla wybranego członka.</translation>
     </message>
     <message>
         <source>InsertGeogebra.content</source>
-        <translation></translation>
+        <translation>Narzędzie do rysowania z funkcjami algebraicznymi, analizy matematycznej, statystycznymi i matematycznymi 3D.</translation>
     </message>
     <message>
         <source>RecentFillColor2.title</source>
-        <translation></translation>
+        <translation>Cieniowanie</translation>
     </message>
     <message>
         <source>OrgChartLayout.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę układu rozgałęzień wybranego elementu członkowskiego.</translation>
     </message>
     <message>
         <source>FitTextTip.title</source>
-        <translation></translation>
+        <translation>Dopasuj tekst</translation>
     </message>
     <message>
         <source>L2RTextDirection.content</source>
-        <translation></translation>
+        <translation>Ustaw kierunek czytania tekstu od lewej do prawej.</translation>
     </message>
     <message>
         <source>RecentFillColor.title</source>
-        <translation></translation>
+        <translation>Cieniowanie</translation>
     </message>
     <message>
         <source>TextBox2.title</source>
-        <translation></translation>
+        <translation>Rysuj pole tekstowe</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Zawartość HomeDetailedSettings</translation>
     </message>
     <message>
         <source>InsertOnlinePicture.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wstawić obrazy lokalne lub internetowe.</translation>
     </message>
     <message>
         <source>PrintCopies.content</source>
-        <translation></translation>
+        <translation>Drukowane kopie</translation>
     </message>
     <message>
         <source>DistColumnSevenly.title</source>
-        <translation></translation>
+        <translation>Rozłóż kolumny równomiernie</translation>
     </message>
     <message>
         <source>PreviewPage.title</source>
-        <translation></translation>
+        <translation>Poprzednia strona</translation>
     </message>
     <message>
         <source>MergeCells.title</source>
-        <translation></translation>
+        <translation>Scal komórki</translation>
     </message>
     <message>
         <source>SetBackground.content</source>
-        <translation></translation>
+        <translation>Ustaw ten obraz jako tło bieżącego slajdu.</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent.title</source>
-        <translation></translation>
+        <translation>Pokaz slajdów od bieżącego slajdu</translation>
     </message>
     <message>
         <source>Direction.title</source>
-        <translation></translation>
+        <translation>Kierunek</translation>
     </message>
     <message>
         <source>presentationTool.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie wygodnego i szybkiego pomocnika dla prezentacji.</translation>
     </message>
     <message>
         <source>InsertRowsBelow.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie nowego wiersza bezpośrednio poniżej zaznaczonego wiersza.</translation>
     </message>
     <message>
         <source>SlideSize.title</source>
-        <translation></translation>
+        <translation>Rozmiar slajdu</translation>
     </message>
     <message>
         <source>Backdrop.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie stylu tła do bieżącego slajdu lub całej prezentacji.</translation>
     </message>
     <message>
         <source>NewSlide2.title</source>
-        <translation></translation>
+        <translation>Inne opcje</translation>
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation></translation>
+        <translation>Umożliwia przejście do następnej strony w prezentacji.</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie małych liter powyżej wiersza tekstu.</translation>
     </message>
     <message>
         <source>AudioCurPage.title</source>
-        <translation></translation>
+        <translation>Odtwórz tę stronę</translation>
     </message>
     <message>
         <source>AnimationSchemes.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna zadań Projekt slajdu - Schematy animacji w celu ustawienia przejścia i efektów animacji dla bieżącego slajdu lub całej prezentacji.</translation>
     </message>
     <message>
         <source>ResetLayout.content</source>
-        <translation></translation>
+        <translation>Umożliwia zresetowanie do układu domyślnego</translation>
     </message>
     <message>
         <source>RewindAudio.content</source>
-        <translation></translation>
+        <translation>przewiń po zatrzymaniu.</translation>
     </message>
     <message>
         <source>R2LTextDirection.content</source>
-        <translation></translation>
+        <translation>Ustaw kierunek czytania tekstu od prawej do lewej.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation></translation>
+        <translation>Zablokuj proporcje</translation>
     </message>
     <message>
         <source>TableSmartStyle.content</source>
-        <translation></translation>
+        <translation>Zapewnia różne typowe i udoskonalone style, dzięki którym tabele wyglądają na bardziej delikatne.</translation>
     </message>
     <message>
         <source>3DPresentation.content</source>
-        <translation></translation>
+        <translation>Insert 3DPresentation</translation>
     </message>
     <message>
         <source>TaskPane.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie lub ukrycie okna zadań w dokumencie.</translation>
     </message>
     <message>
         <source>CellWidth.title</source>
-        <translation></translation>
+        <translation>Szerokość komórki</translation>
     </message>
     <message>
         <source>MasterLayout.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie symbolu zastępczego elementów zawartych we wzorcu slajdów.</translation>
     </message>
     <message>
         <source>ReadingView.title</source>
-        <translation></translation>
+        <translation>Widok do czytania</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation></translation>
+        <translation>Umożliwia otwarcie nowego okna z widokiem bieżącego dokumentu.</translation>
     </message>
     <message>
         <source>SlideMasterClose.content</source>
-        <translation></translation>
+        <translation>Umożliwia zamknięcie widoku Wzorca slajdów i powrócenie do edycji pokazu slajdów.</translation>
     </message>
     <message>
         <source>NotesPageView.content</source>
-        <translation></translation>
+        <translation>Umożliwia sprawdzenie wyglądu prezentacji i strony notatek. Każda strona będzie zawierała slajd i notatki prelegenta, które można edytować w tym widoku.</translation>
     </message>
     <message>
         <source>TextMargin.title</source>
-        <translation></translation>
+        <translation>Marginesy komórki</translation>
     </message>
     <message>
         <source>AddAssistant.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie asystenta dla wybranego członka.</translation>
     </message>
     <message>
         <source>DetailedSettings_WPP_TextTools.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania tekstu.</translation>
     </message>
     <message>
         <source>ThemeColors.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę schematu kolorów prezentacji.</translation>
     </message>
     <message>
         <source>SlideDesign.title</source>
-        <translation></translation>
+        <translation>Szablony projektów</translation>
     </message>
     <message>
         <source>IncreaseFontSize.title</source>
-        <translation></translation>
+        <translation>Zwiększ rozmiar czcionki</translation>
     </message>
     <message>
         <source>DecreaseFontSize.title</source>
-        <translation></translation>
+        <translation>Zmniejsz rozmiar czcionki</translation>
     </message>
     <message>
         <source>Thesaurus.title</source>
-        <translation></translation>
+        <translation>Tezaurus</translation>
     </message>
     <message>
         <source>LineBreak.title</source>
-        <translation></translation>
+        <translation>Podział wiersza</translation>
     </message>
     <message>
         <source>IncreaseSpace.content</source>
-        <translation></translation>
+        <translation>Umożliwia zwiększenie odstępów między wierszami.</translation>
     </message>
     <message>
         <source>DecreaseSpace.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmniejszenie odstępów między wierszami.</translation>
     </message>
     <message>
         <source>InvolvedTemplate.content</source>
-        <translation></translation>
+        <translation>Zastosuj szablon wykorzystany w obecnej prezentacji.</translation>
     </message>
     <message>
         <source>InvolvedTemplate.title</source>
-        <translation></translation>
+        <translation>Używany szablon</translation>
     </message>
     <message>
         <source>GraphicLine.title</source>
-        <translation></translation>
+        <translation>Kontur obrazu</translation>
     </message>
     <message>
         <source>Section.title</source>
-        <translation></translation>
+        <translation>Sekcja</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>FormatAlignRight.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do prawej</translation>
     </message>
     <message>
         <source>RenameMaster.title</source>
-        <translation></translation>
+        <translation>Zmień nazwę wzorca</translation>
     </message>
     <message>
         <source>PlayerCapture.title</source>
-        <translation></translation>
+        <translation>Przechwyć pokaz slajdów</translation>
     </message>
     <message>
         <source>presentationTool.title</source>
-        <translation></translation>
+        <translation>Narzędzia prezentacji</translation>
     </message>
     <message>
         <source>ActionSetting.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie akcji do wybranego obiektu w celu określenia, co powinno się stać w chwili jego kliknięcia lub aktywowania go myszą.</translation>
     </message>
     <message>
         <source>SlideTransition.title</source>
-        <translation></translation>
+        <translation>Przejście slajdu</translation>
     </message>
     <message>
         <source>Flash.title</source>
-        <translation></translation>
+        <translation>Wstaw animację Flash</translation>
     </message>
     <message>
         <source>DetailedSettings_WPP_TextTools.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>DataPlaceHolder.content</source>
-        <translation></translation>
+        <translation>Umożliwia dołączenie daty do drukowanych materiałów informacyjnych lub notatek.</translation>
     </message>
     <message>
         <source>VideoPause.content</source>
-        <translation></translation>
+        <translation>Wstrzymaj wideo.</translation>
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie układu strony na pionowy w druku materiałów informacyjnych, stron notatek i konspektu.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation></translation>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Makra i wyświetlenie listy makr, za pomocą której można bezpośrednio uruchomić, usunąć lub utworzyć makro.</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation></translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inny kolor czcionki.</translation>
     </message>
     <message>
         <source>PrintCollate.title</source>
-        <translation></translation>
+        <translation>Kolejka wydruku</translation>
     </message>
     <message>
         <source>FullScreenPlay.content</source>
-        <translation></translation>
+        <translation>odtwarzanie pełnoekranowe</translation>
     </message>
     <message>
         <source>InsertDateTime.title</source>
-        <translation></translation>
+        <translation>Data i godzina</translation>
     </message>
     <message>
         <source>CustomShows.content</source>
-        <translation></translation>
+        <translation>Niestandardowy pokaz slajdów pozwala wyświetlić tylko wybrane slajdy.</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>ObjectSelect.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna zadań Okienko zaznaczenia, aby łatwiej znaleźć pojedynczy obiekt lub ustawić jego kolejność i widoczność.</translation>
     </message>
     <message>
         <source>Bullets.content</source>
-        <translation></translation>
+        <translation>Umożliwia rozpoczęcie listy punktowanej.
+
+Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     </message>
     <message>
         <source>Gallery.content</source>
-        <translation></translation>
+        <translation>Galeria WPS dostarcza wszelkiego rodzaju źródeł obrazu do korzystania, zbierania, edycji i zarządzania.
+
+Galeria WPS źródeł Online wymaga połączenia internetowego.</translation>
     </message>
     <message>
         <source>Justify.title</source>
-        <translation></translation>
+        <translation>Wyjustuj</translation>
     </message>
     <message>
         <source>RB_Font.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Czcionka.</translation>
     </message>
     <message>
         <source>RehearseAllSlides.content</source>
-        <translation></translation>
+        <translation>Odtwarzaj slajdy od początku i rejestruj czas wyświetlania automatycznego pokazu slajdów.</translation>
     </message>
     <message>
         <source>SpeakerNotes.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie notatki do bieżącego slajdu.
+
+Jeśli chcesz robić notatki bez wychodzenia z pokazu slajdów, kliknij prawym przyciskiem myszy na ekranie i wybierz Notatki prelegenta, aby robić notatki w okienku notatek bieżącego slajdu.</translation>
     </message>
     <message>
         <source>ObjectSelect.title</source>
-        <translation></translation>
+        <translation>Okienko zaznaczenia</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation></translation>
+        <translation>Umożliwia skompresowanie zaznaczonego obrazu lub wszystkich obrazów w dokumencie w celu zmniejszenia jego rozmiaru.</translation>
     </message>
     <message>
         <source>InsertMedia.title</source>
-        <translation></translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <source>DeleteMember.title</source>
-        <translation></translation>
+        <translation>Usuń element członkowski</translation>
     </message>
     <message>
         <source>InsertMedia.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie muzyki, wideo, animacji lub innych plików multimedialnych do prezentacji w celu wzbogacenia ekspresji dla prezentacji.</translation>
     </message>
     <message>
         <source>DeleteMaster.title</source>
-        <translation></translation>
+        <translation>Usuń wzorzec</translation>
     </message>
     <message>
         <source>Ai Matting.title</source>
-        <translation></translation>
+        <translation>Ai Matting</translation>
     </message>
     <message>
         <source>Numbering.title</source>
-        <translation></translation>
+        <translation>Numerowanie</translation>
     </message>
     <message>
         <source>StopAutoVersion.title</source>
-        <translation></translation>
+        <translation>Zatrzymaj automatyczne tworzenie kopii zapasowych</translation>
     </message>
     <message>
         <source>ColorScheme.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyświetlenie okna zadań Projekt slajdu - Schematy kolorów w celu ustawienia schematu koloru tytułu, punktorów i obiektów dla bieżącego slajdu lub całej prezentacji.</translation>
     </message>
     <message>
         <source>wpp2doc.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwersję pliku prezentacji do dokumentu programu Word oraz WPS Writer.</translation>
     </message>
     <message>
         <source>AudioAcrossPage.title</source>
-        <translation></translation>
+        <translation>Odtwórz na stronie</translation>
     </message>
     <message>
         <source>NewTitleMaster.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie wzorca slajdów z nowym stylem tytułu.</translation>
     </message>
     <message>
         <source>Media.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie filmu z folderu lokalnego</translation>
     </message>
     <message>
         <source>EquationEditor.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawianie równań matematycznych za pomocą edytora równań.</translation>
     </message>
     <message>
         <source>ShapeEffects.title</source>
-        <translation></translation>
+        <translation>Efekty kształtu</translation>
     </message>
     <message>
         <source>Normal.title</source>
-        <translation></translation>
+        <translation>Widok normalny</translation>
     </message>
     <message>
         <source>SlideTransApplyToAll.title</source>
-        <translation></translation>
+        <translation>Zastosuj do wszystkich</translation>
     </message>
     <message>
         <source>VideoPause.title</source>
-        <translation></translation>
+        <translation>Wstrzymaj</translation>
     </message>
     <message>
         <source>TextFontColor.title</source>
-        <translation></translation>
+        <translation>Kolor tekstu</translation>
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation></translation>
+        <translation>Konwertuj do Word/WPS Writer</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
-        <translation></translation>
+        <translation>Efekty tabeli</translation>
     </message>
     <message>
         <source>TraditionalChinese.content</source>
-        <translation></translation>
+        <translation>Umożliwia konwersję dokumentu na język chiński tradycyjny.</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation></translation>
+        <translation>Zwiększ poziom listy</translation>
     </message>
     <message>
         <source>Replace2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby zamienić tekst lub czcionkę w dokumencie.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.title</source>
-        <translation></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>SlideNumber.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie numeru slajdu do bieżącego slajdu lub całej prezentacji. Numer slajdu odzwierciedla położenie slajdu w prezentacji.</translation>
     </message>
     <message>
         <source>WpsAssistMagic.title</source>
-        <translation></translation>
+        <translation>Magia</translation>
     </message>
     <message>
         <source>AudioPause.content</source>
-        <translation></translation>
+        <translation>Wstrzymaj dźwięk.</translation>
     </message>
     <message>
         <source>InsertEduTools.title</source>
-        <translation></translation>
+        <translation>InsertEduTools.title</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation></translation>
+        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
     </message>
     <message>
         <source>SlidePreview.title</source>
-        <translation></translation>
+        <translation>Podgląd</translation>
     </message>
     <message>
         <source>ShapeEffects.content</source>
-        <translation></translation>
+        <translation>Umożliwia zastosowanie efektu cienia i efektu trójwymiarowego do zaznaczonego kształtu.</translation>
     </message>
     <message>
         <source>InsertOrgChart.title</source>
-        <translation></translation>
+        <translation>Wstaw schemat organizacyjny</translation>
     </message>
     <message>
         <source>TableCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyśrodkowywanie tekstu.</translation>
     </message>
     <message>
         <source>NewSlide.title</source>
-        <translation></translation>
+        <translation>Nowy slajd</translation>
     </message>
     <message>
         <source>Hyperlink.title</source>
-        <translation></translation>
+        <translation>Wstaw hiperłącze</translation>
     </message>
     <message>
         <source>PrinterName.content</source>
-        <translation></translation>
+        <translation>Wybierz drukarkę</translation>
     </message>
     <message>
         <source>AnimationPainter.content</source>
-        <translation></translation>
+        <translation>Copy the animation of selected object to other objects.
+
+Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>Distributed.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie akapitu do prawego i lewego marginesu przez dodanie w razie potrzeby dodatkowych odstępów między znakami.</translation>
     </message>
     <message>
         <source>ShadowButton.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie efektów cienia do zaznaczonego tekstu.</translation>
     </message>
     <message>
         <source>Bullets2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
-        <translation></translation>
+        <translation>Podgląd wydruku</translation>
     </message>
     <message>
         <source>TableEraser.content</source>
-        <translation></translation>
+        <translation>Umożliwia wymazywanie obramowań tabeli w dokumencie.</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia usunięcie komentarza.</translation>
     </message>
     <message>
         <source>statusbarFontMissing.title</source>
-        <translation></translation>
+        <translation>Czcionek użytych w dokumentach nie ma na komputerze</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.content</source>
-        <translation></translation>
+        <translation>Kliknij, aby ustawić dla wszystkich slajdów wyświetlanie ręczne lub automatyczne.</translation>
     </message>
     <message>
         <source>HideAudio.title</source>
-        <translation></translation>
+        <translation>Ukryj dźwięk</translation>
     </message>
     <message>
         <source>ResetShape.title</source>
-        <translation></translation>
+        <translation>Resetuj kształt</translation>
     </message>
     <message>
         <source>ResetSlide.title</source>
-        <translation></translation>
+        <translation>Resetuj slajd</translation>
     </message>
     <message>
         <source>SlideLayout.content</source>
-        <translation></translation>
+        <translation>Umożliwia pokazanie okna zadań Układ slajdu w celu ustawienia różnych układów dla bieżących slajdów, układów tekstowych, układów tekstu i zawartości oraz innych układów.</translation>
     </message>
     <message>
         <source>SlideMaster.content</source>
-        <translation></translation>
+        <translation>Umożliwia otwarcie widoku Wzorca slajdów w celu zmiany projektu i układu slajdów wzorca.</translation>
     </message>
     <message>
         <source>NewSlideMaster.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie nowego wzorca slajdów.</translation>
     </message>
     <message>
         <source>NotesPageView.title</source>
-        <translation></translation>
+        <translation>Widok strony notatek</translation>
     </message>
     <message>
         <source>BackgroundMusic.title</source>
-        <translation></translation>
+        <translation>Wstaw muzykę w tle</translation>
     </message>
     <message>
         <source>PrevClose.title</source>
-        <translation></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>HideVideo.title</source>
-        <translation></translation>
+        <translation>ukryj wideo</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides2.title</source>
-        <translation></translation>
+        <translation>Drukowanie zawartości</translation>
     </message>
     <message>
         <source>SlideLibrary.title</source>
-        <translation></translation>
+        <translation>Biblioteka slajdów</translation>
     </message>
     <message>
         <source>NewSlide2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby wybrać nowy duplikat slajdu.</translation>
     </message>
     <message>
         <source>TableFontEffects.title</source>
-        <translation></translation>
+        <translation>Efekty czcionki tabeli</translation>
     </message>
     <message>
         <source>SimplifiedChinese.title</source>
-        <translation></translation>
+        <translation>Uproszczony</translation>
     </message>
     <message>
         <source>DynamicShape.title</source>
-        <translation></translation>
+        <translation>Wstaw kształty</translation>
     </message>
     <message>
         <source>NoteViewVisible.content</source>
-        <translation></translation>
+        <translation>Pokaż/ukryj notatkę do slajdu</translation>
     </message>
     <message>
         <source>SlideLayout.title</source>
-        <translation></translation>
+        <translation>Układ slajdu</translation>
     </message>
     <message>
         <source>InsertOrgChart.content</source>
-        <translation></translation>
+        <translation>Umożliwia wstawienie schematu organizacyjnego w bieżącym slajdzie.</translation>
     </message>
     <message>
         <source>NotesMaster.title</source>
-        <translation></translation>
+        <translation>Widok wzorca notatek</translation>
     </message>
     <message>
         <source>RehearseAllSlides.title</source>
-        <translation></translation>
+        <translation>Zrób próbę wszystkich</translation>
     </message>
     <message>
         <source>PreComment.title</source>
-        <translation></translation>
+        <translation>Poprzedni komentarz</translation>
     </message>
     <message>
         <source>NewComment.title</source>
-        <translation></translation>
+        <translation>Wstaw komentarz</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation></translation>
+        <translation>Eksportuj obraz Weibo</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.title</source>
-        <translation></translation>
+        <translation>Zmień styl</translation>
     </message>
     <message>
         <source>SmartChoice.content</source>
-        <translation></translation>
+        <translation>Umożliwia wybranie tego samego poziomu członków, tej samej gałęzi członków, wszystkich asystentów lub wszystkich linii łączących.</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation></translation>
+        <translation>Następny komentarz</translation>
     </message>
     <message>
         <source>Superscript2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać indeks górny lub indeks dolny.</translation>
     </message>
     <message>
         <source>InsertSmartArt.content</source>
-        <translation></translation>
+        <translation>Wstaw grafikę WPSArt, aby wizualnie przekazać informacje.
+
+Grafika WPSArt obejmuje zarówno listy graficzne i schematy procesów, jak i bardziej złożoną grafikę, taką jak diagramy Venna i schematy organizacyjne.</translation>
     </message>
     <message>
         <source>VideoBegin.title</source>
-        <translation></translation>
+        <translation>początek wideo</translation>
     </message>
     <message>
         <source>ShowHideGrid.title</source>
-        <translation></translation>
+        <translation>Linie siatki</translation>
     </message>
     <message>
         <source>DistRowSevenly.content</source>
-        <translation></translation>
+        <translation>Umożliwia równe rozłożenie wysokości zaznaczonych wierszy na poszczególne wiersze.</translation>
     </message>
     <message>
         <source>EditComment.title</source>
-        <translation></translation>
+        <translation>Edytuj komentarz</translation>
     </message>
     <message>
         <source>BodyContent.title</source>
-        <translation></translation>
+        <translation>Widok strony notatek</translation>
     </message>
     <message>
         <source>SlideTransSound.title</source>
-        <translation></translation>
+        <translation>Dźwięk</translation>
     </message>
     <message>
         <source>TextDirection.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie poziomej lub pionowej orientacji tekstu do bieżącej sekcji, całego dokumentu, zaznaczonego pola tekstowego lub tabeli.</translation>
     </message>
     <message>
         <source>SpeakerNotes.title</source>
-        <translation></translation>
+        <translation>Notatki prelegenta</translation>
     </message>
     <message>
         <source>3DPresentation.title</source>
-        <translation></translation>
+        <translation>Prezentacja 3D</translation>
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie układu strony na poziomy w druku materiałów informacyjnych, stron notatek i konspektu.</translation>
     </message>
     <message>
         <source>Numbering2.title</source>
-        <translation></translation>
+        <translation>Numerowanie</translation>
     </message>
     <message>
         <source>Bullets.title</source>
-        <translation></translation>
+        <translation>Punktory</translation>
     </message>
     <message>
         <source>InsertGeogebra.title</source>
-        <translation></translation>
+        <translation>Wstaw geometrię</translation>
     </message>
     <message>
         <source>SetUpShow.content</source>
-        <translation></translation>
+        <translation>Otwórz </translation>
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation></translation>
+        <translation>Umożliwia podgląd efektów strony przed wydrukowaniem.</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent2.title</source>
-        <translation></translation>
+        <translation>Rozpocznij pokaz slajdów</translation>
     </message>
     <message>
         <source>Rehearse.title</source>
-        <translation></translation>
+        <translation>Próba tempa</translation>
     </message>
     <message>
         <source>ThemeColors.title</source>
-        <translation></translation>
+        <translation>Schemat kolorów</translation>
     </message>
     <message>
         <source>H5LinkManager.title</source>
-        <translation></translation>
+        <translation>Zarządzaj udostępnionym łączem</translation>
     </message>
     <message>
         <source>FullScreenPlay.title</source>
-        <translation></translation>
+        <translation>Odtwórz w trybie pełnoekranowym</translation>
     </message>
     <message>
         <source>onlineMedia.content</source>
-        <translation></translation>
+        <translation>Wstaw film z folderu lokalnego lub Internetu</translation>
     </message>
     <message>
         <source>WpPrintWhat_9.title</source>
-        <translation></translation>
+        <translation>Materiały informacyjne (9 slajdów na stronę)</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation></translation>
+        <translation>Wstaw ClipArt</translation>
     </message>
     <message>
         <source>SelectAll.title</source>
-        <translation></translation>
+        <translation>Zaznacz wszystko</translation>
     </message>
     <message>
         <source>WpsAssistOnlineTemplate.content</source>
-        <translation></translation>
+        <translation>Stwórz wyjątkową prezentację z użyciem tysięcy wspaniałych szablonów.</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation></translation>
+        <translation>Narzędzia deweloperów</translation>
     </message>
     <message>
         <source>DecreaseFontSize.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmniejszenie rozmiaru czcionki.</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation></translation>
+        <translation>Kolor czcionki</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.title</source>
-        <translation></translation>
+        <translation>Tajski rozłożony</translation>
     </message>
     <message>
         <source>VideoPlay.content</source>
-        <translation></translation>
+        <translation>Odtwórz wideo.</translation>
     </message>
     <message>
         <source>FormatAlignRight.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyrównanie tekstu do prawej.</translation>
     </message>
     <message>
         <source>TableOnekeyBeautify.content</source>
-        <translation></translation>
+        <translation>Wystarczy kilka kliknięć, aby Twoja zawartość została sformatowana z zastosowaniem odpowiedniego stylu.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation></translation>
+        <translation>Umożliwia wyśrodkowanie tekstu w pionie i poziomie wewnątrz komrki.</translation>
     </message>
     <message>
         <source>ReadingView.content</source>
-        <translation></translation>
+        <translation>Automatyczny układ zawartości, łatwe odwracanie stron.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie automatycznego lub ręcznego tworzenia kopii zapasowych dla bieżącego dokumentu. Kopia zapasowa zostanie zapisana do Pliku bezpieczeństwa.</translation>
     </message>
     <message>
         <source>IncreaseFontSize.content</source>
-        <translation></translation>
+        <translation>Umożliwia zwiększenie rozmiaru czcionki.</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.content</source>
-        <translation></translation>
+        <translation>Umożliwia zapisanie tła slajdu jako obrazu.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
-        <translation></translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message>
         <source>RewindVideo.content</source>
-        <translation></translation>
+        <translation>przewiń po zatrzymaniu.</translation>
     </message>
     <message>
         <source>CompressPictures.title</source>
-        <translation></translation>
+        <translation>Kompresuj obrazy</translation>
     </message>
     <message>
         <source>AudioPlay.content</source>
-        <translation></translation>
+        <translation>Odtwórz dźwięk.</translation>
     </message>
     <message>
         <source>AlignBottom.title</source>
-        <translation></translation>
+        <translation>Wyrównaj do dołu</translation>
     </message>
     <message>
         <source>PrintCopies.title</source>
-        <translation></translation>
+        <translation>Kopie</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation></translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation></translation>
+        <translation>Umożliwia znalezienie tekstu w dokumencie.
+
+Kliknij strzałkę, aby wybrać inne opcje, takie jak Przejdź do.</translation>
     </message>
     <message>
         <source>SlideTransOnClick.title</source>
-        <translation></translation>
+        <translation>Klikaj, aby zmieniać slajdy</translation>
     </message>
     <message>
         <source>TableCenter.title</source>
-        <translation></translation>
+        <translation>Do środka</translation>
     </message>
     <message>
         <source>AudioTrim.content</source>
-        <translation></translation>
+        <translation>Przytnij dźwięk na początku i końcu.</translation>
     </message>
     <message>
         <source>GridGuides.title</source>
-        <translation></translation>
+        <translation>Linie siatki i prowadnice</translation>
     </message>
     <message>
         <source>VideoTrim.content</source>
-        <translation></translation>
+        <translation>przytnij wideo na początku i końcu.</translation>
     </message>
     <message>
         <source>SlideImage.title</source>
-        <translation></translation>
+        <translation>Widok strony notatek</translation>
     </message>
     <message>
         <source>RenameMaster.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę nazwy zaznaczonego wzorca slajdów.</translation>
     </message>
     <message>
         <source>PrinterName.title</source>
-        <translation></translation>
+        <translation>Nazwa drukarki</translation>
     </message>
     <message>
         <source>TableEraser.title</source>
-        <translation></translation>
+        <translation>Gumka tabeli</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.title</source>
-        <translation></translation>
+        <translation>Wstaw kolumny po lewej</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation></translation>
+        <translation>Konwertuj plik PDF na plik programu Word</translation>
     </message>
     <message>
         <source>LineSpacing.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę odstępów między wierszami tekstu.</translation>
     </message>
     <message>
         <source>GraphicFill2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     </message>
     <message>
         <source>DeleteMaster.content</source>
-        <translation></translation>
+        <translation>Umożliwia usunięcie zaznaczonego wzorca slajdów.</translation>
     </message>
     <message>
         <source>DistColumnSevenly.content</source>
-        <translation></translation>
+        <translation>Umożliwia równe rozłożenie szerokości zaznaczonych kolumn na poszczególne kolumny.</translation>
     </message>
     <message>
         <source>SlideTransSound.content</source>
-        <translation></translation>
+        <translation>Określ dźwięk odtwarzany podczas przejścia między slajdami.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation></translation>
+        <translation>PDF na Word</translation>
     </message>
     <message>
         <source>WppSharePlay2.content</source>
-        <translation></translation>
+        <translation>Kliknij tutaj, aby zainicjować wspólne oglądanie, lub wprowadź kod dostępu, aby dołączyć do wspólnego oglądania.</translation>
     </message>
     <message>
         <source>PageNumber.title</source>
-        <translation></translation>
+        <translation>Wstaw numer strony</translation>
     </message>
     <message>
         <source>FormatAlignCenter.title</source>
-        <translation></translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>TableOnekeyBeautify.title</source>
-        <translation></translation>
+        <translation>Upiększenie jednym klawiszem</translation>
     </message>
     <message>
         <source>ShowHideMark.content</source>
-        <translation></translation>
+        <translation>Umożliwia Pokazanie/Ukrycie komentarzy.</translation>
     </message>
     <message>
         <source>PreComment.content</source>
-        <translation></translation>
+        <translation>Poprzedni komentarz.</translation>
     </message>
     <message>
         <source>SlideMaster.title</source>
-        <translation></translation>
+        <translation>Wzorzec slajdów</translation>
     </message>
     <message>
         <source>H5LinkManager.content</source>
-        <translation></translation>
+        <translation>Kliknij, aby zarządzać, usunąć lub wysłać łącza.</translation>
     </message>
     <message>
         <source>NewComment.content</source>
-        <translation></translation>
+        <translation>Umożliwia utworzenie nowego komentarza.</translation>
     </message>
     <message>
         <source>MorePrintSettings.title</source>
-        <translation></translation>
+        <translation>Więcej ustawień</translation>
     </message>
     <message>
         <source>ShapeLine2.content</source>
-        <translation></translation>
+        <translation>Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTool.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę ustawień formatowania tabeli.</translation>
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation></translation>
+        <translation>Umożliwia skopiowanie formatowania z jednego miejsca i zastosowanie go do innego miejsca.
+
+Aby zastosować to samo formatowanie w wielu miejscach dokumentu, należy kliknąć ten przycisk dwukrotnie.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>SlideNumber.title</source>
-        <translation></translation>
+        <translation>Wstaw numer slajdu</translation>
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation></translation>
+        <translation>Umożliwia użycie domyślnej drukarki do drukowania bezpośredniego.</translation>
     </message>
     <message>
         <source>ShadowButton.title</source>
-        <translation></translation>
+        <translation>Cień tekstu</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
-        <translation></translation>
+        <translation>Wstaw równanie</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
-        <translation></translation>
+        <translation>Czytanie</translation>
     </message>
     <message>
         <source>InsertColumnsRight.title</source>
-        <translation></translation>
+        <translation>Wstaw kolumny po prawej</translation>
     </message>
     <message>
         <source>SetBackground.title</source>
-        <translation></translation>
+        <translation>Ustaw tło</translation>
     </message>
     <message>
         <source>Replace.content</source>
-        <translation></translation>
+        <translation>Umożliwia zamianę zawartości tekstowej w dokumencie.</translation>
     </message>
     <message>
         <source>SlideSorter.title</source>
-        <translation></translation>
+        <translation>Widok sortowania slajdów</translation>
     </message>
     <message>
         <source>InsertTable.title</source>
-        <translation></translation>
+        <translation>Wstaw tabelę</translation>
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation></translation>
+        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
     </message>
     <message>
         <source>NewDash.title</source>
-        <translation></translation>
+        <translation>Nowy Dash</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
-        <translation></translation>
+        <translation>Zresetuj rozmiar</translation>
     </message>
     <message>
         <source>sp_Macros.content</source>
-        <translation></translation>
+        <translation>Pokazuje okno dialogowe Makra. Umożliwia wyświetlenie listy makr, za pomocą której można uruchomić, utworzyć lub usunąć makro.</translation>
     </message>
     <message>
         <source>InsertEduTools.content</source>
-        <translation></translation>
+        <translation>InsertEduTools.content</translation>
     </message>
     <message>
         <source>AudioFadeOut.title</source>
-        <translation></translation>
+        <translation>Wyjście na końcu</translation>
     </message>
     <message>
         <source>ChangeTextDir.content</source>
-        <translation></translation>
+        <translation>Umożliwia zmianę orientacji tekstu na poziomą lub pionową.</translation>
     </message>
     <message>
         <source>TextFontColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia ustawienie koloru tekstu.
+
+Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>IncreaseSpace.title</source>
-        <translation></translation>
+        <translation>Zwiększ odstępy</translation>
     </message>
     <message>
         <source>WebPreview.title</source>
-        <translation></translation>
+        <translation>Utwórz łącze i udostępnij</translation>
     </message>
     <message>
         <source>PrevNextPage.title</source>
-        <translation></translation>
+        <translation>Następna strona</translation>
     </message>
     <message>
         <source>PDFToPPT.title</source>
-        <translation></translation>
+        <translation>PDF na PPT</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation></translation>
+        <translation>SendFileTip.title</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation></translation>
+        <translation>The file will be automatically saved for you when it is turned on.</translation>
     </message>
     <message>
         <source>Distributed.title</source>
-        <translation></translation>
+        <translation>Rozłożony</translation>
     </message>
     <message>
         <source>InsertRowsBelow.title</source>
-        <translation></translation>
+        <translation>Wstaw wiersze poniżej</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation></translation>
+        <translation>Umożliwia nadanie tekstowi takiego wyglądu, jak gdyby był oznaczony zakreślaczem.
+
+Kliknij strzałkę, aby wybrać inny kolor wyróżnienia.</translation>
     </message>
     <message>
         <source>TableFontEffects.content</source>
-        <translation></translation>
+        <translation>Umożliwia dodanie do tekstu efektu wizualnego, takiego jak cień, poświata lub odbicie.</translation>
     </message>
 </context>
 </TS>
