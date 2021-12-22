@@ -1,3055 +1,3186 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="id_ID">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>EditConnectionProperties.title</source>
-        <translation></translation>
+        <translation>Edit Properti Koneksi</translation>
     </message>
     <message>
         <source>ComAddin.content</source>
-        <translation></translation>
+        <translation>Tambahkan atau hapus Add-In COM yang tersedia.</translation>
     </message>
     <message>
         <source>Macros.content</source>
-        <translation></translation>
+        <translation>Melihat daftar makro, dari mana Anda dapat menjalankan, membuat, atau menghapus makro.</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Pengaturan Detail Tata Letak Halaman</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal2.title</source>
-        <translation></translation>
+        <translation>Gambar Kotak Teks</translation>
     </message>
     <message>
         <source>Translate Image.content</source>
-        <translation></translation>
+        <translation>Dengan cepat menerjemahkan konten teks dalam gambar (hanya terjemahan bahasa Mandarin-Inggris yang didukung)</translation>
     </message>
     <message>
         <source>PrintLayout.title</source>
-        <translation></translation>
+        <translation>Tata Letak Halaman</translation>
     </message>
     <message>
         <source>AlignDistributed.content</source>
-        <translation></translation>
+        <translation>Ratakan paragraf ke margin kiri dan kanan dengan menambahkan spasi ekstra di antara karakter yang diperlukan.</translation>
     </message>
     <message>
         <source>EditCloumns.title</source>
-        <translation></translation>
+        <translation>Bar Formula</translation>
     </message>
     <message>
         <source>LockTitleRows.title</source>
-        <translation></translation>
+        <translation>Bekukan Baris Judul</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTool.title</source>
-        <translation></translation>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <source>ShapeSize.title</source>
-        <translation></translation>
+        <translation>Ukuran Bentuk</translation>
     </message>
     <message>
         <source>GrowFont.title</source>
-        <translation></translation>
+        <translation>Besarkan Font</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.content</source>
-        <translation></translation>
+        <translation>Amati perubahan data yang dirangkum ketika ada kondisi filter yang berbeda.</translation>
     </message>
     <message>
         <source>TopAndBottomBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>ColumnSparkline.content</source>
-        <translation></translation>
+        <translation>Sparklines are mini charts placed in single cells, each representing a row of data in your selection.</translation>
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation></translation>
+        <translation>Susun file dengan cepat dan mudah.</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
-        <translation></translation>
+        <translation>Pelukis Format</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>WorkSheet.title</source>
-        <translation></translation>
+        <translation>Lembar kerja</translation>
     </message>
     <message>
         <source>ClearFilter.content</source>
-        <translation></translation>
+        <translation>Kosongkan filter dan sortir status untuk rentang data saat ini.</translation>
     </message>
     <message>
         <source>PTSubtotals.title</source>
-        <translation></translation>
+        <translation>Subtotal</translation>
     </message>
     <message>
         <source>PrinterMoreSetup.title</source>
-        <translation></translation>
+        <translation>Penyiapan Lainnya</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation></translation>
+        <translation>Cetak Cepat</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.content</source>
-        <translation></translation>
+        <translation>Telusuri dan pilih dari daftar fungsi statistik, teknik, dan informasi.</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation></translation>
+        <translation>Convert To Line Sparkline</translation>
     </message>
     <message>
         <source>PrinterCopies.content</source>
-        <translation></translation>
+        <translation>Tentukan jumlah salinan yang akan dicetak.</translation>
     </message>
     <message>
         <source>PercentStyle.content</source>
-        <translation></translation>
+        <translation>Tampilkan nilai sel sebagai persentase.</translation>
     </message>
     <message>
         <source>CustomViews.content</source>
-        <translation></translation>
+        <translation>Simpan pengaturan tampilan dan cetak Anda saat ini sebagai tampilan kustom yang bisa Anda terapkan dengan cepat di masa mendatang.</translation>
     </message>
     <message>
         <source>InsertFunction.content</source>
-        <translation></translation>
+        <translation>Edit formula dalam sel saat ini dengan memilih fungsi dan mengedit argumen.</translation>
     </message>
     <message>
         <source>Eraseborder.title</source>
-        <translation></translation>
+        <translation>Hapus Batas</translation>
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation></translation>
+        <translation>Membuang semua perubahan pemformatan yang Anda buat pada gambar ini.</translation>
     </message>
     <message>
         <source>InsertFunction.title</source>
-        <translation></translation>
+        <translation>Sisipkan Fungsi</translation>
     </message>
     <message>
         <source>FormatStyle.title</source>
-        <translation></translation>
+        <translation>Gaya Format</translation>
     </message>
     <message>
         <source>TopBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>Average.title</source>
-        <translation></translation>
+        <translation>Rata-rata</translation>
     </message>
     <message>
         <source>NamePaste.content</source>
-        <translation></translation>
+        <translation>Pilih nama yang digunakan dalam buku kerja saat ini dan tempelkan ke dalam formula saat ini.</translation>
     </message>
     <message>
         <source>Accounting.title</source>
-        <translation></translation>
+        <translation>Akuntansi</translation>
     </message>
     <message>
         <source>ShowPrecedents.content</source>
-        <translation></translation>
+        <translation>Tampilkan panah yang menunjukkan sel mana yang mempengaruhi nilai sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>What-If%20Analysis.content</source>
-        <translation></translation>
+        <translation>Pencarian Sasaranakan mencari input yang tepat saat Anda mengetahui hasil yang diinginkan.
+Alat Analisis Bagaimana-Jika yang menemukan nilai optimal sel target dengan mengubah nilai dalam sel yang digunakan untuk menghitung sel target.</translation>
     </message>
     <message>
         <source>FuncCatText.title</source>
-        <translation></translation>
+        <translation>Fungsi Teks</translation>
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation></translation>
+        <translation>Menyisipkan file yang dipilih ke dalam dokumen.</translation>
     </message>
     <message>
         <source>WindowReset.content</source>
-        <translation></translation>
+        <translation>Susun petak semua lembar kerja yang terbuka untuk melihatnya secara berdampingan.</translation>
     </message>
     <message>
         <source>StopRecordMacro.title</source>
-        <translation></translation>
+        <translation>Hentikan Perekaman</translation>
     </message>
     <message>
         <source>AllowEditRanges.title</source>
-        <translation></translation>
+        <translation>Izinkan Pengguna Mengedit Rentang</translation>
     </message>
     <message>
         <source>Subtotals.content</source>
-        <translation></translation>
+        <translation>Menghitung total beberapa baris data terkait jadi satu dengan memasukkan subtotal dan total secara otomatis untuk sel yang dipilih.</translation>
     </message>
     <message>
         <source>DetailedSettings_Layout.title</source>
-        <translation></translation>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <source>sp_ConditionHighlight.content</source>
-        <translation></translation>
+        <translation>Temukan sel dengan mudah yang memenuhi sekumpulan kriteria tertentu.</translation>
     </message>
     <message>
         <source>DrawBorder.title</source>
-        <translation></translation>
+        <translation>Gambar Batas</translation>
     </message>
     <message>
         <source>AddFavorite.title</source>
-        <translation></translation>
+        <translation>Tambahkan Kondisi Filter ke Favorit</translation>
     </message>
     <message>
         <source>m_Format.content</source>
-        <translation></translation>
+        <translation>Ubah format sel yang dipilih, konversi teks ke nomor atau hyperlink.</translation>
     </message>
     <message>
         <source>PTFieldSettings.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Pengaturan Ruas.</translation>
     </message>
     <message>
         <source>LineSparkline.content</source>
-        <translation></translation>
+        <translation>Sparklines are mini charts placed in single cells, each representing a row of data in your selection.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.title</source>
-        <translation></translation>
+        <translation>Bantuan</translation>
     </message>
     <message>
         <source>BandedRows.title</source>
-        <translation></translation>
+        <translation>Baris Diblok</translation>
     </message>
     <message>
         <source>sp_Paste.content</source>
-        <translation></translation>
+        <translation>Tempelkan isi Papan Klip</translation>
     </message>
     <message>
         <source>NoBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>BottomDoubleBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>SparklineMarkers.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline Markers</translation>
     </message>
     <message>
         <source>SlicerItemWidth.title</source>
-        <translation></translation>
+        <translation>Lebar Tombol</translation>
     </message>
     <message>
         <source>TotalRow.title</source>
-        <translation></translation>
+        <translation>Total Baris</translation>
     </message>
     <message>
         <source>RecentLineWrap.content</source>
-        <translation></translation>
+        <translation>Buat semua konten terlihat dalam sel dengan menampilkannya di beberapa baris.</translation>
     </message>
     <message>
         <source>PageSetup.title</source>
-        <translation></translation>
+        <translation>Penyetelan Halaman</translation>
     </message>
     <message>
         <source>CircularReferences.title</source>
-        <translation></translation>
+        <translation>Referensi Melingkar</translation>
     </message>
     <message>
         <source>Validation.title</source>
-        <translation></translation>
+        <translation>Validasi Data</translation>
     </message>
     <message>
         <source>DataSort.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Sortir untuk mengurutkan data berdasarkan beberapa kriteria sekaligus.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
-        <translation></translation>
+        <translation>Ubah pengaturan format WordArt.</translation>
     </message>
     <message>
         <source>Align.title</source>
-        <translation></translation>
+        <translation>Rata</translation>
     </message>
     <message>
         <source>NormalViewEt.content</source>
-        <translation></translation>
+        <translation>Lihat lembar kerja dalam tampilan Normal.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation></translation>
+        <translation>Garis bawahi teks yang dipilih.
+
+Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>sp_Paste2.title</source>
-        <translation></translation>
+        <translation>Tempel</translation>
     </message>
     <message>
         <source>CTB_DesignMode.title</source>
-        <translation></translation>
+        <translation>Mode Desain</translation>
     </message>
     <message>
         <source>TableMenuRefresh.title</source>
-        <translation></translation>
+        <translation>Segarkan</translation>
     </message>
     <message>
         <source>SparklineGroup.title</source>
-        <translation></translation>
+        <translation>Group Selected Sparklines</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.content</source>
-        <translation></translation>
+        <translation>Extract data to grid</translation>
     </message>
     <message>
         <source>Min.title</source>
-        <translation></translation>
+        <translation>Min</translation>
     </message>
     <message>
         <source>VerbSideBySide.content</source>
-        <translation></translation>
+        <translation>Reset posisi jendela dokumen yang dibandingkan secara berdampingan sehingga dokumen berbagi layar sama rata.
+
+Untuk mengaktifkan fitur ini, nyalakan Lihat Berdampingan.</translation>
     </message>
     <message>
         <source>Macros.title</source>
-        <translation></translation>
+        <translation>Lihat Makro</translation>
     </message>
     <message>
         <source>FirstColumn.content</source>
-        <translation></translation>
+        <translation>Tampilkan pemformatan khusus untuk kolom pertama tabel.</translation>
     </message>
     <message>
         <source>ShowDependents.title</source>
-        <translation></translation>
+        <translation>Lacak Dependen.</translation>
     </message>
     <message>
         <source>ShowDetail.content</source>
-        <translation></translation>
+        <translation>Tampilkan semua item dari ruas aktif.</translation>
     </message>
     <message>
         <source>PageSize.title</source>
-        <translation></translation>
+        <translation>Ukuran Halaman</translation>
     </message>
     <message>
         <source>MergeCenter2.content</source>
-        <translation></translation>
+        <translation>Menggabungkan sel yang dipilih menjadi satu sel yang lebih besar dan memusatkan konten di sel baru.</translation>
     </message>
     <message>
         <source>ShareWorkbook.content</source>
-        <translation></translation>
+        <translation>Memungkinkan beberapa orang bekerja dalam satu buku kerja dalam waktu bersamaan.
+
+Buku kerja harus disimpan ke lokasi jaringan di mana beberapa orang dapat membukanya.
+
+Buku kerja yang berisi tabel tidak dapat dibagikan.</translation>
     </message>
     <message>
         <source>PTHideFieldList.title</source>
-        <translation></translation>
+        <translation>Sembunyikan Daftar Ruas</translation>
     </message>
     <message>
         <source>OutsideBorders.title</source>
-        <translation></translation>
+        <translation>Batas Luar</translation>
     </message>
     <message>
         <source>AlignDistributed.title</source>
-        <translation></translation>
+        <translation>Terdistribusi</translation>
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation></translation>
+        <translation>Reset semua perubahan ke ukuran gambar yang dipilih.</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
-        <translation></translation>
+        <translation>Sisipkan Objek dari File</translation>
     </message>
     <message>
         <source>VAlignTop.title</source>
-        <translation></translation>
+        <translation>Rata Atas</translation>
     </message>
     <message>
         <source>ImportTxt.content</source>
-        <translation></translation>
+        <translation>Import data from a text file.</translation>
     </message>
     <message>
         <source>PTShowDetail.title</source>
-        <translation></translation>
+        <translation>Tampilkan Detail</translation>
     </message>
     <message>
         <source>SparklineUnGroup.content</source>
-        <translation></translation>
+        <translation>Break a set of grouped sparklines into individual sparklines.</translation>
     </message>
     <message>
         <source>RelativeReference.title</source>
-        <translation></translation>
+        <translation>Gunakan Referensi Relatif</translation>
     </message>
     <message>
         <source>Chart.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Jenis Bagan untuk melihat pilihan seperti tipe bagan yang akan disisipkan.</translation>
     </message>
     <message>
         <source>WindowReset.title</source>
-        <translation></translation>
+        <translation>Susun Semua</translation>
     </message>
     <message>
         <source>TopBorder.title</source>
-        <translation></translation>
+        <translation>Batas Atas</translation>
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation></translation>
+        <translation>Komentar Sebelumnya</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
-        <translation></translation>
+        <translation>Mode Layar Penuh</translation>
     </message>
     <message>
         <source>RecordList.title</source>
-        <translation></translation>
+        <translation>Formulir</translation>
     </message>
     <message>
         <source>PivotChart.title</source>
-        <translation></translation>
+        <translation>PivotChart</translation>
     </message>
     <message>
         <source>MergeCenter.content</source>
-        <translation></translation>
+        <translation>Menggabungkan sel yang dipilih menjadi satu sel yang lebih besar dan memusatkan konten di sel baru.</translation>
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog penyetelan halaman.</translation>
     </message>
     <message>
         <source>ColumnsCenter.content</source>
-        <translation></translation>
+        <translation>Pilih sel berkelanjutan dalam satu atau beberapa baris, set konten sel ke tengah.</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation></translation>
+        <translation>Membuka tab Alat Pengembang untuk menyisipkan Tombol Pilihan, Kotak Centang, dan yang lainnya.</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation></translation>
+        <translation>Memilih Klip Seni dari jendela tugas dan menyisipkannya ke dalam dokumen.</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
-        <translation></translation>
+        <translation>Buat tautan ke halaman web, gambar, atau alamat email.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation></translation>
+        <translation>Mengedit komentar.</translation>
     </message>
     <message>
         <source>WorkSheet.content</source>
-        <translation></translation>
+        <translation>Klik di sini untuk mengubah lembar kerja. Anda dapat memasukkan atau menghapus lembar kerja, mengganti nama lembar kerja, atau mengubah warna tab lembar kerja.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation></translation>
+        <translation>Keamanan Macro</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
-        <translation></translation>
+        <translation>Konversikan dokumen ke file Excel</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation></translation>
+        <translation>Menyisipkan bentuk siap pakai, seperti persegi panjang dan lingkaran, panah, garis, bagan alur, simbol, dan keterangan.</translation>
     </message>
     <message>
         <source>CharacterSpacing.content</source>
-        <translation></translation>
+        <translation>Mengubah jarak antar huruf dari teks WordArt yang dipilih.</translation>
     </message>
     <message>
         <source>AlignJustify.content</source>
-        <translation></translation>
+        <translation>Ratakan teks ke margin kiri dan kanan, tambahkan spasi ekstra di antara kata yang diperlukan.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.title</source>
-        <translation></translation>
+        <translation>Convert To Column Sparkline</translation>
     </message>
     <message>
         <source>sp_Paste.title</source>
-        <translation></translation>
+        <translation>Tempel</translation>
     </message>
     <message>
         <source>ReapplyFilter.title</source>
-        <translation></translation>
+        <translation>Reaplikasi</translation>
     </message>
     <message>
         <source>PagePreviewSwitch.title</source>
-        <translation></translation>
+        <translation>Alihkan ke Pratinjau Halaman</translation>
     </message>
     <message>
         <source>DisplayHeadings.content</source>
-        <translation></translation>
+        <translation>Tampilkan kepala baris dan kolom. 
+
+Kepala baris adalah nomor baris terhadap sisi lembar. 
+
+Kepala kolom adalah huruf atau angka yang muncul di atas kolom pada lembar.</translation>
     </message>
     <message>
         <source>ReapplyFilter.content</source>
-        <translation></translation>
+        <translation>Terapkan kembali filter dan sortir dalam rentang aktif.
+
+Data baru atau yang diubah dalam kolom tidak akan difilter atau diurutkan sampai Anda mengeklik Reaplikasi.</translation>
     </message>
     <message>
         <source>HideDetail.content</source>
-        <translation></translation>
+        <translation>Ciutkan sekelompok sel.</translation>
     </message>
     <message>
         <source>AdvancedFilter.content</source>
-        <translation></translation>
+        <translation>Tentukan kriteria kompleks untuk membatasi rekam mana yang disertakan dalam kumpulan hasil kueri.</translation>
     </message>
     <message>
         <source>ImportTxt.title</source>
-        <translation></translation>
+        <translation>Get External Data From Text</translation>
     </message>
     <message>
         <source>sp_Copy.title</source>
-        <translation></translation>
+        <translation>Salin</translation>
     </message>
     <message>
         <source>Consolidate.title</source>
-        <translation></translation>
+        <translation>Konsolidasi</translation>
     </message>
     <message>
         <source>MathAndTrig.title</source>
-        <translation></translation>
+        <translation>Matematika &amp; Trigonometri</translation>
     </message>
     <message>
         <source>DetailedSettings_Data.content</source>
-        <translation></translation>
+        <translation>Ubah pengaturan lanjutan kerangka.</translation>
     </message>
     <message>
         <source>DoubleAccounting.content</source>
-        <translation></translation>
+        <translation>Dua garis bawah untuk akunting.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.content</source>
-        <translation></translation>
+        <translation>Klik di sini untuk menyisipkan gambar di folder lokal atau dari pemindai.</translation>
     </message>
     <message>
         <source>SparklineUnGroup.title</source>
-        <translation></translation>
+        <translation>Ungroup Selected Sparklines</translation>
     </message>
     <message>
         <source>TotalRow.content</source>
-        <translation></translation>
+        <translation>Nyalakan atau matikan total baris tabel.
+
+Baris total adalah baris di akhir tabel yang akan menampilkan total untuk setiap kolom.</translation>
     </message>
     <message>
         <source>RemoveDuplicates.title</source>
-        <translation></translation>
+        <translation>Hapus Duplikat</translation>
     </message>
     <message>
         <source>SlicerCaption.content</source>
-        <translation></translation>
+        <translation>Ubah keterangan yang ditampilkan di kepala pengiris.</translation>
     </message>
     <message>
         <source>InsertRange.content</source>
-        <translation></translation>
+        <translation>Sisipkan sel, baris, atau kolom ke dalam lembar kerja.</translation>
     </message>
     <message>
         <source>Camera.content</source>
-        <translation></translation>
+        <translation>Tautkan sel atau rentang sel ke objek gambar. Perubahan yang dilakukan pada data dalam sel lembar kerja akan ditampilkan dalam objek gambar secara otomatis.</translation>
     </message>
     <message>
         <source>SparklineFirstPoint.content</source>
-        <translation></translation>
+        <translation>Highlight the first points of data in the selected sparkline group.</translation>
     </message>
     <message>
         <source>BottomBorder.title</source>
-        <translation></translation>
+        <translation>Batas Bawah</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation></translation>
+        <translation>Mengubah pengaturan font, paragraf, serta gaya dan format.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation></translation>
+        <translation>Pencadangan File</translation>
     </message>
     <message>
         <source>Align.content</source>
-        <translation></translation>
+        <translation>Ratakan tepi beberapa objek yang dipilih.
+
+Anda juga dapat menengahkan atau mendistribusikannya secara merata di seluruh halaman.</translation>
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation></translation>
+        <translation>Klik di sini untuk pilihan lainnya seperti menempelkan teks yang belum diformat saja.</translation>
     </message>
     <message>
         <source>PrintArea.content</source>
-        <translation></translation>
+        <translation>Pilih area tertentu pada dokumen Anda yang akan dicetak.</translation>
     </message>
     <message>
         <source>SlicerColumn.content</source>
-        <translation></translation>
+        <translation>Ubah jumlah kolom dalam pengiris.</translation>
     </message>
     <message>
         <source>Currency.content</source>
-        <translation></translation>
+        <translation>Pilih format mata uang alternatif untuk sel yang dipilih.
+
+Misalnya, pilih Euro, bukan Dolar.</translation>
     </message>
     <message>
         <source>TextFill.content</source>
-        <translation></translation>
+        <translation>Ubah warna teks.
+
+Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation></translation>
+        <translation>Menavigasi ke komentar berikutnya di dokumen.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
-        <translation></translation>
+        <translation>Isi Grafis</translation>
     </message>
     <message>
         <source>ShowAllComments.title</source>
-        <translation></translation>
+        <translation>Tampilkan Semua Komentar.</translation>
     </message>
     <message>
         <source>Margins.content</source>
-        <translation></translation>
+        <translation>Pilih ukuran margin untuk seluruh dokumen atau bagian saat ini.</translation>
     </message>
     <message>
         <source>PivotTable.title</source>
-        <translation></translation>
+        <translation>Sisipkan PivotTable</translation>
     </message>
     <message>
         <source>PTHide.content</source>
-        <translation></translation>
+        <translation>Sembunyikan ruas-ruas PivotTable di halaman, baris, area kolom, atau item dalam ruas.</translation>
     </message>
     <message>
         <source>PrintNormalView.content</source>
-        <translation></translation>
+        <translation>Keluar dari pratampil cetak, lalu masuk ke tampilan normal.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.title</source>
-        <translation></translation>
+        <translation>Reset komentar saat ini.</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation></translation>
+        <translation>Warna Font</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation></translation>
+        <translation>Menyarankan kata lain dengan arti yang mirip dengan kata yang Anda pilih.</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.title</source>
-        <translation></translation>
+        <translation>Fungsi Lainnya</translation>
     </message>
     <message>
         <source>PrinterCollate.content</source>
-        <translation></translation>
+        <translation>Tentukan urutan pencetakan apakah disusun (mis., 123123), atau dengan mencetak halaman (mis., 112233).</translation>
     </message>
     <message>
         <source>NumberFormatCells.title</source>
-        <translation></translation>
+        <translation>Format Sel: Angka</translation>
     </message>
     <message>
         <source>TextToColumns.title</source>
-        <translation></translation>
+        <translation>Teks ke Kolom</translation>
     </message>
     <message>
         <source>Slicer.title</source>
-        <translation></translation>
+        <translation>Pengiris</translation>
     </message>
     <message>
         <source>PagePreviewSwitch.content</source>
-        <translation></translation>
+        <translation>Pratinjau bagaimana lembar ini akan dipisah saat dicetak.</translation>
     </message>
     <message>
         <source>OnlineCooperation.content</source>
-        <translation></translation>
+        <translation>Buka dokumen untuk pengeditan kolaboratif.</translation>
     </message>
     <message>
         <source>PTHide.title</source>
-        <translation></translation>
+        <translation>Sembunyikan</translation>
     </message>
     <message>
         <source>Group.title</source>
-        <translation></translation>
+        <translation>Grup</translation>
     </message>
     <message>
         <source>InteractiveChart.content</source>
-        <translation></translation>
+        <translation>Buat bagan yang keren, dinamis, interaktif untuk meningkatkan kinerja presentasi.</translation>
     </message>
     <message>
         <source>ShareWorkbook.title</source>
-        <translation></translation>
+        <translation>Bagi Buku Kerja</translation>
     </message>
     <message>
         <source>PDFToPPT.content</source>
-        <translation></translation>
+        <translation>Konversikan dokumen ke file PPT</translation>
     </message>
     <message>
         <source>ShowAllComments.content</source>
-        <translation></translation>
+        <translation>Tampilkan semua komentar dalam lembar.</translation>
     </message>
     <message>
         <source>LTRTextDirection.title</source>
-        <translation></translation>
+        <translation>Arah Teks Kiri-ke-kanan</translation>
     </message>
     <message>
         <source>RTLTextDirection.title</source>
-        <translation></translation>
+        <translation>Arah Teks Kanan-ke-Kiri</translation>
     </message>
     <message>
         <source>AutoSum.content</source>
-        <translation></translation>
+        <translation>Tampilkan jumlah sel yang dipilih langsung setelah sel yang dipilih.</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Pengaturan Detail Alat Menggambar</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
-        <translation></translation>
+        <translation>Kunci rasio aspek saat menyesuaikan gambar.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation></translation>
+        <translation>The modified document is automatically saved for you to avoid loss of document content.</translation>
     </message>
     <message>
         <source>VerbSideBySide.title</source>
-        <translation></translation>
+        <translation>Reset Posisi Jendela</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation></translation>
+        <translation>SendFileTip.content</translation>
     </message>
     <message>
         <source>PageZoom.content</source>
-        <translation></translation>
+        <translation>Sesuaikan lebar atau tinggi outputl cetak agar sesuai dengan jumlah halaman maksimum, atau persentase dari ukuran sebenarnya.</translation>
     </message>
     <message>
         <source>RowsAndColumn.title</source>
-        <translation></translation>
+        <translation>Baris dan Kolom</translation>
     </message>
     <message>
         <source>CmpSideBySide.content</source>
-        <translation></translation>
+        <translation>Menampilkan dua dokumen secara berdampingan untuk membandingkan kontennya.</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.content</source>
-        <translation></translation>
+        <translation>Tampilkan tab Perataan pada kotak dialog Format Sel.</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.title</source>
-        <translation></translation>
+        <translation>Convert To Win/Loss Sparkline</translation>
     </message>
     <message>
         <source>GrowFont.content</source>
-        <translation></translation>
+        <translation>Perbesar ukuran font.</translation>
     </message>
     <message>
         <source>Legend.content</source>
-        <translation></translation>
+        <translation>Tampilkan atau sembunyikan legenda bagan.</translation>
     </message>
     <message>
         <source>TextFill.title</source>
-        <translation></translation>
+        <translation>Warna Teks</translation>
     </message>
     <message>
         <source>RecordMacro.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Rekam Makro dan mulai merekam makro.</translation>
     </message>
     <message>
         <source>DoubleUnderline.content</source>
-        <translation></translation>
+        <translation>Garisbawahi dobel teks yang dipilih.</translation>
     </message>
     <message>
         <source>PTHideDetail.title</source>
-        <translation></translation>
+        <translation>Sembunyikan Detail</translation>
     </message>
     <message>
         <source>PivotTableAnalysis.content</source>
-        <translation></translation>
+        <translation>Klasifikasikan dan ringkas data dengan mudah.</translation>
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation></translation>
+        <translation>Menambahkan komentar ke dokumen tentang pilihan.</translation>
     </message>
     <message>
         <source>FormatAsTable.title</source>
-        <translation></translation>
+        <translation>Format Sebagai Tabel</translation>
     </message>
     <message>
         <source>PTRepeatLabels.content</source>
-        <translation></translation>
+        <translation>Tampilkan semua label item induk.</translation>
     </message>
     <message>
         <source>NormalViewEt.title</source>
-        <translation></translation>
+        <translation>Tampilan Normal</translation>
     </message>
     <message>
         <source>ReadingLayout.title</source>
-        <translation></translation>
+        <translation>Tata Letak Baca</translation>
     </message>
     <message>
         <source>TaskWindow.content</source>
-        <translation></translation>
+        <translation>Tampilkan atau sembunyikan jendela tugas di lembar kerja.</translation>
     </message>
     <message>
         <source>DrawGrid.content</source>
-        <translation></translation>
+        <translation>Untuk menggambar kisi batas, klik di sini dan seret mouse untuk menggambar.
+
+Tekan Esc pada keyboard atau klik lagi di sini untuk keluar dari mode menggambar.</translation>
     </message>
     <message>
         <source>ShowFormulas.content</source>
-        <translation></translation>
+        <translation>Tampilkan formula di setiap sel, bukan nilai yang dihasilkan.</translation>
     </message>
     <message>
         <source>sp_ConditionHighlight.title</source>
-        <translation></translation>
+        <translation>Sorotan Kondisi</translation>
     </message>
     <message>
         <source>OutlineSettings.title</source>
-        <translation></translation>
+        <translation>Pengaturan Kerangka</translation>
     </message>
     <message>
         <source>StopRecordMacro.content</source>
-        <translation></translation>
+        <translation>Hentikan perekaman makro.</translation>
     </message>
     <message>
         <source>ClearFilter.title</source>
-        <translation></translation>
+        <translation>Tampilkan Semua</translation>
     </message>
     <message>
         <source>RecalculateBook.content</source>
-        <translation></translation>
+        <translation>Hitung seluruh buku kerja sekarang.
+
+Ini hanya diperlukan jika perhitungan otomatis telah dimatikan.</translation>
     </message>
     <message>
         <source>Refresh.title</source>
-        <translation></translation>
+        <translation>Segarkan Data</translation>
     </message>
     <message>
         <source>SparklineLowPoint.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline Low Points</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.content</source>
-        <translation></translation>
+        <translation>Change the selected sparkline group to a win/loss sparkline.</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation></translation>
+        <translation>Hapus Komentar</translation>
     </message>
     <message>
         <source>PrintTitle.title</source>
-        <translation></translation>
+        <translation>Cetak judul</translation>
     </message>
     <message>
         <source>PrintArea.title</source>
-        <translation></translation>
+        <translation>Area Cetak</translation>
     </message>
     <message>
         <source>ConditionalFormatting.content</source>
-        <translation></translation>
+        <translation>Memudahkan pencarian tren dan pola dalam data Anda menggunakan bar, warna, dan ikon untuk menyoroti nilai penting secara visual.</translation>
     </message>
     <message>
         <source>TableMenuRefresh.content</source>
-        <translation></translation>
+        <translation>Dapatkan data terbaru dari sumber yang terhubung ke sel aktif.</translation>
     </message>
     <message>
         <source>SlicerColumn.title</source>
-        <translation></translation>
+        <translation>Kolom</translation>
     </message>
     <message>
         <source>What-If Analysis.content</source>
-        <translation></translation>
+        <translation>Alat Analisis Bagaimana-Jika yang menemukan nilai optimal sel target dengan mengubah nilai dalam sel yang digunakan untuk menghitung sel target.</translation>
     </message>
     <message>
         <source>LookupAndReference.content</source>
-        <translation></translation>
+        <translation>Telusuri dan pilih dari daftar fungsi pencarian dan referensi.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.title</source>
-        <translation></translation>
+        <translation>Kerangka Grafis</translation>
     </message>
     <message>
         <source>Table.content</source>
-        <translation></translation>
+        <translation>Menyisipkan atau menggambar tabel ke dokumen, dan mengonversi teks ke tabel atau sebaliknya.</translation>
     </message>
     <message>
         <source>CustomViews.title</source>
-        <translation></translation>
+        <translation>Tampilan Kustom</translation>
     </message>
     <message>
         <source>Count.content</source>
-        <translation></translation>
+        <translation>Hitung jumlah sel dalam kolom yang berisi angka.</translation>
     </message>
     <message>
         <source>ShrinkFont.content</source>
-        <translation></translation>
+        <translation>Perkecil ukuran font.</translation>
     </message>
     <message>
         <source>TableName.content</source>
-        <translation></translation>
+        <translation>Edit nama tabel ini yang digunakan untuk dirujuk dalam formula.</translation>
     </message>
     <message>
         <source>RB_Clipboard.title</source>
-        <translation></translation>
+        <translation>Papan klip</translation>
     </message>
     <message>
         <source>Eraseborder.content</source>
-        <translation></translation>
+        <translation>Untuk menghapus batas, klik di sini dan seret mouse untuk menghapus.
+
+Tekan Esc pada keyboard atau klik lagi di sini untuk keluar dari mode penghapusan.</translation>
     </message>
     <message>
         <source>VAlignCenter.title</source>
-        <translation></translation>
+        <translation>Rata Tengah</translation>
     </message>
     <message>
         <source>Legend.title</source>
-        <translation></translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation></translation>
+        <translation>Ubah warna teks.
+
+Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation></translation>
+        <translation>Isi bentuk yang dipilih dengan warna solid, gradien, gambar, atau tekstur.
+
+Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>DataTable.content</source>
-        <translation></translation>
+        <translation>Tambahkan tabel data ke bagan.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
-        <translation></translation>
+        <translation>Ambil Layar dan OCR</translation>
     </message>
     <message>
         <source>MathAndTrig.content</source>
-        <translation></translation>
+        <translation>Telusuri dan pilih dari daftar fungsi matematika dan trigonometri.</translation>
     </message>
     <message>
         <source>PTSortAndTopTen.title</source>
-        <translation></translation>
+        <translation>Sortir</translation>
     </message>
     <message>
         <source>HideWindow.title</source>
-        <translation></translation>
+        <translation>Sembunyikan Jendela</translation>
     </message>
     <message>
         <source>ShowPrecedents.title</source>
-        <translation></translation>
+        <translation>Lacak Preseden.</translation>
     </message>
     <message>
         <source>Clear.content</source>
-        <translation></translation>
+        <translation>Hapus semuanya dari sel, atau hapus pemformatan, konten, atau komentar secara selektif.</translation>
     </message>
     <message>
         <source>BookProtection.content</source>
-        <translation></translation>
+        <translation>Mencegah perubahan yang tidak diinginkan pada struktur buku kerja, seperti memindahkan, menghapus, atau menambahkan lembar.</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Konten Pengaturan Detail Tata Letak Halaman</translation>
     </message>
     <message>
         <source>ThickBottomBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>ClearArrows.title</source>
-        <translation></translation>
+        <translation>Hapus Semua Panah</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
-        <translation></translation>
+        <translation>Atur ukuran, derajat rotasi, dan zoom untuk bentuk yang dipilih.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.content</source>
-        <translation></translation>
+        <translation>Specific the color and weight of the sparklines in the selected sparkline group.</translation>
     </message>
     <message>
         <source>EnableMacro.title</source>
-        <translation></translation>
+        <translation>Aktifkan Instruksi Makro</translation>
     </message>
     <message>
         <source>OutlineSettings.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Kerangka.</translation>
     </message>
     <message>
         <source>Direction.content</source>
-        <translation></translation>
+        <translation>Pilih efek arah dari Bentuk 3D yang dipilih.</translation>
     </message>
     <message>
         <source>Printer.title</source>
-        <translation></translation>
+        <translation>Printer</translation>
     </message>
     <message>
         <source>HighlighDuplicates.content</source>
-        <translation></translation>
+        <translation>Click here to perform operations on duplicate items, such as highlight duplicate items, refuse to enter duplicate items, delete duplicate items, etc.</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.title</source>
-        <translation></translation>
+        <translation>Filter Favorit Kondisi</translation>
     </message>
     <message>
         <source>PrintHeaderFooter.content</source>
-        <translation></translation>
+        <translation>Atur header dan footer untuk lembar yang akan dicetak.</translation>
     </message>
     <message>
         <source>PrintGridlines.title</source>
-        <translation></translation>
+        <translation>Cetak Garis Kisi</translation>
     </message>
     <message>
         <source>SlicerCaption.title</source>
-        <translation></translation>
+        <translation>Keterangan Pengiris</translation>
     </message>
     <message>
         <source>PrintHeadings.content</source>
-        <translation></translation>
+        <translation>Kepala baris dan kolom cetak.
+
+Kepala baris adalah nomor baris terhadap sisi lembar.
+
+Kepala kolom adalah huruf atau angka yang muncul di atas kolom pada lembar.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation></translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>PageSize.content</source>
-        <translation></translation>
+        <translation>Pilih ukuran kertas untuk bagian saat ini.
+
+Untuk menerapkan ukuran kertas tertentu ke semua bagian dalam dokumen, klik untuk menyesuaikan ukuran kertas.</translation>
     </message>
     <message>
         <source>Clear.title</source>
-        <translation></translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>DataUngroup2.title</source>
-        <translation></translation>
+        <translation>Uraikan</translation>
     </message>
     <message>
         <source>ResetPicture.title</source>
-        <translation></translation>
+        <translation>Reset Gambar</translation>
     </message>
     <message>
         <source>CircularReferences.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Referensi Melingkar. Anda dapat menelusuri dan menemukan semua sel yang berisi referensi melingkar di buku kerja.
+
+Klik dua kali item dalam daftar hasil untuk beralih sel yang sesuai.</translation>
     </message>
     <message>
         <source>CommaStyle.title</source>
-        <translation></translation>
+        <translation>Gaya Koma</translation>
     </message>
     <message>
         <source>PrinterPaperSize.title</source>
-        <translation></translation>
+        <translation>Ukuran Kertas</translation>
     </message>
     <message>
         <source>PTTableOptions.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Pilihan PivotTable.</translation>
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation></translation>
+        <translation>Kurangi Level Daftar</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
-        <translation></translation>
+        <translation>Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>Validation.content</source>
-        <translation></translation>
+        <translation>Cegah data yang tidak valid agar tidak masuk ke dalam sel
+
+Misalnya, Anda dapat menolak data atau angka yang tidak valid yang lebih besar dari 1000.
+
+Anda juga dapat memaksa input dipilih dari daftar gulung nilai yang Anda tentukan.</translation>
     </message>
     <message>
         <source>PrinterCopies.title</source>
-        <translation></translation>
+        <translation>Salinan</translation>
     </message>
     <message>
         <source>EditCloumns.content</source>
-        <translation></translation>
+        <translation>Lihat bar formula, di mana Anda dapat memasukkan teks dan formula ke dalam sel.</translation>
     </message>
     <message>
         <source>DisplayHeadings.title</source>
-        <translation></translation>
+        <translation>Lihat Kepala</translation>
     </message>
     <message>
         <source>PivotTableOrder.title</source>
-        <translation></translation>
+        <translation>Urutan</translation>
     </message>
     <message>
         <source>BandedRows.content</source>
-        <translation></translation>
+        <translation>Menampilkan baris terblok, di mana baris genap diformat berbeda dengan baris-baris ganjil.
+
+Pemblokan ini dapat membuat tabel lebih mudah dibaca.</translation>
     </message>
     <message>
         <source>Recommended Chart.content</source>
-        <translation></translation>
+        <translation>Penasaran cara memilih bagan? Izinkan kami merekomendasikan untuk Anda sesuai data yang dipilih.</translation>
     </message>
     <message>
         <source>PrevLandscape.title</source>
-        <translation></translation>
+        <translation>Lanskap</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation></translation>
+        <translation>Ekspor ke Gambar</translation>
     </message>
     <message>
         <source>Duplicates.content</source>
-        <translation></translation>
+        <translation>Sorot, Tolak Input, atau Hapus baris duplikat dari lembar.
+
+Anda dapat menentukan kolom mana yang harus dicek untuk informasi duplikat.</translation>
     </message>
     <message>
         <source>VerticalText.content</source>
-        <translation></translation>
+        <translation>Gambar teks secara vertikal, dengan huruf diletakkan di atas huruf lainnya.</translation>
     </message>
     <message>
         <source>ChartObjects.title</source>
-        <translation></translation>
+        <translation>Objek Bagan</translation>
     </message>
     <message>
         <source>ContextTextDirection.title</source>
-        <translation></translation>
+        <translation>Konteks</translation>
     </message>
     <message>
         <source>Recommended Chart.title</source>
-        <translation></translation>
+        <translation>Bagan yang Direkomendasikan</translation>
     </message>
     <message>
         <source>PTRefreshAllData.content</source>
-        <translation></translation>
+        <translation>Ambil data terbaru dengan menyegarkan semua sumber di buku kerja.</translation>
     </message>
     <message>
         <source>CmpSideBySide.title</source>
-        <translation></translation>
+        <translation>Tampilkan Berdampingan</translation>
     </message>
     <message>
         <source>SortAscending.content</source>
-        <translation></translation>
+        <translation>Sortir pilihan sehingga nilai terendah berada di bagian atas kolom.</translation>
     </message>
     <message>
         <source>ShapeFillColor2.content</source>
-        <translation></translation>
+        <translation>Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>DataDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Konten Pengaturan Detail Data</translation>
     </message>
     <message>
         <source>NameCreate.content</source>
-        <translation></translation>
+        <translation>Secara otomatis menghasilkan nama dari sel yang dipilih.
+
+Banyak orang memilih menggunakan teks di baris atas atau kolom pilihan paling kiri.</translation>
     </message>
     <message>
         <source>SameLetterHeights.content</source>
-        <translation></translation>
+        <translation>Samakan semua tinggi huruf dari WordArt yang dipilih.</translation>
     </message>
     <message>
         <source>Logical.content</source>
-        <translation></translation>
+        <translation>Telusuri dan pilih dari daftar fungsi logis.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.title</source>
-        <translation></translation>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <source>InsertDropDownList.content</source>
-        <translation></translation>
+        <translation>Buat daftar gulung dan sesuaikan pilihan di dalamnya.</translation>
     </message>
     <message>
         <source>ExportFilterResult.content</source>
-        <translation></translation>
+        <translation>Simpan hasil filter sebagai file baru atau lembar baru.</translation>
     </message>
     <message>
         <source>PublishToSharePoint.title</source>
-        <translation></translation>
+        <translation>Ekspor Tabel ke Daftar SharePoint</translation>
     </message>
     <message>
         <source>CalculateSheet.title</source>
-        <translation></translation>
+        <translation>Hitung Lembar</translation>
     </message>
     <message>
         <source>Refresh.content</source>
-        <translation></translation>
+        <translation>Perbarui semua informasi di buku kerja yang berasal dari sumber data.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation></translation>
+        <translation>Auto Save File</translation>
     </message>
     <message>
         <source>FormatChartObject.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Format objek bagan. Anda dapat menggunakan pengaturan detail untuk pilihan bagan.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.content</source>
-        <translation></translation>
+        <translation>Highlight the negative values one the selected sparkline group with a different color or marker.</translation>
     </message>
     <message>
         <source>FillColor2.title</source>
-        <translation></translation>
+        <translation>Isian Bentuk</translation>
     </message>
     <message>
         <source>AllowEditRanges.content</source>
-        <translation></translation>
+        <translation>Memungkinkan orang-orang tertentu mengedit rentang sel di buku kerja atau lembar kerja yang diproteksi.
+
+Sebelum menggunakan fitur ini, set dulu keamanan pada lembar dengan menggunakan perintah Proteksi Lembar.</translation>
     </message>
     <message>
         <source>NamePaste.title</source>
-        <translation></translation>
+        <translation>Tempelkan Nama</translation>
     </message>
     <message>
         <source>ImportData.content</source>
-        <translation></translation>
+        <translation>Impor data eksternal ke dalam lembar kerja yang dipilih.</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal2.content</source>
-        <translation></translation>
+        <translation>Klik di sini untuk memasukkan teks horizontal atau vertikal.</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.title</source>
-        <translation></translation>
+        <translation>Insert Data</translation>
     </message>
     <message>
         <source>PTFieldSettings.title</source>
-        <translation></translation>
+        <translation>Pengaturan Ruas</translation>
     </message>
     <message>
         <source>RowsAndColumn.content</source>
-        <translation></translation>
+        <translation>Klik di sini untuk menyesuaikan baris dan kolom. Anda dapat menyesuaikan tinggi dan lebar, mengubah isi, atau menyembunyikan baris dan kolom.</translation>
     </message>
     <message>
         <source>PivotChartAnalysis.content</source>
-        <translation></translation>
+        <translation>Klasifikasikan dan jumlahkan data, serta buat bagan dengan hasilnya.</translation>
     </message>
     <message>
         <source>RefreshAll.content</source>
-        <translation></translation>
+        <translation>Perbarui semua informasi di buku kerja yang berasal dari sumber data.</translation>
     </message>
     <message>
         <source>SpellCheck.content</source>
-        <translation></translation>
+        <translation>Periksa ejaan teks di lembar kerja aktif.</translation>
     </message>
     <message>
         <source>SplitSheet.content</source>
-        <translation></translation>
+        <translation>Pecah tabel saat ini menjadi beberapa file atau lembar sesuai isinya.</translation>
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation></translation>
+        <translation>Rata Kanan</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.content</source>
-        <translation></translation>
+        <translation>Pilih baris atau sel pertama, ganti halaman horizontal akan disisipkan di atasnya.
+Pilih kolom atau sel pertama, ganti halaman vertikal akan disisipkan di sebelah kiri.
+Pilih sel di tengah baris/kolom mana saja, dua ganti halaman akan disisipkan, satu di atas dan yang lainnya di kiri.
+Dalam Pratinjau Ganti Halaman, Anda dapat menyeret ganti halaman untuk penyesuaian.</translation>
     </message>
     <message>
         <source>DeleteRange2.content</source>
-        <translation></translation>
+        <translation>Klik di sini untuk menghapus sel, baris, atau seluruh lembar kerja.</translation>
     </message>
     <message>
         <source>ChineseTranslation.title</source>
-        <translation></translation>
+        <translation>Cina Modern ke Cina Tradisional</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation></translation>
+        <translation>Tambah level inden paragraf.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation></translation>
+        <translation>Kurangi level inden paragraf.</translation>
     </message>
     <message>
         <source>SortDescending.content</source>
-        <translation></translation>
+        <translation>Sortir pilihan sehingga nilai tertinggi berada di bagian atas kolom.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
-        <translation></translation>
+        <translation>PDF ke Excel</translation>
     </message>
     <message>
         <source>ProtectAndShare.title</source>
-        <translation></translation>
+        <translation>Lindungi dan Bagikan Buku Kerja</translation>
     </message>
     <message>
         <source>FreezePanes.content</source>
-        <translation></translation>
+        <translation>Tetap perlihatkan sebagian lembar selagi menggulir sisa lembar lainnya. (Anda dapat membatalkan kunci untuk menggulir seluruh lembar kerja).</translation>
     </message>
     <message>
         <source>SourceData.content</source>
-        <translation></translation>
+        <translation>Ubah rentang data yang dicantumkan dalam bagan.</translation>
     </message>
     <message>
         <source>HeaderRow.content</source>
-        <translation></translation>
+        <translation>Nyalakan atau matikan kepala baris tabel.
+
+Baris kepala akan memformat baris atas tabel secara khusus.</translation>
     </message>
     <message>
         <source>TextToColumns.content</source>
-        <translation></translation>
+        <translation>Memisahkan konten dari salah satu sel Spreadsheet ke dalam kolom terpisah.
+
+Misalnya, Anda dapat memisahkan kolom nama lengkap menjadi kolom nama depan dan belakang yang terpisah.
+
+Di Writer, gunakan fitur ini untuk mengonversi teks yang dipilih ke dalam tabel, memisahkan teks menjadi kolom pada setiap koma, titik, atau karakter lain yang Anda tentukan.</translation>
     </message>
     <message>
         <source>ChineseTranslation.content</source>
-        <translation></translation>
+        <translation>Menentukan unit terjemahan untuk bahasa Cina Modern - Tradisional menjadi karakter atau kata.</translation>
     </message>
     <message>
         <source>AllBorders.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>m_Format.title</source>
-        <translation></translation>
+        <translation>Format</translation>
     </message>
     <message>
         <source>MergeSheet.content</source>
-        <translation></translation>
+        <translation>Gabungkan beberapa lembar ke dalam satu lembar.</translation>
     </message>
     <message>
         <source>Morefunctions.title</source>
-        <translation></translation>
+        <translation>Fungsi Lainnya</translation>
     </message>
     <message>
         <source>FreezePanes.title</source>
-        <translation></translation>
+        <translation>Bekukan/Cairkan Panel</translation>
     </message>
     <message>
         <source>PublishToSharePoint.content</source>
-        <translation></translation>
+        <translation>Ekspor data dalam tabel ini ke daftar SharePoint atau diagram Visio.</translation>
     </message>
     <message>
         <source>PrevPortrait.title</source>
-        <translation></translation>
+        <translation>Potret</translation>
     </message>
     <message>
         <source>NewWindow.title</source>
-        <translation></translation>
+        <translation>Jendela Baru</translation>
     </message>
     <message>
         <source>ImportData.title</source>
-        <translation></translation>
+        <translation>Impor Data</translation>
     </message>
     <message>
         <source>SplitPanes.title</source>
-        <translation></translation>
+        <translation>Pisah/Satukan</translation>
     </message>
     <message>
         <source>RelativeReference.content</source>
-        <translation></translation>
+        <translation>Gunakan referensi relatif sehingga makro akan direkam dengan tindakan relatif terhadap sel yang awal dipilih.</translation>
     </message>
     <message>
         <source>FormsToolbox.title</source>
-        <translation></translation>
+        <translation>Insert form</translation>
     </message>
     <message>
         <source>Security.content</source>
-        <translation></translation>
+        <translation>Sesuaikan pengaturan keamanan makro.</translation>
     </message>
     <message>
         <source>PivotChart.content</source>
-        <translation></translation>
+        <translation>Gunakan PivotChart untuk meringkas data secara grafis dan menjelajahi data yang rumit.</translation>
     </message>
     <message>
         <source>RecenttlyUsed.title</source>
-        <translation></translation>
+        <translation>Terakhir Digunakan</translation>
     </message>
     <message>
         <source>Average.content</source>
-        <translation></translation>
+        <translation>Menghasilkan rata-rata (rata-rata aritmetika) argumen.</translation>
     </message>
     <message>
         <source>FlashFill.content</source>
-        <translation></translation>
+        <translation>Analisis hubungan antara hasil dan data asli, dan dengan cerdas isi sel lain dalam kolom yang sama.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.content</source>
-        <translation></translation>
+        <translation>Change the selected sparkline group to a column sparkline.</translation>
     </message>
     <message>
         <source>AutoFilter.content</source>
-        <translation></translation>
+        <translation>Aktifkan pemfilteran sel yang dipilih.
+
+Setelah pemfilteran dinyalakan, klik tanda panah untuk memilih filter untuk kolom.</translation>
     </message>
     <message>
         <source>ShowDetail.title</source>
-        <translation></translation>
+        <translation>Tampilkan Detail</translation>
     </message>
     <message>
         <source>TextFill2.content</source>
-        <translation></translation>
+        <translation>Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>DoubleUnderline.title</source>
-        <translation></translation>
+        <translation>Garis bawah ganda</translation>
     </message>
     <message>
         <source>UnhideWindow.content</source>
-        <translation></translation>
+        <translation>Menampilkan semua jendela yang tersembunyi dengan fitur Sembunyikan Jendela.</translation>
     </message>
     <message>
         <source>HideWindow.content</source>
-        <translation></translation>
+        <translation>Sembunyikan jendela saat ini.
+
+Untuk mengembalikan jendela, klik tombol Tampilkan.</translation>
     </message>
     <message>
         <source>EvaluateFormula.title</source>
-        <translation></translation>
+        <translation>Evaluasi Rumus</translation>
     </message>
     <message>
         <source>SlicerItemHeight.content</source>
-        <translation></translation>
+        <translation>Ubah tinggi tombol pengiris.</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
-        <translation></translation>
+        <translation>Kecilkan Font</translation>
     </message>
     <message>
         <source>Count.title</source>
-        <translation></translation>
+        <translation>Hitung</translation>
     </message>
     <message>
         <source>ReadingLayout.content</source>
-        <translation></translation>
+        <translation>Memudahkan untuk mengecek data terkait yang berada di baris atau kolom yang sama dengan sel aktif.
+
+Klik panah untuk memilih warna yang berbeda.</translation>
     </message>
     <message>
         <source>Chart.title</source>
-        <translation></translation>
+        <translation>Buat Bagan</translation>
     </message>
     <message>
         <source>What-If Analysis.title</source>
-        <translation></translation>
+        <translation>Analisis Bagaimana-Jika</translation>
     </message>
     <message>
         <source>WinLossSparkline.content</source>
-        <translation></translation>
+        <translation>Sparklines are mini charts placed in single cells, each representing a row of data in your selection.</translation>
     </message>
     <message>
         <source>MergeColumns.content</source>
-        <translation></translation>
+        <translation>Pilih dan gabungkan sel di satu atau beberapa baris.</translation>
     </message>
     <message>
         <source>GraphicLineColor.title</source>
-        <translation></translation>
+        <translation>Kerangka Grafis</translation>
     </message>
     <message>
         <source>ShowOrHideComment.title</source>
-        <translation></translation>
+        <translation>Tampilkan/Sembunyikan Komentar.</translation>
     </message>
     <message>
         <source>ThickBoxBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>PrintLayout.content</source>
-        <translation></translation>
+        <translation>Menampilkan buku kerja saat muncul pada halaman yang dicetak.</translation>
     </message>
     <message>
         <source>PrinterCollate.title</source>
-        <translation></translation>
+        <translation>Antrean Cetak</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
-        <translation></translation>
+        <translation>Meratakan paragraf ke margin kiri dan kanan dengan menambahkan spasi ekstra di antara setiap dua karakter untuk bahasa dengan tanda nada dan tanda vokal.
+
+Tindakan ini membuat dokumen dengan tampilan bersih.</translation>
     </message>
     <message>
         <source>PivotTableOrder.content</source>
-        <translation></translation>
+        <translation>Pindahkan area baris atau kolom PivotTable ke atas atau bawah.</translation>
     </message>
     <message>
         <source>Scientific.content</source>
-        <translation></translation>
+        <translation>Format sebagai angka dalam notasi ilmiah, dengan 2 posisi desimal.</translation>
     </message>
     <message>
         <source>InteractiveChart.title</source>
-        <translation></translation>
+        <translation>Sisipkan Bagan Interaktif</translation>
     </message>
     <message>
         <source>FuncCatDateAndTime.content</source>
-        <translation></translation>
+        <translation>Telusuri dan pilih dari daftar fungsi tanggal dan waktu.</translation>
     </message>
     <message>
         <source>UnhideWindow.title</source>
-        <translation></translation>
+        <translation>Tampilkan Jendela</translation>
     </message>
     <message>
         <source>ShapeLineColor2.title</source>
-        <translation></translation>
+        <translation>Kerangka Bentuk</translation>
     </message>
     <message>
         <source>SparklineClear.title</source>
-        <translation></translation>
+        <translation>Clear Selected Sparklines</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
-        <translation></translation>
+        <translation>Isi dan Kerangka Bentuk</translation>
     </message>
     <message>
         <source>ComAddin.title</source>
-        <translation></translation>
+        <translation>Add-In COM</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation></translation>
+        <translation>Edit header dan footer dokumen.</translation>
     </message>
     <message>
         <source>SeriesInRows.content</source>
-        <translation></translation>
+        <translation>Seri bagan akan dibuat dalam baris.</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation></translation>
+        <translation>Cari</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
-        <translation></translation>
+        <translation>Header dan Footer</translation>
     </message>
     <message>
         <source>SortDescending.title</source>
-        <translation></translation>
+        <translation>Menurun</translation>
     </message>
     <message>
         <source>ConditionalFormat.title</source>
-        <translation></translation>
+        <translation>Pemformatan Bersyarat</translation>
     </message>
     <message>
         <source>PivotTable.content</source>
-        <translation></translation>
+        <translation>Klik di sini untuk meringkas data menggunakan PivotTable.
+
+PivotTable memudahkan untuk menyusun dan meringkas data yang rumit dan menelusuri detail.</translation>
     </message>
     <message>
         <source>ShowFormulas.title</source>
-        <translation></translation>
+        <translation>Tampilkan Formula</translation>
     </message>
     <message>
         <source>EnableMacro.content</source>
-        <translation></translation>
+        <translation>Untuk mengaktifkan fungsi makro, Anda harus menginstal perpustakaan dukungan VBA. Klik untuk mengetahui detailnya.</translation>
     </message>
     <message>
         <source>FTB_Property.title</source>
-        <translation></translation>
+        <translation>Kontrol Properti</translation>
     </message>
     <message>
         <source>Lighting.title</source>
-        <translation></translation>
+        <translation>Pencahayaan</translation>
     </message>
     <message>
         <source>DataDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Pengaturan Detail Data</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation></translation>
+        <translation>Rata Tengah</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation></translation>
+        <translation>Mark the background area and quickly and intelligently remove the background of the picture</translation>
     </message>
     <message>
         <source>SparkAxis.content</source>
-        <translation></translation>
+        <translation>Change the scaling and visibility of each sparkline axis for the selected sparkline group.</translation>
     </message>
     <message>
         <source>RefreshAll.title</source>
-        <translation></translation>
+        <translation>Segarkan Semua</translation>
     </message>
     <message>
         <source>ExistingConnections.title</source>
-        <translation></translation>
+        <translation>Dapatkan Data Menggunakan Koneksi yang Ada</translation>
     </message>
     <message>
         <source>SplitSheet.title</source>
-        <translation></translation>
+        <translation>Pecah Tabel</translation>
     </message>
     <message>
         <source>FlashFill.title</source>
-        <translation></translation>
+        <translation>Isian Cepat</translation>
     </message>
     <message>
         <source>LoadMacro.title</source>
-        <translation></translation>
+        <translation>Add-In</translation>
     </message>
     <message>
         <source>ContextTextDirection.content</source>
-        <translation></translation>
+        <translation>Allow WPS Spreedsheets to choose the paragraph direction based on the lanuage that is being typed.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
-        <translation></translation>
+        <translation>Ambil Layar, sekali klik untuk mengekstrak teks.</translation>
     </message>
     <message>
         <source>Margins.title</source>
-        <translation></translation>
+        <translation>Margin</translation>
     </message>
     <message>
         <source>ThickBoxBorder.title</source>
-        <translation></translation>
+        <translation>Batas Kotak Tebal</translation>
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation></translation>
+        <translation>Galeri WPS</translation>
     </message>
     <message>
         <source>LockCell.content</source>
-        <translation></translation>
+        <translation>Jika lembar kerja diproteksi, fitur Kunci Sel dapat memproteksi data agar tidak diubah.</translation>
     </message>
     <message>
         <source>NumberFormatGallery.content</source>
-        <translation></translation>
+        <translation>Pilih format untuk sel Anda, seperti persentase, mata uang, tanggal, atau waktu.</translation>
     </message>
     <message>
         <source>PTSortAndTopTen.content</source>
-        <translation></translation>
+        <translation>Set pilihan urut otomatis dari ruas PivotTable.</translation>
     </message>
     <message>
         <source>DoubleAccounting.title</source>
-        <translation></translation>
+        <translation>Dobel Akuntansi</translation>
     </message>
     <message>
         <source>SortAndFilter.title</source>
-        <translation></translation>
+        <translation>Sortir</translation>
     </message>
     <message>
         <source>SeriesInColumns.content</source>
-        <translation></translation>
+        <translation>Seri bagan akan dibuat dalam kolom.</translation>
     </message>
     <message>
         <source>Table.title</source>
-        <translation></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Konten Pengaturan Detail Alat Gambar</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.title</source>
-        <translation></translation>
+        <translation>Edit Group Location &amp; Data</translation>
     </message>
     <message>
         <source>PTFilterConnections.content</source>
-        <translation></translation>
+        <translation>Atur filter mana yang dihubungkan ke PivotTable.</translation>
     </message>
     <message>
         <source>Lighting.content</source>
-        <translation></translation>
+        <translation>Set arah dan intensitas pencahayaan untuk bentuk 3D yang dipilih. Terakhir, set juga kecerahan, normal dan redup.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.title</source>
-        <translation></translation>
+        <translation>Sisipkan Gambar</translation>
     </message>
     <message>
         <source>PTFilterConnections.title</source>
-        <translation></translation>
+        <translation>Koneksi Filter</translation>
     </message>
     <message>
         <source>CellStyleGallery.content</source>
-        <translation></translation>
+        <translation>Pilih gaya yang telah ditentukan untuk sel. Anda juga dapat menyesuaikan gaya.</translation>
     </message>
     <message>
         <source>SeriesInRows.title</source>
-        <translation></translation>
+        <translation>Ganti Baris</translation>
     </message>
     <message>
         <source>FTB_Property.content</source>
-        <translation></translation>
+        <translation>Set properti objek bentuk yang dipilih, seperti font dan ukuran.</translation>
     </message>
     <message>
         <source>PageOrientation.content</source>
-        <translation></translation>
+        <translation>Berganti halaman antara tata letak potret dan lanskap.</translation>
     </message>
     <message>
         <source>RightBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>PTNotRepeatLabels.content</source>
-        <translation></translation>
+        <translation>Hanya tampilkan satu dari label item induk duplikat.</translation>
     </message>
     <message>
         <source>TextOrientation.content</source>
-        <translation></translation>
+        <translation>Putar teks ke sudut diagonal atau orientasi vertikal.
+
+Fitur ini sering digunakan untuk melabeli kolom sempit.
+
+Klik lagi orientasi teks yang dipilih saat ini untuk mengeset reset teks ke orientasi normal.</translation>
     </message>
     <message>
         <source>VAlignTop.content</source>
-        <translation></translation>
+        <translation>Meratakan teks ke bagian atas sel.</translation>
     </message>
     <message>
         <source>TranslateToSimplifiedChinese.content</source>
-        <translation></translation>
+        <translation>Terjemahkan Cina Tradisional ke Cina Modern.</translation>
     </message>
     <message>
         <source>PageBreakPreview.title</source>
-        <translation></translation>
+        <translation>Pratampil Jeda Halaman</translation>
     </message>
     <message>
         <source>FillColor.title</source>
-        <translation></translation>
+        <translation>Isian Bentuk</translation>
     </message>
     <message>
         <source>AdvancedFilter.title</source>
-        <translation></translation>
+        <translation>Filter Lanjutan</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation></translation>
+        <translation>Mengonversi gambar ke format teks.</translation>
     </message>
     <message>
         <source>FormulaErrorCheck.title</source>
-        <translation></translation>
+        <translation>Pengecekan Kesalahan</translation>
     </message>
     <message>
         <source>CommaStyle.content</source>
-        <translation></translation>
+        <translation>Tampilkan nilai sel dengan pemisah ribuan.</translation>
     </message>
     <message>
         <source>LockSideBySide.content</source>
-        <translation></translation>
+        <translation>Sinkronkan pengguliran dua dokumen sehingga dokumen bergulir bersama.
+
+Untuk mengaktifkan fitur ini, nyalakan Lihat Berdampingan.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline Negative Points</translation>
     </message>
     <message>
         <source>NameManager.title</source>
-        <translation></translation>
+        <translation>Pengatur Nama</translation>
     </message>
     <message>
         <source>RunMacro2.title</source>
-        <translation></translation>
+        <translation>Lihat Makro</translation>
     </message>
     <message>
         <source>ChartObjects.content</source>
-        <translation></translation>
+        <translation>Pilih elemen bagan sehingga Anda dapat memformatnya.</translation>
     </message>
     <message>
         <source>RecentLineWrap.title</source>
-        <translation></translation>
+        <translation>Bungkus teks</translation>
     </message>
     <message>
         <source>AutoSum.title</source>
-        <translation></translation>
+        <translation>Autojumlah</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation></translation>
+        <translation>Auto save turned on</translation>
     </message>
     <message>
         <source>EDRProperties.content</source>
-        <translation></translation>
+        <translation>Ubah nama sumber data eksternal, tata letak, dan format angka.</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
-        <translation></translation>
+        <translation>Ubah pengaturan format bentuk.</translation>
     </message>
     <message>
         <source>sp_AutoSum.title</source>
-        <translation></translation>
+        <translation>Autojumlah</translation>
     </message>
     <message>
         <source>AutoFilter.title</source>
-        <translation></translation>
+        <translation>Autofilter</translation>
     </message>
     <message>
         <source>DataGroup.content</source>
-        <translation></translation>
+        <translation>Mengelompokkan serangkaian sel bersama-sama sehingga dapat diciutkan atau dibentang.</translation>
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation></translation>
+        <translation>Pengecilan File</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
-        <translation></translation>
+        <translation>Batalkan Penggabungan Sel</translation>
     </message>
     <message>
         <source>PTNotRepeatLabels.title</source>
-        <translation></translation>
+        <translation>Jangan Ulangi Label Item</translation>
     </message>
     <message>
         <source>Duplicates.title</source>
-        <translation></translation>
+        <translation>Duplikat</translation>
     </message>
     <message>
         <source>ResizeTable.title</source>
-        <translation></translation>
+        <translation>Ubah Ukuran Tabel</translation>
     </message>
     <message>
         <source>sp_AutoSum2.content</source>
-        <translation></translation>
+        <translation>Klik di sini untuk menampilkan hasil perhitungan sederhana, seperti Nilai Rata-rata atau Maksimum, setelah sel yang dipilih.</translation>
     </message>
     <message>
         <source>PercentStyle.title</source>
-        <translation></translation>
+        <translation>Gaya Persen</translation>
     </message>
     <message>
         <source>CellStyleGallery.title</source>
-        <translation></translation>
+        <translation>Gaya Sel</translation>
     </message>
     <message>
         <source>BandedColumns.title</source>
-        <translation></translation>
+        <translation>Kolom Diblok</translation>
     </message>
     <message>
         <source>Camera.title</source>
-        <translation></translation>
+        <translation>Kamera</translation>
     </message>
     <message>
         <source>Currency.title</source>
-        <translation></translation>
+        <translation>Mata Uang</translation>
     </message>
     <message>
         <source>FormatChartObject.title</source>
-        <translation></translation>
+        <translation>Pilihan Format</translation>
     </message>
     <message>
         <source>sp_AutoSum.content</source>
-        <translation></translation>
+        <translation>Tampilkan jumlah sel yang dipilih langsung setelah sel yang dipilih.</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation></translation>
+        <translation>split atau gabungan</translation>
     </message>
     <message>
         <source>NoBorder.title</source>
-        <translation></translation>
+        <translation>Tidak Ada Batas</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation></translation>
+        <translation>Menyisipkan objek yang ditanamkan ke dokumen.
+
+Klik tanda panah untuk memasukkan konten file ke dalam dokumen.</translation>
     </message>
     <message>
         <source>VAlignBottom.content</source>
-        <translation></translation>
+        <translation>Meratakan teks ke bagian bawah sel.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation></translation>
+        <translation>Mengelompokkan objek bersama-sama agar dapat diperlakukan sebagai objek tunggal.</translation>
     </message>
     <message>
         <source>SeriesInColumns.title</source>
-        <translation></translation>
+        <translation>Ganti Kolom</translation>
     </message>
     <message>
         <source>NameDefine.content</source>
-        <translation></translation>
+        <translation>Namai sel sehingga Anda dapat merujuknya dalam formula dengan nama tersebut.
+
+Misalnya, pilih sel A1: A10, dan namai rentang sel ini dengan &quot;uji coba&quot;. 
+
+Nama dapat digunakan dalam formula agar mudah memahaminya.</translation>
     </message>
     <message>
         <source>PTRepeatLabels.title</source>
-        <translation></translation>
+        <translation>Ulangi Semua Label Item</translation>
     </message>
     <message>
         <source>HideDetail.title</source>
-        <translation></translation>
+        <translation>Sembunyikan Detail</translation>
     </message>
     <message>
         <source>PrinterPaperSize.content</source>
-        <translation></translation>
+        <translation>Pilih ukuran kertas untuk pencetakan, misalnya A3, A4, dll.</translation>
     </message>
     <message>
         <source>RecordList.content</source>
-        <translation></translation>
+        <translation>Setelah memilih judul kolom, Anda dapat memasukkan, menelusuri, atau menghapus data melalui formulir data.</translation>
     </message>
     <message>
         <source>OnlineCooperation.title</source>
-        <translation></translation>
+        <translation>Kolaborasi</translation>
     </message>
     <message>
         <source>InsertObject.title</source>
-        <translation></translation>
+        <translation>Sisipkan Objek</translation>
     </message>
     <message>
         <source>DataGroup.title</source>
-        <translation></translation>
+        <translation>Grup</translation>
     </message>
     <message>
         <source>DisplayGridlines.content</source>
-        <translation></translation>
+        <translation>Tampilkan garis di antara baris dan kolom pada lembar untuk mempermudah mengedit dan membaca.
+
+Garis ini tidak akan dicetak kecuali Cetak juga dicentang.</translation>
     </message>
     <message>
         <source>OutsideBorders.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>TranslateToTraditionalChinese.content</source>
-        <translation></translation>
+        <translation>Terjemahkan Cina Modern ke Cina Tradisional.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation></translation>
+        <translation>Menampilkan kotak dialog Galeri WordArt untuk memilih gaya WordArt dan mengedit konten.</translation>
     </message>
     <message>
         <source>MergeColumns.title</source>
-        <translation></translation>
+        <translation>Gabung Seluruh</translation>
     </message>
     <message>
         <source>ModifyPivotTable.content</source>
-        <translation></translation>
+        <translation>Ubah sumber data PivotTable dan set reset lokasi tampilan.</translation>
     </message>
     <message>
         <source>FormulaErrorCheck.content</source>
-        <translation></translation>
+        <translation>Cek kesalahan umum yang terjadi saat menggunakan formula.</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
-        <translation></translation>
+        <translation>Klik di sini untuk berhenti membaca.</translation>
     </message>
     <message>
         <source>SparklineLowPoint.content</source>
-        <translation></translation>
+        <translation>Highlight the lowest points of data in the selected sparkline group.</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.title</source>
-        <translation></translation>
+        <translation>Kelola Duplikat</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.title</source>
-        <translation></translation>
+        <translation>Pengaturan Detail Halaman Muka</translation>
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation></translation>
+        <translation>Menampilkan item pada Papan klip.</translation>
     </message>
     <message>
         <source>HighlightDisplay.content</source>
-        <translation></translation>
+        <translation>Menyoroti rekam serupa untuk dibandingkan dengan lebih mudah.</translation>
     </message>
     <message>
         <source>PageLayoutView.title</source>
-        <translation></translation>
+        <translation>Tampilan Tata Letak Halaman</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
-        <translation></translation>
+        <translation>Terjemahkan Gambar</translation>
     </message>
     <message>
         <source>LastColumn.content</source>
-        <translation></translation>
+        <translation>Tampilkan pemformatan khusus untuk kolom terakhir tabel.</translation>
     </message>
     <message>
         <source>PageOrientation.title</source>
-        <translation></translation>
+        <translation>Orientasi Halaman</translation>
     </message>
     <message>
         <source>PageBreakPreview.content</source>
-        <translation></translation>
+        <translation>Lihat pratampil di mana halaman akan jeda saat buku kerja ini dicetak.</translation>
     </message>
     <message>
         <source>FontFormatCells.title</source>
-        <translation></translation>
+        <translation>Pengaturan Font</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.content</source>
-        <translation></translation>
+        <translation>Filter tabel dalam satu langkah dengan mengeklik kondisi di Favorit. Tidak ada masalah lagi dengan pengaturan kondisi.</translation>
     </message>
     <message>
         <source>ShapeLineColor.content</source>
-        <translation></translation>
+        <translation>Set warna, lebar, dan gaya garis untuk kerangka objek yang dipilih.
+
+Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>VAlignBottom.title</source>
-        <translation></translation>
+        <translation>Rata Bawah</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation></translation>
+        <translation>1. Isi Bentuk
+Isi objek yang dipilih dengan warna, gradien, tekstur, dan gambar.
+2. Kerangka Bentuk
+Atur warna, berat, dan tanda hubung untuk objek yang dipilih.
+Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation></translation>
+        <translation>Rata Kanan</translation>
     </message>
     <message>
         <source>SparklineClear.content</source>
-        <translation></translation>
+        <translation>Clear the selected sparklines.</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation></translation>
+        <translation>Hentikan pencadangan otomatis dokumen saat ini.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.content</source>
-        <translation></translation>
+        <translation>Bandingkan data dan soroti atau ambil nilai duplikat dan unik.</translation>
     </message>
     <message>
         <source>PivotTableDelete.title</source>
-        <translation></translation>
+        <translation>Hapus PivotTable</translation>
     </message>
     <message>
         <source>AddFavorite.content</source>
-        <translation></translation>
+        <translation>Tambahkan kondisi filter saat ini ke Favorit sehingga Anda dapat menggunakannya langsung di lain waktu.</translation>
     </message>
     <message>
         <source>PageZoom.title</source>
-        <translation></translation>
+        <translation>Zoom Halaman</translation>
     </message>
     <message>
         <source>ShowDependents.content</source>
-        <translation></translation>
+        <translation>Tampilkan panah yang menunjukkan sel mana yang dipengaruhi nilai sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>TopAndBottomBorder.title</source>
-        <translation></translation>
+        <translation>Batas Atas dan Bawah</translation>
     </message>
     <message>
         <source>BottomDoubleBorder.title</source>
-        <translation></translation>
+        <translation>Dobel Batas Bawah</translation>
     </message>
     <message>
         <source>Accounting.content</source>
-        <translation></translation>
+        <translation>Pilih format mata uang alternatif untuk sel yang dipilih, memungkinkan simbol mata uang diratakan ke kiri.</translation>
     </message>
     <message>
         <source>DataUngroup2.content</source>
-        <translation></translation>
+        <translation>Uraikan serangkaian sel yang sebelumnya dikelompokkan.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
-        <translation></translation>
+        <translation>Konten Pengaturan Detail Muka</translation>
     </message>
     <message>
         <source>FirstColumn.title</source>
-        <translation></translation>
+        <translation>Kolom Pertama</translation>
     </message>
     <message>
         <source>sp_AutoSum2.title</source>
-        <translation></translation>
+        <translation>Autojumlah</translation>
     </message>
     <message>
         <source>MergeCenter2.title</source>
-        <translation></translation>
+        <translation>Gabungkan dan Tengahkan</translation>
     </message>
     <message>
         <source>RotateRight.content</source>
-        <translation></translation>
+        <translation>Putar atau balik objek yang dipilih.</translation>
     </message>
     <message>
         <source>InsertRange2.title</source>
-        <translation></translation>
+        <translation>Sisipkan Sel</translation>
     </message>
     <message>
         <source>Direction.title</source>
-        <translation></translation>
+        <translation>Arah</translation>
     </message>
     <message>
         <source>FTB_EditCode.title</source>
-        <translation></translation>
+        <translation>Edit Kode</translation>
     </message>
     <message>
         <source>SheetBackground.content</source>
-        <translation></translation>
+        <translation>Pilih gambar untuk latar belakang Anda, dan tambahkan beberapa kepribadian ke lembar kerja Anda.</translation>
     </message>
     <message>
         <source>SlicerItemWidth.content</source>
-        <translation></translation>
+        <translation>Ubah lebar tombol pengiris.</translation>
     </message>
     <message>
         <source>LastColumn.title</source>
-        <translation></translation>
+        <translation>Kolom Terakhir</translation>
     </message>
     <message>
         <source>TopAndThickBottomBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>InsertSlicer.title</source>
-        <translation></translation>
+        <translation>Sisipkan Pengiris</translation>
     </message>
     <message>
         <source>Scientific.title</source>
-        <translation></translation>
+        <translation>Gaya Ilmiah</translation>
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation></translation>
+        <translation>Menavigasi ke halaman berikutnya di dalam presentasi.</translation>
     </message>
     <message>
         <source>InsertPageBreak.title</source>
-        <translation></translation>
+        <translation>Pemisah Halaman</translation>
     </message>
     <message>
         <source>Min.content</source>
-        <translation></translation>
+        <translation>Menghasilkan angka terkecil dalam serangkaian nilai.</translation>
     </message>
     <message>
         <source>Max.content</source>
-        <translation></translation>
+        <translation>Menghasilkan nilai terbesar dalam serangkaian nilai.</translation>
     </message>
     <message>
         <source>RTLTextDirection.content</source>
-        <translation></translation>
+        <translation>Tetapkan teks untuk dibaca dari kanan ke kiri.</translation>
     </message>
     <message>
         <source>Printer.content</source>
-        <translation></translation>
+        <translation>Pilih printer.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
-        <translation></translation>
+        <translation>Memulai halaman berikutnya pada posisi kursor saat ini, dan konten setelah kursor akan dipindahkan ke halaman baru.</translation>
     </message>
     <message>
         <source>PrintTitle.content</source>
-        <translation></translation>
+        <translation>Tentukan baris dan kolom untuk diulang pada setiap halaman yang dicetak.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation></translation>
+        <translation>Kunci rasio aspek saat menyesuaikan gambar.</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
-        <translation></translation>
+        <translation>Lacak Perubahan</translation>
     </message>
     <message>
         <source>SparklineMarkers.content</source>
-        <translation></translation>
+        <translation>Highlight each point in each line sparkline in the selected sparkline group.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.content</source>
-        <translation></translation>
+        <translation>Atur PivotTable mana yang dihubungkan ke pengiris.</translation>
     </message>
     <message>
         <source>ShapeLineColor2.content</source>
-        <translation></translation>
+        <translation>Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.content</source>
-        <translation></translation>
+        <translation>Pilih ukuran zoom dari dokumen saat ini.</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation></translation>
+        <translation>Membuka jendela baru yang berisi tampilan dokumen saat ini.</translation>
     </message>
     <message>
         <source>PrinterSide.content</source>
-        <translation></translation>
+        <translation>Tentukan cara mencetak, apakah satu sisi atau dua sisi.</translation>
     </message>
     <message>
         <source>TrackChanges.content</source>
-        <translation></translation>
+        <translation>Melacak semua perubahan yang dilakukan pada dokumen, termasuk penyisipan, penghapusan, dan perubahan format.</translation>
     </message>
     <message>
         <source>BottomBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>SameLetterHeights.title</source>
-        <translation></translation>
+        <translation>Tinggi Huruf Sama WordArt</translation>
     </message>
     <message>
         <source>LTRTextDirection.content</source>
-        <translation></translation>
+        <translation>Tetapkan teks untuk dibaca dari kiri ke kanan.</translation>
     </message>
     <message>
         <source>ExitPreview.content</source>
-        <translation></translation>
+        <translation>Keluar dari Pratampil Cetak dan kembali ke mode pengeditan dokumen.</translation>
     </message>
     <message>
         <source>TaskWindow.title</source>
-        <translation></translation>
+        <translation>Jendela Tugas</translation>
     </message>
     <message>
         <source>FTB_EditCode.content</source>
-        <translation></translation>
+        <translation>Mulai editor visual basic untuk mengedit kode bentuk yang dipilih.</translation>
     </message>
     <message>
         <source>PrintPreviewMargins.title</source>
-        <translation></translation>
+        <translation>Margin</translation>
     </message>
     <message>
         <source>ConditionalFormat.content</source>
-        <translation></translation>
+        <translation>Eksplorasi dan analisis data, deteksi masalah penting, serta identifikasi pola dan tren secara visual.</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation></translation>
+        <translation>Warna Isi</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.title</source>
-        <translation></translation>
+        <translation>Reset semua komentar dari lembar saat ini.</translation>
     </message>
     <message>
         <source>ColumnsCenter.title</source>
-        <translation></translation>
+        <translation>Silang Tengah</translation>
     </message>
     <message>
         <source>PrintHeadings.title</source>
-        <translation></translation>
+        <translation>Cetak Kepala</translation>
     </message>
     <message>
         <source>RecordMacro.title</source>
-        <translation></translation>
+        <translation>Rekam Makro</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation></translation>
+        <translation>Rata Kiri</translation>
     </message>
     <message>
         <source>ProtectSheet.title</source>
-        <translation></translation>
+        <translation>Proteksi Lembar</translation>
     </message>
     <message>
         <source>NameManager.content</source>
-        <translation></translation>
+        <translation>Buat, edit, hapus, dan temukan semua nama yang digunakan di buku kerja.
+
+Nama dapat digunakan dalam formula sebagai pengganti referensi sel.</translation>
     </message>
     <message>
         <source>Thesaurus.title</source>
-        <translation></translation>
+        <translation>Tesaurus</translation>
     </message>
     <message>
         <source>PrinterMoreSetup.content</source>
-        <translation></translation>
+        <translation>Detail pengaturan pencetakan, misalnya memilih printer, mencetak halaman, pencetakan dupleks, zoom, dan lainnya.</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation></translation>
+        <translation>Warna Isi</translation>
     </message>
     <message>
         <source>LockTitleRows.content</source>
-        <translation></translation>
+        <translation>Buat baris judul selalu tampil untuk referensi konstan saat membaca data dalam jumlah besar.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.content</source>
-        <translation></translation>
+        <translation>Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>ProtectSheet.content</source>
-        <translation></translation>
+        <translation>Cegah perubahan yang tidak diinginkan pada data dalam lembar dengan menentukan informasi yang dapat diubah.
+
+Misalnya, Anda dapat mencegah orang dari mengedit sel yang dikunci atau mengubah pemformatan dokumen.
+
+Anda dapat menentukan kata sandi yang dapat dimasukkan untuk membuka proteksi lembar dan memungkinkan perubahan ini.</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.title</source>
-        <translation></translation>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTool.content</source>
-        <translation></translation>
+        <translation>Ubah pengaturan format gambar.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.title</source>
-        <translation></translation>
+        <translation>Warna Grafik Mini</translation>
     </message>
     <message>
         <source>ConditionalFormatting.title</source>
-        <translation></translation>
+        <translation>Pemformatan Bersyarat</translation>
     </message>
     <message>
         <source>Connections.content</source>
-        <translation></translation>
+        <translation>Tampilkan semua koneksi data untuk buku kerja.
+
+Koneksi Data adalah tautan ke data di luar buku kerja ini yang dapat diperbarui jika data sumber berubah.</translation>
     </message>
     <message>
         <source>EDRProperties.title</source>
-        <translation></translation>
+        <translation>Properti Rentang Data</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.title</source>
-        <translation></translation>
+        <translation>Warna Spidol</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.content</source>
-        <translation></translation>
+        <translation>Edit the location and data source for the selected sparkline group.</translation>
     </message>
     <message>
         <source>ThickBottomBorder.title</source>
-        <translation></translation>
+        <translation>Batas Bawah Tebal</translation>
     </message>
     <message>
         <source>FormatAsTable.content</source>
-        <translation></translation>
+        <translation>Dengan cepat mengonversi rentang sel ke tabel dengan gayanya sendiri.</translation>
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation></translation>
+        <translation>Mengeset tata letak halaman ke potret dalam pencetakan sebaran, halaman catatan, dan kerangka.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation></translation>
+        <translation>Konversi Gambar ke Teks</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation></translation>
+        <translation>Menampilkan kotak dialog Makro dan melihat daftar makro dari mana Anda dapat menjalankan, menghapus, atau membuat makro secara langsung.</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation></translation>
+        <translation>Rata Kiri</translation>
     </message>
     <message>
         <source>ConvertToRange.title</source>
-        <translation></translation>
+        <translation>Konversi ke Rentang</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation></translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>Max.title</source>
-        <translation></translation>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>PTRefreshData.title</source>
-        <translation></translation>
+        <translation>Segarkan Data</translation>
     </message>
     <message>
         <source>FillColor2.content</source>
-        <translation></translation>
+        <translation>Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>PrintNormalView.title</source>
-        <translation></translation>
+        <translation>Tampilan Normal</translation>
     </message>
     <message>
         <source>TextOrientation.title</source>
-        <translation></translation>
+        <translation>Orientasi</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation></translation>
+        <translation>Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>GraphicFillColor2.title</source>
-        <translation></translation>
+        <translation>Isi Grafis</translation>
     </message>
     <message>
         <source>DeleteRange2.title</source>
-        <translation></translation>
+        <translation>Hapus Sel</translation>
     </message>
     <message>
         <source>PTSubtotals.content</source>
-        <translation></translation>
+        <translation>Tampilkan atau sembunyikan subtotal.</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
-        <translation></translation>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <source>ObjectSelect.content</source>
-        <translation></translation>
+        <translation>Tampilkan jendela tugas Panel Pilihan untuk menemukan satu objek atau mengeset urutan dan visibilitasnya dengan mudah.</translation>
     </message>
     <message>
         <source>PTTableOptions.title</source>
-        <translation></translation>
+        <translation>Pilihan PivotTable</translation>
     </message>
     <message>
         <source>CalculateSheet.content</source>
-        <translation></translation>
+        <translation>Menghitung lembar aktif sekarang.
+Ini hanya diperlukan jika perhitungan otomatis telah dimatikan.</translation>
     </message>
     <message>
         <source>Gallery.content</source>
-        <translation></translation>
+        <translation>Galeri WPS menyediakan semua jenis sumber gambar yang dapat Anda gunakan, kumpulkan, edit, dan atur.
+
+Sumber Online Galeri WPS memerlukan koneksi Internet.</translation>
     </message>
     <message>
         <source>NumberFormatCells.content</source>
-        <translation></translation>
+        <translation>Tampilkan tab Angka dari kotak dialog Format Sel.</translation>
     </message>
     <message>
         <source>LoadMacro.content</source>
-        <translation></translation>
+        <translation>Atur Add-In yang tersedia untuk digunakan dengan file ini.</translation>
     </message>
     <message>
         <source>GraphicFillColor.content</source>
-        <translation></translation>
+        <translation>Isi grafis yang dipilih dengan warna.
+
+Klik tanda panah untuk diisi dengan efek yang lain.</translation>
     </message>
     <message>
         <source>InsertRange2.content</source>
-        <translation></translation>
+        <translation>Klik di sini untuk menyisipkan sel, baris, atau kolom di lembar kerja atau menambahkan lembar kerja baru.</translation>
     </message>
     <message>
         <source>VerticalText.title</source>
-        <translation></translation>
+        <translation>Teks Vertikal WordArt</translation>
     </message>
     <message>
         <source>ObjectSelect.title</source>
-        <translation></translation>
+        <translation>Panel Pilihan</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.title</source>
-        <translation></translation>
+        <translation>Format Sel: Perataan</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation></translation>
+        <translation>Mengompres gambar yang dipilih atau semua gambar dalam dokumen untuk mengurangi ukurannya.</translation>
     </message>
     <message>
         <source>SortAscending.title</source>
-        <translation></translation>
+        <translation>Menaik</translation>
     </message>
     <message>
         <source>PTHideFieldList.content</source>
-        <translation></translation>
+        <translation>Tampilkan atau sembunyikan Daftar Ruas.
+
+Daftar ruas memungkinkan Anda menambah dan menghapus ruas.</translation>
     </message>
     <message>
         <source>SlicerSetting.title</source>
-        <translation></translation>
+        <translation>Pengaturan Pengiris</translation>
     </message>
     <message>
         <source>LookupAndReference.title</source>
-        <translation></translation>
+        <translation>Pencarian &amp; Referensi</translation>
     </message>
     <message>
         <source>SplitPanes.content</source>
-        <translation></translation>
+        <translation>Pisah jendela jadi beberapa panel yang dapat diubah ukurannya yang berisi tampilan lembar kerja Anda.
+
+Anda dapat menggunakan fitur ini untuk menampilkan beberapa bagian lembar kerja dengan jarak yang panjang sekaligus.</translation>
     </message>
     <message>
         <source>PageLayoutView.content</source>
-        <translation></translation>
+        <translation>Lihat bagaimana tampilan cetak dokumen Anda.
+
+        Ini adalah cara tepat untuk memeriksa di mana halaman awal dan akhir, dan untuk melihat header/footer pada halaman.</translation>
     </message>
     <message>
         <source>PrintHeaderFooter.title</source>
-        <translation></translation>
+        <translation>Cetak Header dan Footer</translation>
     </message>
     <message>
         <source>EditCrossBookLinks.content</source>
-        <translation></translation>
+        <translation>Untuk memperbarui data atau menghapus tautan, lihat semua file yang telah ditautkan ke buku kerja ini.</translation>
     </message>
     <message>
         <source>Ai Matting.title</source>
-        <translation></translation>
+        <translation>Ai Matting</translation>
     </message>
     <message>
         <source>StopAutoVersion.title</source>
-        <translation></translation>
+        <translation>Stop Autocadang</translation>
     </message>
     <message>
         <source>Financial.title</source>
-        <translation></translation>
+        <translation>Keuangan</translation>
     </message>
     <message>
         <source>SparklineFirstPoint.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline First Points</translation>
     </message>
     <message>
         <source>PrevPreviousPage.title</source>
-        <translation></translation>
+        <translation>Halaman Sebelumnya</translation>
     </message>
     <message>
         <source>ClearArrows.content</source>
-        <translation></translation>
+        <translation>Hapus panah yang digambar oleh Lacak Preseden atau Lacak Dependen.</translation>
     </message>
     <message>
         <source>TranslateToTraditionalChinese.title</source>
-        <translation></translation>
+        <translation>Cina Modern ke Cina Tradisional</translation>
     </message>
     <message>
         <source>EquationEditor.content</source>
-        <translation></translation>
+        <translation>Masukkan persamaan matematika menggunakan editor persamaan.</translation>
     </message>
     <message>
         <source>sp_Copy.content</source>
-        <translation></translation>
+        <translation>Pick how you want to copy the selection.</translation>
     </message>
     <message>
         <source>LeftBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>Morefunctions.content</source>
-        <translation></translation>
+        <translation>Telusuri dan pilih dari daftar fungsi statistik, teknik, kubus, dan informasi.</translation>
     </message>
     <message>
         <source>OtherBorders.content</source>
-        <translation></translation>
+        <translation>Anda dapat menggunakan pengaturan detail untuk memilih batas sel.</translation>
     </message>
     <message>
         <source>DecreaseDecimal.content</source>
-        <translation></translation>
+        <translation>Tampilkan nilai yang kurang tepat dengan menampilkan lebih sedikit posisi desimal.</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation></translation>
+        <translation>Tambah Level Daftar</translation>
     </message>
     <message>
         <source>CharacterSpacing.title</source>
-        <translation></translation>
+        <translation>Penspasian Karakter WordArt</translation>
     </message>
     <message>
         <source>FuncCatDateAndTime.title</source>
-        <translation></translation>
+        <translation>Tanggal &amp; Waktu</translation>
     </message>
     <message>
         <source>ProtectAndShare.content</source>
-        <translation></translation>
+        <translation>Bagikan buku kerja sekaligus proteksi dengan kata sandi.
+
+Kata sandi akan mencegah orang lain mematikan pelacakan perubahan.</translation>
     </message>
     <message>
         <source>OtherBorders.title</source>
-        <translation></translation>
+        <translation>Batas Lainnya</translation>
     </message>
     <message>
         <source>LockSideBySide.title</source>
-        <translation></translation>
+        <translation>Pengguliran Sinkron</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.content</source>
-        <translation></translation>
+        <translation>Terapkan batas ke sel yang saat ini dipilih.</translation>
     </message>
     <message>
         <source>What-If%20Analysis.title</source>
-        <translation></translation>
+        <translation>Analisis Bagaimana-Jika</translation>
     </message>
     <message>
         <source>ExistingConnections.content</source>
-        <translation></translation>
+        <translation>Impor data dari sumber umum.</translation>
     </message>
     <message>
         <source>DrawBorder.content</source>
-        <translation></translation>
+        <translation>Untuk menggambar garis batas, klik di sini dan seret mouse untuk menggambar.
+
+Tekan Esc pada keyboard atau klik lagi di sini untuk keluar dari mode menggambar.</translation>
     </message>
     <message>
         <source>IncreaseDecimal.content</source>
-        <translation></translation>
+        <translation>Tampilkan nilai yang lebih tepat dengan menampilkan lebih banyak posisi desimal.</translation>
     </message>
     <message>
         <source>Hyperlink.title</source>
-        <translation></translation>
+        <translation>Sisipkan Hyperlink</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.title</source>
-        <translation></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>DeleteRange.content</source>
-        <translation></translation>
+        <translation>Hapus sel, baris, atau kolom di lembar kerja.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline Last Points</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
-        <translation></translation>
+        <translation>Pratampil Cetak</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation></translation>
+        <translation>Menghapus komentar.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.title</source>
-        <translation></translation>
+        <translation>Koneksi Laporan</translation>
     </message>
     <message>
         <source>Slicer.content</source>
-        <translation></translation>
+        <translation>Gunakan Pengiris untuk memfilter data secara visual.
+
+Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</translation>
     </message>
     <message>
         <source>LockCell.title</source>
-        <translation></translation>
+        <translation>Kunci Sel</translation>
     </message>
     <message>
         <source>SourceData.title</source>
-        <translation></translation>
+        <translation>Pilih Data</translation>
     </message>
     <message>
         <source>TextFill2.title</source>
-        <translation></translation>
+        <translation>Warna Teks</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.content</source>
-        <translation></translation>
+        <translation>Change the selected sparkline group to a line sparkline.</translation>
     </message>
     <message>
         <source>ResizeTable.content</source>
-        <translation></translation>
+        <translation>Ubah ukuran tabel ini dengan menambahkan atau menghapus baris dan kolom.</translation>
     </message>
     <message>
         <source>MergeSheet.title</source>
-        <translation></translation>
+        <translation>Gabungkan Tabel</translation>
     </message>
     <message>
         <source>AllFunction.content</source>
-        <translation></translation>
+        <translation>Jelajahi dan pilih dari daftar yang berisi semua fungsi.</translation>
     </message>
     <message>
         <source>CTB_DesignMode.content</source>
-        <translation></translation>
+        <translation>Masuk ke mode desain untuk mengedit nama dan fungsi kontrol.</translation>
     </message>
     <message>
         <source>ColumnSparkline.title</source>
-        <translation></translation>
+        <translation>Column Sparkline</translation>
     </message>
     <message>
         <source>DynamicShape.title</source>
-        <translation></translation>
+        <translation>Sisipkan Bentuk</translation>
     </message>
     <message>
         <source>SparklineHighPoint.content</source>
-        <translation></translation>
+        <translation>Highlight the highest points of data in the selected sparkline group.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.content</source>
-        <translation></translation>
+        <translation>Highlight the last points of data in the selected sparkline group.</translation>
     </message>
     <message>
         <source>AllBorders.title</source>
-        <translation></translation>
+        <translation>Semua Batas</translation>
     </message>
     <message>
         <source>EditConnectionProperties.content</source>
-        <translation></translation>
+        <translation>Pilih jenis perintah, masukkan pernyataan kueri yang relevan, dan filter data yang diimpor.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation></translation>
+        <translation>Ekspor ke Gambar</translation>
     </message>
     <message>
         <source>InsertComment.title</source>
-        <translation></translation>
+        <translation>Sisipkan Komentar</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation></translation>
+        <translation>Komentar Berikutnya</translation>
     </message>
     <message>
         <source>ReadingLayout2.content</source>
-        <translation></translation>
+        <translation>Klik panah untuk memilih warna yang berbeda.</translation>
     </message>
     <message>
         <source>AllFunction.title</source>
-        <translation></translation>
+        <translation>Semua Fungsi</translation>
     </message>
     <message>
         <source>RecalculateBook.title</source>
-        <translation></translation>
+        <translation>Hitung Ulang Buku Kerja</translation>
     </message>
     <message>
         <source>EditComment.title</source>
-        <translation></translation>
+        <translation>Edit Komentar</translation>
     </message>
     <message>
         <source>SheetBackground.title</source>
-        <translation></translation>
+        <translation>Latar Belakang</translation>
     </message>
     <message>
         <source>PTShowDetail.content</source>
-        <translation></translation>
+        <translation>Tampilkan semua item dari ruas aktif.</translation>
     </message>
     <message>
         <source>ShowOrHideComment.content</source>
-        <translation></translation>
+        <translation>Tampilkan atau sembunyikan komentar di sel aktif.</translation>
     </message>
     <message>
         <source>PivotTableDelete.content</source>
-        <translation></translation>
+        <translation>Hapus PivotTable yang dipilih saat ini.</translation>
     </message>
     <message>
         <source>BookProtection.title</source>
-        <translation></translation>
+        <translation>Proteksi Buku Kerja</translation>
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation></translation>
+        <translation>Mengeset tata letak halaman ke lanskap dalam pencetakan sebaran, halaman catatan, dan kerangka.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.title</source>
-        <translation></translation>
+        <translation>Duplicate Setting</translation>
     </message>
     <message>
         <source>PrevPreviousPage.content</source>
-        <translation></translation>
+        <translation>Pindah ke halaman cetak sebelumnya dari lembar kerja saat ini.</translation>
     </message>
     <message>
         <source>TranslateToSimplifiedChinese.title</source>
-        <translation></translation>
+        <translation>Cina Tradisional ke Cina Modern</translation>
     </message>
     <message>
         <source>WinLossSparkline.title</source>
-        <translation></translation>
+        <translation>Win/Loss Sparkline</translation>
     </message>
     <message>
         <source>Consolidate.content</source>
-        <translation></translation>
+        <translation>Menggabungkan nilai dari beberapa rentang menjadi satu rentang baru.</translation>
     </message>
     <message>
         <source>RotateRight.title</source>
-        <translation></translation>
+        <translation>Putar</translation>
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation></translation>
+        <translation>Menampilkan dulu efek halaman sebelum pencetakan.</translation>
     </message>
     <message>
         <source>RightBorder.title</source>
-        <translation></translation>
+        <translation>Batas Kanan</translation>
     </message>
     <message>
         <source>NumberFormatGallery.title</source>
-        <translation></translation>
+        <translation>Format Angka.</translation>
     </message>
     <message>
         <source>LeftBorder.title</source>
-        <translation></translation>
+        <translation>Batas Kiri</translation>
     </message>
     <message>
         <source>LineSparkline.title</source>
-        <translation></translation>
+        <translation>Line Sparkline</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation></translation>
+        <translation>Sisipkan Klip Seni</translation>
     </message>
     <message>
         <source>MergeCancel.content</source>
-        <translation></translation>
+        <translation>Pisahkan sel saat ini menjadi beberapa sel.</translation>
     </message>
     <message>
         <source>Subtotals.title</source>
-        <translation></translation>
+        <translation>Subtotal</translation>
     </message>
     <message>
         <source>SparklineHighPoint.title</source>
-        <translation></translation>
+        <translation>Toggle Sparkline Hight Points</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation></translation>
+        <translation>Alat pengembang</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation></translation>
+        <translation>Warna Font</translation>
     </message>
     <message>
         <source>RemoveDuplicates.content</source>
-        <translation></translation>
+        <translation>Hapus baris duplikat dari lembar.
+
+Anda dapat memilih kolom yang harus dicek dari informasi duplikat.</translation>
     </message>
     <message>
         <source>Logical.title</source>
-        <translation></translation>
+        <translation>Logika</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.title</source>
-        <translation></translation>
+        <translation>Thai Terdistribusi</translation>
     </message>
     <message>
         <source>InsertDropDownList.title</source>
-        <translation></translation>
+        <translation>Sisipkan Daftar Gulung</translation>
     </message>
     <message>
         <source>PTHideDetail.content</source>
-        <translation></translation>
+        <translation>Sembunyikan semua item dari ruas aktif.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation></translation>
+        <translation>Menengahkan teks secara vertikal dan horizontal dalam sel.</translation>
     </message>
     <message>
         <source>VAlignCenter.content</source>
-        <translation></translation>
+        <translation>Meratakan teks sehingga diposisikan di tengah di antara bagian atas dan bawah sel.</translation>
     </message>
     <message>
         <source>DataTable.title</source>
-        <translation></translation>
+        <translation>Tabel Data</translation>
     </message>
     <message>
         <source>PrintPreviewMargins.content</source>
-        <translation></translation>
+        <translation>Tentukan jarak antara isi lembar kerja dan tepi halaman yang dicetak.</translation>
     </message>
     <message>
         <source>FuncCatText.content</source>
-        <translation></translation>
+        <translation>Telusuri dan pilih dari daftar fungsi teks.</translation>
     </message>
     <message>
         <source>PTRefreshData.content</source>
-        <translation></translation>
+        <translation>Perbarui informasi dari sumber data di buku kerja.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation></translation>
+        <translation>Set cadangan otomatis atau manual untuk dokumen aktif. Cadangan akan disimpan ke File Aman Anda.</translation>
     </message>
     <message>
         <source>PTRefreshAllData.title</source>
-        <translation></translation>
+        <translation>Segarkan Semua</translation>
     </message>
     <message>
         <source>ShapeFillColor2.title</source>
-        <translation></translation>
+        <translation>Isian Bentuk</translation>
     </message>
     <message>
         <source>DataUngroup.content</source>
-        <translation></translation>
+        <translation>Uraikan serangkaian sel yang sebelumnya dikelompokkan.</translation>
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation></translation>
+        <translation>Menavigasi ke komentar sebelumnya di dokumen.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
-        <translation></translation>
+        <translation>Lihat Makro</translation>
     </message>
     <message>
         <source>EditCrossBookLinks.title</source>
-        <translation></translation>
+        <translation>Edit Tautan</translation>
     </message>
     <message>
         <source>GraphicLineColor.content</source>
-        <translation></translation>
+        <translation>Setel warna, lebar, dan gaya garis untuk kerangka grafis yang dipilih.
+
+Klik tanda panah untuk menyetel detail kerangka.</translation>
     </message>
     <message>
         <source>SlicerSetting.content</source>
-        <translation></translation>
+        <translation>Ubah pengaturan tampilan pengiris.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.content</source>
-        <translation></translation>
+        <translation>Reset jangkar dan ukuran komentar saat ini.</translation>
     </message>
     <message>
         <source>CompressPictures.title</source>
-        <translation></translation>
+        <translation>Kompres Gambar</translation>
     </message>
     <message>
         <source>HighlightDisplay.title</source>
-        <translation></translation>
+        <translation>Sorotan</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.title</source>
-        <translation></translation>
+        <translation>Panel Monitor</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation></translation>
+        <translation>Fitur &quot;perampingan file&quot; dapat membantu Anda memperkecil ukuran file.</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation></translation>
+        <translation>Garis bawah</translation>
     </message>
     <message>
         <source>MergeCenter.title</source>
-        <translation></translation>
+        <translation>Gabungkan dan Tengahkan</translation>
     </message>
     <message>
         <source>Fill.content</source>
-        <translation></translation>
+        <translation>Menurut aturan tertentu, Anda dapat mengisi konten sel di setiap arah ke sel yang berdekatan.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation></translation>
+        <translation>Mencari teks di dokumen.
+
+Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     </message>
     <message>
         <source>Financial.content</source>
-        <translation></translation>
+        <translation>Telusuri dan pilih dari daftar fungsi keuangan.</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.content</source>
-        <translation></translation>
+        <translation>Masukkan kotak teks horizontal.</translation>
     </message>
     <message>
         <source>PivotChartAnalysis.title</source>
-        <translation></translation>
+        <translation>Bagan Statistik</translation>
     </message>
     <message>
         <source>ConvertToRange.content</source>
-        <translation></translation>
+        <translation>Konversi tabel ini menjadi rentang sel normal.
+
+Semua data dipertahankan.</translation>
     </message>
     <message>
         <source>ReadingLayout2.title</source>
-        <translation></translation>
+        <translation>Tata Letak Baca</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.content</source>
-        <translation></translation>
+        <translation>Change the color for negative points, markers, and all other points for the selected sparkline group.</translation>
     </message>
     <message>
         <source>DeleteRange.title</source>
-        <translation></translation>
+        <translation>Hapus Sel</translation>
     </message>
     <message>
         <source>DisplayGridlines.title</source>
-        <translation></translation>
+        <translation>Lihat Garis Kisi</translation>
     </message>
     <message>
         <source>PrinterSide.title</source>
-        <translation></translation>
+        <translation>Sisi Printer</translation>
     </message>
     <message>
         <source>SparkAxis.title</source>
-        <translation></translation>
+        <translation>Sparkline Axis</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation></translation>
+        <translation>Ubah PDF ke Word</translation>
     </message>
     <message>
         <source>ExportFilterResult.title</source>
-        <translation></translation>
+        <translation>Ekspor Hasil Filter</translation>
     </message>
     <message>
         <source>EvaluateFormula.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Evaluasi Formula untuk mendeteksi kesalahan formula dengan mengevaluasi setiap bagian formula satu per satu.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.content</source>
-        <translation></translation>
+        <translation>Reset semua jangkar komentar dan ukuran lembar saat ini.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation></translation>
+        <translation>PDF ke Word</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.title</source>
-        <translation></translation>
+        <translation>Gambar Kotak Teks Horizontal</translation>
     </message>
     <message>
         <source>FormsToolbox.content</source>
-        <translation></translation>
+        <translation>Choose different forms to insert into the document, such as labels, check boxes, scroll bars, fine-tuning items, etc.</translation>
     </message>
     <message>
         <source>FullScreenMode.content</source>
-        <translation></translation>
+        <translation>Menampilkan dokumen dalam mode layar penuh.</translation>
     </message>
     <message>
         <source>FontFormatCells.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Font.</translation>
     </message>
     <message>
         <source>AlignJustify.title</source>
-        <translation></translation>
+        <translation>Rata Kanan Kiri</translation>
     </message>
     <message>
         <source>ModifyPivotTable.title</source>
-        <translation></translation>
+        <translation>Ubah PivotTable</translation>
     </message>
     <message>
         <source>ArtisticWordAlignment.content</source>
-        <translation></translation>
+        <translation>Tentukan bagaimana setiap baris dari WordArt multibaris harus diratakan.</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.title</source>
-        <translation></translation>
+        <translation>Batas Atas dan Dobel Batas Bawah</translation>
     </message>
     <message>
         <source>InsertSlicer.content</source>
-        <translation></translation>
+        <translation>Gunakan Pengiris untuk memfilter data secara visual.
+
+Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</translation>
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation></translation>
+        <translation>Salin pemformatan dari satu tempat dan terapkan ke yang lain.
+
+Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa tempat dalam dokumen.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>SpellCheck.title</source>
-        <translation></translation>
+        <translation>Cek Ejaan</translation>
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation></translation>
+        <translation>Menggunakan printer default untuk mencetak secara langsung.</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
-        <translation></translation>
+        <translation>Masukkan Persamaan</translation>
     </message>
     <message>
         <source>DataUngroup.title</source>
-        <translation></translation>
+        <translation>Uraikan</translation>
     </message>
     <message>
         <source>Fill.title</source>
-        <translation></translation>
+        <translation>Isi</translation>
     </message>
     <message>
         <source>MergeSelection.content</source>
-        <translation></translation>
+        <translation>Gabungkan sel yang dipilih ke dalam satu sel.</translation>
     </message>
     <message>
         <source>IncreaseDecimal.title</source>
-        <translation></translation>
+        <translation>Tambah Desimal</translation>
     </message>
     <message>
         <source>DecreaseDecimal.title</source>
-        <translation></translation>
+        <translation>Kurangi Desimal</translation>
     </message>
     <message>
         <source>RecenttlyUsed.content</source>
-        <translation></translation>
+        <translation>Telusuri dan pilih dari daftar fungsi yang baru-baru ini digunakan.</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
-        <translation></translation>
+        <translation>Membaca</translation>
     </message>
     <message>
         <source>MergeSelection.title</source>
-        <translation></translation>
+        <translation>Gabungkan Sel</translation>
     </message>
     <message>
         <source>TableName.title</source>
-        <translation></translation>
+        <translation>Nama Tabel</translation>
     </message>
     <message>
         <source>SlicerItemHeight.title</source>
-        <translation></translation>
+        <translation>Tinggi Tombol</translation>
     </message>
     <message>
         <source>ShapeLineColor.title</source>
-        <translation></translation>
+        <translation>Kerangka Bentuk</translation>
     </message>
     <message>
         <source>DetailedSettings_Data.title</source>
-        <translation></translation>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <source>BandedColumns.content</source>
-        <translation></translation>
+        <translation>Menampilkan kolom terblok, di mana kolom genap diformat berbeda dengan kolom ganjil.
+
+Pemblokan ini dapat membuat tabel lebih mudah dibaca.</translation>
     </message>
     <message>
         <source>FormatStyle.content</source>
-        <translation></translation>
+        <translation>Buat kombinasi format sel yang berbeda, seperti format angka atau perataan, lalu buat format ini menjadi satu.</translation>
     </message>
     <message>
         <source>InsertRange.title</source>
-        <translation></translation>
+        <translation>Sisipkan Sel</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
-        <translation></translation>
+        <translation>Reset semua perubahan ke ukuran gambar yang dipilih.</translation>
     </message>
     <message>
         <source>ExitPreview.title</source>
-        <translation></translation>
+        <translation>Keluar</translation>
     </message>
     <message>
         <source>ArtisticWordAlignment.title</source>
-        <translation></translation>
+        <translation>Perataan</translation>
     </message>
     <message>
         <source>RunMacro2.content</source>
-        <translation></translation>
+        <translation>Tampilkan kotak dialog Makro. Melihat daftar makro, dari mana Anda dapat menjalankan, membuat, atau menghapus makro.</translation>
     </message>
     <message>
         <source>Connections.title</source>
-        <translation></translation>
+        <translation>Koneksi</translation>
     </message>
     <message>
         <source>TopAndThickBottomBorder.title</source>
-        <translation></translation>
+        <translation>Batas Tebal Atas dan Bawah</translation>
     </message>
     <message>
         <source>DetailedSettings_Layout.content</source>
-        <translation></translation>
+        <translation>Ubah pengaturan penyetelan halaman.</translation>
     </message>
     <message>
         <source>DrawGrid.title</source>
-        <translation></translation>
+        <translation>Gambar Kisi Batas</translation>
     </message>
     <message>
         <source>PivotTableAnalysis.title</source>
-        <translation></translation>
+        <translation>Analisis Statistik</translation>
     </message>
     <message>
         <source>PrevNextPage.title</source>
-        <translation></translation>
+        <translation>Halaman Berikutnya</translation>
     </message>
     <message>
         <source>PDFToPPT.title</source>
-        <translation></translation>
+        <translation>PDF ke PPT</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation></translation>
+        <translation>SendFileTip.title</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation></translation>
+        <translation>The file will be automatically saved for you when it is turned on.</translation>
     </message>
     <message>
         <source>PrintGridlines.content</source>
-        <translation></translation>
+        <translation>Cetak garis kisi di antara kolom dan baris di lembar kerja.</translation>
     </message>
     <message>
         <source>SparklineGroup.content</source>
-        <translation></translation>
+        <translation>Group sparklines together so they can share formatting and scaling options.</translation>
     </message>
     <message>
         <source>NameDefine.title</source>
-        <translation></translation>
+        <translation>Tentukan Nama</translation>
     </message>
     <message>
         <source>HeaderRow.title</source>
-        <translation></translation>
+        <translation>Baris Kepala</translation>
     </message>
     <message>
         <source>SortAndFilter.content</source>
-        <translation></translation>
+        <translation>Susun data agar lebih mudah dianalisis.
+
+Anda dapat mengurutkan data yang dipilih dalam urutan menaik atau menurun.</translation>
     </message>
     <message>
         <source>NameCreate.title</source>
-        <translation></translation>
+        <translation>Buat Nama</translation>
     </message>
     <message>
         <source>DataSort.title</source>
-        <translation></translation>
+        <translation>Sortir</translation>
     </message>
 </context>
 </TS>
