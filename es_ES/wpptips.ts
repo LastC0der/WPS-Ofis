@@ -1,2623 +1,2677 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="es_ES">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>Translate Image.content</source>
-        <translation></translation>
+        <translation>Traducir rápidamente el contenido del texto de la imagen (solo se admite la traducción chino-inglés)</translation>
     </message>
     <message>
         <source>ResetLayout.title</source>
-        <translation></translation>
+        <translation>Restablecer diseño</translation>
     </message>
     <message>
         <source>ShapeLine.title</source>
-        <translation></translation>
+        <translation>Contorno de forma</translation>
     </message>
     <message>
         <source>ShapeSize.title</source>
-        <translation></translation>
+        <translation>Tamaño de forma</translation>
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation></translation>
+        <translation>Organice los archivos de manera rápida y sencilla.</translation>
     </message>
     <message>
         <source>AnimationSchemes.title</source>
-        <translation></translation>
+        <translation>Efectos de animación</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
-        <translation></translation>
+        <translation>Copiar formato</translation>
     </message>
     <message>
         <source>WpPrintWhat_OutlineView.title</source>
-        <translation></translation>
+        <translation>Vista Esquema</translation>
     </message>
     <message>
         <source>SlideOrientation.title</source>
-        <translation></translation>
+        <translation>Orientación de la diapositiva</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation></translation>
+        <translation>Muestra el cuadro de diálogo de Zoom para especificar el nivel de zoom del documento.</translation>
     </message>
     <message>
         <source>ZoomFit.content</source>
-        <translation></translation>
+        <translation>Zoom la presentación para que la diapositiva ajuste a la ventana.</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation></translation>
+        <translation>Impresión rápida</translation>
     </message>
     <message>
         <source>TableLeft.title</source>
-        <translation></translation>
+        <translation>Alinear texto a la izquierda</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.title</source>
-        <translation></translation>
+        <translation>Cambiar color</translation>
     </message>
     <message>
         <source>InsertDateTime.content</source>
-        <translation></translation>
+        <translation>Muestra el cuadro de diálogo de Fecha y hora para insertar la fecha y hora actuales en el documento actual.</translation>
     </message>
     <message>
         <source>InsertChart.title</source>
-        <translation></translation>
+        <translation>Insertar gráfico</translation>
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation></translation>
+        <translation>Descarta todos los cambios de formato hechos a la imagen.</translation>
     </message>
     <message>
         <source>MorePrintSettings.content</source>
-        <translation></translation>
+        <translation>Más detalles de impresión, como seleccionar la impresora, qué páginas se van a imprimir, impresión a doble cara, zoom, etc.</translation>
     </message>
     <message>
         <source>DrawTable.title</source>
-        <translation></translation>
+        <translation>Dibujar tabla</translation>
     </message>
     <message>
         <source>PrintingOrder.content</source>
-        <translation></translation>
+        <translation>Establece el orden horizontal o vertical de documentos imprimidos. </translation>
     </message>
     <message>
         <source>MergeShapes.title</source>
-        <translation></translation>
+        <translation>Combinar formas</translation>
     </message>
     <message>
         <source>Superscript.title</source>
-        <translation></translation>
+        <translation>Superíndice</translation>
     </message>
     <message>
         <source>Replace.title</source>
-        <translation></translation>
+        <translation>Reemplazar</translation>
     </message>
     <message>
         <source>SmartChoice.title</source>
-        <translation></translation>
+        <translation>Elección inteligente</translation>
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation></translation>
+        <translation>Inserta el archivo seleccionado en el documento.</translation>
     </message>
     <message>
         <source>AddSubordinate.content</source>
-        <translation></translation>
+        <translation>Agrega un subordinado para el miembro seleccionado.</translation>
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation></translation>
+        <translation>Subíndice</translation>
     </message>
     <message>
         <source>Arrange.title</source>
-        <translation></translation>
+        <translation>Organizar</translation>
     </message>
     <message>
         <source>weibotool.content</source>
-        <translation></translation>
+        <translation>Convierte el documento a imagen y la comparte en Weibo.</translation>
     </message>
     <message>
         <source>GraphicFill2.title</source>
-        <translation></translation>
+        <translation>Rellenar gráfico</translation>
     </message>
     <message>
         <source>WpPrintWhat_6.title</source>
-        <translation></translation>
+        <translation>Documentos (6 diapositivas por página)</translation>
     </message>
     <message>
         <source>Normal.content</source>
-        <translation></translation>
+        <translation>Ve la presentación en vista normal.</translation>
     </message>
     <message>
         <source>ShowHideGrid.content</source>
-        <translation></translation>
+        <translation>Muestra u oculta las líneas de cuadrícula en la presentación.</translation>
     </message>
     <message>
         <source>Paste.content</source>
-        <translation></translation>
+        <translation>Pega el contenido en el Portapapeles.</translation>
     </message>
     <message>
         <source>GraphicLine2.title</source>
-        <translation></translation>
+        <translation>Contorno de gráfico</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides2.content</source>
-        <translation></translation>
+        <translation>Haga clic aquí para seleccionar más contenido de impresión, como Diapositivas, Documentos, Páginas de notas y Esquema.</translation>
     </message>
     <message>
         <source>PageSetup.title</source>
-        <translation></translation>
+        <translation>Configuración de página </translation>
     </message>
     <message>
         <source>SlideDesign.content</source>
-        <translation></translation>
+        <translation>Muestra la ventana de tarea de Estilo de la diapositiva - Plantillas de diseño para aplicar diferentes plantillas a la diapositiva actual o a toda la presentación.</translation>
     </message>
     <message>
         <source>DrawAlignTop.content</source>
-        <translation></translation>
+        <translation>Configura la alineación de texto.
+
+Haga clic a seleccionar una alineación diferente.</translation>
     </message>
     <message>
         <source>TaskPane.title</source>
-        <translation></translation>
+        <translation>Ventana de tareas</translation>
     </message>
     <message>
         <source>Rotate.content</source>
-        <translation></translation>
+        <translation>Gira o voltea el objeto seleccionado.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
-        <translation></translation>
+        <translation>Cambia la configuración del formato de WordArt.</translation>
     </message>
     <message>
         <source>InsertColumnsRight.content</source>
-        <translation></translation>
+        <translation>Inserta una columna a la derecha de la columna seleccionada.</translation>
     </message>
     <message>
         <source>ExportToImage.content</source>
-        <translation></translation>
+        <translation>Exportar el documento a una imagen.</translation>
     </message>
     <message>
         <source>WordArtAlignment.content</source>
-        <translation></translation>
+        <translation>Especifica cómo se alinea las líneas individuales de un WordArt multilineal.</translation>
     </message>
     <message>
         <source>TextFontColor2.title</source>
-        <translation></translation>
+        <translation>Color de texto</translation>
     </message>
     <message>
         <source>PrevPrintHiddenSlide.title</source>
-        <translation></translation>
+        <translation>Imprimir diapositivas ocultas</translation>
     </message>
     <message>
         <source>GraphicFill.content</source>
-        <translation></translation>
+        <translation>Rellene el gráfico seleccionado con color.
+
+Haga clic en la flecha para rellenarlo con diferentes efectos.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation></translation>
+        <translation>Subrayar el texto seleccionado.
+
+Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</translation>
     </message>
     <message>
         <source>DrawAlignTop2.title</source>
-        <translation></translation>
+        <translation>Alinear texto</translation>
     </message>
     <message>
         <source>RecentFillColor2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar diferentes efectos de relleno.</translation>
     </message>
     <message>
         <source>ShapeFill2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar diferentes efectos de relleno.</translation>
     </message>
     <message>
         <source>InsertSmartArt.title</source>
-        <translation></translation>
+        <translation>Insertar un gráfico de WPSArt</translation>
     </message>
     <message>
         <source>WebPreview.content</source>
-        <translation></translation>
+        <translation>Crear un vínculo y un código QR y compartirlo en Wechat, QQ, Weibo o Qzone.</translation>
     </message>
     <message>
         <source>ArrangeAll.content</source>
-        <translation></translation>
+        <translation>Extiende todos los documentos abiertos en paralelo en la misma ventana del programa.</translation>
     </message>
     <message>
         <source>AudioPlay.title</source>
-        <translation></translation>
+        <translation>Reproducir</translation>
     </message>
     <message>
         <source>WpPrintWhat_9.content</source>
-        <translation></translation>
+        <translation>Establece el contenido de impresión como Documentos (9 diapositivas por página).</translation>
     </message>
     <message>
         <source>WpPrintWhat_3.content</source>
-        <translation></translation>
+        <translation>Establece el contenido de impresión como Documentos (3 diapositivas por página).</translation>
     </message>
     <message>
         <source>WpPrintWhat_4.content</source>
-        <translation></translation>
+        <translation>Establece el contenido de impresión como Documentos (4 diapositivas por página).</translation>
     </message>
     <message>
         <source>WpPrintWhat_1.content</source>
-        <translation></translation>
+        <translation>Establece el contenido de impresión como Documentos (1 diapositiva por página).</translation>
     </message>
     <message>
         <source>WpPrintWhat_2.content</source>
-        <translation></translation>
+        <translation>Establece el contenido de impresión como Documentos (2 diapositivas por página).</translation>
     </message>
     <message>
         <source>WpPrintWhat_6.content</source>
-        <translation></translation>
+        <translation>Establece el contenido de impresión como Documentos (6 diapositivas por página).</translation>
     </message>
     <message>
         <source>AudioBegin.title</source>
-        <translation></translation>
+        <translation>Inicio del audio</translation>
     </message>
     <message>
         <source>ColorScheme.title</source>
-        <translation></translation>
+        <translation>Combinaciones de colores</translation>
     </message>
     <message>
         <source>ExportToImage.title</source>
-        <translation></translation>
+        <translation>Exportar a imagen</translation>
     </message>
     <message>
         <source>TextBox.title</source>
-        <translation></translation>
+        <translation>Dibujar cuadro de texto horizontal</translation>
     </message>
     <message>
         <source>TransitionEffect.content</source>
-        <translation></translation>
+        <translation>Muestra la ventana de tarea de Transición de diapositiva para configurar los efectos de transición a las diapositivas seleccionadas o a toda la presentación. </translation>
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation></translation>
+        <translation>Restablecer tamaño</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
-        <translation></translation>
+        <translation>Insertar objeto desde archivo</translation>
     </message>
     <message>
         <source>LineBreak.content</source>
-        <translation></translation>
+        <translation>Cambia el formato de salto interlineado.</translation>
     </message>
     <message>
         <source>SetUpShow.title</source>
-        <translation></translation>
+        <translation>Configurar presentación con diapositivas</translation>
     </message>
     <message>
         <source>FormatAlignLeft.title</source>
-        <translation></translation>
+        <translation>Alinear texto a la izquierda</translation>
     </message>
     <message>
         <source>AlignTop.title</source>
-        <translation></translation>
+        <translation>Alinear en la parte superior</translation>
     </message>
     <message>
         <source>Ruler.content</source>
-        <translation></translation>
+        <translation>Muestra u oculta las reglas, usadas para medir y alinear objetos en el documento.</translation>
     </message>
     <message>
         <source>ShapeFill.content</source>
-        <translation></translation>
+        <translation>Rellena la forma seleccionada con un color sólido, degradado, imagen o textura.
+
+Haga clic en la flecha para seleccionar diferentes efectos de relleno.</translation>
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation></translation>
+        <translation>Muestra el cuadro de diálogo de Configuración de página.</translation>
     </message>
     <message>
         <source>RB_Font.title</source>
-        <translation></translation>
+        <translation>Fuente</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation></translation>
+        <translation>Abre la ficha de Herramientas de desarrollo para insertar Botón de opción, Casilla de verificación y más cosas.</translation>
     </message>
     <message>
         <source>GraphicFill.title</source>
-        <translation></translation>
+        <translation>Rellenar gráfico</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation></translation>
+        <translation>Selecciona una imagen prediseñada en la ventana de tareas y la inserta en el documento.</translation>
     </message>
     <message>
         <source>InsertRowsAbove.title</source>
-        <translation></translation>
+        <translation>Insertar fila arriba</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
-        <translation></translation>
+        <translation>Crea un vínculo a un página web, una imagen o una dirección de email.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation></translation>
+        <translation>Editar el comentario.</translation>
     </message>
     <message>
         <source>InsertChart.content</source>
-        <translation></translation>
+        <translation>Hay que editar el gráfico insertado en WPS Spreadsheets.
+
+Cuando se cierra WPS Spreadsheets, muestra normalmente el gráfico en el documento. Haga doble clic en el gráfico si querías editarlo.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation></translation>
+        <translation>Seguridad de macro </translation>
     </message>
     <message>
         <source>ChangeDiagramColor.content</source>
-        <translation></translation>
+        <translation>Elija un esquema de color</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
-        <translation></translation>
+        <translation>Convertir documentos a archivos Excel</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation></translation>
+        <translation>Inserta formas previamente diseñadas como rectángulos y círculos, flechas, líneas, símbolos de diagrama de flujo y llamadas.</translation>
     </message>
     <message>
         <source>Package.title</source>
-        <translation></translation>
+        <translation>Empaquetar el archivo de presentación</translation>
     </message>
     <message>
         <source>HighlightColor2.title</source>
-        <translation></translation>
+        <translation>Color de resaltado de texto</translation>
     </message>
     <message>
         <source>Paste2.title</source>
-        <translation></translation>
+        <translation>Pegar </translation>
     </message>
     <message>
         <source>WordArtAlignment.title</source>
-        <translation></translation>
+        <translation>Alineación de WordArt</translation>
     </message>
     <message>
         <source>TransitionEffect.title</source>
-        <translation></translation>
+        <translation>Efectos de transición </translation>
     </message>
     <message>
         <source>DeleteMember.content</source>
-        <translation></translation>
+        <translation>Eliminar miembros seleccionados</translation>
     </message>
     <message>
         <source>SlideTransApplyToAll.content</source>
-        <translation></translation>
+        <translation>Aplique la animación de transición, el efecto y la configuración de cambio de diapositivas a todas las diapositivas.</translation>
     </message>
     <message>
         <source>sp_Macros.title</source>
-        <translation></translation>
+        <translation>Ver macros</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation></translation>
+        <translation>Cambia la configuración de fuente, párrafo, estilos y formato.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation></translation>
+        <translation>Copia de seguridad</translation>
     </message>
     <message>
         <source>DuplicateSlide.title</source>
-        <translation></translation>
+        <translation>Nueva copia de diapositiva</translation>
     </message>
     <message>
         <source>SlideMasterClose.title</source>
-        <translation></translation>
+        <translation>Cerrar vista Patrón</translation>
     </message>
     <message>
         <source>PaperSize.title</source>
-        <translation></translation>
+        <translation>Tamaño del papel</translation>
     </message>
     <message>
         <source>VideoPlay.title</source>
-        <translation></translation>
+        <translation>Reproducir</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides.title</source>
-        <translation></translation>
+        <translation>Contenido de impresión</translation>
     </message>
     <message>
         <source>AnimationPainter.title</source>
-        <translation></translation>
+        <translation>Animation Brush</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation></translation>
+        <translation>Se desplaza al siguiente comentario del documento.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.title</source>
-        <translation></translation>
+        <translation>Pie de página</translation>
     </message>
     <message>
         <source>HideAudio.content</source>
-        <translation></translation>
+        <translation>Ocultar cuando se detiene.</translation>
     </message>
     <message>
         <source>HeaderPlaceHolder.title</source>
-        <translation></translation>
+        <translation>Encabezado</translation>
     </message>
     <message>
         <source>LoopAudio.content</source>
-        <translation></translation>
+        <translation>Reproduce el audio en un bucle.</translation>
     </message>
     <message>
         <source>weibotool.title</source>
-        <translation></translation>
+        <translation>Herramientas de Weibo</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation></translation>
+        <translation>Color de fuente</translation>
     </message>
     <message>
         <source>WpPrintWhat_4.title</source>
-        <translation></translation>
+        <translation>Documentos (4 diapositivas por página)</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation></translation>
+        <translation>Sugiere otras palabras con un significado parecido a las palabras que ha seleccionado.</translation>
     </message>
     <message>
         <source>TextBox2.content</source>
-        <translation></translation>
+        <translation>Haga clic aquí para insertar cuadro de texto horizontal, vertical o multilineal.</translation>
     </message>
     <message>
         <source>Markup.content</source>
-        <translation></translation>
+        <translation>Muestra u oculta las marcas de revisión en el documento.</translation>
     </message>
     <message>
         <source>Arrange.content</source>
-        <translation></translation>
+        <translation>Organiza los objetos en la diapositiva cambiando su orden, posición y rotación.</translation>
     </message>
     <message>
         <source>TraditionalChinese.title</source>
-        <translation></translation>
+        <translation>Tradicional</translation>
     </message>
     <message>
         <source>FontAlignMenu.content</source>
-        <translation></translation>
+        <translation>Configura la alineación entre las fuentes.</translation>
     </message>
     <message>
         <source>OnlineCooperation.content</source>
-        <translation></translation>
+        <translation>Abra el documento para editar en colaboración.</translation>
     </message>
     <message>
         <source>HighlightColor2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar diferentes colores de marcador.</translation>
     </message>
     <message>
         <source>Paste2.content</source>
-        <translation></translation>
+        <translation>Haga clic aquí para más opciones como solo pegar texto sin formato. </translation>
     </message>
     <message>
         <source>AudioAcrossPage.content</source>
-        <translation></translation>
+        <translation>El audio se reproduce desde esta página hasta la página especificada.</translation>
     </message>
     <message>
         <source>Group.title</source>
-        <translation></translation>
+        <translation>Agrupar</translation>
     </message>
     <message>
         <source>InteractiveChart.content</source>
-        <translation></translation>
+        <translation>Cree gráficos interactivos, dinámicos y atractivos para mejorar el rendimiento de la presentación.</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.content</source>
-        <translation></translation>
+        <translation>Seleccione un estilo diferente</translation>
     </message>
     <message>
         <source>importtemplates.content</source>
-        <translation></translation>
+        <translation>Importar plantillas locales.</translation>
     </message>
     <message>
         <source>PDFToPPT.content</source>
-        <translation></translation>
+        <translation>Convertir documentos a archivos PPT</translation>
     </message>
     <message>
         <source>R2LTextDirection.title</source>
-        <translation></translation>
+        <translation>Dirección del texto de derecha a izquierda</translation>
     </message>
     <message>
         <source>L2RTextDirection.title</source>
-        <translation></translation>
+        <translation>Dirección del texto de izquierda a derecha</translation>
     </message>
     <message>
         <source>FitTextTip.content</source>
-        <translation></translation>
+        <translation>Ajusta texto a la forma.</translation>
     </message>
     <message>
         <source>TextDirection.title</source>
-        <translation></translation>
+        <translation>Dirección del texto</translation>
     </message>
     <message>
         <source>DrawAlignLeft.title</source>
-        <translation></translation>
+        <translation>Alinear</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.title</source>
-        <translation></translation>
+        <translation>DrawingToolsDetailedSettings Title</translation>
     </message>
     <message>
         <source>SlideLibrary.content</source>
-        <translation></translation>
+        <translation>Insertar nueva diapositiva desde las plantillas en línea a la presentación actual.</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
-        <translation></translation>
+        <translation>Bloquear relación de aspecto</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation></translation>
+        <translation>The modified document is automatically saved for you to avoid loss of document content.</translation>
     </message>
     <message>
         <source>DistRowSevenly.title</source>
-        <translation></translation>
+        <translation>Distribuir filas uniformemente</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation></translation>
+        <translation>SendFileTip.content</translation>
     </message>
     <message>
         <source>MasterLayout.title</source>
-        <translation></translation>
+        <translation>Diseño de patrón</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools.title</source>
-        <translation></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.content</source>
-        <translation></translation>
+        <translation>Cambia el número de elementos</translation>
     </message>
     <message>
         <source>SlideLayouts.title</source>
-        <translation></translation>
+        <translation>Diseño de la diapositiva</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent2.content</source>
-        <translation></translation>
+        <translation>Haga clic aquí para seleccionar Desde la primera diapositiva o Desde la diapositiva actual.</translation>
     </message>
     <message>
         <source>BordersFill.title</source>
-        <translation></translation>
+        <translation>Bordes</translation>
     </message>
     <message>
         <source>DrawAlignTop2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar una alineación diferente.</translation>
     </message>
     <message>
         <source>TableEffects.content</source>
-        <translation></translation>
+        <translation>Agrega efectos visuales a la tabla, como una sombra o un reflejo.</translation>
     </message>
     <message>
         <source>WppSharePlay2.title</source>
-        <translation></translation>
+        <translation>Reproducción compartida</translation>
     </message>
     <message>
         <source>WpsAssistMagic.content</source>
-        <translation></translation>
+        <translation>¡Pruebe las plantillas aleatorias!</translation>
     </message>
     <message>
         <source>WordArtCharacterSpacing.content</source>
-        <translation></translation>
+        <translation>Cambia el espaciado entre las letras del texto de WordArt seleccionado.</translation>
     </message>
     <message>
         <source>NewSlideMaster.title</source>
-        <translation></translation>
+        <translation>Nuevo patrón de diapositiva</translation>
     </message>
     <message>
         <source>NewTitleMaster.title</source>
-        <translation></translation>
+        <translation>Nuevo patrón de títulos</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools.content</source>
-        <translation></translation>
+        <translation>Cambia la configuración del formato de la imagen.</translation>
     </message>
     <message>
         <source>PrintDuplex.title</source>
-        <translation></translation>
+        <translation>Doble cara de impresora</translation>
     </message>
     <message>
         <source>ShapeFill2.title</source>
-        <translation></translation>
+        <translation>Relleno de forma</translation>
     </message>
     <message>
         <source>FormatAlignLeft.content</source>
-        <translation></translation>
+        <translation>Alinea el texto a la izquierda</translation>
     </message>
     <message>
         <source>modelessay.content</source>
-        <translation></translation>
+        <translation>Seleccione uno de los útiles ensayos modelo del depósito.</translation>
     </message>
     <message>
         <source>Rotate.title</source>
-        <translation></translation>
+        <translation>Girar</translation>
     </message>
     <message>
         <source>PreviewPage.content</source>
-        <translation></translation>
+        <translation>Se desplaza a la página anterior de la presentación.</translation>
     </message>
     <message>
         <source>SlideImage.content</source>
-        <translation></translation>
+        <translation>Incluya una imagen de la diapositiva en la página de notas.</translation>
     </message>
     <message>
         <source>WpPrintWhat_3.title</source>
-        <translation></translation>
+        <translation>Documentos (3 diapositivas por página)</translation>
     </message>
     <message>
         <source>DrawAlignLeft.content</source>
-        <translation></translation>
+        <translation>Alinea el objeto seleccionado.</translation>
     </message>
     <message>
         <source>ExportToVideo.content</source>
-        <translation></translation>
+        <translation>Exportar el documento a un vídeo.</translation>
     </message>
     <message>
         <source>SlideOrientation.content</source>
-        <translation></translation>
+        <translation>Cambia la orientación de diapositivas entre horizontal y vertical.</translation>
     </message>
     <message>
         <source>WpPrintWhat_OutlineView.content</source>
-        <translation></translation>
+        <translation>Establece el contenido de impresión como Vista Esquema. Se muestra el contenido de diapositiva en el rango de impresión en manera de esquema. </translation>
     </message>
     <message>
         <source>Rehearse.content</source>
-        <translation></translation>
+        <translation>Haga clic para ensayar todas las diapositivas o solo esta diapositiva.</translation>
     </message>
     <message>
         <source>WpsAssistOnlineTemplate.title</source>
-        <translation></translation>
+        <translation>Cambiar plantilla</translation>
     </message>
     <message>
         <source>SlideTransDuration.title</source>
-        <translation></translation>
+        <translation>Velocidad</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation></translation>
+        <translation>Eliminar comentario</translation>
     </message>
     <message>
         <source>AddCoworker.title</source>
-        <translation></translation>
+        <translation>Agregar compañero de trabajo</translation>
     </message>
     <message>
         <source>ShapeLine2.title</source>
-        <translation></translation>
+        <translation>Contorno de forma</translation>
     </message>
     <message>
         <source>Media.title</source>
-        <translation></translation>
+        <translation>Insertar vídeo</translation>
     </message>
     <message>
         <source>NewDash.content</source>
-        <translation></translation>
+        <translation>Dashing y sus presentaciones increíbles</translation>
     </message>
     <message>
         <source>GraphicEffects.content</source>
-        <translation></translation>
+        <translation>Aplica un efecto de sombra y un efecto 3D al gráfico seleccionado.</translation>
     </message>
     <message>
         <source>PrevFrameSlides.title</source>
-        <translation></translation>
+        <translation>Marco de diapositiva</translation>
     </message>
     <message>
         <source>ZoomCombo.content</source>
-        <translation></translation>
+        <translation>Selecciona el tamaño de zoom de la presentación actual.</translation>
     </message>
     <message>
         <source>SlideTransition.content</source>
-        <translation></translation>
+        <translation>Muestra la ventana de tarea de Transición de diapositiva para configurar los efectos de transición a las diapositivas seleccionadas o a toda la presentación. </translation>
     </message>
     <message>
         <source>SkipSlide.content</source>
-        <translation></translation>
+        <translation>Oculta la diapositiva actual en la presentación. No aparecerá durante la presentación a pantalla completa.</translation>
     </message>
     <message>
         <source>ShapeLine.content</source>
-        <translation></translation>
+        <translation>Establece el color, el ancho y el estilo de línea de contorno del objeto seleccionado.
+
+Haga clic en la flecha para seleccionar configuración detallada de contorno.</translation>
     </message>
     <message>
         <source>TableLeft.content</source>
-        <translation></translation>
+        <translation>Alinea el texto a la izquierda.</translation>
     </message>
     <message>
         <source>CustomShows.title</source>
-        <translation></translation>
+        <translation>Personalizar presentación de diapositiva</translation>
     </message>
     <message>
         <source>Color.content</source>
-        <translation></translation>
+        <translation>Configurar la impresión de color o de negro y blanco a la presentación actual.</translation>
     </message>
     <message>
         <source>Sound.content</source>
-        <translation></translation>
+        <translation>Inserta un clip de sonido o música de una carpeta local.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.content</source>
-        <translation></translation>
+        <translation>Incluya el pie de página en las notas o los documentos impresos.</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides.content</source>
-        <translation></translation>
+        <translation>Establece el contenido de impresión como Diapositiva (1 diapositiva por página).</translation>
     </message>
     <message>
         <source>Package.content</source>
-        <translation></translation>
+        <translation>Copia el archivo de presentación y los elementos multimedia relacionados, como vídeo, audio, etc. a la carpeta especificada, para reproducir el archivo en otro ordenador.</translation>
     </message>
     <message>
         <source>BackgroundMusic.content</source>
-        <translation></translation>
+        <translation>Inserta un archivo de audio de una carpeta local. La presentación de diapositiva reproducirá la música, que repetirá hasta el fin de la presentación.</translation>
     </message>
     <message>
         <source>RB_Clipboard.title</source>
-        <translation></translation>
+        <translation>Portapapeles</translation>
     </message>
     <message>
         <source>LineSpacing.title</source>
-        <translation></translation>
+        <translation>Espaciado interlineado</translation>
     </message>
     <message>
         <source>DrawTable.content</source>
-        <translation></translation>
+        <translation>Dibuja los bordes de una tabla.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation></translation>
+        <translation>Cambia el color del texto.
+
+Haga clic en la flecha para seleccionar un color del texto diferente.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
-        <translation></translation>
+        <translation>Captura de pantalla y OCR</translation>
     </message>
     <message>
         <source>WordArtCharacterSpacing.title</source>
-        <translation></translation>
+        <translation>Espaciado entre caracteres</translation>
     </message>
     <message>
         <source>InsertTable.content</source>
-        <translation></translation>
+        <translation>Inserta o dibuja una tabla en la diapositiva actual.</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.title</source>
-        <translation></translation>
+        <translation>Guardar imagen de fondo</translation>
     </message>
     <message>
         <source>NewSlide.content</source>
-        <translation></translation>
+        <translation>Agrega una diapositiva nueva a la presentación.</translation>
     </message>
     <message>
         <source>SelectAll.content</source>
-        <translation></translation>
+        <translation>Use Seleccionar todo para seleccionar la diapositiva, el objeto o contenido de texto en la presentación.</translation>
     </message>
     <message>
         <source>SlideSize.content</source>
-        <translation></translation>
+        <translation>Cambiar el tamaño de las diapositivas en esta presentación.</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
-        <translation></translation>
+        <translation>Define el tamaño, el grado de rotación y el zoom para la forma seleccionada.</translation>
     </message>
     <message>
         <source>SlideShow.content</source>
-        <translation></translation>
+        <translation>Inicia la presentación desde la primera diapositiva.</translation>
     </message>
     <message>
         <source>COMAddIns.content</source>
-        <translation></translation>
+        <translation>Agrega o elimina los complementos COM disponibles.</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation></translation>
+        <translation>Conversión de texto completo</translation>
     </message>
     <message>
         <source>Paragraph2.title</source>
-        <translation></translation>
+        <translation>Otras opciones </translation>
     </message>
     <message>
         <source>Direction.content</source>
-        <translation></translation>
+        <translation>Selecciona el efecto de dirección de la forma de 3D.</translation>
     </message>
     <message>
         <source>Select.title</source>
-        <translation></translation>
+        <translation>Seleccionar</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation></translation>
+        <translation>Crea letras minúsculas debajo de la línea de base del texto.</translation>
     </message>
     <message>
         <source>WpPrintWhat_2.title</source>
-        <translation></translation>
+        <translation>Documentos (2 diapositivas por página)</translation>
     </message>
     <message>
         <source>CheckSpelling.content</source>
-        <translation></translation>
+        <translation>Corrige la ortografía del texto en el documento actual.</translation>
     </message>
     <message>
         <source>AudioFadeIn.title</source>
-        <translation></translation>
+        <translation>Fundido de entrada</translation>
     </message>
     <message>
         <source>PrevClose.content</source>
-        <translation></translation>
+        <translation>Cierre la vista previa de impresión y vuelve al modo de editar presentación.</translation>
     </message>
     <message>
         <source>HandoutMaster.title</source>
-        <translation></translation>
+        <translation>Vista de patrón de documentos</translation>
     </message>
     <message>
         <source>GraphicLine2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar configuración detallada de contorno.</translation>
     </message>
     <message>
         <source>Section.content</source>
-        <translation></translation>
+        <translation>Organiza las diapositivas en secciones.</translation>
     </message>
     <message>
         <source>SimplifiedChinese.content</source>
-        <translation></translation>
+        <translation>Convierte el documento a chino simplificado.</translation>
     </message>
     <message>
         <source>Delete.title</source>
-        <translation></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation></translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>Ruler.title</source>
-        <translation></translation>
+        <translation>Regla</translation>
     </message>
     <message>
         <source>Justify.content</source>
-        <translation></translation>
+        <translation>Alinea el texto en los márgenes izquierdo y derecho, y agrega espacios adicionales entre palabras si es necesario.</translation>
     </message>
     <message>
         <source>GraphicLine.content</source>
-        <translation></translation>
+        <translation>Establezca el color, el ancho y el estilo de línea del contorno del gráfico seleccionado.
+
+Haga clic en la flecha para establecer los detalles del contorno.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation></translation>
+        <translation>Color de resaltado de texto</translation>
     </message>
     <message>
         <source>Color.title</source>
-        <translation></translation>
+        <translation>Color</translation>
     </message>
     <message>
         <source>UsePresenterView.title</source>
-        <translation></translation>
+        <translation>Presenter view</translation>
     </message>
     <message>
         <source>DrawAlignTop.title</source>
-        <translation></translation>
+        <translation>Alinear texto</translation>
     </message>
     <message>
         <source>TableRight.content</source>
-        <translation></translation>
+        <translation>Alinea el texto a la derecha.</translation>
     </message>
     <message>
         <source>COMAddIns.title</source>
-        <translation></translation>
+        <translation>Complementos COM</translation>
     </message>
     <message>
         <source>MergeShapes.content</source>
-        <translation></translation>
+        <translation>Combinar las formas seleccionadas en una o más formas nuevas.</translation>
     </message>
     <message>
         <source>ResetPicture.title</source>
-        <translation></translation>
+        <translation>Restablecer imagen </translation>
     </message>
     <message>
         <source>WppSharePlay.content</source>
-        <translation></translation>
+        <translation>Puede invitar a varios usuarios a ver una presentación PPT en directo mediante un código de acceso.</translation>
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation></translation>
+        <translation>Disminuir nivel de lista</translation>
     </message>
     <message>
         <source>VideoBegin.content</source>
-        <translation></translation>
+        <translation>Inicio automático o al hacer clic.</translation>
     </message>
     <message>
         <source>DecreaseSpace.title</source>
-        <translation></translation>
+        <translation>Disminuir espaciado</translation>
     </message>
     <message>
         <source>AudioTrim.title</source>
-        <translation></translation>
+        <translation>Recortar audio</translation>
     </message>
     <message>
         <source>PrevLandscape.title</source>
-        <translation></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation></translation>
+        <translation>Exporta la imagen de Weibo</translation>
     </message>
     <message>
         <source>sp_Macros2.content</source>
-        <translation></translation>
+        <translation>Ve la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
     </message>
     <message>
         <source>TextMargin.content</source>
-        <translation></translation>
+        <translation>Especifica los márgenes de las celdas seleccionadas.</translation>
     </message>
     <message>
         <source>Flash.content</source>
-        <translation></translation>
+        <translation>Inserta una animación de Flash de una carpeta local.</translation>
     </message>
     <message>
         <source>NotesMaster.content</source>
-        <translation></translation>
+        <translation>Personalice el aspecto que tendrá su presentación al imprimirla con notas.
+
+Puede elegir el diseño y la disposición de la página de notas, como por ejemplo el formato del fondo o el lugar en el que aparecerán los encabezados o pies de página. También puede seleccionar opciones para la configuración de la página.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTool.title</source>
-        <translation></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>Paragraph1.title</source>
-        <translation></translation>
+        <translation>Alineación</translation>
     </message>
     <message>
         <source>WpPrintWhat_3Notes.content</source>
-        <translation></translation>
+        <translation>Establece el contenido de impresión como Notas (3 diapositivas por página, notas a la derecha de las diapositivas).</translation>
     </message>
     <message>
         <source>WpPrintWhat_1Notes.content</source>
-        <translation></translation>
+        <translation>Establece el contenido de impresión como Notas (1 diapositiva por página, notas a la derecha de las diapositivas).</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.title</source>
-        <translation></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>Paragraph1.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar una alineación diferente.</translation>
     </message>
     <message>
         <source>Paragraph2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar opciones de Aumenta espaciado, Disminuir espaciado y Ajustar.</translation>
     </message>
     <message>
         <source>RecentFillColor.content</source>
-        <translation></translation>
+        <translation>Usa color, degradado, trama e imagen para rellenar la tabla seleccionada en la diapositiva actual.
+
+Haga clic en la flecha para seleccionar diferentes efectos de relleno.</translation>
     </message>
     <message>
         <source>WpPrintWhat_1.title</source>
-        <translation></translation>
+        <translation>Documentos (1 diapositiva por página)</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation></translation>
+        <translation>Auto Save File</translation>
     </message>
     <message>
         <source>SlideTransOnTime.content</source>
-        <translation></translation>
+        <translation>Reproduzca cada diapositiva según un intervalo, en segundos.</translation>
     </message>
     <message>
         <source>CellWidth.content</source>
-        <translation></translation>
+        <translation>Anchura de celda</translation>
     </message>
     <message>
         <source>TableRight.title</source>
-        <translation></translation>
+        <translation>Alinear texto a la derecha</translation>
     </message>
     <message>
         <source>Numbering2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar diferentes formatos de numeración.</translation>
     </message>
     <message>
         <source>HeaderPlaceHolder.content</source>
-        <translation></translation>
+        <translation>Incluya el encabezado en las notas o los documentos impresos.</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.title</source>
-        <translation></translation>
+        <translation>Cambiar número</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation></translation>
+        <translation>Convierte el texto con precisión y rapidez respetando el diseño original del documento.</translation>
     </message>
     <message>
         <source>ResetSlide.content</source>
-        <translation></translation>
+        <translation>Restablezca el tamaño, la posición y el formato de los marcadores de posición de la diapositiva a su configuración predeterminada.</translation>
     </message>
     <message>
         <source>PrevPrintHiddenSlide.content</source>
-        <translation></translation>
+        <translation>Muestra las diapositivas ocultas en vista previa de impresión.</translation>
     </message>
     <message>
         <source>cellphoneControl.title</source>
-        <translation></translation>
+        <translation>Control de móvil</translation>
     </message>
     <message>
         <source>SlideTransOnClick.content</source>
-        <translation></translation>
+        <translation>Haga clic con el ratón para reproducir la siguiente diapositiva.</translation>
     </message>
     <message>
         <source>ResetShape.content</source>
-        <translation></translation>
+        <translation>Descarta todos los cambios de formato hechos a la forma seleccionada.</translation>
     </message>
     <message>
         <source>cellphoneControl.content</source>
-        <translation></translation>
+        <translation>Control de móvil</translation>
     </message>
     <message>
         <source>ChineseTranslation.title</source>
-        <translation></translation>
+        <translation>Traducción de chino simplificado a chino tradicional</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation></translation>
+        <translation>Aumenta el nivel de sangría del párrafo.</translation>
     </message>
     <message>
         <source>HandoutMaster.content</source>
-        <translation></translation>
+        <translation>Personalice el aspecto que tendrá su presentación como un documento impreso.
+
+Puede elegir el diseño y la disposición del documento, como por ejemplo el formato del fondo o el lugar en el que aparecerán los encabezados o pies de página. También puede seleccionar opciones para la configuración de la página.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation></translation>
+        <translation>Reduce el nivel de sangría del párrafo.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
-        <translation></translation>
+        <translation>De PDF a Excel</translation>
     </message>
     <message>
         <source>PrintDuplex.content</source>
-        <translation></translation>
+        <translation>Especifique cómo va a imprimir: a una cara o a doble cara.</translation>
     </message>
     <message>
         <source>AddSubordinate.title</source>
-        <translation></translation>
+        <translation>Agregar subordinado</translation>
     </message>
     <message>
         <source>AudioBegin.content</source>
-        <translation></translation>
+        <translation>Inicio automático o al hacer clic.</translation>
     </message>
     <message>
         <source>SplitCells.content</source>
-        <translation></translation>
+        <translation>Divide las celdas seleccionadas en varias celdas nuevas.</translation>
     </message>
     <message>
         <source>PrintCollate.content</source>
-        <translation></translation>
+        <translation>Especifique la cola de impresión: intercalar (p. ej., 123123) o imprimir páginas (p. ej., 112233).</translation>
     </message>
     <message>
         <source>Delete.content</source>
-        <translation></translation>
+        <translation>Elimina las filas, las columnas o las celdas de toda la tabla.</translation>
     </message>
     <message>
         <source>ChineseTranslation.content</source>
-        <translation></translation>
+        <translation>Configurar la transición de chino simplificado a chino tradicional basada en carácter o palabra.</translation>
     </message>
     <message>
         <source>RewindAudio.title</source>
-        <translation></translation>
+        <translation>Rebobinar audio</translation>
     </message>
     <message>
         <source>Select.content</source>
-        <translation></translation>
+        <translation>Selecciona texto u objetos en el documento.</translation>
     </message>
     <message>
         <source>AudioCurPage.content</source>
-        <translation></translation>
+        <translation>Reproduce audio en esta página.</translation>
     </message>
     <message>
         <source>FontAlignMenu.title</source>
-        <translation></translation>
+        <translation>Alineación de fuente</translation>
     </message>
     <message>
         <source>DuplicateSlide.content</source>
-        <translation></translation>
+        <translation>Inserta un duplicado de la diapositiva actual a la presentación.</translation>
     </message>
     <message>
         <source>Numbering.content</source>
-        <translation></translation>
+        <translation>Inicia una lista numerada.
+
+Haga clic en la flecha para seleccionar diferentes formatos de numeración.</translation>
     </message>
     <message>
         <source>RewindVideo.title</source>
-        <translation></translation>
+        <translation>Rebobinar vídeo</translation>
     </message>
     <message>
         <source>VideoTrim.title</source>
-        <translation></translation>
+        <translation>Recortar vídeo</translation>
     </message>
     <message>
         <source>BodyContent.content</source>
-        <translation></translation>
+        <translation>Incluya un cuadro separado con el texto de la diapositiva en la página de notas.</translation>
     </message>
     <message>
         <source>PrevPortrait.title</source>
-        <translation></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>NewWindow.title</source>
-        <translation></translation>
+        <translation>Nueva ventana</translation>
     </message>
     <message>
         <source>Security.content</source>
-        <translation></translation>
+        <translation>Personaliza la configuración de seguridad de macro.</translation>
     </message>
     <message>
         <source>SplitCells.title</source>
-        <translation></translation>
+        <translation>Dividir celdas</translation>
     </message>
     <message>
         <source>MergeCells.content</source>
-        <translation></translation>
+        <translation>Combina las celdas seleccionadas en una celda.</translation>
     </message>
     <message>
         <source>SlideSorter.content</source>
-        <translation></translation>
+        <translation>Muestra la presentación en la vista del clasificador de diapositivas para organizar fácilmente las diapositivas.</translation>
     </message>
     <message>
         <source>HideVideo.content</source>
-        <translation></translation>
+        <translation>Ocultar cuando se detiene.</translation>
     </message>
     <message>
         <source>TableStyle.title</source>
-        <translation></translation>
+        <translation>Estilo de tabla</translation>
     </message>
     <message>
         <source>MediaVol.title</source>
-        <translation></translation>
+        <translation>Volumen</translation>
     </message>
     <message>
         <source>Backdrop.title</source>
-        <translation></translation>
+        <translation>Fondo</translation>
     </message>
     <message>
         <source>Sound.title</source>
-        <translation></translation>
+        <translation>Insertar sonido</translation>
     </message>
     <message>
         <source>LoopVideo.content</source>
-        <translation></translation>
+        <translation>Reproduce el vídeo en un bucle.</translation>
     </message>
     <message>
         <source>GraphicEffects.title</source>
-        <translation></translation>
+        <translation>Efectos de gráfico</translation>
     </message>
     <message>
         <source>ArrangeAll.title</source>
-        <translation></translation>
+        <translation>Organizar todas</translation>
     </message>
     <message>
         <source>PageNumber.content</source>
-        <translation></translation>
+        <translation>Muestra el cuadro de diálogo de Número de página y aplica la configuración de número de página a la sección seleccionada o a todo el documento.</translation>
     </message>
     <message>
         <source>PlayerCapture.content</source>
-        <translation></translation>
+        <translation>Captura la presentación de diapositivas del documento y la guarda como un vídeo.</translation>
     </message>
     <message>
         <source>CheckSpelling.title</source>
-        <translation></translation>
+        <translation>Revisión ortográfica</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
-        <translation></translation>
+        <translation>Alinea el texto en los márgenes izquierdo y derecho añadiendo espacio adicional entre los caracteres para los idiomas con marca de tono y marca de vocal.
+
+De este modo se crea un documento con aspecto ordenado.</translation>
     </message>
     <message>
         <source>ShapeFill.title</source>
-        <translation></translation>
+        <translation>Relleno de forma</translation>
     </message>
     <message>
         <source>ConvertToSmartArtTip.content</source>
-        <translation></translation>
+        <translation>Convertir el texto de las diapositivas en un gráfico SmartArt para comunicar visualmente la información</translation>
     </message>
     <message>
         <source>WppSharePlay.title</source>
-        <translation></translation>
+        <translation>Reproducción compartida</translation>
     </message>
     <message>
         <source>CreativeCrop.title</source>
-        <translation></translation>
+        <translation>Recorte creativo</translation>
     </message>
     <message>
         <source>importtemplates.title</source>
-        <translation></translation>
+        <translation>Importar plantillas</translation>
     </message>
     <message>
         <source>InteractiveChart.title</source>
-        <translation></translation>
+        <translation>Insertar gráfico interactivo</translation>
     </message>
     <message>
         <source>CellHeight.content</source>
-        <translation></translation>
+        <translation>Altura de celda</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
-        <translation></translation>
+        <translation>Relleno y contorno de forma</translation>
     </message>
     <message>
         <source>MediaVol.content</source>
-        <translation></translation>
+        <translation>Volumen del medio.</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation></translation>
+        <translation>Edita el encabezado o el pie de página del documento.</translation>
     </message>
     <message>
         <source>AudioFadeIn.content</source>
-        <translation></translation>
+        <translation>Use el efecto de fundido de audio al principio durante unos segundos.</translation>
     </message>
     <message>
         <source>GridGuides.content</source>
-        <translation></translation>
+        <translation>Configura cuadrículas y guías de la presentación. </translation>
     </message>
     <message>
         <source>TableStyle.content</source>
-        <translation></translation>
+        <translation>Muestra la ventana de tarea de Estilo de tabla</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>TextFontColor2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar un color diferente de texto.</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
-        <translation></translation>
+        <translation>Encabezado y pie de página</translation>
     </message>
     <message>
         <source>Lighting.title</source>
-        <translation></translation>
+        <translation>Iluminación</translation>
     </message>
     <message>
         <source>PrevFrameSlides.content</source>
-        <translation></translation>
+        <translation>Agrega bordes cerca de la diapositiva.</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation></translation>
+        <translation>Alinear al centro</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation></translation>
+        <translation>Mark the background area and quickly and intelligently remove the background of the picture</translation>
     </message>
     <message>
         <source>PreserveMaster.title</source>
-        <translation></translation>
+        <translation>Conservar patrón</translation>
     </message>
     <message>
         <source>CellHeight.title</source>
-        <translation></translation>
+        <translation>Altura de celda</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
-        <translation></translation>
+        <translation>Captura de pantalla, extraiga texto con un clic.</translation>
     </message>
     <message>
         <source>CustomAnimation.title</source>
-        <translation></translation>
+        <translation>Animación personalizada</translation>
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation></translation>
+        <translation>Galería de WPS </translation>
     </message>
     <message>
         <source>ExportToVideo.title</source>
-        <translation></translation>
+        <translation>Exportar a vídeo</translation>
     </message>
     <message>
         <source>TextBox.content</source>
-        <translation></translation>
+        <translation>Inserta un cuadro de texto horizontal en el documento.</translation>
     </message>
     <message>
         <source>SlideShow.title</source>
-        <translation></translation>
+        <translation>Presentación desde el principio</translation>
     </message>
     <message>
         <source>SkipSlide.title</source>
-        <translation></translation>
+        <translation>Ocultar diapositiva</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation></translation>
+        <translation>DrawingToolsDetailedSettings Content</translation>
     </message>
     <message>
         <source>LoopVideo.title</source>
-        <translation></translation>
+        <translation>Reproducir vídeo en bucle</translation>
     </message>
     <message>
         <source>Paste.title</source>
-        <translation></translation>
+        <translation>Pegar </translation>
     </message>
     <message>
         <source>DeleteNotes.content</source>
-        <translation></translation>
+        <translation>Haga clic para eliminar las notas.</translation>
     </message>
     <message>
         <source>Lighting.content</source>
-        <translation></translation>
+        <translation>Configura la orientación e intensidad para la forma de 3D seleccionada. El posterior incluye brillante, normal y atenuado.</translation>
     </message>
     <message>
         <source>LoopAudio.title</source>
-        <translation></translation>
+        <translation>Reproducir audio en bucle</translation>
     </message>
     <message>
         <source>AudioPause.title</source>
-        <translation></translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>InsertRowsAbove.content</source>
-        <translation></translation>
+        <translation>Inserta una fila directamente arriba de la fila seleccionada.</translation>
     </message>
     <message>
         <source>sp_Macros2.title</source>
-        <translation></translation>
+        <translation>Ver macros</translation>
     </message>
     <message>
         <source>ActionSetting.title</source>
-        <translation></translation>
+        <translation>Configuración de la acción</translation>
     </message>
     <message>
         <source>ZoomFit.title</source>
-        <translation></translation>
+        <translation>Ajustar a la ventana </translation>
     </message>
     <message>
         <source>ZoomCombo.title</source>
-        <translation></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>WpPrintWhat_3Notes.title</source>
-        <translation></translation>
+        <translation>Notas (3 diapositivas por página)</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation></translation>
+        <translation>Convertir imagen en formato de texto.</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.title</source>
-        <translation></translation>
+        <translation>Establecer Manual o Automático</translation>
     </message>
     <message>
         <source>Markup.title</source>
-        <translation></translation>
+        <translation>Marca de revisión</translation>
     </message>
     <message>
         <source>SlideTransDuration.content</source>
-        <translation></translation>
+        <translation>Especifique la duración, en segundos, de la transición.</translation>
     </message>
     <message>
         <source>WpPrintWhat_1Notes.title</source>
-        <translation></translation>
+        <translation>Notas (1 diapositiva por página)</translation>
     </message>
     <message>
         <source>PrintingOrder.title</source>
-        <translation></translation>
+        <translation>Orden de impresión </translation>
     </message>
     <message>
         <source>ShowHideMark.title</source>
-        <translation></translation>
+        <translation>Mostrar/Ocultar comentarios </translation>
     </message>
     <message>
         <source>SlidePreview.content</source>
-        <translation></translation>
+        <translation>Obtiene una vista previa de efectos de animaciones y transición de la diapositiva actual. </translation>
     </message>
     <message>
         <source>modelessay.title</source>
-        <translation></translation>
+        <translation>Ensayo modelo</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.content</source>
-        <translation></translation>
+        <translation>Inserta una columna a la izquierda de la columna seleccionada.</translation>
     </message>
     <message>
         <source>AlignTop.content</source>
-        <translation></translation>
+        <translation>Alinea texto en la parte superior de la celda.</translation>
     </message>
     <message>
         <source>ChangeTextDir.title</source>
-        <translation></translation>
+        <translation>Dirección del texto</translation>
     </message>
     <message>
         <source>InsertOnlinePicture.title</source>
-        <translation></translation>
+        <translation>Insertar imágenes</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation></translation>
+        <translation>Auto save turned on</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
-        <translation></translation>
+        <translation>Cambia la configuración del formato de formas.</translation>
     </message>
     <message>
         <source>onlineMedia.title</source>
-        <translation></translation>
+        <translation>Insertar vídeo</translation>
     </message>
     <message>
         <source>CustomAnimation.content</source>
-        <translation></translation>
+        <translation>Muestra la ventana de tarea de Animación personalizada a configurar los efectos de animaciones al texto o al objeto en la diapositiva actual.</translation>
     </message>
     <message>
         <source>ConvertToSmartArtTip.title</source>
-        <translation></translation>
+        <translation>Convertir en un gráfico SmartArt</translation>
     </message>
     <message>
         <source>DataPlaceHolder.title</source>
-        <translation></translation>
+        <translation>Fecha</translation>
     </message>
     <message>
         <source>OrgChartLayout.title</source>
-        <translation></translation>
+        <translation>Diseño</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation></translation>
+        <translation>Dividir o fusionar</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation></translation>
+        <translation>Inserta un objeto incrustado en el documento.
+
+Haga clic en la flecha para insertar el contenido del archivo en el documento.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.content</source>
-        <translation></translation>
+        <translation>Change the settings of Equations.</translation>
     </message>
     <message>
         <source>AlignBottom.content</source>
-        <translation></translation>
+        <translation>Alinea texto en la parte inferior de la celda.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation></translation>
+        <translation>Agrupa los objetos juntos para que se puedan considerar como un solo objeto.</translation>
     </message>
     <message>
         <source>SlideLayouts.content</source>
-        <translation></translation>
+        <translation>Configure diferentes diseños para las diapositivas seleccionadas.</translation>
     </message>
     <message>
         <source>UsePresenterView.content</source>
-        <translation></translation>
+        <translation>Presenter view shows the speaker view and the full screen view on different monitors.
+
+If you only have one monitor, you can use Alt+F5 to try out presenter view, and press ESC to exit.</translation>
     </message>
     <message>
         <source>TableSmartStyle.title</source>
-        <translation></translation>
+        <translation>Estilo inteligente</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent.content</source>
-        <translation></translation>
+        <translation>Inicia la presentación desde la diapositiva actual.</translation>
     </message>
     <message>
         <source>OnlineCooperation.title</source>
-        <translation></translation>
+        <translation>Colaboración</translation>
     </message>
     <message>
         <source>InsertObject.title</source>
-        <translation></translation>
+        <translation>Insertar objeto</translation>
     </message>
     <message>
         <source>BordersFill.content</source>
-        <translation></translation>
+        <translation>Configura el estilo, color y ancho de los bordes de la diapositiva actual.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation></translation>
+        <translation>Muestra el cuadro de diálogo de la galería de WordArt para seleccionar un estilo de WordArt y editar el contenido. </translation>
     </message>
     <message>
         <source>Replace2.title</source>
-        <translation></translation>
+        <translation>Reemplazar</translation>
     </message>
     <message>
         <source>AddAssistant.title</source>
-        <translation></translation>
+        <translation>Agregar asistente</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
-        <translation></translation>
+        <translation>Haga clic aquí para detener la lectura.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.title</source>
-        <translation></translation>
+        <translation>HomeDetailedSettings Title</translation>
     </message>
     <message>
         <source>PreserveMaster.content</source>
-        <translation></translation>
+        <translation>Conserva la diapositiva patrón seleccionada. Even if it is unused it can still remain in the presentation.</translation>
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation></translation>
+        <translation>Ve los elementos en el portapapeles.</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
-        <translation></translation>
+        <translation>Traducir imagen</translation>
     </message>
     <message>
         <source>CreativeCrop.content</source>
-        <translation></translation>
+        <translation>La aplicación de efectos de recorte creativos en las imágenes con solo presionar un botón hace que estas sean más atractivas.
+
+El recorte de imágenes en su presentación de PowerPoint hace la diferencia.</translation>
     </message>
     <message>
         <source>SlideTransOnTime.title</source>
-        <translation></translation>
+        <translation>Intervalo de cambio automático</translation>
     </message>
     <message>
         <source>FormatAlignCenter.content</source>
-        <translation></translation>
+        <translation>Centra el texto.</translation>
     </message>
     <message>
         <source>Superscript2.title</source>
-        <translation></translation>
+        <translation>Otras opciones</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation></translation>
+        <translation>1. Relleno de forma
+Rellene los objetos seleccionados con colores, degradado, texturas e imágenes.
+2. Contorno de forma
+Configure colores, grosores y guiones para los objetos seleccionados.
+Haga clic en las flechas para obtener una configuración detallada.</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
-        <translation></translation>
+        <translation>Viñetas</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation></translation>
+        <translation>Detiene la copia de seguridad automática del documento actual.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>AudioFadeOut.content</source>
-        <translation></translation>
+        <translation>Use el efecto de fundido de audio al final durante unos segundos.</translation>
     </message>
     <message>
         <source>AddCoworker.content</source>
-        <translation></translation>
+        <translation>Agrega un compañero de trabajo para el miembro seleccionado.</translation>
     </message>
     <message>
         <source>InsertGeogebra.content</source>
-        <translation></translation>
+        <translation>Una herramienta de dibujo con álgebra, cálculo, estadísticas y funciones matemáticas 3D.</translation>
     </message>
     <message>
         <source>RecentFillColor2.title</source>
-        <translation></translation>
+        <translation>Sombreado</translation>
     </message>
     <message>
         <source>OrgChartLayout.content</source>
-        <translation></translation>
+        <translation>Cambia el diseño de rama del miembro seleccionado.</translation>
     </message>
     <message>
         <source>FitTextTip.title</source>
-        <translation></translation>
+        <translation>Ajustar texto</translation>
     </message>
     <message>
         <source>L2RTextDirection.content</source>
-        <translation></translation>
+        <translation>Establece el texto para que se lea de izquierda a derecha.</translation>
     </message>
     <message>
         <source>RecentFillColor.title</source>
-        <translation></translation>
+        <translation>Sombreado</translation>
     </message>
     <message>
         <source>TextBox2.title</source>
-        <translation></translation>
+        <translation>Dibujar cuadro de texto</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
-        <translation></translation>
+        <translation>HomeDetailedSettings Content</translation>
     </message>
     <message>
         <source>InsertOnlinePicture.content</source>
-        <translation></translation>
+        <translation>Hacer clic aquí para insertar imágenes locales o en línea.</translation>
     </message>
     <message>
         <source>PrintCopies.content</source>
-        <translation></translation>
+        <translation>Copias a imprimir</translation>
     </message>
     <message>
         <source>DistColumnSevenly.title</source>
-        <translation></translation>
+        <translation>Distribuir columnas uniformemente</translation>
     </message>
     <message>
         <source>PreviewPage.title</source>
-        <translation></translation>
+        <translation>Página anterior</translation>
     </message>
     <message>
         <source>MergeCells.title</source>
-        <translation></translation>
+        <translation>Combinar celdas</translation>
     </message>
     <message>
         <source>SetBackground.content</source>
-        <translation></translation>
+        <translation>Establecer esta imagen como el fondo de la diapositiva actual.</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent.title</source>
-        <translation></translation>
+        <translation>Desde la diapositiva actual</translation>
     </message>
     <message>
         <source>Direction.title</source>
-        <translation></translation>
+        <translation>Dirección</translation>
     </message>
     <message>
         <source>presentationTool.content</source>
-        <translation></translation>
+        <translation>Asistente cómodo y rápido para su presentación</translation>
     </message>
     <message>
         <source>InsertRowsBelow.content</source>
-        <translation></translation>
+        <translation>Inserta una fila directamente arriba de la fila seleccionada.</translation>
     </message>
     <message>
         <source>SlideSize.title</source>
-        <translation></translation>
+        <translation>Tamaño de diapositiva</translation>
     </message>
     <message>
         <source>Backdrop.content</source>
-        <translation></translation>
+        <translation>Configura el estilo de fondo en la diapositiva actual o la presentación completa.</translation>
     </message>
     <message>
         <source>NewSlide2.title</source>
-        <translation></translation>
+        <translation>Otras opciones</translation>
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation></translation>
+        <translation>Se desplaza a la página siguiente de la presentación.</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation></translation>
+        <translation>Crea letras minúsculas encima de la línea de texto.</translation>
     </message>
     <message>
         <source>AudioCurPage.title</source>
-        <translation></translation>
+        <translation>Reproducir esta página</translation>
     </message>
     <message>
         <source>AnimationSchemes.content</source>
-        <translation></translation>
+        <translation>Muestra la ventana de Diseño de diapositiva - Efectos de animación para configurar la transición y efectos de animación de la diapositiva actual o la presentación completa.</translation>
     </message>
     <message>
         <source>ResetLayout.content</source>
-        <translation></translation>
+        <translation>Restablece al diseño predeterminado</translation>
     </message>
     <message>
         <source>RewindAudio.content</source>
-        <translation></translation>
+        <translation>Rebobina al detener.</translation>
     </message>
     <message>
         <source>R2LTextDirection.content</source>
-        <translation></translation>
+        <translation>Establece el texto para que se lea de derecha a izquierda.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation></translation>
+        <translation>Bloquear relación de aspecto</translation>
     </message>
     <message>
         <source>TableSmartStyle.content</source>
-        <translation></translation>
+        <translation>Proporciona diversos estilos comunes y mejorados para que sus tablas sean más delicadas.</translation>
     </message>
     <message>
         <source>3DPresentation.content</source>
-        <translation></translation>
+        <translation>Insert 3DPresentation</translation>
     </message>
     <message>
         <source>TaskPane.content</source>
-        <translation></translation>
+        <translation>Muestra u oculta la ventana de tareas en el documento.</translation>
     </message>
     <message>
         <source>CellWidth.title</source>
-        <translation></translation>
+        <translation>Anchura de celda</translation>
     </message>
     <message>
         <source>MasterLayout.content</source>
-        <translation></translation>
+        <translation>Configura los elementos de marcador de posición contenidos en el patrón.</translation>
     </message>
     <message>
         <source>ReadingView.title</source>
-        <translation></translation>
+        <translation>Vista de lectura</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation></translation>
+        <translation>Abre una nueva ventana que contenga una vista del documento actual.</translation>
     </message>
     <message>
         <source>SlideMasterClose.content</source>
-        <translation></translation>
+        <translation>Cierre vista Patrón y vuelve a editar la presentación.</translation>
     </message>
     <message>
         <source>NotesPageView.content</source>
-        <translation></translation>
+        <translation>Observe qué aspecto tendrá su presentación al imprimirla con notas.
+
+Cada página contendrá una diapositiva y sus notas del orador, que podrá editar en esta vista.</translation>
     </message>
     <message>
         <source>TextMargin.title</source>
-        <translation></translation>
+        <translation>Márgenes de celda</translation>
     </message>
     <message>
         <source>AddAssistant.content</source>
-        <translation></translation>
+        <translation>Agrega un asistente para el miembro seleccionado. </translation>
     </message>
     <message>
         <source>DetailedSettings_WPP_TextTools.content</source>
-        <translation></translation>
+        <translation>Cambiar la configuración del formato de texto.</translation>
     </message>
     <message>
         <source>ThemeColors.content</source>
-        <translation></translation>
+        <translation>Cambie la combinación de colores de la presentación.</translation>
     </message>
     <message>
         <source>SlideDesign.title</source>
-        <translation></translation>
+        <translation>Plantillas de diseño</translation>
     </message>
     <message>
         <source>IncreaseFontSize.title</source>
-        <translation></translation>
+        <translation>Aumentar tamaño de fuente</translation>
     </message>
     <message>
         <source>DecreaseFontSize.title</source>
-        <translation></translation>
+        <translation>Reducir tamaño de fuente</translation>
     </message>
     <message>
         <source>Thesaurus.title</source>
-        <translation></translation>
+        <translation>Diccionario de sinónimos</translation>
     </message>
     <message>
         <source>LineBreak.title</source>
-        <translation></translation>
+        <translation>Salto interlineado</translation>
     </message>
     <message>
         <source>IncreaseSpace.content</source>
-        <translation></translation>
+        <translation>Aumenta espaciado entre líneas.</translation>
     </message>
     <message>
         <source>DecreaseSpace.content</source>
-        <translation></translation>
+        <translation>Disminuye espaciado entre líneas.</translation>
     </message>
     <message>
         <source>InvolvedTemplate.content</source>
-        <translation></translation>
+        <translation>Aplicar plantilla utilizada en la presentación actual.</translation>
     </message>
     <message>
         <source>InvolvedTemplate.title</source>
-        <translation></translation>
+        <translation>Plantilla afectada</translation>
     </message>
     <message>
         <source>GraphicLine.title</source>
-        <translation></translation>
+        <translation>Contorno de gráfico</translation>
     </message>
     <message>
         <source>Section.title</source>
-        <translation></translation>
+        <translation>Sección</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.title</source>
-        <translation></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>FormatAlignRight.title</source>
-        <translation></translation>
+        <translation>Alinear texto a la derecha</translation>
     </message>
     <message>
         <source>RenameMaster.title</source>
-        <translation></translation>
+        <translation>Cambiar nombre de patrón</translation>
     </message>
     <message>
         <source>PlayerCapture.title</source>
-        <translation></translation>
+        <translation>Capturar presentación de diapositivas</translation>
     </message>
     <message>
         <source>presentationTool.title</source>
-        <translation></translation>
+        <translation>Herramienta de presentación</translation>
     </message>
     <message>
         <source>ActionSetting.content</source>
-        <translation></translation>
+        <translation>Agrega una acción al objeto seleccionado para especificar lo que debería pasar cuando hace clic en la misma o cuando se desplaza con el mouse.</translation>
     </message>
     <message>
         <source>SlideTransition.title</source>
-        <translation></translation>
+        <translation>Transición de diapositiva</translation>
     </message>
     <message>
         <source>Flash.title</source>
-        <translation></translation>
+        <translation>Insertar animación de Flash</translation>
     </message>
     <message>
         <source>DetailedSettings_WPP_TextTools.title</source>
-        <translation></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>DataPlaceHolder.content</source>
-        <translation></translation>
+        <translation>Incluya la fecha en las notas o los documentos impresos.</translation>
     </message>
     <message>
         <source>VideoPause.content</source>
-        <translation></translation>
+        <translation>Detiene el vídeo.</translation>
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation></translation>
+        <translation>Hace que el diseño de página sea vertical en la impresión de documentos, páginas de notas y esquema.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation></translation>
+        <translation>Organiza las diapositivas en secciones.</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation></translation>
+        <translation>Muestra el cuadro de diálogo de macro y ve la lista de macros desde la que se puede ejecutar, crear o eliminar una macro directamente.</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation></translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar un color del texto diferente.</translation>
     </message>
     <message>
         <source>PrintCollate.title</source>
-        <translation></translation>
+        <translation>Cola de impresión</translation>
     </message>
     <message>
         <source>FullScreenPlay.content</source>
-        <translation></translation>
+        <translation>Reproducción a pantalla completa.</translation>
     </message>
     <message>
         <source>InsertDateTime.title</source>
-        <translation></translation>
+        <translation>Fecha y hora</translation>
     </message>
     <message>
         <source>CustomShows.content</source>
-        <translation></translation>
+        <translation>Una presentación personalizada solo presenta las diapositivas seleccionadas.</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
-        <translation></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>ObjectSelect.content</source>
-        <translation></translation>
+        <translation>Muestra el Panel de selección para buscar fácilmente un objeto o establecer su orden y visibilidad.</translation>
     </message>
     <message>
         <source>Bullets.content</source>
-        <translation></translation>
+        <translation>Inicia una lista con viñetas.
+
+Haga clic en la flecha a seleccionar diferentes estilos de viñetas.</translation>
     </message>
     <message>
         <source>Gallery.content</source>
-        <translation></translation>
+        <translation>WPS Galería propociona todos tipos de origen de imagen para que los utilice, coleccione y administre.
+
+WPS Galería en línea Sources requiere conexión a internet.</translation>
     </message>
     <message>
         <source>Justify.title</source>
-        <translation></translation>
+        <translation>Justificar</translation>
     </message>
     <message>
         <source>RB_Font.content</source>
-        <translation></translation>
+        <translation>Muestra el cuadro de diálogo de Fuente.</translation>
     </message>
     <message>
         <source>RehearseAllSlides.content</source>
-        <translation></translation>
+        <translation>Reproduzca diapositivas desde el principio y grabe el tiempo que tarda en utilizarlas en una presentación de diapositivas automática.</translation>
     </message>
     <message>
         <source>SpeakerNotes.content</source>
-        <translation></translation>
+        <translation>Agrega un nota a la diapositiva actual.
+
+Cuando desea hacer notas sin salir de la presentación con diapositivas, haga clic con el botón derecho en la pantalla y selecciona Notas del orador para hacer notas en Panel de notas de la diapositiva actual.</translation>
     </message>
     <message>
         <source>ObjectSelect.title</source>
-        <translation></translation>
+        <translation>Panel de selección</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation></translation>
+        <translation>Comprime la imagen seleccionada o todas las imágenes para reducir el tamaño.</translation>
     </message>
     <message>
         <source>InsertMedia.title</source>
-        <translation></translation>
+        <translation>Medios</translation>
     </message>
     <message>
         <source>DeleteMember.title</source>
-        <translation></translation>
+        <translation>Eliminar miembro</translation>
     </message>
     <message>
         <source>InsertMedia.content</source>
-        <translation></translation>
+        <translation>Inserta música, video u otro archivos de medios para mejorar la expresión de la presentación.</translation>
     </message>
     <message>
         <source>DeleteMaster.title</source>
-        <translation></translation>
+        <translation>Eliminar patrón</translation>
     </message>
     <message>
         <source>Ai Matting.title</source>
-        <translation></translation>
+        <translation>Ai Matting</translation>
     </message>
     <message>
         <source>Numbering.title</source>
-        <translation></translation>
+        <translation>Numeración</translation>
     </message>
     <message>
         <source>StopAutoVersion.title</source>
-        <translation></translation>
+        <translation>Detener copia de seguridad automática</translation>
     </message>
     <message>
         <source>ColorScheme.content</source>
-        <translation></translation>
+        <translation>Muestra la ventana de Diseño de diapositiva - Combinaciones de colores para configurar la transición y efectos de animación de la diapositiva actual o la presentación completa.</translation>
     </message>
     <message>
         <source>wpp2doc.content</source>
-        <translation></translation>
+        <translation>Convertir la presentación a archivo de formato de Word.</translation>
     </message>
     <message>
         <source>AudioAcrossPage.title</source>
-        <translation></translation>
+        <translation>Reproducir hasta la página</translation>
     </message>
     <message>
         <source>NewTitleMaster.content</source>
-        <translation></translation>
+        <translation>Inserta un nuevo patrón de títulos.</translation>
     </message>
     <message>
         <source>Media.content</source>
-        <translation></translation>
+        <translation>Inserta un vídeo de la carpeta local</translation>
     </message>
     <message>
         <source>EquationEditor.content</source>
-        <translation></translation>
+        <translation>Inserta ecuaciones matemáticas con el editor de ecuación.</translation>
     </message>
     <message>
         <source>ShapeEffects.title</source>
-        <translation></translation>
+        <translation>Efectos de sombra</translation>
     </message>
     <message>
         <source>Normal.title</source>
-        <translation></translation>
+        <translation>Vista normal</translation>
     </message>
     <message>
         <source>SlideTransApplyToAll.title</source>
-        <translation></translation>
+        <translation>Aplicar a todo</translation>
     </message>
     <message>
         <source>VideoPause.title</source>
-        <translation></translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>TextFontColor.title</source>
-        <translation></translation>
+        <translation>Color de texto</translation>
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation></translation>
+        <translation>Convertir a formato de Word</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
-        <translation></translation>
+        <translation>Efectos</translation>
     </message>
     <message>
         <source>TraditionalChinese.content</source>
-        <translation></translation>
+        <translation>Convierte el documento a chino tradicional.</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation></translation>
+        <translation>Aumentar nivel de lista</translation>
     </message>
     <message>
         <source>Replace2.content</source>
-        <translation></translation>
+        <translation>Haga clic aquí para reemplazar texto o fuente en el documento.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.title</source>
-        <translation></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>SlideNumber.content</source>
-        <translation></translation>
+        <translation>Inserta el número de diapositiva a la diapositiva actual o a toda la presentación. El número de diapositiva refleja la posición de la diapositiva dentro de la presentación.</translation>
     </message>
     <message>
         <source>WpsAssistMagic.title</source>
-        <translation></translation>
+        <translation>Mágico</translation>
     </message>
     <message>
         <source>AudioPause.content</source>
-        <translation></translation>
+        <translation>Detiene el audio.</translation>
     </message>
     <message>
         <source>InsertEduTools.title</source>
-        <translation></translation>
+        <translation>InsertEduTools.title</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation></translation>
+        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
     </message>
     <message>
         <source>SlidePreview.title</source>
-        <translation></translation>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <source>ShapeEffects.content</source>
-        <translation></translation>
+        <translation>Aplica un efecto de sombra y efecto 3-D a la forma seleccionada.</translation>
     </message>
     <message>
         <source>InsertOrgChart.title</source>
-        <translation></translation>
+        <translation>Insertar organigrama</translation>
     </message>
     <message>
         <source>TableCenter.content</source>
-        <translation></translation>
+        <translation>Centra el texto.</translation>
     </message>
     <message>
         <source>NewSlide.title</source>
-        <translation></translation>
+        <translation>Nueva diapositiva</translation>
     </message>
     <message>
         <source>Hyperlink.title</source>
-        <translation></translation>
+        <translation>Insertar hipervínculo</translation>
     </message>
     <message>
         <source>PrinterName.content</source>
-        <translation></translation>
+        <translation>Elegir impresora</translation>
     </message>
     <message>
         <source>AnimationPainter.content</source>
-        <translation></translation>
+        <translation>Copy the animation of selected object to other objects.
+
+Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>Distributed.content</source>
-        <translation></translation>
+        <translation>Alinea el párrafo a los márgenes izquierdo y derecho agregando espacios adicionales entre caracteres según sea necesario.</translation>
     </message>
     <message>
         <source>ShadowButton.content</source>
-        <translation></translation>
+        <translation>Establece los efectos de sombra al texto seleccionado.</translation>
     </message>
     <message>
         <source>Bullets2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha a seleccionar diferentes estilos de viñetas.</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
-        <translation></translation>
+        <translation>Vista preliminar</translation>
     </message>
     <message>
         <source>TableEraser.content</source>
-        <translation></translation>
+        <translation>Borra los bordes de una tabla en el documento.</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation></translation>
+        <translation>Eliminar el comentario.</translation>
     </message>
     <message>
         <source>statusbarFontMissing.title</source>
-        <translation></translation>
+        <translation>En este equipo faltan las fuentes utilizadas en los documentos</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.content</source>
-        <translation></translation>
+        <translation>Haga clic para establecer que la presentación sea manual o automática para todas las diapositivas.</translation>
     </message>
     <message>
         <source>HideAudio.title</source>
-        <translation></translation>
+        <translation>Ocultar audio</translation>
     </message>
     <message>
         <source>ResetShape.title</source>
-        <translation></translation>
+        <translation>Restablecer forma </translation>
     </message>
     <message>
         <source>ResetSlide.title</source>
-        <translation></translation>
+        <translation>Restablecer</translation>
     </message>
     <message>
         <source>SlideLayout.content</source>
-        <translation></translation>
+        <translation>Muestra la ventana de tarea de Diseño de la diapositiva para configurar varios diseños de diapositiva a las diapositivas seleccionadas, diseños de texto, diseños de contenido, diseños de texto y contenido y otros diseños incluidos. </translation>
     </message>
     <message>
         <source>SlideMaster.content</source>
-        <translation></translation>
+        <translation>Abre la vista Patrón de diapositivas para cambiar el diseño y presentación de las diapositivas patrón.</translation>
     </message>
     <message>
         <source>NewSlideMaster.content</source>
-        <translation></translation>
+        <translation>Inserta un nuevo patrón de diapositiva.</translation>
     </message>
     <message>
         <source>NotesPageView.title</source>
-        <translation></translation>
+        <translation>Vista de página de notas</translation>
     </message>
     <message>
         <source>BackgroundMusic.title</source>
-        <translation></translation>
+        <translation>Insertar música de fondo</translation>
     </message>
     <message>
         <source>PrevClose.title</source>
-        <translation></translation>
+        <translation>Cerrar </translation>
     </message>
     <message>
         <source>HideVideo.title</source>
-        <translation></translation>
+        <translation>Ocultar vídeo</translation>
     </message>
     <message>
         <source>WpPrintWhat_Slides2.title</source>
-        <translation></translation>
+        <translation>Contenido de impresión</translation>
     </message>
     <message>
         <source>SlideLibrary.title</source>
-        <translation></translation>
+        <translation>Biblioteca de diapositivas</translation>
     </message>
     <message>
         <source>NewSlide2.content</source>
-        <translation></translation>
+        <translation>Haga clic aquí a hacer un duplicado.</translation>
     </message>
     <message>
         <source>TableFontEffects.title</source>
-        <translation></translation>
+        <translation>Efectos de texto</translation>
     </message>
     <message>
         <source>SimplifiedChinese.title</source>
-        <translation></translation>
+        <translation>Simplificado</translation>
     </message>
     <message>
         <source>DynamicShape.title</source>
-        <translation></translation>
+        <translation>Insertar formas</translation>
     </message>
     <message>
         <source>NoteViewVisible.content</source>
-        <translation></translation>
+        <translation>Mostrar/Ocultar nota de diapositiva</translation>
     </message>
     <message>
         <source>SlideLayout.title</source>
-        <translation></translation>
+        <translation>Diseño de la diapositiva</translation>
     </message>
     <message>
         <source>InsertOrgChart.content</source>
-        <translation></translation>
+        <translation>Inserta organigrama en la diapositiva actual.</translation>
     </message>
     <message>
         <source>NotesMaster.title</source>
-        <translation></translation>
+        <translation>Ver patrón de notas</translation>
     </message>
     <message>
         <source>RehearseAllSlides.title</source>
-        <translation></translation>
+        <translation>Ensayar todo</translation>
     </message>
     <message>
         <source>PreComment.title</source>
-        <translation></translation>
+        <translation>Comentario anterior </translation>
     </message>
     <message>
         <source>NewComment.title</source>
-        <translation></translation>
+        <translation>Insertar comentario</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation></translation>
+        <translation>Exporta la imagen de Weibo</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.title</source>
-        <translation></translation>
+        <translation>Cambiar estilo</translation>
     </message>
     <message>
         <source>SmartChoice.content</source>
-        <translation></translation>
+        <translation>Elige el mismo nivel de miembros, la misma rama de miembros, todos los asistentes o todas las líneas de conexión.</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation></translation>
+        <translation>Siguiente comentario</translation>
     </message>
     <message>
         <source>Superscript2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar superíndice o subíndice.</translation>
     </message>
     <message>
         <source>InsertSmartArt.content</source>
-        <translation></translation>
+        <translation>Inserta un gráfico de WPSArt para exponer la información de forma visual.
+
+Los gráficos WPSArt presentan muchas variedades, desde listas gráficas y diagramas de procesos, hasta gráficos más complejos, como diagramas de Venn y gráficos de organización.</translation>
     </message>
     <message>
         <source>VideoBegin.title</source>
-        <translation></translation>
+        <translation>Principio del vídeo</translation>
     </message>
     <message>
         <source>ShowHideGrid.title</source>
-        <translation></translation>
+        <translation>Líneas de cuadrícula</translation>
     </message>
     <message>
         <source>DistRowSevenly.content</source>
-        <translation></translation>
+        <translation>Distribuye el alto de las filas seleccionadas igualmente entre ellas.</translation>
     </message>
     <message>
         <source>EditComment.title</source>
-        <translation></translation>
+        <translation>Editar comentario</translation>
     </message>
     <message>
         <source>BodyContent.title</source>
-        <translation></translation>
+        <translation>Cuerpo</translation>
     </message>
     <message>
         <source>SlideTransSound.title</source>
-        <translation></translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <source>TextDirection.content</source>
-        <translation></translation>
+        <translation>Establece la orientación horizontal o vertical del texto a la sección actual, a todo el documento, al cuadro de texto o tabla seleccionado.</translation>
     </message>
     <message>
         <source>SpeakerNotes.title</source>
-        <translation></translation>
+        <translation>Notas del orador</translation>
     </message>
     <message>
         <source>3DPresentation.title</source>
-        <translation></translation>
+        <translation>Presentación 3D</translation>
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation></translation>
+        <translation>Hace que el diseño de página sea horizontal en la impresión de documentos, páginas de notas y esquema.</translation>
     </message>
     <message>
         <source>Numbering2.title</source>
-        <translation></translation>
+        <translation>Viñetas</translation>
     </message>
     <message>
         <source>Bullets.title</source>
-        <translation></translation>
+        <translation>Viñetas</translation>
     </message>
     <message>
         <source>InsertGeogebra.title</source>
-        <translation></translation>
+        <translation>Insertar geometría</translation>
     </message>
     <message>
         <source>SetUpShow.content</source>
-        <translation></translation>
+        <translation>Abrir </translation>
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation></translation>
+        <translation>Obtiene una vista previa de las páginas y realiza cambios antes de imprimir.</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent2.title</source>
-        <translation></translation>
+        <translation>Desde la diapositiva actual</translation>
     </message>
     <message>
         <source>Rehearse.title</source>
-        <translation></translation>
+        <translation>Ensayar intervalos</translation>
     </message>
     <message>
         <source>ThemeColors.title</source>
-        <translation></translation>
+        <translation>Combinación de colores</translation>
     </message>
     <message>
         <source>H5LinkManager.title</source>
-        <translation></translation>
+        <translation>Administrar vínculos compartidos</translation>
     </message>
     <message>
         <source>FullScreenPlay.title</source>
-        <translation></translation>
+        <translation>Pantalla completa</translation>
     </message>
     <message>
         <source>onlineMedia.content</source>
-        <translation></translation>
+        <translation>Inserta un vídeo de la carpeta local o de Internet</translation>
     </message>
     <message>
         <source>WpPrintWhat_9.title</source>
-        <translation></translation>
+        <translation>Documentos (9 diapositivas por página)</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation></translation>
+        <translation>Insertar imagen prediseñada</translation>
     </message>
     <message>
         <source>SelectAll.title</source>
-        <translation></translation>
+        <translation>Seleccionar todo </translation>
     </message>
     <message>
         <source>WpsAssistOnlineTemplate.content</source>
-        <translation></translation>
+        <translation>Haga que su presentación sea única gracias a miles de originales plantillas.</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation></translation>
+        <translation>Herramientas de desarrollo</translation>
     </message>
     <message>
         <source>DecreaseFontSize.content</source>
-        <translation></translation>
+        <translation>Reduce el tamaño de fuente.</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation></translation>
+        <translation>Color de fuente</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.title</source>
-        <translation></translation>
+        <translation>Distribución de tailandés</translation>
     </message>
     <message>
         <source>VideoPlay.content</source>
-        <translation></translation>
+        <translation>Reproduce el vídeo.</translation>
     </message>
     <message>
         <source>FormatAlignRight.content</source>
-        <translation></translation>
+        <translation>Alinea el texto a la derecha</translation>
     </message>
     <message>
         <source>TableOnekeyBeautify.content</source>
-        <translation></translation>
+        <translation>Con tan solo unos pocos clics, se aplicará un estilo adecuado al formato de su contenido.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation></translation>
+        <translation>Centra el texto verticalmente y horizontalmente en la celda.</translation>
     </message>
     <message>
         <source>ReadingView.content</source>
-        <translation></translation>
+        <translation>Maqueta el contenido de forma automática y permite girar las páginas fácilmente.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation></translation>
+        <translation>Copia de seguridad</translation>
     </message>
     <message>
         <source>IncreaseFontSize.content</source>
-        <translation></translation>
+        <translation>Aumenta el tamaño de fuente.</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.content</source>
-        <translation></translation>
+        <translation>Guarda el fondo de diapositiva como imagen.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
-        <translation></translation>
+        <translation>Ver macros</translation>
     </message>
     <message>
         <source>RewindVideo.content</source>
-        <translation></translation>
+        <translation>Rebobina al detener.</translation>
     </message>
     <message>
         <source>CompressPictures.title</source>
-        <translation></translation>
+        <translation>Comprimir imagen</translation>
     </message>
     <message>
         <source>AudioPlay.content</source>
-        <translation></translation>
+        <translation>Reproduce el audio.</translation>
     </message>
     <message>
         <source>AlignBottom.title</source>
-        <translation></translation>
+        <translation>Alinear en la parte inferior</translation>
     </message>
     <message>
         <source>PrintCopies.title</source>
-        <translation></translation>
+        <translation>Copias</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation></translation>
+        <translation>Subrayado</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation></translation>
+        <translation>Busca texto en el documento.
+
+Haga clic en la flecha para seleccionar otras opciones, como Ir a.</translation>
     </message>
     <message>
         <source>SlideTransOnClick.title</source>
-        <translation></translation>
+        <translation>Haga clic para cambiar la diapositiva</translation>
     </message>
     <message>
         <source>TableCenter.title</source>
-        <translation></translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>AudioTrim.content</source>
-        <translation></translation>
+        <translation>Recorta el audio con un principio y un final.</translation>
     </message>
     <message>
         <source>GridGuides.title</source>
-        <translation></translation>
+        <translation>Cuadrícula y guías</translation>
     </message>
     <message>
         <source>VideoTrim.content</source>
-        <translation></translation>
+        <translation>Recorta el vídeo con un principio y un final.</translation>
     </message>
     <message>
         <source>SlideImage.title</source>
-        <translation></translation>
+        <translation>Imagen de diapositiva</translation>
     </message>
     <message>
         <source>RenameMaster.content</source>
-        <translation></translation>
+        <translation>Cambia el nombre de diapositiva patrón seleccionada.</translation>
     </message>
     <message>
         <source>PrinterName.title</source>
-        <translation></translation>
+        <translation>Nombre de la impresora</translation>
     </message>
     <message>
         <source>TableEraser.title</source>
-        <translation></translation>
+        <translation>Borrador de tabla</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.title</source>
-        <translation></translation>
+        <translation>Insertar columnas a la izquierda</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation></translation>
+        <translation>Convertir PDF a Word</translation>
     </message>
     <message>
         <source>LineSpacing.content</source>
-        <translation></translation>
+        <translation>Cambia el espaciado interlineado del texto.</translation>
     </message>
     <message>
         <source>GraphicFill2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar diferentes efectos de relleno.</translation>
     </message>
     <message>
         <source>DeleteMaster.content</source>
-        <translation></translation>
+        <translation>Elimina el patrón de diapositiva seleccionado.</translation>
     </message>
     <message>
         <source>DistColumnSevenly.content</source>
-        <translation></translation>
+        <translation>Distribuye el ancho de las columnas seleccionadas igualmente entre ellas.</translation>
     </message>
     <message>
         <source>SlideTransSound.content</source>
-        <translation></translation>
+        <translation>Especifique un sonido que se reproducirá durante la transición de diapositivas.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation></translation>
+        <translation>De PDF a Word</translation>
     </message>
     <message>
         <source>WppSharePlay2.content</source>
-        <translation></translation>
+        <translation>Haga clic aquí para iniciar la reproducción compartida, o introduzca un código de acceso para ver una reproducción compartida.</translation>
     </message>
     <message>
         <source>PageNumber.title</source>
-        <translation></translation>
+        <translation>Insertar número de página</translation>
     </message>
     <message>
         <source>FormatAlignCenter.title</source>
-        <translation></translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>TableOnekeyBeautify.title</source>
-        <translation></translation>
+        <translation>Embellecer con una sola tecla</translation>
     </message>
     <message>
         <source>ShowHideMark.content</source>
-        <translation></translation>
+        <translation>Muestra u oculta los comentarios.</translation>
     </message>
     <message>
         <source>PreComment.content</source>
-        <translation></translation>
+        <translation>El comentario anterior.</translation>
     </message>
     <message>
         <source>SlideMaster.title</source>
-        <translation></translation>
+        <translation>Patrón de diapositivas</translation>
     </message>
     <message>
         <source>H5LinkManager.content</source>
-        <translation></translation>
+        <translation>Hacer clic para administrar, eliminar o enviar vínculos.</translation>
     </message>
     <message>
         <source>NewComment.content</source>
-        <translation></translation>
+        <translation>Crea un comentario nuevo.</translation>
     </message>
     <message>
         <source>MorePrintSettings.title</source>
-        <translation></translation>
+        <translation>Más opciones de configuración</translation>
     </message>
     <message>
         <source>ShapeLine2.content</source>
-        <translation></translation>
+        <translation>Haga clic en la flecha para seleccionar configuración detallada de contorno.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTool.content</source>
-        <translation></translation>
+        <translation>Cambiar la configuración del formato de la tabla.</translation>
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation></translation>
+        <translation>Copia el formato de un sitio y lo aplica en otro.
+
+Haga doble clic en este botón de nuevo para aplicar el mismo formato a varias ubicaciones en el documento.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation></translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>SlideNumber.title</source>
-        <translation></translation>
+        <translation>Insertar número de diapositiva</translation>
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation></translation>
+        <translation>Usa la impresora predeterminada para imprimir directamente.</translation>
     </message>
     <message>
         <source>ShadowButton.title</source>
-        <translation></translation>
+        <translation>Sombra de texto</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
-        <translation></translation>
+        <translation>Insertar ecuación</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
-        <translation></translation>
+        <translation>Lectura</translation>
     </message>
     <message>
         <source>InsertColumnsRight.title</source>
-        <translation></translation>
+        <translation>Insertar columna a la derecha</translation>
     </message>
     <message>
         <source>SetBackground.title</source>
-        <translation></translation>
+        <translation>Establecer fondo</translation>
     </message>
     <message>
         <source>Replace.content</source>
-        <translation></translation>
+        <translation>Reemplaza el contenido de texto en el documento.</translation>
     </message>
     <message>
         <source>SlideSorter.title</source>
-        <translation></translation>
+        <translation>Vista Clasificador de diapositivas</translation>
     </message>
     <message>
         <source>InsertTable.title</source>
-        <translation></translation>
+        <translation>Insertar tabla</translation>
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation></translation>
+        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
     </message>
     <message>
         <source>NewDash.title</source>
-        <translation></translation>
+        <translation>Nuevo Dash</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
-        <translation></translation>
+        <translation>Restablecer tamaño</translation>
     </message>
     <message>
         <source>sp_Macros.content</source>
-        <translation></translation>
+        <translation>Muestra el cuadro de diálogo de macros. Ve la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
     </message>
     <message>
         <source>InsertEduTools.content</source>
-        <translation></translation>
+        <translation>InsertEduTools.content</translation>
     </message>
     <message>
         <source>AudioFadeOut.title</source>
-        <translation></translation>
+        <translation>Fundido de salida</translation>
     </message>
     <message>
         <source>ChangeTextDir.content</source>
-        <translation></translation>
+        <translation>Cambia la orientación de texto a horizontal o vertical.</translation>
     </message>
     <message>
         <source>TextFontColor.content</source>
-        <translation></translation>
+        <translation>Establece el color de texto.
+
+Haga clic en la flecha para seleccionar un color diferente de texto.</translation>
     </message>
     <message>
         <source>IncreaseSpace.title</source>
-        <translation></translation>
+        <translation>Aumentar espaciado</translation>
     </message>
     <message>
         <source>WebPreview.title</source>
-        <translation></translation>
+        <translation>Crear vínculo y compartir</translation>
     </message>
     <message>
         <source>PrevNextPage.title</source>
-        <translation></translation>
+        <translation>Página siguiente</translation>
     </message>
     <message>
         <source>PDFToPPT.title</source>
-        <translation></translation>
+        <translation>De PDF a PPT</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation></translation>
+        <translation>SendFileTip.title</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation></translation>
+        <translation>The file will be automatically saved for you when it is turned on.</translation>
     </message>
     <message>
         <source>Distributed.title</source>
-        <translation></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>InsertRowsBelow.title</source>
-        <translation></translation>
+        <translation>Insertar fila abajo</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation></translation>
+        <translation>Cambia el aspecto del texto como si estuviera resaltado con un marcador.
+
+Haga clic en la flecha para seleccionar diferentes colores de marcador.</translation>
     </message>
     <message>
         <source>TableFontEffects.content</source>
-        <translation></translation>
+        <translation>Agrega un efecto visual al texto, como una sombra, un iluminado o un reflejo.</translation>
     </message>
 </context>
 </TS>
