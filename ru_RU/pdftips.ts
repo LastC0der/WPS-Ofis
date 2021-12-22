@@ -1,2227 +1,2238 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ru_RU">
 <context>
-    <name></name>
+    <name/>
     <message>
         <source>CAD2PDF.title</source>
-        <translation></translation>
+        <translation>CAD в PDF</translation>
     </message>
     <message>
         <source>FitPageSize.content</source>
-        <translation></translation>
+        <translation>Подогнать масштаб страницы по размеру</translation>
     </message>
     <message>
         <source>End Arrow.title</source>
-        <translation></translation>
+        <translation>End</translation>
     </message>
     <message>
         <source>ExportPdf.title</source>
-        <translation></translation>
+        <translation>Экспорт PDF</translation>
     </message>
     <message>
         <source>ChangeBackGround.content</source>
-        <translation></translation>
+        <translation>Изменение цвета фона страницы</translation>
     </message>
     <message>
         <source>PDFAdsorptionEndpoint.title</source>
-        <translation></translation>
+        <translation>Привязка к конечным точкам</translation>
     </message>
     <message>
         <source>OCRExtractPageText.title</source>
-        <translation></translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ZoomIn.content</source>
-        <translation></translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <source>Start Arrow.title</source>
-        <translation></translation>
+        <translation>Начать</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation></translation>
+        <translation>Открыть диалоговое окно &quot;Масштаб&quot; для выбора параметров масштабирования документа.</translation>
     </message>
     <message>
         <source>StampTool.content</source>
-        <translation></translation>
+        <translation>Штамп</translation>
     </message>
     <message>
         <source>Strikeout.title</source>
-        <translation></translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation></translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>MenuHandTool.content</source>
-        <translation></translation>
+        <translation>Инструмент выбора для перетаскивания документа</translation>
     </message>
     <message>
         <source>PdfImageReplace.content</source>
-        <translation></translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>SplitPDF.title</source>
-        <translation></translation>
+        <translation>Разделить PDF</translation>
     </message>
     <message>
         <source>InsertPages.content</source>
-        <translation></translation>
+        <translation>Вставка указанных страниц в текущий документ.</translation>
     </message>
     <message>
         <source>ZoomOut.content</source>
-        <translation></translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <source>kxPdfLogoutTip.content</source>
-        <translation></translation>
+        <translation>kxPdfLogoutTip</translation>
     </message>
     <message>
         <source>MagnifyFontSize.content</source>
-        <translation></translation>
+        <translation>MagnifyFontSize</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.title</source>
-        <translation></translation>
+        <translation>PdfInvoiceAssist</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.title</source>
-        <translation></translation>
+        <translation>Выделить и добавить заметку</translation>
     </message>
     <message>
         <source>Superscript.title</source>
-        <translation></translation>
+        <translation>Надстрочный</translation>
     </message>
     <message>
         <source>Replace.title</source>
-        <translation></translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>ScreenGrab.title</source>
-        <translation></translation>
+        <translation>ScreenGrab</translation>
     </message>
     <message>
         <source>PDF2Photo.content</source>
-        <translation></translation>
+        <translation>Преобразование документов в файлы изображений</translation>
     </message>
     <message>
         <source>PlaySlide.title</source>
-        <translation></translation>
+        <translation>Воспроизвести слайд</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.title</source>
-        <translation></translation>
+        <translation>EditPicNewTool_Rotate</translation>
     </message>
     <message>
         <source>TranslationSelect.title</source>
-        <translation></translation>
+        <translation>TranslationSelect</translation>
     </message>
     <message>
         <source>DeletePages.title</source>
-        <translation></translation>
+        <translation>Удаление страниц</translation>
     </message>
     <message>
         <source>PdfImageEnterEdit.title</source>
-        <translation></translation>
+        <translation>Редактировать изображение</translation>
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation></translation>
+        <translation>Подстрочный</translation>
     </message>
     <message>
         <source>Search.title</source>
-        <translation></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>PDFAdsorptionPath.title</source>
-        <translation></translation>
+        <translation>Привязка к путям</translation>
     </message>
     <message>
         <source>FloatClose.title</source>
-        <translation></translation>
+        <translation>Закрыть панель инструментов</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.title</source>
-        <translation></translation>
+        <translation>Скрыть область навигации</translation>
     </message>
     <message>
         <source>FillSignDot.title</source>
-        <translation></translation>
+        <translation>точка</translation>
     </message>
     <message>
         <source>ClockwiseDoc.title</source>
-        <translation></translation>
+        <translation>Повернуть документ</translation>
     </message>
     <message>
         <source>EnterSuperNoteMode.title</source>
-        <translation></translation>
+        <translation>режим заметок</translation>
     </message>
     <message>
         <source>LastPage.title</source>
-        <translation></translation>
+        <translation>Последняя страница</translation>
     </message>
     <message>
         <source>HideNavigationPannel.content</source>
-        <translation></translation>
+        <translation>Скрыть</translation>
     </message>
     <message>
         <source>Cloudy.title</source>
-        <translation></translation>
+        <translation>Облачный</translation>
     </message>
     <message>
         <source>PDF2Office.title</source>
-        <translation></translation>
+        <translation>PDF в Office</translation>
     </message>
     <message>
         <source>Line Style.title</source>
-        <translation></translation>
+        <translation>Стиль линии</translation>
     </message>
     <message>
         <source>Annotate.content</source>
-        <translation></translation>
+        <translation>Добавить комментарий как SuperNote</translation>
     </message>
     <message>
         <source>PageCorrectFinished.content</source>
-        <translation></translation>
+        <translation>Исправление завершено</translation>
     </message>
     <message>
         <source>FormFillingDate.title</source>
-        <translation></translation>
+        <translation>Добавить дату</translation>
     </message>
     <message>
         <source>PDFEditTextExit.title</source>
-        <translation></translation>
+        <translation>Выйти из режима редактирования</translation>
     </message>
     <message>
         <source>FontName.content</source>
-        <translation></translation>
+        <translation>Задание разных шрифтов</translation>
     </message>
     <message>
         <source>CADTOPdf.content</source>
-        <translation></translation>
+        <translation>CADTOPdf</translation>
     </message>
     <message>
         <source>PDF2PPT.content</source>
-        <translation></translation>
+        <translation>Преобразование документов в файлы PPT</translation>
     </message>
     <message>
         <source>FloatZoomIn.content</source>
-        <translation></translation>
+        <translation>Уменьшить страницу.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation></translation>
+        <translation>Подчёркивание выделенного текста.
+
+Щёлкните стрелку для выбора стиля подчеркивания.</translation>
     </message>
     <message>
         <source>TextBoxAlpha.title</source>
-        <translation></translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>WaterMarkTips.title</source>
-        <translation></translation>
+        <translation>Добавить подложку в документ</translation>
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation></translation>
+        <translation>PDF в CAD</translation>
     </message>
     <message>
         <source>LastPage.content</source>
-        <translation></translation>
+        <translation>Показать последнюю страницу.</translation>
     </message>
     <message>
         <source>NextPage.content</source>
-        <translation></translation>
+        <translation>Показать следующую страницу.</translation>
     </message>
     <message>
         <source>Italic.title</source>
-        <translation></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>TextBoxBkColor.title</source>
-        <translation></translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <source>RotateToTheRight.title</source>
-        <translation></translation>
+        <translation>Повернуть вправо</translation>
     </message>
     <message>
         <source>Open.title</source>
-        <translation></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Markdown2PDFTips.title</source>
-        <translation></translation>
+        <translation>MD в PDF</translation>
     </message>
     <message>
         <source>EditPageHeaderFooter.title</source>
-        <translation></translation>
+        <translation>Колонтитулы</translation>
     </message>
     <message>
         <source>TranslationSelect.content</source>
-        <translation></translation>
+        <translation>TranslationSelect</translation>
     </message>
     <message>
         <source>ZoomOutThumbnails.title</source>
-        <translation></translation>
+        <translation>ZoomOutThumbnails</translation>
     </message>
     <message>
         <source>PageCorrectExit.title</source>
-        <translation></translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>FillSign.title</source>
-        <translation></translation>
+        <translation>Заполнить и подписать формы</translation>
     </message>
     <message>
         <source>EbookSelfAdaptionPage.content</source>
-        <translation></translation>
+        <translation>Самостоятельная адаптация</translation>
     </message>
     <message>
         <source>SplitPage.content</source>
-        <translation></translation>
+        <translation>Разделение страницы на несколько страниц</translation>
     </message>
     <message>
         <source>PDFTOCad.content</source>
-        <translation></translation>
+        <translation>PDFTOCad</translation>
     </message>
     <message>
         <source>m_LineSpacing.title</source>
-        <translation></translation>
+        <translation>Междустрочный интервал</translation>
     </message>
     <message>
         <source>PDFMeasureTool.content</source>
-        <translation></translation>
+        <translation>Измеряйте дистанцию, периметр и область в файле</translation>
     </message>
     <message>
         <source>FirstPage.content</source>
-        <translation></translation>
+        <translation>Показать первую страницу.</translation>
     </message>
     <message>
         <source>ImageEditTransparency.content</source>
-        <translation></translation>
+        <translation>Изменить прозрачность</translation>
     </message>
     <message>
         <source>AutoClipPage.content</source>
-        <translation></translation>
+        <translation>Интеллектуальная аудитория</translation>
     </message>
     <message>
         <source>ImageClip.content</source>
-        <translation></translation>
+        <translation>Обрезать изображение</translation>
     </message>
     <message>
         <source>Replace Text.content</source>
-        <translation></translation>
+        <translation>Символ замены</translation>
     </message>
     <message>
         <source>ExportPdf.content</source>
-        <translation></translation>
+        <translation>Экспорт PDF</translation>
     </message>
     <message>
         <source>NavigateBack.title</source>
-        <translation></translation>
+        <translation>Вернуться назад</translation>
     </message>
     <message>
         <source>ClipPageRange.title</source>
-        <translation></translation>
+        <translation>Страница</translation>
     </message>
     <message>
         <source>SaveAs.title</source>
-        <translation></translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <source>MenuFloatToolBar.title</source>
-        <translation></translation>
+        <translation>Незакрепленная панель инструментов</translation>
     </message>
     <message>
         <source>Shapes.title</source>
-        <translation></translation>
+        <translation>Фигуры</translation>
     </message>
     <message>
         <source>ClearFormat.title</source>
-        <translation></translation>
+        <translation>ClearFormat</translation>
     </message>
     <message>
         <source>Shape.content</source>
-        <translation></translation>
+        <translation>Вставка аннотации в форме фигуры</translation>
     </message>
     <message>
         <source>FitPageSize.title</source>
-        <translation></translation>
+        <translation>По размеру</translation>
     </message>
     <message>
         <source>NewImage2top.title</source>
-        <translation></translation>
+        <translation>Переместить вверх</translation>
     </message>
     <message>
         <source>ImageEditReplace.content</source>
-        <translation></translation>
+        <translation>Заменить изображение</translation>
     </message>
     <message>
         <source>AutoClipPage.title</source>
-        <translation></translation>
+        <translation>Интеллектуальная аудитория</translation>
     </message>
     <message>
         <source>AddBookMark.content</source>
-        <translation></translation>
+        <translation>Добавить закладку в документ</translation>
     </message>
     <message>
         <source>PDF2Office.content</source>
-        <translation></translation>
+        <translation>Преобразование PDF-файлов в файлы Office</translation>
     </message>
     <message>
         <source>PdfImageClip.title</source>
-        <translation></translation>
+        <translation>Картинка из PDF</translation>
     </message>
     <message>
         <source>AnnotGraffiti.content</source>
-        <translation></translation>
+        <translation>Случайная круглая область для комментариев</translation>
     </message>
     <message>
         <source>FontSize.content</source>
-        <translation></translation>
+        <translation>Задание размера шрифта</translation>
     </message>
     <message>
         <source>FontName.title</source>
-        <translation></translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>FontSize.title</source>
-        <translation></translation>
+        <translation>Размер шрифта</translation>
     </message>
     <message>
         <source>AreaHighlight.content</source>
-        <translation></translation>
+        <translation>Выделение области.</translation>
     </message>
     <message>
         <source>AddHeaderFooterTips.content</source>
-        <translation></translation>
+        <translation>AddHeaderFooterTips</translation>
     </message>
     <message>
         <source>FillSignCross.content</source>
-        <translation></translation>
+        <translation>Добавить крестик</translation>
     </message>
     <message>
         <source>EbookIncreaseFont.title</source>
-        <translation></translation>
+        <translation>Увеличить шрифт</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.content</source>
-        <translation></translation>
+        <translation>Вставка выбранных страниц из документа в указанное местоположение.</translation>
     </message>
     <message>
         <source>CancelImageClip.title</source>
-        <translation></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>EbookDecreaseFont.title</source>
-        <translation></translation>
+        <translation>Уменьшить шрифт</translation>
     </message>
     <message>
         <source>FloatFitWidth.content</source>
-        <translation></translation>
+        <translation>По ширине окна.</translation>
     </message>
     <message>
         <source>EditPageHeaderFooter.content</source>
-        <translation></translation>
+        <translation>Задать верхний и нижний колонтитул для PDF-документа</translation>
     </message>
     <message>
         <source>ZoomPage.title</source>
-        <translation></translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>AddPageNumberTips.content</source>
-        <translation></translation>
+        <translation>Добавление номеров страниц в текущий документ</translation>
     </message>
     <message>
         <source>Markdown2PDFTips.content</source>
-        <translation></translation>
+        <translation>MD в PDF</translation>
     </message>
     <message>
         <source>Page Number.title</source>
-        <translation></translation>
+        <translation>Номер страницы</translation>
     </message>
     <message>
         <source>KOSLogoutTip.content</source>
-        <translation></translation>
+        <translation>KOSLogoutTip</translation>
     </message>
     <message>
         <source>PolyLine.title</source>
-        <translation></translation>
+        <translation>Пользовательская графика</translation>
     </message>
     <message>
         <source>ClipPageRange.content</source>
-        <translation></translation>
+        <translation>Страница</translation>
     </message>
     <message>
         <source>CompleteClipPage.title</source>
-        <translation></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>VerificationSignature2.title</source>
-        <translation></translation>
+        <translation>Проверить подпись</translation>
     </message>
     <message>
         <source>ExportToPDF.title</source>
-        <translation></translation>
+        <translation>ExportToPDF</translation>
     </message>
     <message>
         <source>PdfSignatureEmbedBatch.content</source>
-        <translation></translation>
+        <translation>PdfSignatureEmbedBatch</translation>
     </message>
     <message>
         <source>End Arrow.content</source>
-        <translation></translation>
+        <translation>End</translation>
     </message>
     <message>
         <source>PdfSignatureApplyMultiPage.content</source>
-        <translation></translation>
+        <translation>Применить к нескольким страницам</translation>
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation></translation>
+        <translation>Закрытие ненужных областей</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
-        <translation></translation>
+        <translation>Скрыть область навигации слева.</translation>
     </message>
     <message>
         <source>SaveAs.content</source>
-        <translation></translation>
+        <translation>Сохранить файл в папке по другому пути.</translation>
     </message>
     <message>
         <source>Line Width.content</source>
-        <translation></translation>
+        <translation>Ширина линии</translation>
     </message>
     <message>
         <source>TextQuery.content</source>
-        <translation></translation>
+        <translation>Найдите содержимое, закладки, комментарии к документу и т. д.</translation>
     </message>
     <message>
         <source>FullScreen.title</source>
-        <translation></translation>
+        <translation>Во весь экран</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation></translation>
+        <translation>Цвет текста</translation>
     </message>
     <message>
         <source>TextBold.content</source>
-        <translation></translation>
+        <translation>TextBold</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.title</source>
-        <translation></translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>PDFEditImage.content</source>
-        <translation></translation>
+        <translation>Изменить размер, прозрачность, угол изображения и т. д.</translation>
     </message>
     <message>
         <source>Arrow.content</source>
-        <translation></translation>
+        <translation>Стрелка</translation>
     </message>
     <message>
         <source>HighlightBorder.title</source>
-        <translation></translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>GraffitiEraser.title</source>
-        <translation></translation>
+        <translation>Ластик</translation>
     </message>
     <message>
         <source>ShapeBorderColor.content</source>
-        <translation></translation>
+        <translation>Цвет рамки</translation>
     </message>
     <message>
         <source>TextUnderline.content</source>
-        <translation></translation>
+        <translation>TextUnderline</translation>
     </message>
     <message>
         <source>PDFAddText.title</source>
-        <translation></translation>
+        <translation>Добавить текст</translation>
     </message>
     <message>
         <source>Square.content</source>
-        <translation></translation>
+        <translation>Вокруг рамки</translation>
     </message>
     <message>
         <source>Stamp.title</source>
-        <translation></translation>
+        <translation>Штамп</translation>
     </message>
     <message>
         <source>ImageEditReplace.title</source>
-        <translation></translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>LetterSpace.content</source>
-        <translation></translation>
+        <translation>Межзнаковый интервал</translation>
     </message>
     <message>
         <source>Annotate.title</source>
-        <translation></translation>
+        <translation>Добавить комментарий</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.content</source>
-        <translation></translation>
+        <translation>EditPicNewTool_Rotate</translation>
     </message>
     <message>
         <source>RandomDraw.title</source>
-        <translation></translation>
+        <translation>Случайный чертеж</translation>
     </message>
     <message>
         <source>EnterSuperNoteMode.content</source>
-        <translation></translation>
+        <translation>Отображение аннотаций</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
-        <translation></translation>
+        <translation>XiuTangH5Tip</translation>
     </message>
     <message>
         <source>TranslationSelectPdf.content</source>
-        <translation></translation>
+        <translation>TranslationSelectPdf</translation>
     </message>
     <message>
         <source>ExportHighlight.content</source>
-        <translation></translation>
+        <translation>Экспортировать все выделенное содержимое</translation>
     </message>
     <message>
         <source>PDFEditImage.title</source>
-        <translation></translation>
+        <translation>Изменить размер, прозрачность, угол изображения и т. д.</translation>
     </message>
     <message>
         <source>PdfNewEdit.title</source>
-        <translation></translation>
+        <translation>Редактировать PDF</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.title</source>
-        <translation></translation>
+        <translation>Измерение периметра</translation>
     </message>
     <message>
         <source>FormatBrush.title</source>
-        <translation></translation>
+        <translation>FormatBrush</translation>
     </message>
     <message>
         <source>Zoom Page.title</source>
-        <translation></translation>
+        <translation>Zoom Page</translation>
     </message>
     <message>
         <source>EditBackGround.title</source>
-        <translation></translation>
+        <translation>Фон</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.content</source>
-        <translation></translation>
+        <translation>Выделить и добавить заметку</translation>
     </message>
     <message>
         <source>FillSign_FreeText.content</source>
-        <translation></translation>
+        <translation>Добавить текст в поля формы</translation>
     </message>
     <message>
         <source>InsertBlankPages.content</source>
-        <translation></translation>
+        <translation>Вставка пустых страниц в указанное местоположение в документе.</translation>
     </message>
     <message>
         <source>PDF2CAD.title</source>
-        <translation></translation>
+        <translation>PDF в CAD</translation>
     </message>
     <message>
         <source>PDF2PPT.title</source>
-        <translation></translation>
+        <translation>PDF в PPT</translation>
     </message>
     <message>
         <source>FloatNavigationBar.content</source>
-        <translation></translation>
+        <translation>Показать область навигации слева.</translation>
     </message>
     <message>
         <source>Search.content</source>
-        <translation></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Square.title</source>
-        <translation></translation>
+        <translation>Вокруг рамки</translation>
     </message>
     <message>
         <source>AddHeaderFooterTips.title</source>
-        <translation></translation>
+        <translation>AddHeaderFooterTips</translation>
     </message>
     <message>
         <source>FitHeight.content</source>
-        <translation></translation>
+        <translation>FitHeight</translation>
     </message>
     <message>
         <source>Clockwise.title</source>
-        <translation></translation>
+        <translation>Повернуть вправо</translation>
     </message>
     <message>
         <source>GraffitiHline.title</source>
-        <translation></translation>
+        <translation>Свободное рисование горизонтальных линий</translation>
     </message>
     <message>
         <source>EbookSelfAdaptionPage.title</source>
-        <translation></translation>
+        <translation>Самостоятельная адаптация</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectFinished.content</source>
-        <translation></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.title</source>
-        <translation></translation>
+        <translation>XiuTangH5Tip</translation>
     </message>
     <message>
         <source>AreaHighlight.title</source>
-        <translation></translation>
+        <translation>Область выделения</translation>
     </message>
     <message>
         <source>WaterMarkTips.content</source>
-        <translation></translation>
+        <translation>Добавить подложку в документ</translation>
     </message>
     <message>
         <source>GraffitiVline.title</source>
-        <translation></translation>
+        <translation>Свободное рисование вертикальных линий</translation>
     </message>
     <message>
         <source>PlaySlide.content</source>
-        <translation></translation>
+        <translation>Прерывающееся воспроизведение слайдов во весь экран</translation>
     </message>
     <message>
         <source>PDFCompress.title</source>
-        <translation></translation>
+        <translation>Сжатие PDF</translation>
     </message>
     <message>
         <source>TextColor.content</source>
-        <translation></translation>
+        <translation>Установить цвет текста.
+
+Выберите цвет с помощью стрелки.</translation>
     </message>
     <message>
         <source>kxPdfLogoutTip.title</source>
-        <translation></translation>
+        <translation>kxPdfLogoutTip</translation>
     </message>
     <message>
         <source>PdfImageRotate90.content</source>
-        <translation></translation>
+        <translation>Вращение</translation>
     </message>
     <message>
         <source>PdfSignatureEmbed.content</source>
-        <translation></translation>
+        <translation>Применить</translation>
     </message>
     <message>
         <source>EbookDecreaseFont.content</source>
-        <translation></translation>
+        <translation>Уменьшить шрифт</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation></translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
-        <translation></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>PDFMeasureArea.content</source>
-        <translation></translation>
+        <translation>Измерение области</translation>
     </message>
     <message>
         <source>LineSpace.content</source>
-        <translation></translation>
+        <translation>Междустрочный интервал</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.content</source>
-        <translation></translation>
+        <translation>DocerURLEntranceTip</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation></translation>
+        <translation>Выбор цвета текста.
+
+Щёлкните стрелку для выбора цвета текста.</translation>
     </message>
     <message>
         <source>PdfReplacePages.content</source>
-        <translation></translation>
+        <translation>Заменить страницы</translation>
     </message>
     <message>
         <source>NewFromMDTips.title</source>
-        <translation></translation>
+        <translation>NewFromMDTips</translation>
     </message>
     <message>
         <source>PdfSignatureDelete.content</source>
-        <translation></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>NavigationBar.content</source>
-        <translation></translation>
+        <translation>NavigationBar</translation>
     </message>
     <message>
         <source>Page Select.title</source>
-        <translation></translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>FloatFitSize.content</source>
-        <translation></translation>
+        <translation>Подогнать масштаб по размеру.</translation>
     </message>
     <message>
         <source>ClockwiseDoc.content</source>
-        <translation></translation>
+        <translation>Повернуть все страницы документа.</translation>
     </message>
     <message>
         <source>TBLineStyle.title</source>
-        <translation></translation>
+        <translation>Стиль линии</translation>
     </message>
     <message>
         <source>ImageEditTransparency.title</source>
-        <translation></translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>Counterclockwise.content</source>
-        <translation></translation>
+        <translation>Повернуть влево на 90°.</translation>
     </message>
     <message>
         <source>FillSignCheck.content</source>
-        <translation></translation>
+        <translation>Добавить галочку</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation></translation>
+        <translation>Полный перевод текста</translation>
     </message>
     <message>
         <source>GraffitiHline.content</source>
-        <translation></translation>
+        <translation>Изображение случайной линии</translation>
     </message>
     <message>
         <source>CreatePdf.content</source>
-        <translation></translation>
+        <translation>Создать PDF</translation>
     </message>
     <message>
         <source>FloatZoomOut.title</source>
-        <translation></translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation></translation>
+        <translation>Вставка небольших символов ниже линии текста.</translation>
     </message>
     <message>
         <source>CreatePdf.title</source>
-        <translation></translation>
+        <translation>Создать PDF</translation>
     </message>
     <message>
         <source>Italic.content</source>
-        <translation></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>LineSpace.title</source>
-        <translation></translation>
+        <translation>Междустрочный интервал</translation>
     </message>
     <message>
         <source>EbookSinglePage.content</source>
-        <translation></translation>
+        <translation>Нечетные страницы</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation></translation>
+        <translation>Чтение текста</translation>
     </message>
     <message>
         <source>Circle.title</source>
-        <translation></translation>
+        <translation>Круг</translation>
     </message>
     <message>
         <source>Encrypt.content</source>
-        <translation></translation>
+        <translation>Задать пароль для текущего документа.</translation>
     </message>
     <message>
         <source>Squiggly Underline.title</source>
-        <translation></translation>
+        <translation>Squiggly Underline</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.title</source>
-        <translation></translation>
+        <translation>PdfElectronicInvoicePrint</translation>
     </message>
     <message>
         <source>FreeText.content</source>
-        <translation></translation>
+        <translation>Вставить текст в PDF.</translation>
     </message>
     <message>
         <source>Stamp.content</source>
-        <translation></translation>
+        <translation>Штамп</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation></translation>
+        <translation>Цвет выделения текста</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.title</source>
-        <translation></translation>
+        <translation>Привязка к средним точкам</translation>
     </message>
     <message>
         <source>UpdateHeaderFooterTips.content</source>
-        <translation></translation>
+        <translation>UpdateHeaderFooterTips</translation>
     </message>
     <message>
         <source>CompleteClipPage.content</source>
-        <translation></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>SplitPage.title</source>
-        <translation></translation>
+        <translation>Разделение страницы</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectExit.content</source>
-        <translation></translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>ClipPage.title</source>
-        <translation></translation>
+        <translation>Обрезать страницу</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation></translation>
+        <translation>Экспорт изображения Weibo</translation>
     </message>
     <message>
         <source>FillSignCross.title</source>
-        <translation></translation>
+        <translation>Пересечение</translation>
     </message>
     <message>
         <source>PDFEditText.content</source>
-        <translation></translation>
+        <translation>Изменить содержимое, шрифт, размер текста и т. д.</translation>
     </message>
     <message>
         <source>PDF2TXTConvert.title</source>
-        <translation></translation>
+        <translation>PDF в TXT</translation>
     </message>
     <message>
         <source>FitVisible.content</source>
-        <translation></translation>
+        <translation>FitVisible</translation>
     </message>
     <message>
         <source>TextCommentBox.content</source>
-        <translation></translation>
+        <translation>Текстовое поле</translation>
     </message>
     <message>
         <source>PdfImageReverse.title</source>
-        <translation></translation>
+        <translation>Поворот</translation>
     </message>
     <message>
         <source>TextBoxBorderColor.content</source>
-        <translation></translation>
+        <translation>Цвет рамки</translation>
     </message>
     <message>
         <source>PdfImageReplace.title</source>
-        <translation></translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.title</source>
-        <translation></translation>
+        <translation>Вставить страницы из документа</translation>
     </message>
     <message>
         <source>FitWidth.content</source>
-        <translation></translation>
+        <translation>По ширине окна.</translation>
     </message>
     <message>
         <source>PdfImageRotate90.title</source>
-        <translation></translation>
+        <translation>Вращение</translation>
     </message>
     <message>
         <source>TextQuery.title</source>
-        <translation></translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>PDFMeasureScale.title</source>
-        <translation></translation>
+        <translation>Коэффициент масштабирования</translation>
     </message>
     <message>
         <source>ZoomInThumbnails.title</source>
-        <translation></translation>
+        <translation>ZoomInThumbnails</translation>
     </message>
     <message>
         <source>MergePDF.title</source>
-        <translation></translation>
+        <translation>Объединить PDF</translation>
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation></translation>
+        <translation>Сканируйте QR-код с помощью мобильного телефона, чтобы получить документ</translation>
     </message>
     <message>
         <source>Quick_PageDelete.title</source>
-        <translation></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>PdfImageEnterEdit.content</source>
-        <translation></translation>
+        <translation>Редактировать изображение</translation>
     </message>
     <message>
         <source>PreviousPage.title</source>
-        <translation></translation>
+        <translation>Предыдущая страница</translation>
     </message>
     <message>
         <source>MergePDF.content</source>
-        <translation></translation>
+        <translation>Объединить несколько файлов PDF.</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation></translation>
+        <translation>Точный и быстрый перевод с сохранением исходного макета документа.</translation>
     </message>
     <message>
         <source>AutoWheel.content</source>
-        <translation></translation>
+        <translation>Прокручивайте документ с определенной скоростью</translation>
     </message>
     <message>
         <source>TextCommentBox.title</source>
-        <translation></translation>
+        <translation>Текстовое поле</translation>
     </message>
     <message>
         <source>ReplaceBorder.title</source>
-        <translation></translation>
+        <translation>Замена</translation>
     </message>
     <message>
         <source>EditTextToolBarTips.content</source>
-        <translation></translation>
+        <translation>Редактирование текста</translation>
     </message>
     <message>
         <source>AutoWheel.title</source>
-        <translation></translation>
+        <translation>Автоматическая прокрутка</translation>
     </message>
     <message>
         <source>DeleteHeaderFooterTips.content</source>
-        <translation></translation>
+        <translation>DeleteHeaderFooterTips</translation>
     </message>
     <message>
         <source>FloatHandTool.title</source>
-        <translation></translation>
+        <translation>Инструмент «рука»</translation>
     </message>
     <message>
         <source>PageCorrectManualAdjust.title</source>
-        <translation></translation>
+        <translation>Исправить вручную</translation>
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation></translation>
+        <translation>Выровнять по правому краю</translation>
     </message>
     <message>
         <source>HideAnnotations.title</source>
-        <translation></translation>
+        <translation>Скрыть аннотации</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation></translation>
+        <translation>Наложение содержимого экрана для графического сравнения</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
-        <translation></translation>
+        <translation>Изменить содержимое</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyText.title</source>
-        <translation></translation>
+        <translation>Копировать текст</translation>
     </message>
     <message>
         <source>FloatHandTool.content</source>
-        <translation></translation>
+        <translation>Перетащите документ</translation>
     </message>
     <message>
         <source>ImageClip.title</source>
-        <translation></translation>
+        <translation>Обрезать изображение</translation>
     </message>
     <message>
         <source>FormFilling.title</source>
-        <translation></translation>
+        <translation>Заполнить и подписать</translation>
     </message>
     <message>
         <source>TextBoxAlpha.content</source>
-        <translation></translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>Squiggly Underline.content</source>
-        <translation></translation>
+        <translation>Squiggly Underline</translation>
     </message>
     <message>
         <source>Quick_PageInsert.title</source>
-        <translation></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>PDFAddText.content</source>
-        <translation></translation>
+        <translation>Добавление текстового комментария в документ</translation>
     </message>
     <message>
         <source>GraffitiVline.content</source>
-        <translation></translation>
+        <translation>Изображение вертикальной линии от руки</translation>
     </message>
     <message>
         <source>StrikeoutBorder.title</source>
-        <translation></translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>NewImage2Bottom.title</source>
-        <translation></translation>
+        <translation>Переместить вниз</translation>
     </message>
     <message>
         <source>FillSignCircle.title</source>
-        <translation></translation>
+        <translation>Овал</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyText.content</source>
-        <translation></translation>
+        <translation>Копировать текст</translation>
     </message>
     <message>
         <source>ZoomOutThumbnails.content</source>
-        <translation></translation>
+        <translation>ZoomOutThumbnails</translation>
     </message>
     <message>
         <source>PDF2Excel.content</source>
-        <translation></translation>
+        <translation>Преобразование документов в файлы Excel</translation>
     </message>
     <message>
         <source>DeletePages.content</source>
-        <translation></translation>
+        <translation>Удалить указанные страницы из текущего документа.</translation>
     </message>
     <message>
         <source>ClearFormat.content</source>
-        <translation></translation>
+        <translation>ClearFormat</translation>
     </message>
     <message>
         <source>Print.title</source>
-        <translation></translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>StampTool.title</source>
-        <translation></translation>
+        <translation>Штамп</translation>
     </message>
     <message>
         <source>PageDelete.content</source>
-        <translation></translation>
+        <translation>Удаление страниц</translation>
     </message>
     <message>
         <source>PdfImageOpacity.title</source>
-        <translation></translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>RotateToTheLeft.title</source>
-        <translation></translation>
+        <translation>Повернуть влево</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.content</source>
-        <translation></translation>
+        <translation>PdfImageOcrExtract</translation>
     </message>
     <message>
         <source>ZoomIn.title</source>
-        <translation></translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <source>TextStrikethought.title</source>
-        <translation></translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>Bold.title</source>
-        <translation></translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation></translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>FloatClose.content</source>
-        <translation></translation>
+        <translation>Закрыть не закрепленную панель инструментов.</translation>
     </message>
     <message>
         <source>ImageEditFlip.content</source>
-        <translation></translation>
+        <translation>Повернуть изображение</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation></translation>
+        <translation>Центрировать по вертикали</translation>
     </message>
     <message>
         <source>TemplatesPrint.title</source>
-        <translation></translation>
+        <translation>Шаблоны для печати</translation>
     </message>
     <message>
         <source>GraffitiEraserWholeType.title</source>
-        <translation></translation>
+        <translation>Стереть все</translation>
     </message>
     <message>
         <source>UnderlineBorder.content</source>
-        <translation></translation>
+        <translation>Добавить подчеркивание.</translation>
     </message>
     <message>
         <source>AttachmentTip.content</source>
-        <translation></translation>
+        <translation>Добавить файлы вложений в указанное расположение документа</translation>
     </message>
     <message>
         <source>PdfImageReverse.content</source>
-        <translation></translation>
+        <translation>Поворот</translation>
     </message>
     <message>
         <source>ContinuousRead.title</source>
-        <translation></translation>
+        <translation>Непрерывное чтение</translation>
     </message>
     <message>
         <source>TextItalic.content</source>
-        <translation></translation>
+        <translation>TextItalic</translation>
     </message>
     <message>
         <source>Line Style.content</source>
-        <translation></translation>
+        <translation>Стиль линии</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
-        <translation></translation>
+        <translation>Предварительный просмотр изображения</translation>
     </message>
     <message>
         <source>Shape.title</source>
-        <translation></translation>
+        <translation>Аннотация в фигуре</translation>
     </message>
     <message>
         <source>IndentFisrtLine.title</source>
-        <translation></translation>
+        <translation>Отступ первой строки</translation>
     </message>
     <message>
         <source>UnderlineBorder.title</source>
-        <translation></translation>
+        <translation>Подчеркивание</translation>
     </message>
     <message>
         <source>VerificationSignature.title</source>
-        <translation></translation>
+        <translation>Проверить подпись</translation>
     </message>
     <message>
         <source>Counterclockwise.title</source>
-        <translation></translation>
+        <translation>Повернуть влево</translation>
     </message>
     <message>
         <source>FullScreen.content</source>
-        <translation></translation>
+        <translation>Просмотр документа в полноэкранном режиме.</translation>
     </message>
     <message>
         <source>Page Select.content</source>
-        <translation></translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>PDFMeasureDistance.content</source>
-        <translation></translation>
+        <translation>Измерение расстояния</translation>
     </message>
     <message>
         <source>Page Number.content</source>
-        <translation></translation>
+        <translation>Номер страницы</translation>
     </message>
     <message>
         <source>PDF2Excel.title</source>
-        <translation></translation>
+        <translation>PDF в Excel</translation>
     </message>
     <message>
         <source>Polygon.title</source>
-        <translation></translation>
+        <translation>Многоугольник</translation>
     </message>
     <message>
         <source>ZoomOut.title</source>
-        <translation></translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <source>MenuFloatToolBar.content</source>
-        <translation></translation>
+        <translation>Незакрепленная панель инструментов</translation>
     </message>
     <message>
         <source>ReadingMode.title</source>
-        <translation></translation>
+        <translation>Режим чтения</translation>
     </message>
     <message>
         <source>FillSign_FreeText.title</source>
-        <translation></translation>
+        <translation>Добавить текст</translation>
     </message>
     <message>
         <source>TextUnderline.title</source>
-        <translation></translation>
+        <translation>TextUnderline</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation></translation>
+        <translation>Преобразование рисунка в текст.</translation>
     </message>
     <message>
         <source>PDFEditContent.content</source>
-        <translation></translation>
+        <translation>Изменить тексты и изображения</translation>
     </message>
     <message>
         <source>Note.title</source>
-        <translation></translation>
+        <translation>Примечание</translation>
     </message>
     <message>
         <source>Save.title</source>
-        <translation></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>PDFMeasureArea.title</source>
-        <translation></translation>
+        <translation>Измерение области</translation>
     </message>
     <message>
         <source>CustomClipPage.content</source>
-        <translation></translation>
+        <translation>Настройка аудитории</translation>
     </message>
     <message>
         <source>OS_PhoneShare.title</source>
-        <translation></translation>
+        <translation>Отсканировать на мобильное устройство</translation>
     </message>
     <message>
         <source>PdfReplacePages.title</source>
-        <translation></translation>
+        <translation>Заменить страницы</translation>
     </message>
     <message>
         <source>PolyLine.content</source>
-        <translation></translation>
+        <translation>Пользовательская графика</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation></translation>
+        <translation>Быстрое устранение ошибок в документах, которые были повреждены или не открываются по другим причинам.</translation>
     </message>
     <message>
         <source>PdfNewEdit.content</source>
-        <translation></translation>
+        <translation>Редактируйте текст, изображения и многое другое</translation>
     </message>
     <message>
         <source>PageCorrectFinished.title</source>
-        <translation></translation>
+        <translation>Исправление завершено</translation>
     </message>
     <message>
         <source>WaterMark.title</source>
-        <translation></translation>
+        <translation>Подложка</translation>
     </message>
     <message>
         <source>Recommended PictureToText.content</source>
-        <translation></translation>
+        <translation>Recommend Convert picture to text format.</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.content</source>
-        <translation></translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation></translation>
+        <translation>Уменьшение размера файлов PDF</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
-        <translation></translation>
+        <translation>Отступ первой строки</translation>
     </message>
     <message>
         <source>NavigateForward.title</source>
-        <translation></translation>
+        <translation>Перейти вперед</translation>
     </message>
     <message>
         <source>Shapes.content</source>
-        <translation></translation>
+        <translation>Вставка готовых фигур, таких как прямоугольники, круги, стрелки, линии, элементы блок-схемы и выноски.</translation>
     </message>
     <message>
         <source>FloatFitWidth.title</source>
-        <translation></translation>
+        <translation>По ширине</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyExcel.content</source>
-        <translation></translation>
+        <translation>Копировать формы</translation>
     </message>
     <message>
         <source>EyeShield.content</source>
-        <translation></translation>
+        <translation>Режим защиты глаз</translation>
     </message>
     <message>
         <source>FloatFitPageSize.title</source>
-        <translation></translation>
+        <translation>Подходящая страница</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.title</source>
-        <translation></translation>
+        <translation>PdfImageOcrExtract</translation>
     </message>
     <message>
         <source>SinglePageContinuous.title</source>
-        <translation></translation>
+        <translation>Одна страница</translation>
     </message>
     <message>
         <source>ImageEditDelete.title</source>
-        <translation></translation>
+        <translation>ImageEditDelete</translation>
     </message>
     <message>
         <source>PDF2Photo.title</source>
-        <translation></translation>
+        <translation>PDF в изображение</translation>
     </message>
     <message>
         <source>NavigateBack.content</source>
-        <translation></translation>
+        <translation>Вернуться назад</translation>
     </message>
     <message>
         <source>PDFAdsorptionPath.content</source>
-        <translation></translation>
+        <translation>Привязка к путям</translation>
     </message>
     <message>
         <source>EbookDoublePage.title</source>
-        <translation></translation>
+        <translation>Четные страницы</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.title</source>
-        <translation></translation>
+        <translation>DocerURLEntranceTip</translation>
     </message>
     <message>
         <source>FillSignCircle.content</source>
-        <translation></translation>
+        <translation>Добавить овал</translation>
     </message>
     <message>
         <source>PDFExtractPage.title</source>
-        <translation></translation>
+        <translation>Извлечение страницы в PDF</translation>
     </message>
     <message>
         <source>TranslationSelectPdf.title</source>
-        <translation></translation>
+        <translation>TranslationSelectPdf</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation></translation>
+        <translation>Выровнять по правому краю</translation>
     </message>
     <message>
         <source>MagnifyIndentation.content</source>
-        <translation></translation>
+        <translation>MagnifyIndentation</translation>
     </message>
     <message>
         <source>FillSignDot.content</source>
-        <translation></translation>
+        <translation>Добавить точку</translation>
     </message>
     <message>
         <source>ConfirmImageClip.title</source>
-        <translation></translation>
+        <translation>Дополнительно</translation>
     </message>
     <message>
         <source>ZoomInThumbnails.content</source>
-        <translation></translation>
+        <translation>ZoomInThumbnails</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.content</source>
-        <translation></translation>
+        <translation>PdfElectronicInvoicePrint</translation>
     </message>
     <message>
         <source>ReduceFontSize.title</source>
-        <translation></translation>
+        <translation>Уменьшить размер</translation>
     </message>
     <message>
         <source>Strikeout.content</source>
-        <translation></translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>EditBackGround.content</source>
-        <translation></translation>
+        <translation>Задать фон документа</translation>
     </message>
     <message>
         <source>TwoPageContinuous.title</source>
-        <translation></translation>
+        <translation>Две страницы</translation>
     </message>
     <message>
         <source>FillSign.content</source>
-        <translation></translation>
+        <translation>Заполнить и подписать формы</translation>
     </message>
     <message>
         <source>TranslationAll.content</source>
-        <translation></translation>
+        <translation>Перевод всего текста</translation>
     </message>
     <message>
         <source>CustomClipPage.title</source>
-        <translation></translation>
+        <translation>Настройка аудитории</translation>
     </message>
     <message>
         <source>ReplaceBorder.content</source>
-        <translation></translation>
+        <translation>Добавить замену</translation>
     </message>
     <message>
         <source>DocPermission.title</source>
-        <translation></translation>
+        <translation>DocPermission</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.content</source>
-        <translation></translation>
+        <translation>Экспорт фото в PDF</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.content</source>
-        <translation></translation>
+        <translation>Измерение периметра</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation></translation>
+        <translation>Вставка небольших символов выше линии текста.</translation>
     </message>
     <message>
         <source>Arrow.title</source>
-        <translation></translation>
+        <translation>Стрелка</translation>
     </message>
     <message>
         <source>PDFAdsorptionIntersection.title</source>
-        <translation></translation>
+        <translation>Привязка к пересечениям</translation>
     </message>
     <message>
         <source>ReduceIndentation.content</source>
-        <translation></translation>
+        <translation>ReduceIndentation</translation>
     </message>
     <message>
         <source>FormFilling.content</source>
-        <translation></translation>
+        <translation>Заполнить и подписать</translation>
     </message>
     <message>
         <source>AttachmentTip.title</source>
-        <translation></translation>
+        <translation>Вложение</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.title</source>
-        <translation></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>ImageEditFlip.title</source>
-        <translation></translation>
+        <translation>Поворот</translation>
     </message>
     <message>
         <source>ShowAnnotations.title</source>
-        <translation></translation>
+        <translation>Отобразить аннотации</translation>
     </message>
     <message>
         <source>AddImage.content</source>
-        <translation></translation>
+        <translation>Вставить изображение из локальной папки.</translation>
     </message>
     <message>
         <source>FileCollect.content</source>
-        <translation></translation>
+        <translation>Сбор файлов</translation>
     </message>
     <message>
         <source>PdfSignatureDeleteBatch.content</source>
-        <translation></translation>
+        <translation>PdfSignatureDeleteBatch</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation></translation>
+        <translation>Цвет заливки</translation>
     </message>
     <message>
         <source>OCRExtractText.title</source>
-        <translation></translation>
+        <translation>OCRExtractText</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation></translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>InsertBorder.title</source>
-        <translation></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation></translation>
+        <translation>Цвет заливки</translation>
     </message>
     <message>
         <source>SplitPDF.content</source>
-        <translation></translation>
+        <translation>Разделить файл PDF на несколько файлов PDF.</translation>
     </message>
     <message>
         <source>MenuSelectionTool.title</source>
-        <translation></translation>
+        <translation>Инструмент выбора</translation>
     </message>
     <message>
         <source>Circle.content</source>
-        <translation></translation>
+        <translation>Круг</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.content</source>
-        <translation></translation>
+        <translation>PdfInvoiceAssist</translation>
     </message>
     <message>
         <source>DeleteHeaderFooterTips.title</source>
-        <translation></translation>
+        <translation>DeleteHeaderFooterTips</translation>
     </message>
     <message>
         <source>EditTextToolBarTips.title</source>
-        <translation></translation>
+        <translation>Редактирование текста</translation>
     </message>
     <message>
         <source>AddPageNumberTips.title</source>
-        <translation></translation>
+        <translation>Добавить номер страницы</translation>
     </message>
     <message>
         <source>FloatZoomIn.title</source>
-        <translation></translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <source>TemplatesPrint.content</source>
-        <translation></translation>
+        <translation>Шаблоны для печати</translation>
     </message>
     <message>
         <source>PreviousPage.content</source>
-        <translation></translation>
+        <translation>Показать предыдущую страницу.</translation>
     </message>
     <message>
         <source>Encrypt.title</source>
-        <translation></translation>
+        <translation>Шифрование</translation>
     </message>
     <message>
         <source>PDFMeasureDistance.title</source>
-        <translation></translation>
+        <translation>Измерение расстояния</translation>
     </message>
     <message>
         <source>Strikethrough.title</source>
-        <translation></translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>FloatFitPageSize.content</source>
-        <translation></translation>
+        <translation>Масштабирование размера страницы для отображения в окне</translation>
     </message>
     <message>
         <source>Translation.title</source>
-        <translation></translation>
+        <translation>Перевод</translation>
     </message>
     <message>
         <source>UnderlineAndAnnotation.title</source>
-        <translation></translation>
+        <translation>Подчеркнуть и добавить примечание</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation></translation>
+        <translation>Преобразовать рисунок в текст</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation></translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>Cloudy.content</source>
-        <translation></translation>
+        <translation>Облачный</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation></translation>
+        <translation>Преобразование текста в речь. Вы можете использовать эту функцию в течение двухдневного пробного периода.</translation>
     </message>
     <message>
         <source>InsertBorder.content</source>
-        <translation></translation>
+        <translation>Добавить вставку</translation>
     </message>
     <message>
         <source>FitVisible.title</source>
-        <translation></translation>
+        <translation>FitVisible</translation>
     </message>
     <message>
         <source>FillSignLine.content</source>
-        <translation></translation>
+        <translation>Добавить строку</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.title</source>
-        <translation></translation>
+        <translation>Экспорт фото в PDF</translation>
     </message>
     <message>
         <source>ImageExtractTip.content</source>
-        <translation></translation>
+        <translation>ImageExtractTip</translation>
     </message>
     <message>
         <source>PDFCompress.content</source>
-        <translation></translation>
+        <translation>Уменьшить размер файла PDF.</translation>
     </message>
     <message>
         <source>PDFMeasureTool.title</source>
-        <translation></translation>
+        <translation>Измеряйте дистанцию, периметр и область в файле</translation>
     </message>
     <message>
         <source>PdfImageClip.content</source>
-        <translation></translation>
+        <translation>Картинка из PDF</translation>
     </message>
     <message>
         <source>Translation.content</source>
-        <translation></translation>
+        <translation>Перевод</translation>
     </message>
     <message>
         <source>NoteBorder.content</source>
-        <translation></translation>
+        <translation>Добавить примечание</translation>
     </message>
     <message>
         <source>ImageEditDelete.content</source>
-        <translation></translation>
+        <translation>ImageEditDelete</translation>
     </message>
     <message>
         <source>TextBold.title</source>
-        <translation></translation>
+        <translation>TextBold</translation>
     </message>
     <message>
         <source>Replace Text.title</source>
-        <translation></translation>
+        <translation>Символ замены</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation></translation>
+        <translation>Снимки экрана и сравнение</translation>
     </message>
     <message>
         <source>Polygon.content</source>
-        <translation></translation>
+        <translation>Многоугольник</translation>
     </message>
     <message>
         <source>FitWidth.title</source>
-        <translation></translation>
+        <translation>По ширине</translation>
     </message>
     <message>
         <source>PDFEditTextExit.content</source>
-        <translation></translation>
+        <translation>Выйти из режима редактирования</translation>
     </message>
     <message>
         <source>NavigationBar.title</source>
-        <translation></translation>
+        <translation>NavigationBar</translation>
     </message>
     <message>
         <source>ContinuousRead.content</source>
-        <translation></translation>
+        <translation>Прокрутите страницу для просмотра</translation>
     </message>
     <message>
         <source>EbookSinglePage.title</source>
-        <translation></translation>
+        <translation>Нечетные страницы</translation>
     </message>
     <message>
         <source>PDF2TXTConvert.content</source>
-        <translation></translation>
+        <translation>Преобразование документов в файлы TXT</translation>
     </message>
     <message>
         <source>FloatSelectionTool.content</source>
-        <translation></translation>
+        <translation>Выбор текста или изображений для копирования.</translation>
     </message>
     <message>
         <source>PDFMeasureScale.content</source>
-        <translation></translation>
+        <translation>Коэффициент масштабирования</translation>
     </message>
     <message>
         <source>KOSLogoutTip.title</source>
-        <translation></translation>
+        <translation>KOSLogoutTip</translation>
     </message>
     <message>
         <source>ZoomPage.content</source>
-        <translation></translation>
+        <translation>Другие параметры масштаба.</translation>
     </message>
     <message>
         <source>AddBookMark.title</source>
-        <translation></translation>
+        <translation>Добавить закладку</translation>
     </message>
     <message>
         <source>MagnifyFontSize.title</source>
-        <translation></translation>
+        <translation>MagnifyFontSize</translation>
     </message>
     <message>
         <source>Strikethrough.content</source>
-        <translation></translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>TextBoxBorderColor.title</source>
-        <translation></translation>
+        <translation>Цвет рамки</translation>
     </message>
     <message>
         <source>ReduceFontSize.content</source>
-        <translation></translation>
+        <translation>Уменьшить размер</translation>
     </message>
     <message>
         <source>PdfSignature.content</source>
-        <translation></translation>
+        <translation>Добавление рукописной подписи, подписи в виде изображения или текста</translation>
     </message>
     <message>
         <source>VerificationSignature2.content</source>
-        <translation></translation>
+        <translation>Проверяйте все цифровые подписи в документе
+(Этот документ не содержит цифровую подпись)</translation>
     </message>
     <message>
         <source>LetterSpace.title</source>
-        <translation></translation>
+        <translation>Межзнаковый интервал</translation>
     </message>
     <message>
         <source>AnnotGraffiti.title</source>
-        <translation></translation>
+        <translation>Свободное рисование</translation>
     </message>
     <message>
         <source>Start Arrow.content</source>
-        <translation></translation>
+        <translation>Начать</translation>
     </message>
     <message>
         <source>VerificationSignature.content</source>
-        <translation></translation>
+        <translation>Проверить подпись</translation>
     </message>
     <message>
         <source>Photo2PDF.content</source>
-        <translation></translation>
+        <translation>Инструмент преобразования фото в PDF</translation>
     </message>
     <message>
         <source>PDFAdsorptionIntersection.content</source>
-        <translation></translation>
+        <translation>Привязка к пересечениям</translation>
     </message>
     <message>
         <source>TextBoxBkColor.content</source>
-        <translation></translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <source>HyperLink.title</source>
-        <translation></translation>
+        <translation>Ссылка</translation>
     </message>
     <message>
         <source>GraffitiEraserPartType.title</source>
-        <translation></translation>
+        <translation>Стереть часть</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation></translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>NextPage.title</source>
-        <translation></translation>
+        <translation>Следующая страница</translation>
     </message>
     <message>
         <source>TBLineStyle.content</source>
-        <translation></translation>
+        <translation>Установите стиль контура для выбранного текста.</translation>
     </message>
     <message>
         <source>Highlight.title</source>
-        <translation></translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>DocPermission.content</source>
-        <translation></translation>
+        <translation>DocPermission</translation>
     </message>
     <message>
         <source>PageCorrectExit.content</source>
-        <translation></translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>HideAnnotations.content</source>
-        <translation></translation>
+        <translation>Скрыть аннотации</translation>
     </message>
     <message>
         <source>ShowAnnotations.content</source>
-        <translation></translation>
+        <translation>Отобразить аннотации</translation>
     </message>
     <message>
         <source>MenuSelectionTool.content</source>
-        <translation></translation>
+        <translation>Щелкните, чтобы выбрать текст и объект</translation>
     </message>
     <message>
         <source>TextColor.title</source>
-        <translation></translation>
+        <translation>Цвет текста</translation>
     </message>
     <message>
         <source>ImagePreview.title</source>
-        <translation></translation>
+        <translation>Предварительный просмотр изображения</translation>
     </message>
     <message>
         <source>AIOCR2PDF.title</source>
-        <translation></translation>
+        <translation>AIOCR2PDF</translation>
     </message>
     <message>
         <source>SinglePageContinuous.content</source>
-        <translation></translation>
+        <translation>Одна страница во весь экран</translation>
     </message>
     <message>
         <source>NewFromMDTips.content</source>
-        <translation></translation>
+        <translation>NewFromMDTips</translation>
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation></translation>
+        <translation>Замазка</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
-        <translation></translation>
+        <translation>Объединить несколько типов файлов в один PDF-документ.</translation>
     </message>
     <message>
         <source>Highlight.content</source>
-        <translation></translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectFinished.title</source>
-        <translation></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>GraffitiEraserWholeType.content</source>
-        <translation></translation>
+        <translation>Стереть граффити целиком</translation>
     </message>
     <message>
         <source>Clockwise.content</source>
-        <translation></translation>
+        <translation>Повернуть вправо на 90°.</translation>
     </message>
     <message>
         <source>Note.content</source>
-        <translation></translation>
+        <translation>Примечание</translation>
     </message>
     <message>
         <source>OCRExtractText.content</source>
-        <translation></translation>
+        <translation>OCRExtractText</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.content</source>
-        <translation></translation>
+        <translation>Панель результатов измерения</translation>
     </message>
     <message>
         <source>ReduceIndentation.title</source>
-        <translation></translation>
+        <translation>ReduceIndentation</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation></translation>
+        <translation>Экспорт изображения Weibo.</translation>
     </message>
     <message>
         <source>Open.content</source>
-        <translation></translation>
+        <translation>Открыть файл</translation>
     </message>
     <message>
         <source>ClipPage.content</source>
-        <translation></translation>
+        <translation>Уменьшение размера страницы</translation>
     </message>
     <message>
         <source>FillSignLine.title</source>
-        <translation></translation>
+        <translation>Линия</translation>
     </message>
     <message>
         <source>OCRExtractPageText.content</source>
-        <translation></translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>TextItalic.title</source>
-        <translation></translation>
+        <translation>TextItalic</translation>
     </message>
     <message>
         <source>Zoom Page.content</source>
-        <translation></translation>
+        <translation>Zoom Page</translation>
     </message>
     <message>
         <source>FileCollect.title</source>
-        <translation></translation>
+        <translation>Сбор файлов</translation>
     </message>
     <message>
         <source>FillSignCheck.title</source>
-        <translation></translation>
+        <translation>Отметить</translation>
     </message>
     <message>
         <source>AIOCR2PDF.content</source>
-        <translation></translation>
+        <translation>AIOCR2PDF</translation>
     </message>
     <message>
         <source>InsertPages.title</source>
-        <translation></translation>
+        <translation>Вставить страницы</translation>
     </message>
     <message>
         <source>GraffitiDraw.content</source>
-        <translation></translation>
+        <translation>Отображение случайного рисунка</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyExcel.title</source>
-        <translation></translation>
+        <translation>Копировать формы</translation>
     </message>
     <message>
         <source>DataRecover.title</source>
-        <translation></translation>
+        <translation>DataRecover</translation>
     </message>
     <message>
         <source>ActualSize.content</source>
-        <translation></translation>
+        <translation>Изменить масштаб страницы до фактического размера.</translation>
     </message>
     <message>
         <source>ExportHighlight.title</source>
-        <translation></translation>
+        <translation>Экспортировать выделенные фрагменты</translation>
     </message>
     <message>
         <source>InsertBlankPages.title</source>
-        <translation></translation>
+        <translation>Вставить пустые страницы</translation>
     </message>
     <message>
         <source>EyeShield.title</source>
-        <translation></translation>
+        <translation>Режим защиты глаз</translation>
     </message>
     <message>
         <source>NewImage2Bottom.content</source>
-        <translation></translation>
+        <translation>Переместить изображение вниз в конец</translation>
     </message>
     <message>
         <source>TranslationAll.title</source>
-        <translation></translation>
+        <translation>Полный перевод текста</translation>
     </message>
     <message>
         <source>PDFExtractPage.content</source>
-        <translation></translation>
+        <translation>Выберите страницу для создания нового файла PDF</translation>
     </message>
     <message>
         <source>Save.content</source>
-        <translation></translation>
+        <translation>Сохранить файл</translation>
     </message>
     <message>
         <source>EbookDoublePage.content</source>
-        <translation></translation>
+        <translation>Четные страницы</translation>
     </message>
     <message>
         <source>ActualSize.title</source>
-        <translation></translation>
+        <translation>Фактический размер</translation>
     </message>
     <message>
         <source>TBLineWidth.content</source>
-        <translation></translation>
+        <translation>Установите толщину контура для выбранного текста.</translation>
     </message>
     <message>
         <source>Line Width.title</source>
-        <translation></translation>
+        <translation>Ширина линии</translation>
     </message>
     <message>
         <source>PDFEditText.title</source>
-        <translation></translation>
+        <translation>Изменить текст</translation>
     </message>
     <message>
         <source>OcrExtractScrawl.content</source>
-        <translation></translation>
+        <translation>OcrExtractScrawl</translation>
     </message>
     <message>
         <source>GraffitiEraser.content</source>
-        <translation></translation>
+        <translation>Ластик</translation>
     </message>
     <message>
         <source>Quick_Clockwise.title</source>
-        <translation></translation>
+        <translation>Повернуть вправо</translation>
     </message>
     <message>
         <source>MagnifyIndentation.title</source>
-        <translation></translation>
+        <translation>MagnifyIndentation</translation>
     </message>
     <message>
         <source>NewImage2top.content</source>
-        <translation></translation>
+        <translation>Переместить изображение вверх в начало</translation>
     </message>
     <message>
         <source>GraffitiDraw.title</source>
-        <translation></translation>
+        <translation>Свободное рисование</translation>
     </message>
     <message>
         <source>GraffitiEraserPartType.content</source>
-        <translation></translation>
+        <translation>Стереть часть граффити</translation>
     </message>
     <message>
         <source>MenuHandTool.title</source>
-        <translation></translation>
+        <translation>Инструмент «рука»</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation></translation>
+        <translation>Центрирование текста в ячейке по горизонтали и по вертикали.</translation>
     </message>
     <message>
         <source>HideNavigationPannel.title</source>
-        <translation></translation>
+        <translation>Скрыть</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation></translation>
+        <translation>сжатие</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
-        <translation></translation>
+        <translation>Перейти вперед</translation>
     </message>
     <message>
         <source>Quick_Counterclockwise.title</source>
-        <translation></translation>
+        <translation>Повернуть влево</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectExit.title</source>
-        <translation></translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>FloatSelectionTool.title</source>
-        <translation></translation>
+        <translation>Инструмент выбора</translation>
     </message>
     <message>
         <source>ChangeBackGround.title</source>
-        <translation></translation>
+        <translation>Фон</translation>
     </message>
     <message>
         <source>RandomDraw.content</source>
-        <translation></translation>
+        <translation>Случайный чертеж</translation>
     </message>
     <message>
         <source>HighlightBorder.content</source>
-        <translation></translation>
+        <translation>Выделение текста.</translation>
     </message>
     <message>
         <source>ShowNavigationPannel.title</source>
-        <translation></translation>
+        <translation>Показать</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation></translation>
+        <translation>Подчеркивание</translation>
     </message>
     <message>
         <source>PDFAdsorptionEndpoint.content</source>
-        <translation></translation>
+        <translation>Привязка к конечным точкам</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation></translation>
+        <translation>Поиск текста в документе.
+
+Щёлкните стрелку для выбора других параметров, например &quot;Перейти&quot;.</translation>
     </message>
     <message>
         <source>RotateToTheLeft.content</source>
-        <translation></translation>
+        <translation>Повернуть на 90 градусов влево</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.content</source>
-        <translation></translation>
+        <translation>Привязка к средним точкам</translation>
     </message>
     <message>
         <source>PdfImageOpacity.content</source>
-        <translation></translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>FormatBrush.content</source>
-        <translation></translation>
+        <translation>FormatBrush</translation>
     </message>
     <message>
         <source>TextStrikethought.content</source>
-        <translation></translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>DataRecover.content</source>
-        <translation></translation>
+        <translation>DataRecover</translation>
     </message>
     <message>
         <source>CADTOPdf.title</source>
-        <translation></translation>
+        <translation>CADTOPdf</translation>
     </message>
     <message>
         <source>NoteBorder.title</source>
-        <translation></translation>
+        <translation>Примечание</translation>
     </message>
     <message>
         <source>AddImage.title</source>
-        <translation></translation>
+        <translation>Добавить рисунок</translation>
     </message>
     <message>
         <source>Bold.content</source>
-        <translation></translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation></translation>
+        <translation>Преобразование PDF-файлов в файлы Word.</translation>
     </message>
     <message>
         <source>ReadingMode.content</source>
-        <translation></translation>
+        <translation>Войти в режим чтения</translation>
     </message>
     <message>
         <source>m_LineSpacing.content</source>
-        <translation></translation>
+        <translation>Изменение расстояние между строками текста.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation></translation>
+        <translation>Преобразование PDF в Word</translation>
     </message>
     <message>
         <source>ShowNavigationPannel.content</source>
-        <translation></translation>
+        <translation>Показать</translation>
     </message>
     <message>
         <source>PageCorrectManualAdjust.content</source>
-        <translation></translation>
+        <translation>Исправить вручную</translation>
     </message>
     <message>
         <source>UpdateHeaderFooterTips.title</source>
-        <translation></translation>
+        <translation>UpdateHeaderFooterTips</translation>
     </message>
     <message>
         <source>ImageExtractTip.title</source>
-        <translation></translation>
+        <translation>ImageExtractTip</translation>
     </message>
     <message>
         <source>FloatZoomOut.content</source>
-        <translation></translation>
+        <translation>Увеличить страницу.</translation>
     </message>
     <message>
         <source>TwoPageContinuous.content</source>
-        <translation></translation>
+        <translation>Две страницы во весь экран</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation></translation>
+        <translation>CAD в PDF</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
-        <translation></translation>
+        <translation>Добавить зачеркивание.</translation>
     </message>
     <message>
         <source>ScreenGrab.content</source>
-        <translation></translation>
+        <translation>ScreenGrab</translation>
     </message>
     <message>
         <source>FormFillingDate.content</source>
-        <translation></translation>
+        <translation>Добавить дату</translation>
     </message>
     <message>
         <source>WaterMark.content</source>
-        <translation></translation>
+        <translation>Вставка прозрачного текста и изображения позади содержания на странице.
+
+Часто это используется для указания того, что документ содержит специальную информацию, например,  зашифрованные и конфиденциальные данные и запрет копирования, или для маркировки источника документа, например, добавлением логотипа авторского права и информации об авторе.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation></translation>
+        <translation>Исправление документа.</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.title</source>
-        <translation></translation>
+        <translation>Панель результатов измерения</translation>
     </message>
     <message>
         <source>EbookIncreaseFont.content</source>
-        <translation></translation>
+        <translation>Увеличить шрифт</translation>
     </message>
     <message>
         <source>PdfSignature.title</source>
-        <translation></translation>
+        <translation>подпись</translation>
     </message>
     <message>
         <source>FloatFitSize.title</source>
-        <translation></translation>
+        <translation>По размеру</translation>
     </message>
     <message>
         <source>Replace.content</source>
-        <translation></translation>
+        <translation>Замена содержимого текста в документе.</translation>
     </message>
     <message>
         <source>ShapeBorderColor.title</source>
-        <translation></translation>
+        <translation>Цвет рамки</translation>
     </message>
     <message>
         <source>TBLineWidth.title</source>
-        <translation></translation>
+        <translation>Ширина линии</translation>
     </message>
     <message>
         <source>FitHeight.title</source>
-        <translation></translation>
+        <translation>FitHeight</translation>
     </message>
     <message>
         <source>UnderlineAndAnnotation.content</source>
-        <translation></translation>
+        <translation>Подчеркнуть и добавить примечание</translation>
     </message>
     <message>
         <source>Print.content</source>
-        <translation></translation>
+        <translation>Печать файлов и создание подробных настроек для печати</translation>
     </message>
     <message>
         <source>FreeText.title</source>
-        <translation></translation>
+        <translation>Вставить текст</translation>
     </message>
     <message>
         <source>FloatNavigationBar.title</source>
-        <translation></translation>
+        <translation>Показать область навигации</translation>
     </message>
     <message>
         <source>PDFTOCad.title</source>
-        <translation></translation>
+        <translation>PDFTOCad</translation>
     </message>
     <message>
         <source>Recommended PictureToText.title</source>
-        <translation></translation>
+        <translation>Recommended PictureToText</translation>
     </message>
     <message>
         <source>HyperLink.content</source>
-        <translation></translation>
+        <translation>Ссылка</translation>
     </message>
     <message>
         <source>Photo2PDF.title</source>
-        <translation></translation>
+        <translation>Изображение в PDF</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation></translation>
+        <translation>Сделать текст похожим на выделенный цветным маркером.
+
+Щелкните стрелку для выбора цвета выделения.</translation>
     </message>
     <message>
         <source>FirstPage.title</source>
-        <translation></translation>
+        <translation>Первая страница</translation>
     </message>
     <message>
         <source>PageDelete.title</source>
-        <translation></translation>
+        <translation>Удаление страниц</translation>
     </message>
     <message>
         <source>ExportToPDF.content</source>
-        <translation></translation>
+        <translation>ExportToPDF</translation>
     </message>
     <message>
         <source>RotateToTheRight.content</source>
-        <translation></translation>
+        <translation>Повернуть на 90 градусов вправо</translation>
     </message>
 </context>
 </TS>
