@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation>Convert To Line Sparkline</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PrinterCopies.content</source>
