@@ -7,11 +7,11 @@
     </message>
     <message>
         <source>ResetLayout.title</source>
-        <translation>Reset Layout</translation>
+        <translation>Düzeni Sıfırla</translation>
     </message>
     <message>
         <source>ShapeLine.title</source>
-        <translation>Shape Outline</translation>
+        <translation>Şekil Ana Hattı</translation>
     </message>
     <message>
         <source>ShapeSize.title</source>
@@ -19,11 +19,11 @@
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları hızlı ve kolay bir şekilde düzenleyin.</translation>
     </message>
     <message>
         <source>AnimationSchemes.title</source>
-        <translation>Animation Schemes</translation>
+        <translation>Animasyon Düzenleri</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
@@ -169,7 +169,7 @@ Click the arrow to select a different alignment.</translation>
     </message>
     <message>
         <source>Rotate.content</source>
-        <translation>Rotate or flip the selected object.</translation>
+        <translation>Seçili nesneyi döndürün veya çevirin.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
@@ -429,7 +429,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Belgedeki bir sonraki yoruma gidin.</translation>
+        <translation>Belgedeki bir sonraki açıklamaya gidin.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.title</source>
@@ -689,7 +689,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>ShapeLine2.title</source>
-        <translation>Shape Outline</translation>
+        <translation>Şekil Ana Hattı</translation>
     </message>
     <message>
         <source>Media.title</source>
@@ -1689,11 +1689,11 @@ Click the arrow to insert file content into the document.</translation>
     </message>
     <message>
         <source>AnimationSchemes.content</source>
-        <translation>Show the Slide Design - Animation Schemes task window to set up transition and animation effects to the current slide or the entire presentation.</translation>
+        <translation>Geçerli slayta veya sununun tamamına geçiş ve animasyon efektleri ayarlamak için Slayt Tasarımı - Animasyon Düzenleri görev penceresini gösterin.</translation>
     </message>
     <message>
         <source>ResetLayout.content</source>
-        <translation>Reset to the default layout</translation>
+        <translation>Varsayılan düzene sıfırla</translation>
     </message>
     <message>
         <source>RewindAudio.content</source>
@@ -2211,7 +2211,7 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation>Sonraki Yorum</translation>
+        <translation>Sonraki Açıklama</translation>
     </message>
     <message>
         <source>Superscript2.content</source>
