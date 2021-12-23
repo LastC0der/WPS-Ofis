@@ -21033,7 +21033,7 @@ Check path and filename.</source>
     <name>tpropertydlg</name>
     <message>
         <source>N&amp;o</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hayır</translation>
     </message>
     <message>
         <source>Destination</source>
