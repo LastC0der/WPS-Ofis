@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation>Convert To Line Sparkline</translation>
+        <translation>Convertir en graphique sparkline Ligne</translation>
     </message>
     <message>
         <source>PrinterCopies.content</source>
