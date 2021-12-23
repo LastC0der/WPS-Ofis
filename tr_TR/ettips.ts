@@ -534,17 +534,17 @@ Sütundaki yeni veya değiştirilmiş veriler, siz Yeniden Uygula&apos;yı tıkl
     </message>
     <message>
         <source>InsertPictureFromFile2.content</source>
-        <translation>Yerel klasöre veya tarayıcıdan bir resim eklemek için buraya tıklayın.</translation>
+        <translation>Yerel bir klasörden veya tarayıcıdan resim eklemek için burayı tıklayın.</translation>
     </message>
     <message>
         <source>SparklineUnGroup.title</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Mini Grafiklerin Grubunu Çöz</translation>
     </message>
     <message>
         <source>TotalRow.content</source>
         <translation>Tablonun toplam satırını açın veya kapatın.
 
-Toplam satır, tablonun sonunda her sütun için toplamları gösteren bir satırdır.</translation>
+Toplam satırı, tablonun en sonunda yer alan ve her sütunun toplamını görüntüleyen satırdır.</translation>
     </message>
     <message>
         <source>RemoveDuplicates.title</source>
@@ -564,15 +564,15 @@ Toplam satır, tablonun sonunda her sütun için toplamları gösteren bir satı
     </message>
     <message>
         <source>SparklineFirstPoint.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili mini grafik grubundaki ilk veri noktasını vurgulayın.</translation>
     </message>
     <message>
         <source>BottomBorder.title</source>
-        <translation>Kalın Alt Kenarlık</translation>
+        <translation>Alt Kenarlık</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Hücre biçimlendirme ayarlarını değiştirin.</translation>
+        <translation>Yazı tipi, paragraf ve stil ve biçimlendirme ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
@@ -582,11 +582,11 @@ Toplam satır, tablonun sonunda her sütun için toplamları gösteren bir satı
         <source>Align.content</source>
         <translation>Seçilen birden çok nesnenin kenarlarını hizalayın.
 
-Bunları ortalayabilir veya sayfa boyunca eşit olarak dağıtabilirsiniz.</translation>
+Ayrıca bunları ortalayabilir veya sayfa boyunca eşit olarak dağıtabilirsiniz.</translation>
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation>Yalnızca değerleri yapıştırma gibi daha fazla seçenek için burayı tıklayın.</translation>
+        <translation>Yalnızca biçimlendirilmemiş metni yapıştırma gibi daha fazla seçenek için burayı tıklayın.</translation>
     </message>
     <message>
         <source>PrintArea.content</source>
@@ -598,7 +598,7 @@ Bunları ortalayabilir veya sayfa boyunca eşit olarak dağıtabilirsiniz.</tran
     </message>
     <message>
         <source>Currency.content</source>
-        <translation>Seçilen hücre için alternatif bir para birimi biçimi seçin.
+        <translation>Seçili hücre için alternatif bir para birimi biçimi seçin.
 
 Örneğin, Dolar yerine Euro&apos;yu seçin.</translation>
     </message>
@@ -614,7 +614,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
-        <translation>Grafik Dolgu</translation>
+        <translation>Grafiği Doldur</translation>
     </message>
     <message>
         <source>ShowAllComments.title</source>
@@ -622,23 +622,23 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>Margins.content</source>
-        <translation>Tüm belge veya geçerli bölüm için kenar boşluğu boyutlarını seçin.</translation>
+        <translation>Belgenin tamamı veya geçerli bölüm için kenar boşluğu boyutlarını seçin.</translation>
     </message>
     <message>
         <source>PivotTable.title</source>
-        <translation>Özet Tabloyu Değiştir</translation>
+        <translation>Özet Tabloyu Ekle</translation>
     </message>
     <message>
         <source>PTHide.content</source>
-        <translation>Özet Tablo alanlarını sayfa, satır, sütun alanı veya alanlardaki öğeler içinde gizleyin.</translation>
+        <translation>Sayfa, satır veya sütun alanındaki Özet Tablo alanlarını veya alanlardaki öğeleri gizleyin.</translation>
     </message>
     <message>
         <source>PrintNormalView.content</source>
-        <translation>Baskı önizlemeden çıkın ve normal görünüme geçin.</translation>
+        <translation>Baskı önizlemeden çıkın ve ardından normal görünüme girin.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.title</source>
-        <translation>Mevcut yorumu sıfırla.</translation>
+        <translation>Mevcut yorumu sıfırlayın.</translation>
     </message>
     <message>
         <source>FontColor.title</source>
@@ -646,7 +646,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation>Eş Anlamlılar Sözlüğü&apos;nu aç.</translation>
+        <translation>Seçtiğiniz kelimeye benzer anlama sahip başka kelimeler önerir.</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.title</source>
@@ -654,7 +654,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>PrinterCollate.content</source>
-        <translation>Yazdırılan belgenin harmanlanıp harmanlanmayacağını belirtin.</translation>
+        <translation>Yazdırma sırasını belirtin; harmanla (ör., 123123) veya sayfaları yazdırarak (ör., 112233).</translation>
     </message>
     <message>
         <source>NumberFormatCells.title</source>
@@ -662,7 +662,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>TextToColumns.title</source>
-        <translation>Metni Sütunlara</translation>
+        <translation> Metni Sütunlara Dönüştür</translation>
     </message>
     <message>
         <source>Slicer.title</source>
@@ -674,7 +674,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>OnlineCooperation.content</source>
-        <translation>Çok kullanıcılı ortak düzenleme için belgeyi Web Ofis ile açın.</translation>
+        <translation>Belgeyi ortak düzenleme için açın.</translation>
     </message>
     <message>
         <source>PTHide.title</source>
@@ -694,27 +694,27 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>PDFToPPT.content</source>
-        <translation>Belgeleri PPT dosyalarına dönüştür</translation>
+        <translation>Belgeleri PPT dosyalarına dönüştürün</translation>
     </message>
     <message>
         <source>ShowAllComments.content</source>
-        <translation>Sayfadaki tüm yorumları görüntüle.</translation>
+        <translation>Sayfadaki tüm yorumları görüntüleyin.</translation>
     </message>
     <message>
         <source>LTRTextDirection.title</source>
-        <translation>Left-to-Right Text Direction</translation>
+        <translation>Soldan Sağa Metin Yönü</translation>
     </message>
     <message>
         <source>RTLTextDirection.title</source>
-        <translation>Right-to-Left Text Direction</translation>
+        <translation>Sağdan Sola Metin Yönü</translation>
     </message>
     <message>
         <source>AutoSum.content</source>
-        <translation>Seçilen hücrelerin toplamını, seçilen hücrelerin hemen ardından görüntüleyin.</translation>
+        <translation>Seçilen hücrelerin toplamını, seçilen hücrelerden hemen sonra görüntüleyin.</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.title</source>
-        <translation>Çizim Araçları Ayrıntılı Ayarları</translation>
+        <translation>Çizim Araçları Ayrıntılı Ayarlar</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
@@ -722,7 +722,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation type="unfinished"/>
+        <translation>Belge içeriğinin kaybolmasını önlemek için değiştirilen belge  otomatik olarak kaydedilir.</translation>
     </message>
     <message>
         <source>VerbSideBySide.title</source>
