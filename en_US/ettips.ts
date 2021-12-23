@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation type="unfinished"/>
+        <translation>Convert To Line Sparkline</translation>
     </message>
     <message>
         <source>PrinterCopies.content</source>
@@ -216,7 +216,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     </message>
     <message>
         <source>LineSparkline.content</source>
-        <translation type="unfinished"/>
+        <translation>Sparklines are mini charts placed in single cells, each representing a row of data in your selection.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.title</source>
@@ -240,7 +240,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     </message>
     <message>
         <source>SparklineMarkers.title</source>
-        <translation type="unfinished"/>
+        <translation>Toggle Sparkline Markers</translation>
     </message>
     <message>
         <source>SlicerItemWidth.title</source>
@@ -302,7 +302,7 @@ Click the arrow to select different underlining styles.</translation>
     </message>
     <message>
         <source>SparklineGroup.title</source>
-        <translation type="unfinished"/>
+        <translation>Group Selected Sparklines</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.content</source>
@@ -376,7 +376,7 @@ Workbooks containing tables cannot be shared.</translation>
     </message>
     <message>
         <source>ImportTxt.content</source>
-        <translation type="unfinished"/>
+        <translation>Import data from a text file.</translation>
     </message>
     <message>
         <source>PTShowDetail.title</source>
@@ -384,7 +384,7 @@ Workbooks containing tables cannot be shared.</translation>
     </message>
     <message>
         <source>SparklineUnGroup.content</source>
-        <translation type="unfinished"/>
+        <translation>Break a set of grouped sparklines into individual sparklines.</translation>
     </message>
     <message>
         <source>RelativeReference.title</source>
@@ -472,7 +472,7 @@ Workbooks containing tables cannot be shared.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.title</source>
-        <translation type="unfinished"/>
+        <translation>Convert To Column Sparkline</translation>
     </message>
     <message>
         <source>sp_Paste.title</source>
