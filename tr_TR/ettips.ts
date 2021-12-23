@@ -23,7 +23,7 @@
     </message>
     <message>
         <source>Translate Image.content</source>
-        <translation>Resimdeki metin içeriğini hızlıca çevirin (yalnızca Çince-İngilizce çeviri desteklenmektedir)</translation>
+        <translation>Görüntüdeki metin içeriğini hızlıca çevirin (yalnızca Çince-İngilizce çeviri desteklenmektedir)</translation>
     </message>
     <message>
         <source>PrintLayout.title</source>
@@ -51,11 +51,11 @@
     </message>
     <message>
         <source>GrowFont.title</source>
-        <translation>Yazı Tipi Boyutunu Büyült</translation>
+        <translation>Yazı Tipini Büyüt</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.content</source>
-        <translation>Farklı süzgeç koşulları ile, özetlenen verilerin zaman içindeki değişimlerini gözlemleyin.</translation>
+        <translation>Farklı filtre koşulları olduğunda, özetlenen verilerin zaman içindeki değişikliklerini gözlemleyin.</translation>
     </message>
     <message>
         <source>TopAndBottomBorder.content</source>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları hızlı ve kolay bir şekilde düzenleyin.</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Yazdırılan çıktının genişliğini veya yüksekliğini, maksimum sayıda sayfaya sığacak şekilde veya gerçek boyutunun yüzdesine göre ölçeklendirin.</translation>
+        <translation>Belgenin yakınlaştırma düzeyini belirtmek için Yakınlaştır iletişim kutusunu görüntüleyin.</translation>
     </message>
     <message>
         <source>WorkSheet.title</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>ClearFilter.content</source>
-        <translation>Geçerli veri aralığı için süzgeci ve sıralama durumunu temizleyin.</translation>
+        <translation>Geçerli veri aralığı için filtreyi ve sıralama durumunu temizleyin.</translation>
     </message>
     <message>
         <source>PTSubtotals.title</source>
@@ -91,15 +91,15 @@
     </message>
     <message>
         <source>PrinterMoreSetup.title</source>
-        <translation>Diğer Yazıcı Ayarları</translation>
+        <translation>Diğer Ayarlar</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation>Sayfa Yakınlaştır</translation>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation>Doğrudan Yazdır</translation>
+        <translation>Hızlı Yazdır</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.content</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Mini Grafiğine Dönüştür</translation>
     </message>
     <message>
         <source>PrinterCopies.content</source>
@@ -115,11 +115,11 @@
     </message>
     <message>
         <source>PercentStyle.content</source>
-        <translation>Hücrenin değerini yüzde olarak görüntüler.</translation>
+        <translation>Hücrenin değerini yüzde olarak görüntüleyin.</translation>
     </message>
     <message>
         <source>CustomViews.content</source>
-        <translation>Geçerli ekran ve yazdırma ayarlarınızı, ileride hızlı bir şekilde uygulayabileceğiniz özel bir görünüm olarak kaydedin.</translation>
+        <translation>Geçerli görüntü ve yazdırma ayarlarınızı, daha sonra hızla uygulayabileceğiniz özel bir görünüm olarak kaydedin.</translation>
     </message>
     <message>
         <source>InsertFunction.content</source>
@@ -159,12 +159,11 @@
     </message>
     <message>
         <source>ShowPrecedents.content</source>
-        <translation>Seçili hücrenin değerini hangi hücrelerin etkilediğini gösteren okları göster.</translation>
+        <translation>Şu anda seçili olan hücrenin değerini hangi hücrelerin etkilediğini gösteren okları görüntüleyin.</translation>
     </message>
     <message>
         <source>What-If%20Analysis.content</source>
         <translation>Hedef Arama, istediğiniz sonucu bildiğinizde doğru girişi bulur.
-
 Ne-Eğer Analiz aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdeki değerleri değiştirerek hedef hücrenin en uygun değerini bulur.</translation>
     </message>
     <message>
@@ -181,15 +180,15 @@ Ne-Eğer Analiz aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdek
     </message>
     <message>
         <source>StopRecordMacro.title</source>
-        <translation>Kaydetmeyi Durdur</translation>
+        <translation>Kaydı Durdur</translation>
     </message>
     <message>
         <source>AllowEditRanges.title</source>
-        <translation>Aralıkların Düzenlenmesine İzin Ver</translation>
+        <translation>Kullanıcıların Aralıkları Düzenlemesine İzin Ver</translation>
     </message>
     <message>
         <source>Subtotals.content</source>
-        <translation>Alt toplamları göster veya gizle.</translation>
+        <translation>Seçili hücreler için alt toplamları ve toplamları otomatik olarak ekleyerek birkaç ilgili veri satırını bir araya toplayın.</translation>
     </message>
     <message>
         <source>DetailedSettings_Layout.title</source>
@@ -205,7 +204,7 @@ Ne-Eğer Analiz aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdek
     </message>
     <message>
         <source>AddFavorite.title</source>
-        <translation>Süzgeç Koşullarını Sık Kullanılanlara Ekle</translation>
+        <translation>Filtre Koşullarını Sık Kullanılanlara Ekle</translation>
     </message>
     <message>
         <source>m_Format.content</source>
@@ -217,11 +216,11 @@ Ne-Eğer Analiz aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdek
     </message>
     <message>
         <source>LineSparkline.content</source>
-        <translation type="unfinished"/>
+        <translation>Mini grafikler tek tek hücrelere yerleştirilen küçük grafiklerdir; her biri seçiminizdeki bir veri satırını temsil eder.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.title</source>
-        <translation>Belirli bir ölçüt kümesini karşılayan hücreleri kolayca tespit edin.</translation>
+        <translation>Yardım</translation>
     </message>
     <message>
         <source>BandedRows.title</source>
@@ -233,15 +232,15 @@ Ne-Eğer Analiz aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdek
     </message>
     <message>
         <source>NoBorder.content</source>
-        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
+        <translation>Seçili durumdaki hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>BottomDoubleBorder.content</source>
-        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
+        <translation>Seçili durumdaki hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>SparklineMarkers.title</source>
-        <translation type="unfinished"/>
+        <translation>Mini Grafik İşaretçilerini Aç/Kapat</translation>
     </message>
     <message>
         <source>SlicerItemWidth.title</source>
@@ -253,7 +252,7 @@ Ne-Eğer Analiz aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdek
     </message>
     <message>
         <source>RecentLineWrap.content</source>
-        <translation>Birden çok satırda görüntüleyerek hücre içindeki tüm içeriği görünür hale getirin.</translation>
+        <translation>Hücre içindeki tüm içeriği birden çok satırda görüntüleyerek görünür hale getirin.</translation>
     </message>
     <message>
         <source>PageSetup.title</source>
@@ -285,7 +284,9 @@ Ne-Eğer Analiz aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdek
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Seçili metnin altını çizin.</translation>
+        <translation>Seçili metnin altını çizin.
+
+Farklı alt çizgi stilleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>sp_Paste2.title</source>
@@ -301,11 +302,11 @@ Ne-Eğer Analiz aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdek
     </message>
     <message>
         <source>SparklineGroup.title</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Mini Grafikleri Gruplandır</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.content</source>
-        <translation type="unfinished"/>
+        <translation>Verileri hücreye çıkart.</translation>
     </message>
     <message>
         <source>Min.title</source>
@@ -327,7 +328,7 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle&apos;yi açın.</trans
     </message>
     <message>
         <source>ShowDependents.title</source>
-        <translation>Etkilenenleri İzle</translation>
+        <translation>Etkilenenleri İzle.</translation>
     </message>
     <message>
         <source>ShowDetail.content</source>
@@ -339,7 +340,7 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle&apos;yi açın.</trans
     </message>
     <message>
         <source>MergeCenter2.content</source>
-        <translation>Seçilen hücreleri daha büyük bir hücreye birleştirir ve içeriği yeni hücrede ortalar.</translation>
+        <translation>Seçili hücreleri daha büyük bir hücrede birleştirir ve içeriği yeni hücrede ortalar.</translation>
     </message>
     <message>
         <source>ShareWorkbook.content</source>
@@ -363,7 +364,7 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation>Seçilen resmin boyutundaki tüm değişiklikleri sıfırla.</translation>
+        <translation>Seçilen resmin boyutundaki tüm değişiklikleri sıfırlayın.</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
@@ -371,11 +372,11 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>VAlignTop.title</source>
-        <translation>Üst Hizalama</translation>
+        <translation>Üste Hizala</translation>
     </message>
     <message>
         <source>ImportTxt.content</source>
-        <translation type="unfinished"/>
+        <translation>Metin dosyasından veri içeri aktarın.</translation>
     </message>
     <message>
         <source>PTShowDetail.title</source>
@@ -383,7 +384,7 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>SparklineUnGroup.content</source>
-        <translation type="unfinished"/>
+        <translation>Gruplandırılmış bir mini grafik kümesini tek tek mini grafiklere ayırın.</translation>
     </message>
     <message>
         <source>RelativeReference.title</source>
@@ -391,7 +392,7 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>Chart.content</source>
-        <translation>Eklenecek çizelge türü gibi seçenekleri görüntülemek için Çizelge Türü iletişim kutusunu gösterin.</translation>
+        <translation>Eklenecek grafik türü gibi seçenekleri görüntülemek için Grafik Türü iletişim kutusunu gösterin.</translation>
     </message>
     <message>
         <source>WindowReset.title</source>
@@ -403,7 +404,7 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation>Önceki Yorum</translation>
+        <translation>Önceki Açıklama</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
@@ -415,11 +416,11 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>PivotChart.title</source>
-        <translation>Özet Çizelge</translation>
+        <translation>Özet Grafik</translation>
     </message>
     <message>
         <source>MergeCenter.content</source>
-        <translation>Seçilen hücreleri daha büyük bir hücreye birleştirir ve içeriği yeni hücrede ortalar.</translation>
+        <translation>Seçili hücreleri daha büyük bir hücrede birleştirir ve içeriği yeni hücrede ortalar.</translation>
     </message>
     <message>
         <source>PageSetup.content</source>
@@ -427,15 +428,15 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>ColumnsCenter.content</source>
-        <translation>Bir veya birden çok satırda sürekli hücreler seçin, hücrelerin içeriğini merkeze ayarlayın.</translation>
+        <translation>Bir veya birden çok satırda sürekli hücreleri seçin, hücrelerin içeriğini merkeze ayarlayın.</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation>Geliştirme Araçları İçeriği</translation>
+        <translation>Seçenek Düğmesini, Onay Kutusunu ve daha fazlasını eklemek için Geliştirici Araçları sekmesini açın.</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation>Belirli bir kavramı göstermek için çizim, film, ses veya stok fotoğrafçılığı da dahil olmak üzere çalışma sayfasına Küçük Resim ekleyin.</translation>
+        <translation>Görev penceresinden bir Küçük Resim seçin ve belgeye ekleyin.</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
@@ -443,7 +444,7 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation>Seçilen yorumu düzenle.</translation>
+        <translation>Açıklamayı düzenleyin.</translation>
     </message>
     <message>
         <source>WorkSheet.content</source>
@@ -455,11 +456,11 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
-        <translation>Belgeleri Excel dosyalarına dönüştür</translation>
+        <translation>PDF dosyalarını Excel dosyalarına dönüştürün</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation>Çizgiler, dikdörtgenler, akış çizelgesi sembolleri ve belirtme çizgileri gibi hazır şekiller ekleyin.</translation>
+        <translation>Dikdörtgenler ve daireler, oklar, çizgiler, akış çizelgesi sembolleri ve belirtme çizgileri gibi hazır şekiller ekleyin.</translation>
     </message>
     <message>
         <source>CharacterSpacing.content</source>
@@ -467,11 +468,11 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>AlignJustify.content</source>
-        <translation>Metni, sol ve sağ kenar boşluklarına hizalayın, kelimeler arasında gerektiği kadar boşluk ekleyin.</translation>
+        <translation>Gerekirse sözcüklerin arasına fazladan boşluk ekleyerek metni hem sol hem de sağ kenar boşluklarına hizalayın.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.title</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Mini Grafiğine Dönüştür</translation>
     </message>
     <message>
         <source>sp_Paste.title</source>
@@ -489,15 +490,15 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
         <source>DisplayHeadings.content</source>
         <translation>Satır ve sütun başlıklarını göster.
 
-Satır başlıkları, sayfanın kenarındaki satır numaralarıdır.
+Satır başlıkları, sayfanın yan tarafındaki satır numaralarıdır.
 
-Sütun başlıkları, sayfadaki sütunların üzerinde görünen harfler veya sayılardır.</translation>
+Sütun başlıkları sayfada sütunların üstünde görünen harfler veya numaralardır.</translation>
     </message>
     <message>
         <source>ReapplyFilter.content</source>
-        <translation>Süzgeci yeniden uygulayın ve geçerli aralıkta sıralayın.
+        <translation>Filtreyi yeniden uygulayın ve geçerli aralıkta sıralayın.
 
-Sütunda yer alan yeni veya değiştirilmiş veriler, Yeniden Uygula&apos;yı tıklayana kadar süzülemez veya sıralanmaz.</translation>
+Sütundaki yeni veya değiştirilmiş veriler, siz Yeniden Uygula&apos;yı tıklayana kadar filtrelenmez veya sıralanmaz.</translation>
     </message>
     <message>
         <source>HideDetail.content</source>
@@ -505,15 +506,15 @@ Sütunda yer alan yeni veya değiştirilmiş veriler, Yeniden Uygula&apos;yı t�
     </message>
     <message>
         <source>AdvancedFilter.content</source>
-        <translation>Hangi kayıtların bir sorgunun sonuç kümesine dahil edileceğini sınırlandırmak için karmaşık ölçütler belirtin.</translation>
+        <translation>Sorgunun sonuç kümesine hangi kayıtların dahil edileceğini sınırlamak için karmaşık ölçütler belirtin.</translation>
     </message>
     <message>
         <source>ImportTxt.title</source>
-        <translation type="unfinished"/>
+        <translation>Metinden Veri Al</translation>
     </message>
     <message>
         <source>sp_Copy.title</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>Consolidate.title</source>
@@ -529,7 +530,7 @@ Sütunda yer alan yeni veya değiştirilmiş veriler, Yeniden Uygula&apos;yı t�
     </message>
     <message>
         <source>DoubleAccounting.content</source>
-        <translation type="unfinished"/>
+        <translation>Muhasebe için çift alt çizgi uygulayın.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.content</source>
@@ -609,7 +610,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Belgedeki bir sonraki yoruma gidin.</translation>
+        <translation>Belgedeki bir sonraki açıklamaya gidin.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
@@ -2676,7 +2677,7 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation>Sonraki Yorum</translation>
+        <translation>Sonraki Açıklama</translation>
     </message>
     <message>
         <source>ReadingLayout2.content</source>
@@ -2850,7 +2851,7 @@ Yinelenen bilgiler için hangi sütunların kontrol edileceğini seçebilirsiniz
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation>Sayfadaki önceki yorumu seçin.</translation>
+        <translation>Sayfadaki önceki açıklamayı seçin.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
