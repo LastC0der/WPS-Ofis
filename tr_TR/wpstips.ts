@@ -79,7 +79,7 @@ The selected level and all higher levels will be visible.</translation>
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları hızlı ve kolay bir şekilde düzenleyin.</translation>
     </message>
     <message>
         <source>ProofreadOfficial.title</source>
@@ -285,7 +285,7 @@ Click the arrow to select different background colors.</translation>
     </message>
     <message>
         <source>m_Rotate.content</source>
-        <translation>Rotate or flip the selected object.</translation>
+        <translation>Seçili nesneyi döndürün veya çevirin.</translation>
     </message>
     <message>
         <source>FirstRecord.content</source>
@@ -471,7 +471,7 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle&apos;yi açın.</trans
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation>Önceki Yorum</translation>
+        <translation>Önceki Açıklama</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
@@ -715,7 +715,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Belgedeki bir sonraki yoruma gidin.</translation>
+        <translation>Belgedeki bir sonraki açıklamaya gidin.</translation>
     </message>
     <message>
         <source>ControlsGalleryClassic.content</source>
@@ -3229,7 +3229,7 @@ All of the text will be placed in the selected text box.</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation>Sonraki Yorum</translation>
+        <translation>Sonraki Açıklama</translation>
     </message>
     <message>
         <source>PreviousTextBox.title</source>
@@ -3503,7 +3503,7 @@ Click the arrow to add a strikethrough.</translation>
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation>Sayfadaki önceki yorumu seçin.</translation>
+        <translation>Sayfadaki önceki açıklamayı seçin.</translation>
     </message>
     <message>
         <source>Chinese%20Translation.title</source>
