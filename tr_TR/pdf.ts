@@ -1095,7 +1095,7 @@
     </message>
     <message>
         <source>Reply to current comment</source>
-        <translation>Geçerli Yorumu Yanıtla</translation>
+        <translation>Geçerli Açıklamayı Yanıtla</translation>
     </message>
     <message>
         <source>Add a comment...</source>
