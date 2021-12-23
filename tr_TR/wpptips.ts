@@ -553,7 +553,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation type="unfinished"/>
+        <translation>Belge içeriğinin kaybolmasını önlemek için değiştirilen belge  otomatik olarak kaydedilir.</translation>
     </message>
     <message>
         <source>DistRowSevenly.title</source>
