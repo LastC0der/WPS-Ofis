@@ -538,7 +538,7 @@ New or modified data in the column will not be filtered or sorted until you clic
     </message>
     <message>
         <source>SparklineUnGroup.title</source>
-        <translation type="unfinished"/>
+        <translation>Ungroup Selected Sparklines</translation>
     </message>
     <message>
         <source>TotalRow.content</source>
