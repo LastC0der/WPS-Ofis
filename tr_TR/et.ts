@@ -3911,7 +3911,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     <message>
         <source>Min</source>
         <comment>TX_SUBTOTAL_MIN</comment>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Grand Total</source>
@@ -3992,7 +3992,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     <message>
         <source>Max</source>
         <comment>TX_SUBTOTAL_MAX</comment>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -4166,7 +4166,7 @@ Bunun nedenleri şunları içerebilir:
     <message>
         <source>Min</source>
         <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_MIN</comment>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Switch Direction fail, series Count not fit chartType.</source>
@@ -4223,7 +4223,7 @@ Bunun nedenleri şunları içerebilir:
     <message>
         <source>Max</source>
         <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_MAX</comment>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Bracket doesn&apos;t match.</source>
@@ -4766,7 +4766,7 @@ WPS Elektronik Tablolar&apos;ın aynı örneğinde düzenleyip yeniden yerleşti
     <message>
         <source>Max</source>
         <comment>TX_PIVOT_SUBTOTAL_MAX</comment>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>The data will not be saved with other pivot tables that share the same source data with this PivotTable.</source>
@@ -4814,7 +4814,7 @@ WPS Elektronik Tablolar&apos;ın aynı örneğinde düzenleyip yeniden yerleşti
     <message>
         <source>Min</source>
         <comment>TX_PIVOT_SUBTOTAL_MIN</comment>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Dialog Title</source>
@@ -12852,11 +12852,11 @@ Denetimi</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Tab</source>
@@ -16885,11 +16885,11 @@ Uyarı: İkinci işlenen sayıyı metin olarak sorgularsa, hem başına hem de s
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -18306,11 +18306,11 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -26209,11 +26209,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -29497,11 +29497,11 @@ Açık/Kapalı</translation>
     <name>KxConsolidateDlg</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -29560,11 +29560,11 @@ Açık/Kapalı</translation>
     <name>KxDlgSubTotal</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -29651,11 +29651,11 @@ Açık/Kapalı</translation>
     <name>KxPivotTableFieldSettingDlg</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -29770,7 +29770,7 @@ Açık/Kapalı</translation>
     <name>KxPivotTableOptionsDlg</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>None</source>
@@ -29821,11 +29821,11 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     <name>KxTotalsList</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -29864,11 +29864,11 @@ Alan onay kutusundaki tüm metni temizlerseniz ve Tamam&apos;ı tıklarsanız, b
     <name>classics.standard</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -54800,11 +54800,11 @@ Düzenle</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -55499,11 +55499,11 @@ Ortala</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
