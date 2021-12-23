@@ -7761,11 +7761,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>MAX</source>
-        <translation type="unfinished"/>
+        <translation>MAKS</translation>
     </message>
     <message>
         <source>MIN</source>
-        <translation type="unfinished"/>
+        <translation>MIN</translation>
     </message>
     <message>
         <source>MOD</source>
@@ -14839,11 +14839,11 @@ Değiştir</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Row</source>
@@ -24215,11 +24215,11 @@ Açık/Kapalı</translation>
     <name>classics.standard</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -24379,11 +24379,11 @@ Aktar</translation>
     <name>classics.tables_and_borders</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -24527,11 +24527,11 @@ Aktar</translation>
     <name>ongmani.ct_tabletools</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -49649,11 +49649,11 @@ Efektler</translation>
     <name>rainbow.ct_tabletools</name>
     <message>
         <source>Max</source>
-        <translation type="unfinished"/>
+        <translation>Maks</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Sum</source>
