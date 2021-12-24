@@ -164,7 +164,7 @@
     <message>
         <source>What-If%20Analysis.content</source>
         <translation>Hedef Arama, istediğiniz sonucu bildiğinizde doğru girişi bulur.
-Ne-Eğer Analiz aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdeki değerleri değiştirerek hedef hücrenin en uygun değerini bulur.</translation>
+Durum Çözümleme aracı, hedef hücreyi hesaplamak için kullanılan hücrelerdeki değerleri değiştirerek hedef hücrenin en uygun değerini bulur.</translation>
     </message>
     <message>
         <source>FuncCatText.title</source>
@@ -742,23 +742,23 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>CmpSideBySide.content</source>
-        <translation>İçeriklerini karşılaştırmak için iki belgeyi yan yana görüntüleyin.</translation>
+        <translation>Belgeler arasında geçiş yapmak yerine, onları yan yana görüntüleyin. Onları karşılaştırmayı kolaylaştırır.</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.content</source>
-        <translation>Hücreleri Biçimlendir iletişim kutusunun Hizalama sekmesini göster.</translation>
+        <translation>Hücreleri Biçimlendir iletişim kutusunun Hizalama sekmesini gösterin.</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.title</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç/Kayıp Mini Grafiğine Dönüştür</translation>
     </message>
     <message>
         <source>GrowFont.content</source>
-        <translation>Yazı tipi boyutunu arttırın.</translation>
+        <translation>Yazı tipi boyutunu artırın.</translation>
     </message>
     <message>
         <source>Legend.content</source>
-        <translation>Çizelge göstergesini gösterin veya gizleyin.</translation>
+        <translation>Grafik göstergesini gösterin veya gizleyin.</translation>
     </message>
     <message>
         <source>TextFill.title</source>
@@ -770,7 +770,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>DoubleUnderline.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili metnin altını çift çizin.</translation>
     </message>
     <message>
         <source>PTHideDetail.title</source>
@@ -782,7 +782,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation>Seçim hakkında çalışma sayfasına bir yorum ekleyin.</translation>
+        <translation>Belgeye seçim hakkında bir açıklama ekleyin.</translation>
     </message>
     <message>
         <source>FormatAsTable.title</source>
@@ -790,7 +790,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>PTRepeatLabels.content</source>
-        <translation>Tüm üst öğe etiketlerini göster.</translation>
+        <translation>Tüm üst öğe etiketlerini gösterin.</translation>
     </message>
     <message>
         <source>NormalViewEt.title</source>
@@ -802,21 +802,21 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>TaskWindow.content</source>
-        <translation>Çalışma sayfasındaki görev penceresini göster veya gizle.</translation>
+        <translation>Çalışma sayfasında görev penceresini gösterin veya gizleyin.</translation>
     </message>
     <message>
         <source>DrawGrid.content</source>
-        <translation>Kenarlık kılavuzu çizmek için, buraya tıklayın ve çizmek için fareyi sürükleyin.
+        <translation>Kenarlık ızgarası çizmek için buraya tıklayın ve çizmek için fareyi sürükleyin. 
 
-Çizim modundan çıkmak için klavyede Esc tuşuna basın veya buraya tekrar tıklayın.</translation>
+Çizim modundan çıkmak için klavyede Esc tuşuna basın veya tekrar buraya tıklayın.</translation>
     </message>
     <message>
         <source>ShowFormulas.content</source>
-        <translation>Formülü, ortaya çıkan değer yerine her hücrede görüntüleyin.</translation>
+        <translation>Sonuç değeri yerine her hücredeki formülü görüntüleyin.</translation>
     </message>
     <message>
         <source>sp_ConditionHighlight.title</source>
-        <translation>Koşullu Vurgulama</translation>
+        <translation>Koşul Vurgusu</translation>
     </message>
     <message>
         <source>OutlineSettings.title</source>
@@ -824,7 +824,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>StopRecordMacro.content</source>
-        <translation>Makro kaydetmeyi durdurun.</translation>
+        <translation>Makro kaydını durdurun.</translation>
     </message>
     <message>
         <source>ClearFilter.title</source>
@@ -833,6 +833,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     <message>
         <source>RecalculateBook.content</source>
         <translation>Tüm çalışma kitabını şimdi hesaplayın.
+
 Bu, yalnızca otomatik hesaplama kapatılmışsa gereklidir.</translation>
     </message>
     <message>
@@ -841,19 +842,19 @@ Bu, yalnızca otomatik hesaplama kapatılmışsa gereklidir.</translation>
     </message>
     <message>
         <source>SparklineLowPoint.title</source>
-        <translation type="unfinished"/>
+        <translation>Mini Grafik Düşük Noktalarını Aç/Kapat</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili mini grafik grubunu bir kazanç/kayıp mini grafiğine dönüştürün.</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation>Sil</translation>
+        <translation>Açıklamayı Sil</translation>
     </message>
     <message>
         <source>PrintTitle.title</source>
-        <translation>Başlık veya Üstbilgi Yazdır</translation>
+        <translation>Başlık veya Üstbilgileri Yazdır</translation>
     </message>
     <message>
         <source>PrintArea.title</source>
@@ -861,7 +862,7 @@ Bu, yalnızca otomatik hesaplama kapatılmışsa gereklidir.</translation>
     </message>
     <message>
         <source>ConditionalFormatting.content</source>
-        <translation>Önemli değerleri görsel olarak vurgulamak için çubuk, renk ve simgeleri kullanarak verilerinizdeki eğilimleri ve desenleri kolayca bulun.</translation>
+        <translation>Önemli değerleri görsel olarak vurgulamak üzere çubukları, renkleri ve simgeleri kullanarak verilerinizdeki eğilimleri ve desenleri kolayca belirleyin.</translation>
     </message>
     <message>
         <source>TableMenuRefresh.content</source>
@@ -873,7 +874,7 @@ Bu, yalnızca otomatik hesaplama kapatılmışsa gereklidir.</translation>
     </message>
     <message>
         <source>What-If Analysis.content</source>
-        <translation>Hedef hücreyi hesaplamak için kullanılan hücrelerdeki değerleri değiştirerek hedef hücrenin en uygun değerini bulan Ne-Eğer Analiz aracı.</translation>
+        <translation>Hedef hücreyi hesaplamak için kullanılan hücrelerdeki değerleri değiştirerek hedef hücrenin optimal değerini bulan durum çözümleme aracı.</translation>
     </message>
     <message>
         <source>LookupAndReference.content</source>
@@ -885,7 +886,7 @@ Bu, yalnızca otomatik hesaplama kapatılmışsa gereklidir.</translation>
     </message>
     <message>
         <source>Table.content</source>
-        <translation>Çizelgeye bir veri tablosu ekleyin.</translation>
+        <translation>Belgeye bir tablo ekleyin veya çizin ve metni tabloya veya tam tersine dönüştürün.</translation>
     </message>
     <message>
         <source>CustomViews.title</source>
@@ -901,7 +902,7 @@ Bu, yalnızca otomatik hesaplama kapatılmışsa gereklidir.</translation>
     </message>
     <message>
         <source>TableName.content</source>
-        <translation>Formüllerde başvuru için kullanılan bu tablonun adını düzenleyin.</translation>
+        <translation>Formüllerde bu tabloya başvuruda bulunmak için kullanılacak tablo adını düzenleyin.</translation>
     </message>
     <message>
         <source>RB_Clipboard.title</source>
@@ -929,17 +930,17 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation>Seçilen şekli düz renk, geçiş, resim veya doku ile doldurun.
+        <translation>Seçili şekli düz renk, gradyan, resim veya dokuyla doldurun.
 
-Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
+Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>DataTable.content</source>
-        <translation>Çizelgeye bir veri tablosu ekleyin.</translation>
+        <translation>Grafiğe bir veri tablosu ekleyin.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
-        <translation>Ekran Yakalama Ocr</translation>
+        <translation>Ekran Yakalama ve OCR</translation>
     </message>
     <message>
         <source>MathAndTrig.content</source>
@@ -1451,7 +1452,8 @@ Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>What-If Analysis.title</source>
-        <translation>Ne-Eğer Analizi</translation>
+        <translation>Durum 
+Çözümlemesi</translation>
     </message>
     <message>
         <source>WinLossSparkline.content</source>
@@ -2561,7 +2563,8 @@ Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek i
     </message>
     <message>
         <source>What-If%20Analysis.title</source>
-        <translation>Ne-Eğer Analizi</translation>
+        <translation>Durum 
+Çözümlemesi</translation>
     </message>
     <message>
         <source>ExistingConnections.content</source>
