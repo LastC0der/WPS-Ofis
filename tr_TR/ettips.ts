@@ -960,7 +960,7 @@ Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>Clear.content</source>
-        <translation>Hücredeki her şeyi silin veya biçimlendirmeyi, içeriği veya yorumları seçerek kaldırın.</translation>
+        <translation>Hücredeki her şeyi silin veya biçimlendirmeyi, içeriği veya açıklamaları seçerek kaldırın.</translation>
     </message>
     <message>
         <source>BookProtection.content</source>
@@ -976,7 +976,7 @@ Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>ClearArrows.title</source>
-        <translation>Tüm Okları Temizle</translation>
+        <translation>Tüm Okları Kaldır</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
@@ -984,7 +984,7 @@ Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili mini grafik grubundaki mini grafiklerin rengini ve kalınlığını belirtin.</translation>
     </message>
     <message>
         <source>EnableMacro.title</source>
@@ -996,7 +996,7 @@ Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>Direction.content</source>
-        <translation>Metni soldan sağa doğru okumak için ayarlayın.</translation>
+        <translation>Seçili 3-B Şeklin yön efektini seçin.</translation>
     </message>
     <message>
         <source>Printer.title</source>
@@ -1004,15 +1004,15 @@ Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.content</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen öğeleri vurgulama, yinelenen öğeleri girmeyi reddetme, yinelenen öğeleri silme vb. gibi yinelenen öğeler üzerinde işlemleri gerçekleştirmek için burayı tıklayın.</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.title</source>
-        <translation>Süzgeç Koşulu Sık Kullanılanları</translation>
+        <translation>Filtre Koşulu Sık Kullanılanları</translation>
     </message>
     <message>
         <source>PrintHeaderFooter.content</source>
-        <translation>Sayfanın yazdırması için üstbilgi ve altbilgiyi ayarlayın.</translation>
+        <translation>Yazdırılacak sayfanın üstbilgisini ve altbilgisini ayarlayın.</translation>
     </message>
     <message>
         <source>PrintGridlines.title</source>
@@ -1024,11 +1024,11 @@ Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>PrintHeadings.content</source>
-        <translation>Satır ve sütun başlıklarını yazdır.
+        <translation>Satır ve sütun başlıklarını yazdırın.
 
-Satır başlıkları, sayfanın kenarındaki satır numaralarıdır.
+Satır başlıkları, sayfanın yan tarafındaki satır numaralarıdır.
 
-Sütun başlıkları, sayfadaki sütunların üzerinde görünen harfler veya sayılardır.</translation>
+Sütun başlıkları, bir sayfadaki sütunların üzerinde görünen harfler veya sayılardır.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
@@ -1038,7 +1038,7 @@ Sütun başlıkları, sayfadaki sütunların üzerinde görünen harfler veya sa
         <source>PageSize.content</source>
         <translation>Geçerli bölüm için bir kağıt boyutu seçin.
 
-Belgedeki tüm bölümlere belirli bir kağıt boyutu uygulamak için, kağıt boyutunu özelleştirmek üzere tıklayın.</translation>
+Belgedeki tüm bölümlere belirli bir kağıt boyutu uygulamak,  kağıt boyutunu özelleştirmek için tıklayın.</translation>
     </message>
     <message>
         <source>Clear.title</source>
@@ -1054,7 +1054,7 @@ Belgedeki tüm bölümlere belirli bir kağıt boyutu uygulamak için, kağıt b
     </message>
     <message>
         <source>CircularReferences.content</source>
-        <translation>Dairesel Başvurular iletişim kutusunu göster. Çalışma kitabında dairesel başvurular içeren tüm hücreleri arayabilir ve bulabilirsiniz.
+        <translation>Döngüsel Başvurular iletişim kutusunu gösterin. Çalışma kitabında döngüsel başvurular içeren tüm hücreleri arayabilir ve bulabilirsiniz.
 
 İlgili hücreyi değiştirmek için sonuçlar listesindeki bir öğeyi çift tıklayın.</translation>
     </message>
@@ -1064,23 +1064,23 @@ Belgedeki tüm bölümlere belirli bir kağıt boyutu uygulamak için, kağıt b
     </message>
     <message>
         <source>PrinterPaperSize.title</source>
-        <translation>Yazıcı Kağıt Boyutu</translation>
+        <translation>Kağıt Boyutu</translation>
     </message>
     <message>
         <source>PTTableOptions.content</source>
-        <translation>Özet Tablo Seçenekleri iletişim kutusunu göster.</translation>
+        <translation>Özet Tablo Seçenekleri iletişim kutusunu gösterin.</translation>
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation>Girintiyi Azalt</translation>
+        <translation>Liste Düzeyini Azalt</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
-        <translation>Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
+        <translation>Farklı dolgu efektleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>Validation.content</source>
-        <translation>Geçersiz verilerin bir hücreye girmesini önler
+        <translation>Bir hücreye geçersiz verilerin girilmesini önler
 
 Örneğin, geçersiz verileri veya 1000&apos;den büyük sayıları reddedebilirsiniz.
 
@@ -1088,11 +1088,11 @@ Ayrıca girdiyi, belirttiğiniz değerlerin açılır listesinden seçilmeye zor
     </message>
     <message>
         <source>PrinterCopies.title</source>
-        <translation>Yazıcı Kopyaları</translation>
+        <translation>Kopya</translation>
     </message>
     <message>
         <source>EditCloumns.content</source>
-        <translation>İçine metin ve formülleri hücrelere girebileceğiniz formül çubuğunu görüntüleyin.</translation>
+        <translation>Hücrelere metin ve formül girebileceğiniz formül çubuğunu görüntüleyin.</translation>
     </message>
     <message>
         <source>DisplayHeadings.title</source>
@@ -1100,7 +1100,7 @@ Ayrıca girdiyi, belirttiğiniz değerlerin açılır listesinden seçilmeye zor
     </message>
     <message>
         <source>PivotTableOrder.title</source>
-        <translation>Düzen</translation>
+        <translation>Sıra</translation>
     </message>
     <message>
         <source>BandedRows.content</source>
