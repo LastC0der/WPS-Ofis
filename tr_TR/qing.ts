@@ -2149,7 +2149,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>yesterday %1</source>
-        <translation>dün %1</translation>
+        <translation>Dün %1</translation>
     </message>
     <message>
         <source>local sync folder freelimit privilege recover tip</source>
