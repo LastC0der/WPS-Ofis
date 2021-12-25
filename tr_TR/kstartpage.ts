@@ -316,11 +316,11 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>%1 hour ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 saat önce</translation>
     </message>
     <message>
         <source>Share to me</source>
-        <translation type="unfinished"/>
+        <translation>Benimle paylaş</translation>
     </message>
     <message>
         <source>mobile</source>
@@ -428,7 +428,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source> Created file</source>
-        <translation type="unfinished"/>
+        <translation> Oluşturulan dosya</translation>
     </message>
 </context>
 <context>
@@ -651,7 +651,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KStartPageHomeShareFileList</name>
     <message>
         <source>me</source>
-        <translation type="unfinished"/>
+        <translation>bana</translation>
     </message>
     <message>
         <source>My Cloud Doc</source>
@@ -662,7 +662,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KStartPageHomeStarFileList</name>
     <message>
         <source>me</source>
-        <translation type="unfinished"/>
+        <translation>bana</translation>
     </message>
     <message>
         <source>My Cloud Doc</source>
@@ -800,11 +800,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>SharesToMe</source>
-        <translation type="unfinished"/>
+        <translation>Benimle Paylaş</translation>
     </message>
     <message>
         <source>Single Web Page Files</source>
@@ -1165,7 +1165,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>created the file</source>
-        <translation type="unfinished"/>
+        <translation>oluşturulan dosya</translation>
     </message>
     <message>
         <source>moved the file</source>
@@ -1368,7 +1368,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Visit WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut&apos;u Ziyaret Et</translation>
     </message>
 </context>
 <context>
@@ -1748,7 +1748,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>ShareToMe</source>
-        <translation type="unfinished"/>
+        <translation>Benimle Paylaş</translation>
     </message>
     <message>
         <source>ShareItems</source>
@@ -1843,7 +1843,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>No Records</source>
-        <translation type="unfinished"/>
+        <translation>Kayıt Yok</translation>
     </message>
     <message>
         <source>Choose File</source>
@@ -1867,7 +1867,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Share your documents as a link, then you can view them here.</source>
-        <translation type="unfinished"/>
+        <translation>Belgelerinizi bir bağlantı olarak paylaşın, ardından burada görüntüleyebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -2315,7 +2315,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>created file on %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 altına dosya eklendi</translation>
     </message>
     <message>
         <source>moved file out</source>
@@ -2347,7 +2347,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>created file</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturulan dosya</translation>
     </message>
     <message>
         <source>deleted file permanently</source>
@@ -2572,7 +2572,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>download all/update</source>
@@ -2598,7 +2598,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KFileItemOperationInfoWidget</name>
     <message>
         <source>share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>share folder</source>
@@ -2618,11 +2618,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>MoveTo</source>
-        <translation type="unfinished"/>
+        <translation>Taşınacak yer</translation>
     </message>
     <message>
         <source>Invite members</source>
-        <translation type="unfinished"/>
+        <translation>Üyeleri davet et</translation>
     </message>
     <message>
         <source>Upload file</source>
@@ -2630,19 +2630,19 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Save to</source>
-        <translation type="unfinished"/>
+        <translation>Kayıt yeri</translation>
     </message>
     <message>
         <source>record versions for changes</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş sürümünü etkinleştir</translation>
     </message>
     <message>
         <source>Upload File to Cloud</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Buluta Yükle</translation>
     </message>
     <message>
         <source>Create a folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasör oluştur</translation>
     </message>
 </context>
 <context>
@@ -2657,7 +2657,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>more early</source>
-        <translation type="unfinished"/>
+        <translation>Önceki</translation>
     </message>
     <message>
         <source>yesterday</source>
@@ -2665,7 +2665,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>within 7 days</source>
-        <translation type="unfinished"/>
+        <translation>7 gün içinde</translation>
     </message>
 </context>
 <context>
@@ -2743,11 +2743,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>yestoday %1</source>
-        <translation type="unfinished"/>
+        <translation>Dün %1</translation>
     </message>
     <message>
         <source>%1 hour ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 saat önce</translation>
     </message>
     <message>
         <source>Current Device</source>
@@ -2791,7 +2791,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Auto Uploaded</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yüklendi</translation>
     </message>
 </context>
 <context>
@@ -3465,7 +3465,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>shared file to %1</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşılan dosya</translation>
     </message>
     <message>
         <source>updated file</source>
@@ -3485,22 +3485,22 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>created file</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturulan dosya</translation>
     </message>
     <message>
         <source>deleted file permanently</source>
-        <translation type="unfinished"/>
+        <translation>Dosya kalıcı olarak silindi</translation>
     </message>
 </context>
 <context>
     <name>KItemDragLabelWidget</name>
     <message>
         <source>move to</source>
-        <translation type="unfinished"/>
+        <translation>Taşınacak yer</translation>
     </message>
     <message>
         <source>copy to</source>
-        <translation type="unfinished"/>
+        <translation>Kopyalanacak yer</translation>
     </message>
 </context>
 <context>
@@ -3548,7 +3548,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Share To Me</source>
-        <translation type="unfinished"/>
+        <translation>Benimle Paylaş</translation>
     </message>
     <message>
         <source>WPS Cloud Document</source>
@@ -3559,7 +3559,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KRightSidePopupMenu</name>
     <message>
         <source>Expand</source>
-        <translation type="unfinished"/>
+        <translation>Genişlet</translation>
     </message>
     <message>
         <source>Collapse</source>
@@ -3574,14 +3574,14 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KTeamMsgListDelegate</name>
     <message>
         <source>Expand</source>
-        <translation type="unfinished"/>
+        <translation>Genişlet</translation>
     </message>
 </context>
 <context>
     <name>KFileListWidget</name>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre</translation>
     </message>
     <message>
         <source>Share Folder Details</source>
@@ -3589,7 +3589,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Devices</source>
@@ -3604,11 +3604,11 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KStartPageHomeBaseFileArea</name>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Devices</source>
@@ -3638,7 +3638,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Please check file-existence</source>
@@ -3674,7 +3674,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KStartPageLineEditWidget</name>
     <message>
         <source>Search for documents, templates ...</source>
-        <translation type="unfinished"/>
+        <translation>Belge ara</translation>
     </message>
     <message>
         <source>We need some time to prepare</source>
@@ -4008,7 +4008,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KLocationListDelegate</name>
     <message>
         <source>ShareToMe</source>
-        <translation type="unfinished"/>
+        <translation>Benimle Paylaş</translation>
     </message>
     <message>
         <source>ShareItems</source>
@@ -4030,7 +4030,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KThirdCloudFileListTitleToolBar</name>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
 </context>
 <context>
