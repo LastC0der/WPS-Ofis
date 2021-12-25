@@ -32253,7 +32253,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Put on top</source>
-        <translation type="unfinished"/>
+        <translation>En üste taşı</translation>
     </message>
     <message>
         <source>Customize Quick Access</source>
