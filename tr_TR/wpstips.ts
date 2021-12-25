@@ -1385,7 +1385,7 @@ Click the arrow to select a different text color.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Otomatik Kaydet</translation>
     </message>
     <message>
         <source>m_PageSize.content</source>
