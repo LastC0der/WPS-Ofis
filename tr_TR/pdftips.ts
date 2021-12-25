@@ -351,7 +351,7 @@
     </message>
     <message>
         <source>NewImage2top.title</source>
-        <translation type="unfinished"/>
+        <translation>En üste taşı</translation>
     </message>
     <message>
         <source>ImageEditReplace.content</source>
