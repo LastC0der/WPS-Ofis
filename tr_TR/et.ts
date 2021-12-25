@@ -51548,7 +51548,7 @@ No audio output device or the file does not exist.</source>
     <name>ongmani.ct_equationtools</name>
     <message>
         <source>Equation Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Simgeleri</translation>
     </message>
     <message>
         <source>Accent</source>
