@@ -999,7 +999,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Otomatik Kaydet</translation>
     </message>
     <message>
         <source>SlideTransOnTime.content</source>
