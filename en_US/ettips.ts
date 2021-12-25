@@ -1236,7 +1236,7 @@ Before using this feature, first set security on the sheet by using the Protect 
     </message>
     <message>
         <source>LinkedDataTypeListPanel.title</source>
-        <translation type="unfinished"/>
+        <translation>Insert Data</translation>
     </message>
     <message>
         <source>PTFieldSettings.title</source>
