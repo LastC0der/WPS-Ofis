@@ -3138,7 +3138,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Punctuation characters</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Noktalama karakterleri</translation>
     </message>
     <message>
         <source>Match &amp;ki/ku (tekisuto/tekusuto)</source>
@@ -44568,7 +44568,7 @@ Kayıt</translation>
     <name>ongmani.ct_equationtools</name>
     <message>
         <source>Equation Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Simgeleri</translation>
     </message>
     <message>
         <source>Linear</source>
