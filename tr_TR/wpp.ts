@@ -2640,7 +2640,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Involved Template</source>
-        <translation type="unfinished"/>
+        <translation>İlgili Şablon</translation>
     </message>
     <message>
         <source>Delete All Markup On The Current Slide</source>
@@ -4241,7 +4241,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Slaytlar</translation>
     </message>
     <message>
         <source>Speed:</source>
@@ -12684,7 +12684,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Slaytlar</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -27483,18 +27483,18 @@ Gizle</translation>
     </message>
     <message>
         <source>Involved Template</source>
-        <translation type="unfinished"/>
+        <translation>İlgili Şablon</translation>
     </message>
     <message>
         <source>Select Involved Template</source>
-        <translation type="unfinished"/>
+        <translation>İlgili Şablonu Seç</translation>
     </message>
 </context>
 <context>
     <name>KxWppReuseSlidesListView</name>
     <message>
         <source>Apply theme to selected slides</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Seçilen Slaytlara Uygula</translation>
     </message>
     <message>
         <source>Insert slide</source>
@@ -27594,7 +27594,7 @@ Gizle</translation>
     </message>
     <message>
         <source>All Slides</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Slaytlar</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -27760,7 +27760,7 @@ Gizle</translation>
     <name>ongmani.ct_equationtools</name>
     <message>
         <source>Equation Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Simgeleri</translation>
     </message>
     <message>
         <source>Linear</source>
