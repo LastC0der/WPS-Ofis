@@ -1104,13 +1104,13 @@ Ayrıca girdiyi, belirttiğiniz değerlerin açılır listesinden seçilmeye zor
     </message>
     <message>
         <source>BandedRows.content</source>
-        <translation>Çift satırların tek satırlardan farklı biçimlendiği bantlı satırları görüntüleyin.
+        <translation>Çift satırların tek satırlardan farklı biçimlendirildiği şeritli satırları görüntüler.
 
-Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
+Bu şeritli gösterim tabloların daha kolay okunmasını sağlar.</translation>
     </message>
     <message>
         <source>Recommended Chart.content</source>
-        <translation type="unfinished"/>
+        <translation>Bir grafiği nasıl seçeceğinizi merak ediyor musunuz? Seçtiğiniz verilere göre sizin için bir tane önerelim.</translation>
     </message>
     <message>
         <source>PrevLandscape.title</source>
@@ -1118,45 +1118,45 @@ Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Görüntü Olarak Dışa Aktar</translation>
+        <translation>Görüntüye Aktar</translation>
     </message>
     <message>
         <source>Duplicates.content</source>
-        <translation>Sayfadaki yinelenen satırlar için Vurgula, Girişi Reddet veya Kaldır&apos;ı seçin.
+        <translation>Sayfadaki yinelenen satırlar için Vurgula, Girdiyi Reddet veya Kaldır&apos;ı seçin.
 
-Yinelenen bilgiler için hangi sütunların kontrol edilmesi gerektiğini belirtebilirsiniz.</translation>
+Yinelenen bilgiler için hangi sütunların denetleneceğini belirleyebilirsiniz.</translation>
     </message>
     <message>
         <source>VerticalText.content</source>
-        <translation>Harfler üst üste yığılmış şekilde metni dikey olarak çizin.</translation>
+        <translation>Harfler birbirinin üzerine yığılacak şekilde metni dikey olarak çizin.</translation>
     </message>
     <message>
         <source>ChartObjects.title</source>
-        <translation>Çizelge Nesneleri</translation>
+        <translation>Grafik Nesneleri</translation>
     </message>
     <message>
         <source>ContextTextDirection.title</source>
-        <translation type="unfinished"/>
+        <translation>Bağlam</translation>
     </message>
     <message>
         <source>Recommended Chart.title</source>
-        <translation type="unfinished"/>
+        <translation>Önerilen Grafikler</translation>
     </message>
     <message>
         <source>PTRefreshAllData.content</source>
-        <translation>Çalışma kitabındaki tüm kaynakları yenileyerek en son verilerine ulaşın.</translation>
+        <translation>Çalışma kitabındaki tüm kaynakları yenileyerek en son verileri alın.</translation>
     </message>
     <message>
         <source>CmpSideBySide.title</source>
-        <translation>Yan Yana Görüntüle.</translation>
+        <translation>Yan Yana Görüntüle</translation>
     </message>
     <message>
         <source>SortAscending.content</source>
-        <translation>Seçimi, en düşük değerler sütunun üstünde olacak şekilde sıralayın.</translation>
+        <translation>Seçimi, en düşük değerler sütunun en üstünde olacak şekilde sıralayın.</translation>
     </message>
     <message>
         <source>ShapeFillColor2.content</source>
-        <translation>Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
+        <translation>Farklı dolgu efektleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>DataDetailedSettings.content</source>
@@ -1164,13 +1164,13 @@ Yinelenen bilgiler için hangi sütunların kontrol edilmesi gerektiğini belirt
     </message>
     <message>
         <source>NameCreate.content</source>
-        <translation>Seçili hücrelerden adları otomatik olarak oluşturur.
+        <translation>Seçili hücrelerden otomatik olarak adlar oluşturun. 
 
-Birçok kişi, üst satırdaki metni veya bir seçimin en soldaki sütununu kullanmayı tercih eder.</translation>
+Birçok kişi, bir seçimin en üst satırındaki veya en soldaki sütundaki metni kullanmayı seçer.</translation>
     </message>
     <message>
         <source>SameLetterHeights.content</source>
-        <translation>Seçili WordArt&apos;ın tüm harflerini tam olarak aynı yüksekliğe getirin.</translation>
+        <translation>Seçili WordArt&apos;ın tüm harflerini tam olarak aynı yükseklikte yapın.</translation>
     </message>
     <message>
         <source>Logical.content</source>
@@ -1182,11 +1182,11 @@ Birçok kişi, üst satırdaki metni veya bir seçimin en soldaki sütununu kull
     </message>
     <message>
         <source>InsertDropDownList.content</source>
-        <translation>Açılır liste oluşturun ve seçenekler açılır listesini özelleştirin.</translation>
+        <translation>Bir açılan liste oluşturun ve seçenekleri özelleştirin.</translation>
     </message>
     <message>
         <source>ExportFilterResult.content</source>
-        <translation>Süzgeç sonuçlarını yeni bir dosya veya yeni bir sayfa olarak kaydedin.</translation>
+        <translation>Filtre sonuçlarını yeni bir dosya veya yeni bir sayfa olarak kaydedin.</translation>
     </message>
     <message>
         <source>PublishToSharePoint.title</source>
@@ -1194,23 +1194,23 @@ Birçok kişi, üst satırdaki metni veya bir seçimin en soldaki sütununu kull
     </message>
     <message>
         <source>CalculateSheet.title</source>
-        <translation>Çalışma Sayfasını Hesapla</translation>
+        <translation>Sayfayı Hesapla</translation>
     </message>
     <message>
         <source>Refresh.content</source>
-        <translation>Veri kaynağından gelen çalışma kitabındaki tüm bilgileri güncelleştirin.</translation>
+        <translation>Çalışma kitabındaki veri kaynağından gelen tüm bilgileri güncelleştirin.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Otomatik Kaydet</translation>
     </message>
     <message>
         <source>FormatChartObject.content</source>
-        <translation>Grafik nesnelerinin Biçimlendir iletişim kutusunu göster. Grafik seçenekleri için ayrıntılı ayarları kullanabilirsiniz.</translation>
+        <translation>Grafik nesnelerinin Biçim iletişim kutusunu görüntüleyin. Grafik seçenekleri için ayrıntılı ayarları kullanabilirsiniz.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili mini grafik grubundaki negatif değerleri farklı bir renk veya işaretçiyle vurgulayın.</translation>
     </message>
     <message>
         <source>FillColor2.title</source>
@@ -1218,17 +1218,17 @@ Birçok kişi, üst satırdaki metni veya bir seçimin en soldaki sütununu kull
     </message>
     <message>
         <source>AllowEditRanges.content</source>
-        <translation>Belirli kişilerin korumalı bir çalışma kitabındaki veya sayfasındaki hücre aralıklarını düzenlemelerine izin verilir.
+        <translation>Belirli kişilerin korumalı bir çalışma kitabındaki veya sayfadaki hücre aralıklarını düzenlemesine izin verir.
 
-Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak önce sayfayı güvenlik ayarlayın.</translation>
+Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak sayfadaki güvenliği ayarlayın.</translation>
     </message>
     <message>
         <source>NamePaste.title</source>
-        <translation>İsmi Yapıştır</translation>
+        <translation>Ad Yapıştır</translation>
     </message>
     <message>
         <source>ImportData.content</source>
-        <translation>Seçili çalışma sayfasına dış verileri içe aktar.</translation>
+        <translation>Seçili çalışma sayfasına dış verileri içe aktarın.</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal2.content</source>
@@ -1236,7 +1236,7 @@ Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak önce sayfay�
     </message>
     <message>
         <source>LinkedDataTypeListPanel.title</source>
-        <translation type="unfinished"/>
+        <translation>Veri Ekle</translation>
     </message>
     <message>
         <source>PTFieldSettings.title</source>
@@ -1248,15 +1248,15 @@ Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak önce sayfay�
     </message>
     <message>
         <source>PivotChartAnalysis.content</source>
-        <translation>Verileri sınıflandırın ve özetleyin ve sonuçlarla grafik oluşturun.</translation>
+        <translation>Verileri sınıflandırın, toplayın ve sonuçlarla grafikler oluşturun.</translation>
     </message>
     <message>
         <source>RefreshAll.content</source>
-        <translation>Çalışma kitabındaki veri kaynağından gelen tüm bilgileri güncelleştirin.</translation>
+        <translation>Çalışma kitabındaki bir veri kaynağından gelen tüm bilgileri güncelleştirin.</translation>
     </message>
     <message>
         <source>SpellCheck.content</source>
-        <translation>Geçerli çalışma sayfasındaki metnin yazım denetimini yapın.</translation>
+        <translation>Geçerli çalışma sayfasındaki metnin yazımını denetleyin.</translation>
     </message>
     <message>
         <source>SplitSheet.content</source>
@@ -1264,11 +1264,14 @@ Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak önce sayfay�
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation>Metni sağa hizalayın.</translation>
+        <translation>Metni sağa hizala</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.content</source>
-        <translation type="unfinished"/>
+        <translation>Bir satırı veya ilk hücresini seçin, üstüne yatay bir sayfa sonu eklenecektir.
+Bir sütun veya onun ilk hücresini seçin, sola dikey bir sayfa sonu eklenecektir.
+Herhangi bir satırın/sütunun ortasındaki bir hücreyi seçin, biri yukarıda, diğeri solda olmak üzere iki sayfa sonu eklenecektir.
+Sayfa Sonu Önizleme&apos;de sayfa sonlarını ayarlama için sürükleyebilirsiniz.</translation>
     </message>
     <message>
         <source>DeleteRange2.content</source>
@@ -1276,15 +1279,15 @@ Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak önce sayfay�
     </message>
     <message>
         <source>ChineseTranslation.title</source>
-        <translation>Geleneksel Çince ile Basitleştirilmiş</translation>
+        <translation>Basitleştirilmiş Çinceden Geleneksel Çinceye</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Kenarlık ve hücredeki metin arasındaki kenar boşluğunu artırın.</translation>
+        <translation>Paragrafın girinti düzeyini artırın.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Kenarlık ile hücrede metin arasındaki kenar boşluğunu azaltın.</translation>
+        <translation>Paragrafın girinti düzeyini azaltın.</translation>
     </message>
     <message>
         <source>SortDescending.content</source>
