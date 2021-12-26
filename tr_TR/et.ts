@@ -13206,7 +13206,7 @@ Denetimi</translation>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
         <comment>et_sEmptyentry</comment>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>  (None)</source>
@@ -13616,7 +13616,7 @@ hücreler turuncu arka planda ayarlanacaktır.
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>The measurement must be between %d cm and %f cm.</source>
@@ -13809,7 +13809,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
         <comment>et_sNeedIntegerOrDecimal</comment>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>Criteria</source>
@@ -14094,7 +14094,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
         <comment>et_sRequireNumber</comment>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>The field you are dropping into the column area exceeds 256 items. Only the first 255 items will be displayed as columns. To include all of the field&apos;s data in your PivotTable, drop it into different area, such as the data area.</source>
@@ -15013,7 +15013,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
 </context>
 <context>
@@ -15048,7 +15048,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>point</source>
-        <translation type="unfinished"/>
+        <translation>Nokta</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -21338,7 +21338,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>character</source>
@@ -21385,7 +21385,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>Your entry is not valid.</source>
@@ -37670,7 +37670,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>List will be permanently deleted.</source>
@@ -38072,7 +38072,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -38123,7 +38123,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -38182,7 +38182,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -39959,7 +39959,7 @@ Varolan resmi korumak için İptal&apos;i tıklayın.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>The end number must be greater than the start number.</source>
@@ -48616,7 +48616,7 @@ Modu</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>The reference you typed is not valid, or you did not provide a reference where one was required.</source>
@@ -52925,7 +52925,7 @@ Fareyi kullanarak bir başvuru girmek için düzen kutusuna tıklayın, sonra sa
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>The cell or chart that you are trying to change is protected and therefore read-only.
@@ -53751,7 +53751,7 @@ hücreler turuncu arka planda ayarlanacaktır.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
@@ -53833,7 +53833,7 @@ hücreler turuncu arka planda ayarlanacaktır.</translation>
     <name>KxGoalSeekDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
     <message>
         <source>Formula in cell must result in a number.</source>
@@ -53877,7 +53877,7 @@ To make changes, click Unprotect Sheet in the Review tab (You might need a passw
     <name>KxSeriesDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiniz kullanılamaz. Bir tamsayı ya da ondalık sayı girmeniz gerekiyor.</translation>
     </message>
 </context>
 <context>
