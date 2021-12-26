@@ -9873,7 +9873,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Print to File (Postscript)</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya Yazdır (Postscript)</translation>
     </message>
     <message>
         <source>B4 (250 x 353 mm)</source>
@@ -9903,7 +9903,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Ledger</source>
-        <translation type="unfinished"/>
+        <translation>Hesap Defteri</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -21751,7 +21751,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>POINT</source>
-        <translation type="unfinished"/>
+        <translation>NOKTA</translation>
     </message>
     <message>
         <source>Other</source>
@@ -27528,22 +27528,22 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Press</source>
-        <translation type="unfinished"/>
+        <translation>Basın</translation>
     </message>
 </context>
 <context>
     <name>KxCustomToolBarCmdBase</name>
     <message>
         <source>Main Menu</source>
-        <translation type="unfinished"/>
+        <translation>Ana Menü</translation>
     </message>
     <message>
         <source>Command Bar</source>
-        <translation type="unfinished"/>
+        <translation>Komut Çubuğu</translation>
     </message>
     <message>
         <source>Shortcut Menus</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol Menüleri</translation>
     </message>
 </context>
 <context>
