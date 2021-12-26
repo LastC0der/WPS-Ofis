@@ -770,7 +770,7 @@
     </message>
     <message>
         <source>Print to File (Postscript)</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya Yazdır (Postscript)</translation>
     </message>
     <message>
         <source>B4 (250 x 353 mm)</source>
@@ -800,7 +800,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Ledger</source>
-        <translation type="unfinished"/>
+        <translation>Hesap Defteri</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -4719,7 +4719,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Press</source>
-        <translation type="unfinished"/>
+        <translation>Basın</translation>
     </message>
 </context>
 <context>
@@ -4734,11 +4734,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Minimize Window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi Kapat</translation>
     </message>
     <message>
         <source>New Tab</source>
