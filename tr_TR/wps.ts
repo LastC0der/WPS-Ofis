@@ -7710,7 +7710,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>point</source>
-        <translation type="unfinished"/>
+        <translation>Nokta</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -20263,7 +20263,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla:</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -20442,7 +20442,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla:</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
