@@ -561,7 +561,7 @@
     </message>
     <message>
         <source>Print to File (Postscript)</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya Yazdır (Postscript)</translation>
     </message>
     <message>
         <source>B4 (250 x 353 mm)</source>
@@ -591,7 +591,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Ledger</source>
-        <translation type="unfinished"/>
+        <translation>Hesap Defteri</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -5344,7 +5344,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Press</source>
-        <translation type="unfinished"/>
+        <translation>Basın</translation>
     </message>
 </context>
 <context>
