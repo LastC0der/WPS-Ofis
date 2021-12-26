@@ -1234,7 +1234,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Add blank line to slide:</source>
-        <translation type="unfinished"/>
+        <translation>Slayta boş satır ekle:</translation>
     </message>
     <message>
         <source>Right(&amp;H)</source>
@@ -1246,7 +1246,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Slide per page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa başına slayt</translation>
     </message>
 </context>
 <context>
@@ -1293,7 +1293,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla:</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -1504,7 +1504,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla:</translation>
     </message>
     <message>
         <source>Printing permission:</source>
