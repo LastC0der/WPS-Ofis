@@ -1291,7 +1291,7 @@ Sayfa Sonu Önizleme&apos;de sayfa sonlarını ayarlama için sürükleyebilirsi
     </message>
     <message>
         <source>SortDescending.content</source>
-        <translation>Seçimi, en yüksek değerler sütunun üstünde olacak şekilde sıralayın.</translation>
+        <translation>Seçimi, en yüksek değerler sütunun en üstünde olacak şekilde sıralayın.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
@@ -1303,29 +1303,29 @@ Sayfa Sonu Önizleme&apos;de sayfa sonlarını ayarlama için sürükleyebilirsi
     </message>
     <message>
         <source>FreezePanes.content</source>
-        <translation>Kalan kısmı kaydırırken sayfanın bir bölümünü görünür tutun. (Tüm çalışma sayfasında gezinmek için kilidi iptal edebilirsiniz).</translation>
+        <translation>Sayfanın geri kalanı kayarken, sayfanın bir bölümünü görünür tutun. (Çalışma sayfasının tamamında gezinmek için kilidi iptal edebilirsiniz).</translation>
     </message>
     <message>
         <source>SourceData.content</source>
-        <translation>Grafikte bulunan veri aralığını değiştirin.</translation>
+        <translation>Grafiğe katılan veri aralığını değiştirin.</translation>
     </message>
     <message>
         <source>HeaderRow.content</source>
         <translation>Tablodaki üstbilgi satırını açar veya kapatır.
 
-Üstbilgi satırı, tablonun üst sırasını özel olarak biçimlendirir.</translation>
+Üstbilgi satırı, en üst satırını özel olarak biçimlendirir.</translation>
     </message>
     <message>
         <source>TextToColumns.content</source>
-        <translation>Bir Hesap Tablosu hücresinin içeriğini ayrı sütunlara ayırın.
+        <translation>Bir Elektronik Tablo hücresinin içeriğini ayrı sütunlara ayırın.
 
-Örneğin, bir tam ad sütununu ayrı ayrı ad ve soyad sütunlarına ayırabilirsiniz.
+Örneğin, tam adlardan oluşan bir sütunu ayrı ad ve soyadı sütunlarına ayırabilirsiniz.
 
-Metin Belgesi&apos;nde, seçilen metni bir tabloya dönüştürmek, metni her virgül, dönem veya belirttiğiniz diğer karakterdeki sütunlara bölmek için bu özelliği kullanın.</translation>
+Writer&apos;da, seçili metni bir tabloya dönüştürmek, metni her virgül, nokta veya belirttiğiniz diğer karakterde sütunlara bölmek için bu özelliği kullanın.</translation>
     </message>
     <message>
         <source>ChineseTranslation.content</source>
-        <translation>Basitleştirilmiş - Geleneksel Çince&apos;nin karakter veya kelime olması için çeviri birimine karar verin.</translation>
+        <translation>Basitleştirilmiş - Geleneksel Çince için çeviri birimini karakter veya kelime olarak belirleyin.</translation>
     </message>
     <message>
         <source>AllBorders.content</source>
@@ -1337,7 +1337,7 @@ Metin Belgesi&apos;nde, seçilen metni bir tabloya dönüştürmek, metni her vi
     </message>
     <message>
         <source>MergeSheet.content</source>
-        <translation>Birden çok sayfayı bir yaprağa birleştirin.</translation>
+        <translation>Birden çok sayfayı tek bir sayfada birleştirin.</translation>
     </message>
     <message>
         <source>Morefunctions.title</source>
@@ -1361,19 +1361,19 @@ Metin Belgesi&apos;nde, seçilen metni bir tabloya dönüştürmek, metni her vi
     </message>
     <message>
         <source>ImportData.title</source>
-        <translation>Verileri İçe Aktar</translation>
+        <translation>Verileri içe aktar</translation>
     </message>
     <message>
         <source>SplitPanes.title</source>
-        <translation>Böl/Bölme</translation>
+        <translation>Böl/Birleştir</translation>
     </message>
     <message>
         <source>RelativeReference.content</source>
-        <translation>Makroların seçilen ilk hücreye göre eylemlerle kaydedilmesi için göreli başvurular kullanın.</translation>
+        <translation>Makroların başlangıçta seçili olan hücreye göreli eylemlerle kaydedilmesi için göreli başvuru kullanın.</translation>
     </message>
     <message>
         <source>FormsToolbox.title</source>
-        <translation type="unfinished"/>
+        <translation>Form Ekle</translation>
     </message>
     <message>
         <source>Security.content</source>
@@ -1381,7 +1381,7 @@ Metin Belgesi&apos;nde, seçilen metni bir tabloya dönüştürmek, metni her vi
     </message>
     <message>
         <source>PivotChart.content</source>
-        <translation>Makroların seçilen ilk hücreye göre eylemlerle kaydedilmesi için göreli başvurular kullanın.</translation>
+        <translation>Verileri grafiklerle özetlemek ve karmaşık verileri incelemek için Özet Grafikler&apos;i kullanın.</translation>
     </message>
     <message>
         <source>RecenttlyUsed.title</source>
@@ -1393,11 +1393,11 @@ Metin Belgesi&apos;nde, seçilen metni bir tabloya dönüştürmek, metni her vi
     </message>
     <message>
         <source>FlashFill.content</source>
-        <translation>Mevcut örnek sonuçlara dayanarak, sonuç ve orijinal veriler arasındaki ilişki akıllıca analiz edilir ve aynı sütundaki diğer hücreler buna göre doldurulur.</translation>
+        <translation>Sonuçlar ve orijinal veriler arasındaki ilişkiyi analiz edin ve aynı sütundaki diğer hücreleri akıllıca doldurun.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili mini grafik grubunu bir sütun mini grafiğine dönüştürün.</translation>
     </message>
     <message>
         <source>AutoFilter.content</source>
