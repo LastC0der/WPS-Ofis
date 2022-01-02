@@ -12443,7 +12443,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Alt Çizgi Renkleri</translation>
     </message>
     <message>
         <source>Align Text Justify</source>
@@ -24575,7 +24575,7 @@ Aktar</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Alt Çizgi Renkleri</translation>
     </message>
     <message>
         <source>Insert Above</source>
@@ -51581,7 +51581,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Alt Çizgi Renkleri</translation>
     </message>
     <message>
         <source>Horizontal</source>
