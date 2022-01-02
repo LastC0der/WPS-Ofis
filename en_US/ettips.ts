@@ -1397,7 +1397,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     </message>
     <message>
         <source>SparklineConvertToColumn.content</source>
-        <translation type="unfinished"/>
+        <translation>Change the selected sparkline group to a column sparkline.</translation>
     </message>
     <message>
         <source>AutoFilter.content</source>
