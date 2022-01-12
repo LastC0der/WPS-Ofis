@@ -50084,7 +50084,7 @@ Item Labels</source>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz dosya zaten var. Değiştirmek ve devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
@@ -52501,7 +52501,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz dosya zaten var. Değiştirmek ve devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
