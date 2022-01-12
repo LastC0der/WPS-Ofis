@@ -23400,11 +23400,11 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Web Page File</source>
-        <translation type="unfinished"/>
+        <translation>Web Sayfası Dosyası</translation>
     </message>
     <message>
         <source>Uniform Office Spreadsheet Format</source>
-        <translation type="unfinished"/>
+        <translation>Tekdüzen Ofis Elektronik Tablo Biçimi</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -23421,7 +23421,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Uniform Office Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Tekdüzen Ofis Metin Biçimi</translation>
     </message>
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
