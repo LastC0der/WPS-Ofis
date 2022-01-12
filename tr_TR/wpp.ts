@@ -1385,7 +1385,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa &amp;başına slayt:</translation>
     </message>
     <message>
         <source>E&amp;mbedFont</source>
@@ -1588,7 +1588,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa &amp;başına slayt:</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
@@ -1680,7 +1680,7 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Beautify Document</source>
         <comment>WpBEAUTIFYDOCUMENT</comment>
-        <translation type="unfinished"/>
+        <translation>Belgeyi Güzelleştir</translation>
     </message>
     <message>
         <source>25 %</source>
@@ -4225,7 +4225,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz dosya zaten var. Değiştirmek ve devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Sample</source>
@@ -4801,7 +4801,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değiştir</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -26270,7 +26270,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz dosya zaten var. Değiştirmek ve devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
@@ -26357,7 +26357,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz dosya zaten var. Değiştirmek ve devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>PDF File(*%1)|*%1||</source>
@@ -28322,7 +28322,7 @@ Master</source>
     </message>
     <message>
         <source>Replace &amp;All Designs</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tüm Tasarımları Değiştir</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
@@ -28364,7 +28364,7 @@ Master</source>
     <name>KAnimGalleryView</name>
     <message>
         <source>6 animations have been fixed. Please cancel some unnecessary animations and do it again.</source>
-        <translation type="unfinished"/>
+        <translation>6 animasyon düzeltildi. Lütfen bazı gereksiz animasyonları iptal edin ve tekrar yapın.</translation>
     </message>
     <message>
         <source>Fixed to Recent used</source>
