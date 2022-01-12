@@ -35643,7 +35643,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Do you want to replace the selected table of figures?</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen şekil tablosunu değiştirmek istiyor musunuz?</translation>
     </message>
 </context>
 <context>
