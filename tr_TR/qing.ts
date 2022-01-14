@@ -2987,7 +2987,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>İlk sayfa</translation>
     </message>
     <message>
         <source>Last page</source>
