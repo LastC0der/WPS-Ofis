@@ -14475,7 +14475,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>MP4 Video(*.mp4;*.mp4v)</source>
-        <translation type="unfinished"/>
+        <translation>MP4 Video(*.mp4;*.mp4v)</translation>
     </message>
     <message>
         <source>Smart Compression</source>
@@ -16967,7 +16967,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>İlk sayfa</translation>
     </message>
     <message>
         <source>Last page</source>
