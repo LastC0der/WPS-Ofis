@@ -18556,7 +18556,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Backup Settings</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme Ayarları</translation>
     </message>
     <message>
         <source>Split Table by Row</source>
@@ -42148,11 +42148,11 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Failed to save.</source>
-        <translation type="unfinished"/>
+        <translation>Kaydedilemedi.</translation>
     </message>
     <message>
         <source>Failed to open.</source>
-        <translation type="unfinished"/>
+        <translation>Açılamadı.</translation>
     </message>
     <message>
         <source>Settings you made for left or right margin, column spacing, or paragraph indent are oversized for the page width in some sections.</source>
@@ -47188,7 +47188,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>First Page</source>
-        <translation type="unfinished"/>
+        <translation>İlk Sayfa</translation>
     </message>
     <message>
         <source>Odd Page</source>
