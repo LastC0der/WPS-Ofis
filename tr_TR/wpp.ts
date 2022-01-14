@@ -1871,7 +1871,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Failed to open.</source>
-        <translation type="unfinished"/>
+        <translation>Açılamadı.</translation>
     </message>
     <message>
         <source>Table Eraser</source>
@@ -2000,7 +2000,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Audio Video Interleave(*.avi)|*.avi</source>
-        <translation type="unfinished"/>
+        <translation>Ses Görüntü Birleşimi(*.avi)|*.avi</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -2016,7 +2016,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Insert Outline</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Ekle</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -2053,7 +2053,7 @@ Ekle</translation>
     </message>
     <message>
         <source>MP4 Video(*.mp4;*.m4v;*.mp4v)</source>
-        <translation type="unfinished"/>
+        <translation>MP4 Video(*.mp4;*.m4v;*.mp4v)</translation>
     </message>
     <message>
         <source>AIFF Audio File(aiff) (*.aif;*.aifc;*.aiff)</source>
@@ -14766,7 +14766,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Backup Settings</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme Ayarları</translation>
     </message>
     <message>
         <source>MoreOutline</source>
