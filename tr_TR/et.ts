@@ -20622,7 +20622,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Control Menu List</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Menüsü Listesi</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -45216,7 +45216,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Field</source>
-        <translation type="unfinished"/>
+        <translation>Alan</translation>
     </message>
     <message>
         <source>File Unsaved</source>
