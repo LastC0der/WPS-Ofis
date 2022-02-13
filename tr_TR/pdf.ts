@@ -9858,7 +9858,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Over Type</source>
-        <translation type="unfinished"/>
+        <translation>Girişin sonu</translation>
     </message>
     <message>
         <source>EndPlay</source>
