@@ -4633,7 +4633,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Fire</source>
-        <translation type="unfinished"/>
+        <translation>Ateş</translation>
     </message>
     <message>
         <source>Font</source>
@@ -5087,11 +5087,11 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Twine</source>
-        <translation type="unfinished"/>
+        <translation>Sicim</translation>
     </message>
     <message>
         <source>UpArc</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Yay</translation>
     </message>
     <message>
         <source>Water</source>
@@ -5115,7 +5115,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Wheat</source>
-        <translation type="unfinished"/>
+        <translation>Buğday</translation>
     </message>
     <message>
         <source>White</source>
@@ -7292,7 +7292,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sonu</translation>
     </message>
     <message>
         <source>6-Point Star</source>
@@ -16193,7 +16193,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&amp;Special:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Özel:</translation>
     </message>
     <message>
         <source>1.5 Lines</source>
@@ -16201,7 +16201,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Aft&amp;er:</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;onra:</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -16209,7 +16209,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Baseline</source>
-        <translation type="unfinished"/>
+        <translation>Taban Çizgisi</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -16217,7 +16217,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>&amp;Before:</source>
-        <translation type="unfinished"/>
+        <translation>Ön&amp;ce:</translation>
     </message>
     <message>
         <source>First and last characters</source>
@@ -20707,7 +20707,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Fire</source>
-        <translation type="unfinished"/>
+        <translation>Ateş</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -20743,11 +20743,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ocean</source>
-        <translation type="unfinished"/>
+        <translation>Okyanus</translation>
     </message>
     <message>
         <source>Wheat</source>
-        <translation type="unfinished"/>
+        <translation>Buğday</translation>
     </message>
     <message>
         <source>Diagonal &amp;up</source>
