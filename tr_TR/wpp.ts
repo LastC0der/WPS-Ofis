@@ -2350,7 +2350,7 @@ Check</source>
     </message>
     <message>
         <source>Paste Animation</source>
-        <translation type="unfinished"/>
+        <translation>Animasyon Yapıştır</translation>
     </message>
     <message>
         <source>Master Layout...</source>
@@ -2378,7 +2378,7 @@ Check</source>
     </message>
     <message>
         <source>Notes Pages (3 slides per page)</source>
-        <translation type="unfinished"/>
+        <translation>Not Sayfaları (sayfa başına 3 slayt)</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2402,7 +2402,7 @@ Check</source>
     </message>
     <message>
         <source>Cell Margins</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Kenar Boşlukları</translation>
     </message>
     <message>
         <source>Set Multipicture Rotation</source>
@@ -2410,7 +2410,7 @@ Check</source>
     </message>
     <message>
         <source>Erase Table</source>
-        <translation type="unfinished"/>
+        <translation>Tabloyu Sil</translation>
     </message>
     <message>
         <source>Pause Audio</source>
@@ -2418,7 +2418,7 @@ Check</source>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sonu</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -7913,7 +7913,7 @@ Body: Spinner</source>
     </message>
     <message>
         <source>Newsflash</source>
-        <translation type="unfinished"/>
+        <translation>Flaş Haber</translation>
     </message>
     <message>
         <source>Exciting</source>
@@ -8719,7 +8719,7 @@ Ekle</translation>
     <name>wppContentPosition</name>
     <message>
         <source>cm</source>
-        <translation type="unfinished"/>
+        <translation>cm</translation>
     </message>
     <message>
         <source>&amp;From</source>
@@ -8758,7 +8758,7 @@ Ekle</translation>
     </message>
     <message>
         <source>&amp;Slide:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Slayt:</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
@@ -11352,7 +11352,7 @@ Araçları</translation>
     </message>
     <message>
         <source>&lt;date/time&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;tarih/saat&gt;</translation>
     </message>
     <message>
         <source>&lt;footer&gt;</source>
@@ -11379,7 +11379,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Comb</source>
-        <translation type="unfinished"/>
+        <translation>Tarak</translation>
     </message>
     <message>
         <source>Cube</source>
@@ -11391,7 +11391,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Fire</source>
-        <translation type="unfinished"/>
+        <translation>Ateş</translation>
     </message>
     <message>
         <source>News</source>
@@ -12970,7 +12970,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sonu</translation>
     </message>
     <message>
         <source>Insert Smart Diagram</source>
@@ -13582,7 +13582,7 @@ Template</source>
     </message>
     <message>
         <source>Control Menu List</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Menüsü Listesi</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
@@ -28450,7 +28450,7 @@ Master</source>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sonu</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -29456,7 +29456,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="unfinished"/>
+        <translation>Satır Sonu</translation>
     </message>
     <message>
         <source>Equal Size</source>
