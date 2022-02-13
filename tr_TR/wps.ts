@@ -1648,7 +1648,7 @@
     </message>
     <message>
         <source>Baseline</source>
-        <translation type="unfinished"/>
+        <translation>Taban Çizgisi</translation>
     </message>
     <message>
         <source>Dotted heavy underline</source>
@@ -16443,7 +16443,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Autotext List</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Metin Listesi</translation>
     </message>
     <message>
         <source>Copy Here</source>
@@ -17119,7 +17119,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Over Type</source>
-        <translation type="unfinished"/>
+        <translation>Girişin sonu</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -17151,15 +17151,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Control Menu List</source>
-        <translation type="unfinished"/>
+        <translation>Denetim Menüsü Listesi</translation>
     </message>
     <message>
         <source>Move With Text</source>
-        <translation type="unfinished"/>
+        <translation>Metinle Taşı</translation>
     </message>
     <message>
         <source>Move Here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya Taşı</translation>
     </message>
     <message>
         <source>Change Shapes</source>
@@ -26129,11 +26129,11 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;Special:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Özel:</translation>
     </message>
     <message>
         <source>&amp;Set As Default</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Varsayılan Olarak Ayarla</translation>
     </message>
     <message>
         <source>1.5 Lines</source>
@@ -26141,7 +26141,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Line break</source>
-        <translation type="unfinished"/>
+        <translation>Satır sonu</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -26149,7 +26149,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Aft&amp;er:</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;onra:</translation>
     </message>
     <message>
         <source>ch, 2, -316.8, 316.8, 0.5</source>
@@ -26161,7 +26161,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Baseline</source>
-        <translation type="unfinished"/>
+        <translation>Taban Çizgisi</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -26169,11 +26169,11 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;Before:</source>
-        <translation type="unfinished"/>
+        <translation>Ön&amp;ce:</translation>
     </message>
     <message>
         <source>Official Line Interval</source>
-        <translation type="unfinished"/>
+        <translation>Satır Aralığı</translation>
     </message>
     <message>
         <source>ch, 2, 0, 316.8, 0.5</source>
@@ -28299,11 +28299,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Use field &amp;name:</source>
-        <translation type="unfinished"/>
+        <translation>Alan &amp;adı kullan:</translation>
     </message>
     <message>
         <source>Merge options</source>
-        <translation type="unfinished"/>
+        <translation>Birleştirme seçenekleri</translation>
     </message>
     <message>
         <source>Merge to Different New Document</source>
@@ -32804,7 +32804,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Autotext List</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Metin Listesi</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
@@ -32913,7 +32913,7 @@ Ekle</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow</source>
-        <translation type="unfinished"/>
+        <translation>Akış çizelgesi ekle</translation>
     </message>
     <message>
         <source>InsertProcesson_Mind</source>
@@ -33221,7 +33221,7 @@ Support title, content</source>
     </message>
     <message>
         <source>Line break</source>
-        <translation type="unfinished"/>
+        <translation>Satır sonu</translation>
     </message>
     <message>
         <source>20 x 25 (500 Words)</source>
@@ -34449,7 +34449,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Field</source>
-        <translation type="unfinished"/>
+        <translation>Alan</translation>
     </message>
     <message>
         <source>Fin&amp;d</source>
@@ -37346,7 +37346,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Autotext List</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Metin Listesi</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
@@ -38541,7 +38541,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Cell margins</source>
-        <translation type="unfinished"/>
+        <translation>Hücre kenar boşlukları</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
