@@ -520,7 +520,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Dropbox</source>
-        <translation type="unfinished"/>
+        <translation>Dropbox</translation>
     </message>
 </context>
 <context>
