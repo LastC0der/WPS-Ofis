@@ -1083,7 +1083,7 @@ Easy mobile office.</source>
     <name>KThirdLoginWidgetDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source> Do you want to close it</source>
@@ -1107,11 +1107,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DropBox</source>
-        <translation type="unfinished"/>
+        <translation>DropBox</translation>
     </message>
     <message>
         <source>Twitter</source>
-        <translation type="unfinished"/>
+        <translation>Twitter</translation>
     </message>
 </context>
 <context>
