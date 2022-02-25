@@ -2013,7 +2013,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KTeamAddNormalMemberDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Share with mail</source>
@@ -2053,7 +2053,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KTeamEnterpriseManageDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Delete Team</source>
@@ -2080,7 +2080,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>dropbox</source>
-        <translation type="unfinished"/>
+        <translation>Dropbox</translation>
     </message>
     <message>
         <source>Add a third-party cloud</source>
@@ -2411,7 +2411,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KVipUpgradeGuideDialog</name>
     <message>
         <source>close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>privilege</source>
