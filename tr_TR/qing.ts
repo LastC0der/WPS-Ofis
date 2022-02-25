@@ -836,7 +836,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Create desktop shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü kısayolu oluşturun</translation>
     </message>
 </context>
 <context>
@@ -865,7 +865,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Duplicate Filenames</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen Dosya Adı</translation>
     </message>
     <message>
         <source>file-path&apos;s length is too long, please rename with a shorter one, or move the file to another location.</source>
@@ -4125,7 +4125,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Continue upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya yüklemeye devam et</translation>
     </message>
     <message>
         <source>file size exceed %1 limit, upgrade vip to continue upload</source>
@@ -8939,7 +8939,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Continue upload</source>
-        <translation type="unfinished"/>
+        <translation>Karşıya yüklemeye devam et</translation>
     </message>
     <message>
         <source>Free %1 cloud space was full,increase cloud space for continue synchronization</source>
