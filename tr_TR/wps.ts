@@ -1026,7 +1026,7 @@
     </message>
     <message>
         <source>Small caps</source>
-        <translation type="unfinished"/>
+        <translation>Küçük büyük harfler</translation>
     </message>
     <message>
         <source>All caps</source>
@@ -28627,7 +28627,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>S&amp;mall caps</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Küçük büyük harfler</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
