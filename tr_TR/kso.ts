@@ -16026,7 +16026,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>S&amp;mall Caps</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Küçük Büyük Harfler</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
