@@ -52497,7 +52497,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     </message>
     <message>
         <source>Save OFD File</source>
-        <translation type="unfinished"/>
+        <translation>OFD Dosyasını Kaydet</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
