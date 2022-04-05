@@ -770,7 +770,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>%1 files you selected exceed the maximum capacity for this group (%2 files left). Please select files again.</source>
-        <translation type="unfinished"/>
+        <translation>Seçtiğiniz %1 dosya, bu grup için maksimum kapasiteyi aşıyor (%2 dosya kaldı). Lütfen dosyaları tekrar seçin.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -778,7 +778,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Failed to check if the file can be uploaded!</source>
-        <translation type="unfinished"/>
+        <translation>Dosyanın yüklenip yüklenmeyeceği kontrol edilemedi!</translation>
     </message>
     <message>
         <source>%1 files you selected exceed the maximum capacity of this group. Please select files again.</source>
@@ -3905,7 +3905,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Choose File</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Seç</translation>
     </message>
     <message>
         <source>Scroll up</source>
@@ -3913,7 +3913,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Clear recent searches</source>
-        <translation type="unfinished"/>
+        <translation>Son aramaları temizle</translation>
     </message>
     <message>
         <source>Select to the start of the document</source>
@@ -3929,7 +3929,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the previous character</source>
-        <translation type="unfinished"/>
+        <translation>İmleci önceki karaktere taşı</translation>
     </message>
     <message>
         <source>Copy Image</source>
