@@ -1847,7 +1847,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Choose File</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Seç</translation>
     </message>
     <message>
         <source>No Content</source>
