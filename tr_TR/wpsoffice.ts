@@ -3080,7 +3080,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Choose File</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Seç</translation>
     </message>
     <message>
         <source>Scroll up</source>
@@ -3088,7 +3088,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Clear recent searches</source>
-        <translation type="unfinished"/>
+        <translation>Son aramaları temizle</translation>
     </message>
     <message>
         <source>Select to the start of the document</source>
@@ -3104,7 +3104,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Move the cursor to the previous character</source>
-        <translation type="unfinished"/>
+        <translation>İmleci önceki karaktere taşı</translation>
     </message>
     <message>
         <source>Copy Image</source>
