@@ -26258,7 +26258,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Save OFD File</source>
-        <translation type="unfinished"/>
+        <translation>OFD Dosyasını Kaydet</translation>
     </message>
     <message>
         <source>The selected slides are hidden.</source>
@@ -26266,7 +26266,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
-        <translation type="unfinished"/>
+        <translation>Bu dizine dosya yazma izniniz yok.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -26353,7 +26353,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
-        <translation type="unfinished"/>
+        <translation>Bu dizine dosya yazma izniniz yok.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -26361,7 +26361,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>PDF File(*%1)|*%1||</source>
-        <translation type="unfinished"/>
+        <translation>PDF Dosyası(*%1)|*%1||</translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
