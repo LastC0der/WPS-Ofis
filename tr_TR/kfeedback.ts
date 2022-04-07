@@ -89,7 +89,7 @@
     <name>KRatingWidget</name>
     <message>
         <source>Liked it</source>
-        <translation type="unfinished"/>
+        <translation>Beğendim</translation>
     </message>
     <message>
         <source>Just OK</source>
@@ -105,7 +105,7 @@
     </message>
     <message>
         <source>Didn&apos;t like it</source>
-        <translation type="unfinished"/>
+        <translation>Beğenmedim</translation>
     </message>
 </context>
 <context>
