@@ -59,11 +59,11 @@
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Çeviri Dili:</translation>
     </message>
     <message>
         <source>Menu bar:</source>
-        <translation type="unfinished"/>
+        <translation>Menü çubuğu:</translation>
     </message>
     <message>
         <source>Search</source>
@@ -71,7 +71,7 @@
     </message>
     <message>
         <source>Please sign in, </source>
-        <translation type="unfinished"/>
+        <translation>Lütfen oturum açın,</translation>
     </message>
     <message>
         <source>Shortcuts</source>
@@ -321,67 +321,67 @@
     </message>
     <message>
         <source>Launch (6)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (6)</translation>
     </message>
     <message>
         <source>Launch (7)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (7)</translation>
     </message>
     <message>
         <source>Launch (8)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (8)</translation>
     </message>
     <message>
         <source>Launch (9)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (9)</translation>
     </message>
     <message>
         <source>Launch (2)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (2)</translation>
     </message>
     <message>
         <source>Launch (3)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (3)</translation>
     </message>
     <message>
         <source>Launch (4)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (4)</translation>
     </message>
     <message>
         <source>Launch (5)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (5)</translation>
     </message>
     <message>
         <source>Launch (0)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (0)</translation>
     </message>
     <message>
         <source>Launch (1)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (1)</translation>
     </message>
     <message>
         <source>Launch (F)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (F)</translation>
     </message>
     <message>
         <source>Launch (B)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (B)</translation>
     </message>
     <message>
         <source>Launch (C)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (C)</translation>
     </message>
     <message>
         <source>Launch (D)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (D)</translation>
     </message>
     <message>
         <source>Launch (E)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (E)</translation>
     </message>
     <message>
         <source>Launch (A)</source>
-        <translation type="unfinished"/>
+        <translation>Başlat (A)</translation>
     </message>
     <message>
         <source>Delete</source>
