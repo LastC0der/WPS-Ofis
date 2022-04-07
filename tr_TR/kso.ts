@@ -13229,7 +13229,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Duplicate Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slaytı Çoğalt</translation>
     </message>
     <message>
         <source>Format Shape</source>
@@ -13250,7 +13250,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Color Tone Effect</source>
-        <translation type="unfinished"/>
+        <translation>Renk Tonu Efekti</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
@@ -13321,7 +13321,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Auto Point</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Nokta</translation>
     </message>
     <message>
         <source>QuickTime Movie File (*.mov)</source>
@@ -13329,11 +13329,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Insert JdeControl</source>
-        <translation type="unfinished"/>
+        <translation>JDE Denetimi Ekle</translation>
     </message>
     <message>
         <source>Insert Freeform</source>
-        <translation type="unfinished"/>
+        <translation>Serbest Çizim Ekle</translation>
     </message>
     <message>
         <source>Picture Reset</source>
@@ -13443,7 +13443,7 @@ Ekle</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Resimler(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm</translation>
     </message>
     <message>
         <source>Aspect Ratio</source>
@@ -13464,7 +13464,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert Scribble</source>
-        <translation type="unfinished"/>
+        <translation>Karalama Ekle</translation>
     </message>
     <message>
         <source>Insert Arrow</source>
@@ -13477,7 +13477,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert Curve</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Ekle</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -15018,7 +15018,7 @@ To use IRM you need to install the Windows Rights Management client. If you have
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished"/>
+        <translation>Son Değiştirme</translation>
     </message>
     <message>
         <source>Sorry, WPS Office crashes.
@@ -15224,7 +15224,7 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source> Education</source>
-        <translation type="unfinished"/>
+        <translation>Eğitim</translation>
     </message>
     <message>
         <source>Outlook Items</source>
@@ -15232,7 +15232,7 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source>Cancel Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydetmeyi İptal Et</translation>
     </message>
     <message>
         <source>Cannot save or upload. This file is being edited by other users.</source>
@@ -15256,15 +15256,15 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source> Personal</source>
-        <translation type="unfinished"/>
+        <translation>Bireysel</translation>
     </message>
     <message>
         <source> Business</source>
-        <translation type="unfinished"/>
+        <translation>Kurumsal</translation>
     </message>
     <message>
         <source>(Overdue)</source>
-        <translation type="unfinished"/>
+        <translation>(Süresi Geçmiş)</translation>
     </message>
     <message>
         <source>Everyone</source>
