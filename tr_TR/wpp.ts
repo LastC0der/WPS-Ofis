@@ -3816,11 +3816,11 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Left Up</source>
-        <translation type="unfinished"/>
+        <translation>Sol Üst</translation>
     </message>
     <message>
         <source>&amp;Left Up</source>
-        <translation type="unfinished"/>
+        <translation>So&amp;l Üst</translation>
     </message>
     <message>
         <source>The file or folder that you named already exists. Please use another name.</source>
