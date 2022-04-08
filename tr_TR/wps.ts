@@ -13323,7 +13323,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Graphic Styles</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Stilleri</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -13347,7 +13347,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Graphic Outline</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Anahat</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -13462,7 +13462,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Official Material</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Malzeme</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -13486,7 +13486,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Official Font</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Yazı Tipi</translation>
     </message>
     <message>
         <source>Sagittate Bullet </source>
@@ -39383,7 +39383,7 @@ Okuma</translation>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>Dictionary &amp;list</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sözlük listesi</translation>
     </message>
     <message>
         <source>Close</source>
