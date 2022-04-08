@@ -16106,7 +16106,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert Row Above</source>
-        <translation type="unfinished"/>
+        <translation>Yukarıya Satır Ekle</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -16122,7 +16122,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Insert Row Below</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıya Satır Ekle</translation>
     </message>
     <message>
         <source>RightToLeft Layout</source>
@@ -18910,7 +18910,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>ShortChart</source>
-        <translation type="unfinished"/>
+        <translation>Grafik</translation>
     </message>
     <message>
         <source>Table Row Context Menu</source>
