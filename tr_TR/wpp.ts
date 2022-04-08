@@ -4237,7 +4237,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönünde</translation>
     </message>
     <message>
         <source>All Slides</source>
@@ -4257,11 +4257,11 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>2 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>2 Tekerlek Teli</translation>
     </message>
     <message>
         <source>3 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>3 Tekerlek Teli</translation>
     </message>
     <message>
         <source>4 Spokes</source>
@@ -4273,11 +4273,11 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>&amp;2 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;2 Tekerlek Teli</translation>
     </message>
     <message>
         <source>&amp;3 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;3 Tekerlek Teli</translation>
     </message>
     <message>
         <source>&amp;4 Spokes</source>
@@ -4440,7 +4440,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Contract</source>
-        <translation type="unfinished"/>
+        <translation>Daralma</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -4448,11 +4448,11 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Font Style</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Stili</translation>
     </message>
     <message>
         <source>&amp;Font Color</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazı Tipi Rengi</translation>
     </message>
     <message>
         <source>Football</source>
@@ -9821,7 +9821,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Selection Audio</source>
-        <translation type="unfinished"/>
+        <translation>Ses Seç</translation>
     </message>
     <message>
         <source>Graphic Effects</source>
@@ -9989,7 +9989,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Graphic Line</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Çizgisi</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -10009,7 +10009,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Graphic Styles</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Stilleri</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -10140,7 +10140,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Reuse Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytları Yeniden Kullan</translation>
     </message>
     <message>
         <source>Docer Bullet</source>
@@ -10262,7 +10262,7 @@ Slide</source>
     </message>
     <message>
         <source>Selection Audio</source>
-        <translation type="unfinished"/>
+        <translation>Ses Seç</translation>
     </message>
     <message>
         <source>0.25 pt</source>
@@ -10413,7 +10413,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasöre Paketle</translation>
     </message>
     <message>
         <source>Rename Section</source>
@@ -12724,7 +12724,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasöre Paketle</translation>
     </message>
     <message>
         <source>RightToLeft Layout</source>
@@ -13889,7 +13889,7 @@ Master</source>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"/>
+        <translation>Büyüteç</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -15385,7 +15385,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Magnifier</source>
-        <translation type="unfinished"/>
+        <translation>Büyüteç</translation>
     </message>
     <message>
         <source>MoreFontOutline</source>
@@ -16064,7 +16064,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Güncelleştir</translation>
     </message>
 </context>
 <context>
@@ -16191,7 +16191,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasöre Paketle</translation>
     </message>
     <message>
         <source>Options</source>
@@ -17593,7 +17593,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Selection Audio</source>
-        <translation type="unfinished"/>
+        <translation>Ses Seç</translation>
     </message>
     <message>
         <source>0.25 pt</source>
@@ -19258,7 +19258,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Selection Audio</source>
-        <translation type="unfinished"/>
+        <translation>Ses Seç</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -20656,7 +20656,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Selection Audio</source>
-        <translation type="unfinished"/>
+        <translation>Ses Seç</translation>
     </message>
     <message>
         <source>Insert Shape</source>
@@ -22954,7 +22954,7 @@ Music</source>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasöre Paketle</translation>
     </message>
     <message>
         <source>From File</source>
@@ -24357,14 +24357,14 @@ Okuma</translation>
     <name>KxWppReuseSlidesCommand</name>
     <message>
         <source>Reuse Slides</source>
-        <translation type="unfinished"/>
+        <translation>Slaytları Yeniden Kullan</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>Dictionary &amp;list</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sözlük listesi</translation>
     </message>
     <message>
         <source>Close</source>
@@ -29965,7 +29965,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasöre Paketle</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -31092,7 +31092,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasöre Paketle</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -33520,7 +33520,7 @@ Music</source>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasöre Paketle</translation>
     </message>
     <message>
         <source>Organization Chart</source>
