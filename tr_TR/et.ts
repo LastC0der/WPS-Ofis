@@ -35844,7 +35844,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Graphic Styles</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Stilleri</translation>
     </message>
     <message>
         <source>Width: </source>
@@ -35868,7 +35868,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Graphic Outline</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Anahat</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -36052,7 +36052,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Convert Text in Picture</source>
-        <translation type="unfinished"/>
+        <translation>Görüntüdeki metinleri metin biçimine dönüştürün</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -36127,7 +36127,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Insert Into Cell</source>
-        <translation type="unfinished"/>
+        <translation>Hücreye Ekle</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -42345,7 +42345,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Insert Into Cell</source>
-        <translation type="unfinished"/>
+        <translation>Hücreye Ekle</translation>
     </message>
     <message>
         <source>More Gallery</source>
