@@ -13117,7 +13117,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>PivotTable Areas</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tablo Alanları</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
@@ -28258,7 +28258,7 @@ Doldurma</translation>
     </message>
     <message>
         <source>ShortChart</source>
-        <translation type="unfinished"/>
+        <translation>Grafik</translation>
     </message>
     <message>
         <source>NewChart HighLowLine</source>
@@ -37421,7 +37421,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Drag fields onto PivotTable area</source>
-        <translation type="unfinished"/>
+        <translation>Alanları Özet Tablo alanına sürükleyin</translation>
     </message>
     <message>
         <source>Move to Be&amp;ginning</source>
