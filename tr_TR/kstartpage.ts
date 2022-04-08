@@ -1288,7 +1288,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>update</source>
-        <translation type="unfinished"/>
+        <translation>Güncelleştir</translation>
     </message>
     <message>
         <source>remove from often use location list</source>
