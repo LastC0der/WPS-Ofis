@@ -12704,7 +12704,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Insert Row Above</source>
-        <translation type="unfinished"/>
+        <translation>Yukarıya Satır Ekle</translation>
     </message>
     <message>
         <source>Draw Shapes</source>
@@ -12720,7 +12720,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Insert Row Below</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıya Satır Ekle</translation>
     </message>
     <message>
         <source>Package into Folder</source>
