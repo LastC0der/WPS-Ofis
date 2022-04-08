@@ -333,7 +333,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>InsertRowsAbove.title</source>
-        <translation>Insert Rows Above</translation>
+        <translation>Üstüne Satır Ekle</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
@@ -2631,7 +2631,7 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>InsertRowsBelow.title</source>
-        <translation>Insert Rows Below</translation>
+        <translation>Altına Satır Ekle</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
