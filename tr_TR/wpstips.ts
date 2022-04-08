@@ -1327,7 +1327,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>InsertRowAbove.title</source>
-        <translation>Insert Rows Above</translation>
+        <translation>Üstüne Satır Ekle</translation>
     </message>
     <message>
         <source>RelocateDownOnOutlining.title</source>
@@ -2827,7 +2827,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>InsertRowBelow.title</source>
-        <translation>Insert Rows Below</translation>
+        <translation>Altına Satır Ekle</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
