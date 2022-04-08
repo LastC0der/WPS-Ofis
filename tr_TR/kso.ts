@@ -3645,7 +3645,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Font Style</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Stili</translation>
     </message>
     <message>
         <source>Font Size:</source>
@@ -16502,7 +16502,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönünde</translation>
     </message>
     <message>
         <source>&amp;X Rotation</source>
@@ -37879,7 +37879,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Dictionary list</source>
-        <translation type="unfinished"/>
+        <translation>Sözlük listesi</translation>
     </message>
     <message>
         <source>Add...</source>
