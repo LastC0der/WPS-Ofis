@@ -667,7 +667,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene</translation>
     </message>
     <message>
         <source>Check order</source>
