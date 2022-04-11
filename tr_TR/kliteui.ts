@@ -59,7 +59,7 @@
     </message>
     <message>
         <source>Try again.</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene.</translation>
     </message>
     <message>
         <source>Restore Failed</source>
@@ -110,7 +110,7 @@
     </message>
     <message>
         <source>Continue to Buy</source>
-        <translation type="unfinished"/>
+        <translation>Satın Almaya Devam Et</translation>
     </message>
     <message>
         <source>Customer Service</source>
@@ -130,7 +130,7 @@
     </message>
     <message>
         <source>Try again.</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene.</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The subscription failed.</source>
@@ -170,7 +170,7 @@
     </message>
     <message>
         <source>Subscription Error</source>
-        <translation type="unfinished"/>
+        <translation>Abonelik Hatası</translation>
     </message>
     <message>
         <source>Payment failed</source>
@@ -324,7 +324,7 @@
     </message>
     <message>
         <source>Try again.</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene.</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The subscription failed.</source>
@@ -348,7 +348,7 @@
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene</translation>
     </message>
     <message>
         <source>Purchase Error</source>
@@ -376,7 +376,7 @@
     </message>
     <message>
         <source>Subscription Error</source>
-        <translation type="unfinished"/>
+        <translation>Abonelik Hatası</translation>
     </message>
     <message>
         <source>Congratulations to join WPS VIP family!</source>
@@ -414,7 +414,7 @@
     </message>
     <message>
         <source>The file already exists. Do you want to overwrite it?</source>
-        <translation type="unfinished"/>
+        <translation>Dosya zaten var. Üzerine yazmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>Confirm upload</source>
@@ -658,7 +658,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Last open path</source>
-        <translation type="unfinished"/>
+        <translation>Son kaydedilen yol</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -666,11 +666,11 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>The file already exists. Is it replaced?</source>
-        <translation type="unfinished"/>
+        <translation>%1 Dosya zaten var.\n Değiştirildi mi?</translation>
     </message>
     <message>
         <source>Save encrypted document</source>
-        <translation type="unfinished"/>
+        <translation>Şifreli belgeyi kaydet</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
@@ -1113,7 +1113,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene</translation>
     </message>
     <message>
         <source>Authorize again</source>
