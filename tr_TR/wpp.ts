@@ -11313,7 +11313,7 @@ Araçları</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
+        <translation>Onay Madde İşaretleri</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -14714,7 +14714,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Switch to next window</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki pencereye geç</translation>
     </message>
     <message>
         <source>Paint Brush</source>
