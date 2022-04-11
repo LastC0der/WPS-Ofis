@@ -929,7 +929,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     </message>
     <message>
         <source>InsertRowAbove.content</source>
-        <translation>Add a new row directly above the selected row.</translation>
+        <translation>Seçili satırın hemen üstüne yeni bir satır ekleyin.</translation>
     </message>
     <message>
         <source>GrowFont.content</source>
