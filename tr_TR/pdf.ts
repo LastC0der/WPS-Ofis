@@ -6206,7 +6206,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Switch to next window</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki pencereye geç</translation>
     </message>
     <message>
         <source>Start Arrow</source>
@@ -10699,7 +10699,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Add text comment</source>
-        <translation type="unfinished"/>
+        <translation>Metin yorumu ekle</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -10715,11 +10715,11 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Blue Pen</source>
-        <translation type="unfinished"/>
+        <translation>Mavi Kalem</translation>
     </message>
     <message>
         <source>Black Pen</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Kalem</translation>
     </message>
     <message>
         <source>Draw oval;draw circle by holding Shift key</source>
@@ -10727,11 +10727,11 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Red Pen</source>
-        <translation type="unfinished"/>
+        <translation>Kırmızı Kalem</translation>
     </message>
     <message>
         <source>Area highlighting</source>
-        <translation type="unfinished"/>
+        <translation>Alan vurgulama</translation>
     </message>
     <message>
         <source>Draw arrow;draw straight arrow by holding Shift key</source>
@@ -10747,7 +10747,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>Text comment</source>
-        <translation type="unfinished"/>
+        <translation>Metin açıklaması</translation>
     </message>
 </context>
 <context>
