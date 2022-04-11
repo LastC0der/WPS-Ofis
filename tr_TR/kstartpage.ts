@@ -3380,7 +3380,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>try again</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene</translation>
     </message>
     <message>
         <source>re-authorize</source>
