@@ -11710,7 +11710,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
+        <translation>Onay Madde İşaretleri</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -13792,7 +13792,7 @@ Araçları</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
+        <translation>Onay Madde İşaretleri</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -13824,7 +13824,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Official Templates</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Şablonlar</translation>
     </message>
     <message>
         <source>Text Effects</source>
@@ -14261,7 +14261,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
+        <translation>Onay Madde İşaretleri</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -14744,7 +14744,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
+        <translation>Onay Madde İşaretleri</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -17283,7 +17283,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
+        <translation>Onay Madde İşaretleri</translation>
     </message>
     <message>
         <source>Two Period Moving Average</source>
@@ -18468,7 +18468,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Switch to next window</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki pencereye geç</translation>
     </message>
     <message>
         <source>Print Setup</source>
@@ -31749,7 +31749,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
+        <translation>Onay Madde İşaretleri</translation>
     </message>
     <message>
         <source>Underline Color</source>
@@ -48551,7 +48551,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
-        <translation>Onay İşareti Şeklindeki Madde İşareti</translation>
+        <translation>Onay Madde İşaretleri</translation>
     </message>
     <message>
         <source>Change Case</source>
