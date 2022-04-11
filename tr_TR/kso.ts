@@ -26583,7 +26583,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Last open path</source>
-        <translation type="unfinished"/>
+        <translation>Son kaydedilen yol</translation>
     </message>
     <message>
         <source>Network</source>
@@ -26595,7 +26595,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Save encrypted document</source>
-        <translation type="unfinished"/>
+        <translation>Şifreli belgeyi kaydet</translation>
     </message>
     <message>
         <source>WPS Remote</source>
