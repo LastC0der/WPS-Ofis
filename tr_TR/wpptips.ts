@@ -1363,7 +1363,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>InsertRowsAbove.content</source>
-        <translation>Add a new row directly above the selected row.</translation>
+        <translation>Seçili satırın hemen üstüne yeni bir satır ekleyin.</translation>
     </message>
     <message>
         <source>sp_Macros2.title</source>
