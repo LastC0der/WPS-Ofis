@@ -1,5 +1,104 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de_DE">
 <context>
+    <name>KxCustomShortCutDlg</name>
+    <message>
+        <source>&quot;</source>
+        <translation>&quot;</translation>
+    </message>
+    <message>
+        <source>&quot;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&quot;Tab</source>
+        <translation>&quot;Registerkarte</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>&amp;Categories:</source>
+        <translation>Kategorien(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Press &amp;new shortcut key:</source>
+        <translation>Neue Kurzwahltaste drücken(&amp;N):</translation>
+    </message>
+    <message>
+        <source>File menu</source>
+        <translation>Menü &quot;Datei&quot;</translation>
+    </message>
+    <message>
+        <source>All Commands</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>C&amp;ommands:</source>
+        <translation>Befehle(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Customize keyboard</source>
+        <translation>Tastatur anpassen</translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation>Makros</translation>
+    </message>
+    <message>
+        <source>Macr&amp;os:</source>
+        <translation>Makros(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Specify a command</source>
+        <translation>Befehl festlegen</translation>
+    </message>
+    <message>
+        <source>Specify keyboard sequence</source>
+        <translation>Tastaturfolge festlegen</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Beschreibung</translation>
+    </message>
+    <message>
+        <source>O&amp;ffice Shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation>Zuweisen(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;WPS Shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sa&amp;ve changes in:</source>
+        <translation>Änderungen speichern in(&amp;V):</translation>
+    </message>
+    <message>
+        <source>C&amp;urrent keys:</source>
+        <translation>Aktuelle Tasten(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Re&amp;set All...</source>
+        <translation>Alle zurücksetzen(&amp;S)...</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ContentChartErrorBarOptions</name>
     <message>
         <source>%</source>
@@ -280,6 +379,21 @@
     <message>
         <source>Sharpness</source>
         <translation>Schärfen</translation>
+    </message>
+</context>
+<context>
+    <name>ContentPictureTransparency</name>
+    <message>
+        <source>%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter %0 to 100% of value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1603,6 +1717,10 @@ Wird verwendet, um Prozessfluss darzustellen </translation>
         <translation>Himmelblau</translation>
     </message>
     <message>
+        <source>Currently using %1 keyboard shortcuts template, for more details of the differences between the two sets of templates WPS and Generic Office, please</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Bright Green</source>
         <translation>Grelles Grün</translation>
     </message>
@@ -1784,12 +1902,20 @@ Wird verwendet, um konstruktive Beziehungen darzustellen</translation>
         <translation>AutoFormen</translation>
     </message>
     <message>
+        <source>Delete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Custom</source>
         <translation>Benutzerdefiniert</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded, do you want to install them now?</source>
         <translation>Die neuesten Updates sind bereitheruntergeladen. Möchten Sie sie jetzt installieren?</translation>
+    </message>
+    <message>
+        <source>Preset Transparency</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -2540,6 +2666,10 @@ wenden Sie sich an die IT-Abteilung Ihres Unternehmens oder rufen Sie den WPS-Ku
     <message>
         <source>Outlined diamond</source>
         <translation>Konturierte Raute</translation>
+    </message>
+    <message>
+        <source>Custom Transparency</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -3599,6 +3729,868 @@ Zeigt hierarchische Beziehungen an</translation>
     <message>
         <source>Launch Media</source>
         <translation>Medienspieler starten</translation>
+    </message>
+</context>
+<context>
+    <name>kso_ksocomm</name>
+    <message>
+        <source>,</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>Nein</translation>
+    </message>
+    <message>
+        <source>&amp;No</source>
+        <translation>&amp;Nein</translation>
+    </message>
+    <message>
+        <source>*.*</source>
+        <translation>*.*</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Ja</translation>
+    </message>
+    <message>
+        <source> OEM</source>
+        <translation> OEM</translation>
+    </message>
+    <message>
+        <source>&amp;Yes</source>
+        <translation>&amp;Ja</translation>
+    </message>
+    <message>
+        <source>Hint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Name</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Öffnen</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation>Lesen</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove permission?</source>
+        <translation>Sind Sie sicher, dass die Berechtigung entfernt werden soll?</translation>
+    </message>
+    <message>
+        <source>Delete all Ribbon customizations for this program?</source>
+        <translation>Alle Menübandanpassungen für dieses Programm löschen?</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>_kso_etProductName</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Cannot use feature without credentials</source>
+        <translation>Die Benutzerfunktion kann ohne Anmeldedaten nicht verwendet werden.</translation>
+    </message>
+    <message>
+        <source>File Description</source>
+        <translation>Dateibeschreibung</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation>Überschreiben erzwingen</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Fehler</translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation>Makro</translation>
+    </message>
+    <message>
+        <source> Invalid</source>
+        <translation> Ungültig</translation>
+    </message>
+    <message>
+        <source>WPS Document</source>
+        <translation>WPS-Dokument</translation>
+    </message>
+    <message>
+        <source>You cannot change your access level. If you want to change your access level, request that another user with Full Control change your access level.</source>
+        <translation>Sie können Ihre Zugriffebene nicht ändern. Wenn Sie Ihre Zugriffebene ändern möchten, beantragen Sie bei einem Benutzer mit Vollzugriff eine Änderung Ihrer Zugriffebene.</translation>
+    </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
+        <translation>Berechtigung %1 ist momentan eingeschränkt. Dateien mit eingeschränkter Berechtigung können nicht in diese Präsentation eingefügt werden,</translation>
+    </message>
+    <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Simulation Error Recovery Help</source>
+        <translation>WPS-Simulation Hilfe zur Fehlerbehebung</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation>Unbeschränkter Zugriff</translation>
+    </message>
+    <message>
+        <source>New Document.doc</source>
+        <translation>Neues Dokument.doc</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_kso_wpsProductName</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation>WPS PDF</translation>
+    </message>
+    <message>
+        <source>Visio Files</source>
+        <translation>Visio-Dateien</translation>
+    </message>
+    <message>
+        <source>Reading Data</source>
+        <translation>Daten werden gelesen</translation>
+    </message>
+    <message>
+        <source> Development</source>
+        <translation> Entwicklung</translation>
+    </message>
+    <message>
+        <source>Access Files</source>
+        <translation>Access-Dateien</translation>
+    </message>
+    <message>
+        <source>Excel WorkBooks</source>
+        <translation>Excel-Arbeitsmappen</translation>
+    </message>
+    <message>
+        <source>Access Level</source>
+        <translation>Zugriffebene</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Error Recovery Help</source>
+        <translation>WPS Spreadsheets Hilfe zur Fehlerbehebung</translation>
+    </message>
+    <message>
+        <source>(Can use %d days)</source>
+        <translation>(%d Tage verfügbar)</translation>
+    </message>
+    <message>
+        <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
+        <translation>Das von Ihnen ausgewählte Dateiformat ist nicht das WPS-Dateiformat. Es ist vielleicht mit Ihrer Organisation nicht kompatibel. Möchten Sie wirklich mit diesem Dateiformat speichern?</translation>
+    </message>
+    <message>
+        <source>Cannot save or upload due to bad network condition.</source>
+        <translation>Speichern oder Hochladen in die Cloud aufgrund von schlechtem Netzwerkzustand nicht möglich.</translation>
+    </message>
+    <message>
+        <source>New Workbook.xls</source>
+        <translation>Neue Arbeitsmappe.xls</translation>
+    </message>
+    <message>
+        <source>New Workbook.uos</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Calendar Item</source>
+        <translation>Kalenderelement</translation>
+    </message>
+    <message>
+        <source>Change Permission...</source>
+        <translation>Berechtigung zum Ändern...</translation>
+    </message>
+    <message>
+        <source>The following addin has not passed the antivirus examination. To assure security, %s will refuse to load it. 
+
+Name: %s
+Description: %s
+File: %s
+</source>
+        <translation>Folgende Add-In wird noch nicht vom Antivirusprogramm geprüft. Zur Gewährleistung der Sicherheit wird das Add-In nicht geladen.
+
+Name:%s
+Beschreibung:%s
+Datei:%s
+</translation>
+    </message>
+    <message>
+        <source>Cannot save or upload. This file has been updated by other users.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Project Files</source>
+        <translation>Projektdateien</translation>
+    </message>
+    <message>
+        <source>Backing up</source>
+        <translation>Sicherung wird ausgeführt</translation>
+    </message>
+    <message>
+        <source>Office Files</source>
+        <translation>Office-Dateien</translation>
+    </message>
+    <message>
+        <source>The expiration date is not valid. Enter a date between tomorrow and 2100/12/31.</source>
+        <translation>Das Ablaufdatum ist nicht gültig. Geben Sie ein Datum zwischen morgen und 31.12.2100 ein.</translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation>Benutzer ändern...</translation>
+    </message>
+    <message>
+        <source>Restricted Access(Change)</source>
+        <translation>Beschränkter Zugriff (Ändern)</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <comment>_kso_ksoProductName</comment>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation>Dateiname</translation>
+    </message>
+    <message>
+        <source>File Size</source>
+        <translation>Dateigröße</translation>
+    </message>
+    <message>
+        <source>File Type</source>
+        <translation>Dateityp</translation>
+    </message>
+    <message>
+        <source>Network transfer failed! Error code: %d</source>
+        <translation>Netzwerkübertragung fehlgeschlagen! Fehlercode: %d</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot inert a file into self. (%1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS SpreadSheet</source>
+        <translation>WPS SpreadSheet</translation>
+    </message>
+    <message>
+        <source>The password is incorrect, please reenter.
+You can choose Read-only button to open it as read-only.</source>
+        <translation>Falsches Kennwort. Geben Sie erneut ein.
+Sie können das Dokument schreibgeschütz öffnen.</translation>
+    </message>
+    <message>
+        <source>Journal Item</source>
+        <translation>Journalelement</translation>
+    </message>
+    <message>
+        <source>Pdf Thanks To</source>
+        <translation>Für diese Software gilt Folgendes:
+Das FreeType-Projekt erhält eine kostenlose Lizenz gemäß den Bestimmungen der FreeType-Lizenz.
+JBig2 verwendet den Open-Source-Code des Binärdateiimage-Codecs gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
+Lcms verwendet den Open-Source-Code der Farbkonvertierungsbibliothek gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
+LibJPEG verwendet den Open-Source-Code des JPEG-Image-Codecs gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
+OpenJPEG verwendet den Open-Source-Code des JPEG 2000-Codecs gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
+PDFium verwendet den Open-Source-Code des PDF-Lesemoduls gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
+Zlib verwendet die DEFLATE-Komprimierung und die Dekomprierungsalgorithmus-Bibliothek gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
+Sqlite3 verwendet den Open-Source-Code des Datenspeichers und Lesemoduls gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.</translation>
+    </message>
+    <message>
+        <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
+1. Try changing to another user account to open the document;
+2. Request permission update from %1.</source>
+        <translation>Die Berechtigung für dieses Dokument ist zurzeit eingeschränkt. Sie verfügen nicht über Berechtigungen zum Öffnen dieser Datei. Sie haben folgende Möglichkeiten: 
+1. Wechseln Sie zu einem anderen Benutzerkonto, um das Dokument zu öffnen.
+2. Beantragen Sie eine Aktualisierung Ihrer Berechtigungen bei %1.</translation>
+    </message>
+    <message>
+        <source>Permission will expire within %1 days. </source>
+        <translation>Berechtigung läuft in %1 Tagen ab. </translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy setting are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <translation>Dieser Dienst ist vorübergehend nicht verfügbar. Vergewissern Sie sich, dass Sie mit dem Server verbunden sind. Dieser Fehler kann auftreten, weil Sie offline arbeiten, Ihre Proxyeinstellungen Ihre Verbindung behindern oder zeitweilig Probleme mit dem Netzwerk auftreten.</translation>
+    </message>
+    <message>
+        <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
+        <translation>Sendebericht noch nicht abgeschlossen. Versand trotzdem beenden?</translation>
+    </message>
+    <message>
+        <source>WPS Writer Error Recovery Help</source>
+        <translation>WPS Writer Hilfe zur Fehlerbehebung</translation>
+    </message>
+    <message>
+        <source>(Not limited)</source>
+        <translation>(Unbegrenzt)</translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <comment>_kso_filesearch_FileName</comment>
+        <translation>Dateiname</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <translation>Nummerierung</translation>
+    </message>
+    <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <translation>Diese Software darf nur von einem einzelnen Benutzer für den privaten Gebrauch verwendet werden. Sie darf nicht für gewerbliche Zwecke verwendet werden, wie z. B. Produktion, Handel o.ä. ||Diese Software umfasst: Das FreeType-Projekt: Die kostenlose Autorisierung erhält sie gemäß den Autorisierungsbestimmungen der FreeType-Lizenz. Die chinesische Wortsegmentierung, die chinesischen phonetischen Annotationen und die Technologie für die Konvertierung zwischen vereinfachtem und traditionellem Chinesisch wurde vom Information Retrieval Center, Harbin Institute of Technology, bereitgestellt. Die Hunspell-Rechtschreibprüfung, Quellcode in Hunspell, ist für den Quellcode in einer Open Source-Lizenzvereinbarung nach MPL 1.1/GPL 2.0/LGPL 2.1 verfügbar.</translation>
+    </message>
+    <message>
+        <source>Select Names</source>
+        <translation>Namen auswählen</translation>
+    </message>
+    <message>
+        <source>Restricted Access(Full Control)</source>
+        <translation>Beschränkter Zugriff (Vollzugriff)</translation>
+    </message>
+    <message>
+        <source>Dump File</source>
+        <translation>Dumpdatei</translation>
+    </message>
+    <message>
+        <source>WPS Simulation has encountered a problem and needs to close.</source>
+        <translation>Ein Problem ist aufgetreten. WPS-Simulation muss geschlossen werden.</translation>
+    </message>
+    <message>
+        <source> Community</source>
+        <translation>Community</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; TH Sarabun PSK, and gets its free authorization according to the SIL OPEN FONT LICENSE Version 1.1; TH Sarabun New, free authorization according to GPL 2.0.</source>
+        <translation>Diese Software enthält: das FreeType-Projekt. Die kostenlose Autorisierung erhält sie gemäß den Autorisierungsbestimmungen der FreeType-Lizenz. Die chinesische Wortsegmentierung, die chinesischen phonetischen Annotationen und die Technologie für die Konvertierung zwischen vereinfachtem und traditionellem Chinesisch wurden vom Information Retrieval Center, Harbin Institute of Technology bereitgestellt. Die Hunspell-Rechtschreibprüfung, Quellcode in Hunspell, ist für den Quellcode in einer Open Source-Lizenzvereinbarung nach MPL 1.1/GPL 2.0/LGPL 2.1 verfügbar. Außerdem enthält sie die Schriftart TH Sarabun PSK, kostenlose Autorisierung gemäß der SIL OPEN FONT LICENSE Version 1.1 und die Schriftart TH Sarabun New, kostenlose Autorisierung gemäß GPL 2.0.</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>Vorlagen</translation>
+    </message>
+    <message>
+        <source>Backup</source>
+        <translation>Sicherung</translation>
+    </message>
+    <message>
+        <source>Backuping the file, please wait...</source>
+        <translation>Dateien werden gesichert.Seien Sie bitte geduldig...</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation>Ändern</translation>
+    </message>
+    <message>
+        <source>Document Image Files</source>
+        <translation>Dokumentbild-Dateien</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Benutzerdefiniert</translation>
+    </message>
+    <message>
+        <source>MyNetworkPlaces</source>
+        <translation>Netzwerkumgebung</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_TX_DESC_WPP_APP_NAME</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <comment>_kso_TxDesc_AllFile</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>Data transfer completed, thanks for your support.</source>
+        <translation>Datenübertragung abgeschlossen. Vielen Dank für Ihre Unterstützung.</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_wppProductName</comment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <translation>Speichern läuft</translation>
+    </message>
+    <message>
+        <source>System and Exception Information File</source>
+        <translation>System- und Ausnahmeinformationendatei</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation>Dokument</translation>
+    </message>
+    <message>
+        <source>The file is loading, please wait.</source>
+        <translation>Die Datei wird geladen. Seien Sie bitte geduldig.</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>MyComputer</source>
+        <translation>Mein Computer</translation>
+    </message>
+    <message>
+        <source>Verifying your logon information for opening content with restricted permission</source>
+        <translation>Überprüfen Sie die Anmeldeinformationen für das Öffnen von Inhalten mit beschränkten Rechten.</translation>
+    </message>
+    <message>
+        <source>Ribbon Tabs</source>
+        <translation>Menüband-Registerkarten</translation>
+    </message>
+    <message>
+        <source>Opening</source>
+        <translation>Wird geöffnet</translation>
+    </message>
+    <message>
+        <source>Information Rights Management(IRM) in Microsoft Office helps prevent sensitive documents and e-mail messages form being forwarded, edited or copied by unauthorized people.
+
+To use IRM you need to install the Windows Rights Management client. If you have an existing version of the Windows Rights Management client installed you will need to uninstall it first and then download the lastest version of the Windows Rights Management client. Do you want to download the lastest version now? </source>
+        <translation>Information Rights Management (IRM) in Microsoft Office verhindert, dass vertrauliche Dokumente und E-Mail-Nachrichten von Unbefugten weitergeleitet, bearbeitet oder kopiert werden können.
+
+Um IRM verwenden zu können, müssen Sie den Windows Rights Management-Client installieren. Wenn eine Version des Windows Rights Management-Clients installiert ist, müssen Sie ihn erst deinstallieren und dann die neueste Version des Windows Rights Management-Clients herunterladen. Möchten Sie die neueste Version jetzt herunterladen? </translation>
+    </message>
+    <message>
+        <source>Hyperlinks may harm your computer and data. For the protection of computer, super link please click only trusted sources. Do you want to continue?</source>
+        <translation>Hyperlinks können eine Gefahr für Ihren Computer und Ihre Daten darstellen. Klicken Sie nur auf Hyperlinks von vertrauenswürdigen Quellen, um Ihren Computer zu schützen. Möchten Sie fortfahren?</translation>
+    </message>
+    <message>
+        <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <translation>Der Dienst unter %1 ist vorübergehend nicht verfügbar. Vergewissern Sie sich, dass Sie mit dem Server verbunden sind. Dieser Fehler kann auftreten, weil Sie offline arbeiten, Ihre Proxyeinstellungen Ihre Verbindung behindern oder zeitweilig Probleme mit dem Netzwerk auftreten.</translation>
+    </message>
+    <message>
+        <source>(Not activated)</source>
+        <translation>(Deaktiviert)</translation>
+    </message>
+    <message>
+        <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
+        <translation>Die Informationsrechte (Information Rights Management, IRM) funktionieren nicht, wenn ein Debugger läuft. Schließen Sie den Debugger und versuchen Sie es erneut.</translation>
+    </message>
+    <message>
+        <source>(Press ESC to cancel)</source>
+        <translation>zum  ESC  abbrechen drücken</translation>
+    </message>
+    <message>
+        <source>E-mail addresses must be in the form of &apos;someone@example.com&apos;. The following e-mail address is not valid or could not be resolved: &apos;%1&apos;. Verify that this is a valid e-mail address.</source>
+        <translation>E-Mail-Adressen müssen in der Form &apos;Name@Beispiel.com&apos; geschrieben werden. Die folgende E-Mail-Adresse ist nicht gültig oder konnte nicht aufgelöst werden. &apos;%1&apos;. Überprüfen Sie, ob es sich um eine gültige E-Mail-Adresse handelt.</translation>
+    </message>
+    <message>
+        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
+        <translation>WPS hat ein Problem mit der Konfiguration Ihrer Informationsrechte (Information Rights Management, IRM) erkannt. Wenn dieses Problem weiter besteht, reparieren Sie Ihr Produkt über die Systemsteuerung.</translation>
+    </message>
+    <message>
+        <source>Last Modified</source>
+        <translation>Letzte Änderung</translation>
+    </message>
+    <message>
+        <source>Sorry, WPS Office crashes.
+You can click the button to recover files you work on.</source>
+        <translation>Entschuldigung für den Absturz von WPS Office.
+Sie können auf die Schaltfläche klicken, um die früher bearbeiteten Dateien wiederherzustellen.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove the user?</source>
+        <translation>Sind Sie sicher, dass der Benutzer entfernt werden soll?</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
+        <translation>Ein Problem ist aufgetreten. WPS Spreadsheets muss geschlossen werden.</translation>
+    </message>
+    <message>
+        <source>Your system is missing the required codec that supports this media format</source>
+        <translation>Auf Ihrem System fehlt das erforderte Codec, das diese Medienformat unterstützt</translation>
+    </message>
+    <message>
+        <source>File loaded</source>
+        <translation>Datei geladen</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted. Only specified users can access this content. </source>
+        <translation>Die Zugriffsberechtigung ist momentan eingeschränkt. Nur angegebene Benutzer können auf diesen Inhalt zugreifen. </translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <translation>%s Fehler während der regulären Sicherung aufgetreten. Sie können Folgendes versuchen: 
+•Prüfen Sie, ob das Sicherungsverzeichnis Schreibrechte hat, oder ändern Sie das Sicherungsverzeichnis.
+•Machen Sie die vorherigen Vorgänge [rückgängig] und [speichern] Sie; 
+•[Speichern unter...] Textdateien（*.txt）; 
+•Übertragen Sie mit [Kopieren/Einfügen] die Inhalte in die neue Datei; 
+•Brechen Sie die Überarbeitung der Datei ab. 
+(%s)</translation>
+    </message>
+    <message>
+        <source>call API</source>
+        <translation>API aufrufen</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Error Recovery Help</source>
+        <translation>WPS Presentation Hilfe zur Fehlerbehebung</translation>
+    </message>
+    <message>
+        <source>Files of Type</source>
+        <translation>Dateien vom Typ </translation>
+    </message>
+    <message>
+        <source>WPS Office Business Version</source>
+        <translation>WPS Office Business Version</translation>
+    </message>
+    <message>
+        <source>mail feedback</source>
+        <translation>Mail-Feedback</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Neu starten</translation>
+    </message>
+    <message>
+        <source>Restricted Access(Read)</source>
+        <translation>Beschränkter Zugriff (Lesen)</translation>
+    </message>
+    <message>
+        <source>Binders</source>
+        <translation>Sammelmappen</translation>
+    </message>
+    <message>
+        <source>Send out successfully</source>
+        <translation>Versand erfolgreich</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <comment>_kso_SaveToFileDialogName</comment>
+        <translation>Speichern unter</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <translation>%s Fehler während der regulären Sicherung aufgetreten. Sie können Folgendes versuchen: 
+•Prüfen Sie, ob das Sicherungsverzeichnis Schreibrechte hat, oder ändern Sie das Sicherungsverzeichnis.
+•Machen Sie die vorherigen Vorgänge [rückgängig] und [speichern] Sie. 
+•Übertragen Sie mit [Kopieren/Einfügen] die Inhalte in die neue Datei. 
+•Brechen Sie die Überarbeitung der Datei ab. 
+(%s)</translation>
+    </message>
+    <message>
+        <source>New Slide</source>
+        <translation>Neue 
+Folie</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation>Speichern unter</translation>
+    </message>
+    <message>
+        <source>You do not have credentials that allow you to open this document.
+Do you want to open it using a different set of credentials?</source>
+        <translation>Sie verfügen nicht über Berechtigungen zum Öffnen dieser Datei.
+Möchten Sie sie mit anderen Anmeldedaten öffnen?</translation>
+    </message>
+    <message>
+        <source>Terminate sending</source>
+        <translation>Versand beenden</translation>
+    </message>
+    <message>
+        <source>run VBA</source>
+        <translation>VBA ausführen</translation>
+    </message>
+    <message>
+        <source>Request additional permissions...</source>
+        <translation>Beantragen zusätzlicher Berechtigungen...</translation>
+    </message>
+    <message>
+        <source>Selecting a permission policy will replace any existing permission that you&apos;ve set for this document. Do you want to continue?</source>
+        <translation>Bei Auswahl einer Berechtigungsrichtlinie werden alle vorhandenen Berechtigungen, die Sie für dieses Dokument festgelegt haben, ersetzt. Möchten Sie fortfahren?</translation>
+    </message>
+    <message>
+        <source>Bullets</source>
+        <translation>Aufzählungszeichen</translation>
+    </message>
+    <message>
+        <source>Task Item</source>
+        <translation>Aufgabenelement</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <translation>Diese Software umfasst: The FreeType-Projekt. Die kostenlose Autorisierung erhält sie gemäß den Autorisierungsbestimmungen der The FreeType-Lizenz. Die chinesische Wortsegmentierung, die chinesischen phonetischen Annotationen und die Technologie für die Konvertierung zwischen vereinfachtem und traditionellem Chinesisch wurde vom Information Retrieval Center, Harbin Institute of Technology bereitgestellt. Die Hunspell-Rechtschreibprüfung, Quellcode in Hunspell, ist für den Quellcode in einer Open Source-Lizenzvereinbarung nach MPL 1.1/GPL 2.0/LGPL 2.1 verfügbar.</translation>
+    </message>
+    <message>
+        <source>R&amp;equest permissions</source>
+        <translation>B&amp;erechtigungen anfordern</translation>
+    </message>
+    <message>
+        <source> Thai Edition </source>
+        <comment>_kso_versionType_TH_PRO</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Writer has encountered a problem and needs to close.</source>
+        <translation>Ein Problem ist aufgetreten. WPS Writer muss geschlossen werden.</translation>
+    </message>
+    <message>
+        <source>PowerPointPresentations</source>
+        <translation>PowerPoint-Präsentationen</translation>
+    </message>
+    <message>
+        <source>WPS Office Crashing Information</source>
+        <translation>WPS Office Crashing Information</translation>
+    </message>
+    <message>
+        <source>Note Item</source>
+        <translation>Notizelement</translation>
+    </message>
+    <message>
+        <source>Permission of (%1)</source>
+        <translation>Berechtigung von (%1)</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted by a permission policy. Do you want to stop using a permission policy and specify permission for individual users or groups?</source>
+        <translation>Die Berechtigung ist derzeit durch eine Berechtigungsrichtlinie beschränkt. Möchten Sie die Verwendung der Berechtigungsrichtlinie beenden und Berechtigungen für einzelne Benutzer oder Gruppen angeben?</translation>
+    </message>
+    <message>
+        <source>Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
+        <translation>Warnung: Dieses Programm ist durch US-amerikanische Urheberrechtsgesetze und Bestimmungen internationaler Verträge geschützt. Unbefugte Vervielfältigung oder unbefugter Vertrieb dieses Programms oder eines Teils davon sind strafbar. Dies wird sowohl straf- als auch zivilrechtlich verfolgt und kann schwere Strafen und Schadenersatzforderungen zur Folge haben.</translation>
+    </message>
+    <message>
+        <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
+        <translation>Ein unerwarteter Fehler ist aufgetreten. Versuchen Sie es später erneut oder verständigen Sie Ihren Systemadministrator.</translation>
+    </message>
+    <message>
+        <source>View Permission...</source>
+        <translation>Berechtigung zum Anzeigen...</translation>
+    </message>
+    <message>
+        <source>&lt;a normal=&apos;cbsend&apos;&gt;Send &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;the error report&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; to help us improve our products.&lt;/a&gt;</source>
+        <translation>&lt;a normal=&apos;cbsend&apos;&gt;Schicken &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;Die Fehler berichten&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; helfen, unsere Produkte und Dienste zu verbessern.&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>The clock on this computer has been tampered with. Please reset the system clock and try again later</source>
+        <translation>Die Uhr auf diesem Computer wurde geändert. Bitte stellen Sie die Systemuhr zurück und versuchen Sie es später noch einmal.</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>_kso_krim_Permission_Custom</comment>
+        <translation>Benutzerdefiniert</translation>
+    </message>
+    <message>
+        <source>WebPages</source>
+        <translation>Webseiten</translation>
+    </message>
+    <message>
+        <source>microblog feedback</source>
+        <translation>Microblog-Feedback</translation>
+    </message>
+    <message>
+        <source> Education</source>
+        <translation> Ausbildung</translation>
+    </message>
+    <message>
+        <source>Outlook Items</source>
+        <translation>Outlook-Elemente</translation>
+    </message>
+    <message>
+        <source>Cancel Save</source>
+        <translation>Speichern abbrechen</translation>
+    </message>
+    <message>
+        <source>Cannot save or upload. This file is being edited by other users.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Workbook.xlsx</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
+        <translation>Sind Sie sicher, dass diese gespeicherten Anmeldedaten gelöscht werden sollen? Sie können diese Anmeldedaten nur verwenden, wenn Sie sie wieder aktivieren.</translation>
+    </message>
+    <message>
+        <source>DataConnection Files</source>
+        <translation>Datenverknüpfungsdateien</translation>
+    </message>
+    <message>
+        <source>Load system plugins failed, please make sure your system&apos;s flash plugins be correct install!</source>
+        <translation>Laden der System-Plugins fehlgeschlagen. Bitte stellen Sie sicher, dass die Flash-Plugins Ihres Systems korrekt installiert sind.</translation>
+    </message>
+    <message>
+        <source> Personal</source>
+        <translation> Persönlich</translation>
+    </message>
+    <message>
+        <source> Business</source>
+        <translation> Geschäft</translation>
+    </message>
+    <message>
+        <source>(Overdue)</source>
+        <translation>(Überfällig)</translation>
+    </message>
+    <message>
+        <source>Everyone</source>
+        <translation>Jeder</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation>Beschränkter Zugriff</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when backup is running! Please try the  following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Presentation has encountered a problem and needs to close.</source>
+        <translation>Ein Problem ist aufgetreten. WPS Presentation muss geschlossen werden.</translation>
+    </message>
+    <message>
+        <source>This will set the default permission policy for all documents, workbooks, forms and presentations with restricted permission.</source>
+        <translation>Damit wird die Standardrichtlinie für Berechtigungen für alle Dokumente, Arbeitsmappen, Formulare und Präsentationen mit beschränkten Berechtigungen eingerichtet.</translation>
+    </message>
+    <message>
+        <source>bbs feedback</source>
+        <translation>BBS-Feedback</translation>
+    </message>
+    <message>
+        <source>Publisher Files</source>
+        <translation>Publisher-Dateien</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Warnung</translation>
+    </message>
+    <message>
+        <source>Save as Copy</source>
+        <translation>Als Kopie speichern</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <translation>Dieser Dienst ist vorübergehend nicht verfügbar. Vergewissern Sie sich, dass Sie mit dem Server verbunden sind. Dieser Fehler kann auftreten, weil Sie offline arbeiten, Ihre Proxyeinstellungen Ihre Verbindung behindern oder zeitweilig Probleme mit dem Netzwerk auftreten.</translation>
+    </message>
+    <message>
+        <source>Unrestricted</source>
+        <translation>Unbeschränkt</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>Alle Dateien</translation>
+    </message>
+    <message>
+        <source>WPS office has identified a potential safety problems.
+This position may not be safe.</source>
+        <translation>WPS Office hat ein mögliches Sicherheitsproblem erkannt.
+Diese Position ist möglicherweise nicht sicher.</translation>
+    </message>
+    <message>
+        <source>The address to request additional permissions is invalid. Enter a valid e-mail or Web address. Example: someone@example.com.</source>
+        <translation>Die Adresse zur Anforderung zusätzlicher Berechtigungen ist ungültig. Geben Sie eine gültige E-Mail- oder Webadresse ein. Beispiel: Name@Beispiel.com</translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation>Vollzugriff</translation>
+    </message>
+    <message>
+        <source>(Have not used)</source>
+        <translation>(Nicht in Gebrauch)</translation>
+    </message>
+    <message>
+        <source>(version:%d)</source>
+        <translation>(Version:%d)</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation>Alle Dateien(*.*)</translation>
+    </message>
+    <message>
+        <source>Restoring Operation</source>
+        <comment>_kso_io_Progress_IncBackupRecover</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Contact Item</source>
+        <translation>Kontaktelement</translation>
+    </message>
+    <message>
+        <source>Text Or Property</source>
+        <translation>Text oder Eigenschaft</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
+        <translation>Ihre Sitzung mit dem Benutzerkonto %1 ist abgelaufen. Der Dienst muss Ihre Anmeldedaten erneut überprüfen, bevor Sie fortfahren. Wenn Sie aufgefordert werden, geben Sie den Benutzernamen und das Kennwort für %1 ein. Ansonsten könnte das Dokument verloren gehen.</translation>
+    </message>
+    <message>
+        <source>Cannot use test manifests against production servers.</source>
+        <translation>Testmanifeste können mit Produktionsservern nicht verwendet werden.</translation>
+    </message>
+    <message>
+        <source>&amp;Change User</source>
+        <translation>&amp;Benutzer ändern</translation>
+    </message>
+    <message>
+        <source>Mail Item</source>
+        <translation>E-Mail-Element</translation>
+    </message>
+    <message>
+        <source> Professional</source>
+        <translation> Professionell</translation>
+    </message>
+    <message>
+        <source>PhotoDraw Files</source>
+        <translation>PhotoDraw-Dateien</translation>
     </message>
 </context>
 <context>
@@ -10315,6 +11307,45 @@ Doppelklicken Sie oder verwenden Sie das Popup-Menü, um die Datei zu öffnen. D
     </message>
 </context>
 <context>
+    <name>KAxOleObjectSite</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Öffnen</translation>
+    </message>
+    <message>
+        <source>Cannot open this object.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>No, thanks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open failed!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Warnung</translation>
+    </message>
+    <message>
+        <source>WPS Office cannot open this object. Link to this object might be invalid or changed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Office cannot open this object. You can open it on your computer with other apps. To save your changes, please insert it after changing it with other apps.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KPromeActiveCodeDlg</name>
     <message>
         <source>OK</source>
@@ -10517,6 +11548,10 @@ Doppelklicken Sie oder verwenden Sie das Popup-Menü, um die Datei zu öffnen. D
         <translation>Nein (&amp;N)</translation>
     </message>
     <message>
+        <source>Continue</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Ignore (&amp;I)</source>
         <translation>Ignorieren (&amp;I)</translation>
     </message>
@@ -10648,6 +11683,10 @@ Doppelklicken Sie oder verwenden Sie das Popup-Menü, um die Datei zu öffnen. D
         <translation>Lizenzvereinbarung</translation>
     </message>
     <message>
+        <source>trial unlimited</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Technical Support</source>
         <translation>Technischer Support</translation>
     </message>
@@ -10730,6 +11769,10 @@ Doppelklicken Sie oder verwenden Sie das Popup-Menü, um die Datei zu öffnen. D
         <translation>OK</translation>
     </message>
     <message>
+        <source>Label as classified</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
@@ -10744,33 +11787,6 @@ Doppelklicken Sie oder verwenden Sie das Popup-Menü, um die Datei zu öffnen. D
 </context>
 <context>
     <name>KxChartTypeDialogClass</name>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Current Chart Name</source>
-        <translation>Aktueller Diagrammname</translation>
-    </message>
-    <message>
-        <source>TextLabelForGroupChart</source>
-        <translation>Beschriftung für Gruppendiagramm</translation>
-    </message>
-    <message>
-        <source>&amp;Manage Templates...</source>
-        <translation>Vorlagen verwalten... (&amp;M)</translation>
-    </message>
-    <message>
-        <source>Delete, move, or rename your templates.</source>
-        <translation>Vorlagen löschen, verschieben oder umbenennen.</translation>
-    </message>
-</context>
-<context>
-    <name>KxChartTypeDialogClass_xa</name>
     <message>
         <source>OK</source>
         <translation>OK</translation>
@@ -10898,6 +11914,22 @@ Doppelklicken Sie oder verwenden Sie das Popup-Menü, um die Datei zu öffnen. D
     <message>
         <source>browse...</source>
         <translation>Durchsuchen...</translation>
+    </message>
+    <message>
+        <source>Offline Secret Key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>comfirm password:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>offline password:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>new offline password:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11217,7 +12249,15 @@ Doppelklicken Sie oder verwenden Sie das Popup-Menü, um die Datei zu öffnen. D
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The server connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>modified</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -11310,6 +12350,10 @@ Doppelklicken Sie oder verwenden Sie das Popup-Menü, um die Datei zu öffnen. D
     </message>
     <message>
         <source>Please enter a new password with more than 8 digits</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The file format is incorrect or the file is corrupt and the file cannot be imported. Please contact the administrator.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -11655,6 +12699,10 @@ Nach dem Ablauf werden einige Funktionen nicht mehr verfügbar sein. Verlängern
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>secret</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>confidential setting</source>
         <translation type="unfinished"/>
     </message>
@@ -11977,6 +13025,10 @@ Nach dem Ablauf werden einige Funktionen nicht mehr verfügbar sein. Verlängern
         <translation>Feststelltaste: Aus</translation>
     </message>
     <message>
+        <source>File Encrypt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Light Yellow</source>
         <translation>Hellgelb</translation>
     </message>
@@ -12175,6 +13227,10 @@ immer diese Aktion durchführen</translation>
     <message>
         <source>Olive Green</source>
         <translation>Olivgrün</translation>
+    </message>
+    <message>
+        <source>WPS ScreenGrab OCR</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fully compatible with Microsoft Office&apos;s document formats</source>
@@ -13026,6 +14082,10 @@ Um Namen aus dem Adressbuch auszuwählen, auf die Schaltfläche &quot;Lesen&quot
         <translation>Inhalt</translation>
     </message>
     <message>
+        <source>&amp;Source:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Document Issuing organization</source>
         <translation>Dokument – Ausstellende Organisation</translation>
     </message>
@@ -13040,6 +14100,10 @@ Um Namen aus dem Adressbuch auszuwählen, auf die Schaltfläche &quot;Lesen&quot
     <message>
         <source>Recorder</source>
         <translation>Rekorder</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>yyyy-MM-dd</source>
@@ -13234,6 +14298,10 @@ Um Namen aus dem Adressbuch auszuwählen, auf die Schaltfläche &quot;Lesen&quot
     <message>
         <source>Kern Character Pairs</source>
         <translation>Zeichenpaarekerning</translation>
+    </message>
+    <message>
+        <source>StrikeThrough</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear</source>
@@ -13505,6 +14573,10 @@ Um Namen aus dem Adressbuch auszuwählen, auf die Schaltfläche &quot;Lesen&quot
     <message>
         <source>*.mp3;*.mp2;*.m3u</source>
         <translation>*.mp3;*.mp2;*.m3u</translation>
+    </message>
+    <message>
+        <source>Transparency</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Scribble</source>
@@ -14023,6 +15095,10 @@ Um Namen aus dem Adressbuch auszuwählen, auf die Schaltfläche &quot;Lesen&quot
         <translation>Weniger Kontrast</translation>
     </message>
     <message>
+        <source>Erase Ink</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rotate 3-D</source>
         <translation>3D drehen</translation>
     </message>
@@ -14180,6 +15256,11 @@ Komprimieren von Bildern kann die Bildqualität beeinträchtigen. Möchten Sie d
     <message>
         <source>Distribute Horizontally</source>
         <translation>Horizontal verteilen</translation>
+    </message>
+    <message>
+        <source>Insert AutoShape</source>
+        <comment>DgUil_InsertShape</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -14340,6 +15421,10 @@ Komprimieren von Bildern kann die Bildqualität beeinträchtigen. Möchten Sie d
         <source>3-D</source>
         <comment>DgUil_3D</comment>
         <translation>3D</translation>
+    </message>
+    <message>
+        <source>Insert Ink</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cannot create the object, this file may be in use. Please close the file and try to insert the object again.</source>
@@ -14621,852 +15706,6 @@ Komprimieren von Bildern kann die Bildqualität beeinträchtigen. Möchten Sie d
     </message>
 </context>
 <context>
-    <name>kso_ksocomm</name>
-    <message>
-        <source>No</source>
-        <translation>Nein</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation>&amp;Nein</translation>
-    </message>
-    <message>
-        <source>*.*</source>
-        <translation>*.*</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation>Ja</translation>
-    </message>
-    <message>
-        <source> OEM</source>
-        <translation> OEM</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Name</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation>Öffnen</translation>
-    </message>
-    <message>
-        <source>Read</source>
-        <translation>Lesen</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove permission?</source>
-        <translation>Sind Sie sicher, dass die Berechtigung entfernt werden soll?</translation>
-    </message>
-    <message>
-        <source>Delete all Ribbon customizations for this program?</source>
-        <translation>Alle Menübandanpassungen für dieses Programm löschen?</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName</comment>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>Cannot use feature without credentials</source>
-        <translation>Die Benutzerfunktion kann ohne Anmeldedaten nicht verwendet werden.</translation>
-    </message>
-    <message>
-        <source>File Description</source>
-        <translation>Dateibeschreibung</translation>
-    </message>
-    <message>
-        <source>Cover</source>
-        <translation>Überschreiben erzwingen</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Fehler</translation>
-    </message>
-    <message>
-        <source>Macro</source>
-        <translation>Makro</translation>
-    </message>
-    <message>
-        <source> Invalid</source>
-        <translation> Ungültig</translation>
-    </message>
-    <message>
-        <source>WPS Document</source>
-        <translation>WPS-Dokument</translation>
-    </message>
-    <message>
-        <source>You cannot change your access level. If you want to change your access level, request that another user with Full Control change your access level.</source>
-        <translation>Sie können Ihre Zugriffebene nicht ändern. Wenn Sie Ihre Zugriffebene ändern möchten, beantragen Sie bei einem Benutzer mit Vollzugriff eine Änderung Ihrer Zugriffebene.</translation>
-    </message>
-    <message>
-        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
-        <translation>Berechtigung %1 ist momentan eingeschränkt. Dateien mit eingeschränkter Berechtigung können nicht in diese Präsentation eingefügt werden,</translation>
-    </message>
-    <message>
-        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Simulation Error Recovery Help</source>
-        <translation>WPS-Simulation Hilfe zur Fehlerbehebung</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>Unrestricted Access</source>
-        <translation>Unbeschränkter Zugriff</translation>
-    </message>
-    <message>
-        <source>New Document.doc</source>
-        <translation>Neues Dokument.doc</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName</comment>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>Kingsoft PDF</source>
-        <translation>WPS PDF</translation>
-    </message>
-    <message>
-        <source>Visio Files</source>
-        <translation>Visio-Dateien</translation>
-    </message>
-    <message>
-        <source>Reading Data</source>
-        <translation>Daten werden gelesen</translation>
-    </message>
-    <message>
-        <source> Development</source>
-        <translation> Entwicklung</translation>
-    </message>
-    <message>
-        <source>Access Files</source>
-        <translation>Access-Dateien</translation>
-    </message>
-    <message>
-        <source>Excel WorkBooks</source>
-        <translation>Excel-Arbeitsmappen</translation>
-    </message>
-    <message>
-        <source>Access Level</source>
-        <translation>Zugriffebene</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Error Recovery Help</source>
-        <translation>WPS Spreadsheets Hilfe zur Fehlerbehebung</translation>
-    </message>
-    <message>
-        <source>(Can use %d days)</source>
-        <translation>(%d Tage verfügbar)</translation>
-    </message>
-    <message>
-        <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
-        <translation>Das von Ihnen ausgewählte Dateiformat ist nicht das WPS-Dateiformat. Es ist vielleicht mit Ihrer Organisation nicht kompatibel. Möchten Sie wirklich mit diesem Dateiformat speichern?</translation>
-    </message>
-    <message>
-        <source>Cannot save or upload due to bad network condition.</source>
-        <translation>Speichern oder Hochladen in die Cloud aufgrund von schlechtem Netzwerkzustand nicht möglich.</translation>
-    </message>
-    <message>
-        <source>New Workbook.xls</source>
-        <translation>Neue Arbeitsmappe.xls</translation>
-    </message>
-    <message>
-        <source>New Workbook.uos</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Calendar Item</source>
-        <translation>Kalenderelement</translation>
-    </message>
-    <message>
-        <source>Change Permission...</source>
-        <translation>Berechtigung zum Ändern...</translation>
-    </message>
-    <message>
-        <source>The following addin has not passed the antivirus examination. To assure security, %s will refuse to load it. 
-
-Name: %s
-Description: %s
-File: %s
-</source>
-        <translation>Folgende Add-In wird noch nicht vom Antivirusprogramm geprüft. Zur Gewährleistung der Sicherheit wird das Add-In nicht geladen.
-
-Name:%s
-Beschreibung:%s
-Datei:%s
-</translation>
-    </message>
-    <message>
-        <source>Cannot save or upload. This file has been updated by other users.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Project Files</source>
-        <translation>Projektdateien</translation>
-    </message>
-    <message>
-        <source>Backing up</source>
-        <translation>Sicherung wird ausgeführt</translation>
-    </message>
-    <message>
-        <source>Office Files</source>
-        <translation>Office-Dateien</translation>
-    </message>
-    <message>
-        <source>The expiration date is not valid. Enter a date between tomorrow and 2100/12/31.</source>
-        <translation>Das Ablaufdatum ist nicht gültig. Geben Sie ein Datum zwischen morgen und 31.12.2100 ein.</translation>
-    </message>
-    <message>
-        <source>Change user...</source>
-        <translation>Benutzer ändern...</translation>
-    </message>
-    <message>
-        <source>Restricted Access(Change)</source>
-        <translation>Beschränkter Zugriff (Ändern)</translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName</comment>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>File Name</source>
-        <translation>Dateiname</translation>
-    </message>
-    <message>
-        <source>File Size</source>
-        <translation>Dateigröße</translation>
-    </message>
-    <message>
-        <source>File Type</source>
-        <translation>Dateityp</translation>
-    </message>
-    <message>
-        <source>Network transfer failed! Error code: %d</source>
-        <translation>Netzwerkübertragung fehlgeschlagen! Fehlercode: %d</translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot inert a file into self. (%1)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS SpreadSheet</source>
-        <translation>WPS SpreadSheet</translation>
-    </message>
-    <message>
-        <source>The password is incorrect, please reenter.
-You can choose Read-only button to open it as read-only.</source>
-        <translation>Falsches Kennwort. Geben Sie erneut ein.
-Sie können das Dokument schreibgeschütz öffnen.</translation>
-    </message>
-    <message>
-        <source>Journal Item</source>
-        <translation>Journalelement</translation>
-    </message>
-    <message>
-        <source>Pdf Thanks To</source>
-        <translation>Für diese Software gilt Folgendes:
-Das FreeType-Projekt erhält eine kostenlose Lizenz gemäß den Bestimmungen der FreeType-Lizenz.
-JBig2 verwendet den Open-Source-Code des Binärdateiimage-Codecs gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
-Lcms verwendet den Open-Source-Code der Farbkonvertierungsbibliothek gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
-LibJPEG verwendet den Open-Source-Code des JPEG-Image-Codecs gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
-OpenJPEG verwendet den Open-Source-Code des JPEG 2000-Codecs gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
-PDFium verwendet den Open-Source-Code des PDF-Lesemoduls gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
-Zlib verwendet die DEFLATE-Komprimierung und die Dekomprierungsalgorithmus-Bibliothek gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.
-Sqlite3 verwendet den Open-Source-Code des Datenspeichers und Lesemoduls gemäß den Bestimmungen der kostenlosen kommerziellen Lizenz.</translation>
-    </message>
-    <message>
-        <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
-1. Try changing to another user account to open the document;
-2. Request permission update from %1.</source>
-        <translation>Die Berechtigung für dieses Dokument ist zurzeit eingeschränkt. Sie verfügen nicht über Berechtigungen zum Öffnen dieser Datei. Sie haben folgende Möglichkeiten: 
-1. Wechseln Sie zu einem anderen Benutzerkonto, um das Dokument zu öffnen.
-2. Beantragen Sie eine Aktualisierung Ihrer Berechtigungen bei %1.</translation>
-    </message>
-    <message>
-        <source>Permission will expire within %1 days. </source>
-        <translation>Berechtigung läuft in %1 Tagen ab. </translation>
-    </message>
-    <message>
-        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy setting are preventing your connection, or you are experiencing intermittent network issues.</source>
-        <translation>Dieser Dienst ist vorübergehend nicht verfügbar. Vergewissern Sie sich, dass Sie mit dem Server verbunden sind. Dieser Fehler kann auftreten, weil Sie offline arbeiten, Ihre Proxyeinstellungen Ihre Verbindung behindern oder zeitweilig Probleme mit dem Netzwerk auftreten.</translation>
-    </message>
-    <message>
-        <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
-        <translation>Sendebericht noch nicht abgeschlossen. Versand trotzdem beenden?</translation>
-    </message>
-    <message>
-        <source>WPS Writer Error Recovery Help</source>
-        <translation>WPS Writer Hilfe zur Fehlerbehebung</translation>
-    </message>
-    <message>
-        <source>(Not limited)</source>
-        <translation>(Unbegrenzt)</translation>
-    </message>
-    <message>
-        <source>File Name</source>
-        <comment>_kso_filesearch_FileName</comment>
-        <translation>Dateiname</translation>
-    </message>
-    <message>
-        <source>Numbering</source>
-        <translation>Nummerierung</translation>
-    </message>
-    <message>
-        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <translation>Diese Software darf nur von einem einzelnen Benutzer für den privaten Gebrauch verwendet werden. Sie darf nicht für gewerbliche Zwecke verwendet werden, wie z. B. Produktion, Handel o.ä. ||Diese Software umfasst: Das FreeType-Projekt: Die kostenlose Autorisierung erhält sie gemäß den Autorisierungsbestimmungen der FreeType-Lizenz. Die chinesische Wortsegmentierung, die chinesischen phonetischen Annotationen und die Technologie für die Konvertierung zwischen vereinfachtem und traditionellem Chinesisch wurde vom Information Retrieval Center, Harbin Institute of Technology, bereitgestellt. Die Hunspell-Rechtschreibprüfung, Quellcode in Hunspell, ist für den Quellcode in einer Open Source-Lizenzvereinbarung nach MPL 1.1/GPL 2.0/LGPL 2.1 verfügbar.</translation>
-    </message>
-    <message>
-        <source>Select Names</source>
-        <translation>Namen auswählen</translation>
-    </message>
-    <message>
-        <source>Restricted Access(Full Control)</source>
-        <translation>Beschränkter Zugriff (Vollzugriff)</translation>
-    </message>
-    <message>
-        <source>Dump File</source>
-        <translation>Dumpdatei</translation>
-    </message>
-    <message>
-        <source>WPS Simulation has encountered a problem and needs to close.</source>
-        <translation>Ein Problem ist aufgetreten. WPS-Simulation muss geschlossen werden.</translation>
-    </message>
-    <message>
-        <source> Community</source>
-        <translation>Community</translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; TH Sarabun PSK, and gets its free authorization according to the SIL OPEN FONT LICENSE Version 1.1; TH Sarabun New, free authorization according to GPL 2.0.</source>
-        <translation>Diese Software enthält: das FreeType-Projekt. Die kostenlose Autorisierung erhält sie gemäß den Autorisierungsbestimmungen der FreeType-Lizenz. Die chinesische Wortsegmentierung, die chinesischen phonetischen Annotationen und die Technologie für die Konvertierung zwischen vereinfachtem und traditionellem Chinesisch wurden vom Information Retrieval Center, Harbin Institute of Technology bereitgestellt. Die Hunspell-Rechtschreibprüfung, Quellcode in Hunspell, ist für den Quellcode in einer Open Source-Lizenzvereinbarung nach MPL 1.1/GPL 2.0/LGPL 2.1 verfügbar. Außerdem enthält sie die Schriftart TH Sarabun PSK, kostenlose Autorisierung gemäß der SIL OPEN FONT LICENSE Version 1.1 und die Schriftart TH Sarabun New, kostenlose Autorisierung gemäß GPL 2.0.</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation>Vorlagen</translation>
-    </message>
-    <message>
-        <source>Backup</source>
-        <translation>Sicherung</translation>
-    </message>
-    <message>
-        <source>Backuping the file, please wait...</source>
-        <translation>Dateien werden gesichert.Seien Sie bitte geduldig...</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Change</source>
-        <translation>Ändern</translation>
-    </message>
-    <message>
-        <source>Document Image Files</source>
-        <translation>Dokumentbild-Dateien</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Benutzerdefiniert</translation>
-    </message>
-    <message>
-        <source>MyNetworkPlaces</source>
-        <translation>Netzwerkumgebung</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_TX_DESC_WPP_APP_NAME</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>All Files(*.*)</source>
-        <comment>_kso_TxDesc_AllFile</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>Data transfer completed, thanks for your support.</source>
-        <translation>Datenübertragung abgeschlossen. Vielen Dank für Ihre Unterstützung.</translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName</comment>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>Saving</source>
-        <translation>Speichern läuft</translation>
-    </message>
-    <message>
-        <source>System and Exception Information File</source>
-        <translation>System- und Ausnahmeinformationendatei</translation>
-    </message>
-    <message>
-        <source>Document</source>
-        <translation>Dokument</translation>
-    </message>
-    <message>
-        <source>The file is loading, please wait.</source>
-        <translation>Die Datei wird geladen. Seien Sie bitte geduldig.</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>MyComputer</source>
-        <translation>Mein Computer</translation>
-    </message>
-    <message>
-        <source>Verifying your logon information for opening content with restricted permission</source>
-        <translation>Überprüfen Sie die Anmeldeinformationen für das Öffnen von Inhalten mit beschränkten Rechten.</translation>
-    </message>
-    <message>
-        <source>Ribbon Tabs</source>
-        <translation>Menüband-Registerkarten</translation>
-    </message>
-    <message>
-        <source>Opening</source>
-        <translation>Wird geöffnet</translation>
-    </message>
-    <message>
-        <source>Information Rights Management(IRM) in Microsoft Office helps prevent sensitive documents and e-mail messages form being forwarded, edited or copied by unauthorized people.
-
-To use IRM you need to install the Windows Rights Management client. If you have an existing version of the Windows Rights Management client installed you will need to uninstall it first and then download the lastest version of the Windows Rights Management client. Do you want to download the lastest version now? </source>
-        <translation>Information Rights Management (IRM) in Microsoft Office verhindert, dass vertrauliche Dokumente und E-Mail-Nachrichten von Unbefugten weitergeleitet, bearbeitet oder kopiert werden können.
-
-Um IRM verwenden zu können, müssen Sie den Windows Rights Management-Client installieren. Wenn eine Version des Windows Rights Management-Clients installiert ist, müssen Sie ihn erst deinstallieren und dann die neueste Version des Windows Rights Management-Clients herunterladen. Möchten Sie die neueste Version jetzt herunterladen? </translation>
-    </message>
-    <message>
-        <source>Hyperlinks may harm your computer and data. For the protection of computer, super link please click only trusted sources. Do you want to continue?</source>
-        <translation>Hyperlinks können eine Gefahr für Ihren Computer und Ihre Daten darstellen. Klicken Sie nur auf Hyperlinks von vertrauenswürdigen Quellen, um Ihren Computer zu schützen. Möchten Sie fortfahren?</translation>
-    </message>
-    <message>
-        <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
-        <translation>Der Dienst unter %1 ist vorübergehend nicht verfügbar. Vergewissern Sie sich, dass Sie mit dem Server verbunden sind. Dieser Fehler kann auftreten, weil Sie offline arbeiten, Ihre Proxyeinstellungen Ihre Verbindung behindern oder zeitweilig Probleme mit dem Netzwerk auftreten.</translation>
-    </message>
-    <message>
-        <source>(Not activated)</source>
-        <translation>(Deaktiviert)</translation>
-    </message>
-    <message>
-        <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
-        <translation>Die Informationsrechte (Information Rights Management, IRM) funktionieren nicht, wenn ein Debugger läuft. Schließen Sie den Debugger und versuchen Sie es erneut.</translation>
-    </message>
-    <message>
-        <source>(Press ESC to cancel)</source>
-        <translation>zum  ESC  abbrechen drücken</translation>
-    </message>
-    <message>
-        <source>E-mail addresses must be in the form of &apos;someone@example.com&apos;. The following e-mail address is not valid or could not be resolved: &apos;%1&apos;. Verify that this is a valid e-mail address.</source>
-        <translation>E-Mail-Adressen müssen in der Form &apos;Name@Beispiel.com&apos; geschrieben werden. Die folgende E-Mail-Adresse ist nicht gültig oder konnte nicht aufgelöst werden. &apos;%1&apos;. Überprüfen Sie, ob es sich um eine gültige E-Mail-Adresse handelt.</translation>
-    </message>
-    <message>
-        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
-        <translation>WPS hat ein Problem mit der Konfiguration Ihrer Informationsrechte (Information Rights Management, IRM) erkannt. Wenn dieses Problem weiter besteht, reparieren Sie Ihr Produkt über die Systemsteuerung.</translation>
-    </message>
-    <message>
-        <source>Last Modified</source>
-        <translation>Letzte Änderung</translation>
-    </message>
-    <message>
-        <source>Sorry, WPS Office crashes.
-You can click the button to recover files you work on.</source>
-        <translation>Entschuldigung für den Absturz von WPS Office.
-Sie können auf die Schaltfläche klicken, um die früher bearbeiteten Dateien wiederherzustellen.</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove the user?</source>
-        <translation>Sind Sie sicher, dass der Benutzer entfernt werden soll?</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when backup is running! Please try the following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Save As...] text files（*.txt）; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
-        <translation>Ein Problem ist aufgetreten. WPS Spreadsheets muss geschlossen werden.</translation>
-    </message>
-    <message>
-        <source>Your system is missing the required codec that supports this media format</source>
-        <translation>Auf Ihrem System fehlt das erforderte Codec, das diese Medienformat unterstützt</translation>
-    </message>
-    <message>
-        <source>File loaded</source>
-        <translation>Datei geladen</translation>
-    </message>
-    <message>
-        <source>Permission is currently restricted. Only specified users can access this content. </source>
-        <translation>Die Zugriffsberechtigung ist momentan eingeschränkt. Nur angegebene Benutzer können auf diesen Inhalt zugreifen. </translation>
-    </message>
-    <message>
-        <source>%s Errors occur when regular backup is running! Please try the following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Save As...] text files（*.txt）; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <translation>%s Fehler während der regulären Sicherung aufgetreten. Sie können Folgendes versuchen: 
-•Prüfen Sie, ob das Sicherungsverzeichnis Schreibrechte hat, oder ändern Sie das Sicherungsverzeichnis.
-•Machen Sie die vorherigen Vorgänge [rückgängig] und [speichern] Sie; 
-•[Speichern unter...] Textdateien（*.txt）; 
-•Übertragen Sie mit [Kopieren/Einfügen] die Inhalte in die neue Datei; 
-•Brechen Sie die Überarbeitung der Datei ab. 
-(%s)</translation>
-    </message>
-    <message>
-        <source>call API</source>
-        <translation>API aufrufen</translation>
-    </message>
-    <message>
-        <source>WPS Presentation Error Recovery Help</source>
-        <translation>WPS Presentation Hilfe zur Fehlerbehebung</translation>
-    </message>
-    <message>
-        <source>Files of Type</source>
-        <translation>Dateien vom Typ </translation>
-    </message>
-    <message>
-        <source>WPS Office Business Version</source>
-        <translation>WPS Office Business Version</translation>
-    </message>
-    <message>
-        <source>mail feedback</source>
-        <translation>Mail-Feedback</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Neu starten</translation>
-    </message>
-    <message>
-        <source>Restricted Access(Read)</source>
-        <translation>Beschränkter Zugriff (Lesen)</translation>
-    </message>
-    <message>
-        <source>Binders</source>
-        <translation>Sammelmappen</translation>
-    </message>
-    <message>
-        <source>Send out successfully</source>
-        <translation>Versand erfolgreich</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <comment>_kso_SaveToFileDialogName</comment>
-        <translation>Speichern unter</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <translation>%s Fehler während der regulären Sicherung aufgetreten. Sie können Folgendes versuchen: 
-•Prüfen Sie, ob das Sicherungsverzeichnis Schreibrechte hat, oder ändern Sie das Sicherungsverzeichnis.
-•Machen Sie die vorherigen Vorgänge [rückgängig] und [speichern] Sie. 
-•Übertragen Sie mit [Kopieren/Einfügen] die Inhalte in die neue Datei. 
-•Brechen Sie die Überarbeitung der Datei ab. 
-(%s)</translation>
-    </message>
-    <message>
-        <source>New Slide</source>
-        <translation>Neue 
-Folie</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation>Speichern unter</translation>
-    </message>
-    <message>
-        <source>You do not have credentials that allow you to open this document.
-Do you want to open it using a different set of credentials?</source>
-        <translation>Sie verfügen nicht über Berechtigungen zum Öffnen dieser Datei.
-Möchten Sie sie mit anderen Anmeldedaten öffnen?</translation>
-    </message>
-    <message>
-        <source>Terminate sending</source>
-        <translation>Versand beenden</translation>
-    </message>
-    <message>
-        <source>run VBA</source>
-        <translation>VBA ausführen</translation>
-    </message>
-    <message>
-        <source>Request additional permissions...</source>
-        <translation>Beantragen zusätzlicher Berechtigungen...</translation>
-    </message>
-    <message>
-        <source>Selecting a permission policy will replace any existing permission that you&apos;ve set for this document. Do you want to continue?</source>
-        <translation>Bei Auswahl einer Berechtigungsrichtlinie werden alle vorhandenen Berechtigungen, die Sie für dieses Dokument festgelegt haben, ersetzt. Möchten Sie fortfahren?</translation>
-    </message>
-    <message>
-        <source>Bullets</source>
-        <translation>Aufzählungszeichen</translation>
-    </message>
-    <message>
-        <source>Task Item</source>
-        <translation>Aufgabenelement</translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <translation>Diese Software umfasst: The FreeType-Projekt. Die kostenlose Autorisierung erhält sie gemäß den Autorisierungsbestimmungen der The FreeType-Lizenz. Die chinesische Wortsegmentierung, die chinesischen phonetischen Annotationen und die Technologie für die Konvertierung zwischen vereinfachtem und traditionellem Chinesisch wurde vom Information Retrieval Center, Harbin Institute of Technology bereitgestellt. Die Hunspell-Rechtschreibprüfung, Quellcode in Hunspell, ist für den Quellcode in einer Open Source-Lizenzvereinbarung nach MPL 1.1/GPL 2.0/LGPL 2.1 verfügbar.</translation>
-    </message>
-    <message>
-        <source>R&amp;equest permissions</source>
-        <translation>B&amp;erechtigungen anfordern</translation>
-    </message>
-    <message>
-        <source> Thai Edition </source>
-        <comment>_kso_versionType_TH_PRO</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Writer has encountered a problem and needs to close.</source>
-        <translation>Ein Problem ist aufgetreten. WPS Writer muss geschlossen werden.</translation>
-    </message>
-    <message>
-        <source>PowerPointPresentations</source>
-        <translation>PowerPoint-Präsentationen</translation>
-    </message>
-    <message>
-        <source>WPS Office Crashing Information</source>
-        <translation>WPS Office Crashing Information</translation>
-    </message>
-    <message>
-        <source>Note Item</source>
-        <translation>Notizelement</translation>
-    </message>
-    <message>
-        <source>Permission of (%1)</source>
-        <translation>Berechtigung von (%1)</translation>
-    </message>
-    <message>
-        <source>Permission is currently restricted by a permission policy. Do you want to stop using a permission policy and specify permission for individual users or groups?</source>
-        <translation>Die Berechtigung ist derzeit durch eine Berechtigungsrichtlinie beschränkt. Möchten Sie die Verwendung der Berechtigungsrichtlinie beenden und Berechtigungen für einzelne Benutzer oder Gruppen angeben?</translation>
-    </message>
-    <message>
-        <source>Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
-        <translation>Warnung: Dieses Programm ist durch US-amerikanische Urheberrechtsgesetze und Bestimmungen internationaler Verträge geschützt. Unbefugte Vervielfältigung oder unbefugter Vertrieb dieses Programms oder eines Teils davon sind strafbar. Dies wird sowohl straf- als auch zivilrechtlich verfolgt und kann schwere Strafen und Schadenersatzforderungen zur Folge haben.</translation>
-    </message>
-    <message>
-        <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
-        <translation>Ein unerwarteter Fehler ist aufgetreten. Versuchen Sie es später erneut oder verständigen Sie Ihren Systemadministrator.</translation>
-    </message>
-    <message>
-        <source>View Permission...</source>
-        <translation>Berechtigung zum Anzeigen...</translation>
-    </message>
-    <message>
-        <source>&lt;a normal=&apos;cbsend&apos;&gt;Send &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;the error report&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; to help us improve our products.&lt;/a&gt;</source>
-        <translation>&lt;a normal=&apos;cbsend&apos;&gt;Schicken &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;Die Fehler berichten&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; helfen, unsere Produkte und Dienste zu verbessern.&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>The clock on this computer has been tampered with. Please reset the system clock and try again later</source>
-        <translation>Die Uhr auf diesem Computer wurde geändert. Bitte stellen Sie die Systemuhr zurück und versuchen Sie es später noch einmal.</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <comment>_kso_krim_Permission_Custom</comment>
-        <translation>Benutzerdefiniert</translation>
-    </message>
-    <message>
-        <source>WebPages</source>
-        <translation>Webseiten</translation>
-    </message>
-    <message>
-        <source>microblog feedback</source>
-        <translation>Microblog-Feedback</translation>
-    </message>
-    <message>
-        <source> Education</source>
-        <translation> Ausbildung</translation>
-    </message>
-    <message>
-        <source>Outlook Items</source>
-        <translation>Outlook-Elemente</translation>
-    </message>
-    <message>
-        <source>Cancel Save</source>
-        <translation>Speichern abbrechen</translation>
-    </message>
-    <message>
-        <source>Cannot save or upload. This file is being edited by other users.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>New Workbook.xlsx</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
-        <translation>Sind Sie sicher, dass diese gespeicherten Anmeldedaten gelöscht werden sollen? Sie können diese Anmeldedaten nur verwenden, wenn Sie sie wieder aktivieren.</translation>
-    </message>
-    <message>
-        <source>DataConnection Files</source>
-        <translation>Datenverknüpfungsdateien</translation>
-    </message>
-    <message>
-        <source>Load system plugins failed, please make sure your system&apos;s flash plugins be correct install!</source>
-        <translation>Laden der System-Plugins fehlgeschlagen. Bitte stellen Sie sicher, dass die Flash-Plugins Ihres Systems korrekt installiert sind.</translation>
-    </message>
-    <message>
-        <source> Personal</source>
-        <translation> Persönlich</translation>
-    </message>
-    <message>
-        <source> Business</source>
-        <translation> Geschäft</translation>
-    </message>
-    <message>
-        <source>(Overdue)</source>
-        <translation>(Überfällig)</translation>
-    </message>
-    <message>
-        <source>Everyone</source>
-        <translation>Jeder</translation>
-    </message>
-    <message>
-        <source>Restricted Access</source>
-        <translation>Beschränkter Zugriff</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when backup is running! Please try the  following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Presentation has encountered a problem and needs to close.</source>
-        <translation>Ein Problem ist aufgetreten. WPS Presentation muss geschlossen werden.</translation>
-    </message>
-    <message>
-        <source>This will set the default permission policy for all documents, workbooks, forms and presentations with restricted permission.</source>
-        <translation>Damit wird die Standardrichtlinie für Berechtigungen für alle Dokumente, Arbeitsmappen, Formulare und Präsentationen mit beschränkten Berechtigungen eingerichtet.</translation>
-    </message>
-    <message>
-        <source>bbs feedback</source>
-        <translation>BBS-Feedback</translation>
-    </message>
-    <message>
-        <source>Publisher Files</source>
-        <translation>Publisher-Dateien</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Warnung</translation>
-    </message>
-    <message>
-        <source>Save as Copy</source>
-        <translation>Als Kopie speichern</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
-        <translation>Dieser Dienst ist vorübergehend nicht verfügbar. Vergewissern Sie sich, dass Sie mit dem Server verbunden sind. Dieser Fehler kann auftreten, weil Sie offline arbeiten, Ihre Proxyeinstellungen Ihre Verbindung behindern oder zeitweilig Probleme mit dem Netzwerk auftreten.</translation>
-    </message>
-    <message>
-        <source>Unrestricted</source>
-        <translation>Unbeschränkt</translation>
-    </message>
-    <message>
-        <source>All Files</source>
-        <translation>Alle Dateien</translation>
-    </message>
-    <message>
-        <source>WPS office has identified a potential safety problems.
-This position may not be safe.</source>
-        <translation>WPS Office hat ein mögliches Sicherheitsproblem erkannt.
-Diese Position ist möglicherweise nicht sicher.</translation>
-    </message>
-    <message>
-        <source>The address to request additional permissions is invalid. Enter a valid e-mail or Web address. Example: someone@example.com.</source>
-        <translation>Die Adresse zur Anforderung zusätzlicher Berechtigungen ist ungültig. Geben Sie eine gültige E-Mail- oder Webadresse ein. Beispiel: Name@Beispiel.com</translation>
-    </message>
-    <message>
-        <source>Full Control</source>
-        <translation>Vollzugriff</translation>
-    </message>
-    <message>
-        <source>(Have not used)</source>
-        <translation>(Nicht in Gebrauch)</translation>
-    </message>
-    <message>
-        <source>(version:%d)</source>
-        <translation>(Version:%d)</translation>
-    </message>
-    <message>
-        <source>All Files(*.*)</source>
-        <translation>Alle Dateien(*.*)</translation>
-    </message>
-    <message>
-        <source>Restoring Operation</source>
-        <comment>_kso_io_Progress_IncBackupRecover</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Contact Item</source>
-        <translation>Kontaktelement</translation>
-    </message>
-    <message>
-        <source>Text Or Property</source>
-        <translation>Text oder Eigenschaft</translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
-        <translation>Ihre Sitzung mit dem Benutzerkonto %1 ist abgelaufen. Der Dienst muss Ihre Anmeldedaten erneut überprüfen, bevor Sie fortfahren. Wenn Sie aufgefordert werden, geben Sie den Benutzernamen und das Kennwort für %1 ein. Ansonsten könnte das Dokument verloren gehen.</translation>
-    </message>
-    <message>
-        <source>Cannot use test manifests against production servers.</source>
-        <translation>Testmanifeste können mit Produktionsservern nicht verwendet werden.</translation>
-    </message>
-    <message>
-        <source>&amp;Change User</source>
-        <translation>&amp;Benutzer ändern</translation>
-    </message>
-    <message>
-        <source>Mail Item</source>
-        <translation>E-Mail-Element</translation>
-    </message>
-    <message>
-        <source> Professional</source>
-        <translation> Professionell</translation>
-    </message>
-    <message>
-        <source>PhotoDraw Files</source>
-        <translation>PhotoDraw-Dateien</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgOfflineKeyAuth</name>
     <message>
         <source>Ok</source>
@@ -15649,60 +15888,6 @@ Diese Position ist möglicherweise nicht sicher.</translation>
     <message>
         <source>Save &amp;picture in document</source>
         <translation>Grafik in &amp;Dokument speichern</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowShareWidget</name>
-    <message>
-        <source>QQ</source>
-        <translation>QQ</translation>
-    </message>
-    <message>
-        <source>QZone</source>
-        <translation>QZone</translation>
-    </message>
-    <message>
-        <source>Weibo</source>
-        <translation>Weibo</translation>
-    </message>
-    <message>
-        <source>Click to open the link</source>
-        <translation>Zum Öffnen des Links klicken</translation>
-    </message>
-    <message>
-        <source>For the link security, you need login to share link
-you can manage,delete,reshare the link</source>
-        <translation>Melden Sie sich zur Sicherstellung der Link-Sicherheit an, um ihn zu verwenden.
-Nach dem Anmelden können Sie den Link auch verwalten, löschen und für andere freigeben.</translation>
-    </message>
-    <message>
-        <source>Create link succeeded!</source>
-        <translation>Link wurde erstellt.</translation>
-    </message>
-    <message>
-        <source>WeChat</source>
-        <translation>WeChat</translation>
-    </message>
-    <message>
-        <source>Creating QRCode...</source>
-        <translation>QR-Code wird erstellt...</translation>
-    </message>
-    <message>
-        <source>Copy QRCode succeeded!</source>
-        <translation>QR-Code wurde kopiert.</translation>
-    </message>
-    <message>
-        <source>create link</source>
-        <translation>Link erstellen</translation>
-    </message>
-    <message>
-        <source>Copy link succeeded!</source>
-        <translation>Link wurde kopiert.</translation>
-    </message>
-    <message>
-        <source>Link has been created, login and use it!</source>
-        <translation>Der Link wurde erstellt.
-Melden Sie sich an, um ihn zu verwenden.</translation>
     </message>
 </context>
 <context>
@@ -15897,6 +16082,14 @@ Melden Sie sich an, um ihn zu verwenden.</translation>
         <translation>Text in For&amp;m umbrechen</translation>
     </message>
     <message>
+        <source>Vertical(right to left)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Vertical(left to right)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Right-to-left</source>
         <translation>Von rechts nach links</translation>
     </message>
@@ -15959,10 +16152,6 @@ Melden Sie sich an, um ihn zu verwenden.</translation>
     <message>
         <source>&amp;Columns...</source>
         <translation>&amp;Spalten...</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation>Vertikal</translation>
     </message>
     <message>
         <source>&amp;Shrink text on overflow</source>
@@ -19601,10 +19790,6 @@ Datei nicht gefunden.
         <translation>Spalte</translation>
     </message>
     <message>
-        <source>OnlineChart</source>
-        <translation>Online-Diagramm</translation>
-    </message>
-    <message>
         <source>Bar Of Pie</source>
         <translation>Balken aus Kreis</translation>
     </message>
@@ -19743,6 +19928,10 @@ Datei nicht gefunden.
     <message>
         <source>DsOnlineChart</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OnlineChart</source>
+        <translation>Online-Diagramm</translation>
     </message>
     <message>
         <source>OnlineSmartChart</source>
@@ -19892,6 +20081,10 @@ Datei nicht gefunden.
         <translation>Gestapelte Balken (100 %)</translation>
     </message>
     <message>
+        <source>Pie of 3d</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Volume-Open-High-Low-Close</source>
         <translation>Volumen-Eröffnungs-Höchst-Tiefst-Schlusskurs</translation>
     </message>
@@ -20003,6 +20196,11 @@ Datei nicht gefunden.
         <translation>Plus</translation>
     </message>
     <message>
+        <source>Letter-Like Symbols</source>
+        <comment>OMATH_SYMBOL_CLLS_LETTER_LIKE_SYMBOL</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Check</source>
         <translation>Ankreuzen</translation>
     </message>
@@ -20031,6 +20229,16 @@ Datei nicht gefunden.
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Geometry</source>
+        <comment>OMATH_SYMBOL_CG_GEOMETRY</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Negated Relations</source>
+        <comment>OMATH_SYMBOL_CNR_NEGATED_RELATIONS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Maximum</source>
         <translation>Maximieren</translation>
     </message>
@@ -20047,6 +20255,23 @@ Datei nicht gefunden.
         <translation>Funktionen</translation>
     </message>
     <message>
+        <source>Script</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Integral</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Basic Math</source>
+        <comment>OMATH_SYMBOL_CBM_BASIC_MATH</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Operator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Remove Opening Bracket</source>
         <translation type="unfinished"/>
     </message>
@@ -20059,12 +20284,20 @@ Datei nicht gefunden.
         <translation>Produkt</translation>
     </message>
     <message>
+        <source>Negated Relations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Brackets</source>
         <translation>Eckige Klammern</translation>
     </message>
     <message>
         <source>Fraction</source>
         <translation>Bruch</translation>
+    </message>
+    <message>
+        <source>Radical</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Greater Than</source>
@@ -20077,6 +20310,10 @@ Datei nicht gefunden.
     <message>
         <source>Subscript</source>
         <translation>Tiefgestellt</translation>
+    </message>
+    <message>
+        <source>Scripts</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Superscript</source>
@@ -20105,12 +20342,32 @@ Datei nicht gefunden.
         <translation>Eckige Klammern</translation>
     </message>
     <message>
+        <source>Greek Letters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Remove Enclosing Characters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Align at =</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Letter-Like Symbols</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscripts and Superscripts</source>
         <translation>Hoch- und Tiefstellungen</translation>
+    </message>
+    <message>
+        <source>Basic Math</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21339,6 +21596,10 @@ Datei nicht gefunden.
         <translation>Dokument – Datum der Ausstellung</translation>
     </message>
     <message>
+        <source>&amp;LinkToContent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;Subject:</source>
         <translation>Bet&amp;reff:</translation>
     </message>
@@ -21409,6 +21670,121 @@ Datei nicht gefunden.
     <message>
         <source>Document attachment notes</source>
         <translation>Dokumentanhang - Notizen</translation>
+    </message>
+</context>
+<context>
+    <name>KLocaleSymbolLCIDManager</name>
+    <message>
+        <source>Lao</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Peru</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Greek</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Khmer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Oriya</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tamil</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kannada</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Malayalam</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Arabic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>French</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>German</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mongolian</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hebrew</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Korean</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Telugu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Syriac</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bengali</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Armenian</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chinese</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sinhala</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tibetan</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Gujarati</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>English</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Georgian</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cherokee</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21896,6 +22272,10 @@ Datei nicht gefunden.
         <translation>Datenbeschriftung</translation>
     </message>
     <message>
+        <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Delete Value Axis</source>
         <translation type="unfinished"/>
     </message>
@@ -21977,6 +22357,10 @@ Datei nicht gefunden.
     <message>
         <source>PLOT AREA</source>
         <translation>ZEICHNUNGSBEREICH</translation>
+    </message>
+    <message>
+        <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>LEGEND</source>
@@ -22086,6 +22470,10 @@ Datei nicht gefunden.
     <message>
         <source>ERROR BAR</source>
         <translation>FEHLERINDIKATOR</translation>
+    </message>
+    <message>
+        <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset To Match Style</source>
@@ -22782,6 +23170,142 @@ Diese Datei wurde vermutlich umbenannt, gelöscht oder verschoben.</translation>
     </message>
 </context>
 <context>
+    <name>KScreenGrabDialog</name>
+    <message>
+        <source>Pin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Grab Ellipse</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Translate Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Grab Polygon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>you can set screen grab ocr global shortcut here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save As PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RGB:(%1, %2, %3)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screenshot Ocr</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Arrow Tool</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Grab Rect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Copy to Clipboard</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Capture%1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Press Alt
+to Adsorb Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 * %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(%1, %2)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Brush Tool</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rect Tool</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Copied to clipboard!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reselect Region</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>you can set screen grab global shortcut here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1;;%2;;%3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ellipse Tool</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Grab RoundedRect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text Tool</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Toolbar</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KColorCtrl</name>
     <message>
         <source>Red</source>
@@ -23096,6 +23620,10 @@ Diese Datei wurde vermutlich umbenannt, gelöscht oder verschoben.</translation>
     <message>
         <source>Commands Not in the Ribbon</source>
         <translation>Befehle nicht im Menüband</translation>
+    </message>
+    <message>
+        <source>Macro name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;New Group</source>
@@ -23926,6 +24454,14 @@ Mögliche Gründe:
     </message>
     <message>
         <source>The network connection has been restored to normal. To ensure the normal use of the function, please log in to the account %1 before encrypting the document.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login Exception Hint</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -24797,6 +25333,10 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <translation>&amp;Invertierte Ausgabe</translation>
     </message>
     <message>
+        <source>Connecting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Manual duplex</source>
         <translation>Manuell duplex</translation>
     </message>
@@ -24874,6 +25414,37 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Special</source>
         <translation>Spezial</translation>
+    </message>
+</context>
+<context>
+    <name>KScreenGrabPin</name>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Capture%1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1;;%2;;%3</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -24971,6 +25542,93 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Copy &amp;Link Location</source>
         <translation>&amp;Link-Adresse kopieren</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCustomThemeColor</name>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text/&amp;Backdrop-Light 1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text/Backdrop-&amp;Dark 2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Hyperlink</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Theme color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Text/Backdrop-Dark 1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coloring &amp;1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coloring &amp;2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coloring &amp;3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coloring &amp;4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coloring &amp;5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coloring &amp;6</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Example</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text/Backdrop-&amp;Light 2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Visited hyperlink</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -25210,6 +25868,10 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>can not operate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>label classification success!</source>
         <translation type="unfinished"/>
     </message>
@@ -25297,6 +25959,10 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <translation>PPT-Präsentation</translation>
     </message>
     <message>
+        <source>Uniform Office Spreadsheet Format</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Inserts a new %1 object into your presentation.</source>
         <translation>Fügt ein neues %1-Objekt in Ihre Präsentation ein.</translation>
     </message>
@@ -25307,6 +25973,10 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <translation>Fügt ein Symbol, das den Inhalt der Datei repräsentiert, in Ihr Dokument ein. Änderungen in der Quelldatei erscheinen auch in Ihrem Dokument.</translation>
+    </message>
+    <message>
+        <source>Uniform Office Text Format</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation. It will be displayed as an icon.</source>
@@ -25343,6 +26013,10 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Inserts a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
         <translation>Fügt eine neueBilddatei in Ihre Präsentation ein. Das Bild stellt eine Verknüpfung mit der Datei dar, damit Änderungen an der Datei direkt in Ihre Präsentation übernommen werden.</translation>
+    </message>
+    <message>
+        <source>Uniform Office Presentation Format</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XLSX Workbook</source>
@@ -25916,8 +26590,16 @@ Durchschnitt</translation>
         <translation>Derzeit angezeigte Optionen</translation>
     </message>
     <message>
-        <source>Choose Commands</source>
-        <translation>Befehle auswählen</translation>
+        <source>All Commands</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All Tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Assign [Alt+number] hot keys to commands in quick toolbar</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>R&amp;eset</source>
@@ -25926,6 +26608,10 @@ Durchschnitt</translation>
     <message>
         <source>Customize the Quick Access Toolbar</source>
         <translation>Symbolleiste für den Schnellzugriff anpassen</translation>
+    </message>
+    <message>
+        <source>Hot keys</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Macro name</source>
@@ -25950,6 +26636,10 @@ Durchschnitt</translation>
     <message>
         <source>You already have this on Quick Access Toolbar.</source>
         <translation>Diese Option befindet sich bereits auf Ihrer Symbolleiste für den Schnellzugriff.</translation>
+    </message>
+    <message>
+        <source>Choose Commands</source>
+        <translation>Befehle auswählen</translation>
     </message>
 </context>
 <context>
@@ -26704,6 +27394,10 @@ Durchschnitt</translation>
         <translation>Computer</translation>
     </message>
     <message>
+        <source>Open Local Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>CloudDisk</source>
         <translation>Cloud-Speicherplatzkapazität</translation>
     </message>
@@ -26967,6 +27661,45 @@ Durchschnitt</translation>
     </message>
 </context>
 <context>
+    <name>KxInkDrawPenGalleryCommand</name>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>1pound</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>3pounds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2.25pounds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>4.5pounds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>0.5pounds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>6pounds</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxOutwardDocTableModelV2</name>
     <message>
         <source>Made</source>
@@ -27055,6 +27788,13 @@ Durchschnitt</translation>
     <message>
         <source>More</source>
         <translation>Mehr</translation>
+    </message>
+</context>
+<context>
+    <name>KScreenGrabMenu</name>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -27341,12 +28081,20 @@ Durchschnitt</translation>
         <translation>Weiter</translation>
     </message>
     <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Close Full Screen</source>
         <translation>Vollbildmodus schließen</translation>
     </message>
     <message>
         <source>Full Screen</source>
         <translation>Vollbild</translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Real Size</source>
@@ -27471,37 +28219,6 @@ Durchschnitt</translation>
     </message>
 </context>
 <context>
-    <name>KAxOleObjectSite</name>
-    <message>
-        <source>Open</source>
-        <translation>Öffnen</translation>
-    </message>
-    <message>
-        <source>Cannot open this object.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Open failed!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Warnung</translation>
-    </message>
-    <message>
-        <source>WPS Office cannot open this object. Link to this object might be invalid or changed.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Office cannot open this object. You can open it on your computer with other apps. To save your changes, please insert it after changing it with other apps.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KCloudFileDialog</name>
     <message>
         <source>Open</source>
@@ -27514,6 +28231,14 @@ Durchschnitt</translation>
     <message>
         <source>My Circle</source>
         <translation>Meine Gruppe</translation>
+    </message>
+    <message>
+        <source>Open Local Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>My Cloud Document</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save as</source>
@@ -27650,6 +28375,29 @@ Ungültiger Datensatz. Diese Datei wurde möglicherweise umbenannt, gelöscht od
     </message>
 </context>
 <context>
+    <name>KScreenGrabWindow</name>
+    <message>
+        <source>Rect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Polygon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RoundedRect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Screengrab</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QUndoGroup</name>
     <message>
         <source>Redo</source>
@@ -27669,6 +28417,13 @@ Ungültiger Datensatz. Diese Datei wurde möglicherweise umbenannt, gelöscht od
     <message>
         <source>Undo</source>
         <translation>Rückgängig</translation>
+    </message>
+</context>
+<context>
+    <name>KQuitCoopEditMsgBox</name>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -27944,6 +28699,33 @@ Ungültiger Datensatz. Diese Datei wurde möglicherweise umbenannt, gelöscht od
     </message>
 </context>
 <context>
+    <name>KxCustomThemeColorDlg</name>
+    <message>
+        <source>Tips</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Theme Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Theme color name cannot be empty</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>Q3DataTable</name>
     <message>
         <source>True</source>
@@ -28057,13 +28839,6 @@ Ungültiger Datensatz. Diese Datei wurde möglicherweise umbenannt, gelöscht od
     </message>
 </context>
 <context>
-    <name>KxLearningHelper</name>
-    <message>
-        <source>Word</source>
-        <translation>Word</translation>
-    </message>
-</context>
-<context>
     <name>KxDrTipContentWidget</name>
     <message>
         <source>edit</source>
@@ -28091,6 +28866,10 @@ Ungültiger Datensatz. Diese Datei wurde möglicherweise umbenannt, gelöscht od
     </message>
     <message>
         <source>check key word</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Diagnositic</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -28660,6 +29439,10 @@ Ungültiger Datensatz. Diese Datei wurde möglicherweise umbenannt, gelöscht od
     </message>
     <message>
         <source>Feeling slow? Clear invalid data with File Slimming feature.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The file has too much data excess. Auto-slimming it down:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -29968,18 +30751,14 @@ Ungültiger Datensatz. Diese Datei wurde möglicherweise umbenannt, gelöscht od
     </message>
 </context>
 <context>
-    <name>doctabh5::KH5ShareDocTabPaneGeneralFuctionWidget</name>
+    <name>KxShortcutsDiffDlg</name>
     <message>
-        <source>Print/Preview</source>
-        <translation>Drucken/Vorschau</translation>
+        <source>Print Preview</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Folder</source>
-        <translation>Ordner</translation>
-    </message>
-    <message>
-        <source>Export Pdf</source>
-        <translation>PDF exportieren</translation>
+        <source>Shortcut</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -31467,6 +32246,10 @@ Der Datensatz ist ungültig. Vielleicht ist die Datei umbenannt, gelöscht oder 
     </message>
     <message>
         <source>Open Local Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>My Cloud Document</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -32993,6 +33776,21 @@ in
     </message>
 </context>
 <context>
+    <name>KxFormatGroupContentChartAxisOptions</name>
+    <message>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Veritcal axis crosses</source>
+        <translation>Vertikale Achse schneidet</translation>
+    </message>
+    <message>
+        <source>Horizontal axis crosses</source>
+        <translation>Horizontale Achse schneidet</translation>
+    </message>
+</context>
+<context>
     <name>KxOnlineWidget</name>
     <message>
         <source>Retry</source>
@@ -33328,6 +34126,25 @@ in
     </message>
 </context>
 <context>
+    <name>KxServerDownTipDlg</name>
+    <message>
+        <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline verification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Abnormal network connection</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QSocks5SocketEngine</name>
     <message>
         <source>Network operation timed out</source>
@@ -33497,6 +34314,33 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
 </context>
 <context>
+    <name>KxRunMacroDlg</name>
+    <message>
+        <source>Invalid procedure name.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>JS Macros</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VB Macros</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation>Eingabeaufforderung</translation>
+    </message>
+    <message>
+        <source>Are you sure to delete macro &apos;%1&apos; ?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The macros in this project are disabled.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxCloseTaskpaneCommand</name>
     <message>
         <source>close</source>
@@ -33534,10 +34378,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Dialog</source>
         <translation>Dialogfeld</translation>
-    </message>
-    <message>
-        <source>I know</source>
-        <translation>Verstanden</translation>
     </message>
     <message>
         <source>How to Get</source>
@@ -33630,6 +34470,29 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>ChartElements</source>
         <translation>Diagrammelement</translation>
+    </message>
+</context>
+<context>
+    <name>KScreenGrabShortcutConflictDlg</name>
+    <message>
+        <source>no tips again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Setting Shortcut</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The shortcut keys for WPS screenshots have been occupied. It is suggested that you change the shortcut keys for conflict software or modify the shortcut keys for WPS screenshots.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>shortcut keys have been occupied</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -33831,6 +34694,17 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Unknown Error</source>
         <translation>Unbekannter Fehler</translation>
+    </message>
+</context>
+<context>
+    <name>KxInkDrawPenGalleryModel</name>
+    <message>
+        <source>Pen shape</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pen width</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -34418,6 +35292,13 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
 </context>
 <context>
+    <name>KxSmartArtInsertDlg</name>
+    <message>
+        <source>Insert Smartart Dialog</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPicksolutionDlg</name>
     <message>
         <source>No XML expansion pack</source>
@@ -34569,15 +35450,6 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>&lt;b&gt;Scroll Lock On&lt;/b&gt;</source>
         <translation>&lt;b&gt;Rollen-Taste Ein&lt;/b&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewTinyQRCodeWidget</name>
-    <message>
-        <source>Use Wechat scan the code
-share with your friends</source>
-        <translation>QR-Code mit WeChat scannen
-Für Freunde freigeben</translation>
     </message>
 </context>
 <context>
@@ -35008,33 +35880,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Could not locate media source.</source>
         <translation>Medienquelle konnte nicht gefunden werden.</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewShareWindowShareBar</name>
-    <message>
-        <source>ShareToWeibo</source>
-        <translation>Für Weibo freigeben</translation>
-    </message>
-    <message>
-        <source>ShareToQzone</source>
-        <translation>Für Qzone freigeben</translation>
-    </message>
-    <message>
-        <source>Share to:</source>
-        <translation>Freigeben für:</translation>
-    </message>
-    <message>
-        <source>ShareToQQ</source>
-        <translation>Für QQ freigeben</translation>
-    </message>
-    <message>
-        <source>ShareToWeixin</source>
-        <translation>Für WeChat freigeben</translation>
-    </message>
-    <message>
-        <source>H5Share_Defaut_Tips</source>
-        <translation>Ich habe gerade mit WPS Office ein Dokument in eine Webseite konvertiert. Jetzt ansehen!</translation>
     </message>
 </context>
 <context>
@@ -35541,6 +36386,25 @@ Installieren Sie WPS Office neu!</translation>
     </message>
 </context>
 <context>
+    <name>KxChartTemplateStackedWidget_xa</name>
+    <message>
+        <source>No local chart template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Manage Templates</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Local chart templates</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tips: By saving the chart template to the folder in the &quot;Manage Templates&quot; button, you can use the local chart template.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPasswordListModel</name>
     <message>
         <source>Approved date:</source>
@@ -35572,6 +36436,10 @@ Installieren Sie WPS Office neu!</translation>
     <message>
         <source>Find Commands</source>
         <translation>Befehle suchen</translation>
+    </message>
+    <message>
+        <source>Find functions or document content</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -36098,6 +36966,44 @@ Die Einstellungen werden nach dem neuen Starten von WPS Office wirksam.</transla
     <message>
         <source>Document List</source>
         <translation>Dokumentliste</translation>
+    </message>
+</context>
+<context>
+    <name>KScrnGrabOcrShortcutSettingDlg</name>
+    <message>
+        <source>Remark:When the global shortcut key is turned on, it can also be used without wps opened</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>enable global shortcut for sreengrab ocr</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS ScreenGrabOcr Shortcut</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>default</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KScrnGrabShortcutSettingDlg</name>
+    <message>
+        <source>Remark:When the global shortcut key is turned on, it can also be used without wps opened</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS ScreenGrab Shortcut</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>default</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>enable global shortcut for sreengrab</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -36684,37 +37590,6 @@ Prüfen Sie Ihre Netzwerkverbindung.</translation>
     </message>
 </context>
 <context>
-    <name>KWebPreviewWindowProgressWidget</name>
-    <message>
-        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/b&gt;&lt;/a&gt;, or try it later</source>
-        <translation>Das Erstellen des Links ist fehlgeschlagen. &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Klicken Sie, um es erneut zu versuchen&lt;/a&gt;&lt;/b&gt;, oder versuchen Sie es später.</translation>
-    </message>
-    <message>
-        <source>The left disk space is not enouth to creat link</source>
-        <translation>Der Link kann nicht erstellt werden, da Sie dann nicht mehr genügend freien Speicherplatz verfügbar hätten.</translation>
-    </message>
-    <message>
-        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
-        <translation>Das Erstellen des Links ist fehlgeschlagen.&lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Klicken Sie, um es erneut zu versuchen&lt;/a&gt;&lt;/b&gt;, oder versuchen Sie es später.</translation>
-    </message>
-    <message>
-        <source>Link contains only top 50 pages</source>
-        <translation>Um eine gute Anzeigequalität sicherzustellen, enthält der Link nur die ersten 50 Seiten des Dokuments.</translation>
-    </message>
-    <message>
-        <source>Link contains only top 20 pages</source>
-        <translation>Um eine gute Anzeigequalität sicherzustellen, enthält der Link nur die ersten 20 Seiten des Dokuments.</translation>
-    </message>
-    <message>
-        <source>Creating kink, please wait...</source>
-        <translation>Link wird erstellt, bitte warten...</translation>
-    </message>
-    <message>
-        <source>Network is unaccessable, can&apos;t creat link</source>
-        <translation>Der Link kann aufgrund eines Netzwerkproblems nicht erstellt werden.</translation>
-    </message>
-</context>
-<context>
     <name>KxControlsListCommand</name>
     <message>
         <source>Register Custom Control...</source>
@@ -36935,6 +37810,17 @@ Prüfen Sie Ihre Netzwerkverbindung.</translation>
     <message>
         <source>Protocol &quot;%1&quot; is unknown</source>
         <translation>Das Protokoll &quot;%1&quot; ist unbekannt</translation>
+    </message>
+</context>
+<context>
+    <name>KxThemeItemPopupMenuCommand</name>
+    <message>
+        <source>Do you want to delete &quot;%1&quot; custom colors ?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete colors</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37203,13 +38089,6 @@ Kennwortschutz und Dokumentberechtigungen werden ungültig.</translation>
     </message>
 </context>
 <context>
-    <name>doctabh5::KH5ShareDocTabPaneEnterPreviewWidget</name>
-    <message>
-        <source>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</source>
-        <translation>&lt;a style=&apos;text-decoration:underline&apos;&gt;Vorschau aufrufen&lt;/a&gt;&gt;&gt;</translation>
-    </message>
-</context>
-<context>
     <name>QDB2Result</name>
     <message>
         <source>Unable to bind variable</source>
@@ -37273,6 +38152,41 @@ Kennwortschutz und Dokumentberechtigungen werden ungültig.</translation>
     <message>
         <source>Unable to fetch first</source>
         <translation>Der erste Datensatz konnte nicht abgeholt werden</translation>
+    </message>
+</context>
+<context>
+    <name>KVipTipButton</name>
+    <message>
+        <source>Buy separately on demand</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TimeLimited</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Free for a limited time for WPS members</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DocerVip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WpsVip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Free for Docer members</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PaySeparately</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Free for WPS members</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37888,13 +38802,6 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     </message>
 </context>
 <context>
-    <name>KWebPreviewWindowHeaderWidget</name>
-    <message>
-        <source>Link preview</source>
-        <translation>ShareLink</translation>
-    </message>
-</context>
-<context>
     <name>QTabBar</name>
     <message>
         <source>Scroll Left</source>
@@ -37991,6 +38898,13 @@ Werden Sie VIP, um diese Funktion unbegrenzt verwenden zu können.</translation>
     </message>
     <message>
         <source>%1Not remind%2</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -38269,6 +39183,17 @@ Werden Sie VIP, um diese Funktion unbegrenzt verwenden zu können.</translation>
     </message>
 </context>
 <context>
+    <name>KShortcutSettingDlg</name>
+    <message>
+        <source>The selected shortcut keys have been occupied. It is suggested that you go to change the shortcut keys of conflict software or choose other shortcut keys.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>shortcut keys have been occupied</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDownloadAndUploadFileDlg</name>
     <message>
         <source>Downloading</source>
@@ -38285,6 +39210,21 @@ Werden Sie VIP, um diese Funktion unbegrenzt verwenden zu können.</translation>
     <message>
         <source>Downloading: </source>
         <translation>Herunterladen: </translation>
+    </message>
+</context>
+<context>
+    <name>KLargeFileBackupNoticeDialog</name>
+    <message>
+        <source>Continue backup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No backup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backup Notice</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38426,49 +39366,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
     </message>
 </context>
 <context>
-    <name>doctabh5::KH5ShareDocTabPaneQRCodeAreaWidget</name>
-    <message>
-        <source>Server not respondingT_T
-Click to retry, or try it later~</source>
-        <translation>Server reagiert nicht.
-Klicken Sie, um es erneut zu versuchen, oder versuchen Sie es später.</translation>
-    </message>
-    <message>
-        <source>Scan QRCode</source>
-        <translation>Scannen des QR-Codes</translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation>Link-Adresse kopieren</translation>
-    </message>
-    <message>
-        <source>create link</source>
-        <translation>Link erstellen</translation>
-    </message>
-    <message>
-        <source>Scan the QRCode
-send document link to mobile</source>
-        <translation>QR-Code scannen
-und den Link an Ihr Mobiltelefon senden.</translation>
-    </message>
-    <message>
-        <source>Create link failedT_T
-Click to retry, or try it later~</source>
-        <translation>Erstellen des Links fehlgeschlagen.
-Klicken Sie, um es erneut zu versuchen, oder versuchen Sie es später.</translation>
-    </message>
-    <message>
-        <source>Creating Link...</source>
-        <translation>Link wird erstellt...</translation>
-    </message>
-    <message>
-        <source>Network error, can not create link
-Please check your network your firewall configuration</source>
-        <translation>Der Link kann aufgrund eines Netzwerkfehlers nicht erstellt werden.
-Prüfen Sie Ihre Netzwerk- und Firewall-Konfiguration.</translation>
-    </message>
-</context>
-<context>
     <name>KxEncryptionHardware</name>
     <message>
         <source>unknown device</source>
@@ -38575,6 +39472,41 @@ Prüfen Sie Ihre Netzwerk- und Firewall-Konfiguration.</translation>
     <message>
         <source>InsertCellsInPopup</source>
         <translation>ZellenInPopupEinfügen</translation>
+    </message>
+</context>
+<context>
+    <name>MAC_APPLICATION_MENU</name>
+    <message>
+        <source>AppStore Evaluation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Others</source>
+        <translation>Andere ausblenden</translation>
+    </message>
+    <message>
+        <source>Quit %1</source>
+        <translation>%1 beenden</translation>
+    </message>
+    <message>
+        <source>About %1</source>
+        <translation>Über %1</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Einstellungen ...</translation>
+    </message>
+    <message>
+        <source>Services</source>
+        <translation>Dienste</translation>
+    </message>
+    <message>
+        <source>Hide %1</source>
+        <translation>%1 ausblenden</translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation>Alle anzeigen</translation>
     </message>
 </context>
 <context>
@@ -38701,18 +39633,33 @@ Prüfen Sie Ihre Netzwerk- und Firewall-Konfiguration.</translation>
     </message>
 </context>
 <context>
-    <name>KxH5ShareLoginWidget</name>
+    <name>KScrnGrabOcrHelperDlg</name>
     <message>
-        <source>For document security needs, please log in,
-you can also enjoy the link after the link to manage, delete, and then share privileges</source>
-        <translation>Melden Sie sich an, um den Link zu verwenden.
-Nach dem Anmelden können Sie den Link auch verwalten, löschen und für andere freigeben.</translation>
+        <source>Quick Extraction of Text Content by three steps</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Link has been generated, 
-you can use the login!</source>
-        <translation>Der Link wurde erstellt.
-Melden Sie sich an, um ihn zu verwenden.</translation>
+        <source>getting start</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select the area of text to be extracted
+Start recognizing and extracting text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Waiting for a moment to complete recognition
+Automatic Text Replication of Recognition Result</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>When encountering text that cannot be selected in PDF, pictures, web pages</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keyboard shortcut Ctrl + Alt + S to
+enter the screenshot to extract words</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38849,6 +39796,10 @@ p, li { white-space: pre-wrap; }
         <source>Change Theme Color</source>
         <translation>Designfarben ändern</translation>
     </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KTemplateItemModel</name>
@@ -38906,17 +39857,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Next time</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxServerDownTipDlg</name>
-    <message>
-        <source>Offline verification</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Abnormal network connection</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -39046,17 +39986,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KLinkMessageBox</name>
-    <message>
-        <source>Open Folder</source>
-        <translation>Ordner öffnen</translation>
-    </message>
-    <message>
-        <source>Find document</source>
-        <translation>Dokument suchen</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsSpeakStation</name>
     <message>
         <source>Cannot start reading.</source>
@@ -39084,6 +40013,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Styles</source>
         <translation>Formatvorlagen</translation>
+    </message>
+</context>
+<context>
+    <name>KxThemeColorGalleryModelItem</name>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Modify</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39141,6 +40081,13 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxVasEnterClientWidget</name>
+    <message>
+        <source>I know</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxChartToolsHelper</name>
     <message>
         <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
@@ -39163,6 +40110,21 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KRibbonFindCmdWidget</name>
+    <message>
+        <source>Find Functions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Find Commands</source>
+        <translation>Befehle suchen</translation>
+    </message>
+    <message>
+        <source>find commands</source>
+        <translation>Befehle suchen</translation>
+    </message>
+</context>
+<context>
     <name>KxSetMBCommand</name>
     <message>
         <source>Your document is in the form of attachment, unable to set mb.</source>
@@ -39181,14 +40143,10 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxFormatGroupContentChartAxisOptions</name>
+    <name>KScreenGrabTip</name>
     <message>
-        <source>Veritcal axis crosses</source>
-        <translation>Vertikale Achse schneidet</translation>
-    </message>
-    <message>
-        <source>Horizontal axis crosses</source>
-        <translation>Horizontale Achse schneidet</translation>
+        <source>Intro:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39227,37 +40185,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Don&apos;t check file format</source>
         <translation>Dateiformat nicht prüfen</translation>
-    </message>
-</context>
-<context>
-    <name>MAC_APPLICATION_MENU</name>
-    <message>
-        <source>Hide Others</source>
-        <translation>Andere ausblenden</translation>
-    </message>
-    <message>
-        <source>Quit %1</source>
-        <translation>%1 beenden</translation>
-    </message>
-    <message>
-        <source>About %1</source>
-        <translation>Über %1</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Einstellungen ...</translation>
-    </message>
-    <message>
-        <source>Services</source>
-        <translation>Dienste</translation>
-    </message>
-    <message>
-        <source>Hide %1</source>
-        <translation>%1 ausblenden</translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation>Alle anzeigen</translation>
     </message>
 </context>
 <context>
@@ -39388,25 +40315,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxRunMacroDlg</name>
-    <message>
-        <source>JS Macros</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>VB Macros</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Prompt</source>
-        <translation>Eingabeaufforderung</translation>
-    </message>
-    <message>
-        <source>Are you sure to delete macro &apos;%1&apos; ?</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxSpeakAbstractOutputCommand</name>
     <message>
         <source>WPS Audio</source>
@@ -39429,40 +40337,25 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KScrnGrabTipsDialog</name>
+    <message>
+        <source>No(&amp;N)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ok(&amp;O)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Yes(&amp;Y)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxGalleryShapesCommand</name>
     <message>
         <source>Preset</source>
         <translation>Voreinstellung</translation>
-    </message>
-</context>
-<context>
-    <name>JdeListWidgetItemData</name>
-    <message>
-        <source>Prompt</source>
-        <translation>Eingabeaufforderung</translation>
-    </message>
-    <message>
-        <source>The macros in this project are disabled.</source>
-        <translation>Die Makros in diesem Projekt sind deaktiviert.</translation>
-    </message>
-    <message>
-        <source>Project is unviewable</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Project Locked</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KdeListWidgetItemData</name>
-    <message>
-        <source>Prompt</source>
-        <translation>Eingabeaufforderung</translation>
-    </message>
-    <message>
-        <source>The macros in this project are disabled.</source>
-        <translation>Die Makros in diesem Projekt sind deaktiviert.</translation>
     </message>
 </context>
 <context>
@@ -39511,13 +40404,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KVipTipButton</name>
-    <message>
-        <source>DocerVip</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxFontPreviewLabel</name>
     <message>
         <source>Simsun</source>
@@ -39526,13 +40412,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>WPS Writer AaBbCc</source>
         <translation>WPS macht Office einfacher</translation>
-    </message>
-</context>
-<context>
-    <name>KxGalleryFontPreviewComboBox</name>
-    <message>
-        <source>Simsun</source>
-        <translation>Simsun</translation>
     </message>
 </context>
 <context>
@@ -39654,6 +40533,21 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxVasEnterGuideInCoopShellDlg</name>
+    <message>
+        <source>Split Sheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge Sheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Advanced Filter</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KInputWritePasswordDlg</name>
     <message>
         <source>Enter password to modify, or open read-only file.</source>
@@ -39670,6 +40564,21 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>&amp;Password:</source>
         <translation>&amp;Kennwort:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDocSecurityTipHelper</name>
+    <message>
+        <source>can not operate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please usse security document function after saving this document as security document.</source>
+        <translation>Verwenden Sie die Sicherheitsdokumentfunktion, nachdem Sie dieses Dokument als Sicherheitsdokument gespeichert haben.</translation>
+    </message>
+    <message>
+        <source>Local network disconneted, please retry after connection available.</source>
+        <translation>Lokales Netzwerk wurde getrennt. Versuchen Sie es erneut, nachdem die Verbindung hergestellt wurde.</translation>
     </message>
 </context>
 <context>
@@ -39749,13 +40658,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxH5RemindDialog</name>
-    <message>
-        <source>Copy Finished</source>
-        <translation>Kopiert</translation>
-    </message>
-</context>
-<context>
     <name>KxHyperlinkDlg</name>
     <message>
         <source>Homepage</source>
@@ -39826,13 +40728,6 @@ zum Erstellen eines Ausgangsdokuments</translation>
     </message>
 </context>
 <context>
-    <name>KH5LinkMgrWindow</name>
-    <message>
-        <source>H5 Link Manager</source>
-        <translation>Freigegebene Links verwalten</translation>
-    </message>
-</context>
-<context>
     <name>KsSlideWindowShowMsgHandler</name>
     <message>
         <source>Network Disconnected.</source>
@@ -39885,17 +40780,6 @@ zum Erstellen eines Ausgangsdokuments</translation>
     </message>
 </context>
 <context>
-    <name>KxDocSecurityTipHelper</name>
-    <message>
-        <source>Local network disconneted, please retry after connection available.</source>
-        <translation>Lokales Netzwerk wurde getrennt. Versuchen Sie es erneut, nachdem die Verbindung hergestellt wurde.</translation>
-    </message>
-    <message>
-        <source>Please usse security document function after saving this document as security document.</source>
-        <translation>Verwenden Sie die Sicherheitsdokumentfunktion, nachdem Sie dieses Dokument als Sicherheitsdokument gespeichert haben.</translation>
-    </message>
-</context>
-<context>
     <name>KLoginStatusTipWidget</name>
     <message>
         <source>Login abnormally</source>
@@ -39929,6 +40813,17 @@ zum Erstellen eines Ausgangsdokuments</translation>
     <message>
         <source>Need to update the USB-KEY driver,Please update the driver!</source>
         <translation>USB-KEY-Treiber muss aktualisiert werden. Aktualisieren Sie den Treiber.</translation>
+    </message>
+</context>
+<context>
+    <name>KxMbOpRecordsWidget</name>
+    <message>
+        <source>change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>decrypt</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -40062,37 +40957,6 @@ zum Erstellen eines Ausgangsdokuments</translation>
     </message>
 </context>
 <context>
-    <name>doctabh5::KH5ShareDocTabPaneShareLinkWidget</name>
-    <message>
-        <source>Share to QQ</source>
-        <translation>Für QQ freigeben</translation>
-    </message>
-    <message>
-        <source>Share link:</source>
-        <translation>Link freigeben:</translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation>Link-Adresse kopieren</translation>
-    </message>
-    <message>
-        <source>Copy link</source>
-        <translation>Link-Adresse kopieren</translation>
-    </message>
-    <message>
-        <source>Share to WeChat</source>
-        <translation>Für WeChat freigeben</translation>
-    </message>
-    <message>
-        <source>Share to Weibo</source>
-        <translation>Für Weibo freigeben</translation>
-    </message>
-    <message>
-        <source>Share to QZone</source>
-        <translation>Für QZone freigeben</translation>
-    </message>
-</context>
-<context>
     <name>KPasswordDlgTitle</name>
     <message>
         <source>Document is encrypted</source>
@@ -40107,17 +40971,21 @@ zum Erstellen eines Ausgangsdokuments</translation>
     </message>
 </context>
 <context>
+    <name>TitleBarWidget</name>
+    <message>
+        <source>Advanced ScreenGrab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
         <translation>Premium</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5DocTabPaneQRCodeTopTipWidget</name>
-    <message>
-        <source>Link contains only top 50 pages</source>
-        <translation>Um eine gute Anzeigequalität sicherzustellen, enthält der Link nur die ersten 50 Seiten des Dokuments.</translation>
     </message>
 </context>
 <context>
@@ -40224,21 +41092,6 @@ zum Erstellen eines Ausgangsdokuments</translation>
     </message>
 </context>
 <context>
-    <name>KxH5ShareContiueWidget</name>
-    <message>
-        <source>Manage Shared Link &gt;&gt;</source>
-        <translation>Freigegebene Links verwalten &gt;&gt;</translation>
-    </message>
-    <message>
-        <source>Share Finished!</source>
-        <translation>Freigegeben.</translation>
-    </message>
-    <message>
-        <source>Continue Share &gt;&gt;</source>
-        <translation>Freigabe fortsetzen &gt;&gt;</translation>
-    </message>
-</context>
-<context>
     <name>KxInsertFileObjectCommand</name>
     <message>
         <source>Insert File Object</source>
@@ -40269,17 +41122,6 @@ zum Erstellen eines Ausgangsdokuments</translation>
     <message>
         <source>New Template</source>
         <translation>Neue Berechtigungsvorlage</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5hareCreateLinkWidget</name>
-    <message>
-        <source>creating a link...</source>
-        <translation>Link wird erstellt...</translation>
-    </message>
-    <message>
-        <source>Mobile scan two-dimensional code</source>
-        <translation>Scannen Sie den QR-Code, um den Link an Ihr Mobiltelefon zu senden.</translation>
     </message>
 </context>
 <context>
@@ -40331,6 +41173,13 @@ zum Erstellen eines Ausgangsdokuments</translation>
     </message>
 </context>
 <context>
+    <name>KxListFillPictureCommand</name>
+    <message>
+        <source>Change Picture</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KUserCenterMenuButton</name>
     <message>
         <source>abnormal network status, turn to be offline status</source>
@@ -40379,6 +41228,21 @@ zum Erstellen eines Ausgangsdokuments</translation>
     </message>
 </context>
 <context>
+    <name>KxChartTypeDialogClass_xa</name>
+    <message>
+        <source>Current Chart Name</source>
+        <translation>Aktueller Diagrammname</translation>
+    </message>
+    <message>
+        <source>TextLabelForGroupChart</source>
+        <translation>Beschriftung für Gruppendiagramm</translation>
+    </message>
+    <message>
+        <source>&amp;Manage Templates...</source>
+        <translation>Vorlagen verwalten... (&amp;M)</translation>
+    </message>
+</context>
+<context>
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
@@ -40393,21 +41257,17 @@ zum Erstellen eines Ausgangsdokuments</translation>
     </message>
 </context>
 <context>
+    <name>KXBlackTipWidgetProxy</name>
+    <message>
+        <source>The file has too much data excess. Auto-slimming it down:</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxThemeEffectsGalleryCommand</name>
     <message>
         <source>Change Theme Effect</source>
         <translation>Designeffekt ändern</translation>
-    </message>
-</context>
-<context>
-    <name>KRibbonFindCmdWidget</name>
-    <message>
-        <source>Find Commands</source>
-        <translation>Befehle suchen</translation>
-    </message>
-    <message>
-        <source>find commands</source>
-        <translation>Befehle suchen</translation>
     </message>
 </context>
 <context>
@@ -40425,13 +41285,6 @@ zum Erstellen eines Ausgangsdokuments</translation>
     </message>
 </context>
 <context>
-    <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
-    <message>
-        <source>Property</source>
-        <translation>Eigenschaft</translation>
-    </message>
-</context>
-<context>
     <name>KxHardwareEncryptionAlert</name>
     <message>
         <source>Information</source>
@@ -40443,9 +41296,9 @@ zum Erstellen eines Ausgangsdokuments</translation>
     </message>
 </context>
 <context>
-    <name>KxLearningTip</name>
+    <name>KCoopReadOnlyCannotSyncMsgBox</name>
     <message>
-        <source>Use Tips</source>
+        <source>Save as</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -40453,6 +41306,17 @@ zum Erstellen eines Ausgangsdokuments</translation>
     <name>KxColorSnapperWidget</name>
     <message>
         <source>Failed to initialize the Color snapper,the feature is not supported by current system.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>JdeListWidgetItemData</name>
+    <message>
+        <source>Project is unviewable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Project Locked</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -40482,6 +41346,13 @@ zum Erstellen eines Ausgangsdokuments</translation>
     <message>
         <source>Operation canceled</source>
         <translation>Operation abgebrochen</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatGroupContent_RepairEnhancement</name>
+    <message>
+        <source>Clarity</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -40701,6 +41572,13 @@ EIGENSCHAFTEN</translation>
     </message>
 </context>
 <context>
+    <name>KxCustomMessageBox</name>
+    <message>
+        <source>Official Document</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SelPictureWidgetBase</name>
     <message>
         <source>Current locale cannot apply this skin.</source>
@@ -40786,13 +41664,6 @@ EIGENSCHAFTEN</translation>
     <message>
         <source>I already know</source>
         <translation>Ich weiß schon</translation>
-    </message>
-</context>
-<context>
-    <name>KLargeFileBackupNoticeDialog</name>
-    <message>
-        <source>Backup Notice</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -40885,15 +41756,6 @@ Der Datensatz ist ungültig. Die datei ist vielleicht verschoben, gelöscht oder
     </message>
 </context>
 <context>
-    <name>KWebPreviewShareWidget</name>
-    <message>
-        <source>weixin scan QR Code 
- Share To Your FriendsSS</source>
-        <translation>QR-Code mit WeChat scannen
-Für Freunde freigeben</translation>
-    </message>
-</context>
-<context>
     <name>QTcpServer</name>
     <message>
         <source>Operation on socket is not supported</source>
@@ -40922,6 +41784,214 @@ Für Freunde freigeben</translation>
     </message>
 </context>
 <context>
+    <name>KWebPreviewWindowShareWidget</name>
+    <message>
+        <source>QQ</source>
+        <translation>QQ</translation>
+    </message>
+    <message>
+        <source>QZone</source>
+        <translation>QZone</translation>
+    </message>
+    <message>
+        <source>Weibo</source>
+        <translation>Weibo</translation>
+    </message>
+    <message>
+        <source>Click to open the link</source>
+        <translation>Zum Öffnen des Links klicken</translation>
+    </message>
+    <message>
+        <source>For the link security, you need login to share link
+you can manage,delete,reshare the link</source>
+        <translation>Melden Sie sich zur Sicherstellung der Link-Sicherheit an, um ihn zu verwenden.
+Nach dem Anmelden können Sie den Link auch verwalten, löschen und für andere freigeben.</translation>
+    </message>
+    <message>
+        <source>Create link succeeded!</source>
+        <translation>Link wurde erstellt.</translation>
+    </message>
+    <message>
+        <source>WeChat</source>
+        <translation>WeChat</translation>
+    </message>
+    <message>
+        <source>Creating QRCode...</source>
+        <translation>QR-Code wird erstellt...</translation>
+    </message>
+    <message>
+        <source>Copy QRCode succeeded!</source>
+        <translation>QR-Code wurde kopiert.</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translation>Link erstellen</translation>
+    </message>
+    <message>
+        <source>Copy link succeeded!</source>
+        <translation>Link wurde kopiert.</translation>
+    </message>
+    <message>
+        <source>Link has been created, login and use it!</source>
+        <translation>Der Link wurde erstellt.
+Melden Sie sich an, um ihn zu verwenden.</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneGeneralFuctionWidget</name>
+    <message>
+        <source>Print/Preview</source>
+        <translation>Drucken/Vorschau</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation>Ordner</translation>
+    </message>
+    <message>
+        <source>Export Pdf</source>
+        <translation>PDF exportieren</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewTinyQRCodeWidget</name>
+    <message>
+        <source>Use Wechat scan the code
+share with your friends</source>
+        <translation>QR-Code mit WeChat scannen
+Für Freunde freigeben</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewShareWindowShareBar</name>
+    <message>
+        <source>ShareToWeibo</source>
+        <translation>Für Weibo freigeben</translation>
+    </message>
+    <message>
+        <source>ShareToQzone</source>
+        <translation>Für Qzone freigeben</translation>
+    </message>
+    <message>
+        <source>Share to:</source>
+        <translation>Freigeben für:</translation>
+    </message>
+    <message>
+        <source>ShareToQQ</source>
+        <translation>Für QQ freigeben</translation>
+    </message>
+    <message>
+        <source>ShareToWeixin</source>
+        <translation>Für WeChat freigeben</translation>
+    </message>
+    <message>
+        <source>H5Share_Defaut_Tips</source>
+        <translation>Ich habe gerade mit WPS Office ein Dokument in eine Webseite konvertiert. Jetzt ansehen!</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowProgressWidget</name>
+    <message>
+        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/b&gt;&lt;/a&gt;, or try it later</source>
+        <translation>Das Erstellen des Links ist fehlgeschlagen. &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Klicken Sie, um es erneut zu versuchen&lt;/a&gt;&lt;/b&gt;, oder versuchen Sie es später.</translation>
+    </message>
+    <message>
+        <source>The left disk space is not enouth to creat link</source>
+        <translation>Der Link kann nicht erstellt werden, da Sie dann nicht mehr genügend freien Speicherplatz verfügbar hätten.</translation>
+    </message>
+    <message>
+        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
+        <translation>Das Erstellen des Links ist fehlgeschlagen.&lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Klicken Sie, um es erneut zu versuchen&lt;/a&gt;&lt;/b&gt;, oder versuchen Sie es später.</translation>
+    </message>
+    <message>
+        <source>Link contains only top 50 pages</source>
+        <translation>Um eine gute Anzeigequalität sicherzustellen, enthält der Link nur die ersten 50 Seiten des Dokuments.</translation>
+    </message>
+    <message>
+        <source>Link contains only top 20 pages</source>
+        <translation>Um eine gute Anzeigequalität sicherzustellen, enthält der Link nur die ersten 20 Seiten des Dokuments.</translation>
+    </message>
+    <message>
+        <source>Creating kink, please wait...</source>
+        <translation>Link wird erstellt, bitte warten...</translation>
+    </message>
+    <message>
+        <source>Network is unaccessable, can&apos;t creat link</source>
+        <translation>Der Link kann aufgrund eines Netzwerkproblems nicht erstellt werden.</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneEnterPreviewWidget</name>
+    <message>
+        <source>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</source>
+        <translation>&lt;a style=&apos;text-decoration:underline&apos;&gt;Vorschau aufrufen&lt;/a&gt;&gt;&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowHeaderWidget</name>
+    <message>
+        <source>Link preview</source>
+        <translation>ShareLink</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneQRCodeAreaWidget</name>
+    <message>
+        <source>Server not respondingT_T
+Click to retry, or try it later~</source>
+        <translation>Server reagiert nicht.
+Klicken Sie, um es erneut zu versuchen, oder versuchen Sie es später.</translation>
+    </message>
+    <message>
+        <source>Scan QRCode</source>
+        <translation>Scannen des QR-Codes</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translation>Link-Adresse kopieren</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translation>Link erstellen</translation>
+    </message>
+    <message>
+        <source>Scan the QRCode
+send document link to mobile</source>
+        <translation>QR-Code scannen
+und den Link an Ihr Mobiltelefon senden.</translation>
+    </message>
+    <message>
+        <source>Create link failedT_T
+Click to retry, or try it later~</source>
+        <translation>Erstellen des Links fehlgeschlagen.
+Klicken Sie, um es erneut zu versuchen, oder versuchen Sie es später.</translation>
+    </message>
+    <message>
+        <source>Creating Link...</source>
+        <translation>Link wird erstellt...</translation>
+    </message>
+    <message>
+        <source>Network error, can not create link
+Please check your network your firewall configuration</source>
+        <translation>Der Link kann aufgrund eines Netzwerkfehlers nicht erstellt werden.
+Prüfen Sie Ihre Netzwerk- und Firewall-Konfiguration.</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5ShareLoginWidget</name>
+    <message>
+        <source>For document security needs, please log in,
+you can also enjoy the link after the link to manage, delete, and then share privileges</source>
+        <translation>Melden Sie sich an, um den Link zu verwenden.
+Nach dem Anmelden können Sie den Link auch verwalten, löschen und für andere freigeben.</translation>
+    </message>
+    <message>
+        <source>Link has been generated, 
+you can use the login!</source>
+        <translation>Der Link wurde erstellt.
+Melden Sie sich an, um ihn zu verwenden.</translation>
+    </message>
+</context>
+<context>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Cancel</source>
@@ -40929,10 +41999,122 @@ Für Freunde freigeben</translation>
     </message>
 </context>
 <context>
+    <name>KLinkMessageBox</name>
+    <message>
+        <source>Open Folder</source>
+        <translation>Ordner öffnen</translation>
+    </message>
+    <message>
+        <source>Find document</source>
+        <translation>Dokument suchen</translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryFontPreviewComboBox</name>
+    <message>
+        <source>Simsun</source>
+        <translation>Simsun</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5RemindDialog</name>
+    <message>
+        <source>Copy Finished</source>
+        <translation>Kopiert</translation>
+    </message>
+</context>
+<context>
+    <name>KH5LinkMgrWindow</name>
+    <message>
+        <source>H5 Link Manager</source>
+        <translation>Freigegebene Links verwalten</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneShareLinkWidget</name>
+    <message>
+        <source>Share to QQ</source>
+        <translation>Für QQ freigeben</translation>
+    </message>
+    <message>
+        <source>Share link:</source>
+        <translation>Link freigeben:</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translation>Link-Adresse kopieren</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation>Link-Adresse kopieren</translation>
+    </message>
+    <message>
+        <source>Share to WeChat</source>
+        <translation>Für WeChat freigeben</translation>
+    </message>
+    <message>
+        <source>Share to Weibo</source>
+        <translation>Für Weibo freigeben</translation>
+    </message>
+    <message>
+        <source>Share to QZone</source>
+        <translation>Für QZone freigeben</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5DocTabPaneQRCodeTopTipWidget</name>
+    <message>
+        <source>Link contains only top 50 pages</source>
+        <translation>Um eine gute Anzeigequalität sicherzustellen, enthält der Link nur die ersten 50 Seiten des Dokuments.</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5ShareContiueWidget</name>
+    <message>
+        <source>Manage Shared Link &gt;&gt;</source>
+        <translation>Freigegebene Links verwalten &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Share Finished!</source>
+        <translation>Freigegeben.</translation>
+    </message>
+    <message>
+        <source>Continue Share &gt;&gt;</source>
+        <translation>Freigabe fortsetzen &gt;&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5hareCreateLinkWidget</name>
+    <message>
+        <source>creating a link...</source>
+        <translation>Link wird erstellt...</translation>
+    </message>
+    <message>
+        <source>Mobile scan two-dimensional code</source>
+        <translation>Scannen Sie den QR-Code, um den Link an Ihr Mobiltelefon zu senden.</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
+    <message>
+        <source>Property</source>
+        <translation>Eigenschaft</translation>
+    </message>
+</context>
+<context>
     <name>KLanguageDownloadDialog</name>
     <message>
         <source>Are you sure you want to cancel the download?</source>
         <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewShareWidget</name>
+    <message>
+        <source>weixin scan QR Code 
+ Share To Your FriendsSS</source>
+        <translation>QR-Code mit WeChat scannen
+Für Freunde freigeben</translation>
     </message>
 </context>
 </TS>
