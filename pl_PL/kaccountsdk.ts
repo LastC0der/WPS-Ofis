@@ -15,6 +15,21 @@
     </message>
 </context>
 <context>
+    <name>KLogoutClearCacheDlg</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>You&apos;re about to exit your account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+</context>
+<context>
     <name>KNetworkErrWidget</name>
     <message>
         <source>OK</source>
@@ -885,6 +900,269 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KLoginMainWindow</name>
+    <message>
+        <source>here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>Adres e-mail</translation>
+    </message>
+    <message>
+        <source>Forget password</source>
+        <translation>Zapomnij hasło</translation>
+    </message>
+    <message>
+        <source>Continue with Facebook</source>
+        <translation>Kontynuuj przez Facebooka</translation>
+    </message>
+    <message>
+        <source>Don&apos;t have an account?</source>
+        <translation>Nie mam konta?</translation>
+    </message>
+    <message>
+        <source>Frequent requests. Please wait a minute and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid argument</source>
+        <translation>Błędny argument</translation>
+    </message>
+    <message>
+        <source>Lots resources</source>
+        <translation>Dużo zasobów</translation>
+    </message>
+    <message>
+        <source>Docs security</source>
+        <translation>Bezpieczeństwo dokumentów</translation>
+    </message>
+    <message>
+        <source>QR Code Login</source>
+        <translation>Logowanie kodem QR</translation>
+    </message>
+    <message>
+        <source>Online pictures, templates, shapes</source>
+        <translation>Zdjęcia online, szablony, kształty</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address</source>
+        <translation>Wprowadź prawidłowy adres e-mail</translation>
+    </message>
+    <message>
+        <source>Wrong password</source>
+        <translation>Nieprawidłowe hasło</translation>
+    </message>
+    <message>
+        <source>Server error</source>
+        <translation>Błąd serwera</translation>
+    </message>
+    <message>
+        <source>Clear record</source>
+        <translation>Wyczyść rekord</translation>
+    </message>
+    <message>
+        <source>Wechat qrcode loading...</source>
+        <translation>Ładowanie Wechat qrcode...</translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation>Brak konta dla podanego adresu e-mail</translation>
+    </message>
+    <message>
+        <source>Remember Me</source>
+        <translation>Zapamiętaj mnie</translation>
+    </message>
+    <message>
+        <source>Unknown error!</source>
+        <translation>Nieznany błąd!</translation>
+    </message>
+    <message>
+        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue with Google</source>
+        <translation>Kontynuuj przez Google</translation>
+    </message>
+    <message>
+        <source>User name can&apos;t be pure whitespace</source>
+        <translation>Spacja nie może być nazwą użytkownika</translation>
+    </message>
+    <message>
+        <source>Invalid character. Please retry.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in with other accounts</source>
+        <translation>Zaloguj się przy użyciu innego konta</translation>
+    </message>
+    <message>
+        <source>Check docs on phone and iPad</source>
+        <translation>Sprawdź dokumenty na telefonie i iPadzie</translation>
+    </message>
+    <message>
+        <source>Password can&apos;t be pure whitespace</source>
+        <translation>Spacja nie może być hasłem</translation>
+    </message>
+    <message>
+        <source>Share docs</source>
+        <translation>Udostępnij dokumenty</translation>
+    </message>
+    <message>
+        <source>password</source>
+        <translation>hasło</translation>
+    </message>
+    <message>
+        <source>No password</source>
+        <translation>Brak hasła</translation>
+    </message>
+    <message>
+        <source>Unknow error happened!</source>
+        <translation>Wystąpił nieznany błąd!</translation>
+    </message>
+    <message>
+        <source>Synchronize docs</source>
+        <translation>Synchronizuj dokumenty</translation>
+    </message>
+    <message>
+        <source>No username</source>
+        <translation>Brak nazwy użytkownika</translation>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation>Umowy użytkownika serwisu online</translation>
+    </message>
+    <message>
+        <source>Continue with Twitter</source>
+        <translation>Kontynuuj przez Twittera</translation>
+    </message>
+    <message>
+        <source>More safety with an account</source>
+        <translation>Bardziej bezpieczne konto</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Zaloguj się</translation>
+    </message>
+    <message>
+        <source>Continue with Dropbox</source>
+        <translation>Kontynuuj przez Dropbox</translation>
+    </message>
+    <message>
+        <source>User not active</source>
+        <translation>Użytkownik jest nieaktywny</translation>
+    </message>
+    <message>
+        <source>User not exists</source>
+        <translation>Użytkownik nie istnieje</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Waiting...</source>
+        <translation>Oczekiwanie...</translation>
+    </message>
+    <message>
+        <source>Invalid account</source>
+        <translation>Nieprawidłowe konto</translation>
+    </message>
+    <message>
+        <source>Continue with Email</source>
+        <translation>Kontynuuj przez adres e-mail</translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
+        <translation>Kontynuuj przez Line</translation>
+    </message>
+    <message>
+        <source>Share docs with others</source>
+        <translation>Udostępnij dokumenty innym użytkownikom</translation>
+    </message>
+    <message>
+        <source>Password should be 8-16 characters. Please retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in with Google</source>
+        <translation>Zaloguj się przy użyciu konta Google</translation>
+    </message>
+    <message>
+        <source>Forgot?</source>
+        <translation>Nie pamiętasz hasła?</translation>
+    </message>
+    <message>
+        <source>User is limited</source>
+        <translation>Użytkownik ma ograniczony dostęp</translation>
+    </message>
+    <message>
+        <source>User suspend</source>
+        <translation>Użytkownik zawieszony</translation>
+    </message>
+    <message>
+        <source>Create account</source>
+        <translation>Utwórz konto</translation>
+    </message>
+    <message>
+        <source>User is banned</source>
+        <translation>Użytkownik jest zablokowany</translation>
+    </message>
+    <message>
+        <source>Register now</source>
+        <translation>Zarejestruj się teraz</translation>
+    </message>
+    <message>
+        <source>I agree to the %1</source>
+        <translation>Zgadzam się na postanowienia %1</translation>
+    </message>
+    <message>
+        <source>Login too frequently, please retry after %1 seconds</source>
+        <translation>Zbyt wiele prób logowania, spróbuj ponownie za %1 sekund</translation>
+    </message>
+    <message>
+        <source>Login with third account</source>
+        <translation>Zaloguj się na inne konto</translation>
+    </message>
+    <message>
+        <source>Or</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Already have an account?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account Login</source>
+        <translation>Zaloguj się</translation>
+    </message>
+    <message>
+        <source>Sign in with Facebook</source>
+        <translation>Zaloguj się przy użyciu konta Facebook</translation>
+    </message>
+    <message>
+        <source>Sign in with Twitter</source>
+        <translation>Zaloguj się przy użyciu konta Twitter</translation>
+    </message>
+    <message>
+        <source>Sign in with Dropbox</source>
+        <translation>Zaloguj się przy użyciu konta Dropbox</translation>
+    </message>
+    <message>
+        <source>Sign up with Email</source>
+        <translation>Zarejestruj się za pomocą adresu e-mail</translation>
+    </message>
+    <message>
+        <source>No account?</source>
+        <translation>Brak konta?</translation>
+    </message>
+    <message>
+        <source>Sign Up</source>
+        <translation>Zarejestruj się</translation>
+    </message>
+</context>
+<context>
     <name>KNetworkErrDlg</name>
     <message>
         <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
@@ -1104,6 +1382,10 @@ Easy mobile office.</source>
         <translation>Google</translation>
     </message>
     <message>
+        <source>Notice</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>FaceBook</source>
         <translation>Facebook</translation>
     </message>
@@ -1122,245 +1404,6 @@ Easy mobile office.</source>
     <message>
         <source>Twitter</source>
         <translation>Twitter</translation>
-    </message>
-</context>
-<context>
-    <name>KLoginMainWindow</name>
-    <message>
-        <source>Email</source>
-        <translation>Adres e-mail</translation>
-    </message>
-    <message>
-        <source>Forget password</source>
-        <translation>Zapomnij hasło</translation>
-    </message>
-    <message>
-        <source>Continue with Facebook</source>
-        <translation>Kontynuuj przez Facebooka</translation>
-    </message>
-    <message>
-        <source>Don&apos;t have an account?</source>
-        <translation>Nie mam konta?</translation>
-    </message>
-    <message>
-        <source>Invalid argument</source>
-        <translation>Błędny argument</translation>
-    </message>
-    <message>
-        <source>Lots resources</source>
-        <translation>Dużo zasobów</translation>
-    </message>
-    <message>
-        <source>Docs security</source>
-        <translation>Bezpieczeństwo dokumentów</translation>
-    </message>
-    <message>
-        <source>QR Code Login</source>
-        <translation>Logowanie kodem QR</translation>
-    </message>
-    <message>
-        <source>Online pictures, templates, shapes</source>
-        <translation>Zdjęcia online, szablony, kształty</translation>
-    </message>
-    <message>
-        <source>Please enter a valid email address</source>
-        <translation>Wprowadź prawidłowy adres e-mail</translation>
-    </message>
-    <message>
-        <source>Wrong password</source>
-        <translation>Nieprawidłowe hasło</translation>
-    </message>
-    <message>
-        <source>Server error</source>
-        <translation>Błąd serwera</translation>
-    </message>
-    <message>
-        <source>Clear record</source>
-        <translation>Wyczyść rekord</translation>
-    </message>
-    <message>
-        <source>Wechat qrcode loading...</source>
-        <translation>Ładowanie Wechat qrcode...</translation>
-    </message>
-    <message>
-        <source>There is no account for the email you entered</source>
-        <translation>Brak konta dla podanego adresu e-mail</translation>
-    </message>
-    <message>
-        <source>Remember Me</source>
-        <translation>Zapamiętaj mnie</translation>
-    </message>
-    <message>
-        <source>Unknown error!</source>
-        <translation>Nieznany błąd!</translation>
-    </message>
-    <message>
-        <source>Continue with Google</source>
-        <translation>Kontynuuj przez Google</translation>
-    </message>
-    <message>
-        <source>User name can&apos;t be pure whitespace</source>
-        <translation>Spacja nie może być nazwą użytkownika</translation>
-    </message>
-    <message>
-        <source>Sign in with other accounts</source>
-        <translation>Zaloguj się przy użyciu innego konta</translation>
-    </message>
-    <message>
-        <source>Check docs on phone and iPad</source>
-        <translation>Sprawdź dokumenty na telefonie i iPadzie</translation>
-    </message>
-    <message>
-        <source>Password can&apos;t be pure whitespace</source>
-        <translation>Spacja nie może być hasłem</translation>
-    </message>
-    <message>
-        <source>Share docs</source>
-        <translation>Udostępnij dokumenty</translation>
-    </message>
-    <message>
-        <source>password</source>
-        <translation>hasło</translation>
-    </message>
-    <message>
-        <source>No password</source>
-        <translation>Brak hasła</translation>
-    </message>
-    <message>
-        <source>Unknow error happened!</source>
-        <translation>Wystąpił nieznany błąd!</translation>
-    </message>
-    <message>
-        <source>Synchronize docs</source>
-        <translation>Synchronizuj dokumenty</translation>
-    </message>
-    <message>
-        <source>No username</source>
-        <translation>Brak nazwy użytkownika</translation>
-    </message>
-    <message>
-        <source>Online Service User Agreement</source>
-        <translation>Umowy użytkownika serwisu online</translation>
-    </message>
-    <message>
-        <source>Continue with Twitter</source>
-        <translation>Kontynuuj przez Twittera</translation>
-    </message>
-    <message>
-        <source>More safety with an account</source>
-        <translation>Bardziej bezpieczne konto</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Zaloguj się</translation>
-    </message>
-    <message>
-        <source>Continue with Dropbox</source>
-        <translation>Kontynuuj przez Dropbox</translation>
-    </message>
-    <message>
-        <source>User not active</source>
-        <translation>Użytkownik jest nieaktywny</translation>
-    </message>
-    <message>
-        <source>User not exists</source>
-        <translation>Użytkownik nie istnieje</translation>
-    </message>
-    <message>
-        <source>Waiting...</source>
-        <translation>Oczekiwanie...</translation>
-    </message>
-    <message>
-        <source>Invalid account</source>
-        <translation>Nieprawidłowe konto</translation>
-    </message>
-    <message>
-        <source>Continue with Email</source>
-        <translation>Kontynuuj przez adres e-mail</translation>
-    </message>
-    <message>
-        <source>Continue with Line</source>
-        <translation>Kontynuuj przez Line</translation>
-    </message>
-    <message>
-        <source>Share docs with others</source>
-        <translation>Udostępnij dokumenty innym użytkownikom</translation>
-    </message>
-    <message>
-        <source>Sign in with Google</source>
-        <translation>Zaloguj się przy użyciu konta Google</translation>
-    </message>
-    <message>
-        <source>Forgot?</source>
-        <translation>Nie pamiętasz hasła?</translation>
-    </message>
-    <message>
-        <source>User is limited</source>
-        <translation>Użytkownik ma ograniczony dostęp</translation>
-    </message>
-    <message>
-        <source>User suspend</source>
-        <translation>Użytkownik zawieszony</translation>
-    </message>
-    <message>
-        <source>Create account</source>
-        <translation>Utwórz konto</translation>
-    </message>
-    <message>
-        <source>User is banned</source>
-        <translation>Użytkownik jest zablokowany</translation>
-    </message>
-    <message>
-        <source>Register now</source>
-        <translation>Zarejestruj się teraz</translation>
-    </message>
-    <message>
-        <source>I agree to the %1</source>
-        <translation>Zgadzam się na postanowienia %1</translation>
-    </message>
-    <message>
-        <source>Login too frequently, please retry after %1 seconds</source>
-        <translation>Zbyt wiele prób logowania, spróbuj ponownie za %1 sekund</translation>
-    </message>
-    <message>
-        <source>Login with third account</source>
-        <translation>Zaloguj się na inne konto</translation>
-    </message>
-    <message>
-        <source>Or</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Already have an account?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Account Login</source>
-        <translation>Zaloguj się</translation>
-    </message>
-    <message>
-        <source>Sign in with Facebook</source>
-        <translation>Zaloguj się przy użyciu konta Facebook</translation>
-    </message>
-    <message>
-        <source>Sign in with Twitter</source>
-        <translation>Zaloguj się przy użyciu konta Twitter</translation>
-    </message>
-    <message>
-        <source>Sign in with Dropbox</source>
-        <translation>Zaloguj się przy użyciu konta Dropbox</translation>
-    </message>
-    <message>
-        <source>Sign up with Email</source>
-        <translation>Zarejestruj się za pomocą adresu e-mail</translation>
-    </message>
-    <message>
-        <source>No account?</source>
-        <translation>Brak konta?</translation>
-    </message>
-    <message>
-        <source>Sign Up</source>
-        <translation>Zarejestruj się</translation>
     </message>
 </context>
 <context>
@@ -1711,6 +1754,10 @@ Easy mobile office.</source>
         <translation>Zaloguj się przez School Mail</translation>
     </message>
     <message>
+        <source>guest account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Dingding login</source>
         <translation>Zaloguj się przez Dingding</translation>
     </message>
@@ -1866,6 +1913,10 @@ Easy mobile office.</source>
         <translation>Konto logowania...</translation>
     </message>
     <message>
+        <source>WechatOfficial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Account has been frozen, unseal, please contact customer service</source>
         <translation>Konto zostało zablokowane lub jest niejawne, skontaktuj się z obsługą klienta</translation>
     </message>
@@ -1986,6 +2037,41 @@ Easy mobile office.</source>
     <message>
         <source>verify failed</source>
         <translation>weryfikacja nie powiodła się</translation>
+    </message>
+</context>
+<context>
+    <name>KLogoutClearCacheCheckButton</name>
+    <message>
+        <source>Please verify that the native is secure and trusted to avoid the risk of data leakage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear data and delete login records</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keep data for next use.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select this if you no longer use this device</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keep data for next use</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud document cache and file backups that will keep you on your native</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>[Only trusted devices are optional]</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud document caches and files that you have on your native will be deleted at the same time</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2178,17 +2264,6 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KBottomWidget</name>
-    <message>
-        <source>Skip login</source>
-        <translation>Pomiń logowanie</translation>
-    </message>
-    <message>
-        <source>Input activation code</source>
-        <translation>Wprowadź kod aktywacyjny</translation>
-    </message>
-</context>
-<context>
     <name>KLoginMainWinBottomWidget</name>
     <message>
         <source>Skip login</source>
@@ -2245,6 +2320,21 @@ Easy mobile office.</source>
     <message>
         <source>TextLabel</source>
         <translation>Etykieta tekstowa</translation>
+    </message>
+</context>
+<context>
+    <name>KGuidePaneForTopcActivity</name>
+    <message>
+        <source>Sign in with WPS account to get gifts.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Gifts for New Users on PC</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2380,6 +2470,17 @@ Easy mobile office.</source>
     <message>
         <source>Select other account</source>
         <translation>Wybierz inne konto</translation>
+    </message>
+</context>
+<context>
+    <name>KBottomWidget</name>
+    <message>
+        <source>Skip login</source>
+        <translation>Pomiń logowanie</translation>
+    </message>
+    <message>
+        <source>Input activation code</source>
+        <translation>Wprowadź kod aktywacyjny</translation>
     </message>
 </context>
 </TS>
