@@ -277,6 +277,10 @@
         <translation>Batal</translation>
     </message>
     <message>
+        <source>Proxy Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>I have read and agree with WPS Office</source>
         <translation>Saya telah membaca dan menyetujui</translation>
     </message>
@@ -480,10 +484,6 @@ Operasi ini dapat dibatalkan. </translation>
         <translation>Portable Document Format(*.pdf) (&amp;F)</translation>
     </message>
     <message>
-        <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation>Presentasi Microsoft PowerPoint (file *.ppt, *.pot, *.pps, *.pptx) (&amp;P)</translation>
-    </message>
-    <message>
         <source>Pdf Document(*.pdf)</source>
         <translation type="unfinished"/>
     </message>
@@ -524,10 +524,6 @@ Operasi ini dapat dibatalkan. </translation>
         <translation>File Gambar(*.jpg, *.png, *.gif,...) (&amp;u)</translation>
     </message>
     <message>
-        <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation>Buku Kerja Microsoft Excel (file *.xls, *.xlt, *.xlsx) (&amp;E)</translation>
-    </message>
-    <message>
         <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
         <translation type="unfinished"/>
     </message>
@@ -542,6 +538,14 @@ Operasi ini dapat dibatalkan. </translation>
     <message>
         <source>Compat Setting</source>
         <translation>Pengaturan Compat</translation>
+    </message>
+    <message>
+        <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
+        <translation>Presentasi Microsoft PowerPoint (file *.ppt, *.pot, *.pps, *.pptx) (&amp;P)</translation>
+    </message>
+    <message>
+        <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
+        <translation>Buku Kerja Microsoft Excel (file *.xls, *.xlt, *.xlsx) (&amp;E)</translation>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
@@ -1199,6 +1203,10 @@ Operasi ini dapat dibatalkan. </translation>
         <translation>Lainnya</translation>
     </message>
     <message>
+        <source>delete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>cache clear finished.</source>
         <translation>pengosongan cache selesai.</translation>
     </message>
@@ -1296,6 +1304,10 @@ Operasi ini dapat dibatalkan. </translation>
     <message>
         <source>Uninstall WPS Office</source>
         <translation>Hapus instalasi WPS Office</translation>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
@@ -1632,6 +1644,69 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
 </context>
 <context>
+    <name>KFileAsso</name>
+    <message>
+        <source>Kingsoft PDF Professional</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation>WPS PDF</translation>
+    </message>
+    <message>
+        <source>Use WPS E-Book to read and edit e-book.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use WPS Presentation to edit and play presentations.</source>
+        <translation>Gunakan WPS Presentation untuk mengedit dan memutar presentasi.</translation>
+    </message>
+    <message>
+        <source>Use WPS PDF to read and edit pdf.</source>
+        <translation>Gunakan WPS PDF untuk membaca dan mengedit file PDF.</translation>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF Standalone</source>
+        <translation>WPS PDF Standalone</translation>
+    </message>
+    <message>
+        <source>Use WPS Writer to write reports and make up articles.</source>
+        <translation>Gunakan WPS Writer untuk menulis laporan dan membuat artikel.</translation>
+    </message>
+    <message>
+        <source>All-in-one office service</source>
+        <translation>Layanan office terpadu</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>Spreadsheet WPS</translation>
+    </message>
+    <message>
+        <source>Use WPS Spreadsheets to analyze and manage data.</source>
+        <translation>Gunakan WPS Spreadsheets untuk menganalisis dan mengelola data.</translation>
+    </message>
+    <message>
+        <source>Kingsoft Mobi</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KGdprConfigUi</name>
     <message>
         <source>Privacy Settings</source>
@@ -1722,65 +1797,6 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
 </context>
 <context>
-    <name>KFileAsso</name>
-    <message>
-        <source>WPS Presentation</source>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>Kingsoft PDF</source>
-        <translation>WPS PDF</translation>
-    </message>
-    <message>
-        <source>Use WPS E-Book to read and edit e-book.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use WPS Presentation to edit and play presentations.</source>
-        <translation>Gunakan WPS Presentation untuk mengedit dan memutar presentasi.</translation>
-    </message>
-    <message>
-        <source>Use WPS PDF to read and edit pdf.</source>
-        <translation>Gunakan WPS PDF untuk membaca dan mengedit file PDF.</translation>
-    </message>
-    <message>
-        <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>Kingsoft PDF Standalone</source>
-        <translation>WPS PDF Standalone</translation>
-    </message>
-    <message>
-        <source>Use WPS Writer to write reports and make up articles.</source>
-        <translation>Gunakan WPS Writer untuk menulis laporan dan membuat artikel.</translation>
-    </message>
-    <message>
-        <source>All-in-one office service</source>
-        <translation>Layanan office terpadu</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <translation>Spreadsheet WPS</translation>
-    </message>
-    <message>
-        <source>Use WPS Spreadsheets to analyze and manage data.</source>
-        <translation>Gunakan WPS Spreadsheets untuk menganalisis dan mengelola data.</translation>
-    </message>
-    <message>
-        <source>Kingsoft Mobi</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KFunctionCustomization</name>
     <message>
         <source>Disable online resource recommend.</source>
@@ -1788,14 +1804,6 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
     <message>
         <source>Function Customization</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide cloud shellext.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide vas shellext.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1812,6 +1820,14 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
     <message>
         <source>Disable template recommend.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide cloud shellext.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide vas shellext.</source>
         <translation type="unfinished"/>
     </message>
 </context>
