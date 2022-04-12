@@ -10449,7 +10449,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
-        <translation>Yükselt to Heading 1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Level 1;Show Level 2;Show Level 3;Show Level 4;Show Level 5;Show Level 6;Show Level 7;Show Level 8;Show Level 9;Show All Levels</source>
@@ -19776,7 +19776,7 @@ Navigation</source>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Restart Numbering</source>
@@ -21656,7 +21656,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Outline Promote Heading 1</source>
-        <translation>Outline Yükselt Heading 1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To create a link, click an empty text box.
@@ -34857,7 +34857,7 @@ Numarası</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
