@@ -9488,7 +9488,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -12300,7 +12300,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Edit content in PDF</source>
@@ -14857,7 +14857,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Word&apos;e</translation>
     </message>
     <message>
         <source>MergePDF</source>
