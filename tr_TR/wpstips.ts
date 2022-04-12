@@ -2657,7 +2657,7 @@ The diagonal lines in the table headings can be moved.</translation>
     </message>
     <message>
         <source>InsertColumnLeft.content</source>
-        <translation>Add a column directly to the left of the selected column.</translation>
+        <translation>Doğrudan seçili sütunun soluna bir sütun ekleyin.</translation>
     </message>
     <message>
         <source>ContentControlData.content</source>
@@ -2827,7 +2827,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>InsertRowBelow.title</source>
-        <translation>Aşağıya Satır Ekle</translation>
+        <translation>Altına Satır Ekle</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
@@ -3137,7 +3137,7 @@ All of the text will be placed in the selected text box.</translation>
     </message>
     <message>
         <source>InsertColumnRight.content</source>
-        <translation>Add a column directly to the right of the selected column.</translation>
+        <translation>Doğrudan seçili sütunun sağına bir sütun ekleyin.</translation>
     </message>
     <message>
         <source>ChangeTextDirection.title</source>
@@ -3569,7 +3569,7 @@ Results will be displayed in a cell following the selected cells in the same row
     </message>
     <message>
         <source>InsertColumnRight.title</source>
-        <translation>Insert Columns to the Right</translation>
+        <translation>Sağa Sütun Ekle</translation>
     </message>
     <message>
         <source>GotoFootnotes.title</source>
@@ -3743,7 +3743,7 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>InsertColumnLeft.title</source>
-        <translation>Insert Columns to the Left</translation>
+        <translation>Soluna Sütun Ekle</translation>
     </message>
     <message>
         <source>OfficialZoomOnePage.content</source>
