@@ -34708,7 +34708,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden Metne</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
