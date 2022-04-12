@@ -13439,7 +13439,7 @@ Template</source>
     </message>
     <message>
         <source>Insert Rows Below</source>
-        <translation>Aşağıya Satır Ekle</translation>
+        <translation>Altına Satır Ekle</translation>
     </message>
     <message>
         <source>More Option...</source>
@@ -24706,7 +24706,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
-        <translation>Aşağıya Satır Ekle</translation>
+        <translation>Altına Satır Ekle</translation>
     </message>
     <message>
         <source>Insert Columns to the Right</source>
