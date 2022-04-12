@@ -2827,7 +2827,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     </message>
     <message>
         <source>InsertRowBelow.title</source>
-        <translation>Altına Satır Ekle</translation>
+        <translation>Aşağıya Satır Ekle</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
@@ -3529,7 +3529,7 @@ Anahat için ayrıntılı ayarları seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>InsertRowBelow.content</source>
-        <translation>Add a new row directly below the selected row.</translation>
+        <translation>Seçili satırın hemen altına yeni bir satır ekleyin.</translation>
     </message>
     <message>
         <source>CompressPictures.title</source>
