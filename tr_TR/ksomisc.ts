@@ -1419,7 +1419,7 @@ These operations can be undone. </source>
     <name>KMainDlg</name>
     <message>
         <source>E&amp;xit</source>
-        <translation type="unfinished"/>
+        <translation>Çı&amp;kış</translation>
     </message>
     <message>
         <source>If you encounter any errors when using %1, such as program running or toolbar errors, please close all %1 applications and click the Start Repairing button below.We will do our utmost to repair the applicationsand restore them to the default state.</source>
@@ -1444,7 +1444,8 @@ These operations can be undone. </source>
     <message>
         <source>If you encounter any errors when using WPS Office, such as program running or toolbar errors, please close all WPS Office applications and click the Start Repairing button below.
 We will do our utmost to repair the applications and restore them to the default state.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i kullanırken program çalıştırma veya araç çubuğu hataları gibi herhangi bir hatayla karşılaşırsanız, lütfen tüm WPS Ofis uygulamalarını kapatın ve aşağıdaki Onarımı Başlat düğmesini tıklayın.
+Uygulamaları onarmak ve varsayılan durumuna geri yüklemek için elimizden gelenin en iyisini yapacağız.</translation>
     </message>
     <message>
         <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
@@ -1475,7 +1476,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Start &amp;Repairing</source>
-        <translation type="unfinished"/>
+        <translation>Onarımı &amp;Başlat</translation>
     </message>
 </context>
 <context>
