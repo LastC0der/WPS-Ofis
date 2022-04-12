@@ -15,6 +15,21 @@
     </message>
 </context>
 <context>
+    <name>KLogoutClearCacheDlg</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>You&apos;re about to exit your account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+</context>
+<context>
     <name>KNetworkErrWidget</name>
     <message>
         <source>OK</source>
@@ -884,6 +899,269 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KLoginMainWindow</name>
+    <message>
+        <source>here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>Email</translation>
+    </message>
+    <message>
+        <source>Forget password</source>
+        <translation>Lupa kata sandi</translation>
+    </message>
+    <message>
+        <source>Continue with Facebook</source>
+        <translation>Lanjutkan dengan Facebook</translation>
+    </message>
+    <message>
+        <source>Don&apos;t have an account?</source>
+        <translation>Tidak punya akun?</translation>
+    </message>
+    <message>
+        <source>Frequent requests. Please wait a minute and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid argument</source>
+        <translation>Argumen tidak valid</translation>
+    </message>
+    <message>
+        <source>Lots resources</source>
+        <translation>Banyak sumber</translation>
+    </message>
+    <message>
+        <source>Docs security</source>
+        <translation>Keamanan dokumen</translation>
+    </message>
+    <message>
+        <source>QR Code Login</source>
+        <translation>Masuk dengan Kode QR</translation>
+    </message>
+    <message>
+        <source>Online pictures, templates, shapes</source>
+        <translation>Gambar, templat, bentuk online</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address</source>
+        <translation>Masukkan alamat surel yang sah</translation>
+    </message>
+    <message>
+        <source>Wrong password</source>
+        <translation>Kata sandi salah</translation>
+    </message>
+    <message>
+        <source>Server error</source>
+        <translation>Kesalahan server</translation>
+    </message>
+    <message>
+        <source>Clear record</source>
+        <translation>Hapus rekaman</translation>
+    </message>
+    <message>
+        <source>Wechat qrcode loading...</source>
+        <translation>Wechat qrcode memuatkan...</translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation>Tidak ada akun untuk email yang Anda masukkan</translation>
+    </message>
+    <message>
+        <source>Remember Me</source>
+        <translation>Ingat Saya</translation>
+    </message>
+    <message>
+        <source>Unknown error!</source>
+        <translation>Kesalahan tidak dikenal!</translation>
+    </message>
+    <message>
+        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue with Google</source>
+        <translation>Lanjutkan dengan Google</translation>
+    </message>
+    <message>
+        <source>User name can&apos;t be pure whitespace</source>
+        <translation>Nama pengguna tidak dapat berupa spasi murni</translation>
+    </message>
+    <message>
+        <source>Invalid character. Please retry.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in with other accounts</source>
+        <translation>Masuk dengan akun lain</translation>
+    </message>
+    <message>
+        <source>Check docs on phone and iPad</source>
+        <translation>Cek dokumen di ponsel dan iPad</translation>
+    </message>
+    <message>
+        <source>Password can&apos;t be pure whitespace</source>
+        <translation>Kata sandi tidak dapat berupa spasi murni</translation>
+    </message>
+    <message>
+        <source>Share docs</source>
+        <translation>Bagi dokumen</translation>
+    </message>
+    <message>
+        <source>password</source>
+        <translation>kata sandi</translation>
+    </message>
+    <message>
+        <source>No password</source>
+        <translation>Tidak ada kata sandi</translation>
+    </message>
+    <message>
+        <source>Unknow error happened!</source>
+        <translation>Ada kesalahan tak dikenal!</translation>
+    </message>
+    <message>
+        <source>Synchronize docs</source>
+        <translation>Sinkronkan dokumen</translation>
+    </message>
+    <message>
+        <source>No username</source>
+        <translation>Tidak ada nama pengguna</translation>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation>Perjanjian Pengguna Layanan Online</translation>
+    </message>
+    <message>
+        <source>Continue with Twitter</source>
+        <translation>Lanjutkan dengan Twitter</translation>
+    </message>
+    <message>
+        <source>More safety with an account</source>
+        <translation>Lebih aman dengan akun</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Akses Masuk</translation>
+    </message>
+    <message>
+        <source>Continue with Dropbox</source>
+        <translation>Lanjutkan dengan Dropbox</translation>
+    </message>
+    <message>
+        <source>User not active</source>
+        <translation>Pengguna tidak aktif</translation>
+    </message>
+    <message>
+        <source>User not exists</source>
+        <translation>Pengguna tidak ada</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Waiting...</source>
+        <translation>Tunggu...</translation>
+    </message>
+    <message>
+        <source>Invalid account</source>
+        <translation>Akun tidak valid</translation>
+    </message>
+    <message>
+        <source>Continue with Email</source>
+        <translation>Lanjutkan dengan Email</translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
+        <translation>Lanjutkan dengan Line</translation>
+    </message>
+    <message>
+        <source>Share docs with others</source>
+        <translation>Bagi dokumen dengan yang lain</translation>
+    </message>
+    <message>
+        <source>Password should be 8-16 characters. Please retry</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in with Google</source>
+        <translation>Masuk dengan Google</translation>
+    </message>
+    <message>
+        <source>Forgot?</source>
+        <translation>Lupa?</translation>
+    </message>
+    <message>
+        <source>User is limited</source>
+        <translation>Pengguna dibatasi</translation>
+    </message>
+    <message>
+        <source>User suspend</source>
+        <translation>Pengguna ditangguhkan</translation>
+    </message>
+    <message>
+        <source>Create account</source>
+        <translation>Buat akun</translation>
+    </message>
+    <message>
+        <source>User is banned</source>
+        <translation>Pengguna dilarang</translation>
+    </message>
+    <message>
+        <source>Register now</source>
+        <translation>Daftar sekarang</translation>
+    </message>
+    <message>
+        <source>I agree to the %1</source>
+        <translation>Saya menyetujui %1</translation>
+    </message>
+    <message>
+        <source>Login too frequently, please retry after %1 seconds</source>
+        <translation>Terlalu sering akses masuk, silakan coba lagi setelah %1 detik</translation>
+    </message>
+    <message>
+        <source>Login with third account</source>
+        <translation>Akses masuk dengan akun ketiga</translation>
+    </message>
+    <message>
+        <source>Or</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Already have an account?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account Login</source>
+        <translation>Masuk</translation>
+    </message>
+    <message>
+        <source>Sign in with Facebook</source>
+        <translation>Masuk dengan Facebook</translation>
+    </message>
+    <message>
+        <source>Sign in with Twitter</source>
+        <translation>Masuk dengan Twitter</translation>
+    </message>
+    <message>
+        <source>Sign in with Dropbox</source>
+        <translation>Masuk dengan Dropbox</translation>
+    </message>
+    <message>
+        <source>Sign up with Email</source>
+        <translation>Daftar dengan Email</translation>
+    </message>
+    <message>
+        <source>No account?</source>
+        <translation>Tidak punya akun?</translation>
+    </message>
+    <message>
+        <source>Sign Up</source>
+        <translation>Daftar</translation>
+    </message>
+</context>
+<context>
     <name>KNetworkErrDlg</name>
     <message>
         <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
@@ -1103,6 +1381,10 @@ Easy mobile office.</source>
         <translation>Google</translation>
     </message>
     <message>
+        <source>Notice</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>FaceBook</source>
         <translation>Facebook</translation>
     </message>
@@ -1121,245 +1403,6 @@ Easy mobile office.</source>
     <message>
         <source>Twitter</source>
         <translation>Twitter</translation>
-    </message>
-</context>
-<context>
-    <name>KLoginMainWindow</name>
-    <message>
-        <source>Email</source>
-        <translation>Email</translation>
-    </message>
-    <message>
-        <source>Forget password</source>
-        <translation>Lupa kata sandi</translation>
-    </message>
-    <message>
-        <source>Continue with Facebook</source>
-        <translation>Lanjutkan dengan Facebook</translation>
-    </message>
-    <message>
-        <source>Don&apos;t have an account?</source>
-        <translation>Tidak punya akun?</translation>
-    </message>
-    <message>
-        <source>Invalid argument</source>
-        <translation>Argumen tidak valid</translation>
-    </message>
-    <message>
-        <source>Lots resources</source>
-        <translation>Banyak sumber</translation>
-    </message>
-    <message>
-        <source>Docs security</source>
-        <translation>Keamanan dokumen</translation>
-    </message>
-    <message>
-        <source>QR Code Login</source>
-        <translation>Masuk dengan Kode QR</translation>
-    </message>
-    <message>
-        <source>Online pictures, templates, shapes</source>
-        <translation>Gambar, templat, bentuk online</translation>
-    </message>
-    <message>
-        <source>Please enter a valid email address</source>
-        <translation>Masukkan alamat surel yang sah</translation>
-    </message>
-    <message>
-        <source>Wrong password</source>
-        <translation>Kata sandi salah</translation>
-    </message>
-    <message>
-        <source>Server error</source>
-        <translation>Kesalahan server</translation>
-    </message>
-    <message>
-        <source>Clear record</source>
-        <translation>Hapus rekaman</translation>
-    </message>
-    <message>
-        <source>Wechat qrcode loading...</source>
-        <translation>Wechat qrcode memuatkan...</translation>
-    </message>
-    <message>
-        <source>There is no account for the email you entered</source>
-        <translation>Tidak ada akun untuk email yang Anda masukkan</translation>
-    </message>
-    <message>
-        <source>Remember Me</source>
-        <translation>Ingat Saya</translation>
-    </message>
-    <message>
-        <source>Unknown error!</source>
-        <translation>Kesalahan tidak dikenal!</translation>
-    </message>
-    <message>
-        <source>Continue with Google</source>
-        <translation>Lanjutkan dengan Google</translation>
-    </message>
-    <message>
-        <source>User name can&apos;t be pure whitespace</source>
-        <translation>Nama pengguna tidak dapat berupa spasi murni</translation>
-    </message>
-    <message>
-        <source>Sign in with other accounts</source>
-        <translation>Masuk dengan akun lain</translation>
-    </message>
-    <message>
-        <source>Check docs on phone and iPad</source>
-        <translation>Cek dokumen di ponsel dan iPad</translation>
-    </message>
-    <message>
-        <source>Password can&apos;t be pure whitespace</source>
-        <translation>Kata sandi tidak dapat berupa spasi murni</translation>
-    </message>
-    <message>
-        <source>Share docs</source>
-        <translation>Bagi dokumen</translation>
-    </message>
-    <message>
-        <source>password</source>
-        <translation>kata sandi</translation>
-    </message>
-    <message>
-        <source>No password</source>
-        <translation>Tidak ada kata sandi</translation>
-    </message>
-    <message>
-        <source>Unknow error happened!</source>
-        <translation>Ada kesalahan tak dikenal!</translation>
-    </message>
-    <message>
-        <source>Synchronize docs</source>
-        <translation>Sinkronkan dokumen</translation>
-    </message>
-    <message>
-        <source>No username</source>
-        <translation>Tidak ada nama pengguna</translation>
-    </message>
-    <message>
-        <source>Online Service User Agreement</source>
-        <translation>Perjanjian Pengguna Layanan Online</translation>
-    </message>
-    <message>
-        <source>Continue with Twitter</source>
-        <translation>Lanjutkan dengan Twitter</translation>
-    </message>
-    <message>
-        <source>More safety with an account</source>
-        <translation>Lebih aman dengan akun</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Akses Masuk</translation>
-    </message>
-    <message>
-        <source>Continue with Dropbox</source>
-        <translation>Lanjutkan dengan Dropbox</translation>
-    </message>
-    <message>
-        <source>User not active</source>
-        <translation>Pengguna tidak aktif</translation>
-    </message>
-    <message>
-        <source>User not exists</source>
-        <translation>Pengguna tidak ada</translation>
-    </message>
-    <message>
-        <source>Waiting...</source>
-        <translation>Tunggu...</translation>
-    </message>
-    <message>
-        <source>Invalid account</source>
-        <translation>Akun tidak valid</translation>
-    </message>
-    <message>
-        <source>Continue with Email</source>
-        <translation>Lanjutkan dengan Email</translation>
-    </message>
-    <message>
-        <source>Continue with Line</source>
-        <translation>Lanjutkan dengan Line</translation>
-    </message>
-    <message>
-        <source>Share docs with others</source>
-        <translation>Bagi dokumen dengan yang lain</translation>
-    </message>
-    <message>
-        <source>Sign in with Google</source>
-        <translation>Masuk dengan Google</translation>
-    </message>
-    <message>
-        <source>Forgot?</source>
-        <translation>Lupa?</translation>
-    </message>
-    <message>
-        <source>User is limited</source>
-        <translation>Pengguna dibatasi</translation>
-    </message>
-    <message>
-        <source>User suspend</source>
-        <translation>Pengguna ditangguhkan</translation>
-    </message>
-    <message>
-        <source>Create account</source>
-        <translation>Buat akun</translation>
-    </message>
-    <message>
-        <source>User is banned</source>
-        <translation>Pengguna dilarang</translation>
-    </message>
-    <message>
-        <source>Register now</source>
-        <translation>Daftar sekarang</translation>
-    </message>
-    <message>
-        <source>I agree to the %1</source>
-        <translation>Saya menyetujui %1</translation>
-    </message>
-    <message>
-        <source>Login too frequently, please retry after %1 seconds</source>
-        <translation>Terlalu sering akses masuk, silakan coba lagi setelah %1 detik</translation>
-    </message>
-    <message>
-        <source>Login with third account</source>
-        <translation>Akses masuk dengan akun ketiga</translation>
-    </message>
-    <message>
-        <source>Or</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Already have an account?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Account Login</source>
-        <translation>Masuk</translation>
-    </message>
-    <message>
-        <source>Sign in with Facebook</source>
-        <translation>Masuk dengan Facebook</translation>
-    </message>
-    <message>
-        <source>Sign in with Twitter</source>
-        <translation>Masuk dengan Twitter</translation>
-    </message>
-    <message>
-        <source>Sign in with Dropbox</source>
-        <translation>Masuk dengan Dropbox</translation>
-    </message>
-    <message>
-        <source>Sign up with Email</source>
-        <translation>Daftar dengan Email</translation>
-    </message>
-    <message>
-        <source>No account?</source>
-        <translation>Tidak punya akun?</translation>
-    </message>
-    <message>
-        <source>Sign Up</source>
-        <translation>Daftar</translation>
     </message>
 </context>
 <context>
@@ -1710,6 +1753,10 @@ Easy mobile office.</source>
         <translation>Masuk lewat School Mail</translation>
     </message>
     <message>
+        <source>guest account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Dingding login</source>
         <translation>Masuk lewat Dingding</translation>
     </message>
@@ -1865,6 +1912,10 @@ Easy mobile office.</source>
         <translation>Masuk Akun...</translation>
     </message>
     <message>
+        <source>WechatOfficial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Account has been frozen, unseal, please contact customer service</source>
         <translation>Akun membeku dan terbuka, silakan hubungi layanan pelanggan</translation>
     </message>
@@ -1985,6 +2036,41 @@ Easy mobile office.</source>
     <message>
         <source>verify failed</source>
         <translation>verifikasi gagal</translation>
+    </message>
+</context>
+<context>
+    <name>KLogoutClearCacheCheckButton</name>
+    <message>
+        <source>Please verify that the native is secure and trusted to avoid the risk of data leakage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear data and delete login records</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keep data for next use.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select this if you no longer use this device</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keep data for next use</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud document cache and file backups that will keep you on your native</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>[Only trusted devices are optional]</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud document caches and files that you have on your native will be deleted at the same time</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2177,17 +2263,6 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KBottomWidget</name>
-    <message>
-        <source>Skip login</source>
-        <translation>Lompati Akses Masuk</translation>
-    </message>
-    <message>
-        <source>Input activation code</source>
-        <translation>Masukkan Kode Aktivasi</translation>
-    </message>
-</context>
-<context>
     <name>KLoginMainWinBottomWidget</name>
     <message>
         <source>Skip login</source>
@@ -2244,6 +2319,21 @@ Easy mobile office.</source>
     <message>
         <source>TextLabel</source>
         <translation>Label Teks</translation>
+    </message>
+</context>
+<context>
+    <name>KGuidePaneForTopcActivity</name>
+    <message>
+        <source>Sign in with WPS account to get gifts.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Gifts for New Users on PC</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2379,6 +2469,17 @@ Easy mobile office.</source>
     <message>
         <source>Select other account</source>
         <translation>Pilih akun lainnya</translation>
+    </message>
+</context>
+<context>
+    <name>KBottomWidget</name>
+    <message>
+        <source>Skip login</source>
+        <translation>Lompati Akses Masuk</translation>
+    </message>
+    <message>
+        <source>Input activation code</source>
+        <translation>Masukkan Kode Aktivasi</translation>
     </message>
 </context>
 </TS>
