@@ -1661,7 +1661,7 @@ Click the arrow to insert file content into the document.</translation>
     </message>
     <message>
         <source>InsertRowsBelow.content</source>
-        <translation>Insert a new row directly below the selected row.</translation>
+        <translation>Seçili satırın hemen altına yeni bir satır ekleyin.</translation>
     </message>
     <message>
         <source>SlideSize.title</source>
@@ -2631,7 +2631,7 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>InsertRowsBelow.title</source>
-        <translation>Altına Satır Ekle</translation>
+        <translation>Aşağıya Satır Ekle</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
