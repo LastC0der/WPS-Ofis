@@ -13439,7 +13439,7 @@ Template</source>
     </message>
     <message>
         <source>Insert Rows Below</source>
-        <translation>Altına Satır Ekle</translation>
+        <translation>Aşağıya Satır Ekle</translation>
     </message>
     <message>
         <source>More Option...</source>
@@ -22135,7 +22135,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>Resimden Metne</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -24706,7 +24706,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
-        <translation>Altına Satır Ekle</translation>
+        <translation>Aşağıya Satır Ekle</translation>
     </message>
     <message>
         <source>Insert Columns to the Right</source>
